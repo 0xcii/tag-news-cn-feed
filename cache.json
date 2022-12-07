@@ -1,10 +1,1303 @@
 {
   "sources": [
     {
-      "title": "Dao Tools RSS",
-      "feedUrl": "https://web3cave.github.io/flat-data-template/data.xml",
-      "siteUrl": "https://web3cave.github.io/flat-data-template/data.xml",
-      "articles": []
+      "title": "0x资讯",
+      "feedUrl": "https://0xzx.com/feed/",
+      "siteUrl": "https://0xzx.com",
+      "articles": [
+        {
+          "id": "https://0xzx.com/2022120721582939922.html",
+          "author": "0x资讯",
+          "description": "关键事实： 纵观整个世界杯赛事，西班牙的球迷令牌一直在下滑。 世界杯被淘汰后，不同团队的球迷代币纷纷下跌。 本 […]",
+          "link": "https://0xzx.com/2022120721582939922.html",
+          "publishedOn": "2022-12-07T13:58:12.000Z",
+          "wordCount": 2412,
+          "title": "西班牙队世界杯失利后范托肯倒下",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/2022120721582939920.html",
+          "author": "0x资讯",
+          "description": "FROMSOFTWARE 的 艾尔登法环 是开发商的胜利，也是当年最畅销的游戏之一。 该游戏改进了  […]",
+          "link": "https://0xzx.com/2022120721582939920.html",
+          "publishedOn": "2022-12-07T13:58:12.000Z",
+          "wordCount": 2507,
+          "title": "艾尔登法环 斗兽场免费更新现已推出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/2022120721572939918.html",
+          "author": "0x资讯",
+          "description": "主要亮点： Affyn 宣布了一项 Quiz to Win 竞赛，让用户有机会在玩得开心的同时获得奖励 Aff […]",
+          "link": "https://0xzx.com/2022120721572939918.html",
+          "publishedOn": "2022-12-07T13:57:15.000Z",
+          "wordCount": 2581,
+          "title": "Affyn 的 Quiz to Win 竞赛启动，动态奖矿池为 8,000 USDC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/2022120721572939915.html",
+          "author": "0x资讯",
+          "description": "区块链公司 Chia Network 的首席运营官 Gene Hoffman 相信 Ripple 将输给 SE […]",
+          "link": "https://0xzx.com/2022120721572939915.html",
+          "publishedOn": "2022-12-07T13:57:15.000Z",
+          "wordCount": 2480,
+          "title": "Gene Hoffman：Ripple 将输掉与 SEC 的战斗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/2022120721572939914.html",
+          "author": "0x资讯",
+          "description": "亚马逊 Kindle 是市场上最受欢迎的电子阅读器之一，让用户能够在一个地方阅读数百本书。 值得庆幸的是，亚马 […]",
+          "link": "https://0xzx.com/2022120721572939914.html",
+          "publishedOn": "2022-12-07T13:57:13.000Z",
+          "wordCount": 2540,
+          "title": "如何在 Kindle 上阅读任何 ePub 书籍",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "DeFi之道",
+      "feedUrl": "https://www.defidaonews.com/feed",
+      "siteUrl": "https://www.defidaonews.com",
+      "articles": [
+        {
+          "id": "https://www.defidaonews.com/article/6792292",
+          "author": "Kyle",
+          "description": "12 月 7 日，据 Meta 官方消息，该社交媒体宣布将 Avatar 虚拟化身功能引入 WhatsApp，为用户提供全新的个性化表达方式。用户可以将自己的数字化身作为个人资料照片，Meta 提供了大量不同发型、面部特征和服装数字组合供选择，用户还可以在好友之间发送 Avatar 头像，Meta 称这是一种更好且更私密的方式来展示自己，不必再使用真实照片。",
+          "link": "https://www.defidaonews.com/article/6792292",
+          "publishedOn": "2022-12-07T12:27:58.000Z",
+          "wordCount": 125,
+          "title": "Meta：WhatsApp 上线 Avatar 虚拟化身功能",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792276",
+          "author": "隔夜的粥",
+          "description": "在未来 1-2 年内，Crypto 游戏行业会出现一些真正令人兴奋的东西",
+          "link": "https://www.defidaonews.com/article/6792276",
+          "publishedOn": "2022-12-07T09:57:25.000Z",
+          "wordCount": 512,
+          "title": "Delphi Digital ：展望 2023 年的 Crypto 游戏",
+          "imageUrl": "https://appserversrc.8btc.cn/Foah_qdtSBMrzkfbhmHrQgHTbu5m.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792254",
+          "author": "白泽研究院",
+          "description": "我们可能正处于比特币被广泛采用的“边缘”。",
+          "link": "https://www.defidaonews.com/article/6792254",
+          "publishedOn": "2022-12-07T09:35:38.000Z",
+          "wordCount": 614,
+          "title": "受美制裁的一些央行可能已经持有比特币？哈佛大学最新论文解析",
+          "imageUrl": "https://appserversrc.8btc.cn/Fk0LlCOhvz_OMvS41xTMd597xRXR.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792262",
+          "author": "火星财经",
+          "description": "Web3 社交在用户体验方面无法与 Web2 社交直接竞争，要想成功，需要提供独特的创新效用",
+          "link": "https://www.defidaonews.com/article/6792262",
+          "publishedOn": "2022-12-07T09:21:13.000Z",
+          "wordCount": 1375,
+          "title": "Binance Research：Web3 社交通往大规模采用之路",
+          "imageUrl": "https://appserversrc.8btc.cn/lpgDgFyExj4_HOCRvRwq6mgxDtZk.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792244",
+          "author": "Footprint  Analytics",
+          "description": "如果没有适当的监管和执法，NFT 洗盘交易是 NFT 市场上不可避免的现象",
+          "link": "https://www.defidaonews.com/article/6792244",
+          "publishedOn": "2022-12-07T08:32:24.000Z",
+          "wordCount": 1066,
+          "title": "什么是 NFT 洗盘交易：一文了解洗盘交易背后的原理",
+          "imageUrl": "https://appserversrc.8btc.cn/Fs2PY0wUuKGMUz9rv4dxg0XD3fCm.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792236",
+          "author": "星球日报",
+          "description": "熊市是该计划启动缓慢的一个潜在原因",
+          "link": "https://www.defidaonews.com/article/6792236",
+          "publishedOn": "2022-12-07T07:50:24.000Z",
+          "wordCount": 528,
+          "title": "Animoca和Binance一年前推出的2亿美元链游投资计划进展缓慢",
+          "imageUrl": "https://appserversrc.8btc.cn/Fqigk5x3U0D4ID-5qUZo6mHlMGuC.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792238",
+          "author": "Yangz",
+          "description": "DeFi 之道讯，虎符 Hoo Exchange 网站目前仅存一则公告，公布了 Hoo 实际控制人的相关信息，包括证件号码、电话、以及家庭地址和官方邮件。公告称，目前 Hoo 的钱包所有权限、网站程序全部由实际控制人控制，如有任何问题需与官方邮件联系。",
+          "link": "https://www.defidaonews.com/article/6792238",
+          "publishedOn": "2022-12-07T07:33:06.000Z",
+          "wordCount": 117,
+          "title": "虎符网站仅显示一则公告，其余内容被清除",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792232",
+          "author": "星球日报",
+          "description": "熊市不易，并非每个人都能像 AC 那样能苟，摆在 Jared 面前的是常人难以想象的挑战",
+          "link": "https://www.defidaonews.com/article/6792232",
+          "publishedOn": "2022-12-07T07:12:49.000Z",
+          "wordCount": 482,
+          "title": "资金只够再撑一年半，Sushi 如何自救？",
+          "imageUrl": "https://appserversrc.8btc.cn/Fo5VkTaKmMPiLczkf8IZsflYh92N.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792218",
+          "author": "PANews",
+          "description": "Uniswap 可能即将试验性地向流动性提供者收费，但 UNI 的持有者仍然难以直接获得协议收入",
+          "link": "https://www.defidaonews.com/article/6792218",
+          "publishedOn": "2022-12-07T06:10:08.000Z",
+          "wordCount": 184,
+          "title": "解读 Uniswap 费用开关试点：UNI 代币持有者仍难以直接获得收益分配",
+          "imageUrl": "https://appserversrc.8btc.cn/FpqdeJrix7CZaWzxUWMtSMnkADEQ.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792208",
+          "author": "区块链资讯",
+          "description": "人类可以撒谎，但区块链不能",
+          "link": "https://www.defidaonews.com/article/6792208",
+          "publishedOn": "2022-12-07T05:17:22.000Z",
+          "wordCount": 519,
+          "title": "Luna 崩盘事件重要调查进展：Do Kwon 才是罪魁祸首？",
+          "imageUrl": "https://appserversrc.8btc.cn/FoOQelLDq-udcbZXStNvBdNEnzd2.png?imageView2/1/w/500/h/300"
+        }
+      ]
+    },
+    {
+      "title": "Web3.0世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=32263",
+          "author": "Gao",
+          "description": "StarkNet身份与域名服务Starknet.id将于今日22:00上线主网。Web3社交图谱Relation集成ChatGPT提供AI Chat Bot服务。Solana生态DeFi项目Mercurial将发行新Token。",
+          "link": "https://www.web3sj.com/news/32263/",
+          "publishedOn": "2022-12-07T13:27:08.000Z",
+          "wordCount": 629,
+          "title": "Web3.0世界日报（12月7日）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/2022120713250748.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32215",
+          "author": "Gao",
+          "description": "在债券部分，持续受到 WSJ 鹰派文章以及先前服务业 PMI 数据结果影响，昨天开盘时的表现仍是较为疲软，所幸因为债券供给下滑且投资人购债兴趣回温，使得收益率没有进一步上扬，收益率曲线再度反转走平， 2/10 年期收益率曲线倒挂幅度扩大至 83 个基点，如果从过往经验来看，这样的倒挂幅度通常已经是准备要大幅降息 ( 500 个基点) 的水平，这可能是近期带动购债情绪和需求的原因之一。",
+          "link": "https://www.web3sj.com/news/32215/",
+          "publishedOn": "2022-12-07T09:12:07.000Z",
+          "wordCount": 647,
+          "title": "SignalPlus每日分析（2022-12.7）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670403953648.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32203",
+          "author": "Gao",
+          "description": "如果从 24 小时 DeFi 交易量来看，Arbitrum 排名第三，Optimism 排名第五。Arbitrum 仅次于以太坊、BSC 两个活跃度最高的公链，已经超过大多数公链。Optimism 则仅次于以太坊、BSC 和 Polygon 这三大公链，也超过绝大多数公链。DeFi 交易量在一定程度上反映了链的活跃度。",
+          "link": "https://www.web3sj.com/news/32203/",
+          "publishedOn": "2022-12-07T09:04:34.000Z",
+          "wordCount": 1116,
+          "title": "以太坊L2与公链的格局演化",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670403821496.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32200",
+          "author": "Gao",
+          "description": "创作者经济在 Web2 的演进有目共睹，这些新平台虽然流量远不及 Facebook、Youtube，但也能凭借着解决平台与创作者的不公大浪淘沙留下一些，比如艺术者众筹平台 Patreon，其估值仍然可以达到 40 亿美元、拥有 800 万用户、服务近 30 万创作者、众筹金额近 35 亿美元。可见如果能提供创作者想要的，他们是有原始迁移动力的。",
+          "link": "https://www.web3sj.com/news/32200/",
+          "publishedOn": "2022-12-07T08:47:23.000Z",
+          "wordCount": 748,
+          "title": "观点：Web3创作者经济需要深度而非广度",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670402790626.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32197",
+          "author": "Gao",
+          "description": "12 月 4 日，Filecoin 官方公布了 ETHIndia FEVM 黑客松的比赛结果。20 个团队从来自 341 个城市的 2000 名开发者中脱颖而出。此次奖项分为 Grand Prize 和 Pool Prize。Grand Prize 获奖团队共计 6 个，Pool Prize 获奖团队共计 14 个。",
+          "link": "https://www.web3sj.com/news/32197/",
+          "publishedOn": "2022-12-07T07:59:02.000Z",
+          "wordCount": 732,
+          "title": "速览20个ETHIndia黑客松FEVM获奖项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670399735596.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32182",
+          "author": "Gao",
+          "description": "恶劣的经济周期和新的底层资产引发人们的金融服务需求变化；有企业家精神的创始人（somebodysomewhere）负责创造出对应的玩法和产品；如果社会和经济条件的变化也促使这种产品被采用，那么我们将见证百亿和千亿美元级别的公司诞生。从美国银行、嘉信理财到Chime和Robinhood，这个周期一直发挥着作用。",
+          "link": "https://www.web3sj.com/news/32182/",
+          "publishedOn": "2022-12-07T07:53:43.000Z",
+          "wordCount": 749,
+          "title": "Fintech的信心如何毁灭与重建？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670398102708.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32151",
+          "author": "Gao",
+          "description": "文章通过对 DAO 的无投票治理机制的理论探索，业务设计，功能设计再到代码撰写，展示 Web3 与 AIGC 结合的未来工作模式。最后，这篇论证了一个事实，ChatGPT 将帮助原创深度内容的创造者，迈入职业生涯的新台阶，ChatGPT 与 Web3 的结合，是内容创作者与产品开发者的黄金时代。",
+          "link": "https://www.web3sj.com/daonews/32151/",
+          "publishedOn": "2022-12-07T07:27:26.000Z",
+          "wordCount": 1360,
+          "title": "从理论到代码的Web3生产力革命：ChatGPT实现DAO的无投票治理机制",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670397991808.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32121",
+          "author": "Gao",
+          "description": "隐私计算（Privacy Computing）是指通过联邦学习、安全多方、同态加密、零知识证明等机密技术实现数据隐私性与使用性安全分离的综合性技术。除了能够保护数据隐私外，它能够使数据所有者掌控自己的数据，并且从中获得使用价值的算法技术。",
+          "link": "https://www.web3sj.com/news/32121/",
+          "publishedOn": "2022-12-07T06:31:20.000Z",
+          "wordCount": 997,
+          "title": "深入探讨隐私计算公链的可信化未来",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670394629580.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32115",
+          "author": "Gao",
+          "description": "根据公告及 The Block 的跟进披露内容，Orthogonal Trading 隐瞒了该公司早已资不抵债的事实，在 M11Credit 作为代理人的 USDC 池和 WETH 池合计借走了约 3600 万美元的资金，并持续拖延欠款，致使 Maple Finance 协议以及所有存款用户面临巨额损失风险。",
+          "link": "https://www.web3sj.com/definews/32115/",
+          "publishedOn": "2022-12-07T06:15:41.000Z",
+          "wordCount": 843,
+          "title": "Maple面临3600万美元恶意违约，无抵押贷款是不是伪命题？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670393433542.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=32110",
+          "author": "Gao",
+          "description": "Sonar 由 Ben South Lee 和 Randolph Lee 兄弟创立，Sonar 联合创始人 Ben South Lee 此前于 2015 年在 Medium 担任过产品设计，随后与匿名社交应用 Secret 创始人 David Byttow 联合推出博文发布工具 Bold，后 Bold 被按需配送公司 Postmates 收购，Ben South Lee 将在 Aave 中担任产品与设计高级副总裁；Randolph Lee 在创立 Sonar 之前曾在 Facebook 担任 iOS 工程师，之后将在 Aave 将担任首席工程师。",
+          "link": "https://www.web3sj.com/news/32110/",
+          "publishedOn": "2022-12-07T06:09:30.000Z",
+          "wordCount": 747,
+          "title": "被Aave收购一夜爆红，速览「Lens 宇宙」新成员Sonar",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670393319464.png"
+        }
+      ]
+    },
+    {
+      "title": "PANews快讯 via shengchao shi on Inoreader",
+      "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/PANews%E5%BF%AB%E8%AE%AF",
+      "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/PANews%E5%BF%AB%E8%AE%AF/view/html",
+      "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f31e9991",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 22:08\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/9mzjvqsw.html",
+          "publishedOn": "2022-12-07T14:20:45.000Z",
+          "wordCount": 3542,
+          "title": "Binance.US取消以太坊现货交易的交易费用",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f31e9983",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 22:02\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/38ug7xcr.html",
+          "publishedOn": "2022-12-07T14:20:45.000Z",
+          "wordCount": 3573,
+          "title": "Ledger CEO：世界上20%的加密货币存储在Ledger的硬件钱包中",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f30077c7",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 21:20\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/t3m58hmi.html",
+          "publishedOn": "2022-12-07T13:21:10.000Z",
+          "wordCount": 3529,
+          "title": "加密支付平台Wirex新增对52种代币的支持",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f30077b9",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 21:13\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/za6wa5i6.html",
+          "publishedOn": "2022-12-07T13:21:10.000Z",
+          "wordCount": 3558,
+          "title": "Mazars审计结论：币安的比特币储备已抵押101%",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f30d8384",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 20:25\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/beyndqd4.html",
+          "publishedOn": "2022-12-07T12:51:27.000Z",
+          "wordCount": 3599,
+          "title": "尼日利亚通过ATM现金提取限制来几乎强制使用CBDC",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f30ac359",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 19:51\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/b4z7ylz1.html",
+          "publishedOn": "2022-12-07T12:21:13.000Z",
+          "wordCount": 3567,
+          "title": "Solana链上稳定资产协议Mercurial Finance将发行新的代币",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcf03979",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 19:33\n    \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/r9zuyjmb.html",
+          "publishedOn": "2022-12-07T11:50:24.000Z",
+          "wordCount": 3548,
+          "title": "Beosin: AES项目遭受攻击，攻击者获利约6.16万美元",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcfd3d90",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 18:59\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/s5kr0org.html",
+          "publishedOn": "2022-12-07T11:21:13.000Z",
+          "wordCount": 3581,
+          "title": "加密托管商Zodia Custody正在推出一项名为Interchange的新服务",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcfa7840",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 18:43\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/c8uc4ttv.html",
+          "publishedOn": "2022-12-07T10:50:26.000Z",
+          "wordCount": 3644,
+          "title": "Hooked将向Hooked Party Pass NFT持有者空投HOOK代币",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fce77feb",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 18:17\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/cyumkuao.html",
+          "publishedOn": "2022-12-07T10:20:00.000Z",
+          "wordCount": 3630,
+          "title": "No Limit Holdings曾与ClearVue Partners合作推出加密基金CVP NoLimit Fund I",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcec8173",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 17:44\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/a70v2r9l.html",
+          "publishedOn": "2022-12-07T09:49:33.000Z",
+          "wordCount": 3566,
+          "title": "Helio Protocol已回购约300万枚HAY",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcec815e",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 17:16\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/bucf46mr.html",
+          "publishedOn": "2022-12-07T09:49:33.000Z",
+          "wordCount": 3547,
+          "title": "Web3社交图谱Relation基于ChatGPT模型实现AI Chat Bot智能交互",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fce956c4",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 17:17\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/kzyfwfmc.html",
+          "publishedOn": "2022-12-07T09:18:58.000Z",
+          "wordCount": 3554,
+          "title": "Wombat已重新开放HAY/BUSD流动性池",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcd61b35",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 16:36\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/oj94n465.html",
+          "publishedOn": "2022-12-07T08:48:34.000Z",
+          "wordCount": 3540,
+          "title": "数据：Dragonfly Capital将价值217万美元PERP转入币安，买入成本超4600万美元",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcd29245",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 16:15\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/rs7u95lh.html",
+          "publishedOn": "2022-12-07T08:18:51.000Z",
+          "wordCount": 3525,
+          "title": "赵长鹏：币安90%的收入来自交易费用，现已移除CMC上所有广告",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcd2923a",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 16:06\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/2dug00bg.html",
+          "publishedOn": "2022-12-07T08:18:51.000Z",
+          "wordCount": 3547,
+          "title": "日本金融厅已延长对FTX Japan的业务停止令",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcd29235",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 15:52\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/fay3p1yd.html",
+          "publishedOn": "2022-12-07T08:18:51.000Z",
+          "wordCount": 3540,
+          "title": "派盾：某巨鲸将约3590枚ETH换成约3302枚wstETH后存入Balancer Vault",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcdec7b1",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 15:44\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/qx6d72b1.html",
+          "publishedOn": "2022-12-07T07:49:57.000Z",
+          "wordCount": 3525,
+          "title": "虎符官网目前仅剩一则实控人信息公告，疑似创始人推卸责任给他人",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcdec7ab",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 15:44\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/4tgffkfa.html",
+          "publishedOn": "2022-12-07T07:49:57.000Z",
+          "wordCount": 3555,
+          "title": "Huobi将于近期上线CNHT (Tether CNH)",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcdad93e",
+          "author": null,
+          "description": "PA一线 ｜2022-12-07 15:02\n   \n \n  \n作者：PA一线\n 本内容只为提供市场信息，不构成投资建议。",
+          "link": "https://www.panewslab.com/zh/sqarticledetails/wegs8zad.html",
+          "publishedOn": "2022-12-07T07:19:56.000Z",
+          "wordCount": 3525,
+          "title": "Phantom澄清隐私政策：钱包和RPC合作伙伴均不能识别用户IP地址",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/jpeg",
+            "url": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+          },
+          "imageUrl": "https://image.panewslab.com/upload/image/20220108/S6c26d7af3a974db1ab40792d50f33581.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "巴比特快讯 via shengchao shi on Inoreader",
+      "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E5%B7%B4%E6%AF%94%E7%89%B9%E5%BF%AB%E8%AE%AF",
+      "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E5%B7%B4%E6%AF%94%E7%89%B9%E5%BF%AB%E8%AE%AF/view/html",
+      "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f30643f6",
+          "author": null,
+          "description": "据 newsbtc 12 月 7 日报道，Web3 投注平台 Dexsport 披露因遭黑客攻击已损失价值 40 万美元的 BUSD，但智能合约没有受到影响。据称，黑客利用链下漏洞攻击了该平台，该漏洞与处理存款的唯一交易标识符 “大小写记录” 有关，目前相关漏洞已经修复，提款和存款也已恢复，损失资金为平台自有资金，不涉及客户资金。\n\n \n 本文链接：https://www.8btc.com/article/6792294\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792294",
+          "publishedOn": "2022-12-07T13:34:54.000Z",
+          "wordCount": 175,
+          "title": "Web3 投注平台 Dexsport 遭黑客攻击损失价值 40 万美元的 BUSD",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f308a23d",
+          "author": null,
+          "description": "12 月 7 日，据 Meta 官方消息，该社交媒体宣布将 Avatar 虚拟化身功能引入 WhatsApp，为用户提供全新的个性化表达方式。用户可以将自己的数字化身作为个人资料照片，Meta 提供了大量不同发型、面部特征和服装数字组合供选择，用户还可以在好友之间发送 Avatar 头像，Meta 称这是一种更好且更私密的方式来展示自己，不必再使用真实照片。\n\n \n 本文链接：https://www.8btc.com/article/6792292\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792292",
+          "publishedOn": "2022-12-07T12:33:42.000Z",
+          "wordCount": 163,
+          "title": "Meta：WhatsApp 上线 Avatar 虚拟化身功能",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f308a239",
+          "author": null,
+          "description": "据 finextra 12 月 7 日报道，欧洲央行正在进行数字欧元的原型设计工作。这项活动的目标是让市场参与者开发出可与欧洲系统开发的后端基础设施整合的前端原型。欧洲央行执行董事会成员 Fabio Panetta 在给欧洲议会经济和货币事务委员会主席 Irene Tinagli 的信中解释说，公布这些文件是为了提高透明度，并本着合作的精神。这些文件提供给了在 2022 年 4 月公开征集兴趣表达后被选中的五家公司，以开展实验工作。\n\n \n 本文链接：https://www.8btc.com/article/6792290\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792290",
+          "publishedOn": "2022-12-07T12:33:42.000Z",
+          "wordCount": 163,
+          "title": "欧洲央行公布数字欧元原型设计工作文件",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f308a232",
+          "author": null,
+          "description": "据 cointelegraph 112 月 7 日报道，日本金融厅公布的一份文件显示，该国监管机构或将限制算法稳定币。\n今年 11 月，日本金融厅国际事务副部长 Tomoko Amaya 在 OMFIF 举办的圆桌会议上发表演讲，该演讲已于今日被公开。Amaya 在演讲中指出，“拟议的评估认为，稳定币不得使用算法来稳定其价值，并加强对赎回权的保障。” 这或暗示了对稳定币下一步的监管方向。\n此前，日本议会已于今年 6 月通过了稳定币法规，且法规不包含算法稳定币。该法规将于 2023 年 6 月开始实施。\n\n \n 本文链接：https://www.8btc.com/article/6792288\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792288",
+          "publishedOn": "2022-12-07T12:33:42.000Z",
+          "wordCount": 178,
+          "title": "日本或将限制算法稳定币",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcf3431d",
+          "author": null,
+          "description": "12 月 7 日，德国风投公司 Picus Capital 宣布成立加密和 Web3 投资部门 Picus.xyz，专注于支持加密货币和 Web3 业务。此前，Picus Capital 已投资 Web3 游戏工作室 Nefta 和泛欧数字衍生品交易平台 D2X。",
+          "link": "https://www.8btc.com/article/6792282",
+          "publishedOn": "2022-12-07T11:33:12.000Z",
+          "wordCount": 190,
+          "title": "风投公司 Picus Capital 成立投资部门 Picus.xyz，专注于加密货币和 Web3 业务",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fce5793c",
+          "author": null,
+          "description": "据 The Block 报道，游戏巨头雅达利（Atari）与 Pixels 合作推出 NFT 实体打印业务。Atari NFT 持有者可通过在 AtariPrints.com 上链接钱包并进行打印，共有五种不同的尺寸可供选择。\n此前报道，9 月 20 日，雅达利发行 50 周年纪念 NFT 系列“50 Years of Atari”。\n\n \n 本文链接：https://www.8btc.com/article/6792268\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792268",
+          "publishedOn": "2022-12-07T10:32:40.000Z",
+          "wordCount": 199,
+          "title": "游戏巨头雅达利与 Pixels 合作推出 NFT 实体打印业务",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcef5130",
+          "author": null,
+          "description": "据日经新闻报道，日本金融厅延长了原本定于 12 月 9 日到期的 FTX Japan 业务停止令，因为 FTX Japan 目前仍无法正常提供存取款服务，退还客户资金尚需时日。\n此前 11 月 10 日消息，日本金融厅下令 FTX Japan 暂停运营至 12 月 9 日。12 月 2 日，FTX Japan 发布公告称，日本客户资产不受美国破产法约束，拟基于此逐步恢复用户取款。\n\n \n 本文链接：https://www.8btc.com/article/6792250\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792250",
+          "publishedOn": "2022-12-07T09:32:07.000Z",
+          "wordCount": 211,
+          "title": "日本金融厅已延长对 FTX Japan 的业务停止令",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcc1539d",
+          "author": null,
+          "description": "据人民网上海报道，12 月 2 日，上海数字科创股权投资基金正式签约揭牌，是上海最早启动的元宇宙产业基金，计划首期规模 10 亿元人民币。据介绍，未来，该基金将采取“直投 + 母基金”模式，聚焦信创、数字孪生与元宇宙等数字经济产业，同时还将设立上海首个“青年设计师创投计划”。",
+          "link": "https://www.8btc.com/article/6792220",
+          "publishedOn": "2022-12-07T06:31:25.000Z",
+          "wordCount": 152,
+          "title": "上海首支元宇宙产业基金启动，首期规模 10 亿元",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcc8faa2",
+          "author": null,
+          "description": "12 月 6 日，元宇宙平台 Decentraland 宣布推出虚拟地块 LAND 租赁业务，租用地块将被存储在由 Decentraland Foundation（链下）和以太坊交易（链上）管理的服务器中，确保 LAND 以安全和无需信任的方式被租赁。",
+          "link": "https://www.8btc.com/article/6792210",
+          "publishedOn": "2022-12-07T05:30:38.000Z",
+          "wordCount": 176,
+          "title": "元宇宙平台 Decentraland 推出虚拟地块 LAND 租赁业务",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcc8fa99",
+          "author": null,
+          "description": "据 Cointelegraph 报道，Animoca Brands 已收购位于洛杉矶的音乐元宇宙游戏平台 Pixelynx 的多数股权。根据 12 月 6 日的公告，Animoca Brands 预计其收购将扩大游戏与 Web3 技术和社区之间的整合。收购的融资条款没有披露。Animoca 暗示，它将继续投资和收购数字工作室，以帮助音乐产业与 Web3 整合。\n\n \n 本文链接：https://www.8btc.com/article/6792202\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792202",
+          "publishedOn": "2022-12-07T05:30:38.000Z",
+          "wordCount": 188,
+          "title": "Animoca Brands 收购音乐元宇宙游戏平台 Pixelynx 的多数股权",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fca61d6b",
+          "author": null,
+          "description": "据 Decrypt 报道，Windows 媒体播放器 Winamp 宣布进行 Web3 桌面升级，新版本允许用户通过 Brave、Chrome 或 Firefox 浏览器将 Metamask 钱包链接到 Winamp，支持 ERC-721 和 ERC-1155 音频和视频文件，并与以太坊和 Polygon 兼容。\nWinamp 表示，其对 NFT 的支持将与其他更新相结合，使 Winamp 成为一个通用的高级收听平台，其中包括将于 2023 年初推出的跨平台创作人服务。\n\n \n 本文链接：https://www.8btc.com/article/6792148\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792148",
+          "publishedOn": "2022-12-07T02:28:32.000Z",
+          "wordCount": 220,
+          "title": "Windows 媒体播放器 Winamp 新增对音乐 NFT 的支持",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fca61d64",
+          "author": null,
+          "description": "据 CoinDesk 报道，NBA 名人堂成员斯科蒂・皮蓬（Scottie Pippen）与 Web3 娱乐公司 Orange Comet 建立合作关系，将根据皮蓬的职业生涯推出 1000 双 NFT 运动鞋“SP33”。据悉，这些 NFT 运动鞋计划于 12 月 20 日在 OpenSea 上发布。\n\n \n 本文链接：https://www.8btc.com/article/6792144\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792144",
+          "publishedOn": "2022-12-07T02:28:32.000Z",
+          "wordCount": 211,
+          "title": "NBA 名人堂成员皮蓬将与 Web3 娱乐公司 Orange Comet 联合推出 NFT 运动鞋",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fca61d5d",
+          "author": null,
+          "description": "据路透社报道，SBF 的发言人 Mark Botnick 证实，SBF 已聘请知名白领律师 Mark Cohen 担任其辩护律师。据悉，Cohen 是一名前联邦检察官，在 Cohen and Gresser 律师事务所领导白领刑事辩护和监管小组。Cohen 还在 2014 年赢得了针对美 SEC 的内幕交易案。目前 SBF 正在接受美国联邦检察官和 SEC 的调查，但尚未被正式指控任何犯罪行为。\n此外，Alameda Research 的 Caroline Ellison 已聘请总部位于华盛顿的律师事务所 Wilmer Cutler Pickering Hale and Dorr 作为辩护律师。\n\n \n 本文链接：https://www.8btc.com/article/6792134\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792134",
+          "publishedOn": "2022-12-07T02:28:32.000Z",
+          "wordCount": 231,
+          "title": "SBF 已聘请知名律师 Mark Cohen 担任其辩护律师",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fca61d57",
+          "author": null,
+          "description": "据 The Block 报道，耐克旗下数字时尚和收藏品公司 RTFKT 回应大众关于其推出的“第一款原生 Web3 运动鞋”只对美国用户开放的不满称，地域限制是由于技术和产品监管所致。",
+          "link": "https://www.8btc.com/article/6792130",
+          "publishedOn": "2022-12-07T02:28:32.000Z",
+          "wordCount": 155,
+          "title": "RTFKT：Web3 运动鞋只针对美国用户开放是由于技术和产品监管所致",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcad0a0a",
+          "author": null,
+          "description": "据 The Block 报道，Polygon 将与华纳音乐集团和电子商务平台 LGND.io 合作推出一项为期多年的 Web3 音乐项目，允许用户随时随地播放数字黑胶唱片。\n据悉，LGND Music 平台将支持来自任何区块链的数字收藏品。此次合作还包括与荷兰电子音乐唱片公司 Spinnin' Records 的合作。在明年 1 月份推出后，该平台将出售自己的数字收藏品，允许用户访问自己最喜爱艺术家的特殊内容和体验。\n\n \n 本文链接：https://www.8btc.com/article/6792112\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792112",
+          "publishedOn": "2022-12-07T01:28:03.000Z",
+          "wordCount": 182,
+          "title": "Polygon、华纳音乐与 LGND.io 将合作推出 Web3 音乐平台",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fc5a809a",
+          "author": null,
+          "description": "据 CoinDesk 12 月 6 日报道，巴拉圭下议院投票否决一项加密货币监管法案。该法案寻求对加密货币和挖矿进行监管，并于 7 月由该国参议院初步通过。然而，巴拉圭总统在 8 月否决拟议的立法，将其发回立法机构进行修改和新一轮投票。昨天，该法案仅获得 36 票，未达到通过所需的票数（41 票）。\n\n \n 本文链接：https://www.8btc.com/article/6792104\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792104",
+          "publishedOn": "2022-12-06T15:25:28.000Z",
+          "wordCount": 166,
+          "title": "巴拉圭下议院投票否决加密货币和挖矿监管法案",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fc5a8092",
+          "author": null,
+          "description": "据 CoinDesk 报道，Web3 开发者平台 Alchemy 即将推出 DApp 商店，以简化用户和开发人员对去中心化应用的访问。",
+          "link": "https://www.8btc.com/article/6792100",
+          "publishedOn": "2022-12-06T15:25:28.000Z",
+          "wordCount": 166,
+          "title": "Web3 开发者平台 Alchemy 即将推出 DApp 商店",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fc4c8b5b",
+          "author": null,
+          "description": "DeFi 之道讯，12 月 6 日，以太坊创始人 Vitalik Buterin 发布使用 ChatGPT 进行编码试验的文章。根据其试验结果，ChatGPT 在编码过程中会出现错误，但也提出一些新的编码模式，并且会加快编码速度，作为编程辅助工具很有帮助。\nV 神表示，“AI 正在迅速改进，我希望它能继续进一步优化，并随着时间的推移消除此类错误。然而，AI 远不能替代人类程序员。”\n\n \n 本文链接：https://www.8btc.com/article/6792096\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792096",
+          "publishedOn": "2022-12-06T14:25:02.000Z",
+          "wordCount": 184,
+          "title": "V 神发布 ChatGPT 编码试验文章，称 AI 尚不足以替代程序员",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fc4c8b56",
+          "author": null,
+          "description": "据 Fortune 12 月 6 日报道，加密会计和合规平台 Bitwave 宣布完成 1500 万美元 A 轮融资，Hack VC 和 Blockchain Capital 领投，SignalFire 等参投。",
+          "link": "https://www.8btc.com/article/6792092",
+          "publishedOn": "2022-12-06T14:25:02.000Z",
+          "wordCount": 214,
+          "title": "加密会计软件 Bitwave 完成 1500 万美元 A 轮融资，Hack VC 和 Blockchain Capital 领投",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fc3692d5",
+          "author": null,
+          "description": "据 Business Insider 12 月 6 日报道，冰岛元宇宙音效体验初创公司 Treble Technologies 宣布完成 550 万欧元（约合 570 万美元）种子轮融资，北欧风投 Frumtak Ventures 领投，Nova、财富 500 强公司 Saint-Gobain 旗下风投部门以及一批天使投资人参投。\n据悉，Treble Technologies 开发的订阅软件平台可以帮助游戏开发人员在元宇宙虚拟环境里创造仿真声音，其平台还能与 3 D 建模软件、设计系统和游戏引擎对接，将音效设计直接融入到开发过程中。该平台目前处于封闭测试模式，预计将于 2023 年第一季度全面发布。\n\n \n 本文链接：https://www.8btc.com/article/6792088\n 转载请注明文章出处 \n\n  元宇宙",
+          "link": "https://www.8btc.com/article/6792088",
+          "publishedOn": "2022-12-06T13:23:59.000Z",
+          "wordCount": 242,
+          "title": "元宇宙音效体验公司 Treble Technologies 完成 570 万美元融资，Frumtak Ventures 领投",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        }
+      ]
+    },
+    {
+      "title": "币快报快讯 via shengchao shi on Inoreader",
+      "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E5%B8%81%E5%BF%AB%E6%8A%A5%E5%BF%AB%E8%AE%AF",
+      "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E5%B8%81%E5%BF%AB%E6%8A%A5%E5%BF%AB%E8%AE%AF/view/html",
+      "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fcf3",
+          "author": null,
+          "description": "11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十) \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896667943878656",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "马斯克的身价跌破2000亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fcf0",
+          "author": null,
+          "description": "11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896660268302336",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fcee",
+          "author": null,
+          "description": "11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证在4个月后归属的1720万枚FTT作为抵押品从FTX获得资金，一旦归属，所有代币都被退回作为还款。FTT ICO合约是自动归属，如果FTX让Alameda在5月内爆，他们的崩溃将确保随后在9月归属的所有FTT代币被清算。这对FTX来说会很糟糕，所以他们必须想办法避免这种情况。Alameda和FTX实际上在第二季度把所有筹码都摆在台面上，并用这笔钱来救助其他公司，这巩固了FTX作为有偿付能力和负责任的机构的形象，并有助于FTT的价格上涨。对Alameda的救助计划可能会削弱FTX的资产负债表，使其不再具有偿付能力，这就是为什么Alameda竭尽全力保护FTT价格的原因。 Nuzzi还猜测，币安的人有可能知道FTX和Alameda之间的这种安排。作为FTT的大持有者，他们可能会开始故意破坏该市场，以迫使FTX面临流动性紧缩。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896651074387968",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fced",
+          "author": null,
+          "description": "11月9日消息，火币联合创始人杜均发推称，“FTX最近1周从市场上抽走了超过60亿美金的流动性，那些为Alameda提供授信的借贷机构以及被FTX抽走流动性的中心化平台，岌岌可危。保护好自己的资产，不要为他人的错误买单”。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896637621841920",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "杜均：为Alameda提供授信的借贷机构和被FTX抽走流动性的中心化平台岌岌可危",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fcea",
+          "author": null,
+          "description": "随着FTX与其相关的自营交易公司 Alameda Research 之间的潜在不当行为被曝光，Castle Ventures合伙人Cater表示SBF将自己塑造成“政客友好形象”是“一场彻头彻尾的闹剧”，并称：“我们这些加密货币行业的人现在都知道，FTX是纸牌屋，如果重新审视SBF在华盛顿国会作证时发表的一些评论，会发现和他随后披露的信息完全不吻合，SBF已经激怒了加密货币社区，FTX崩盘是Mt.Gox级别的事件。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896619192070144",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Castle Ventures合伙人：SBF的政客友好形象是一场“彻头彻尾闹剧”，FTX是“纸牌屋”",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fce8",
+          "author": null,
+          "description": "Coinbase首席执行官Brian Armstrong表示，平台交易活动正在增加，没有收购FTX US的计划。（彭博社） \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证在4个月后归属的1720万枚FTT作为抵押品从FTX获得资金，一旦归属，所有代币都被退回作为还款…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896585679581184",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Coinbase CEO：平台交易活动正在增加，没有收购FTX US的计划",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fce2",
+          "author": null,
+          "description": "以太坊创始人Vitalik Buterin在“SBF净资产从156亿美元暴跌近94%至9.915亿美元”相关话题下评论称“10亿美元仍然比我拥有的多得多”。 此前报道，SBF净资产降至9.91亿美元。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证在4个月后归属的1…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896561419726848",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Vitalik Buterin：10亿美元仍然比我拥有的多得多",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fcd3",
+          "author": null,
+          "description": "11月9日消息，随着市场越来越担心加密交易公司Alameda Research的流动性问题可能会蔓延到加密贷方，多家机构加密资本公司在Clearpool(无担保贷款协议)上的信贷池达到了最大值。Amber Group、Auros和LedgerPrime在Clearpool上各自的Polygon无许可池上收到了“警告”标签，因为它们达到了协议上可使用的最大信用额度的99%。 Folkvang和Nibbio在他们的以太坊无许可池上也收到了“警告”状态。Clearpool的贷款仪表盘显示，这些贷款的债务总额为1,480万美元。（CoinDesk） \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896528066621440",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Amber Group等机构被Clearpool打上警告标签，因在该协议的最大信用额度几乎耗尽",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fccb",
+          "author": null,
+          "description": "据官方消息，欧易Web3钱包PC端资产看板于2022年11月9日10:30 (HKT) 全新升级，提供更专业、更丰富的资产管理、图表分析功能可展示网络、币种、DeFi分布情况，并能查看代币、NFT、DeFi的资产占比。 据了解，欧易Web3钱包支持40+公链、1000+DeFi协议，强大的资产分析图表，资产变化一目了然。用户可通过添加“观察钱包”，实时追踪链上动态。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896511500533760",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "欧易Web3钱包资产上线资产看板分析功能",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fcbf",
+          "author": null,
+          "description": "Tether首席技术官Paolo Ardoino称，“需要明确的是，Tether与FTX或Alameda没有任何接触。” \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证在4个月后归属的1720万枚FTT作为抵押品从FTX获得资金，一旦归属，所有代币都被退回作为还款。…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896496791109632",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Tether首席技术官：Tether与FTX或Alameda没有任何接触",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fcb4",
+          "author": null,
+          "description": "11月9日消息，波场创始人孙宇晨发文回应CZ针对“所有加密货币交易平台都应该做默克尔树储备证明”的提议时表示，赞同CZ的提议，Poloniex和Huobi Global之前都曾做过默克尔树储备证明，而且Huobi于一个月前刚刚完成。但很乐意按照CZ的提议做第三次。默克尔树储量100%证明对所在行业和透明度非常重要。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896459994480640",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "孙宇晨：Huobi Global将再次准备默克尔树储备证明",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fca6",
+          "author": null,
+          "description": "人工智能小冰公司宣布完成10亿元融资，这笔融资将用于加速元宇宙虚拟人AI Being小冰框架技术研发，推动数字员工普及。小冰公司前身为微软人工智能小冰团队，2020 年，小冰团队分拆为独立技术研发实体，实现完全本土化。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896450204975104",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "人工智能小冰公司完成10亿元融资，拟加速元宇宙虚拟人 AI Being框架技术研发",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fc83",
+          "author": null,
+          "description": "11月9日消息，周星驰在Ins发文，为其社群征集名称。 此前报道，周星驰发布社交动态招聘Web3人才，表示会亲自挑人，之后发文暗示或将其电影角色引入元宇宙。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证在4个月后归属的1720万枚FTT作为抵押品从FTX获得资金，…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896412723261440",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "周星驰发文为其社群征集名称",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fc69",
+          "author": null,
+          "description": "11月9日消息，三箭资本创始人 Su Zhu 时隔多日发布多篇推文称，“我在那里，在海浪的波浪中冲浪，一会儿就被冲走了，木板破了，到处都是礁石。作为行业+商业周期更广泛意义上的金童，企业失败和目标丧失的突然痛苦，与随之而来的排斥和妖魔化一样艰难。感谢所有自始至终支持我们的人，我深深地感谢你们的同情和同情。我想对所有没有做出保留判断的人说，我理解你们的怀疑，我深深地感谢你们的耐心和忍耐。对于那些攻击我们，试图让我们成为整个行业的替罪羊的人，我知道这种尖刻的言辞本身来自痛苦和误导，你们一定遭受了巨大的痛苦，正在寻找发泄，一些解脱。我希望和平降临在你们身上。多亏了记者和监管机构，他们冷静地看待事实，而不是歇斯底里，让时间证明，尽管我们的定位错误，但我们的诚信是坚定的。我对老一辈人产生了一种新的敬意，他们对历史和比例有敏锐的感觉。” “那我都做了些什么?和久违的朋友叙旧，重建精神和健康。还有冲浪、学习新语言，为那些和我一起受伤的人祈祷，为那些想伤害我的人祈祷，为那些受伤的人祈祷。那接下来呢？我不确定，一方面我想在树林里过一种安静的生活，另一方面我想以新的目标重建家园。之后会分享更多的想法和沉思，我想你们所有人。” \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896074062573568",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "三箭资本创始人 Su Zhu：感谢所有支持我们的人，未来或许以新的目标重建家园",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fc57",
+          "author": null,
+          "description": "11月9日消息，Amber Group就“多家机构被 Clearpool打上警告标签”一事进行回应表示，根据Clearpool官网实时信息显示，Amber Group以太坊上无许可池运行正常。 此前，据CoinDesk报道称，Amber Group等多家机构在Clearpool信贷池达到最大值，收到“警告”标签。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039896031612022784",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Amber Group回应：无许可池运行正常",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fc47",
+          "author": null,
+          "description": "据官方消息，欧易Web3 DEX将于2022年11月9日上线MRST交易池。 据悉，欧易DEX是欧易Web3钱包内的多链、跨链交易聚合器，支持10+主流公链，100+主流DEX，100000+主流币种。X Routing智能路由能够实现一笔交易多个DEX，为用户提供最优深度，最低滑点、最优交易路径。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alamed…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039895955155468288",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "欧易DEX上线MRST交易池",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fc3b",
+          "author": null,
+          "description": "Crypto.com首席执行官Kris发推称，为客户的交易执行而存放在FTX那里的自有资金不到1000万美元，与其连续两年超过10亿美元的全球收入相比微不足道。Crypto.com从未从事过不负责任的借贷（没有坏账损失的风险），从未经营过对冲基金（没有交易损失的风险），一直保持1:1的储备。我们认识到到透明度的重要性，并将继续与监管机构合作，加强和保护我们的行业，以免今天发生的事情重演。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为A…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039895932153905152",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Crypto.com首席执行官：存放在FTX的自有资金不到1000万美元，将推动提高行业的透明度和监管",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fc37",
+          "author": null,
+          "description": "加密贷款机构Genesis发推称，关于今天的市场事件，其管理了贷款账簿并且没有重大的净信用风险敞口。此外，Genesis未持有任何中心化交易所发行的代币。我们继续在所有产品上满足全球客户的需求。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证在4个月后归属的1720…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039895896266027008",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "Genesis：没有重大的净信用风险敞口，未持有任何中心化交易所发行的代币",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e758853fc2b",
+          "author": null,
+          "description": "Ledger发推称，Ledger的用户需要注意，FTX和FTX US交易在加密钱包应用Ledger Live中暂停。一旦恢复正常服务，将向用户更新。 \n\n \n\n\n \n \n  \n\n  \n11月9日消息，周二，特斯拉CEO埃隆·马斯克的净资产跌破2000亿美元，投资者纷纷抛售特斯拉的股票，因为市场担心他更专注于推特的业务。据《福布斯》，马斯克目前的净资产为1948亿美元，其中很大一部分来自他在特斯拉近15%的股份。自从今年4月他出价收购推特以来，特斯拉的市值已经蒸发了近一半，他的净资产也减少了700亿美元。 投资者最初逃离特斯拉是因为担心马斯克出售股票，但如今，华尔街担心马斯克的工作量太大了。Infrastructure capital Management首席投资官Jay Hatfield表示:马斯克似乎把100%的时间都花在了推特上，这家公司可能需要更多资金。(金十)\n \n \n美国财政部就朝鲜洗钱问题将Tornado Cash重新指定为受制裁实体\n 11月9日消息，美国财政部正在将Tornado Cash“重新指定”为受制裁实体，指控朝鲜通过Tornado Cash洗钱超过1亿美元的加密货币以支持其大规模杀伤性武器计划，包括弹道导弹的发展。同时OFAC还表示，Tornado Cash是根据监督制裁的行政命令所定义的实体。\n \n \n分析：Alameda曾于二季度处于崩溃边缘，当时使用大量FTT作为抵押品从FTX获得资金\n 11月9日消息，CoinMetrics研究主管Lucas Nuzzi在推特上分析称，有证据表明FTX可能在第二季度为Alameda提供了大规模救助，而现在这又是困扰着他们的原因。通过数据分析表示，Alameda在今年第二季度时与三箭资本等一起到了崩溃边缘，它之所以幸存下来，是因为它使用保证在4个月后归属的1720万枚FTT作为抵押品从FTX获得资金，一旦归属…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039895872438185984",
+          "publishedOn": "2022-11-09T05:41:29.000Z",
+          "wordCount": null,
+          "title": "加密钱包应用Ledger Live暂停用户在FTX和FTX US中的交易",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e7588499e82",
+          "author": null,
+          "description": "Aave联合创始人兼首席执行官Stani Kulechov表示，我们不会很快看到Twitter完全基于Web3。他认为，Web3社交媒体将不再是Web2的更新版本，而更像是一个可互操作的新平台网络。 Kulechov将“社交资本”定义为“关注者”和“个人资料”，并补充说在当前的Web2范式下，用户每次使用新服务创建账户时都必须放弃自己的社交资本。Kulechov表示，“举个例子，我在Twitter上有一个粉丝，我可以分享自己的想法并建立联系——这就是我在那里创造的社交资本。但我不能把我的关注者或个人资料转到另一个对我来说体验更好、更好地反映我的价值观或更适合我的应用程序中。”（Decrypt） \n\n \n\n\n \n \n  \n\n \nAave首席执行官：Twitter不会很快完全转向Web3\n Aave联合创始人兼首席执行官Stani Kulechov表示，我们不会很快看到Twitter完全基于Web3。他认为，Web3社交媒体将不再是Web2的更新版本，而更像是一个可互操作的新平台网络。 Kulechov将“社交资本”定义为“关注者”和“个人资料”，并补充说在当前的Web2范式下，用户每次使用新服务创建账户时都必须放弃自己的社交资本。Kulechov表示，“举个例子，我在Twitter上有一个粉丝，我可以分享自己的想法并建立联系——这就是我在那里创造的社交资本。但我不能把我的关注者或个人资料转到另一个对我来说体验更好、更好地反映我的价值观或更适合我的应用程序中。”（Decrypt）\n \n \n 币安创始人CZ发推文称，今天下午，FTX 向我们寻求帮助。流动性严重紧缩。为了保护用户，我们签署了一份不具约束力的意向书，打算完全收购FTX并帮助应对流动性紧缩。我们将在未来几天进行完整的尽职调查。\n \n \n 11月9日消息，FTX创始人SBF发布推特称，事情又回到了原点，FTX的第一个也是…",
+          "link": "https://www.beekuaibao.com/newsflashes/1039848122696089600",
+          "publishedOn": "2022-11-09T02:39:54.000Z",
+          "wordCount": null,
+          "title": "Aave首席执行官：Twitter不会很快完全转向Web3",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "每日一报 via shengchao shi on Inoreader",
+      "feedUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%AF%8F%E6%97%A5%E4%B8%80%E6%8A%A5",
+      "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E6%AF%8F%E6%97%A5%E4%B8%80%E6%8A%A5/view/html",
+      "articles": [
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fcb19f2f",
+          "author": null,
+          "description": "加密早餐（2022年12月7日）--------推特：比特币橙子Trader；（看我推特，不迷路；如果你关注我、转发我、点赞我和评论我，你会暴富，不信你试试！~~）\n  \n【昨日复盘】  美国正面临着一场风暴,刚刚出台的《通胀削减法案》在欧洲激起巨大的反对声浪，成为众矢之的的白宫不得不出面表示，将修复法案中的一些问题，以安抚欧洲盟友。但白宫方面也强调，《通胀削减法案》不会回到国会重新进行讨论。让美国不惜得罪欧洲盟友也要坚持推行该法案的，仍是那个老生常谈的原因——经济难题。由于通胀居高不下，金融市场无法避免对美联储加息的担忧，仍在持续发生震荡，而通胀和加息又会进一步加快经济衰退的到来。当地时间12月6日，在美国政府公布11月ISM服务业指数及非农就业数据后，美股再次发生全面大跌，三大指数均跌超1%，原油市场也同时遭受冲击。\n  \n就目前而言，华尔街那边普遍不太看好美国经济。当地时间12月6日，美国民调公司盖洛普发布的最新调查显示，有55%的美国受访者表示，正经历着通胀带来的经济困难，这一比例明显高于去年同期的45%。\n  \n有13%的受访者表示，他们面对的经济困难已到了很严重的程度。在低收入受访者中，有28%的人表示“曾经历严重的经济困难”。在中等收入受访者中，有60%表示“曾经历过某种形式的经济困难”，该比例和去年的不到50%相比大幅上升。在高收入受访者中，表示“曾经历过某种形式的经济困难”的比例也从去年的28%上升到42%。\n  \n押注2023年美国陷入衰退，似乎已经成为华尔街大型机构的共识。当地时间12月6日，摩根大通首席执行官戴蒙表示，通货膨胀可能会使美国经济在明年陷入衰退，尽管美国消费者和企业目前状况良好，但可能不会持续太久。\n  \n德银首席经济学家兼全球研究主管预计，美国经济将在2023年年中步入衰退。摩根士丹利较为唱空的策略师认为，最近美股反弹已足够多，建议投资…",
+          "link": "https://mirror.xyz/0x8c902B8839010BB1761201d42f788e7eD9FCFD77/JDqnv70Pb-rMkeTvgnvrRcDjh9k9POS4Q6iAnO_BNR4",
+          "publishedOn": "2022-12-07T04:16:44.000Z",
+          "wordCount": 1016,
+          "title": "V神看好的五个板块你知道吗？Tether 官方宣布在 Tron 网络推出离岸人民币（CNHT）！华尔街普遍看衰美国经济~",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/FHhEzfhrCMqYGPiWDjwjP.jpg?h=960&w=959"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fca8468a",
+          "author": null,
+          "description": "恐慌指数-2022/12/7\n \n今日29，利空指数RPS51，50以下246日\n \nBTC-5日/10日/20日均线：均线以上1日/上8日/上7日\n \n美债利率：3.54%，利空指数RPS88\n \n均线：焦灼状态，暂时均线之上\n \n炒币的猫：存在小规模顶部结构，等待\n \n\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/hinterland.eth/VXmMD-yfWGx844EnCytETM-jizfjic7VPB4LdKxIGas",
+          "publishedOn": "2022-12-07T00:59:33.000Z",
+          "wordCount": 681,
+          "title": "恐慌指数-2022/12/7",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/8j1FtePKkNUvpM1Pk_NNS.png?h=600&w=600"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fc94dd80",
+          "author": null,
+          "description": "​​​​​​​​​​​​​​​​​​​​​​​​​​导演第920篇原创每日行情分析  \n 2022.12.7\n \n​一、市场情绪：\n \n\n \n​二、图表结构：\n \n​1、大饼\n \n\n \n​大饼1H的结构：\n \n​      目前大饼1H的结构依然还是在这个小中枢范围内震荡，16800-17200这个区间震荡，短期之内的话还是没有方向可言，还是需要等待13号的CPI出炉才会有可能有新的机会出现，如果想做的小伙伴们就是在16800附近接多，上方172附近开空，这样做震荡的走势。\n \n \n \n\n \n大饼15F的结构：\n \n​       目前15F的结构也是盘整了一个中枢结构，这里看大饼能突破中枢上沿17100附近。\n \n​       突破的话还能往上多蹭一蹭，突破不了可能又会被压会16800附近。继续在15F的中枢震荡，然后在选择方向，这里如果向下选择的话可能还会去一趟16000附近，耐心等待13号CPI出炉。\n \n \n \n \n \n2、姨太：\n \n\n \n姨太1H的结构：\n \n​       姨太的整个结构都是在这个扩展的中枢值之内震荡，昨天说的如果是走大中枢的话那么昨天早上的价格还是在中枢的下沿，能够得到支撑，不过就算涨了也还是在中枢范围之内继续震荡，大的结构需要突破1400才能够走好，不然还是震荡吧。\n \n \n \n ​​​3、交易策略：\n \n \n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n   \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \n  \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/aLD3xronk9pld_zOE9jdole3LER1idjLEv54S7HPcJY",
+          "publishedOn": "2022-12-07T00:20:47.000Z",
+          "wordCount": 769,
+          "title": "【导演】12.7日行情分析，黎明前的黑暗，耐心等待13好CPI选择方向，目前市场还是维持在震荡区间之内。暂无方向可言。",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fde7a947",
+          "author": null,
+          "description": "加密早餐（2022年12月 6日）--------推特：比特币橙子Trader；（看我推特，不迷路；如果你关注我、转发我、点赞我和评论我，你会暴富，不信你试试！~~）\n  \n【最新动态】  美国11月ISM非制造业PMI数据意外上升，商业活动指数也从55.7上升至64.7，这很难表明经济放缓程度如美联储所愿。进一步高于50的扩张和缩水分水岭，表明尽管通胀率很高，利率迅速上升，但消费者继续支出。\n  \n昨天新美联储通讯社之称的华尔街日报记者Nick发文称，美联储将权衡明年加息，可能考虑将2023年的利率提高到5%以上。文章通篇重点是12月加息50基点标志着进入政策紧缩的新阶段，美联储正在校准利率提高多少。美联储希望防止加息太少导致通胀回升，或者加息过度导致不必要的经济疲软。美联储12月15日利率决议上，发布的利率前景将略显激进，美联储将以至少25基点的幅度继续加息，知道看到劳动力市场降温明显的迹象。终点利率可能升至4.75%至5.25%之间。明年2月将再次加息50基点，除非通胀率迅速下降则明年2月加息25基点。\n  \n这篇文章的信息量还是比较大的，简单来说美联储政策并没有转向，感兴趣的同学可以月度下。https://www.wsj.com/articles/fed-could-pencil-in-higher-interest-rates-next-year-while-slowing-hikes-in-december-11670208857\n  \n美股全线下跌，道琼斯指数下跌1.4%，标普500指数下跌1.8%，纳斯达克指数下跌1.9%（出现1.5%以上的跌幅，必是重大事件，经济的好消息对股市来说是坏消息）； 油价出现大逆转，美国原油期货大跌3.8%，曾一度上涨3.4%（可以想象这件事对市场的力度）。临近年末，原油期货未平仓合约继续下降，创2015年以来最低水平，显示交易…",
+          "link": "https://mirror.xyz/0x8c902B8839010BB1761201d42f788e7eD9FCFD77/eV9XShsAhkOboBbbYIQscFvZOudKwAreJG7yashlZR4",
+          "publishedOn": "2022-12-06T04:10:14.000Z",
+          "wordCount": 1041,
+          "title": "ChatGPT爆火导致AI概念币暴涨~华尔街日报记者Nick称，美联储政策没有转向~Aave 宣布已收购移动端社交元宇宙链游 Sonar~",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/FHhEzfhrCMqYGPiWDjwjP.jpg?h=960&w=959"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fddc516c",
+          "author": null,
+          "description": "​​​​​​​​​​​​​​​​​​​​​​​​导演第919篇原创每日行情分析  \n 2022.12.6\n \n​一、市场情绪： \n \n\n \n​二、图表结构：\n \n​1、大饼\n \n\n \n​大饼1H的结构：\n \n​      昨天大饼突破这个1H的中枢，但是最终的高度还是没有去摸一下17500，不过也大差不差，整个大结构还是围绕在17500-15500这个区间的震荡，短期之内除非能够突破17500。\n \n​     1H的结构目前是在16800-17200这个区间之内震荡了,目前大饼又跌回1H的中枢之内了。\n \n​      短期还是看16800是否能够支撑得住，支撑得住的话还能够在这里继续震荡，一直等到13号的CPI出结果在选择短期的方向。目前还是处于震荡之中。\n \n\n \n大饼15F的结构:\n \n​        从昨天到现在大饼只是运行了一笔15F的下跌，短期下跌是结束了。走一笔15F的反弹，运行时间的话最少是6个小时，目前还是在这笔15F的上的运行周期之中。\n \n​       不过第二笔上了之后大概率还会都第三笔15F的下跌，如果想操作的看第三笔下跌的力度，是否会形成一个短期的底背离的状态，如果有一个底背离而且又不跌破16800-16700的话是可以参与下，估计还能够往上走到17000，当然都是短线，空间不大。\n \n \n \n2、姨太：\n \n\n \n姨太1H的结构：\n \n​     姨太的结构走势就比较复杂一些。昨天拉回中枢，今天又跌破中枢。\n \n​     如果吧上方方框内当做1H的中枢的话那么情况就如上所述，当然还有一种情况就是做一个扩张中枢就是1240-1300这个区域当做一个1H的中枢。\n \n​     如果是第二种情况的话那么目前姨太还没有跌破中枢，而且在中枢下沿，短期还是有反弹的可能性。\n \n​      但是上方压力就是在1270附近了。也是跟大饼一样空间不是很大。\n \n​  \n ​​​3、交易策略：\n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n  \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \n  \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/sJaaI8kDH7xMlpF_X3CviN3KtFIyvdscGkxtvte9Q0g",
+          "publishedOn": "2022-12-06T01:03:05.000Z",
+          "wordCount": 784,
+          "title": "【导演】12.6日行情分析，黎明前的黑暗，大饼昨天突破1H中枢，又跌回来继续震荡，姨太也同样做一个大的中枢结构。继续震荡",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fddcda7b",
+          "author": null,
+          "description": "恐慌指数-2022/12/6\n \n今日26，利空指数RPS41，50以下245日\n \nBTC-5日/10日/20日均线：均线以下1日/上7日/上6日\n \n美债利率：3.586%，利空指数RPS88\n \n均线：焦灼状态，反弹无力\n \n炒币的猫：存在小规模顶部结构，等待\n \n\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/hinterland.eth/h0B6KAozDfIjRKM17WdT8FpyjLtps-Kyz6GmODlP43E",
+          "publishedOn": "2022-12-06T00:58:09.000Z",
+          "wordCount": 681,
+          "title": "恐慌指数-2022/12/6",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/8j1FtePKkNUvpM1Pk_NNS.png?h=600&w=600"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fd28aa2f",
+          "author": null,
+          "description": "加密早餐（2022年12月 5日）--------推特：比特币橙子Trader；（看我推特，不迷路；如果你关注我、转发我、点赞我和评论我，你会暴富，不信你试试！~~）\n  \n【最新动态】  美联储本周已经进入加息前的静默期，预计本周有可能通过熟悉的媒体和记者透露最新的想法和观点，这里大家比较熟悉的记者就是华尔街日报记者Nick Timiraos。他曾在非农数据公布后写过一段评论，强劲的11月非农就业数据报告使美联储仍有望在两周后的会议加息50基点，并增强了官员们将在明年上半年把利率提高到5%上方的风险。\n  \n美联储下一次利率决议会议是12月15日宣布，但是在这之前还有一次非常重要的数据要公布，那就是北京时间12月13日21点30，公布美国11月CPI数据，这将是影响美联储决定的最终数据。所以这个时间点大家务必要高度关注并且重视。\n  \n离岸人民币兑美元亚洲盘初升破7元水平，而同一时间美元指数开局平稳，同时本周美联储官员们都处于噤声期，市场应该不会有太大的变化，不过对于国内市场而言，已经有了非常强劲的拉升动作，这应该是跟这几天各地纷纷解封的政策有关。\n  \n最近有款链游火了，那就是TheBeacon，这是一款融合了Roughlite元素的奇幻动作类RPG，在游戏中，玩家可以挑选一个基础武器进入地下城探索，探索过程中能够升级武器以及更好的战斗。目前还不能氪金，但是会有自家游戏内的Token BCN，不过这里面的经济系统有点复杂，作为TreasureDAO生态的token magic，可以通过magic购买一些道具，还可以通过magicswap换成bcn等游戏内token，感兴趣的同学可以关注下。https://www.odaily.news/post/5183593\n  \n除了链游外，还有个AI机器人也被刷爆了朋友圈，因为这个机器人太智能，以至于可以做任何事情，比如写代码，写…",
+          "link": "https://mirror.xyz/0x8c902B8839010BB1761201d42f788e7eD9FCFD77/Y1EKfIy7fp4C3D99TNh89dKq23yuIh9Jz34PteAWmZ0",
+          "publishedOn": "2022-12-05T03:53:39.000Z",
+          "wordCount": 1172,
+          "title": "美联储官员进入静默期，离岸人民币升破7元~火爆朋友圈的TheBeacon和ChatGPT你知道是什么吗？一大波反弹行情指日可待~",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/FHhEzfhrCMqYGPiWDjwjP.jpg?h=960&w=959"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fd1fe3e3",
+          "author": null,
+          "description": "恐慌指数-2022/12/5\n \n今日26，利空指数RPS41，50以下244日\n \nBTC-5日/10日/20日均线：均线以上1日/上6日/上5日\n \n均线：又处焦灼状态，感觉反弹无力\n \n炒币的猫：存在小规模顶部结构，等待\n \n\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/hinterland.eth/uYmYTLih9TY4SMafze-F1lIHx2Cci_uOhuDmV68b6iM",
+          "publishedOn": "2022-12-05T01:19:03.000Z",
+          "wordCount": 680,
+          "title": "恐慌指数-2022/12/5",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/8j1FtePKkNUvpM1Pk_NNS.png?h=600&w=600"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fd18ec61",
+          "author": null,
+          "description": "​​​​​​​​​​​​​​​​​​​​​​导演第918篇原创每日行情分析  \n 2022.12.5\n \n​一、市场情绪：\n \n\n \n \n \n​二、图表结构：\n \n​1、大饼\n \n\n \n​​大饼4H的结构:  \n        目前大饼还是在17500-15500这个区间震荡。如果能够一直保持在这个中枢上半区域震荡的话，那么会如图所示，向上的概率很大，突破17500的话-18500就能够走出一段非常不错的行情。\n \n​      暂时现在还是处于17500-15500这个区间的震荡，估计这个震荡还是会持续到CPI出结果，相对而言目前市场已经把很多风险排除，只是看美联储怎么去应对现在强劲的就业问题。\n \n​      还有国内的口罩问题迟早会完全开放，那么完全开放对于老美的通胀也是能够起到缓解的作用。\n \n\n \n大饼1H的结构：\n \n​       大饼的这里还是在这个1H的中枢之内震荡这里就算往上突破也没有多大空间，17500就可能会被压制。\n \n​      往下走的也没啥空间，就是在小级别压缩的空间之中继续维持震荡，一直等待市场来一些好消息来推动市场，或者来一些利空释放风险了。\n \n​        短期还是震荡为主，继续保持观望吧。\n \n \n \n2、姨太：\n \n\n \n​姨太1H的结构： \n \n​        姨太的走势是强弱都是一瞬间，昨天跌穿，今天又拉回去了。但是从大结构来看的话姨太是强于大饼这是毋庸置疑。\n \n​       短期内姨太现在也面临通胀的问题。所以还是需要耐心观察，姨太如果能够突破1400的话这就表现的非常不错。如果不能够突破的话则还是会继续在这个区间之内继续震荡了。\n \n​  \n ​​​3、交易策略：\n \n \n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。 \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。 \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \n  \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/Sy1oenIP2fX4huYZRUE_fkWhB8lGfIV_F5gWimzCKaE",
+          "publishedOn": "2022-12-05T01:07:25.000Z",
+          "wordCount": 781,
+          "title": "【导演】12.5日行情分析，黎明前的黑暗，大饼4H结构继续在17500-15500这个区间，1H的结构也继续维持震荡。",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fe8c6df4",
+          "author": null,
+          "description": "​​​​​​​​​​​​​​​​​​​​​​导演第917篇原创每日行情分析  \n 2022.12.4\n \n​一、市场情绪：\n \n\n \n​二、图表结构：\n \n​1、大\n \n\n \n饼\n \n​大饼1H的结构：\n \n​       目前大饼还是在这个1H的中枢之中震荡，但是考虑到这段时间市场和美联储那边都给了利好也给了时间去反弹。\n \n​       但是大饼还是走的这个样子所以个人考虑到有可能有某些不确定性的因素风险，加上非农数据不好，估计还是要耐心等待这个月CPI的结果在考虑是否有机会，短期还是面临的风险的可能性。\n \n​       如果跌破16800-16700的话那么还是有概率继续去一趟16350.跌破16350就得去前低的可能性，对于现阶段的市场，做空我个人是不会做的了，下去只会慢慢接现货。\n \n​       对于我而言还是耐心等待更加好的位置加仓才是首选。\n \n\n \n​\n \n大饼15F的结构：\n \n​       可以看到目前是运行了第三笔15F的下跌，看第三笔下跌的力度了。\n \n​       同时也要看是否会形成一个15F的底背离，如果有底背离的话那么大饼还能苟活一下，但是目前是时间的推移不以利多头了，主要是时间窗口已经过了，目前是该涨不涨的状态。\n \n \n \n \n \n2、姨太：\n \n\n \n姨太1H的结构：\n \n​        姨太的走势清晰，直接选择跌破之前中枢的低点。走的离开笔的走势，那么反弹大概率不过1250-1270的话那么就是三卖的风险。\n \n​       短期姨太又是不建议操作的，做空还行做多是不能搞的，风险大于收益的情况。\n \n​  \n ​​​3、交易策略：\n \n \n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n   \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \n  \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/_eCenoJAwm5g2PjFwr_mRHdFUB2mTDeErtwaSBzyX9M",
+          "publishedOn": "2022-12-04T01:20:43.000Z",
+          "wordCount": 784,
+          "title": "【导演】12.4日行情分析，黎明前的黑暗，大饼重新回到1H的中枢之中，现在时间的流逝不不利于多头。姨太跌破1H的中枢。",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75fff34f2a",
+          "author": null,
+          "description": "导演第916篇原创每日行情分析  \n 2022.12.3\n \n​一、市场情绪： \n \n\n \n​二、图表结构：\n \n​1、大饼\n \n\n \n​大饼1H的结构:\n \n​       结构走势跟我昨天的预期一样，这里走了一个奔走中枢，看最后一笔1H的上升的力度了。\n \n​        能否突破之前的前高，如果突破不了之前的前高的话，那么就容易走成一个头肩顶的走势了。\n \n​     那就非常的不好看，可能还会引起一波下跌，不过昨天美股的下跌都没有引起大饼的太多的下跌，其实相对而言整个币圈已经走的比较不错的。\n \n​      不过马上春节了。加上要这个月有圣诞节，对于美股而言都是消费较高的时刻，不利于通胀，昨天的数据也告诉我们就业人数超预期，所以未来可能还会面临高通胀的情况。那么加上这个月圣诞节流动性都会被抽离的情况，还是需要短期注意。\n \n​       大饼还是围绕在17500-15500这个大区间震荡，如果震荡的时间足够的话不排除还可能继续向下走一笔新的探底的可能性。\n \n\n \n大饼15F的结构:\n \n​    目前是在下面做一个一个15F的中枢，但是压力的话还是在黄色压力线这里。刚刚插针突破，但是实体收线没有站稳的情况还是比较悬了。如果不能吃完这根针的话呢么很有可能这里要走一笔回调的走势了。\n \n \n \n \n \n2、姨太：\n \n\n \n姨太1H的结构：\n \n​     姨太1H的结构的话很有可能会在这个区域做一个1H的中枢，然后在选择方向，下沿的话就是在1270-1250。\n \n​      如果跌破这个区域的话那么就很有可能会引起更进一步的下跌。还是耐心的跟随市场。\n \n​  \n ​​​3、交易策略：\n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n   \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \n  \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/RtVxbO76a3fotg351Yx7tb5ZvfbquoB9wdOypkekKJ0",
+          "publishedOn": "2022-12-03T01:33:16.000Z",
+          "wordCount": 778,
+          "title": "【导演】12.3日行情分析，黎明前的黑暗，大饼1H结构构建一个1H的奔走中枢，姨太也是构建中枢，整体还是在中枢震荡之中",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75ff4cabc6",
+          "author": null,
+          "description": "加密早餐（2022年12月2日）--------推特：比特币橙子Trader；（看我推特，不迷路；如果你关注我、转发我、点赞我和评论我，你会暴富，不信你试试！~~）\n  \n【昨日复盘】  美联储最爱的通胀指标放缓，美国10月核心PCE物价指数月率录得0.2%，为2022年7月以来最小增幅。美国11月ISM制造业指数自2020年5月来首次跌至萎缩。11月Markit制造业PMI终值创2020年5月来最低。美国11月挑战者企业裁员人数同比增加416.5%。\n  \nPCE数据公布后，美国总统拜登回应称，初步迹象表明，美联储抗通胀取得进展，但重返正常的通胀水平仍然需要时间。但市场等待美东时间周五（2日）公布的11月美国非农就业数据，市场情绪偏谨慎，且发声的美联储官员们仍较为鹰派，美三大指数震荡。\n  \n尽管美联储青睐的核心通胀指标显示通胀放缓迹象，但美联储核心决策官员们依旧出面释放较为鹰派信号，管理市场预期。拥有美联储FOMC永久投票权的美联储理事鲍曼称，总体通胀和核心通胀略有放缓，但仍高得令人无法接受。预计在未来的会议上，利率会继续提高。但美联储应该放慢加息的步伐。对加息规模和速度的看法将根据即将公布的数据而定。预计政策利率将在一段时间内保持限制性区间，以降低通胀。纽约联储主席威廉姆斯则表示，美联储还需要继续加息；美联储加息的落脚点取决于经济；联邦基金利率需要远远高于通胀水平。\n  \n美联储负责金融监管的副主席巴尔也发声称，通胀率太高了。美联储非常专注于将通胀率降至2%，但可能会在下次会议上转向较慢的加息步伐。根据CME利率观测工具显示，目前美联储下次加息50个基点的概率为79%，加息75个基点的概率为20.6%。\n  \n美股开盘道指下跌至超百点，后最深跌460点，尾盘时三大指数跌幅收窄，仅纳指勉强收涨。截至收盘，道琼斯指数跌0.56%，收跌194.76点，报34395.01点；…",
+          "link": "https://mirror.xyz/0x8c902B8839010BB1761201d42f788e7eD9FCFD77/aShLe9a2x4bZj4ONb9kUwWRP6zmAzpSt9qXVXCoXaJo",
+          "publishedOn": "2022-12-02T04:06:01.000Z",
+          "wordCount": 859,
+          "title": "通胀指标放缓，但并未阻止美联储官员继续鹰派~Tether借贷资产达总资产9%，风险往往都是这样形成的~链上触底的5个指标，学习起来~",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/FHhEzfhrCMqYGPiWDjwjP.jpg?h=960&w=959"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75ff38112d",
+          "author": null,
+          "description": "​​​​​​​​​​​​​​​​​​​​导演第915篇原创每日行情分析  \n 2022.12.2\n \n​一、市场情绪：\n \n\n \n​二、图表结构：\n \n​1、大\n \n\n \n饼\n \n大饼1H的结构：  \n        目前大饼这里回踩的是之前1H的走横笔的区域，这样的话就能够形成一个1H的奔走型的中枢，这里实体收线不跌破16700那么整体问题就不大，还能够继续往上在运行一笔1H的上升。\n \n​       这笔1H的上升的话就比较关键了，力度如果弱了的话那么就可能直接成为二卖，后面就又要掉头往下运行了。整体的走势还是处于焦灼的大范围的震荡趋势之中。\n \n\n \n大饼15F的结构：  \n         目前大饼在走第二笔15F的上的反弹，看这笔反弹能否突破黄色的压制线，如果能够突破的话就走绿色笔的走势，如果突破不了的话可能就要走黄色笔的走势了。\n \n​      看15F的力度了，短期已经面临压力。\n \n​      目前是在上个中枢下沿附近了。很容易形成三卖的走势，所以短期还是有机会回调的风险。\n \n​\n \n2、姨太：\n \n\n \n​姨太1H的结构：  \n         姨太走势目前还是较为不错，下方支撑在1250附近。回调的话还是能够继续看多，还会有第三笔1H的上是能够走出来的。\n \n​       虽然姨太1H的顶背离，但是相较于调整的时间的话也快差不多看。还是看大饼今天是否能够突破小中枢的压力。\n \n​  \n ​​​3、交易策略：\n \n \n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n   \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \n  \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/1KT4Rvhrm_ZHo4e6CTFgPuKCgZAw14G9o_R0jfh7CFE",
+          "publishedOn": "2022-12-02T01:08:55.000Z",
+          "wordCount": 777,
+          "title": "【导演】12.2日行情分析，黎明前的黑暗，大饼整体还是处于大级别震荡，目前走一笔1H的下跌的回调，小级别还没走完。",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75ff391b5c",
+          "author": null,
+          "description": "恐慌指数-2022/12/2\n \n今日27，利空指数RPS46，50以下241日\n \nBTC-5日/10日/20日均线：均线以上3日/上2日/上2日\n \n美债利率：3.516%，利空指数RPS88\n \n均线：已站上均线\n \n炒币的猫：存在小规模顶部结构，等待\n \n\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/hinterland.eth/x74Z522jnYxamKm0dvHOwRbD6JDYPcMi8JXjHWr_Xo4",
+          "publishedOn": "2022-12-02T00:59:29.000Z",
+          "wordCount": 681,
+          "title": "恐慌指数-2022/12/2",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/8j1FtePKkNUvpM1Pk_NNS.png?h=600&w=600"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f873fe21",
+          "author": null,
+          "description": "加密早餐（2022年12月1日）--------推特：比特币橙子Trader；（看我推特，不迷路；如果你关注我、转发我、点赞我和评论我，你会暴富，不信你试试！~~）\n  \n【昨日复盘】  美联储主席鲍威尔表示，利率将进一步上升，12月就会放慢加息步伐，不想过度紧缩，不会马上降息，将在安全的水平区间停止缩表。仍然认为不会出现严重的经济衰退，终端利率会略高于9月预期，并存在较大的不确定性。足够严格的限制性政策取得了实质性进展，并将保持一段时间，只看到了劳动力需求和工资增长放缓的初步迹象，市场预计美联储将在明年5月达到本轮加息的峰值4.91%，昨日为5%。\n  \n美联储最新一期的经济状况“褐皮书”显示，与上份报告比较，美国整体经济活动大致持平或略有上升，利率和通胀继续对经济活动构成压力，促使中低收入消费者越来越多地购买低价商品，许多人对前景表示了更大的不确定性或悲观情绪。\n  \n美国11月ADP就业人数增加12.7万人，为2021年1月以来最小增幅，且薪资成长放慢，表明劳动力市场出现了与之前相比较更显著的放缓，这对于美联储来讲是一个好消息，说明加息正在起到应有的效果。\n  \n美国第三季度实际GDP年化季利率较初值上修0.2%至2.9%，美国11月芝加哥PMI录得37.2，为2020年5月以来新低，10月份全美的职位空缺从一个月前的1070减少到1030万。\n  \n昨晚美股全线大涨，道指上涨2.17%，买入技术性牛市趋势。标普500上涨3.02%。纳斯达克指数上涨4.41%。美债收益率全面回落，10年期国债收益率下跌6基点，报3.6847%。2年-10年期国债收益率之差上升4.4基点，报-69.35基点。\n  \nTelegram 创始人 Pavel Durov 在个人 Telegram 频道中表示，「已通过去中心化拍卖平台 Fragment 在不到一个月的时间里在 TON 上售出了…",
+          "link": "https://mirror.xyz/0x8c902B8839010BB1761201d42f788e7eD9FCFD77/GLv5Fpj_MlKT8NhVke3jAX_oXophNDIp10nN_xj-WSQ",
+          "publishedOn": "2022-12-01T04:32:16.000Z",
+          "wordCount": 942,
+          "title": "鲍威尔言论以及ADP数据导致美股暴涨~Uniswap 宣布正式上线 NFT 聚合服务，并有条件的发放空投~大盘逐渐恢复，一大波反弹行情正在路上~",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/FHhEzfhrCMqYGPiWDjwjP.jpg?h=960&w=959"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f868e535",
+          "author": null,
+          "description": "​​​​​​​​​​​​​​​​​​导演第914篇原创每日行情分析  \n 2022.12.1\n \n​一、市场情绪： \n \n\n \n​二、图表结构：\n \n​1、大饼\n \n\n \n大饼4H的结构：  \n         目前大饼整体的运行是在一个大的4H的中枢结构之中震荡，如果一直能够保持在16600以上的震荡的话那么市场向上突破的概率就很高了。反之如果一直在16600一下震荡的话那么向下跌破的概率就高了。\n \n​       当然我个人对未来市场还是比较乐观的。只要保持控制好仓位和比例的话那么就算在腰斩我觉得也是机会，当然如果直接上去的话那么好，如果能够拉回18500的话那么整个市场就盘活了，拉不回去能去18000我觉得对后面就算有回调也是不会有前低的。\n \n\n \n​大饼1H的结构：\n \n​       目前大饼正在运行的是第三笔1H的上升。目前可以看到是处于钝化的状态，但是这个第三笔只要拉倒17500之后就不会处于钝化，那么就相当于不背驰了。\n \n​      个人认为第三笔大概率会不背驰，然后还会有第五笔1H的上升是要运行的，而且第三笔1H的上的内部其实只运行了第一笔15F的上，整个一笔1H的上升是没运行完的。所以大概率会不背驰。\n \n \n \n2、姨太：\n \n\n \n姨太4H的结构：\n \n​      姨太的4H结构跟大饼一样，这里的话姨太还是表现的略微强势一些了，姨太已经到4H的上沿了。\n \n​      而大饼还是差一些，目前姨太如果能够一直在1220以上震荡的话那么突破这个4H的中枢的概率会比较大。\n \n​       看姨太能否强势突破中枢上沿，如果能够突破的话这能够有一段不错的向上的行情。\n \n ​​​3、交易策略\n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n   \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/hanDR17MYPImJ_g7uGBppbka9rEMVNDSYJtR3gci11A",
+          "publishedOn": "2022-12-01T01:09:00.000Z",
+          "wordCount": 775,
+          "title": "【导演】12.1日行情分析，黎明前的黑暗，今天早上收月线，大饼整体走势算是走出了很多，姨太要比大饼强势许多。",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f8694461",
+          "author": null,
+          "description": "恐慌指数-2022/12/1\n \n今日27，利空指数RPS46，50以下240日\n \nBTC-5日/10日/20日均线：均线以上2日/上2日/上23日\n \n美债利率：3.62%，利空指数RPS88\n \n均线：站上三根均线\n \n\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/hinterland.eth/z8onBTd2k8YjobzZDQdhc8NkMzeAJq6q772wRLlaMl8",
+          "publishedOn": "2022-12-01T01:05:33.000Z",
+          "wordCount": 680,
+          "title": "恐慌指数-2022/12/1",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/8j1FtePKkNUvpM1Pk_NNS.png?h=600&w=600"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f9ca5521",
+          "author": null,
+          "description": "最近​​我们已经聊了币圈熊市根本原因是美联储加息，美联储为什么加息 以及为什么失业率成为美联储加息新的指标？\n \n深度聊下：币圈熊市的根本原因\n \nhttps://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/0RXeW4KusRw5SzDid_5WBHve4BCGbho3aGsK1LU2M9c\n \n美联储为什么要加息？\n \nhttps://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/Id-xCZCKb4gIEJM987Xoi6ErPTDAzUz_GQKZjatu60M\n \n为什么失业率成为美联储加息新的指标?\n \nhttps://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/fyFdj1elivZSe5jCsVCs3FdSQGaQfJKodJoeliwjoBE\n \n有没有发现我们这几篇文章核心都是在聊通胀, \n那到底什么是通胀，怎么衡量通胀、通胀带来哪些影响?\n \n一、什么是通胀？\n \n\n \n通货膨胀是在纸币流通的条件下，流通的货币超过实际需要量而引起的货币贬值、物价持续而普遍上涨的经济现象，其实质是社会总需求大于社会总供给的现象。    从经济表现来看，通货膨胀是指一般商品和服务项目价格水平全面、持续、大幅度上涨的一种经济状态。\n \n通货膨胀具有以下主要特点： \n1、一般商品和服务项目价格的上涨，而不是指股票、债券和其他金融资产价格的上涨；\n \n2、价格水平全面的上涨，即商品和服务项目价格水平全面上涨，而非具体商品和服务项目价格或部分地区价格水平的上涨；\n \n3、价格水平的持续性上涨，而非偶然、短期的价格上涨。\n \n4、看货币供应量是否过大。\n \n膨胀表现为物价上涨，但起因是货币供给过…",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/ys2C66-8jm6uO04Gl5cQrYPAnWnEEv-LHb1DcCxx3qs",
+          "publishedOn": "2022-11-30T07:32:33.000Z",
+          "wordCount": 829,
+          "title": "系列四：到底什么是通胀",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f9ac5ca1",
+          "author": null,
+          "description": "加密早餐（2022年11月30日）--------推特：比特币橙子Trader；（看我推特，不迷路；如果你关注我、转发我、点赞我和评论我，你会暴富，不信你试试！~~）\n  \n【昨日复盘】  昨晚美国银行和巴克莱发布的报告，已经开始炒作明年的降息预期，有些诧异（这些你能叫的上来名字的投行，他们的每一份报告和都要留意）。\n  \n巴克莱预计，美联储的首次降息将在2023年11月到来。预计美联储将在12月和2月各加息50个基点，明年3月是最后一次加息，幅度为25基点。-预计美联储将在明年5月至9月维持利率不变；-预计美联储将在11月和12月的政策会议上各降息25基点。美国银行预计，美联储将在2023年末被迫降息，以抵消劳动力市场走软，此举将有助于美债殖利率曲线的一个关键部分恢复正常。预计明年3月美联储可能会将利率上调至高达5.25％，届时由于劳动力市场疲软，经济成长将恶化。预计到2023年底，2年期和10年期美债收益率都将在3.25%左右，然后这段曲线会在2024年变成正值。- 利率在2024年开始回归到接近中性水平。\n  \n今晚美国那边有两个数据公布，前几天我早报中就提到过，今天重新说一下。今天晚上21:15，美国11月ADP就业人数公布，前值是23.9，预期是20.3.这个数据又“小非农”之称，是对非农数据的前提预测，对市场影响不小，这是本周第一个重要经济数据，从市场预期值看，虽说较前一个月大幅下降，但仍保持较高的水平。\n  \n今天晚上21:30，美国三季度GDP修正值公布,前值是2.6%,预期是2.8%.\n  \n在过去GDP修正值对市场影响不大，常常被忽视，但本次不同，因为市场预期其将会进一步上修至2.8%，这无疑给炒作衰退的主题带来了冲击，当前市场对美联储官员的鹰派讲话下降，很大一部分原因在于预期美国经济将步入衰退，明年年底美联储不得不降息应对。\n  \nBlockFi 已经…",
+          "link": "https://mirror.xyz/0x8c902B8839010BB1761201d42f788e7eD9FCFD77/LJ4u2RwiaZExy2cqX_y26qGqW1nqsOM3jr0Bc8vSmdw",
+          "publishedOn": "2022-11-30T04:00:00.000Z",
+          "wordCount": 842,
+          "title": "16000$附近有4次有效支撑，比特币要开启超跌反弹了吗？美国拥有 45.3% 的以太坊节点，全球排名第一！",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/FHhEzfhrCMqYGPiWDjwjP.jpg?h=960&w=959"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f993384f",
+          "author": null,
+          "description": "导演第913篇原创每日行情分析  \n 2022.11.30\n \n​一、市场情绪： \n \n\n \n​二、图表结构：\n \n​1、大饼\n \n\n \n大饼1H的结构：\n \n​      目前大饼已经拉回了这个中枢，既然拉回中枢的话那么就是继续震荡的了。暂时没有方向。上沿17000-16350这个区间震荡。大的震荡范围就是在17500-15500这个大区间。\n \n​      目前没有任何方向，需要等待充分的震荡结束之后，在选择方向，我们所能做的就是跟随市场方向去做即可。剩下的交给时间耐心的等待。\n \n\n \n​大饼15F的结构：\n \n​      目前大饼是在走第三笔15F的上升，但是看这笔15F的上还未结束，所以短期应该还会向上走一个小高点，看看是否能够形成一个15F的顶背离。然后在走一15F的下跌。预期的话会走如图走势，盘整一个15F的中枢，然后在选择方向。\n \n \n \n2、姨太\n \n\n \n姨太1H的结构：\n \n​      姨太还是拉回这个1H的中枢之内了。这算是画了一个门，又拉回去了。整体的话姨太表现的中规中矩。\n \n​姨太还能否继续往上去一趟1250-1270这个区域了。能去这个区域的话说明走势还算不错，去不了的话估计也是继续跟大饼一样在这个中枢之内盘整，可能盘整到4H的中枢级别。\n \n \n \n ​​​3、交易策略：\n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n  \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜前2名 和铁粉中抽奖1名，将获得现货群免费资格2个月。  \n 让我看到大家互动的点赞评论～ \n \n  \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
+          "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/JV-YkZHSSiOL8C3J7ExWVUWMRpHJi0HVxKFdEfW3jU8",
+          "publishedOn": "2022-11-30T01:51:29.000Z",
+          "wordCount": 769,
+          "title": "【导演】11.30日行情分析，黎明前的黑暗，大饼大结构是在17500-15500震荡。1H的中枢也是在震荡之中。",
+          "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
