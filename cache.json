@@ -63,12 +63,62 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6792468",
+          "author": "链捕手",
+          "description": "Solana 的研发团队将 DeFi 从 SBF 的项目 Serum 中解脱出来，转而使用 OpenBook。",
+          "link": "https://www.defidaonews.com/article/6792468",
+          "publishedOn": "2022-12-08T08:06:28.000Z",
+          "wordCount": 262,
+          "title": "遭遇 Serum 危机之后，Solana 生态 DeFi 如何重新开始？",
+          "imageUrl": "https://appserversrc.8btc.cn/lhg2wbD4EM_HQKhfpBYDeOkcPFbD.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792460",
+          "author": "wesely",
+          "description": "Crypto投融资市场从狂热到寒冬，有机构在熊市“捡漏”？",
+          "link": "https://www.defidaonews.com/article/6792460",
+          "publishedOn": "2022-12-08T08:02:29.000Z",
+          "wordCount": 444,
+          "title": "2022年最活跃的 5 家加密投资机构",
+          "imageUrl": "https://appserversrc.8btc.cn/Fhmnc_3m4fYLKfTNgiCSPSUVEzz4.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792456",
+          "author": "Kyle",
+          "description": "DAO 如何筹集资金？这里有 6 种常见方式",
+          "link": "https://www.defidaonews.com/article/6792456",
+          "publishedOn": "2022-12-08T07:52:00.000Z",
+          "wordCount": 614,
+          "title": "盘点 6 种为 DAO 筹集资金的常见方式",
+          "imageUrl": "https://appserversrc.8btc.cn/FowVyg24yGDt2lGwOkBlhJL1phm9.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792448",
+          "author": "区块链资讯",
+          "description": "去中心化 DAPP 目前仍无法大范围落地推广都有哪些原因？",
+          "link": "https://www.defidaonews.com/article/6792448",
+          "publishedOn": "2022-12-08T07:29:03.000Z",
+          "wordCount": 505,
+          "title": "从 Coinbase 的 NFT 功能被 Apple 商店阻止看 DAPP 的困境",
+          "imageUrl": "https://appserversrc.8btc.cn/lmc5f0GeBdn-FnTOxU3ZAKl9_r5W.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6792442",
+          "author": "区块链资讯",
+          "description": "从 0 到 1 建立一个投资 DAO。",
+          "link": "https://www.defidaonews.com/article/6792442",
+          "publishedOn": "2022-12-08T07:19:08.000Z",
+          "wordCount": 1085,
+          "title": "手把手教你 10 分钟用 ChatGPT 搭建 VentureDAO",
+          "imageUrl": "https://appserversrc.8btc.cn/lq8IQf3N7HyK7_VEpUEdr3-iGOGZ.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6792436",
           "author": "深潮TechFlow",
           "description": "投资最基本的黄金法则之一：\"跟着钱走\"。",
           "link": "https://www.defidaonews.com/article/6792436",
           "publishedOn": "2022-12-08T06:54:50.000Z",
-          "wordCount": 261,
+          "wordCount": 256,
           "title": "跟随聪明钱：如何根据他们持有的稳定币数量判断市场方向？",
           "imageUrl": "https://appserversrc.8btc.cn/ltJYWcsrdbGzDi2998YyeqUCYFEh.png?imageView2/1/w/500/h/300"
         },
@@ -78,7 +128,7 @@
           "description": "随着社区继续构建新的原语、资产和轨道，承诺创造更大的价值，这使得 DeFi 生态系统一直充满着创新。",
           "link": "https://www.defidaonews.com/article/6792428",
           "publishedOn": "2022-12-08T06:35:48.000Z",
-          "wordCount": 509,
+          "wordCount": 512,
           "title": "宜收藏 | 你需要知道的 DeFi 原语和技术栈",
           "imageUrl": "https://appserversrc.8btc.cn/ljic-5ExPZ8Wbo7-goNLHoMDM7Dk.png?imageView2/1/w/500/h/300"
         },
@@ -88,7 +138,7 @@
           "description": "三大CeFi平台之二已破产清算，唯留手握20亿美元资产规模的Nexo。虽然Nexo表示自己资金很安全，但是事实真的如此吗？",
           "link": "https://www.defidaonews.com/article/6792424",
           "publishedOn": "2022-12-08T06:15:45.000Z",
-          "wordCount": 1097,
+          "wordCount": 1078,
           "title": "借贷平台 Nexo 会是下一个暴雷的吗?",
           "imageUrl": "https://appserversrc.8btc.cn/lka6_qRcyM-jG9_UPclVkoT2hmCT.png?imageView2/1/w/500/h/300"
         },
@@ -108,58 +158,8 @@
           "description": "DeFi 之道讯，以太坊核心开发者 Tim Beiko 在推特上表示，今年最后一次以太坊核心开发者会议（AllCoreDevs）将在 UTC 时间 12 月 8 日 14:00（北京时间 12 月 8 日 22:00）举行，这将是一个大事件，团队有望就下一次网络升级的范围达成一致。",
           "link": "https://www.defidaonews.com/article/6792406",
           "publishedOn": "2022-12-08T04:45:59.000Z",
-          "wordCount": 145,
+          "wordCount": 150,
           "title": "以太坊核心开发者会议将于今晚举行，拟就下次网络升级范围达成一致",
-          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6792392",
-          "author": "Yangz",
-          "description": "去中心化身份需要整个生态系统的努力，在标准上趋同，在基元上迭代，并在设计决策的影响上相互检查。",
-          "link": "https://www.defidaonews.com/article/6792392",
-          "publishedOn": "2022-12-08T03:52:38.000Z",
-          "wordCount": 1812,
-          "title": "万字长文解读 Web3 身份堆栈：迈向数字主权之路",
-          "imageUrl": "https://appserversrc.8btc.cn/ljK0kkj-03UZUgZLDE2mZeYWrqsA.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6792388",
-          "author": "东寻",
-          "description": "DeFi 之道讯，资产跨链协议 Ren Protocol 今日凌晨发推文表示，按照此前通知，Ren 1.0 正在关闭，因无法保证 Ren 1.0 与 Ren 2.0 之间的兼容性，Ren 资产（如 renBTC、wBTC 等）持有者应尽快将资产桥接回原生链，否则将面临资产丢失风险。同时，Ren Protocol 发布资产查询以及资产桥接链接，并表示将以 Ren 2.0 形式回归。\n此前报道，Ren Protocol 因 Alameda 事件破产，表示需要新资金支持。随后 Ren 表示 1.0 网...",
-          "link": "https://www.defidaonews.com/article/6792388",
-          "publishedOn": "2022-12-08T03:48:15.000Z",
-          "wordCount": 202,
-          "title": "Ren 1.0 网络正在关闭，建议用户尽快将 Ren 资产桥接回原生链",
-          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6792378",
-          "author": "东寻",
-          "description": "深入研究永续债券 DEX 市场的参与者，哪些协议看起来最有可能成功？",
-          "link": "https://www.defidaonews.com/article/6792378",
-          "publishedOn": "2022-12-08T03:45:46.000Z",
-          "wordCount": 1144,
-          "title": "一文分析 dYdX、GMX 等主要永续 DEX 优缺点，谁最有可能“获胜”？",
-          "imageUrl": "https://appserversrc.8btc.cn/Fvlmr2WX56BqlbOFMNV2nkqnSqlr.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6792370",
-          "author": "深潮TechFlow",
-          "description": "可以用 ZK Rollup 做什么在比特币 Layer1 上不能做的事情？",
-          "link": "https://www.defidaonews.com/article/6792370",
-          "publishedOn": "2022-12-08T03:00:20.000Z",
-          "wordCount": 291,
-          "title": "ETH vs BTC：ZK Rollup 能否在比特币上获得成功？",
-          "imageUrl": "https://appserversrc.8btc.cn/lknuaYSpTL7WuWigCDJLzqjNtpdS.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6792358",
-          "author": "东寻",
-          "description": "DeFi 之道讯，SushiSwap 新任 CEO Jared Grey 在治理论坛上发布更新，称考虑到来自社区讨论的反馈意见，此前发起的费用重新定向的提案已经被撤回，本周稍晚时将重新发布新版提案以供讨论。\n此前报道，SushiSwap CEO 表示，金库资金即将耗尽，提议将支付给 xSushi 的所有费用重新转至金库。",
-          "link": "https://www.defidaonews.com/article/6792358",
-          "publishedOn": "2022-12-08T02:30:19.000Z",
-          "wordCount": 135,
-          "title": "SushiSwap 新任 CEO 已撤回费用重新定向提案，晚些时候将发布新版提案",
           "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
         }
       ]
@@ -175,7 +175,7 @@
           "description": "经济代币的实际购买力需与现实生活中的实际购买力保持相对稳定和平衡的状态。对于用户来讲，经济代币具有交换、投资与套利的机会；对于项目方来讲，经济代币可以润滑应用内的不同模块，追溯不同板块的经济热度，以调整系统内的数值系统。",
           "link": "https://www.web3sj.com/news/32384/",
           "publishedOn": "2022-12-08T06:38:52.000Z",
-          "wordCount": 919,
+          "wordCount": 910,
           "title": "万字详解Web3应用的经济代币模型",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670481482360.png"
         },
@@ -185,7 +185,7 @@
           "description": "由于 Discord 的边界将 DAO 变成了孤岛，每个 DAO 都要花费大量资源来了解新贡献者的能力、兴趣和可信度。社区成员必须对与他们互动的每个人做同样的事情。贡献者是否已经证明了自己一百次，这并不重要，如果它发生在另一个 DAO 中，就不算数。",
           "link": "https://www.web3sj.com/daonews/32379/",
           "publishedOn": "2022-12-08T06:10:18.000Z",
-          "wordCount": 739,
+          "wordCount": 754,
           "title": "2023: 互联网DAO之年",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670479768314.png"
         },
@@ -195,7 +195,7 @@
           "description": "封闭的生态系统 主要的 Web2 平台在其早期都受益于一个充满活力的开发者生态系统，但一旦他们获得足够的牵引力，他们就关闭了生态系统，以防止其他人窃取他们的数据和用户。在社交媒体的发展中，一个不朽的事件是 Twitter 的开发者 API 被关闭，因为担心数据的共享。",
           "link": "https://www.web3sj.com/news/32371/",
           "publishedOn": "2022-12-08T06:04:30.000Z",
-          "wordCount": 1333,
+          "wordCount": 1316,
           "title": "Binance Research：Web3社交通往大规模采用之路",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670479419889.png"
         },
@@ -205,7 +205,7 @@
           "description": "从 V2 版本开始，Uniswap 就内置了「费用开关」，如果打开费用开关，Uniswap 则可以收取部分交易手续费作为协议费用。而到目前为止，交易手续费全部分配给了流动性提供者，这也帮助 Uniswap 在 DEX 中占据了最高的市场份额。",
           "link": "https://www.web3sj.com/definews/32368/",
           "publishedOn": "2022-12-08T05:57:01.000Z",
-          "wordCount": 711,
+          "wordCount": 725,
           "title": "解读Uniswap费用开关试点：UNI 代币持有者仍难以直接获得收益分配",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670478969561.png"
         },
@@ -215,7 +215,7 @@
           "description": "虽然以太坊仍然是大多数活动的发源地，但许多其他网络都已经发展起来了，而且创造了不同的用户和流动性。事实上，现在已经有 150 多个区块链支持智能合约，许多开发者也正在最流行的区块链上部署 dApp。",
           "link": "https://www.web3sj.com/news/32361/",
           "publishedOn": "2022-12-08T05:54:15.000Z",
-          "wordCount": 669,
+          "wordCount": 641,
           "title": "跨链桥、可组合性和区块链互操作性的新时代",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670478803643.png"
         },
@@ -225,7 +225,7 @@
           "description": "不幸的是，TVL 往往给人一种错误的安全感。一方面，你认为高 TVL 的协议更加安全，但同样黑客也会盯着这些协议进行攻击，因为攻击这些协议能赚取更多的利润。另一方面，低 TVL 也不一定就意味着协议就不安全。",
           "link": "https://www.web3sj.com/definews/32349/",
           "publishedOn": "2022-12-08T05:48:53.000Z",
-          "wordCount": 713,
+          "wordCount": 720,
           "title": "揭开DeFi安全面纱：DeFi协议终极安全指南",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670478482890.png"
         },
@@ -235,7 +235,7 @@
           "description": "为互联网创建身份层是困难的，因为对它应该是什么以及如何运行缺乏共识。数字身份与环境有关，我们会通过各种内容体验互联网，而这些内容至少存在于许多不同的环境中。如今，我们的数字身份大部分都是支离破碎的，处于少数利益相关方的控制之下，他们的利益是防止我们从他们的环境中溢出到任何其他地方。",
           "link": "https://www.web3sj.com/news/32333/",
           "publishedOn": "2022-12-08T05:40:59.000Z",
-          "wordCount": 1365,
+          "wordCount": 1385,
           "title": "万字长文解读Web3身份堆栈：迈向数字主权之路",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670478009335.png"
         },
@@ -245,7 +245,7 @@
           "description": "消费者希望与他们购买的品牌互动、归属感、影响力成为他们所购买的品牌的动力。绝大多数消费者在购买之前、期间或之后使用数字渠道了解。",
           "link": "https://www.web3sj.com/daonews/32317/",
           "publishedOn": "2022-12-08T04:44:28.000Z",
-          "wordCount": 1102,
+          "wordCount": 1106,
           "title": "SparkDAO行业观察：数字时尚的新兴领域和新趋势",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670474117244.png"
         },
@@ -255,7 +255,7 @@
           "description": "回想一下，MEV-Boost 背后的最初基本原理是试图减轻大型质押池对 MEV 提取的规模效应，这将不可避免地导致中心化。MEV-Boost 旨在允许任何验证者从他们提议的区块中获得尽可能多的 MEV，这意味着独立质押者获得 MEV 的机会与大型质押池一样，从而保持公平的竞争环境。",
           "link": "https://www.web3sj.com/news/32303/",
           "publishedOn": "2022-12-08T04:29:32.000Z",
-          "wordCount": 1071,
+          "wordCount": 1100,
           "title": "MEV给以太坊带来了哪些中心化问题？如何改进？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670473130555.png"
         },
@@ -265,7 +265,7 @@
           "description": "Jared还提到，由于SUSHI代币已接近完全流通，而Sushi财库此前除了代币解锁收入之外仅有通过Kanpai获得的少部分交易费抽成收入，一直未能实现财库储备的资产多样化（可以理解为财库手里基本只有SUSHI），这进一步削弱了Sushi的抗风险能力。",
           "link": "https://www.web3sj.com/definews/32298/",
           "publishedOn": "2022-12-08T03:50:13.000Z",
-          "wordCount": 558,
+          "wordCount": 568,
           "title": "资金只够再撑一年半，Sushi如何自救？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2022/12/1670471232308.png"
         }
@@ -584,12 +584,42 @@
       "siteUrl": "https://www.inoreader.com/stream/user/1005336866/tag/%E5%B7%B4%E6%AF%94%E7%89%B9%E5%BF%AB%E8%AE%AF/view/html",
       "articles": [
         {
+          "id": "http://www.inoreader.com/article/3a9c6e75f3a8dfc4",
+          "author": null,
+          "description": "巴比特讯，国内首个全面聚焦AIGC的行业峰会，“2022首届AIGC共创共建论坛”在12月8日开幕，国盛证券区块链研究院院长宋嘉吉分享称，AIGC代表新一轮范式转移的开始，硅谷一线VC们正瞄准AI初创公司，尤其是生成式AI艺术这一领域。如果说，以前AIGC是内容创造辅助工具，那未来，AIGC会成为内容创作主体。当然，AIGC也还会需要很多工具配合，这些工具将与人的工作流程相结合。\n在宋嘉吉看来，AIGC将是Web3时代的生产力工具。Web3时代，人与机器网络的全面链接，UGC、PGC的内容生成方式将难以匹配扩张的内容消费需求。AIGC的生成利用AI学习知识图谱、自动生成，在内容的创作上为人类提供协助或是完全由AI产生内容。它不仅能帮助提高内容生成效率，还能提高内容的多样性。\n此外，宋嘉吉认为，AIGC未来发展的核心是大模型、大数据与大算力。这意味着，结合自然语言的大模型与数据集是AIGC发展的软件基础。算力即权力将在AIGC数字时代更加凸显。未来将更多地基于语种去开发垂直类的应用。\n\n\n\n \n 本文链接：https://www.8btc.com/article/6792446\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792446",
+          "publishedOn": "2022-12-08T07:48:43.000Z",
+          "wordCount": 131,
+          "title": "国盛证券区块链研究院院长宋嘉吉：AIGC将是Web3时代的生产力工具",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
+          "id": "http://www.inoreader.com/article/3a9c6e75f3a8dfb6",
+          "author": null,
+          "description": "据 Cointelegraph 报道，西班牙央行发布声明表示，将启动一项实验计划，开始测试批发型央行数字货币（CDBC），目前正在寻求当地金融和技术机构的合作建议。根据声明，该银行将把重点放在三个主要领域，旨在模拟资金流动，试验金融资产的清算，并分析在其当前流程和基础设施中引入批发型央行数字货币的好处和缺点。有意参与该计划的各方必须满足该银行规定的最低要求，并在 2023 年 1 月 31 日截止的申请过程中披露他们愿意为该项目投入的“经济手段”。\n声明称，该计划与欧盟正在进行的关于数字欧元的研究工作无关。\n\n \n 本文链接：https://www.8btc.com/article/6792440\n 转载请注明文章出处",
+          "link": "https://www.8btc.com/article/6792440",
+          "publishedOn": "2022-12-08T07:48:43.000Z",
+          "wordCount": 157,
+          "title": "西班牙央行将启动批发型 CBDC 实验",
+          "enclosure": {
+            "length": "1337",
+            "type": "image/png",
+            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+          },
+          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
+        },
+        {
           "id": "http://www.inoreader.com/article/3a9c6e75f39119e8",
           "author": null,
           "description": "巴比特讯，国内首个全面聚焦AIGC的行业峰会，“2022首届AIGC共创共建论坛”在12月8日开幕，论坛由温州高新区（经开区）管委会指导，巴比特主办，温州元宇宙创新中心等承办，亚马逊云科技、无界版图、温州市软件行业协会、英中科技创新园等协办。 在论坛上，温州市北齐云科技有限公司、浙江星视视觉科技有限公司、温州中税科技有限公司的负责人，与温州元宇宙创新中心完成“入驻签约”仪式。 温州元宇宙创新中心位于温州湾新区核心区域浙南云谷，建筑面积近万平方米，由国内领先的区块链、元宇宙信息与技术服务商巴比特运营，于2022年10月正式开园，是温州首个以元宇宙和区块链为主题的产业园区。创新中心瞄准数字文创、虚拟数字人、XR扩展现实等元宇宙重点赛道，助力温州企业数字化转型，为温州数字经济发展注新活力。自开园以来，已有多家企业咨询入驻并希望落地。 据该园区负责人介绍，涉及元宇宙相关企业，区块链产业相关企业，以及符合税收要求的其它行业企业，都可以申请入驻，目前园区提供零租金，“拎包入住”的政策福利。\n直播链接：https://www.8btc.com/metacon-2022\n\n\n\n \n 本文链接：https://www.8btc.com/article/6792426\n 转载请注明文章出处",
           "link": "https://www.8btc.com/article/6792426",
           "publishedOn": "2022-12-08T06:48:25.000Z",
-          "wordCount": 134,
+          "wordCount": 139,
           "title": "三家企业完成温州元宇宙创新中心入驻签约，享受“零租金”政策福利",
           "enclosure": {
             "length": "1337",
@@ -604,7 +634,7 @@
           "description": "据 Cointelegraph 报道，澳大利亚央行今日发布了助理行长 Brad Jones 在央行会议上的讲话，详细谈到了 CBDC 可能对澳大利亚经济产生的影响。Jones 指出，自 8 月 9 日发布白皮书以来，有 80 多个金融实体提出了涵盖电子商务、线下和政府支付等诸多领域的 CBDC 使用案例。目前，负责试点“eAUD”项目的团队正在研究哪些提议的用例将在明年初进入其试点阶段，并预计在 2023 年中期左右发布项目报告。\nJones 还讨论了与澳大利亚 CBDC 相关的潜在风险，并指出如果 CBDC 成为首选持股来源，银行可能面临的流动性问题和其他问题。Jones 还指出，澳大利亚人倾向于将资金存放在“无风险”的 CBDC 中，这可能会导致银行挤兑，澳大利亚人会大规模地提取存款。Jones 表示，CBDC 也可以为澳大利亚人提供许多好处，比如隐私方面的好处，并且可以帮助保障货币主权。除了为终端用户提高效率和降低成本之外，离线交易还有可能提高现有支付系统的弹性。\n\n \n 本文链接：https://www.8btc.com/article/6792422\n 转载请注明文章出处",
           "link": "https://www.8btc.com/article/6792422",
           "publishedOn": "2022-12-08T06:48:25.000Z",
-          "wordCount": 211,
+          "wordCount": 216,
           "title": "澳大利亚 CBDC 试点计划已收到来自金融业的 140 多个用例提案",
           "enclosure": {
             "length": "1337",
@@ -619,7 +649,7 @@
           "description": "巴比特讯，国内首个全面聚焦AIGC的行业峰会，“2022首届AIGC共创共建论坛”在12月8日开幕，圆桌环节，在回答大厂如何入局AIGC领域时，某大厂战投部投资总监分享称，大厂下场会紧贴着原生业务，比如阿里可能会专注于用AIGC创作商品素材，腾讯用AIGC做游戏素材，抖音用AIGC来让创作者制作视频更简单。在当下的大环境里，大厂的激进程度已经下降很多。而他认为，大厂下场不一定会挤压创业公司，大厂被创业者“摩擦”也是很正常的。对于创业者，他认为首先需要拼速度；其次需要拼专业，在垂直化场景找到机会；最后是拼理念，依据AIGC平权理念让用户更多的参与。\n关注巴比特视频号，收看下午场直播。\n\n\n\n \n 本文链接：https://www.8btc.com/article/6792410\n 转载请注明文章出处",
           "link": "https://www.8btc.com/article/6792410",
           "publishedOn": "2022-12-08T05:47:28.000Z",
-          "wordCount": 120,
+          "wordCount": 125,
           "title": "某大厂战投部投资总监：AICG创业，创业者要拼速度、拼专业、拼理念",
           "enclosure": {
             "length": "1337",
@@ -634,7 +664,7 @@
           "description": "巴比特讯，国内首个全面聚焦AIGC的行业峰会，“2022首届AIGC共创共建论坛”在12月8日开幕，在圆桌环节，国盛证券区块链研究院院长宋嘉吉在回答火爆的AIGC热潮里，国内资本出手投资不是很多的原因是什么时，他认为有三点：\n1、AIGC还比较新，是一个全新的方向，大家还在学习的过程中。\n2、AIGC在2B端的商业模式正慢慢起来，但商业模式还没有那么完善。\n3、AIGC领域平台型的产品比较多，但这些产品往往还是要匹配更多的工具来协作。\n此外，相比动辄就说AIGC是万亿的市场而言，在产业初期，他认为还是要看具体用户数增长，用户付费意愿的增长，这些会更有意义。\n关注巴比特视频号，收看下午场直播。\n\n\n\n \n 本文链接：https://www.8btc.com/article/6792404\n 转载请注明文章出处",
           "link": "https://www.8btc.com/article/6792404",
           "publishedOn": "2022-12-08T04:46:41.000Z",
-          "wordCount": 120,
+          "wordCount": 125,
           "title": "国盛证券区块链研究院院长宋嘉吉：AIGC是全新的方向，但商业模式还不够完善",
           "enclosure": {
             "length": "1337",
@@ -649,7 +679,7 @@
           "description": "巴比特讯，国内首个全面聚焦AIGC的行业峰会，“2022首届AIGC共创共建论坛”在12月8日开幕，在圆桌环节，天使湾创投合伙人汪震宇分享称，AIGC本质上还是内容创作端的创新，它是一系列创新的延续。从投资角度看，长期而言，会越来越关注技术创新的价值和落地场景，回归到你的用户到底是谁，你提供了什么样的价值。另外，他认为，AIGC领域开源思想让他熟悉又陌生，这么多年来互联网的发展距离开源精神越来越远，AIGC让他有种重温的感觉。\n关注巴比特视频号，收看下午场直播。\n\n\n\n \n 本文链接：https://www.8btc.com/article/6792402\n 转载请注明文章出处",
           "link": "https://www.8btc.com/article/6792402",
           "publishedOn": "2022-12-08T04:46:41.000Z",
-          "wordCount": 120,
+          "wordCount": 125,
           "title": "天使湾创投合伙人汪震宇：互联网距离开源精神越来越远，AIGC的开源精神“熟悉又陌生”",
           "enclosure": {
             "length": "1337",
@@ -664,7 +694,7 @@
           "description": "巴比特讯，国内首个全面聚焦AIGC的行业峰会，“2022首届AIGC共创共建论坛”在12月8日开幕，在圆桌环节，牛津远航资本创始合伙人钭祺瑞分享称，在AIGC领域，拥有全球化的视野，全球化的业务布局，这类项目会更有差异化的竞争力。具体而言，他认为AIGC不适合太泛，创业者可以先切入一个垂直化的领域，可以帮助解决垂直领域的问题，并且把业务做得更精细一点，服务好付费订阅用户。\n\n\n\n \n 本文链接：https://www.8btc.com/article/6792398\n 转载请注明文章出处",
           "link": "https://www.8btc.com/article/6792398",
           "publishedOn": "2022-12-08T04:46:41.000Z",
-          "wordCount": 120,
+          "wordCount": 125,
           "title": "牛津远航资本创始合伙人钭祺瑞：AIGC创业者需要全球化视野，并且在垂直化领域解决问题",
           "enclosure": {
             "length": "1337",
@@ -679,7 +709,7 @@
           "description": "据《华尔街日报》引援知情人士报道，FTX 的新管理层已经聘请了咨询公司 AlixPartners 的法务调查员团队，以帮助追踪 FTX 交易所中丢失的数十亿美元。AlixPartners 团队由美国证券交易委员会 (SEC) 执法部门前首席会计师 Matt Jacques 领导。",
           "link": "https://www.8btc.com/article/6792394",
           "publishedOn": "2022-12-08T04:46:41.000Z",
-          "wordCount": 165,
+          "wordCount": 170,
           "title": "华尔街日报：FTX 已聘请取证团队调查数十亿美元的资金去向",
           "enclosure": {
             "length": "1337",
@@ -784,7 +814,7 @@
           "description": "据财联社创投通统计，11 月份全球 Web3.0 领域融资总数量为 71 笔，融资总额为 10.34 亿美元，环比增长 21.65%。\n从细分赛道来看，13 个区块链基础设施项目获得 4.56 亿美元，成为融资总额最多的领域。德国 3 个项目获得 2.11 亿美元融资；中国 10 个项目获得 2.04 亿美元融资，成为融资额增长最多的地区，环比增长超过 4 倍。从轮次来看，11 月份的融资主要集中在种子轮和战略轮，占比分别 43.67% 和 12.68%。\n\n \n 本文链接：https://www.8btc.com/article/6792338\n 转载请注明文章出处 \n\n  web3.0",
           "link": "https://www.8btc.com/article/6792338",
           "publishedOn": "2022-12-08T02:44:49.000Z",
-          "wordCount": 238,
+          "wordCount": 242,
           "title": "财联社创投通：11 月 Web3.0 市场融资 10.34 亿美元，中国市场环比增长 4 倍",
           "enclosure": {
             "length": "1337",
@@ -846,36 +876,6 @@
           "publishedOn": "2022-12-07T16:36:14.000Z",
           "wordCount": 166,
           "title": "美 SEC 主席：证券法适用于规范加密资产，SEC 有权监管",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
-          },
-          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75f32a3149",
-          "author": null,
-          "description": "据 vice 12 月 7 日报道，Facebook 正试图说服美国立法者再给加密货币一次机会，不要因为 FTX 破产和 SBF 的欺诈指控就实施过于严厉的监管，而应该让 NFT 驱动的元宇宙蓬勃发展，因为到 2031 年元宇宙将会让全球 GDP 增加 3 万亿美元，所以他们希望立法者不要像对待 Libra 一样对待元宇宙的 Web3 组件。Facebook 希望监管机构采用一个不会排除非广告商收入流的监管框架，这样就能更好地为创作者提供 “货币化工具”、访问数字资产和市场、与社区互动、消费数字产品和服务。\n\n \n 本文链接：https://www.8btc.com/article/6792310\n 转载请注明文章出处",
-          "link": "https://www.8btc.com/article/6792310",
-          "publishedOn": "2022-12-07T15:35:27.000Z",
-          "wordCount": 196,
-          "title": "Facebook：正说服美国立法者再给加密货币一次机会，让 NFT 驱动元宇宙蓬勃发展",
-          "enclosure": {
-            "length": "1337",
-            "type": "image/png",
-            "url": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
-          },
-          "imageUrl": "https://appserversrc.8btc.cn/images/20166621f00f53934600eda76d6890a8.png"
-        },
-        {
-          "id": "http://www.inoreader.com/article/3a9c6e75f30643f6",
-          "author": null,
-          "description": "据 newsbtc 12 月 7 日报道，Web3 投注平台 Dexsport 披露因遭黑客攻击已损失价值 40 万美元的 BUSD，但智能合约没有受到影响。据称，黑客利用链下漏洞攻击了该平台，该漏洞与处理存款的唯一交易标识符 “大小写记录” 有关，目前相关漏洞已经修复，提款和存款也已恢复，损失资金为平台自有资金，不涉及客户资金。\n\n \n 本文链接：https://www.8btc.com/article/6792294\n 转载请注明文章出处",
-          "link": "https://www.8btc.com/article/6792294",
-          "publishedOn": "2022-12-07T13:34:54.000Z",
-          "wordCount": 175,
-          "title": "Web3 投注平台 Dexsport 遭黑客攻击损失价值 40 万美元的 BUSD",
           "enclosure": {
             "length": "1337",
             "type": "image/png",
@@ -1283,7 +1283,7 @@
           "description": "加密早餐（2022年12月1日）--------推特：比特币橙子Trader；（看我推特，不迷路；如果你关注我、转发我、点赞我和评论我，你会暴富，不信你试试！~~）\n  \n【昨日复盘】  美联储主席鲍威尔表示，利率将进一步上升，12月就会放慢加息步伐，不想过度紧缩，不会马上降息，将在安全的水平区间停止缩表。仍然认为不会出现严重的经济衰退，终端利率会略高于9月预期，并存在较大的不确定性。足够严格的限制性政策取得了实质性进展，并将保持一段时间，只看到了劳动力需求和工资增长放缓的初步迹象，市场预计美联储将在明年5月达到本轮加息的峰值4.91%，昨日为5%。\n  \n美联储最新一期的经济状况“褐皮书”显示，与上份报告比较，美国整体经济活动大致持平或略有上升，利率和通胀继续对经济活动构成压力，促使中低收入消费者越来越多地购买低价商品，许多人对前景表示了更大的不确定性或悲观情绪。\n  \n美国11月ADP就业人数增加12.7万人，为2021年1月以来最小增幅，且薪资成长放慢，表明劳动力市场出现了与之前相比较更显著的放缓，这对于美联储来讲是一个好消息，说明加息正在起到应有的效果。\n  \n美国第三季度实际GDP年化季利率较初值上修0.2%至2.9%，美国11月芝加哥PMI录得37.2，为2020年5月以来新低，10月份全美的职位空缺从一个月前的1070减少到1030万。\n  \n昨晚美股全线大涨，道指上涨2.17%，买入技术性牛市趋势。标普500上涨3.02%。纳斯达克指数上涨4.41%。美债收益率全面回落，10年期国债收益率下跌6基点，报3.6847%。2年-10年期国债收益率之差上升4.4基点，报-69.35基点。\n  \nTelegram 创始人 Pavel Durov 在个人 Telegram 频道中表示，「已通过去中心化拍卖平台 Fragment 在不到一个月的时间里在 TON 上售出了…",
           "link": "https://mirror.xyz/0x8c902B8839010BB1761201d42f788e7eD9FCFD77/GLv5Fpj_MlKT8NhVke3jAX_oXophNDIp10nN_xj-WSQ",
           "publishedOn": "2022-12-01T04:32:16.000Z",
-          "wordCount": 942,
+          "wordCount": 941,
           "title": "鲍威尔言论以及ADP数据导致美股暴涨~Uniswap 宣布正式上线 NFT 聚合服务，并有条件的发放空投~大盘逐渐恢复，一大波反弹行情正在路上~",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/FHhEzfhrCMqYGPiWDjwjP.jpg?h=960&w=959"
         },
@@ -1293,7 +1293,7 @@
           "description": "​​​​​​​​​​​​​​​​​​导演第914篇原创每日行情分析  \n 2022.12.1\n \n​一、市场情绪： \n \n\n \n​二、图表结构：\n \n​1、大饼\n \n\n \n大饼4H的结构：  \n         目前大饼整体的运行是在一个大的4H的中枢结构之中震荡，如果一直能够保持在16600以上的震荡的话那么市场向上突破的概率就很高了。反之如果一直在16600一下震荡的话那么向下跌破的概率就高了。\n \n​       当然我个人对未来市场还是比较乐观的。只要保持控制好仓位和比例的话那么就算在腰斩我觉得也是机会，当然如果直接上去的话那么好，如果能够拉回18500的话那么整个市场就盘活了，拉不回去能去18000我觉得对后面就算有回调也是不会有前低的。\n \n\n \n​大饼1H的结构：\n \n​       目前大饼正在运行的是第三笔1H的上升。目前可以看到是处于钝化的状态，但是这个第三笔只要拉倒17500之后就不会处于钝化，那么就相当于不背驰了。\n \n​      个人认为第三笔大概率会不背驰，然后还会有第五笔1H的上升是要运行的，而且第三笔1H的上的内部其实只运行了第一笔15F的上，整个一笔1H的上升是没运行完的。所以大概率会不背驰。\n \n \n \n2、姨太：\n \n\n \n姨太4H的结构：\n \n​      姨太的4H结构跟大饼一样，这里的话姨太还是表现的略微强势一些了，姨太已经到4H的上沿了。\n \n​      而大饼还是差一些，目前姨太如果能够一直在1220以上震荡的话那么突破这个4H的中枢的概率会比较大。\n \n​       看姨太能否强势突破中枢上沿，如果能够突破的话这能够有一段不错的向上的行情。\n \n ​​​3、交易策略\n \n行情变化太快，很多不能及时提醒，不能够在变化的情况下把行情说清楚，欢迎关注我的推特 导演@DirectorBtc ​ ，会更及时更新更多的我的观点。| \n \n 另外，微博群已经开放，会更多的跟大家在这里聊天聊行情。  \n   \n \nPs: 粉丝福利活动进行中：  \n 每月微博活跃粉丝榜第一名 和铁粉中抽奖1名，将获得现货群免费资格1个月。  \n 让我看到大家互动的点赞评论～ \n \nEND\n \n温馨提示\n \n投资有风险，闲钱投资，警记永不满仓，不贷款，我们只提供信息，不构成买卖建议，买卖自由，风险自担！\n \n \nIf you find submirror valuable, please consider donate to wong2.eth to help cover server cost.",
           "link": "https://mirror.xyz/0x76276193e5e0c1aB752470A21BD9a93aCca23243/hanDR17MYPImJ_g7uGBppbka9rEMVNDSYJtR3gci11A",
           "publishedOn": "2022-12-01T01:09:00.000Z",
-          "wordCount": 775,
+          "wordCount": 774,
           "title": "【导演】12.1日行情分析，黎明前的黑暗，今天早上收月线，大饼整体走势算是走出了很多，姨太要比大饼强势许多。",
           "imageUrl": "https://mirror-media.imgix.net/publication-images/BtJWaACIAq_glni17r1Kp.jpg?h=960&w=960"
         }
