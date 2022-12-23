@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T05:13:27.780Z</id>
+    <id>urn:2022-12-23T06:18:42.393Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-23T05:13:27.780Z</updated>
+    <updated>2022-12-23T06:18:42.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一文盘点 DEX 们在 2022 的表现]]></title>
+        <id>https://www.defidaonews.com/article/6794996</id>
+        <link href="https://www.defidaonews.com/article/6794996"/>
+        <updated>2022-12-23T06:16:53.000Z</updated>
+        <summary type="html"><![CDATA[文章总结了 2022 年的 DEX 走势，其中不乏老牌 DEX，也有行业新贵。]]></summary>
+        <author>
+            <name>区块律动BlockBeats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻量化隐私公链Mina的技术原理以及生态发展]]></title>
+        <id>https://www.web3sj.com/?p=34999</id>
+        <link href="https://www.web3sj.com/project/34999/"/>
+        <updated>2022-12-23T05:59:33.000Z</updated>
+        <summary type="html"><![CDATA[不过如果只按照上述做法，为每个区块都创建一个 SNARK，那么随着时间的累积（例如第 1000 个区块），累积起来的空间也不小。Mina 使用了一种被称为 Pickles 的 zk-SNARK 技术，可以让区块保持固定大小，但又能实现 zk 证明。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa提出「账户抽象」概念：如何把以太坊改造成自动支付系统？]]></title>
+        <id>https://www.web3sj.com/?p=34992</id>
+        <link href="https://www.web3sj.com/news/34992/"/>
+        <updated>2022-12-23T05:55:50.000Z</updated>
+        <summary type="html"><![CDATA[对此，Visa 提出了账户抽象（AccoutAbstraction）概念，并以此探索如何用智能合约来实现自动化可编程支付，以及演示如何为支持自动提取资金的自托管钱包编写智能合约。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析应用链市场的逻辑及格局：新范式捕获]]></title>
+        <id>https://www.web3sj.com/?p=34989</id>
+        <link href="https://www.web3sj.com/news/34989/"/>
+        <updated>2022-12-23T05:45:36.000Z</updated>
+        <summary type="html"><![CDATA[由应用扩展为一条单独的链，就是应用链（即 Application Specific Blockchain）。与那些直接建构在公链上的智能合约相比，应用链是为了运行单个应用而定制的，所以拥有更大的自主权，而且还能独享整个网络的计算和存储资源。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美前总统特朗普「突袭」Web3，从大骂比特币骗局到 NFT 真香仅用一年?]]></title>
+        <id>https://www.web3sj.com/?p=34981</id>
+        <link href="https://www.web3sj.com/nftnews/34981/"/>
+        <updated>2022-12-23T05:42:27.000Z</updated>
+        <summary type="html"><![CDATA[特朗普的家族史总结起来就是，特朗普爷爷在淘金热年代，通过在金矿场附近开餐厅，赚取家族第一桶金，随后进入房地产行业。父亲弗雷德（Fred Trump）继承遗产，成为出色的房地产商人。1946 年 6 月 14 日，特朗普含住金钥匙在纽约市皇后区出生，并遗传了家族的投资眼光及经商头脑。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尽管有很多值得高兴的事情，但 Link Investors 仍可能会经历一些艰难的日子]]></title>
+        <id>https://0xzx.com/2022122313172997358.html</id>
+        <link href="https://0xzx.com/2022122313172997358.html"/>
+        <updated>2022-12-23T05:17:17.000Z</updated>
+        <summary type="html"><![CDATA[最近，LINK 母公司 Chainlink 透露了其与 Arbitrum 的合作伙伴关系，以支持第 2 层去中 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Archive 介绍其主要故事更新，名为“被遗忘之神的凯里”第一部分]]></title>
+        <id>https://0xzx.com/2022122313172997357.html</id>
+        <link href="https://0xzx.com/2022122313172997357.html"/>
+        <updated>2022-12-23T05:17:11.000Z</updated>
+        <summary type="html"><![CDATA[由 Nexon Korea Corp. 制作的独立游戏 Blue Archive 的新剧情活动已经启动。 Ne […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Braiscompany延迟付款，用户投诉； 公司说更新是罪魁祸首]]></title>
+        <id>https://0xzx.com/2022122313162997356.html</id>
+        <link href="https://0xzx.com/2022122313162997356.html"/>
+        <updated>2022-12-23T05:16:18.000Z</updated>
+        <summary type="html"><![CDATA[在帕拉伊巴州运营的加密货币投资公司 Braiscompany 从周二（20 日）开始受到投诉。 据客户称，该公 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺基亚 X20 5G 抢占 2022 年 12 月补丁]]></title>
+        <id>https://0xzx.com/2022122313162997355.html</id>
+        <link href="https://0xzx.com/2022122313162997355.html"/>
+        <updated>2022-12-23T05:16:15.000Z</updated>
+        <summary type="html"><![CDATA[诺基亚设备的另一个新软件更新已经发布。 根据最新报道，诺基亚今天开始推出 2022 年 12 月的安全补丁更新 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX 要求法院冻结 4.5 亿美元的 Robinhood 股票]]></title>
+        <id>https://0xzx.com/2022122313162997353.html</id>
+        <link href="https://0xzx.com/2022122313162997353.html"/>
+        <updated>2022-12-23T05:16:14.000Z</updated>
+        <summary type="html"><![CDATA[失败的加密货币交易所 FTX Trading Ltd. 已请求破产法庭冻结价值 4.5 亿美元的 Robinh […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[灰度或注册新公司“GRAYSCALE LLC”，被猜测与重组或解散旧实体有关]]></title>
         <id>https://www.techflowpost.com/express/5980</id>
@@ -18,53 +118,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mythical Games 指控前高管利用公司机密为其私人项目筹集 1.5 亿美元]]></title>
-        <id>https://0xzx.com/2022122312162997232.html</id>
-        <link href="https://0xzx.com/2022122312162997232.html"/>
-        <updated>2022-12-23T04:16:19.000Z</updated>
-        <summary type="html"><![CDATA[MarsBit消息，链游工作室 Mythical Games 提起诉讼，指控三名前高管利用公司机密为其离开公司 […]]]></summary>
+        <title type="html"><![CDATA[数据：2.54亿美元BTC和1.89亿美元ETH期权合约将于今日到期交割]]></title>
+        <id>https://www.theblockbeats.info/flash/120728</id>
+        <link href="https://www.theblockbeats.info/flash/120728"/>
+        <updated>2022-12-23T04:14:41.000Z</updated>
+        <summary type="html"><![CDATA[BlockBeats 消息，12 月 23 日，Deribit 数据显示，超过 2.54 亿美元 BTC 和 1.89 亿美元 ETH 的期权合约将于今日到期交割。其中 BTC 的最大痛点价格为 1.7 万美元；ETH 的最大痛点价格为 1225 美元。]]></summary>
         <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Semi 真正有多少续航里程]]></title>
-        <id>https://0xzx.com/2022122312152997230.html</id>
-        <link href="https://0xzx.com/2022122312152997230.html"/>
-        <updated>2022-12-23T04:15:09.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉终于在 12 月 1 日向百事可乐公司交付了首批两辆卡车驾驶室。此后，该公司又增加了 36 辆卡车，其中 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[执行官 Bill Ireton 离开 Sony Pictures 以推出 Indie Banner – The Hollywood Reporter]]></title>
-        <id>https://0xzx.com/2022122312142997229.html</id>
-        <link href="https://0xzx.com/2022122312142997229.html"/>
-        <updated>2022-12-23T04:14:08.000Z</updated>
-        <summary type="html"><![CDATA[经验丰富的日本制作主管 Bill Ireton 将离开 Sony Pictures International […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无 Gas 的四种签名类型风险性对比]]></title>
-        <id>https://0xzx.com/2022122312132997227.html</id>
-        <link href="https://0xzx.com/2022122312132997227.html"/>
-        <updated>2022-12-23T04:13:16.000Z</updated>
-        <summary type="html"><![CDATA[原文：Safe Signing 101 如果用户能够自由交互而无需支付高额 gas 费，Web3 将会被大规模 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF 在巴哈马监狱内受到特殊待遇：报告]]></title>
-        <id>https://0xzx.com/2022122312132997225.html</id>
-        <link href="https://0xzx.com/2022122312132997225.html"/>
-        <updated>2022-12-23T04:13:10.000Z</updated>
-        <summary type="html"><![CDATA[FTX 前首席执行官 Sam Bankman-Fried 被还押到巴哈马拿骚臭名昭著的 Fox Hill 监狱 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -107,16 +167,6 @@
         <summary type="html"><![CDATA[如果你不知道收益的来源，那你就是来源。]]></summary>
         <author>
             <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：2.54亿美元BTC和1.89亿美元ETH期权合约将于今日到期交割]]></title>
-        <id>https://www.theblockbeats.info/flash/120728</id>
-        <link href="https://www.theblockbeats.info/flash/120728"/>
-        <updated>2022-12-23T03:41:08.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 23 日，Deribit 数据显示，超过 2.54 亿美元 BTC 和 1.89 亿美元 ETH 的期权合约将于今日到期交割。其中 BTC 的最大痛点价格为 1.7 万美元；ETH 的最大痛点价格为 1225 美元。]]></summary>
-        <author>
-            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -188,7 +238,7 @@ OpenSea这一举措对古巴NFT艺术家来说是一个打击，预计他们可�
         <title type="html"><![CDATA[Ren成立基金会并铸造新REN Token的提案已通过]]></title>
         <id>https://www.theblockbeats.info/flash/120719</id>
         <link href="https://www.theblockbeats.info/flash/120719"/>
-        <updated>2022-12-23T03:13:08.000Z</updated>
+        <updated>2022-12-23T03:14:41.000Z</updated>
         <summary type="html"><![CDATA[BlockBeats 消息，12 月 23 日，Ren 成立基金会并铸造新 Ren Token 的提案已通过，选择铸造数量为 2 亿、1.5 亿、1 亿、5000 万枚 Token 的投票比例分别为 80.78%、1.08%、2.05%、10.97%。依据提案，最终新 Token 铸造数量将是考虑投票比例的加权平均值。
 
 BlockBeats 此前报道，12 月 16 日，由于 Alameda Research 破产后使得项目无法获得资金支持，负责发行封装加密资产的 DeFi 协议 Ren 发起提案决定是否铸造新 Token 以进行融资。]]></summary>
@@ -274,6 +324,18 @@ Mythical Games表示，该公司让这三名高管为新基金Mythical Ventures�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Core Scientific获批从现有债权人处获得3750万美元破产贷款]]></title>
+        <id>https://www.theblockbeats.info/flash/120713</id>
+        <link href="https://www.theblockbeats.info/flash/120713"/>
+        <updated>2022-12-23T02:14:41.000Z</updated>
+        <summary type="html"><![CDATA[BlockBeats 消息，12 月 23 日，据路透社报道，美国比特币矿企 Core Scientific 周四获得法院批准，从一组现有债权人那里获得 3750 万美元贷款，为其第 11 章破产案提供资金。
+
+美国破产法官 David Jones 在德克萨斯州休斯顿举行的法庭听证会上批准了 Core Scientific 的临时破产贷款。该公司将寻求贷款的最终批准，并获准在明年 1 月再借入 3750 万美元，不过该公司的律师说，它愿意接受其他贷款机构提供的更好的融资方案。代表债权人提供新贷款的 Kris Hansen 在法庭上表示，尽管 Core Scientific 最近面临挑战，且比特币价格不断下跌，但现有利益相关者仍然对该公司的长期生存能力充满信心。]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Aave DAO投票决定集成Chainlink储备证明以验证跨链资产]]></title>
         <id>https://panewslab.com/zh/articledetails/yhmd8322.html</id>
         <link href="https://panewslab.com/zh/articledetails/yhmd8322.html"/>
@@ -282,18 +344,6 @@ Mythical Games表示，该公司让这三名高管为新基金Mythical Ventures�
 该提案旨在验证DAI、USDC、USDT等资产被跨链至Avalanche之后，跨链合约中是否有足够的储备。该提案背后的Web3工作室Bored Ghost Developing表示，其PoR智能合约将为Aave的Avalanche版本提供额外的安全层，也可以帮助减轻对网络上桥接资产的攻击。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core Scientific获批从现有债权人处获得3750万美元破产贷款]]></title>
-        <id>https://www.theblockbeats.info/flash/120713</id>
-        <link href="https://www.theblockbeats.info/flash/120713"/>
-        <updated>2022-12-23T02:13:08.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 23 日，据路透社报道，美国比特币矿企 Core Scientific 周四获得法院批准，从一组现有债权人那里获得 3750 万美元贷款，为其第 11 章破产案提供资金。
-
-美国破产法官 David Jones 在德克萨斯州休斯顿举行的法庭听证会上批准了 Core Scientific 的临时破产贷款。该公司将寻求贷款的最终批准，并获准在明年 1 月再借入 3750 万美元，不过该公司的律师说，它愿意接受其他贷款机构提供的更好的融资方案。代表债权人提供新贷款的 Kris Hansen 在法庭上表示，尽管 Core Scientific 最近面临挑战，且比特币价格不断下跌，但现有利益相关者仍然对该公司的长期生存能力充满信心。]]></summary>
-        <author>
-            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -452,18 +502,6 @@ Gensler还对所谓的储备金证明报告提出了质疑，一些加密货币�
 相关阅读：Maple Finance被拖欠3600万美元贷款，Nexus Mutual受损，去中心化无抵押借贷再遭质疑]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX 请求法院帮助争夺 4.5 亿美元 Robinhood 股票所有权]]></title>
-        <id>https://www.defidaonews.com/article/6794914</id>
-        <link href="https://www.defidaonews.com/article/6794914"/>
-        <updated>2022-12-23T00:39:34.000Z</updated>
-        <summary type="html"><![CDATA[据 CoinDesk 报道，12 月 23 日，根据周四提交的一份文件，FTX 在争夺 Robinhood 价值约 4.5 亿美元股票的所有权之争中寻求美国破产法庭的帮助。
-文件显示，Emergent Fidelity Technologies 拥有约 5600 万股 HOOD 股票。该公司是一家在安提瓜和巴布达成立的公司实体，90% 的股份由前 FTX 首席执行官 SBF 控制。目前 SBF、FTX 债权人 Yonathan Ben Shimon 以及 BlockFi 三方试图控制这些股份。
-...]]></summary>
-        <author>
-            <name>Kyle</name>
         </author>
     </entry>
     <entry>
@@ -638,16 +676,6 @@ Bullish董事长兼首席执行官Brendan Blumer表示：“我们寻求成为�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22张图表定义2022年加密市场与Web3发展]]></title>
-        <id>https://www.web3sj.com/?p=34834</id>
-        <link href="https://www.web3sj.com/news/34834/"/>
-        <updated>2022-12-22T08:00:54.000Z</updated>
-        <summary type="html"><![CDATA[我们将何去何从？成交量仍将与价格走势相关。由于 2023 年全球经济衰退的合理可能性，上半年的交易量不太可能维持在 200 亿美元以上。随着市场预期利率下调，经济增长势头可能会发生变化。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[稳定币保险协议Y2K Finance宣布发行Token Y2K和治理Token vlY2K]]></title>
         <id>https://www.techflowpost.com/express/5970</id>
         <link href="https://www.techflowpost.com/express/5970"/>
@@ -656,36 +684,6 @@ Bullish董事长兼首席执行官Brendan Blumer表示：“我们寻求成为�
 用户现可以在Arbitrum生态DEX Balancer上交易Y2K，也可以通过在Y2K Balancer池中提供流动性来获得该Token。vlY2K将用于定义Y2K生态系统的重要参数，且不可转让。Y2K可以进一步锁定为vlY2K，允许锁定者积累治理权力份额并增加协议费收入。原文链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从OP的「上下两院」聊起：一币一票、一人一票到两者结合]]></title>
-        <id>https://www.web3sj.com/?p=34828</id>
-        <link href="https://www.web3sj.com/news/34828/"/>
-        <updated>2022-12-22T07:26:19.000Z</updated>
-        <summary type="html"><![CDATA[OP 很喜欢一个概念叫做 public good（公共利益）。传统的一币一票，有时候很难实现这一点。巨鲸的目的，往往一言难尽。为了币价上涨牺牲长期利益的短视行为，已经不算过分了，还有更严重的，例如当时 Luna 试图去操纵 Curve。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币交易所如何管理交易对手风险]]></title>
-        <id>https://www.web3sj.com/?p=34824</id>
-        <link href="https://www.web3sj.com/news/34824/"/>
-        <updated>2022-12-22T07:20:01.000Z</updated>
-        <summary type="html"><![CDATA[这里的基础市场类型通常称为 call market（在规定的时间将一段时间内的所有卖价和买价撮合交易，也称定点市场）。例如，纳斯达克的开盘和收盘时段就使用了这种周期性拍卖市场，交易者在这些交易期间发出本应保密的交易请求，只有在该期间结束后，请求才有效地「解密」，根据出价以及应以该价格清算的交易得以完成。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建设Web3，现在最需要Web2的移民？]]></title>
-        <id>https://www.web3sj.com/?p=34811</id>
-        <link href="https://www.web3sj.com/news/34811/"/>
-        <updated>2022-12-22T07:17:06.000Z</updated>
-        <summary type="html"><![CDATA[在经历过 3 年的狂暴牛市之后，2022 年，加密货币行业逐渐进入熊市——比特币单价从最高的 6 万 9 千美元跌落到现在的 1 万 7 千美元，遭遇脚踝斩。第二大币种以太坊同此凉热，单价从最高 4700 美元降到现在的 1200 美元。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
