@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-25T13:16:59.347Z</id>
+    <id>urn:2022-12-25T14:11:52.028Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-25T13:16:59.347Z</updated>
+    <updated>2022-12-25T14:11:52.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -56,23 +56,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[慢雾：Rubic协议错将USDC添至Router白名单，致授权合约用户USDC遭窃取]]></title>
-        <id>https://www.theblockbeats.info/flash/120905</id>
-        <link href="https://www.theblockbeats.info/flash/120905"/>
-        <updated>2022-12-25T13:04:51.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 25 日，据慢雾安全团队情报，2022 年 12 月 25 日，Rubic 跨链聚合器项目遭到攻击，导致用户账户中的 USDC 被窃取。慢雾安全团队以简讯的形式分享如下：
-
-1. Rubic 是一个 DEX 跨链聚合器，用户可以通过 RubicProxy 合约中的 routerCallNative 函数进行 Native Token 兑换。在进行兑换前，会先检查用户传入的所需调用的目标 Router 是否在协议的白名单中。
-
-2. 经过白名单检查后才会对用户传入的目标 Router 进行调用，调用数据也由用户外部传入。
-
-3. 不幸的是 USDC 也被添加到 Rubic 协议的 Router 白名单中，因此任意用户都可以通过 RubicProxy 合约任意调用 USDC。
-
-4. 恶意用户利用此问题通过 routerCallNative 函数调用 USDC 合约将已授权给 RubicProxy 合约的用户的 USDC 通过 transferFrom 接口转移至恶意用户账户中。
-
-此次攻击的根本原因在于 Rubic 协议错误的将 USDC 添加进 Router 白名单中，导致已授权给 RubicProxy 合约的用户的 USDC 被窃取。]]></summary>
+        <title type="html"><![CDATA[机构分析：预计 2023 年美国发生经济衰退的可能性为 80%]]></title>
+        <id>https://www.hellobtc.com/news/202212/19288.html</id>
+        <link href="https://www.hellobtc.com/news/202212/19288.html"/>
+        <updated>2022-12-25T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[12 月 25 日消息，机构分析：展望未来，预计 2023 年美国发生经济衰退的可能性为 80%。衰退概率模型显示，其可能会在明年 9 月左右发生。预计衰退程度将是轻微的，在整个衰退期间消费将保持正增长。]]></summary>
         <author>
-            <name>TheBlockBeats - 快讯</name>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全团队：出现新型虚假MetaMask钓鱼诈骗]]></title>
+        <id>https://www.hellobtc.com/news/202212/19287.html</id>
+        <link href="https://www.hellobtc.com/news/202212/19287.html"/>
+        <updated>2022-12-25T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[12月25日消息，据区块链安全公司BlockSec发推称，出现了利用新型虚假MetaMask的钓鱼诈骗，请不要与airdrop-blur.gq交互，当访问该网站并点击“链接钱包”时会弹出虚假的MetaMask窗口，但是当输入密码时不会有任何反应，此时如果点击“忘记密码”则会弹出假的“Secret Recovery Phrase”窗口以窃取助记词。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -100,8 +100,8 @@
         <title type="html"><![CDATA[马斯克：已经控制住Twitter开支，没有濒临破产]]></title>
         <id>https://www.theblockbeats.info/flash/120899</id>
         <link href="https://www.theblockbeats.info/flash/120899"/>
-        <updated>2022-12-25T11:14:51.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 25 日，Twitter 首席执行官埃隆·马斯克表示，已经控制住了 Twitter 的开支，但目前还不安全，没有濒临破产，还有很多工作要做。]]></summary>
+        <updated>2022-12-25T10:19:08.000Z</updated>
+        <summary type="html"><![CDATA[马斯克：已经控制住Twitter开支，没有濒临破产]]></summary>
         <author>
             <name>TheBlockBeats - 快讯</name>
         </author>
@@ -405,8 +405,8 @@ LastPass已经确定，黑客一旦获得云存储访问密钥和双存储容器
         <title type="html"><![CDATA[数据：比特币矿企集体债务总额超40亿美元，Core Scientific、Marathon Digital和Greenidge负债最多]]></title>
         <id>https://www.theblockbeats.info/flash/120884</id>
         <link href="https://www.theblockbeats.info/flash/120884"/>
-        <updated>2022-12-25T02:14:51.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 25 日，根据 Hashrate Index 的一份报告，比特币矿企到 2022 年底的集体债务总额将超过 40 亿美元。其中 Core Scientific 债务最多，截至 9 月 30 日欠债权人 13 亿美元，并已申请第 11 章破产保护；Marathon Digital 欠债约 8.51 亿美元，但大部分是可转换票据；第三债务人是 Greenidge Generation，欠债 2.18 亿美元，但正在进行可能会大幅减少债务的重组过程。]]></summary>
+        <updated>2022-12-25T02:05:08.000Z</updated>
+        <summary type="html"><![CDATA[数据：比特币矿企集体债务总额超40亿美元，Core Scientific、Marathon Digital和Greenidge负债最多]]></summary>
         <author>
             <name>TheBlockBeats - 快讯</name>
         </author>
@@ -496,8 +496,8 @@ LastPass已经确定，黑客一旦获得云存储访问密钥和双存储容器
         <title type="html"><![CDATA[自今年3月以来17位加密投资者共损失约1160亿美元的个人财富]]></title>
         <id>https://www.theblockbeats.info/flash/120875</id>
         <link href="https://www.theblockbeats.info/flash/120875"/>
-        <updated>2022-12-24T15:14:51.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 24 日，据《福布斯》数据显示，自今年 3 月以来，加密货币领域最富有的投资者和创始人中，有 17 位总共损失了大约 1160 亿美元的个人财富，其中 15 人在过去 9 个月里损失了超过一半的个人财富，10 人完全失去了亿万富翁的地位。]]></summary>
+        <updated>2022-12-24T15:05:08.000Z</updated>
+        <summary type="html"><![CDATA[自今年3月以来17位加密投资者共损失约1160亿美元的个人财富]]></summary>
         <author>
             <name>TheBlockBeats - 快讯</name>
         </author>
@@ -526,8 +526,8 @@ LastPass已经确定，黑客一旦获得云存储访问密钥和双存储容器
         <title type="html"><![CDATA[Binance.US已将提款保留时间缩短至7天]]></title>
         <id>https://www.theblockbeats.info/flash/120872</id>
         <link href="https://www.theblockbeats.info/flash/120872"/>
-        <updated>2022-12-24T13:14:51.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 24 日，据官方公告，Binance.US 已将通过银行转账（ACH）、借记卡和与 Apple Pay 关联的借记卡进行所有存款的提款保留时间从 10 天缩短到 7 天，以便用户可以更自由地提取存入帐户的美元以及使用这些资金购买任何加密货币。此外，Binance.US 表示会出于风险管理和客户保护的原因会实施提现暂停。]]></summary>
+        <updated>2022-12-24T13:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Binance.US已将提款保留时间缩短至7天]]></summary>
         <author>
             <name>TheBlockBeats - 快讯</name>
         </author>
@@ -536,8 +536,8 @@ LastPass已经确定，黑客一旦获得云存储访问密钥和双存储容器
         <title type="html"><![CDATA[马斯克：Twitter将允许用户关闭浏览量计数功能]]></title>
         <id>https://www.theblockbeats.info/flash/120869</id>
         <link href="https://www.theblockbeats.info/flash/120869"/>
-        <updated>2022-12-24T13:14:51.000Z</updated>
-        <summary type="html"><![CDATA[BlockBeats 消息，12 月 24 日，Twitter 首席执行官埃隆·马斯克表示，Twitter 未来将允许用户关闭浏览量计数功能。]]></summary>
+        <updated>2022-12-24T13:05:08.000Z</updated>
+        <summary type="html"><![CDATA[马斯克：Twitter将允许用户关闭浏览量计数功能]]></summary>
         <author>
             <name>TheBlockBeats - 快讯</name>
         </author>
@@ -553,26 +553,6 @@ LastPass已经确定，黑客一旦获得云存储访问密钥和双存储容器
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[重庆成都联合开展数字人民币研究及移动支付创新应用]]></title>
-        <id>https://www.hellobtc.com/news/202212/19278.html</id>
-        <link href="https://www.hellobtc.com/news/202212/19278.html"/>
-        <updated>2022-12-24T12:57:00.000Z</updated>
-        <summary type="html"><![CDATA[重庆市人民政府办公厅、四川省人民政府办公厅发布《关于印发成渝共建西部金融中心规划联合实施细则的通知》，《通知》要求，推动重庆、成都加快开展数字人民币试点，联合开展数字人民币研究及移动支付创新应用，完善数字人民币应用生态体系，在乡村惠农、智慧民生、政府服务等领域拓展数字人民币应用场景。推动人民银行数字货币研究所在成渝地区设立分支机构。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[江苏银行连云港分行开展“数字人民币”推广行动]]></title>
-        <id>https://www.hellobtc.com/news/202212/19277.html</id>
-        <link href="https://www.hellobtc.com/news/202212/19277.html"/>
-        <updated>2022-12-24T12:57:00.000Z</updated>
-        <summary type="html"><![CDATA[目前，数字货币电子APP已开通，数字人民币App（试点版）已可以通过手机应用市场等功能下载注册，12月份开始在全省全面推开试点。 江苏银行连云港分行积极响应省委省政府稳妥推进数字人民币研发、加快数字金融创新工作要求，积极开展“数字人民币”推广活动。（新华网）]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CZ：为什么人们对币安产生FUD？]]></title>
         <id>https://www.defidaonews.com/article/6795154</id>
         <link href="https://www.defidaonews.com/article/6795154"/>
@@ -580,6 +560,16 @@ LastPass已经确定，黑客一旦获得云存储访问密钥和双存储容器
         <summary type="html"><![CDATA[币安 CEO CZ 解释为什么围绕币安会有很多 FUD。]]></summary>
         <author>
             <name>Kyle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lens Protocol发布Lens SDK首个开发者预览版]]></title>
+        <id>https://www.theblockbeats.info/flash/120863</id>
+        <link href="https://www.theblockbeats.info/flash/120863"/>
+        <updated>2022-12-24T11:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Lens Protocol发布Lens SDK首个开发者预览版]]></summary>
+        <author>
+            <name>TheBlockBeats - 快讯</name>
         </author>
     </entry>
     <entry>
