@@ -63,12 +63,22 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6800974",
+          "author": "东寻",
+          "description": "我们应该对 Aptos 垂涎三尺还是不屑一顾？",
+          "link": "https://www.defidaonews.com/article/6800974",
+          "publishedOn": "2023-01-31T03:24:53.000Z",
+          "wordCount": 654,
+          "title": "Bankless丨Aptos 近期暴涨是怎么回事？",
+          "imageUrl": "https://appserversrc.8btc.cn/Frv9RihU4rqm4Jl1HEczL5bxcCac.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6800968",
           "author": "CertiK中文",
           "description": "​在 DeFi 项目中参与质押要注意的安全问题。",
           "link": "https://www.defidaonews.com/article/6800968",
           "publishedOn": "2023-01-31T03:03:01.000Z",
-          "wordCount": 829,
+          "wordCount": 839,
           "title": "Staking 和 Staking 还有差别？实现「睡后收入」如何避免翻车？",
           "imageUrl": "https://appserversrc.8btc.cn/FoMNVWiMTy8F5Z7adO4cUZkJ5Xyw.png?imageView2/1/w/500/h/300"
         },
@@ -78,7 +88,7 @@
           "description": "互惠和能动性是社区创造有机动力和保持飞轮运转的驱动力和有机燃料。",
           "link": "https://www.defidaonews.com/article/6800962",
           "publishedOn": "2023-01-31T02:33:05.000Z",
-          "wordCount": 273,
+          "wordCount": 277,
           "title": "如何利用代币和 NFT 运营 Web3 社区",
           "imageUrl": "https://appserversrc.8btc.cn/Ft5VrB4tQznsMssu5j9M4iRXuVFu.png?imageView2/1/w/500/h/300"
         },
@@ -98,7 +108,7 @@
           "description": "zkEVM 备受关注，zkVM 也是另一种不容忽视的扩容手段。",
           "link": "https://www.defidaonews.com/article/6800952",
           "publishedOn": "2023-01-31T02:20:24.000Z",
-          "wordCount": 1066,
+          "wordCount": 1070,
           "title": "zkVM 生存之道，一文详解派系之争",
           "imageUrl": "https://appserversrc.8btc.cn/FjMlAZFYJwK7MuLAnzqwvEosWyQu.png?imageView2/1/w/500/h/300"
         },
@@ -108,7 +118,7 @@
           "description": "在等待宏观数据落地成真的时点，机构和散户的分别下注构成了上周市场的主旋律。",
           "link": "https://www.defidaonews.com/article/6800908",
           "publishedOn": "2023-01-30T15:13:31.000Z",
-          "wordCount": 210,
+          "wordCount": 212,
           "title": "【1.23-1.30 一周观察】世界重新转动：新的“忙碌周”，机构看空与市场乐观",
           "imageUrl": "https://appserversrc.8btc.cn/FgIrWZOhtRDEHjWqvOZ9vDkCebly.png?imageView2/1/w/500/h/300"
         },
@@ -151,16 +161,6 @@
           "wordCount": 146,
           "title": "FTX 正在寻求从破产案件范围中移除 FTX Turkey",
           "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6800862",
-          "author": "隔夜的粥",
-          "description": "一文了解 Slashing （罚没）对 PoS 协议的重要性",
-          "link": "https://www.defidaonews.com/article/6800862",
-          "publishedOn": "2023-01-30T09:46:36.000Z",
-          "wordCount": 722,
-          "title": "EigenLayer ：Slashing （罚没）的加密经济学",
-          "imageUrl": "https://appserversrc.8btc.cn/ls7uCIVa7J6VlGw2nXPfLUJnWDSU.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -169,6 +169,46 @@
       "feedUrl": "https://www.web3sj.com/feed/",
       "siteUrl": "https://www.web3sj.com",
       "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=40848",
+          "author": "Gao",
+          "description": "总的来说，L2 现在一直在处理比以太坊 L1 更多的交易，且开始真正证明它们作为以太坊主要扩展解决方案的能力。推动 L2 增长的主力之一是 Arbitrum，一个 optimistic rollup。在竞争日益激烈的 rollup 环境中，Arbitrum 正在成为 DeFi 的主要 L2，拥有大量创新应用程序和强大的社区。",
+          "link": "https://www.web3sj.com/news/40848/",
+          "publishedOn": "2023-01-31T04:06:27.000Z",
+          "wordCount": 1016,
+          "title": "Bankless：Arbitrum或成为L2赛季黑马？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675137954098.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=40842",
+          "author": "Gao",
+          "description": "一些广为人知的项目如 Uniswap、1inch、MaskNetwork、ENS 等都曾参与过 Gitcoin Grants，因此 Gitcoin 也被称为「以太坊的军火库」。Gitcoin 一直在探索更有效率的捐赠方式，致力于从二次配捐（也就是 QF 的集中式赠款）转向 GitcoinDAO ：创建一种去中心化和可定制的赠款协议。",
+          "link": "https://www.web3sj.com/news/40842/",
+          "publishedOn": "2023-01-31T03:36:55.000Z",
+          "wordCount": 789,
+          "title": "新版Gitcoin最后一天，这15个项目值得关注",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675135921303.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=40834",
+          "author": "Gao",
+          "description": "他表示会在适当时候推出 DEX 聚合器，这也是继 2022 年 Sushi 推出多链 DEX SushiXswap 后的最重要举动，更接近于 1inch 的发展思路。此外，会以探索更多 Sushi 应用场景为入手，重塑自身的代币经济学，以促进 Sushi DAO 更多的去中心化治理能力，而从 Sushi 本身抢先发币占据 Uniswap 的历史表现来看，代币激励措施始终是其看家本领。",
+          "link": "https://www.web3sj.com/definews/40834/",
+          "publishedOn": "2023-01-31T03:26:29.000Z",
+          "wordCount": 862,
+          "title": "SushiSwap亮出兔年路线图，巨头挤压下的寿司还能否突围？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675135571251.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=40830",
+          "author": "Gao",
+          "description": "产品和代币可以以不同的方式相互关联。确实存在需要先有代币才能使产品的情况；更常见的情况是产品可以从代币中受益，但并不严格需要代币才能运行。在大多数情况下，产品不需要代币，但无论如何，项目仍可能有充分的理由决定推出代币。我们现在将逐一分析这些案例，并以每个类别中现有项目为例进行说明。",
+          "link": "https://www.web3sj.com/news/40830/",
+          "publishedOn": "2023-01-31T03:20:05.000Z",
+          "wordCount": 626,
+          "title": "你的Web3产品真的需要代币吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675135183694.png"
+        },
         {
           "id": "https://www.web3sj.com/?p=40794",
           "author": "Gao",
@@ -185,7 +225,7 @@
           "description": "V神以RAI系统为例探讨使用预言机实现共同质押的三个解决方案。加密艺术家NessGraphics的NFT项目完成超2万枚铸造共募集1404枚ETH。新火科技上线Sinohope Staking技术支持服务，正式布局去中心化业务。",
           "link": "https://www.web3sj.com/news/40780/",
           "publishedOn": "2023-01-30T12:00:14.000Z",
-          "wordCount": 794,
+          "wordCount": 799,
           "title": "Web3.0世界日报（2023-1.30）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/2023013011595947.jpg"
         },
@@ -205,7 +245,7 @@
           "description": "零知识证明是一类算法的统称，到目前为止，研究者发明了包括 Plonk、Groth 16、zkStark、Virgo、Orion、Foaks 等等在内的许多种协议。不同的协议适用于不同的计算场景，复杂度和效率也各有不同，例如 Foaks 就以线性的证明时间和较小的证明长度为优势。",
           "link": "https://www.web3sj.com/news/40763/",
           "publishedOn": "2023-01-30T11:49:46.000Z",
-          "wordCount": 878,
+          "wordCount": 889,
           "title": "一文了解零知识证明当中的Sum-check Protocol",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675079369129.png"
         },
@@ -215,7 +255,7 @@
           "description": "「在过去的一年里，我们一直在确定 Crypto 的风险，并利用行政部门的权力采取行动减轻这些风险。」这一建设性和详尽的路线图的第一部分是政府去年年底发布的有史以来第一个 Crypto 行业发展的全面框架。这些文件是基于总统在 2022 年 3 月发布的关于确保数字资产负责任发展的行政命令中列出的报告。",
           "link": "https://www.web3sj.com/news/40760/",
           "publishedOn": "2023-01-30T11:42:48.000Z",
-          "wordCount": 591,
+          "wordCount": 586,
           "title": "白宫构建Crypto路线图，系统推进Crypto管理进程",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675078842905.png"
         },
@@ -225,49 +265,9 @@
           "description": "纵观通知全文，我们可总结三个观点：1. 数字藏品属于数字经济，不会「一刀切」；2. 数字藏品乱象频出，存在违法犯罪隐患；3.监管部门将采取「积极监管」策略。那么，咱们一起学习研究通知，且看分解。",
           "link": "https://www.web3sj.com/nftnews/40757/",
           "publishedOn": "2023-01-30T11:39:33.000Z",
-          "wordCount": 592,
+          "wordCount": 585,
           "title": "该省率先出手，数字藏品直面新年第一「管」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675078494776.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=40709",
-          "author": "Gao",
-          "description": "目前 Arbitrum 还没有自己的治理代币，而 Optimism 的代币自 2023 年初以来已实现两位数的收益，可以看出两者之间的营运顺序完全相反。Arbitrum 是先让技术升级，之后才要开始发币、搞空投、生态基金。",
-          "link": "https://www.web3sj.com/project/40709/",
-          "publishedOn": "2023-01-30T03:19:23.000Z",
-          "wordCount": 761,
-          "title": "Arbitrum的运营路径及2023年展望",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675048746957.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=40705",
-          "author": "Gao",
-          "description": "有一个特别神奇的现象，新加坡聚集了一众中国互联网黄金时代上岸套现的创业者，以及在互联网战争中斗争失败，被迫上岸的「失败人士」，如今他们反而成为了最大的赢家。",
-          "link": "https://www.web3sj.com/news/40705/",
-          "publishedOn": "2023-01-30T03:14:54.000Z",
-          "wordCount": 683,
-          "title": "新加坡游记：「失意者」躺赢，风水与Web3",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675048293887.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=40698",
-          "author": "Gao",
-          "description": "ETH 持有者可以将其 ETH 放入 CDP，取出 RAI，以 1% DAI 的储蓄率将其转换为 DAI，并赚取约 10% 的利差，或约 5% 的年回报率（考虑到 2 倍的抵押保证金）。或者，他们可以只质押他们的 ETH，并以更低的风险赚取同样的 5% 年回报率。 如果 RAI 利率甚至增加到 -3%，计算结果将更加有利于 staking 质押。",
-          "link": "https://www.web3sj.com/news/40698/",
-          "publishedOn": "2023-01-30T03:10:41.000Z",
-          "wordCount": 965,
-          "title": "Vitalik：以RAI系统为例，探讨预言机共同质押的可能性",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675048227291.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=40686",
-          "author": "Gao",
-          "description": "首先我们来看下当前的具体数据 。对于还没有开启 unstake，价格波动较大的 stETH，目前有 31% 在 AAVE/ MakerDAO 两大借贷协议上，还有少量在 Compound/ Euler 等借贷协议上，纵使潜力尚未被完全挖掘，也稳坐 stETH 第一大应用场景了，毕竟即使 Curve 也仅占 10%。",
-          "link": "https://www.web3sj.com/definews/40686/",
-          "publishedOn": "2023-01-30T03:04:19.000Z",
-          "wordCount": 800,
-          "title": "LSD的最大隐藏赢家：借贷协议",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/01/1675047843245.png"
         }
       ]
     },
@@ -576,7 +576,7 @@
           "description": "深潮 TechFlow 消息，1 月 31 日，链游 Fusionist 在其社交平台表示，其主网 Endurance 在上线后不久出现服务器过载，团队不得不暂时将 RPC 关闭。在完成相应升级后，团队已恢复 RPC，并更新奖励机制，包括提高 ACE 产出等。\n此外，团队表示后续还将加入验证机制以防止 ACE 被机器人获得，并将增加 BOAT 的储能机制等。原文链接",
           "link": "https://www.techflowpost.com/express/6443",
           "publishedOn": "2023-01-31T03:06:20.000Z",
-          "wordCount": 13409,
+          "wordCount": 13399,
           "title": "链游Fusionist：主网上线后因服务器过载导致RPC短暂关闭，团队已完成升级并更新奖励机制",
           "imageUrl": null
         },
@@ -596,7 +596,7 @@
           "description": "深潮 TechFlow 消息，Alameda Research正寻求从已经破产的加密货币借贷平台Voyager Digital追回约4.46亿美元。\n这笔资金与Voyager在2022年7月申请破产前向Alameda提供的贷款有关。法庭文件显示，Alameda在申请破产保护前不久已偿还贷款，因此它试图利用破产规则收回资金，破产规则旨在确保一些债权人不会受到优待。原文链接",
           "link": "https://www.techflowpost.com/express/6441",
           "publishedOn": "2023-01-31T01:51:57.000Z",
-          "wordCount": 13386,
+          "wordCount": 13376,
           "title": "Alameda Research正寻求从Voyager追回4.46亿美元",
           "imageUrl": null
         },
@@ -616,7 +616,7 @@
           "description": "深潮 TechFlow 消息，加密游戏平台Oh Baby Games完成600万美元种子轮融资，eGirl Capital和Synergis Capital领投，Merit Circle、Twitch联合创始人Kevin Lin等参投。\nOh Baby Games计划在2023年推出三款独立的游戏以及跨链收藏品。第一个发布的游戏WhatTheKart是传统赛车游戏的衍生品，此版本之后将推出Rugpull Guys和平台格斗游戏。原文链接",
           "link": "https://www.techflowpost.com/express/6439",
           "publishedOn": "2023-01-31T01:40:22.000Z",
-          "wordCount": 13396,
+          "wordCount": 13406,
           "title": "加密游戏平台Oh Baby Games完成600万美元融资，eGirl Capital等领投",
           "imageUrl": null
         },
@@ -666,7 +666,7 @@
           "description": "深潮 TechFlow 消息，专注于加密货币安全的初创公司完成900万美元的种子轮融资，本轮融资由 boldstart ventures 和 IBI tech fund 领投，Blockdaemon、Alchemy、Borderless、CMT Digital、Nexo 和天使投资人进行战略投资。该公司由 Sagie 和 Dan Caspi 创立，他们也是 Hypernative 的首席技术官。原文链接",
           "link": "https://www.techflowpost.com/express/6434",
           "publishedOn": "2023-01-30T13:09:31.000Z",
-          "wordCount": 13391,
+          "wordCount": 13401,
           "title": "加密安全公司Hypernative完成900万美元的种子轮融资，boldstart ventures等领投",
           "imageUrl": null
         },
@@ -686,7 +686,7 @@
           "description": "深潮 TechFlow 消息，1月30日，针对自媒体传播的“Huobi平台泄露客户信息给税务机关”，火必表示，该事件与新火必无关，对于自媒体所指是否与老火币相关并不知情。\n火必全球顾问委员会成员孙宇晨也发布推文称，火必总部设在塞舌尔，并在加勒比地区开展业务，火必除非遵循国际司法协助程序，否则不会与税务机关共享任何客户信息。",
           "link": "https://www.techflowpost.com/express/6432",
           "publishedOn": "2023-01-30T08:55:49.000Z",
-          "wordCount": 13387,
+          "wordCount": 13377,
           "title": "火必：自媒体发布的所谓 Huobi 泄露客户信息与新火必无关",
           "imageUrl": null
         },
@@ -736,7 +736,7 @@
           "description": "深潮 TechFlow 消息，新火科技宣布推出去中心化Staking技术支持服务Sinohope Staking。\n首期服务支持Cosmos链，未来计划拓展至以太坊、EOS、LINK等其他主流公链。原文链接",
           "link": "https://www.techflowpost.com/express/6427",
           "publishedOn": "2023-01-30T06:48:25.000Z",
-          "wordCount": 13374,
+          "wordCount": 13384,
           "title": "新火科技推出去中心化业务Sinohope Staking，首期服务支持Cosmos链",
           "imageUrl": null
         },
@@ -766,7 +766,7 @@
           "description": "深潮 TechFlow 消息，跨链 DeFi 协议 Entangle Protocol 将在测试网集成 Fantom 网络，同时将与 Fantom 上的 SpookySwap 和 SpiritSwap 链接。\n此外，连接生态系统的用户还可以通过合成金库提供流动资金，针对流动性头寸进行借贷 (V2)。原文链接",
           "link": "https://www.techflowpost.com/express/6424",
           "publishedOn": "2023-01-30T03:43:31.000Z",
-          "wordCount": 13413,
+          "wordCount": 13403,
           "title": "跨链DeFi协议Entangle Protocol将在测试网集成Fantom",
           "imageUrl": null
         },
@@ -776,7 +776,7 @@
           "description": "深潮 TechFlow 消息，据彭博社报道，知情人士透露，百度公司正计划推出类似于OpenAI的ChatGPT的人工智能聊天机器人服务。该知情人士表示，百度计划在3月份推出ChatGPT风格的应用程序，最初将其嵌入到其主要搜索服务中，该工具的名称尚未确定，它将像OpenAI一样允许用户获得对话式搜索结果。\n百度花费了数十亿美元研究人工智能，历时数年努力从在线营销向更深层次的技术转型。知情人士表示，百度的Ernie系统是一种大规模的机器学习模型，经过多年的数据训练，将成为即将推出的类似ChatGPT的工具的基础。百度的代表拒绝置评。\n报道称，OpenAI的人工智能工具ChatGPT自去年11月公开亮相以来就在互联网上引起了轰动，在几天内就积累了超过100万用户。包括微软在内的公司正在投资数十亿美元，试图开发现实世界的应用程序，而其他公司则在利用这种炒作来筹集资金。此前去年12月份消息，Web3社交图谱LinkeNetwork和Relation均宣布集成ChatGPT。原文链接",
           "link": "https://www.techflowpost.com/express/6423",
           "publishedOn": "2023-01-30T02:51:14.000Z",
-          "wordCount": 13348,
+          "wordCount": 13358,
           "title": "百度计划推出类似于ChatGPT风格的应用程序，最初将嵌入至其搜索服务中",
           "imageUrl": null
         },
@@ -786,7 +786,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，期权协议 Lyra 已上线以太坊二层网络 Arbitrum，并已开放存款功能，用户可以将 USDC 存入 ETH 做市商金库，为即将到来的 Newport 发布做准备，MMV 允许流动性提供者从交易中赚取费用以及 stkLYRA 奖励。Lyra 理事会已拨款 3000 万枚 Lyra / 年或 115 万枚 Lyra / 前两周来激励存款，交易和奖励将在约 48 小时内上线。\n据 Rootdata 数据显示，Lyra 此前完成 2 笔融资，总共筹集 630 万美元，Framework Ventures 、GSR、Robot Ventures 等参投。来源链接",
           "link": "https://www.techflowpost.com/express/6422",
           "publishedOn": "2023-01-30T01:55:02.000Z",
-          "wordCount": 13457,
+          "wordCount": 13447,
           "title": "期权协议 Lyra 已上线以太坊二层网络 Arbitrum，并已开放存款功能",
           "imageUrl": null
         },
@@ -796,7 +796,7 @@
           "description": "深潮 TechFlow 消息，Aptos 联合创始人兼首席执行官 Mo Shaikh 在播客节目中表示，Aptos 的使命是创造一种新的数字化信息共享形式，让用户能够以更有效、更公平的方式共享信息和经济价值。Aptos 与前几代区块链和扩展解决方案相媲美，而且正在挑战互联网以及经济价值。\n此外，Mo Shaikh 称 2023 年 Aptos 计划将其打造成“意向年”，更多大型传统企业将进入加密领域。Aptos 希望在不停机的情况下覆盖数十亿人，同时提供每秒数千次交易和亚秒级延迟。原文链接",
           "link": "https://www.techflowpost.com/express/6421",
           "publishedOn": "2023-01-30T01:25:55.000Z",
-          "wordCount": 13401,
+          "wordCount": 13391,
           "title": "Aptos 联创：希望在不停机的情况下覆盖数十亿人，同时提供每秒数千次交易和亚秒级延迟",
           "imageUrl": null
         },
@@ -806,7 +806,7 @@
           "description": "深潮 TechFlow 消息，隐私公链 Secret Network 核心开发团队 SCRT Labs 的创始人兼首席执行官 Guy Zyskind 指控 Secret 基金会及其创始人 Tor Bair 的财务运作缺乏透明度，并且资金处理不当，在 2021 年底出售大量 SCRT，特别是关于基金会进行的场外交易中资金管理，导致约 250 万美元的资金损失。该事件在一年半的时间里没有进行报告，SCRT Labs 对此“一无所知”。\n据悉，SCRT Labs 建议与社区合作成立一个新的 Secret 基金会，并要求 Secret 基金会将持有的所有当前资金（加密货币和法定货币）返还给社区，新组织由 Secret 基金会的现有员工以及 Secret 成员组成，并将注册为非营利组织，保持透明和经过审计的活动。来源链接",
           "link": "https://www.techflowpost.com/express/6420",
           "publishedOn": "2023-01-30T01:20:15.000Z",
-          "wordCount": 13423,
+          "wordCount": 13413,
           "title": "SCRT Labs 创始人：Secret 基金会缺乏财务透明度，建议成立新的基金会",
           "imageUrl": null
         },
@@ -816,7 +816,7 @@
           "description": "深潮 TechFlow 消息，Web3 生态系统 Fastex 于 1 月 18 日通过私募和公募完成 2320 万美元融资。据悉，Fastex 提供多样化的产品范围，包括 Fastex Verse、ftNFT 市场、Fastex Chain、Fastex Pay 加密支付系统、Fasttoken 和 Fastex Exchange 加密和法币交易平台。\nFTN 作为 Fastex 所有产品和服务的实用代币，也是 Fastex Chain 的原生代币。来源链接",
           "link": "https://www.techflowpost.com/express/6419",
           "publishedOn": "2023-01-29T11:43:03.000Z",
-          "wordCount": 13440,
+          "wordCount": 13450,
           "title": "Web3 生态系统 Fastex 通过私募和公募完成 2320 万美元融资",
           "imageUrl": null
         },
@@ -836,7 +836,7 @@
           "description": "深潮 TechFlow 消息，Fantom联创Andre Cronje发文，将从fUSD v1迁移至fUSD v2，允许fUSD作为链上收费系统，这意味着Fantom能够以FTM或fUSD分配费用，并能够根据使用情况预测未来成本。\nfUSD v1将实施清算，fUSD债务等于或大于FTM或sFTM支持的任何头寸都将被清算；在sFTM支持的情况下，质押将立即取消质押，并领取所有奖励。此外，为了允许用户平仓，还构建了将DAI兑换为fUSD的工具，以方便结清未尝债务。原文链接",
           "link": "https://www.techflowpost.com/express/6417",
           "publishedOn": "2023-01-29T09:26:02.000Z",
-          "wordCount": 13377,
+          "wordCount": 13387,
           "title": "Andre Cronje：将从fUSD v1迁移至v2，允许fUSD作为链上收费系统",
           "imageUrl": null
         },
@@ -896,7 +896,7 @@
           "description": "深潮 TechFlow 消息，Yuga Labs 联合创始人 Wiley Aronow 在社交媒体上发文表示，因其个人被检查出患有充血性心力衰竭，虽然目前的病情并无大碍，但 Wiley 决定暂时遵从医嘱退居幕后，未来将继续作为 Yuga Labs 董事会成员担任战略顾问一职。来源链接",
           "link": "https://www.techflowpost.com/express/6411",
           "publishedOn": "2023-01-29T01:17:36.000Z",
-          "wordCount": 13413,
+          "wordCount": 13403,
           "title": "Yuga Labs 联创 Wiley Aronow 因患有心力衰竭将暂时退居幕后",
           "imageUrl": null
         },
@@ -956,7 +956,7 @@
           "description": "深潮 TechFlow 消息，Cosmos 社区正在进行关于“Cosmos Hub 资助计划”的 95 号提案投票，该提案建议支出 58.8 万枚 ATOM （约 800 万美金）启动 Cosmos Hub 专用 Grant 计划（ATOM Accelerator DAO），赠款将侧重于为 ATOM 持有者创造价值的开源代码、公共产品和生态系统计划。该投票将于 2 月 11 日结束。 \n据悉，该提案可以与 88 号提案（社区捐赠池）互补，以服务 Hub 周围的社区贡献者和建设者。由 7 人组成的审查委员会管理 Multisig 并分配拨款。",
           "link": "https://www.techflowpost.com/express/6405",
           "publishedOn": "2023-01-28T07:31:57.000Z",
-          "wordCount": 13444,
+          "wordCount": 13454,
           "title": "Cosmos 社区拟支出 58.8 万枚 ATOM 以启动 Cosmos Hub 专用 Grant 计划",
           "imageUrl": null
         },
@@ -966,7 +966,7 @@
           "description": "深潮 TechFlow 消息，以太坊Layer2扩容解决方案StarkNet宣布推出Cairo 1.0-alpha.2版本，其新功能包括：词典、合约中的事件、映射存储变量、特征支持、类型推断和方法。\n目前，团队正致力于使Cairo 1.0与之前的Cairo完全兼容，并开发支持在Cairo 1.0中编写合约的StarkNet v0.11.0。原文链接",
           "link": "https://www.techflowpost.com/express/6404",
           "publishedOn": "2023-01-28T06:51:42.000Z",
-          "wordCount": 13390,
+          "wordCount": 13380,
           "title": "StarkNet推出Cairo 1.0-alpha.2版本，新增词典、特征支持等功能",
           "imageUrl": null
         },
@@ -976,7 +976,7 @@
           "description": "深潮 TechFlow 消息，据波场TRON官方消息，HACKA TRON第四季项目提交于2月1日正式开启。北京时间2月2日凌晨1点，波场TRON将邀请6位嘉宾分享关于HACKA TRON第四季及其50万美元奖金池的详细信息。\n1月28日，波场TRON创始人、火必Huobi全球顾问委员会成员孙宇晨发布推特评论表示“我们将继续BUIDL，为每个人创造更光明的数字化未来。”\n据悉，HACKA TRON第四季由波场TRON与火必Huobi共同赞助，项目获胜者将有机会获得 TRON DAO Ventures和Huobi Ventures的投资。获奖项目还将优先上线火必Huobi平台。原文链接",
           "link": "https://www.techflowpost.com/express/6403",
           "publishedOn": "2023-01-28T04:43:40.000Z",
-          "wordCount": 13383,
+          "wordCount": 13393,
           "title": "孙宇晨：波场黑客松大赛第四季2月启动，继续BUIDL创造更光明的数字化未来",
           "imageUrl": null
         },
@@ -1036,7 +1036,7 @@
           "description": "深潮 TechFlow 消息，据彭博社报道，吴忌寒旗下新加坡加密金融服务公司 Matrixport 宣布正在重组公司领导层，并将裁员 10%。\n此外，据知情人士透露，Matrix Asset Management 首席执行官 Damien Loh 与业务发展和投资者关系主管 I Z Wong 均已离职。原文链接",
           "link": "https://www.techflowpost.com/express/6397",
           "publishedOn": "2023-01-27T12:12:19.000Z",
-          "wordCount": 13414,
+          "wordCount": 13424,
           "title": "吴忌寒旗下加密金融服务公司 Matrixport 将裁员 10%，重组领导层",
           "imageUrl": null
         },
@@ -1046,7 +1046,7 @@
           "description": "深潮 TechFlow 消息，Treasure DAO发文宣布将于今年二季度在Arbitrum上推出具有Token兼容性的AMM DEX MagicSwap v2。该协议通过单个路由支持ERC-20、ERC-721、ERC-1155等格式Token，并将具备自动化版税、NFT 流动性奖励、NFT-NFT（ERC-1155）交易对流动性池等功能。MagicSwap v2将以MAGIC为核心Token，作为MagicSwap的治理和费用Token。原文链接",
           "link": "https://www.techflowpost.com/express/6396",
           "publishedOn": "2023-01-27T08:49:15.000Z",
-          "wordCount": 13390,
+          "wordCount": 13380,
           "title": "Treasure DAO将于今年Q2推出AMM DEX MagicSwap v2",
           "imageUrl": null
         }
