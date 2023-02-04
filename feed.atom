@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-04T10:14:02.132Z</id>
+    <id>urn:2023-02-04T11:11:43.247Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-04T10:14:02.132Z</updated>
+    <updated>2023-02-04T11:11:43.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Buidler DAO详解代币经济学：加密世界的经济秩序]]></title>
+        <id>https://www.web3sj.com/?p=41907</id>
+        <link href="https://www.web3sj.com/news/41907/"/>
+        <updated>2023-02-04T10:24:20.000Z</updated>
+        <summary type="html"><![CDATA[本文将 Tokenomics 中常见的代币种类划分为四种——治理代币、功能代币、票据代币、NFT。通过把不同种类代币间的有机组合，我们能得到成千上万种不同的经济模型，适配五花八门的应用场景。我们会看到，不同类项目的 Tokenomics 有不同的设计目标：如公链注重激励网络维护者持续提供算力和维持经济系统的稳定；DeFi 注重激励 LP 提供流动性，并协调治理代币持有者和 LP 的关系；GameFi 则注重尽可能吸引新玩家，维持游戏的生命周期。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去中心化交易所 Orion 被黑 1500 万雷亚尔]]></title>
+        <id>https://0xzx.com/2023020418163141156.html</id>
+        <link href="https://0xzx.com/2023020418163141156.html"/>
+        <updated>2023-02-04T10:16:13.000Z</updated>
+        <summary type="html"><![CDATA[去中心化交易所 (DEX) Orion Protocol 是上周四 (02) 黑客攻击的目标，并损失了 300 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改变 202 千万亿销毁 Meme 硬币命运的日期已经确定]]></title>
+        <id>https://0xzx.com/2023020418143141154.html</id>
+        <link href="https://0xzx.com/2023020418143141154.html"/>
+        <updated>2023-02-04T10:14:17.000Z</updated>
+        <summary type="html"><![CDATA[最近几周，BabyDoge Coin 销毁势头强劲。 随着开发团队发现销毁 BabyDoge 的新方法，每天从 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯里兰卡反对接受比特币，拒绝德雷珀的反腐败宣传]]></title>
+        <id>https://0xzx.com/2023020418133141150.html</id>
+        <link href="https://0xzx.com/2023020418133141150.html"/>
+        <updated>2023-02-04T10:13:14.000Z</updated>
+        <summary type="html"><![CDATA[作者 Victoria Lyapota 阅读 2 分钟 发表于 02/04/2023 更新于 02/04/20 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯里兰卡反对采用比特币，拒绝德雷珀的反腐败宣传]]></title>
+        <id>https://0xzx.com/2023020418133141149.html</id>
+        <link href="https://0xzx.com/2023020418133141149.html"/>
+        <updated>2023-02-04T10:13:13.000Z</updated>
+        <summary type="html"><![CDATA[在最近访问斯里兰卡时，美国亿万富翁蒂姆德雷珀提出了采用比特币 (BTC) 作为法定货币的想法，以打击导致该岛国 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯最大的银行 Sberbank 将在以太坊网络上推出 DeFi 平台]]></title>
+        <id>https://0xzx.com/2023020418133141148.html</id>
+        <link href="https://0xzx.com/2023020418133141148.html"/>
+        <updated>2023-02-04T10:13:11.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯最大的银行 Sberbank 将在以太坊网络上推出自己的 DeFi 平台。 俄罗斯新闻机构国际文传电讯社 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT还是同质化代币，哪一个适合你的Web3项目？]]></title>
         <id>https://www.web3sj.com/?p=41901</id>
@@ -33,56 +93,6 @@
         <summary type="html"><![CDATA[今年有几个催化剂事件使市场对该行业的兴趣激增：即将推出代币的 zkSync 和 StarkNet 以及即将上线的 Polygon zkEVM。这使得 MINA、LRC、IMX 和 DUCK 等与 ZK 相关的协议代币表现出众。然而，近期的上涨可能是投机驱动的，因为关键的链上指标（活跃用户、交易、跨链桥流动性）并未随着价格提高。这种反弹短期可能是不可持续的。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界必须采取“集体行动”的方式来监管——印度财政部长]]></title>
-        <id>https://0xzx.com/2023020417133141045.html</id>
-        <link href="https://0xzx.com/2023020417133141045.html"/>
-        <updated>2023-02-04T09:13:21.000Z</updated>
-        <summary type="html"><![CDATA[印度财政部长尼尔马拉·西塔拉曼 (Nirmala Sitharaman) 在最近的一次电视采访中表示，单一国家 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yo Samsung，如果 200MP 比 108MP 好，那么 12MP 比 40MP 好多少？]]></title>
-        <id>https://0xzx.com/2023020417133141047.html</id>
-        <link href="https://0xzx.com/2023020417133141047.html"/>
-        <updated>2023-02-04T09:13:14.000Z</updated>
-        <summary type="html"><![CDATA[三星 Galaxy S23 系列正式发布，掌舵的是 Galaxy S23 Ultra，它是我们见过的最大、最糟 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP 不是安全的，即使 Ripple 将它作为一个出售，这就是为什么：CryptoLaw 创始人]]></title>
-        <id>https://0xzx.com/2023020417123141042.html</id>
-        <link href="https://0xzx.com/2023020417123141042.html"/>
-        <updated>2023-02-04T09:12:22.000Z</updated>
-        <summary type="html"><![CDATA[CryptoLaw 的创始人、支持 Ripple 的律师 John Deaton 在 Twitter 上分享了 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[急救人员猛烈抨击虚假的 iPhone 碰撞检测警报]]></title>
-        <id>https://0xzx.com/2023020417123141040.html</id>
-        <link href="https://0xzx.com/2023020417123141040.html"/>
-        <updated>2023-02-04T09:12:15.000Z</updated>
-        <summary type="html"><![CDATA[最近的一些报道揭示了来自 iPhone 和 Apple Watch 的虚假紧急求救信号给 911 调度员和急救 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zodia Custody 与 SBI Digital Asset Holdings 合作在日本组建加密货币托管人]]></title>
-        <id>https://0xzx.com/2023020417113141037.html</id>
-        <link href="https://0xzx.com/2023020417113141037.html"/>
-        <updated>2023-02-04T09:11:13.000Z</updated>
-        <summary type="html"><![CDATA[两家公司周四宣布，加密货币存储提供商 Zodia Custody 正在与日本金融服务公司 SBI Holdin […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -549,16 +559,6 @@ OpenAI和Anthropic都在寻求开发生成式人工智能，即可以在几秒�
 据三个不同的消息来源称，筹款过程在11月加密货币交易所FTX崩溃之前就开始了，预计将很快完成。EigenLayer没有回应置评请求。原文链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3.0世界日报（2023-2.3）]]></title>
-        <id>https://www.web3sj.com/?p=41739</id>
-        <link href="https://www.web3sj.com/news/41739/"/>
-        <updated>2023-02-03T12:47:02.000Z</updated>
-        <summary type="html"><![CDATA[育碧与Aleph.im达成合作拟在Tezos推出游戏NFT智能合约。Damus：正通过比特币闪电网络随机向用户发放小额比特币。区块链风投Blockchain Founders Fund旗下第二支基金完成7500万美元募资。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
