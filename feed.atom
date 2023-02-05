@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T05:12:43.345Z</id>
+    <id>urn:2023-02-05T06:17:25.585Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T05:12:43.345Z</updated>
+    <updated>2023-02-05T06:17:25.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊账户抽象的未来——EIP 4377]]></title>
+        <id>https://www.web3sj.com/?p=42026</id>
+        <link href="https://www.web3sj.com/news/42026/"/>
+        <updated>2023-02-05T06:03:17.000Z</updated>
+        <summary type="html"><![CDATA[EOA 和 CA 账户执行时，外部账户的每笔链上交易都需要一个 EOA 来签署发起，用户通过一对密钥拥有一个 EOA 钱包，这个密钥被称作 signer。由于钱包地址的公钥属性，使得 EOA 钱包既是账户又是 signer，这将带来严重的资产安全问题。也就是说 signer 对账户有着完全控制权，我们可以试想有一天自己丢失了账户，而碰巧有人找到了自己的 signer，那这个人就拥有了自己的账户以及名下的所有数字资产。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天你「去中心化」了吗：社交产品Damus大爆，颠覆推特就在眼前？]]></title>
+        <id>https://www.web3sj.com/?p=42020</id>
+        <link href="https://www.web3sj.com/news/42020/"/>
+        <updated>2023-02-05T05:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Damus 抛弃了「账号 + 密码」这一基本流程，给予了用户不通过手机、邮箱等实名注册、认证的自由。取而代之的，是相对应的公钥、私钥。用户通过彼此独特的公钥来进行识别和关注。私钥与接收方公钥的特定结合，则可用来传递端对端的加密信息。使用公钥来发送动态信息的模式，与比特币交易相似。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将 Uniswap V3 将部署至 Boba Network 的链上投票已通过]]></title>
+        <id>https://www.defidaonews.com/article/6801966</id>
+        <link href="https://www.defidaonews.com/article/6801966"/>
+        <updated>2023-02-05T05:40:28.000Z</updated>
+        <summary type="html"><![CDATA[DeFi 之道讯，将 Uniswap V3 将部署至 Boba Network 的链上投票已通过，目前处于待执行状态。]]></summary>
+        <author>
+            <name>东寻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z：代币设计的陷阱、解决方案与未来展望]]></title>
+        <id>https://www.web3sj.com/?p=42013</id>
+        <link href="https://www.web3sj.com/news/42013/"/>
+        <updated>2023-02-05T05:35:56.000Z</updated>
+        <summary type="html"><![CDATA[代币是一个非常有趣、有用、强大的新型工具，它改变了协议的设计方式和可以实现的结果，但代币并不是设计的核心对象。现在的协议设计更像是「炼金术」而一门学科，因为设计者的理解远远没有达到全面或科学的程度，大多数项目仍然需要大量实验。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读懂Bedrock：Optimism落子布局Rollup生态的第一步]]></title>
+        <id>https://www.web3sj.com/?p=42009</id>
+        <link href="https://www.web3sj.com/news/42009/"/>
+        <updated>2023-02-05T05:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Bedrock 使用了经过优化的数据压缩策略，以最大限度地降低数据成本。我们目前正在对这一变化的影响进行基准测试，但我们预计它将大幅降低费用。Bedrock 还消除了向 L1 提交数据时与 EVM 执行相关的所有 Gas 成本，与之前版本的协议相比，这将额外减少 10% 的费用。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[区块链协会正在招聘一名 Web3 政策沟通协调员
 
@@ -433,26 +483,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[行情回暖，这些ZK概念项目值得关注]]></title>
-        <id>https://www.web3sj.com/?p=41884</id>
-        <link href="https://www.web3sj.com/news/41884/"/>
-        <updated>2023-02-04T09:24:58.000Z</updated>
-        <summary type="html"><![CDATA[今年有几个催化剂事件使市场对该行业的兴趣激增：即将推出代币的 zkSync 和 StarkNet 以及即将上线的 Polygon zkEVM。这使得 MINA、LRC、IMX 和 DUCK 等与 ZK 相关的协议代币表现出众。然而，近期的上涨可能是投机驱动的，因为关键的链上指标（活跃用户、交易、跨链桥流动性）并未随着价格提高。这种反弹短期可能是不可持续的。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点11个即将到来的L1和L0潜力股]]></title>
-        <id>https://www.web3sj.com/?p=41865</id>
-        <link href="https://www.web3sj.com/news/41865/"/>
-        <updated>2023-02-04T09:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Sui 是 Aptos 的直接竞争对手，因为两者都是由曾参与 Facebook 失败项目 DIEM（Libra）的前 Meta 员工创立。Sui 和 Aptos 都使用基于 Rust 的编程语言 Move，不过 Sui 的版本稍作修改。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[读懂 Bedrock：Optimism 落子布局 Rollup 生态的第一步]]></title>
         <id>https://www.defidaonews.com/article/6801900</id>
         <link href="https://www.defidaonews.com/article/6801900"/>
@@ -460,26 +490,6 @@
         <summary type="html"><![CDATA[Bedrock 是 OP Stack 的第一个正式版本，将在降低交易费用、缩短系统延迟等方面为 Optimism 带来全新可能。]]></summary>
         <author>
             <name>Foresight News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostr的野心，不止替代Twitter]]></title>
-        <id>https://www.web3sj.com/?p=41846</id>
-        <link href="https://www.web3sj.com/news/41846/"/>
-        <updated>2023-02-04T08:14:21.000Z</updated>
-        <summary type="html"><![CDATA[最近大火的 Damus，是建立在 Nostr 协议的一个应用，主要是以去中心化的社交场景（你把它理解为去中心化的 Twitter）即可。而NOSTR 是一个协议，通过这个协议，可以建立很多东西，这个协议相对轻量级的、简单但可扩展的开放协议，在它上面可以建立真正去中心化的社交媒体平台。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless：近期值得关注5个NFT项目]]></title>
-        <id>https://www.web3sj.com/?p=41838</id>
-        <link href="https://www.web3sj.com/nftnews/41838/"/>
-        <updated>2023-02-04T07:52:03.000Z</updated>
-        <summary type="html"><![CDATA[这项服务可以让创建者部署一个智能合约来代表他们的 Drop，随后收藏者可以从一个可定制的铸币页面铸造 NFTs。通过 Drops，有可能以单个铸币的价格创建多达 10,000 个独立的 ERC721 NFT，因此与 Foundation Collections 相比，这对创作者来说是一个更省 gas、更经济的系统，可以用来启动大型项目。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -518,16 +528,6 @@
         <link href="https://www.defidaonews.com/article/6801846"/>
         <updated>2023-02-04T03:05:36.000Z</updated>
         <summary type="html"><![CDATA[DeFi 之道讯，美国参议院银行委员会主席 Sherrod Brown 宣布将于 2 月 14 日举行“加密崩溃：为什么数字资产需要金融系统保障措施”（Crypto Crash: Why Financial System Safeguards are Needed for Digital Assets）听证会，审查金融系统保护措施免受数字资产带来的危险。]]></summary>
-        <author>
-            <name>东寻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism Goerli Testnet 已升级成功，主网升级提案将于 2 月 15 日开始投票]]></title>
-        <id>https://www.defidaonews.com/article/6801840</id>
-        <link href="https://www.defidaonews.com/article/6801840"/>
-        <updated>2023-02-04T02:38:27.000Z</updated>
-        <summary type="html"><![CDATA[DeFi 之道讯，2 月 4 日，Optimism 宣布 Optimism Goerli Testnet 已成功升级，Optimism 主网的升级提案已发送至 Token House 以供批准，投票将于 2 月 15 日开始。如果批准成功通过，Optimism 主网将在接下来的几周内迁移到 Bedrock。]]></summary>
         <author>
             <name>东寻</name>
         </author>
