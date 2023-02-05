@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T13:17:26.980Z</id>
+    <id>urn:2023-02-05T14:12:05.051Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-05T13:17:26.980Z</updated>
+    <updated>2023-02-05T14:12:05.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[重新设计的 naira：Peter Obi 表示本可以在实施方面做出改进]]></title>
+        <id>https://0xzx.com/2023020521173143816.html</id>
+        <link href="https://0xzx.com/2023020521173143816.html"/>
+        <updated>2023-02-05T13:17:12.000Z</updated>
+        <summary type="html"><![CDATA[工党总统候选人彼得·奥比 (Peter Obi) 对奈拉稀缺问题发表了看法，称货币重新设计并非尼日利亚独有，尽 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raft：如何展示奖杯]]></title>
+        <id>https://0xzx.com/2023020521153143813.html</id>
+        <link href="https://0xzx.com/2023020521153143813.html"/>
+        <updated>2023-02-05T13:15:13.000Z</updated>
+        <summary type="html"><![CDATA[想要炫耀自己技能的玩家可以戴上他们杀死的敌人的头颅，或者他们可以将它们安装在显示器上并欣赏他们所有人。 在漂流 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在没有软着陆的情况下，比特币价格可能会重新测试美国 CPI 的 2 万美元 — 交易员]]></title>
+        <id>https://0xzx.com/2023020521133143810.html</id>
+        <link href="https://0xzx.com/2023020521133143810.html"/>
+        <updated>2023-02-05T13:13:12.000Z</updated>
+        <summary type="html"><![CDATA[一项新的分析称，比特币 (BTC) 可能面临 20,000 美元的重新测试，美国的通胀“软着陆”计划将失败。  […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi 黑客攻击 60 亿美元]]></title>
+        <id>https://0xzx.com/2023020521123143809.html</id>
+        <link href="https://0xzx.com/2023020521123143809.html"/>
+        <updated>2023-02-05T13:12:09.000Z</updated>
+        <summary type="html"><![CDATA[根据 DefiLlama 贡献者加密货币数据分析师 Kofi 的数据，2022 年去中心化金融 (DeFi) 生态 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTC 机构投资者对 2023 年的预测，马斯克再次做出麦当劳的承诺，清崎说“我们正处于全球衰退”等等——一周回顾——比特币新闻周刊]]></title>
+        <id>https://0xzx.com/2023020521103143808.html</id>
+        <link href="https://0xzx.com/2023020521103143808.html"/>
+        <updated>2023-02-05T13:10:11.000Z</updated>
+        <summary type="html"><![CDATA[随着新年的第一个月过去，世界舞台上的事情继续升温，包括加密货币价格预测、社交媒体围绕 dogecoin 等模因 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z 投票反对在 BNB Chain 上部署 Uniswap V3，希望采用 LayerZero]]></title>
+        <id>https://www.techflowpost.com/express/6533</id>
+        <link href="https://www.techflowpost.com/express/6533"/>
+        <updated>2023-02-05T13:05:04.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据投票结果显示，a16z 在“BNB Chain 上部署 Uniswap V3”提案中使用其全部 1500 万枚 UNI 投出反对票。
+据悉，该提案由 OxPlasma Labs 提出，部署过程中将使用 Wormhole 桥接。 a16z 的合伙人 Eddie Lazzarin 在论坛中发文表示，如果在技术上能够做到，a16z 会将其 1500 万个 UNI 用于投票支持 LayerZero。 Wormhole 相关人员表示，如果 a16z 违背社区投票结果并试图阻止其生效，Wormhole 方会感到震惊，虽然目前来看 a16z 应该不会如此。原文链接]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starknet宣布将开源加密证明生成引擎Starknet Prover]]></title>
         <id>https://panewslab.com/zh/articledetails/je0r3dpl.html</id>
@@ -13,56 +74,6 @@
         <summary type="html"><![CDATA[PANews 2月5日消息，Starknet宣布Starknet Prover将在Apache 2.0许可下开源加密证明生成引擎Starknet Prover。此前已经开源的包括Cairo 1.0、Papyrus Full Node和新的 StarkNet Sequencer。Starknet Prover 的开源将在 Starknet 准备好完全去中心化之前进行。这样，Starknet 堆栈将完全开源，适合去中心化、无需许可的L2网络。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英格兰银行和英国财政部支持“数字Libra”项目，称英国可能需要 CBDC]]></title>
-        <id>https://0xzx.com/2023020520233143711.html</id>
-        <link href="https://0xzx.com/2023020520233143711.html"/>
-        <updated>2023-02-05T12:23:17.000Z</updated>
-        <summary type="html"><![CDATA[英国央行 (BoE) 和英国财政部将支持英国中央银行数字货币 (CBDC) 的发展，该货币通常被称为“Brit […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌投资人工智能公司 Anthropic 尽管与 FTX 联合创始人 Sam Bankman-Fried 有联系]]></title>
-        <id>https://0xzx.com/2023020520233143710.html</id>
-        <link href="https://0xzx.com/2023020520233143710.html"/>
-        <updated>2023-02-05T12:23:12.000Z</updated>
-        <summary type="html"><![CDATA[图片来源：Pixabay 谷歌已向人工智能初创公司 Anthropic 投资约 3 亿美元，其最大投资者是 A […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么你的 Xbox One 会自行打开（以及解决该问题的 10 种方法）]]></title>
-        <id>https://0xzx.com/2023020520223143707.html</id>
-        <link href="https://0xzx.com/2023020520223143707.html"/>
-        <updated>2023-02-05T12:22:14.000Z</updated>
-        <summary type="html"><![CDATA[Xbox One 游戏机自行开启是一种令人沮丧甚至不安的体验。 该问题可能由多种因素引起，例如电源按钮或控制器 […]]]></summary>
-        <author>
-            <name>Dilum Senevirathne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baby Doge持续完善销毁机制，大眼币泛滥预售兴趣]]></title>
-        <id>https://0xzx.com/2023020520213143706.html</id>
-        <link href="https://0xzx.com/2023020520213143706.html"/>
-        <updated>2023-02-05T12:21:19.000Z</updated>
-        <summary type="html"><![CDATA[在 2021 年牛市期间，我们看到了令人难以置信的 memecoin 胜利，它一飞冲天甚至更远，让每个人都想知 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发新闻：狗狗币 (DOGE) 终于打破 3 个月的记录]]></title>
-        <id>https://0xzx.com/2023020520213143705.html</id>
-        <link href="https://0xzx.com/2023020520213143705.html"/>
-        <updated>2023-02-05T12:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Dogecoin 新闻：顶级 memecoin Dogecoin DOGE 终于在三个月内首次达到 0.1 美 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -95,6 +106,18 @@
 得克萨斯州区块链理事会主席Lee Bratcher表示，受影响最严重的是那些拥有移动集装箱的矿企，“其中许多集装箱的设计并不能抵御冬季风暴。”该地区的比特币矿企之一Argo Blockchain表示，天气状况严重削弱了其产能。去年12月，该公司仅产出147枚比特币，而去年11月则产出198枚比特币。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火必将于今日20时上线FTX用户债权资产FUD]]></title>
+        <id>https://www.techflowpost.com/express/6532</id>
+        <link href="https://www.techflowpost.com/express/6532"/>
+        <updated>2023-02-05T09:05:28.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据火必官方消息，火必将于今日20时上线FTX用户债权资产FUD。火必表示，自FTX事件后，在严守自有用户资产安全，履行100%兑付，践行“全球合规”策略的同时，也在与多方进行沟通，积极探求FTX债务问题的解决之道。经多方努力和积极协调，决定上线最优FTX债权资产——FUD，希望借此帮助更多用户脱险，停止FUD（恐惧、不确定性和怀疑），重振加密投资市场信心，推动行业透明、安全、合规良性发展。
+据悉，FUD通证为债权人资产提供了新的流动性，使其能够在公开市场上交易FTX债务。同时，也让其能够更好地控制相关资产，并开辟了新的投资机会。通过DebtDAO提供的合约确认，该债务规模约为数千万美元。FUD早鸟发行阶段将以折扣价出售FTX债券，1FUD=1美元，FUD初始发行量和流动性为2000万，公平价格为0<1FUD≤5USDT。
+在FTX恢复数据库或FTX官方确认债权人的实际债务后，DebtDAO将根据债务的实际数额进行二次公募并向所有FUD持有者发放空投，届时公平价格为0<1FUD≤1美元。根据DebtDAO的规则，二次公募前持有1FUD的用户，将额外获得2FUD空投，空投后DebtDAO将对持有FUD的用户进行1:1的债务回购。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +159,16 @@
         <summary type="html"><![CDATA[DeFi 之道讯，Dune Analytics 数据显示，1 月 DeFi 用户数突破 48 万，较去年 12 月（43 万）环比增长 12.89%。]]></summary>
         <author>
             <name>东寻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周末荐读：试试Nostr首个客户端Damus；概览Arbitrum上7个值得关注项目]]></title>
+        <id>https://www.theblockbeats.info/news/34314</id>
+        <link href="https://www.theblockbeats.info/news/34314"/>
+        <updated>2023-02-05T06:56:02.000Z</updated>
+        <summary type="html"><![CDATA[重温本周热点：2023 年第 6 周融资精选，Launchpad 项目涨幅引人注目；即将空投？从数据看看 Lens 生态发展的怎么样；Arbitrum 项目 Vela Exchange 确认空投，相比 GMX 的优势是什么？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -221,6 +254,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[专访中东Web3顶级风投Cypher：借鉴中国互联网投资的迪拜新贵]]></title>
+        <id>https://www.theblockbeats.info/news/34313</id>
+        <link href="https://www.theblockbeats.info/news/34313"/>
+        <updated>2023-02-05T05:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Cypher Capital堪称“中东的a16z”或者中东Web3的“高瓴”，其在中东北非和亚州的影响力颇具特色。Bill是Cypher的董事长/General Partner，他也见证了过去20年中国互联网的崛起。这次很高兴能将Bill的见解拆解给读者们。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Huobi将于2月5日上架FTX债权代币FUD，FUD债权人拥有优先索赔权]]></title>
         <id>https://panewslab.com/zh/articledetails/razelmtf.html</id>
         <link href="https://panewslab.com/zh/articledetails/razelmtf.html"/>
@@ -228,6 +271,16 @@
         <summary type="html"><![CDATA[PANews 2月5日消息，据官方公告，Huobi将在2023年2月5日上架由DebtDAO代表FTX债权人发行的债权代币FUD（FTX Users' Debt），并将于北京时间2月5日20:00开放FUD/USDT现货交易对交易。FUD存款将在2月5日15:00开放，提款将于2月6日20:00开放。另据DebtDAO在推特发文称，其接到FTX债权人的通知，债务金额约为1亿美元。最初供应和流通的FUD代币有2000万枚，占FTX债务的2%，每枚FUD代币价值为1美元。一旦FTX通过其数据库或官方公布实际债务金额，DebtDAO将根据确认的债务金额发行额外的代币，并通过空投分发给所有FUD持有者。FUD债权人拥有对FTX债务的优先索赔权，DebtDAO将在适当的时间公布合同或经公证的债务证明。此外，DebtDAO正寻求在交易所上市，并鼓励拥有超过1000万美元FTX债务的债权人联系DebtDAO进行债务审计和发行。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【视频】通过ChatGPT 赚钱的八种思路]]></title>
+        <id>https://www.theblockbeats.info/news/34312</id>
+        <link href="https://www.theblockbeats.info/news/34312"/>
+        <updated>2023-02-05T05:07:25.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT除了能和你聊天帮你工作外还有8种用途。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -586,6 +639,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一文概览Arbitrum上的7个值得关注的项目]]></title>
+        <id>https://www.theblockbeats.info/news/34311</id>
+        <link href="https://www.theblockbeats.info/news/34311"/>
+        <updated>2023-02-04T06:28:36.000Z</updated>
+        <summary type="html"><![CDATA[「未来几月或将迎来Arbitrum Season」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索AI驱动DAO的6个应用方向：会将我们带向何方？]]></title>
+        <id>https://www.theblockbeats.info/news/34287</id>
+        <link href="https://www.theblockbeats.info/news/34287"/>
+        <updated>2023-02-04T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[DAO可以利用AI做出更好的治理决策、提高效率并与其他DAO集成，但而这集合的交叉应用可能远不止于此。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[消失 8 个月的 Luna 创始人，正在卷土重来]]></title>
         <id>https://www.defidaonews.com/article/6801878</id>
         <link href="https://www.defidaonews.com/article/6801878"/>
@@ -593,6 +666,26 @@
         <summary type="html"><![CDATA[即便 Crypto 是一个充斥着二次机会的行业，这位早已不受欢迎的人谋求翻身的企图仍称得上有些大胆]]></summary>
         <author>
             <name>区块律动BlockBeats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新协议Dove Protocol 的跨链AMM有什么不同?]]></title>
+        <id>https://www.theblockbeats.info/news/34310</id>
+        <link href="https://www.theblockbeats.info/news/34310"/>
+        <updated>2023-02-04T03:14:41.000Z</updated>
+        <summary type="html"><![CDATA[「在L 1提供流动性，在L 2交易」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密领域的下一波颠覆性创新浪潮将来自哪里？]]></title>
+        <id>https://www.theblockbeats.info/news/34296</id>
+        <link href="https://www.theblockbeats.info/news/34296"/>
+        <updated>2023-02-04T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[重点关注这三种Token分发机制和加密经济模型创新。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -626,6 +719,36 @@ OpenAI和Anthropic都在寻求开发生成式人工智能，即可以在几秒�
 据三个不同的消息来源称，筹款过程在11月加密货币交易所FTX崩溃之前就开始了，预计将很快完成。EigenLayer没有回应置评请求。原文链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rootdata：Web3早期项目发掘工具与数据平台]]></title>
+        <id>https://www.theblockbeats.info/news/34309</id>
+        <link href="https://www.theblockbeats.info/news/34309"/>
+        <updated>2023-02-03T14:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Rootdata希望帮助业内人士及时发现更多优质、有趣和可靠的项目，进而探寻整个行业的发展规律。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reality Labs亏损扩大，Meta「砸钱」继续]]></title>
+        <id>https://www.theblockbeats.info/news/34285</id>
+        <link href="https://www.theblockbeats.info/news/34285"/>
+        <updated>2023-02-03T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[元宇宙里，扎克伯格要一路狂飙。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读BNBchain Greenfield：Web3数据存储的星辰大海]]></title>
+        <id>https://www.theblockbeats.info/news/34292</id>
+        <link href="https://www.theblockbeats.info/news/34292"/>
+        <updated>2023-02-03T10:39:42.000Z</updated>
+        <summary type="html"><![CDATA[分析BNB存储侧链Greenfield。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -1145,28 +1268,6 @@ Archimedes 的去中心化金融借贷平台将于本月推出。Archimedes �
         <summary type="html"><![CDATA[深潮 TechFlow 消息，针对Celsius破产审查员报告中提到“Tether是Celsius的借款人之一”的说法，Tether首席技术官Paolo Ardoino回应称，Tether从未从Celsius处借款，调查员错误地把向Celsius借款写成了从Celsius借款。
 在2022年7月的一份声明中，Tether表示，它清算了对Celsius的贷款，没有造成任何损失，但没有说明贷款的美元价值。
 与此同时，Tether表示将在2023年停止其有担保贷款业务。原文链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mars Protocol已上线主网，并已空投6440万枚MARS治理代币]]></title>
-        <id>https://www.techflowpost.com/express/6483</id>
-        <link href="https://www.techflowpost.com/express/6483"/>
-        <updated>2023-02-01T11:27:27.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据官方公告，原Terra生态去中心化借贷协议Mars Protocol宣布已上线Cosmos应用链Mars Hub主网。目前，Mars Hub只能在链上访问，它没有UI，但有一个治理提案来激励Osmosis上的流动性提供商。
-6440万枚MARS治理代币已经解锁，那些在Terra Classic上持有MARS代币的人基于两次历史快照获得了空投。MARS代币现在仅在Mars Hub链上可用，该链没有DEX，因此无法将MARS兑换为其他加密货币。原文链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火必开启KOL合约邀请大赛，奖金高达6,000USDT]]></title>
-        <id>https://www.techflowpost.com/express/6481</id>
-        <link href="https://www.techflowpost.com/express/6481"/>
-        <updated>2023-02-01T10:32:56.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据火必官方公告，火必已启动KOL合约邀请大赛，活动时间为2023年1月29日20时至2月19日20时。活动期间，KOL可邀请好友参与合约交易来赢取奖励，单人奖励最高可达6,000 USDT。
-据了解，当KOL邀请的好友合约净手续费达到2,000USDT，并且U本位合约交易人数达到5人，即可获得奖励资格。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
         </author>
