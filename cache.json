@@ -63,6 +63,26 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6802506",
+          "author": "Kyle",
+          "description": "Lido 正式发布了 Lido V2 提案，这是该协议迄今为止最大规模升级",
+          "link": "https://www.defidaonews.com/article/6802506",
+          "publishedOn": "2023-02-08T03:42:15.000Z",
+          "wordCount": 716,
+          "title": "一文了解 Lido V2：支持取消质押 ETH，引入新模块化架构设计",
+          "imageUrl": "https://appserversrc.8btc.cn/Frq35fpo5BYJ_MPlbLOwWc5CL6hb.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6802502",
+          "author": "区块链资讯",
+          "description": "为什么下一代应用建设者要选择 Web3 中间件？",
+          "link": "https://www.defidaonews.com/article/6802502",
+          "publishedOn": "2023-02-08T03:28:32.000Z",
+          "wordCount": 1171,
+          "title": "一文概览 Web3 中间件和基础设施全景",
+          "imageUrl": "https://appserversrc.8btc.cn/FqfkSebVXPt2eD4frlLOzlq3R-sJ.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6802484",
           "author": "Foresight News",
           "description": "2022 年代币化社区的可持续模式开始慢慢显现，新的社区实验从旧的错误中吸取教训，OG 社区也开始适应变化的潮流。",
@@ -88,7 +108,7 @@
           "description": "AI 拥有的自主权越多，区块链的效率就越高。",
           "link": "https://www.defidaonews.com/article/6802464",
           "publishedOn": "2023-02-08T02:12:54.000Z",
-          "wordCount": 194,
+          "wordCount": 190,
           "title": "观点：嵌入 AI 的区块链是下一个大叙事？",
           "imageUrl": "https://appserversrc.8btc.cn/FnJDmKfpuoKTh5n74_T24oviiWOe.png?imageView2/1/w/500/h/300"
         },
@@ -98,7 +118,7 @@
           "description": "ETHE 和 GBTC 的销售不会对现货市场产生直接影响，这取决于比特币和以太坊信托的股份被卖给了谁以及在什么条件下。",
           "link": "https://www.defidaonews.com/article/6802456",
           "publishedOn": "2023-02-08T01:56:50.000Z",
-          "wordCount": 544,
+          "wordCount": 542,
           "title": "「骨折价」出售 ETH 信托，DCG 危机解除？",
           "imageUrl": "https://appserversrc.8btc.cn/FiB6S-vR38oDmyIvlQZ_zk7d86Ou.png?imageView2/1/w/500/h/300"
         },
@@ -141,26 +161,6 @@
           "wordCount": 174,
           "title": "以太坊测试网首次成功模拟 ETH 质押提款",
           "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6802392",
-          "author": "东寻",
-          "description": "据 Cointelegraph 2 月 7 日报道，流动性质押协议 Lido 公布了 V2 的升级计划，准备解锁 stETH 提款并引入 Staking Router 架构。启用流动性质押奖励提款允许 stETH 持有人以 1:1 的比例从 Lido 提取 ETH 资金。希望提取 ETH 的用户必须遵循建议的请求和申领流程。Staking Router 引入了模块化架构设计，被设想为允许 Lido 成为可扩展的协议。",
-          "link": "https://www.defidaonews.com/article/6802392",
-          "publishedOn": "2023-02-07T14:19:40.000Z",
-          "wordCount": 195,
-          "title": "Lido 公布 V2 升级计划，准备解锁 stETH 提款并引入 Staking Router 架构",
-          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6802380",
-          "author": "东寻",
-          "description": "据 CoinDesk 2 月 7 日报道，国际清算银行（BIS）正在开发稳定币监控系统，以确保发行人保持足够的储备。\nBIS 在周二公布其 2023 年工作计划时表示，该计划名为 Project Pyxtrial，还将研究技术工具，以帮助监管机构形成基于数据的政策框架。该计划将于今年在 BIS 位于伦敦的创新中心启动。BIS 还致力于通过 Project Atlas 开发加密货币和 DeFi 的监控系统。",
-          "link": "https://www.defidaonews.com/article/6802380",
-          "publishedOn": "2023-02-07T13:12:24.000Z",
-          "wordCount": 141,
-          "title": "国际清算银行正开发稳定币监控系统，以确保发行人保持足够的储备",
-          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "description": "在投资领域，提前发现新的热门叙事并不容易，就像狗追逐自己的尾巴一样，你总是落后的。这就是为什么我喜欢寻找反叙事或不受欢迎的观点。它们是已经存在的想法，但要么不为人所知，要么不受人喜欢。它们源于市场基本面或尚未被大众发现的新基础设施产品。",
           "link": "https://www.web3sj.com/news/42705/",
           "publishedOn": "2023-02-07T15:34:11.000Z",
-          "wordCount": 777,
+          "wordCount": 783,
           "title": "反叙事交易：如何才能跑赢市场？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675784024639.png"
         },
@@ -185,7 +185,7 @@
           "description": "同样，在加密货币和区块链领域中，人工智能和机器学习可能也会带来真正的范式转变，它们会使区块链变得更安全、更高效。在本文中，我们将共同探索这种范式转变，以及为什么机器学习应该成为每个区块链核心的原因。",
           "link": "https://www.web3sj.com/news/42702/",
           "publishedOn": "2023-02-07T15:23:11.000Z",
-          "wordCount": 581,
+          "wordCount": 617,
           "title": "观点：嵌入AI的区块链是下一个大叙事？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675783134632.png"
         },
@@ -195,7 +195,7 @@
           "description": "如果你在现实中从事着一份让你厌倦的低收入工作，那么相比而言，Web3 和加密货币可能会有更多的机会。是的，我们不一定需要通过投资某些代币，才能在这个圈子里获得收入。Web3 未来需要很多职位，你需要做的就是立刻采取行动，为自己争取先手优势。",
           "link": "https://www.web3sj.com/news/42694/",
           "publishedOn": "2023-02-07T15:14:56.000Z",
-          "wordCount": 663,
+          "wordCount": 678,
           "title": "苦命打工人在Web3的七大翻盘机会",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675782631263.png"
         },
@@ -205,7 +205,7 @@
           "description": "在一代人的时间里，总是会出现一些产品，将从工程部门昏暗的地下室里，青少年书呆子气味难闻的卧室里，或者孤僻的有某种嗜好的人家中诞生的技术，变成人人都会用的工具。网络浏览器诞生于 1990 年，但直到 1994 年网景导航者（NetscapeNavigator）问世，大多数人才开始探索互联网。2001 年 iPod 诞生之前流行的 MP3 播放器，并未掀起数字音乐革命。",
           "link": "https://www.web3sj.com/news/42689/",
           "publishedOn": "2023-02-07T15:08:45.000Z",
-          "wordCount": 1255,
+          "wordCount": 1235,
           "title": "《财富》封面：全球爆红的ChatGPT是如何诞生的？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675782286098.png"
         },
@@ -215,7 +215,7 @@
           "description": "2023 开年《流浪地球》《三体》以及旅游爆火，让文化消费重登高峰。海外《权力的游戏》影视 NFT 也于 1 月 10 日上线 Niftys 平台售罄。2023 年央视春晚中也使用 5 个 AR 虚拟机位，是历届春晚中最多的一年，还首次在三维索道摄像机中加入 AR 技术。",
           "link": "https://www.web3sj.com/news/42683/",
           "publishedOn": "2023-02-07T15:03:44.000Z",
-          "wordCount": 1156,
+          "wordCount": 1155,
           "title": "2023年文化元宇宙开年盘点：非遗、影视、文旅、内容，纷纷涉足元宇宙",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675781940595.png"
         },
@@ -225,7 +225,7 @@
           "description": "与目前广为流行的 PoS 共识有所不同，Shibarium 采用了 DPoS（代理股权证明）共识。在该共识机制中，并非所有网络参与者都能够验证交易并创建区块，而是通过投票过程选择一组选定的验证者。个人用户可以通过投票将投票权委托给他们所选的验证者。",
           "link": "https://www.web3sj.com/news/42676/",
           "publishedOn": "2023-02-07T14:57:23.000Z",
-          "wordCount": 878,
+          "wordCount": 880,
           "title": "即将发布L2的Shiba Inu，其生态正全线发展",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675781820380.png"
         },
@@ -235,7 +235,7 @@
           "description": "《2022 年加密货币报告》对加密货币市场进行了全面分析，侧重于可视化数据驱动的洞见和全球投资者观点，包括对加密货币市场现状的概述、对市场趋势的详细分析以及有关加密货币的信息和各种项目的融资情况。本报告由 10 多名成员组成的团队进行的广泛研究和对 10,000 多名参与者的调查得出。",
           "link": "https://www.web3sj.com/news/42655/",
           "publishedOn": "2023-02-07T14:52:39.000Z",
-          "wordCount": 989,
+          "wordCount": 977,
           "title": "2022年加密货币报告：行业概览和趋势",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675781534251.png"
         },
@@ -245,7 +245,7 @@
           "description": "每一次亿级产品的出现，背后都是对【人才需求】的范式转移，早早做好准备的人会在新的浪潮中受益终身。下面我将分享 3 点 ChatGPT 对人才需求带来的变化，以及需要的应对措施和机会点?",
           "link": "https://www.web3sj.com/news/42652/",
           "publishedOn": "2023-02-07T14:42:34.000Z",
-          "wordCount": 735,
+          "wordCount": 754,
           "title": "一文了解ChatGPT对未来人才需求的范式转移和机会",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675780929547.png"
         },
@@ -255,7 +255,7 @@
           "description": "而近期，以太坊 2 层扩容方案 Arbitrum 生态随着 Token 发行的预期热度愈发攀升，生态内的诸多 DeFi 衍生品合约也逐渐进入了行业参与者的视野，很多新项目纷纷浮出水面，其中便不乏各类去中心化期权协议。",
           "link": "https://www.web3sj.com/definews/42639/",
           "publishedOn": "2023-02-07T14:38:20.000Z",
-          "wordCount": 919,
+          "wordCount": 911,
           "title": "Arbitrum衍生品赛道爆发，值得关注的四个期权协议",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675780676153.png"
         },
@@ -265,7 +265,7 @@
           "description": "a16z：已将约4000万枚UNI投票权无条件委托给外部团体。Makerdao联创设立1400万美元气候基金的提议遭到社区质疑。Meta将升级其元宇宙社交应用Horizoorlds。",
           "link": "https://www.web3sj.com/news/42618/",
           "publishedOn": "2023-02-07T12:16:49.000Z",
-          "wordCount": 616,
+          "wordCount": 606,
           "title": "Web3.0世界日报（2023-2.7）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/2023020712142619.jpg"
         }
@@ -374,6 +374,36 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202302/19777.html",
+          "author": null,
+          "description": "微软公司推出了新的人工智能搜索引擎必应(Bing)和Edge浏览器，新应用将由OpenAI提供最新技术的支持。微软首席执行官萨蒂亚·纳德拉表示，人工智能将重塑每一款软件，搜索引擎的创新“时机已到”，他说道：“这是搜索引擎领域的新时代，是搜索的新范式，迅猛的创新即将到来。”据悉，新版必应基于OpenAI的语言模型运行，比ChatGPT更加先进，可以轻松地切换到人工智能聊天模式。而新的Edge浏览器增加了可以聊天和写作的必应。据此前报道，微软曾短暂上线集成了ChatGPT-4的新版必应Bing。",
+          "link": "https://www.hellobtc.com/news/202302/19777.html",
+          "publishedOn": "2023-02-08T01:11:00.000Z",
+          "wordCount": 300,
+          "title": "微软正式推出OpenAI支持的新版搜索引擎Bing和Edge浏览器",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202302/19776.html",
+          "author": null,
+          "description": "日本金融软件公司 Soramitsu 宣布与老挝人民民主共和国银行支付系统部签署谅解备忘录，启动老挝中央银行数字货币 (CBDC) 的概念验证项目。根据协议，老挝基普的数字形式称为DLak，已于2月7日推出。根据一段解说视频，央行向商业银行提供DLak换取法币，用户从商业银行用法币换取DLak。用户可以使用二维码和应用程序从参与的卖家那里购买商品。",
+          "link": "https://www.hellobtc.com/news/202302/19776.html",
+          "publishedOn": "2023-02-08T01:10:00.000Z",
+          "wordCount": 313,
+          "title": "老挝CBDC概念验证项目将使用柬埔寨首创的系统启动",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202302/19775.html",
+          "author": null,
+          "description": "Metaverse游戏平台Sandbox联合创始人兼首席运营官Sebastien Borget宣布Sandbox和沙特阿拉伯已经达成某种共识。Borget和沙特阿拉伯的 DGA在参加沙特首都利雅得的Leap Tech会议时签署了这一备忘录。Borget在电子邮件中表示，他无法透露有关他的公司与沙特阿拉伯政府达成的协议的任何进一步信息，但细节将在未来几周公布。 虽然Sandbox尚未实现大规模采用，但许多高管和投资者认为它是元宇宙开发的早期领导者。数字平台是一个虚拟空间，用户可以在游戏中创建自己的迷你宇宙。该公司在2021年由软银愿景基金牵头的B轮融资中筹集了9300万美元，据称不到六个月后又试图筹集额外的4亿美元，估值为40亿美元。",
+          "link": "https://www.hellobtc.com/news/202302/19775.html",
+          "publishedOn": "2023-02-08T01:09:00.000Z",
+          "wordCount": 309,
+          "title": "沙特阿拉伯和The Sandbox同意就元宇宙项目进行合作",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202302/19774.html",
           "author": null,
           "description": "1.谷歌推出ChatGPT竞争对手Bard。\n\n2.DCG计划出售Genesis交易和借贷部门。\n\n3.韩国文体部拟调整游戏赠品相关法规，禁止虚拟资产、NFT等作为赠品提供。\n\n4.a16z：已将约4000万枚UNI投票权无条件委托给外部团体。\n\n5.路易·威登将与草间弥生发行10,000枚联名款NFT。\n\n6.Conflux CTO提出Conflux生态代币燃烧提案CIP-107。\n\n7.数据：比特币日平均区块大小达 2 MB，创 3 年来新高。\n\n8.BitMEX创始人持有超20万枚GMX，总利润近900万美元。\n\n9.比特币闪电网络容量突破5400枚BTC，创历史新高。\n\n10.币安地址 APE 质押量达 660 万枚，为质押量最高的地址。",
@@ -441,36 +471,6 @@
           "publishedOn": "2023-02-06T09:35:00.000Z",
           "wordCount": 301,
           "title": "武汉：在人工智能、区块链等数字经济领域发布一批应用场景创新重点任务",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202302/19767.html",
-          "author": null,
-          "description": "2月6日消息，Bitcoin  Visualsnode数据显示，比特币闪电网络容量突破5400枚BTC，现已达到5402枚，创历史新高，距2022年初已上涨超30%。",
-          "link": "https://www.hellobtc.com/news/202302/19767.html",
-          "publishedOn": "2023-02-06T09:35:00.000Z",
-          "wordCount": 302,
-          "title": "比特币闪电网络容量突破5400枚BTC，创历史新高",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202302/19766.html",
-          "author": null,
-          "description": "币安推出加密货币税务计算器 Binance Tax，旨在帮助用户计算在币安生态中与加密货币有关的税收。目前，该产品仅针对加拿大、法国地区用户，且免费使用。\n\n币安表示，Binance Tax 仍处于早期阶段，因此其算法尚未涵盖币安生态系统中的所有交易类型。币安用户应在最终税务报告中进行相应调整。",
-          "link": "https://www.hellobtc.com/news/202302/19766.html",
-          "publishedOn": "2023-02-06T09:01:00.000Z",
-          "wordCount": 318,
-          "title": "币安推出加密货币税务计算器 Binance Tax，目前仅适用于加拿大、法国地区",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202302/19765.html",
-          "author": null,
-          "description": "人工智能研究公司OpenAI首席技术官米拉·穆拉蒂(Mira Murati)表示，ChatGPT可能会“编造事实”，这与其他基于语言模型的人工智能工具没有什么区别一样。 当被问及像OpenAI这样的公司等机构是否有责任监管这一工具时，穆拉蒂说：“对OpenAI等公司来说，最重要的是以一种可控和负责任的方式将其引入公共意识。”但她强调，公司还需要来自监管机构、政府甚至所有人的帮助。穆拉蒂补充说，现在对ChatGPT进行监管“并不算为时过早”。",
-          "link": "https://www.hellobtc.com/news/202302/19765.html",
-          "publishedOn": "2023-02-06T07:20:00.000Z",
-          "wordCount": 302,
-          "title": "OpenAI称ChatGPT应受到监管：ChatGPT或被坏人利用",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
@@ -593,7 +593,7 @@
           "description": "深潮 TechFlow 消息，2月6日，火必全球顾问委员会成员、波场TRON创始人孙宇晨通过推特表示，为救助在土耳其地震中受到波及的群体， 火必将联合波场TRON设立200万土耳其里拉救助基金，帮助他们度过艰难时刻，并与土耳其加密社区合作推动该地区的重建。",
           "link": "https://www.techflowpost.com/express/6578",
           "publishedOn": "2023-02-08T03:00:53.000Z",
-          "wordCount": 15257,
+          "wordCount": 15413,
           "title": "火必将联合波场 TRON 为土耳其设立 200 万里拉救助基金",
           "imageUrl": null
         },
@@ -603,7 +603,7 @@
           "description": "深潮 TechFlow 消息，Cosmos生态链Neutron宣布Baryon测试网已上线。据悉，Baryon是Neutron的持续复制安全测试网，为开发者提供测试环境启动其应用程序，并允许用户进行交互。\nBaryon还将为用户提供探索主网启动中可用的一些DApp和工具。Baryon-1浏览器已上线。接下来几周将上线各种钱包和其他集成。原文链接",
           "link": "https://www.techflowpost.com/express/6577",
           "publishedOn": "2023-02-08T02:51:53.000Z",
-          "wordCount": 15244,
+          "wordCount": 15400,
           "title": "Cosmos生态链Neutron宣布Baryon测试网已上线",
           "imageUrl": null
         },
@@ -613,7 +613,7 @@
           "description": "深潮 TechFlow 消息，Arbitrum 开发团队 Offchain Labs 宣布将为 Arbitrum One 和 Arbitrum Nova 推出下一代编程环境 Stylus。\n通过 WebAssembly 智能合约，用户将能够使用包括 Rust、C 和 C++ 等喜欢的编程语言编写程序，与 Arbitrum 上 EVM 程序一起运行。\n此外，较同类产品而言，用 Stylus 编写的程序快一个数量级，削减了费用，并与以太坊虚拟机完全互操作。原文链接",
           "link": "https://www.techflowpost.com/express/6576",
           "publishedOn": "2023-02-08T02:48:35.000Z",
-          "wordCount": 15303,
+          "wordCount": 15469,
           "title": "Offchain Labs：计划为 Arbitrum 推出下一代编程环境 Stylus",
           "imageUrl": null
         },
@@ -623,7 +623,7 @@
           "description": "深潮 TechFlow 消息，据 CoinDesk 报道，在与 Carlyle 集团联合创始人讨论经济时，美联储主席 Jerome Powell 表示，“通货紧缩过程”才刚刚开始，有必要进一步加息。\n美联储还需要很长时间才能准备好宣布，在对抗通胀的斗争中取得胜利。来源链接",
           "link": "https://www.techflowpost.com/express/6575",
           "publishedOn": "2023-02-08T01:29:33.000Z",
-          "wordCount": 15260,
+          "wordCount": 15416,
           "title": "鲍威尔：通货紧缩才刚刚开始，有必要进一步加息",
           "imageUrl": null
         },
@@ -633,7 +633,7 @@
           "description": "深潮 TechFlow 消息，美东时间周二，微软公司推出新的人工智能搜索引擎必应（Bing）和Edge浏览器，新应用将由OpenAI提供最新技术的支持。微软首席执行官萨蒂亚·纳德拉当天在活动上表示，人工智能将重塑每一款软件，搜索引擎的创新“时机已到”。\n据悉，新版必应基于OpenAI的语言模型运行，比ChatGPT更加先进，可以轻松地切换到人工智能聊天模式。原文链接",
           "link": "https://www.techflowpost.com/express/6574",
           "publishedOn": "2023-02-08T01:27:23.000Z",
-          "wordCount": 15240,
+          "wordCount": 15396,
           "title": "微软推出 OpenAI 技术支持的新版必应和 Edge 浏览器",
           "imageUrl": null
         },
@@ -643,7 +643,7 @@
           "description": "深潮 TechFlow 消息，2月7日，土耳其发生7.8级地震。随即OKX通过官方推特表示，土耳其发生地震的消息令人心碎，将捐款100万里拉以帮助在土耳其地震中受到影响的人。\nOKX CEO 转发推文并表示，向在土耳其地震中受到影响的人们送去爱和支持，正在与所有有可能受到影响的员工保持联系，并尽最大努力提供紧急帮助，希望大家注意安全。\n据了解，此前受俄乌战争影响，OKX第一时间承诺为乌克兰员工全力提供安全方案并提供生活保障。原文链接",
           "link": "https://www.techflowpost.com/express/6573",
           "publishedOn": "2023-02-07T14:41:38.000Z",
-          "wordCount": 15253,
+          "wordCount": 15409,
           "title": "OKX将向土耳其地震灾区捐款100万里拉",
           "imageUrl": null
         },
@@ -653,7 +653,7 @@
           "description": "深潮 TechFlow 消息，为了应对近期土耳其地震造成的破坏，币安宣布将向所有被确定居住在受灾最严重地区的币安用户空投价值 100 美元（1883 土耳其里拉）的 BNB。用户身份的确定将基于 2 月 6 日之前在地震产生重大影响的 10 个城市完成的地址证明 (POA)，包括：Kahramanmaraş、Kilis、Diyarbakır、Adana、Osmaniye、Gaziantep、Şanlıurfa、Adıyaman、Malatya 和 Hatay。估计捐款总额将约为 500 万美元（或 94,000,000 土耳其里拉）。\nBinance Charity 还推出了一个公共捐赠地址，供任何人捐赠。对于我们在这个地址上收到的所有东西，将转换为 TRY 并将其交给 AFAD（土耳其政府授权的本地-GO）以帮助有需要的人。向土耳其地震救助基金的捐款将接受 BTC、ETH、BNB、BUSD、XRP 的形式。原文链接",
           "link": "https://www.techflowpost.com/express/6572",
           "publishedOn": "2023-02-07T14:20:01.000Z",
-          "wordCount": 15273,
+          "wordCount": 15429,
           "title": "币安：将向土耳其地震地区用户空投价值100美元的BNB，估计捐款总额约为500万美元",
           "imageUrl": null
         },
@@ -663,7 +663,7 @@
           "description": "深潮 TechFlow 消息，流动性质押协议Lido公布了V2的升级计划，准备解锁stETH提款并引入Staking Router架构。\n启用流动性质押奖励提款允许stETH持有人以1:1的比例从Lido提取ETH资金。希望提取ETH的用户必须遵循建议的请求和申领流程。\n据悉，Staking Router引入了模块化架构设计，被设想为允许Lido成为可扩展的协议。原文链接",
           "link": "https://www.techflowpost.com/express/6571",
           "publishedOn": "2023-02-07T14:16:40.000Z",
-          "wordCount": 15268,
+          "wordCount": 15414,
           "title": "Lido公布V2升级计划：准备解锁stETH提款，并引入Staking Router架构",
           "imageUrl": null
         },
@@ -673,7 +673,7 @@
           "description": "深潮 TechFlow 消息，加密钱包安全层Webacy完成400万美元种子轮融资，gmjp领投，Gary Vaynerchuk、AJ Vaynerchuk、Mozilla Ventures、Soma Capital、DG Daiwa Ventures、Quantstamp、CEAS Investments、Dreamers和Miraise等参投。\nWebacy是一个技术层，允许用户在不需要密钥、助记词或密码的情况下访问他们现有的自我保管钱包，并提供安全功能以降低资产丢失或被盗的风险。原文链接",
           "link": "https://www.techflowpost.com/express/6570",
           "publishedOn": "2023-02-07T14:14:59.000Z",
-          "wordCount": 15255,
+          "wordCount": 15411,
           "title": "加密钱包安全层Webacy完成400万美元种子轮融资，Soma Capital等参投",
           "imageUrl": null
         },
@@ -683,7 +683,7 @@
           "description": "深潮 TechFlow 消息，去中心化身份协议 SPACE ID 完成 1000 万美元战略轮融资，Polychain Capital 和 dao5 领投。\n去年 9 月 SPACE ID 完成由 Binance Labs 领投的种子轮融资并上线 .bnb 域名服务。迄今超过 36 万个域名被注册并有超过 100 多家应用宣布完成整合 SPACE ID 协议，包括 BscScan, Trust Wallet 等等。SPACE ID 近期宣布 2.0 升级，提供一站式 Web3 域名和身份平台来发现、注册、交易和管理 Web3 域名，并推出多链域名服务。\n该项目第二个支持的顶级域名 .arb 将于下周开启 .arb 域名预注册。此前在 2 月 3 日，ARB ID 团队宣布加入 SPACE ID 2.0 生态，共同打造通用名称服务网络。来源链接",
           "link": "https://www.techflowpost.com/express/6569",
           "publishedOn": "2023-02-07T14:09:07.000Z",
-          "wordCount": 15363,
+          "wordCount": 15519,
           "title": "SPACE ID 完成 1000 万美元战略轮融资，Polychain Capital 等领投",
           "imageUrl": null
         },
@@ -693,7 +693,7 @@
           "description": "深潮 TechFlow 消息，体育和娱乐公链 Chiliz 创始人 Alexandre Dreyful 在社交平台上发表推文“明天将是你余生的第一天 @Chiliz”，社区认为此条推文或暗示 CHZ 2.0 智能链即将推出。来源链接",
           "link": "https://www.techflowpost.com/express/6568",
           "publishedOn": "2023-02-07T14:07:41.000Z",
-          "wordCount": 15279,
+          "wordCount": 15435,
           "title": "Chiliz 创始人发推称 Chiliz 将获新生，或暗示 Chiliz 2.0 即将推出",
           "imageUrl": null
         },
@@ -703,7 +703,7 @@
           "description": "深潮 TechFlow 消息，据 CoinDesk 报道，DebtDAO 此前拟定的 FUD 代币公允价值应低于 1 美元，但目前该代币价格已飙升至 113 美元，则该债务价值超过 2.2 亿美元。因此，DebtDAO 将在 2 月 7 日销毁 1800 万枚 FUD 代币，以使债务估值与 DebtDAO 认为的公允价值一致。\n据悉，FUD 由 DebtDAO 发行，其初始供应和流通量为 2000 万枚，占 FTX 债务的 2%。每个 FUD 代币的价值为 1 美元，相当于欠 FTX 债权人约 1 亿美元。DebtDAO 表示 FUD 代币旨在使 FTX 债权人有权主张他们对债务的权利。原文链接",
           "link": "https://www.techflowpost.com/express/6567",
           "publishedOn": "2023-02-07T10:21:06.000Z",
-          "wordCount": 15334,
+          "wordCount": 15490,
           "title": "DebtDAO： 将于 2 月 7 日销毁 1800 万枚 FUD 代币",
           "imageUrl": null
         },
@@ -713,7 +713,7 @@
           "description": "深潮 TechFlow 消息，Bitget在创新区上线Arbitrum+AI生态优质项目。未来会持续关注两大领域的发展。昨日创新区上线$WOOF，最高涨幅45%。\nBitget将于2月7日15：00（新加坡时间）独家首发Future-AI (AI) 、与SingularityNET (AGIX)、Image Generation AI (IMGNAI)、Artificial Liquid Intelligence (ALI)、Oraichain (ORAI) 。在17：00（新加坡时间）上线Arbitrum生态链游项目 Trident (PSI)。开放AI/USDT、AGIX/USDT、IMGNAI/USDT、ALI/USDT、ORAI/USDT、PSI/USDT交易对。",
           "link": "https://www.techflowpost.com/express/6566",
           "publishedOn": "2023-02-07T09:59:26.000Z",
-          "wordCount": 15254,
+          "wordCount": 15420,
           "title": "Bitget开启Arbitrum+AI生态活动周，并在创新区上线5个热门AI类项目",
           "imageUrl": null
         },
@@ -723,7 +723,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，Arbitrum生态永续合约交易平台Vest Exchange开放测试网资格申请，用户可通过填写表单申请该协议内测资格。\n此前1月29日消息，Vest Exchange宣布完成种子轮融资，投资者包括Jane Street、QCP Capital、Big Brain Holdings、Ascendex、Builder Capital、Infinity Ventures Crypto、Robert Chen (Ottersec)、Pear VC、Cogitent、Moonshot Research、Fugazi Labs。申请链接",
           "link": "https://www.techflowpost.com/express/6565",
           "publishedOn": "2023-02-07T08:09:55.000Z",
-          "wordCount": 15269,
+          "wordCount": 15425,
           "title": "Arbitrum生态永续合约交易平台Vest Exchange开放测试网资格申请",
           "imageUrl": null
         },
@@ -733,7 +733,7 @@
           "description": "深潮 TechFlow 消息，据官方推特报道，DeFi借贷协议OpenLeverage发起将协议部署至Arbitrum的提案。\n提案称，OpenLeverage作为多链无许可保证金交易协议，应部署在Arbitrum上，以帮助用户获得更多的交易机会。原文链接",
           "link": "https://www.techflowpost.com/express/6564",
           "publishedOn": "2023-02-07T08:05:27.000Z",
-          "wordCount": 15228,
+          "wordCount": 15394,
           "title": "DeFi借贷协议OpenLeverage发起新提案，拟将协议部署至Arbitrum",
           "imageUrl": null
         },
@@ -743,7 +743,7 @@
           "description": "深潮 TechFlow 消息，据 CoinDesk 报道，Boba 基金会已承诺提供价值 100 万美元的 BOBA 代币，以促进 Uniswap V3 在 Boba 网络上的采用。\n此前，将 Uniswap V3 将部署至 Boba Network 的链上投票以近 95% 的赞成率通过，目前该提案已完成执行。来源链接",
           "link": "https://www.techflowpost.com/express/6563",
           "publishedOn": "2023-02-07T08:01:21.000Z",
-          "wordCount": 15290,
+          "wordCount": 15446,
           "title": "Boba 基金会承诺为该网络的 Uniswap V3 提供 100 万美元的 BOBA 代币激励",
           "imageUrl": null
         },
@@ -753,7 +753,7 @@
           "description": "深潮 TechFlow 消息，据币安公告，币安将于北京时间 2 月 7 日 19:00 恢复以 USDT 为本位的 MINA 永续合约交易，此前于 2 月 6 日进行自动结算的旧 MINAUSDT 永续合约将在用户交易记录中更名为“MINAUSDTSETTLED”。来源链接",
           "link": "https://www.techflowpost.com/express/6562",
           "publishedOn": "2023-02-07T07:29:18.000Z",
-          "wordCount": 15279,
+          "wordCount": 15435,
           "title": "币安将于今日 19点恢复 MINA/USDT 永续合约交易",
           "imageUrl": null
         },
@@ -763,7 +763,7 @@
           "description": "深潮 TechFlow 消息，蓝色光标在互动平台表示，公司正在积极试用ChatGPT技术，自有虚拟人苏小妹已经介入了AI多轮对话，AI作诗能力已经进入技术测试阶段，未来会结合AIGC和终端交互做更多数字化拓展；同时，公司也在做其他ChatGPT产品的试用和调试。\nAI技术在蓝色光标已早有应用，并且在蓝色宇宙布局伊始，AI化就是三条技术主线之一。原文链接",
           "link": "https://www.techflowpost.com/express/6561",
           "publishedOn": "2023-02-07T07:07:02.000Z",
-          "wordCount": 15238,
+          "wordCount": 15394,
           "title": "蓝色光标：公司正积极试用ChatGPT技术，自有虚拟人已介入AI多轮对话",
           "imageUrl": null
         },
@@ -773,7 +773,7 @@
           "description": "深潮 TechFlow 消息，软银发布最新财报数据显示，软银愿景基金第三财季亏损 6600.1 亿日元（约合 49.92 亿美元），去年同期收益 503.5 亿日元（约合 3.81 亿美元）。第三季度愿景基金投资亏损 7303.6 亿日元（约合 55.26 亿美元）。\n据悉，软银于 2022 年 11 月 15 日将其 FTX 投资减记为零，并声称“对 FTX 的投资不到 1 亿美元”，而且仅占其 1000 亿美元愿景基金的很小一部分，对整个公司的股份价值不会产生实质性影响。来源链接",
           "link": "https://www.techflowpost.com/express/6560",
           "publishedOn": "2023-02-07T06:37:15.000Z",
-          "wordCount": 15298,
+          "wordCount": 15454,
           "title": "软银愿景基金第三财季亏损约 49.92 亿美元，投资亏损约 55.26 亿美元",
           "imageUrl": null
         },
@@ -783,7 +783,7 @@
           "description": "深潮 TechFlow 消息，LayerZero 上跨链流动性协议 Cedro Finance 完成 150 万美元种子轮融资，由 Shima Capital 领投，Infinity Ventures Crypto (IVC)、Mask Network 和 Sam Thapaliya 参投。该轮融资将用于扩大 Cedro 团队和构建 Ominichain 流动性平台。\n据悉，Cedro Finance 是一个 Omnichain 流动性平台，允许用户无缝跨链借贷，最终目标是成为全链金融中心，目前正计划推出多种基于 Cedro 的产品。Cedro Finance 自 2022 年 12 月以来一直在测试网上运行。来源链接",
           "link": "https://www.techflowpost.com/express/6559",
           "publishedOn": "2023-02-07T05:58:13.000Z",
-          "wordCount": 15319,
+          "wordCount": 15485,
           "title": "跨链流动性协议 Cedro Finance 完成 150 万美元种子轮融资，Shima Capital 领投",
           "imageUrl": null
         },
@@ -793,7 +793,7 @@
           "description": "深潮 TechFlow 消息，DeBank工程师 galenyuan.eth 发推表示，Uniswap 网页已经在使用新的代币授权标准 Permit 2 ，这意味着用户在看不懂的签名（包括文本签名）的情况下被转移资产。\n据悉，Uniswap 此前在推特上表示 Permit2 可以提高 ERC20 代币批准的安全性、用户体验和灵活性，具体功能包括跨应用程序共享批准管理、任何代币的通用许可、时限代币批准、批量批准和撤销代币等等。来源链接",
           "link": "https://www.techflowpost.com/express/6558",
           "publishedOn": "2023-02-07T04:05:02.000Z",
-          "wordCount": 15283,
+          "wordCount": 15439,
           "title": "DeBank：Uniswap 已启用 Permit 2，用户需认真检查签名内容",
           "imageUrl": null
         },
@@ -803,7 +803,7 @@
           "description": "深潮 TechFlow 消息，据OKX Web3推特消息，欧易Web3钱包与Avalanche生态借贷协议Benqi达成官方合作关系，用户可以直接通过欧易Web3钱包的Discover板块搜索并进入Benqi，借入或贷出AVAX链上的加密资产并获得挖矿与利息收益。此外，用户也可以连接欧易Web3钱包在Benqi进行链上资产借贷。\n据悉，欧易Web3钱包将与Benqi在2月联合举办交易活动，用户可以在欧易Web3钱包的DEX板块直接交易Benqi的官方代币QI。原文链接",
           "link": "https://www.techflowpost.com/express/6557",
           "publishedOn": "2023-02-07T03:02:13.000Z",
-          "wordCount": 15239,
+          "wordCount": 15405,
           "title": "欧易Web3钱包与Avalanche生态借贷协议Benqi达成合作",
           "imageUrl": null
         },
@@ -813,7 +813,7 @@
           "description": "深潮 TechFlow 消息，a16z加密货币投资团队数据科学与工程负责人Eddy Lazzarin发推称，a16z Crypto将大约4000万枚UNI投票全委托给外部团体（对他们如何投票没有任何条件），用1500万枚UNI进行投票（不到委托给其他人的数量的一半）。a16z已经对其他11项提案进行投票，是Uniswap社区中最活跃的成员之一，“委托投票的原因是为了更广泛的观点、不那么中心化的投票权以及更多的社区参与”。\n据此前报道，区块链数据公司Bubblemaps发推表示，a16z可以通过11个地址控制4150万枚UNI，占UNI供应量的4%以上（4.15%），这是通过任何提案所需的数量。其中9个钱包各有0.25%的供应量（250万枚UNI），这是提交Uniswap治理提案的最低数量要求”。\n此前a16z使用所有的1500万枚UNI代币反对OxPlasma Labs提出的“在BNB Chain上部署Uniswap V3”的提案。a16z合伙人Eddie Lazzarin表示，“如果技术上支持，我们会把1500万枚代币投给LayerZero”。原文链接",
           "link": "https://www.techflowpost.com/express/6556",
           "publishedOn": "2023-02-07T02:40:50.000Z",
-          "wordCount": 15264,
+          "wordCount": 15420,
           "title": "a16z已将4000万枚UNI投票权委托给外部团体，以减少中心化",
           "imageUrl": null
         },
@@ -823,7 +823,7 @@
           "description": "深潮 TechFlow 消息，元宇宙手机游戏项目 Kingdomverse 完成 360 万美元种子轮战略融资，具体融资信息未披露，预计将在以太坊 NFT 二层扩容方案 Immutable X 推出休闲 PVP TD 游戏 Defend the Kingdom，玩家可以组建团队来对抗一波又一波的敌人。来源链接",
           "link": "https://www.techflowpost.com/express/6555",
           "publishedOn": "2023-02-07T02:21:34.000Z",
-          "wordCount": 15291,
+          "wordCount": 15447,
           "title": "Immutable X 生态链游项目 Kingdomverse 完成 360 万美元种子轮战略融资",
           "imageUrl": null
         },
@@ -833,7 +833,7 @@
           "description": "深潮 TechFlow 消息，Mask Network 宣布已向伊利诺伊大学吉斯商学院的区块链倡议基金捐赠了 3.3 万枚 MASK（约 14 万美元）。\nMask Network 表示，此次捐赠旨在帮助发展伊利诺伊大学的区块链教育，让更多学生参与区块链和 Web3 世界。来源链接",
           "link": "https://www.techflowpost.com/express/6554",
           "publishedOn": "2023-02-07T02:11:35.000Z",
-          "wordCount": 15300,
+          "wordCount": 15456,
           "title": "Mask Network 向伊利诺伊大学吉斯商学院的区块链倡议基金捐赠 3.3 万枚 MASK",
           "imageUrl": null
         },
@@ -843,7 +843,7 @@
           "description": "深潮 TechFlow 消息，Layer1 区块链 Flow 官方今日宣布，将于 2 月 21 日至 2 月 26 日举办首届黑客松，奖金池为 50 万美元，评委来自谷歌、Animoca Brands、CoinDesk、Circle，旨在扩大 Flow 生态系统、优化无钱包使用、移动体验等。\n据悉，Flow 今年将举办多场黑客马拉松，总奖金高达 300 万美元。来源链接",
           "link": "https://www.techflowpost.com/express/6553",
           "publishedOn": "2023-02-07T02:08:38.000Z",
-          "wordCount": 15319,
+          "wordCount": 15465,
           "title": "Flow 将于 2 月 21 日至 2 月 26 日举办首届黑客松",
           "imageUrl": null
         },
@@ -853,7 +853,7 @@
           "description": "深潮 TechFlow 消息，加密储蓄公司Donut发文称，对DCG/Genesis的债权回收率约为80%，超过部分则取决于可转换优先股票据、基于DCG/Genesis资产的“已实现清算价格”，并考虑到与本次破产剩余部分相关的未知成本。对于Save计划的成员，这意味着每存入一美元的净回收范围为81%-100%。对于Build计划的成员，净回收范围为83%-100%。\n据此前报道，Genesis主要债权人包括Gemini、Mirana、Decentraland、VanEck等，其中Genesis欠Donut 7800万美元。\nDigital Currency Group（DCG）与Genesis Global Capital债权人（持有或代表超过20亿美元债权）达成原则性协议。DCG将把2032年到期的11亿美元票据换成DCG发行的可转换优先股，以作为Genesis破产计划的一部分。DCG还将通过分两批向债权人支付的新的初级担保定期贷款，为其现有的2023年定期贷款进行再融资，总价值约为5亿美元。作为交易的一部分，DCG还计划将Genesis加密交易部门Genesis Global Trading的股权出售给Genesis Global Holdco，将所有Genesis实体归入同一控股公司。原文链接",
           "link": "https://www.techflowpost.com/express/6552",
           "publishedOn": "2023-02-07T01:40:14.000Z",
-          "wordCount": 15234,
+          "wordCount": 15400,
           "title": "加密储蓄公司Donut：对DCG/Genesis的债权回收率约为80%",
           "imageUrl": null
         },
@@ -863,7 +863,7 @@
           "description": "深潮 TechFlow 消息，Coinbase已在Coinbase iOS和Android客户端上线Rocket Pool（RPL），Coinbase客户可以登录购买、出售、转换、发送、接收或存储RPL。\nCoinbase将在Axelar网络上增加对Axelar（AXL）的支持。若满足流动性条件，交易将于太平洋冬令时2月7日9:00（北京时间2月8日1:00）或之后开始。如果建立足够的资产供应，AXL-USD交易对的交易将分阶段开放。Coinbase仅在Axelar网络上支持AXL，请勿通过其他网络发送此资产，否则资金可能会丢失。\n 此外，Coinbase将Voxies（VOXEL）列入上币路线图。原文链接",
           "link": "https://www.techflowpost.com/express/6551",
           "publishedOn": "2023-02-07T01:37:56.000Z",
-          "wordCount": 15231,
+          "wordCount": 15387,
           "title": "Coinbase将上线Axelar（AXL），并将Voxies（VOXEL）列入上币计划",
           "imageUrl": null
         },
@@ -873,7 +873,7 @@
           "description": "深潮 TechFlow 消息，加密货币交易所Binance将从周三开始暂停美元银行转账。Binance.US用户不受影响。\nBinance发言人称，“只有0.01%的月活跃用户使用美元银行转账，自2月8日起，我们将暂停美元银行转账，正在直接通知受影响的客户。在此期间，所有其他买卖加密货币的方式均不受影响，包括使用币安支持的其他法定货币（包括欧元）进行银行转账，通过信用卡、借记卡、Google Pay和Apple Pay买卖加密货币，以及通过币安P2P市场”。Binance表示将尽快重启该服务。原文链接",
           "link": "https://www.techflowpost.com/express/6550",
           "publishedOn": "2023-02-07T01:35:41.000Z",
-          "wordCount": 15242,
+          "wordCount": 15398,
           "title": "币安将从周三开始暂停美元银行转账，Binance.US不受影响",
           "imageUrl": null
         },
@@ -883,7 +883,7 @@
           "description": "深潮 TechFlow 消息，区块链数据分析公司 Elementus 获 1000 万美元 A-2 轮融资，ParaFi Capital 领投。资金将用于加快其 web3 数据智能工具的开发。\nElementus 使金融机构、政府组织和债权人能够轻松访问破产和信用度等情况下需要建立信用额度的链上数据。该公司正在构建一个 Web3 数据智能工具，使主流公司更容易访问链上数据。据 RootData 数据，Elementus 之前获得 Alameda Research、Gemeni 、BlockFi 等参投的1200 万美元 A-1 轮融资，在种子轮和种子轮前筹集了 500 万美元。",
           "link": "https://www.techflowpost.com/express/6549",
           "publishedOn": "2023-02-07T01:33:22.000Z",
-          "wordCount": 15292,
+          "wordCount": 15448,
           "title": "区块链数据分析公司 Elementus 获 1000 万美元 A-2 轮融资，ParaFi Capital 领投",
           "imageUrl": null
         },
@@ -893,7 +893,7 @@
           "description": "深潮 TechFlow 消息，知情人士透露，区块链金融公司Figure Technologies Inc.已放弃SPAC上市，并寻求1亿美元融资。此外，该公司也在寻求剥离一些产品线，以应对行业低迷。\n该知情人士称，该公司2022年曾有望融资3亿美元，但因为熊市导致融资交易搁置，目前进行的1亿美元融资可能会有所延迟，因为Figure不同意将其估值降低。\n2021年5月消息，区块链借贷平台Figure Technologies完成2亿美元D轮融资，估值达32亿美元。此轮投资由10T Holdings和Morgan Creek Digital领投，DCM、DST Global和Digital Currency Group（DCG）等参投。原文链接",
           "link": "https://www.techflowpost.com/express/6548",
           "publishedOn": "2023-02-06T14:34:13.000Z",
-          "wordCount": 15263,
+          "wordCount": 15429,
           "title": "知情人士：区块链金融公司Figure放弃SPAC上市，并寻求融资1亿美元",
           "imageUrl": null
         },
@@ -903,7 +903,7 @@
           "description": "深潮 TechFlow 消息，OpenSea宣布于本月开始正式推出OpenSea Private Beta计划，这是一个独家的、可选择的计划，让用户在新功能正式发布之前积极参与压力测试，并塑造新的用户体验。\n这个内测计划可以让用户提前访问新功能，OpenSea的产品工程团队将努力修复漏洞和进行优化，以确保创造更无缝的体验，并进一步覆盖不同的用户。即日起用户可以申请参与内测，申请截至2月10日。原文链接",
           "link": "https://www.techflowpost.com/express/6547",
           "publishedOn": "2023-02-06T14:24:59.000Z",
-          "wordCount": 15235,
+          "wordCount": 15391,
           "title": "OpenSea 推出内测计划，现已开放申请",
           "imageUrl": null
         },
@@ -913,7 +913,7 @@
           "description": "深潮 TechFlow 消息，以太坊扩容开发公司 StarkWare 与区块链预言机工具 Chainlink Labs 合作，在其去中心化第 2 层 zk-Rollup 网络 StarkNet 上扩展应用程序开发。\n通过此次合作，StarkWare 加入了Chainlink SCALE计划——专注于加速区块链和第 2 层生态系统的发展——使 Chainlink 的价格源在 StarkNet 测试网上可用。该合作伙伴关系是在周一的一份声明中宣布的。 \nStarkWare 的产品已经产生了超过 3 亿笔交易，结算超过 8000 亿美元，铸造了超过 9500 万个 NFT。Chainlink 的预言机网络拥有约725,000名活跃用户，是 DeFi 中使用最广泛的网络，交易量超过7 万亿美元。\nChainlink 数据费用现已在StarkNet测试网上生效，预计将在不久的将来在其主网上推出，StarkWare 团队表示这将有助于加速 StarkNet 的采用及其生态系统的发展。\n上周末，StarkWare 开源了 StarkNet 的一个重要组件StarkNet Prover，提高了其代码的透明度。此举标志着完整 StarkNet 软件堆栈开源的完成，在上个月推出Papyrus开源客户端后，已经在 11 月使用其Cairo编程语言完成了开源。\nChainlink Labs在 9 月宣布了 SCALE，同一天，银行间消息服务 SWIFT与预言机提供商就跨链互操作性概念验证项目建立了联系。原文链接",
           "link": "https://www.techflowpost.com/express/6546",
           "publishedOn": "2023-02-06T13:06:24.000Z",
-          "wordCount": 15373,
+          "wordCount": 15529,
           "title": "StarkWare 与 Chainlink Labs 合作扩展 StarkNet 功能",
           "imageUrl": null
         },
@@ -923,7 +923,7 @@
           "description": "深潮 TechFlow 消息，基于区块链的法币数字钱包 Cenoa 完成 700 万美元种子轮融资，Quite Capital 和 Underscore 领投，Human Capital、Ulu Ventures、Acrew Capital 和 Collective Spark 等参投。\n据悉，Cenoa 本轮融资将用于拓展拉丁美洲、非洲、东南亚和欧洲市场以及招聘。Cenoa 旨在为新兴市场用户提供接触美元产品的渠道，并称基于区块链技术，其非托管储蓄解决方案降低了分支机构的成本、中介费用并减少传统银行业务的其他低效程序。原文链接",
           "link": "https://www.techflowpost.com/express/6545",
           "publishedOn": "2023-02-06T11:26:33.000Z",
-          "wordCount": 15290,
+          "wordCount": 15456,
           "title": "数字钱包 Cenoa 完成 700 万美元种子轮融资，Quite Capital 等领投",
           "imageUrl": null
         },
@@ -933,7 +933,7 @@
           "description": "深潮 TechFlow 消息，去中心化交易平台 Trade Joe 宣布将集成 LayerZero，Trade Joe 原生代币 JOE 将转变为全链代币，用户可以在 Avalanche、Arbitrum、BNB Chain 等链之间进行 JOE 跨链。来源链接",
           "link": "https://www.techflowpost.com/express/6544",
           "publishedOn": "2023-02-06T09:33:09.000Z",
-          "wordCount": 15281,
+          "wordCount": 15437,
           "title": "去中心化交易平台 Trader Joe 将集成 LayerZero",
           "imageUrl": null
         },
@@ -943,7 +943,7 @@
           "description": "深潮 TechFlow 消息，社区投票页面显示，基于LayerZero的跨链流动性协议Stargate关于“重新发行STG”的提案已获投票通过，将于3月15日执行合约替换。\n此前2月2日消息，Stargate提议于今年3月15日重新发行所有STG代币，以“消除从Alamada地址非法转移STG的风险”。\n据悉，Alameda于2022年3月从Stargate的社区销售中购买占STG总供应量10%的代币，并承诺将锁定这些代币至2025年3月。然而，最近Alameda钱包的链上转移数据表明，Alameda并没有完全控制其钱包，有人正在非法转移资金。原文链接",
           "link": "https://www.techflowpost.com/express/6543",
           "publishedOn": "2023-02-06T08:49:42.000Z",
-          "wordCount": 15251,
+          "wordCount": 15407,
           "title": "Stargate社区投票通过“重新发行STG”的提案，将于3月15日执行",
           "imageUrl": null
         },
@@ -953,7 +953,7 @@
           "description": "深潮 TechFlow 消息，Token Unlocks数据显示，公链项目Aptos将于北京时间2月12日8:00解锁4,543,478.03枚APT，占总供应量（10亿枚）的0.454%。其中，社区解锁3,210,145枚，基金会解锁1,333,333枚。原文链接",
           "link": "https://www.techflowpost.com/express/6542",
           "publishedOn": "2023-02-06T06:45:01.000Z",
-          "wordCount": 15239,
+          "wordCount": 15405,
           "title": "Aptos将于2月12日解锁约454万枚APT，约占总供应量0.45%",
           "imageUrl": null
         },
@@ -963,7 +963,7 @@
           "description": "深潮 TechFlow 消息，据币安官方公告，币安合约于2月6日11:30对 MINA USDT 永续合约进行自动清算，并将在自动清算后下架该交易对。重新上架时间另行通知。原文链接",
           "link": "https://www.techflowpost.com/express/6541",
           "publishedOn": "2023-02-06T04:13:28.000Z",
-          "wordCount": 15259,
+          "wordCount": 15405,
           "title": "币安合约将下架 MINA USDT 永续合约",
           "imageUrl": null
         },
@@ -973,7 +973,7 @@
           "description": "深潮 TechFlow 消息，对于去年12月发生的黑客攻击事件，Web3多链钱包BitKeep电报群公告显示，针对729 APK安装包遭黑客劫持导致部分用户资金被盗，BitKeep将提前垫付被盗款项，目前赔付申领页面已正式上线。\n公告称：“黑客攻击发生在2022年12月26日03:00-06:15 (UTC+8)，我们统计受影响地址和资产数据后，决定将以USDT币种-BEP20形式发放赔付资金。”官方提醒道，赔付页面仅以站内信的形式向受影响用户推送。原文链接",
           "link": "https://www.techflowpost.com/express/6540",
           "publishedOn": "2023-02-06T03:38:50.000Z",
-          "wordCount": 15267,
+          "wordCount": 15413,
           "title": "Web3 多链钱包 BitKeep 已上线赔付申领页面",
           "imageUrl": null
         },
@@ -983,7 +983,7 @@
           "description": "深潮 TechFlow 消息，去中心化人工智能网络 SingularityNET 官方宣布，此前启动的二阶段忠诚度奖励治理活动和奖励池分配建议提案申请将于2月7日截止。\n在二阶段的忠诚度奖励设计中，几乎所有参数都可能发生变化，包括不再按照硬分叉快照来确定奖励资格、增强 AGI 锁仓量和流动性等，但二阶段奖励池分配 5% 的 Token 数量比例不会调整。\n提案申请结束后，SingularityNET 将举行为期两周的提案微调和讨论，预计到 2 月 19 日结束，并于 2 月 20 至 26 日进行投票。\n此前报道，SingularityNET 于 2021 年 5 月成为第一个参与 Cardano 母公司跨链的项目，其平台代币 AGIX 将转换到 Cardano 网络，并生成新的 AGIX Token。原文链接",
           "link": "https://www.techflowpost.com/express/6539",
           "publishedOn": "2023-02-06T03:32:17.000Z",
-          "wordCount": 15283,
+          "wordCount": 15429,
           "title": "SingularityNET发起二阶段忠诚度奖励治理活动，提案申请将于2月7日截止",
           "imageUrl": null
         },
@@ -993,7 +993,7 @@
           "description": "深潮 TechFlow 消息，拥有576万枚UNI代币的Compound Labs创始人Robert Leshner投票支持在BNB Chain上部署Uniswap V3，目前该提案赞成票占比达58.45%。但总投票数仍未达提案成立所需阈值4000万UNI。此次投票将于2月10日结束。\n此前报道，16z使用所有的1500万枚UNI代币反对OxPlasma Labs提出的“在BNB Chain上部署Uniswap V3”的提案。原文链接",
           "link": "https://www.techflowpost.com/express/6538",
           "publishedOn": "2023-02-06T02:46:19.000Z",
-          "wordCount": 15261,
+          "wordCount": 15417,
           "title": "Compound Labs创始人投票支持在BNB Chain上部署Uniswap V3",
           "imageUrl": null
         },
@@ -1003,7 +1003,7 @@
           "description": "深潮 TechFlow 消息，2 月 6 日，区块链初创公司 Super Block 宣布完成 90 亿韩元（约 722 万美元）A 轮融资，SK、Netmarble（网石）、DSC Investment、E & INVESTMENT、Schmidt 等韩国大型企业和风投资本 VC 参与。新资金将用于招聘人才并拓展市场，并推进其产品研发。\n据悉，Superblock 于 2021 年创立，正在创建一个新的主网 Over Network，其中包含普通用户也可以运行的轻量级节点。Over Network 计划于今年推出，此外，该公司也将陆续推出钱包、扫描、桥接等产品。原文链接",
           "link": "https://www.techflowpost.com/express/6537",
           "publishedOn": "2023-02-06T02:22:01.000Z",
-          "wordCount": 15300,
+          "wordCount": 15446,
           "title": "区块链初创公司Super Block完成约722万美元A轮融资，SK和Netmarble等参投",
           "imageUrl": null
         },
@@ -1013,7 +1013,7 @@
           "description": "深潮 TechFlow 消息，根据基于Nostr协议的开放社交应用Damus表示，将在下个版本推出针对帖子进行比特币打赏的功能。原文链接",
           "link": "https://www.techflowpost.com/express/6536",
           "publishedOn": "2023-02-06T02:16:09.000Z",
-          "wordCount": 15237,
+          "wordCount": 15393,
           "title": "Damus：将在下个版本推出针对帖子进行比特币打赏的功能",
           "imageUrl": null
         },
@@ -1023,7 +1023,7 @@
           "description": "深潮 TechFlow 消息，FTX集团周日表示正在向政界人士、SBF的其他政治受益人、他的副手以及他的公司发送\"机密信件\"，要求他们在月底前归还其从SBF处获得的政治捐款。在一份新闻稿中，债务人表示，他们保留通过法庭诉讼要求强制还款(附加利息)的权利。\n据悉，在FTX去年11月倒闭之前，SBF曾向政客提供了数千万美元的竞选捐款。据债务人估计，FTX向华盛顿特区的多名议员和各个政治派别的政治捐款高达9300万美元，美国国会三分之一的现任议员接受了SBF的资助。\n目前，由于FTX的高层管理人员现在因涉嫌数十亿美元的欺诈行为而面临一系列刑事指控，许多受益人都试图通过向慈善机构进行等额捐赠来消除丑闻的影响。但债务人警告称，这类做法“不会阻止FTX债务人寻求追偿。”原文链接",
           "link": "https://www.techflowpost.com/express/6535",
           "publishedOn": "2023-02-06T01:16:49.000Z",
-          "wordCount": 15253,
+          "wordCount": 15409,
           "title": "FTX要求接受SBF政治捐款的政客月底前归还资金",
           "imageUrl": null
         },
@@ -1033,7 +1033,7 @@
           "description": "深潮 TechFlow 消息，支付巨头Visa加密部门负责人Cuy Sheffield在StarkWare Sessions 2023上表示，该公司一直在测试如何实际接受发行人在以太坊上开始的USDC结算付款，并在以太坊上以USDC付款，且均为大额结算付款。\n据悉，Visa一直在探索如何将区块链技术纳入其现有网络以更快地转移资金，但目前仍在全球银行间金融电信协会或SWIFT系统上进行结算，但上述系统无法满足Visa的结算需求。原文链接",
           "link": "https://www.techflowpost.com/express/6534",
           "publishedOn": "2023-02-06T01:13:22.000Z",
-          "wordCount": 15230,
+          "wordCount": 15386,
           "title": "Visa正在测试以太坊上USDC大额支付结算系统",
           "imageUrl": null
         },
@@ -1043,7 +1043,7 @@
           "description": "深潮 TechFlow 消息，据投票结果显示，a16z 在“BNB Chain 上部署 Uniswap V3”提案中使用其全部 1500 万枚 UNI 投出反对票。\n据悉，该提案由 OxPlasma Labs 提出，部署过程中将使用 Wormhole 桥接。 a16z 的合伙人 Eddie Lazzarin 在论坛中发文表示，如果在技术上能够做到，a16z 会将其 1500 万个 UNI 用于投票支持 LayerZero。 Wormhole 相关人员表示，如果 a16z 违背社区投票结果并试图阻止其生效，Wormhole 方会感到震惊，虽然目前来看 a16z 应该不会如此。原文链接",
           "link": "https://www.techflowpost.com/express/6533",
           "publishedOn": "2023-02-05T13:05:04.000Z",
-          "wordCount": 15333,
+          "wordCount": 15479,
           "title": "a16z 投票反对在 BNB Chain 上部署 Uniswap V3，希望采用 LayerZero",
           "imageUrl": null
         },
@@ -1053,7 +1053,7 @@
           "description": "深潮 TechFlow 消息，据火必官方消息，火必将于今日20时上线FTX用户债权资产FUD。火必表示，自FTX事件后，在严守自有用户资产安全，履行100%兑付，践行“全球合规”策略的同时，也在与多方进行沟通，积极探求FTX债务问题的解决之道。经多方努力和积极协调，决定上线最优FTX债权资产——FUD，希望借此帮助更多用户脱险，停止FUD（恐惧、不确定性和怀疑），重振加密投资市场信心，推动行业透明、安全、合规良性发展。\n据悉，FUD通证为债权人资产提供了新的流动性，使其能够在公开市场上交易FTX债务。同时，也让其能够更好地控制相关资产，并开辟了新的投资机会。通过DebtDAO提供的合约确认，该债务规模约为数千万美元。FUD早鸟发行阶段将以折扣价出售FTX债券，1FUD=1美元，FUD初始发行量和流动性为2000万，公平价格为0<1FUD≤5USDT。\n在FTX恢复数据库或FTX官方确认债权人的实际债务后，DebtDAO将根据债务的实际数额进行二次公募并向所有FUD持有者发放空投，届时公平价格为0<1FUD≤1美元。根据DebtDAO的规则，二次公募前持有1FUD的用户，将额外获得2FUD空投，空投后DebtDAO将对持有FUD的用户进行1:1的债务回购。",
           "link": "https://www.techflowpost.com/express/6532",
           "publishedOn": "2023-02-05T09:05:28.000Z",
-          "wordCount": 15223,
+          "wordCount": 15389,
           "title": "火必将于今日20时上线FTX用户债权资产FUD",
           "imageUrl": null
         },
@@ -1063,7 +1063,7 @@
           "description": "深潮 TechFlow 消息，2月4日，波场TRON创始人、火必Huobi全球顾问委员会成员孙宇晨发推表示，波场TRON 将为AI系统ChatGPT提供去中心化支付框架，框架涵盖链上智能合约体系、支付层协议、底层调用SDK和AI支付网关。\n在具体的执行当中，孙宇晨解释，BitTorrent将解决存储问题；支付层协议为链上稳定的货币结算提供支持，交互层为用户提供AI服务的标准结算和API；WinkLink将集成 AI 预言机服务，专注于链上智能合约所需的决策问题；结合DeFi中的JUST和SUN应用，依托AI强大的计算分析能力，AI投资为链上资产构建投资管理服务，智能配置资产，实现更高效稳定的收益；APENFT Market将深度支持AI生成内容，为AI创作的作品提供一键式去中心化存储、NFT Token化、挂单和交易服务。\n“波场TRON区块链可以利用其强大的区块链支付系统为ChatGPT和所有 AI 开发人员提供最好的基础设施支持。借助波场TRON的快速和低成本交易特点，开发人员可以轻松、安全地接收其 AI 服务的付款。”孙宇晨强调。",
           "link": "https://www.techflowpost.com/express/6531",
           "publishedOn": "2023-02-04T11:35:24.000Z",
-          "wordCount": 15269,
+          "wordCount": 15425,
           "title": "孙宇晨：波场TRON将为ChatGPT提供去中心化支付框架",
           "imageUrl": null
         },
@@ -1073,7 +1073,7 @@
           "description": "深潮 TechFlow 消息，Coinbase发布公告称，由于技术系统将进行升级，将于太平洋时间3月4日上午9点暂时下线，届时所有交易和转账都将无法进行。原文链接",
           "link": "https://www.techflowpost.com/express/6530",
           "publishedOn": "2023-02-03T16:34:34.000Z",
-          "wordCount": 15241,
+          "wordCount": 15407,
           "title": "Coinbase将于3月4日暂时下线，届时将无法交易和转账",
           "imageUrl": null
         },
@@ -1083,7 +1083,7 @@
           "description": "深潮 TechFlow 消息，谷歌已向人工智能初创公司Anthropic投资约3亿美元，据三位知情人士透露，谷歌将通过这笔交易获得约10%的股份，交易条款要求Anthropic用这笔钱从谷歌云计算部门购买计算资源。\nOpenAI和Anthropic都在寻求开发生成式人工智能，即可以在几秒钟内编写脚本和创作艺术的复杂计算机程序。据知情人士透露，虽然微软试图将OpenAI 的技术整合到自己的许多服务中，但谷歌与Anthropic的关系仅限于在人工智能军备竞赛中充当该公司的技术供应商。Anthropic开发了一款名为Claude的智能聊天机器人，可与OpenAI的ChatGPT相媲美，但尚未公开发布。\n此前消息，位列Alameda/FTX投资额第二名的AI公司Anthropic或将完成约3亿美元融资。Alameda/FTX此前向Anthropic投资约5亿美元。原文链接",
           "link": "https://www.techflowpost.com/express/6529",
           "publishedOn": "2023-02-03T16:28:35.000Z",
-          "wordCount": 15253,
+          "wordCount": 15409,
           "title": "谷歌向人工智能公司Anthropic投资3亿美元，Alameda曾向其投资约5亿美元",
           "imageUrl": null
         }
