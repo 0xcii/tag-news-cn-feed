@@ -1,10 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-09T04:17:19.749Z</id>
+    <id>urn:2023-02-09T05:14:06.948Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-09T04:17:19.749Z</updated>
+    <updated>2023-02-09T05:14:06.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lido 治理代币因“美 SEC 或禁止面向散户质押服务”传闻上涨逾 10%]]></title>
+        <id>https://www.defidaonews.com/article/6802778</id>
+        <link href="https://www.defidaonews.com/article/6802778"/>
+        <updated>2023-02-09T05:05:37.000Z</updated>
+        <summary type="html"><![CDATA[据 CoinDesk 报道，在 Coinbase 首席执行官 Brian Armstrong 透露有传闻称美 SEC 可能会禁止面向散户的加密货币质押服务后，流动性质押平台 Lido 的治理代币 LDO 价格飙升。行情显示，LDO 在 Armstrong 的评论发表后立即上拉约 11%，过去 24 小时内上涨约 8.4%。DeFiLlama 提供的数据显示，上个月 Lido TVL 激增了 33%，目前为 85.6 亿美元。
+根据链上数据，Lido 目前在质押池市场占有 25% 的市场份额，Co...]]></summary>
+        <author>
+            <name>Yangz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Era7: Game of Truth 赛事体系再升级，首季常规化赛事「挑战者联赛」即将揭幕]]></title>
+        <id>https://www.techflowpost.com/express/6610</id>
+        <link href="https://www.techflowpost.com/express/6610"/>
+        <updated>2023-02-09T05:04:32.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，轻竞技卡牌游戏 Era7 针对 BNB Chain 生态及 GameFi 创新模式展开全面探索，着眼于Web3电竞赛事体系构建，重塑赛事产品矩阵，从原有的单一赛事产品转为规模化、多元化赛事体系，致力于打造 Web3 上成熟的电竞赛事品牌。
+据悉，Era7 在升级其赛事体系后，陆续将开展三种全新电竞赛事。针对社群型态中腰部玩家组织的「社区赛」、顶端玩家参与的「挑战者联赛」，还有每年一次最盛大的顶流竞技「世界盃锦标赛」。
+官方表示，Era7 将于 2/12 开启首季挑战者联赛，即 Era7 Challenger  League S1，宣告常规赛季即将展开。将有 924 名选手争取瓜分 ECL S1 超过 200,000ERA 与 800,000GOT 的总奖池。
+自此，Era7 常规赛季的各类赛事将以相对高频、自动化营运的方式，持续深耕并拓展更多明星选手，同时与年度顶流竞技「世界盃锦标赛」产生联动，透过一系列募集、选拔等赛制进一步提升游戏的可玩性，激发更多玩家参与，深化实现 Win to Earn 的游戏理念。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全机构：LianGoPay项目被黑损失160万美元，盗币者部署假质押池获取奖励]]></title>
+        <id>https://panewslab.com/zh/articledetails/tycwc1sv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tycwc1sv.html"/>
+        <updated>2023-02-09T04:44:23.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，LianGoPay项目于2月7日宣称其在BNB Chain上的LGTPool质押合约中的资产被盗，有6,148,859个LGT奖励币被盗，损失约160万美元。Fairyproof技术团队对此次事故的分析如下：被盗原因是LGTPool的owner管理员创建了一个伪造的LP代币质押池(3号池)，然后盗币者将海量的LP代币放进该池进行质押，获取了614万枚LGT奖励代币。根据Fairyproof的链上监测工具显示，盗币者为此次盗窃事件准备了较长时间。在本次事件发生的58天前，盗币者地址就从Tornado Cash获得了gas费，在事件发生的32天前就部署了伪造的LP合约。
+其具体流程如下：1.盗币者地址是事件发生的58天前从Tornado Cash获取了gas费，首次出现在链上。2.事件发生的32天前，盗币者使用create2指令部署了一个假的LP代币合约。3.随后在同一天，LianGoPay项目方在Pancake上部署了LGT代币和WBNB的交易对合约。此合约地址与早前部署假的LP合约地址非常类似-----前后4位的字母是相同的，极易被混淆。4.2月7日，LGTPool合约的管理员连续发起了三笔创建质押池的交易，其中前两个在创建2个假的LP代币质押池（3、4号池）时也创建了一个真的WBNB和LGT的LP代币池。因为真假LP代币合约地址的前后四位相同，导致用户不易察觉前两个创建的LP池是假的LP池。5.随后攻击者发起了攻击，首先部署了一个攻击合约。在合约初始化时为假的3号LP质押池质押了巨额的假LP代币----高达614885935211982505426257800000000。6.接着攻击者发起了赎回交易，并领取奖励的LGT代币。因为质押的本金金额巨大，所以产生了614万个LGT奖励。这些奖励代币被兑换为162万枚BSC-USD代币，并被转账到0xCb65开头的地址（这个地址曾经在事件发生的58天前，从Tornado Cash获得gas费），目前被盗资金仍在0xCb65开头的地址。
+Fairyproof安全提示：1.在安全事件中，作案者经常创建出与真地址前后四位相同的假地址以迷惑用户，导致用户损失资产。提醒用户在输入地址时要仔细核对，务必完整检查地址的全部字母。2.建议项目方应及时将合约的管理员权限转移到多签合约进行管理，以提高项目运作的安全性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenesisCare 在马拉加开设新的放射外科中心]]></title>
+        <id>https://0xzx.com/2023020912433156841.html</id>
+        <link href="https://0xzx.com/2023020912433156841.html"/>
+        <updated>2023-02-09T04:43:12.000Z</updated>
+        <summary type="html"><![CDATA[GenesisCare 扩大其在西班牙南部的业务。 正如该组织通过一份声明报道的那样，澳大利亚放射治疗肿瘤学提 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNX 将进行 1:100 拆分，以大大增强投资者对 BinaryX 游戏和产品的信心]]></title>
+        <id>https://0xzx.com/2023020912423156839.html</id>
+        <link href="https://0xzx.com/2023020912423156839.html"/>
+        <updated>2023-02-09T04:42:11.000Z</updated>
+        <summary type="html"><![CDATA[新加坡，新加坡，2023 年 2 月 9 日，Chainwire Gamefi 和 IGO 平台 Binary […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本 IT 巨头富士通推出用于安全可靠数据交易所的 Web3 加速平台]]></title>
+        <id>https://0xzx.com/2023020912423156838.html</id>
+        <link href="https://0xzx.com/2023020912423156838.html"/>
+        <updated>2023-02-09T04:42:11.000Z</updated>
+        <summary type="html"><![CDATA[领先的 IT 公司富士通于 2 月 6 日宣布发布其平台，即富士通 Web3 加速平台。 该平台旨在规划和测试 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA 和 FBI 发布了针对勒索软件的 VMware EXSi 服务器的恢复脚本]]></title>
+        <id>https://0xzx.com/2023020912413156835.html</id>
+        <link href="https://0xzx.com/2023020912413156835.html"/>
+        <updated>2023-02-09T04:41:12.000Z</updated>
+        <summary type="html"><![CDATA[美国网络安全和基础设施安全局和联邦调查局发布了一个免费的恢复脚本，以应对针对 VMware Inc. ESXi […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 因用户抱怨功能损坏而中断]]></title>
+        <id>https://0xzx.com/2023020912413156833.html</id>
+        <link href="https://0xzx.com/2023020912413156833.html"/>
+        <updated>2023-02-09T04:41:12.000Z</updated>
+        <summary type="html"><![CDATA[Twitter 显然有一些严重的服务器端问题，这些问题在功能上以各种方式为用户打破了它。 根据 DownDet […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌「仓促」迎接AI大战，机器人Bard「掉链子」股价大跌]]></title>
+        <id>https://www.web3sj.com/?p=42973</id>
+        <link href="https://www.web3sj.com/news/42973/"/>
+        <updated>2023-02-09T04:36:05.000Z</updated>
+        <summary type="html"><![CDATA[该公司卖力宣传的新 AI 聊天机器人工具 Bard 尚未向公众发布，但在周三的发布会演示环节出现了一个尴尬的错误，演示 PPT 中，一位用户问 Bard：「我可以告诉我 9 岁的孩子关于詹姆斯韦伯太空望远镜（JWST）的哪些新发现？」]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙宇晨：火必将成为亚洲地区的Coinbase]]></title>
+        <id>https://www.techflowpost.com/express/6609</id>
+        <link href="https://www.techflowpost.com/express/6609"/>
+        <updated>2023-02-09T04:32:44.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 信息，2月9日，火必Huobi全球顾问委员会成员、波场TRON创始人孙宇晨与欧美嘻哈巨星French Montana、JAZ DID创始人 Dr. Watney，进行线上直播对话，对话以“DID，SocialFi的基础设施”为主题，就DID的发展现状与前景等展开探讨。整场对话由火星移民计划女科学家Tracy Fanara主持，并通过火必Live全程直播。
+关于火必在2023年的计划，孙宇晨指出，火必要成为亚洲的Coinbase，让更多人便捷的进入加密世界。火必还将做一次加密行业的教育和普及，让人们更加了解加密货币以及其带来的便利。另外，中国香港对加密行业表现出积极开放的态度，火必也会考虑在这一地区运营，并深耕亚洲市场引领行业发展。
+此外，孙宇晨表示，多米尼克DID是首个国家推出的DID，目前在火必平台的申领人数已经超过了20万。多米尼克DID可用于KYC认证，链接现实与虚拟世界，应用于GameFi、DeFi、CeFi、银行、交易所等多个场景，可以解决很多金融问题。
+多米尼克DID目前在公链TRON上发行，未来将通过BitTorrentChain（BTTC）作为跨链解决方案，支持以太坊、BNB Chain、Arbitrum等区块链。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨链桥协议Stargate Finance与Avalanche生态DEX Trader Joe达成合作]]></title>
+        <id>https://www.techflowpost.com/express/6608</id>
+        <link href="https://www.techflowpost.com/express/6608"/>
+        <updated>2023-02-09T04:30:16.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 信息，跨链桥协议Stargate Finance的原生STG代币在过去24小时内飙升13%，此前该公司宣布计划与基于Avalanche的去中心化交易所Trader Joe合作，解锁全链同质化代币。与Trader Joe的合作意味着Stargate将支持JOE代币，而不需要Trader Joe在平台上维持一个流动性池。
+STG最近从一天前的60美分左右攀升到92美分。根据加密数据聚合公司CoinGecko的数据，STG在过去7天内上涨了约50%，今年上涨150%。
+此前消息，Trader Joe在推特上宣布将集成LayerZero。Trader Joe原生代币JOE将转变为全链同质化代币（OFT），用户可以在Avalanche、Arbitrum、BNB Chain等链之间进行JOE跨链。原文链接]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎么给以太坊估值？一文详解智能合约平台估值框架]]></title>
+        <id>https://www.defidaonews.com/article/6802772</id>
+        <link href="https://www.defidaonews.com/article/6802772"/>
+        <updated>2023-02-09T04:28:50.000Z</updated>
+        <summary type="html"><![CDATA[以太坊越来越值钱了。]]></summary>
+        <author>
+            <name>达瓴智库</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《传奇》游戏开发商Wemade进军元宇宙产业，是再造传奇还是烟火一现？]]></title>
+        <id>https://www.web3sj.com/?p=42966</id>
+        <link href="https://www.web3sj.com/gamefinews/42966/"/>
+        <updated>2023-02-09T04:26:11.000Z</updated>
+        <summary type="html"><![CDATA[在元宇宙元年到来之前，游戏产业在沉浸感、强社交和独立经济体系方面就有诸多尝试。随着大厂纷纷布局元宇宙，游戏产业迎来了新的爆发期。微软收购动视暴雪，强强联合；腾讯投资 Epic games 和育碧，左拥右抱横扫全球；华为进军游戏研发，野心勃勃……]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂OpenAI创始人的加密项目Worldcoin：野心比ChatGPT还大]]></title>
+        <id>https://www.web3sj.com/?p=42960</id>
+        <link href="https://www.web3sj.com/news/42960/"/>
+        <updated>2023-02-09T04:21:18.000Z</updated>
+        <summary type="html"><![CDATA[近日 OpenAI 的 ChatGPT 在全球市场引领了一波又一波 AI 板块的行情疯涨。 但其实 OpenAI 创始人山姆·奥特曼（Sam Altman）早就亲自下场创办过一个加...]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国 SEC 铁拳将至？加密市场监管流言汇总]]></title>
+        <id>https://www.defidaonews.com/article/6802770</id>
+        <link href="https://www.defidaonews.com/article/6802770"/>
+        <updated>2023-02-09T04:20:22.000Z</updated>
+        <summary type="html"><![CDATA[目前尚未有政策落地，但我们仍然需要注意风险。]]></summary>
+        <author>
+            <name>区块律动BlockBeats</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币第四次减半叙事已到来？我们是否正在进入另一个牛市周期？]]></title>
+        <id>https://www.defidaonews.com/article/6802760</id>
+        <link href="https://www.defidaonews.com/article/6802760"/>
+        <updated>2023-02-09T04:17:27.000Z</updated>
+        <summary type="html"><![CDATA[围绕减半的叙事可能比减半本身更乐观。]]></summary>
+        <author>
+            <name>白泽研究院</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT市场复苏，一文了解NFT聚合器和当下火热的Blur]]></title>
         <id>https://www.web3sj.com/?p=42951</id>
@@ -26,33 +197,36 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[塞尔达传说：王国之泪确认售价 70 美元，收藏版和 Link Amiibo]]></title>
-        <id>https://0xzx.com/2023020911423156615.html</id>
-        <link href="https://0xzx.com/2023020911423156615.html"/>
-        <updated>2023-02-09T03:42:17.000Z</updated>
-        <summary type="html"><![CDATA[塞尔达传说：王国之泪珍藏版和全新的 Link amiibo 在今天的 Nintendo Direct 上亮相。 […]]]></summary>
+        <title type="html"><![CDATA[数据：Coinbase 2022年Q3质押收入约占其净收入的11%]]></title>
+        <id>https://panewslab.com/zh/articledetails/r3plk8t8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/r3plk8t8.html"/>
+        <updated>2023-02-09T04:02:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据DB NEWSWIRE报道，Coinbase 2022年第三季度营收报告显示，质押收入大约为6280万美元，约占净收入（5.8亿美元）的11%左右。
+此前今日早些时候消息，Coinbase首席执行官Brian Armstrong在推文中表示，听到有传言称美国证券交易委员会（SEC）希望禁止美国零售客户参与加密货币质押；随后cbETH出现负溢价。]]></summary>
         <author>
-            <name>0x资讯</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[霍格沃茨遗产：如何暂停过场动画]]></title>
-        <id>https://0xzx.com/2023020911413156611.html</id>
-        <link href="https://0xzx.com/2023020911413156611.html"/>
-        <updated>2023-02-09T03:41:14.000Z</updated>
-        <summary type="html"><![CDATA[万众期待的霍格沃茨遗产终于来了，购买豪华版的小伙伴们可以马上开始魔法之旅啦 那些选择标准版的人必须等到 2  […]]]></summary>
+        <title type="html"><![CDATA[Webverse联创去年11月份在为项目融资时被盗价值400万美元的加密货币]]></title>
+        <id>https://panewslab.com/zh/articledetails/mox8lu2u.html</id>
+        <link href="https://panewslab.com/zh/articledetails/mox8lu2u.html"/>
+        <updated>2023-02-09T03:45:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，多链非托管钱包Trust Wallet发推表示，此前Web3元宇宙游戏引擎Webverse联合创始人Ahad Shams表示未泄露助记词，仅因被拍照即被盗窃价值400万美元的加密货币。Trust Wallet认为这是一次社会工程攻击引发的安全事件，涉及来自意大利罗马的有组织犯罪小组，已知案件地点在米兰和巴塞罗那。
+据悉，Ahad Shams的资金被盗发生于2022年11月份，当时其希望为该项目完成一轮融资，一名伪装称投资者的骗子向其分享了一份NDA PDF文件和KYC信息（怀疑其中包含恶意软件）以证明身份，随后让Shams将资金转移到一个新的非多签钱包中，并查看Ahad Shams的信托钱包余额，在此过程中进行了拍照。虽然没有显示私钥或种子短语，但随后信托钱包内的400万美元加密货币不翼而飞，这个骗子也再美元出现过。]]></summary>
         <author>
-            <name>0x资讯</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让分子更快：发现大大减少了构建分子所需的时间]]></title>
-        <id>https://0xzx.com/2023020911413156610.html</id>
-        <link href="https://0xzx.com/2023020911413156610.html"/>
-        <updated>2023-02-09T03:41:13.000Z</updated>
-        <summary type="html"><![CDATA[在人工智能的大力协助和大量人类接触的帮助下，蒂姆·塞尔纳克 (Tim Cernak) 在密歇根大学的实验室做出 […]]]></summary>
+        <title type="html"><![CDATA[Alameda 从 Uniswap 将 154 万枚 LOOKS 和 494 枚 WETH 转至整合地址]]></title>
+        <id>https://www.techflowpost.com/express/6607</id>
+        <link href="https://www.techflowpost.com/express/6607"/>
+        <updated>2023-02-09T03:40:55.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据派盾监测，标记为Alameda的地址从Uinswap移除大约494枚$WETH和大约154万枚$LOOKS，并将价值130万美元的加密货币转移到Alameda consolidation地址上。
+Alameda consolidation目前持有大约167万枚$LOOKS，是$LOOKS的第16大持有人。原文链接]]></summary>
         <author>
-            <name>0x资讯</name>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -66,23 +240,77 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[什么是 Kingdomverse Mobile Metaverse (KMM)？]]></title>
-        <id>https://0xzx.com/2023020911393156608.html</id>
-        <link href="https://0xzx.com/2023020911393156608.html"/>
-        <updated>2023-02-09T03:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Kingdomverse 是一个全新的创新游戏平台，为玩家提供独特而身临其境的游戏体验。 这个移动游戏 Met […]]]></summary>
+        <title type="html"><![CDATA[数据：以太坊信标链质押总量突破1650万枚ETH，约合268亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/83n32lv8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/83n32lv8.html"/>
+        <updated>2023-02-09T03:28:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据欧科云链OKLink多链浏览器数据显示，以太坊信标链质押总量已突破1650万枚ETH，达到16,510,439枚ETH（约合267.9亿美元)，近一周增长96,320枚ETH，当前质押ETH数量占ETH总供应量的13.82%。]]></summary>
         <author>
-            <name>0x资讯</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 和 TikTok 在土耳其被封锁]]></title>
-        <id>https://0xzx.com/2023020911393156607.html</id>
-        <link href="https://0xzx.com/2023020911393156607.html"/>
-        <updated>2023-02-09T03:39:13.000Z</updated>
-        <summary type="html"><![CDATA[关于地震本身，社交媒体上确实存在很多仇恨和各种希望/假消息。 还会有很多死人的照片等等。 当然也有很多对政府的 […]]]></summary>
+        <title type="html"><![CDATA[派盾：Alameda将价值130万美元的加密货币转移到整合地址]]></title>
+        <id>https://panewslab.com/zh/articledetails/315svg62.html</id>
+        <link href="https://panewslab.com/zh/articledetails/315svg62.html"/>
+        <updated>2023-02-09T03:21:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据派盾预警监测，标记为Alameda的地址已经从Uinswap中移除494枚WETH和154万枚LOOKS，并将价值130万美元的加密货币转移到标记为“Alameda整合”地址。目前该地址持有约167万枚LOOKS，是LOOKS的第16大持有者。]]></summary>
         <author>
-            <name>0x资讯</name>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3短视频社交应用Chingar获Aptos Labs投资，并将于二季度上线Aptos网络]]></title>
+        <id>https://panewslab.com/zh/articledetails/4ue1lzs7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4ue1lzs7.html"/>
+        <updated>2023-02-09T03:16:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据The Block报道和Chingari的官方新闻稿，Aptos Labs已对印度短视频社交应用Chingari进行股权投资，具体金额未披露。Chingari 宣布了其与Aptos的合作关系，称将采用Aptos作为Web3操作的首选L1区块链，并计划于2023年第二季度在Aptos网络上发布。
+据悉，Chingari被誉为“印度版TikTok”，成立于2018年，日跃用户达500万。该社交媒体应用程序最初是一个Web2平台，后来采用了Web3技术，其曾于去年8月宣布推出视频NFT市场Creator Cuts，并于今年1月份在Solana网络上推出了其代币“GARI”，使用户能够对平台的政策和治理进行投票。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒：EminiFX CEO将承认参与涉嫌5900万美元庞氏骗局的罪名]]></title>
+        <id>https://panewslab.com/zh/articledetails/8baa2m1t.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8baa2m1t.html"/>
+        <updated>2023-02-09T03:05:01.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据CoinDesk报道，预计纽约加密货币和外汇交易平台EminiFX首席执行官Eddy Alexandre将承认参与涉嫌5900万美元庞氏骗局的罪名。他于2022年5月被捕，并被指控犯有电汇欺诈和商品欺诈罪，Alexandre最初对此拒不不认罪，但法庭记录显示，他将在当地时间周五下午举行的新听证会上改变他的请求。
+据悉，Alexandre在创立EminiFX之前曾是一名长期的网络安全工程师，检察官表示，他通过一种秘密的机器人咨询技术，向投资者承诺在5个月内将资金翻倍，并承诺每周获得5%的回报，以此引诱投资者参与他的计划；然而Alexandre只投资了一小部分用户资金，其余的钱要么花在了自己身上（将数百万美元存入个人银行账户，并大肆购买了一辆新宝马），要么花在了与业务相关的费用上（包括租用办公室和聘请律师）。如果没有认罪协议，Alexandre将面临最高30年的监禁。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helium 通过将 re-assertion 费用减半的提案]]></title>
+        <id>https://www.techflowpost.com/express/6606</id>
+        <link href="https://www.techflowpost.com/express/6606"/>
+        <updated>2023-02-09T03:00:11.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Helium 基金会通过投票表决，通过了将 re-assertion 费用减半的提案 HIP-69。
+据悉，HIP 69 提议将 IOT/LoRaWAN 网络上的 re-assertion 费用减少一半（从 100 万 DC 减少到 50 万 DC），共三个月。该项提案将于 Helium 向 Solana 网络迁移时生效。来源链接]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Arbitrum网络总锁仓量达12.2亿美元，回升至2022年5月初水平]]></title>
+        <id>https://panewslab.com/zh/articledetails/b0jem6eh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/b0jem6eh.html"/>
+        <updated>2023-02-09T02:53:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据欧科云链OKLink多链浏览器数据显示，Arbitrum网络总锁仓量已达12.2亿美元，7日涨幅为132.3%，已回升至2022年5月初水平。其中TVL排名前三的项目分别为Uniswap（1.5亿美元）、SushiSwap（1.06亿美元）和Curve（6934万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO评论“质押监管传言”后cbETH出现负溢价]]></title>
+        <id>https://panewslab.com/zh/articledetails/i5wdx4of.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i5wdx4of.html"/>
+        <updated>2023-02-09T02:52:52.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，TokenInsight数据显示，在Coinbase首席执行官Brian Armstrong今日早间发布推文后，Coinbase推出的以太坊流动性质押代币cbETH较ETH出现负溢价，图表中显示的负溢价率约为0.56%。
+此前今日早些时候消息，Armstrong在推文中表示，听到有传言称美国证券交易委员会（SEC）希望禁止美国零售客户参与加密货币质押。希望情况不是这样，因为如果允许这种情况发生，对美国来说将是一条可怕的道路。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -344,17 +572,6 @@ Robinhood第四季度调整后每股亏损19美分，高于分析师普遍预期
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kraken 面临美 SEC 针对未注册证券的调查，或于未来几天内达成和解]]></title>
-        <id>https://www.defidaonews.com/article/6802670</id>
-        <link href="https://www.defidaonews.com/article/6802670"/>
-        <updated>2023-02-09T00:49:08.000Z</updated>
-        <summary type="html"><![CDATA[据彭博社援引一位知情人士透露，全球最大的加密货币交易所之一 Kraken 卷入了美国最高金融监管机构 SEC 的调查，调查内容是该交易所是否违反了与向美国客户发行某些产品相关的证券规定。
-上述人士说，美国 SEC 对 Kraken 是否发行未注册证券的调查已进入后期阶段，可能会在未来几天达成和解。由于涉及的案件尚未公开，这位人士要求不具名。目前还不清楚哪些代币或产品正在受到审查。]]></summary>
-        <author>
-            <name>东寻</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MakerDAO社区参与者提议创建以DAI为重点的新流动性市场Spark Protocol]]></title>
         <id>https://panewslab.com/zh/articledetails/q3v7842y.html</id>
         <link href="https://panewslab.com/zh/articledetails/q3v7842y.html"/>
@@ -405,66 +622,6 @@ Robinhood第四季度调整后每股亏损19美分，高于分析师普遍预期
         <link href="https://panewslab.com/zh/articledetails/k997b1h2.html"/>
         <updated>2023-02-09T00:01:40.000Z</updated>
         <summary type="html"><![CDATA[PANews 2月9日消息，Coinbase首席执行官Brian Armstrong推特发文称，听到有传言称美国证券交易委员会（SEC）希望禁止美国零售客户参与加密货币质押。希望情况不是这样，因为如果允许这种情况发生，对美国来说将是一条可怕的道路。质押是加密货币领域一个非常重要的创新，它允许用户直接参与运行开放的加密网络。质押不属于证券。我们需要确保新技术在美国被鼓励发展，而不是因为缺乏明确的规则而被扼杀。通过强制执行来监管是行不通的。它只会鼓励企业在海外运营，FTX就是如此。希望各方能够共同努力为该行业发布明确的规则，并提出合理的解决方案，在保护消费者的同时促进创新，并维护美国国家安全利益。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破产法官允许FTX传唤SBF和其他“内部人士”]]></title>
-        <id>https://panewslab.com/zh/articledetails/1nts292a.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1nts292a.html"/>
-        <updated>2023-02-08T23:50:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月9日消息，据CoinDesk报道，美国破产法官John Dorsey作出命令，FTX的新管理层及其官方债权人委员会可以传唤FTX创始人和前高管，包括SBF。Gary Wang、Caroline Ellison、Nishad Singh、Constance Wang和SBF的家人也可能被传唤。FTX的无担保债权人官方委员会及其管理层已在上个月传唤了这些人。FTX正在追踪关于该交易所资金流向的信息，其中可能包括被挪用的客户资金。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：加密交易所Kraken正接受SEC调查，或很快达成和解]]></title>
-        <id>https://panewslab.com/zh/articledetails/mqbk8w1m.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mqbk8w1m.html"/>
-        <updated>2023-02-08T23:39:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月9日消息，据彭博社报道，匿名消息人士透露，美国证券交易委员会(SEC)正对Kraken是否发行未注册证券进行调查。调查已进入后期阶段，未来几天可能会达成和解。目前尚不清楚哪些代币或产品正在受到审查。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付公司Affirm裁员19%，将于下月关闭加密货币业务]]></title>
-        <id>https://panewslab.com/zh/articledetails/gj69ufnx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gj69ufnx.html"/>
-        <updated>2023-02-08T22:49:46.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月9日消息，据CoinDesk报道，美国移动支付公司Affirm周三公布了第四季度财报，净亏损3.224亿美元，同时宣布将于3月2日关闭其加密货币业务。此外，该公司还宣布裁员19%。目前尚不清楚加密业务相关职位占本次裁员的比例。该公司股价在盘后交易中暴跌21%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：德意志银行正洽谈投资两家德国加密公司]]></title>
-        <id>https://panewslab.com/zh/articledetails/8yw0418h.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8yw0418h.html"/>
-        <updated>2023-02-08T22:15:43.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月9日消息，据彭博社报道，德意志银行旗下资产管理部门DWS Group正就投资两家德国加密公司进行谈判，这是其增长战略的一部分。据知情人士透露，DWS首席执行官Stefan Hoops已开始就收购ETF提供商Deutsche Digital Assets和交易公司Tradias的少数股权进行谈判。作为长期加密货币倡导者，Hoops在上周的财报电话会议上表示，目前加密资产的低价可能会为DWS创造“有趣的机遇”。在去年12月发布的公司路线图中，Hoops提到了该公司的目标之一是支持通过区块链访问其产品，愿景是创建欧元稳定币以及建立或投资各种区块链相关服务。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robinhood董事会授权购买SBF旗下公司持有的Robinhood股票]]></title>
-        <id>https://panewslab.com/zh/articledetails/tze3xb7w.html</id>
-        <link href="https://panewslab.com/zh/articledetails/tze3xb7w.html"/>
-        <updated>2023-02-08T21:53:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月9日消息，据CoinDesk报道，Robinhood在其第四季度收益报告中表示，董事会已授权该公司寻求购买Emergent Fidelity Technologies于去年5月购入的5500万股Robinhood股票的大部分或全部。Emergent Fidelity Technologies由FTX创始人SBF和前高管Gary Wang共同创立，该公司已于上周申请破产保护。上个月，美国司法部查封了Emergent Fidelity Technologies持有的Robinhood股票，目前加密借贷机构BlockFi、FTX债权人和SBF本人都试图争夺这些股票。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3内容交付平台Mawari完成650万美元种子轮融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/jls7lykx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/jls7lykx.html"/>
-        <updated>2023-02-08T16:19:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月9日消息，据Venturebeat报道，Web3 内容交付平台 Mawari 完成 650 万美元种子轮融资，Blockchange Ventures 和 Decasonic 共同领投，Abies Ventures、Accord Ventures、Anfield、Outlier Ventures、Primal Capital 等参投。Mawari希望通过机器学习、压缩和区块链等技术来减轻未来互联网的处理和网络需求，从而实现 3D 元宇宙。新资金将使 Mawari 能够扩展其现有的研发能力，并更快地推出 Mawari 网络：一个基于 Web3 原则设计的去中心化 3D 和 XR 内容交付平台。它将由交互式实时 3D 渲染和流媒体技术提供支持。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -605,16 +762,6 @@ Soroban是为Stellar构建的新智能合约平台，该激励计划旨在支持
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[以太坊上海升级将开启提款功能，解析不同情况下的 ETH 抛压]]></title>
-        <id>https://www.defidaonews.com/article/6802620</id>
-        <link href="https://www.defidaonews.com/article/6802620"/>
-        <updated>2023-02-08T10:03:26.000Z</updated>
-        <summary type="html"><![CDATA[我们很难去忽视提款开放后带来的不利因素。]]></summary>
-        <author>
-            <name>Wendy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[火必将于今晚21点开放FET (Fetch)交易，并已上线 AI概念币交易专区]]></title>
         <id>https://www.techflowpost.com/express/6592</id>
         <link href="https://www.techflowpost.com/express/6592"/>
@@ -623,16 +770,6 @@ Soroban是为Stellar构建的新智能合约平台，该激励计划旨在支持
 据悉，Fetch-ai Network是一个基于区块链的AI基础设施，旨在赋能web2.0和web3.0的AI应用。FET是Fetch-ai Network的原生代币。在近期活跃的市场情绪下，AI概念币备受关注。目前，火必已上线AI概念币交易专区，涵盖The Graph（$GRT）、iExec（$RLC）等热门项目。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blur 成功的背后：市场造就明星]]></title>
-        <id>https://www.defidaonews.com/article/6802614</id>
-        <link href="https://www.defidaonews.com/article/6802614"/>
-        <updated>2023-02-08T09:42:38.000Z</updated>
-        <summary type="html"><![CDATA[Blur 将聚合器作为市场的流量导入器固然很好，但后续面临的挑战也依然严峻。]]></summary>
-        <author>
-            <name>区块链资讯</name>
         </author>
     </entry>
     <entry>
@@ -657,36 +794,6 @@ Soroban是为Stellar构建的新智能合约平台，该激励计划旨在支持
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[试水ChatGPT，切不可以身家试法]]></title>
-        <id>https://www.web3sj.com/?p=42822</id>
-        <link href="https://www.web3sj.com/news/42822/"/>
-        <updated>2023-02-08T09:30:59.000Z</updated>
-        <summary type="html"><![CDATA[事实上，「虚拟数字人」的构建离不开包括伪造技术在内的深度合成技术，而 ChatGPT 是深度合成领域下的一类模型。数据深度合成 (Deep Synthesis) 本身是一个中性概念，泛指借助深度学习算法模型等智能化方案自动生成文本、图像、语音、视频等数据内容的一系列处理技术。其中文本因为其较强的字符特征，只需满足空间序上的合理性，与视频、音频类型数据的处理思路略有不同。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三箭资本联合创始人 Kyle Davies 无视法院传票且阻挠调查]]></title>
-        <id>https://www.defidaonews.com/article/6802608</id>
-        <link href="https://www.defidaonews.com/article/6802608"/>
-        <updated>2023-02-08T09:28:12.000Z</updated>
-        <summary type="html"><![CDATA[据 CoinDesk 报道，法院文件显示，三箭资本联合创始人 Kyle Davies 无视要求其提供三箭资本账簿和记录的法院传票，并阻扰调查。文件称，Kyle Davies 和 Su Zhu“拒绝进行有意义的接触”，只是有选择地零碎地披露信息。法院将在 3 月 2 日的听证会上决定是否强制要求 Kyle Davies 遵守传票内容。]]></summary>
-        <author>
-            <name>Yangz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLever持续进化，从CVX，clevCVX到abcCVX]]></title>
-        <id>https://www.web3sj.com/?p=42807</id>
-        <link href="https://www.web3sj.com/news/42807/"/>
-        <updated>2023-02-08T09:17:41.000Z</updated>
-        <summary type="html"><![CDATA[如果你作为一个常年在 convex 挖矿 crv 和 cvx 的稳健型流动性提供者，那么你的手上一定会攒下不少的 cvx，这时候利用 cvx 的一种基础打法就是将 $cvx 锁在 convex 协议中，变成 $vlCVX , 参加两周一度的贿选大趴, 按照第 36 轮的 gauge weight, convex 发给质押者的总收益为 249 万刀。你手上的每一枚 $vlCVX 都可以获得 0.05 刀的收入，约合年化 24.8%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI创始人：ChatGPT不会取代搜寻引擎，但AI或许可以]]></title>
         <id>https://www.techflowpost.com/express/6590</id>
         <link href="https://www.techflowpost.com/express/6590"/>
@@ -695,16 +802,6 @@ Soroban是为Stellar构建的新智能合约平台，该激励计划旨在支持
 Altman 指出，目前 ChatGPT 仍处于非常早期的阶段。自己一开始做 ChatGPT 就相信它会成功，因此，虽然他对反响规模有些惊讶，但他确实此前就希望并预料到，ChatGPT 会受到人们的关注和喜爱。原文链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap与Curve这两大DeFi巨头「打」起来了？你更看好谁？]]></title>
-        <id>https://www.web3sj.com/?p=42801</id>
-        <link href="https://www.web3sj.com/definews/42801/"/>
-        <updated>2023-02-08T08:47:26.000Z</updated>
-        <summary type="html"><![CDATA[毋庸置疑Uniswap与 Curve 是当前 Defi 圈 Dex 领域当仁不让的「双寡头」，那到底究竟是一山不容二虎，还是会像绝大多数传统领域维系这样的双寡头局面？（比如手机操作系统领域的 IOS 与安卓，芯片制造领域的 Intel 与 AMD 等等。）]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -1168,50 +1265,6 @@ AI技术在蓝色光标已早有应用，并且在蓝色宇宙布局伊始，AI�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[软银愿景基金第三财季亏损约 49.92 亿美元，投资亏损约 55.26 亿美元]]></title>
-        <id>https://www.techflowpost.com/express/6560</id>
-        <link href="https://www.techflowpost.com/express/6560"/>
-        <updated>2023-02-07T06:37:15.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，软银发布最新财报数据显示，软银愿景基金第三财季亏损 6600.1 亿日元（约合 49.92 亿美元），去年同期收益 503.5 亿日元（约合 3.81 亿美元）。第三季度愿景基金投资亏损 7303.6 亿日元（约合 55.26 亿美元）。
-据悉，软银于 2022 年 11 月 15 日将其 FTX 投资减记为零，并声称“对 FTX 的投资不到 1 亿美元”，而且仅占其 1000 亿美元愿景基金的很小一部分，对整个公司的股份价值不会产生实质性影响。来源链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨链流动性协议 Cedro Finance 完成 150 万美元种子轮融资，Shima Capital 领投]]></title>
-        <id>https://www.techflowpost.com/express/6559</id>
-        <link href="https://www.techflowpost.com/express/6559"/>
-        <updated>2023-02-07T05:58:13.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，LayerZero 上跨链流动性协议 Cedro Finance 完成 150 万美元种子轮融资，由 Shima Capital 领投，Infinity Ventures Crypto (IVC)、Mask Network 和 Sam Thapaliya 参投。该轮融资将用于扩大 Cedro 团队和构建 Ominichain 流动性平台。
-据悉，Cedro Finance 是一个 Omnichain 流动性平台，允许用户无缝跨链借贷，最终目标是成为全链金融中心，目前正计划推出多种基于 Cedro 的产品。Cedro Finance 自 2022 年 12 月以来一直在测试网上运行。来源链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeBank：Uniswap 已启用 Permit 2，用户需认真检查签名内容]]></title>
-        <id>https://www.techflowpost.com/express/6558</id>
-        <link href="https://www.techflowpost.com/express/6558"/>
-        <updated>2023-02-07T04:05:02.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，DeBank工程师 galenyuan.eth 发推表示，Uniswap 网页已经在使用新的代币授权标准 Permit 2 ，这意味着用户在看不懂的签名（包括文本签名）的情况下被转移资产。
-据悉，Uniswap 此前在推特上表示 Permit2 可以提高 ERC20 代币批准的安全性、用户体验和灵活性，具体功能包括跨应用程序共享批准管理、任何代币的通用许可、时限代币批准、批量批准和撤销代币等等。来源链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧易Web3钱包与Avalanche生态借贷协议Benqi达成合作]]></title>
-        <id>https://www.techflowpost.com/express/6557</id>
-        <link href="https://www.techflowpost.com/express/6557"/>
-        <updated>2023-02-07T03:02:13.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据OKX Web3推特消息，欧易Web3钱包与Avalanche生态借贷协议Benqi达成官方合作关系，用户可以直接通过欧易Web3钱包的Discover板块搜索并进入Benqi，借入或贷出AVAX链上的加密资产并获得挖矿与利息收益。此外，用户也可以连接欧易Web3钱包在Benqi进行链上资产借贷。
-据悉，欧易Web3钱包将与Benqi在2月联合举办交易活动，用户可以在欧易Web3钱包的DEX板块直接交易Benqi的官方代币QI。原文链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：谷歌推出ChatGPT竞争对手Bard]]></title>
         <id>https://www.hellobtc.com/news/202302/19774.html</id>
         <link href="https://www.hellobtc.com/news/202302/19774.html"/>
@@ -1237,18 +1290,6 @@ AI技术在蓝色光标已早有应用，并且在蓝色宇宙布局伊始，AI�
 10.币安地址 APE 质押量达 660 万枚，为质押量最高的地址。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z已将4000万枚UNI投票权委托给外部团体，以减少中心化]]></title>
-        <id>https://www.techflowpost.com/express/6556</id>
-        <link href="https://www.techflowpost.com/express/6556"/>
-        <updated>2023-02-07T02:40:50.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，a16z加密货币投资团队数据科学与工程负责人Eddy Lazzarin发推称，a16z Crypto将大约4000万枚UNI投票全委托给外部团体（对他们如何投票没有任何条件），用1500万枚UNI进行投票（不到委托给其他人的数量的一半）。a16z已经对其他11项提案进行投票，是Uniswap社区中最活跃的成员之一，“委托投票的原因是为了更广泛的观点、不那么中心化的投票权以及更多的社区参与”。
-据此前报道，区块链数据公司Bubblemaps发推表示，a16z可以通过11个地址控制4150万枚UNI，占UNI供应量的4%以上（4.15%），这是通过任何提案所需的数量。其中9个钱包各有0.25%的供应量（250万枚UNI），这是提交Uniswap治理提案的最低数量要求”。
-此前a16z使用所有的1500万枚UNI代币反对OxPlasma Labs提出的“在BNB Chain上部署Uniswap V3”的提案。a16z合伙人Eddie Lazzarin表示，“如果技术上支持，我们会把1500万枚代币投给LayerZero”。原文链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
