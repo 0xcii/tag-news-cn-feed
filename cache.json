@@ -63,12 +63,82 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6803060",
+          "author": "东寻",
+          "description": "DeFi 之道讯，2 月 10 日，据 PeckShield Alert 数据显示，过去 24 小时内，Coinbase 共计将约 47.25 亿枚 USDC 发往 Circle 处销毁。本次销毁分多批次进行，每次销毁 1.75 亿枚，随后由 Circle 铸造新币发回至 Coinbase。",
+          "link": "https://www.defidaonews.com/article/6803060",
+          "publishedOn": "2023-02-10T07:09:42.000Z",
+          "wordCount": 186,
+          "title": "安全公司：过去 24 小时 Coinbase 已将 47.25 亿 USDC 转至 Circle 处销毁",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6803056",
+          "author": "星球日报",
+          "description": "最近，比特币 NFT 成为 Web3 世界热议的话题。",
+          "link": "https://www.defidaonews.com/article/6803056",
+          "publishedOn": "2023-02-10T07:07:36.000Z",
+          "wordCount": 660,
+          "title": "当风口转向比特币NFT，有哪些项目值得关注？",
+          "imageUrl": "https://appserversrc.8btc.cn/FiD-VcOIhLJUTLwCdeW6Wcmd9duJ.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6803054",
+          "author": "区块链资讯",
+          "description": "通过 PoS 和 PoW 的混合共识机制，Layer 2 和 Layer 3 具有相同的共识层与验证者集合，确保了整个架构的安全性和去中心化。",
+          "link": "https://www.defidaonews.com/article/6803054",
+          "publishedOn": "2023-02-10T07:03:56.000Z",
+          "wordCount": 833,
+          "title": "一文了解 Native Rollup：PoS 和 PoW 混合共识 L3 方案",
+          "imageUrl": "https://appserversrc.8btc.cn/Fo0MPyiN4IrxnzCt1Ey5XqDIWiTi.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6803050",
+          "author": "区块律动BlockBeats",
+          "description": "市场、借贷、碎片化，条条赛道都有潜力股。",
+          "link": "https://www.defidaonews.com/article/6803050",
+          "publishedOn": "2023-02-10T06:55:08.000Z",
+          "wordCount": 984,
+          "title": "Blur 空投落地在即，还有哪些 NFT 概念 Token 值得关注？",
+          "imageUrl": "https://appserversrc.8btc.cn/llwgjw9_C8TzuVtZu2Js_QMxRdgb.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6803048",
+          "author": "深潮TechFlow",
+          "description": "总的来说，这是新的 Maker：更具侵略性和决心，而不是我们迄今为止所看到的温和和被动的 Maker。",
+          "link": "https://www.defidaonews.com/article/6803048",
+          "publishedOn": "2023-02-10T06:46:30.000Z",
+          "wordCount": 549,
+          "title": "温和与被动不再，一文了解 MakerDAO 新提案：流动性市场 Spark Protocol",
+          "imageUrl": "https://appserversrc.8btc.cn/Fu2wH8pSXQkAy-C_ri2G_JX8IYLS.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6803046",
+          "author": "星球日报",
+          "description": "取款功能将通过两部分同步网络升级启用：上海+ Capella。",
+          "link": "https://www.defidaonews.com/article/6803046",
+          "publishedOn": "2023-02-10T06:38:36.000Z",
+          "wordCount": 256,
+          "title": "以太坊官方质押提款指南 & 常见问题解答",
+          "imageUrl": "https://appserversrc.8btc.cn/Fhd-dLsk8ozuyjZPoMyblwFGqgD8.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6803042",
+          "author": "东寻",
+          "description": "DeFi 之道讯，2 月 10 日，Offchain Labs 发布以太坊客户端 Prysm 在 Capella 和 EIP-4844 方面的更新。Prysm 团队现已在 GitHub 的默认分支“develop”中实现并审查所有支持 Capella 升级中提款的核心功能，正在设计处理分叉前后广播 BLSToExecutionChange 消息等极端情况，扩展由 Prysm 提供的 CLI 工具 prysmctl，改进用户提款体验。同时，Devnet3 运行顺利，验证者退出测试完成。Devnet...",
+          "link": "https://www.defidaonews.com/article/6803042",
+          "publishedOn": "2023-02-10T06:27:55.000Z",
+          "wordCount": 193,
+          "title": "Prysm 开发更新：已实现并审查所有支持 Capella 升级中提款的核心功能",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6803038",
           "author": "区块链资讯",
           "description": "嗅觉敏感的人已经在用 ChatGPT 赚钱了。",
           "link": "https://www.defidaonews.com/article/6803038",
           "publishedOn": "2023-02-10T06:18:03.000Z",
-          "wordCount": 444,
+          "wordCount": 447,
           "title": "我用 ChatGPT 搞钱，月赚 10 万",
           "imageUrl": "https://appserversrc.8btc.cn/FqY1BCEzqElhuqP8jWV4nXZhsb5K.png?imageView2/1/w/500/h/300"
         },
@@ -78,7 +148,7 @@
           "description": "距离美国 SEC 上一次发布与加密货币有关监管指导意见以来已经过去四年了。",
           "link": "https://www.defidaonews.com/article/6803030",
           "publishedOn": "2023-02-10T06:01:01.000Z",
-          "wordCount": 236,
+          "wordCount": 250,
           "title": "a16z点评「SEC与Kraken和解案」：SEC应优先考虑指导规则，而不是零星执法进行监管",
           "imageUrl": "https://appserversrc.8btc.cn/FujQPdWkaEbZSZ2pUdlGJuFhCbUz.png?imageView2/1/w/500/h/300"
         },
@@ -91,76 +161,6 @@
           "wordCount": 240,
           "title": "Beosin：dForce 黑客利用 Curve pool 重入漏洞影响预言机价格",
           "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6802946",
-          "author": "白泽研究院",
-          "description": "哪些国际品牌已经进军了 Web3 领域？目的为何？",
-          "link": "https://www.defidaonews.com/article/6802946",
-          "publishedOn": "2023-02-10T04:57:59.000Z",
-          "wordCount": 280,
-          "title": "进军 Web3 的传统国际品牌大盘点",
-          "imageUrl": "https://appserversrc.8btc.cn/FpXaCJwR2AO4zZXt6KZ7bgaSBJeT.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6802962",
-          "author": "曼昆区块链",
-          "description": "当Web2.0时代的互联网巨头走到数字藏品这片丛林的岔路口，腾讯幻核选择了关停，阿里蚂蚁选择深耕。",
-          "link": "https://www.defidaonews.com/article/6802962",
-          "publishedOn": "2023-02-10T04:15:06.000Z",
-          "wordCount": 141,
-          "title": "合规经营NFT数字藏品，看看鲸探怎么做？",
-          "imageUrl": "https://appserversrc.8btc.cn/Fi3qIQPYcoctc0YeDJSPVlZnmOok.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6802956",
-          "author": "DAOrayaki",
-          "description": "我们编译了渐进式去中心化的加密目录—涵盖核心概念和关键构建块、围绕去中心化的法律理论、所有代币设计以及渐进式去中心化的实践示例。",
-          "link": "https://www.defidaonews.com/article/6802956",
-          "publishedOn": "2023-02-10T04:09:47.000Z",
-          "wordCount": 697,
-          "title": "渐进式去中心化的三年：从理论到实践的加密目录",
-          "imageUrl": "https://appserversrc.8btc.cn/FqwaxkUE2MhGDtAEi-SU2OwmNzlJ.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6803006",
-          "author": "Cobo Labs",
-          "description": "DeFi 安全领域 2022 年的八个典型案例。",
-          "link": "https://www.defidaonews.com/article/6803006",
-          "publishedOn": "2023-02-10T03:42:11.000Z",
-          "wordCount": 1026,
-          "title": "Cobo DeFi 安全课（上）：复盘 2022 DeFi 安全大事件",
-          "imageUrl": "https://appserversrc.8btc.cn/FqSqho5dNAMFWTclSRTnEJGooQVu.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6803002",
-          "author": "隔夜的粥",
-          "description": "我们正在亲眼目睹 Starknet 网络状态的蓬勃发展，尽管它还很年轻",
-          "link": "https://www.defidaonews.com/article/6803002",
-          "publishedOn": "2023-02-10T03:36:41.000Z",
-          "wordCount": 781,
-          "title": "Bankless 创始人：关于 Starknet 生态学到的 5 件事",
-          "imageUrl": "https://appserversrc.8btc.cn/Fi511wL4as7s5csltA2Q_3TC-y8H.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6802988",
-          "author": "Yangz",
-          "description": "NFT 正走在一条不可逆转的道路上，其交易方式更像是同质化的代币",
-          "link": "https://www.defidaonews.com/article/6802988",
-          "publishedOn": "2023-02-10T02:41:45.000Z",
-          "wordCount": 543,
-          "title": "Dragonfly Capital 研究员：NFT 交易正趋向同质化，通往高效的道路仍然漫长",
-          "imageUrl": "https://appserversrc.8btc.cn/lsUwLe49mvLum9Sg_-wYQwgjfA00.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6802980",
-          "author": "华尔街见闻",
-          "description": "美国监管机构重拳出击，链上质押前途未卜。",
-          "link": "https://www.defidaonews.com/article/6802980",
-          "publishedOn": "2023-02-10T02:31:52.000Z",
-          "wordCount": 268,
-          "title": "监管打击链上质押，Coinbase 重挫 14%",
-          "imageUrl": "https://appserversrc.8btc.cn/FiB6S-vR38oDmyIvlQZ_zk7d86Ou.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -170,12 +170,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=43213",
+          "author": "Gao",
+          "description": "长期以来，Curve 被认为是众多稳定币以及衍生质押品的流动性最好的 DeFi 协议，这也让 Curve 近乎拥有 stETH 等代币的定价权。随着上海升级的临近，如果 crvUSD 在此时推出，无疑让 Curve 在「上海升级大战」中手握更多优势。",
+          "link": "https://www.web3sj.com/definews/43213/",
+          "publishedOn": "2023-02-10T07:05:15.000Z",
+          "wordCount": 790,
+          "title": "Wen$crvUSD？Curve开发团队的Github或将给出答案",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676012685019.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=43207",
+          "author": "Gao",
+          "description": "鉴于我国尚无专门的法律法规对 NFT 数字藏品进行规制，司法实践中的案例已是从业者识别国家监管风向的重要窗口。为识别判决释放的观点与信号，我们结合本案二审阶段的审理过程撰写本文用以评析其中的争议焦点及结论。",
+          "link": "https://www.web3sj.com/news/43207/",
+          "publishedOn": "2023-02-10T06:50:05.000Z",
+          "wordCount": 825,
+          "title": "「NFT 第一案」，二审究竟改变了什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676011567137.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=43203",
+          "author": "Gao",
+          "description": "美国监管机构盯上加密质押并不是什么新鲜事儿：去年8月份Coinbase披露称，证券监管机构正在就Coinbase的质押服务专门对其进行调查，后来也没查出什么结果。昨日，Coinbase首席执行官BrianArmstrong发推表示，有传言SEC希望禁止对美国客户的加密质押，该言论再一次引发了市场担忧。",
+          "link": "https://www.web3sj.com/news/43203/",
+          "publishedOn": "2023-02-10T06:40:04.000Z",
+          "wordCount": 576,
+          "title": "Kraken被重罚并关停美国加密质押服务，业内人士怎么看？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676011025479.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=43198",
           "author": "Gao",
           "description": "Web3 是基于区块链技术建立起来的新一代互联网生态系统，具备区块链去中心化、分布式、共享共建的特点。不同于科技巨头垄断的传统互联网，Web3 采用去中心化的方式，由所有用户构建、运营和拥有。",
           "link": "https://www.web3sj.com/nftnews/43198/",
           "publishedOn": "2023-02-10T06:04:04.000Z",
-          "wordCount": 661,
+          "wordCount": 658,
           "title": "进军Web3的传统国际品牌大盘点",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676009015014.png"
         },
@@ -185,7 +215,7 @@
           "description": "美东时间 2 月 10 日，受竞争对手 Kraken 被美国监管机构叫停链上质押服务（Staking）的刺激，世界第二大加密货币交易所 Coinbase 的股价跌超 14%，创下六个多月来的最大跌幅。",
           "link": "https://www.web3sj.com/news/43192/",
           "publishedOn": "2023-02-10T05:56:44.000Z",
-          "wordCount": 658,
+          "wordCount": 656,
           "title": "监管打击链上质押，Coinbase重挫14%",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676008564069.png"
         },
@@ -195,7 +225,7 @@
           "description": "尽管有相似之处，NFT 卖家走的是一条不同的流动性之路。他们越来越依赖买家的兴趣来获得即时的流动性，他们的叫价（底价）已不再是收藏价值的唯一指标。即使 NFT 本身是非同质化资产，NFT 交易也正变得比以往更同质化。",
           "link": "https://www.web3sj.com/news/43181/",
           "publishedOn": "2023-02-10T05:49:07.000Z",
-          "wordCount": 819,
+          "wordCount": 805,
           "title": "Dragonfly Capital 研究员：NFT 交易正趋向同质化，通往高效的道路仍然漫长",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676008119858.png"
         },
@@ -205,7 +235,7 @@
           "description": "2022 年 3 月 23 日，NFT 游戏 Axie Infinity 侧链 Ronin Network 表示，早些时候发现，Sky Mavis 的 Ronin 验证器节点和 Axie DAO 验证器节点遭到入侵，导致在两笔交易中桥接了 17.36 万枚 ETH（当前价值逾 5.9 亿美元）和 2550 万 USD。",
           "link": "https://www.web3sj.com/definews/43175/",
           "publishedOn": "2023-02-10T05:33:23.000Z",
-          "wordCount": 1121,
+          "wordCount": 1135,
           "title": "Cobo DeFi安全课（上）：复盘2022DeFi安全大事件",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676007173530.png"
         },
@@ -215,7 +245,7 @@
           "description": "RabbitHole 刚推出时，我们注意到加密空间中只有数千个活跃地址，许多代币持有者局限于中心化交易所而无法参与到不断扩大的加密应用生态系统中。因此我们开发了 Quests 来尝试解决这个问题：将代币交还给协议和用户手中，而不是由投机者持有。",
           "link": "https://www.web3sj.com/nftnews/43170/",
           "publishedOn": "2023-02-10T04:06:36.000Z",
-          "wordCount": 626,
+          "wordCount": 642,
           "title": "三分钟读懂RabbitHole新推出的Quest Protocol：将代币交还到真正的用户手中",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676001969726.png"
         },
@@ -225,7 +255,7 @@
           "description": "Optimism 与 Arbitrum 都是 optimistic rollup 方案，它已成为以太坊领先的扩展解决方案之一。Layer 2 概念存在已久，但最近几个月因第一个 rollup 代币 OP 的出现，Layer 2 再次受到关注。",
           "link": "https://www.web3sj.com/news/43164/",
           "publishedOn": "2023-02-10T04:00:06.000Z",
-          "wordCount": 1035,
+          "wordCount": 1031,
           "title": "开年领涨，Optimism被高估了吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676001569414.png"
         },
@@ -235,39 +265,9 @@
           "description": "爱马仕赢得针对Metabirkins NFT商标侵权案的诉讼。MakerDAO社区参与者提议创建以DAI为重点的新流动性市场Spark Protocol。Dookey Dash游戏结束，Mongraal以928522分登顶积分榜。",
           "link": "https://www.web3sj.com/news/43112/",
           "publishedOn": "2023-02-09T12:12:07.000Z",
-          "wordCount": 759,
+          "wordCount": 741,
           "title": "Web3.0世界日报（2023-2.9）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/2023020912090422.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=43070",
-          "author": "Gao",
-          "description": "距离比特币「减半」还有一年多的时间（预计 2024 年 5 月），加密社区围绕它的讨论和看涨价格预测已经开始。",
-          "link": "https://www.web3sj.com/news/43070/",
-          "publishedOn": "2023-02-09T07:34:56.000Z",
-          "wordCount": 672,
-          "title": "比特币第四次减半叙事已到来？我们是否正在进入另一个牛市周期？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675927745998.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=43049",
-          "author": "Gao",
-          "description": "Foresight News 亲临 StarkWare 生态顶级盛会现场，并向核心开发者们提出了一些大家都在关注的问题。我们采访了 StarkWare 联合创始人兼总裁 Eli Ben-Sasson、StarkWare 生态负责人 Louis Guthmann、StarkWare 探索负责人 Abdelhamid Bakhta、Kakarot 联合创始人 Elias Tazartes 和 Kakarot 技术负责人 Clément Walter 以及以太坊基金会研究员 Dankrad Feist。",
-          "link": "https://www.web3sj.com/news/43049/",
-          "publishedOn": "2023-02-09T07:17:29.000Z",
-          "wordCount": 923,
-          "title": "对话StarkWare生态负责人：Layer3发展方向、StarkNet升级和生态发展",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675927024624.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=43035",
-          "author": "Gao",
-          "description": "下图中的项目和公司正在构建整个区块链技术堆栈的技术设施，从第 1 层区块链到第 2 层 rollup、跨链桥、互操作性层、新的语言和针对 zk 应用程序优化的环境等。",
-          "link": "https://www.web3sj.com/news/43035/",
-          "publishedOn": "2023-02-09T06:55:42.000Z",
-          "wordCount": 667,
-          "title": "一览Web3零知识证明市场版图",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1675925716483.png"
         }
       ]
     },
@@ -276,86 +276,6 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
-        {
-          "id": "https://panewslab.com/zh/articledetails/vpap5m85.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，据推特用户余烬监测，0xcd93开头地址近20日通过CoW Protocol花费约167万美元购买了40834枚RPL，并将RPL存入了Rocket Pool进行质押。\n此外，疑似属于做市商Wintermute 0x2490开头地址在Uniswap添加了10万枚 RPL（527万美元）的流动性，该地址共持有21.9万枚RPL。",
-          "link": "https://panewslab.com/zh/articledetails/vpap5m85.html",
-          "publishedOn": "2023-02-10T06:16:26.000Z",
-          "wordCount": 3566,
-          "title": "数据：某地址近20日购买以167万美元购入超4万枚RPL并进行质押",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5jbx26j3.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，据彭博社报道，火必全球顾问委员会成员、波场TRON创始人孙宇晨在接受采访时表示，火必计划扩大其在香港的业务，因香港被视为“中国加密货币发展的试验区之一”。他补充说，火必的主要业务地区是香港、马来西亚和加勒比地区。\n此前去年10月消息，孙宇晨表示Huobi和波场将积极申请香港牌照，拥抱支持香港加密新政。",
-          "link": "https://panewslab.com/zh/articledetails/5jbx26j3.html",
-          "publishedOn": "2023-02-10T05:57:28.000Z",
-          "wordCount": 3552,
-          "title": "孙宇晨：火必计划扩大在香港的业务",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/pk2m138b.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，据区块链安全审计公司Beosin旗下Beosin EagleEye安全风险监控、预警与阻断平台监测显示，dForce合约，分别在Optimism和Arbitrum两条L2链上遭到了攻击。两条链上总损失约370万美元。据Beosin安全技术人员分析，原因为利用curve pool的重入漏洞，影响了Oracle的价格，通过1.借出超过抵押品价值的贷款不归还；2. 在价格被操纵的情况下清算头寸获取利润。\n在Arbitrum上的攻击交易获利719,437枚dForce USD （USX）和1236枚ETH（约195万美元）。ETH还留在Arbitrum链上的地址上，USX通过跨链桥转移到Optimism链上。在Optimism链上的攻击交易获利1,037,000 USX，最后所有的USX被兑换成了1110 枚ETH（约175万美元）。Beosin Trace追踪发现目前被盗ETH还留在Optimism链上的地址上。\n此前消息，dForce证实遭遇攻击并正制定补救措施。",
-          "link": "https://panewslab.com/zh/articledetails/pk2m138b.html",
-          "publishedOn": "2023-02-10T05:46:44.000Z",
-          "wordCount": 3570,
-          "title": "Beosin发布dForce合约遭受攻击事件简析",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/tf43j2pt.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，Nansen创始人Alex Svanevik发推文称：“实际上，交易所非常容易对其ETH质押保持透明。公开所有抵押ETH的地址（并以加密方式签署消息以证明所有权）。我们已经有了区块链，因此我们不需要美SEC主席Gary Gensler的‘帮助’”。”\n此前今日早些时候消息，SEC主席Gary Gensler表示，质押即服务提供商必须注册，并提供信息披露和投资者保护。",
-          "link": "https://panewslab.com/zh/articledetails/tf43j2pt.html",
-          "publishedOn": "2023-02-10T05:35:28.000Z",
-          "wordCount": 3568,
-          "title": "Nansen创始人：交易所很容易对其ETH质押保持透明，无需监管机构的“帮助”",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7e300dkf.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，ApeCoin DAO已投票通过名为“使用NFT创建视觉效果、横幅、贴纸、Meme和GIF的应用程序”的AIP-182提案，该提案旨在为社区提供易于使用的工具，用ApeCoin支持的NFT创建可视内容，以提高ApeCoin的效用并推动Web3文化向前发展，提供更多社交用例。ApeCoin DAO将向提案作者Dan Dober分配13.5万美元，以资助他和他的团队扩展其开发的Web3创意应用程序 NFTLook。\n据悉，该应用程序将免费使用，并可选择获得高级功能，其中ApeCoin将集成为主要支付货币。",
-          "link": "https://panewslab.com/zh/articledetails/7e300dkf.html",
-          "publishedOn": "2023-02-10T05:28:10.000Z",
-          "wordCount": 3566,
-          "title": "ApeCoin DAO将资助开发集成APE支付的Web3创意应用程序NFTLook",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/mzs1ogl5.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，DeFi协议dForce发推文证实了其遭遇攻击：“几个小时前，Arbitrum和Optimism上的wstETH/ETH Curve vaults被利用，我们立即暂停了dForce金库。协议的其他部分仍然完好无损，用户资金在dForce Lending中是安全的。我们将尽快发布详细报告和补救措施。”\n此外，据派盾监测，dForce在Arbitrum和Optimism上的一系列交易中被利用，攻击者总收益约为365万美元。\n此前今日早些时候消息，派盾称其社区贡献者发现，DeFi协议dForce疑似遭遇超过170万美元的闪电贷攻击。",
-          "link": "https://panewslab.com/zh/articledetails/mzs1ogl5.html",
-          "publishedOn": "2023-02-10T05:16:36.000Z",
-          "wordCount": 3570,
-          "title": "dForce证实遭遇攻击并正制定补救措施，攻击者已获利365万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3reb9ic8.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，a16z Crypto总法律顾问Miles Jennings针对“Kraken 与美国证券交易委员会(SEC)达成和解”一案在推特上发表评论称：“质押对生态系统来说非常重要，质押即服务项目既合法，也允许更多人参与区块链技术。幸运的是，我们认为这项和解协议不会对交易所产生任何影响，因为这些交易所已经制定了计划，以避免涉及证券法，这仍然是很有可能的。”\n不过，Jennings表示：“作为Web3的重要投资者和正在建设下一代互联网的企业，我们对SEC主席继续表明他只知道如何通过零星的执法案件进行监管感到失望。自SEC上一次与加密货币相关的指导以来已经四年了，SEC主席继续专注于上头条，而不是根据SEC的核心使命保护投资者的合法努力。现在是他优先考虑规则和指导的时候了，这些规则和指导将使市场更加清晰，并积极主动地保护公众。”\n此前今日早些时候消息，SEC宣布，Kraken将“立即”结束向美国客户提供的加密质押服务，并将向SEC支付3000万美元罚款，以解决其提供未注册证券的指控。SEC主席Gary Gensler表示，质押即服务提供商必须注册，并提供信息披露和投资者保护。",
-          "link": "https://panewslab.com/zh/articledetails/3reb9ic8.html",
-          "publishedOn": "2023-02-10T05:06:12.000Z",
-          "wordCount": 3581,
-          "title": "a16z Crypto总法律顾问：Kraken与SEC的和解可能不会影响其他交易所",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7fnxodq4.html",
-          "author": "PA一线",
-          "description": "PANews 2月10日消息，派盾称其社区贡献者发现，DeFi协议dForce疑似遭遇超过170万美元的闪电贷攻击。dForce官方表示已经在进行调查，很快会公布消息。",
-          "link": "https://panewslab.com/zh/articledetails/7fnxodq4.html",
-          "publishedOn": "2023-02-10T04:21:07.000Z",
-          "wordCount": 3556,
-          "title": "派盾：dForce疑似遭遇闪电贷攻击，损失金额或超170万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
         {
           "id": "https://panewslab.com/zh/articledetails/50lj19p1.html",
           "author": "PA一线",
@@ -459,7 +379,7 @@
         {
           "id": "https://panewslab.com/zh/articledetails/cj3ktt4b.html",
           "author": "PA一线",
-          "description": "PANews 2月10日消息，据The Block报道，OpenAI首席执行官Sam Altman创立的加密公司Worldcoin正在为其最新一轮融资寻找主要投资者。据知情人士透露，其正在与包括主权财富基金在内的资金雄厚的投资者商议，希望以30亿美元估值筹集至多1.2亿美元，这一估值与去年相同。此轮融资结构将是股权加代币认股权证。\n据悉，Sam Altman除了创立OpenAI外，还曾担任创业加速器Y Combinator的总裁。Worldcoin计划向全球每个人发行一种全球化的数字货币，并通过其开发的一种球形装置扫描虹膜来构建一个独特的个人识别码，使得每个人获得的数字货币具有独特性，该代币计划于今年上半年推出。据其网站称，该项目迄今为止已有近120万注册用户。\n此轮融资是在ChatGPT取得巨大成功之际进行的。华尔街日报1月5日报道称，OpenAI已与投资者就价值290亿美元的股票出售进行了谈判。微软拟向OpenAI投资数十亿美元，并宣布其旗下所有产品将全线整合ChatGPT。",
+          "description": "PANews 2月10日消息，据The Block报道，OpenAI首席执行官Sam Altman创立的加密公司Worldcoin正在为其最新一轮融资寻找主要投资者。据知情人士透露，其正在与包括主权财富基金在内的资金雄厚的投资者商议，希望以30亿美元估值筹集至多1.2亿美元，这一估值与去年相同。此轮融资结构将是股权加代币认股权证。\n据悉，Sam Altman除了创立OpenAI外，还曾担任创业加速器Y Combinator的总裁。Worldcoin计划向全球每个人发行一种全球化的数字货币，并通过其开发的一种球形装置扫描虹膜来构建一个独特的个人识别码，使得每个人获得的数字货币具有独特性，该代币计划于今年上半年推出。据其网站称，该项目迄今为止已有近120万注册用户。\n此轮融资是在ChatGPT取得巨大成功之际进行的。华尔街日报1月5日报道称，OpenAI已与投资者就价值290亿美元的股票出售进行了谈判。微软拟OpenAI向投资数十亿美元，并宣布其旗下所有产品将全线整合ChatGPT。",
           "link": "https://panewslab.com/zh/articledetails/cj3ktt4b.html",
           "publishedOn": "2023-02-10T01:58:51.000Z",
           "wordCount": 3576,
@@ -475,6 +395,86 @@
           "wordCount": 3558,
           "title": "Optimism开始第二轮空投，1170万枚OP将分发至超30万个地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/tgma5sj3.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，据NFT Pass铸造平台Premint上的信息，Web3娱乐平台Matr1x完成1000万美元A轮融资，Hana Financial Investment、Hashkey Capital、Amber Group和SevenX Ventures参投。\nMatr1x即将推出元宇宙射击手游Matr1x FIRE和该手游的PFP NFT系列Matr1x 2061。Matr1x 2061总量2061个，拥有Matr1x FIRE的高级权益：未来所有的优先测试资格、游戏内容抢先体验权、创世角色的优先获取资格 、游戏内代币和资产的空投等。预计2月下旬铸造，仅Matr1xlist与Luckylist可参与铸造，不会公开出售。",
+          "link": "https://panewslab.com/zh/articledetails/tgma5sj3.html",
+          "publishedOn": "2023-02-10T01:29:19.000Z",
+          "wordCount": 3583,
+          "title": "Web3娱乐平台Matr1x完成1000万美元A轮融资，Hashkey Capital等参投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/h8uw4s0m.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，Voyager Digital已向法院提交一份计划文件，以允许用户通过Binance.US账户收回资产。文件显示，Voyager Digital与Binance.US的交易预计将于3月完成并允许用户提款。但夏威夷、纽约、得克萨斯和佛蒙特州的用户因无法在Binance.US创建账户，因此需要再等六个月的时间。\nKirkland & Ellis合伙人Joshua Sussberg表示，如果Binance.US在收购协议结束后的6个月内未获得在不受支持的州运营所需的许可或授权，Voyager将把可分配给此类客户的资产转换为现金，并将单独分配。其余的Voyager美国客户将需要提供个人详细信息，如电子邮件地址、社会保险号和出生日期，以便为其创建一个Binance.US账户。Voyager建立的索赔门户网站也向用户显示其资产价值。不过，这并不意味着客户能拿回100%的资金。",
+          "link": "https://panewslab.com/zh/articledetails/h8uw4s0m.html",
+          "publishedOn": "2023-02-10T01:21:36.000Z",
+          "wordCount": 3565,
+          "title": "Voyager Digital计划允许用户通过Binance.US账户收回资产",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5mrk8vqh.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，据The Block报道，比特币矿企CleanSpark报告称，其截至12月的季度净亏损2900万美元，营收为2780万美元。截至12月31日，该公司总资产为4.87亿美元，负债为5980万美元。\n此前8月份消息，CleanSpark宣布出售其能源业务资产，以完全专注于比特币挖矿。",
+          "link": "https://panewslab.com/zh/articledetails/5mrk8vqh.html",
+          "publishedOn": "2023-02-10T01:10:30.000Z",
+          "wordCount": 3554,
+          "title": "比特币矿企CleanSpark在截至12月的季度净亏损为2900万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3my7on6o.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，美国证券交易委员会（SEC）委员、“加密妈妈”Hester Peirce今日在SEC官网发布了一份声明，称其对SEC关闭Kraken的质押计划提出异议。她表示：“Kraken的质押计划本应作为证券发行在美国证券交易委员会注册，无论是否同意该分析，更根本的问题是在SEC注册是否可能。当前环境下，与加密货币相关的产品无法通过SEC的注册渠道，像这样有争议的质押服务产品会引发一系列复杂的问题，包括质押程序是否作为一个整体进行注册，或者每个代币的质押程序是否将单独注册，重要的披露是什么，以及对Kraken的会计影响是什么。”\nPeirce认为，SEC应该发布关于加密质押的指南，而非再次选择通过执法行动来说话，“使用执法行动告诉人们新兴行业的法律是什么，并不是一种有效或公平的监管方式”。此外，她指出，质押服务并不统一，因此一次性执法行动和千篇一律的分析并不能解决问题。Peirce提出了她的担忧，称对SEC目前这样对注册违规的解决方案却可能关闭一个为人们提供良好服务的程序。她称SEC这样的执法行动是“家长式和懒惰”的监管方式。\n此前今日早些时候消息，SEC宣布，Kraken将“立即”结束向美国客户提供的加密质押服务，并将向SEC支付3000万美元罚款，以解决其提供未注册证券的指控。SEC主席Gary Gensler表示，质押即服务提供商必须注册，并提供信息披露和投资者保护。",
+          "link": "https://panewslab.com/zh/articledetails/3my7on6o.html",
+          "publishedOn": "2023-02-10T00:43:18.000Z",
+          "wordCount": 3561,
+          "title": "美SEC委员：SEC对Kraken的处罚是“懒惰”的监管方式，应出台质押指南引导注册",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/22a6l66g.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，针对对Kraken的处罚，美国证券交易委员会（SEC）主席Gary Gensler表示：“无论是通过质押即服务（staking-as-a-service）、贷款还是其他方式，加密中介机构在提供投资合同以换取投资者的代币时，都需要提供我们证券法要求的适当披露和保障。今天的行动应该向市场明确表明，质押即服务提供商必须注册，并提供全面、公平和真实的信息披露和投资者保护。”\n此前今日早些时候消息，SEC宣布，Kraken将“立即”结束向美国客户提供的加密质押服务，并将向SEC支付3000万美元罚款，以解决其提供未注册证券的指控。",
+          "link": "https://panewslab.com/zh/articledetails/22a6l66g.html",
+          "publishedOn": "2023-02-10T00:13:28.000Z",
+          "wordCount": 3555,
+          "title": "美SEC主席：质押即服务提供商必须注册，并提供信息披露和投资者保护",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/91afq9rb.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，据彭博社报道，Coinbase首席法务官在一份声明中表示，Coinbase的质押计划不会受到今天Kraken新闻的影响。Kraken实际上是在提供一种收益产品。而Coinbase的质押服务在本质上是不同的，它不属于证券。Coinbase未来将继续提供质押服务。据此前消息，美国证券交易委员会(SEC)周四宣布，加密交易所Kraken将“立即”终止向美国客户提供加密质押服务，并将向SEC支付3000万美元罚款，以解决其提供未注册证券的指控。",
+          "link": "https://panewslab.com/zh/articledetails/91afq9rb.html",
+          "publishedOn": "2023-02-09T23:38:54.000Z",
+          "wordCount": 3548,
+          "title": "Coinbase首席法务官：Coinbase的质押服务不属于证券，未来将继续提供质押服务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xn0a9wd3.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，据官方消息，三箭资本(3AC)创始人Su Zhu和Kyle Davies与加密交易所CoinFlex的联合创始人合作推出交易所Open Exchange。该平台自称是“全球首个交易加密破产索赔的公开市场”，交易对象为FTX、Voyager Digital、Celsius Network、Genesis、BlockFi、Mt. Gox和3AC等破产加密公司的索赔，金额高达200亿美元。该平台将使用FLEX代币，索赔等待名单现已开放。Su Zhu在推特表示，该平台将在未来几个月建立完全去中心化的托管和清算服务，之后还将扩展到股票、外汇和其他产品。据此前消息，三箭资本和CoinFlex拟议的新加密交易所已完成融资。\n相关阅读：两个暴雷团队合伙再创业，三箭资本拟新创办的债权交易市场能救FTX受害者吗？",
+          "link": "https://panewslab.com/zh/articledetails/xn0a9wd3.html",
+          "publishedOn": "2023-02-09T23:12:06.000Z",
+          "wordCount": 3576,
+          "title": "三箭资本创始人推出债权交易市场Open Exchange",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wlgqcup1.html",
+          "author": "PA一线",
+          "description": "PANews 2月10日消息，据CoinDesk报道，美国国税局(IRS)周四向法院提交了一份请愿书，寻求批准对Kraken加密交易所及其子公司强制执行传票。IRS在请愿书中表示，它于2021年首次发出传票。尽管双方进行了讨论，但Kraken控股公司Payward Ventures Inc.及其子公司未能遵守传票，也没有提供传票中要求的账簿、记录、文件和其他数据。据悉IRS目前正在进行调查，以确定2016年至2020年期间进行加密货币交易的美国人身份并更正联邦所得税责任。据此前消息，美国证券交易委员会(SEC)周四宣布，加密交易所Kraken将“立即”终止向美国客户提供的加密货币质押服务，并将向SEC支付3000万美元罚款，以解决其提供未注册证券的指控。",
+          "link": "https://panewslab.com/zh/articledetails/wlgqcup1.html",
+          "publishedOn": "2023-02-09T22:27:34.000Z",
+          "wordCount": 3553,
+          "title": "美国国税局寻求法院批准确认Kraken加密客户身份",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -489,7 +489,7 @@
           "description": "2 月 10 日，以太坊官网更新质押提款页面，该页面详细介绍以太坊质押提款的相关事项，包括质押奖励领取，质押提款步骤、提款时间周期等。\n\n以太坊质押提款将于 Shanghai/Capella 升级后开放，预计该升级于 2023 年 Q1/Q2 完成。",
           "link": "https://www.hellobtc.com/news/202302/19795.html",
           "publishedOn": "2023-02-10T03:02:00.000Z",
-          "wordCount": 316,
+          "wordCount": 314,
           "title": "以太坊官网更新质押提款页面",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -591,9 +591,39 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/34518",
+          "author": null,
+          "description": "SEC强调：「无论是通过质押即服务、借贷还是其他方式，加密货币中介机构都必须提供法律要求的适当披露和保障措施。」",
+          "link": "https://www.theblockbeats.info/news/34518",
+          "publishedOn": "2023-02-10T04:26:59.000Z",
+          "wordCount": null,
+          "title": "Kraken被重罚并关停美国加密质押服务，业内人士怎么看？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34521",
+          "author": null,
+          "description": "加密领域监管与传统金融监管有什么不同",
+          "link": "https://www.theblockbeats.info/news/34521",
+          "publishedOn": "2023-02-10T03:57:09.000Z",
+          "wordCount": null,
+          "title": "【视频】去中心化就意味着无监管吗？聊聊加密领域的监管与法律",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/34503",
+          "author": null,
+          "description": "web3 卡丁车游戏《What The Kart》将以 CryptoTwitter 上受人喜爱的 KOL 等为原型，包括 Inversebrah、CL、Gainzy、Pentoshi 和 Cobie。",
+          "link": "https://www.theblockbeats.info/news/34503",
+          "publishedOn": "2023-02-10T03:28:47.000Z",
+          "wordCount": null,
+          "title": "Oh Baby Games：首个以加密社区为原型的web3游戏平台",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/34519",
           "author": null,
-          "description": "尽管在加密领域，「不要碰合约」已经是人尽皆知的老话，但我们不得不承认，杠杆才是目前加密市场增长的最大动力之一，在过去的一轮牛市中更是如此。实际上，在当各方面风险得到有效控制的情况下，杠杆的使用也并非完全是一件坏事。\n\n\n\n\n但目前，即使是在 BTC 和 ETH 这类流动性很强的市场中，实现清算都非常困难，尤其是在市场出现大幅波动的情况下。为了保证永续合约市场的有效运行，交易平台往往会增加清算惩戒的金额，亦或对交易规模设置更严格的上限。当这些措施都失败时，交易便会强制结算，交易者也无法从他们的盈利头寸中获得报酬。更可怕的是，交易平台的主要收入也来自清算，而在交易双方利益不一致时，便常有令人唏嘘的故事发生。\n\n\n\n\n由 Lemma Labs 开发的 InfinityPools 解决的正是永续合约的这种清算风险。通过让协议中的所有头寸都实现完美平仓，以让交易者在没有交易对手风险的情况下，对任何资产添加无限的杠杆。\n\n\n\n\nInfinityPools 的基本逻辑\n\n\n\n\nInfinityPools 是一个双向市场，一侧是交易者，另一侧是流动性提供者（LP），通过预先确保平仓所需的现货流动性来解决清算问题。LP 将其在 Uniswap v3 或其他 AMM 上的 LP Token 存入协议以供交易者使用，通过资金费率获得比 AMM 交易费更优越、更持续的收益。交易者则从公共流动性池中借用 LP 的集中流动性范围，并将其放入私人交易池中用于做多或做空操作。\n\n\n\n\n\n\n我们可以通过下面这个例子来简单了解 InfinityPools 的杠杆逻辑：\n\n\n\n\n我们假设当前 ETH 的市价是 1000 ETH/USDC，交易者在 InfinityPools 上借入了价值 1000 USDC 的 ETH-USDC LP Token，该 LP Token 的流动性范围部署在 900 ETH/USD…",
+          "description": "InfinityPools解决的是永续合约的清算风险，通过让协议中的所有头寸都实现完美平仓，以让交易者在没有交易对手风险的情况下，对任何资产添加无限的杠杆。",
           "link": "https://www.theblockbeats.info/news/34519",
           "publishedOn": "2023-02-10T03:18:05.000Z",
           "wordCount": null,
@@ -603,7 +633,7 @@
         {
           "id": "https://www.theblockbeats.info/news/34517",
           "author": null,
-          "description": "原文标题：《\n\n监管打击链上质押 Coinbase 重挫 14% 创半年来最大跌幅\n\n》\n原文作者：常嘉帅，华尔街见闻\n\n\n\n\n比特币开年的回弹，给人心惶惶的币圈带来一剂强心剂。但如今，随着美国监管机构的重拳出击，加密资产的前景再度变得不明确。\n\n\n\n\nSEC 终于对质押下手\n\n\n\n\n美东时间 2 月 10 日，受竞争对手 Kraken 被美国监管机构叫停链上质押服务（Staking）的刺激，世界第二大加密货币交易平台 Coinbase 的股价跌超 14%，创下六个多月来的最大跌幅。\n\n\n\n\n\n\n\n\n\nKraken 此前被美国证券交易委员会（SEC）指控违规提供链上质押服务。SEC 认为，Kraken 兜售链上质押产品的行为属于违规出售证券。\n\n\n\n\n据媒体报道，Kraken 已就该案件与 SEC 达成和解，同意停止提供质押服务，并将缴纳 3000 万美元的追缴、预判利息和民事罚款。\n\n\n\n\n消息传出后，比特币应声下跌 4.6%，回落至 22000 美元 / 枚下方。\n\n\n\n\n\n\n\n\n\n质押（Staking）是一种被币圈广泛采用的挖矿方式。与比特币挖矿不同，前者使用工作量证明机制（POW），要求节点不断进行哈希计算来验证交易有效性。\n\n\n\n\n质押则不需要太多算力，没有那么高的硬件门槛。它基于权益证明（POS）和代理权益证明（DPOS）机制，要求用户证明自己拥有一定数量的数字货币的所有权。用户只需要把一定数量的加密货币，锁定在数字钱包或交易平台中，运行一段时间即可获得收益。收益包括智能合约产生的区块奖励，一般是某种数字货币。类似把钱存在银行、然后收取利息。\n\n\n\n\n另外，如果采用的是具备借贷功能的智能合约，那在他人需要借入某种数字货币时，投资者作为出借人获得出借利息收益。\n\n\n\n\nKraken 的质押服务提供高达 20% 的年利率，并承诺每周向客户发送两次质押回报。\n\n\n\n\n质押一直都是 SEC 的眼中钉。SEC 主席 Gary Gensler 认为，质押和借贷只是说法不同，本质上是一回事。\n\n\n\n\n监管断人财路，是在打击创新？\n\n\n\n\n据媒体报道，Coinbase 的 CEO Brian Armstrong 已在周三晚间了解到了 Kraken 和 SEC 的和解协议。他指责 SEC 想要彻底剥夺散户参与链上质押的机会，并且称质押「是一项非常重要的创新」。\n\n\n\n\n\n\n\n\n\n该交易平台的首席法律官 Paul Grewal 对媒体表示：\n\n\n\n\n「从今天的公告中可以清楚地看到，Kraken 实际上是在提供一种收益产品。Coinbase 的质押服务在本质上是不同的，它不是证券。」\n\n\n\n\n随着加密资产价格暴跌导致交易量减少，链上质押已成为 Kraken 和 Coinbase 等交易平台的重要收入来源。\n\n\n\n\n2022 年第三季度，主要来自质押的 Coinbase 收入占该公司净收入的 11%，高于第二季度的 8.5%。Coinbase 是以太币的第二大储户。炒币者通过交易平台以及 Lido 和 Rocket Pool 等分散化交易平台质押了价值数十亿美元的以太币，以取得收益。\n\n\n\n\n如今，随着 SEC 重拳出击，一度野蛮生长的质押服务前路黯淡。加密货币投资公司 CoinShares 的研究助理 Marc Arjoon 表示：\n\n\n\n\n「Kraken 的案子为其他提供类似服务的交易平台立下了一个警示牌。」\n\n\n原文链接",
+          "description": "Kraken的案子为其他提供类似服务的交易所立下了一个警示牌。",
           "link": "https://www.theblockbeats.info/news/34517",
           "publishedOn": "2023-02-10T03:04:01.000Z",
           "wordCount": null,
@@ -659,36 +689,6 @@
           "wordCount": null,
           "title": "解读Arbitrum大动作：新推出的编程环境Stylus能超越EVM吗？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34499",
-          "author": null,
-          "description": "「Maker想要建立自己的DeFi生态」",
-          "link": "https://www.theblockbeats.info/news/34499",
-          "publishedOn": "2023-02-09T09:15:39.000Z",
-          "wordCount": null,
-          "title": "Maker也要进军LSD领域？新市场Spark Protocol可以为Maker带来什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34467",
-          "author": null,
-          "description": "Radiant的目标是为了整合前十大交互层上零散的流动资金（约 220 亿）。",
-          "link": "https://www.theblockbeats.info/news/34467",
-          "publishedOn": "2023-02-09T09:00:01.000Z",
-          "wordCount": null,
-          "title": "Radiant Capital：Arbitrum推出的Layer0跨链借贷协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/34491",
-          "author": null,
-          "description": "过去一周，BAYC持有者买卖最多的是Sewer Pass。",
-          "link": "https://www.theblockbeats.info/news/34491",
-          "publishedOn": "2023-02-09T08:38:53.000Z",
-          "wordCount": null,
-          "title": "Dookey Dash游戏结束：链上数据暴露BAYC持有者交易偏好",
-          "imageUrl": null
         }
       ]
     },
@@ -703,7 +703,7 @@
           "description": "深潮 TechFlow 消息，Sui 开发团队 Mysten Labs 与腾讯云达成合作，双方将在 GameFi、支付和云服务领域通过合作来扩展 Sui 生态。来源链接",
           "link": "https://www.techflowpost.com/express/6642",
           "publishedOn": "2023-02-10T03:57:27.000Z",
-          "wordCount": 16104,
+          "wordCount": 16094,
           "title": "Sui开发团队Mysten Labs与腾讯云达成合作，发展GameFi、支付和云服务领域",
           "imageUrl": null
         },
@@ -733,7 +733,7 @@
           "description": "深潮 TechFlow 消息，据 WeirdoGhostGang 创始人 sleepy 发布推特称，Web3 孵化器、NFT 项目 Weirdo Ghost Gang 母公司 ManesLAB 宣布完成 180 万美元种子轮融资，YZB Investment 领投。\n据了解，ManesLAB 是一家专注于 Web3 大规模采用的孵化器，未来将持续孵化更多 Web3 原生 IP 与区块链应用，助力 Web2 空间与 Web3 生态互融，打造新一代文化科技引擎。原文链接",
           "link": "https://www.techflowpost.com/express/6639",
           "publishedOn": "2023-02-10T02:16:34.000Z",
-          "wordCount": 16141,
+          "wordCount": 16151,
           "title": "NFT项目WeirdoGhostGang母公司ManesLAB完成180万美元种子轮融资，YZB Investment领投",
           "imageUrl": null
         },
@@ -753,7 +753,7 @@
           "description": "深潮 TechFlow 消息，针对Kraken与美国SEC达成和解并将终止面向美国用户的质押服务一事，SEC主席Gary Gensler表示，“无论是通过质押即服务、借贷还是其他方式，加密货币中介机构在提供投资合同以换取投资者的代币时，都需要提供我们证券法要求的适当披露和保护措施。今天的行动应该向市场表明，质押即服务提供商必须注册并提供全面、公平和真实的披露和投资者保护措施。”\n据此前报道，美国证券交易委员会（SEC）周四宣布，加密交易所Kraken将“立即”结束向美国客户提供的加密质押即服务（staking-as-a-service ）平台服务，并将向SEC支付3000万美元罚款，以解决针对其提供未注册证券的指控。Kraken的控股公司Payward Ventures, Inc.和Payward Trading Ltd.将终止质押服务和项目。这些项目至少从2019年开始向公众提供质押服务。\nKraken在博客文章中表示，它将自动解除美国客户质押的以太坊以外其它资产，以太坊质押将在以太坊网络上海升级生效后解除。美国客户将无法质押新资产（包括以太坊），但非美国用户将不受影响。原文链接",
           "link": "https://www.techflowpost.com/express/6637",
           "publishedOn": "2023-02-10T01:23:15.000Z",
-          "wordCount": 16070,
+          "wordCount": 16080,
           "title": "美SEC主席：质押即服务提供商必须注册，并提供全面真实的披露和投资者保护措施",
           "imageUrl": null
         },
@@ -783,7 +783,7 @@
           "description": "深潮 TechFlow 消息，OpenAI 首席执行官 Sam Altman 创立的加密公司 Worldcoin 正在为其最新一轮融资寻找主要投资者。据知情人士透露，其正在与包括主权财富基金在内的资金雄厚的投资者商议，希望以 30 亿美元估值筹集至多 1.2 亿美元——这一估值与去年相同。此轮融资结构将是股权加代币认股权证。\n据悉，此轮融资是在 ChatGPT 取得巨大成功之际进行的。此前报道，OpenAI 已与投资者就价值 290 亿美元的股票出售进行了谈判。微软正考虑向该公司投资 100 亿美元。来源链接",
           "link": "https://www.techflowpost.com/express/6633",
           "publishedOn": "2023-02-10T00:54:39.000Z",
-          "wordCount": 16110,
+          "wordCount": 16100,
           "title": "OpenAI 创始人旗下加密公司 Worldcoin 正在进行新一轮融资",
           "imageUrl": null
         },
@@ -813,7 +813,7 @@
           "description": "深潮 TechFlow 消息，Aave 在以太坊的 Goerli 测试网上推出原生稳定币 GHO，GHO 的开发人员和潜在采用者可以访问稳定币的代码库并测试其工作原理，GHO 的主网启动需要社区讨论和批准。 \n在测试网发布之前，GHO 部署由区块链代码审计公司 Open Zeppelin、SigmaPrime、ABDK 审计，目前正在接受 Certora 的审计。该协议还启动了一个漏洞赏金计划，鼓励社区成员发现并报告安全漏洞，最高可获得 25 万美元的奖励。原文链接",
           "link": "https://www.techflowpost.com/express/6630",
           "publishedOn": "2023-02-09T14:08:10.000Z",
-          "wordCount": 16113,
+          "wordCount": 16103,
           "title": "Aave现已在以太坊测试网Goerli上推出原生稳定币GHO",
           "imageUrl": null
         },
@@ -843,7 +843,7 @@
           "description": "深潮 TechFlow 消息，数字资产保护和保险提供商 Coincover 完成 3000 万美元融资，硅谷投资公司 Foundation Capital 领投。本轮资金将用于人才招聘、产品迭代和寻求新的合作伙伴关系等。 Coincover 为企业、基础设施提供商和消费者提供资产保护相关产品，以避免黑客或人为错误产生损失。\n该公司与 300 多家企业合作，包括加密货币托管商 Fireblocks 和加密货币交易平台 Bitso。 2021 年 7 月，Coincover 完成 920 万美元 A 轮融资，Element Ventures 领投，DRW Venture Capital 和 Susquehanna Private Equity Investments 参投。来源链接",
           "link": "https://www.techflowpost.com/express/6627",
           "publishedOn": "2023-02-09T13:21:03.000Z",
-          "wordCount": 16151,
+          "wordCount": 16141,
           "title": "加密保险公司 Coincover 完成 3000 万美元融资，Foundation Capital 领投",
           "imageUrl": null
         },
@@ -853,7 +853,7 @@
           "description": "深潮 TechFlow 消息，2月9日，波场TRON创始人、火必Huobi全球顾问委员会成员孙宇晨在推特表示，AI正在改变当前的科技行业，而波场TRON将凭借其强大的AI整合能力引领这场变革。孙宇晨表示，波场TRON将分别对预言机（Oracle）服务、投资管理工具、支付基础设施以及内容生产领域对AI行业进行深度整合。其中，孙宇晨称，WinkLink将与AI预言机（Oracle）服务进行整合，为用户提供最准确的链上数据。\n孙宇晨提到，通过WinkLink与AI预言机（Oracle）服务的整合，系统得以了解哪些数据被请求最多，并根据该信息更新模型；而结合JUST和SUN两个DeFi应用，人工智能驱动交易算法的同时，也能检查智能合约中的安全风险，以实现更高效、稳定的收益；同时，波场TRON还将整合基于稳定币生态系统的支付通道，让Web3与AI的结合更简单、便捷；内容生产方面，波场TRON通过对AI内容的整合，将为NFT领域建立一个巨大的利基市场，通过对NFT铸造效率的提升、以及基于历史数据和资产质量的有效价值评估，将为所有人提供最佳的NFT体验。",
           "link": "https://www.techflowpost.com/express/6626",
           "publishedOn": "2023-02-09T11:41:08.000Z",
-          "wordCount": 16080,
+          "wordCount": 16070,
           "title": "孙宇晨：WinkLink将与AI预言机（Oracle）服务整合，提供最准确链上数据",
           "imageUrl": null
         },
@@ -873,7 +873,7 @@
           "description": "深潮 TechFlow 消息，据 PancakeSwap 官方推特消息，Aptos&Sui 上的多链 NFT 市场 BlueMove 将于今晚 8 点在 PancakeSwap 进行 IFO，投资者需只需在 Aptos 上持有 $CAKE，并在销售开始时投入。原文链接",
           "link": "https://www.techflowpost.com/express/6624",
           "publishedOn": "2023-02-09T11:17:11.000Z",
-          "wordCount": 16109,
+          "wordCount": 16099,
           "title": "Aptos&Sui多链NFT市场BlueMove将于今晚8点在PancakeSwap进行IFO",
           "imageUrl": null
         },
@@ -913,7 +913,7 @@
           "description": "深潮 TechFlow 消息，加密借贷机构Celsius计划将其重组计划延长最多五个月，但据周三提交的法律文件显示，该计划遭到债权人和美国政府反对。备案文件称，虽然Celsius在1月25日概述了转型为公开交易的“回收公司（recovery corporation）”以退出破产程序的计划，但需要抓紧时间，以免因律师费增加而耗尽资产。\n此前，在1月25日的一项动议中，Celsius要求将其提交计划的独家截止日期延长六周至3月底，并能够在6月底之前就该计划征集投票。Celsius表示，如果交易未能达成，重组可能会被资产的全面清算所取代。但根据负责破产案件的司法部官员美国受托人William Harrington的说法，“没有任何依据可以仅仅为了提交和征求计划而将此案再延长五个月。”\n哈林顿在周三的一份文件中表示，鉴于律师们“消耗”公司剩余资产的速度，再次延长至6月“是不合适的”。目前，关于此事听证会定于2月15日举行，由纽约南区法官Martin Glenn主持。原文链接",
           "link": "https://www.techflowpost.com/express/6620",
           "publishedOn": "2023-02-09T10:36:51.000Z",
-          "wordCount": 16089,
+          "wordCount": 16099,
           "title": "Celsius“计划将重组计划延长最多五个月”遭债权人反对",
           "imageUrl": null
         },
@@ -933,7 +933,7 @@
           "description": "深潮 TechFlow 消息，Gnosis联创Martin Köppelmann发推表示，ENS DAO已通过CoW Swap将1万枚ETH兑换为16,145,549.6枚USC。\n此前报道，2月7日，ENS DAO关于“出售1万枚ETH以支付未来两年运营费用”的提案已获投票通过。原文链接",
           "link": "https://www.techflowpost.com/express/6618",
           "publishedOn": "2023-02-09T09:44:29.000Z",
-          "wordCount": 16098,
+          "wordCount": 16108,
           "title": "Gnosis联创：ENS DAO已通过CoW Swap售出1万枚ETH",
           "imageUrl": null
         },
@@ -963,7 +963,7 @@
           "description": "深潮 TechFlow 消息，zkSync 宣布 zkSync 2.0 测试网已完成 Regenesis 更新。该更新为 Fair Onboarding Alpha 做准备，Fair Onboarding Alpha 里程碑允许开发者在封闭环境中测试其代码，新的费用模型可以确保交易和区块扩容考虑系统整体成本，改善证明生成性能并修复所有审计发现。\nRegenesis 重置交易历史记录与代币余额，并要求团队重新部署合约，同时引入账户抽象、SDK 与 Layer1 合约等新功能。来源链接",
           "link": "https://www.techflowpost.com/express/6615",
           "publishedOn": "2023-02-09T09:18:06.000Z",
-          "wordCount": 16127,
+          "wordCount": 16137,
           "title": "zkSync 2.0 测试网已完成 Regenesis 更新",
           "imageUrl": null
         },
@@ -973,7 +973,7 @@
           "description": "深潮 TechFlow 消息，据 Chromia 官方推特报道，区块链项目 Chromia 宣布已经上线 Mark 2 测试网。标志着通向主网之路的测试网扩展阶段的开始。原文链接",
           "link": "https://www.techflowpost.com/express/6614",
           "publishedOn": "2023-02-09T09:15:50.000Z",
-          "wordCount": 16132,
+          "wordCount": 16122,
           "title": "区块链项目 Chromia 已正式上线 Mark 2 测试网",
           "imageUrl": null
         },
@@ -983,7 +983,7 @@
           "description": "深潮 TechFlow 消息，针对此前消息人士透露“美联储和OCC正在进行大规模加密货币去银行化操作”，稳定币发行商Paxos发推回应,“Paxos并没有被要求从美国货币监理署（OCC）撤回其国家信托银行执照的申请，也没有被拒绝该执照。Paxos继续与OCC进行建设性的合作”。\n今日早些时候报道，消息人士称，美联储和金融监管机构美国货币监理署OCC正在进行大规模的加密货币去银行化操作，OCC不久会拿出一份文件，稳定币BUSD发行方Paxos和其他区块链公司被OCC告知要撤回银行执照申请。原文链接",
           "link": "https://www.techflowpost.com/express/6613",
           "publishedOn": "2023-02-09T08:11:43.000Z",
-          "wordCount": 16088,
+          "wordCount": 16078,
           "title": "Paxos回应：美OCC并未要求其撤回银行执照申请，且申请未被拒",
           "imageUrl": null
         },
@@ -1003,7 +1003,7 @@
           "description": "深潮 TechFlow 消息，据DEFIYIELD.App官方推特信息，DeFi 投资一体化平台 DeFiYield 与 Cosmos 生态 EVM 兼容链 Evmos 达成合作。\n用户现在可以追踪 Evmos Staking 的历史数据，包括 APY、TVL、Validators 和其他。此外，还可以跟踪和分析 $EVMOS 的 APY 与其他 Cosmos 链的 APY。原文链接",
           "link": "https://www.techflowpost.com/express/6611",
           "publishedOn": "2023-02-09T06:36:25.000Z",
-          "wordCount": 16116,
+          "wordCount": 16126,
           "title": "DeFi投资一体化平台DeFiYield与Evmos达成合作，用户现在可以追踪Evmos Staking的历史数据",
           "imageUrl": null
         },
@@ -1023,7 +1023,7 @@
           "description": "深潮 TechFlow 信息，2月9日，火必Huobi全球顾问委员会成员、波场TRON创始人孙宇晨与欧美嘻哈巨星French Montana、JAZ DID创始人 Dr. Watney，进行线上直播对话，对话以“DID，SocialFi的基础设施”为主题，就DID的发展现状与前景等展开探讨。整场对话由火星移民计划女科学家Tracy Fanara主持，并通过火必Live全程直播。\n关于火必在2023年的计划，孙宇晨指出，火必要成为亚洲的Coinbase，让更多人便捷的进入加密世界。火必还将做一次加密行业的教育和普及，让人们更加了解加密货币以及其带来的便利。另外，中国香港对加密行业表现出积极开放的态度，火必也会考虑在这一地区运营，并深耕亚洲市场引领行业发展。\n此外，孙宇晨表示，多米尼克DID是首个国家推出的DID，目前在火必平台的申领人数已经超过了20万。多米尼克DID可用于KYC认证，链接现实与虚拟世界，应用于GameFi、DeFi、CeFi、银行、交易所等多个场景，可以解决很多金融问题。\n多米尼克DID目前在公链TRON上发行，未来将通过BitTorrentChain（BTTC）作为跨链解决方案，支持以太坊、BNB Chain、Arbitrum等区块链。",
           "link": "https://www.techflowpost.com/express/6609",
           "publishedOn": "2023-02-09T04:32:44.000Z",
-          "wordCount": 16105,
+          "wordCount": 16095,
           "title": "孙宇晨：火必将成为亚洲地区的Coinbase",
           "imageUrl": null
         },
@@ -1053,7 +1053,7 @@
           "description": "深潮 TechFlow 消息，Helium 基金会通过投票表决，通过了将 re-assertion 费用减半的提案 HIP-69。\n据悉，HIP 69 提议将 IOT/LoRaWAN 网络上的 re-assertion 费用减少一半（从 100 万 DC 减少到 50 万 DC），共三个月。该项提案将于 Helium 向 Solana 网络迁移时生效。来源链接",
           "link": "https://www.techflowpost.com/express/6606",
           "publishedOn": "2023-02-09T03:00:11.000Z",
-          "wordCount": 16149,
+          "wordCount": 16139,
           "title": "Helium 通过将 re-assertion 费用减半的提案",
           "imageUrl": null
         },
@@ -1103,7 +1103,7 @@
           "description": "深潮 TechFlow 消息，MetaScan Labs旗下Web3域名服务NNS将完成品牌升级，启用全新的顶级域名.META（.NFT域名将停止使用），同时宣布与BNB Chain合作，拓展Web3域名的大规模采用。\n旗下的域名基础设施Registry3获得Unstoppable Domains的投资，两者将共同推动Web3域名生态的发展。\n未来，MetaScan Labs将继续推动Web3数据和基础设施建设，为用户创造专属于Web3的荣誉系统。原文链接",
           "link": "https://www.techflowpost.com/express/6601",
           "publishedOn": "2023-02-09T02:06:34.000Z",
-          "wordCount": 16105,
+          "wordCount": 16095,
           "title": "NNS推出.meta域名，与BNB Chain合作，并与Unstoppable共建Registry3域名基础设施",
           "imageUrl": null
         },
@@ -1153,7 +1153,7 @@
           "description": "深潮 TechFlow 消息，Stellar发展基金会通过Stellar社区基金启动了针对Soroban的1000万美元激励计划。\nSoroban是为Stellar构建的新智能合约平台，该激励计划旨在支持开发人员尝试基于Soroban开发应用，包括工具、DeFi、DApp以及专注于Soroban的教育资源。从2月13日开始，Stellar社区基金将支持开发人员试验Soroban。原文链接",
           "link": "https://www.techflowpost.com/express/6596",
           "publishedOn": "2023-02-08T13:24:28.000Z",
-          "wordCount": 16089,
+          "wordCount": 16079,
           "title": "Stellar发展基金会启动针对Soroban的1000万美元激励计划",
           "imageUrl": null
         },
@@ -1163,7 +1163,7 @@
           "description": "深潮 TechFlow 消息，NEAR 社区官方账号在社交媒体上发文表示，NEAR 可作为基础设施为下一代 AI 用例提供支持，该网络为设置规则和数据定价创建了一个价值层，不同的应用程序和协议可以以公开、公平和透明的方式利用这些数据。来源链接",
           "link": "https://www.techflowpost.com/express/6595",
           "publishedOn": "2023-02-08T13:16:00.000Z",
-          "wordCount": 16096,
+          "wordCount": 16086,
           "title": "NEAR：可作为基础设施为下一代 AI 用例提供支持",
           "imageUrl": null
         },
@@ -1173,7 +1173,7 @@
           "description": "深潮 TechFlow 消息，据火必官方消息，火必已于新加坡时间2月8日20时上线 CORE，开启CORE/USDT交易对，并宣布与CoreDao签署战略合作协议。据悉，双方将围绕技术支持、社区共治、生态推广等多领域展开合作，致力于为用户提供去中心化的共识并建设更可靠的区块链底层基础设施。 \n火必是全球领先的数字资产交易平台。Core是一种采用比特币挖矿哈希算力与以太坊虚拟机(EVM)融合而成的图灵完备区块链。它采用Satoshi Plus共识机制，融合比特币PoW和以太坊DPoS，在保持去中心化的同时，规避了PoW共识系统中的权衡问题，解决了去中心化、安全性、可扩展性的三角困境。据悉，火必是CORE此次代币首发的唯一头部交易所。",
           "link": "https://www.techflowpost.com/express/6594",
           "publishedOn": "2023-02-08T12:16:41.000Z",
-          "wordCount": 16089,
+          "wordCount": 16079,
           "title": "火必已上线 CORE，并与 CoreDao 达成战略合作",
           "imageUrl": null
         },
@@ -1183,7 +1183,7 @@
           "description": "深潮 TechFlow 消息，据火必官方公告，火必第三期投票上币活动（PrimeVote）已完成全部项目招募，累计超150个项目报名，共有25个项目通过初筛甄选，参与投票环节。该环节将分为两个阶段进行，2月8日20时至2月15日20时为拉票期，2月15日20时至2月17日为投票期，用户可通过HT锁仓的方式为支持项目投票，1HT=1票。最终，锁仓投票和场外加票累计票数最高的项目将获得优先上币权，其支持者可按一定比例瓜分获胜项目奖池。\n据悉，火必投票上币活动已成功开展两期，该活动旨在交权社区，赋予HT用户决策实权，携手共建HT生态，持续赋能HT。火必最新数据显示，HT上周最高交易价格为6.1687美元，涨幅达11.68%。",
           "link": "https://www.techflowpost.com/express/6593",
           "publishedOn": "2023-02-08T10:57:18.000Z",
-          "wordCount": 16066,
+          "wordCount": 16076,
           "title": "火必第三期投票上币活动进入投票环节，25个项目通过初筛参选",
           "imageUrl": null
         },
