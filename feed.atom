@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-11T05:13:18.678Z</id>
+    <id>urn:2023-02-11T06:17:40.195Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-11T05:13:18.679Z</updated>
+    <updated>2023-02-11T06:17:40.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[余弦：新型钓鱼攻击通过 User-Agent 值来输出特定内容欺骗推特用户]]></title>
+        <id>https://www.defidaonews.com/article/6803240</id>
+        <link href="https://www.defidaonews.com/article/6803240"/>
+        <updated>2023-02-11T05:59:51.000Z</updated>
+        <summary type="html"><![CDATA[DeFi 之道讯，2 月 11 日，慢雾创始人余弦发推称，出现一种新型钓鱼技巧，Twitter 私信或推文看上去很正常的域名，点击后打开则是钓鱼链接。如图所示，x2y2.io 域名点开后却是 x2x2.io 钓鱼域名下的链接。
+慢雾团队分析后发现是因为钓鱼链接通过 User-Agent 值来输出特定内容。如果 User-Agent 值是 Twitterbot/1.0，则跳转到真实的域名；如果不是，则不做跳转，直接输出钓鱼内容。钓鱼通过这个技巧，欺骗了 Twitter，导致用户看到预览出来的链接 ...]]></summary>
+        <author>
+            <name>东寻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LocalBitcoins 改变了委内瑞拉的加密货币金融后发生了什么变化？]]></title>
+        <id>https://0xzx.com/2023021113583164257.html</id>
+        <link href="https://0xzx.com/2023021113583164257.html"/>
+        <updated>2023-02-11T05:58:15.000Z</updated>
+        <summary type="html"><![CDATA[另一种加密货币服务今天下线。 点对点比特币交易网站 LocalBitcoins 宣布关闭，理由是漫长的加密货币冬天 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界末日时间孔雀发布日期和时间公布]]></title>
+        <id>https://0xzx.com/2023021113553164255.html</id>
+        <link href="https://0xzx.com/2023021113553164255.html"/>
+        <updated>2023-02-11T05:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Peacock 正在将世界末日时间添加到其可用内容中。 詹姆斯·格雷 (James Gray) 的最新作品将在 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山姆和艾莉的最后生还者第 5 集友谊破裂了]]></title>
+        <id>https://0xzx.com/2023021113543164252.html</id>
+        <link href="https://0xzx.com/2023021113543164252.html"/>
+        <updated>2023-02-11T05:54:16.000Z</updated>
+        <summary type="html"><![CDATA[家 电视新闻 山姆和艾莉的最后生还者第 5 集友谊破裂了 Sam 和 Ellie 在 The Last Of  […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何到达霍格沃茨遗产中的地下港]]></title>
+        <id>https://0xzx.com/2023021113543164251.html</id>
+        <link href="https://0xzx.com/2023021113543164251.html"/>
+        <updated>2023-02-11T05:54:12.000Z</updated>
+        <summary type="html"><![CDATA[霍格沃茨遗产中的地下港是城堡下方的一个小秘密区域，包含两个箱子、一个眼箱和一个野外指南页。 你可以从船屋游泳或 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毕马威 (KPMG) 为 Metaverse 和数字孪生开设卓越中心]]></title>
+        <id>https://0xzx.com/2023021113523164250.html</id>
+        <link href="https://0xzx.com/2023021113523164250.html"/>
+        <updated>2023-02-11T05:52:13.000Z</updated>
+        <summary type="html"><![CDATA[毕马威沙特阿拉伯与微软、爱立信和 Metakey 联手加速元宇宙在沙特阿拉伯乃至更广泛中东地区的应用。 这家审 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解读闪电网络，探寻比特币支付通道的前世今生]]></title>
         <id>https://www.web3sj.com/?p=43451</id>
@@ -23,56 +84,6 @@
         <summary type="html"><![CDATA[PANews 2月11日消息，据俄罗斯卫星通讯社报道，俄罗斯央行行长纳比乌琳娜在新闻发布会上表示，俄罗斯央行对境内加密货币结算持否定态度，准备允许在对外结算中使用加密货币。纳比乌琳娜表示，“在这方面，立场没有改变。我们对在国内市场、境内结算中使用加密货币持否定态度。对外结算，如果我们的经济实体使用加密货币更方便，我们准备对之开绿灯。”]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在元宇宙的浪漫岛屿上庆祝情人节]]></title>
-        <id>https://0xzx.com/2023021112553164169.html</id>
-        <link href="https://0xzx.com/2023021112553164169.html"/>
-        <updated>2023-02-11T04:55:14.000Z</updated>
-        <summary type="html"><![CDATA[著名社会明星和演员帕丽斯·希尔顿认为元宇宙是情人节庆祝真爱的理想场所。 昨天，她通过一条推文宣布，她将与 Th […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[珍娜奥尔特加坦率地详细介绍了压倒性的周三拍摄时间表]]></title>
-        <id>https://0xzx.com/2023021112543164167.html</id>
-        <link href="https://0xzx.com/2023021112543164167.html"/>
-        <updated>2023-02-11T04:54:12.000Z</updated>
-        <summary type="html"><![CDATA[家 电视新闻 珍娜奥尔特加坦率地详细介绍了压倒性的周三拍摄时间表 詹娜·奥尔特加 (Jenna Ortega) […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成式AI狂飙  中国版ChatGPT还有多远]]></title>
-        <id>https://0xzx.com/2023021112533164165.html</id>
-        <link href="https://0xzx.com/2023021112533164165.html"/>
-        <updated>2023-02-11T04:53:14.000Z</updated>
-        <summary type="html"><![CDATA[从去年元宇宙、虚拟数字人和Web3.0的风靡，到今年年初聊天机器人ChatGPT的“出道即爆火”，一场关乎人工 […]]]></summary>
-        <author>
-            <name>元宇宙之心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是 Windows iSCSI 启动器，如何访问它？]]></title>
-        <id>https://0xzx.com/2023021112513164164.html</id>
-        <link href="https://0xzx.com/2023021112513164164.html"/>
-        <updated>2023-02-11T04:51:17.000Z</updated>
-        <summary type="html"><![CDATA[iSCSI（互联网小型计算机系统接口）是一种基于互联网协议的存储网络工具，用于链接数据存储设备。 它可用于通过 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Telegram 上卖优惠券赚钱]]></title>
-        <id>https://0xzx.com/2023021112513164163.html</id>
-        <link href="https://0xzx.com/2023021112513164163.html"/>
-        <updated>2023-02-11T04:51:16.000Z</updated>
-        <summary type="html"><![CDATA[如今，人们正在寻找额外的方法来赚取额外的钱。 最好的方法之一是在 Telegram 上出售优惠券。 这个消息传 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -658,16 +669,6 @@ Vortex Protocol是一个尚未推出的去中心化衍生品交易所，旨在�
         <summary type="html"><![CDATA[谣言四起别FOMO，比特币网络上的NFT发展还早着]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3与AI时代，如何创造“不可被替代”的价值？]]></title>
-        <id>https://www.defidaonews.com/article/6803092</id>
-        <link href="https://www.defidaonews.com/article/6803092"/>
-        <updated>2023-02-10T09:48:29.000Z</updated>
-        <summary type="html"><![CDATA[当Web3、AI等技​​术不断接管我们生活的方方面面时，创造“不可被替代的价值”究竟意味着什么？]]></summary>
-        <author>
-            <name>wesely</name>
         </author>
     </entry>
     <entry>
