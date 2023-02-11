@@ -63,6 +63,26 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6803264",
+          "author": "东寻",
+          "description": "DeFi 之道讯，据区块链存储协议 Arweave 创始人 Sam Williams 在推特宣布，Arweave 2.6 现已发布，新版本将提升提升网络及其存储市场的能源效率，并且激励矿工存储更多数据。\n网络硬分叉大约在 3 月 6 日激活，随着网络难度的重新调整，未捆绑的 Arweave 交易届时可能会在处理过程中出现暂停，预计将持续几个小时，而捆绑服务的用户或将不会受到影响。Sam Williams 还透露，硬分叉完成后的几周或几个月内还将发布一个或多个调整版本，但相关升级不会对用户造成太大...",
+          "link": "https://www.defidaonews.com/article/6803264",
+          "publishedOn": "2023-02-11T08:53:15.000Z",
+          "wordCount": 154,
+          "title": "区块链存储协议 Arweave 2.6 发布：硬分叉拟于 3 月 6 日激活",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6803262",
+          "author": "东寻",
+          "description": "DeFi 之道讯，据 Lookonchain 监测，被标记为 Robinhood（也可能是 Elon Musk）的钱包今日再次向「DDuXGM」地址转入 12 亿枚 DOGE（约 9850 万美元），最后一次转入是在 2022 年 12 月 20 日。",
+          "link": "https://www.defidaonews.com/article/6803262",
+          "publishedOn": "2023-02-11T08:49:13.000Z",
+          "wordCount": 157,
+          "title": "数据：被标记为 Robinhood 钱包今日向某地址转入 12 亿枚 DOGE",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6803240",
           "author": "东寻",
           "description": "DeFi 之道讯，2 月 11 日，慢雾创始人余弦发推称，出现一种新型钓鱼技巧，Twitter 私信或推文看上去很正常的域名，点击后打开则是钓鱼链接。如图所示，x2y2.io 域名点开后却是 x2x2.io 钓鱼域名下的链接。\n慢雾团队分析后发现是因为钓鱼链接通过 User-Agent 值来输出特定内容。如果 User-Agent 值是 Twitterbot/1.0，则跳转到真实的域名；如果不是，则不做跳转，直接输出钓鱼内容。钓鱼通过这个技巧，欺骗了 Twitter，导致用户看到预览出来的链接 ...",
@@ -78,7 +98,7 @@
           "description": "一文详述数字经济时代与数字资产中心。",
           "link": "https://www.defidaonews.com/article/6803112",
           "publishedOn": "2023-02-11T04:30:48.000Z",
-          "wordCount": 117,
+          "wordCount": 123,
           "title": "肖风：数字经济时代与数字资产中心",
           "imageUrl": "https://appserversrc.8btc.cn/FtyIgY4gP0UBXp5w72Rsj0JTiJhs.png?imageView2/1/w/500/h/300"
         },
@@ -88,7 +108,7 @@
           "description": "提出 Web2.0+ 和 Web3+ 两个新定义，以期给行业提供一个较为清晰的参考。",
           "link": "https://www.defidaonews.com/article/6803116",
           "publishedOn": "2023-02-11T04:30:28.000Z",
-          "wordCount": 649,
+          "wordCount": 655,
           "title": "拨云见日，理清不同 Web 的定义",
           "imageUrl": "https://appserversrc.8btc.cn/Fkc5k2CLCkrkBGfMDFW1PYNRNNRj.png?imageView2/1/w/500/h/300"
         },
@@ -108,7 +128,7 @@
           "description": "伴随2022年Luna暴雷，越来越多国家开始考虑优先监管那些锚定法币的稳定币。",
           "link": "https://www.defidaonews.com/article/6803220",
           "publishedOn": "2023-02-11T03:24:59.000Z",
-          "wordCount": 163,
+          "wordCount": 153,
           "title": "一文浅谈香港加密新政",
           "imageUrl": "https://appserversrc.8btc.cn/FqRrtD9ajIgRodh46VsdMI6ayXH0.png?imageView2/1/w/500/h/300"
         },
@@ -118,7 +138,7 @@
           "description": "Gary 仍然明确表示对不合规的加密货币公司已经没有耐心了",
           "link": "https://www.defidaonews.com/article/6803182",
           "publishedOn": "2023-02-11T02:08:58.000Z",
-          "wordCount": 294,
+          "wordCount": 290,
           "title": "关停 Kraken 质押，SEC 主席：咎由自取",
           "imageUrl": "https://appserversrc.8btc.cn/FhV-OM0XY6q-YxCXjkCScfTtjD-Y.png?imageView2/1/w/500/h/300"
         },
@@ -141,26 +161,6 @@
           "wordCount": 181,
           "title": "Genesis 公布资产出售拟议计划，资产将被“股权化”",
           "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6803184",
-          "author": "东寻",
-          "description": "据彭博社报道，随着美国监管机构加强对加密货币的审查，支付巨头 PayPal 正在暂停其稳定币项目，此前该项目的主要合作伙伴 Paxos 正面临纽约州金融服务部的调查。知情人士透露，PayPal 曾希望在未来几周内推出由美元一对一支持的稳定币，但由于加密货币不断变化的监管环境，因此这项工作被推迟。\nPayPal 发言人 Amanda Miller 表示，“我们正在探索一种稳定币，如果我们寻求向前推进，我们当然会与相关监管机构密切合作。”",
-          "link": "https://www.defidaonews.com/article/6803184",
-          "publishedOn": "2023-02-11T00:35:12.000Z",
-          "wordCount": 114,
-          "title": "彭博社：PayPal 暂停稳定币项目",
-          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6803114",
-          "author": "Web3 小律",
-          "description": "Web3 在香港，未来可期。",
-          "link": "https://www.defidaonews.com/article/6803114",
-          "publishedOn": "2023-02-10T10:56:12.000Z",
-          "wordCount": 906,
-          "title": "从香港全面拥抱 Web3，看香港虚拟资产行业监管框架",
-          "imageUrl": "https://appserversrc.8btc.cn/Fo0kpzTUyO7cdk99bAXGg83DcNkV.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "description": "闪电网络在普及化的路长还存在着许多挑战，如何让用户从心理和行为层面接受用加密货币支付，以及如何基于用户构建起巨大的支付网络，这些都还有很长的一段路要走。但较为乐观的是，闪电网络已经有了不少真实有效的用例，在Strike、LightningLabs等的共建下，随着技术的不断成熟，以及使用场景不断丰富，或许有一天，闪电网络之于比特币，将如同Visa之于货币。",
           "link": "https://www.web3sj.com/news/43451/",
           "publishedOn": "2023-02-11T04:56:28.000Z",
-          "wordCount": 642,
+          "wordCount": 634,
           "title": "解读闪电网络，探寻比特币支付通道的前世今生",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676091356222.png"
         },
@@ -185,7 +185,7 @@
           "description": "事实是残酷的，高达90%的初创公司都失败了。为了衡量一家企业是否有可能成功，我们提出了两个关于牵引力的关键问题。第一个是：除了创始团队还有谁关心这个想法？第二个问题是：这支团队能否成功？尽管聪明人可以有绝妙的想法，但理论与执行之间往往存在巨大差距。",
           "link": "https://www.web3sj.com/news/43448/",
           "publishedOn": "2023-02-11T04:48:25.000Z",
-          "wordCount": 562,
+          "wordCount": 574,
           "title": "Outlier致项目创始人：如何证明你的产品拥有牵引力？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676090879449.png"
         },
@@ -195,7 +195,7 @@
           "description": "可量化 MEV 的最早例子之一是在 CryptoKitties 的热潮中发生的。具体而言，完成 CryptoKitties 怀孕（生下一只新猫），任何人都可以在猫的分娩区块后通过调用智能合约的 giveBirth (）来完成怀孕。随后，用户便可以获得 Eth 奖励。这有可能提前运行，从而产生利润（MEV）。正如 Markus Koch 在 2018 年指出的那样 -- 在游戏历史早期，生育小猫的账户只有那么几个。",
           "link": "https://www.web3sj.com/news/43435/",
           "publishedOn": "2023-02-11T04:45:46.000Z",
-          "wordCount": 1122,
+          "wordCount": 1086,
           "title": "模块化MEV系统化整理——Part 1 简介",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676090719582.png"
         },
@@ -215,7 +215,7 @@
           "description": "GMX 本质接近于杠杆平台，GLP 借币给 trader 加杠杆做对手盘，就是说你做多 10ETH，GLP 就借 10ETH 现货给你，假设开仓时 10ETH = $10k, 关仓还钱时就还按关仓时价格计算价值为 $10k 的 ETH。一方面你的利润不可能高过 10ETH，GLP 自然也不会资不抵债，另一方面对于 GLP 而言实际上相当于卖了 10ETH 换了 $10k。",
           "link": "https://www.web3sj.com/definews/43417/",
           "publishedOn": "2023-02-11T04:32:39.000Z",
-          "wordCount": 833,
+          "wordCount": 804,
           "title": "牛市死亡螺旋？一文详解GMX的问题与未来",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676089932944.png"
         },
@@ -225,7 +225,7 @@
           "description": "紧接着，各大社交平台上开始出现一长串一长串以固定英文字母打头的「神秘字符」，一个名为「Damus」的社交应用横空出世。在当你尝试弄清楚这一切时，短短两天内，Damus 已经聚集起了一大批对 Web3、去中心化社交感兴趣的人，下载量飙升至 App Store 社交免费榜第一。",
           "link": "https://www.web3sj.com/news/43406/",
           "publishedOn": "2023-02-11T04:27:59.000Z",
-          "wordCount": 1001,
+          "wordCount": 1015,
           "title": "最火的Web3社交平台Damus，一周就变成了「互联网厕所」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676089653029.png"
         },
@@ -235,7 +235,7 @@
           "description": "作为稳定币、借贷等两大 DeFi 细分领域的龙头项目，MakerDAO 与 Aave「不约而同」地选择了在同一天向对方牢牢把控的阵地踏出了扩张的脚步，这又给近期本就忙着互相 PK 的 DeFi 市场再次增加了一些硝烟味。（说起来 DeFi 龙头们最近搞了个「一对一协作」，感觉不如拉上 Uniswap 和 Curve 搞个「 1 vs 1 battle」。）",
           "link": "https://www.web3sj.com/definews/43397/",
           "publishedOn": "2023-02-11T04:21:52.000Z",
-          "wordCount": 1082,
+          "wordCount": 1091,
           "title": "详解Spark Protocol：一个叫Sam的人要帮MakerDAO搞事",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676088915535-1.png"
         },
@@ -245,7 +245,7 @@
           "description": "加密市场的早期应用主要围绕交易所和经纪公司，它是唯一一个真正达到增长阶段的细分市场。Coinbase，Binance，Kraken 包括暴雷的 FTX，这些都是将法定货币带入加密市场的入口，也是人们了解加密货币的第一步。",
           "link": "https://www.web3sj.com/news/43394/",
           "publishedOn": "2023-02-11T03:50:19.000Z",
-          "wordCount": 654,
+          "wordCount": 660,
           "title": "斯坦福区块链加速器对话Pantera合伙人：探讨区块链项目的生命周期",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676087384086.png"
         },
@@ -255,7 +255,7 @@
           "description": "美SEC委员：SEC对Kraken的处罚是“懒惰”的监管方式，应出台质押指南引导注册。Optimism开始第二轮空投，1170万枚OP将分发至超30万个地址。Sui开发团队Mysten Labs与腾讯云在GameFi、支付等领域达成合作。",
           "link": "https://www.web3sj.com/news/43358/",
           "publishedOn": "2023-02-10T12:33:34.000Z",
-          "wordCount": 679,
+          "wordCount": 678,
           "title": "Web3.0世界日报（2023-2.10）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/2023021012314178.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "前言 Curve 稳定币最难的部分是 LLAMMA（AMM for continuous liquidation/deliquidation）。LLAMMA 参考了 Uniswap...",
           "link": "https://www.web3sj.com/definews/43327/",
           "publishedOn": "2023-02-10T12:11:57.000Z",
-          "wordCount": 1074,
+          "wordCount": 1098,
           "title": "从Uniswap v3到crvUSD LLAMMA",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676031088934.png"
         }
@@ -276,6 +276,46 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/k76xegb9.html",
+          "author": "PA一线",
+          "description": "PANews 2月11日消息，印度财政部长Nirmala Sitharaman周六在联邦政府预算后的新闻发布会上表示，印度正在与G20国家讨论通过共同框架监管加密货币的必要性。鉴于加密货币涉及若干技术问题，印度正在与所有国家讨论是否可以实现统一的标准操作程序。在她的预算中，财政部长没有宣布任何关于加密货币、NFT或数字资产的新措施。\n此前消息，在2月9日与国际货币基金组织总裁Kristalina Georgieva举行的虚拟对话中，国际货币基金组织（IMF）总裁、印度财政部长Nirmala Sitharaman向多边融资机构提议采用全球协调的方法来监管加密资产。财政部长和国际货币基金组织负责人讨论了国际货币基金组织和其他重要国际组织在制定一套普遍适用的加密法规方面的作用。",
+          "link": "https://panewslab.com/zh/articledetails/k76xegb9.html",
+          "publishedOn": "2023-02-11T09:03:21.000Z",
+          "wordCount": 3564,
+          "title": "印度财长：印度正在与G20国家讨论是否可以实现统一的加密监管操作程序",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/rr1vxs0h.html",
+          "author": "PA一线",
+          "description": "PANews 2月11日消息，电子商务巨头Shopify推出了一套区块链商务工具，以增强其平台托管的Web3商店的用户体验。Shopify区块链团队设计师@ryancreatescopy在Twitter上宣布了这一举措，并指出：“我们已经推出了一些新的工具，帮助您为Shopify商家构建tokengating应用程序。”通过tokegating，所有适用的Shopify商家现在都可以设置他们的商店，规定哪些代币持有者可以或不能获得独家产品、NFT发行和福利。",
+          "link": "https://panewslab.com/zh/articledetails/rr1vxs0h.html",
+          "publishedOn": "2023-02-11T08:53:56.000Z",
+          "wordCount": 3556,
+          "title": "电商巨头Shopify为商家推出区块链商务工具套件",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7a5la0lm.html",
+          "author": "PA一线",
+          "description": "PANews 2月11日消息，NFT市场OpenSea本周已推出两项新功能，一个是“批量上架操作栏”（Bulk listing action bar）。该操作栏位于页面底部，允许用户在个人资料页面选择上架待出售的NFT，如果相关NFT属于同一条链，OpenSea支持快速选择全部项目。\n另一个功能是支持购买基于ERC-1155协议的“替代项目”。该功能主要在用户所选NFT不可用时使用，一旦勾选“替代项目（substitute item）”，OpenSea 将会把暂不支持的NFT替换为指定价格下的其他NFT。",
+          "link": "https://panewslab.com/zh/articledetails/7a5la0lm.html",
+          "publishedOn": "2023-02-11T07:56:27.000Z",
+          "wordCount": 3569,
+          "title": "OpenSea推出两项新功能，批量上架操作栏",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/af8sr38s.html",
+          "author": "PA一线",
+          "description": "PANews 2月11日消息，波场TRON创始人、火必Huobi全球顾问委员会成员孙宇晨发推表示，波场TRON致力于构建一个廉价、快速和安全的网络。随着近期波场TRON能源收费模式向动态能源模式的转变，Binance调整了波场TRON网络的提币费用。目前波场TRON正在与Binance密切合作，并积极探索可以降低波场TRON稳定币和交易所代币提币费用的解决方案。\n“我们仍然致力于让每个人都能负担得起加密货币交易，一旦可用，将与社区共享进一步的更新。”孙宇晨强调。",
+          "link": "https://panewslab.com/zh/articledetails/af8sr38s.html",
+          "publishedOn": "2023-02-11T07:26:52.000Z",
+          "wordCount": 3558,
+          "title": "孙宇晨：正在与Binance合作，积极探索可以降低波场TRON稳定币和交易所代币提币费用的解决方案",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/jvhxc9au.html",
           "author": "PA一线",
@@ -643,7 +683,7 @@
           "description": "深潮 TechFlow 消息，2月11日，波场TRON创始人、火必Huobi全球顾问委员会成员孙宇晨发推表示，波场TRON致力于构建一个廉价、快速和安全的网络。随着近期波场TRON能源收费模式向动态能源模式的转变，Binance调整了波场TRON网络的提币费用。目前波场TRON正在与Binance密切合作，并积极探索可以降低波场TRON稳定币和交易所代币提币费用的解决方案。\n“我们仍然致力于让每个人都能负担得起加密货币交易，一旦可用，将与社区共享进一步的更新。”孙宇晨强调。",
           "link": "https://www.techflowpost.com/express/6656",
           "publishedOn": "2023-02-11T06:56:46.000Z",
-          "wordCount": 16593,
+          "wordCount": 16583,
           "title": "孙宇晨：正与币安合作，探索可以降低TRON稳定币和交易所代币提币费用的解决方案",
           "imageUrl": null
         },
@@ -663,7 +703,7 @@
           "description": "深潮 TechFlow 消息，以太坊基金会在最新发布的一篇文章中表示，Shanghai+Capella（Shapella）主网升级正在进入最后的预发布序列——公共测试网。\nShapella 包含许多功能，但对质押者和共识层来说最重要的是支持提款。退出的验证者可以全额取款，而活跃验证者余额超过 32 ETH 的可以部分取款。另外，第一个长期存在的公共测试网 Sepolia 计划于 2 月 28 日进行升级。\n2 月 7 日，上海升级首个公共测试网 zhejiang 到达预定高度后已成功激活上海升级。此前开发人员表示，之后在 Sepolia 测试网升级后，计划在 2 月底或 3 月初在以太坊 Goerli 测试网上发布上海升级，过渡成功后，将转向主网。来源链接",
           "link": "https://www.techflowpost.com/express/6654",
           "publishedOn": "2023-02-10T15:35:14.000Z",
-          "wordCount": 16637,
+          "wordCount": 16647,
           "title": "以太坊基金会：即将进行支持提款的 Shapella 升级，公共测试网 Sepolia 计划于 2 月 28 日升级",
           "imageUrl": null
         },
@@ -693,7 +733,7 @@
           "description": "深潮 TechFlow 消息，Uniswap DAO 已完成最终投票，该投票将用于在 BNB 链上执行 Uniswap v3 的拟议部署。根据 Tally 投票页面，投票于周五结束，66% 的 DAO 代表支持此举。\n据悉，包括以太坊软件公司 ConsenSys 和 Compound Finance 创始人 Robert Leshner 在内的拥有主要投票权的代表投票赞成该提案。与此同时，风险投资巨头 Andreessen Horowitz 对该提案投了反对票，投了 1500 万张选票。来源链接",
           "link": "https://www.techflowpost.com/express/6651",
           "publishedOn": "2023-02-10T14:19:21.000Z",
-          "wordCount": 16653,
+          "wordCount": 16643,
           "title": "Uniswap DAO 投票通过在 BNB Chain 上部署 Uniswap V3 提案",
           "imageUrl": null
         },
@@ -703,7 +743,7 @@
           "description": "深潮 TechFlow 消息，Web3 游戏平台 Ajuna Network 宣布完成 500 万美元融资，CMCC Global 领投。另外，本周五 Ajuna Network 还推出 Awesome Ajuna Avatars NFT 系列，该系列的灵感来自该公司旗舰游戏 BattleMogs。\n据加密数据平台 RootData 显示，Ajuna Network 此前在 2022 年 2 月的种子轮融资中筹集到 200 万美元，由 Fundamental Labs 领投，其他投资方包括 OKX Blockdream Ventures、Signum Capital 和 Animoca Brands，这些投资机构投资于 Ajuna 的母公司 BloGa Tech AG。来源链接",
           "link": "https://www.techflowpost.com/express/6650",
           "publishedOn": "2023-02-10T14:02:08.000Z",
-          "wordCount": 16665,
+          "wordCount": 16675,
           "title": "Web3 游戏平台 Ajuna Network 完成 500 万美元融资，CMCC Global 领投",
           "imageUrl": null
         },
@@ -733,7 +773,7 @@
           "description": "深潮 TechFlow 消息，以太坊扩容项目 AltLayer 计划推出首个无代码 rollup 仪表板解决方案，开发人员、构建者和用户可以在不到 10 分钟的时间内自主设置和部署自定义 Flash 层。\n目前该无代码 rollup 仪表板已开启测试，在 2 月 10 日至 28 日之间完成其指定任务，100 名选定用户将获得对 rollup 仪表板的优先测试访问权。来源链接",
           "link": "https://www.techflowpost.com/express/6647",
           "publishedOn": "2023-02-10T09:46:21.000Z",
-          "wordCount": 16647,
+          "wordCount": 16637,
           "title": "以太坊扩容项目 AltLayer 计划推出无代码 rollup 仪表板，部分用户可优先测试",
           "imageUrl": null
         },
@@ -743,7 +783,7 @@
           "description": "深潮 TechFlow 消息，币安官方推特表示，币安已使用 zk-SNARK 对其储备证明 (PoR) 验证系统进行了升级，zk-SNARK 是一种零知识验证方法，旨在提升敏感信息的隐私性和安全性。\n作为此次升级的一部分，币安向 PoR 系统添加了SHIB、DOT、CHZ、SOL 四个新代币 ，现已支持 13 种主流代币，可以验证其托管中的持有量，未来几周内还会陆续支持新的代币。来源链接",
           "link": "https://www.techflowpost.com/express/6646",
           "publishedOn": "2023-02-10T09:31:54.000Z",
-          "wordCount": 16621,
+          "wordCount": 16631,
           "title": "币安已使用 zk-SNARK 升级储备证明 (PoR) 验证系统，以提升隐私性和安全性",
           "imageUrl": null
         },
@@ -763,7 +803,7 @@
           "description": "深潮 TechFlow 消息，据 NFTScan 数据显示，在过去 3 个月，Polygon 上最大的 P2E 游戏 Planet IX 总交易量为 130 万 MATIC，其中 79%（约 100 万）来自 BitKeep NFT 市场。自去年 4 月合作以来，Planet IX 已发展成为 BitKeep NFT 市场明星项目，本周三，其单日交易量创下 4.23 万美元的历史新高。\n作为 Web3 的超级入口，BitKeep 从去年年初上线 NFT 市场以来，为 GameFi、PFP、元宇宙、纯艺术等赛道的开发者和玩家打造了一个便捷易用、功能强大、交易成本低的平台，一度成为 BNB 链上最大、 Polygon 链上 Top 2 的 NFT 交易市场。",
           "link": "https://www.techflowpost.com/express/6644",
           "publishedOn": "2023-02-10T09:11:51.000Z",
-          "wordCount": 16684,
+          "wordCount": 16674,
           "title": "BitKeep NFT 市场狂飙：独揽 Planet IX 79% 的交易量",
           "imageUrl": null
         },
@@ -813,7 +853,7 @@
           "description": "深潮 TechFlow 消息，据 WeirdoGhostGang 创始人 sleepy 发布推特称，Web3 孵化器、NFT 项目 Weirdo Ghost Gang 母公司 ManesLAB 宣布完成 180 万美元种子轮融资，YZB Investment 领投。\n据了解，ManesLAB 是一家专注于 Web3 大规模采用的孵化器，未来将持续孵化更多 Web3 原生 IP 与区块链应用，助力 Web2 空间与 Web3 生态互融，打造新一代文化科技引擎。原文链接",
           "link": "https://www.techflowpost.com/express/6639",
           "publishedOn": "2023-02-10T02:16:34.000Z",
-          "wordCount": 16652,
+          "wordCount": 16662,
           "title": "NFT项目WeirdoGhostGang母公司ManesLAB完成180万美元种子轮融资，YZB Investment领投",
           "imageUrl": null
         },
@@ -903,7 +943,7 @@
           "description": "深潮 TechFlow 消息，Cosmos生态结算层模块化区块链Dymension完成670万美元种子轮融资，Big Brain Holdings和Stratos领投，Matchbox DAO、DraftKings的Shalom Meckenzie等参投。\nDymension联合创始人兼首席执行官Yishay Harel于去年5月开始为该轮融资筹集资金，并于去年年底因广泛的加密货币崩溃而关闭。他拒绝透露估值。\nDymension还宣布将于2月15日启动其公共测试网。Harel表示，第二季度将推出激励测试网，今年第三季度将推出主网。目前有9名员工为Dymension工作，Harel计划在不久的将来扩大团队。\nDymension还计划在主网启动之前筹集更多资金，目标约为2000万美元。原文链接",
           "link": "https://www.techflowpost.com/express/6629",
           "publishedOn": "2023-02-09T13:42:56.000Z",
-          "wordCount": 16629,
+          "wordCount": 16619,
           "title": "模块化区块链Dymension完成670万美元种子轮融资，Big Brain Holdings和Stratos领投",
           "imageUrl": null
         },
@@ -913,7 +953,7 @@
           "description": "深潮 TechFlow 消息，据 VentureBeat 报道，移动游戏公司 Mino Games 完成 1500 万美元融资，Standard Crypto 领投，Boost VC、Collab Currency、Earl Gray Capital 和 Konvoy Ventures 参投。该笔募资将被用于构建具有 Web3 功能的 Dimensionals 收藏角色游戏。Mino Games 正在借助全新 Dimensionals 系列游戏向 Web3 游戏开发商转型。\n据悉，Mino Games 迄今为止已筹集 2500 万美元，投资者包括 Sybo Games 和 Andreessen Horowitz 等。来源链接",
           "link": "https://www.techflowpost.com/express/6628",
           "publishedOn": "2023-02-09T13:41:24.000Z",
-          "wordCount": 16682,
+          "wordCount": 16672,
           "title": "Mino Games 完成 1500 万美元融资以构建 Web3 游戏，Standard Crypto 领投",
           "imageUrl": null
         },
@@ -933,7 +973,7 @@
           "description": "深潮 TechFlow 消息，2月9日，波场TRON创始人、火必Huobi全球顾问委员会成员孙宇晨在推特表示，AI正在改变当前的科技行业，而波场TRON将凭借其强大的AI整合能力引领这场变革。孙宇晨表示，波场TRON将分别对预言机（Oracle）服务、投资管理工具、支付基础设施以及内容生产领域对AI行业进行深度整合。其中，孙宇晨称，WinkLink将与AI预言机（Oracle）服务进行整合，为用户提供最准确的链上数据。\n孙宇晨提到，通过WinkLink与AI预言机（Oracle）服务的整合，系统得以了解哪些数据被请求最多，并根据该信息更新模型；而结合JUST和SUN两个DeFi应用，人工智能驱动交易算法的同时，也能检查智能合约中的安全风险，以实现更高效、稳定的收益；同时，波场TRON还将整合基于稳定币生态系统的支付通道，让Web3与AI的结合更简单、便捷；内容生产方面，波场TRON通过对AI内容的整合，将为NFT领域建立一个巨大的利基市场，通过对NFT铸造效率的提升、以及基于历史数据和资产质量的有效价值评估，将为所有人提供最佳的NFT体验。",
           "link": "https://www.techflowpost.com/express/6626",
           "publishedOn": "2023-02-09T11:41:08.000Z",
-          "wordCount": 16581,
+          "wordCount": 16591,
           "title": "孙宇晨：WinkLink将与AI预言机（Oracle）服务整合，提供最准确链上数据",
           "imageUrl": null
         },
@@ -943,7 +983,7 @@
           "description": "深潮 TechFlow 消息，摩根大通 (JPM) 在周三的一份研究报告中表示，定于3月中旬进行的以太坊上海升级将在中期提高区块链的质押率，考虑到其他权益证明(PoS)网络的平均比例大约是其四倍，因此14%的比例还有很大的上升空间。\n分析师Nikolaos Panigirtzoglou表示，“假设质押率随着时间的推移收敛到其他主要PoS网络的60%平均值，验证者数量可能会从50万增加到220万，收益率将从目前的7.4%下降到5%左右。”\n摩根大通表示，未来质押增加的很大一部分可能会转向Lido等流动性质押协议。这些协议“通过提供等量的衍生代币来换取可以交易的质押以太币，从而为质押资产提供流动性，否则这些资产将被锁定在质押合约中”。此外，还表示，流动性质押协议衍生代币的交易价格通常低于其标的资产，但随着上海升级的临近，它们正在趋同于与以太币（ETH）持平。原文链接",
           "link": "https://www.techflowpost.com/express/6625",
           "publishedOn": "2023-02-09T11:32:06.000Z",
-          "wordCount": 16612,
+          "wordCount": 16602,
           "title": "摩根大通：以太坊上海升级将在中期提高区块链的质押率",
           "imageUrl": null
         },
@@ -953,7 +993,7 @@
           "description": "深潮 TechFlow 消息，据 PancakeSwap 官方推特消息，Aptos&Sui 上的多链 NFT 市场 BlueMove 将于今晚 8 点在 PancakeSwap 进行 IFO，投资者需只需在 Aptos 上持有 $CAKE，并在销售开始时投入。原文链接",
           "link": "https://www.techflowpost.com/express/6624",
           "publishedOn": "2023-02-09T11:17:11.000Z",
-          "wordCount": 16610,
+          "wordCount": 16620,
           "title": "Aptos&Sui多链NFT市场BlueMove将于今晚8点在PancakeSwap进行IFO",
           "imageUrl": null
         },
@@ -973,7 +1013,7 @@
           "description": "深潮 TechFlow 消息，区块链项目 Chromia 在社交应用平台发布消息称，Chromia 将迎接 AI 的到来。\n据悉，Chromia 是为去中心化应用程序提供的一个崭新的区块链平台，旨在解决现存平台的缺陷，开创去中心化应用程序的新时代。",
           "link": "https://www.techflowpost.com/express/6622",
           "publishedOn": "2023-02-09T11:01:21.000Z",
-          "wordCount": 16609,
+          "wordCount": 16619,
           "title": "区块链项目 Chromia 宣布将迎接 AI 的到来",
           "imageUrl": null
         },
@@ -1013,7 +1053,7 @@
           "description": "深潮 TechFlow 消息，Gnosis联创Martin Köppelmann发推表示，ENS DAO已通过CoW Swap将1万枚ETH兑换为16,145,549.6枚USC。\n此前报道，2月7日，ENS DAO关于“出售1万枚ETH以支付未来两年运营费用”的提案已获投票通过。原文链接",
           "link": "https://www.techflowpost.com/express/6618",
           "publishedOn": "2023-02-09T09:44:29.000Z",
-          "wordCount": 16609,
+          "wordCount": 16619,
           "title": "Gnosis联创：ENS DAO已通过CoW Swap售出1万枚ETH",
           "imageUrl": null
         },
@@ -1023,7 +1063,7 @@
           "description": "深潮 TechFlow 消息，基于比特币主网 Ordinals 协议的 NFT 项目 Bitcoin Punks 已完成铸造，共计 1 万个。据官方介绍，Bitcoin Punks 是第一个使用 Ordinals 将原始以太坊 CryptoPunks 成功上传到比特币区块链的项目。\n官方称：“为了制作这个网站，我们正在检查上传到 Ordinals 的每张图片的哈希值，并将其与原始的 1 万张 Punk 图片进行比较。指向 Bitcoin Punks 的链接是首次出现的铭文，其中包含 Ordinals 上的这些哈希值。”\n此前消息，软件工程师 Casey Rodarmor 在比特币主网上创建 NFT 协议“Ordinals”，但加密社区对其是否有利于比特币生态系统产生分歧。据悉，Ordinals 的“铭文”正消耗 50% 的比特币区块空间。原文链接",
           "link": "https://www.techflowpost.com/express/6617",
           "publishedOn": "2023-02-09T09:42:59.000Z",
-          "wordCount": 16696,
+          "wordCount": 16686,
           "title": "基于比特币主网 Ordinals 协议的 NFT 项目 Bitcoin Punks 已完成铸造，共计 1 万个",
           "imageUrl": null
         },
@@ -1053,7 +1093,7 @@
           "description": "深潮 TechFlow 消息，据 Chromia 官方推特报道，区块链项目 Chromia 宣布已经上线 Mark 2 测试网。标志着通向主网之路的测试网扩展阶段的开始。原文链接",
           "link": "https://www.techflowpost.com/express/6614",
           "publishedOn": "2023-02-09T09:15:50.000Z",
-          "wordCount": 16643,
+          "wordCount": 16633,
           "title": "区块链项目 Chromia 已正式上线 Mark 2 测试网",
           "imageUrl": null
         },
