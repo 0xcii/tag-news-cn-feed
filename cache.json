@@ -63,12 +63,22 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6805098",
+          "author": "东寻",
+          "description": "DeFi 之道讯，2 月 21 日，AI 项目 Fetch.ai 宣布与德国电子工程巨头博世（Bosch）建立合作关系，将组建 Fetch.ai 基金会，旨在研究、开发和利用 Web3 技术，用于跨越移动、工业和消费领域的实际用例。另据 CryptoPotato 报道，Fetch.ai 创始人兼首席执行官 Humayun Sheikh 表示，在接下来的三年里，Fetch.ai 团队将寻求通过各种赠款计划向工业 AI 领域投资超过 1 亿美元。",
+          "link": "https://www.defidaonews.com/article/6805098",
+          "publishedOn": "2023-02-21T10:38:52.000Z",
+          "wordCount": 176,
+          "title": "AI 项目 Fetch.ai 与电子工程巨头博世联合推出 Fetch.ai 基金会",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6805084",
           "author": "wesely",
           "description": "目前\"AI+Web3\" 的初创项目大多是弱 AI 项目",
           "link": "https://www.defidaonews.com/article/6805084",
           "publishedOn": "2023-02-21T09:25:45.000Z",
-          "wordCount": 457,
+          "wordCount": 462,
           "title": "“AI+Web3” 概念最新融资项目盘点",
           "imageUrl": "https://appserversrc.8btc.cn/lsJqG6i1V3NBzWjSDHFp6JkBINyF.png?imageView2/1/w/500/h/300"
         },
@@ -78,7 +88,7 @@
           "description": "详解香港针对加密资产政策制度的始末、香港本土加密项目，以及长期的利好预期。",
           "link": "https://www.defidaonews.com/article/6805082",
           "publishedOn": "2023-02-21T09:09:26.000Z",
-          "wordCount": 153,
+          "wordCount": 151,
           "title": "Web3社区都开始说中国话？香港热背后又有哪些本土加密项目？",
           "imageUrl": "https://appserversrc.8btc.cn/FkGOy7mi-RAefA-1Tgy6VNOquqPu.png?imageView2/1/w/500/h/300"
         },
@@ -88,7 +98,7 @@
           "description": "2月15日，以太坊第2层解决方案提供商Polygon终于公布了备受期待的扩展更新，其零知识以太坊虚拟机（zkEVM）主网的测试版定于3月27日发布。",
           "link": "https://www.defidaonews.com/article/6805040",
           "publishedOn": "2023-02-21T09:02:26.000Z",
-          "wordCount": 280,
+          "wordCount": 282,
           "title": "2023 年 zk 赛道爆发，即将推出的Polygon zkEVM 有多重要？",
           "imageUrl": "https://appserversrc.8btc.cn/FpXFyedTRoi6rcoCN5SyzVIpV-Gi.png?imageView2/1/w/500/h/300"
         },
@@ -98,7 +108,7 @@
           "description": "Web2社交平台的内容审查、用户所有权的缺失和排他性一直备受争议。去中心化社交协议是Web3领域在这方面的探索。",
           "link": "https://www.defidaonews.com/article/6805058",
           "publishedOn": "2023-02-21T09:01:06.000Z",
-          "wordCount": 445,
+          "wordCount": 455,
           "title": "全方位解读去中心化社交协议的“抗审查性”",
           "imageUrl": "https://appserversrc.8btc.cn/FsZvMTytE2ETmtogPOqnt-DydIsZ.png?imageView2/1/w/500/h/300"
         },
@@ -148,19 +158,9 @@
           "description": "20 多万字的相关咨询文件，主要向香港业界咨询 10 个问题",
           "link": "https://www.defidaonews.com/article/6805036",
           "publishedOn": "2023-02-21T06:27:02.000Z",
-          "wordCount": 434,
+          "wordCount": 444,
           "title": "香港证监会咨询文件解读：什么类型的虚拟资产可被纳入交易？",
           "imageUrl": "https://appserversrc.8btc.cn/lpRUv1hPX9uIhgz53NuK7y0lbEna.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6805034",
-          "author": "星球日报",
-          "description": "链上游戏可能是下一代杀手级应用的雏形。",
-          "link": "https://www.defidaonews.com/article/6805034",
-          "publishedOn": "2023-02-21T05:54:21.000Z",
-          "wordCount": 1765,
-          "title": "解析链上游戏：链上复杂应用的未来",
-          "imageUrl": "https://appserversrc.8btc.cn/FiW5WcfmwhNiSL4PPxvVwDB0RKPo.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "description": "Fantom是一个L1公链，它使用单个共识层来支持创建多个执行链。Fantom成立于2018年，是继以太坊之后最老牌的公链之一，自成立以来99.9%的时间保持正常运行。Fantom的PoS共识机制被称为Lachesis。使用Lachesis，每个验证器都有其本地区块DAG，将交易分批放入事件块中，并作为顶点添加到其DAG结构中。",
           "link": "https://www.web3sj.com/news/45640/",
           "publishedOn": "2023-02-21T09:10:43.000Z",
-          "wordCount": 580,
+          "wordCount": 590,
           "title": "发掘宝石｜Fantom上的这些潜力项目值得关注",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676970601275.png"
         },
@@ -185,7 +185,7 @@
           "description": "作为从 liquity 一上线起就开始使用的重度用户，我对这个项目的感情还是很深的，受的伤也非常之深。当然了，所有的伤都赖不到 liquity 上，只是我自己的问题。但在这个过程中，我也加深了对这个项目的理解，我希望能将我的这些经验与理解告诉正在使用或者是未来打算使用的用户，来更深入的思考进入这个项目的利与弊。",
           "link": "https://www.web3sj.com/news/45627/",
           "publishedOn": "2023-02-21T09:04:20.000Z",
-          "wordCount": 1031,
+          "wordCount": 1066,
           "title": "Liquity的扩张之殇与Chicken Bonds的陨落",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676970118190.png"
         },
@@ -195,7 +195,7 @@
           "description": "美国昨天假期休市，全球宏观市场都相当平静，外汇交易量仅为平均水平的 30%，虽然地缘政治的紧张局势在周末升温，但昨天股市仍小幅上涨。美国市场今天将从假期中回归，我们很快就会知道上周的价格反转（利率和美元走高，股市走软）是暂时性的波动，或者近期牛市确实出现了转折点。",
           "link": "https://www.web3sj.com/news/45618/",
           "publishedOn": "2023-02-21T06:06:51.000Z",
-          "wordCount": 613,
+          "wordCount": 643,
           "title": "SignalPlus每日宏观经济报道（2023-2-21）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676959173292.png"
         },
@@ -215,7 +215,7 @@
           "description": "文件指出，虚拟资产市场波动不定及FTX倒闭，不但显露了因虚拟资产的生态系统内及虚拟资产市场与传统金融体系之间的相互联系日趋紧密而带来的风险，还凸显了对虚拟资产业施行有效监管及监察的重要性。",
           "link": "https://www.web3sj.com/news/45599/",
           "publishedOn": "2023-02-21T05:23:07.000Z",
-          "wordCount": 590,
+          "wordCount": 564,
           "title": "香港证监会咨询文件解读：什么类型的虚拟资产可被纳入交易？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676956941529.png"
         },
@@ -225,7 +225,7 @@
           "description": "NTF方面，Polygon和Solana长期来看已经成为以太坊的两个潜在竞争者。Polygon正在努力将迪士尼和Meta等Web2巨头吸引到NFT领域，而Solana在FTX事件后正在缓慢恢复，正在欢迎新用户和艺术家尝试NFT。当然，以太坊区块链仍然是绝大多数NFT高级藏品的最佳选择。",
           "link": "https://www.web3sj.com/news/45579/",
           "publishedOn": "2023-02-21T05:16:05.000Z",
-          "wordCount": 666,
+          "wordCount": 656,
           "title": "ETH链上数据回暖，Staking监管利好去中心化质押",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676956521285.png"
         },
@@ -235,7 +235,7 @@
           "description": "对于内容行业的人来说，有了 AI 绘画后，小编再也不用麻烦设计小哥了，自己就能制作文章封面图或插图，生产效率大大提升。Maze guru 是一款通用类 AI 绘画平台，目前平台已经支持超十种 AI 模型，主要服务于 Web3 产业链，包含且不仅限于媒体、gamefi、NFT 项目方及元宇宙场景搭建。",
           "link": "https://www.web3sj.com/news/45570/",
           "publishedOn": "2023-02-21T05:06:51.000Z",
-          "wordCount": 711,
+          "wordCount": 710,
           "title": "工具盘点丨AIGC可以为Web3做什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676955974626.png"
         },
@@ -245,7 +245,7 @@
           "description": "如果不想为 Glassnode 支付月费，又有观察链上数据的需求，这里可以使用如下我们列出的 7 个免费链上加密分析工具，用于研究和分析加密货币。但不构成投资建议哦~。",
           "link": "https://www.web3sj.com/news/45560/",
           "publishedOn": "2023-02-21T04:53:01.000Z",
-          "wordCount": 669,
+          "wordCount": 652,
           "title": "速览7款免费的链上数据分析工具",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676955143134.png"
         },
@@ -255,7 +255,7 @@
           "description": "在过去的文章中我们已经指出 NFT 金融化的意义在于帮助拓展和提升对 NFT 的共识和需求。在认识到 NFT 金融化的意义和重要性之后，下一个更核心的问题则是——我们应该如何理解 NFT 金融化这个概念？",
           "link": "https://www.web3sj.com/nftnews/45531/",
           "publishedOn": "2023-02-21T04:01:41.000Z",
-          "wordCount": 1120,
+          "wordCount": 1089,
           "title": "NFT金融化迎来系统性机会？一图概览赛道152个项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676952064159.png"
         },
@@ -265,7 +265,7 @@
           "description": "本系列第一、第二和第三部分建立的「监管Web3应用程序，而不是协议」框架的基础是监管不可知的--这意味着它对哪些类型的监管应适用于Web3没有固定的看法。相反，该框架提供了一种评估和应用Web3业务监管的方法，包括与市场结构、KYC、隐私或任何其他类型目前适用于Web2业务的监管。",
           "link": "https://www.web3sj.com/news/45526/",
           "publishedOn": "2023-02-21T03:50:36.000Z",
-          "wordCount": 619,
+          "wordCount": 590,
           "title": "a16z监管系列新文：Web3监管框架的实际应用",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1676951388120.png"
         }
@@ -277,12 +277,72 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/8jj3l844.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，据欧科云链OKLink多链浏览器数据显示，过去一周 Blur.io: Marketplace 合约Gas消耗量超 1800 枚ETH，仅次于 Uniswap，排名第二。",
+          "link": "https://panewslab.com/zh/articledetails/8jj3l844.html",
+          "publishedOn": "2023-02-21T10:44:34.000Z",
+          "wordCount": 1003,
+          "title": "数据：过去一周Blur合约Gas消耗量超1800枚ETH，排名第二",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ra4y3msx.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，Bosch(博世)和 Fetch.ai 宣布建立新的合作伙伴关系，以组建一个新的 Web3 基金会——Fetch.ai Foundation，旨在研究、开发和利用 Web3 技术，用于跨越移动、工业和消费领域的实际用例。Fetch.ai Foundation将立足于透明、开放、中立以及数据和技术主权的核心原则。成立之初，Bosch 和 Fetch.ai 将领导基金会的管理委员会，并寻求与业内其他主要参与者一起扩大该基金会。\n据悉，Bosch 是一家全球领先的技术和服务供应商，其业务分为四个业务部门：移动解决方案、工业技术、消费品、以及能源和建筑技术。战略目标是通过含有人工智能（AI）或在其帮助下开发或制造的产品和解决方案来促进互联生活，将Web3技术堆栈作为实现其战略目标的一个推动因素。",
+          "link": "https://panewslab.com/zh/articledetails/ra4y3msx.html",
+          "publishedOn": "2023-02-21T10:34:00.000Z",
+          "wordCount": 1008,
+          "title": "Fetch.ai与BOSCH合作组建Web3基金会Fetch.ai Foundation",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wd96r2h5.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，印度总理 Shri Narendra Modi 和新加坡总理李显龙先生今天见证了印度和新加坡之间使用各自的快速支付系统启动跨境连接，即。统一支付接口 (UPI) 和 PayNow。该设施由储备银行行长 Shri Shaktikanta Das 和新加坡金融管理局董事总经理 Ravi Menon 先生使用 UPI-PayNow 链接通过代币交易启动。\nUPI-PayNow 联动将使任一国家的两个快速支付系统的用户能够使用各自的移动应用程序进行方便、安全、即时且具有成本效益的跨境资金转账。只需使用 UPI-id、手机号码或虚拟支付地址 (VPA)，即可将银行账户或电子钱包中的资金转入/转出印度。印度用户一天最多可以汇出 60,000 卢比（相当于 1,000 新元左右）。",
+          "link": "https://panewslab.com/zh/articledetails/wd96r2h5.html",
+          "publishedOn": "2023-02-21T10:07:28.000Z",
+          "wordCount": 1025,
+          "title": "印度和新加坡的快速支付系统PayNow和UPI启动跨境连接",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2i98fox2.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，币安 NFT 市场发布公告称，用户有资格从币安 NFT 市场提供的所有以太坊网络 NFT 系列中享受零手续费交易，活动时间为 2 月 21 日 17:00 至 3 月 21 日 07:59。此外在活动期间，每位用户从所有以太坊网络 NFT 系列中购买的前三个 NFT 将收到 100% Gas 费返还。Gas费返还将在活动结束后三周内，以USDT 代币券形式分发给符合条件的用户。",
+          "link": "https://panewslab.com/zh/articledetails/2i98fox2.html",
+          "publishedOn": "2023-02-21T09:49:00.000Z",
+          "wordCount": 1049,
+          "title": "币安NFT市场推出以太坊网络NFT系列零手续费与Gas费返还活动",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/yf9qmc13.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，支持跨链项目Cosmos开发和生态建设的基金会Interchain Foundation（ICF）发布2023年开支预算，预计2023年将花费大约4000万美元来资助不同的工程团队来开发和维护Interchain的核心堆栈，包括支持推动采用和用例的项目。2023年重点资助领域包括共识、互操作性、App框架和客户端、Cosmos Hub、安全和测试框架、DevRel、传播和增长。ICF目前正处于敲定2023年关键合同的最后阶段。",
+          "link": "https://panewslab.com/zh/articledetails/yf9qmc13.html",
+          "publishedOn": "2023-02-21T09:38:29.000Z",
+          "wordCount": 984,
+          "title": "Cosmos生态基金会ICF预计今年将花费约4000万美元资助项目团队",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ovmfl830.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，据官方消息，以太坊模块化执行层Fuel开发商Fuel Labs公布将于2023年实现的Sway语言升级内容，包括字节码大小方面的编译器优化、Sway将支持更多后端（EVM后端已经在开发中）、抽象将更加具有经济性、更多应用程序将从Solidity/Vyper迁移到Sway、改进编译器级别的重入分析等。",
+          "link": "https://panewslab.com/zh/articledetails/ovmfl830.html",
+          "publishedOn": "2023-02-21T08:54:04.000Z",
+          "wordCount": 987,
+          "title": "Fuel Labs计划今年对Sway语言进行编译器优化并支持更多后端",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/6p72fqqg.html",
           "author": "PA一线",
           "description": "PANews 2月21日消息，加密资产管理公司CoinShares发布2022年第四季度财报，该公司2022年第四季度收入为880万英镑，较2021年同期的2570万英镑减少65%，2022年全年收入为5150万英镑，较2021年同期的8080万英镑减少36%；2022年第四季度的总综合收入为-3700万英镑，2022年全年综合总收入为300万英镑，较2021年同期的1.134亿英镑减少97%。\n截至2022年12月31日，集团的管理资产总额为14.4亿英镑（约合17.31亿美元），其中10亿英镑在资产负债表上与XBT Provider和CoinShares Digital Securities Limited发行的集团ETP相关。剩余的4.4亿英镑归因于BLOCK指数，该指数未包含在资产负债表中。",
           "link": "https://panewslab.com/zh/articledetails/6p72fqqg.html",
           "publishedOn": "2023-02-21T08:31:53.000Z",
-          "wordCount": 988,
+          "wordCount": 992,
           "title": "CoinShares 2022年全年综合总收入仅为300万英镑，环比减少97%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -292,7 +352,7 @@
           "description": "PANews 2月21日消息，针对今日Arbitrum链上Hope Finance项目Rug Pull事件，区块链安全审计公司Beosin分析称，攻击者(0xdfcb)利用多签钱包(0x1fc2)执行了修改TradingHelper合约的router地址的交易，从而使GenesisRewardPool合约在使用openTrade函数进行借贷时，调用TradingHelper合约SwapWETH函数进行swap后并不会通过原本的sushiswap的router进行swap操作，而是直接将转入的代币发送给攻击者(0x957d)从而获利。攻击者共两次提取约180万美元。\nBeosin提醒用户：请勿在0x1FC2..E56c合约进行抵押操作，建议取消所有与该项目方相关的授权。\n此前今日早些时候消息，Hope Finance项目发生Rug Pull，诈骗者将1095枚ETH（约合186万美元）转至Tornado Cash。",
           "link": "https://panewslab.com/zh/articledetails/9b5dgt9q.html",
           "publishedOn": "2023-02-21T07:35:24.000Z",
-          "wordCount": 1002,
+          "wordCount": 1006,
           "title": "Beosin发布Hope Finance项目Rug Pull事件分析，提醒用户取消相关授权",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -302,7 +362,7 @@
           "description": "PANews 2月21日消息，据彭博社报道，前Binance Labs负责人、Cypher Capital现任董事长Bill Qian正在为一只加密风险投资基金寻求超过1亿美元的资金。Bill Qian表示，Cypher正在优先考虑一些项目，这些项目将把大约50亿互联网和社交媒体用户中的更多人带入Web3世界。\nBill Qian计划向亚洲科技大亨接触以获取资金，但没有透露他们的名字。他拒绝透露该基金是否收到了任何承诺，但他说，今年数字资产的反弹(比特币上涨了约50%)使融资变得更容易。",
           "link": "https://panewslab.com/zh/articledetails/jtme6lld.html",
           "publishedOn": "2023-02-21T07:26:03.000Z",
-          "wordCount": 1000,
+          "wordCount": 1004,
           "title": "前Binance Labs负责人Bill Qian正为一只加密基金寻求超1亿美元资金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +372,7 @@
           "description": "PANews 2月21日消息，STEPN旗下NFT市场MOOAR在推特上宣布，NFT Launchpad第二季已开启投票。本季共包括7个新项目，分别是渡渡鸟形象的元宇宙项目DodoVerse、蝙蝠形象的NFT项目BetBats NFTs、Clumsy Bears、FSLands NFT、Web3文学作品孵化器Read2N、火烈鸟形象的NFT项目Pink Flamingo Social Club以及LOONY FACE。",
           "link": "https://panewslab.com/zh/articledetails/b5ay9muw.html",
           "publishedOn": "2023-02-21T07:13:51.000Z",
-          "wordCount": 1004,
+          "wordCount": 1008,
           "title": "STEPN旗下NFT市场MOOAR宣布NFT Launchpad第二季已开启投票",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +382,7 @@
           "description": "PANews 2月21日消息，据AegisWeb3监测，Hope Finance项目发生Rug Pull，诈骗者已通过Celer和Uniswap将ETH转移到以太坊区块链，并使用3个地址将1095枚ETH（约合186万美元）转移到Tornado Cash。",
           "link": "https://panewslab.com/zh/articledetails/i113x1m6.html",
           "publishedOn": "2023-02-21T06:56:58.000Z",
-          "wordCount": 1013,
+          "wordCount": 1017,
           "title": "Hope Finance项目发生Rug Pull，诈骗者将186万美元ETH转至Tornado Cash",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +392,7 @@
           "description": "PANews 2月21日消息，RPG链游Heroes Chained宣布上线 Fortunes of Ventuna 2.0 BETA版本。据了解，新版本减少了Gas费支付场景，新增了MayinHara的第 6 和第 7 级，并对用户界面、等级要求和玩法等进行了更新。\n据了解，Heroes Chaineds是一款采用“Play and Earn”机制的RPG链游项目，已获得Avalanche、Avalaunch、KuCoin、Kyros Ventures、ROK Capital、OKEx Blockdream Ventures、LD Capital、Good Games Guild和PANONY等机构投资，并建立多个合作关系。",
           "link": "https://panewslab.com/zh/articledetails/aw7368d6.html",
           "publishedOn": "2023-02-21T06:45:34.000Z",
-          "wordCount": 1051,
+          "wordCount": 1055,
           "title": "链游Heroes Chained宣布上线Fortunes of Ventuna 2.0 BETA版本",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +402,7 @@
           "description": "PANews 2月21日消息，总部位于马来西亚的信息技术公司MASVERSE在种子轮融资中获得了1.5 亿美元的估值，并得到了新加坡区块链风险投资公司Stratified Capital和马来西亚科技公司MEP Enviro的资金支持。此外，该公司即日起将进行天使轮融资。\n据了解，MASVERSE专注于开发 WEB 3.0 区块链生态，并创建了马来西亚首个一站式 WEB 3.0 生态系统，该生态系统由 12 个独特的基础设施的支柱组成，为数据交换提供安全可靠的网络。 MASVERSE 在成立仅 6 个月的时间里，就已经推出了 NFT 市场、Lab 和 MGG DAO，并计划在 2023 年加大开发力度，采用自有链和 APP，并扩展其数据库。",
           "link": "https://panewslab.com/zh/articledetails/lcxygcdr.html",
           "publishedOn": "2023-02-21T06:16:20.000Z",
-          "wordCount": 1027,
+          "wordCount": 1031,
           "title": "马来西亚Web3信息技术公司MASVERSE宣布开始天使轮融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +412,7 @@
           "description": "PANews 2月21日消息，据官方消息，Neutrino社区成员在治理论坛上发布了一项提案，建议暂时禁用或终止当前的Neutrino治理，直到发布明确的路线图。提案称，当前的Neutrino系统缺乏透明度和方向性，使得利益相关者无法了解其长期目标和战略。如果没有明确的方向，利益相关者就会对项目的未来一无所知，无法做出明智的决定或提供有价值的反馈来改进系统。\n此外，XTN在ViresFinance上被锁定的情况完全不清楚，这在社区内引起了混乱和担忧。这个问题应该公开解决并向社区解释，因为它正在影响做出明智决定的能力。通过在发布明确的路线图之前暂停当前的治理系统，也可以以更加透明和有效的方式处理和解决这个问题。提案还表示，大量利益相关者在最近的治理提案中投了弃权票。这并不是无知或脱离的迹象，而是一个明确的声明，表明许多利益相关者不同意该项目当前的方向。该提案已开启投票，目前支持率为99%，将于2月24日结束。\n此前1月31日消息，Neutrino 2.0简化版白皮书发布，提及USDN将转型为指数代币XTN，将以折扣激励代币发行。",
           "link": "https://panewslab.com/zh/articledetails/7jbkyb87.html",
           "publishedOn": "2023-02-21T05:41:10.000Z",
-          "wordCount": 981,
+          "wordCount": 985,
           "title": "Neutrino发起“在路线图发布前暂停或终止当前治理”的提案投票",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +422,7 @@
           "description": "PANews 2月21日消息，据VentureBeat报道，印度游戏流媒体平台Loco与Avalanche达成合作，打造新的粉丝体验。Loco将加入Avalanche多元宇宙激励计划，并推出子网，在Ava Labs的支持下推出收藏品市场。Loco正在构建一套Web3产品，这些产品将通过自定义Avalanche子网为粉丝带来体验。\n此前去年3月份，Loco完成Hashed领投的4200万美元A轮融资。",
           "link": "https://panewslab.com/zh/articledetails/38whrod1.html",
           "publishedOn": "2023-02-21T05:26:44.000Z",
-          "wordCount": 982,
+          "wordCount": 986,
           "title": "印度游戏流媒体平台Loco将在Avalanche区块链上构建Web3产品",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +432,7 @@
           "description": "PANews 2月21日消息，据Whale Alert监测，北京时间12:26:11，加密交易所Crypto.com将2亿枚CRO（约1750万美元）转入以太坊黑洞地址（0x0000000000000000000000000000000000000000）。",
           "link": "https://panewslab.com/zh/articledetails/9styw1i1.html",
           "publishedOn": "2023-02-21T05:10:27.000Z",
-          "wordCount": 977,
+          "wordCount": 979,
           "title": "数据：Crypto.com将价值约1750万美元的CRO转入以太坊黑洞地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,7 +442,7 @@
           "description": "PANews 2月21日消息，以太坊再质押协议EigenLayer发布V1白皮书，其中描述了核心开发人员在即将发布的第一版协议中实施的关键思想，包括潜在EigenLayer模块列表（例如MEV、排序）。此外，EigenLayer还启动了EigenLayer论坛，用于重点讨论EigenLayer 协议、EigenDA开发、中间件研发这3个主题。\n据悉，EigenLayer是一种建立在以太坊之上的协议，它引入了再质押概念，允许在共识层上重新质押ETH。质押ETH的用户可以选择加入EigenLayer智能合约以重新抵押 ETH 并将加密经济安全性扩展到网络上的其他应用程序。\n此前2月4日消息，知情人士透露，EigenLayer正进行5000万美元A轮融资，投后估值将达到2.5亿美元。\n相关阅读：新项目 | EigenLayer：通过再质押（Re-Staking）打造以太坊上的共识中枢",
           "link": "https://panewslab.com/zh/articledetails/63dvpus5.html",
           "publishedOn": "2023-02-21T05:06:51.000Z",
-          "wordCount": 1003,
+          "wordCount": 1007,
           "title": "以太坊再质押协议EigenLayer发布V1白皮书，模块列表包括MEV、排序等",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -392,7 +452,7 @@
           "description": "PANews 2月21日消息，据香港经济日报报道，香港证监会近日已批准了前沿有理资本管理有限公司旗舰基金（Flagship Fund SP）的第二次升级（Uplift），该旗舰基金是现行香港发牌制度下唯一采用多策略并获得正向回报的加密货币对冲基金，不但投资标的品种宽泛，可交易流动性前100的币种，也可利用杠杆和交易加密金融衍生品。\n据悉，Fore Elite旗舰基金于2022年3月成立。自推出至2022年12月，尽管加密货币市场下跌近58％，该基金仍获得约9.2％正回报净收益，并于2022年底仍向股东派发了约7000万港元的股息。",
           "link": "https://panewslab.com/zh/articledetails/o28tud8a.html",
           "publishedOn": "2023-02-21T04:40:59.000Z",
-          "wordCount": 984,
+          "wordCount": 986,
           "title": "前沿有理旗舰基金二次升级获批，成为香港持牌加密货币对冲基金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -402,7 +462,7 @@
           "description": "PANews 2月21日消息，据美通社报道，乔治·波尔克新闻奖将金融报道奖授予CoinDesk的Ian Allison和Tracy Wang，表彰他们去年11月初关于Alameda资产负债表状况的新闻在短短十天内促使了FTX的崩溃，其中 Allison揭露了SBF控制的两个实体之间的可疑交易，而Wang则描绘了SBF内部圈子的奢侈生活方式，引发了类似网络银行挤兑的状况，从而导致 FTX 破产和广泛的联邦欺诈指控。\nCoinDesk表示，此新闻在整个加密货币行业引起反响，甚至伤害了CoinDesk的兄弟公司Genesis和母公司Digital CurrencyGroup，但凸显了CoinDesk的编辑独立性等。\n据悉，乔治·波尔克新闻奖是美国长岛大学设立的新闻奖项，设立于 1949年，被誉为新闻界的普利策奖，每年评选出十几个奖项，包括新闻报道、特写报道、独家报道、照片、电视、广播和在线媒体等多个类别，获得该奖项的作品通常都具有深度、广度和影响力，能够影响全球范围内的公众舆论。",
           "link": "https://panewslab.com/zh/articledetails/yd76korc.html",
           "publishedOn": "2023-02-21T03:30:33.000Z",
-          "wordCount": 996,
+          "wordCount": 1000,
           "title": "CoinDesk记者因去年对FTX爆炸新闻的报道获波尔克新闻奖",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -412,68 +472,8 @@
           "description": "PANews 2月21日消息，Kraken创始人兼前首席执行官Jesse Powell发推表示：“监管机构忽视了他们关于诈骗和欺诈的警告，故意纵容作恶者直到他们大到毁灭，因为这符合他们的议程。他们的计划是：1.破坏加密生态系统中的资本/资源；2.让用户成为受害者，阻止采用；3.假意保护，实则在攻击好人。”\n天使投资人Balaji Srinivasan就此评论：“美国SEC的预算一直在增加，在危机时期反而利用更多的失败获取更多的资金，监管机构与军工企业一样腐败。SEC渴望金融危机，就像Raytheon渴望战争一样。那是他们的饭票，那是成就事业的时候。”\n此前2月10日消息，Kraken宣布关闭美国加密质押服务，向SEC支付3000万美元罚款以达成和解。",
           "link": "https://panewslab.com/zh/articledetails/32tvnrfr.html",
           "publishedOn": "2023-02-21T03:12:39.000Z",
-          "wordCount": 992,
-          "title": "Kraken创始人：美国监管机构通过纵容作恶者来推进加密监管计划",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4dxkra1v.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，Camelot生态首个Launchpad项目Arbitrove完成公募，共计筹集8,222.2178 ETH，价值14,046,056美元。\n据悉，Arbitrove协议由去中心化的自治组织Nitro Cartel开发，可提供一篮子Arbitrum原生资产的风险敞口，首个产品为ALP指数，包括GMX、MAGIC、GRAIL、DPX、JONES、RDNT、GNS等Arbitrum生态中头部项目的治理代币。TROVE是Arbitrove产品的流动性治理代币。TROVE持有者将通过去中心化的治理影响产品方向。\n相关阅读：\nArbitrum生态迎来春天，分享值得关注的8个新兴DeFi项目\nArbitrum生态打新： 生态指数收益产品Nitro Cartel，即将在 Camelot上发行",
-          "link": "https://panewslab.com/zh/articledetails/4dxkra1v.html",
-          "publishedOn": "2023-02-21T02:57:28.000Z",
           "wordCount": 996,
-          "title": "Arbitrum生态指数产品Arbitrove完成约1400万美元公募融资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/6szme6js.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，据欧科云链OKLink多链浏览器数据显示，昨日链上以太坊矿工地址余额突破1700万枚ETH，占以太坊当前总供应量的14.23%，较2023年年初增长了90.9万枚ETH。",
-          "link": "https://panewslab.com/zh/articledetails/6szme6js.html",
-          "publishedOn": "2023-02-21T02:46:47.000Z",
-          "wordCount": 985,
-          "title": "数据：以太坊矿工地址余额突破1700万，占当前以太坊总供应量的14.23%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/hzzdtxpf.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，据火必官方公告，火必将于今日21时（GMT+8）上线GNS，开放GNS币币交易（GNS/USDT）。公告显示，GNS充币业务将于今日12时（GMT+8）开放；其提币业务将于2月22日21时（GMT+8）开放。\n据悉，Gains Network是一种去中心化交易协议，用户可以通过预测资产价格获利。GNS为该生态系统的原生代币，用作实用代币、价值存储，治理等。",
-          "link": "https://panewslab.com/zh/articledetails/hzzdtxpf.html",
-          "publishedOn": "2023-02-21T02:42:33.000Z",
-          "wordCount": 978,
-          "title": "火必将于今日21时上线GNS，开放GNS/USDT交易对",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vlbcnqkk.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，据etfstrategy报道，资产管理巨头贝莱德（BlackRock）元宇宙交易所交易基金iShares Future Metaverse Tech and Communications ETF (IVRS) 已在纽交所NYSE Arca上市，费率为0.47%。贝莱德于去年9月宣布计划推出该元宇宙ETF，据招股说明书称，IVRS将追踪涉及元宇宙业务相关公司指数，覆盖游戏、虚拟平台、数字资产等领域，目前IVRS在其39只股票投资组合中持有的最大股份是Meta Platforms Inc.（占6.15%）、苹果公司（5.7%）、英伟达公司（5.5%）、Roblox(5.2%)、网易(5.1%)、腾讯(4.9%) 和Unity Software(4.6%)。",
-          "link": "https://panewslab.com/zh/articledetails/vlbcnqkk.html",
-          "publishedOn": "2023-02-21T02:35:53.000Z",
-          "wordCount": 1024,
-          "title": "资管巨头贝莱德元宇宙ETF IVRS已在NYSE Arca上市",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9rinvn8p.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，去中心化衍生品协议dYdX社区就“引入做市商返利计划”提案发起投票，旨在激励流动性并减少对奖励的依赖。\n其中，拟议的做市商返利计划由5个等级组成，基于其交易量占dYdX上30天内交易量的百分比划分，费用返利在0.0025%和0.01%之间。该提案目前支持率为99.66%，投票将于北京时间2月22日09:34结束。",
-          "link": "https://panewslab.com/zh/articledetails/9rinvn8p.html",
-          "publishedOn": "2023-02-21T02:34:23.000Z",
-          "wordCount": 976,
-          "title": "dYdX社区就“引入做市商返利计划”提案发起投票",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/d33cmqru.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，据官方推特，Axie Infinity侧链Ronin Network宣布，已与社区和当前验证者沟通，此后将需要25万枚RON才能在Ronin网络上运行验证者节点。",
-          "link": "https://panewslab.com/zh/articledetails/d33cmqru.html",
-          "publishedOn": "2023-02-21T02:29:57.000Z",
-          "wordCount": 998,
-          "title": "Ronin Network：运行验证者节点需质押25万枚RON",
+          "title": "Kraken创始人：美国监管机构通过纵容作恶者来推进加密监管计划",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
