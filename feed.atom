@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T18:17:51.485Z</id>
+    <id>urn:2023-02-25T19:11:54.941Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-25T18:17:51.485Z</updated>
+    <updated>2023-02-25T19:11:54.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -77,18 +77,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MakerDAO声明：无法控制Oasis，Jump反向攻击黑客不涉及其智能合约]]></title>
-        <id>https://panewslab.com/zh/articledetails/3x7iz066.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3x7iz066.html"/>
-        <updated>2023-02-25T13:28:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月25日消息，因Jump Crypto与Oasis联合通过逆向攻击追回12万枚ETH的Wormhole被盗资金，MakerDAO发推特声明，鉴于最近有关 Maker Vault 30100和Oasis前端的交易，需要解释 MakerDAO、Maker 协议和第三方前端提供商之间的区别。MakerDAO 无法控制任何使终端用户能够访问 Maker Vaults 的前端提供商或产品。
-此外，连接到 Maker 协议的可用前端都不是由 MakerDAO 开发或维护的Maker 协议是一个去中心化的智能合约系统，公开部署在以太坊上，允许任何供应商以无许可和去中心化的方式连接其用户界面解决方案。这些用户界面提供商可以控制他们部署的智能合约，使终端用户能够与 Maker 协议进行交互。最近更改 Maker Vault 30100 所有权的交易不涉及任何 MakerDAO 的官方智能合约或 MakerDAO 指令。其重申 MakerDAO 的智能合约不受 Oasis 前端智能合约的控制或控制。
-相关阅读：Jump Crypto如何与Oasis通过逆向攻击追回12万枚ETH的Wormhole被盗资金]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[除扩展性之外，还有哪些零知识证明的Web3用例？]]></title>
         <id>https://www.defidaonews.com/article/6805972</id>
         <link href="https://www.defidaonews.com/article/6805972"/>
@@ -106,28 +94,6 @@
         <summary type="html"><![CDATA[Solana验证者正试图通过恢复到旧软件来恢复网络速度。Lido：今日创下最高单日质押流量，已触发 “Staking Rate Limit”限制。Polygon Q4报告：基于Polygon的活跃钱包数Q4创历史新高。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：黄立成在70天内交易APE获利440万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/6k9a88d4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6k9a88d4.html"/>
-        <updated>2023-02-25T12:14:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月25日消息，据推特用户余烬统计，台湾歌手黄立成此前APE现已结利清仓，70天获利440万美元。黄立成从2022年12月12日-2023年1月20日，40天时间从0一直买到持有220万APE。再从1月22日开始一路出售APE，30天时间从220万APE卖到目前仅余5万APE，几近清仓。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lido今日新增质押量超15万枚ETH创下纪录，已触发质押率限制安全功能]]></title>
-        <id>https://panewslab.com/zh/articledetails/occe0l18.html</id>
-        <link href="https://panewslab.com/zh/articledetails/occe0l18.html"/>
-        <updated>2023-02-25T11:49:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 2月25日消息，流动性质押协议Lido发推称，今日流入其平台的质押ETH数量超过15万枚，创下迄今为止最高单日质押流量，但在达到这一数字后平台激活了安全限制功能“Staking Rate Limit”。该功能是一种动态机制，可在无需暂停质押存款的情况下应对大量质押代币流入可能带来的问题（比如稀释质押奖励），但会减少铸造stETH数量然后逐步补充。它的工作原理是根据最近的存款（移动的24小时窗口）减少在任何时候可以铸造的 stETH 总量，然后逐一区块补充这一容量。由于恢复速度约 6200 ETH/小时，大多数用户不太可能受到影响。
-Lido提醒，此限制会影响可能尝试Lido平台铸造stETH的各方，如果出现“此时无法铸造stETH”提示，可尝试小额数量或等待一段时间。
-据今日下午消息，被标记为“Justin Sun”（孙宇晨）的钱包地址在Lido上质押150100枚ETH，价值约2.4亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -608,6 +574,16 @@ Thurman 表示，该行为可能是有史以来最大规模的 NFT 抛售。值�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dan Tapiero旗下加密投资公司10T Holdings将不再进行融资]]></title>
+        <id>https://panewslab.com/zh/articledetails/0w9e6rd6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0w9e6rd6.html"/>
+        <updated>2023-02-25T01:31:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月25日消息， 据The Block报道，由对冲基金资深人士Dan Tapiero创立的加密投资公司10T Holdings将不再进行任何融资。他将把注意力转向新的加密货币私募股权公司1RoundTable (1RT) Partners。Tapiero在接受采访时表示，10T有三支基金，不会再有新的10T基金。据此前消息，Dan Tapiero计划推出加密私募股权公司1RoundTable Partners，其目标为到第三季度末为旗舰基金1RT Opportunities Fund募集高达10亿美元的资金。该基金将重点支持“在未来5到10年内具有大幅升值潜力”的中后期数字资产公司的股权。该基金已获得了对冲基金亿万富翁Alan Howard的支持。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jump Crypto 与 DeFi 平台 Oasis 合作收回此前被盗的 Wormhole 资产]]></title>
         <id>https://www.techflowpost.com/express/6888</id>
         <link href="https://www.techflowpost.com/express/6888"/>
@@ -618,6 +594,17 @@ Thurman 表示，该行为可能是有史以来最大规模的 NFT 抛售。值�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jump Crypto对Wormhole黑客发动攻击，收回被盗的12万枚ETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/4ptcv5h0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4ptcv5h0.html"/>
+        <updated>2023-02-25T01:11:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月25日消息，据Blockworks报道，跨链桥Wormhole去年因黑客攻击被盗的12万枚ETH已在三天前被Jump Crypto收回。Jump Crypto与MakerDao生态产品Oasis合作，攻击了可升级的Oasis合约，将抵押品和债务从攻击者的金库中转移到自身金库，从而从Wormhole黑客的金库中获得了被盗资金。Oasis称收到英格兰和威尔士高等法院的命令，要求其采取一切必要措施追回与2022年2月2日Wormhole黑客攻击相关钱包地址的某些资产。这是根据法院命令，使用多签名和法院授权的第三方进行的行动。按照法院的要求，这些资产立即被转移到了由授权第三方控制的钱包中。通过本次攻击，Jump Crypto获得的净收益约为1.4亿美元。据此前消息，去年2月，Wormhole遭到攻击，约有12万枚ETH被盗，当时价值3.25亿美元。随后Jump Crypto宣布为Wormhole投入12万枚ETH，以弥补被盗损失。
+相关阅读：Jump Crypto如何与Oasis通过逆向攻击追回12万枚ETH的Wormhole被盗资金]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bankless：一文解读Coinbase L2的机会]]></title>
         <id>https://www.theblockbeats.info/news/35020</id>
         <link href="https://www.theblockbeats.info/news/35020"/>
@@ -625,6 +612,16 @@ Thurman 表示，该行为可能是有史以来最大规模的 NFT 抛售。值�
         <summary type="html"><![CDATA[在可预见的未来，Base除了成为一个金钱陷阱之外，几乎不可能再充当任何角色。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：BUSD活跃地址数量创3个月新低]]></title>
+        <id>https://panewslab.com/zh/articledetails/tdacu043.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tdacu043.html"/>
+        <updated>2023-02-24T22:45:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月25日消息，Glassnode数据显示，BUSD活跃地址数量刚刚达到116.268个，创3个月新低。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
