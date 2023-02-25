@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-25T12:26:38.565Z</id>
+    <id>urn:2023-02-25T13:19:19.552Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-25T12:26:38.565Z</updated>
+    <updated>2023-02-25T13:19:19.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3.0世界日报（2023-2.25）]]></title>
+        <id>https://www.web3sj.com/?p=46810</id>
+        <link href="https://www.web3sj.com/news/46810/"/>
+        <updated>2023-02-25T12:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Solana验证者正试图通过恢复到旧软件来恢复网络速度。Lido：今日创下最高单日质押流量，已触发 “Staking Rate Limit”限制。Polygon Q4报告：基于Polygon的活跃钱包数Q4创历史新高。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[排名战中铁蛾的最佳构建]]></title>
         <id>https://0xzx.com/2023022520063212700.html</id>
@@ -368,16 +378,6 @@ Thurman 表示，该行为可能是有史以来最大规模的 NFT 抛售。值�
         <link href="https://www.web3sj.com/news/46675/"/>
         <updated>2023-02-25T05:24:49.000Z</updated>
         <summary type="html"><![CDATA[在过去很长一段时间内，尤其是在 DYDX 项目带动了巨大空投潮以后，DID 赛道引起了不少业内、资本的关注。同时，很多做 DID 的项目都也发了自己的代币。但是关于这个赛道的投资哲学意义，很多人都没办法理解。甚至于说，关于 DID 赛道真正的机会，也并非是那些一个个的「去中心化身份验证器」的代币。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密码学角度解析FOAKS当中的多项式承诺协议Brakedown]]></title>
-        <id>https://www.web3sj.com/?p=46663</id>
-        <link href="https://www.web3sj.com/news/46663/"/>
-        <updated>2023-02-25T05:14:43.000Z</updated>
-        <summary type="html"><![CDATA[FRI、KZG、Bulletproof 是更为常见的多项式承诺协议，但速度是它们的瓶颈。zkSync 采用的 Plonky、Polygon zkEVM 采用的 Plonky2、Scroll 采用的 Ultra-Plonk 等算法都是基于 KZG 的多项式承诺。Prover 涉及到大量的 FFT 计算和 MSM 运算生成多项式和承诺，这两者都会带来大量的计算负担。]]></summary>
         <author>
             <name>Gao</name>
         </author>
