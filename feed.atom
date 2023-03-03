@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T08:19:12.797Z</id>
+    <id>urn:2023-03-03T09:15:41.647Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T08:19:12.797Z</updated>
+    <updated>2023-03-03T09:15:41.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[了解零知识（ZK）最新进展：哪个项目能够成为第一个“吃螃蟹的人”]]></title>
+        <id>https://www.defidaonews.com/article/6807138</id>
+        <link href="https://www.defidaonews.com/article/6807138"/>
+        <updated>2023-03-03T09:07:53.000Z</updated>
+        <summary type="html"><![CDATA[一些关于 ZK 世界如何发展的更新]]></summary>
+        <author>
+            <name>Kyle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm 首席技术官：ETHDenver 2023 中值得关注的 6 个项目]]></title>
+        <id>https://www.defidaonews.com/article/6807134</id>
+        <link href="https://www.defidaonews.com/article/6807134"/>
+        <updated>2023-03-03T08:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Paradigm 首席技术官 Georgios Konstantopoulos 在 ETHDenver 期间分享六个潜力项目。]]></summary>
+        <author>
+            <name>深潮TechFlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Eyes Coin、Dogecoin、Shiba Inu：Meme 币是新的还是创新？]]></title>
+        <id>https://0xzx.com/2023030316353232474.html</id>
+        <link href="https://0xzx.com/2023030316353232474.html"/>
+        <updated>2023-03-03T08:35:14.000Z</updated>
+        <summary type="html"><![CDATA[免责声明：本文是赞助帖。 CoinTürk 对与本文提及的任何产品或服务相关的任何损害或损失不承担任何责任。  […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axiomatics 与 Authomize 合作，为 OpenITDR 提供第一个基于策略的访问控制方法]]></title>
+        <id>https://0xzx.com/2023030316353232473.html</id>
+        <link href="https://0xzx.com/2023030316353232473.html"/>
+        <updated>2023-03-03T08:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Axiomatics 基于策略的访问控制和 Authomize 的 OpenITDR 框架通过连接身份和网络安 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[菲律宾可能成为区块链强国，BSV区块链可以提供帮助]]></title>
+        <id>https://0xzx.com/2023030316333232472.html</id>
+        <link href="https://0xzx.com/2023030316333232472.html"/>
+        <updated>2023-03-03T08:33:19.000Z</updated>
+        <summary type="html"><![CDATA[在经历了过去几年的挫折之后，世界各国都在寻找创新方法以脱颖而出并引领区域经济复苏。 菲律宾尤其显示出实现这一目 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币价格和以太坊预测：BTC 和 ETH 下跌 5%，但它们能跌到多低？]]></title>
+        <id>https://0xzx.com/2023030316333232471.html</id>
+        <link href="https://0xzx.com/2023030316333232471.html"/>
+        <updated>2023-03-03T08:33:17.000Z</updated>
+        <summary type="html"><![CDATA[由于比特币 (BTC) 和以太坊 (ETH) 的价值均下跌 5%，因此加密货币市场受到重创。 作为市值最大的两 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voyager 和 币安US 交易陷入混乱]]></title>
+        <id>https://0xzx.com/2023030316333232470.html</id>
+        <link href="https://0xzx.com/2023030316333232470.html"/>
+        <updated>2023-03-03T08:33:13.000Z</updated>
+        <summary type="html"><![CDATA[由于美国证券交易委员会的反对和美国法官的举动，将加密货币贷款机构 Voyager 出售给 币安US 的 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[头等仓：万字剖析MakerDAO终局形态的两大新产品]]></title>
         <id>https://www.web3sj.com/?p=47993</id>
@@ -13,6 +83,51 @@
         <summary type="html"><![CDATA[MakerDAO 是 DeFi 蓝筹项目，机制成熟，生态在不断扩张完善。协议核心是通过超额抵押借贷来维持 DAI 与美元的 1:1 锚定，价格稳定机制本质是市场供需的博弈，通过调整稳定利率调节市场供需。三一二极端事件后清算机制更改为 2.0 版本，在五一九事件中该清算版本受到较好的压力测试。创始人于去年提出名为「Endgame Plan」的路线图，计划在未来十年实现重组和去中心化，其中包括创建多个独立治理社区 MetaDAO、推出质押衍生品 EtherDAI 等等。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墙倒众人推？加密行业正在抛弃Silvergate]]></title>
+        <id>https://www.theblockbeats.info/news/35211</id>
+        <link href="https://www.theblockbeats.info/news/35211"/>
+        <updated>2023-03-03T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+墙倒众人推？加密行业正在抛弃 Silvergate
+
+》
+原文作者：Andr Beganski，decrypt
+
+
+
+原文编译：Moni，Odaily 星球日报
+
+
+3 月 2 日，加密友好银行 Silvergate Bank 控股公司 Silvergate Capital Corporation 宣布推迟向美国证券交易委员会 (SEC) 提交年度 10-K 报告，同时声称可能面临资本不足的问题且正在重新进行业务评估。Silvergate 声称会计师事务所和独立审计师要求其提供更多信息，以应对潜在的美国国会质询、以及后续司法部和银行监管机构调查。
+
+
+消息传出后，整个数字资产行业纷纷表态，希望与 Silvergate 保持距离，而 Silvergate 股票也如瀑布版下跌，周四收盘时已降至 5.72 美元，跌幅达到 57.69% ，相较于 2021 年 11 月上一波加密牛市时创造的 222 美元历史高点缩水超 93% 。
+
+
+
+
+
+加密行业正在抛弃 Silvergate
+
+
+Silvergate 已经确认最近一系列事件可能会影响其「持续经营」能力，这种情况显然不是加密行业希望看到的，此消息一出，多家加密公司和交易平台纷纷表态，撇清与 Silvergate 的关系。
+
+
+1、Coinbase
+
+
+Coinbase 是最早宣布不再与 Silvergate 合作的加密交易平台， 3 月 2 日晚间，Coinbase 在社交媒体宣布鉴于最近的事态发展以及出于谨慎考虑不再接受或发起与 Silvergate 之间的付款，也不再将 Silvergate 作为 Prime 客户的美元银行合作伙伴。Coinbase 还坦言对 Silvergate 的企业风险敞口微乎其微，而且已将其美元银行业务切换至 Signature Bank，此更改不影响英镑或欧元的付款指令。
+
+
+
+
+…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +158,16 @@
         <summary type="html"><![CDATA[昨天的全球经济数据仍是支持“利率升至更高维持更长时间”的论述。初次申领失业金人数 19 万，低於市场预期，是连续第 7 周低於 20 万，显示出就业市场仍然相当紧绷；美国第四季度非农生产力增长终值从初值的 3.0% 下调至 1.7%，但真正的重点是 ULC（单位劳动力成本），该值从之前的 1.1% 上修至 3.2%，且时薪增长从初值 4.1% 上调至 4.9%，进一步增加了成本上的忧虑。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance推出的Bicasso大火背后，还有哪些NFT项目正展开生成式AI叙事]]></title>
+        <id>https://www.theblockbeats.info/news/35215</id>
+        <link href="https://www.theblockbeats.info/news/35215"/>
+        <updated>2023-03-03T07:37:42.000Z</updated>
+        <summary type="html"><![CDATA[除了Bicasso，加密市场中还有哪些聚焦生成式AI的平台？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -129,53 +254,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[分析公司 IntoTheBlock 的引人注目的山寨币报告 这 2 个山寨币在微笑]]></title>
-        <id>https://0xzx.com/2023030314353232199.html</id>
-        <link href="https://0xzx.com/2023030314353232199.html"/>
-        <updated>2023-03-03T06:35:19.000Z</updated>
-        <summary type="html"><![CDATA[最大的以狗为主题的硬币狗狗币 (DOGE) 在一个关键指标上优于其他山寨币市场。区块链分析公司 IntoTh […]]]></summary>
+        <title type="html"><![CDATA[Paradigm首席技术官：ETHDenver 2023中值得关注的6个项目]]></title>
+        <id>https://www.theblockbeats.info/news/35210</id>
+        <link href="https://www.theblockbeats.info/news/35210"/>
+        <updated>2023-03-03T06:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Paradigm首席技术官Georgios Konstantopoulos在ETHDenver期间分享六个潜力项目。]]></summary>
         <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 对 2030 年 Cardano 价格进行预测]]></title>
-        <id>https://0xzx.com/2023030314353232198.html</id>
-        <link href="https://0xzx.com/2023030314353232198.html"/>
-        <updated>2023-03-03T06:35:17.000Z</updated>
-        <summary type="html"><![CDATA[你可能已经听说过 ChatGPT。 今年推出的这种人工智能正在彻底改变多个行业，经常被比作互联网的兴起。 Ch […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据一项新的中国研究，喝百事可乐和可乐会增加睾丸激素水平]]></title>
-        <id>https://0xzx.com/2023030314343232196.html</id>
-        <link href="https://0xzx.com/2023030314343232196.html"/>
-        <updated>2023-03-03T06:34:15.000Z</updated>
-        <summary type="html"><![CDATA[一项研究揭示了饮用可口可乐和百事可乐如何导致更大的睾丸和更高的睾丸激素水平。 中国西北民族大学试图确定碳酸饮料 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带睡眠声音和无线充电功能的数字 MIRROR 闹钟，售价 25 欧元]]></title>
-        <id>https://0xzx.com/2023030314333232193.html</id>
-        <link href="https://0xzx.com/2023030314333232193.html"/>
-        <updated>2023-03-03T06:33:25.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊今天提供的产品是一款数字闹钟，它可以进行无线充电，还可以提早入睡。 这一切都归功于五种不同的白噪声的存在 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[参议员对币安的强烈要求]]></title>
-        <id>https://0xzx.com/2023030314333232192.html</id>
-        <link href="https://0xzx.com/2023030314333232192.html"/>
-        <updated>2023-03-03T06:33:23.000Z</updated>
-        <summary type="html"><![CDATA[这位美国两党参议员认为，币安是非法活动的温床。 联系我们，立即了解最新进展。 推特 你可以关注我们的电报频道。 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -521,16 +606,6 @@ Ledger的全球政策主管Seth Hertlein表示，和解不能为未来的纠纷�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[要技术也要市场！盘点12位中国知名创业者眼里的chatGPT]]></title>
-        <id>https://www.defidaonews.com/article/6807052</id>
-        <link href="https://www.defidaonews.com/article/6807052"/>
-        <updated>2023-03-03T02:43:06.000Z</updated>
-        <summary type="html"><![CDATA[视角独到，观察前沿！]]></summary>
-        <author>
-            <name>王佳健</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenSea Seaport升级至v1.4版本，支持单次签名上架多枚NFT]]></title>
         <id>https://panewslab.com/zh/articledetails/ltc0e8ea.html</id>
         <link href="https://panewslab.com/zh/articledetails/ltc0e8ea.html"/>
@@ -559,16 +634,6 @@ OpenSea表示，将在7天内开始不再通过API接受Seaport v1.1订单，并
         <summary type="html"><![CDATA[PANews 3月3日消息，据欧科云链OKLink多链浏览器数据显示，当前Optimism链上地址总数突破300万个，总数达3,005,087个，Optimism链上总交易数超7800万笔。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密银行 Silvergate 自曝“资金不足”，合作伙伴纷纷“退避三舍”]]></title>
-        <id>https://www.defidaonews.com/article/6807042</id>
-        <link href="https://www.defidaonews.com/article/6807042"/>
-        <updated>2023-03-03T02:30:27.000Z</updated>
-        <summary type="html"><![CDATA[哪些平台会受到 Silvergate 的“牵连”？]]></summary>
-        <author>
-            <name>Kyle</name>
         </author>
     </entry>
     <entry>
@@ -721,36 +786,6 @@ BitKeep NFT 市场支持以太坊、BNB Chain、Polygon、Arbitrum 等 7 �
 据了解，除储备金干净度为100%外，欧易OKX是目前唯一一家同时实现默克尔树开源验证、钱包地址所有权开源验证、链上资产开源验证的交易所。自去年11月份以来，欧易按月定期发布PoR报告，持续引领行业提升透明度。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH Staking的崛起或将推动DeFi复兴]]></title>
-        <id>https://www.theblockbeats.info/news/35200</id>
-        <link href="https://www.theblockbeats.info/news/35200"/>
-        <updated>2023-03-02T10:12:31.000Z</updated>
-        <summary type="html"><![CDATA[ETH Staking的进一步发展可能有助于推动其他DeFi领域的增长，因为参与ETH质押的投资者希望通过质押的ETH来获得更多的收益]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交通信协议Towns：a16z下注2250万美元的赛道新贵]]></title>
-        <id>https://www.theblockbeats.info/news/35199</id>
-        <link href="https://www.theblockbeats.info/news/35199"/>
-        <updated>2023-03-02T09:52:24.000Z</updated>
-        <summary type="html"><![CDATA[Towns 团队认为，在过去的十年里互联网的用户像是一群“租客”，聚集的数字城镇广场一直被“房东”拥有的围墙花园所困住。Towns希望通过去中心化和 web3 创建一个数字城镇广场，成员可以在其中定义边界、制定规则并建立他们想要的世界，用户将成为数字城镇广场的主人，并对自己所在的在线社区有一种真正的归属感。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面剖析Blur发展史，超越OpenSea后如何获得长期成功？]]></title>
-        <id>https://www.theblockbeats.info/news/35146</id>
-        <link href="https://www.theblockbeats.info/news/35146"/>
-        <updated>2023-03-02T09:00:02.000Z</updated>
-        <summary type="html"><![CDATA[空投仅仅是短期促进增长的途径，$BLUR并不是Blur市场的救世主，其仅仅是Blur平台价值Token化的价值符号。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
