@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-06T22:15:17.034Z</id>
+    <id>urn:2023-03-06T23:15:54.194Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-06T22:15:17.034Z</updated>
+    <updated>2023-03-06T23:15:54.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[美国政府提起上诉，要求在FTX破产案中任命独立审查员]]></title>
+        <id>https://panewslab.com/zh/articledetails/3ny7286j.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3ny7286j.html"/>
+        <updated>2023-03-06T22:55:06.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月7日消息，据CoinDesk报道，美国政府周一对此前破产法官拒绝在FTX破产案中任命独立审查员的司法决定提出上诉。美国司法部(DOJ)下属的美国信托人(U.S. Trustee)此前曾辩称，破产法要求对任何此类规模的案件进行独立调查，尽管FTX的律师此前曾表示调查成本可能高达1亿美元。独立审查员可以调查那些对FTX管理不善负有责任的人是否仍在该公司。一个由两党参议员组成的小组也呼吁进行独立调查。然而，2月15日，美国特拉华州破产法官否决了任命一名独立审查员调查FTX破产案的动议。他表示，代价高昂的独立调查将会对案件的解决造成延缓。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Digital总裁：公司仍有剩余资金进行收购，但首先要加强对此前收购的管理]]></title>
+        <id>https://panewslab.com/zh/articledetails/b8ne737i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/b8ne737i.html"/>
+        <updated>2023-03-06T22:40:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月7日消息，据The Block报道，Galaxy Digital总裁Chris Ferraro在JMP证券技术大会上表示，在去年年底进行了两项基础设施收购后，公司仍有剩余资金，但在进行新的收购前，首先要管理好此前的投资。去年12月，Galaxy Digital同意以约6500万美元的价格从Argo Blockchain手中收购Helios比特币挖矿设施及其相关业务，并在上个月以约4400万美元的价格收购了机构数字资产托管平台GK8的几乎所有资产。Ferraro表示，“尽管不否认我们可能会在并购方面继续活跃，但今年的重点应该是加强此前的收购，整合它们，并做好基础建设工作。在做好这些之前，我们没有权利收购更多的公司。”去年，Galaxy Digital终止了收购加密货币托管商BitGo的协议，该公司曾于2021年宣布以12亿美元收购BitGo。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda起诉Grayscale，要求赎回信托份额和降低管理费]]></title>
+        <id>https://panewslab.com/zh/articledetails/u80p7t9v.html</id>
+        <link href="https://panewslab.com/zh/articledetails/u80p7t9v.html"/>
+        <updated>2023-03-06T22:23:23.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月7日消息，据CoinDesk报道，据一份新闻稿称，FTX关联公司Alameda Research已对加密资产管理公司Grayscale Investments提起诉讼，以寻求禁令救济。该诉讼在特拉华州衡平法院提起，并向Grayscale首席执行官Michael Sonnenshein和Grayscale母公司DCG及其首席执行官Barry Silbert提出了索赔。Alameda在诉讼中表示，仅在过去两年里，Grayscale就违反信托协议，收取了超过13亿美元的“过高管理费”。此外，该公司使用“编造的借口”来阻止股东赎回他们的股票，导致信托股票交易价格比资产净值低约50%。如果Grayscale降低管理费并允许赎回，FTX债务人的股票将至少价值5.5亿美元，比当前价值高出约90%。FTX首席执行官兼首席重组官John J. Ray III在一份声明中表示，将继续使用一切工具，最大限度地为FTX客户和债权人追回资金。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido：发现影响stMATIC取款的漏洞，已暂停Polygon上的质押和取款功能，所有资金仍安全]]></title>
+        <id>https://panewslab.com/zh/articledetails/xqr2wm99.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xqr2wm99.html"/>
+        <updated>2023-03-06T22:06:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月7日消息，流动性质押协议Lido在推特发文称，由于发现了影响stMATIC取款的漏洞，Lido在Polygon上的质押和取款功能已暂停以进行故障排除。所有资金都是安全的，存取款将在未来几天内恢复。当用户请求在多个节点之间分配大量提现金额时，就会出现此问题。在故障排除期间，不会累积奖励。当恢复正常运营后，将发放追溯奖励。一份完整的事后分析报告将在未来几周内公布。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫发言人：政府正密切关注Silvergate状况，拜登已呼吁国会采取行动]]></title>
+        <id>https://panewslab.com/zh/articledetails/a2gbuq7f.html</id>
+        <link href="https://panewslab.com/zh/articledetails/a2gbuq7f.html"/>
+        <updated>2023-03-06T21:54:08.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月7日消息，据CoinDesk报道，在周一的白宫新闻发布会上，白宫新闻秘书Karine Jean-Pierre表示，拜登政府正在密切关注Silvergate Bank的情况，并将其与其它加密公司的情况进行比较。拜登已呼吁国会在这一领域采取行动。Jean-Pierre指出，最近几周，一些加密公司“经历了重大问题”，而联邦银行监管机构已警告加密货币可能对银行和其他金融机构构成风险。总统拜登曾多次呼吁国会采取行动，以保护美国人免受数字资产带来的风险，未来他将继续这样做。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[首先解锁的最佳链片段——命运 2 Lightfall]]></title>
         <id>https://0xzx.com/2023030705443242863.html</id>
@@ -67,69 +117,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[以太坊扩容项目Scroll以18亿美元估值完成5000万美元融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/3yqfsmh1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3yqfsmh1.html"/>
-        <updated>2023-03-06T15:51:50.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据The Block报道，使用 zk-rollups 技术的以太坊第 2 层网络Scroll在新一轮融资中筹集了 5000 万美元。投资者包括 Polychain Capital、红杉中国、Bain Capital Crypto、Moore Capital Management、Variant Fund、Newman Capital、IOSG Ventures 和Qiming Venture Partners。Scroll 拒绝就该轮融资的估值和结构发表评论，但一位直接了解此事的消息人士告诉 The Block，该轮融资使 Scroll 的估值达到 18 亿美元。
-Scroll 此前在两轮融资中筹集了3300 万美元，当时并未披露其估值。新一轮融资使 Scroll 迄今的总融资额达到 8300 万美元。有了新资金，Scroll 计划继续构建其产品、启动其主网并扩展其生态系统。它还希望在不久的将来将其目前的团队规模从大约 60 人增加到近 100 人。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voyager：若与Binance.US的10亿美元交易延迟，将使公司每月损失1000万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/9cg02wjt.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9cg02wjt.html"/>
-        <updated>2023-03-06T15:39:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据CoinDesk报道，Voyager Digital 否认了美国证券交易委员会 (SEC) 声称其 VGX 代币是证券的说法，因为它正在寻求法院批准 Binance.US 以 10.2 亿美元收购这家破产的加密货币贷方的要约。代表 Voyager 于周日向法院提交的一份文件称，延迟交易使公司每月损失 1000 万美元，对美国证券交易委员会在此事上的立场的延迟和演变表示惊讶，并敦促迅速解决破产案。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism将于3月18日进行Optimism Goerli硬分叉升级]]></title>
-        <id>https://panewslab.com/zh/articledetails/n9xfnnzu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n9xfnnzu.html"/>
-        <updated>2023-03-06T15:25:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，以太坊二层解决方案Optimism发推称将于北京时间3月18日3:00进行Optimism Goerli硬分叉升级，Optimistic基础设施提供商需在此之前将节点升级到op-geth v1.11.2-de8c5df46，并将op-node升级到v1.0.0。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase将于明晚11时上架Liquid Staked ETH(LSETH)交易]]></title>
-        <id>https://panewslab.com/zh/articledetails/tn1piipp.html</id>
-        <link href="https://panewslab.com/zh/articledetails/tn1piipp.html"/>
-        <updated>2023-03-06T15:17:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，Coinbase 公告称将在以太坊网络（ERC-20 代币）上增加对 Liquid Staked ETH (LSETH) 的支持。如果满足流动性条件，交易将于北京时间 2023 年 3 月 7 日晚上 11 点或之后开始。上周，Coinbase将Liquid Staked ETH（LSETH） 列入上币路线图。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinShares：上周数字资产投资产品净流出1700万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/ywfkc6n8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ywfkc6n8.html"/>
-        <updated>2023-03-06T15:07:27.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据CoinShares周报数据，上周数字资产投资产品净流出 1700 万美元，连续第 4 周出现负面情绪。其中比特币连续第 4 周流出，本周总计流出 2010 万美元，以太坊本周净流入 700 万美元。而空头比特币连续第三周流入总计 180 万美元。区块链股票上周流入 160 万美元。本周投资产品的成交量较低，为 8.44 亿美元，但整个比特币市场成交量也出现类似情况，平均为 570 亿美元，比平时低 15%。
-从地区来看，市场情绪似乎发生了逆转，美国的资金流入总额为 760 万美元，而欧洲的资金流出量为 2300 万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火必今日22时30分上线TRU(TrueFi)，其充币业务已于22时开放]]></title>
-        <id>https://panewslab.com/zh/articledetails/yls68fay.html</id>
-        <link href="https://panewslab.com/zh/articledetails/yls68fay.html"/>
-        <updated>2023-03-06T14:42:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据火必官方公告，火必今日22时30分（GMT+8）开放TRU币币交易（TRU/USDT），其充币业务已于22时（GMT+8）开放。公告显示，该代币提币业务将于3月7日22时（GMT+8）开放。
-据悉，TrueFi是由TrustToken团队开发的无抵押贷款DeFi信贷协议。该平台的原生代币TRU用于质押、投票和为贷款人提供保护。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[火必今日22时30分上线TRU（TrueFi），其充币业务已于22时开放]]></title>
         <id>https://www.techflowpost.com/express/6994</id>
         <link href="https://www.techflowpost.com/express/6994"/>
@@ -138,17 +125,6 @@ Scroll 此前在两轮融资中筹集了3300 万美元，当时并未披露其�
 据悉，TrueFi是由TrustToken团队开发的无抵押贷款DeFi信贷协议。该平台的原生代币TRU用于质押、投票和为贷款人提供保护。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊将于4月24日推出其NFT平台“ Amazon Digital Marketplace”]]></title>
-        <id>https://panewslab.com/zh/articledetails/bw48tt94.html</id>
-        <link href="https://panewslab.com/zh/articledetails/bw48tt94.html"/>
-        <updated>2023-03-06T14:04:56.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据Coingape报道，科技巨头亚马逊将于4月24日推出其NFT平台“Amazon Digital Marketplace”，自推出之日起将有15个NFT系列可供选择。该平台将首先向美国客户提供该服务，然后逐步推广至其他国家。此外，NFT系列将在亚马逊网站上提供，点击“Amazon Digital Marketplace”选项卡即可查看。NFT只能从亚马逊账户和信用卡购买。通过亚马逊平台的NFT服务允许无法访问Metamask等加密钱包的人购买 NFT。
-此前报道，亚马逊计划在今年春天推出专注于游戏的NFT项目。此外，AWS与Avalanche合作为企业和政府提供区块链解决方案。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -169,16 +145,6 @@ Scroll 此前在两轮融资中筹集了3300 万美元，当时并未披露其�
         <summary type="html"><![CDATA[Watchers V3是一个从数据分析工具到智能交易系统的进化。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bybit与Moorwand合作推出Mastercard支持的加密借记卡]]></title>
-        <id>https://panewslab.com/zh/articledetails/zclc47f5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zclc47f5.html"/>
-        <updated>2023-03-06T13:39:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据Cointelegraph报道，Bybit 将与总部位于伦敦的支付解决方案提供商 Moorwand 合作推出一款新的借记卡，允许用户使用持有的加密货币进行支付和提取现金。Bybit 卡将在万事达卡（Mastercard）网络上运行，并允许在用于支付商品和服务时通过扣除加密货币余额来进行基于法定的交易。该服务首先推出用于在线购物的免费虚拟卡，而实体借记卡将于 2023 年 4 月推出。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -265,17 +231,6 @@ Numen Cyber是一家总部位于新加坡的Web3安全及网络威胁检测和�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Block.One创始人或因持有Silvergate股票浮亏超7000万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/oewmj89z.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oewmj89z.html"/>
-        <updated>2023-03-06T13:16:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据Protos报道，EOS和Block.One创始人Brendan Blumer此前曾斥资超9000万美元购买了Silvergate大约9.27%的股票，出于监管目的，Brendan Blumer此前已承认自己是全部9.27%的股票受益所有人，但随着Silvergate股价暴跌，目前他的个人浮亏至少达到7400万美元。
-另有数据显示，截至2022年11月16日，Block.One公司拥有Silvergate大约7.5%的股份。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[次世代Perp DEX之战拉开帷幕]]></title>
         <id>https://www.web3sj.com/?p=48794</id>
         <link href="https://www.web3sj.com/definews/48794/"/>
@@ -283,16 +238,6 @@ Numen Cyber是一家总部位于新加坡的Web3安全及网络威胁检测和�
         <summary type="html"><![CDATA[GMX 去年提出 X4 计划，其中重要一环便是全新的交易模式 PVP AMM，由于 GMX 转向合成资产的开发，X4 便暂时搁置了。近期又冒出 LionDEX ，声称已实现了 PVP AMM ，战火突然就在眼前。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安或寻求TrueUSD作为稳定币替代解决方案]]></title>
-        <id>https://panewslab.com/zh/articledetails/6fzvpaho.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6fzvpaho.html"/>
-        <updated>2023-03-06T12:30:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据Cointelegraph报道，纽约金融服务部 (NYDFS) 的BUSD铸造禁令迫使币安寻找其他稳定币替代解决方案来满足市场需求。根据链上数据显示，币安正在寻求加入TrueUSD，从2月16日到2月24日，币安铸造了1.8亿枚TUSD。同时也增加了一些其他去中心化稳定币的支持。自2019年6月以来，与美元挂钩的稳定币TUSD运营TrustToken一直是币安的合作伙伴，这种关系允许币安以零费用购买TUSD并将其兑换为法定货币，分析认为随着监管机构对BUSD的禁令，币安会越来越多地铸造新TUSD来缓解其稳定币需求。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -317,28 +262,6 @@ Numen Cyber是一家总部位于新加坡的Web3安全及网络威胁检测和�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitget Launchpad第二期上线项目Haloworld(HALO)已开启交易]]></title>
-        <id>https://panewslab.com/zh/articledetails/nldyu5pf.html</id>
-        <link href="https://panewslab.com/zh/articledetails/nldyu5pf.html"/>
-        <updated>2023-03-06T12:04:19.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，Bitget 第二期 Launchpad - Haloworld(HALO) 已在3月6日18:00（UTC+8）开启交易，Launchpad 发行价为0.02美元，最高涨幅14,950％，最高报价2.99美元。截止发文，现报价为0.38美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3安全公司Numen Cyber与Cobo达成私钥灾备服务多方面业务合作]]></title>
-        <id>https://panewslab.com/zh/articledetails/n8610mu2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n8610mu2.html"/>
-        <updated>2023-03-06T12:00:55.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，新加坡Web3安全公司Numen Cyber宣布与Cobo达成业务合作，提供MPC托管私钥灾备服务，并共同探索在MPC业务、Web3安全服务、链上追踪分析研究等多个层面的合作。双方将共同推进MPC托管的发展，为数字资产用户提供更安全的保障，拓展在Web3领域的更多合作，推动Web3更快、更安全的持续发展。
-Cobo是全球领先的数字资产托管解决方案提供商，总部位于新加坡，受到亚洲、欧洲、中东、北美和南美的500多家机构客户的信任，托管的资产达数十亿美元。
-Numen Cyber是一家总部位于新加坡的Web3安全及网络威胁检测和响应的解决方案提供商。Numen Cyber Labs由来自全球的顶级安全专家组成，技术团队发现过很多知名Web3生态（Aptos、Sui、EOS、Ripple、Tron等）及项目、微软、谷歌、苹果产品的高危漏洞，并提供业界领先的Web3安全解决方案，可满足各种Web3应用场景的网络安全需求。Numen Cyber通过对智能合约、公链、钱包、交易平台安全审计，链上合约威胁检测和响应、Web3安全态势感知、数字货币追踪和Web3威胁情报等服务和产品增强Web 3项目在整个开发周期各个阶段的安全能力，保障项目方和用户的数字资产安全。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gnosis创始人EthDenver分享笔记：L2的局限性，以及另一种扩容方法]]></title>
         <id>https://www.web3sj.com/?p=48766</id>
         <link href="https://www.web3sj.com/news/48766/"/>
@@ -349,17 +272,6 @@ Numen Cyber是一家总部位于新加坡的Web3安全及网络威胁检测和�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arweave 2.6版本已成功激活并趋于稳定]]></title>
-        <id>https://panewslab.com/zh/articledetails/c6stb3d3.html</id>
-        <link href="https://panewslab.com/zh/articledetails/c6stb3d3.html"/>
-        <updated>2023-03-06T11:10:28.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，区块链存储协议Arweave创始人Sam Williams发推表示，Arweave 2.6 版本现已上线，难度和区块生成速度已经趋于稳定。新版本将提高网络及其存储市场的能源效率，并且激励矿工存储更多数据。
-上月消息称，区块链存储协议Arweave将发布2.6版本，拟于3月6日激活硬分叉。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[共同所有权平台Lore如何驱动NFT文化生产引擎？]]></title>
         <id>https://www.theblockbeats.info/news/35287</id>
         <link href="https://www.theblockbeats.info/news/35287"/>
@@ -367,17 +279,6 @@ Numen Cyber是一家总部位于新加坡的Web3安全及网络威胁检测和�
         <summary type="html"><![CDATA[Lore 是什么？如何 Lore 上创建社区和小队？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密金融服务公司BCB Group计划增加美元到加密货币的转换功能]]></title>
-        <id>https://panewslab.com/zh/articledetails/snj0z60a.html</id>
-        <link href="https://panewslab.com/zh/articledetails/snj0z60a.html"/>
-        <updated>2023-03-06T11:01:25.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据CoinDesk报道，加密金融服务公司 BCB Group 的首席执行官 Oliver von Landsberg-Sadie 在接受采访时表示，该公司正在加快增加美元功能的计划，并准备在第二季度初上线。以帮助填补最近关闭的 Silvergate Exchange Network(SEN) 留下的空缺。BCB于 2020 年中期推出了其即时结算网络，即 BCB 流动性交换网络联盟 (BLINC)。这是一个实时总结算系统，适用于欧元、英镑和瑞士法郎，就像 SEN 直到最近在美国为以美元进行交易的大型加密货币客户所做的那样。
-总部位于伦敦的 BCB 是第一家获得英国监管机构金融行为监管局 (FCA) 颁发的支付牌照的加密货币公司，为欧洲的英镑、欧元、瑞士法郎和日元等货币提供法定货币到加密货币的转换，特别是Bitstamp、Galaxy Digital、Gemini 和 Kraken 等机构参与者。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -414,27 +315,6 @@ ARBK（Arbitrum Futures Token）是 BitKeep 钱包推出的 Arbitrum 官�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新加坡警方已开始调查Do Kwon和Terraform Labs]]></title>
-        <id>https://panewslab.com/zh/articledetails/idmc1e6z.html</id>
-        <link href="https://panewslab.com/zh/articledetails/idmc1e6z.html"/>
-        <updated>2023-03-06T10:41:55.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据彭博社报道，新加坡警方已启动对Do Kwon与Terraform Labs的调查，并补充说调查“正在进行中”。Terraform Labs 并未立即回复置评请求。去年10月报道，Do Kwon在新加坡面临5700万美元集体诉讼。该诉讼由359名投资者发起，指控Do Kwon、Platias和LFG故意歪曲UST的价格稳定性。
-上月，美国SEC起诉TerraformLabs和Do Kwon，指控其误导投资者和销售未注册证券。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PancakeSwap今日销毁约2700万美元的CAKE代币（约715万枚）]]></title>
-        <id>https://panewslab.com/zh/articledetails/sxu6vm6x.html</id>
-        <link href="https://panewslab.com/zh/articledetails/sxu6vm6x.html"/>
-        <updated>2023-03-06T10:32:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，去中心化交易平台PancakeSwap今日销毁约 2700 万美元的 CAKE 代币（7153999 枚），来自 PancakeSwap 的交易、彩票、NFT 市场和预测市场所赚取的费用。此外，PancakeSwap将于4月第一周上线V3，将推出空投和NFT等活动。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新加坡警方已开始调查 Do Kwon 与 Terraform Labs]]></title>
         <id>https://www.defidaonews.com/article/6807522</id>
         <link href="https://www.defidaonews.com/article/6807522"/>
@@ -445,16 +325,6 @@ ARBK（Arbitrum Futures Token）是 BitKeep 钱包推出的 Arbitrum 官�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kraken首席法律官：仍在推进推出Kraken银行的计划]]></title>
-        <id>https://panewslab.com/zh/articledetails/b8b025vn.html</id>
-        <link href="https://panewslab.com/zh/articledetails/b8b025vn.html"/>
-        <updated>2023-03-06T10:18:30.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据The Block报道，Kraken 的首席法律官 Marco Santori 在 The Scoop 播客上表示，尽管监管环境充满挑战，但 Kraken 仍在推进推出自己银行的计划。银行业方面的谨慎态度可能会扼杀该（加密）行业的创新。近期，由于对加密货币友好的银行 Silvergate 在资本化问题中关闭了其广泛使用的 Silvergate Exchange Network，Santori 表示 Kraken 的银行业务关系是安全的，并且该交易所拥有“遍布全球的多元化银行集团”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一周 AI 丨 ChatGPT 正式开放 API，Meta 发布全新大型语言模型 LLaMA]]></title>
         <id>https://www.defidaonews.com/article/6807516</id>
         <link href="https://www.defidaonews.com/article/6807516"/>
@@ -462,16 +332,6 @@ ARBK（Arbitrum Futures Token）是 BitKeep 钱包推出的 Arbitrum 官�
         <summary type="html"><![CDATA[ChatGPT 正式开放 API 服务中小企业，这一记重拳不仅打向了中间商，也打向了竞争对手。]]></summary>
         <author>
             <name>longcrypto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIS(北欧)创新中心与以色列、瑞典等央行完成跨境零售CBDC实验项目Icebreaker]]></title>
-        <id>https://panewslab.com/zh/articledetails/r6642z5a.html</id>
-        <link href="https://panewslab.com/zh/articledetails/r6642z5a.html"/>
-        <updated>2023-03-06T10:07:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，国际清算银行 (BIS) 创新中心北欧中心与以色列、挪威和瑞典的中央银行共同完成了Project Icebreaker（破冰项目），该项目研究了在国际支付中使用零售中央银行数字货币 (CBDC) 的潜在好处和挑战。 并测试了在不同实验性零售 CBDC 系统之间进行跨境和跨货币交易的技术可行性。Icebreaker 项目探索了一种将 rCBDC 系统（轴辐式解决方案）与几个附加功能互连的特定方法，这些功能可以轻松扩展 Icebreaker 模型。跨境交易被分解为两个国内支付，由在两个国内系统中活跃的外汇提供商提供便利。因此，零售 CBDC 永远不需要离开自己的系统。Project Icebreaker 开辟了跨境零售 CBDC 支付新路径。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -505,16 +365,6 @@ ARBK（Arbitrum Futures Token）是 BitKeep 钱包推出的 Arbitrum 官�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比特大陆启动2023届春季校招，含芯片设计等岗位]]></title>
-        <id>https://panewslab.com/zh/articledetails/o995wjfc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/o995wjfc.html"/>
-        <updated>2023-03-06T09:25:51.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据官方公众号，比特大陆 2023 届春季校招正式启动，招聘岗位包括芯片设计（逻辑设计与验证、物理设计与版图、模拟电路设计）、嵌入式软件与硬件电路、特定技术（半导体工艺、结构、工业工程、新能源）、财务法务供应链等。工作地点包括北京、深圳、上海、成都、武汉、青岛、厦门、福州、南京、香港、美国、新加坡、马来西亚等。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美犹他州立法机关通过 DAO 法案，将于 2024 年生效]]></title>
         <id>https://www.defidaonews.com/article/6807510</id>
         <link href="https://www.defidaonews.com/article/6807510"/>
@@ -532,18 +382,6 @@ ARBK（Arbitrum Futures Token）是 BitKeep 钱包推出的 Arbitrum 官�
         <summary type="html"><![CDATA[得益于大量的闲置水力和地热能源，冰岛已经成为欧洲最后的比特币挖矿庇护所之一。]]></summary>
         <author>
             <name>吴说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国犹他州立法机关已通过DAO法案，将于2024年生效]]></title>
-        <id>https://panewslab.com/zh/articledetails/dx7jqb5t.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dx7jqb5t.html"/>
-        <updated>2023-03-06T09:05:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月6日消息，据Natlawreview报道，美国犹他州立法机关于3月1日通过了HB 357法案，即《犹他州去中心化自治组织法案（犹他州DAO法案）》，由此，犹他州已成为第一个通过立法承认去中心化自治组织（DAO）的州。犹他州DAO法案授予DAO：1.法律认可和有限责任保护，解决了以前“将DAO包装进LLC实体”方法的局限性；2.建立了明确的税收待遇；3.对DAO参与者没有隐含的信托责任；4.使用“细则”来保护DAO参与者的匿名性；5.纳入技术把关，确保DAO确实是一个DAO。
-犹他州DAO法案在众议院和参议院委员会中都以微弱的批准通过。然而也有一些担忧和妥协。三个主要问题是：1.DAO基础的完全 "不负责任的 "匿名性；2.（原）税收语言与潜在的州和联邦税收显示不一致；3.缺乏启动时间，以确保犹他州公司部为处理新的申请做好准备。
-妥协的方法如下：1.问责制：要求每个DAO有一个公开的法律代表，同时仍然允许DAO的参与者保持匿名。法律代表个人不承担连带责任；2.税收语言：邀请犹他州税务专员办公室参与，提出可接受的税收语言，并与DAO的税收复杂性相一致；3.启动时间：同意将法案的生效日期定为2024年。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
