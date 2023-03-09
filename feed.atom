@@ -1,10 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-09T03:22:47.719Z</id>
+    <id>urn:2023-03-09T04:19:26.027Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-09T03:22:47.719Z</updated>
+    <updated>2023-03-09T04:19:26.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[社交媒体新时代：Nostr 为何重要？]]></title>
+        <id>https://www.defidaonews.com/article/6808092</id>
+        <link href="https://www.defidaonews.com/article/6808092"/>
+        <updated>2023-03-09T04:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Nostr 是一种用于抗审查言论和社交分享的新协议。它具有巨大的潜力，但也有诸多挑战仍待克服。]]></summary>
+        <author>
+            <name>Foresight News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国金融监管局：目前在监管意义上还没有NFT被归类为证券]]></title>
+        <id>https://panewslab.com/zh/articledetails/47v18ff8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/47v18ff8.html"/>
+        <updated>2023-03-09T04:10:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，德国金融监管局 (BaFin) 发布技术文章称，目前，在监管意义上还没有NFT被归类为证券。一方面NFT缺乏类似于证券的具体权利，另一方面NFT通常被赋予个人权利和内容，因此排除了证券监管概念意义上的标准化和可交易性。但不排除未来NFT是否会被归类为证券。
+与NFT相关的洗钱风险很难笼统地评估。由于其多样的构造形式和可能的用途，不同的NFT在特性上可以有很大差异。NFT可能受到洗钱相关的监管，不过只有当NFT是金融服务的主体时，它们才与BaFin的洗钱监管相关。
+BaFin认为，权衡NFT为金融体系提供的机会与金融体系的稳定性和完整性所面临的风险，在未来也至关重要。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从技术角度解析：为什么通缩机制的代币易受攻击]]></title>
+        <id>https://www.web3sj.com/?p=49439</id>
+        <link href="https://www.web3sj.com/news/49439/"/>
+        <updated>2023-03-09T03:52:58.000Z</updated>
+        <summary type="html"><![CDATA[通常，具有燃烧机制的代币将在其 _transfer 函数中实现燃烧的逻辑。有时候会存在发送者承担手续费的情况。 在这种情况下，接收方收到的代币数量不会发生变化，但发送方需要支付更多代币，因为其需要承担手续费。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos与跨链桥Wormhole达成合作，启用NFT跨链桥接]]></title>
+        <id>https://panewslab.com/zh/articledetails/9l6sxh8f.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9l6sxh8f.html"/>
+        <updated>2023-03-09T03:45:08.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，据官方推特，公链项目Aptos宣布与跨链桥Wormhole达成合作，启用NFT跨链桥接。用户可通过Portal跨链桥将NFT资产从任何支持的区块链网络发送到Aptos，而无需对资产进行双重封装。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIGC浪潮下Web3的应用层创新]]></title>
+        <id>https://www.web3sj.com/?p=49428</id>
+        <link href="https://www.web3sj.com/news/49428/"/>
+        <updated>2023-03-09T03:44:48.000Z</updated>
+        <summary type="html"><![CDATA[我们认为AIGC将成为Web3时代的生产力工具。当我们迈入Web3.0时代，人工智能、关联数据和语义网络构建，形成人与网络的全新链接，内容消费需求飞速增长。UGC\PGC这样的内容生成方式将难以匹配扩张的需求。AIGC将是新的元宇宙内容生成解决方案。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paxos：几乎对Silvergate没有风险敞口，已停止使用SEN网络]]></title>
+        <id>https://panewslab.com/zh/articledetails/tn6253ii.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tn6253ii.html"/>
+        <updated>2023-03-09T03:41:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，稳定币发行商Paxos发推文称：“Paxos几乎对Silvergate没有风险敞口，上周已经停止使用SEN网络连接，并且已经切断了Silvergate账户的电汇。作为一家受监管的机构，Paxos一直专注于保护客户的资金，因此平台内置了银行冗余。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alchemy：以太坊账户抽象提案EIP-4337已在主网上部署]]></title>
+        <id>https://panewslab.com/zh/articledetails/o1epzvkr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o1epzvkr.html"/>
+        <updated>2023-03-09T03:37:09.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，Web3开发平台Alchemy在推特上宣布，以太坊账户抽象提案EIP-4337已在主网上部署，未来将带来以下体验：1.无缝的用户登入、2.更多的账户安全、3.无Gas费交易。
+此前3月2日消息，以太坊账户抽象提案ERC-4337的核心合约已通过审计，将在以太坊虚拟机兼容网络上提供。
+相关阅读：对话ERC-4337作者：以太坊账户抽象创新、优势及演变]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派盾：Voyager将价值2700万美元的加密货币转至交易所，并提取200万枚USDC]]></title>
+        <id>https://panewslab.com/zh/articledetails/h5rd3cuc.html</id>
+        <link href="https://panewslab.com/zh/articledetails/h5rd3cuc.html"/>
+        <updated>2023-03-09T03:29:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，据派盾预警监测，标记为Voyager的地址已将价值约2700万美元的加密货币（包括1.5万枚ETH和700万枚VGX）转移至加密交易平台Coinbase和Binance US，并在过去1小时左右从Binance US收到了约200万USDC。
+据悉，自2月14日以来Voyager几乎每天通过Coinbase出售加密资产。此前昨日消息，法官批准Binance.US收购Voyager Digital资产，但交易仍需清除监管障碍。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collab.Land：DAO Pass已启动申领，不可交易且只可用于投票参与治理]]></title>
+        <id>https://panewslab.com/zh/articledetails/41efcug4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/41efcug4.html"/>
+        <updated>2023-03-09T03:23:57.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，Discord拓展应用插件Collab.Land在社交媒体宣布，DAO Pass现已启动申领，如果用户至少持有10 COLLAB代币即可进行申领并参与Collab.Land DAO治理。Collab.Land表示，DAO Pass不可转让，也不能出售，永远不能离开申领它的钱包。这意味着如果尝试进行交易，在Opensea等市场上列出的DAO Pass都将失败，此外一个钱包不能拥有多个DAO Pass，DAO Pass只赋予投票权，投票权由拥有的COLLAB总数决定，一个拥有100枚COLLAB代币的钱包与10个拥有10枚COLLAB代币的钱包具有相同的投票权。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gate Group推出Gate VISA借记卡，欧洲市场率先开放预约]]></title>
+        <id>https://panewslab.com/zh/articledetails/1qzk3x4v.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1qzk3x4v.html"/>
+        <updated>2023-03-09T03:23:42.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，以加密货币交易所Gate.io而闻名的Gate Group宣布通过其立陶宛主体Gate Global UAB推出Gate Visa借记卡，真正让用户在现实世界中以更便捷的方式使用他们的加密货币。
+全新Gate Visa借记卡为用户提供了一种将加密货币资产无忧转换成法币的方式，这种方式将帮助他们自由的用于店内和网上购物。依托于此项无缝且安全的新功能和应用，用户可在全球8000多万个接受Visa的商户地点消费他们的加密货币。此外，Gate Card App提供简单易用的功能设置，用户可以轻松安全地实时查看和管理其消费记录。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius仍对其他竞标持开放态度，尽管此前NovaWulf已出价]]></title>
+        <id>https://panewslab.com/zh/articledetails/o1faobgi.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o1faobgi.html"/>
+        <updated>2023-03-09T03:21:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，据路透社报道，Celsius Network的律师Chris Koenig周三在曼哈顿破产法庭的一次听证会上透露，尽管资产管理公司NovaWulf Digital Management已提出要约，该公司仍对更好的报价持开放态度，并且它及其债权人委员会两天前会见了一位潜在买家，以审查替代方案。
+在听证会上，Celsius要求法官Martin Glenn提供更多时间提交围绕NovaWulf交易制定的破产重组计划，该计划将使加密存款不足5,000美元的客户兑现，并将公司剩余资产的所有权移交给拥有较大账户的客户。法官Glenn同意给Celsius额外三周的时间来提交第11章计划。Koenig表示，如果Celsius选择了另一个竞购者，它打算向NovaWulf提供高达2000万美元的合同解除费。Koenig说：“如果有更高的报价，那是因为NovaWulf设定了最低价格。”
+此前3月2日消息，Celsius债权人称与NovaWulf的拟议交易是“最佳”选择。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple (XRP)、Avalanche (AVAX) 持有者跳转到非洲代币 DPAT » The Merkle News]]></title>
         <id>https://0xzx.com/2023030911083250954.html</id>
@@ -56,6 +174,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[数据：Fantom基金会将1000万枚FTM转入币安后，又从币安提出600万枚FTM]]></title>
+        <id>https://panewslab.com/zh/articledetails/3uux1k6u.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3uux1k6u.html"/>
+        <updated>2023-03-09T03:03:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，据推特用户Bit余烬监测，Fantom基金会一个小时前将Fantom链的1000万枚FTM （约合366万美元）转入了币安，然后从币安提出了600万枚以太坊链的FTM （约合220万美元）。
+余烬分析称，如果是把币安当跨链桥使的话，那还有400万枚FTM （约合146美元）在币安里没转出来。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[赵长鹏：币安在 Silvergate 上没有资产损失，资金是安全的]]></title>
         <id>https://www.defidaonews.com/article/6808074</id>
         <link href="https://www.defidaonews.com/article/6808074"/>
@@ -77,6 +206,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[赵长鹏：币安在Silvergate上没有资产损失]]></title>
+        <id>https://panewslab.com/zh/articledetails/2af5jqh3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2af5jqh3.html"/>
+        <updated>2023-03-09T02:55:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，币安创始人赵长鹏发推文称：“看到Silvergate的消息我感到难过，但至少，他们似乎会全额返还所有存款并保护用户。币安在Silvergate上没有资产损失。资金是安全的。”
+此前今日早些时候消息，Silvergate Capital将结束运营并自愿清算银行，包括全额偿还所有存款。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cyber Capital 创始人：Polygon 管理密钥采用 5/8 多重签名，包括其 4 位创始人]]></title>
         <id>https://www.defidaonews.com/article/6808060</id>
         <link href="https://www.defidaonews.com/article/6808060"/>
@@ -84,6 +224,28 @@
         <summary type="html"><![CDATA[DeFi 之道讯，3 月 9 日，Cyber Capital 创始人 Justin Bons 发推称，“我不支持 Matic，中心化风险太大：Polygon 的管理密钥采用 5/8 多重签名保护，但其中包括它的 4 位创始人”。]]></summary>
         <author>
             <name>东寻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF的律师称原定于10月份的审判可能需要推迟]]></title>
+        <id>https://panewslab.com/zh/articledetails/y7hjvhu2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y7hjvhu2.html"/>
+        <updated>2023-03-09T02:49:00.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，据路透社报道，前FTX首席执行官Sam Bankman-Fried（SBF）的律师Christian Everdell周三表示，可能有必要推迟SBF原定于10月2日进行的刑事审判，理由是审查证据和准备辩护可能需要比预期更多的时间。Everdell在信中写道：“虽然我们此时不提出这样的申请，但我们现在想向法院说明这个问题。”
+Everdell在致美国地区法官Lewis Kaplan的一封信中说，曼哈顿的联邦检察官尚未提交从Caroline Ellison和Gary Wang的电子设备中收集到的证据。律师还指出，检察官上个月末增加了新的欺诈和共谋指控，将SBF的罪名增加到12项。
+审判时间表和SBF的保释条件预计将在周五的法庭听证会上进行讨论。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase推出钱包即服务（WaaS），以解决Web3钱包的复杂性]]></title>
+        <id>https://panewslab.com/zh/articledetails/vv5n7qyk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/vv5n7qyk.html"/>
+        <updated>2023-03-09T02:39:26.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，加密交易所Coinbase在博客上宣布，该公司推出钱包即服务（WaaS）以解决Web3钱包的复杂性。WaaS是一组可扩展且安全的钱包基础设施API，使公司能够为其最终用户创建和部署完全可定制的链上钱包。公司可以直接在他们的应用程序中为他们的用户提供钱包，只需输入用户名和密码即可。用户无需管理复杂的密钥，WaaS的安全性由多方计算 (MPC)加密技术提供支持。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +259,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[加密投资机构Parataxis Capital计划以2500万至5000万美元的资本启动一只新基金]]></title>
+        <id>https://panewslab.com/zh/articledetails/l4myvoil.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l4myvoil.html"/>
+        <updated>2023-03-09T02:32:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，据CoinDesk报道，多策略加密投资机构Parataxis Capital首席执行官Edward Chin在接受采访时表示，该机构正在推出一只新基金，初始承诺资本将在2500万美元至5000万美元，并将采用多头/空头相对价值交易策略。新的Parataxis Relative Value Momentum基金（RVM） 将使用机器学习和基于动量的量化信号来产生回报，最初仅面向普通合伙人和一小部分投资者开放。将在不久的将来向更多投资者开放。
+Parataxis Capital去年10月下旬的资产管理规模大约为1.16亿美元，今年目标是将资产规模提升到5亿美元。Edward Chin透露，虽然市场动荡加剧，但旗下收益基金自去年5月成立以来上涨了7%，今年迄今上涨了1%，当前Parataxis的总资产保持在7500万美元左右。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[云基础设施创企Vantage完成2100万美元A轮融资，a16z等参投]]></title>
         <id>https://www.techflowpost.com/express/7034</id>
         <link href="https://www.techflowpost.com/express/7034"/>
@@ -105,6 +278,17 @@
 Vantage联合创始人兼首席执行官Ben Schaechter表示，该公司现在帮助其300多家客户管理每年超过10亿美元的云成本。这些客户包括Square、NASA、BuzzFeed、PBS、Ripple、PlanetScale和Barstool Sports等，目前客户总共将10000多个基础设施帐户连接到Vantage。原文链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido社区新提案提议停止在Polkadot和Kusama上的流动性质押服务]]></title>
+        <id>https://panewslab.com/zh/articledetails/gtftl84j.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gtftl84j.html"/>
+        <updated>2023-03-09T02:22:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月9日消息，Lido Finance社区发起新提案，提议停止在Polkadot和Kusama上的流动性质押服务。Lido合作伙伴MixBytes在提案中表示，自2023年8月1日起，将停止在Polkadot和Kusama流动性质押协议上为Lido开发和提供技术支持，并称“做出这个决定是因为面临多项挑战，包括市场条件、协议增长等”。
+MixBytes建议在3月15日之前停止接受新的DOT和KSM进行流动性质押，并在6月晚些时候自动取消代币质押。MixBytes还表示正在寻求Lido DAO每月提供20000美元的资金，以支持五个月的技术维护工作。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -302,130 +486,12 @@ Anthropic 的新资金将增加从早期投资者筹集的 11 亿美元，包
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[法官已批准 Voyager 在被 FTX 实体起诉后需保留 4.45 亿美元]]></title>
-        <id>https://www.defidaonews.com/article/6808014</id>
-        <link href="https://www.defidaonews.com/article/6808014"/>
-        <updated>2023-03-09T00:53:50.000Z</updated>
-        <summary type="html"><![CDATA[据 The Block 报道，美国联邦法官已批准 Voyager Digital 和 FTX 之间的一项协议，即 FTX 实体起诉 Voyager 要求其偿还贷款后，Voyager 将保留 4.45 亿美元。律师表示根据重组计划，Voyager 客户可能会看到 73% 的资产回收率，但如果 FTX 和 Alameda 索赔成功，这一比例将降至 48%。]]></summary>
-        <author>
-            <name>东寻</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gemini否认“摩根大通正结束与其合作关系”的报道]]></title>
         <id>https://panewslab.com/zh/articledetails/a2s1apu6.html</id>
         <link href="https://panewslab.com/zh/articledetails/a2s1apu6.html"/>
         <updated>2023-03-09T00:45:37.000Z</updated>
         <summary type="html"><![CDATA[PANews 3月9日消息，加密交易所Gemini在推特上澄清了此前CoinDesk的报道，Gemini表示：“尽管有报道与此相反，Gemini与摩根大通的银行关系仍然完好无损。”
 此前今日早些时候消息，CoinDesk报道称摩根大通正结束与Gemini的业务合作关系。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha Sigma和Transform Ventures将为两只新的区块链基金筹集1亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/1u04en93.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1u04en93.html"/>
-        <updated>2023-03-09T00:37:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据路透社报道，Alpha Sigma创始人兼首席执行官Enzo Villani周三表示，总部位于美国的数字资产基金Alpha Sigma Capital和风险投资公司Transform Ventures将为两只专注于区块链和去中心化Web3风险投资的新基金筹集1亿美元。
-由加密投资者Michael Terpin创立的Transform Ventures也将其部分资产与Alpha Sigma的母公司合并，成立了一家名为Alpha Transform Holdings的新控股公司。后者将监管这两只新基金。新的Alpha Liquid数字资产基金于本月初推出，最初由Terpin投资，他对现金、比特币和以太坊进行了265万美元的个人投资，并可选择再投资290万美元。
-Villani表示，第二只基金是一家名为爱琴海基金(Aegean fund)的封闭式风险投资公司，目前仍在建立过程中。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美CFTC主席：以太坊和稳定币是商品不是证券，Gary Gensler涉嫌违法]]></title>
-        <id>https://panewslab.com/zh/articledetails/ec0lsiu9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ec0lsiu9.html"/>
-        <updated>2023-03-09T00:30:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据《财富》Fortune报道，在参议院农业委员会听证会上，美国商品期货交易委员会（CFTC）主席Rostin Behnam表示反对美国证券交易委员会主席Gary Gensler此前称“除比特币外所有加密货币都应归类为证券”，他认为以太坊和稳定币（比如Tether）属于商品，而不是证券。Rostin Behnam还称，Gary Gensler起诉Paxos并称其是一种“未注册证券”这件事或涉嫌违反投资者保护法，他希望与美国证券交易委员会合作以寻求协调机会，但CFTC尚未收到如何区分商品与证券的法律指导。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密挖矿骗局Airbit Club的六名高管已对1亿美元欺诈指控认罪]]></title>
-        <id>https://panewslab.com/zh/articledetails/6ox1i1ts.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6ox1i1ts.html"/>
-        <updated>2023-03-09T00:21:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据CoinDesk报道，加密挖矿骗局Airbit Club的六名高管已承认他们在全球欺诈和洗钱计划中的角色，美国检察官称该计划共骗取了受害者1亿美元。这六名高管都承认了共谋电汇欺诈、共谋洗钱和共谋银行欺诈的指控。虽然还没有人被判刑，但每人都可能面临最高70年的监禁。作为认罪的一部分，他们的不义之财必须被没收，包括美元、比特币和价值总计1亿美元的房产。
-Airbit Club的联合创始人之一Pablo Renato Rodriguez已于周三认罪。帮助Rodriguez和另一位联合创始人Gutemberg Dos Santos洗钱的律师Scott Hughes于3月2日认罪。Dos Santos于2020年11月从巴拿马被引渡到美国后，于2021年10月认罪。三名欺诈发起人Cecilia Millan、Karina Chairez和Jackie Aguilar在今年早些时候认罪。
-根据检察官的说法，受害者的资金被用于让Airbit Club的创始人和发起人发财致富，他们将这些钱花在“汽车、珠宝和豪宅”以及“在更奢侈的博览会上以招募更多受害者”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国法官批准Voyager保留Alameda之前向其索赔的4.45亿美元的贷款]]></title>
-        <id>https://panewslab.com/zh/articledetails/a4v48n1w.html</id>
-        <link href="https://panewslab.com/zh/articledetails/a4v48n1w.html"/>
-        <updated>2023-03-09T00:08:46.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据The Block报道，美国特拉华州破产法院法官John Dorsey批准了Voyager Digital和FTX之间协议，其中包括FTX起诉Voyager要求其偿还贷款后，Voyager将保留4.45亿美元。作为约定的一部分，双方同意参与不具约束力的调解，并为剩余争议的诉讼建立框架。Dorsey还批准了Godfrey & Kahn律师事务所的股东Katherine Stadler担任FTX案件的费用审查员。
-Alameda诉讼可能会对Voyager客户产生重大影响。律师表示，根据重组计划，Voyager客户资金的回收率可能会达到73%，但如果FTX和Alameda索赔成功，这一比例将降至48%。
-此前1月31日消息，Alameda Research提起诉讼寻求从Voyager Digital追回4.46亿美元资金；2月28日消息，Voyager已与Alameda就保留4.45亿美元贷款达成协议。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币矿商Marathon已结束与Silvergate Bank的信贷安排，提前偿还了定期贷款]]></title>
-        <id>https://panewslab.com/zh/articledetails/21p6tbsy.html</id>
-        <link href="https://panewslab.com/zh/articledetails/21p6tbsy.html"/>
-        <updated>2023-03-08T23:53:56.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据The Block报道，比特币矿商Marathon Digital Holdings表示，已偿还了定期贷款，并结束了与Silvergate Bank的信贷安排，将债务减少了5000万美元。Marathon首席财务官Hugh Gallagher周三在一份声明中表示：“我们一直在积极构建一个更稳健的资产负债表。鉴于我们目前的现金状况，我们认为提前偿还定期贷款并取消定期贷款和循环信贷额度设施符合公司的最佳利益”。Gallagher补充说，该公司还“释放”了约7500万美元的比特币。据此前消息，Silvergate Capital Corp.宣布将结束运营并自愿清算Silvergate Bank。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3内容平台Mirror推出NFT订阅铸造“Subscribe to Mint”功能]]></title>
-        <id>https://panewslab.com/zh/articledetails/q1trboi4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/q1trboi4.html"/>
-        <updated>2023-03-08T23:48:09.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据Mirror在社交媒体宣布，该Web3内容平台已推出订阅铸造“Subscribe to Mint”功能，目前已在以太坊、Optimism和Polygon链上部署，旨在支持创作者和藏家之间的互动，新功能将有两个潜在用例：1、创世Drop，Web3项目可以发布内容并与包含项目徽标或符号的收藏NFT配对，然后使用“Subscribe to Mint”通过内容更新和后续NFT投放与项目受众互动。2、推出可收藏NFT系列，持有者可以完成铸造NFT并鼓励新用户注册成为订阅者以参与未来NFT投放。据悉，“Subscribe to Mint”功能对创作者是完全免费的，创作者将获得所售NFT的100%收益。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silvergate Capital将结束运营并自愿清算银行，包括全额偿还所有存款]]></title>
-        <id>https://panewslab.com/zh/articledetails/f5fxnta1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/f5fxnta1.html"/>
-        <updated>2023-03-08T23:44:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据zerohedge报道，Silvergate Bank控股公司Silvergate Capital Corporation宣布将以有序的方式并按照与适用的监管程序结束运营，鉴于最近的行业和监管发展， Silvergate认为有序结束银行业务和自愿清算银行是最好的前进道路，该银行的清盘和清算计划包括全额偿还所有存款，同时还在考虑如何最好地解决索赔并保留其资产的剩余价值，包括其专有技术和税收资产。据悉，Centerview Partners LLC 将担任财务顾问，Cravath, Swaine & Moore LLP担任法律顾问，Strategic Risk Associates提供过渡项目管理协助。根据FDIC网站信息，这是自2020年以来美国第一家银行倒闭。
-相关阅读：市场恐慌又至？仅1000个客户的Silvergate走入加密“死胡同”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mt.Gox最大债权人计划持有获偿付的比特币]]></title>
-        <id>https://panewslab.com/zh/articledetails/30zcfliu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/30zcfliu.html"/>
-        <updated>2023-03-08T23:40:38.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据彭博社报道，据知情人士透露，已破产加密交易所Mt.Gox的最大债权人Mt.Gox投资基金（Mt Gox Investment Fund）计划持有而不是出售将于今年获偿付的比特币。该基金选择在9月获得提前支付，而不是等待所有诉讼得到解决后再获得赔偿。它将以大约70%比特币和30%现金的比例获得Mt.Gox 90%的剩余资产。目前尚不清楚该基金预计收到的比特币数量。据此前消息，Mt.Gox提供的“偿付方案”（Rehabilitation Plan）包括“基础偿付”(Base Repayment) 部分和“比例偿付”(Proportional Repayment) 部分，其中基础偿付部分的金额一致，比例偿付部分为债权人提供2种选择，即“中期还款和终期还款”或“早期一次总付还款”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinflex更名为OPNX，Leslie Lamb将担任CEO]]></title>
-        <id>https://panewslab.com/zh/articledetails/3kuawv14.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3kuawv14.html"/>
-        <updated>2023-03-08T21:54:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据The Block报道，在Coinflex的重组计划获得批准后，该交易所已更名为OPNX。Leslie Lamb将担任新交易所的首席执行官。她在LinkedIn上分享了这一消息。据此前消息，塞舌尔法院本周一批准了Coinflex的重组计划。CoinFLEX最初的重组计划中没有提及OPNX或品牌重塑。OPNX由三箭资本创始人Su Zhu和Kyle Davies创立，是一个加密债权交易市场，旨在交易与破产交易所资金相关的债权和衍生品。用户可以在该市场上交易Celsius、Genesis、BlockFi、Mt. Gox和三箭资本等破产Web3公司的代币化债权。该公司表示，用户可以通过将索赔交易成加密货币或将其用作保证金抵押品，来解锁原本会被困多年的债务索赔额。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知情人士：摩根大通正结束与Gemini的业务合作关系]]></title>
-        <id>https://panewslab.com/zh/articledetails/u9ho5vjj.html</id>
-        <link href="https://panewslab.com/zh/articledetails/u9ho5vjj.html"/>
-        <updated>2023-03-08T21:34:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月9日消息，据CoinDesk报道，据一位知情人士透露，摩根大通正在结束与加密交易所Gemini的业务合作关系。早在2020年初，Gemini和Coinbase就成为了摩根大通的客户。加密行业在去年曾因多次丑闻和崩盘而受到冲击，现在面临着更严格的监管审查，加密公司获得银行服务的难度也变得更大。Gemini随后在推特发文称，与报道内容相反，Gemini与摩根大通的银行合作关系未受到影响。据Gemini网站显示，该公司还与道富银行（State Street）等建立了合作关系。
-更新：Gemini否认“摩根大通正结束与其的合作关系”的报道。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -697,26 +763,6 @@ Bitget的董事总经理Gracy Chen表示：“我们与尤文图斯女子足球
         <link href="https://www.web3sj.com/news/49265/"/>
         <updated>2023-03-08T06:12:13.000Z</updated>
         <summary type="html"><![CDATA[Tareq 非常同意 Forum3 的方法论（从 shop-to-earn 到 participate-to-earn，见下方推文），并做了更高层次的解读：这本质上是从消费者经济到文化经济的变迁（这段话也放在了 SMS 官网）]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SignalPlus:美联储听证会发言特别专题]]></title>
-        <id>https://www.web3sj.com/?p=49247</id>
-        <link href="https://www.web3sj.com/news/49247/"/>
-        <updated>2023-03-08T05:55:47.000Z</updated>
-        <summary type="html"><![CDATA[虽然通胀在近几个月有所缓和，但将通胀率降至 2% 的过程还有很长的路要走，而且可能会很艰难。正如我所提到的，最新的经济数据比预期更强劲，这表示最终的利率水平可能会比之前的预期更高。如果整体数据都表明有必要加快政策紧缩，我们将准备加快加息步伐，恢复价格稳定可能需要我们保持紧缩的货币政策立场一段时间。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么头像NFT可以拿下7成市场？]]></title>
-        <id>https://www.web3sj.com/?p=49237</id>
-        <link href="https://www.web3sj.com/nftnews/49237/"/>
-        <updated>2023-03-08T05:39:05.000Z</updated>
-        <summary type="html"><![CDATA[在以太坊上的各种 NFT 类别中，PFP 占 NFT 总市值的 70%，生成艺术以 13.5% 位居第二，虚拟土地以 8% 位居第三。]]></summary>
         <author>
             <name>Gao</name>
         </author>
