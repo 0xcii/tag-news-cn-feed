@@ -63,6 +63,26 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6808434",
+          "author": "AI之势",
+          "description": "为什么AIGC不会是短期风口？",
+          "link": "https://www.defidaonews.com/article/6808434",
+          "publishedOn": "2023-03-10T08:46:43.000Z",
+          "wordCount": 384,
+          "title": "ChatGPT爆火之后，AIGC往何处去？",
+          "imageUrl": "https://appserversrc.8btc.cn/FlEIAFT6jX-lPjypI_pXHIaleKcl.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6808432",
+          "author": "东寻",
+          "description": "DeFi 之道讯，以太坊 Kaustinen 测试网现已再次上线，这是 PoS verkle 测试网，取代 Condrieu 测试网，这次使用符合新共识规范的区块证明。\n以太坊基金会 Go-ethereum 核心开发者 Guillaume Ballet 于 1 月 27 日表示，新的 PoS verkle 测试网包括区块证明，Kaustinen 是芬兰的一个城市，其邮政编码与 Condrieu 相同，取代了 Condrieu 测试网。",
+          "link": "https://www.defidaonews.com/article/6808432",
+          "publishedOn": "2023-03-10T08:43:21.000Z",
+          "wordCount": 181,
+          "title": "以太坊 Kaustinen 测试网现已再次上线",
+          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6808424",
           "author": "东寻",
           "description": "据新浪 VR 消息，近日，AI 技术公司 Humane 宣布已完成 1 亿美元 C 轮融资。本轮融资由 Kindred Ventures 领投，SK Networks、微软、LG Technology Ventures、沃尔沃汽车科技基金、Top Tier Capital、Qualcomm Ventures、Open AI 创始人 Sam Altman 等参投。\n据悉，Humane 由前苹果团队 Imran Chaudhri 和 Bethany Bongiorno 于 2018 年创立，正在创建...",
@@ -78,7 +98,7 @@
           "description": "微软即将发布 GPT-4 即将发布，预定下一个 AI 大热门？",
           "link": "https://www.defidaonews.com/article/6808422",
           "publishedOn": "2023-03-10T07:59:29.000Z",
-          "wordCount": 405,
+          "wordCount": 411,
           "title": "外媒：微软将于下周发布大语言模型 GPT-4，多模态成为最大亮点",
           "imageUrl": "https://appserversrc.8btc.cn/Fl4mPnFH-tuWz9_7EsdvU-uOD8p0.png?imageView2/1/w/500/h/300"
         },
@@ -98,7 +118,7 @@
           "description": "Uniswap AMM 机制与传统金融做市商动态对冲策略之间的相似性。",
           "link": "https://www.defidaonews.com/article/6808414",
           "publishedOn": "2023-03-10T07:12:39.000Z",
-          "wordCount": 312,
+          "wordCount": 304,
           "title": "观点：DeFi 的特洛伊木马，Uniswap 是一个期权市场？",
           "imageUrl": "https://appserversrc.8btc.cn/FuXvrsTSAiZ9hkuBN5rifE3IIIQF.png?imageView2/1/w/500/h/300"
         },
@@ -108,7 +128,7 @@
           "description": "「内忧外患」之下，Crypto 或迎来至暗时刻。",
           "link": "https://www.defidaonews.com/article/6808404",
           "publishedOn": "2023-03-10T06:52:01.000Z",
-          "wordCount": 529,
+          "wordCount": 534,
           "title": "比特币两万关口失守，加密市场或迎「有生以来」最严峻挑战",
           "imageUrl": "https://appserversrc.8btc.cn/Fh79I0b45W5LzRhgILnHzzz_AG35.png?imageView2/1/w/500/h/300"
         },
@@ -128,7 +148,7 @@
           "description": "究竟发生了什么？",
           "link": "https://www.defidaonews.com/article/6808398",
           "publishedOn": "2023-03-10T06:40:00.000Z",
-          "wordCount": 679,
+          "wordCount": 668,
           "title": "解密 Silvergate 与硅谷银行危机：一场美元加息周期下的豪赌",
           "imageUrl": "https://appserversrc.8btc.cn/Fj5JSTO-Fr3iuqbF7ePFm0D6lNbu.png?imageView2/1/w/500/h/300"
         },
@@ -138,29 +158,9 @@
           "description": "一个太过谨慎的巨头，是怎样被锐意进取、打法创新的对手击败的？",
           "link": "https://www.defidaonews.com/article/6808392",
           "publishedOn": "2023-03-10T05:50:05.000Z",
-          "wordCount": 334,
+          "wordCount": 338,
           "title": "GPT-4将在下周发布，必应日活破亿，谷歌还有招架之力吗？",
           "imageUrl": "https://appserversrc.8btc.cn/FuX6EEDDfSckJ8Vs5xQ8_Jli0SNt.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6808384",
-          "author": "东寻",
-          "description": "DeFi 之道讯，3 月 10 日，Hedera 披露攻击细节，攻击者对 Hedera 主网的智能合约服务代码进行攻击，将部分用户账户持有的 Hedera Token Service 代币转移到自己的账户中。攻击者的目标是在多个 DEX 上用作流动性池的账户，这些 DEX 使用 Uniswap V2 派生的合约代迁移过来使用 Hedera Token Service，包括 Pangolin Hedera、SaucerSwap 和 HeliSwap。\n当攻击者将通过攻击获得的代币移动到 Hashp...",
-          "link": "https://www.defidaonews.com/article/6808384",
-          "publishedOn": "2023-03-10T05:28:53.000Z",
-          "wordCount": 186,
-          "title": "Hedera：攻击者对主网智能合约服务代码攻击，将用户代币转至自己账户中",
-          "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6808380",
-          "author": "Kyle",
-          "description": "SEC 主席：加密货币公司应该在法律范围内开展工作，否则根本不应该从事这些工作。",
-          "link": "https://www.defidaonews.com/article/6808380",
-          "publishedOn": "2023-03-10T05:14:25.000Z",
-          "wordCount": 234,
-          "title": "美国 SEC 主席公开撰文：为什么 SEC 如此对待加密行业",
-          "imageUrl": "https://appserversrc.8btc.cn/FtBw-huzpF8zYMf_evlKBucn9Xn9.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "description": "我将介绍作为跟踪流动性池表现指标的隐含波动率（implied volatility），这与个人投资者在决定提供流动性时参考的典型 APY 指标相对应。简单起见，我将专注于恒定函数做市商（CFMM），如 Uniswap V2。大多数个人投资者通过 APY 来衡量流动性池的表现。",
           "link": "https://www.web3sj.com/definews/49903/",
           "publishedOn": "2023-03-10T07:47:09.000Z",
-          "wordCount": 614,
+          "wordCount": 693,
           "title": "观点：DeFi的特洛伊木马，Uniswap是一个期权市场？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1678434213023.png"
         },
@@ -277,13 +277,103 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/ih2abs2h.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，据推特用户Bit余烬监测，2小时前，一个在两年前（21/3/15）获得1604万RNDR初始分配的地址，将100万RNDR（约合100万美元）转入币安。\n该地址在2021年3月15日至2022年5月31日期间一共向币安等交易平台转入了1102万枚RNDR，按转入交易所时价格计算其RNDR平均出售价格为1.13美元。",
+          "link": "https://panewslab.com/zh/articledetails/ih2abs2h.html",
+          "publishedOn": "2023-03-10T08:41:28.000Z",
+          "wordCount": 1129,
+          "title": "数据：某RNDR初始分配地址今日将100万枚RNDR转入币安",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/m08le2m3.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，币安在推特上表示：“今天晚些时候，币安将在BNB Chain上销毁大量与币安挂钩的闲置代币。然后将释放其本地网络上用作抵押品的等量代币。”",
+          "link": "https://panewslab.com/zh/articledetails/m08le2m3.html",
+          "publishedOn": "2023-03-10T08:22:56.000Z",
+          "wordCount": 1134,
+          "title": "币安：将在BNB Chain上销毁大量与币安挂钩的闲置代币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vb3tgfem.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，据Cointelegraph报道，一家由美国说唱歌手Jayceon Terrell Taylor（艺名为The Game）支持的加密初创公司ParagonCoin因未能提交定期报告而违反证券法，被美国证券交易委员会(SEC)撤销注册。\n根据美国证券交易委员会的说法，这家加密公司忽视了美国证券交易委员会一个部门发出的关于定期报告的拖欠信。此外，美国证券交易委员会还指出，这家加密初创公司没有回应其在2022年2月提起诉讼的命令，并且在五个月后也没有回答说明为何应认定其违约的原因。\n据悉，ParagonCoin Limited是一家专注于大麻行业的加密公司，SEC于2022年2月开始对该公司提起诉讼，并指出该公司的最后一份文件是在2019年3月提交的，其中称其在2018年亏损超过1000万美元。",
+          "link": "https://panewslab.com/zh/articledetails/vb3tgfem.html",
+          "publishedOn": "2023-03-10T08:18:10.000Z",
+          "wordCount": 1134,
+          "title": "美国说唱歌手The Game支持的加密公司ParagonCoin被SEC撤销注册",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/pvz83mxk.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，Celsius官方无担保债权人委员会 (UCC) 发推文称：“美国联邦法官Martin Glenn不同意UCC和Celsius的观点，他同意优先股持有人的观点，认为客户并不对每个债务人实体都有索赔权。UCC不同意这一判决，并对判决结果感到失望。UCC正在考虑其选择，以确保客户从Celsius中获得最大的价值。”",
+          "link": "https://panewslab.com/zh/articledetails/pvz83mxk.html",
+          "publishedOn": "2023-03-10T08:05:15.000Z",
+          "wordCount": 1136,
+          "title": "Celsius债权人：法院判决客户并不对每个债务人实体都有索赔权",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xrka67vo.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，据Dune Analytics数据显示，比特币NFT协议Ordinals昨日单日铭文铸造量超3万枚，创历史新高。其中“文本”类型的铭文数量接近2.7万枚，占比达85%。基于比特币NFT协议Ordinals铸造的铭文总量已接近40万枚，迄今产生的总费用超75枚BTC。\n据悉，昨日推特用户@domodata启动了一场基于Ordinals协议的创新实验“BRC-20”，旨在通过Ordinals协议在比特币网络上实现像在以太坊网络上发行ERC-20代币的效果。",
+          "link": "https://panewslab.com/zh/articledetails/xrka67vo.html",
+          "publishedOn": "2023-03-10T07:52:32.000Z",
+          "wordCount": 1131,
+          "title": "数据：Ordinals协议昨日单日铭文铸造量超3万枚，创历史新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5sddfiw1.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，Defillama数据显示，Blur竞标池锁仓量自3月2月触及1.4718亿美元高点后，过去一周不断下降，截至目前已缩水至1.1549亿美元，跌幅达到21.5%。",
+          "link": "https://panewslab.com/zh/articledetails/5sddfiw1.html",
+          "publishedOn": "2023-03-10T07:40:31.000Z",
+          "wordCount": 1133,
+          "title": "数据：过去一周Blur竞标池锁仓量缩水超1/5",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6nx3nsd2.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，流动性质押协议Lido宣布已在Polygon上部署wstETH。这是“Lido on L2”扩展计划的第三步，Polygon成为继Arbitrum和Optimism后，第三个支持Lido以太坊流动性质押衍生品的Layer2网络。\n用户现在可以使用Polygon的官方跨链桥将wstETH桥接至Polygon。此外，wstETH已与多个Polygon生态DEX集成，包括Balancer、Kyber Network 和 Beefy。Lido、Polygon和Kyber Network还将提供流动性激励，以促进wstETH在Polygon上的使用。",
+          "link": "https://panewslab.com/zh/articledetails/6nx3nsd2.html",
+          "publishedOn": "2023-03-10T07:38:06.000Z",
+          "wordCount": 1152,
+          "title": "Lido已在Polygon上部署wstETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/4t0fcy3j.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，据金十报道，韩国金融服务委员会表示，Coinbase未获授权就接受虚拟资产交易。",
+          "link": "https://panewslab.com/zh/articledetails/4t0fcy3j.html",
+          "publishedOn": "2023-03-10T07:31:44.000Z",
+          "wordCount": 1121,
+          "title": "韩国金融服务委员会：Coinbase未获授权就接受虚拟资产交易",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1ar0ukfm.html",
+          "author": "PA一线",
+          "description": "PANews 3月10日消息，治理页面显示，关于以太坊二层解决方案Optimism主网Bedrock升级提案的新版本（即V2版本）已发布，该版本制定了一套严格的升级上线标准，而不是在提案本身中指定确切的日期。\n该标准流程为：1.先在Optimism Goerli上进行Regolith硬分叉（预计北京时间3月18日03:00激活），其中包含Sherlock最近发现的改进；2.后续审计，以测试上次审计后所做的修复；3.进行从无效输出root迁移和恢复的内部升级演练，在共识和功能冻结的版本上进行2周的测试网稳定性，然后发布公告并提前3周通知社区Bedrock升级时间。只有在达到测试网稳定性的标准后，Optimism基金会才会宣布升级日期，至少在发布日期后3周。升级将在特定时间触发，而不是区块高度。\n新版本与初始版本不同的地方在于，新版本包括：1.在审计竞赛Sherlock中发现的改进（包括3个高位漏洞和11个中等危险漏洞），2.明确指出停机时间即在升级期间交易将暂停（该版本的提案没有预先承诺一个日期，而是包含了严格指定的升级启动标准，其中包括即使在投票结束后也会阻止或延迟升级的情况）。3.这个标准的简易概况是:对一个特性和共识冻结的Goerli进行2周的测试网稳定性，然后至少向社区发出3周的通知。",
+          "link": "https://panewslab.com/zh/articledetails/1ar0ukfm.html",
+          "publishedOn": "2023-03-10T07:11:28.000Z",
+          "wordCount": 1129,
+          "title": "Optimism主网Bedrock升级提案V2版本已发布，涵盖严格的升级标准流程",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/h8omx6fc.html",
           "author": "PA一线",
-          "description": "PANews 3月10日消息，据区块链安全审计公司Beosin旗下Beosin EagleEye安全风险监控、 预警与阻断平台监测显示，Aptos链上的SUCKR项目疑似rug pull，账户地址0x7600ee2b357ff993bd00a303a00f57a4c3db44263a1e8be7862ef1266bcecff3调用mint_SUCKR(admin特权函数)函数铸造大量SUCKR代币兑换为USDT，导致SUCKR代币24h价格暴跌99.99%。",
+          "description": "PANews 3月10日消息，据区块链安全审计公司Beosin旗下Beosin EagleEye安全风险监控、 预警与阻断平台监测显示，Aptos链上的去中心化交易所Mosquitos Finance疑似rug pull，账户地址0x7600ee2b357ff993bd00a303a00f57a4c3db44263a1e8be7862ef1266bcecff3调用mint_SUCKR(admin特权函数)函数铸造大量SUCKR代币兑换为USDT，导致SUCKR代币24h价格暴跌99.99%。",
           "link": "https://panewslab.com/zh/articledetails/h8omx6fc.html",
           "publishedOn": "2023-03-10T06:44:13.000Z",
           "wordCount": 1158,
-          "title": "安全公司：Aptos链上SUCKR项目疑似rug pull，相关代币暴跌99.99%",
+          "title": "安全公司：Aptos链上DEX Mosquitos Finance疑似rug pull，SUCKR代币暴跌99.99%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
@@ -332,7 +422,7 @@
           "description": "PANews 3月10日消息，据FOX Business报道，专注于投资欺诈案的知名证券律师Tom Grady正在准备对美国加密交易所Coinbase、Robinhood、Kraken和其他公司提起集体诉讼。Grady在新闻稿中表示，他对交易所的运营及其交易数字货币可能违反州和联邦证券法的行为展开了调查，其中绝大多数数字货币被SEC视为未注册证券，因此违反了联邦法律。\nGrady表示，交易所可能误导了投资者，没有向他们提供有关交易和拥有未注册加密货币的风险的不当披露。Grady称：“我们认为Coinbase、Robinhood和其他交易所违反了法律，在其平台上购买加密货币的投资者可能有权追回这些损失。”\n新闻稿称，Grady通过他位于佛罗里达州坦帕的律师事务所，也在寻找Coinbase、Robinhood 和其他在其平台上购买加密货币时遭受损失的交易所的客户，以收集他们的投资信息。",
           "link": "https://panewslab.com/zh/articledetails/99zvbc4h.html",
           "publishedOn": "2023-03-10T05:47:35.000Z",
-          "wordCount": 1133,
+          "wordCount": 1131,
           "title": "律师Tom Grady准备对Coinbase等多个美国加密交易所提起集体诉讼",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -384,96 +474,6 @@
           "publishedOn": "2023-03-10T05:17:21.000Z",
           "wordCount": 1117,
           "title": "日本将修法禁止在元宇宙销售仿冒品",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/jjkr892e.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，NFT二层扩展解决方案Immutable X联合创始人联合创始人Robbie Ferguson发推称，“Immutable X对Silvergate和硅谷银行（SVB）没有敞口，我们在银行持有2.8亿澳元现金（约合1.84亿美元），从不使用金融杠杆。”\n此前今日早些时候消息，硅谷银行母公司SVB Financial Group股价周四暴跌逾60%，盘后进一步下跌近20%。硅谷风投教父Peter Thiel等数十家风投建议从其撤出资产。",
-          "link": "https://panewslab.com/zh/articledetails/jjkr892e.html",
-          "publishedOn": "2023-03-10T05:01:55.000Z",
-          "wordCount": 1155,
-          "title": "Immutable X联创：公司对Silvergate和硅谷银行没有风险敞口",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/z9e61jig.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，Bitget与数据服务商AICoin达成深度合作，用户可通过AICoin授权下单功能连接Bitget账户，在 AICoin 电脑客户端进行交易 Bitget 相关功能。\nAICoin 服务全球用户累计过千万，是数字资产行情数据应用领跑者，拥有专业K线、K线复盘、资产统计、智能拆单和自动套利等特色功能。\nBitget成立于2018年，是全球领先的加密资产交易平台。Bitget 为全球100多个国家和地区的800多万用户提供专业服务。",
-          "link": "https://panewslab.com/zh/articledetails/z9e61jig.html",
-          "publishedOn": "2023-03-10T04:32:40.000Z",
-          "wordCount": 1138,
-          "title": "Bitget与数据服务商AICoin达成深度合作，为全球用户提供更高效便捷的交易体验",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zwd2j3k2.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，经PANews向火必核实，“Poloniex多部门将并入火必”的消息不属实，其PR相关负责人对此做出了回应。\n此前今日早些时候消息，Chaincatcher报道称，知情人士披露的火必全员信显示，加密货币交易平台Poloniex多部门将并入火必。",
-          "link": "https://panewslab.com/zh/articledetails/zwd2j3k2.html",
-          "publishedOn": "2023-03-10T04:12:56.000Z",
-          "wordCount": 1120,
-          "title": "火必回应：“Poloniex多部门将并入火必”的消息不属实",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cwc688wk.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，派盾监测数据显示，Justin Sun（孙宇晨）相关地址过去48小时内在BNB Chain上将约1400万枚TRX转移至币安。\n此外，孙宇晨相关地址还赎回了8.28亿枚BTT，然后从Uniswap V2中移除100.7枚ETH和约1.3亿枚BTT的流动性。该地址还从Uniswap V2中移除约176枚ETH和400万枚TRX的流动性，并在过去9小时内赎回约9000万枚TRX。\n此前今日早些时候消息，孙宇晨过去24小时内从火必撤回约6000万美元的以太坊链上稳定币，随后孙宇晨将这些稳定币转移到Aave。",
-          "link": "https://panewslab.com/zh/articledetails/cwc688wk.html",
-          "publishedOn": "2023-03-10T04:08:06.000Z",
-          "wordCount": 1134,
-          "title": "派盾：孙宇晨多个链上地址出现大额异动",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/g2t1lfos.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，去中心化生态系统Genesis Shards旗下平台Genpad将上线RPG链游OpiPets的NFT首发 ，并开放白名单申请活动。据了解，该活动将面向Access Club 会员和开放社区，其中Access Club的白名单申请将于北京时间3月10日晚9点截止。",
-          "link": "https://panewslab.com/zh/articledetails/g2t1lfos.html",
-          "publishedOn": "2023-03-10T04:06:50.000Z",
-          "wordCount": 1137,
-          "title": "Genesis Shards将上线RPG链游OpiPets的NFT首发，并开放白名单申请",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/sajlsjv4.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，Voyager无担保债权人官方委员会在社交媒体发文称，美国法院已确认批准Binance.US收购Voyager，还允许债务人可以在出售未完成或债务人与无担保债权人官方委员会协商后决定不继续出售的情况下切换到自我清算。Voyager无担保债权人官方委员会表示，法院为Voyager客户提供了最佳途径，但未来可能会有一些反对者提出上诉，可能会大大延迟债权人的追偿，Voyager无担保债权人官方委员会将与债务人合作反对任何上诉。",
-          "link": "https://panewslab.com/zh/articledetails/sajlsjv4.html",
-          "publishedOn": "2023-03-10T03:54:54.000Z",
-          "wordCount": 1118,
-          "title": "Voyager债权人：反对任何针对法院批准Binance.US收购的上诉",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/x4mmzvle.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，Whale Alert数据显示，100,000,000枚USDC从孙宇晨钱包地址转移到火必。孙宇晨也发推证实此事。\n此前今日早些时候消息，孙宇晨表示，火必将全额承担HT市场波动所导致杠杆穿仓损失，并将出资1亿美元成立流动性基金。",
-          "link": "https://panewslab.com/zh/articledetails/x4mmzvle.html",
-          "publishedOn": "2023-03-10T03:51:39.000Z",
-          "wordCount": 1131,
-          "title": "孙宇晨已将1亿枚USDC作为流动性基金转移至火必",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2o5gh56l.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，有用户向PANews反应，SushiSwap旗下借贷产品Kashi内的用户资金无法提取，且有用户在1月初在Sushi治理论坛上发布提案，称有人利用预言机不更新价格，导致抵押品价值降低。该用户提议用金库补偿损失，并预计此次预言机利用事件总损失可能在2万到3万美元之间，他认为考虑到Sushi获得了Kashi部分利润，并且故意将被黑的Kashi池在线保留了几个月，因此Sushi负有一些责任。不过该提案直至现在仍被搁置。\n此外，派盾今日在推特上披露了一笔Kashi于7个多小时前旧预言机被利用的交易，并提醒SushiSwap，但如今日早些时候消息所述，SushiSwap表示，Kashi去年12月已被弃用，请用户尽快取款，以作为对此次事件的回应。",
-          "link": "https://panewslab.com/zh/articledetails/2o5gh56l.html",
-          "publishedOn": "2023-03-10T03:45:05.000Z",
-          "wordCount": 1123,
-          "title": "用户反应无法从Kashi中提款，且旧预言机被利用导致用户资金受损",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/g36ult9a.html",
-          "author": "PA一线",
-          "description": "PANews 3月10日消息，火必在火必NFT清退通知中表示，由于云钱包战略规划及产品调整，火必NFT市场将于2023年5月13日正式下线，因此用户需自行将在火必NFT内的NFT资产转回自己的链上钱包内。转移截止时间为2023年5月13日，截止时间前所有功能正常使用。截止时间后，火必NFT市场将下架，不再提供相关服务。",
-          "link": "https://panewslab.com/zh/articledetails/g36ult9a.html",
-          "publishedOn": "2023-03-10T03:15:53.000Z",
-          "wordCount": 1124,
-          "title": "火必NFT市场将于5月13日下线，此前用户需自行提取该平台内的NFT",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -591,9 +591,29 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/35453",
+          "author": null,
+          "description": "原文标题：《\n\n如何通过工具来追踪加密 VC 的市场动向？\n\n》\n原文作者：Rekt Fencer\n原文编译：深潮 TechFlow\n\n\n在不断发展的加密货币投资世界中，您是否经常感到落后？您是否发现难以跟上市场上风险投资 (VC) 的最新动向？\n\n\n好吧，不要害怕，因为有各种工具和资源可以帮助您随时了解情况并保持领先地位。在此主题中，我们将探索一些最佳工具，以密切关注 VC 在加密货币市场上的所作所为。\n\n\n\n\n\n基金公司总是领先于散户投资者：\n\n\n• 他们定义趋势和叙事结构。\n\n\n• 选择最有前途的项目。\n\n\n• 监测市场的当前状态。\n\n\n• 拥有很多内部信息。\n\n\n这就是为什么您总是比他们更晚了解信息。\n\n\n\n\n\n因此，知晓最成功的基金以及他们目前正在做什么是值得的。\n\n\n目前，一流的加密货币 VC 包括 Paradigm、a16z、Sequoia 和 Binance Labs。下面，您可以找到一个包含所有 VC 排名的表格：\n\n\n\n\n\n当然，为了最有效、最快速地追踪加密货币基金，您需要使用不同的工具，例如：\n\n\n• CryptoRank；\n\n\n• Crunchbase；\n\n\n• Chain Broker；\n\n\n让我们逐一了解它们。\n\n\nCryptoRank\n\n\nCryptoRank 是一个市场洞察和分析平台，他们最近添加了一个专门用于加密货币基金的选项。在这里，您可以找到关于不同基金的大量信息：\n\n\n• 投资总数；\n\n\n• 市场占有率；\n\n\n• 主要投资类别；\n\n\n• 他们的投资组合；\n\n\n\n\n\n这个平台还提供了最新的资金融资轮次追踪工具，你可以在上面找到：\n\n\n• 项目获得的资金数额；\n\n\n• 投资阶段；\n\n\n• 哪些风投参与了项目投资；\n\n\n• 项目所属的类别；\n\n\n\n\n\n他们还制作了一个非常方便的面板来分析基金投资：\n\n\n• 加密货币募资趋势；\n\n\n• 最活跃的基金；\n\n\n• VC 最喜欢哪些类型的项目；\n\n\n\n\n\n\n\n\nCrunchbase\n\n\n在 Crunchbase 上，你可以使用多个功能来分析一个项目、一个基金，甚至是一个员工。通过进入项目页面，你可以找到：\n\n\n• 累计融资金额；\n\n\n• 所有融资轮次的信息；\n\n\n• 最活跃的投资者；\n\n\n• 员工档案；\n\n\n\n\n\nChain Broker\n\n\nChain Broker 允许您跟踪基金的投资回报率。在这里，您可以找到：\n\n\n• 最赚钱的基金；\n\n\n• 目前投资的投资回报率；\n\n\n• 最近的投资；\n\n\n\n\n\n除此之外，如果你想简单一点，你可以关注 Telegram 上专门跟踪 VC 消息的 BOT 频道，他们会发布所有最近的 VC 投资，所以你不会错过任何一个。\n\n\n\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/35453",
+          "publishedOn": "2023-03-10T08:00:02.000Z",
+          "wordCount": null,
+          "title": "如何通过工具来追踪加密VC的市场动向？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/35451",
+          "author": null,
+          "description": "撰文：Cookie，律动 BlockBeats\n\n\n\n\n昨日，@domodata 启动了一场基于 Ordinals 协议的创新实验「BRC-20」。该实验旨在测试 Ordinals 协议是否能够促进比特币的「可替代性」，即通过 Ordinals 协议在比特币网络上实现像在以太坊网络上发行 ERC-20 Token 的效果。\n\n\nBRC-20 让比特币网络再一次疯狂。3月9日一天有超过30000个\n\n「铭文」被铸造，其中文本类型\n\n「铭文」数量接近27000个。\n\n\n    \n让我们一起看看 BRC-20 Token 的玩法。\n\n\n\n\nDeploy 部署\n\n\n\n\n使用 Ordinals 协议刻录下图所示文本来部署 BRC-20 Token：\n\n\n\n\n\n\n\n\n\n各关键词的含义如下：\n\n\n\n\n\n\n\n\n\n「p」：协议类型。必须包含的关键词，该关键词定义操作基于 BRC-20 协议进行，帮助其它系统识别与处理 BRC-20 事件。\n\n\n「op」：事件类型。必须包含的关键词，该关键词定义事件类型，是 Deploy 部署、Mint 铸造还是 Transfer 转账。\n\n\n「tick」：BRC-20 Token 标识。必须包含的关键词，该关键词定义 BRC-20 Token 名称，由 4 个字母组成。\n\n\n「max」：最大供应量。必须包含的关键词，该关键词定义 BRC-20 Token 的最大供应量。\n\n\n「lim」：单个铭文可容纳的最大 BRC-20 Token 数量。非必须包含的关键词，该关键词定义用户铸造一个铭文最多可以获取多少 BRC-20 Token。若此项设置为 1000，则铸造单个铭文最多可获取 1000 个 BRC-20 Token。\n\n\n「dec」：十进制精度。非必须包含的关键词，该关键词定义 BRC-20 Token 的十进制精度，默认设置为 18。\n\n\n\n\nDune上…",
+          "link": "https://www.theblockbeats.info/news/35451",
+          "publishedOn": "2023-03-10T07:00:01.000Z",
+          "wordCount": null,
+          "title": "在比特币网络上发Token？一文了解如何铸造BRC-20",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/35452",
           "author": null,
-          "description": "梭哈债券一时爽，美元加息难收场。",
+          "description": "原文标题：《\n\n解密 Silvergate 与硅谷银行危机：一场美元加息周期下的豪赌\n\n》\n原文作者：0xmin，深潮 TechFlow\n\n\n\n美国中小银行接连暴雷！\n\n\n3 月 8 日，以加密货币友好著名的银行 Silvergate Bank 宣布清盘，将所有存款退还客户。\n\n\n3 月 10 日，专门为硅谷科技公司提供金融服务的硅谷银行 (Silicon Valley Bank) 出售 210 亿美元的可销售证券，遭受了 18 亿美元的亏损，疑似存在流动性问题，周四股价暴跌超过 60%，市值一日蒸发 94 亿美元。\n\n\n这也吓坏了一众硅谷大佬。\n\n\n「硅谷教父」彼得蒂尔的风投基金 Founders Fund 直接建议投资的公司从硅谷银行撤资，Y Combinator CEO Garry Tan 也发出警告，建议被投企业考虑限制对贷方的敞口，最好不要超过 25 万美元……\n\n\n更可怕的是，硅谷银行或是酿成危机的第一块多米诺骨牌，不仅影响其他美国银行，更可能对硅谷的科技初创公司带来打击。\n\n\n究竟发生了什么？\n\n\n今天，我们将讲述一个关于银行如何破产的故事。\n\n\n解读银行商业模式\n\n\n首先，我们需要了解银行业的商业模式。\n\n\n简单来说，商业银行就是一家经营货币的公司，银行的商业模式，和其他生意在本质上没有区别——低买高卖，只是这个商品变成了金钱。\n\n\n银行从存款人或者说资本市场那里拿到钱，然后把它贷给借款人，从利息差里面获利。\n\n\n比如：一家银行以年利率 2% 从存款那里借到钱，然后把它以年利率 6% 贷给借款人，银行就赚了 4% 的息差，这就是净利息收入。此外，银行还可以从基本的收费业务和其他服务中赚取利润，这就是非利息收入。净利息收入和非利息收入加在一起，构成了银行的净收入。\n\n\n因此，银行想要获得更多利润的话，和销售商品一样，最好的状态是无库存，也就是把低成本吸收进来的…",
           "link": "https://www.theblockbeats.info/news/35452",
           "publishedOn": "2023-03-10T05:18:20.000Z",
           "wordCount": null,
@@ -603,7 +623,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35445",
           "author": null,
-          "description": "这场事件的进展取决于很多因素，比如SVB是否会遭遇更加严重的挤兑，甚至是否会破产",
+          "description": "原文作者：@Degg_GlobalMacroFin\n\n\n1、史无前例的科技牛\n\n\n\n2020 年下半年疫情担忧褪去后而美联储仍在承诺维持 0 利率很长时间，量化宽松持续进行，通胀也见不到影子，全球迎来了科技企业的融资热潮期，startups 贷款和风投额度的快速增长使科技初创企业手里积累的大量的现金和存款，而这些存款很大程度流入了 Silicon Valley Bank（下简称 SVB）这一硅谷最重要的、也是全美前 20 大的银行。2020 年 6 月至 2021 年 12 月的一年半期间，SVB 的存款由 760 亿美元上升到超过 1900 亿美元，增幅接近 2 倍（图 1）。\n\n\n\n图1\n\n\n\n2、「闭着眼睛买」\n\n\n\n面对负债端资金的大量流入，SVB 资产端可投资资金也快速上升。2020-2021 年美联储还没有开始加息，如果把钱趴在美联储的准备金账户上，年化只有低的可怜的 0.1% 的利息。SVB 的选择是，买大量的美债和 MBS。从它的 10-Q 来看，2020 年年中到 2021 年末，SVB 增持了 120 亿的美债，持有量从 40 亿增长到了 160 亿（图 2）。更重要的是，SVB 增持了大约 800 亿美元的 MBS，持有量从 200 多亿增长到了 1000 亿（图 3）。这是什么概念呢？SVB 总资产规模大约 2000 亿美元，相当于它将一半的资产配置在了 MBS 上，或者认为它将 2020-2021 年新增流入的超过 1100 亿存款中的 70% 配置在了 MBS 上。这对于一家以贷款为主营业务的商业银行而言几乎是难以置信的，甚至是荒唐的。\n\n\n\n图2\n\n图3\n\n\n\n3、「现金是垃圾」\n\n\n\n与疯狂增持的 MBS 相比，SVB 手头的现金和现金等价物（包括准备金，回购，短债）的增长并不明显，2020 年中至 2021 年中只由 140 亿增长到了 2…",
           "link": "https://www.theblockbeats.info/news/35445",
           "publishedOn": "2023-03-10T03:30:42.000Z",
           "wordCount": null,
@@ -613,7 +633,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35444",
           "author": null,
-          "description": "多方利空消息影响下，空头主导加密市场。",
+          "description": "原文标题：《\n\n清算、监管等多方利空打压，比特币强撑 2 万美元压力位\n\n》\n原文作者：\n\nMary Liu，比推 BitpushNews\n\n\n在加密银行 Silvergate Bank清算、美国监管机构起诉 KuCoin 等多方利空消息影响下，加密市场情绪恶化。\n\n\n比推终端数据显示，截至撰写本文时，比特币 (BTC) 24 小时跌幅超过 8%，七周来首次跌破 21,000 美元，盘中一度跌至 20,050 美元的局部低点，为 1 月 14 日以来的最低水平，随后小幅反弹至 20,250 美元上方。以太坊和山寨币市场也被带崩，以太坊下跌 8% 至 1,437 美元，Binance 的 BNB 跌幅 6%，Ripple 的 XRP Token下跌 7.54%，Polygon 的 MATIC 下跌 8.17%。\n\n\nCoinglass 数据显示，在过去 24 小时内，比特币清算金额超过 9000 万美元，其中超过 95% 为多头头寸。\n\n\n\n\n\n比推此前报道，Silvergate Capital (SI) 周三宣布打算结束业务并自愿清算 Silvergate Bank，加密领域最著名的银行之一彻底土崩瓦解。该银行期望全额偿还所有存款，KBW 分析师昨晚在一份报告中表示，截至 12 月 31 日，相对于加密货币存款（38 亿美元），Silvergate Bank 拥有多余的现金（46 亿美元）。\n\n\n监管镇压\n\n\n加密市场下跌也恰逢周四下午纽约总检察长 Letitia James 起诉 KuCoin 的消息，指控该加密交易平台提供未注册的证券和商品。该诉讼还称，以太坊、Luna 和 TerraUSD 都是证券。\n\n\n值得注意的是，美国联邦层面对以太坊是证券还是商品存在分歧，美国证券交易委员会（SEC）主席 Gary Gensler 暗示他认为它是一种未注册的证券，而商品期货交易…",
           "link": "https://www.theblockbeats.info/news/35444",
           "publishedOn": "2023-03-10T03:04:01.000Z",
           "wordCount": null,
@@ -623,7 +643,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35384",
           "author": null,
-          "description": "本文分享了忠诚度(Loyalty)3.0理论以及品牌如何通过web3构建新增长飞轮。",
+          "description": "原文标题：《\n\nAdidas 前 Web3 负责人: 用 Web3 构建品牌的新增长飞轮\n\n》\n原文作者：starzq.eth，SevenUp DAO\n\n\n\n\nTL;DR\n\n\nAdidas 前 Web3 负责人 Tareq 今年自立门户成立 web3 品牌咨询机构 SMS, 在接受 NFT 头部播客 Overpriced JPEGs 采访时，分享了忠诚度 (Loyalty)3.0 理论以及品牌如何通过 web3 构建新增长飞轮\n\n\n本文从近万字笔记中提炼出 3 点 insight。对我来说是一次学习和总结，也值得所有的品牌和 IP 关注\n\n\n1. 从 shop-to-earn 到 participate-to-earn, 本质上是从消费者经济到文化经济的变迁\n\n\n\n2. 运动品牌 x Participate-to-Earn = Wear-to-Earn\n\n\n3. 忠诚度 3.0: 用 Web3 补上品牌新增长飞轮的最后一环\n\n\n一、从 shop-to-earn 到 participate-to-earn\n\n\nTareq 非常同意 Forum3 的方法论（从 shop-to-earn 到 participate-to-earn，见下方推文），并做了更高层次的解读：\n\n\n这本质上是从消费者经济到文化经济的变迁（这段话也放在了 SMS 官网）\n\n\n\n\n\n\n\n消费经济：\n\n\n消费即意义，用户渴望用消费来填满自己，这时对应的忠诚度计划就是 shop-to-earn, 你给我更多的消费频次，我给你更多的折扣, 非常交易导向。shop-to-earn 的问题我们之前已经分析过，此处不再赘述\n\n\n文化经济：\n\n\n年轻用户需要的不止是商品和消费，品牌文化带来的身份感和归属感可能更为重要。这时对应的忠诚度计划就是 participate-to-earn: 品牌鼓励用户某个行为，这个行为强化了用…",
           "link": "https://www.theblockbeats.info/news/35384",
           "publishedOn": "2023-03-10T03:00:02.000Z",
           "wordCount": null,
@@ -633,7 +653,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35428",
           "author": null,
-          "description": "Yuga生态系统内产生的价值如何分配给不同的利益相关者？",
+          "description": "原文标题：《\n\n价值积累案例研究：Yuga Labs 如何打造庞大的商业帝国？\n\n》\n原文作者：Vader Research\n原文编译：深潮 TechFlow\n\n\n价值积累是 Web3 中一个至关重要但常常被忽视的议题。在本文中，我们将深入探讨 Yuga 生态系统内产生的价值如何分配给不同的利益相关者（Yuga Labs，$APE，BAYC，MAYC 等）。\n\n\n1. 资本结构和企业价值\n\n\n在 Web2 企业中，资本结构通常由股权和不同层次的债务组成。高级债权人通常拥有更高的抵押品安全，但收取较低的利率，而次级债权人持有的安全抵押品较少，但收取较高的利率。\n\n\n企业价值就像一家公司的价格标签。它告诉我们这家公司总共值多少钱，包括它欠别人的钱（如银行）和属于业主的钱（如股东）。\n\n\n企业价值=股权价值+债务价值\n\n\n\n\n\n债权人和少数股权股东在企业的收益和资产方面有法律权利。相反，NFT 和Token所有者并没有享有这样的保护。尽管如此，通过将 Web3 公司发行的\n\nToken\n\n和 NFT 作为整个资本结构的一部分，我们可以增强价值增值的设计和结构。\n\n\n运用同样的逻辑，Yuga 生态系统的价值等于整个 Yuga 世界的价值。它是 Yuga Labs 股权实体所有的资金和所有现有 NFT 收藏品（BAYC，MAYC 等）和\n\nToken\n\n（$APE）价值的总和。\n\n\nYuga 生态系统价值 = Yuga Labs 股权价值 + Yuga NFT 和\n\nToken\n\n的价值\n\n\n\n\n\n2. 内在价值\n\n\n内在价值是指某个资产未来的价值，我们可以根据未来的盈利能力来估算其内在价值。但由于未来的钱不如现在的钱有价值，我们会对未来的收益进行折现处理。\n\n\n因此，一个公司、\n\nToken\n\n或 NFT 的基本价值等于其未来盈利的折现值。用同样的逻辑，Yuga 生态系统的价值也等…",
           "link": "https://www.theblockbeats.info/news/35428",
           "publishedOn": "2023-03-10T01:30:01.000Z",
           "wordCount": null,
@@ -643,7 +663,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35429",
           "author": null,
-          "description": "按目前这种「圈地运动」的速度，可能都不需要5年时间，Web3全球用户就能达到10亿，最快10年就能覆盖全球60%的人口。",
+          "description": "原文标题：《\n\nWeb3「圈地运动」，谁都无法视而不见\n\n》\n原文作者：康水跃，Fox Tech 与 Way Network 创始人，丹阳投资董事长\n\n\n\n前言：春蚕不念秋丝、夏蝉不见冬雪。不管你有没有看到，Web3 就在你眼前。  \n\n\n300 万年前，旧石器时代开始，猿人制作出了最早的石头器具，进而用这些石器猎杀动物并切肉烧食；2 万年前，中石器时代开始，人类除了为捕获猎物而制作的更为丰富多样的石器之外，开始出现了用户满足精神需求的石制雕刻品、装饰品；1.4 万年前，以磨制石器为代表的新石器时代开始，人类学会了播种植物果实并圈养野生动物，于是产生了农业、畜牧业，史称「第一次农业革命」。1 万年前，人类学会制作青铜锄头等青铜器，于是开始定居并进行锄耕，史称「第二次农业革命」；5000 年前，人类学会制作铁犁并将所圈养的黄牛用作动力来进行犁耕，同时利用水利灌溉技术提高产量，史称「第三次农业革命」。在漫长的岁月里所发生的这三次「农业革命」，现在看来平常无奇。\n\n\n时间线来到 9 个世纪之前，也就是 12 世纪。彼时彼刻，欧洲开始出现「圈地运动」，这看似野蛮实则解放生产力的「养吃人」运动一直持续持续到 19 世纪。随着人类开始进入航海业务并探索陆地新空间，人类史上 MarketCap 最高的公司东印度公司诞生。航海业、纺织业、养羊业三个产业一条线，成为当时「圈地运动」的背景：贵族们把原来租种他们土地的农民赶走、房屋拆掉，空出来的土地做了更为赚钱的养羊业务。随着土地的集中，更大更集约的农场、牧场得以成型；大量颠沛流离的农民进入城市，这也为 1830 年～1840 年发生的第一次工业革命提供了充沛廉价劳动力。\n\n\n图 1: 人类时代的更迭\n\n\n实际上，在第一次工业革命爆发前夕，第一次金融革命就在欧洲爆发。虽然人们现在已经基本不怎么谈所谓的「金融革命」了，但它给后世带来的影响却可能大…",
           "link": "https://www.theblockbeats.info/news/35429",
           "publishedOn": "2023-03-09T14:00:01.000Z",
           "wordCount": null,
@@ -653,7 +673,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35389",
           "author": null,
-          "description": "这些zkEVM项目旨在提高以太坊的可扩展性和安全性，通过使用零知识证明、分片技术和其他技术来实现更快、更高效的交易。",
+          "description": "原文标题：《\n\n盘点以太坊可扩展未来的关键：zkEVM 赛道的 6 大潜力项目\n\n》\n原文作者：Gaurang (GT) Torvekar\n原文编译：Cindy，SophonLabs\n\n\nLayer 2 扩展是区块链行业最关键的问题之一，因为以太坊的第一层（也称为 Layer 1 或 L1）是由以太坊本身实现的，它是在以太坊区块链上运行的智能合约平台。然而，由于以太坊的原始架构存在吞吐量限制和高昂的交易手续费，因此需要构建第二层扩展解决方案来提高交易速度和降低成本。好多优质的 Web3 公司在下一次牛市之前开发出强大的解决方案。因为在 2022 年初出现了很多问题以太坊 L1 被成千上万的交易堵塞，给 NFT 买家和 Defi 交易者带来了很多阻塞的体验，也使得 zkEVMs 是最具创新性和最受欢迎的解决方案之一！Layer 2 通过将交易从以太坊主链中移除，使得以太坊主链可以专注于更基础的交易处理，而更高级的交易可以在 L2 上进行处理，从而提高整个以太坊系统的扩展能力。\n\n\n什么是 zkEVM？\n\n\nzkEVM（Zero-Knowledge Execution Environment Virtual Machine）是一种利用零知识证明实现隐私保护的以太坊虚拟机。\n\n\nzkEVM 允许以保护合同条款和合同中涉及的数据隐私的方式执行智能合同。这是通过零知识证明实现的，零知识证明是一种加密证明，允许一方向另一方证明某项陈述是真实的，而无需透露有关该陈述的任何其他信息。zkEVM 的基本思想是，在以太坊的智能合约执行过程中，部分数据可以在不泄露原始数据的情况下进行处理和验证。具体来说，zkEVM 采用零知识证明技术，使得原始数据保持隐私的同时，验证执行结果的正确性。\n\n\nzkEVM 的引入可以有效提高智能合约的隐私性和性能。使用 zkEVM，用户可以在保护隐私的前提下，以更快…",
           "link": "https://www.theblockbeats.info/news/35389",
           "publishedOn": "2023-03-09T12:00:01.000Z",
           "wordCount": null,
@@ -663,31 +683,11 @@
         {
           "id": "https://www.theblockbeats.info/news/35431",
           "author": null,
-          "description": "Tessera 团队推出新NFT平台 Escher",
+          "description": "3 月 7 日晨，Tessera 团队的创始人发布公告称：\"今天我非常高兴地宣布我们的新平台\n Escher，一个精选的美术版画市场。」此公告一出引起了社区热议，Escher 在 zora 发布的庆祝 The Escher Edition 系列 NFT，在 36 小时内达到了 14.4 万次 mint。新 NFT 平台 Escher 是什么？如何解决版画市场的痛点？BlockBeats 对此做了简单梳理。\n\n\n\n\n\n\n\n\n\nEscher：艺术家和收藏家的精选版画市场 \n\n\n\n\nTessera 团队推出的新 NFT 平台 Escher，是一个以艺术家和用户为本的平台，所有的设计和技术决策将始终把创作者和他们的收藏家放在首位。在 Escher 上，用户不仅可以一目了然地看到一位艺术家所有版本作品，还可以方便地购买、出售或发现其他收藏家喜爱的作品。\n\n\n\n\nEscher 平台拥有一个开放透明的二级市场，在 Escher 上任何人都可以浏览或交易一级或二级市场上列出来的版本作品。Escher 平台旨在为收藏家提供一个全新而有序的视觉体验，帮助他们克服购买、发布或出售版画作品时遇到的难题。Escher 不仅是一个聚合器和市场，也是一个策展团队，致力于让收藏家轻松地探索并欣赏各种风格与主题的艺术，提升新兴和知名艺术家的水平，并提供展示他们才华与创意的舞台。\n\n\n\n\nEscher 将专注于美术版本（1-of-X）作品的平台和市场聚合器。1-of-X 是指一种艺术作品的发行方式，由艺术家授权并限量发行的复制品。艺术家只制作或授权有限数量的复制品，每个复制品都有一个唯一的编号，例如 1/10、2/10 等。这样可以提高作品的稀缺性和价值。Escher 平台专注于这种类型的艺术作品，让收藏家和艺术家都能受益。\n\n\n\n\nTessera 的创始人 andy 认为：tessera 所做的事情与版画有…",
           "link": "https://www.theblockbeats.info/news/35431",
           "publishedOn": "2023-03-09T10:52:24.000Z",
           "wordCount": null,
           "title": "备受Paradigm青睐的团队再出新品，一文了解艺术NFT聚合平台Escher",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35427",
-          "author": null,
-          "description": "原文标题：《7 O'Clock Capital：减半为什么带来价格上涨》\n原文作者：K，7 O'Clock Capital\n\n\n\n引言\n\n\n2023 年初 BTC 重新启航，市场开始苏醒，各个板块轮番上涨，其中以太坊上海升级作为今年叙事主线，热度依旧持续着。AI 人工智能的应用由于处在萌芽阶段，在短期的概念炒作结束后逐渐回落。如今 BTC 也在突破 25000 美金之后开始回调盘整，在经历了各个板块在炒作过后大家开始将目光逐渐投向即将到来的 DASH 以及 LTC 的减半行情上，因为每次的减半/产都会打破供需平衡，再加上市场的炒作，必然会有大幅度的行情波动。\n\n\n纵观减半/产历史行情，关注度最高的就是比特币，虽然还有其他 PoW Token，但基本上都跟随 BTC 走势，不会走出独立行情。7 O'Clock Capital 梳理了 2023-2024 即将减半/产的八大 Token，供矿工和投资者们参考。\n\n\n目录\n\n\n减半/产为何带来价格上涨\n减半/产时间线以及前后的行情变化\n总结\n\n\n一、减半/产为何带来价格上涨\n\n\n减半/产是经济模型中的一个巧妙设计，主要是为了避免通胀问题，通过控制供给使得价格更加有利于上涨。因为单从供给的角度来看，减半/产会打破产出的动态平衡，当供给量减半，同时需求量又增长，市场整体会看涨，因此，减半被看作是市场情绪的正向促进。但仅仅因为供给的改变而带来的价格上涨是表面现象，其背后还有以下两点原因。\n\n\n减半/产会给市场带来至少 1 倍的预期，即开始前的炒作，必然会带动市场情绪，散户进入，价格上涨。减半对于矿工、矿池、矿机厂商来说至关重要，因为减半都发生于 POW 的 Token，意味着挖矿奖励数量减少，挖矿成本大幅度提高，理论上会带动价格的上涨，但同时这也会带来直接的负面影响，如果收益降低，部分矿工会离场或转而挖其他主流 Token。\n综上可以得…",
-          "link": "https://www.theblockbeats.info/news/35427",
-          "publishedOn": "2023-03-09T10:42:01.000Z",
-          "wordCount": null,
-          "title": "复盘历年减半周期：上涨动力从何而来？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/35430",
-          "author": null,
-          "description": "「或许是未来zkSync生态的龙头DEX」",
-          "link": "https://www.theblockbeats.info/news/35430",
-          "publishedOn": "2023-03-09T10:11:44.000Z",
-          "wordCount": null,
-          "title": "zkSync Era主网即将上线，测试网如何交互DEX",
           "imageUrl": null
         }
       ]
@@ -703,7 +703,7 @@
           "description": "深潮 TechFlow 消息，流动性质押协议Lido宣布已在Polygon上部署wstETH。这是“Lido on L2”扩展计划的第三步，Polygon成为继Arbitrum和Optimism后，第三个支持Lido以太坊流动性质押衍生品的Layer2网络。\n用户现在可以使用Polygon的官方跨链桥将wstETH桥接至Polygon。此外，wstETH已与多个Polygon生态DEX集成，包括Balancer、Kyber Network 和 Beefy。Lido、Polygon和Kyber Network还将提供流动性激励，以促进wstETH在Polygon上的使用。",
           "link": "https://www.techflowpost.com/express/7060",
           "publishedOn": "2023-03-10T07:43:11.000Z",
-          "wordCount": 23277,
+          "wordCount": 23246,
           "title": "流动性质押协议Lido已在Polygon上部署wstETH",
           "imageUrl": null
         },
@@ -723,7 +723,7 @@
           "description": "深潮 TechFlow 消息，据派盾监测显示，Aptos链上的SUCKR项目疑似rug pull，账户地址0x7600ee2b357ff993bd00a303a00f57a4c3db44263a1e8be7862ef1266bcecff3调用mint_SUCKR(admin特权函数)函数铸造大量SUCKR代币兑换为USDT，导致SUCKR代币24h价格暴跌99.99%。原文链接",
           "link": "https://www.techflowpost.com/express/7058",
           "publishedOn": "2023-03-10T07:17:24.000Z",
-          "wordCount": 23287,
+          "wordCount": 23256,
           "title": "Aptos 链上 SUCKR 项目疑似 rug pull，相关代币暴跌 99.99%",
           "imageUrl": null
         },
@@ -753,7 +753,7 @@
           "description": "深潮 TechFlow 消息，Bitget 合约下单正式上线 AICoin，用户可通过AICoin授权下单功能连接Bitget账户，在 AICoin 电脑客户端交易 Bitget 合约。\n为庆祝本次升级合作和提升用户体验，特推出 Bitget & AICoin 重磅福利活动，活动时间:3 月 10 日—3 月 17 日（UTC+8），活动期间可享更多专属权益以及丰厚福利。\nAICoin 服务全球用户累计过千万，是数字资产行情数据应用领跑者，拥有专业K线、K线复盘、资产统计、智能拆单和自动套利等特色功能。原文链接",
           "link": "https://www.techflowpost.com/express/7055",
           "publishedOn": "2023-03-10T02:57:11.000Z",
-          "wordCount": 23281,
+          "wordCount": 23312,
           "title": "Bitget与数据服务商AICoin达成深度合作，为全球用户提供更高效便捷的交易体验",
           "imageUrl": null
         },
@@ -763,7 +763,7 @@
           "description": "深潮 TechFlow 消息，3 月 10 日，据官方消息，欧易 Web3 钱包已完成 Arbitrum Nova 的接入，截止目前，欧易 Web3 钱包已成功接入超过 50 条的异构链，包含 EVM、UTXO、Cosmos、Tron、Solana 和 Move 六大生态。此外，继首发接入 ETHW、APTOS 等热门公链后，欧易 Web3 钱包即将在 3 月 14 日首发接入FEVM。\n对于欧易 Web3 钱包已接入超过 50 条公链这一重要里程碑，OKX CMO Haider Rafique 表示：“OKX 远不止是一个加密货币交易所——我们是一家技术公司，正在构建基础设施和工具，为 Web3 带来新的机遇。通过将 50 条链也就是 50 个生态集成到 OKX Wallet 中，为用户创造一个更容易访问的生态系统，让他们享受 Web3 可以带来的无限可能性。Web3 的未来不会到来——它已经在 OKX 上了。”",
           "link": "https://www.techflowpost.com/express/7054",
           "publishedOn": "2023-03-10T02:37:37.000Z",
-          "wordCount": 23318,
+          "wordCount": 23287,
           "title": "欧易Web3钱包已接入超过50链公链，即将首发接入FEVM",
           "imageUrl": null
         },
@@ -773,7 +773,7 @@
           "description": "深潮 TechFlow 消息，BitMEX创始人Arthur Hayes发推称，“鲍威尔可能已经刺破了美国的银行系统危机，2008年是银行的不良信贷组合，也就是次贷危机。2023年是银行的长期债券投资组合，如UST和MBS？如果大跌，请记得2020年3月，大跌、救市，然后大涨！？本人已经准备好了。”原文链接",
           "link": "https://www.techflowpost.com/express/7053",
           "publishedOn": "2023-03-10T02:19:07.000Z",
-          "wordCount": 23277,
+          "wordCount": 23246,
           "title": "Arthur Hayes：鲍威尔可能已刺破美国的银行系统危机",
           "imageUrl": null
         },
@@ -803,7 +803,7 @@
           "description": "深潮 TechFlow 消息，针对 HT 异常波动造成的部分用户资金损失，火必全球顾问委员会成员孙宇晨称，火必平台将全额承担对于 HT 市场波动所导致杠杆穿仓损失。他发文称：“对于少数用户杠杆清算所造成盘面波动影响，我们深表歉意。为了进一步提升火必平台多币种流动性，我们将出资 1 亿美元成立流动性基金，持续改善主流币，HT 流动性深度，加强杠杆预警与流动性能力，对于本次事件，我们会就后续进展与社区保持同步。”",
           "link": "https://www.techflowpost.com/express/7050",
           "publishedOn": "2023-03-10T01:18:31.000Z",
-          "wordCount": 23237,
+          "wordCount": 23268,
           "title": "孙宇晨：火必成立1亿美元流动性基金，并全额承担HT波动所导致杠杆穿仓的损失",
           "imageUrl": null
         },
@@ -813,7 +813,7 @@
           "description": "深潮 TechFlow 消息，据 The Block 报道，旨在将比特币安全性带至 Cosmos 生态的项目 Babylon 现已在测试网上线，将在年底推出主网之前于今年夏天推出第二个测试网。\n据悉，Babylon 的工作原理是充当需要额外安全性的链和比特币之间的中间方，从使用其服务的链中获取 Block header，并将这些 Block header 写入比特币区块链。运行 Babylon 的验证者通过使用 Babylon 的链的原生代币获得报酬，还将获得 Babylon 原生代币的报酬。来源链接",
           "link": "https://www.techflowpost.com/express/7049",
           "publishedOn": "2023-03-10T01:16:56.000Z",
-          "wordCount": 23315,
+          "wordCount": 23284,
           "title": "Cosmos 生态项目 Babylon 现已上线测试网",
           "imageUrl": null
         },
@@ -873,7 +873,7 @@
           "description": "深潮 TechFlow 消息，据 The Block 报道，Web3 开发工具提供商 Cubist 完成 700 万美元种子轮融资， Polychain Capital 领投，Dao5、Polygon、Amplify Partners 和 Axelar 参投，资金将用于招聘以及扩展和宣传 SDK。\n据悉，Cubist 由前欺诈操作专家 Ann Stefan 以及曾在卡内基梅隆大学和加州大学圣地亚哥分校等机构任教的计算机安全教授 Riad Wahby、Fraser Brown 和 Deian Stefan 共同创立。其长期目标是提供一组以安全为中心的工具，开发人员可以在部署去中心化应用程序时使用这些工具。来源链接",
           "link": "https://www.techflowpost.com/express/7043",
           "publishedOn": "2023-03-09T13:00:38.000Z",
-          "wordCount": 23342,
+          "wordCount": 23311,
           "title": "Web3 开发工具提供商 Cubist 完成 700 万美元种子轮融资， Polychain Capital 领投",
           "imageUrl": null
         },
@@ -893,7 +893,7 @@
           "description": "深潮 TechFlow 消息，BitKeep Swap 已接入 Flashbots 防止 MEV 攻击，在 Arbitrum 链活跃钱包数位居第一\n亚洲最大多链钱包 BitKeep 宣布，BitKeep Swap 已接入 Flashbots，提高交易的隐私性和安全性，防止恶意 MEV 攻击。通过接入 Flashbots，BitKeep Swap 将为用户提供更高效的链上交易体验；同时采用 Flashbots Bundle 交易打包方式，优化交易执行顺序，提高交易优先级，避免因交易执行顺序不同而导致的 MEV 问题。\nBitKeep Swap 聚合了 70 多个主流 DEX，可实现对链上数据的高效对接和资产的单链、跨链交易，目前已支持 20 多条公链，其中 16 条链可跨链交互。同时，BitKeep Swap 支持的「借 Gas」服务，在跨链兑换时，解决了用户无主链 Gas 币的问题，体验接近于单链操作。目前在 Arbitrum 链上，BitKeep Swap 活跃钱包数位居第一。原文链接",
           "link": "https://www.techflowpost.com/express/7041",
           "publishedOn": "2023-03-09T08:52:43.000Z",
-          "wordCount": 23315,
+          "wordCount": 23346,
           "title": "BitKeep Swap 已接入 Flashbots 防止 MEV 攻击，在 Arbitrum 链活跃钱包数位居第一",
           "imageUrl": null
         },
@@ -953,7 +953,7 @@
           "description": "深潮 TechFlow 消息，据 DappRadar 最新数据，在 Polygon 链上，BitKeep NFT 市场以日交易量 2.3 万美元和超一千的活跃钱包数（UAW）双双位居首位，已超越 OpenSea。\n近期，BitKeep 在以太坊二层网络上增长迅速，作为 Web3 入口级产品，BitKeep 通过高性能公链的接入，以及技术创新和产品优化，提升用户在链上进行 Token 和 NFT 交易的效率和便利性，并实现更低的交易成本。除了 NFT 交易市场，BitKeep Swap 在 Arbitrum 链上活跃钱包数也位居第一。原文链接",
           "link": "https://www.techflowpost.com/express/7035",
           "publishedOn": "2023-03-09T02:38:22.000Z",
-          "wordCount": 23297,
+          "wordCount": 23328,
           "title": "数据：BitKeep NFT 市场在 Polygon 上交易量及 UAW 已登顶第一，超越 OpenSea",
           "imageUrl": null
         },
@@ -1023,7 +1023,7 @@
           "description": "深潮 TechFlow 消息，以太坊Layer 2扩展解决方案 ImmutableX关联基金会正试图向私人投资者出售一定数量的IMX代币以募集资金。\n据悉，Digital Worlds Ltd. NFTS 是一家总部位于开曼群岛的非营利基金会，该基金会负责发行 IMX 代币，并在技术上与开发区块链的澳大利亚初创公司 Immutable Group 是分开的，Immutable 一位发言人透露本次私人代币销售由一位主要风投家牵头，并且“在前 72 小时内超额认购了两倍以上”，同时“销售代币所得收益将全部捐给基金会，而不是 Immutable。”\n另据 Crunchbase数据显示，Immutable 迄今为止已从腾讯、Alameda Research、AirTree Ventures 和 Arrington XRP Capital 等投资者那里筹集了近 2.8 亿美元资金。原文链接",
           "link": "https://www.techflowpost.com/express/7028",
           "publishedOn": "2023-03-08T11:56:43.000Z",
-          "wordCount": 23322,
+          "wordCount": 23291,
           "title": "ImmutableX 关联基金会正试图向私人投资者出售 IMX 代币以募集资金",
           "imageUrl": null
         },
@@ -1033,7 +1033,7 @@
           "description": "深潮 TechFlow 消息，据 PKU Blockchain 官方推文，ETH Beijing 黑客松获得了以太坊基金会 ESP 的资助。黑客松主赛道为: 公共品，L2 应用，开放研究。\n据悉，ETH Beijing 黑客松是后疫情时代北京的第一个以太坊线下活动，由北大区块链协会 PKU Blockchain 和开源大学 WTF Academy 主办，以太坊 ZK 扩容项目 Scroll 和以太坊中文社区 ETH Planet 协办，2023 年 4 月 5 日至 8 日在北京线下召开。目前 ETH Beijing 黑客松获得了以太坊基金会 ESP(Ecosystem Support Program)、Scroll、Mask Network、TokenPocket、LD Capital 和 Cocos BCX 的赞助，总奖池超30,000美金。原文链接",
           "link": "https://www.techflowpost.com/express/7027",
           "publishedOn": "2023-03-08T10:56:53.000Z",
-          "wordCount": 23313,
+          "wordCount": 23344,
           "title": "ETH Beijing黑客松获以太坊基金会ESP资助，将于4月5日至8日在北京线下召开",
           "imageUrl": null
         },
@@ -1043,7 +1043,7 @@
           "description": "深潮 TechFlow 消息，币安 NFT 市场宣布，Polygon 已添加到其支持的区块链网络列表中，用户现在可以在币安 NFT 市场上购买、存入、提取和铸造 Polygon 网络的 NFT。\n币安表示，通过在现货钱包中持有 MATIC 或任何代币，用户可以在币安 NFT 市场上交易 NFT。目前币安 NFT 市场仅提供 Polygon 网络上选定的 ERC-721 NFT 系列。来源链接",
           "link": "https://www.techflowpost.com/express/7026",
           "publishedOn": "2023-03-08T10:49:30.000Z",
-          "wordCount": 23292,
+          "wordCount": 23323,
           "title": "币安 NFT 市场现已支持 Polygon 网络",
           "imageUrl": null
         },
@@ -1053,7 +1053,7 @@
           "description": "深潮 TechFlow 消息，官方消息，经 Poloniex 推荐，本着优质项目互通原则，火必将无条件上线 Volt。Volt 为 Poloniex 与火必达成战略合作伙伴关系以来首个成功登陆火必的推荐项目，未来，Poloniex 还将推荐更多优质项目上线火必。",
           "link": "https://www.techflowpost.com/express/7025",
           "publishedOn": "2023-03-08T10:48:23.000Z",
-          "wordCount": 23273,
+          "wordCount": 23242,
           "title": "波场 Poloniex 成功推荐 Volt 免费上线火必",
           "imageUrl": null
         },
@@ -1103,7 +1103,7 @@
           "description": "深潮 TechFlow 消息，Bitget近日披露其风险保护基金，以确保用户的资产得到充分保护。截至目前，该基金规模达3亿美元，其中包括6500个BTC、1.6亿个USDT和4000万个USDC。据悉，这是中心化交易所中第二大的用户保护基金。这些资产存储在七个公共钱包地址中，用户可以实时跟踪验证。且Bitget承诺在未来三年内会保证将该基金价值维持在3亿美元。\nBitget成立于2018年，是全球领先的加密资产交易平台，并以合约交易、跟单交易为特色。目前，Bitget 为全球100多个国家和地区的800多万用户提供服务。Bitget 在全球拥有众多值得信赖的合作伙伴，包括阿根廷传奇足球运动员利昂内尔·梅西、意大利知名足球队尤文图斯和官方电子竞技赛事组织者 PGL。\n保护基金详情可查阅官方网址",
           "link": "https://www.techflowpost.com/express/7020",
           "publishedOn": "2023-03-08T03:44:26.000Z",
-          "wordCount": 23286,
+          "wordCount": 23255,
           "title": "Bitget 公布用户保护基金，当前规模达 3 亿美元",
           "imageUrl": null
         },
@@ -1113,7 +1113,7 @@
           "description": "深潮 TechFlow 消息，据治理页面显示，Cosmos Hub关于v9 Lambda升级提案以99.48%的支持率获得投票通过。Cosmos Hub在官方推特上宣布将于3月15日进行V9 Lambda升级。\n根据该提案，本次升级旨在激活Replicated Security功能，这将强制执行链间安全性（ICS）的良好运行规则。Replicated Security功能可将Cosmos Hub的安全性复制到消费者链，并监控对规则的遵守情况，消费者链可以从Cosmos Hub的安全性中受益，而不必维护自己的验证者。原文链接",
           "link": "https://www.techflowpost.com/express/7019",
           "publishedOn": "2023-03-08T03:35:19.000Z",
-          "wordCount": 23291,
+          "wordCount": 23260,
           "title": "Cosmos Hub将于3月15日进行V9 Lambda升级，旨在激活“Replicated Security”功能",
           "imageUrl": null
         },
@@ -1133,7 +1133,7 @@
           "description": "深潮 TechFlow 消息，去中心化游戏生态系统 TreasureDAO 宣布推出新的创作者计划 Treasure Create，旨在培养 Treasure 生态系统和游戏中的优秀视频内容创作者社区。\n作为官方 Treasure Creator，内容创作者可以利用 Treasure 的 15 万以上玩家和游戏的大型社区来增加曝光率，并获得诸如 Allow List、游戏内道具、游戏测试的早期访问以及与其他创造者合作的机会。目前该计划已与 10 位早期创作者合作，并正募集更多的内容创作者加入 Treasure Create。来源链接",
           "link": "https://www.techflowpost.com/express/7017",
           "publishedOn": "2023-03-08T03:29:16.000Z",
-          "wordCount": 23281,
+          "wordCount": 23312,
           "title": "TreasureDAO 推出新的创作者计划 Treasure Create，旨在培养优秀视频内容创作者社区",
           "imageUrl": null
         },
@@ -1143,7 +1143,7 @@
           "description": "深潮 TechFlow 消息，3 月 8 日，Aave 生态 NFT 项目 Aavegotchi 发起的关闭协议 Token GHST 联合曲线的提案投票现已开启，一旦投票人数达到法定的 8%，联合曲线将关闭。\n此前报道，2 月 28 日，Aave 生态 NFT 项目 Aavegotchi 发起的关闭协议 Token GHST 联合曲线的提案已获投票通过。提案认为 AavegotchiDAO 经过两年的发展已经具备足够的成熟度和流动性来满足项目发展，因此提议关闭 GHST 联合曲线，将 GHST 与 DAI 脱钩，固定其供应，并使 GHST 成为自由流通的 Token。原文链接",
           "link": "https://www.techflowpost.com/express/7016",
           "publishedOn": "2023-03-08T03:17:45.000Z",
-          "wordCount": 23305,
+          "wordCount": 23336,
           "title": "Aavegotchi 发起关闭 GHST 联合曲线的提案投票",
           "imageUrl": null
         },
@@ -1153,7 +1153,7 @@
           "description": "深潮 TechFlow 消息，负责 $DAI 稳定币的 MakerDAO 正寻求额外投资7.5亿美元于美国国债，以利用当前的较高的收益率环境。MakerDAO 去年10月已投资5亿美元美国国债，如果获得批准，对美国国债的投资总额将达到12.5亿美元。\n该计划投资6个月的美国国债，采用每两周滚动一次的阶梯策略，使投资期内的到期日相等。阶梯策略被认为是灵活和具有成本效益的，并且可以在需要时进行改变。\n去中心化金融（DeFi）资产管理公司 Monetails 的首席执行官 Allan Pederson 赞扬了这一策略，强调了其低成本、税收效率和内在的流动性。\n在最终批准之前，该提案将由 MakerDAO 社区审查。\n$DAI 抵押品目前包括 38.5%的 $USDC、11.7%的 $ETH 和9.6%的现实世界资产（包括美国国债）。原文链接",
           "link": "https://www.techflowpost.com/express/7015",
           "publishedOn": "2023-03-08T03:05:25.000Z",
-          "wordCount": 23335,
+          "wordCount": 23304,
           "title": "MakerDAO 提议：将美国国债投资从5亿美元扩大到12.5亿美元",
           "imageUrl": null
         },
@@ -1193,7 +1193,7 @@
           "description": "深潮 TechFlow 消息，据火必Huobi官方消息，火必将于3月13日上线VOLT。公告显示，VOLT充值业务将于3月8日11时（UTC+8）开放，提款业务将于3月15日17时（UTC+8）开放。VOLT/USDT现货交易将在充值量满足市场交易需求时开启，具体时间以官方公告为准。\n据悉，VOLT（Volt Inu）是一个基于以太坊的高度通缩项目。可以让用户在参与P2E游戏的过程中享受到收益。",
           "link": "https://www.techflowpost.com/express/7011",
           "publishedOn": "2023-03-08T01:28:57.000Z",
-          "wordCount": 23266,
+          "wordCount": 23235,
           "title": "火必将于3月13日上线 VOLT，其充值业务于今日开启",
           "imageUrl": null
         }
