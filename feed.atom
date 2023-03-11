@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-11T05:13:14.521Z</id>
+    <id>urn:2023-03-11T06:17:23.370Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-11T05:13:14.521Z</updated>
+    <updated>2023-03-11T06:17:23.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[区块链演化史（六）：金融，区块链和监管如何相互塑造]]></title>
+        <id>https://www.defidaonews.com/article/6808564</id>
+        <link href="https://www.defidaonews.com/article/6808564"/>
+        <updated>2023-03-11T06:16:07.000Z</updated>
+        <summary type="html"><![CDATA[在整个区块链的演化史中，如果离开金融，几乎很难构建。两者仿佛父母和子女，在互动中共同成长。]]></summary>
+        <author>
+            <name>Mochi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3钱包终局：安全便捷与去中心化的统一]]></title>
+        <id>https://www.theblockbeats.info/news/35477</id>
+        <link href="https://www.theblockbeats.info/news/35477"/>
+        <updated>2023-03-11T06:00:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+Web3 钱包终局：安全便捷与去中心化的统一
+
+》
+原文作者：Cipher，SevenUp DAO
+
+
+一、钱包与 Web3 应用的困境
+
+
+钱包在 Web3 世界是资产、身份、账号的统一体，加上其在不同应用之间的一致性和可组合性，其重要程度甚至超过了微信或 Google 账号在传统世界位置。但由于钱包本身的使用门槛，Web3 钱包用户始终无法突破 Metamask 30 M 月活地址这个数量级。
+
+
+以 Metamask 为代表的标准 EOA 钱包地址将用户自己管理的私钥对应的公钥做哈希映射。这句话本身就解释了为什么它阻挡了大多数人进入 Web3 世界——牵扯到太多让人听不懂的概念了。可问题在于，这些概念确实无法省掉。要想使用 EOA 钱包，就必须自己通过助记词的方式管理私钥，就必须理解什么是公钥，什么是数字签名，而且助记词一旦丢失或泄漏，资产和身份将永久丢失。这些门槛是如此之高，以至于用户必须有极强的动力才愿意进来。这也是为什么目前 Web3 应用的主流用户是投机和撸空投的用户，根本没有常规意义下的正常用户。这反过来将 Web3 应用的生态引向了错误的方向，没有人真正关心你的项目是否有长期价值。什么时候发币，怎么加白成为用户的主要诉求。
+
+
+我们当然不只有 EOA 钱包，中心化托管、MPC 和账户抽象钱包都在尝试提出兼顾易用性与安全性的钱包解决方案。中心化托管由于单点风险和资管安全问题不被主流应用所接受。那么多方共管的 MPC 方案和集大成的抽象账户钱包方案是不是可以彻底解决安全与便捷的矛盾呢？
+
+
+
+
+
+
+二、为什么 MPC 是一条死胡同
+
+
+
+MPC 技术将密钥进行分片，用户和托管方各持一部分，使用钱包时需要双方协作完成签名。一旦用户侧的分片丢失，可以通过多个托管方进行恢复。任何一方都无法单独操作用户资产。该方案看上去同时解决了用户自己管理私钥门槛难…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance增加稳定币现货交易对，进行手续费优惠]]></title>
+        <id>https://panewslab.com/zh/articledetails/7wkujq79.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7wkujq79.html"/>
+        <updated>2023-03-11T05:35:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，Binance将于3月11日14:00（UTC）开放BNB/TUSD、BTC/TUSD、ETH/TUSD、TUSD/USDT、USDC/USDT和USDP/USDT现货交易对。并且用户可以享受以下现货交易对的折扣交易费用：BNB/TUSD、BTC/TUSD、ETH/TUSD、TUSD/USDT、USDC/USDT和USDP/USDT。目前，Binance已停止/将分别停止用户对USDC、USDP和TUSD新存款的BUSD自动转换，用户将无法再从BUSD余额中提取USDC、USDP或TUSD。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kraken：对硅谷银行没有风险敞口]]></title>
+        <id>https://panewslab.com/zh/articledetails/jc3gldr8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jc3gldr8.html"/>
+        <updated>2023-03-11T05:26:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，加密货币交易所Kraken CEO表示，Kraken对硅谷银行没有风险敞口。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙宇晨地址从Aave V2中提取8200万枚USDC并全部兑换为DAI]]></title>
+        <id>https://panewslab.com/zh/articledetails/4xnu1gub.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4xnu1gub.html"/>
+        <updated>2023-03-11T05:24:26.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，派盾监测数据显示，孙宇晨地址从Aave V2中提取8200万枚USDC并全部兑换为DAI，之后又从Aave V2中提取1160万枚USDC。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仔细扒一扒，硅谷银行的问题究竟在哪？]]></title>
+        <id>https://www.web3sj.com/?p=50069</id>
+        <link href="https://www.web3sj.com/news/50069/"/>
+        <updated>2023-03-11T05:14:29.000Z</updated>
+        <summary type="html"><![CDATA[事实上，硅谷银行的危机是高利率环境下流动性坍塌的一次预示。在 2020 年美联储实施量化宽松期间，硅谷银行用无息负债购入了大量固定收益债券，而此后美联储的大举加息导致这些低利率债券价格下跌，将资金存在硅谷银行的科技企业们也争相要求提款，因此其资产端就开始出现了巨大的资金缺口。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[33 亿美元 USDC 储备受硅谷银行事件影响，USDC 会暴雷吗？]]></title>
         <id>https://www.defidaonews.com/article/6808562</id>
@@ -26,6 +114,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bitstamp将于3月15日进行维护，届时将中断服务]]></title>
+        <id>https://panewslab.com/zh/articledetails/06k9wlar.html</id>
+        <link href="https://panewslab.com/zh/articledetails/06k9wlar.html"/>
+        <updated>2023-03-11T05:05:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，加密交易所Bitstamp宣布，由于计划中的基础设施升级和维护，网络平台和应用程序中的所有服务（包括登录和注册）将于UTC时间3月15日10:00（北京时间18:00）暂时不可用。维护将持续约1小时。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[去中心化稳定币战争：谁能夺得加密货币的圣杯]]></title>
         <id>https://www.web3sj.com/?p=50046</id>
         <link href="https://www.web3sj.com/definews/50046/"/>
@@ -33,6 +131,66 @@
         <summary type="html"><![CDATA[中心化稳定币的赛道几乎尘埃落定，USDT 和 USDC 难分雌雄。CrvUSD 虽然含有中心化风险，但稳定币功能模块完整，拥有一定潜力。去中心化稳定币目前几乎是一片荒漠。该赛道存在底层需求，未来面临潜在的发展机遇。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[算法稳定币FRAX脱锚至0.94美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/y0elq0l6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y0elq0l6.html"/>
+        <updated>2023-03-11T04:59:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，Curve上FRAX与USDT的兑换比例为1:0.947896，算法稳定币FRAX脱锚至0.94美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[访谈：学校精神 Showrunner 和共同创作者谈论派拉蒙 + 系列]]></title>
+        <id>https://0xzx.com/2023031112563258418.html</id>
+        <link href="https://0xzx.com/2023031112563258418.html"/>
+        <updated>2023-03-11T04:56:20.000Z</updated>
+        <summary type="html"><![CDATA[ComingSoon 高级编辑 Spencer Legacy 与 School Spirits 节目主持人兼执 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[命运 2 唤醒恩宠 – 如何获得、掉率和使用方法]]></title>
+        <id>https://0xzx.com/2023031112553258417.html</id>
+        <link href="https://0xzx.com/2023031112553258417.html"/>
+        <updated>2023-03-11T04:55:29.000Z</updated>
+        <summary type="html"><![CDATA[命运 2 的 Lightfall 季节引入了一系列任务供你完成。 每周，任务都会有新的步骤。 第四步让你收集三 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯科特贝克和布莱恩伍兹访谈：65]]></title>
+        <id>https://0xzx.com/2023031112543258415.html</id>
+        <link href="https://0xzx.com/2023031112543258415.html"/>
+        <updated>2023-03-11T04:54:29.000Z</updated>
+        <summary type="html"><![CDATA[宇航员米尔斯在 65 年迫降在一颗外星球上。然而，他很快就知道这实际上是 6500 万年前的地球。 为了生存， […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 Excel 中更改页面方向]]></title>
+        <id>https://0xzx.com/2023031112513258414.html</id>
+        <link href="https://0xzx.com/2023031112513258414.html"/>
+        <updated>2023-03-11T04:51:20.000Z</updated>
+        <summary type="html"><![CDATA[页面方向是 Excel 中格式设置的一个重要方面，它决定了工作表在打印或查看时的外观。 默认情况下，Excel […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用奥驰亚集团股票期权的好处和风险是什么？]]></title>
+        <id>https://0xzx.com/2023031112513258413.html</id>
+        <link href="https://0xzx.com/2023031112513258413.html"/>
+        <updated>2023-03-11T04:51:20.000Z</updated>
+        <summary type="html"><![CDATA[使用奥驰亚集团股票期权是一种交易策略，可以为交易者提供额外的收益和风险。 在进入之前了解期权的运作方式及其潜在 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +204,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pantera Capital最近在硅谷银行持有资产]]></title>
+        <id>https://panewslab.com/zh/articledetails/adi0t6xk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/adi0t6xk.html"/>
+        <updated>2023-03-11T04:44:01.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，据CoinDesk报道，根据上个月的一份监管文件，加密风投巨头Pantera Capital最近在硅谷银行（SVB）持有资产。在2月3日的ADV表格中，Pantera将SVB列为其私人基金的三家托管人之一，另外两家是BitGo和加密交易所Coinbase的托管服务。在联合首席投资官Joey Krug离职后，Pantera上个月重组了高管层。该公司今年1月透露，其流动性代币基金在2022年亏损80%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC会进入死亡螺旋吗?]]></title>
+        <id>https://www.theblockbeats.info/news/35485</id>
+        <link href="https://www.theblockbeats.info/news/35485"/>
+        <updated>2023-03-11T04:36:16.000Z</updated>
+        <summary type="html"><![CDATA[USDC价格出现脱锚，Binance、Coinbase等宣布关闭USDC兑换服务。面临恐慌和挤兑，USDC会进入死亡螺旋吗？]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：稳定币DAI已脱锚，现报0.94美元，24小时跌幅6%]]></title>
+        <id>https://panewslab.com/zh/articledetails/f7nmtcj9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/f7nmtcj9.html"/>
+        <updated>2023-03-11T04:33:38.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，CoinGecko数据显示，稳定币DAI已出现明显脱锚，现报0.940550美元，24小时跌幅6%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[速览PancakeSwap近期更新与V3：引入做市商、降低交易费用、激励交易量]]></title>
         <id>https://www.web3sj.com/?p=50027</id>
         <link href="https://www.web3sj.com/definews/50027/"/>
@@ -53,6 +241,16 @@
         <summary type="html"><![CDATA[面对 Uniswap V3 即将部署到 BNB 链上的预期，以及 BiSwap、Thena 等 BNB 链上已有 DEX 的竞争，PancakeSwap 在近期继续进行了一系列更新，降低交易费用并希望能增加交易量。根据了解，PancakeSwap V3 很可能会增加和 Uniswap V3 类似的流动性聚集功能。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师：根据FDIC的恢复流程， Circle的损失很容易被利息收入覆盖]]></title>
+        <id>https://panewslab.com/zh/articledetails/rbwc8933.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rbwc8933.html"/>
+        <updated>2023-03-11T04:28:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 3月11日消息，据加密分析师Adam Cochran分析，根据FDIC（美国联邦存款保险公司）的恢复流程，参考2003年倒闭的Southern Pacific Bank，FDIC会先一次性支付预付股息（约62% ），并在最终付款时支付了94%的资金。如果硅谷银行与这情况类似，那么Circle的最大损失是33亿美金中的1.98亿美元，这一金额很容易被Circle的利息收入所覆盖。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -107,16 +305,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEC 再次拒绝 VanEck 的现货 BTC ETF，面临内部反对]]></title>
-        <id>https://0xzx.com/2023031111553258280.html</id>
-        <link href="https://0xzx.com/2023031111553258280.html"/>
-        <updated>2023-03-11T03:55:22.000Z</updated>
-        <summary type="html"><![CDATA[作者 Tim Fries 和本网站 The代币ist 均未提供财务建议。 在做出财务决定之前，请查阅我 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Coinbase：将暂时关闭 USDC 与 USD 转换服务，计划于周一重启]]></title>
         <id>https://www.techflowpost.com/express/7069</id>
         <link href="https://www.techflowpost.com/express/7069"/>
@@ -125,46 +313,6 @@
 Coinbase 计划在银行周一开门时重新开始提供转换服务。用户的资产是安全的，随时可以在链上转移。来源链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎来到 Plathville 粉丝的 5 个原因受到 Moriah Plath 的启发]]></title>
-        <id>https://0xzx.com/2023031111543258277.html</id>
-        <link href="https://0xzx.com/2023031111543258277.html"/>
-        <updated>2023-03-11T03:54:19.000Z</updated>
-        <summary type="html"><![CDATA[莫里亚·普拉斯 (Moriah Plath) 在欢迎来到普拉斯维尔 (Welcome to Plathvill […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现在你可以在 Apple Watch 上使用 ChatGPT – 方法如下]]></title>
-        <id>https://0xzx.com/2023031111543258276.html</id>
-        <link href="https://0xzx.com/2023031111543258276.html"/>
-        <updated>2023-03-11T03:54:16.000Z</updated>
-        <summary type="html"><![CDATA[如果你使用 Apple Watch，我们为你准备了一些你可能会非常喜欢的特别产品 如此一来，目前被市场炒得沸 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polkadot (DOT) 价格预测 – 不要错过 Chainlink (LINK) 和 Orbeon Protocol (ORBN)]]></title>
-        <id>https://0xzx.com/2023031111533258274.html</id>
-        <link href="https://0xzx.com/2023031111533258274.html"/>
-        <updated>2023-03-11T03:53:22.000Z</updated>
-        <summary type="html"><![CDATA[新手加密货币投资者总是很难找到他们应该投资哪些项目以获得最佳回报。 然而，这种情况也会发生在更有经验的投资者身 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密货币矿业公司成为目标]]></title>
-        <id>https://0xzx.com/2023031111523258273.html</id>
-        <link href="https://0xzx.com/2023031111523258273.html"/>
-        <updated>2023-03-11T03:52:20.000Z</updated>
-        <summary type="html"><![CDATA[根据一项旨在减少挖矿活动的新预算提议，在美国扎根的加密货币挖矿企业可能需要缴纳 30% 的电费税。 根据财政部 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -195,6 +343,36 @@ Coinbase 计划在银行周一开门时重新开始提供转换服务。用户�
         <summary type="html"><![CDATA[PANews 3月11日消息，受到Circle公布其有33亿美元的储备金存于已破产银行硅谷银行的影响，稳定币兑换协议Curve的3pool中USDT的占比降至1.9%，仅剩830万枚，用户选择将USDC和DAI（部分抵押物为USDC）兑换为USDT。当前在Curve兑换中USDC/USDT已经跌至0.93。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：USDC现报0.938美元，脱锚状态持续]]></title>
+        <id>https://www.hellobtc.com/news/202303/20115.html</id>
+        <link href="https://www.hellobtc.com/news/202303/20115.html"/>
+        <updated>2023-03-11T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[1.USDC市值跌破400亿美元，USDC脱锚至0.938美元。
+
+2.Circle：在硅谷银行中有 33 亿美元存款。
+
+3.数据：币安平台的以太坊链上USDC余额约50亿美元。
+
+4.Coinbase：将暂时关闭USDC-USD转换服务，计划于周一重启。
+
+5.Binance平台USDC自动转换BUSD功能已经暂时关闭。
+
+6.硅谷银行遭遇挤兑，储户周四试图提取420亿美元。
+
+7.YC CEO：银行暴雷事件已影响大量初创企业，其中1/3无法在未来30天内发放工资。
+
+8.Circle过去24小时销毁27亿枚USDC，Coinbase至少赎回17.8亿枚USDC。
+
+9.美国联邦存款保险公司：已将硅谷银行存款转入新实体DINB。
+
+10.硅谷银行尝试融资的行动失败，现正进行谈判以寻求整体出售。
+
+11.Cathie Wood曾以310美元的价格购买了10万美元的比特币。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -413,16 +591,6 @@ Circle官网数据显示，截至3月9日，USDC总流通量为434亿美元，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Circle披露部分现金储备在硅谷银行后USDC出现短暂脱锚，现跌至0.98美元区间]]></title>
-        <id>https://panewslab.com/zh/articledetails/y6enqmh1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/y6enqmh1.html"/>
-        <updated>2023-03-11T01:34:46.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，美元稳定币发行方Circle今日在社交媒体披露硅谷银行是其六家银行合作伙伴之一，负责共同管理约25%的USDC现金储备。此消息发布后，USDC出现短时脱锚，根据Coingecko数据显示当前跌至0.985979美元，过去24小时与美元的锚定价格已下跌约1.7%，市值约为41,698,130,413美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国前财务部长：预计硅谷银行的暴雷不会对金融体系构成系统性风险]]></title>
         <id>https://www.hellobtc.com/news/202303/20112.html</id>
         <link href="https://www.hellobtc.com/news/202303/20112.html"/>
@@ -463,16 +631,6 @@ Circle官网数据显示，截至3月9日，USDC总流通量为434亿美元，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yuga Labs、Azuki、Moonbirds等多个NFT项目持有少量硅谷银行敞口，运营未受影响]]></title>
-        <id>https://panewslab.com/zh/articledetails/pk7p61em.html</id>
-        <link href="https://panewslab.com/zh/articledetails/pk7p61em.html"/>
-        <updated>2023-03-11T01:21:42.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，Yuga Labs、Azuki、Moonbirds等多个NFT项目都对硅谷银行有少量敞口，但正常运营不受影响。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Y combinator CEO：银行暴雷事件已影响大量初创企业，其中1/3无法在未来30天内发放工资]]></title>
         <id>https://www.techflowpost.com/express/7065</id>
         <link href="https://www.techflowpost.com/express/7065"/>
@@ -483,67 +641,6 @@ Circle官网数据显示，截至3月9日，USDC总流通量为434亿美元，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blur：核心贡献者没有接触硅谷银行]]></title>
-        <id>https://panewslab.com/zh/articledetails/s6kt5h67.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s6kt5h67.html"/>
-        <updated>2023-03-11T00:55:46.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，据Blur创始人Pacman在社交媒体澄清，Blur核心贡献者没有接触硅谷银行（SVB），他表示Blur希望每个人都采取预防措施，以在这些不确定的市场条件下保持安全。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国SEC否决VanEck创建比特币现货信托的申请]]></title>
-        <id>https://panewslab.com/zh/articledetails/z0lxziag.html</id>
-        <link href="https://panewslab.com/zh/articledetails/z0lxziag.html"/>
-        <updated>2023-03-11T00:55:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，据Cointelegragh报道，美国证券交易委员会（SEC）于3月10日否决了投资公司VanEck创建比特币现货信托VanEck Bitcoin Trust的申请。美国SEC委员Mark Uyeda和Hester Peirce发表一份联合声明，指责SEC对ETP申请人的的审核存在“双标”，对其他类型基于商品的ETP采用的标准与比特币现货ETP不同。SEC已否决所有已提交的比特币现货信托申请，在过去六年中已达到近20项。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockFi 在硅谷银行有 2.27 亿美元的未保险资金]]></title>
-        <id>https://www.defidaonews.com/article/6808498</id>
-        <link href="https://www.defidaonews.com/article/6808498"/>
-        <updated>2023-03-11T00:53:13.000Z</updated>
-        <summary type="html"><![CDATA[据 The Block 报道，根据一份破产文件，加密借贷机构 BlockFi 在硅谷银行有 2.27 亿美元的“不受保护”资金，可能违反了美国破产法。负责监督 BlockFi 破产保护案的美国受托人在文件中表示，这 2.27 亿美元也没有得到联邦存款保险公司的保险，因为它存在货币市场共同基金中。该银行在为该账户提供的一份余额汇总表中表示，“货币市场共同基金投资是：不是存款，没有 FDIC 保险，没有被任何联邦政府机构保险，没有被银行担保，可能会失去价值”。
-今年早些时候，美国托管人表示，它警告 ...]]></summary>
-        <author>
-            <name>Yangz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国央行计划申请将硅谷银行英国附属公司列入破产程序]]></title>
-        <id>https://panewslab.com/zh/articledetails/rxf6w6ze.html</id>
-        <link href="https://panewslab.com/zh/articledetails/rxf6w6ze.html"/>
-        <updated>2023-03-11T00:35:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，英国央行发布公告称，计划向法院申请将硅谷银行英国有限公司（SVB UK）列入银行破产程序，SVB UK将停止向客户支付和接受存款。据此前消息，硅谷银行已于周五破产并被美国联邦存款保险公司（FDIC）接管。随后硅谷银行旗下英国附属公司表示，该附属公司是一家“单独运营的银行机构”，受到英国监管部门PRA的管理，其资产负债表独立于硅谷银行金融集团，并拥有一个独立的英国董事会。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle、Tether和Paxos将寻找新的银行合作伙伴]]></title>
-        <id>https://panewslab.com/zh/articledetails/wfrcj31s.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wfrcj31s.html"/>
-        <updated>2023-03-11T00:28:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，据The Block报道，在硅谷银行倒闭后，Circle、Paxos和Tether等稳定币发行商都表示将建立新的银行合作关系。与此同时，Tether和Paxos都表示对硅谷银行没有敞口。另一方面，在Silvergate和硅谷银行相继倒闭后，小型加密公司寻找银行合作伙伴的难度将大大提升。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockFi在硅谷银行持有2.27亿美元的未投保资金]]></title>
-        <id>https://panewslab.com/zh/articledetails/1c738ag9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1c738ag9.html"/>
-        <updated>2023-03-11T00:15:23.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，据The Block报道，一份破产文件显示，加密借贷平台BlockFi在硅谷银行持有2.27亿美元的未投保资金，且可能违反了美国破产法。负责监督BlockFi破产的美国信托人表示，由于上述2.27亿美元资金在货币市场基金中，因此不受FDIC保险。今年早些时候，美国信托人提醒BlockFi可能存在合规问题。BlockFi表示将提供合规证明，但截至FDIC接管硅谷银行，该公司仍未提供证明。BlockFi去年11月申请破产保护，其债权人包括FTX US和美国证券交易委员会（SEC）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Circle：硅谷银行是用于管理约 25% 现金储备的六家银行合作伙伴之一]]></title>
         <id>https://www.techflowpost.com/express/7064</id>
         <link href="https://www.techflowpost.com/express/7064"/>
@@ -551,17 +648,6 @@ Circle官网数据显示，截至3月9日，USDC总流通量为434亿美元，�
         <summary type="html"><![CDATA[深潮 TechFlow 消息 3月11日，USDC发行方Circle发布推特称，硅谷银行是 Circle 用于管理约 25% 的 USDC 现金储备的六家银行合作伙伴之一。在我们等待 SVB 被 FDIC 接管，以及弄清将如何影响其存款人的情况下，Circle 和 USDC 继续正常运作。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle：硅谷银行是其6个现金储备银行之一，当下USDC继续正常运作]]></title>
-        <id>https://panewslab.com/zh/articledetails/8486dpoq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8486dpoq.html"/>
-        <updated>2023-03-11T00:13:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 3月11日消息，稳定币发行商Circle发公告称，硅谷银行是 Circle 用于管理 USDC 现金储备的六家银行合作伙伴之一。在等待硅谷银行被联邦存款保险公司 FDIC 接管将如何影响其存款人的情况下，Circle 和 USDC 继续正常运作。
-据此前消息，Circle在硅谷银行持有一笔未披露的USDC现金储备。根据Circle截至3月9日的储备报告，该公司在受监管银行持有111亿美元的USDC现金储备，约占整体储备的25%。其合作银行包括纽约梅隆银行、Citizens Trust Bank、Customers Bank、New York Community Bank、Signature Bank、硅谷银行。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -630,16 +716,6 @@ Circle官网数据显示，截至3月9日，USDC总流通量为434亿美元，�
         <link href="https://www.hellobtc.com/news/202303/20106.html"/>
         <updated>2023-03-10T12:06:00.000Z</updated>
         <summary type="html"><![CDATA[瑞杰金融表示，将硅谷银行金融集团评级从跑赢大盘下调至与大盘一致。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊Kaustinen测试网现已再次上线]]></title>
-        <id>https://www.hellobtc.com/news/202303/20105.html</id>
-        <link href="https://www.hellobtc.com/news/202303/20105.html"/>
-        <updated>2023-03-10T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[3月10日消息，以太坊 Kaustinen 测试网现已再次上线，这是 PoS verkle 测试网，取代 Condrieu 测试网，这次使用符合新共识规范的区块证明。 以太坊基金会 Go-ethereum 核心开发者 Guillaume Ballet 于 1 月 27 日表示，新的 PoS verkle 测试网包括区块证明，Kaustinen 是芬兰的一个城市，其邮政编码与 Condrieu 相同，取代了 Condrieu 测试网。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
@@ -727,16 +803,6 @@ Lucy 接入了 Delysium 针对 Web3 打造的自然语言模型，基于公
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[观点：DeFi的特洛伊木马，Uniswap是一个期权市场？]]></title>
-        <id>https://www.web3sj.com/?p=49903</id>
-        <link href="https://www.web3sj.com/definews/49903/"/>
-        <updated>2023-03-10T07:47:09.000Z</updated>
-        <summary type="html"><![CDATA[我将介绍作为跟踪流动性池表现指标的隐含波动率（implied volatility），这与个人投资者在决定提供流动性时参考的典型 APY 指标相对应。简单起见，我将专注于恒定函数做市商（CFMM），如 Uniswap V2。大多数个人投资者通过 APY 来衡量流动性池的表现。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[流动性质押协议Lido已在Polygon上部署wstETH]]></title>
         <id>https://www.techflowpost.com/express/7060</id>
         <link href="https://www.techflowpost.com/express/7060"/>
@@ -790,16 +856,6 @@ Aisot Technologies主要帮助用户在股票和加密市场的投资组合提�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[误判美联储加息节奏，Silvergate与硅谷银行深陷流动性危机]]></title>
-        <id>https://www.theblockbeats.info/news/35452</id>
-        <link href="https://www.theblockbeats.info/news/35452"/>
-        <updated>2023-03-10T05:18:20.000Z</updated>
-        <summary type="html"><![CDATA[梭哈债券一时爽，美元加息难收场。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[标记为 Justin Sun 的链上地址已向 Huobi 转入 1亿枚 USDC]]></title>
         <id>https://www.techflowpost.com/express/7056</id>
         <link href="https://www.techflowpost.com/express/7056"/>
@@ -808,16 +864,6 @@ Aisot Technologies主要帮助用户在股票和加密市场的投资组合提�
 此前消息，除全额承担HT波动所导致用户杠杆穿仓的损失外，孙宇晨表示火必将成立1亿美元流动性基金，持续改善主流币，HT 流动性深度，加强杠杆预警与流动性能力。地址链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单但严肃的回顾一下硅谷银行（SVB）的整个事件]]></title>
-        <id>https://www.theblockbeats.info/news/35445</id>
-        <link href="https://www.theblockbeats.info/news/35445"/>
-        <updated>2023-03-10T03:30:42.000Z</updated>
-        <summary type="html"><![CDATA[这场事件的进展取决于很多因素，比如SVB是否会遭遇更加严重的挤兑，甚至是否会破产]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
