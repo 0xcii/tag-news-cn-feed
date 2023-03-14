@@ -128,7 +128,7 @@
           "description": "大机构支持下，Abyss World 有望成为 Sui 上 Gamefi 王牌。",
           "link": "https://www.defidaonews.com/article/6809106",
           "publishedOn": "2023-03-14T10:00:44.000Z",
-          "wordCount": 501,
+          "wordCount": 491,
           "title": "一文详解Abyss World：将成为Sui生态的王牌链游？",
           "imageUrl": "https://appserversrc.8btc.cn/Fh-UIWufplaNU6KszwcRiaaC50ay.png?imageView2/1/w/500/h/300"
         },
@@ -138,7 +138,7 @@
           "description": "2023年3月7日， 连续创业者、前美国驻奥地利大使 Trevor Traina 为一款名为 Kresus 的 Web3 超级应用筹集了 2500 万美元。",
           "link": "https://www.defidaonews.com/article/6809036",
           "publishedOn": "2023-03-14T09:53:16.000Z",
-          "wordCount": 283,
+          "wordCount": 287,
           "title": "Web3“完全防错”超级应用 Kresus 融资 2500 万美元",
           "imageUrl": "https://appserversrc.8btc.cn/Ft9tD4CFiTzihSbN-DVhWz99ZKcM.png?imageView2/1/w/500/h/300"
         },
@@ -148,7 +148,7 @@
           "description": "“区块空间”正在成为加密货币的基石，而比特币和以太坊是其中的领头羊。在本期Bing Ventures专题报告中，我们将探索以太坊区块空间的收益机会，并分析其对整个以太坊生态系统的影响。",
           "link": "https://www.defidaonews.com/article/6809090",
           "publishedOn": "2023-03-14T08:53:50.000Z",
-          "wordCount": 453,
+          "wordCount": 459,
           "title": "探索以太坊区块空间的收益机会",
           "imageUrl": "https://appserversrc.8btc.cn/FmXnMGK1-aMebz0cDtcpWi1LYnQN.png?imageView2/1/w/500/h/300"
         },
@@ -158,7 +158,7 @@
           "description": "展望2023年的加密市场，无疑ZK（零知识）是最令人期待的细分赛道。",
           "link": "https://www.defidaonews.com/article/6809088",
           "publishedOn": "2023-03-14T08:52:50.000Z",
-          "wordCount": 443,
+          "wordCount": 451,
           "title": "2023 年 ZK 赛道有哪些参与机会？（附操作指南）",
           "imageUrl": "https://appserversrc.8btc.cn/FqzyfnkP6nid0shMoFQU4ocYvhXu.png?imageView2/1/w/500/h/300"
         }
@@ -185,7 +185,7 @@
           "description": "Euler Finance 是 DeFi Summer 之后少有的具备创新的 DeFi 项目，它根据资产风险的不同，将资产分成不同的层级（Tiers），每一层的资产具有不同的借贷权...",
           "link": "https://www.web3sj.com/definews/50773/",
           "publishedOn": "2023-03-14T16:05:47.000Z",
-          "wordCount": 910,
+          "wordCount": 893,
           "title": "DeFi可组合性的潘多拉魔盒：Euler Finance被攻击，这11个DeFi项目遭受损失",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1678809893390.png"
         },
@@ -403,7 +403,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35587",
           "author": null,
-          "description": "原文作者：Dforce Mindao\n\n\n\n\n\n借着 Euler 黑客事件，聊聊 DeFi 的安全审计和安全。\n\n\n大的 DeFi 协议基本上都经过多轮审计，我们前前后后 5 次审计费用百万刀级别 大的协议常规审计每年都百万刀，但蓝筹 DeFi 没哪个没被黑过 这里原因很简单，简单的数学问题 从攻防来看，所有静态审计的输入（安全投入）和输出（发现 bug) 都是有限的。\n\n\n除了常规审计，Euler 还用了 Certora 做形式化验证，这个我们之前也用过，形式化验证能帮助穷尽「已知」路径的覆盖范围，但是无法穷尽「未知的未知」。DeFi 是一个开放系统，对于黑客（攻方）来说，它的输入是无限的，输出也是无限的。假设把安全攻防看成挖矿，你守方用三五台机器算哈希挖矿。\n\n\n攻方无数机器时刻在算哈希，只要算对一次就赢了；这个输赢面对比是明显的。静态的安全审计，由于输入输出固定，无法覆盖已知的未知，更无法覆盖未知之未知。所以出现另一种审计，叫开发式竞争型审计，如 Code4rena，审计奖金池固定，但是输入在一定时间内是弹性的，所有人都可以参加，谁发现 bug。\n\n\n按照严重程度，分奖金，这个方式是让审计师/白帽去卷，可以扩大覆盖面，但总体输入依然固定，远远不够。最后是完全开放的模式，那就是赏金网络，DeFi 里最出名的 Immunefy，云集最多 DeFi 白帽高手的平台，我建议每个 DeFi 在上面发 bounty，亲测效果十分明显。Immunefy 的奖金项目方会给非常高。\n\n\n比如最高已支付的是 Warmhole 的千万美金（就是被黑了两亿美金的那个 bridge，又给敲了一大笔 bounty）。这次出事的 Euler 也曾放出 100w 刀赏金，但依旧没发现这次的漏洞。赏金模式在输入输出上也是开放式的，这个类似于黑客的攻击模式。\n\n\n\n\n\n但两者激励模式很大区别。假如把两者当成是抽奖，同样 1000w 奖金池，赏金模式奖金一般都会在 10w-30w 刀封顶 黑客模式是 100% 奖金全拿走 这两种模式，同等投入，同样中奖概率，假设没有犯罪成本，毫无疑问黑客池输入/输出会跑赢。赏金模式就算加到 10%，也跑不赢黑客池，除非把犯罪成本加入等式。\n\n\n有人建议把赏金比例和 TVL 挂钩，比如 10%，是否会激励更多黑客转白帽？首先，没哪个 defi 协议能支付 10% TVL 的赏金，其次，遇到真黑客，他大概率还是愿意一黑到底而不会止步要 10%。DeFi 的安全更复杂问题在于除了代码层面，还有可组合风险（如这次 Euler 波及多个整合协议）。\n\n\n攻击面上，DeFi 本身随着整合增加，攻击面是四维增长的，定期静态安全审计加长期赏金，也无法覆盖不断扩大的攻击面 DeFi 安全是无限游戏，唯一靠谱的是在协议上减少外部依赖（资产/oracle/第三方协议），最小化攻击面，尽量待在「自己的舒适区」，不乱做扩展 对开放系统来说，安全代价就是自由的代价。\n\n\n原文链接",
+          "description": "赏金模式就算加到10%，也跑不赢黑客池，除非把犯罪成本加入等式。",
           "link": "https://www.theblockbeats.info/news/35587",
           "publishedOn": "2023-03-14T14:00:01.000Z",
           "wordCount": null,
@@ -413,7 +413,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35590",
           "author": null,
-          "description": "原文作者：Jaleel、0x22D，BlockBeats\n\n\n\n\n3 月 13 日下午 5 时，Euler Finance 疑遭黑客闪电贷攻击。Euler Finance 在本次黑客闪电贷攻击事件中的受损金额总计约为 1.97 亿美元，其中包括超 880 万枚 DAI、849 枚 WBTC、3400 万 枚 USDC 以及 8.5 万枚 stETH 等。对此，Euler Finance 随即回复正与安全专业人员及执法部门合作，Euler Finance 提出解决方案称，受到该漏洞影响的人将能够要求退款，金库剩余资金可以用于处理退款。\n\n\n\n\n黑客是如何攻击 Euler 的？目前哪些协议受到了影响？曾经为 Euler 提供审计的公司有哪些？BlockBeats 进行了简要梳理。\n\n\n\n\n攻击过程复盘：一个「违规者」和一个「清算者」\n\n\n\n\nEuler Finance 审计合作伙伴之一 Omniscia 发布了一份事后技术分析报告，对这次攻击进行了非常详细的分析，并指出被利用的漏洞源于 Euler 没有对进行捐赠的地址而进行适当的安全检查。\n\n\n\n\n该漏洞代码是在 eIP-14 中被引入的，eIP-14 协议引入了整个 Euler 生态系统中的多个更改。缺陷存在于 EToken 实现 ( EToken: donateToReserves feature ）所做的第一个更改中。于是攻击者利用了易受攻击的代码，允许它通过向协议的储备金捐赠资金来创建无担保的代币债务头寸，使得攻击者能够清算这些账户并从清算奖金中获利。\n\n\n\n\n具体地说，清算模块内部逻辑尝试还清违规者的全部债务，但如果拥有的抵押品无法满足预期还款收益率，则系统会默认使用用户拥有的任何其他抵押品。此代码块的假设状态是，当借款人拥有多种抵押品并且没收所有这些抵押品不会使违规者恢复偿付能力时，就会发生这种情况。 \n\n\n这种安…",
+          "description": "拥有6家审计公司，全明星VC投资，多个知名的defi协议作上游资金提供商的Eular，却在短短时间里被黑了2亿美金。",
           "link": "https://www.theblockbeats.info/news/35590",
           "publishedOn": "2023-03-14T10:50:08.000Z",
           "wordCount": null,
@@ -423,7 +423,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35588",
           "author": null,
-          "description": "原文标题：《30 protocols with strong catalysts in the coming months》\n原文作者：Thor Hartvigsen，加密研究员\n原文编译：Kxp，BlockBeats\n\n\n\n\n在预期美联储加息脚步放缓等多因素叠加背景下，加密市场迎来一轮强劲上涨行情，加密研究员通过梳理 30 个今年需要长期关注的主流项目，把握主流协议在未来几个月中的最新动向。\n\n\n\n\n\n\n\nLido\n\n\nLido V2:\n\n\n· 质押路由器：允许任何人通过模块化的即插即用模式成为节点操作员（目标是提高去中心化程度）\n\n\n· 提款：StETH 持有者可以在上海升级后直接从信标链上提款\n\n\n\n\n\n\n\n\n\nVelodrome\n\n\n\n\nVelodrome 2.0 将在第一季度推出：\n\n\n· VELO FED：veVELO 持有者将在VELO货币政策中获得发言权\n\n\n· 自定义和可调整的货币对交易费用\n\n\n· 集中流动资金池的新方法\n\n\n· 整体 UI/UX 改进\n\n\n· 以及其他一些升级\n\n\n\n\nRadiant Capital\n\n\n\n\nRadiant V2 将在几周后引入：\n\n\n· 跨链扩展（首先是 BNB 链）\n\n\n· 用于借贷的新资产，包括 StETH、BNB、潜在的 GLP、gDAI 和更多通过治理投票的资产\n\n\n· 通过动态流动性减少 RDNT 的排放\n\n\n· UI/UX 得重新设计\n\n\n\n\n\n\n\nFantom Foundation\n\n\n\n\n· fUSD v2：为建设者和用户提供的链上收费系统（可选择使用 fUSD 作为交易费用）\n\n\n· FVM：Solidity 兼容，执行速度更快；测试显示约 4500tps，数据存储减少 98%，主网计划于 2023 年底上线\n\n\n· Andre 将回归\n\n\n\n\nRocket Pool\n\n\n\n\nAtlas 升级：\n\n\n…",
+          "description": "把握主流协议在未来几个月中的最新动向",
           "link": "https://www.theblockbeats.info/news/35588",
           "publishedOn": "2023-03-14T09:16:04.000Z",
           "wordCount": null,
@@ -433,7 +433,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35585",
           "author": null,
-          "description": "原文标题：《\n\n1.97 亿美元大劫案如何发生？Beosin 关于 Euler Finance 事件的简析\n\n》\n原文作者：Beosin\n\n\n\n2023 年 3 月 13 日，据区块链安全审计公司 Beosin 旗下 Beosin EagleEye 安全风险监控、预警与阻断平台监测显示，DeFi 借贷协议 Euler Finance 疑似遭到攻击，损失约 1.97 亿美元。\n\n\nBeosin Trace 追踪发现已有 34,224,863.42 个 USDC 和 849.14 个 WBTC 和 85818.26 个 stETH 和 8,877,507.35 个 DAI 被盗，目前，大部分被盗资金还在攻击者地址，攻击者只转移了 100 个 ETH 到 tornado cash。\n\n\n我们将本次事件的简析分享如下，明天会出一篇更详细的分析，尽请期待。\n\n\nBeosin 安全团队以本次安全事件的其中一笔交易为例分析如下：\n\n\n0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d\n\n\n1. 攻击者首先使用 AAVE 闪电贷出了 3000 万个 DAI，接着将其中的 2000 万 DAI 进行抵押，获得了 19,568,124 个 eDAI 的抵押。\n\n\n2. 攻击者接着调用 mint 函数利用这 19,568,124 个 eDAI 借贷 195,681,243 个 eDAI（抵押资产）和 200,000,000 个 dDAI(债务资产)，从而将自己的 eDAI 余额放大到了十倍。\n\n\n3. 攻击者接着将剩余的 1000 万 DAI 使用 repay 函数进行了质押，再次借贷了 195,681,243 个 eDAI 和 200,000,000 个 dDAI。\n\n\n4. 攻击者后续将进行了 donateToReserves 操作，将一亿的 eDAI 进行了销毁，使得 eDAI 小于了 dDAI 达到了清算条件。\n\n\n5. 最后在清算时，由于先前攻击者通过 donateToReserves 函数和 mint 函数，使抵押资产（eDAI）和债务资产（dDAI）比值小于 1，导致清算人无需向协议转入资金就可以清算攻击者债务。后续攻击者将 Euler 合约所有的 3800 万 DAI 提取出来，并且将 3000 万的 DAI 归还给了 AAVE，获利约 800 万 DAI。\n\n\n\n\n\n\n\n如果你还没有看过瘾，记得关注 Beosin 公众号，我们会在明天出一版深度分析，带你了解事件的更多来龙去脉。\n\n\n\nBeosin 作为一家全球领先的区块链安全公司，在全球 10 多个国家和地区设立了分部，业务涵盖项目上线前的代码安全审计、项目运行时的安全风险监控、预警与阻断、虚拟货币被盗资产追回、安全合规 KYT/AML 等「一站式」区块链安全产品+服务，目前已为全球 3000 多个区块链企业提供安全技术服务，审计智能合约超过 3000 份，保护客户资产高达 5000 多亿美元。欢迎点击公众号留言框，与我们联系。  \n\n\n原文链接",
+          "description": "DeFi借贷协议Euler Finance疑似遭到攻击，损失约1.97亿美元。",
           "link": "https://www.theblockbeats.info/news/35585",
           "publishedOn": "2023-03-14T07:57:30.000Z",
           "wordCount": null,
@@ -443,7 +443,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35586",
           "author": null,
-          "description": "随着 USDC 脱锚危机结束，其流动性恢复，USDC 也在昨日回涨至 1 美元，似乎又恢复了往日的稳定币巨头地位，但此事件过后，其强大的恢复能力也并未削减行业对稳定币的担忧，反而更加剧了对美元挂钩稳定币的担忧。如果 USDC 不算是稳定的资产类别，那么我们应该在哪储存我们的 1 美元呢？今天将介绍一个去中心化借贷协议，也是专注于稳定币的收益协议：Liquity Protocol（LUSD & LQTY），并且 LUSD 也是近期市场谈论较多的稳定币。\n\n\n\n\nLiquity Protocol 简介\n\n\n\n\nLiquity Protocol 是一个去中心化借贷协议，也称 Collateralized Debt Protocol——抵押债务协议（CDP），可以通过抵押 ETH（ETH 是 Liquity 接受的唯一抵押品类型）申请无息借贷，获得 LUSD 稳定币贷款，作为 DeFi 协议，Liquity Protocol 具有不可变、非托管、免费治理的特性，是完全的去中心化 DeFi 协议。\n\n\n\n\nLUSD 与 USDC、USDT 类稳定币不同的是，后者是 1:1 与美元挂钩的，如果资产和负债脱离 1:1，那么该类稳定币就会崩盘，不再稳定。LUSD 的区别是，LUSD 不是与法币（存储在银行中的实物现金）挂钩，而是与 ETH 挂钩。且该协议具抗审查特性，没有监管机构可以禁止 LUSD 的发行，协议完全由代码操作，代码是不可变的。\n\n\n\n\nLiquity Protocol 免息借贷机制是，该协议收取一次性借入和赎回费用。这一费用会根据最近的赎回时间在算法上进行调整。例如：如果近期发生更多的赎回（这意味着 LUSD 的交易价格可能低于 1 美元），则借贷利率（费用）将增加，从而阻碍借贷。\n\n\n\n\n在该项目上进行借贷，需要借款人通过以太坊地址开设一个金库（trove），每个地址只能…",
+          "description": "「与ETH挂钩的美元标准稳定币协议」",
           "link": "https://www.theblockbeats.info/news/35586",
           "publishedOn": "2023-03-14T07:41:24.000Z",
           "wordCount": null,
@@ -453,7 +453,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35567",
           "author": null,
-          "description": "原文标题：《\n\n稳定币脱钩紧急逃生指南\n\n》\n原文作者：CapitalismLab\n\n\n当你持有的稳定币面临脱钩风险，该如何操作？孙哥拿 USDC 换 DAI 这个咋一看无用的操作背后有何逻辑？\n\n\n从主流去中心化稳定币、中心化稳定币再到持币对冲等多种方案，本文将结合底层逻辑、实际数据和案例，为你带来最全面的稳定币脱钩紧急逃生指南。\n\n\n去中心化稳定币\n\n\n紧急逃生的核心目的在于以最低的成本降低风险，为接下来的操作和判断提供时间窗口。所以除了要考虑长期逻辑外，更重要的是其短期要能挂钩住，所以接下来我们将根据挂钩机制的不同来分类说明。\n\n\nA. PSM 通过支持直接与其他稳定币兑换来挂钩，比如 DAI 支持 1: 1 兑 USDC/USDP\n\n\n那么既然都是 1: 1 兑换，孙哥为什么把 USDC 换成 DAI？其实还是有好处的\n\n\nPSM 额度是有上限的，到达上限后就变成了单向转换，即只能 DAI USDC，不能 USDC DAI，单向转换下就成了 DAI>= USDC\n\n\n如果最终 USDC 是只能以 0.98 这种价格换回美元的话，makerDAO 为了 re-peg 可能把这部分债务吃掉\n\n\n如果情况恶化出现了市场崩溃，触发借款人大规模还款、清算，那么需要买回 DAI 来还债，从而推升 DAI 的价格\n\n\n也就是说短期而言，这基本是个稳赚不赔的买卖，而且能够容下大资金，所以自然得到了孙哥亲睐。实际上 3/11 makerDAO 便通过了紧急提案增加 USDCDAI 的费用，并且由于 PSM-USDC 达到上限，DAI 在短时间内也相对 USDC 有过约 2% 的溢价。此条逃生路线并不能完全脱离 USDC 的影响，主要好处在资金容量大，短期确定性强。\n\n\n\n\n\nB. AMO：公开市场价格干预，比如 FRAX/ crvUSD 等\n\n\n比如 FRAX 其底层资产大部分为 C…",
+          "description": "结合底层逻辑、实际数据和案例，为你带来最全面的稳定币脱钩紧急逃生指南",
           "link": "https://www.theblockbeats.info/news/35567",
           "publishedOn": "2023-03-14T06:54:22.000Z",
           "wordCount": null,
@@ -463,7 +463,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35566",
           "author": null,
-          "description": "原文标题：《青衿之志，履践致远｜WTR 3.13》\n原文作者：WatchToweR Crypto    \n\n\n本周回顾\n\n\n本周从 3 月 7 日到 3 月 13 日，冰糖橙最高附近$24517，最低接近$19521，震荡幅度达到 25% 左右。\n\n\n观察筹码分布图，在约 $23337 附近有大量筹码成交，将有一定的支撑或压力。\n\n\n• 分析：\n\n\n1. $22500 ~ $28000 约 153 万枚；\n\n\n2. $18500 ~ $22000 约 254 万枚；；\n\n\n短期内跌不破在 $16500 ~ $20500 概率为 78%。\n\n\n\n\n\n\n重要消息方面\n\n\n经济消息方面\n\n\n1. 美国 2 月 ADP 就业人数增加 24.2 万人，预期 20 万人，前值 10.6 万人。1 月数据修正为增加 11.9 万人。\n\n\n2. 美国劳工部报告（JOLTS），1 月份美国职位空缺为 1082.4 万，前值 12 月修正后数据为 1123.4 万，大约减少了 41 万个岗位，仍高于市场预期的 1050 万。\n\n\na. 劳动力市场需求较强，给工资和通胀带来上行压力。\n\n\n3. 2 月非农新增就业人数 31.1 万人，预期为 22.5 万人，前值为 51.7 万人。\n\n\na. 2 月失业率为 3.6%，预期和前值均为 3.4%；\n\n\nb. 平均时薪同比增长 4.6%，预期 4.7%，前值 4.4%。\n\n\n4. 美国芝加哥商业交易平台（CME）表示，将于 4 月 3 日推出基于美元/离岸人民币期货的期权。\n\n\n5. 本周美油、布油、美国天然气和汽油均为下跌趋势；黄金在本周中间时间下跌，后以微涨收尾。\n\n\n加密生态消息方面\n\n\n1. 美联储副主席：美联储组建了一个研究加密货币创新的团队。\n\n\n2. 美国犹他州立法机关，通过《犹他州去中心化自治组织法案（犹他州 DAO 法案）》，成为第…",
+          "description": "市场有趋于稳定的迹象，情绪有所缓和，抛压水平较低。",
           "link": "https://www.theblockbeats.info/news/35566",
           "publishedOn": "2023-03-14T06:22:16.000Z",
           "wordCount": null,
@@ -473,7 +473,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35565",
           "author": null,
-          "description": "据 BlockBeats 统计，上周融资总数为 24 笔，数量较上周有减少，总金额约 2.6亿 美元，平均融资金额为 3710 万美元。其中，元宇宙/GameFi 占据主体，基础设施和资管/支付领域的融资相对较多，DeFi 领域融资增加，NFT/数字时尚和社交/创作者经济领域融资较少。下图为上周各板块融资占比：\n\n\n\n\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n\n在元宇宙/GameFi 领域共计 3 笔融资，总金额超 8300 万美元，占上周融资总额的 31.96%。\n\n\n\n\nBeliever Company\n\n\n\n\n关注理由：《英雄联盟》母公司高管创立，5500 万美元高额融资，投资阵容强大。\n\n\n\n\n\n\n\n\n\nBlockBeats 消息，3 月 8 日，《英雄联盟》母公司 Riot Games 前高管 Michael Chow 和 Steven Snow 创立的游戏初创公司 The Believer Company 完成 5500 万美元 A 轮融资，光速创投领投，a16z、Bitkraft Ventures、Riot Games、1Up Ventures、Don Thompson 的 Cleveland Avenue、Michael D. Eisner 的 Tornante Company 等参投。\n\n\nThe Believer Company 将首先开发基于原创 IP、叙事的下一代开放世界游戏。Believer 创始人表示，不太可能在 3-5 年内发布产品，其目前对 NFT 游戏持否定态度，不过并非完全放弃 Web3，而是认为在将相关技术应用到游戏中之前需要进行更多的研究开发。\n\n\n\n\nMatchday\n\n\n\n\n关注理由：梅西旗下基金领投，已与 FIFA 建立合作关系，将于第二季度推出首款游戏。\n\n\n \n\n\n\n\n\nBlockBeats 消息，3 月 8 日，Web3 游…",
+          "description": "上周融资总数为24笔，数量较上周有减少，总金额约2.6亿美元，平均融资金额为3710万美元。",
           "link": "https://www.theblockbeats.info/news/35565",
           "publishedOn": "2023-03-14T06:12:48.000Z",
           "wordCount": null,
@@ -483,7 +483,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35562",
           "author": null,
-          "description": "原文标题：《\n\n三家加密友好银行倒下，美国还剩下哪些加密友好型银行？\n\n》\n原文作者：\n\n月之暗面，PANews\n\n\n\n每个 3·12 都值得加密世界纪念。\n\n\n上周三，Silvergate Capital 宣布结束运营并进行最终清算；上周五，SVB（硅谷银行）在遭受 420 亿美元挤兑后宣布倒闭；而在 3 月 12 日，Signature Bank 被监管部门直接关闭。\n\n\n受此一连串的暴击，比特币最低跌到 2 万美元以下，而 USDC 遭受短暂「脱锚」波动，在紧急救市措施出台后，目前整体市场已经回暖，但更严峻的考验已经到来。\n\n\n越来越多的银行会在市场波动和监管趋紧的双重逼迫下远离加密市场，作为出入金的重要通道，目前美国有哪些加密友好型银行？\n\n\n或崩于 FTX，或苟过 SVB\n\n\n美国曾一度是对加密银行最为宽容的经济体，The Block 曾在 2020 年总结了一份加密友好型银行名单，其中既有摩根大通这样的顶级银行，也有 Silvergate Capital 和 Signature Bank 这种传统意义上的社区零售银行。\n\n\n\n\n\n但是 FTX 的崩溃改变了一切，2023 年 1 月份，美国三个银行业监管部门，美联储、货币监理署（OCC）和联邦存款保险公司（FDIC）联合发表了一份声明，希望银行最好不要参与加密相关业务，并且严格审查各项业务的合规性。\n\n\n在此背景下，多个跟加密业务，尤其是 FTX 关系密切的银行选择退出加密市场。\n\n\n将离场的加密友好银行\n\n\n•摩根大通\n\n\n摩根大通自身推出了 Onyx 系统，该系统允许多银行、多货币资产在许可的分布式账本上进行即时转移和清算。2022 年 2 月，摩根大通上线 Decentraland，成为第一家在元宇宙中设置服务的银行，此外，还专注于提供加密货币支付服务，如加密货币支付处理、区块链技术解决方案等。\n\n\n然而，…",
+          "description": "越来越多的银行会在市场波动和监管趋紧的双重逼迫下远离加密市场，作为出入金的重要通道，目前美国有哪些加密友好型银行？",
           "link": "https://www.theblockbeats.info/news/35562",
           "publishedOn": "2023-03-14T04:42:02.000Z",
           "wordCount": null,
@@ -493,7 +493,7 @@
         {
           "id": "https://www.theblockbeats.info/news/35564",
           "author": null,
-          "description": "原文来源：\n\nBinaryX\n\n\nBinaryX 今天宣布即将发布一款虚拟太空建造模拟游戏——《Project Matthew》。该团队发布了预告片视频，首次公开展示了游戏的内容，并且同时开放让玩家申请参与即将进行的游戏内测。\n\n\n关于《Project Matthew》：振奋人心的虚拟新太空建造游戏\n\n\n《Project Matthew》是 BinaryX 即将推出的模拟太空建造模拟游戏。\n\n\n该游戏的故事背景发生在外太空，玩家在游戏中作为马修星球的创建者。游戏的目标是通过建立工业生产线开发星球资源来生产稀有或所需材料以进一步发展和建立自己的太空城市。\n\n\n城市建设\n\n\n冒险从玩家获得一个地块「NFT」开始。地块「NFT」被分为不同品质，品质越高的地块所蕴含的初始资源越丰富。玩家可以建造不同类型的助手机器人，它们将提供不同的技能来搜集资源和探索新的领土，以发展太空城市。\n\n\n虚拟军队\n\n\n玩家可以招募不同技能和能力的机器人建立虚拟军队，在战场上挑战敌人以获得丰厚的奖励。挑战战场被分为不同难度等级，难度越大，奖励越丰厚。\n\n\n太空探索\n\n\n探索是《Project Matthew》中获得奖励和资源的主要方式之一。该游戏玩法涵盖了一系列探索相邻星球和遥远星系的操作，发现更多的可能性。\n\n\n「《Project Matthew》是我们在 2023 年上半年最注重的游戏项目。我们希望不断引进新的游戏类型来扩充 BinaryX 生态系统，而这款游戏是我们平台上的第一款模拟太空游戏。这是由卡牌游戏向元宇宙游戏迈出的一大步，我们希望玩家能够沉浸在作为土地所有者和探险家的太空世界中。同时我们也非常欢迎全球的太空爱好者和虚拟游戏玩家加入我们的社区。」BinaryX 全球业务运营和发展负责人 Rudy S. 表示。\n\n\n观看官方预告片\n\n\n加入封闭测试\n\n\nBinaryX 将通过一次封闭测试开始《Project Matthew》项目的推出。注册将于 3 月 13 日 UTC+8 晚上 9 点开始，截止于 3 月 20 日 UTC+8 下午 6 点。封闭测试仅面向 Windows 用户，更多详细信息将在他们的注册页面和社交媒体渠道上公布。\n\n\n在此注册封闭测试。\n\n\n关于 BinaryX\n\n\nBinaryX 是 Play-to-Earn 游戏 CyberDragon 和 CyberChess 背后的 GameFi 平台，两款游戏都在 BNB 链上运行。\n\n\nBinaryX 最初是一个去中心化的衍生品交易系统。该团队逐渐转变为开发去中心化的视频游戏，并现在成为 GameFi 平台，为 Web2 开发人员提供 IGO 服务以连接到 Web3。\n\n\n作为 BNB 链上前十大项目之一，BinaryX 拥有超过 10 万个 Token 持有者和每月活跃钱包数量达到 1.7 万个的庞大社区。它也是 BNB 链上交易量最大的大型元宇宙项目之一，市值超过 2 亿美元。BinaryX 还拥有一种 Token BNX，尽管市场处于熊市，但表现一直稳健。\n\n\n\n\n\n本文来自投稿，不代表 BlockBeats 观点",
+          "description": "该游戏的故事背景发生在外太空，玩家在游戏中作为马修星球的创建者。",
           "link": "https://www.theblockbeats.info/news/35564",
           "publishedOn": "2023-03-14T04:01:31.000Z",
           "wordCount": null,
@@ -513,7 +513,7 @@
           "description": "深潮 TechFlow 消息 3月14日，据 The Block 报道，主打并行交易的区块链基础设施开发商 Smooth Labs 宣布完成 200 万美元种子轮融资，由 NGC Ventures 领投，ArkStream Capital，Cogitent Ventures，Token Metrics，Alves Ventures 等参投。\n据悉，Smooth 是首个并行交易中间件，兼容 EVM ，为现有的 Layer 2 和 App Chain 提供高性能交易框架，并为后续的区块链开发提供通用的交易模式。Smooth表示这笔融资资金将被用来技术研发和扩展核心团队，项目预计在第三季度上线测试网。原文链接",
           "link": "https://www.techflowpost.com/express/7118",
           "publishedOn": "2023-03-14T14:34:21.000Z",
-          "wordCount": 24909,
+          "wordCount": 24940,
           "title": "区块链并行交易中间件 Smooth 完成 200 万美元种子轮融资，NGC领投",
           "imageUrl": null
         },
@@ -523,7 +523,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，OKX总裁Hong确认将于 2023 年 4 月 12 日出席「2023 香港 Web3 嘉年华」主论坛并发表主题演讲。此前，Hong曾在高盛担任8年投资银行家，专注于传统金融机构和金融科技公司的并购、投资等业务。\n据悉，「2023 香港 Web3 嘉年华」由万向区块链实验室、HashKey Group 联合主办，W3ME 承办。香港特别行政区财政司司长陈茂波先生已确认出席该活动开幕式并发表主旨演讲。作为Web3香港嘉年华的冠名赞助商，OKX是主办方唯一认证的NFT门票发行合作伙伴。通过OKX Wallet购买该活动NFT门票，即可享受7.5折优惠，限量1000张。",
           "link": "https://www.techflowpost.com/express/7117",
           "publishedOn": "2023-03-14T12:44:46.000Z",
-          "wordCount": 24911,
+          "wordCount": 24880,
           "title": "OKX总裁Hong确认出席「2023 香港 Web3 嘉年华」并发表主题演讲",
           "imageUrl": null
         },
@@ -533,7 +533,7 @@
           "description": "深潮 TechFlow 消息，加密基础设施开发商 Orbs 将从风投机构 DWF Labs 筹集 1000 万美元。Orbs 表示，DWF Labs 将购买价值高达 1000 万美元的 Orbs Token。Orbs 首席执行官 Nadav Shemesh 表示，总投资的第一部分于今日结算。他补充说，其余的投资将“按平均价格计算”。\n据悉，Orbs 成立于 2017 年，计划继续开发其基础设施以增加在 EVM 链和 TON 上的采用率，据加密数据平台 RootData 显示，Orbs 至今已在 BNB Chain、Avalanche、Fantom 等网络上部署。来源链接",
           "link": "https://www.techflowpost.com/express/7116",
           "publishedOn": "2023-03-14T12:19:26.000Z",
-          "wordCount": 24971,
+          "wordCount": 24940,
           "title": "DWF Labs 将购买价值 1000 万美元的 Orbs 代币",
           "imageUrl": null
         },
@@ -623,7 +623,7 @@
           "description": "深潮 TechFlow 消息，据推特用户余烬监测，美图董事长蔡文胜朋友地址在 20 分钟前和昨天下午一共将 3800 枚 ETH（约 627 万美元）转入币安，该地址于 4 天前买入 ETH 的价格为 1431 美元。来源链接",
           "link": "https://www.techflowpost.com/express/7107",
           "publishedOn": "2023-03-14T03:07:03.000Z",
-          "wordCount": 24905,
+          "wordCount": 24936,
           "title": "蔡文胜朋友地址昨日以来共将 3800 枚 ETH 转入币安",
           "imageUrl": null
         },
@@ -643,7 +643,7 @@
           "description": "深潮 TechFlow 消息，据知情人士透露，美国曼哈顿联邦检察官正在调查 Jump、Jane Street 和 Alameda Research 的员工去年 5 月在 Telegram 上的关于可能对 TerraUSD（UST） 稳定币项目进行救助的聊天记录，以及是否涉及可能的市场操纵。作为聊天审查的一部分，没有人被指控有不当行为，调查并不一定意味着会提出指控。\n此前报道，据《华尔街日报》援引知情人士的消息，美国司法部正在调查去年 TerraUSD 稳定币的崩溃原因。原文链接",
           "link": "https://www.techflowpost.com/express/7105",
           "publishedOn": "2023-03-14T02:53:07.000Z",
-          "wordCount": 24911,
+          "wordCount": 24942,
           "title": "美检察官正调查 Jump、Jane Street 和 Alameda 涉及 TerraUSD 的聊天记录",
           "imageUrl": null
         },
@@ -663,7 +663,7 @@
           "description": "深潮 TechFlow 消息，3月14日，据OKX官方消息，OKX NFT市场已开放申请香港Web3嘉年华NFT门票白名单，限量1000张低至7.5折。\n据悉，作为Web3香港嘉年华的冠名赞助商，OKX是主办方唯一认证的门票NFT发行合作伙伴。凡通过OKX Wallet购买嘉年华门票NFT的用户，均可获得OKX NFT Holder专属参会身份，并享OKX专属纪念勋章空投，尊享NFT门票入场通道等多种权益。原文链接",
           "link": "https://www.techflowpost.com/express/7103",
           "publishedOn": "2023-03-14T02:12:21.000Z",
-          "wordCount": 24870,
+          "wordCount": 24901,
           "title": "OKX NFT市场开放香港Web3嘉年华NFT门票白名单，限量1000张低至7.5折",
           "imageUrl": null
         },
@@ -733,7 +733,7 @@
           "description": "深潮 TechFlow 消息，3 月 13 日，PeckShield 监测显示，以太坊联合创始人 Vitalik Buterin 在过去一小时内通过 vitalik.eth 地址向 Kraken 转入 200 枚以太坊。原文链接",
           "link": "https://www.techflowpost.com/express/7096",
           "publishedOn": "2023-03-13T13:39:42.000Z",
-          "wordCount": 24892,
+          "wordCount": 24923,
           "title": "派盾：V 神向 Kraken 转入 200 枚以太坊",
           "imageUrl": null
         },
@@ -763,7 +763,7 @@
           "description": "深潮 TechFlow 消息，3月13日，据官方消息，Filecoin EVM 升级预期将于2023年03月14日上线，为支持新公链发展和促进多链生态繁荣，OKX Web3钱包将于 Filecoin EVM 主网正式上线后 24 小时内，率先完成接入。届时，用户可使用OKX Web3钱包管理自己的Fielcoin EVM资产。\n据了解，欧易Web3钱包是最全面的异构多链钱包，已支持50+条公链，涵盖钱包、DEX、赚币、NFT市场、Dapp探索5大板块，能够满足用户一站式Web3需求。原文链接",
           "link": "https://www.techflowpost.com/express/7093",
           "publishedOn": "2023-03-13T13:00:55.000Z",
-          "wordCount": 24875,
+          "wordCount": 24906,
           "title": "OKX Web3钱包即将首发接入FEVM",
           "imageUrl": null
         },
@@ -783,7 +783,7 @@
           "description": "深潮 TechFlow 消息，数据分析师余烬表示，SSV开发公司Blox Holdings地址向币安转入29990枚SSV（价值约114万美元）。\n这个地址中的SSV源于2021年10月18日将5000万枚CDT（ssv.network旧代币）兑换为50万SSV，目前地址内还持有470010 SSV（价值约1790万美元）。原文链接",
           "link": "https://www.techflowpost.com/express/7091",
           "publishedOn": "2023-03-13T09:43:13.000Z",
-          "wordCount": 24913,
+          "wordCount": 24882,
           "title": "SSV 开发公司 Blox 地址向币安转入近 3 万枚 SSV",
           "imageUrl": null
         },
@@ -803,7 +803,7 @@
           "description": "深潮 TechFlow 消息，据CoinDesk报道，国际货币基金组织 (IMF) 已警告G20国家，加密资产的广泛使用可能导致银行失去存款并减少贷款。IMF于2月份在印度举行的一次会议上向20国集团提交了关于“加密资产的宏观金融影响”的报告，该报告于周一公布，几天前，对加密友好的银行Signature Bank、硅谷银行 (SVB)和Silvergate Bank相继倒闭。\n报告称：“加密资产的广泛使用给货币政策的有效性、汇率管理、资本流动管理措施以及财政可持续性带来了巨大风险。此外，央行储备和全球金融安全网可能需要改变，从而带来潜在的不稳定。最后，银行可能会失去存款，不得不减少放贷。”该报告还指出，“尽管具体风险的重要性和相关性因国家情况而异，但加密资产存在许多风险。”不过，该报告还指出，尽管存在“显着风险，加密资产已经开发出公共部门可以利用的技术来实现其自身的政策目标”。原文链接",
           "link": "https://www.techflowpost.com/express/7088",
           "publishedOn": "2023-03-13T08:18:06.000Z",
-          "wordCount": 24895,
+          "wordCount": 24864,
           "title": "IMF警告G20国家：加密货币的广泛使用可能导致银行失去存款并减少贷款",
           "imageUrl": null
         },
@@ -823,7 +823,7 @@
           "description": "深潮 TechFlow 消息，BitKeep NFT 市场在 BNB Chain 和 Polygon 链上的最新交易量数据：昨日 BNB Chain 上交易量超 4.1 万美金，排名第一。同时，过去一周 Polygon 链上交易量近 15 万美金，亦位居首位。数据来源：DappRadar。\nBitKeep NFT 交易市场支持以太坊、BNB Chain、Polygon、Arbitrum 等 8 条主流公链，为用户提供 NFT 交易、批量挂单、热门合集、数据分析等一站式服务，并根据市场和用户需求不断添加新功能，包括去中心化域名交易、FreeMint、热门项目首发 Mint、NFT 头像等，持续打造丰富多元的 NFT 交易场景，目前已增长为 BNB Chain 及 Polygon 第一，Arbitrum 前二的 NFT 交易市场，用户活跃钱包数和交易量增长迅速。原文链接",
           "link": "https://www.techflowpost.com/express/7086",
           "publishedOn": "2023-03-13T06:52:28.000Z",
-          "wordCount": 24933,
+          "wordCount": 24964,
           "title": "数据：BitKeep NFT 市场再次登顶 BNB Chain 和 Polygon 交易量第一",
           "imageUrl": null
         },
@@ -853,7 +853,7 @@
           "description": "深潮 TechFlow 消息，基于ZKRollup的隐私和扩容解决方案Aztec Network宣布将逐步关停DeFi隐私桥项目Aztec Connect，将于一周后禁用从zk.money和其他前端（如zkpay.finance）将资金存入Aztec Connect合约，但用户能够在一年内免费取款。Aztec团队预计将于1年后彻底放弃Aztec Connect合约，所有Rollup功能将停止，预计时间为2024年3月21日。Aztec Network建议用户尽快提取资金。\nAztec团队表示，现已完全开源整个Aztec Connect协议，包括扩展升级和新的安全SDK。鼓励Aztec社区分叉、部署和运行新版本，愿意看到独立运营的Aztec Connect并准备为其提供资金。Aztec团队的中长期重点将集中在Noir语言和下一代加密区块链的开发上，这两个产品将相互兼容、相互关联。原文链接",
           "link": "https://www.techflowpost.com/express/7082",
           "publishedOn": "2023-03-13T03:59:05.000Z",
-          "wordCount": 24877,
+          "wordCount": 24908,
           "title": "Aztec Network将重点开发基于Noir语言的新产品，并将逐步关停Aztec Connect",
           "imageUrl": null
         },
@@ -883,7 +883,7 @@
           "description": "深潮 TechFlow 消息，高盛表示，鉴于近期银行系统的压力，不再期望美联储在 3 月 22 日的会议上加息。\n维持美联储将在 5 月、6 月和 7 月加息 25 个基点的预期不变，现在预计终端利率为5.25-5.5%。3月份之后的加息路径存在相当大的不确定性。原文链接",
           "link": "https://www.techflowpost.com/express/7079",
           "publishedOn": "2023-03-13T02:53:22.000Z",
-          "wordCount": 24905,
+          "wordCount": 24874,
           "title": "高盛：不再期望美联储在3月22日会议上加息",
           "imageUrl": null
         },
@@ -893,7 +893,7 @@
           "description": "深潮 TechFlow 消息，币安 CEO 赵长鹏发布推特称，既然银行都是经过审计的，那么一个大胆的想法：或许银行应该使用 merkle 树来做准备金证明？即使不是100%，我们也应该知道一部分，对吗？我们需要透明度。原文链接\n=",
           "link": "https://www.techflowpost.com/express/7078",
           "publishedOn": "2023-03-13T02:49:23.000Z",
-          "wordCount": 24903,
+          "wordCount": 24934,
           "title": "CZ：或许银行应该使用 Merkle Tree 做准备金证明",
           "imageUrl": null
         },
@@ -933,7 +933,7 @@
           "description": "深潮 TechFlow 消息，TownStoryGalaxy官方信息发布公告，主打Web2用户体验Web3世界为核心的加密社交游戏TownStoryGalaxy游戏内测即将开始，首批内测体验官公开招募计划正式启动，招募时间：2023年3月12日 – 2023年3月22日。本期预计招募一百名志愿者，并特邀包含社区意见领袖，行业从业者，媒体等30名特邀游戏测试官参与游戏测试。参与测试人员将可以获得游戏头像NFT，白名单，游戏宝箱等奖励。\nTownStoryGalaxy 是一款由湾区游戏工作室打造的创新Web3社交经营类游戏，用户可以在游戏中建造自己的小镇，收获NFT和Token。游戏未来将打造成Web3版本的 \"动物森友会\" ，以社交为核心、集成交易、DEFI、娱乐等多种基础设施的Web3社交游戏平台，为Web3行业带来海量新增Web2用户。报名链接",
           "link": "https://www.techflowpost.com/express/7074",
           "publishedOn": "2023-03-12T07:43:43.000Z",
-          "wordCount": 24902,
+          "wordCount": 24871,
           "title": "基于 Arbitrum 的全球首款社交概念链游 TownStoryGalaxy 开启内测申请",
           "imageUrl": null
         },
@@ -953,7 +953,7 @@
           "description": "深潮 TechFlow 消息，据彭博社报道，超过 100 家风险投资和投资公司签署了一份支持硅谷银行的声明，这是越来越多的行业呼吁的一部分，旨在降低硅谷银行倒闭的影响，避免科技公司可能出现“灭绝级事件”。\n据一位知情人士透露，截至旧金山时间周六下午，包括红杉资本在内的约 125 家风投公司在这份声明上签了名，由风投公司 General Catalyst 牵头。该声明上周五首次由一小群签署人发布。声明称，过去两天发生的事件“令人深感失望和担忧”，并表示，如果该机构被另一个实体收购，投资者将继续与该机构保持关系。\n同样在周六，创业孵化器 Y Combinator 发布了一份由数百名创始人和首席执行官签署的请愿书，致美国财政部长珍妮特·耶伦和其他监管机构，要求“缓解和关注对小企业、创业公司及其作为银行储户的员工的直接重大影响”。请愿书要求对在硅谷银行存入资金的小企业进行整顿，并要求国会“恢复对地区银行更严格的监管和资本要求”。来源链接",
           "link": "https://www.techflowpost.com/express/7072",
           "publishedOn": "2023-03-12T01:27:26.000Z",
-          "wordCount": 24888,
+          "wordCount": 24919,
           "title": "硅谷银行获得包括红杉资本在内的超过 100 家 VC 和投资者支持",
           "imageUrl": null
         },
@@ -973,7 +973,7 @@
           "description": "深潮 TechFlow 消息，MakerDAO发推称，过去24小时有7.36亿枚DAI通过PSM（USDC）被铸造，使得过去24小时通过所有PSM铸造的DAI净增加2.96亿枚。\n据 OKX 数据显示，稳定币 DAI 已出现明显脱锚，现报 0.947 美元，24 小时跌幅 5.22%。原文链接",
           "link": "https://www.techflowpost.com/express/7070",
           "publishedOn": "2023-03-11T04:26:12.000Z",
-          "wordCount": 24889,
+          "wordCount": 24920,
           "title": "MakerDAO：过去24小时7.36亿枚DAI通过PSM（USDC）被铸造",
           "imageUrl": null
         },
@@ -983,7 +983,7 @@
           "description": "深潮 TechFlow 消息，据 Coinbase 发推表示，平台将在周末银行关闭时暂停 USDC-USD 的转换。在兑换活动繁忙的时候，转换依赖于银行在正常营业时间内清算的美元转账。\nCoinbase 计划在银行周一开门时重新开始提供转换服务。用户的资产是安全的，随时可以在链上转移。来源链接",
           "link": "https://www.techflowpost.com/express/7069",
           "publishedOn": "2023-03-11T03:54:27.000Z",
-          "wordCount": 24880,
+          "wordCount": 24911,
           "title": "Coinbase：将暂时关闭 USDC 与 USD 转换服务，计划于周一重启",
           "imageUrl": null
         },
