@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T18:22:12.167Z</id>
+    <id>urn:2023-03-14T19:14:45.946Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-14T18:22:12.167Z</updated>
+    <updated>2023-03-14T19:14:45.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -279,7 +279,40 @@ Capsule 于去年由 Layer 1 区块链 Celo 前产品负责人 Nitya Subramanian
         <id>https://www.theblockbeats.info/news/35590</id>
         <link href="https://www.theblockbeats.info/news/35590"/>
         <updated>2023-03-14T10:50:08.000Z</updated>
-        <summary type="html"><![CDATA[拥有6家审计公司，全明星VC投资，多个知名的defi协议作上游资金提供商的Eular，却在短短时间里被黑了2亿美金。]]></summary>
+        <summary type="html"><![CDATA[原文作者：Jaleel、0x22D，BlockBeats
+
+
+
+
+3 月 13 日下午 5 时，Euler Finance 疑遭黑客闪电贷攻击。Euler Finance 在本次黑客闪电贷攻击事件中的受损金额总计约为 1.97 亿美元，其中包括超 880 万枚 DAI、849 枚 WBTC、3400 万 枚 USDC 以及 8.5 万枚 stETH 等。对此，Euler Finance 随即回复正与安全专业人员及执法部门合作，Euler Finance 提出解决方案称，受到该漏洞影响的人将能够要求退款，金库剩余资金可以用于处理退款。
+
+
+
+
+黑客是如何攻击 Euler 的？目前哪些协议受到了影响？曾经为 Euler 提供审计的公司有哪些？BlockBeats 进行了简要梳理。
+
+
+
+
+攻击过程复盘：一个「违规者」和一个「清算者」
+
+
+
+
+Euler Finance 审计合作伙伴之一 Omniscia 发布了一份事后技术分析报告，对这次攻击进行了非常详细的分析，并指出被利用的漏洞源于 Euler 没有对进行捐赠的地址而进行适当的安全检查。
+
+
+
+
+该漏洞代码是在 eIP-14 中被引入的，eIP-14 协议引入了整个 Euler 生态系统中的多个更改。缺陷存在于 EToken 实现 ( EToken: donateToReserves feature ）所做的第一个更改中。于是攻击者利用了易受攻击的代码，允许它通过向协议的储备金捐赠资金来创建无担保的代币债务头寸，使得攻击者能够清算这些账户并从清算奖金中获利。
+
+
+
+
+具体地说，清算模块内部逻辑尝试还清违规者的全部债务，但如果拥有的抵押品无法满足预期还款收益率，则系统会默认使用用户拥有的任何其他抵押品。此代码块的假设状态是，当借款人拥有多种抵押品并且没收所有这些抵押品不会使违规者恢复偿付能力时，就会发生这种情况。 
+
+
+这种安…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -342,7 +375,115 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35588</id>
         <link href="https://www.theblockbeats.info/news/35588"/>
         <updated>2023-03-14T09:16:04.000Z</updated>
-        <summary type="html"><![CDATA[把握主流协议在未来几个月中的最新动向]]></summary>
+        <summary type="html"><![CDATA[原文标题：《30 protocols with strong catalysts in the coming months》
+原文作者：Thor Hartvigsen，加密研究员
+原文编译：Kxp，BlockBeats
+
+
+
+
+在预期美联储加息脚步放缓等多因素叠加背景下，加密市场迎来一轮强劲上涨行情，加密研究员通过梳理 30 个今年需要长期关注的主流项目，把握主流协议在未来几个月中的最新动向。
+
+
+
+
+
+
+
+Lido
+
+
+Lido V2:
+
+
+· 质押路由器：允许任何人通过模块化的即插即用模式成为节点操作员（目标是提高去中心化程度）
+
+
+· 提款：StETH 持有者可以在上海升级后直接从信标链上提款
+
+
+
+
+
+
+
+
+
+Velodrome
+
+
+
+
+Velodrome 2.0 将在第一季度推出：
+
+
+· VELO FED：veVELO 持有者将在VELO货币政策中获得发言权
+
+
+· 自定义和可调整的货币对交易费用
+
+
+· 集中流动资金池的新方法
+
+
+· 整体 UI/UX 改进
+
+
+· 以及其他一些升级
+
+
+
+
+Radiant Capital
+
+
+
+
+Radiant V2 将在几周后引入：
+
+
+· 跨链扩展（首先是 BNB 链）
+
+
+· 用于借贷的新资产，包括 StETH、BNB、潜在的 GLP、gDAI 和更多通过治理投票的资产
+
+
+· 通过动态流动性减少 RDNT 的排放
+
+
+· UI/UX 得重新设计
+
+
+
+
+
+
+
+Fantom Foundation
+
+
+
+
+· fUSD v2：为建设者和用户提供的链上收费系统（可选择使用 fUSD 作为交易费用）
+
+
+· FVM：Solidity 兼容，执行速度更快；测试显示约 4500tps，数据存储减少 98%，主网计划于 2023 年底上线
+
+
+· Andre 将回归
+
+
+
+
+Rocket Pool
+
+
+
+
+Atlas 升级：
+
+
+…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -404,7 +545,58 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35585</id>
         <link href="https://www.theblockbeats.info/news/35585"/>
         <updated>2023-03-14T07:57:30.000Z</updated>
-        <summary type="html"><![CDATA[DeFi借贷协议Euler Finance疑似遭到攻击，损失约1.97亿美元。]]></summary>
+        <summary type="html"><![CDATA[原文标题：《
+
+1.97 亿美元大劫案如何发生？Beosin 关于 Euler Finance 事件的简析
+
+》
+原文作者：Beosin
+
+
+
+2023 年 3 月 13 日，据区块链安全审计公司 Beosin 旗下 Beosin EagleEye 安全风险监控、预警与阻断平台监测显示，DeFi 借贷协议 Euler Finance 疑似遭到攻击，损失约 1.97 亿美元。
+
+
+Beosin Trace 追踪发现已有 34,224,863.42 个 USDC 和 849.14 个 WBTC 和 85818.26 个 stETH 和 8,877,507.35 个 DAI 被盗，目前，大部分被盗资金还在攻击者地址，攻击者只转移了 100 个 ETH 到 tornado cash。
+
+
+我们将本次事件的简析分享如下，明天会出一篇更详细的分析，尽请期待。
+
+
+Beosin 安全团队以本次安全事件的其中一笔交易为例分析如下：
+
+
+0xc310a0affe2169d1f6feec1c63dbc7f7c62a887fa48795d327d4d2da2d6b111d
+
+
+1. 攻击者首先使用 AAVE 闪电贷出了 3000 万个 DAI，接着将其中的 2000 万 DAI 进行抵押，获得了 19,568,124 个 eDAI 的抵押。
+
+
+2. 攻击者接着调用 mint 函数利用这 19,568,124 个 eDAI 借贷 195,681,243 个 eDAI（抵押资产）和 200,000,000 个 dDAI(债务资产)，从而将自己的 eDAI 余额放大到了十倍。
+
+
+3. 攻击者接着将剩余的 1000 万 DAI 使用 repay 函数进行了质押，再次借贷了 195,681,243 个 eDAI 和 200,000,000 个 dDAI。
+
+
+4. 攻击者后续将进行了 donateToReserves 操作，将一亿的 eDAI 进行了销毁，使得 eDAI 小于了 dDAI 达到了清算条件。
+
+
+5. 最后在清算时，由于先前攻击者通过 donateToReserves 函数和 mint 函数，使抵押资产（eDAI）和债务资产（dDAI）比值小于 1，导致清算人无需向协议转入资金就可以清算攻击者债务。后续攻击者将 Euler 合约所有的 3800 万 DAI 提取出来，并且将 3000 万的 DAI 归还给了 AAVE，获利约 800 万 DAI。
+
+
+
+
+
+
+
+如果你还没有看过瘾，记得关注 Beosin 公众号，我们会在明天出一版深度分析，带你了解事件的更多来龙去脉。
+
+
+
+Beosin 作为一家全球领先的区块链安全公司，在全球 10 多个国家和地区设立了分部，业务涵盖项目上线前的代码安全审计、项目运行时的安全风险监控、预警与阻断、虚拟货币被盗资产追回、安全合规 KYT/AML 等「一站式」区块链安全产品+服务，目前已为全球 3000 多个区块链企业提供安全技术服务，审计智能合约超过 3000 份，保护客户资产高达 5000 多亿美元。欢迎点击公众号留言框，与我们联系。  
+
+
+原文链接]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -414,7 +606,32 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35586</id>
         <link href="https://www.theblockbeats.info/news/35586"/>
         <updated>2023-03-14T07:41:24.000Z</updated>
-        <summary type="html"><![CDATA[「与ETH挂钩的美元标准稳定币协议」]]></summary>
+        <summary type="html"><![CDATA[随着 USDC 脱锚危机结束，其流动性恢复，USDC 也在昨日回涨至 1 美元，似乎又恢复了往日的稳定币巨头地位，但此事件过后，其强大的恢复能力也并未削减行业对稳定币的担忧，反而更加剧了对美元挂钩稳定币的担忧。如果 USDC 不算是稳定的资产类别，那么我们应该在哪储存我们的 1 美元呢？今天将介绍一个去中心化借贷协议，也是专注于稳定币的收益协议：Liquity Protocol（LUSD & LQTY），并且 LUSD 也是近期市场谈论较多的稳定币。
+
+
+
+
+Liquity Protocol 简介
+
+
+
+
+Liquity Protocol 是一个去中心化借贷协议，也称 Collateralized Debt Protocol——抵押债务协议（CDP），可以通过抵押 ETH（ETH 是 Liquity 接受的唯一抵押品类型）申请无息借贷，获得 LUSD 稳定币贷款，作为 DeFi 协议，Liquity Protocol 具有不可变、非托管、免费治理的特性，是完全的去中心化 DeFi 协议。
+
+
+
+
+LUSD 与 USDC、USDT 类稳定币不同的是，后者是 1:1 与美元挂钩的，如果资产和负债脱离 1:1，那么该类稳定币就会崩盘，不再稳定。LUSD 的区别是，LUSD 不是与法币（存储在银行中的实物现金）挂钩，而是与 ETH 挂钩。且该协议具抗审查特性，没有监管机构可以禁止 LUSD 的发行，协议完全由代码操作，代码是不可变的。
+
+
+
+
+Liquity Protocol 免息借贷机制是，该协议收取一次性借入和赎回费用。这一费用会根据最近的赎回时间在算法上进行调整。例如：如果近期发生更多的赎回（这意味着 LUSD 的交易价格可能低于 1 美元），则借贷利率（费用）将增加，从而阻碍借贷。
+
+
+
+
+在该项目上进行借贷，需要借款人通过以太坊地址开设一个金库（trove），每个地址只能…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -434,7 +651,51 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35567</id>
         <link href="https://www.theblockbeats.info/news/35567"/>
         <updated>2023-03-14T06:54:22.000Z</updated>
-        <summary type="html"><![CDATA[结合底层逻辑、实际数据和案例，为你带来最全面的稳定币脱钩紧急逃生指南]]></summary>
+        <summary type="html"><![CDATA[原文标题：《
+
+稳定币脱钩紧急逃生指南
+
+》
+原文作者：CapitalismLab
+
+
+当你持有的稳定币面临脱钩风险，该如何操作？孙哥拿 USDC 换 DAI 这个咋一看无用的操作背后有何逻辑？
+
+
+从主流去中心化稳定币、中心化稳定币再到持币对冲等多种方案，本文将结合底层逻辑、实际数据和案例，为你带来最全面的稳定币脱钩紧急逃生指南。
+
+
+去中心化稳定币
+
+
+紧急逃生的核心目的在于以最低的成本降低风险，为接下来的操作和判断提供时间窗口。所以除了要考虑长期逻辑外，更重要的是其短期要能挂钩住，所以接下来我们将根据挂钩机制的不同来分类说明。
+
+
+A. PSM 通过支持直接与其他稳定币兑换来挂钩，比如 DAI 支持 1: 1 兑 USDC/USDP
+
+
+那么既然都是 1: 1 兑换，孙哥为什么把 USDC 换成 DAI？其实还是有好处的
+
+
+PSM 额度是有上限的，到达上限后就变成了单向转换，即只能 DAI USDC，不能 USDC DAI，单向转换下就成了 DAI>= USDC
+
+
+如果最终 USDC 是只能以 0.98 这种价格换回美元的话，makerDAO 为了 re-peg 可能把这部分债务吃掉
+
+
+如果情况恶化出现了市场崩溃，触发借款人大规模还款、清算，那么需要买回 DAI 来还债，从而推升 DAI 的价格
+
+
+也就是说短期而言，这基本是个稳赚不赔的买卖，而且能够容下大资金，所以自然得到了孙哥亲睐。实际上 3/11 makerDAO 便通过了紧急提案增加 USDCDAI 的费用，并且由于 PSM-USDC 达到上限，DAI 在短时间内也相对 USDC 有过约 2% 的溢价。此条逃生路线并不能完全脱离 USDC 的影响，主要好处在资金容量大，短期确定性强。
+
+
+
+
+
+B. AMO：公开市场价格干预，比如 FRAX/ crvUSD 等
+
+
+比如 FRAX 其底层资产大部分为 C…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -456,7 +717,72 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35566</id>
         <link href="https://www.theblockbeats.info/news/35566"/>
         <updated>2023-03-14T06:22:16.000Z</updated>
-        <summary type="html"><![CDATA[市场有趋于稳定的迹象，情绪有所缓和，抛压水平较低。]]></summary>
+        <summary type="html"><![CDATA[原文标题：《青衿之志，履践致远｜WTR 3.13》
+原文作者：WatchToweR Crypto    
+
+
+本周回顾
+
+
+本周从 3 月 7 日到 3 月 13 日，冰糖橙最高附近$24517，最低接近$19521，震荡幅度达到 25% 左右。
+
+
+观察筹码分布图，在约 $23337 附近有大量筹码成交，将有一定的支撑或压力。
+
+
+• 分析：
+
+
+1. $22500 ~ $28000 约 153 万枚；
+
+
+2. $18500 ~ $22000 约 254 万枚；；
+
+
+短期内跌不破在 $16500 ~ $20500 概率为 78%。
+
+
+
+
+
+
+重要消息方面
+
+
+经济消息方面
+
+
+1. 美国 2 月 ADP 就业人数增加 24.2 万人，预期 20 万人，前值 10.6 万人。1 月数据修正为增加 11.9 万人。
+
+
+2. 美国劳工部报告（JOLTS），1 月份美国职位空缺为 1082.4 万，前值 12 月修正后数据为 1123.4 万，大约减少了 41 万个岗位，仍高于市场预期的 1050 万。
+
+
+a. 劳动力市场需求较强，给工资和通胀带来上行压力。
+
+
+3. 2 月非农新增就业人数 31.1 万人，预期为 22.5 万人，前值为 51.7 万人。
+
+
+a. 2 月失业率为 3.6%，预期和前值均为 3.4%；
+
+
+b. 平均时薪同比增长 4.6%，预期 4.7%，前值 4.4%。
+
+
+4. 美国芝加哥商业交易平台（CME）表示，将于 4 月 3 日推出基于美元/离岸人民币期货的期权。
+
+
+5. 本周美油、布油、美国天然气和汽油均为下跌趋势；黄金在本周中间时间下跌，后以微涨收尾。
+
+
+加密生态消息方面
+
+
+1. 美联储副主席：美联储组建了一个研究加密货币创新的团队。
+
+
+2. 美国犹他州立法机关，通过《犹他州去中心化自治组织法案（犹他州 DAO 法案）》，成为第…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -466,7 +792,64 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35565</id>
         <link href="https://www.theblockbeats.info/news/35565"/>
         <updated>2023-03-14T06:12:48.000Z</updated>
-        <summary type="html"><![CDATA[上周融资总数为24笔，数量较上周有减少，总金额约2.6亿美元，平均融资金额为3710万美元。]]></summary>
+        <summary type="html"><![CDATA[据 BlockBeats 统计，上周融资总数为 24 笔，数量较上周有减少，总金额约 2.6亿 美元，平均融资金额为 3710 万美元。其中，元宇宙/GameFi 占据主体，基础设施和资管/支付领域的融资相对较多，DeFi 领域融资增加，NFT/数字时尚和社交/创作者经济领域融资较少。下图为上周各板块融资占比：
+
+
+
+
+
+
+
+
+
+元宇宙/GameFi
+
+
+
+
+在元宇宙/GameFi 领域共计 3 笔融资，总金额超 8300 万美元，占上周融资总额的 31.96%。
+
+
+
+
+Believer Company
+
+
+
+
+关注理由：《英雄联盟》母公司高管创立，5500 万美元高额融资，投资阵容强大。
+
+
+
+
+
+
+
+
+
+BlockBeats 消息，3 月 8 日，《英雄联盟》母公司 Riot Games 前高管 Michael Chow 和 Steven Snow 创立的游戏初创公司 The Believer Company 完成 5500 万美元 A 轮融资，光速创投领投，a16z、Bitkraft Ventures、Riot Games、1Up Ventures、Don Thompson 的 Cleveland Avenue、Michael D. Eisner 的 Tornante Company 等参投。
+
+
+The Believer Company 将首先开发基于原创 IP、叙事的下一代开放世界游戏。Believer 创始人表示，不太可能在 3-5 年内发布产品，其目前对 NFT 游戏持否定态度，不过并非完全放弃 Web3，而是认为在将相关技术应用到游戏中之前需要进行更多的研究开发。
+
+
+
+
+Matchday
+
+
+
+
+关注理由：梅西旗下基金领投，已与 FIFA 建立合作关系，将于第二季度推出首款游戏。
+
+
+ 
+
+
+
+
+
+BlockBeats 消息，3 月 8 日，Web3 游…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -476,7 +859,54 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35562</id>
         <link href="https://www.theblockbeats.info/news/35562"/>
         <updated>2023-03-14T04:42:02.000Z</updated>
-        <summary type="html"><![CDATA[越来越多的银行会在市场波动和监管趋紧的双重逼迫下远离加密市场，作为出入金的重要通道，目前美国有哪些加密友好型银行？]]></summary>
+        <summary type="html"><![CDATA[原文标题：《
+
+三家加密友好银行倒下，美国还剩下哪些加密友好型银行？
+
+》
+原文作者：
+
+月之暗面，PANews
+
+
+
+每个 3·12 都值得加密世界纪念。
+
+
+上周三，Silvergate Capital 宣布结束运营并进行最终清算；上周五，SVB（硅谷银行）在遭受 420 亿美元挤兑后宣布倒闭；而在 3 月 12 日，Signature Bank 被监管部门直接关闭。
+
+
+受此一连串的暴击，比特币最低跌到 2 万美元以下，而 USDC 遭受短暂「脱锚」波动，在紧急救市措施出台后，目前整体市场已经回暖，但更严峻的考验已经到来。
+
+
+越来越多的银行会在市场波动和监管趋紧的双重逼迫下远离加密市场，作为出入金的重要通道，目前美国有哪些加密友好型银行？
+
+
+或崩于 FTX，或苟过 SVB
+
+
+美国曾一度是对加密银行最为宽容的经济体，The Block 曾在 2020 年总结了一份加密友好型银行名单，其中既有摩根大通这样的顶级银行，也有 Silvergate Capital 和 Signature Bank 这种传统意义上的社区零售银行。
+
+
+
+
+
+但是 FTX 的崩溃改变了一切，2023 年 1 月份，美国三个银行业监管部门，美联储、货币监理署（OCC）和联邦存款保险公司（FDIC）联合发表了一份声明，希望银行最好不要参与加密相关业务，并且严格审查各项业务的合规性。
+
+
+在此背景下，多个跟加密业务，尤其是 FTX 关系密切的银行选择退出加密市场。
+
+
+将离场的加密友好银行
+
+
+•摩根大通
+
+
+摩根大通自身推出了 Onyx 系统，该系统允许多银行、多货币资产在许可的分布式账本上进行即时转移和清算。2022 年 2 月，摩根大通上线 Decentraland，成为第一家在元宇宙中设置服务的银行，此外，还专注于提供加密货币支付服务，如加密货币支付处理、区块链技术解决方案等。
+
+
+然而，…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -486,7 +916,72 @@ Bitget成立于2018年，是全球领先的加密资产交易平台。目前，B
         <id>https://www.theblockbeats.info/news/35564</id>
         <link href="https://www.theblockbeats.info/news/35564"/>
         <updated>2023-03-14T04:01:31.000Z</updated>
-        <summary type="html"><![CDATA[该游戏的故事背景发生在外太空，玩家在游戏中作为马修星球的创建者。]]></summary>
+        <summary type="html"><![CDATA[原文来源：
+
+BinaryX
+
+
+BinaryX 今天宣布即将发布一款虚拟太空建造模拟游戏——《Project Matthew》。该团队发布了预告片视频，首次公开展示了游戏的内容，并且同时开放让玩家申请参与即将进行的游戏内测。
+
+
+关于《Project Matthew》：振奋人心的虚拟新太空建造游戏
+
+
+《Project Matthew》是 BinaryX 即将推出的模拟太空建造模拟游戏。
+
+
+该游戏的故事背景发生在外太空，玩家在游戏中作为马修星球的创建者。游戏的目标是通过建立工业生产线开发星球资源来生产稀有或所需材料以进一步发展和建立自己的太空城市。
+
+
+城市建设
+
+
+冒险从玩家获得一个地块「NFT」开始。地块「NFT」被分为不同品质，品质越高的地块所蕴含的初始资源越丰富。玩家可以建造不同类型的助手机器人，它们将提供不同的技能来搜集资源和探索新的领土，以发展太空城市。
+
+
+虚拟军队
+
+
+玩家可以招募不同技能和能力的机器人建立虚拟军队，在战场上挑战敌人以获得丰厚的奖励。挑战战场被分为不同难度等级，难度越大，奖励越丰厚。
+
+
+太空探索
+
+
+探索是《Project Matthew》中获得奖励和资源的主要方式之一。该游戏玩法涵盖了一系列探索相邻星球和遥远星系的操作，发现更多的可能性。
+
+
+「《Project Matthew》是我们在 2023 年上半年最注重的游戏项目。我们希望不断引进新的游戏类型来扩充 BinaryX 生态系统，而这款游戏是我们平台上的第一款模拟太空游戏。这是由卡牌游戏向元宇宙游戏迈出的一大步，我们希望玩家能够沉浸在作为土地所有者和探险家的太空世界中。同时我们也非常欢迎全球的太空爱好者和虚拟游戏玩家加入我们的社区。」BinaryX 全球业务运营和发展负责人 Rudy S. 表示。
+
+
+观看官方预告片
+
+
+加入封闭测试
+
+
+BinaryX 将通过一次封闭测试开始《Project Matthew》项目的推出。注册将于 3 月 13 日 UTC+8 晚上 9 点开始，截止于 3 月 20 日 UTC+8 下午 6 点。封闭测试仅面向 Windows 用户，更多详细信息将在他们的注册页面和社交媒体渠道上公布。
+
+
+在此注册封闭测试。
+
+
+关于 BinaryX
+
+
+BinaryX 是 Play-to-Earn 游戏 CyberDragon 和 CyberChess 背后的 GameFi 平台，两款游戏都在 BNB 链上运行。
+
+
+BinaryX 最初是一个去中心化的衍生品交易系统。该团队逐渐转变为开发去中心化的视频游戏，并现在成为 GameFi 平台，为 Web2 开发人员提供 IGO 服务以连接到 Web3。
+
+
+作为 BNB 链上前十大项目之一，BinaryX 拥有超过 10 万个 Token 持有者和每月活跃钱包数量达到 1.7 万个的庞大社区。它也是 BNB 链上交易量最大的大型元宇宙项目之一，市值超过 2 亿美元。BinaryX 还拥有一种 Token BNX，尽管市场处于熊市，但表现一直稳健。
+
+
+
+
+
+本文来自投稿，不代表 BlockBeats 观点]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
