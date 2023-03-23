@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-23T10:15:59.273Z</id>
+    <id>urn:2023-03-23T11:12:37.175Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-23T10:15:59.273Z</updated>
+    <updated>2023-03-23T11:12:37.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[L2扩容技术详解：Optimistic Rollups与ZK Rollups]]></title>
+        <id>https://www.web3sj.com/?p=52961</id>
+        <link href="https://www.web3sj.com/news/52961/"/>
+        <updated>2023-03-23T10:56:20.000Z</updated>
+        <summary type="html"><![CDATA[随着区块链技术的快速发展，可扩展性问题成为了阻碍区块链广泛应用的主要障碍之一。为了提高网络的吞吐量和降低交易费用，扩容就是一件必须要解决的事情。扩容方案通常分为两大类：一类是链下扩容（Layer 2），通过在底层区块链之上构建新的协议层来实现扩容；另一类是链上扩容（Layer 1），通过优化底层区块链协议本身来提高吞吐量。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIGC NFT 工具 GNT 上线公测，体验了一把还不错]]></title>
+        <id>https://www.defidaonews.com/article/6810704</id>
+        <link href="https://www.defidaonews.com/article/6810704"/>
+        <updated>2023-03-23T10:51:48.000Z</updated>
+        <summary type="html"><![CDATA[又一个 AIGC 与 Web3 的结合点来了。]]></summary>
+        <author>
+            <name>Kyle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空投申领在即，全面更新Arbitrum生态大盘点]]></title>
+        <id>https://www.web3sj.com/?p=52951</id>
+        <link href="https://www.web3sj.com/project/52951/"/>
+        <updated>2023-03-23T10:49:06.000Z</updated>
+        <summary type="html"><![CDATA[去年 4 月，我们进行了Arbitrum 生态项目盘点。L2BEAT 数据显示，在经过了接近一年的发展之后，Arbitrum One 上的 TVL 虽然以美元计价没有太大的变化，但以以太坊计价却增长了 79%。此外，独立地址数也从近 25 万增长至近 60 万。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文详解Arbitrum原生代币ARB经济模型、价值主张和未来前景]]></title>
+        <id>https://www.web3sj.com/?p=52945</id>
+        <link href="https://www.web3sj.com/project/52945/"/>
+        <updated>2023-03-23T10:41:02.000Z</updated>
+        <summary type="html"><![CDATA[L2 是一组建立在公共区块链之上的解决方案，旨在增加其可扩展性和效率，特别是针对小型交易或操作。它们通常被称为二层网络解决方案。它使用 Optimistic rollup 技术聚合交易批次，以降低燃气成本。此外，Arbitrum 作为二层网络解决方案旨在减少交易速度并降低使用以太坊主网（第 1 层）产生的燃气费用。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase首席法务官发文强势回应SEC：考虑通过法庭以进行建设性对话]]></title>
+        <id>https://www.web3sj.com/?p=52942</id>
+        <link href="https://www.web3sj.com/news/52942/"/>
+        <updated>2023-03-23T10:25:53.000Z</updated>
+        <summary type="html"><![CDATA[在过去的 9 个月里，Coinbase 与 SEC 会面了 30 多次，我们分享了业务的详细信息，以建立明确的注册路径。在此期间，SEC 基本上没有给出关于更改内容或如何注册的反馈。反而，今天我们收到了韦尔斯通知。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aptos费用机制如何帮助吸引用户？]]></title>
         <id>https://www.web3sj.com/?p=52936</id>
@@ -320,16 +370,6 @@ DeFi部分会议以成员一致投票通过创建数字资产和区块链技术�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT市场的下一个新叙事：Open Loyalty]]></title>
-        <id>https://www.web3sj.com/?p=52857</id>
-        <link href="https://www.web3sj.com/news/52857/"/>
-        <updated>2023-03-23T05:46:32.000Z</updated>
-        <summary type="html"><![CDATA[上次我在分析星巴克的时候写过，当会员数据上链后，会出现一次商业范式转移，之前各家的私域会员变成了公开数据，我的会员也是你的会员。品牌获取用户的方法从 pull 变成 push，价值回归用户，同时品牌需要学习新的与用户对话方式]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[打破“激励诅咒”， 对 Nostr 及 Damus 破圈现象的独家思考]]></title>
         <id>https://www.defidaonews.com/article/6810632</id>
         <link href="https://www.defidaonews.com/article/6810632"/>
@@ -350,16 +390,6 @@ DeFi部分会议以成员一致投票通过创建数字资产和区块链技术�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[区块链的五大商业模式：代币、BaaS、P2P、节点聚合器和网络费用收入]]></title>
-        <id>https://www.web3sj.com/?p=52846</id>
-        <link href="https://www.web3sj.com/knowledge/52846/"/>
-        <updated>2023-03-23T05:32:42.000Z</updated>
-        <summary type="html"><![CDATA[在Web2中，我们使用后端编程语言（如NodeJS或Python）构建应用程序，并将其托管在由AWS、GoogleCloudPlatform等提供商提供的服务器上。但在Web3中，我们需要从Alchemy获取一个节点，并构建智能合约，然后部署在以太坊或Polygon上。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Euler黑客通过链上信息向项目方发送Proton邮箱联系地址]]></title>
         <id>https://panewslab.com/zh/articledetails/ufu2de5f.html</id>
         <link href="https://panewslab.com/zh/articledetails/ufu2de5f.html"/>
@@ -368,16 +398,6 @@ DeFi部分会议以成员一致投票通过创建数字资产和区块链技术�
 此前3月13日消息，借贷协议Euler Finance遭到攻击，损失已达1.97亿美元。昨日消息，Ronin黑客试图对Euler黑客进行网络钓鱼以窃取资金，Euler官方已喊话干预。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储加息25个基点，鲍威尔警告「今年不会看到降息」]]></title>
-        <id>https://www.web3sj.com/?p=52842</id>
-        <link href="https://www.web3sj.com/news/52842/"/>
-        <updated>2023-03-23T05:24:08.000Z</updated>
-        <summary type="html"><![CDATA[在联邦公开市场委员会 (FOMC) 声明中，美联储承认本月银行业危机导致的潜在风险，称「最近的事态发展可能导致家庭和企业的信贷条件收紧，并对经济活动、招聘和通货膨胀造成压力」，暗示今年可能只会再加息一次。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -411,16 +431,6 @@ DeFi部分会议以成员一致投票通过创建数字资产和区块链技术�
 孙宇晨称，SEC今天早些时候的民事投诉只是它对区块链和加密领域知名参与者采取行动的最新例子。SEC 对数字资产的监管框架仍处于起步阶段，需要进一步发展。另外，孙宇晨以多米尼克将采用TRX和BTT作为法定货币为例，表示渴望与全球各国政府和监管机构合作，致力于建立透明的指导方针以监管加密货币行业，这将发挥重要作用。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[综观蓝筹项目表现，这些NFT正面临洗牌危机]]></title>
-        <id>https://www.web3sj.com/?p=52838</id>
-        <link href="https://www.web3sj.com/nftnews/52838/"/>
-        <updated>2023-03-23T04:36:12.000Z</updated>
-        <summary type="html"><![CDATA[尽管 NFT 市场在高速发展后迎来了集体降温，但仍是加密领域最为出圈且重要的构成组件之一。在 NFT 产品类型日渐丰富的过程中，也被依据市场人气和潜力划分出不同等级。其中，部分 NFT 凭借强大的社区共识和运营手段成为蓝筹项目，占据着绝大部分的市场份额。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -839,16 +849,6 @@ BitKeep首席运营官Moka Han也分享了她对本次投资的看法：“这�
         <summary type="html"><![CDATA[AI 正在彻底改变 NFT 市场。]]></summary>
         <author>
             <name>东寻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT“变现”在即，哪些法律风险不容忽视？]]></title>
-        <id>https://www.defidaonews.com/article/6810500</id>
-        <link href="https://www.defidaonews.com/article/6810500"/>
-        <updated>2023-03-22T07:50:30.000Z</updated>
-        <summary type="html"><![CDATA[仅B端企业用户们不能掉以轻心，C端用户们也需要防止自己的权利被侵犯。]]></summary>
-        <author>
-            <name>肖飒</name>
         </author>
     </entry>
     <entry>
