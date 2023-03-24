@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T04:17:34.041Z</id>
+    <id>urn:2023-03-24T05:13:33.722Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T04:17:34.041Z</updated>
+    <updated>2023-03-24T05:13:33.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[理解以太坊PoS原理：模块化设计和两条区块链]]></title>
+        <id>https://www.web3sj.com/?p=53116</id>
+        <link href="https://www.web3sj.com/news/53116/"/>
+        <updated>2023-03-24T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[许多现代区块链系统将可负担性和最大用户数量置于其他一切之上 - 假定网络运营者愿意尽最大努力帮助实现这一目标。这种假设，运营者应该努力工作，会使区块链系统向中心化方向发展，因为它减少了可以作为运营者参与的人数。特别是对于需要运营者从经过批准的制造商购买硬件的网络。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何通过ZKP构建Web3产品？]]></title>
+        <id>https://www.web3sj.com/?p=53106</id>
+        <link href="https://www.web3sj.com/news/53106/"/>
+        <updated>2023-03-24T04:44:24.000Z</updated>
+        <summary type="html"><![CDATA[在实践中，至少在 Web3 中，ZKP 的使用方式通常不同。大多数应用程序不使用 ZKP 来显示专有数据的所有权。相反，ZKP 被用于通过可验证性提高信任。我们预计 ZKP 将成为未来实体之间标准的信任模型。原因是 ZKP 的两个主要组成部分——证明和验证——正在以一种使信任寻求实体与其用户之间具有独特互动方案的方式被分离。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zkSync 将“执行延迟”引入其安全机制]]></title>
+        <id>https://www.techflowpost.com/express/7284</id>
+        <link href="https://www.techflowpost.com/express/7284"/>
+        <updated>2023-03-24T04:40:06.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，zkSync 宣布其安全机制的重要更新，即引入“执行延迟”。
+“执行延迟”指每个提交到 L1 的 L2 块在执行和最终确定之前都会有一个时间锁。最初延迟设为 24 小时，随着系统成熟时间将逐渐减少，直至移除 Alpha 标签并完全取消延迟。zkSync 团队将监控每个区块，并能够调查例如快速流出或异常大额提款等任何异常情况和危险信号。来源链接]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Ventures合伙人Jeff Ren确认出席「2023 香港 Web3 嘉年华」]]></title>
+        <id>https://www.techflowpost.com/express/7283</id>
+        <link href="https://www.techflowpost.com/express/7283"/>
+        <updated>2023-03-24T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，OKX Ventures合伙人Jeff Ren确认将于 2023 年 4 月 14 日出席「2023 香港 Web3 嘉年华」并参与圆桌讨论。Jeff领导OKX Ventures在全球范围内探索和投资创新的区块链项目，涵盖基础设施、DeFi、GameFi、Web3、元宇宙及NFT等领域。
+据悉，「2023 香港 Web3 嘉年华」由万向区块链实验室、HashKey Group 联合主办，W3ME 承办。香港特别行政区财政司司长陈茂波先生已确认出席该活动开幕式并发表主旨演讲。作为Web3香港嘉年华的冠名赞助商，OKX是主办方唯一认证的NFT门票发行合作伙伴，通过OKX Web3钱包购买本次大会NFT门票，可以获得7.5折优惠、专属纪念勋章空投、尊享NFT门票入场通道等多种权益。原文链接]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snapdragon 8 Gen 3 SoC 核心配置在发布前几个月泄露]]></title>
         <id>https://0xzx.com/2023032412163299649.html</id>
@@ -594,26 +636,6 @@ Solv团队透露，接下来 Solv V3 平台上将会有超过10家专业基�
         <summary type="html"><![CDATA[又一个 AIGC 与 Web3 的结合点来了。]]></summary>
         <author>
             <name>Kyle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空投申领在即，全面更新Arbitrum生态大盘点]]></title>
-        <id>https://www.web3sj.com/?p=52951</id>
-        <link href="https://www.web3sj.com/project/52951/"/>
-        <updated>2023-03-23T10:49:06.000Z</updated>
-        <summary type="html"><![CDATA[去年 4 月，我们进行了Arbitrum 生态项目盘点。L2BEAT 数据显示，在经过了接近一年的发展之后，Arbitrum One 上的 TVL 虽然以美元计价没有太大的变化，但以以太坊计价却增长了 79%。此外，独立地址数也从近 25 万增长至近 60 万。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文详解Arbitrum原生代币ARB经济模型、价值主张和未来前景]]></title>
-        <id>https://www.web3sj.com/?p=52945</id>
-        <link href="https://www.web3sj.com/project/52945/"/>
-        <updated>2023-03-23T10:41:02.000Z</updated>
-        <summary type="html"><![CDATA[L2 是一组建立在公共区块链之上的解决方案，旨在增加其可扩展性和效率，特别是针对小型交易或操作。它们通常被称为二层网络解决方案。它使用 Optimistic rollup 技术聚合交易批次，以降低燃气成本。此外，Arbitrum 作为二层网络解决方案旨在减少交易速度并降低使用以太坊主网（第 1 层）产生的燃气费用。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -1228,28 +1250,6 @@ TradingView 总经理 Pierce Crosby 表示：“我们非常高兴能够将�
         <summary type="html"><![CDATA[深潮 TechFlow 消息，基于 Web3 AI 的平台 OP3N 以 1 亿美元估值完成 2800 万美元 A 轮融资，Animoca Brands 领投，Dragonfly Capital、SuperScrypt、Creative Artists Agency 和 New Enterprise Associates 的 Connect Ventures、Republic Crypto、Avalanche 的暴雪基金、Galaxy Digital 和 Warner Music Interactive 参投。其他投资者包括 GSR Markets、The Spartan Group、BRV Capital Management 和 NBA 球员 Russell Westbrook 等。新资金将用于进一步开发其应用程序以及壮大其领导团队。
 据悉，OP3N 的基于聊天的产品 Superapp 旨在通过将区块链和去中心化技术实施到 Web 2.0 友好界面中来弥合 Web 2.0 和 Web3 之间的差距。该应用程序将能够将音频、视频和混合媒体内容添加到链上交互中，以便用户可以获得“一站式”体验。
 OP3N 在 2021 年 12 月完成了 1000 万美元的种子轮融资，投资者包括 Goodwater Capital、Soma Capital、500 Global、WhaleShark、Twitch 联合创始人 Justin Kan 和 The Sandbox 联合创始人兼首席运营官 Sébastien Borget 等。来源链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周杰伦在 Conflux 上推出限量版音乐元宇宙，并附有限时 NFT 门票体验]]></title>
-        <id>https://www.techflowpost.com/express/7234</id>
-        <link href="https://www.techflowpost.com/express/7234"/>
-        <updated>2023-03-21T12:17:47.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Conflux 官方推特消息称，周杰伦最近在 Conflux 上推出了限量版音乐元宇宙，并附有限时 NFT 门票体验。
-NFT 门票持有者可以访问周杰伦的音乐元宇宙，获得引人入胜的身临其境的体验。在元宇宙中，用户可以享受周杰伦精心挑选的五首歌曲试听，包括四首流行歌曲和一首未发行的新歌。原文链接]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密托管钱包 Gryfyn 完成 780 万美元融资，Animoca Ventures 参投]]></title>
-        <id>https://www.techflowpost.com/express/7233</id>
-        <link href="https://www.techflowpost.com/express/7233"/>
-        <updated>2023-03-21T11:32:14.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，加密托管钱包 Gryfyn 完成 780 万美元融资，Liberty City Ventures、GameFi Ventures、Lavender Hill Capital Partners、Mind Fund、Animoca Ventures、LeadBlock Partners、Angel Hub、Brinc，以及天使投资人 Gabby Dizon 参投。
-据悉，Gryfyn 是 Animoca Brands 和 Hex Trust 的合资企业，旨在提供托管加密钱包。Animoca Brands 的联合首席运营官 Arnoldo Concepción 已被宣布为 Gryfyn 的首席执行官。 来源链接]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
         </author>
