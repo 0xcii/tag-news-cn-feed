@@ -78,7 +78,7 @@
           "description": "最近 Trade Joe V2 因为从 Uniswap 手里抢到大量 Arb 交易份额而火爆，币价迅速翻倍",
           "link": "https://www.defidaonews.com/article/6811344",
           "publishedOn": "2023-03-29T06:21:52.000Z",
-          "wordCount": 713,
+          "wordCount": 707,
           "title": "一文解析基于 Arbitrum 的去中心化交易所 Trade Joe V2 机制",
           "imageUrl": "https://appserversrc.8btc.cn/Fon90RYdKDtacIAsXHCIwj1NY0WS.png?imageView2/1/w/500/h/300"
         },
@@ -98,7 +98,7 @@
           "description": "它没有情感，但可以共鸣；它没有意志，但有价值观。",
           "link": "https://www.defidaonews.com/article/6811322",
           "publishedOn": "2023-03-29T04:09:30.000Z",
-          "wordCount": 610,
+          "wordCount": 604,
           "title": "使用 ChatGPT 的三条哲学",
           "imageUrl": "https://appserversrc.8btc.cn/Fm9QfFOfsiF_6Zs9xdRzT10Kp7Q7.png?imageView2/1/w/500/h/300"
         },
@@ -118,7 +118,7 @@
           "description": "巴比特讯，3 月 29 日，MetaMask 官方 Twitter 账号发布消息澄清，近期关于 MetaMask 将于 3 月 31 日进行快照和空投的谣言均为不实消息。该推文警告称，这些错误信息可能为诈骗者和网络钓鱼者提供机会。MetaMask 提醒用户在未来几天内注意识别假冒网站，以确保资金安全。",
           "link": "https://www.defidaonews.com/article/6811296",
           "publishedOn": "2023-03-29T02:54:16.000Z",
-          "wordCount": 164,
+          "wordCount": 168,
           "title": "MetaMask 澄清空投谣言，提醒用户警惕假冒网站",
           "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
         },
@@ -128,7 +128,7 @@
           "description": "AI带来创造力平权",
           "link": "https://www.defidaonews.com/article/6811254",
           "publishedOn": "2023-03-28T10:50:26.000Z",
-          "wordCount": 157,
+          "wordCount": 161,
           "title": "AIGC制作的“视觉大片”走红！耗时仅3天，首批玩家吃到“红利”了",
           "imageUrl": "https://appserversrc.8btc.cn/FpkDBxCFzcdf7ANhw3p6tlu4CelE.png?imageView2/1/w/500/h/300"
         },
@@ -158,7 +158,7 @@
           "description": "一味地去追求纸面上的高性能，只会得到一个中心化的宕机链",
           "link": "https://www.defidaonews.com/article/6811168",
           "publishedOn": "2023-03-28T03:26:30.000Z",
-          "wordCount": 506,
+          "wordCount": 500,
           "title": "美丽TPS背后的真相——详解区块链各模块的性能瓶颈和挑战",
           "imageUrl": "https://appserversrc.8btc.cn/Fpdc4jigBXARK0dcHDmCcjEUXOHj.png?imageView2/1/w/500/h/300"
         }
@@ -170,12 +170,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=54348",
+          "author": "Gao",
+          "description": "ZKP 使一方能够向另一方证明声明是真实的，而无需透露任何其他信息。ZKP 既有利于增加隐私——因为它们减少了各方之间共享的信息量——也有利于可扩展性，因为它只需要证明而非整个数据集被验证，这样验证速度会更快。",
+          "link": "https://www.web3sj.com/news/54348/",
+          "publishedOn": "2023-03-30T05:06:56.000Z",
+          "wordCount": 777,
+          "title": "一文读懂零知识证明技术zk-SNARKs和zk-STARKS的区别",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680152801032.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=54339",
+          "author": "Gao",
+          "description": "Luca Netz 作为 pudgy penguins（后文统一称「胖企鹅」）的 CEO，并非胖企鹅的创始人。22 年 4 月，他以 250 万美金（当时 750ETH）价格买下了这个 PFP 项目。一年以来，胖企鹅的交易量和地板价都有了稳定的增长。尤其最近 1 个月，胖企鹅的地板价一度 flip 了多个蓝筹项目，占据 Blur 首页推荐。",
+          "link": "https://www.web3sj.com/project/54339/",
+          "publishedOn": "2023-03-30T05:03:13.000Z",
+          "wordCount": 1089,
+          "title": "NFT的大规模采用会因用户热爱IP而来：胖企鹅 CEO 分享 Web3 IP 的商业模式设计",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680152578124.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=54334",
           "author": "Gao",
           "description": "需要注意的是，EIP-6049只是一个弃用警告，客户端团队希望SELFDESTRUCT语义在未来的网络升级中发生变化，但操作码的行为在上海升级中保持不变。也就是说，应用程序开发人员应该知道，从上海开始，SELFDESTRUCT操作码被视为已弃用，虽然它的语义不会作为此网络升级的一部分而改变，但可能会在后续网络升级中发生变化。有关详细信息，请参阅EIP-6049。",
           "link": "https://www.web3sj.com/news/54334/",
           "publishedOn": "2023-03-30T04:14:29.000Z",
-          "wordCount": 639,
+          "wordCount": 642,
           "title": "以太坊Shapella（上海+Capella）升级官方指南",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680149656025.png"
         },
@@ -185,7 +205,7 @@
           "description": "BNB 原生 DeFi 协议收益性，从 DeFillama 数据中可以看到，仅涉及 BNB 的 337 个交易对中，超过平均年化收益率就占 80%，更何况链上的多种 DeFi 协议，相信绝大部分都是远超质押收益率",
           "link": "https://www.web3sj.com/news/54314/",
           "publishedOn": "2023-03-30T03:58:26.000Z",
-          "wordCount": 1570,
+          "wordCount": 1584,
           "title": "多生态LSD发展报告：赛道很宏伟，项目很早期",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680148688874.png"
         },
@@ -195,7 +215,7 @@
           "description": "TX这里有两笔获得SUI代币权证非常重要：CottonwoodGroveLimited（Alameda）和FTXTrading分别以500美元的价格获得了约1.73亿和3.46亿枚共计5.19亿枚SuiToken的代币权证。这5.19枚SuiToken在SuiNetWork主网上线和SuiToken启动后，满足一定条件，将用于在FTX平台上做市交易。",
           "link": "https://www.web3sj.com/news/54308/",
           "publishedOn": "2023-03-30T03:38:14.000Z",
-          "wordCount": 677,
+          "wordCount": 689,
           "title": "123 页法庭文件还原 FTX 投资 Mysten Labs 情况：透露了哪些 SUI 的信息？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680147476212.png"
         },
@@ -205,7 +225,7 @@
           "description": "根据 Dune Analytics 数据，在 zkSync Era 发布不到三天的时间里，已有超过 6.4 万个独立钱包、超过 12,000 个 ETH 从 Ethereum 桥接至 zkSync Era。本文将为大家盘点目前已经上线 zkSync Era 主网的 dAPPs，帮助大家更好地认识网络生态以及实现交互。",
           "link": "https://www.web3sj.com/news/54248/",
           "publishedOn": "2023-03-29T13:12:29.000Z",
-          "wordCount": 1142,
+          "wordCount": 1158,
           "title": "以太坊L2 zkSync Era主网上线，有哪些生态项目值得关注",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680095539036.png"
         },
@@ -215,7 +235,7 @@
           "description": "Sui去中心化交易平台Turbos Finance获得Jump Crypto投资。Lido将发行与ETH取款请求挂钩的NFT。美SEC主席将于4月18日向众议院数字资产小组委员会解释其加密监管方法。",
           "link": "https://www.web3sj.com/news/54235/",
           "publishedOn": "2023-03-29T12:31:22.000Z",
-          "wordCount": 784,
+          "wordCount": 774,
           "title": "Web3.0世界日报（2023-3.29）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/2023032912294299.jpg"
         },
@@ -225,7 +245,7 @@
           "description": "闪电贷（Flashloan）是一种去中心化金融（DeFi）的创新产品，它允许用户在不提供任何抵押的情况下，借用协议池中的任意数量的资产，只要在同一笔交易（一个区块）中归还本金和利息。闪电贷的优势在于，它可以让用户利用市场上的套利机会，实现低成本、高收益的操作。",
           "link": "https://www.web3sj.com/definews/54191/",
           "publishedOn": "2023-03-29T09:44:24.000Z",
-          "wordCount": 729,
+          "wordCount": 757,
           "title": "深入理解闪电贷攻击的底层逻辑",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680083052424.png"
         },
@@ -235,7 +255,7 @@
           "description": "你可以对协调问题、偏好级联、信号和其他游戏理论式的概念进行理论和策略分析–我不否认这些都是理解问题的有用方法–但要理解 Twitter 和 Facebook 对我们数亿人的强大影响，你真正需要知道的是网络时代初期的一个简单启发式方法。",
           "link": "https://www.web3sj.com/news/54182/",
           "publishedOn": "2023-03-29T09:02:56.000Z",
-          "wordCount": 1499,
+          "wordCount": 1541,
           "title": "怎么才能构建出十亿用户的Web3社交图谱？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680079511379.png"
         },
@@ -245,29 +265,9 @@
           "description": "RWA 的资产规模远超 Crypto Native Asset。例如，固定收益债券市场规模约为 127 万亿美元，全球房地产总价值约为 362 万亿美元，黄金的市值约为 11 万亿美元，目前 Crypto Native Asset 的市值为 1.1 万亿，仅为黄金市值的 1/10。",
           "link": "https://www.web3sj.com/definews/54175/",
           "publishedOn": "2023-03-29T08:39:22.000Z",
-          "wordCount": 964,
+          "wordCount": 979,
           "title": "如何将现实世界资产（RWA）带进DeFi？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680079144545.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=54168",
-          "author": "Gao",
-          "description": "Polygon zkEVM 主网与现有的大多数以太坊智能合约、开发工具和钱包都可以无缝协作，支持以太坊开发者一键迁移应用至链上；用户也可通过熟悉的以太坊钱包使用「zkEVM-testnet RPC」节点体验其链上生态应用。",
-          "link": "https://www.web3sj.com/news/54168/",
-          "publishedOn": "2023-03-29T08:30:28.000Z",
-          "wordCount": 1051,
-          "title": "Polygon zkEVM主网测试版上线，将如何影响Polygon生态？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680078610370.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=54150",
-          "author": "Gao",
-          "description": "回到2021年，人们对任何品牌进入Web3都感到疯狂兴奋。品牌甚至不需要做太多的事情。一个「WAGMI」就足以让我们中的一些人相信未来已经到来了。",
-          "link": "https://www.web3sj.com/nftnews/54150/",
-          "publishedOn": "2023-03-29T08:20:07.000Z",
-          "wordCount": 644,
-          "title": "观点：Web3与Web2品牌的合作不是促进NFT大规模采用的关键",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680077531251-1.png"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "description": "PANews 3月30日消息，据日本时事通讯社报道，日本财务省正在协调成立新的央行数字货币（CBDC）专家小组，最早在4月成立，以确定可能的体制和技术问题，并着手进行讨论，包括发行的可能性。\n专家小组预计将考虑在日本发行CBDC的法律地位，以及如何区分CBDC与现有的无现金支付方式、以及如何处理个人信息。",
           "link": "https://panewslab.com/zh/articledetails/838j4fib.html",
           "publishedOn": "2023-03-30T03:16:14.000Z",
-          "wordCount": 1125,
+          "wordCount": 1115,
           "title": "日本财务省最早将于4月成立新专家组讨论CBDC发行的可能性",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -292,7 +292,7 @@
           "description": "PANews 3月30日消息，据官方推特，去中心化索引协议The Graph宣布，将在未来几天内启动Arbitrum One扩容计划第二阶段，以启用索引奖励。\n此前消息，The Graph得到Arbitrum One扩容计划分是三个阶段，第一阶段已于2月15日完成。第三阶段是将索引奖励逐渐转移到L2等。",
           "link": "https://panewslab.com/zh/articledetails/5wk4yx04.html",
           "publishedOn": "2023-03-30T03:11:06.000Z",
-          "wordCount": 1150,
+          "wordCount": 1140,
           "title": "The Graph近日将启动Arbitrum One扩容计划第二阶段，以启用索引奖励",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -302,7 +302,7 @@
           "description": "PANews 3月30日消息，据Cointelegraph报道，根据化名比特币应用程序开发人员“0xB10C”的博客文章，某未知实体可能正在收集比特币用户的IP地址，并将其链接到他们的BTC地址，从而侵犯了这些用户的隐私。\n0xB10C将该实体称为LinkingLion，因为与其关联的IP地址通过LionLink网络的托管数据中心，但ARIN和RIPE注册信息显示该公司可能不是消息的发起者。0xB10C表示LinkingLion可能正在记录交易时间以确定哪个节点首先收到交易，然后可以使用这些信息来确定与特定比特币地址关联的IP地址。",
           "link": "https://panewslab.com/zh/articledetails/zwo3a156.html",
           "publishedOn": "2023-03-30T03:06:10.000Z",
-          "wordCount": 1132,
+          "wordCount": 1122,
           "title": "比特币开发者：某匿名实体或正在收集BTC用户的IP地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +312,7 @@
           "description": "PANews 3月30日消息，据韩媒财经新闻报道，韩国首尔南部地方法院于当地时间10:30开始对Terra联合创始人、Chai Corporation前首席执行官Daniel Shin进行逮捕令审查。\n此前3月27日消息，韩国检方再次寻求逮捕Daniel Shin，并指控其违反《资本市场法》、违反《特定经济犯罪加重处罚法》、违反《电子金融交易法》、违反《特定金融信息法》、商业背信以及渎职。",
           "link": "https://panewslab.com/zh/articledetails/aijuuvwq.html",
           "publishedOn": "2023-03-30T02:56:49.000Z",
-          "wordCount": 1151,
+          "wordCount": 1143,
           "title": "Terra联创Daniel Shin正出庭接受韩国法院对其逮捕令的审查",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +322,7 @@
           "description": "PANews 3月30日消息，行情显示，比特币突破29000美元，最高涨至29,184.68美元，现报29127.01美元，24小时涨幅达6.42%。",
           "link": "https://panewslab.com/zh/articledetails/915figyj.html",
           "publishedOn": "2023-03-30T02:42:56.000Z",
-          "wordCount": 1128,
+          "wordCount": 1118,
           "title": "行情：比特币突破29000美元，24小时涨幅达6.42%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +332,7 @@
           "description": "PANews 3月30日消息，据Snapshot投票页面信息，ApeCoin社区关于推出两款新NFT系列的AIP-206提案以86.75%的反对率未获得通过。该提案提议推出“Ape Coin Armory Club NFT”和“Ape Coin Pet Club NFT”，旨在激励APE持有者并拓展到更广泛的Yuga Labs生态中的元宇宙社区。",
           "link": "https://panewslab.com/zh/articledetails/ggmu7bq7.html",
           "publishedOn": "2023-03-30T02:38:15.000Z",
-          "wordCount": 1180,
+          "wordCount": 1170,
           "title": "ApeCoin社区已否决“推出两款新NFT系列”的提案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +342,7 @@
           "description": "PANews 3月30日消息，比特币P2P市场Paxful首席执行官兼联合创始人Ray Youssef在推特上表示，其承诺将向在Celsius Earn中损失资金的Paxful用户进行退款。本周晚些时候，用户的Celsius资金将可以在其Paxful钱包中使用。\nYoussef解释称：“去年，Celsius宣布他们申请破产，因此，用户无法在Paxful Earn中获取资金。Paxful和其他许多人一样，因为我们无法取回Celsius持有的资金而无法行动。另一个打击是，法院裁定Celsius Earn账户属于Celsius的破产财产，而不是其用户。我们对这一事很不舒服，比特币是一种财富保值工具，对许多人来说，这是他们未来所依赖的钱。为了得到用户信任，我们采取了该行动。”",
           "link": "https://panewslab.com/zh/articledetails/0zz7xkx9.html",
           "publishedOn": "2023-03-30T02:26:13.000Z",
-          "wordCount": 1158,
+          "wordCount": 1148,
           "title": "Paxful CEO：将向在Celsius Earn中损失资金的Paxful用户进行退款",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +352,7 @@
           "description": "PANews 3月30日消息，加密货币研究员FatMan发推称，链上数据链上数据揭示了币安代币上线过程中有关的内部人士“老鼠仓”活动。币安首席执行官赵长鹏对此回应称：“已经冻结与相关地址相关的200万美元（他们从未要求重新申领），一直在与潜在的泄漏等作斗争。”",
           "link": "https://panewslab.com/zh/articledetails/qdr14h0y.html",
           "publishedOn": "2023-03-30T02:05:56.000Z",
-          "wordCount": 1136,
+          "wordCount": 1126,
           "title": "赵长鹏：已冻结代币上线过程中内部人士关联地址的200万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +362,7 @@
           "description": "PANews 3月30日消息，据官方推特，模块化区块链Celestia已启动测试网Blockspace Race第二阶段（Phase 2），跨链桥节点、全存储节点和轻节点可以开始参与。奖励阶段现在也在进行中，参与者完成奖励任务即可获得额外积分。",
           "link": "https://panewslab.com/zh/articledetails/fu1zpy9m.html",
           "publishedOn": "2023-03-30T01:59:20.000Z",
-          "wordCount": 1139,
+          "wordCount": 1129,
           "title": "Celestia启动测试网Blockspace Race第二阶段，跨链桥节点等可参与",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +372,7 @@
           "description": "PANews 3月30日消息，据推特用户余烬监测，一质押GMX长达两年的地址再度将1.75万枚GMX卖成737枚ETH。该巨鲸24小时内已累计出售44,648枚GMX，目前其地址内还持有4.25万枚GMX和14759枚esGMX。该地址昨日首次赎回出售27148枚GMX，获得约1150枚以太坊。\n该巨鲸在2021年10月至2022年2月期间累计买入8.6万枚GMX并质押，平均成本为42美元。",
           "link": "https://panewslab.com/zh/articledetails/pc32fvxp.html",
           "publishedOn": "2023-03-30T01:57:26.000Z",
-          "wordCount": 1133,
+          "wordCount": 1123,
           "title": "数据：某巨鲸地址在24小时已累计出售超过4.46万枚GMX",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,7 +382,7 @@
           "description": "PANews 3月30日消息，据金十引援美国共和党众议员Kevin Hern的言论，美联储主席鲍威尔在与美国议员的一次私人会议上被问及美联储今年还会加息多少时，他指出，政策制定者的最新预测显示，他们预计还会加息一次。\n赫恩是共和党研究委员会主席，鲍威尔周三会见了该委员会的保守派人士。该组织的一位女发言人表示，与鲍威尔的会面在硅谷银行倒闭之前就已经安排好。\n鲍威尔基本上是在重申政策制定者上周在FOMC为期两天的会议后发布的新的利率预测，即美联储的点阵图。来自俄克拉荷马州的赫恩在与鲍威尔会晤后对记者说，“他们最近承认的一点是，他们预计今年还会加息一次。”",
           "link": "https://panewslab.com/zh/articledetails/65y2v9w8.html",
           "publishedOn": "2023-03-30T01:48:33.000Z",
-          "wordCount": 1132,
+          "wordCount": 1122,
           "title": "美联储主席鲍威尔：年内预计还会加息一次",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -392,7 +392,7 @@
           "description": "PANews 3月30日消息，据美通社报道，欧易OKX宣布将向债务人移交约1.57亿美元的与FTX和Alameda相关的冻结资产，以回应今天在FTX破产程序中提交的动议。OKX表示，在2022年11月FTX崩盘前后，OKX调查并发现了与FTX和Alameda Research相关的资产和账户，随即采取行动冻结了这些账户和资产。\n此外，OKX表示，将继续与FTX债务人和执法人员合作，希望这些资产最终能通过破产程序返还给FTX用户。",
           "link": "https://panewslab.com/zh/articledetails/rmu082ye.html",
           "publishedOn": "2023-03-30T01:46:08.000Z",
-          "wordCount": 1131,
+          "wordCount": 1121,
           "title": "OKX：将把FTX和Alameda相关的1.57亿美元冻结资产移交给债务人",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -402,7 +402,7 @@
           "description": "PANews 3月30日消息，据官方推特，ConsenSys旗下区块链开发平台Infura宣布推出 Sepolia测试网ETH水龙头，单个地址每日可提供0.5枚SETH。同时Infura还发布了Web3堆栈开发人员指南，深入概述了构建全栈dApp所需的所有技术和工具。",
           "link": "https://panewslab.com/zh/articledetails/h7xxr6l9.html",
           "publishedOn": "2023-03-30T01:42:26.000Z",
-          "wordCount": 1135,
+          "wordCount": 1129,
           "title": "Infura推出Sepolia测试网ETH水龙头，单地址每日提供0.5枚SETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -412,7 +412,7 @@
           "description": "PANews 3月30日消息，据CoinDesk报道， Coinbase首席法务官Paul Grewal在采访时谈到了美国商品期货交易委员会(CFTC)对币安的诉讼。Grewal称：“CFTC已经付出了巨大努力来了解币安发生了什么，并在发现问题时采取行动。有很多问题需要解决。无论是CFTC还是SEC对数字资产拥有管辖权，只会给试图在美国运营的加密行业增加更多的困惑。这种情况突显出监管机构似乎无法就加密货币的监管框架达成一致。我们需要合理的规则来合理地定义这些术语，并为加密经济中的每个人，包括投资者和消费者，提供确定性和清晰度来做出决定。”Grewal表示，CFTC的指控最引人注目的地方在于，它“特别指出了一些数字资产是大宗商品”，且这些资产正被SEC和其他机构“贴上或暗示为证券”。\n此外，Grewal称，“我们是一家美国公司”，总部位于加州，在特拉华州注册，在纽约获得比特币许可证，“我们哪儿也不去”，这与没有母国的币安的情况不同。",
           "link": "https://panewslab.com/zh/articledetails/vvx46d2o.html",
           "publishedOn": "2023-03-30T01:39:19.000Z",
-          "wordCount": 1134,
+          "wordCount": 1124,
           "title": "Coinbase首席法务官：尽管美国监管存在问题，但公司不会离开美国市场",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -422,7 +422,7 @@
           "description": "PANews 3月30日消息，据官方公告，韩国加密交易所Upbit宣布在KRW、BTC市场中上线Arbitrum（ARB），仅支持来自Arbitrum网络的存款，预计将于当地时间3月30日15:00（北京时间3月30日14:00）开始交易。",
           "link": "https://panewslab.com/zh/articledetails/us2oh7cl.html",
           "publishedOn": "2023-03-30T01:23:21.000Z",
-          "wordCount": 1132,
+          "wordCount": 1122,
           "title": "韩国加密交易所Upbit将上线Arbitrum（ARB）",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -432,7 +432,7 @@
           "description": "PANews 3月30日消息，据官方博客，基于区块链的客户奖励平台apM Coin宣布从DWF Labs获得500万美元投资和价值150万美元的可选合作合同。通过此次合作，两家公司计划推动WEB 3.0生态系统的扩张。通过此次获得的投资和合作，apM Coin计划开发和扩展apM Coin Project的链间支付解决方案。\n据悉，apM Coin项目已和经营着韩国三家大型B2B服装批发商场apM, apM PLACE和apM Luxe的apM集团合作，这三家购物中心引入了其app并支持apM Coin代币支付。",
           "link": "https://panewslab.com/zh/articledetails/83akou9o.html",
           "publishedOn": "2023-03-30T01:17:37.000Z",
-          "wordCount": 1169,
+          "wordCount": 1159,
           "title": "基于区块链的客户奖励平台apM Coin从DWF Labs获得500万美元投资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -442,7 +442,7 @@
           "description": "PANews 3月30日消息，“无聊猿”BAYC在社交媒体宣布HV-MTL机甲类型已在其官网正式发布。根据官网显示，HV-MTL总计有8类，目前已公开展示了7类，分别是：GLITCH、DYNAMIC、BIO、KNIGHT、CELESTIAL、REAVER和HOLO，另有一个LEGENDARY暂未公开。\nHV-MTL系列由3万枚“Evo 1”Mechs机甲NFT系列组成，通过销毁下水道通证Sewer Pass可获得，持有HV-MTL NFT将被允许访问未来BAYC游戏和内容，Evo 1预计将于四月发布。OpenSea最新数据显示，当前HV-MTL地板价为2.075 ETH，总交易额已达到15,115 ETH。根据此前的计划，继机甲类型揭示后，将相继推出“穿越裂谷”和“EVO 2之旅”新篇章。",
           "link": "https://panewslab.com/zh/articledetails/s839i0y0.html",
           "publishedOn": "2023-03-30T01:05:47.000Z",
-          "wordCount": 1145,
+          "wordCount": 1135,
           "title": "BAYC揭示HV-MTL机甲NFT类型",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -452,7 +452,7 @@
           "description": "PANews 3月30日消息，据The Information报道，Binance.US发言人表示，Binance.US预计将在24小时内恢复Signature Bank的自动清算中心（ACH）存取款服务。根据Binance.US状态页面信息，Binance.US从3月23日报告Signature Bridge Bank的ACH存取款暂时无法使用，此状态目前尚未更新。\n此前消息，美国联邦存款保险公司(FDIC)已要求Signature Bank的加密货币客户在下周之前取款。",
           "link": "https://panewslab.com/zh/articledetails/iq7obbsz.html",
           "publishedOn": "2023-03-30T00:54:54.000Z",
-          "wordCount": 1145,
+          "wordCount": 1135,
           "title": "Binance.US发言人称预计在24小时内恢复ACH存取款服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -462,7 +462,7 @@
           "description": "PANews 3月30日消息，据APnews报道，音乐NFT交易所Muverse宣布完成600万美元种子轮融资，Syndicate Capital、Knights Templar Capital、Zonff Partners、AvatarDAO、Sun Artland Ltd和几位天使投资者参投。新资金将用于扩大平台的功能和服务，加速用户获取，并提升用户体验。\n据悉，Muverse允许世界各地的音乐艺术家、投资者和粉丝参与音乐NFT交易。该平台为用户提供游戏化的互动、投资和收入场景，包括一个结合收益模型的节奏游戏，以及一个为用户提供充足流动性的NFT交易所。该平台正在开发其第二阶段的产品，其中将包括音乐NFT交易所、NFT碎片化功能和用于其F-NFT/MCT交易的AMM池。",
           "link": "https://panewslab.com/zh/articledetails/li05k7zx.html",
           "publishedOn": "2023-03-30T00:47:31.000Z",
-          "wordCount": 1161,
+          "wordCount": 1151,
           "title": "音乐NFT交易所Muverse完成600万美元种子轮融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -472,7 +472,7 @@
           "description": "PANews 3月30日消息，据官方博客，NFT市场Magic Eden宣布将于4月6日推出其测试版以太坊NFT市场ETH Genesis。这也意味着，继Solana、Polygon、Bitcoin之后，以太坊成为了Magic Eden所覆盖的第四个生态。",
           "link": "https://panewslab.com/zh/articledetails/2z6vx9pl.html",
           "publishedOn": "2023-03-30T00:39:19.000Z",
-          "wordCount": 1163,
+          "wordCount": 1157,
           "title": "Magic Eden将于4月6日推出测试版以太坊NFT市场ETH Genesis",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -591,9 +591,19 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36062",
+          "author": null,
+          "description": "原文作者：0xWizard\n\n\n\nBlur 没有如预期减半收益，推迟了 1 个月。评论里全部是骂声，fuck blur 成为 NFT 领域的政治正确了，这里说一些我的思考。\n\n\n矿工：\n\n\n理解 @machibigbrother 为代表的大矿工（刷空投）为什么不满，前面刷空投的优势，被延长一个月的双倍奖励稀释了，利益受损，这像项目方在 gaming 矿工，观感不好。\n\n\n\nhttps://twitter.com/blur_io/status/1640783834223456320\n\n\nNFT 玩家：\n\n\n评论里的抱怨和谩骂，笼统的说 blur「毁了 NFT 市场」，具体指责 blur 引入了以下问题：\n\n\n1）让玩 NFT 从收藏变成了交易和刷空投的游戏，没有曾经的纯粹；\n\n\n2）巨鲸控制了 NFT 市场价格；\n\n\n3）floor price 下跌（波动剧烈）；\n\n\n我对以上几个问题，有一些自己的思考和疑惑\n\n\n1）如果你是 collector，似乎不必去关注价格的短期波动，以及社区里其他人的想法，跟价值观同样的人一起做收藏就好了；\n\n\n2）巨鲸控制市场价格这件事，其实在哪里都一样，cex 的币价也是一样的，只是没有像链上这么一目了然罢了；\n\n\n3）floor price 下跌，无非是之前的 NFT 巨鲸流动性不好，出货不方便，跌的慢一点。烂项目，早晚会归零；真的好项目，也不怕短期砸盘。\n\n\nblur 带来的改变，是为 NFT 引入流动性，大户更容易参与了，短期看，缺点是巨鲸操控价格/floor 波动剧烈。\n\n\n如果这个模式成立，在我看来，长期对于 NFT 市场利大于弊：\n\n\n对于某些 NFT，艺术属性为主；很大一部分 NFT，金融和交易属性为主。\n\n\n对于后者来说，流动性的改善，让任何人（尤其是大户/巨鲸）能够方便的进出，才能为市场带来更多新鲜的流动性。\n\n\n曾经 os 模式，牛市大户都不敢进入，缺乏流动性，无法大资金进入和退出，谁敢去交易。即使 21 年 NFT 牛市，你敢稍微大一点资金搞 NFT，自己就是 exit liquidity，只有小资金才有盈利机会。\n\n\n不该对 blur 只是指责，还应该多一点包容和进一步的观察，好的流动性才能带来 NFT 的真正长期繁荣。\n\n\n观察声明之后 blur 的 tvl，并没有出现大幅下降，看来大部分矿工虽然不满，还是接受了；以及，真实需求的 maker 没有离开。\n\n\n\n\n\n原文链接",
+          "link": "https://www.theblockbeats.info/news/36062",
+          "publishedOn": "2023-03-30T04:01:55.000Z",
+          "wordCount": null,
+          "title": "观点：为何说Blur减半收益执行推迟，更符合长期发展",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36039",
           "author": null,
-          "description": "以太坊上海升级在即，LSD 赛道或爆发？",
+          "description": "原文标题：《\n\n\n\n以太坊 Shapella 时刻：流动性衍生品质押赛道或爆发\n\n\n》\n原文来源：\n\n比推 BitpushNews\n\n\n\n以太坊将在 4 月 12 日迎来「Shapella 升级」（上海升级「EIP-4895 」），之前锁定的验证者Token被解锁，将大大增加以太坊的流动性，最近几个月，流动性质押平台吸引了大量关注，其中 Liquid Staking Derivative（流动性衍生品质押：LSD）为与传统质押相关的问题提供了独特的解决方案。\n\n\nLiquid Staking Derivatives（LSD）是 DeFi 领域的最新创新，它允许用户在保留对其资产的访问权限的同时赚取质押奖励，LSD 平台通过\n\nToken\n\n化运作，可用于整个 DeFi 生态系统的借贷、交易和抵押品。通过 LSD，用户和投资者可以随时访问他们的抵押\n\nToken\n\n，接收\n\nToken\n\n化资产或衍生\n\nToken\n\n；也可用于外部交易，最大化潜在收益，同时获得与资产抵押相关的奖励，创造多种收入来源。\n\n\n在本文中，我们将讨论什么是流动性质押 / 衍生品 /LSD，概述 LSD 的一些优势与风险以及加密市场中的一些顶级 LSD。\n\n\n要完全理解 LSD 背后的机制，我们需要研究两个概念：流动性质押（Liquid Staking）和衍生品（Derivatives）。\n\n\n流动性质押\n\n\n质押是指用户在特定时期内锁定其资产，这意味着他们很可能会错过通过交易\n\nToken\n\n获利的机会。然而，流动性质押的发展允许\n\nToken\n\n持有者获得质押奖励并按照个人意愿使用他们的\n\nToken\n\n。这确保了质押者可以获得质押奖励并有机会在外部交易中使用\n\nToken\n\n，进一步帮助他们最大化回报并产生多种收入来源。\n\n\n流动性质押是传统质押的高级或更新版本，可在智能合约协议上使用。为了保证…",
           "link": "https://www.theblockbeats.info/news/36039",
           "publishedOn": "2023-03-30T01:00:01.000Z",
           "wordCount": null,
@@ -643,7 +653,7 @@
         {
           "id": "https://www.theblockbeats.info/news/36040",
           "author": null,
-          "description": "原文标题：《\n\nIOSG Weekly Brief ｜Security vs Trustlessness, ZK 协议在机制上该如何取舍\n\n》\n原文来源：\n\n IOSG Ventures\n\n\n\n近日，zkSync 和 Polygon 都推出了各自的 zkEVM，掀起了一波行业的热潮。与此同时，社区对于 zkEVM 的安全性和去中心化也有了很多讨论。IOSG 在前不久刚结束的 ETHDenver 期间，举办了一场以安全为主题的活动（Stay SAFU, Security Day），有幸邀请到了在零知识证明领域的头部项目参与讨论，他们分享了零知识证明协议在机制设计和工程建构上的安全原则与新颖方案，以及在设计过程中的种种权衡。\n\n\n以下为各位嘉宾分享的 insight 原文，参与者为：\n\n\nQueenie Wu, IOSG Ventures 合伙人（主持人）；\nAlex Gluchowski, zkSync 联合创始人；\nYe Zhang, Scroll 联合创始人和研究负责人；\nMatt Finestone, Taiko 首席运营官；\nMikhail Komarov, Nil foundation 创始人；\nBrian R, Risc0 创始人；  \n\n\n\n\n\n Q1：零知识证明是如何增强你们正在构建的系统的安全性的？另一方面，部署零知识证明会带来哪些安全问题？\n\n\n[Brian R]\n\n\n我是 Risk Zero 的 CEO Brian Redford。我们是在 Risk-V Micro Architecture 构建的 Risk Zero zkVM 的开发者，可以在 ZK 系统中执行任意代码。我们还在部署一个名为 Bonsai 的 Layer2 网络，它可以在 ZK 场景下执行任何代码，可以把它理解为是一个 ZK 加速器。在 ZK 如何增强安全性方面，我想这取决于具体的应用…",
+          "description": "近日，zkSync和Polygon都推出了各自的zkEVM，掀起了一波行业的热潮。与此同时，社区对于zkEVM的安全性和去中心化也有了很多讨论",
           "link": "https://www.theblockbeats.info/news/36040",
           "publishedOn": "2023-03-29T08:21:56.000Z",
           "wordCount": null,
@@ -673,21 +683,11 @@
         {
           "id": "https://www.theblockbeats.info/news/36035",
           "author": null,
-          "description": "Polygon zkEVM 使用 ETH 支付 GAS 费，MATIC 将用于 Polygon 生态链上治理。",
+          "description": "原文标题：《Polygon zkEVM 主网测试版上线，将如何影响 Polygon 生态》\n原文来源：Foresight News\n\n\n3 月 27 日，Polygon zkEVM 主网测试版本（Beta）正式上线发布，以太坊创始人 Vitalik Buterin 已在 Polygon zkEVM 主网上完成了其首笔交易。\n \n不过，MATIC 代币价格并没有因此按照用户预期上涨，反而 24 小时内还下跌了 5%，现报价 1.04 美元。当然，这在一定程度上受大盘的影响，主要原因是目前仅为测试版上线，或许需要等主网正式上线才能真正看到影响。\n \n相比币安的 FUD 事件，市场对于 zkEVM 主网测试版的关注热度似乎并不高。尽管如此，Polygon zkEVM 主网的发布，说明 ZK Rollup 扩容方案在与 EVM 兼容的问题上已有重大突破。\n \nPolygon zkEVM 主网与现有的大多数以太坊智能合约、开发工具和钱包都可以无缝协作，支持以太坊开发者一键迁移应用至链上；用户也可通过熟悉的以太坊钱包使用「zkEVM-testnet RPC」节点体验其链上生态应用。\n \n根据 Polygon zkEVM 浏览器显示，主网测试版上线不到 24 小时内，已完成 7821 笔交易，提交了 598 批交易，生成了 7873 个区块。\n \nPolygon zkEVM 原理\n \nPolygon zkEVM 是基于 ZK Rollup 技术搭建的以太坊 Layer2 层 zkEVM 扩容方案，ZK Rollup 是利用「零知识证明」验证方式来落实 Rollup 的扩容方案。\n \n具体来说，在 ZK Rollup 扩容方案下，链下（Layer2）执行交易、完成复杂计算，将多个交易数据批量处理压缩打包之后，会创建一个链下计算的「零知识证明」结果，提交至主网（Layer1）进行证明校验，主…",
           "link": "https://www.theblockbeats.info/news/36035",
           "publishedOn": "2023-03-29T04:18:07.000Z",
           "wordCount": null,
           "title": "Polygon zkEVM主网测试版上线，将如何影响Polygon生态",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36034",
-          "author": null,
-          "description": "近日，根据相关法庭文件披露，Mysten Labs 3月22日与FTX债务人达成协议，将以9630万美元的现金回购 FTX 对Mysten Labs的股权投资和SUI代币权证。",
-          "link": "https://www.theblockbeats.info/news/36034",
-          "publishedOn": "2023-03-29T03:51:07.000Z",
-          "wordCount": null,
-          "title": "MystenLabs与FTX债务人的 123 页法庭文件，透露了哪些SUI的信息？",
           "imageUrl": null
         }
       ]
@@ -697,6 +697,46 @@
       "feedUrl": "https://rsshub.app/techflowpost/express",
       "siteUrl": "https://www.techflowpost.com/express",
       "articles": [
+        {
+          "id": "https://www.techflowpost.com/express/7361",
+          "author": null,
+          "description": "深潮 TechFlow 消息，NFT认证协议Wakweli宣布与Polygon签署一项合作协议，以确保网络上的所有数字资产都与Wakweli开发的认证系统兼容。该伙伴关系要求链上的所 NFT项目持有者都能够为每项资产申请真实性证书，这将使Wakweli对所有Polygon用户具有认证能力，在NFT铸造或访问更精确的认证数据时自动提出认证请求，继而有效打击诈骗。\n此前报道，今年 2 月，NFT 认证协议 Wakweli 完成 110 万美元种子轮融资， 区块链投资公司 Summit、Funfair Ventures 以及一批天使投资人参投。原文链接",
+          "link": "https://www.techflowpost.com/express/7361",
+          "publishedOn": "2023-03-30T03:38:45.000Z",
+          "wordCount": 29854,
+          "title": "NFT认证协议Wakweli与Polygon将合作提供资产真实性证书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.techflowpost.com/express/7360",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Telegram 的开发人员推出一项由 TON 区块链支持的新加密功能。\n从今天开始，该平台的用户可以通过用户名拍卖平台 Fragment 使用 TON 代币购买 Telegram 高级订阅服务。原文链接",
+          "link": "https://www.techflowpost.com/express/7360",
+          "publishedOn": "2023-03-30T03:37:24.000Z",
+          "wordCount": 29881,
+          "title": "Telegram已支持通过Fragment使用TON代币购买高级订阅服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.techflowpost.com/express/7359",
+          "author": null,
+          "description": "深潮 TechFlow 消息，币安将在创新区上线 Radiant Capital (RDNT)，并将于2023 年 3 月 30 日 07:30（UTC）开放 RDNT/BTC、RDNT/USDT、RDNT/TUSD现货交易对。RDNT 充值信道现已开放，RDNT 提现预计于3月31日15:30（东八区时间）开放。原文链接",
+          "link": "https://www.techflowpost.com/express/7359",
+          "publishedOn": "2023-03-30T03:28:45.000Z",
+          "wordCount": 29874,
+          "title": "币安将在创新区上线Radiant Capital（RDNT）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.techflowpost.com/express/7358",
+          "author": null,
+          "description": "深潮 TechFlow 消息，日本财务省正在协调成立新的央行数字货币（CBDC）专家小组，最早在4月成立，以确定可能的体制和技术问题，并着手进行讨论，包括发行的可能性。原文链接",
+          "link": "https://www.techflowpost.com/express/7358",
+          "publishedOn": "2023-03-30T03:06:09.000Z",
+          "wordCount": 29834,
+          "title": "日本财务省或将于4月成立CBDC专家小组，讨论发行可能性",
+          "imageUrl": null
+        },
         {
           "id": "https://www.techflowpost.com/express/7357",
           "author": null,
@@ -723,7 +763,7 @@
           "description": "深潮 TechFlow 消息，Sui 生态 API 和节点服务 Shinami 推出 Gas 费加油服务 Gas Station，负责管理、加油和优化 Gas 费，以促进赞助交易（sponsored transactions）。\nShinami 的节点服务可向网络提交赞助交易并提供状态跟踪，使 Sui 上的应用程序可专注于如何应用赞助交易来提高用户参与度。原文链接",
           "link": "https://www.techflowpost.com/express/7355",
           "publishedOn": "2023-03-30T02:50:41.000Z",
-          "wordCount": 29861,
+          "wordCount": 29892,
           "title": "Sui生态API和节点服务Shinami推出Gas费加油服务Gas Station",
           "imageUrl": null
         },
@@ -733,7 +773,7 @@
           "description": "深潮 TechFlow 消息， OKX 宣布将向债务人移交约 1.57 亿美元的与 FTX 和 Alameda 相关的冻结资产。OKX 表示将继续与FTX 债务人和执法人员合作，希望这些资产最终能通过破产程序返还给 FTX 用户。来源链接",
           "link": "https://www.techflowpost.com/express/7354",
           "publishedOn": "2023-03-30T01:25:55.000Z",
-          "wordCount": 29885,
+          "wordCount": 29916,
           "title": "OKX 将与 FTX 和 Alameda 相关的 1.57 亿美元冻结资产移交给债务人",
           "imageUrl": null
         },
@@ -743,7 +783,7 @@
           "description": "深潮 TechFlow 消息，公链 Sui Network 推出永久测试网，与此前 Waves 1 和 Waves 2 测试网不同，该测试网即使在主网启动后也会继续运行。该测试网有多个功能更新，包括动态验证者集、支持协议软件和 Sui 框架升级、可从数据库快照恢复全节点、地址和签名更新等。\n此前消息，Sui Network 表示，主网将于第二季度推出，尚无正式的空投计划。来源链接",
           "link": "https://www.techflowpost.com/express/7353",
           "publishedOn": "2023-03-30T00:35:48.000Z",
-          "wordCount": 29897,
+          "wordCount": 29866,
           "title": "Sui 推出永久测试网，主网启动后也将继续运行",
           "imageUrl": null
         },
@@ -753,7 +793,7 @@
           "description": "深潮 TechFlow 消息，专注于人工智能的 Web3 协议 Fetch.ai 获 DWF Labs 4000 万美元投资，本轮融资将用于部署去中心化机器学习、自主代理和网络基础设施。来源链接",
           "link": "https://www.techflowpost.com/express/7352",
           "publishedOn": "2023-03-29T15:17:54.000Z",
-          "wordCount": 29880,
+          "wordCount": 29911,
           "title": "去中心化 AI 项目 Fetch.ai 获 DWF Labs 4000 万美元投资",
           "imageUrl": null
         },
@@ -873,7 +913,7 @@
           "description": "深潮 TechFlow 消息，基于 ZK-SNARK 技术的多链订单簿去中心化现货与合约交易平台 Orbits 测试网已上线，用户可体验去中心化现货与合约的市价与限价交易功能。\n据悉，Orbits 基于以太坊二层技术和 ZK-SNARK，在保障交易安全性和效率的情况下，大幅降低交易手续费并优化交易效率。Orbits 是第一个 L2 链上支持策略交易的 DEX，支持现货与永续合约交易过程中的流动性聚合和策略交易，并将 70% 交易手续费及市值流动性收益同所有用户分享。原文链接",
           "link": "https://www.techflowpost.com/express/7339",
           "publishedOn": "2023-03-29T07:49:41.000Z",
-          "wordCount": 29864,
+          "wordCount": 29895,
           "title": "去中心化合约交易平台 Orbits 测试网已上线",
           "imageUrl": null
         },
@@ -913,7 +953,7 @@
           "description": "深潮 TechFlow 消息，Galaxy Digital仍计划在重组成为特拉华州注册公司并完成必要的美SEC审查后在美国上市。Galaxy最近的修订注册文件已于2023年2月提交给美SEC，目前正在审核中。\n据此前报道，Galaxy Digital报告称，2022年净亏损10亿美元，而2021年实现的利润为17亿美元。它还报告第四季度亏损2.88亿美元。该公司将亏损归因于其投资组合的未实现市值。原文链接",
           "link": "https://www.techflowpost.com/express/7335",
           "publishedOn": "2023-03-29T00:50:20.000Z",
-          "wordCount": 29836,
+          "wordCount": 29867,
           "title": "Galaxy Digital仍计划在美国上市，注册文件已提交给SEC审核",
           "imageUrl": null
         },
@@ -933,7 +973,7 @@
           "description": "深潮 TechFlow 消息，以太坊再质押协议 EigenLayer 开发商 EigenLabs 完成 5000 万美元 A 轮融资，Blockchain Capital 领投，Electric Capital、Polychain Capital、Hack VC、Finality Capital Partners 和 Coinbase Ventures 等参投。\n据加密数据平台 RootData 显示，EigenLabs 此前已完成 1450 万美元种子轮融资，Polychain Capital 与 Ethereal Ventures 联合领投。来源链接",
           "link": "https://www.techflowpost.com/express/7333",
           "publishedOn": "2023-03-29T00:46:26.000Z",
-          "wordCount": 29942,
+          "wordCount": 29911,
           "title": "以太坊再质押协议 EigenLayer 完成 5000 万美元 A 轮融资，Blockchain Capital 领投",
           "imageUrl": null
         },
@@ -943,7 +983,7 @@
           "description": "深潮 TechFlow 消息，Metamask 发推文称：“目前，有很多关于 MetaMask 在 3 月 31日的快照/空投等谣言，这些谣言不仅是错误的，而且很危险。它们为诈骗者和网络钓鱼者创造了机会。未来几天请注意假冒网站。”来源链接",
           "link": "https://www.techflowpost.com/express/7332",
           "publishedOn": "2023-03-29T00:44:57.000Z",
-          "wordCount": 29850,
+          "wordCount": 29881,
           "title": "Metamask：快照空投是谣言，注意假冒网站",
           "imageUrl": null
         },
@@ -953,7 +993,7 @@
           "description": "深潮 TechFlow 消息，加密基础设施初创公司 Conduit 宣布完成 700 万美元种子轮融资，Paradigm 领投。Conduit 提供托管服务，帮助开发人员轻松快速地将他们的应用程序部署到 Optimism。\n据悉，Conduit 和 Optimism Foundation 将共同努力，支持开发人员在链上启动应用程序并过渡到其即将推出的 Superchain 区块链网络。来源链接",
           "link": "https://www.techflowpost.com/express/7331",
           "publishedOn": "2023-03-28T15:14:57.000Z",
-          "wordCount": 29911,
+          "wordCount": 29880,
           "title": "加密基础设施公司 Conduit 完成 700 万美元种子轮融资，Paradigm 领投",
           "imageUrl": null
         },
@@ -963,7 +1003,7 @@
           "description": "深潮 TechFlow 消息，以太坊基金会宣布，将于北京时间 4 月 13 日 6:27:35 在 epoch 194048 激活 Shapella 升级。此次升级将使验证者能够将他们的质押份额从信标链撤回到执行层，还为执行层和共识层引入了新功能。\n据悉，Shapella 升级结合了对执行层（上海）、共识层（Capella）和引擎 API 的更改。另外，即日起至 4 月 5 日，针对 Shapella 漏洞的以太坊漏洞赏金奖励翻倍。来源链接",
           "link": "https://www.techflowpost.com/express/7330",
           "publishedOn": "2023-03-28T15:14:01.000Z",
-          "wordCount": 29894,
+          "wordCount": 29925,
           "title": "以太坊基金会：Shapella 升级将于北京时间 4 月 13 日激活",
           "imageUrl": null
         },
@@ -973,7 +1013,7 @@
           "description": "深潮 TechFlow 消息 据美国检察官 Damian Williams 提交的法庭文件显示，美国当局对 FTX 创始人 SBF 的指控在原本12项的基础上增加了一项，称其涉嫌向一名或多名中国官员行贿。法庭文件称，SBF 和其他相关方向一名或多名中国官员转移了至少价值约4,000万美元的加密货币，目的是让他们解冻在 Alameda Research 的加密账户。",
           "link": "https://www.techflowpost.com/express/7329",
           "publishedOn": "2023-03-28T14:38:35.000Z",
-          "wordCount": 29873,
+          "wordCount": 29904,
           "title": "SBF 被美检察官指控涉嫌用超价值4000万美元加密资产贿赂中国官员",
           "imageUrl": null
         },
@@ -1043,7 +1083,7 @@
           "description": "深潮 TechFlow 消息，伯恩斯坦（Bernstein）研究报告，作为潜在和解的一部分，美国商品期货交易委员会（CFTC）可能会要求币安停止在美国的运营。报告称，Binance.US是币安整个业务的一小部分，占该交易所全球业务的不到5%。\n报告称，这一最新的执法并不像币安那样“对整个加密市场有重大影响”。美国业务并不重要，该公司预计这一消息不会引发市场大规模抛售，因为“监管叙事”已从美国转向预期中的香港和中国内地资金流动。香港加密货币零售市场预计将于6月1日开放。原文链接",
           "link": "https://www.techflowpost.com/express/7322",
           "publishedOn": "2023-03-28T08:37:15.000Z",
-          "wordCount": 29872,
+          "wordCount": 29841,
           "title": "伯恩斯坦报告：美CFTC或将迫使币安停止在美运营以作为和解的一部分",
           "imageUrl": null
         },
@@ -1063,7 +1103,7 @@
           "description": "深潮 TechFlow 消息，以太坊 Layer2 扩容解决方案 Starknet 计划于本周在主网上线 Alpha v0.11.0 版，重要改进包括计算成本降低了 5 倍。Starknet 提醒用户尽快升级 Starknet 钱包帐户以避免财产损失。来源链接",
           "link": "https://www.techflowpost.com/express/7320",
           "publishedOn": "2023-03-28T08:02:49.000Z",
-          "wordCount": 29876,
+          "wordCount": 29907,
           "title": "Starknet 计划本周在主网上线 Alpha v0.11.0 版",
           "imageUrl": null
         },
@@ -1083,7 +1123,7 @@
           "description": "深潮 TechFlow 消息，Layer2 跨 Rollup 桥 Orbiter finance 发文表示，没有进行任何公开募资活动，也没有公布任何关于在交易所出售或上市代币的计划，目前市场上关于此类消息的谣言均与 Orbiter Finance 无关。来源链接",
           "link": "https://www.techflowpost.com/express/7318",
           "publishedOn": "2023-03-28T05:18:21.000Z",
-          "wordCount": 29879,
+          "wordCount": 29910,
           "title": "Orbiter Finance：没有进行任何公开募资，且未公布任何代币计划",
           "imageUrl": null
         },
@@ -1103,7 +1143,7 @@
           "description": "深潮 TechFlow 消息，据 Lookonchain 监测，0xb154 开头的巨鲸地址 8 小时前再次从币安收到了 500 万枚 ARB （约 573 万美元），目前共持有 994 万枚 ARB（约 1133 万美元）。\n据悉，该地址曾在 ARB 上线首日用 3700 枚 ETH（约 679 万美元）购买了 494 万枚 ARB，平均购买价格为 1.38 美元。来源链接",
           "link": "https://www.techflowpost.com/express/7316",
           "publishedOn": "2023-03-28T02:58:47.000Z",
-          "wordCount": 29899,
+          "wordCount": 29930,
           "title": "数据：某巨鲸8小时前再次从币安买入500万枚ARB，目前共持有994万枚",
           "imageUrl": null
         },
@@ -1123,7 +1163,7 @@
           "description": "深潮 TechFlow 消息，Web3基础设施公司Ankr宣布与Coin98达成合作。Ankr为Coin98构建一个白标解决方案，为ETH和BNB提供流动性质押，用户质押可获得CETH和CBNB。原文链接",
           "link": "https://www.techflowpost.com/express/7314",
           "publishedOn": "2023-03-28T02:46:48.000Z",
-          "wordCount": 29834,
+          "wordCount": 29865,
           "title": "Ankr与Coin98合作开发白标流动性质押解决方案",
           "imageUrl": null
         },
@@ -1133,7 +1173,7 @@
           "description": "深潮 TechFlow 消息，EOS网络基金会发推称，EOS EVM最终测试网已上线。随着安全审计的进行，EVM主网也即将准备就绪。\n据此前报道，EOS EVM主网Beta版本发布时间为4月14日。原文链接",
           "link": "https://www.techflowpost.com/express/7313",
           "publishedOn": "2023-03-28T02:46:07.000Z",
-          "wordCount": 29848,
+          "wordCount": 29879,
           "title": "EOS网络基金会：EOS EVM最终测试网已上线",
           "imageUrl": null
         },
@@ -1153,48 +1193,8 @@
           "description": "深潮 TechFlow 消息 3月28日，加密货币矿业公司 Bitdeer Technologies Holding Company 比特小鹿宣布和 Blue Safari Group Acquisition Corp.（纳斯达克股票代码： BSGA），一家特殊目的收购公司合并，美国证券交易委员会（SEC）已宣布 Bitdeer Technologies Group（“BTG”）表格 F-4 的注册声明生效。企业合并后对 Bitdeer 的估值约为11.8 亿美元，合并后的公司 BTG 将成为纳斯达克上市公司，股票代码为“BTDR”。(来源链接)",
           "link": "https://www.techflowpost.com/express/7311",
           "publishedOn": "2023-03-28T01:53:44.000Z",
-          "wordCount": 29937,
+          "wordCount": 29906,
           "title": "吴忌寒旗下比特小鹿宣布通过SPAC上市纳斯达克，估值11.8亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.techflowpost.com/express/7310",
-          "author": null,
-          "description": "深潮 TechFlow 消息 3月28日，在一位推特用户关于比尔·盖茨参与OpenAI以及对AI总体看好的推文下，埃隆·马斯克回复称还记得与盖茨的早期会面。马斯克表示，盖茨当时对AI的理解有限，现在依然如此。",
-          "link": "https://www.techflowpost.com/express/7310",
-          "publishedOn": "2023-03-28T01:48:05.000Z",
-          "wordCount": 29823,
-          "title": "马斯克：此前比尔盖茨对AI理解有限，现在依然如此",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.techflowpost.com/express/7309",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据The Block报道，Solana生态DeFi衍生品协议Cega完成500万美元融资，Dragonfly Capital领投，Pantera Capital和Robot Ventures等参投。最新一轮融资使Cega迄今为止的总融资额达到930万美元。它在去年3月筹集了430万美元。新资金将用于扩大其在以太坊上的协议，将在该协议上推出杠杆期权等新产品，其以太坊计划于下周推出。\n据悉，Cega是一种基于Solana的衍生品协议，专注于奇异期权（exoticderivative）结构化产品。Cega协议于去年6月上线，总锁定价值（TVL）峰值约为5000万美元，但FTX交易所的崩溃导致大量资金撤出。根据其网站，Cega目前的TVL为630万美元。",
-          "link": "https://www.techflowpost.com/express/7309",
-          "publishedOn": "2023-03-28T01:14:04.000Z",
-          "wordCount": 29835,
-          "title": "DeFi衍生品协议Cega完成500万美元融资，Dragonfly Capital领投",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.techflowpost.com/express/7308",
-          "author": null,
-          "description": "深潮 TechFlow 消息，CZ回应“Binance及其CEO因违反监管规定被美CFTC起诉”事件时，引用其年初发布的“2023专注目标及建议”的第四条款作出回应，“Ignore FUD, fake news, attacks, etc.”，即忽略 FUD消息、假新闻、恶意攻击等。原文链接",
-          "link": "https://www.techflowpost.com/express/7308",
-          "publishedOn": "2023-03-27T15:30:30.000Z",
-          "wordCount": 29881,
-          "title": "币安赵长鹏回应遭起诉：忽略FUD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.techflowpost.com/express/7307",
-          "author": null,
-          "description": "深潮 TechFlow 消息，交易平台币安CEO赵长鹏因违反监管规定被美国商品期货交易委员会（CFTC）起诉。原文链接",
-          "link": "https://www.techflowpost.com/express/7307",
-          "publishedOn": "2023-03-27T15:03:36.000Z",
-          "wordCount": 29828,
-          "title": "CZ因违反监管规定被CFTC起诉",
           "imageUrl": null
         }
       ]
