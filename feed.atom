@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-01T11:10:02.233Z</id>
+    <id>urn:2023-04-01T12:23:16.412Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-01T11:10:02.233Z</updated>
+    <updated>2023-04-01T12:23:16.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-4.1）]]></title>
+        <id>https://www.web3sj.com/?p=54826</id>
+        <link href="https://www.web3sj.com/news/54826/"/>
+        <updated>2023-04-01T11:46:47.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊NFT市场将推出Beeple和Pudgy Penguins创作者的数字收藏品。经典游戏“俄罗斯方块”推出Web3忠诚度计划。zkSync官方：已解决zkSync Era网络停机问题，将发布情况报告。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：处于盈利状态的ETH地址数再创11个月高点]]></title>
+        <id>https://panewslab.com/zh/articledetails/trsglpo6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/trsglpo6.html"/>
+        <updated>2023-04-01T11:28:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月1日消息，据Glassnode数据显示，处于盈利状态中的ETH地址数量约达6410万，再创11个月内的最高点，上一次创下高点为3月24日。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数字资产基础设施开发公司GlobexUS拟以7400万美元估值融资250万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/e63z165i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/e63z165i.html"/>
+        <updated>2023-04-01T11:01:48.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月1日消息，据CrowdFundInsider报道，数字资产基础设施开发公司GlobexUS将通过Reg D（506c）证券发行方式募集250万美元，该公司本次融资前的估值达到7400万美元。据悉，Globex US是数字资产市场Upstream背后的支持公司，其推出的Open Order Book数字证券交易软件能让用户通过以太坊对订单驱动的数字资产支持市场进行出价。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[孙宇晨否认火币全球股权出售传闻称这是愚人节恶作剧]]></title>
         <id>https://0xzx.com/2023040118423327880.html</id>
@@ -53,6 +83,16 @@
         <summary type="html"><![CDATA[免责声明：本文是赞助帖。 CoinTürk 对与本文提及的任何产品或服务相关的任何损害或损失不承担任何责任。  […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟或将禁止超过1000欧元的匿名加密货币转账]]></title>
+        <id>https://panewslab.com/zh/articledetails/lxby2qfk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/lxby2qfk.html"/>
+        <updated>2023-04-01T10:06:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月1日消息，据Coinpaper报道，欧洲议会议员批准了三项法案草案以加强加密交易监管。该立法涉及洗钱和恐怖主义融资，虽然并不直接针对数字资产，但一旦签署成为法律，匿名转账将限制在1000欧元以内（约1087美元）。此外，新法规或将补充进加密资产市场规则 (MiCA) 法案。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -336,26 +376,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：比特币非零地址创历史新高]]></title>
-        <id>https://panewslab.com/zh/articledetails/0jl7khsu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0jl7khsu.html"/>
-        <updated>2023-04-01T02:48:35.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月1日消息，Glassnode数据显示，比特币非零地址达到45,408,435个，创历史新高。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特向全球社区开放大部分源代码]]></title>
-        <id>https://panewslab.com/zh/articledetails/n0h2hakc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n0h2hakc.html"/>
-        <updated>2023-04-01T02:44:09.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月1日消息，据官方消息，推特向全球社区开放大部分源代码，已公开GitHub上两个新的存储库（main repo、ml repo），其中包括推荐算法，但不包含为广告推荐提供支持的代码。推特还表示，已采取额外措施来确保用户的安全和隐私，因此决定不发布与推特算法相关的训练数据或模型权重。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[报告：预计2025年中国虚拟人带动产业市场规模达6402.7亿元]]></title>
         <id>https://www.hellobtc.com/news/202304/20303.html</id>
         <link href="https://www.hellobtc.com/news/202304/20303.html"/>
@@ -413,16 +433,6 @@
         <summary type="html"><![CDATA[《金融时报》认为，美国监管部门已采取行动加大了对金融机构涉加密币业务的管制。今年1月，美联储和其他相关监管机构警告银行业在同加密币企业打交道时“严防欺诈活动”。与此同时，监管部门也开始对其他大型加密币平台出手。3月27日，美国商品期货委员会起诉币安平台非法从事加密币衍生品交易。此外，Coinbase平台近期亦被警告可能面临证券违法指控。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum发起AIP-1提案，拟引入ArbitrumDAO]]></title>
-        <id>https://panewslab.com/zh/articledetails/ysnomnh4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ysnomnh4.html"/>
-        <updated>2023-04-01T02:12:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月1日消息，据Blockworks报道，Arbitrum社区已发起Arbitrum Improvement Proposal 1 (AIP-1)提案，拟引入一个名为ArbitrumDAO的去中心化自治组织结构。该基金会将设在开曼群岛，将负责Arbitrum生态系统的成长和发展。该提案背后实体Lemma还将申请7.5亿枚ARB代币（价值约超10亿美元）资金拨款。Lemma表示，根据ArbitrumDAO章程中规定的AIP流程，ArbitrumDAO将对DAO金库拥有直接的链上治理权力。尽管该提案目前尚未获得批准，但已经创建了一个地址名为“Arbitrum DAO Treasury2”的多重签名钱包，并且收到近7亿枚ARB代币，Arbitrum基金会的一位代表证实，该地址是行政预算钱包。该提案已在Snapshot上开放投票，目前支持比例接近90%，投票将于4月3日结束。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -548,16 +558,6 @@ TXNHUB.IO是一家创始于香港，以香港All-in Web3为起点，专注链接
         <link href="https://www.web3sj.com/news/54670/"/>
         <updated>2023-03-31T09:24:48.000Z</updated>
         <summary type="html"><![CDATA[毕竟 OP Rollup 的发展，只针对 ERC 范畴，未免有种螺丝壳里做道场的局限。但 ZK Rollup 则能为 ERC 范畴以外的领域提供助力，甚至零知识证明的实现能够对整个现实社会的信任证明带来帮助，更具有现实意义。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARB如何启示未来的项目方空投？]]></title>
-        <id>https://www.web3sj.com/?p=54665</id>
-        <link href="https://www.web3sj.com/news/54665/"/>
-        <updated>2023-03-31T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[空投仍然是奖励社区和将协议所有权去中心化的首选模式。然而，Uniswap 风格的追溯式空投已经一去不复返。通过一笔简单的交易或 LP 头寸将不再使你有资格获得空投。即使是最基本的空投方式，现在也将空投分级标准和反女巫攻击机制考虑在内。]]></summary>
         <author>
             <name>Gao</name>
         </author>
