@@ -63,12 +63,22 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6811766",
+          "author": "白泽研究院",
+          "description": "受益于用户数量、安全性以及用例的多样化，Polygon 受到了许多开发人员、企业的追捧。",
+          "link": "https://www.defidaonews.com/article/6811766",
+          "publishedOn": "2023-04-02T04:15:06.000Z",
+          "wordCount": 1724,
+          "title": "名人、企业采用首选？盘点在 Polygon 上构建的 80 个现实世界用例",
+          "imageUrl": "https://appserversrc.8btc.cn/Fq8rRpzRL7Zw7GZUGaZ9sCOKsUkY.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6811726",
           "author": "吴说",
           "description": "本周新闻Top10",
           "link": "https://www.defidaonews.com/article/6811726",
           "publishedOn": "2023-04-02T02:17:55.000Z",
-          "wordCount": 994,
+          "wordCount": 998,
           "title": "吴说周精选：MicroStrategy 再买比特币、美国政府卖币、小鹿将上市与新闻Top10（0324-0331）",
           "imageUrl": "https://appserversrc.8btc.cn/FuNHlxuw6yzfng8YccMSuogNy9BQ.png?imageView2/1/w/500/h/300"
         },
@@ -78,7 +88,7 @@
           "description": "Messari 报告从 10 个 DAO 的预算支付情况入手，解读了 DAO 在 2022 年如何以及在何处分配资源。",
           "link": "https://www.defidaonews.com/article/6811718",
           "publishedOn": "2023-04-01T04:03:30.000Z",
-          "wordCount": 870,
+          "wordCount": 886,
           "title": "Messari 报告：深度解读 DAO 工作组的资金分配现状",
           "imageUrl": "https://appserversrc.8btc.cn/lmwSNSWDtF1ASce8XeYfkdU2E53p.png?imageView2/1/w/500/h/300"
         },
@@ -118,7 +128,7 @@
           "description": "LD Capital 撰文从上海升级后行业整体成长空间、 4 种质押解决方案与不同 LSD 协议比选、DVT 赛道的定位和 LSD 资产对链上其他生态的影响 4 部分概览 LSD 赛道全景。",
           "link": "https://www.defidaonews.com/article/6811576",
           "publishedOn": "2023-03-31T03:17:19.000Z",
-          "wordCount": 407,
+          "wordCount": 391,
           "title": "LSD赛道长坡厚雪，稳定性与高增速贯穿整年",
           "imageUrl": "https://appserversrc.8btc.cn/Fkm7GgwhhX9QeYxpjzDviW0cEUkA.png?imageView2/1/w/500/h/300"
         },
@@ -151,16 +161,6 @@
           "wordCount": 820,
           "title": "Ronin 黑客计中计，你听说过扭曲攻击漏洞吗？",
           "imageUrl": "https://appserversrc.8btc.cn/Fs1sVO4OPTcRWzfW1JJ6TECfhM19.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6811452",
-          "author": "白泽研究院",
-          "description": "这并不是 Binance 第一次面临违反监管规定的指控，该平台已受到全球各种监管机构的审查。这引发了人们对交易平台的合规程序和遵守监管要求的担忧。",
-          "link": "https://www.defidaonews.com/article/6811452",
-          "publishedOn": "2023-03-30T05:41:33.000Z",
-          "wordCount": 228,
-          "title": "CFTC 的指控引发担忧：这对于币安以及加密行业意味着什么？",
-          "imageUrl": "https://appserversrc.8btc.cn/FuREdmqk2_y8Z-QLw_Av6JP1EMJ_.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -170,12 +170,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=54863",
+          "author": "Gao",
+          "description": "多签，即多重签名，是一种在区块链技术中使用广泛的安全机制。只有当一定数量具有私钥权限的用户同意签署交易时，交易才能完成。多签有助于防止恶意攻击和欺诈行为，提高了加密资产的安全性、可用性，合理解决了合作多方就资管方面存在的潜在信任问题，因此得到了广泛的应用。",
+          "link": "https://www.web3sj.com/news/54863/",
+          "publishedOn": "2023-04-02T04:37:26.000Z",
+          "wordCount": 605,
+          "title": "假钱包盗币手法升级，警惕多签「养鱼」",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680409883841.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=54858",
+          "author": "Gao",
+          "description": "这些项目将共同分享由 ETHGlobal 联合 Optimism、Polygon、Scroll、zkSync Era 等 17 家项目提供的 175000 美元奖金。接下来，就带大家一起来了解下这 11 家入围项目。",
+          "link": "https://www.web3sj.com/news/54858/",
+          "publishedOn": "2023-04-02T04:26:37.000Z",
+          "wordCount": 914,
+          "title": "盘点11家ETHGlobal「Scaling Ethereum 2023」黑客松决赛项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680409581490.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=54826",
           "author": "Gao",
           "description": "亚马逊NFT市场将推出Beeple和Pudgy Penguins创作者的数字收藏品。经典游戏“俄罗斯方块”推出Web3忠诚度计划。zkSync官方：已解决zkSync Era网络停机问题，将发布情况报告。",
           "link": "https://www.web3sj.com/news/54826/",
           "publishedOn": "2023-04-01T11:46:47.000Z",
-          "wordCount": 839,
+          "wordCount": 833,
           "title": "Web3世界日报（2023-4.1）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/2023040111463095.jpg"
         },
@@ -185,7 +205,7 @@
           "description": "Polygon 号称是以太坊扩容的「瑞士军刀」提供了多种扩容解决方案，包括 Polygon PoS 侧链、EVM 等效的 zk Rollup 方案 Polygon zkEVM、适用于应用链的 Polygon Supernets 和还未上线的 zk-optimized Rollup 方案 Polygon Miden。Polygon Supernets 迭代于生态中原有的 Polygon Edge，旨在实现与 EVM 兼容的、特定于应用程序的主权区块链。",
           "link": "https://www.web3sj.com/news/54795/",
           "publishedOn": "2023-04-01T04:46:03.000Z",
-          "wordCount": 997,
+          "wordCount": 1000,
           "title": "应用链进展如何？多维度对比Polygon Supernets和Avalanche Subnets",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680324348315.png"
         },
@@ -195,7 +215,7 @@
           "description": "事实上，在约 384 秒（6 分 24 秒）内，所有活跃中的验证者将有机会投下一票或提议一个区块。在约 384 秒内至少有 50 万条信息广播，而且所有信息必须在严格的时间范围内传递。据我所知，没有其他共识协议被设计来处理如此活跃和庞大的共识参与者集。",
           "link": "https://www.web3sj.com/news/54786/",
           "publishedOn": "2023-04-01T04:40:57.000Z",
-          "wordCount": 1005,
+          "wordCount": 1025,
           "title": "解读以太坊PoS工作原理：Epoch、Slot与信标区块",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680324042749.png"
         },
@@ -205,7 +225,7 @@
           "description": "目前，在 IBC 网络中，单个 Tendermint 轻客户端就足以代表一个逻辑区块链，因为网络本身具有同质性。不过，Celestia 这样的模块化区块链打破了这种同质性，将逻辑区块链分割成多条链。因此，你需要多个轻客户端来代表一个单独的逻辑区块链，而每个轻客户端可以代表区块链堆栈的不同层次。",
           "link": "https://www.web3sj.com/news/54777/",
           "publishedOn": "2023-04-01T04:26:43.000Z",
-          "wordCount": 951,
+          "wordCount": 927,
           "title": "详解模块化世界中的模块化IBC",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680323185694.png"
         },
@@ -215,7 +235,7 @@
           "description": "所以此次 zkSync Era 上线备受瞩目的主要原因是因为团队开源了 zkEVM（零知识以太坊虚拟机），使开发人员更容易使用。作为一个 ZK Rollup，zkSync Era 使用加密有效性证明在以太坊上提供可扩展和低成本交易的无信任协议。zkSync Era 还提供了原生账户抽象、LLVM 编译器和数据压缩等功能，构建了超可扩展性。",
           "link": "https://www.web3sj.com/news/54773/",
           "publishedOn": "2023-04-01T04:12:24.000Z",
-          "wordCount": 1121,
+          "wordCount": 1088,
           "title": "zkSync Era上线一周，开启生态掘金之旅",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680322317736.png"
         },
@@ -225,7 +245,7 @@
           "description": "在区块链上进行的交易记录在分类帐上，创建了所有活动的不可更改和透明记录。有了这项技术，数字资产可以存储在由节点网络维护的分布式账本上。这确保了数据的安全性，并免受攻击或丢失，因为每个节点都有一个分类账的副本。",
           "link": "https://www.web3sj.com/gamefinews/54769/",
           "publishedOn": "2023-04-01T03:55:42.000Z",
-          "wordCount": 713,
+          "wordCount": 722,
           "title": "数字资产管理在GameFi中有何作用？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680321204651.png"
         },
@@ -235,7 +255,7 @@
           "description": "去中心化自治组织（DAO）已成为传统组织治理和决策的更去中心化和民主的替代方案。DAO 由代币持有者组成，他们管理协议，选举工作组贡献者或领导者，并分配协议的资金。DAO 国库持有来自初始原生代币分配和协议费用的资金，这些资金用于资助 DAO 活动。",
           "link": "https://www.web3sj.com/daonews/54750/",
           "publishedOn": "2023-04-01T03:51:29.000Z",
-          "wordCount": 1104,
+          "wordCount": 1123,
           "title": "Messari 报告：深度解读DAO工作组的资金分配现状",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1680321070392.png"
         },
@@ -245,29 +265,9 @@
           "description": "以太坊核心开发者：上海升级最后一个主网影子分叉计划于下周进行。Ripple CEO敦促美立法者处理SEC主席关于“现有证券法足以监管加密市场”的断言。Tessera创始人旗下NFT市场Escher正式上线，将强制执行100%版税。",
           "link": "https://www.web3sj.com/news/54708/",
           "publishedOn": "2023-03-31T12:39:02.000Z",
-          "wordCount": 741,
+          "wordCount": 750,
           "title": "Web3.0世界日报（2023-3.31）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/2023033112115395.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=54704",
-          "author": "Gao",
-          "description": "不过加密货币的无许可和开源特性将 DeFi 变成了一个既广又深的复杂生态系统，无穷无尽的协议机制设计和当今存在的 2000 多个协议就证明了这一点。因此，发现现有的收益率类型并进行筛选是一项艰巨的任务。",
-          "link": "https://www.web3sj.com/definews/54704/",
-          "publishedOn": "2023-03-31T11:38:40.000Z",
-          "wordCount": 1033,
-          "title": "不想加密资产白白闲置，DeFi的收益来源及背后风险必须了解",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680262700133.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=54670",
-          "author": "Gao",
-          "description": "毕竟 OP Rollup 的发展，只针对 ERC 范畴，未免有种螺丝壳里做道场的局限。但 ZK Rollup 则能为 ERC 范畴以外的领域提供助力，甚至零知识证明的实现能够对整个现实社会的信任证明带来帮助，更具有现实意义。",
-          "link": "https://www.web3sj.com/news/54670/",
-          "publishedOn": "2023-03-31T09:24:48.000Z",
-          "wordCount": 1217,
-          "title": "ZK是终局？盘点12个未发币热门ZK赛道Alpha",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/03/1680254662210.png"
         }
       ]
     },
@@ -441,6 +441,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36118",
+          "author": null,
+          "description": "投资组合已突破100个项目，DWF Labs的投资理念与重要投资一览。",
+          "link": "https://www.theblockbeats.info/news/36118",
+          "publishedOn": "2023-04-02T03:00:02.000Z",
+          "wordCount": null,
+          "title": "频频出手的DWF Labs是谁？「VC+做市商」，每月定投5个项目",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36119",
           "author": null,
           "description": "「zkSync Era的上线标志着加密正式进入zkEVM时代」",
@@ -528,16 +538,6 @@
           "publishedOn": "2023-03-31T07:30:01.000Z",
           "wordCount": null,
           "title": "ARB如何启示未来的项目方空投？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36106",
-          "author": null,
-          "description": "HypeSaints近日再次上线变形新玩法，所有持有HypeSaints NFT Series1的用户可将圣徒NFT变形为外星人NFT，成为HypeAliens Genesis的持有者，并解锁更多新增权益。",
-          "link": "https://www.theblockbeats.info/news/36106",
-          "publishedOn": "2023-03-31T06:09:36.000Z",
-          "wordCount": null,
-          "title": "HypeSaints推新玩法，持有者可将NFT变形",
           "imageUrl": null
         }
       ]
