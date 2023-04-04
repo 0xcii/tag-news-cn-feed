@@ -1,10 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-04T05:12:05.674Z</id>
+    <id>urn:2023-04-04T06:16:57.398Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-04T05:12:05.674Z</updated>
+    <updated>2023-04-04T06:16:57.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[惊人的Layer2速度：Arbitrum为何成为最受欢迎的以太坊扩容方案？]]></title>
+        <id>https://www.web3sj.com/?p=55189</id>
+        <link href="https://www.web3sj.com/news/55189/"/>
+        <updated>2023-04-04T06:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Arbitrum 是一个基于 Optimistic Rollups 的 L2 区块链。它由 Offchain Labs 在 2021 年开发。Offchain Labs 由一组由世界级的区块链研究人员和软件工程师组成的团队创立，包括 Steven Goldfeder（首席执行官）、Harry Kalodne（首席技术官）和 Ed Felten（首席科学家）。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOSG：从存储到计算，去中心化存储复兴]]></title>
+        <id>https://www.web3sj.com/?p=55184</id>
+        <link href="https://www.web3sj.com/news/55184/"/>
+        <updated>2023-04-04T06:06:26.000Z</updated>
+        <summary type="html"><![CDATA[计算机网络发展的主流，无外乎数据计算，传输，存储三个方向。Web3 发展时至今日，去中心化数据存储协议的发展有目共睹。Filecoin 于 2023 年 3 月 14 日 2,683,348 Epoch 高度正式在主网发布了兼容 EVM 的 Filecoin Virtual Machine (FVM)，将智能合约和可编程性带入 Filecoin 网络，去中心化数据存储协议的发展已经进入了「不仅仅是存储」新阶段。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解最近获 5000 万美元融资的 EigenLayer：通过「再质押」扩展以太坊信任层]]></title>
+        <id>https://www.defidaonews.com/article/6812036</id>
+        <link href="https://www.defidaonews.com/article/6812036"/>
+        <updated>2023-04-04T05:58:14.000Z</updated>
+        <summary type="html"><![CDATA[「再质押」协议 EigenLayer 有可能在 2023 年对区块链生态系统以及其他数据可用性层项目产生重大影响。]]></summary>
+        <author>
+            <name>白泽研究院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾：MEV机器人攻击者恶意构造无效区块，建议relay operators及时升级中继]]></title>
+        <id>https://panewslab.com/zh/articledetails/yov8heci.html</id>
+        <link href="https://panewslab.com/zh/articledetails/yov8heci.html"/>
+        <updated>2023-04-04T05:57:49.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月4日消息，慢雾分析显示，MEV机器人被攻击的问题原因在于即使信标块不正确，中继仍将payload返回给提议者，导致了提议者在另一个区块被最终确定之前就能访问区块内容。攻击者利用此问题，恶意构造了无效的区块，使得该区块无法被验证，中继无法进行广播（状态码为202）从而提前获得交易内容。mev-boost-relay已紧急发布了新版本缓解此问题，建议relay operators及时升级中继。
+此前昨日消息，MEV机器人遭受恶意三明治攻击，损失金额约2500万美元。随后，攻击MEV机器人的恶意验证者已被Slash惩罚并踢出验证者队列。
+相关阅读：损失2500万美元，MEV机器人是如何被人“黑吃黑”的？]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特改用“狗头”Logo追赶数字货币潮流，到底是明智之举还是不顾风险？]]></title>
+        <id>https://www.defidaonews.com/article/6812038</id>
+        <link href="https://www.defidaonews.com/article/6812038"/>
+        <updated>2023-04-04T05:57:02.000Z</updated>
+        <summary type="html"><![CDATA[标志改变后，这种数字货币的价格飙升了30%以上。]]></summary>
+        <author>
+            <name>区块链骑士</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特蓝鸟变狗狗，起源于一场2580亿美元的诉讼…]]></title>
+        <id>https://www.web3sj.com/?p=55179</id>
+        <link href="https://www.web3sj.com/news/55179/"/>
+        <updated>2023-04-04T05:50:33.000Z</updated>
+        <summary type="html"><![CDATA[在伊隆马斯克的推特用加密货币标志性的「柴犬狗」取代其主页顶部熟悉的社交媒体平台标志「蓝鸟」后，狗狗币 (DOGE) 在几分钟内飙升超过 30 % 。其价格上一次超过 10 美分是在 22 年 12 月。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos生态DeFi协议Thala将向早期用户发放分红奖励]]></title>
+        <id>https://panewslab.com/zh/articledetails/al0oktdz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/al0oktdz.html"/>
+        <updated>2023-04-04T05:46:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月4日消息，Aptos生态DeFi协议Thala近期发文表示，Thala将向早期用户发放分红奖励，具体分配为：1.在Thala的TGE结束时（4月6日7:00），前40名THL持有者将获得额外的THL代币，相当于THL供应量的0.4%；这笔资金将在前40名持有者之间平均分配。2.在Thala的TGE结束时，随机选择的500名Galxe OAT持有者将获得相当于THL供应量0.1%的额外奖励，这笔资金将在选定的500名持有人中平均分配。为了符合资格，Galxe OAT持有者必须在快照时持有至少100枚THL，并与TGE相关推文互动(点赞和转发)。
+从主网启动开始，这两项奖金都将遵循一年的线性解锁时间表。快照将在LBP结束到协议主网启动之间的某个时间随机拍摄。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解Web2和Web3的技术差异]]></title>
+        <id>https://www.web3sj.com/?p=55176</id>
+        <link href="https://www.web3sj.com/knowledge/55176/"/>
+        <updated>2023-04-04T05:44:23.000Z</updated>
+        <summary type="html"><![CDATA[HTTP（超文本传输协议）是用于通过互联网传输数据的主要协议。它是一种客户端 - 服务器协议，允许 Web 服务器和 Web 客户端（如 Web 浏览器）之间进行通信。另一方面，IPFS（星际文件系统）是一种分布式协议，提供分散的文件存储系统。它旨在创建一种更高效、更安全的方式来通过互联网存储和共享文件。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave社区发起将V3部署至StarkNet的温度检查投票]]></title>
+        <id>https://panewslab.com/zh/articledetails/23nxztws.html</id>
+        <link href="https://panewslab.com/zh/articledetails/23nxztws.html"/>
+        <updated>2023-04-04T05:40:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月4日消息，Aave社区发起“将Aave V3部署至StarkNet”的温度检查（Temp Check）投票。根据该提案，Aave与StarkNet的集成计划分两个阶段进行，其中第一阶段为在以太坊和StarkNet之间为aTokens部署跨链桥，第一阶段已获社区投票通过。而此次提案旨在完成第二阶段，即在StarkNet上全面部署Aave协议。
+该投票目前支持率为99.21%，将于4月11日截止，此次投票若通过，该提案还需接受链上投票。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PurpleFi 的 $PURP 代币如何让用户通过社区治理塑造 Web3 的未来]]></title>
+        <id>https://0xzx.com/2023040413373335477.html</id>
+        <link href="https://0xzx.com/2023040413373335477.html"/>
+        <updated>2023-04-04T05:37:15.000Z</updated>
+        <summary type="html"><![CDATA[DeFi 平台将区块链和金融结合起来，提供全球金融服务，如借贷、储蓄、保险和投资。 智能合约为去中心化应用提供 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：两巨鲸地址今日共计买入近893万枚ARB]]></title>
+        <id>https://panewslab.com/zh/articledetails/517z3v27.html</id>
+        <link href="https://panewslab.com/zh/articledetails/517z3v27.html"/>
+        <updated>2023-04-04T05:36:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月4日消息，据推特用户余烬监测，0x35e开头巨鲸地址6小时前从币安提出474万枚ARB，并将500万枚USDC从以太坊跨链到Arbitrum，现已花费350万枚USDC买入300万枚ARB。该地址今天已买入774万枚ARB，成本为1.16美元。
+0xdca开头巨鲸地址3小时多前从币安提出119万枚ARB，并在几日前从OKX分两笔提出共351万枚ARB。目前该鲸鱼一共持有471万ARB，综合成本约1.25美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊 (ETH) – 1800 美元，排除万难]]></title>
+        <id>https://0xzx.com/2023040413363335475.html</id>
+        <link href="https://0xzx.com/2023040413363335475.html"/>
+        <updated>2023-04-04T05:36:20.000Z</updated>
+        <summary type="html"><![CDATA[愿牛市持续下去 – 在 2023 年第一季度增长近 52% 之后，以太坊 (ETH) 谨慎地进入了 4 月份 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hedera Hashgraph 价格预测：多头等待动力]]></title>
+        <id>https://0xzx.com/2023040413363335473.html</id>
+        <link href="https://0xzx.com/2023040413363335473.html"/>
+        <updated>2023-04-04T05:36:14.000Z</updated>
+        <summary type="html"><![CDATA[代币价格低于每日移动平均线的 20,50,100,200 天 HBAR 当前价格约为 0.06956 美元，盘 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ripple与SEC三年长讼终章将至？5种结果大猜想]]></title>
+        <id>https://www.web3sj.com/?p=55173</id>
+        <link href="https://www.web3sj.com/news/55173/"/>
+        <updated>2023-04-04T05:33:58.000Z</updated>
+        <summary type="html"><![CDATA[针对法官裁决日期，代表 XRP 持有者的一位律师作为「法庭之友」John E Deaton 表示，如果 3 月 31 日没有裁决的话，可能会在接下来的 30 或 60 天内发生。John E Deaton 也是律师事务所 CryptoLaw 创始人。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Craig Wright 博士拥有最全面的 IPv6 讲座：nChain 的 Domen Osojnik]]></title>
+        <id>https://0xzx.com/2023040413333335472.html</id>
+        <link href="https://0xzx.com/2023040413333335472.html"/>
+        <updated>2023-04-04T05:33:15.000Z</updated>
+        <summary type="html"><![CDATA[width=”562″ height=”315″ frameb […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新加坡新手玩龙与地下城的最佳地点]]></title>
+        <id>https://0xzx.com/2023040413303335470.html</id>
+        <link href="https://0xzx.com/2023040413303335470.html"/>
+        <updated>2023-04-04T05:30:19.000Z</updated>
+        <summary type="html"><![CDATA[寻找史诗般的战斗和龙与地下城 (D&D) 恶作剧的有抱负的冒险家，你很幸运，因为新加坡的 D […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs：将启动Otherdeed Expanded NFT铸造，以解锁LOTM等游戏体验]]></title>
+        <id>https://panewslab.com/zh/articledetails/kv5wn0st.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kv5wn0st.html"/>
+        <updated>2023-04-04T05:28:35.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月4日消息，Yuga Labs更新元宇宙平台Otherside的2D策略游戏Legends of the Mara（LOTM）玩法，用户可通过参与Koda“解耦（Decoupling）”和Vessel申领，用户的Otherdeed将被销毁，并将成为Otherdeed Expanded NFT的一部分，新的NFT将转移到用户钱包，这些新收藏是用户通过Otherdeed Expanded解锁游戏体验的关键，包括LOTM游戏。
+据介绍，Otherdeed Expanded是可以随时间变化的动态NFT。LOTM游戏两个关键组成部分是Otherside Koda NFT和Otherside Vessel NFT，Koda Decoupling将于本周进行，Vessel申领将于本周晚些时候开放，都将无限期开放。
+此前3月28日消息，Otherside将推出基于收藏的2D策略游戏LOTM，4月初可申领Vessel NFT。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赵长鹏：近期FUD或由其他交易所赞助传播，行业应团结而非攻击同行]]></title>
+        <id>https://panewslab.com/zh/articledetails/w9hlzkg5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/w9hlzkg5.html"/>
+        <updated>2023-04-04T05:14:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月4日消息，币安首席执行官赵长鹏发推文称：“最新的 FUD只由加密新闻媒体和KOL传播，很可能是由另一个交易所植入/赞助的。这种做法非常小气，伤害了行业，也伤害了他们自己。有足够多的外部力量在攻击我们，我们的行业需要在这个节骨眼上团结起来。”
+此前今日早些时候消息，币安否认“国际刑警组织向赵长鹏发出红色通缉令”的传言。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arbitrum治理事件启示：加密项目需要公平的游戏规则]]></title>
         <id>https://www.web3sj.com/?p=55164</id>
@@ -13,56 +201,6 @@
         <summary type="html"><![CDATA[但 Arbitrum 内部人员和「空投党」最终总会抛售他们获得的代币激励，为了解决这个问题，他们需要寻求那些经验丰富的金融市场大玩家的帮助，来减弱抛售的负面影响。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salt Labs 从 Stealth 脱颖而出，为小时工提供奖励平台]]></title>
-        <id>https://0xzx.com/2023040412333335382.html</id>
-        <link href="https://0xzx.com/2023040412333335382.html"/>
-        <updated>2023-04-04T04:33:13.000Z</updated>
-        <summary type="html"><![CDATA[赚取工资的巨头 DailyPay 的创始人推出了一家名为 Salt Labs 的新企业，为小时工提供奖励平台。 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Microsoft Excel 中插入迷你图（迷你K线走势图）]]></title>
-        <id>https://0xzx.com/2023040412313335377.html</id>
-        <link href="https://0xzx.com/2023040412313335377.html"/>
-        <updated>2023-04-04T04:31:23.000Z</updated>
-        <summary type="html"><![CDATA[K线走势图和图形是直观显示数据的理想方式。 但是，你的电子表格可能没有足够的空间放置大K线走势图，或者只是想要一张小K线走势图， […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche (AVAX) 和 Ripple (XRP) 加入 Collat​​eral Network (COLT) 的爆炸性预售增长后将上涨]]></title>
-        <id>https://0xzx.com/2023040412313335376.html</id>
-        <link href="https://0xzx.com/2023040412313335376.html"/>
-        <updated>2023-04-04T04:31:22.000Z</updated>
-        <summary type="html"><![CDATA[随着加密货币世界的扩大，项目也在不断发展。 日益激烈的竞争迫使加密货币项目对最细微的市场变动保持警惕，并做出相应调整。 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊区块链遭遇 MEV 交易攻击]]></title>
-        <id>https://0xzx.com/2023040412313335375.html</id>
-        <link href="https://0xzx.com/2023040412313335375.html"/>
-        <updated>2023-04-04T04:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 个人资料 @punk3155 报道说“一些最好的 MEV 机器人被锁定在区块上”，这表明对以太 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软回溯 Windows 11 中新的内容自适应亮度控制功能——桌面用户将错过]]></title>
-        <id>https://0xzx.com/2023040412313335374.html</id>
-        <link href="https://0xzx.com/2023040412313335374.html"/>
-        <updated>2023-04-04T04:31:18.000Z</updated>
-        <summary type="html"><![CDATA[当 Microsoft 发布最新的 Windows 11 开发版本时，新增功能之一是内容自适应亮度控制 (CA […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +214,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[zkSync Era∎第一批项目来了，都还没发币]]></title>
+        <id>https://www.theblockbeats.info/news/36183</id>
+        <link href="https://www.theblockbeats.info/news/36183"/>
+        <updated>2023-04-04T04:17:38.000Z</updated>
+        <summary type="html"><![CDATA[zkSync Era 主网于 2023 年 3 月 24 日正式向公众开放，3 天内单一地址数便突破 10 万个，1.8 万枚 ETH 跨链进入 zkSync Era。截至 4 月 3 日，zkSync Era TVL 已达 1 亿美元，25.4 万个地址与之进行了交互，超 5.9 万枚 ETH 转入。
+
+
+Onchain Trade Protocol（OT）的上涨行情，更是燃起了大家对 zkSync 生态的预期，目前 zkSync Era 生态中有哪些可以交互的项目？
+
+
+Derivio
+
+
+Derivio 是一个衍生品交易平台，已上线 zkSync Era 测试网。Derivio 是一个结构化衍生品生态系统，提供合成衍生品，通过智能杠杆为交易者提供经过风险调整后的回报，同时为交易者提供具有足够深度的流动性资金池以进行有效对冲。
+
+
+Derivio 已透露其 Token 名称为 DRV，目前尚未公布 Tokenomics 与上线日期。
+
+
+交互流程
+
+
+1. 使用 zkSync Goerli Faucet 领取 ETH 测试币（也可使用该页面左侧 Bridge 以太坊 Goerli 跨链）。
+
+
+
+
+
+2. 使用 Derivio Faucet 领取测试币。
+
+
+
+
+
+3. 进行永续合约、期权、现货交易。
+
+
+
+
+
+4. 点击左上角 Earn 选项卡，Mint DLP-M 和 DLP-B Token，添加 LP，并将 LP Token 质押。
+
+
+
+
+
+Nexon Finance
+
+
+
+
+Nexon Finance 是一个借贷协议，已上线 zkSync Era 主网，旨在最大限度地提高资本效率，同时降低依赖外部流动性和预言机的风险。
+
+
+Nexon Finance 的 Token 名为 NXN，总量 9700 万枚，61% 作为社区激励，其余则分配给 DAO、团队、顾问和 …]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从白宫到Web3：扒一扒Arbitrum创始人Ed Felten的过往]]></title>
         <id>https://www.web3sj.com/?p=55133</id>
         <link href="https://www.web3sj.com/news/55133/"/>
@@ -83,6 +281,27 @@
         <summary type="html"><![CDATA[与此同时，一个叫做「智能合约」（Smart Contract）的新概念也吸引了 Ed 的注意，对于从小就开始接触软件和编程的他，智能合约的概念一下让他想起了 90 年代奔腾的互联网产业。「智能合约将成为新的软件平台」，Ed 告诉自己和身边的同事，自此，他又开始了有关智能合约未来发展的研究。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filecoin与Arweave：从存储到计算，去中心化存储复兴]]></title>
+        <id>https://www.theblockbeats.info/news/36182</id>
+        <link href="https://www.theblockbeats.info/news/36182"/>
+        <updated>2023-04-04T04:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Arweav数据存储协议有很多，最引人注目的唯属 Filecoin 和 Arweave。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币矿企Marathon Digital 3月产出825枚BTC，环比增加21%]]></title>
+        <id>https://panewslab.com/zh/articledetails/feuyxzny.html</id>
+        <link href="https://panewslab.com/zh/articledetails/feuyxzny.html"/>
+        <updated>2023-04-04T04:04:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月4日消息，比特币矿企Marathon Digital发布3月运营更新，该公司在3月产出825枚比特币，环比增加21%；2023年Q1共计产出2195枚BTC。2023年Q1算力增加64%，达到11.5 EH/s。截至2023年3月31日，将不受限制的比特币持有量增加到11,466枚比特币（约3.265亿美元）。
+此外，截止3月31日，Marathon运营哈希率已增至11.5 EH/s，较1月1日的7.0 EH/s增加了64%。Marathon于3月偿还了定期贷款并终止了与Silvergate Bank的信贷安排。这些行动将Marathon的债务减少了5000万美元，并将公司的无限制比特币持有量增加了3,132枚BTC。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -116,6 +335,16 @@
 Moskowitz对此案的诉讼依据集中在《蓝天法》上，该法案是美国各州制定的证券法的统称，用于规范一个区域内的证券交易，以及股票经纪人和投资顾问的注册。Moskowitz表示，币安、FTX和Voyager以及附属个人“都涉嫌出售和推广未注册证券”。法律专家表示，由于加密货币不在全国性证券交易所交易，因此这一资产类别可能会受到国家级监管规定的约束，这为更多未注册的证券诉讼提供了可能。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遭遇「黑吃黑」？解析MEV机器人如何沦为黑客提款机]]></title>
+        <id>https://www.theblockbeats.info/news/36180</id>
+        <link href="https://www.theblockbeats.info/news/36180"/>
+        <updated>2023-04-04T03:05:58.000Z</updated>
+        <summary type="html"><![CDATA[一些顶级 MEV 机器人正成为黑客的攻击目标，目前已造成超过 2500 万美元的损失，可能成为整个 MEV 生态系统的转折点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -311,82 +540,6 @@ Moskowitz对此案的诉讼依据集中在《蓝天法》上，该法案是美�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kaszek Ventures两支新基金已筹集9.75亿美元，将投资区块链等领域]]></title>
-        <id>https://panewslab.com/zh/articledetails/ycnfrz5b.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ycnfrz5b.html"/>
-        <updated>2023-04-04T00:40:56.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月4日消息，据TechCrunch报道，拉丁美洲风投基金Kaszek Ventures通过旗下两支新基金筹集了9.75亿美元，包括5.4亿美元的早期基金Kaszek Ventures VI与4.35亿美元的后期投资工具Kaszek Ventures Opportunity-III (KVO-III)。
-Kaszek计划从其早期基金中向（处于种子期、A轮和B轮阶段的）20到30家公司投入资金，投资规模从50万美元到2500万美元不等。其后期投资基金的投资将更加集中，该公司的目标是投资10至15家公司，投资规模在1,000万至5,000万美元之间。
-Kaszek投资组合包括区块链、金融科技、企业/SaaS、房地产科技、保险科技、健康科技、教育科技、电子商务、食品科技、气候科技和生物科技等一系列行业的公司。此前曾参投巴西数字银行Nubank、加密交易所Bitso、数字支付平台Kushki等。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际足联推出AI驱动的世界杯手游，并拟为该游戏推出NFT市场]]></title>
-        <id>https://panewslab.com/zh/articledetails/8q9qnzs1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8q9qnzs1.html"/>
-        <updated>2023-04-04T00:29:48.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月4日消息，据Decrypt报道，国际足球联合会(FIFA)今天推出了AI驱动的世界杯足球手机游戏World Cup AI League的公开测试版，其角色、外观和游戏元素均采用人工智能。
-根据一份声明，Web3人工智能公司Altered State Machine开发了这款手机游戏，该游戏目前可在Android上使用，并计划“很快”推出iOS版本。该游戏的公开测试版是其去年11月推出的世界杯预测游戏的扩展迭代。
-此外，Altered State发言人透露，它计划在不久的将来为该游戏推出一个NFT市场。届时游戏的角色将被铸造成NFT，并且所有角色都将通过NFT来代表。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allbridge：一攻击者已归还1500枚BNB，正邀请另一攻击者谈判]]></title>
-        <id>https://panewslab.com/zh/articledetails/c85n4xhk.html</id>
-        <link href="https://panewslab.com/zh/articledetails/c85n4xhk.html"/>
-        <updated>2023-04-04T00:14:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月4日消息，跨链桥Allbridge在推特上发布安全事件更新：“0xC578地址所有者联系了我们并退还了1500枚BNB（约合46.36万美元），剩余的资金将被视为对此人的白帽赏金。我们已将收到的BNB兑换为BUSD用作补偿。此外，有一个不同的地址参与了黑客攻击，它使用了相同的漏洞利用技术，但没有联系我们。我们邀请第二个攻击者来讨论资金归还问题。”
-此前4月2日消息，Allbridge因安全事件导致约57万美元损失。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gucci和Yuga Labs合作推出KodaPendant NFT和实物项链，4月7日启动销售]]></title>
-        <id>https://panewslab.com/zh/articledetails/ksq0xy2b.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ksq0xy2b.html"/>
-        <updated>2023-04-04T00:06:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月4日消息，奢侈品巨头Gucci在社交媒体宣布将与Yuga Labs旗下元宇宙游戏Otherside合作推出限量版KodaPendant NFT和配套的实物项链，该NFT总计3,333枚，并将于北京时间4月7日上午6点开始启动销售，本次销售限时24小时，合格参与者必须持有Koda或Vessel NFT，每个KodaPendant NFT定价为450 APE。据悉实物 KodaPendant项链采用 925 银制成，带有古董饰面且配有“GG”LOGO的Koda形状吊坠，每个吊坠的背面都有一个独特的版本号。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Euler Labs：已追回攻击者盗取的全部资金]]></title>
-        <id>https://panewslab.com/zh/articledetails/lqsdx020.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lqsdx020.html"/>
-        <updated>2023-04-04T00:01:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月4日消息，Euler Labs在推特上表示，经过成功协商，攻击者已归还3月13日从协议中盗取的所有资金，因为攻击者已归还资金，基金会发起的100万美元悬赏活动将不再接受新信息，详细信息将于明天发布。
-此前3月13日消息，借贷协议Euler Finance遭到攻击，损失已达1.97亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克发布一条附带“SeizeJPGs” NFT图片的推文]]></title>
-        <id>https://panewslab.com/zh/articledetails/2o1moo85.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2o1moo85.html"/>
-        <updated>2023-04-03T23:58:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月4日消息，在将推特LOGO更改为DOGE狗狗头像之后，伊隆·马斯克又在推特上发布了一张来自Punk 6259推出的Meme Card系列中的“SeizeJPGs” NFT。马斯克的相关举动也推高了DOGE和SeizeJPGs价格，在推特更改LOGO后不久，狗狗币DOGE的价格飙升了近30%，而在这条“SeizeJPGs” 推文发布后的几分钟内，该作品在OpenSea上交易价格就从三天前的0.5 ETH飙升到超过2 ETH，本文撰写时达到2.1 ETH。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase研报：美国银行系统动荡刺激比特币表现优异]]></title>
-        <id>https://panewslab.com/zh/articledetails/lzmer5tn.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lzmer5tn.html"/>
-        <updated>2023-04-03T23:53:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月4日消息，据CoinDesk报道，加密交易所Coinbase 在一份最新研究报告中表示，面对最近美国银行体系的动荡，加密货币市场表现出了弹性，比特币(BTC)的表现尤其突出。Coinbase指出，自2月中旬以来，比特币的表现优于其他资产，比特币在加密货币总市值所占份额从3月份的43.9%上升至47.7%。Coinbase表示，比特币的这种优异表现在本月初加速，当时正值美国银行体系动荡开始。报告中称，“部分原因是银行系统的压力增强了比特币的价值存储属性”，而且由于比特币主要存在于传统金融体系之外，“它提供了对当前状况的对冲”。分析师David Duong和Brian Cubellis补充表示，比特币还受益于投资者对其他加密货币监管状况的担忧。报告中数据显示，比特币与标普500指数的相关性从去年5月70%的峰值降至今年3月底的25%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitter将网页Logo改成狗狗表情头像]]></title>
         <id>https://www.hellobtc.com/news/202304/20329.html</id>
         <link href="https://www.hellobtc.com/news/202304/20329.html"/>
@@ -527,46 +680,6 @@ Kaszek投资组合包括区块链、金融科技、企业/SaaS、房地产科技
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[代币解锁周报|TORN 将于4月7日一次性解锁17.5万枚，占总供应量1.75%]]></title>
-        <id>https://www.web3sj.com/?p=55043</id>
-        <link href="https://www.web3sj.com/news/55043/"/>
-        <updated>2023-04-03T07:22:23.000Z</updated>
-        <summary type="html"><![CDATA[代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月加密叙事展望：上海升级赛道、Layer2、NFTFi、香港概念]]></title>
-        <id>https://www.theblockbeats.info/news/36160</id>
-        <link href="https://www.theblockbeats.info/news/36160"/>
-        <updated>2023-04-03T07:18:33.000Z</updated>
-        <summary type="html"><![CDATA[4月的加密市场热闹非凡，将会带来怎样的机遇和变化？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买NFT要收税了？快速读懂美国国税局关于NFT税的新提案]]></title>
-        <id>https://www.web3sj.com/?p=55038</id>
-        <link href="https://www.web3sj.com/nftnews/55038/"/>
-        <updated>2023-04-03T07:07:23.000Z</updated>
-        <summary type="html"><![CDATA[美国国内税收局（IRS）发布了一份文件，请求公众评论并提出了有关 NFT 税务处理的新指导意见。该声明（Notice 2023-27）质疑是否应将 NFT 与传统的收藏品（如邮票、艺术品和高端酒）归为同一类别。这份文件同时发出提问，针对数字艺术是否可以被纳入收藏品类别，或者是否需要开辟一种新的类别，公开寻求大众的意见。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SignalPlus每日宏观经济报道（2023-4-3）]]></title>
-        <id>https://www.web3sj.com/?p=55025</id>
-        <link href="https://www.web3sj.com/news/55025/"/>
-        <updated>2023-04-03T07:00:46.000Z</updated>
-        <summary type="html"><![CDATA[美国核心通胀数据走软， 2 月核心 PCE 物价指数环比增长放缓至 0.3% （vs 预期的 0.4% ），年增率也从前值 4.7% 下降至 4.6% ；实际个人消费支出环比下降 0.1% ，但考虑到 1 月份 1.5% 的增长幅度，一定程度的回落也是符合预期的；工资和薪资环比上涨 0.3% ，低于前值的 0.9% ，而平减指数年增率也从前值 5.3% 放缓至 5% ，是 2021 年 9 月以来的最低增速。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国太保投资管理（香港）有限公司与水滴资本合作推出两支数字资产基金]]></title>
         <id>https://www.hellobtc.com/news/202304/20328.html</id>
         <link href="https://www.hellobtc.com/news/202304/20328.html"/>
@@ -597,36 +710,6 @@ Kaszek投资组合包括区块链、金融科技、企业/SaaS、房地产科技
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《主权个人》分享 – 掌控信息时代的变革]]></title>
-        <id>https://www.defidaonews.com/article/6811898</id>
-        <link href="https://www.defidaonews.com/article/6811898"/>
-        <updated>2023-04-03T06:55:18.000Z</updated>
-        <summary type="html"><![CDATA[《主权个人》是本划时代的奇书]]></summary>
-        <author>
-            <name>行业观点</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankr成为Polygon Supernets合作伙伴，以增强构建区块链体验]]></title>
-        <id>https://www.theblockbeats.info/news/36159</id>
-        <link href="https://www.theblockbeats.info/news/36159"/>
-        <updated>2023-04-03T06:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Ankr提供了一个端到端的工程解决方案，用于创建特定于应用程序的区块链]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊生态龙头盘点: 最值得关注的Web3应用和基础设施]]></title>
-        <id>https://www.web3sj.com/?p=55014</id>
-        <link href="https://www.web3sj.com/news/55014/"/>
-        <updated>2023-04-03T06:47:34.000Z</updated>
-        <summary type="html"><![CDATA[DeFi（去中心化金融）作为一种新兴的金融模式，是区块链行业的核心组成部分，它的主要特点是无需中心化机构，直接由代码和智能合约实现资产管理、交易、借代等金融服务。在 DeFi 领域中，又有许多不同的细分领域。目前 DeFi 细分赛道中有 Dex、去中心化借代、LSD（流动性质押）、去中心化衍生品最值得关注。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bybit正在香港建立其亚洲核心业务，并计划申请当地牌照]]></title>
         <id>https://www.hellobtc.com/news/202304/20325.html</id>
         <link href="https://www.hellobtc.com/news/202304/20325.html"/>
@@ -634,36 +717,6 @@ Kaszek投资组合包括区块链、金融科技、企业/SaaS、房地产科技
         <summary type="html"><![CDATA[4月3日消息，总部位于迪拜的加密交易所Bybit表示，该公司正努力在香港建立其亚洲核心业务，并计划将部分研发和营销团队设在香港。该交易所成立于2018年，计划将根据6月生效的拟议规则在香港申请牌照。 此前消息，香港特区政府财经事务及库务局(FSTB)局长许正宇表示，截至2023年2月底，投资推广署已收到超过80家与虚拟资产相关的内地和外国公司表示有意在香港设立业务。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国太保投资管理（香港）有限公司与水滴资本携手推出数字资产基金]]></title>
-        <id>https://www.theblockbeats.info/news/36158</id>
-        <link href="https://www.theblockbeats.info/news/36158"/>
-        <updated>2023-04-03T06:10:13.000Z</updated>
-        <summary type="html"><![CDATA[此次在数字资产基金上的合作旨在结合两家机构的专长，为投资者提供合法合规、注重风险控制的数字资产基金产品]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未经治理流程出售代币？解析Arbitrum基金会争议操作始末]]></title>
-        <id>https://www.web3sj.com/?p=55009</id>
-        <link href="https://www.web3sj.com/news/55009/"/>
-        <updated>2023-04-03T05:56:25.000Z</updated>
-        <summary type="html"><![CDATA[4月1日，Arbitrum社区已发起ArbitrumImprovementProposal1(AIP-1)提案，拟引入一个名为ArbitrumDAO的去中心化自治组织结构，该组织由ARB持有者管理，位于开曼群岛的Arbitrum基金会将为ArbitrumDAO社区服务并受其管理，旨在促进Arbitrum生态系统的成长和发展，该提案背后实体Lemma还将申请7.5亿枚ARB代币（价值约超10亿美元）资金拨款。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文解析Arbitrum基金会未经治理流程出售代币争议操作]]></title>
-        <id>https://www.defidaonews.com/article/6811874</id>
-        <link href="https://www.defidaonews.com/article/6811874"/>
-        <updated>2023-04-03T05:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum 基金会在其代币持有者治理社区“批准”该组织近 10 亿美元的预算之前，就开始以稳定币的形式出售 ARB 代币]]></summary>
-        <author>
-            <name>星球日报</name>
         </author>
     </entry>
     <entry>
