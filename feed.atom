@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T07:11:56.651Z</id>
+    <id>urn:2023-04-06T08:17:04.387Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T07:11:56.651Z</updated>
+    <updated>2023-04-06T08:17:04.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[a16z：如何通过零知识证明验证链上机器学习算法？]]></title>
+        <id>https://www.defidaonews.com/article/6812384</id>
+        <link href="https://www.defidaonews.com/article/6812384"/>
+        <updated>2023-04-06T08:12:02.000Z</updated>
+        <summary type="html"><![CDATA[a16z 研究员 Elena Burger 对机器学习中应用零知识证明的方式及可能面临的挑战进行了分析。]]></summary>
+        <author>
+            <name>录觉麟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息人士：Jane Street、Tower Research和Radix是币安在CFTC诉讼中的“VIP”客户]]></title>
+        <id>https://panewslab.com/zh/articledetails/yqsxyvx0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/yqsxyvx0.html"/>
+        <updated>2023-04-06T07:31:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据彭博社援引消息人士报道，在美国商品期货交易委员会（CFTC）对币安诉讼中，Radix Trading是CFTC诉讼中描述的“贸易公司 A”，而Jane Street是“贸易公司 B”，Tower Research是“贸易公司C。”但CFTC在最近对币安提起的诉讼中匿名引用了这些客户。CFTC在文件中表示，币安声称的“VIP”待遇包括更低的交易费用和更快的交易服务。这些公司为币安提供了交易所的流动性，而币安则获得了相应的交易费收入。据悉，币安通过向Radix提供有关通过虚拟专用网络 (VPN) 访问Binance.com的信息以掩盖其IP地址，从而使Radix能够规避合规控制。
+此前消息，Radix Trading为CFTC对币安诉讼中提到的三家量化公司之一]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年的十大加密叙事：投资Web3不可忽视的市场趋势]]></title>
+        <id>https://www.web3sj.com/?p=55561</id>
+        <link href="https://www.web3sj.com/news/55561/"/>
+        <updated>2023-04-06T07:12:00.000Z</updated>
+        <summary type="html"><![CDATA[市场参与者始终在寻找趋势，以更好地了解正在发生的事情、为什么正在发生以及其潜在影响。历史上，他们利用市场周期的动态来更主动地应对未来的市场环境。从埃隆·马斯克（Elon Musk）的推文推动 DOGE 价格，到相信比特币减半推动每四年的牛市，许多投资者使用加密货币叙事来预测价格走势。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMX发起关于将费用收入的1.2%分配给Chainlink以使用其新预言机的提案]]></title>
+        <id>https://panewslab.com/zh/articledetails/9qqd32iu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9qqd32iu.html"/>
+        <updated>2023-04-06T07:06:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，去中心化衍生品交易所GMX社区发起关于将1.2%的费用收入分配给Chainlink以使用其新预言机服务的提案。该提案的主要经济参数是将GMX协议产生的协议费用的1.2%分配给Chainlink和Chainlink网络的服务，协议费用包括用户支付的费用，目前建议为开仓/平仓费用（“保证金交易”）、借入费用、掉期费用以及GMX财政部随后从协议中保留一部分的任何其他费用。
+提案中表示，与现有的Chainlink参考源和其他行业预言机相比，Chainlink的低延迟预言机可以提供更精细的实时市场数据，以更好地支持GMX V2上的加密和非加密市场。这些预言机自去年以来一直在开发中，包括来自GMX核心贡献者的持续设计和开发输入。这些新的预言机旨在利用去中心化的Chainlink网络的优势来满足永续交易和其他对价格敏感的DeFi产品的需求。据悉，Arbitrum测试网现在有一个由Chainlink部署的低延迟预言机的测试版，核心贡献者的测试正在进行中。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秘鲁推动探索新的 CBDC 潜力以增强支付系统]]></title>
         <id>https://0xzx.com/2023040615003343107.html</id>
@@ -62,7 +104,7 @@
         <updated>2023-04-06T06:56:56.000Z</updated>
         <summary type="html"><![CDATA[一场集合全球Web3行业顶尖人物、技术、项目、资本的盛宴]]></summary>
         <author>
-            <name>行业快讯</name>
+            <name>行业资讯</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +210,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[数据：Andrew Kang增持150万枚ARB，目前共持有230万枚ARB]]></title>
+        <id>https://panewslab.com/zh/articledetails/2xagj434.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2xagj434.html"/>
+        <updated>2023-04-06T06:37:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据Web3知识图谱协议0xScope监测，Mechanism Capital联合创始人Andrew Kang以1.227美元的均价增持150万枚ARB，目前共持有230万枚ARB，平均成本为1.237美元。此外，Andrew Kang尚有5125枚ARB空投未申领。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[加速发展的Sui，能否成为下一个Layer 1破局者]]></title>
         <id>https://www.web3sj.com/?p=55539</id>
         <link href="https://www.web3sj.com/news/55539/"/>
@@ -195,6 +247,18 @@
         <summary type="html"><![CDATA[「透过VC，观察市场」]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO协议工程核心部门将于4月底停运，同时多名核心贡献者将离职]]></title>
+        <id>https://panewslab.com/zh/articledetails/nzczm2u0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nzczm2u0.html"/>
+        <updated>2023-04-06T06:00:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，MakerDAO 协议工程核心部门（Protocol Engineering Core Unit，以下简称 PECU）开发者Derek在治理论坛发文表示，由于Maker创始人Rune Christensen此前提出的治理架构改革提案，MakerDAO的PECU正在关闭，并将有序地过渡到由独立生态系统参与者取而代之的情况。
+Derek表示，随着Endgame和Constitution MIP的成功启动，Scope Frameworks显然正在改变向贡献者请求工作的方式。因此，PECU将于2023年4月底停止运营，将与社区成员合作，确保成功过渡到新框架。根据规定，所有PECU团队成员的MKR线性解锁将于2023年4月底停止，临近下一个解锁cliff的将立即解锁，但其未解锁部分将被没收。任何未使用的团队多签资金将用于支付未结清的审计费用、软件许可、法律费用和未结清的合同协议。目前已有五名MakerDAO PECU开发者留言表示将于4月30日起停止为MakerDAO做出贡献。
+相关阅读：Maker创始人的新“终局”治理改革提案：三大功能和大致时间表]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -517,46 +581,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[荷兰加密货币交易所Finst完成440万美元种子轮融资，Deribit母公司Sentillia领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/b4gghsg0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/b4gghsg0.html"/>
-        <updated>2023-04-06T02:12:43.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月6日消息，据CoinDesk报道，荷兰加密货币交易所Finst宣布完成400万欧元（440 万美元）种子轮融资，加密货币衍生品平台Deribit母公司Sentillia领投。据悉，融资将用于扩大Finst的产品范围，以推动其国际扩张计划。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：当前以太坊信标链质押总量突破1800万枚，质押率达14.94%]]></title>
-        <id>https://panewslab.com/zh/articledetails/724p1mw7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/724p1mw7.html"/>
-        <updated>2023-04-06T02:06:28.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月6日消息，据欧科云链OKLink上海升级专题页显示，当前以太坊信标链质押总量突破1800万枚ETH，达 18,001,896枚ETH（约合342亿美元），质押的以太坊占总供应量的14.94%。其中质押量排名前三的项目分别是Lido（质押565万枚，占比31.45%）、Coinbase（质押227万枚，占比12.62%）、Kraken（质押124万枚，占比6.93%）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask钱包iOS端新增支持ConsenSys zkEVM网络Linea]]></title>
-        <id>https://panewslab.com/zh/articledetails/jwu0wshk.html</id>
-        <link href="https://panewslab.com/zh/articledetails/jwu0wshk.html"/>
-        <updated>2023-04-06T02:03:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月6日消息，MetaMask钱包iOS端推出6.3.0版本更新，新增功能包括支持ConsenSys zkEVM网络Linea、改善法币入金设施、改善SDK体验等方面。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEX平台SyncSwap将推出代币SYNC，目前尚未创建]]></title>
-        <id>https://panewslab.com/zh/articledetails/oj3ncs08.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oj3ncs08.html"/>
-        <updated>2023-04-06T01:49:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月6日消息，基于zkSync的DEX平台SyncSwap将推出代币SYNC，目前还未创建，用户需谨防诈骗信息。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[加密显学 Zk Rollup 未来将会与 Op Rollup 形成怎样的竞争格局？​]]></title>
         <id>https://www.defidaonews.com/article/6812248</id>
         <link href="https://www.defidaonews.com/article/6812248"/>
@@ -627,16 +651,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在2023香港Web3嘉年华探索零碳发展，用ReFi重塑未来]]></title>
-        <id>https://www.defidaonews.com/article/6812202</id>
-        <link href="https://www.defidaonews.com/article/6812202"/>
-        <updated>2023-04-05T09:27:38.000Z</updated>
-        <summary type="html"><![CDATA[一直以来，Web3世界都在极力伸出触角，以求与现实世界建立深度联系]]></summary>
-        <author>
-            <name>行业快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SignalPlus每日宏观经济报道（2023-4-5）]]></title>
         <id>https://www.web3sj.com/?p=55418</id>
         <link href="https://www.web3sj.com/news/55418/"/>
@@ -652,16 +666,6 @@
         <link href="https://www.web3sj.com/definews/55409/"/>
         <updated>2023-04-05T06:54:30.000Z</updated>
         <summary type="html"><![CDATA[首先，我们回顾一下 Uni 发展史：Uniswap V2 于 2020 DeFi 之夏推出，为本就已火热的 DeFi 市场增添色彩，不久后就出现了许多分叉，使 Uni V2 成为有史以来分叉最多的 DeFi 协议，PancakeSwap 也是其中之一。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZK Rollup未来将会与Op Rollup形成怎样的竞争格局？​]]></title>
-        <id>https://www.web3sj.com/?p=55405</id>
-        <link href="https://www.web3sj.com/news/55405/"/>
-        <updated>2023-04-05T06:38:11.000Z</updated>
-        <summary type="html"><![CDATA[在 Optimistic Rollup 起势之后，Zk Rollup 正在迎来属于它的春天。在 $ARB 空投结束后的一个合适契机，Zksync 宣布推出 Era 主网，随之而来的是其 TVL（总锁定价值）的迅速增长。据 L2BEAT 数据显示，截止 4 月 2 日，Era 主网的 TVL 已经超过 1 亿美元。]]></summary>
         <author>
             <name>Gao</name>
         </author>
