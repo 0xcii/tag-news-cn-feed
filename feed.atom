@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-06T01:03:23.488Z</id>
+    <id>urn:2023-04-06T02:28:07.603Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-06T01:03:23.488Z</updated>
+    <updated>2023-04-06T02:28:07.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一文了解模块化公链：模块化执行层能的通用之路]]></title>
+        <id>https://www.defidaonews.com/article/6812282</id>
+        <link href="https://www.defidaonews.com/article/6812282"/>
+        <updated>2023-04-06T02:23:26.000Z</updated>
+        <summary type="html"><![CDATA[模块化公链叙事热度兴起，Bing Ventures介绍什么是模块化公链以及当前模块化公链执行层领域的基本格局。]]></summary>
+        <author>
+            <name>Bing Ventures</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euler Finance公布用户赎回方案]]></title>
+        <id>https://panewslab.com/zh/articledetails/ggk8sjy3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ggk8sjy3.html"/>
+        <updated>2023-04-06T01:29:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，DeFi借贷协议Euler Finance公布用户赎回方案，其中追回的资金总计约95556枚ETH（95,556.36059211764枚ETH）和4306万枚DAI（43,063,729.35枚DAI），未回收的资金包括攻击者发送给Tornado Cash的共计1100枚ETH和发送到Ronin攻击者的100枚ETH，另外100枚ETH被攻击者直接返还给用户，用户又将12枚ETH返还给Euler DAO金库。DAO金库地址还持有来自Sherlock协议保险支出的约400万（3,396,964）枚USDC和100万（1,007,321）枚DAI。 
+对于每个子账户，Euler Finance计划在协议被禁用的区块高度偿还所有负债，此时智能合约中定义的链上预言机价格（Uniswap或Chainlink，取决于市场）用于确定资产和负债的ETH价值，并且账户的每个资产（包括非抵押品）按比例用于偿还负债。所有账户资产净值将被相加以获得总资产净值，每个账户将能够根据其在总资产净值中的比例领取追回的 ETH、DAI 和 USDC。如果追回金额的价值超过总资产净值，则超出部分将按比例分配给用户。
+此前消息，Euler Labs已追回攻击者盗取的全部资金。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta将于年底前启用生成式AI工具，拟在元宇宙中构建虚拟世界]]></title>
+        <id>https://panewslab.com/zh/articledetails/9t3fcji7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9t3fcji7.html"/>
+        <updated>2023-04-06T01:20:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据Decrypt报道，Facebook和Instagram的母公司Meta已计划在今年年底之前启用其专属生成式AI工具，旨在帮助企业客户制作广告。此外，Meta还计划让该生成式AI工具能够在元宇宙中创建虚拟世界，据悉Web3元宇宙平台Oncyber已经开始测试这一功能了。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism：已创建新钱包分配赠款，最初由国库提供1000万枚OP]]></title>
+        <id>https://panewslab.com/zh/articledetails/63wnaerg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/63wnaerg.html"/>
+        <updated>2023-04-06T01:15:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，以太坊二层扩容方案Optimism发推表示，已经创建了一个新的钱包来分配一些赠款，最初由主要的Optimism国库钱包提供1000万枚OP资助，新钱包将定期从源钱包接收转账，并且这些代币并非新进入整体流通。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密显学 Zk Rollup 未来将会与 Op Rollup 形成怎样的竞争格局？​]]></title>
+        <id>https://www.defidaonews.com/article/6812248</id>
+        <link href="https://www.defidaonews.com/article/6812248"/>
+        <updated>2023-04-06T01:11:18.000Z</updated>
+        <summary type="html"><![CDATA[在Optimistic Rollup起势之后，Zk Rollup正在迎来属于它的春天。]]></summary>
+        <author>
+            <name>深潮TechFlow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密钱包Trust Wallet通过MoonPay和Ramp支持将加密货币出售为法币]]></title>
+        <id>https://panewslab.com/zh/articledetails/k1h3rfxq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/k1h3rfxq.html"/>
+        <updated>2023-04-06T01:09:05.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据CoinDesk报道，加密钱包Trust Wallet与MoonPay和Ramp Network合作，允许用户直接将加密货币出售为法币。此外，Trust Wallet将为在钱包内持有超100枚TWT的用户提供出金折扣。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交游戏平台 Phi：使用 ENS 生成一个虚拟世界]]></title>
+        <id>https://www.defidaonews.com/article/6812196</id>
+        <link href="https://www.defidaonews.com/article/6812196"/>
+        <updated>2023-04-06T01:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Phi 是基于 ENS 域名系统构建且专注于链上活动的沉浸式社交游戏平台]]></summary>
+        <author>
+            <name>吴说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊ERC-20代币标准发明者计划发布Layer 1区块链“LUKSO”]]></title>
+        <id>https://panewslab.com/zh/articledetails/wrfq182a.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wrfq182a.html"/>
+        <updated>2023-04-06T00:55:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据CoinDesk报道，以太坊ERC-20代币标准发明者Fabian Vogelsteller计划发布Layer 1区块链LUKSO，验证者将能够通过Genesis Validator智能合约存款加入网络。LUKSO将从以太坊中诞生，对此Vogelsteller表示：“我们在某种程度上使用以太坊作为入口，就像以太坊使用比特币网络一样”。未来几周将在以太坊上线一个创世验证者存款智能合约，允许用户存入32枚LYXe成为创世验证者，LUKSO主网上线后，LYXe将转换为LYX，即LUKSO的原生代币。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完美称比特币繁荣的分析师向加密货币交易者发布重大更新]]></title>
         <id>https://0xzx.com/2023040608493342370.html</id>
@@ -36,6 +118,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[美国加州民主党众议员刘云平：我们正致力于制定人工智能立法]]></title>
+        <id>https://www.hellobtc.com/news/202304/20344.html</id>
+        <link href="https://www.hellobtc.com/news/202304/20344.html"/>
+        <updated>2023-04-06T00:48:00.000Z</updated>
+        <summary type="html"><![CDATA[据金十消息，美国加州民主党众议员刘云平（Ted Lieu)表示，我们正致力于制定人工智能立法。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毕马威推出 AI 安全创业公司 Cranium]]></title>
+        <id>https://www.hellobtc.com/news/202304/20343.html</id>
+        <link href="https://www.hellobtc.com/news/202304/20343.html"/>
+        <updated>2023-04-06T00:48:00.000Z</updated>
+        <summary type="html"><![CDATA[据 TechCrunch 报道，毕马威合伙人 Jonathan Dambrot 与其他两位联合创始人 Felix Knoll 和 Paul Spicer，以及一个由大约 25 名开发人员和数据科学家组成的团队推出旨在解决人工智能安全即合规问题的创业公司 Cranium。目前，Cranium 已经从毕马威和 SYN Ventures 那里筹集了 700 万美元的风险资本。Dambrot 表示，“Cranium 的建立是为了在客户层面发现并提供人工智能系统的可见性，提供安全报告和监控，并创建合规性和供应链可见性报告。”Cranium 目前有大约 30 名全职员工。假设业务回升，预计年底将有大约 40 至 50 人。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际足联推出 AI 驱动的世界杯手游，并拟为该游戏推出 NFT 市场]]></title>
+        <id>https://www.hellobtc.com/news/202304/20342.html</id>
+        <link href="https://www.hellobtc.com/news/202304/20342.html"/>
+        <updated>2023-04-06T00:48:00.000Z</updated>
+        <summary type="html"><![CDATA[据 Decrypt 报道，国际足球联合会（FIFA）宣布推出 AI 驱动的世界杯足球手机游戏 World Cup AI League 的公开测试版，其角色、外观和游戏元素均采用人工智能。根据一份声明，Web3 人工智能公司 Altered State Machine 开发了这款手机游戏，该游戏目前可在 Android 上使用，并计划“很快”推出 iOS 版本。该游戏的公开测试版是其去年 11 月推出的世界杯预测游戏的扩展迭代。此外，Altered State 发言人透露，它计划在不久的将来为该游戏推出一个 NFT 市场。届时游戏的角色将被铸造成 NFT，并且所有角色都将通过 NFT 来代表。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[在你的苹果电脑上哪里可以找到比特币白皮书]]></title>
         <id>https://0xzx.com/2023040608473342358.html</id>
         <link href="https://0xzx.com/2023040608473342358.html"/>
@@ -56,103 +168,134 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一比特币巨鲸刚刚转移超1.77万枚BTC，价值约合4.99亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/qtxu858p.html</id>
-        <link href="https://panewslab.com/zh/articledetails/qtxu858p.html"/>
-        <updated>2023-04-05T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，据mempool.space数据显示，一个BTC巨鲸在比特币区块高度 784,060 处（北京时间 22点46分）将177,69 枚BTC 从177个零散地址整理至单一地址，价值约合4.99亿美元。]]></summary>
+        <title type="html"><![CDATA[美团联合创始人王慧文新公司“光年之外”已启动第二轮融资，投前估值约 10 亿美元]]></title>
+        <id>https://www.hellobtc.com/news/202304/20341.html</id>
+        <link href="https://www.hellobtc.com/news/202304/20341.html"/>
+        <updated>2023-04-06T00:47:00.000Z</updated>
+        <summary type="html"><![CDATA[据金十援引《晚点 LatePost》报道，美团（03690.HK）联合创始人王慧文的新公司光年之外近期已启动第二轮融资，投前估值约 10 亿美元。此外据了解，快手董事长宿华也在密切关注大模型方向，已陆续投资数个项目。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链游RACA获DWF Labs 1600万美元融资]]></title>
+        <id>https://www.hellobtc.com/news/202304/20340.html</id>
+        <link href="https://www.hellobtc.com/news/202304/20340.html"/>
+        <updated>2023-04-06T00:47:00.000Z</updated>
+        <summary type="html"><![CDATA[4月6日消息，据CoinDesk报道，链游RACA（Radio Caca）获DWF Labs 1600万美元融资，包括购买数量不详的RACA代币，所筹资金将帮助RACA推进其Web3游戏生态系统的目标。据悉，RACA（前身为 Radio Caca）成立于2021年，最初是Elon Musk的母亲Maye Musk的不可替代代币（NFT）的管理者。该公司已经推出了R3游戏基础设施、SimCity风格的沙盒游戏USM.WORLD、社交派对游戏Looki Looki Jazzi、跨游戏DID钱包JAZ和NFT市场。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果Mac系列电脑已预装比特币白皮书文档，或将通过相关功能从比特币交易中赚取佣金]]></title>
+        <id>https://www.hellobtc.com/news/202304/20339.html</id>
+        <link href="https://www.hellobtc.com/news/202304/20339.html"/>
+        <updated>2023-04-06T00:46:00.000Z</updated>
+        <summary type="html"><![CDATA[4月6日消息，据Bitcoin Magazine报道，比特币白皮书已预装在苹果每台Mac和MacBook上，可通过简单的终端命令或导航 Finder打开，在Finder终端中输入以下命令：open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf。用户需要导航到 Macintosh HD -> System -> Library -> Image Capture -> Devices。按住 Control 单击 VirtualScanner.app 并显示包内容，然后打开内容 -> 资源文件夹 -> simpledoc.pdf。
+据悉，比特币白皮书被用作名为“Virtual Scanner II”的设备的示例文档。此设备对某些用户是隐藏的或默认情况下未安装。有用户猜测，苹果公司或将通过相关功能从比特币交易中赚取佣金。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum基金会已提交两项关于扩大ARB代币持有人监督和治理权力的新提案]]></title>
+        <id>https://www.hellobtc.com/news/202304/20338.html</id>
+        <link href="https://www.hellobtc.com/news/202304/20338.html"/>
+        <updated>2023-04-06T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[4月6日消息，据CoinDesk报道，Arbitrum基金会已提交两项关于扩大ARB代币持有人监督和治理权力的新提案，以解决上周末加密货币治理崩溃一事。第一个提案AIP-1.1建议将基金会剩余的7亿ARB置于“智能合约控制的锁定”中，四年内解锁。根据提案，在社区成员批准代币分配预算之前，基金会将无法使用代币。此外，Arbitrum 基金会还发布了一份关于该组织如何成立的透明度报告。第二个提案AIP-1.2旨在修改Arbitrum生态系统的几个治理文件，包括将在链上发布改进提案所需的ARB代币数量的门槛从500万降低到100万。DAO的成员将有三天的时间就提案提供反馈，之后这两项提案将进行为期一周的快照投票。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果最新版本的Mac和MacBook疑似内置比特币白皮书]]></title>
+        <id>https://panewslab.com/zh/articledetails/3les0fbt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3les0fbt.html"/>
+        <updated>2023-04-06T00:42:42.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据Bitcoin Magazine报道，比特币白皮书疑似已预装在苹果每台Mac和MacBook上，可通过简单的终端命令或导航 Finder打开，在Finder终端中输入以下命令：open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf。用户需要导航到 Macintosh HD -> System -> Library -> Image Capture -> Devices。按住 Control 单击 VirtualScanner.app 并显示包内容，然后打开内容 -> 资源文件夹 -> simpledoc.pdf。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[破产索赔交易所 OPNX上线以来交易额仅为1.26美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/uw4zlrrc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uw4zlrrc.html"/>
-        <updated>2023-04-05T14:53:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，三箭资本 (3AC) 联合创始人Kyle Davies和Su Zhu共同创立的破产索赔交易所 OPNX自周二上线以来交易量极低。在交易所的所有现货和衍生品市场中，截至目前交易额仅为1.26 美元。该交易所的原生代币 FLEX 在过去 24 小时内下跌了 28%。
-目前尚不清楚 OPNX 是否在吸引新客户方面遇到问题，或者是否缺乏需求。但此前Kyle Davies称，OPNX 不会有内部做市商，他认为这一决定不会限制流动性。Su Zhu 周二在一条推文中表示，流动性将“一砖一瓦”地建立起来，交易所正在从 FTX 的失败中吸取教训，避免内部做市商。]]></summary>
+        <title type="html"><![CDATA[Sentiment攻击者已归还250枚ETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/o0d3lmv5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o0d3lmv5.html"/>
+        <updated>2023-04-06T00:35:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，链上数据显示，DeFi借贷协议Sentiment的攻击者已经归还了250枚ETH（约48万美元）的被盗资金。
+此前消息，DeFi借贷协议Sentiment被盗100万美元。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safe等超30个项目合作推出MEV Blocker RPC，帮助用户免受MEV攻击]]></title>
-        <id>https://panewslab.com/zh/articledetails/v6k5r6uh.html</id>
-        <link href="https://panewslab.com/zh/articledetails/v6k5r6uh.html"/>
-        <updated>2023-04-05T14:36:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，Safe、BitKeep、DODO、Oasis、Balancer、1inch等超过30个以太坊项目合作推出MEV Blocker RPC，该工具旨在保护用户免受各种类型的MEV攻击。MEV Blocker RPC是一个路由用户交易到“搜索器”网络而不是公共内存池的工具，这些搜索器通过竞标获取反向运行交易的权利，帮助用户免受抢先交易和三明治攻击。]]></summary>
+        <title type="html"><![CDATA[CoinFLEX联创承诺Roger Ver可在OPNX上免费交易两年，以解决8400万美元债务问题]]></title>
+        <id>https://panewslab.com/zh/articledetails/wxu7352v.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wxu7352v.html"/>
+        <updated>2023-04-06T00:32:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，加密交易平台CoinFLEX联合创始人Mark Lamb发布公开信称，承诺Bitcoin. com创始人Roger Ver可在OPNX上免费交易两年，旨在解决两者之间长期存在的争执，以使Roger Ver向CoinFLEX偿还据称未偿还的贷款。此前去年6月Mark Lamb指控Roger Ver拖欠4700万美元的贷款，但Roger Ver驳回了这一说法，随后CoinFLEX披露损失金额上升至8400万美元，并表示已启动仲裁程序并在筹集资金。
+此前消息，Coinflex更名为OPNX，Leslie Lamb将担任CEO。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi 平台 M^ZERO 完成 2250 万美元种子轮融资，Pantera Capital 领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/q68v3bmy.html</id>
-        <link href="https://panewslab.com/zh/articledetails/q68v3bmy.html"/>
-        <updated>2023-04-05T13:24:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，据 Coindesk报道，DeFi 平台 M^ZERO 完成 2250 万美元种子轮融资，本轮融资由 Pantera Capital 领投，Road Capital、AirTree、Standard Crypto、SALT Fund、ParaFi Capital、Distributed Capital、Kraynos Capital、Earlybird 和 Mouro Capital 参投。 M^ZERO Labs 首席执行官 Luca Prosperi 称，M^ZERO 旨在实现机构价值传输，为支付流动创建一个中立的基础设施。]]></summary>
+        <title type="html"><![CDATA[链游RACA获DWF Labs 1600万美元融资]]></title>
+        <id>https://panewslab.com/zh/articledetails/d7defc77.html</id>
+        <link href="https://panewslab.com/zh/articledetails/d7defc77.html"/>
+        <updated>2023-04-06T00:07:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据CoinDesk报道，链游RACA（Radio Caca）获DWF Labs 1600万美元融资，包括购买数量不详的RACA代币，所筹资金将帮助RACA推进其Web3游戏生态系统的目标。据悉，RACA（前身为 Radio Caca）成立于2021年，最初是Elon Musk的母亲Maye Musk的不可替代代币（NFT）的管理者。该公司已经推出了R3游戏基础设施、SimCity风格的沙盒游戏USM.WORLD、社交派对游戏Looki Looki Jazzi、跨游戏DID钱包JAZ和NFT市场。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animoca Brands：将与Yuga Labs合作开发LOTM游戏]]></title>
-        <id>https://panewslab.com/zh/articledetails/sxjgpo62.html</id>
-        <link href="https://panewslab.com/zh/articledetails/sxjgpo62.html"/>
-        <updated>2023-04-05T13:07:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，香港Web3游戏开发商及投资机构Animoca Brands在社交媒体宣布将与Yuga Labs合作开发Otherside的2D策略游戏Legends of the Mara（LOTM），未来还将推出更多以Yuga Labs为中心的游戏。]]></summary>
+        <title type="html"><![CDATA[Arbitrum基金会已提交两项关于扩大ARB代币持有人监督和治理权力的新提案]]></title>
+        <id>https://panewslab.com/zh/articledetails/orw6m47y.html</id>
+        <link href="https://panewslab.com/zh/articledetails/orw6m47y.html"/>
+        <updated>2023-04-06T00:01:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据CoinDesk报道，Arbitrum基金会已提交两项关于扩大ARB代币持有人监督和治理权力的新提案，以解决上周末加密货币治理崩溃一事。第一个提案AIP-1.1建议将基金会剩余的7亿ARB置于“智能合约控制的锁定”中，四年内解锁。根据提案，在社区成员批准代币分配预算之前，基金会将无法使用代币。此外，Arbitrum 基金会还发布了一份关于该组织如何成立的透明度报告。第二个提案AIP-1.2旨在修改Arbitrum生态系统的几个治理文件，包括将在链上发布改进提案所需的ARB代币数量的门槛从500万降低到100万。DAO的成员将有三天的时间就提案提供反馈，之后这两项提案将进行为期一周的快照投票。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美联储梅斯特：预计利率将“略有提高”，然后保持不变]]></title>
-        <id>https://panewslab.com/zh/articledetails/gn0el5wq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gn0el5wq.html"/>
-        <updated>2023-04-05T12:54:47.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，美国克利夫兰联储主席梅斯特(Loretta Mester）表示，企业正在为经济放缓做准备；现在不清楚银行动荡影响的持续时间和程度；银行业的紧张局势增加了利率走势的不确定性；预计利率将“略有提高”，然后保持不变；现在判断美联储是否会在5月份加息还为时过早。]]></summary>
+        <title type="html"><![CDATA[波卡平行链Moonbeam已恢复出块]]></title>
+        <id>https://panewslab.com/zh/articledetails/i3m0w35h.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i3m0w35h.html"/>
+        <updated>2023-04-05T23:59:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，波卡平行链Moonbeam推特发文称，宕机的根本原因已经确定，团队已通过升级客户端部署了解决方案。Moonbeam已恢复出块。据此前消息，Moonbeam网络于北京时间晚上10:45左右出现宕机事故。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shapella升级临近，LSD板块过去24小时涨幅14%]]></title>
-        <id>https://panewslab.com/zh/articledetails/x5x69w6t.html</id>
-        <link href="https://panewslab.com/zh/articledetails/x5x69w6t.html"/>
-        <updated>2023-04-05T12:37:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，随着以太坊Shapella升级临近，LSD赛道表现突出。据Coingecko数据显示，LSD板块过去24小时整体涨幅14%，位列第四；龙头LDO24小时涨幅7%，7天涨幅15%；Stader1以46.4%的涨幅位列周涨幅榜榜首；Bifrost（BNC）以22.8%的周涨幅次之。]]></summary>
+        <title type="html"><![CDATA[M11 Credit已重新开放贷款业务]]></title>
+        <id>https://panewslab.com/zh/articledetails/wbwoniz6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wbwoniz6.html"/>
+        <updated>2023-04-05T23:46:08.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，加密信用池平台M11 Credit推特发文称，已重新开放贷款业务，并正在为其在Maple Finance上的新加密贷款池筹集新的资金。此外，该公司还任命了一位新的信贷主管，并升级了风险管理和信贷承销流程。据此前消息，去年11月FTX破产后，M11 Credit管理的资金池被借款人拖欠3600万美元，占Maple Finance活跃贷款数量的约30%。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BNB Chain预计将于4月12日启动Planck硬分叉升级]]></title>
-        <id>https://panewslab.com/zh/articledetails/7wsgjmd4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7wsgjmd4.html"/>
-        <updated>2023-04-05T12:34:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，据官方消息，BNB Chain 将在区块高度 27,281,024 处进行代号为Planck的硬分叉升级，基于当前网络出块速度，预测该升级将于北京时间4月12日13:30启动。核心团队表示，此次升级旨在增强网络的安全性和稳定性。主网验证者和全节点运营者应在2023年4月12日之前将其软件版本切换至 v1.1.21。]]></summary>
+        <title type="html"><![CDATA[知情人士：币安已拒绝收购孙宇晨在Huobi的股份]]></title>
+        <id>https://panewslab.com/zh/articledetails/59vpi4cw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/59vpi4cw.html"/>
+        <updated>2023-04-05T21:56:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据CoinDesk报道，据一位知情人士透露，币安最近已拒绝收购孙宇晨在Huobi的股份。随后孙宇晨在推特发文称，一直将币安视为最重要的合作伙伴之一，并将继续与他们在各个层面密切合作。然而在过去一周，他没有向赵长鹏作出任何收购Huobi股份的提议，他们甚至在过去一周左右的时间里没有讨论过Huobi。Huobi无意变更所有权。据彭博社此前报道，孙宇晨已经就出售Huobi的股份进行了谈判。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国数据和技术公司SK Planet将推出专用的 Avalanche 子网 UPTN]]></title>
-        <id>https://panewslab.com/zh/articledetails/l1tdtlcg.html</id>
-        <link href="https://panewslab.com/zh/articledetails/l1tdtlcg.html"/>
-        <updated>2023-04-05T12:23:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，韩国数据和技术公司SK Planet将推出专用的 Avalanche 子网 UPTN，作为其数百万用户的 Web3 门户。UPTN将与SK Planet的消费者应用程序组合（包括OK CashBag）集成。
-UPTN子网与OCB和其他SK Planet应用程序的集成将使数千万用户能够访问NFT、社区功能以及由Avalanche平台提供支持的动态会员权益。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicroStrategy增持1,045枚BTC，目前持有14万BTC]]></title>
-        <id>https://panewslab.com/zh/articledetails/fe86a5u9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/fe86a5u9.html"/>
-        <updated>2023-04-05T12:17:56.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，MicroStrategy以平均价格28,016美元增持1,045枚BTC，花费约2,930万美元。截至目前， MicroStrategy持有14万个比特币，以约41.7亿美元的价格收购，平均价格为每个比特币29,803美元。]]></summary>
+        <title type="html"><![CDATA[火必上线“FTX账户查询服务”]]></title>
+        <id>https://panewslab.com/zh/articledetails/njoycvi1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/njoycvi1.html"/>
+        <updated>2023-04-05T21:39:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月6日消息，据官方消息，火必上线“FTX账户查询服务”，FTX用户可以使用客户代码在火必和Poloniex查询FTX账户余额。如果不清楚客户代码，用户可以通过其在FTX帐户中持有的货币以及大致金额进行模糊搜索。孙宇晨随后推特发文，称他也是FTX的债权人之一，并表示火必致力于与社区合作，确保FTX用户和债权人最终能收回尽可能多的资产。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -168,28 +311,6 @@ UPTN子网与OCB和其他SK Planet应用程序的集成将使数千万用户能�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tether：彭博社的报道不负责任，重申没有接触过Silvergate等银行]]></title>
-        <id>https://panewslab.com/zh/articledetails/dsc0omug.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dsc0omug.html"/>
-        <updated>2023-04-05T12:03:53.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，Tether今日发文表示，彭博社的报道不负责任，并重申没有接触过Silvergate、硅谷银行和Signature Bank。 文中指出，彭博社在其文章的几段中声称：“据在美国证券交易委员会和财政部担任高级执法职务的Alma Angotti称，这家离岸稳定币提供商从未受到制裁，因此与该公司做生意并不违法”。在点击诱导标题之后，就连记者也承认，Tether和Signature Bank合作不会有任何问题，但它没有解释Tether在Signature Bank没有账户。
-Tether称彭博社通过错误信息和诱导点击来保持勉强相关性，并表示其提供了明智的储备组合（主要持有不受银行破产影响的国债等）和多层国际银行合作伙伴，以减轻管辖风险。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息人士：肯尼亚一项新法案“提议扩大证券的定义以包括加密资产”]]></title>
-        <id>https://panewslab.com/zh/articledetails/enw08gm2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/enw08gm2.html"/>
-        <updated>2023-04-05T11:38:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，据肯尼亚经济学家Amboko Julians称，东非国家议会将讨论一项提议将区块链技术和数字货币置于肯尼亚资本市场管理局 (CMA) 管辖范围内的法案。除了寻求纳入区块链和加密货币的定义外，Julians表示该法案还提议“扩大‘证券’的含义以涵盖数字货币。”
-对于获得数字货币交易许可证的肯尼亚居民，该法案规定这些人必须在 CMA 注册。他们还需要保留所有数字货币交易的记录，并对任何收益纳税。此外，该法案还建议肯尼亚任何拥有或交易数字货币的人都必须披露持有的加密货币数量，以及这些加密货币的获取和处置时间。如果该法案获得肯尼亚议会通过，从事数字货币交易的人员将需要在六个月内向 CMA 申请许可证。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenSea做了个Blur，会发币吗？]]></title>
         <id>https://www.theblockbeats.info/news/36229</id>
         <link href="https://www.theblockbeats.info/news/36229"/>
@@ -200,26 +321,6 @@ Tether称彭博社通过错误信息和诱导点击来保持勉强相关性，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTX费用报表上出现“对潜在重启方案进行税务及安全性分析”等信息]]></title>
-        <id>https://panewslab.com/zh/articledetails/so88umg3.html</id>
-        <link href="https://panewslab.com/zh/articledetails/so88umg3.html"/>
-        <updated>2023-04-05T11:17:10.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，FTX债权人发推称，最新公布的FTX费用报表显示，此前文件中含糊不清的“FTX 2.0”重启一事有了更加确凿的用语和相关信息。其中包括创建模拟交易所进行用户体验测试、对潜在的重启方案进行税务方面的分析以及安全性方面的分析。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赵长鹏：当前区块链吞吐量无法使币安成为“混合交易所”]]></title>
-        <id>https://panewslab.com/zh/articledetails/n5tbe8yb.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n5tbe8yb.html"/>
-        <updated>2023-04-05T11:15:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，币安首席执行官赵长鹏在社交媒体上表示，当前区块链吞吐量无法使币安成为一个“混合交易所（hybrid exchange）”，他表示这件事说起来容易做起来难，而且还要确保资金安全、确保进行交易的对方获得付款、确保没有人可以欺骗系统、确保实时结算。同时，赵长鹏也呼吁加密行业需要更多DEX，比如PancakeSwap v3目前以支持BNB Chain和以太坊，但Uniswap在TVL等方面占据主导地位会让这一领域变得“过于中心化”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[面向未来，Solana DeFi将如何发展]]></title>
         <id>https://www.theblockbeats.info/news/36228</id>
         <link href="https://www.theblockbeats.info/news/36228"/>
@@ -227,16 +328,6 @@ Tether称彭博社通过错误信息和诱导点击来保持勉强相关性，�
         <summary type="html"><![CDATA[「一文概览Solana DeFi未来的发展出路」]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hut 8 Mining公司持有9133枚比特币，3月挖出131枚比特币]]></title>
-        <id>https://panewslab.com/zh/articledetails/b3313s6d.html</id>
-        <link href="https://panewslab.com/zh/articledetails/b3313s6d.html"/>
-        <updated>2023-04-05T11:06:55.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，比特币矿企Hut 8 Mining表示，截至3月31日，公司持有的比特币总储备为9,133个；其在2023年3月共产生131个比特币，平均每天生产率约为4.2个比特币。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -269,80 +360,6 @@ Tether称彭博社通过错误信息和诱导点击来保持勉强相关性，�
 据悉，商标申请内容包括虚拟现实内容和数据的电子传输、在线虚拟和增强现实环境，以及各种类别的虚拟商品，如电子产品、电器、家居装饰、体育用品等，还包括虚拟和增强现实环境中的体能训练与教育服务。今年2月，山姆会员店为涉及虚拟货币、加密货币和 NFT 的服务申请了商标。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孙宇晨：Tron和BitTorrent正探索整合ZKEVM]]></title>
-        <id>https://www.hellobtc.com/news/202304/20334.html</id>
-        <link href="https://www.hellobtc.com/news/202304/20334.html"/>
-        <updated>2023-04-05T11:04:00.000Z</updated>
-        <summary type="html"><![CDATA[4月5日消息，孙宇晨在推特上表示，波场Tron和BitTorrent正在探索将ZK以太坊虚拟机(ZKEVM)整合到其生态系统中的方法，同时他还声称，“需要注意的是，任何整合计划仍处于探索阶段，无法保证未来一定会实施。”]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《财富》杂志将于4月9日启动新NFT发售拍卖]]></title>
-        <id>https://www.hellobtc.com/news/202304/20333.html</id>
-        <link href="https://www.hellobtc.com/news/202304/20333.html"/>
-        <updated>2023-04-05T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[4月5日消息，《财富》杂志在官推宣布将于2023年4月9日通过Foundation平台启动新NFT系列发售拍卖，这也是《财富》杂志举行的第二次NFT拍卖活动。据悉，该NFT基于《财富：加密货币从有史以来最糟糕的一年中复苏》（Fortune: Crypto Climbs Back From The Worst Year Ever）文章封面制作，起拍价或将定为0.1 ETH。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3月以太坊上NFT市场交易额降至13.7亿美元，Blur平台再次超过OpenSea]]></title>
-        <id>https://panewslab.com/zh/articledetails/n1lunu1f.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n1lunu1f.html"/>
-        <updated>2023-04-05T10:58:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，The Block Pro数据显示，今年3月，共有92,057枚ETH（约合1.519亿美元）被销毁。整个3月ETH都处于通缩状态。自2021年8月初实施EIP-1559以来，共销毁枚304万ETH（约合91.7亿美元）。
-以太坊上NFT市场的月交易额下降26.3%至13.7亿美元。Blur平台的月交易额第二次超过OpenSea，这主要归功于其BLUR代币的推出。
-此外，合规CEX现货交易额增长7%，达到7126亿美元。其中币安的市场份额为78.1%，Coinbase市场份额为6.9%，Kraken市场份额为3.9%，Binance US市场份额为2.5%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[得克萨斯州进一步削减对比特币矿工的激励措施]]></title>
-        <id>https://panewslab.com/zh/articledetails/p29vs61d.html</id>
-        <link href="https://panewslab.com/zh/articledetails/p29vs61d.html"/>
-        <updated>2023-04-05T10:46:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，得克萨斯州立法者一致通过了一项法案，其将取消对当地比特币挖矿业务的税收优惠。该法案由共和党州参议员 Lois Kolkhorst、Donna Campbell 和 Robert Nichols 发起，旨在取消税收减免，并要求使用超过 10 兆瓦 (MW) 的矿工在国家电网运营商 ERCOT 注册为灵活负载运营商。
-对此，比特币矿业倡导公司 Satoshi Action Fund 的首席执行官Dennis Porter在推特上表示，该法案将消除矿工在农村社区创造就业机会的激励措施。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灰度GBTC三月日均交易额升至5500万美元，创2022年12月以来新高]]></title>
-        <id>https://panewslab.com/zh/articledetails/q6ruky2d.html</id>
-        <link href="https://panewslab.com/zh/articledetails/q6ruky2d.html"/>
-        <updated>2023-04-05T10:23:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，据The Block Pro数据显示，灰度的比特币信托基金GBTC日均交易额在三月份增长了67.6%，升至5500万美元，创下自2022年12月以来的新高。此外，三月调整后比特币和以太坊链上总交易额增加了48.8%，上涨至2550亿美元，其中比特币链上交易额增长48.3%，以太坊链上交易额涨幅达到了62.7%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHIB：The Metaverse团队将很快公布项目新进展]]></title>
-        <id>https://panewslab.com/zh/articledetails/ceq8jjj7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ceq8jjj7.html"/>
-        <updated>2023-04-05T10:00:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，Shiba Inu元宇宙顾问Marcie Jastrow在Discord向社区保证，SHIB: The Metaverse背后的团队将在未来几周内就其元宇宙项目的进展提供反馈。“在接下来的一周，我们将针对你们提出的所有问题发表一些评论，特别是关于（Shiba Inu虚拟土地）真实地块大小的问题、SXSW艺术节上发生的事情并反馈我们学到的东西。” 她透露，项目团队将很快公布SHIB：The Metaverse的新设计。但是她没有暗示这些设计何时会推出。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登敦促科技公司应对人工智能的风险]]></title>
-        <id>https://panewslab.com/zh/articledetails/vl7wkjc4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/vl7wkjc4.html"/>
-        <updated>2023-04-05T09:42:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 4月5日消息，美国总统拜登昨日表示，人工智能（AI）的安全性仍存在不确定性，并强调科技公司在向公众发布产品之前应确保其产品安全。 在与总统科技顾问委员会 (PCAST​​) 的会议开始时，他表示，科技公司必须确保其产品在向公众发布之前是安全的。
-当被问及人工智能的潜在危害时，他回答说，“还没有确定，有可能。” 根据拜登的说法，社交媒体已经证明了强大的技术在没有适当的保护措施的情况下可能产生的负面影响。“缺乏保障措施，我们看到了对心理健康、自我形象和感觉以及绝望的影响，尤其是在年轻人中。”]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -486,16 +503,6 @@ Tether称彭博社通过错误信息和诱导点击来保持勉强相关性，�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aave 战略负责人：去中心化可分为独裁、寡头治理、代议制、无状态等四个阶段]]></title>
-        <id>https://www.hellobtc.com/news/202304/20332.html</id>
-        <link href="https://www.hellobtc.com/news/202304/20332.html"/>
-        <updated>2023-04-05T03:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Aave 战略负责人 Marc Zeller 发布文章探讨去中心化的四个阶段，分别为独裁(Autocracy)、寡头治理(Oligarchy)、流动性代议制民主(Liquid Representative Democracies)、无状态(Stateless Stage)。 具体而言，独裁中开发团队几乎完全控制项目，专制阶段允许团队快速开发和迭代，使其能够构建最小可行产品并努力实现产品市场契合度。 寡头治理阶段通常在融资轮次之后，代币持有者开始在治理方面获得更多权力，而早期投资者的影响可能具有挑战性。 只有当代币供应分配到足以稀释第 2 阶段寡头的影响力时，才能实现流动性代议制民主阶段。Marc Zeller 认为目前还没有项目达到成熟的 DAO 阶段，MakerDAO 和 Aave 正处于从第 2 阶段过渡到第 3 阶段的边缘。 无状态阶段与无国家社会类似，目前，LUSD、以太坊和比特币是 Marc Zeller 认为第 4 阶段中仅有的重要参与者。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[解读LSD「后来者」Frax Finance：如何通过产品套件构建增长飞轮？]]></title>
         <id>https://www.theblockbeats.info/news/36224</id>
         <link href="https://www.theblockbeats.info/news/36224"/>
@@ -503,40 +510,6 @@ Tether称彭博社通过错误信息和诱导点击来保持勉强相关性，�
         <summary type="html"><![CDATA[Frax Finance 最初是一种混合算法稳定币协议，经过几年的运营，在竞争激励的稳定币赛道成功存活了下来。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：Gem更名OpenSea Pro，新版官网上线]]></title>
-        <id>https://www.hellobtc.com/news/202304/20331.html</id>
-        <link href="https://www.hellobtc.com/news/202304/20331.html"/>
-        <updated>2023-04-05T02:31:00.000Z</updated>
-        <summary type="html"><![CDATA[1.Gem更名OpenSea Pro，并向Gem用户空投Gemesis NFT。
-
-2.Aave 战略负责人：去中心化可分为独裁、寡头治理、代议制、无状态等四个阶段。
-
-3.代币化黄金资产总市值超过10亿美元。
-
-4.外媒：美国前总统特朗普被正式拘捕。
-
-5.过去24小时，特朗普NFT系列销售额激增133%。
-
-6.Gemesis铸造量已突破4万枚，占总量22.6%。
-
-7.Celo基金会宣布与谷歌云合作支持可持续发展的Web3初创公司。
-
-8.OKX Web3钱包已上线MPC免私钥钱包。
-
-9.LayerZero Labs以30亿美元估值完成1.2亿美元B轮融资。
-
-10.Delphi Labs完成1350万美元融资，P2P领投。
-
-11.Bitget获得Dragonfly 1000万美元战略投资。
-
-12.FLEX以超50倍涨幅位列Q1涨幅榜第一，CFX与AGIX分列二三位。
-
-13.数据：3月NFT市场交易量逾19.5亿美元，Blur市占比近七成。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -627,94 +600,6 @@ Tether称彭博社通过错误信息和诱导点击来保持勉强相关性，�
         <summary type="html"><![CDATA[「再质押」协议 EigenLayer 有可能在 2023 年对区块链生态系统以及其他数据可用性层项目产生重大影响。]]></summary>
         <author>
             <name>白泽研究院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特改用“狗头”Logo追赶数字货币潮流，到底是明智之举还是不顾风险？]]></title>
-        <id>https://www.defidaonews.com/article/6812038</id>
-        <link href="https://www.defidaonews.com/article/6812038"/>
-        <updated>2023-04-04T05:57:02.000Z</updated>
-        <summary type="html"><![CDATA[标志改变后，这种数字货币的价格飙升了30%以上。]]></summary>
-        <author>
-            <name>区块链骑士</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAOrayaki策展｜EP25—回顾以太坊历次升级中的EIP及影响]]></title>
-        <id>https://www.defidaonews.com/article/6812002</id>
-        <link href="https://www.defidaonews.com/article/6812002"/>
-        <updated>2023-04-04T02:48:15.000Z</updated>
-        <summary type="html"><![CDATA[以太坊的愿景是在保证去中心化的前提下，具有更好的可扩展性和安全性，更好服务于现有的和潜在的用户，同时支持可持续性发展。]]></summary>
-        <author>
-            <name>DAOrayaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：Twitter将网页Logo改为狗狗表情头像]]></title>
-        <id>https://www.hellobtc.com/news/202304/20330.html</id>
-        <link href="https://www.hellobtc.com/news/202304/20330.html"/>
-        <updated>2023-04-04T02:36:00.000Z</updated>
-        <summary type="html"><![CDATA[1.Twitter将网页Logo改为狗狗表情头像。
-
-2.币安否认“国际刑警组织向赵长鹏发出红色通缉令”的传言。
-
-3.Uniswap 月交易量自去年一月以来首次超越 700 亿美元。
-
-4.第一季度币安交易量的全球市场份额减少16%，降至54%。
-
-5.SEC将开展投资者教育活动，其中包括加密货币。
-
-6.DOGE 第 5 大持仓地址在价格大涨后转出 6.5 亿枚 DOGE。
-
-7.当前Arbitrum以太坊上锁定资产价值突破40亿美元。
-
-8.美国司法部查封加密货币投资骗局资金超1.12亿美元。
-
-9.多个主流加密协议发布相同「Soon」短视频。
-
-10.Gucci与Otherside合作推出「Otherside Relics by Gucci」系列。
-
-11.Polygon联合创始人：Polygon的使命一直是大规模采用Web3。
-
-12.韩国检察官：如果看到更多证据，将扩大针对当地交易所“贿赂上币”的调查。
-
-13.KuCoin Wallet 更名为 Halo Wallet 并将独立运营。
-
-14.0xscope：部分个人投资者和机构亏本出售其ARB代币。
-
-15.B站推出高能链App，用以管理用户数字资产。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“星火孵化公益计划”搭建迈向Web3的桥梁]]></title>
-        <id>https://www.defidaonews.com/article/6812004</id>
-        <link href="https://www.defidaonews.com/article/6812004"/>
-        <updated>2023-04-04T01:44:25.000Z</updated>
-        <summary type="html"><![CDATA[12期Web3公益课程]]></summary>
-        <author>
-            <name>行业快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter将网页Logo改成狗狗表情头像]]></title>
-        <id>https://www.hellobtc.com/news/202304/20329.html</id>
-        <link href="https://www.hellobtc.com/news/202304/20329.html"/>
-        <updated>2023-04-03T18:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitter将网页Logo改成了狗狗表情头像。此外，行情显示，Dogecoin短线拉升日内涨超24%。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国太保投资管理（香港）有限公司与水滴资本合作推出两支数字资产基金]]></title>
-        <id>https://www.hellobtc.com/news/202304/20328.html</id>
-        <link href="https://www.hellobtc.com/news/202304/20328.html"/>
-        <updated>2023-04-03T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[热门文章 Arbitrum基金会在治理社区批准预算前已开始出售ARB代币交易费用创新高，速览衍生品交易平台Kwenta因何走红？数据：某巨鲸一次性卖出87枚CryptoPunk，约合958万美元ENS 域名封装是什么？为何如此重要？生态在狂奔，治理闹丑闻？一文了解Arbitrum基金会争议操作始末Arbitrum官方澄清：没有出售5000万枚ARB代币，已用于发放贷款及支付运营费用]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
