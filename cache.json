@@ -63,12 +63,22 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6813800",
+          "author": "东寻",
+          "description": "你认为Web3是什么？",
+          "link": "https://www.defidaonews.com/article/6813800",
+          "publishedOn": "2023-04-15T07:10:57.000Z",
+          "wordCount": 184,
+          "title": "从数据到应用，Web3 不再纸上谈兵",
+          "imageUrl": "https://appserversrc.8btc.cn/Fi2_Wl026dndt6ioFx4Apj7VRcfT.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6813742",
           "author": "金色财经",
           "description": "Web3已经成为互联网新的叙事",
           "link": "https://www.defidaonews.com/article/6813742",
           "publishedOn": "2023-04-14T11:19:29.000Z",
-          "wordCount": 105,
+          "wordCount": 107,
           "title": "对话复旦大学学者蒋昌建：对Web3、AI等行业的深度思考和重点解读",
           "imageUrl": "https://appserversrc.8btc.cn/lmHfSUyRqhgtf9p1AJStoL7cmZwL.png?imageView2/1/w/500/h/300"
         },
@@ -98,7 +108,7 @@
           "description": "技术和艺术两个都在不断变化，而且它们之间的边界也越来越近",
           "link": "https://www.defidaonews.com/article/6813676",
           "publishedOn": "2023-04-14T06:25:26.000Z",
-          "wordCount": 192,
+          "wordCount": 189,
           "title": "Web3 技术新风向：人工智能生成内容 (AIGC) 与隐私运算技术",
           "imageUrl": "https://appserversrc.8btc.cn/lonctr9aGVRLsAyJwlSjp9SXmHBS.png?imageView2/1/w/500/h/300"
         },
@@ -118,7 +128,7 @@
           "description": "对 Meta 而言，将 NFT 集成到核心产品可能得不偿失。",
           "link": "https://www.defidaonews.com/article/6813616",
           "publishedOn": "2023-04-14T02:21:39.000Z",
-          "wordCount": 560,
+          "wordCount": 557,
           "title": "Meta 为何放弃了 NFT 计划？",
           "imageUrl": "https://appserversrc.8btc.cn/FgkATr_rX6Pc03w-69zaPT74hXk9.png?imageView2/1/w/500/h/300"
         },
@@ -128,7 +138,7 @@
           "description": "4 月 12 日，HashKey Capital的CEO邓超与Binance CEO CZ 在香港Web3嘉年华展开对谈",
           "link": "https://www.defidaonews.com/article/6813594",
           "publishedOn": "2023-04-14T01:33:31.000Z",
-          "wordCount": 132,
+          "wordCount": 130,
           "title": "CZ在香港Web3嘉年华的炉边对谈：让更多用户进入Web3",
           "imageUrl": "https://appserversrc.8btc.cn/Fos9DD9ZJQs8NAQgWxEs7qxoYinI.png?imageView2/1/w/500/h/300"
         },
@@ -151,16 +161,6 @@
           "wordCount": 1530,
           "title": "Web3 —— 更好互联网的答案+新经济的引擎",
           "imageUrl": "https://appserversrc.8btc.cn/Fog8Dt_QdK45qihLzyVQNczqFOFu.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6813460",
-          "author": "行业前沿",
-          "description": "在本文中，我们将首先了解什么是信用，然后，研究流行的 DeFi 信贷协议，以及它们与 TradFi / CeFi 借贷相比的优缺点",
-          "link": "https://www.defidaonews.com/article/6813460",
-          "publishedOn": "2023-04-13T03:29:26.000Z",
-          "wordCount": 1105,
-          "title": "DeFi 借贷的圣杯：不足额抵押贷款",
-          "imageUrl": "https://appserversrc.8btc.cn/FqYoDXnPCiosgpAXW25rSJD4Jkg9.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "description": "此次攻击的原因在于攻击者利用 yUSDT 合约被错误设置了 fulcrum 地址，从而操控 yUSDT 合约中的稳定币储备余额，通过在 yUSDT 中存入 USDT，以获得大量的非预期的 yUSDT 代币进行获利。",
           "link": "https://www.web3sj.com/definews/57540/",
           "publishedOn": "2023-04-15T04:00:10.000Z",
-          "wordCount": 835,
+          "wordCount": 890,
           "title": "简析Yearn Finance被黑安全事件",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1681531201098.png"
         },
@@ -195,7 +195,7 @@
           "description": "事实证明，NFT 市场想要留住用户是很困难的，哪里有奖励，有发币预期，他们就会去哪里。面对竞争如此激烈且白热化的 NFT 赛道，各家也都使出浑身解数，想方设法的创新产品和玩法，以抢占 NFT 市场份额。",
           "link": "https://www.web3sj.com/nftnews/57518/",
           "publishedOn": "2023-04-15T03:43:47.000Z",
-          "wordCount": 970,
+          "wordCount": 1009,
           "title": "头部和黑马NFT交易市场最近都在卷什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1681530397700.png"
         },
@@ -205,7 +205,7 @@
           "description": "与 Web3 爱好者的日常相比，现在使用 Saga 感觉更像是对有希望和潜力的东西进行 beta 测试。对于早期采用者和爱好者来说，这可能是一种比较有趣的测试，对开发人员来说是一个潜在的催化剂，但对于普通消费者来说可能很难接受—— Solana Labs 知道这一点，他们预计 Saga 的销量不会很高，25,000 至 50,000 个就会很满意了。",
           "link": "https://www.web3sj.com/news/57503/",
           "publishedOn": "2023-04-15T03:39:41.000Z",
-          "wordCount": 1007,
+          "wordCount": 1029,
           "title": "抢先体验 Solana Saga：价值1000美元的 Web3 手机值得入手吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/image-62.png"
         },
@@ -215,7 +215,7 @@
           "description": "换句话说，开发一个应用程序也需要稳固的基础，正确的设计，以及符合用户需求的舒适体验。而创建生态系统则更像是发展一个拥有许多不同组成部分和资源的城市，需要考虑到各种不同的因素。应用程序和生态系统有着各自独特的单元经济和管理需求，两者截然不同。",
           "link": "https://www.web3sj.com/gamefinews/57475/",
           "publishedOn": "2023-04-15T03:34:44.000Z",
-          "wordCount": 1290,
+          "wordCount": 1289,
           "title": "建立 Web3 游戏生态：不要期望一蹴而就！",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1681529939487.png"
         },
@@ -225,7 +225,7 @@
           "description": "在本文中，我们总结了关于 2023 年及以后加密世界潜在的 10 点创新浪潮与方向。我们将继续寻找和投资那些具有潜力和创新性的项目，以进一步推动加密世界的发展与成功。就区块链的内部结构和性能而言，我们可以期待 Layer 2 中的 Rollup 技术将继续发展，特别是 app-Rollup 生态系统，包括 app-rollup SDK、RaaS 和去中心化序列网络等。",
           "link": "https://www.web3sj.com/news/57471/",
           "publishedOn": "2023-04-15T03:31:30.000Z",
-          "wordCount": 1113,
+          "wordCount": 1098,
           "title": "NexGen：加密世界十个潜在的创新浪潮与方向",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1681529627545.png"
         },
@@ -235,7 +235,7 @@
           "description": "V神：试图让ChatGPT 3.5帮助将IPFS的bafyhashes转换成hex。香港财政司长：将推进Web3、虚拟资产等金融创新在监管和便利间取得平衡。Solana Web3手机Saga将于5月8日公开发售，每台售价1000美元。",
           "link": "https://www.web3sj.com/news/57444/",
           "publishedOn": "2023-04-14T11:43:32.000Z",
-          "wordCount": 720,
+          "wordCount": 721,
           "title": "Web3世界日报（2023-4.14）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/2023041411412796.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "货币流动性改善。美国 3 月 CPI 同步增长 5% 略好于预期，坐实美联储 5 月最后一次加息 25 个基点的市场预期。较低的加息预期正在拉低美元指数，股票、加密货币等风险类资产都可能受益。但在过去 20 年中，每次加息周期结束的 3 个月内，美股都会由于经济衰退大跌。",
           "link": "https://www.web3sj.com/news/57308/",
           "publishedOn": "2023-04-14T06:41:27.000Z",
-          "wordCount": 1020,
+          "wordCount": 1022,
           "title": "市场周报：市场中继强势，ETH升级解锁",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1681454522639.png"
         },
@@ -265,7 +265,7 @@
           "description": "NFT 交易公司 Blur 的 24 岁联合创始人 Tieshun Roquerre 回忆着挂在他家办公室墙上的 Vestaboard，想起就在几个月前，从这个显示器发出的嘈杂声音让人无法忍受。这款云连接的分叶显示器，设计成了一个复古火车站出发牌的样子，Roquerre 编写了程序来提醒自己，每当有一枚 NFT 在他的新兴 NFT 市场上买卖时，显示牌就会翻动，而每一次点击都意味着在 Blur 上进行了一笔新的交易。",
           "link": "https://www.web3sj.com/nftnews/57303/",
           "publishedOn": "2023-04-14T06:38:07.000Z",
-          "wordCount": 1144,
+          "wordCount": 1167,
           "title": "《福布斯》对话 Blur：10人团队如何改变NFT市场格局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1681454351854.png"
         }
@@ -276,6 +276,36 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/l6a81n93.html",
+          "author": "PA一线",
+          "description": "PANews 4月15日消息，据官方消息，FLR-USD交易对现已在Coinbase交易所、Coinbase Pro和Advanced Trade处于全交易模式，限价单、市价单和止损单现已全部可用。",
+          "link": "https://panewslab.com/zh/articledetails/l6a81n93.html",
+          "publishedOn": "2023-04-15T04:29:26.000Z",
+          "wordCount": 369,
+          "title": "Coinbase已为FLR-USD交易对开通全交易模式",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/lrhjd1an.html",
+          "author": "PA一线",
+          "description": "PANews 4月15日消息，据The Block报道，币安和巴西足协推出了一款免费NFT。现有客户可以“通过介绍朋友在币安开户来获得NFT”。获得NFT的球迷将能够参与“游戏化”体验，赢得奖品和门票，同时还可以在使用币安时享受更低的交易费用。去年，巴西总统签署了一项立法，为比特币的交易和使用建立了监管框架。",
+          "link": "https://panewslab.com/zh/articledetails/lrhjd1an.html",
+          "publishedOn": "2023-04-15T04:05:05.000Z",
+          "wordCount": 367,
+          "title": "币安和巴西足协推出免费NFT",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/p4wcm6x5.html",
+          "author": "PA一线",
+          "description": "PANews 4月15日消息，据官方消息，4月15日，OKX、Bybit、Kucoin 等交易所宣布将上线Sui Token ，相关交易所均有推出Sui Token的WL白名单的认购机制。暂时未有Binance上线Sui Token的消息。据此前消息，Sui开发团队Mysten Labs创始人Evan Cheng与Adeniyi Abiodun在TwitterSpace中表示，会有一个十万人白名单的社区访问计划。Adeniyi Abiodun在推特回应了用户关于SUI空投的问题，明确表示未来不会有SUI空投计划。",
+          "link": "https://panewslab.com/zh/articledetails/p4wcm6x5.html",
+          "publishedOn": "2023-04-15T03:47:07.000Z",
+          "wordCount": 410,
+          "title": "OKX、Bybit、Kucoin等交易所宣布将上线Sui Token",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/829b1ib5.html",
           "author": "PA一线",
