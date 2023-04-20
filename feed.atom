@@ -1,18 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T05:12:53.328Z</id>
+    <id>urn:2023-04-20T06:17:10.559Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-20T05:12:53.328Z</updated>
+    <updated>2023-04-20T06:17:10.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[账户抽象：Web3 的 iPhone 时刻]]></title>
+        <title type="html"><![CDATA[详解Flatcoin：如何运用控制理论，设计一种通货膨胀调整稳定币？]]></title>
+        <id>https://www.web3sj.com/news/58938/</id>
+        <link href="https://www.web3sj.com/definews/58938/"/>
+        <updated>2023-04-20T06:13:32.000Z</updated>
+        <summary type="html"><![CDATA[举一个简单的例子——虚构的「i-DAI」，即剔除通货膨胀因素的 DAI（an Inflation Corrected DAI）。i-DAI 的锚定将附着在一个参考时间点上，随着通货膨胀的变化，其价格将实时调整，以保持 i-DAI 持有者的购买力。下表展示了这种典型行为。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[律师团队解读Web3新经济：我们的近忧和远虑]]></title>
+        <id>https://www.web3sj.com/?p=58935</id>
+        <link href="https://www.web3sj.com/news/58935/"/>
+        <updated>2023-04-20T06:12:47.000Z</updated>
+        <summary type="html"><![CDATA[飒姐团队在此次盛会中同样收益匪浅，特别是对某个已经拿下香港牌照并布局东南亚的Web3大厂所提出的「Web3新经济」及其价值捕获模型较为感兴趣。今天就与大家一起聊一聊我们对于「Web3新经济」的看法，从法律视角谈一谈在这种新型价值捕获模型下，关于Token的近忧远虑。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话 Rocket Pool 总经理：上海升级后 Rocket Pool 将为质押赛道带来哪些创新和机遇？]]></title>
+        <id>https://www.defidaonews.com/article/6814516</id>
+        <link href="https://www.defidaonews.com/article/6814516"/>
+        <updated>2023-04-20T05:42:17.000Z</updated>
+        <summary type="html"><![CDATA[4.18 去中心化流动性质押协议 Rocket Pool 顺利进行了 Atlas 升级，上海升级后 Rocket Pool 将为 Staking 带来哪些创新和机遇呢？]]></summary>
+        <author>
+            <name>ECN以太坊中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个团队为各种电气和光学创新创造了“量子复合材料”]]></title>
+        <id>https://0xzx.com/2023042013413386805.html</id>
+        <link href="https://0xzx.com/2023042013413386805.html"/>
+        <updated>2023-04-20T05:41:24.000Z</updated>
+        <summary type="html"><![CDATA[UCR 电气工程师和材料科学家团队展示了一项研究突破，可能会导致电气、光学和计算机技术的广泛进步。 由杰出教授 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-4844指南：如何将L2交易成本降低10倍？]]></title>
+        <id>https://www.web3sj.com/news/58928/</id>
+        <link href="https://www.web3sj.com/news/58928/"/>
+        <updated>2023-04-20T05:34:52.000Z</updated>
+        <summary type="html"><![CDATA[EIP-4844 是以太坊分片设计的首次迭代。分片是以太坊让更多数据通过网络的一种方式。以太坊已在 2016 年将分片作为可扩展解决方案之一。随着时间的推移，分片已经从完全执行分片转变为只进行数据分片，V 神将其描述为「增强的实用主义」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英格兰银行准备广泛使用代币化]]></title>
+        <id>https://0xzx.com/2023042013333386803.html</id>
+        <link href="https://0xzx.com/2023042013333386803.html"/>
+        <updated>2023-04-20T05:33:18.000Z</updated>
+        <summary type="html"><![CDATA[英格兰银行 (BoE) 正在为金融领域的突破性创新做准备，以稳定币、中央银行数字货币 (CBDC) 和代币化银 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUBAR 预告片预告父女动作喜剧系列]]></title>
+        <id>https://0xzx.com/2023042013333386801.html</id>
+        <link href="https://0xzx.com/2023042013333386801.html"/>
+        <updated>2023-04-20T05:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Netflix 发布了即将上映的动作喜剧系列的完整 FUBAR 预告片，该系列将于 5 月 25 日播放。 视 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空头再次出手购买铁矿石]]></title>
+        <id>https://0xzx.com/2023042013313386800.html</id>
+        <link href="https://0xzx.com/2023042013313386800.html"/>
+        <updated>2023-04-20T05:31:17.000Z</updated>
+        <summary type="html"><![CDATA[中国钢铁产量的下跌再次驱散了铁矿石空头，引发了新一轮的悲观预测，这些预测看空了近年来炼钢商品的弹性。 分析师警 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阴险：红门的预告片走得更远，带回了原班人马和老恶魔]]></title>
+        <id>https://0xzx.com/2023042013303386798.html</id>
+        <link href="https://0xzx.com/2023042013303386798.html"/>
+        <updated>2023-04-20T05:30:21.000Z</updated>
+        <summary type="html"><![CDATA[踮着脚尖，穿过窗户，经过红色的门，进入更远的地方。 阴险的官方预告片：红门终于来了，它看起来比以往任何时候都更 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密利率市场春风将至？深度解析LSD利率市场服务商Pendle]]></title>
+        <id>https://www.web3sj.com/news/58804/</id>
+        <link href="https://www.web3sj.com/news/58804/"/>
+        <updated>2023-04-20T05:18:28.000Z</updated>
+        <summary type="html"><![CDATA[随着 LSD 叙事的深入，基于 LSD 发展更复杂的 DeFi 工具、关注和推演债券市场叙事的呼声逐渐大了起来，这其中包括开始被市场认识到价值以及挖掘新交易策略的 Pendle。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[账户抽象：Web3的iPhone时刻]]></title>
         <id>https://www.web3sj.com/news/58797/</id>
         <link href="https://www.web3sj.com/news/58797/"/>
         <updated>2023-04-20T05:09:32.000Z</updated>
-        <summary type="html"><![CDATA[账户抽象可能推动 Web3 应用的大范围采用。]]></summary>
+        <summary type="html"><![CDATA[在开始正式展开账户抽象之前，我们先谈一谈背景话题，那就是 iPhone 之前的移动互联网是什么样的？没有 iPhone 的时候，大家如果要使用移动互联网，将要面对的是一个九宫格，或者说是一个更小但密密麻麻的全物理键盘，还带上下左右键的手机，当然屏幕占比也比较小，当时比较大的屏幕可能只有 2.4 寸，即便是比较大的屏幕分辨率也非常堪忧。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui旗舰Web3游戏Abyss World与微软投资的Space and Time合作，通过AI驱动内容革新游戏玩法]]></title>
+        <id>https://www.theblockbeats.info/news/36659</id>
+        <link href="https://www.theblockbeats.info/news/36659"/>
+        <updated>2023-04-20T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Abyss World旨在提供更分散化和高效的游戏体验，并成为新的Web3游戏标准。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -23,56 +133,6 @@
         <summary type="html"><![CDATA[Liquidity Staking Derivatives，简称 LSD，是用户通过联合质押方式质押 ETH 换取的凭证，LSD 代表了持有者的质押资产，持有 LSD 可以享受质押收益。LSD 是一种相对较新的代币类型，也是 ERC-20 Token, 它使质押者能够通过释放其质押的加密货币 ( 例如 ETH)，以此来获得回报。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Boot Camp 是对战略经典的热爱再造]]></title>
-        <id>https://0xzx.com/2023042012383386734.html</id>
-        <link href="https://0xzx.com/2023042012383386734.html"/>
-        <updated>2023-04-20T04:38:24.000Z</updated>
-        <summary type="html"><![CDATA[当游戏开发者选择重制或重新制作一个深受喜爱的系列时——这种情况比以往任何时候都频繁——他们不可避免地在取悦不断 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他们将在下班后发生  XRP、MATIC 和 SOL 评测 所有目标一一实现]]></title>
-        <id>https://0xzx.com/2023042012353386732.html</id>
-        <link href="https://0xzx.com/2023042012353386732.html"/>
-        <updated>2023-04-20T04:35:18.000Z</updated>
-        <summary type="html"><![CDATA[在撰写本文时，比特币价格正在经历一场艰苦的战斗，并将在大约 1 小时后收盘。 价格在前两天跌破 30,000  […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高盛考虑出售价值 21 亿美元的 BNPL 业务 Greensky]]></title>
-        <id>https://0xzx.com/2023042012333386731.html</id>
-        <link href="https://0xzx.com/2023042012333386731.html"/>
-        <updated>2023-04-20T04:33:17.000Z</updated>
-        <summary type="html"><![CDATA[高盛正在考虑出售其“先买后付”的家居装修贷款公司 Greensky，因为它继续退出消费金融市场。 这家华尔街巨 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z：为何推出Optimism Rollup新客户端Magi]]></title>
-        <id>https://0xzx.com/2023042012323386730.html</id>
-        <link href="https://0xzx.com/2023042012323386730.html"/>
-        <updated>2023-04-20T04:32:26.000Z</updated>
-        <summary type="html"><![CDATA[虽然最近Arbtrum大有超越Optimism之势，但Optimism也在默默蓄力。继Coinbase之后，有 […]]]></summary>
-        <author>
-            <name>金色财经</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Windows 和 macOS 上使用 Chrome 任务管理器]]></title>
-        <id>https://0xzx.com/2023042012313386728.html</id>
-        <link href="https://0xzx.com/2023042012313386728.html"/>
-        <updated>2023-04-20T04:31:28.000Z</updated>
-        <summary type="html"><![CDATA[如果你曾经遇到过 Chrome 使你的系统停滞不前或想知道是什么耗尽了你的所有资源，你会很高兴得知 Chrom […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -107,6 +167,16 @@ SBF的法律团队要求法官将SBF新保释条件执行延长到2023年4月21�
         <summary type="html"><![CDATA[PANews 4月20日消息，据欧科云链OKLink上海升级专题页显示，以太坊上海升级一周已有超120万枚ETH解除质押，过去24小时解押量达14.29万。当前验证者数为542,366。当前ETH质押量为1736万枚，质押率为14.41%。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEPE重新点燃meme币狂热，简析效用及代币经济]]></title>
+        <id>https://www.theblockbeats.info/news/36660</id>
+        <link href="https://www.theblockbeats.info/news/36660"/>
+        <updated>2023-04-20T03:49:35.000Z</updated>
+        <summary type="html"><![CDATA[无论从哪方面看，PEPE 都非常像之前的那些庞氏山寨 MEME 币]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -599,26 +669,6 @@ SBF的法律团队要求法官将SBF新保释条件执行延长到2023年4月21�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LSD赛道新变局者：ether.fi项目初探]]></title>
-        <id>https://www.web3sj.com/news/58605/</id>
-        <link href="https://www.web3sj.com/news/58605/"/>
-        <updated>2023-04-19T06:41:26.000Z</updated>
-        <summary type="html"><![CDATA[ether.fi 解决的最大痛点：目前有可能是市面上唯一一个在用户掌握私钥的前提下代理质押给节点运营商赚取收益的具有 LSD 代币的项目。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SignalPlus每日宏观经济报道（2023-4-19）]]></title>
-        <id>https://www.web3sj.com/?p=58593</id>
-        <link href="https://www.web3sj.com/news/58593/"/>
-        <updated>2023-04-19T06:40:34.000Z</updated>
-        <summary type="html"><![CDATA[已开发市场的债券收益率已经回吐了 SVB 引发的大部分降幅，英国和欧洲的债券收益率已经回调了大约 50% 的整体变动幅度，而美国国债的波动则较为温和。在央行政策预期方面，市场仍预期今年下半年美国将会有一连串降息，但由于成本压力仍处于令人不安的高位，市场预计欧洲央行和英国央行将保持鹰派立场。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[租不起房，吃不起饭， Web3 打工人逃离新加坡]]></title>
         <id>https://www.defidaonews.com/article/6814334</id>
         <link href="https://www.defidaonews.com/article/6814334"/>
@@ -634,56 +684,6 @@ SBF的法律团队要求法官将SBF新保释条件执行延长到2023年4月21�
         <link href="https://www.theblockbeats.info/news/36636"/>
         <updated>2023-04-19T06:10:52.000Z</updated>
         <summary type="html"><![CDATA[生态初具规模：支持12条链、增加5个项目，甚至有比特币NFT。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIP4844 综合指南：如何能让 L2 费用便宜 10 倍]]></title>
-        <id>https://www.defidaonews.com/article/6814336</id>
-        <link href="https://www.defidaonews.com/article/6814336"/>
-        <updated>2023-04-19T06:06:31.000Z</updated>
-        <summary type="html"><![CDATA[L2 费用能够再降 10 倍吗？]]></summary>
-        <author>
-            <name>Kyle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[季入7亿美金！看USDT闷声发大财就知道稳定币赛道为何挤破头]]></title>
-        <id>https://www.web3sj.com/?p=58582</id>
-        <link href="https://www.web3sj.com/news/58582/"/>
-        <updated>2023-04-19T05:59:31.000Z</updated>
-        <summary type="html"><![CDATA[而上个月，USDT 发行商 Tether 首席技术官 Paolo Ardoino 则透露，Tether 在 2023 年第一季度将实现 7 亿美元的利润，并使得其超额储备（储备资金超出发行的 USDT 数额的部分）达到 16.6 亿美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全链互操作性协议LayerZero研报]]></title>
-        <id>https://www.web3sj.com/?p=58557</id>
-        <link href="https://www.web3sj.com/project/58557/"/>
-        <updated>2023-04-19T05:46:13.000Z</updated>
-        <summary type="html"><![CDATA[LayerZero 创新的技术加之更快的部署速度和一定的成本优势，以及早期著名 VC 和社区具有影响力 KOL 的推动，使得 LayerZero生态在短短一年左右的时间内得到了快速的扩张，并且在 DeFi、NFT 和稳定币等方向都取得了不小的成绩。截至目前，已有50+项目（含未正式推出 / 上线的项目）集成或正在使用 LayerZero 技术。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这可能是比特币Ordinals社区的第一次聚会]]></title>
-        <id>https://www.theblockbeats.info/news/36623</id>
-        <link href="https://www.theblockbeats.info/news/36623"/>
-        <updated>2023-04-19T04:36:28.000Z</updated>
-        <summary type="html"><![CDATA[我的香港之行，让我更确信比特币NFT的未来一片光明。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer 2迎来高光时刻，将如何影响Layer 1上的价值捕获？]]></title>
-        <id>https://www.theblockbeats.info/news/36622</id>
-        <link href="https://www.theblockbeats.info/news/36622"/>
-        <updated>2023-04-19T04:25:54.000Z</updated>
-        <summary type="html"><![CDATA[到目前为止，用户在 Arbitrum和 Optimism支付的费用中约有 70% 被以太坊验证者获得。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
