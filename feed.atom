@@ -1,58 +1,164 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-19T23:12:58.903Z</id>
+    <id>urn:2023-04-20T01:05:05.262Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-19T23:12:58.903Z</updated>
+    <updated>2023-04-20T01:05:05.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[A16z 加密货币宣布基于 Rust 的 Optimism 客户端]]></title>
-        <id>https://0xzx.com/2023042007093385921.html</id>
-        <link href="https://0xzx.com/2023042007093385921.html"/>
-        <updated>2023-04-19T23:09:13.000Z</updated>
-        <summary type="html"><![CDATA[热门话题 今日 23:10 Andreessen Horowitz (a16z) 的加密货币领域为 Optimis […]]]></summary>
+        <title type="html"><![CDATA[a16z Crypto推出OP Stack rollup客户端Magi，旨在成为op-node可行替代方案]]></title>
+        <id>https://panewslab.com/zh/articledetails/dpuz13j0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/dpuz13j0.html"/>
+        <updated>2023-04-20T00:43:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据官方博客，a16z Crypto宣布推出新的Optimism Stack rollup客户端Magi。Magi是一个用Rust开发的OP Stack rollup客户端，Magi执行与参考实现(OP-node)相同的核心功能，并与执行节点(如OP-geth)一起工作，以同步到任何OP Stack链，包括Optimism和Base。因为执行端和共识端都需要客户端多样性，但到目前为止，大部分开发都集中在执行端。Magi的目标是成为op-node的独立开发的直接替代品，增加rollup的客户端多样性。
+Magi可能需要数月的开发时间才能成为op-node的可行替代方案。a16z Crypto计划在不久的将来添加的一些功能和改进：1.跟踪未确认的块以降低延迟、可提高初始同步速度的新的同步机制、支持替代数据可用性层、用于测试Magi及op-node和任何未来客户端的更好框架。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公链项目Sui将于5月3日正式启动主网]]></title>
+        <id>https://panewslab.com/zh/articledetails/qmb745zq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qmb745zq.html"/>
+        <updated>2023-04-20T00:27:26.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据官方推特，公链项目Sui Network宣布主网将于2023年5月3日正式启动。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币核心开发者Dhruvkaran Mehta退出该项目，将专注于新的创业理念]]></title>
+        <id>https://panewslab.com/zh/articledetails/9yphrx6w.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9yphrx6w.html"/>
+        <updated>2023-04-20T00:24:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据CoinDesk报道，比特币核心开发者Dhruvkaran Mehta（推特账号@dhruv）宣布其将退出该项目，并将专注于比特币相关的新创业理念。
+他在推特上表示：“我决定不再寻求下一年的Bitcoin Core开源资助。我有一个让我非常兴奋的比特币创业点子，有些晚上很难入睡。我觉得我必须试一试。不冒任何风险就是冒一切风险。”
+Mehta于2020年8月开始为比特币核心做出贡献，主要致力于通过BIP-324改进比特币P2P协议。BIP-324试图通过引入一种对比特币节点之间的消息进行加密的P2P协议版本来降低攻击和漏洞的可能性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helium网络已完成向Solana网络迁移]]></title>
+        <id>https://panewslab.com/zh/articledetails/j38hlfzt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j38hlfzt.html"/>
+        <updated>2023-04-20T00:10:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据官方公告，Helium网络已完成向Solana网络迁移。此次升级对Helium实施几项技术更改，包括添加智能合约功能、引入动态市场以按需分配奖励、降低交易成本、直接访问DeFi功能、获得更大的全球开发者社区、网络功能转至预言机可提升网络效率、兼容Solana程序库 (SPL) 、HNT代币功能变化、投票和治理的变化等。
+其中，关于HNT代币功能变化，当前的原生代币HNT将不再由LoRaWAN热点开采，取而代之的是开采IOT，IOT作为Helium IoT网络的激励和治理代币；HNT仍将是使用网络的独家代币；HNT仍将被燃烧以获得数据积分 (DC)。IoT和5G子网都将通过不同的独立治理进行定价。
+关于投票和治理的变化，Helium治理模型将从纯粹的HNT加权投票转向加权投票模型，该模型通过投票托管系统使长期合作伙伴受益。这不仅将权力转移给了那些对网络健康有长远看法的人，而且还为委托原生Helium代币提供了收益。它还支持对IoT和5G网络进行独立治理。
+相关阅读：Helium为何要放弃构建自己的区块链转投Solana？]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币矿工可能在会计不一致后遭受诉讼]]></title>
+        <id>https://0xzx.com/2023042008103386047.html</id>
+        <link href="https://0xzx.com/2023042008103386047.html"/>
+        <updated>2023-04-20T00:10:13.000Z</updated>
+        <summary type="html"><![CDATA[一家律师事务所计划对纳斯达克上市的比特币矿商提起集体诉讼。 该行动旨在承认该公司通过不披露会计不一致来欺骗投资 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Azure 将通过空间和时间列表使区块链原生数据可用]]></title>
-        <id>https://0xzx.com/2023042007073385919.html</id>
-        <link href="https://0xzx.com/2023042007073385919.html"/>
-        <updated>2023-04-19T23:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Space and Time——一个去中心化的区块链数据仓库——宣布其服务现已在 Microsoft Azur […]]]></summary>
+        <title type="html"><![CDATA[极飞/美元看涨延续仍具有建设性]]></title>
+        <id>https://0xzx.com/2023042008093386045.html</id>
+        <link href="https://0xzx.com/2023042008093386045.html"/>
+        <updated>2023-04-20T00:09:14.000Z</updated>
+        <summary type="html"><![CDATA[白银 (XAG/USD) 分析 白银多头并未投降，上行潜力仍高于关键支撑区域 随着美国利率预期随美元走低，上行 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[德国创意人士希望欧盟解决 ChatGPT 版权问题]]></title>
-        <id>https://0xzx.com/2023042007063385916.html</id>
-        <link href="https://0xzx.com/2023042007063385916.html"/>
-        <updated>2023-04-19T23:06:11.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT 在欧洲举行了一次胜利的欢迎之旅。 在意大利和欧洲议会的监管机构抱怨不已之后，轮到德国工会表达他 […]]]></summary>
+        <title type="html"><![CDATA[最新的 PS5 系统和 DualSense Edge 控制器更新现已推出]]></title>
+        <id>https://0xzx.com/2023042008083386042.html</id>
+        <link href="https://0xzx.com/2023042008083386042.html"/>
+        <updated>2023-04-20T00:08:14.000Z</updated>
+        <summary type="html"><![CDATA[索尼互动娱乐发布了新的 PS5 系统软件更新。 除了提升性能和稳定性外，索尼表示 PS5 更新版本 23.01 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MetaMask 否认丢失超过 5,000 ETH 后的钱包漏洞利用指控]]></title>
-        <id>https://0xzx.com/2023042007053385915.html</id>
-        <link href="https://0xzx.com/2023042007053385915.html"/>
-        <updated>2023-04-19T23:05:15.000Z</updated>
-        <summary type="html"><![CDATA[Web3 钱包提供商 MetaMask 成交量入了一场纠纷，此前有指控称其钱包在一次重大的“钱包耗尽操作”中被利用 […]]]></summary>
+        <title type="html"><![CDATA[Final Fantasy 1-6 Pixel Remaster console creeps closer to definite status, 尽管有一些小挫折]]></title>
+        <id>https://0xzx.com/2023042008073386040.html</id>
+        <link href="https://0xzx.com/2023042008073386040.html"/>
+        <updated>2023-04-20T00:07:15.000Z</updated>
+        <summary type="html"><![CDATA[经过数月的粉丝在社交媒体上恳求 Square Enix 这样做之后，最终幻想像素重制版终于登陆游戏机 R […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[开发者日志暗示 Apple 15 英寸 MacBook Air 即将发布]]></title>
-        <id>https://0xzx.com/2023042007043385913.html</id>
-        <link href="https://0xzx.com/2023042007043385913.html"/>
-        <updated>2023-04-19T23:04:13.000Z</updated>
-        <summary type="html"><![CDATA[开发者日志中的最新发现表明，传闻已久的 Apple 15 英寸 MacBook Air 可能很快就会成为现实。 […]]]></summary>
+        <title type="html"><![CDATA[所有公文包（以及哪个最好）]]></title>
+        <id>https://0xzx.com/2023042008063386037.html</id>
+        <link href="https://0xzx.com/2023042008063386037.html"/>
+        <updated>2023-04-20T00:06:26.000Z</updated>
+        <summary type="html"><![CDATA[生化危机 4 的铁杆粉丝都知道里昂的公文包是必不可少的物品之一； 它决定了他可以携带多少武器、治疗药水和炸药。 […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏富比将拍卖三箭资本的NFT收藏品]]></title>
+        <id>https://panewslab.com/zh/articledetails/fsxzgzbu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/fsxzgzbu.html"/>
+        <updated>2023-04-19T23:59:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据The Block报道，苏富比拍卖行周三宣布，将拍卖已破产对冲基金三箭资本(3AC)的NFT收藏品。苏富比表示，拍卖会将于5月开始，由多个部分组成，将持续一年。拍卖的NFT包括僵尸风格的CryptoPunk #6649、Dmitri Cherniak的Ringers #879和Tyler Hobbs的Fidenza #216。三箭资本曾在NFT上投入了大量资金。该公司曾为购买Ringers #879（俗称“金鹅”）花费了1800 ETH，价值约560万美元。今年2月，三箭资本的清算人在一份法庭文件中表示，计划出售一大批估值数百万美元的NFT，以弥补部分损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯央行正制定法案，将支持加密挖矿和跨境加密支付]]></title>
+        <id>https://panewslab.com/zh/articledetails/rlwd38pm.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rlwd38pm.html"/>
+        <updated>2023-04-19T23:50:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日日消息，据俄罗斯塔斯社报道，俄罗斯央行行长Elvira Naiullina周一表示，俄罗斯央行正在制定一项法案，将引入一种“实验性法律制度”，允许加密货币专门用于进出口交易。俄罗斯央行的计划包括建立专门的组织，负责加密货币挖矿和处理跨境贸易支付。Naiullina补充说，在俄罗斯境内发行的数字资产也可以用于此类跨境交易，但俄罗斯境内的加密交易和支付仍将被禁止。此外，当地媒体援引俄罗斯议会经济政策委员会成员Sergei Altukhov的话称，俄罗斯政府还在制定一项法案，将创建一个国家机构，以许可和监督在俄罗斯运营的加密货币平台。Altukhov补充说，作为监管的一部分，将为矿工引入新的税法。据塔斯社此前报道，俄罗斯央行和财政部早前一致认为，在目前的情况下，俄罗斯无法避免使用加密支付。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民主党和共和党关于稳定币监管产生分歧，或不利于迅速通过立法]]></title>
+        <id>https://panewslab.com/zh/articledetails/nwc511j6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nwc511j6.html"/>
+        <updated>2023-04-19T23:39:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据彭博社报道，在周三举行的众议院金融服务委员会关于稳定币的听证会上，民主党和共和党产生分歧，这可能不利于迅速达成立法协议。该委员会主席、共和党人Patrick McHenry表示，本月公布的一份稳定币法案草案为建立联邦框架奠定了基础，但他承认还有更多工作要做。McHenry表示，该草案是他与委员会民主党领袖Maxine Waters谈判的结果。然而，Waters周三表示，她和McHenry的谈判从未完成，最近的草案应该完全被忽略，并引用了FTX破产等失败事例，称这些失败发生在他们最初的谈判之后。她表示，“不幸的是，在这期间发生了很多事情。我认为谈判应该从零开始”。她还表示，共和党人已经表示，他们计划编写自己的单独法案。如果是这样的话，民主党人也会这样做，双方最终需要重新聚在一起解决分歧。此外，举行听证会的数字资产、金融技术和包容性小组委员会主席French Hill表示，成员们共同努力通过立法至关重要。去年，在TerraUSD崩溃后，稳定币监管成为了讨论的热门话题。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase获得百慕大牌照，下周或将推出离岸衍生品交易所]]></title>
+        <id>https://panewslab.com/zh/articledetails/ayj4y8oc.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ayj4y8oc.html"/>
+        <updated>2023-04-19T23:29:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据The Block报道，据Coinbase周三发布的一篇博客文章，该公司获得了百慕大金融管理局(Bermuda Monetary Authority)颁发的牌照。Coinbase表示，“百慕大是2018年首批通过全面数字资产监管的金融中心之一，其监管环境长期以来以高度严谨、透明、合规和合作而闻名”。据此前消息，Coinbase一直在探索推出一个离岸衍生品交易平台，以交易与加密货币相关的永久掉期。《财富》杂志的一篇报道称，该交易所最快将于下周推出。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉今年第一季度未买卖比特币，比特币持仓连续三个季度保持不变]]></title>
+        <id>https://panewslab.com/zh/articledetails/i0gdo6sv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i0gdo6sv.html"/>
+        <updated>2023-04-19T23:24:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，特斯拉周三下午公布的财报显示，该公司在2023年第一季度没有买卖任何比特币。截至第一季度末，特斯拉持有的数字资产价值为1.84亿美元，与2022年第四季度持平。尽管一季度末比特币价格从三个月前的16,500美元上涨至约28,500美元，但由于现行会计准则不允许计入此类收益，比特币的估值仍保持不变。特斯拉连续第三个季度没有改变其比特币持仓数量。FactSet的数据显示，特斯拉第一季度调整后每股收益(EPS)为85美分，营收为233.3亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX US前总裁将推出期货和加密货币交易平台]]></title>
+        <id>https://panewslab.com/zh/articledetails/tvw4zc8q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tvw4zc8q.html"/>
+        <updated>2023-04-19T23:12:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 4月20日消息，据彭博社报道，FTX US前总裁Brett Harrison旗下公司Architect Financial Technologies将推出一个新的交易平台，供机构投资者交易期货和加密资产。该平台还将与StoneX Group Inc.和Wedbush Financial services LLC合作，提供期货交易清算服务。此外，新平台计划利用包括Wintermute和Galaxy Digital在内的几家加密做市商，支持场外交易。据悉，该平台不会为客户管理或交易基金。它的主要作用是通过其软件将用户连接到加密货币和期货市场系统。据此前消息，Harrison于今年年1月成立了Architect，该公司在今年1月进行的首轮融资中筹集了500万美元，Anthony Scaramucci、Coinbase Ventures、Circle Ventures、SALT 基金、SV Angel、Third Kind Venture Capital 和 Motivate Venture Capital等参投。Harrison曾担任Citadel Securities的技术负责人，2019年被任命领导FTX在美国的业务。2022年9月份，Brett Harrison宣布辞任FTX US总裁一职。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
