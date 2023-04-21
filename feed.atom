@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-21T02:30:20.644Z</id>
+    <id>urn:2023-04-21T03:14:13.004Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-21T02:30:20.644Z</updated>
+    <updated>2023-04-21T03:14:13.004Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[从合约代码层面，探讨DeFi中的套利机会]]></title>
+        <id>https://www.web3sj.com/news/59309/</id>
+        <link href="https://www.web3sj.com/news/59309/"/>
+        <updated>2023-04-21T03:10:13.000Z</updated>
+        <summary type="html"><![CDATA[去中心化金融（英语：Decentralized finance，俗称 DeFi）是一种创建于区块链上的金融，它不依赖券商、交易所或银行等金融机构提供金融工具，而是利用区块链上的智能合约进行金融活动。在 DeFi 中存在了大量的套利机会，包括但不限于清算、差价套利。本文将分析部分去中心化交易所（DEX）以及聚合器（Aggregator）在合约代码上可能存在的套利机会。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特小鹿上市竞争力如何？与Marathon和Riot两大矿业巨头数据对比]]></title>
+        <id>https://www.web3sj.com/news/59303/</id>
+        <link href="https://www.web3sj.com/news/59303/"/>
+        <updated>2023-04-21T03:06:16.000Z</updated>
+        <summary type="html"><![CDATA[本文将分析和比较 Bitdeer、Marathon Digital Holdings 和 Riot Blockchain 三家公司的盈利能力、算力、功率和矿机数量，以呈现它们在市场上的竞争地位。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitTorrent (BTT) 增加近 45%]]></title>
+        <id>https://0xzx.com/2023042110333389934.html</id>
+        <link href="https://0xzx.com/2023042110333389934.html"/>
+        <updated>2023-04-21T02:33:21.000Z</updated>
+        <summary type="html"><![CDATA[曾经风靡一时的BT（BTT）再次来袭，BTT的涨势还能继续吗？ BTT，曾经是加密货币市场上最受欢迎的名字之一 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华硕 Zenbook S 13 OLED 仅重 1 公斤，厚度为 1 厘米]]></title>
+        <id>https://0xzx.com/2023042110323389930.html</id>
+        <link href="https://0xzx.com/2023042110323389930.html"/>
+        <updated>2023-04-21T02:32:23.000Z</updated>
+        <summary type="html"><![CDATA[华硕今天发布了 Zenbook S 13 OLED (UX5304)，这是世界上最薄、最轻的笔记本电脑，配备  […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap 和 Curve 在每日交易量上胜过 Coinbase 和 Bitstamp：报告]]></title>
+        <id>https://0xzx.com/2023042110323389929.html</id>
+        <link href="https://0xzx.com/2023042110323389929.html"/>
+        <updated>2023-04-21T02:32:20.000Z</updated>
+        <summary type="html"><![CDATA[加密货币领域领先的去中心化交易所 (DEX) Uniswap 和 Curve 的平均每日交易量已经超过顶级中心 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MICA Daily ｜ 获利了结压力出现，比特币下跌至2.8 万美元]]></title>
+        <id>https://0xzx.com/2023042110323389928.html</id>
+        <link href="https://0xzx.com/2023042110323389928.html"/>
+        <updated>2023-04-21T02:32:20.000Z</updated>
+        <summary type="html"><![CDATA[比特币昨天突然从30,000 美元左右的价位下跌至28,000 美元，不少投资者推测其中可能有什么原因，像是美 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyEListing 在 Coinbase Commerce 的帮助下创建了世界上第一个使用加密货币买卖美国房地产的地方]]></title>
+        <id>https://0xzx.com/2023042110313389926.html</id>
+        <link href="https://0xzx.com/2023042110313389926.html"/>
+        <updated>2023-04-21T02:31:17.000Z</updated>
+        <summary type="html"><![CDATA[德克萨斯州奥斯汀 – 免费商业房地产列表和数据平台 MyEListing.com 与 Millennial T […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3移动钱包独特钓鱼攻击手法：Modal Phishing]]></title>
         <id>https://www.theblockbeats.info/news/36699</id>
@@ -61,36 +131,6 @@ OP Labs表示，op-erigon开发团队Test in Prod个完全不属于OP Labs的团
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华硕展示 2023 年 Zenbook 和 Vivobook 笔记本电脑的“Thincredible”系列]]></title>
-        <id>https://0xzx.com/2023042109303389846.html</id>
-        <link href="https://0xzx.com/2023042109303389846.html"/>
-        <updated>2023-04-21T01:30:20.000Z</updated>
-        <summary type="html"><![CDATA[华硕刚刚通过在线发布会展示了其最新 Zenbook 和 Vivobook 系列笔记本电脑的“Thincredi […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神经网络图像生成：5 个免费在线服务]]></title>
-        <id>https://0xzx.com/2023042109293389845.html</id>
-        <link href="https://0xzx.com/2023042109293389845.html"/>
-        <updated>2023-04-21T01:29:44.000Z</updated>
-        <summary type="html"><![CDATA[20.04.2023 高级人工智能 主要的 神经网络是一种根据人脑原理工作的数学模型。 它通过大型数据集的初级 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[元素预览：深入了解皮克斯新电影的主题]]></title>
-        <id>https://0xzx.com/2023042109273389843.html</id>
-        <link href="https://0xzx.com/2023042109273389843.html"/>
-        <updated>2023-04-21T01:27:17.000Z</updated>
-        <summary type="html"><![CDATA[在 2023 年开局缓慢之后，迪士尼的影院计划将在接下来的几个月内迅速进入高潮。 迪士尼、卢卡斯影业、漫威，当 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用作Sui开发预览的Web3游戏Sui Capys已更名为Sui Frens]]></title>
         <id>https://panewslab.com/zh/articledetails/n7i2vw9r.html</id>
         <link href="https://panewslab.com/zh/articledetails/n7i2vw9r.html"/>
@@ -99,26 +139,6 @@ OP Labs表示，op-erigon开发团队Test in Prod个完全不属于OP Labs的团
 此前去年11月消息，Sui在测试网上推Sui Capys，官方强调Sui Capys是一个专门用于激励Sui开发者社区的演示，并不是空投。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primoris (PRIM) 价值 2 亿美元的可再生能源合约增加积压]]></title>
-        <id>https://0xzx.com/2023042109263389841.html</id>
-        <link href="https://0xzx.com/2023042109263389841.html"/>
-        <updated>2023-04-21T01:26:33.000Z</updated>
-        <summary type="html"><![CDATA[Primoris Services Corporation (PRIM Quick Quote – […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Starry ‘The Hollywood Reporter Roma’ 在罗马举行的发布会 – The Hollywood Reporter]]></title>
-        <id>https://0xzx.com/2023042109263389840.html</id>
-        <link href="https://0xzx.com/2023042109263389840.html"/>
-        <updated>2023-04-21T01:26:18.000Z</updated>
-        <summary type="html"><![CDATA[好莱坞报道者罗马是该娱乐媒体品牌的第一个欧洲版，于周四晚上在罗马一座宏伟的豪宅中发布。 在 Palazzo B […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -524,26 +544,6 @@ Tether首席技术官Paolo Ardoino对此表示，这是一笔在以太坊网络�
         <summary type="html"><![CDATA[「流动性」已成为加密市场最大叙事]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9个模块化区块链平台的特点和最新动态]]></title>
-        <id>https://www.web3sj.com/news/58976/</id>
-        <link href="https://www.web3sj.com/news/58976/"/>
-        <updated>2023-04-20T06:35:21.000Z</updated>
-        <summary type="html"><![CDATA[所谓模块化，就是把区块链的共识层、执行层、数据可用性层（DA）、结算层分工给不同的链，而不是一条链处理所有模块。Rollup 是将其区块发布到另一个区块链的区块链，并继承该区块链的共识和数据可用性。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读懂DeFi保险协议Neptune Mutual]]></title>
-        <id>https://www.web3sj.com/news/58961/</id>
-        <link href="https://www.web3sj.com/definews/58961/"/>
-        <updated>2023-04-20T06:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Neptune Mutual 协议最大的创新就是：基于传统参数保险设计的保险模型。参数保险（Parametric Insurance）也称为指数型保险， 参数保险的赔付不依赖于主观的人为定损，而是依靠客观事件的触发。参数型保险的最大优势体现在理赔环节，不需要进行复杂的现场人为定损，保险可以在合同参数被触发之后迅速进行理赔。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
