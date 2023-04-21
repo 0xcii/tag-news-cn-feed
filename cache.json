@@ -68,7 +68,7 @@
           "description": "全球金融体系正在经历一场重大转变。美元作为全球储备货币的角色将受到挑战，多种货币将在国际贸易中发挥作用。黄金和加密货币将在未来的金融市场中变得越来越重要。",
           "link": "https://www.defidaonews.com/article/6814766",
           "publishedOn": "2023-04-21T09:44:23.000Z",
-          "wordCount": 228,
+          "wordCount": 218,
           "title": "Arthur Hayes：去美元化与全球金融巴尔干，黄金和加密货币将成为未来金融关注焦点",
           "imageUrl": "https://appserversrc.8btc.cn/FpvAXfHJfrtLEZtcTgaG0WWWSjUK.png?imageView2/1/w/500/h/300"
         },
@@ -158,7 +158,7 @@
           "description": "如果没有ChatGPT，我们可能会使用更笨拙的方式模拟自然语言的表达形式",
           "link": "https://www.defidaonews.com/article/6814662",
           "publishedOn": "2023-04-21T01:49:36.000Z",
-          "wordCount": 233,
+          "wordCount": 237,
           "title": "ChainBreaker：聊聊AIGC 在 Web3的应用",
           "imageUrl": "https://appserversrc.8btc.cn/FnlBmkx8krfHrUnM0lPGVy2RAXUE.png?imageView2/1/w/500/h/300"
         }
@@ -423,7 +423,7 @@
         {
           "id": "https://www.theblockbeats.info/news/36718",
           "author": null,
-          "description": "在中国香港政府大力推动虚拟资产行业发展的政策背景下，在区块链垂直领域表现非常亮眼的水滴资本（Waterdrip Capital）也来到了 Hong Kong Web3 Festival 2023。\n\n\n\n\nBlockBeats 在去年对水滴资本（Waterdrip Capital）的一次采访中，大山就透露了水滴资本的最新进展，预告了已和一家巨头已经签了协议，将在今年到香港发行基金。\n\n\n\n\n而水滴资本（Waterdrip Capital）此行正是为了：宣布水滴资本（Waterdrip Capital）与中国太保投资管理（香港）有限公司携手推出的两支数字资产基金的发布。联手推出的两支数字资产基金分别为 Pacific Waterdrip Digital Asset Fund I（风险投资基金）以及 Pacific Waterdrip Digital Asset Fund II（POS 通证收益增强基金）。\n\n\n\n\nPacific Waterdrip Digital Asset Fund I 主要参与区块链早期项目的种子轮和私募轮次投资，布局赛道包括但不限于：区块链基础设施、去中心化金融应用、Web3 Saas 服务工具、元宇宙和 NFT 应用等等。Pacific Waterdrip Digital Asset Fund II 将会持有以 POS 为共识机制的数字资产为主，根据基金团队在业内的丰富经验和对宏观经济环境的判断，通过及时更换仓位、去中心化链上质押等方式增强收益，同时会在市场经历极端单边情况时采用相应衍生品等金融工具来控制风险，锁定利润。\n\n\n\n\nHong Kong Web3 Festival 2023 还邀请了很多圈内圈外的重磅嘉宾，比如传统香港金融圈内的：SFC 香港金管局、牌照方面的领导，以及经济学家和其他业界精英。水滴资本也邀请到了行业中最具有代表性的一些大佬…",
+          "description": "让人意外和高兴的是，在圆桌会议上行业某头部企业，当场就宣布了要投资水滴资本的新基金",
           "link": "https://www.theblockbeats.info/news/36718",
           "publishedOn": "2023-04-21T07:16:30.000Z",
           "wordCount": null,
@@ -443,7 +443,7 @@
         {
           "id": "https://www.theblockbeats.info/news/36714",
           "author": null,
-          "description": "总有人吐槽zksync一笔2-5美元的gas费贵得离谱，从「验证者证明」角度思考其背后原因。",
+          "description": "原文作者：Haotian | CryptoInsight（推特：@tmel0211）\n\n\n或许大家习惯了 @arbitrum 和 @optimismFND 每笔 0.7 美元左右的 gas 费，交互起来比较丝滑无感。最近，总有人吐槽 @zksync 一笔 2-5$的 gas 费贵得离谱，丝毫没有 L2 该有的 low cost 样子。\n\n\n\n本着硬核科普的态度，来个 Thread 分析下 zk-rollup 和 op-rollup 的区别？以及目前 zkSync Gas 费较高的原因。\n\n\n提及 ZK 赛道，很多人脱口而出零知识证明，很容易跟隐私保护特性挂钩。但主流讨论的 zk-rollup 实际上是为了解决扩展性能，利用 SNARKs 和 STARKs 证明技术，实现 validaor proof 即验证者证明。零知识隐私保护特性在 zk-rollup 中存在感较弱，姑且忽略隐私概念，从「验证者证明」角度思考其背后技术原理。\n\n\n简单来说，zk-rollup 所有的交易都在侧链发生，等同于在链下使用 zk 技术算法将这些交易打包成一批批，并生成 SNARKs 证明提交到主网，主网智能合约会通过 zk 算法验证该批次的所有交易是否符合规则，然后再打包上主链。这样就极大地扩展了主网的交易容量，交易速度，同时相交主链降低了 gas 消耗费；\n\n\nop-rollup 的逻辑就更好理解了，大量交易被提交到侧链进行计算和打包记账，然后将账本结果汇总成一个区块同步到主网智能合约中。\n\n\n\n为了防止验证者作恶，采用了欺诈证明（fraud proof）技术，即如果在 7 天内有验证者提交可疑交易并被证实，那么整个区块将会被回滚，从而保证了交易的安全性和完整性。\n\n\nzk-rollup 和 op-rollup 本质上就区别在 validator proof 和 fraud proof 两种验证方式上。\n\n\nvalidator proof 方式来验证交易，虽然消耗了更多的算力和资源，但可以在区块周期内保证结果准确性，从而提高交易处理速度。op-rollup 则采用欺诈证明（fraud proof）方式，虽然节省了资源，但需要等待一段时间。\n\n\n硬钻验证者证明和欺诈证明技术过于抽象，用个例子来直观感受下：\n\n\nA 小区排查新冠，要求凭绿码进入，因此要保安轮班逐排查，虽然成本大但安全；\n\n\nB 小区则不对人做任何限行，但倘若被人举报小区有红码，立马对所有人封控，直到风险解除才解封。\n\n\n值得一提的是，op-rollup 用时间换取了更便宜的资源和消耗，但其侧链服务器存在一定的中心化隐患，例如 sequence 排序器等。而 zk-rollup 通过短时资源和算力的消耗换取了更短的安全确认时间，加之账户抽象和分布式验证等技术规避了中心化风险。\n\n\n所以，zk-rollup gas 费贵情有可原，二者根本没有可比性。\n\n\n当前 zkSync 的交易费取决于 3 方面：\n\n\n1）验证者生成 SNARK 证明和进行验证所消耗的资源成本，比如存储和计算；这部分固定成本较高；\n\n\n2）验证者将 SNARK 证明提交到以太坊主网时的 gas 费。这部分费用会因主网拥堵而相应增加。\n\n\n3）用户支付给验证者的服务费用，包括交易确认、消息广播等；得 cover 以上费用。\n\n\n总的来说，L2 用户 gas 费=zk 系统计算和存储资源费+每 batch 提交主网 gas 费+验证者节点激励费+其他？。主网 gas 费和节点激励费不用多说啥。\n\n\n由于计算机资源成本相对固定且人越多越会摊薄，意味着随着 zkSync 的进一步 mass adoption，gas 费会下降，没错，现在 gas 高不是因为太卷了，而是还不够卷。\n\n\n根据DuneAnalytics 数据，目前 zkSync 的单日交易量平均 10-40 万次左右，尽管广大撸 er 还在卖力交互，但相较 zk-rollup 星辰大海的终极目标，zksync 生态现在还是个 alpha baby 啊。不如停止抱怨高 gas，一起继续 build 吧。\n\n\n原文链接",
           "link": "https://www.theblockbeats.info/news/36714",
           "publishedOn": "2023-04-21T06:41:49.000Z",
           "wordCount": null,
@@ -463,7 +463,7 @@
         {
           "id": "https://www.theblockbeats.info/news/36702",
           "author": null,
-          "description": "原文标题：《Iron Fish 主网来临：过半地址被反女巫，其空投规则是否合理？》\n原文来源：ChainCatcher\n\n\nIron Fish，一个以二战加密传输语「潜艇」命名的隐私项目，在完成由 a16z 领投的 2770 万美元 A 轮融资之后估值达到 1.9 亿美元。该项目将于北京时间 24：00 上线主网，并且将于明日向早期用户正式空投代币。\n\n\nIron Fish 原定于上个月上线主网，官方解释推迟的原因是发现了一个需要修复的 bug，同时也可以让早期用户拥有更多时间完成 KYC 流程。目前，成功 KYC 的白名单用户已经可以查看奖励。为了庆祝主网上线，4 月 20 日 23:30，Iron Fish 还将在 Discord 推出纪念活动。\n由于设置了严格的 KYC 程序，Iron Fish 空投也再次掀起项目方该如何激励早期用户与限制女巫的论战。Iron Fish 昨晚宣布审核结果：总共 171,891 名用户在测试网期间获得积分，82,871 名用户符合条件，89,019 个帐户（52%）被禁用。\n\n\n此外，空投价值能否覆盖早期测试成本，也是 Iron Fish 用户讨论的重点。根据融资数据，可计算出 a16z、红杉资本等参投机构的成本为 4.5 美元左右，而目前场外交易价格大约在 20 美元左右。 本文将重新梳理 Iron Fish 的发展历程、代币经济学，以及讨论其空投方案。\n \n发展历程\n \nIron Fish 创始人 Elena Nadolinski 是一位来自俄罗斯的杰出女性，她的成长环境让她产生了对抗政府监视的愿景，最终 Nadolinski 在区块链技术中找到解决方案。Elena Nadolinski 于 2018 年使用由 Zcash 开发的 Sapling 协议开发了 Iron Fish 的原始版本。该公链使用了 PoW 共识机制和零知识证明…",
+          "description": "本文将重新梳理Iron Fish发展历程、代币经济学，以及讨论其空投方案。",
           "link": "https://www.theblockbeats.info/news/36702",
           "publishedOn": "2023-04-21T04:27:50.000Z",
           "wordCount": null,
