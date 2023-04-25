@@ -1,58 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-25T14:12:14.351Z</id>
+    <id>urn:2023-04-25T15:13:53.207Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-25T14:12:14.351Z</updated>
+    <updated>2023-04-25T15:13:53.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Sparklo 通过 Interfi 审计，其增长潜力超过比特币现金]]></title>
-        <id>https://0xzx.com/2023042521363401643.html</id>
-        <link href="https://0xzx.com/2023042521363401643.html"/>
-        <updated>2023-04-25T13:36:16.000Z</updated>
-        <summary type="html"><![CDATA[Sparklo (SPRK) 最近通过了 Interfi 审计，这是一个重要的里程碑，凸显了这种加密货币成为市 […]]]></summary>
+        <title type="html"><![CDATA[上海升级提款效应：数据揭示 LSD 项目们的表现]]></title>
+        <id>https://www.web3sj.com/news/60454/</id>
+        <link href="https://www.web3sj.com/news/60454/"/>
+        <updated>2023-04-25T15:13:13.000Z</updated>
+        <summary type="html"><![CDATA[本文将概述 ETH Shanghai 升级后的 ETH 质押数据以及 LSD 市场。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅析如何抓住「地域概念币」的新机会]]></title>
+        <id>https://www.web3sj.com/news/60450/</id>
+        <link href="https://www.web3sj.com/news/60450/"/>
+        <updated>2023-04-25T15:10:29.000Z</updated>
+        <summary type="html"><![CDATA[简单说，它是一种与特定国家有关联的加密代币。这种关联可以是松散的（比如创始人出生在那里），也可以是紧密的（比如直接获得政府支持）。只要市场认为代币具有地域性。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase起诉SEC全文：请在合理时间内回应加密规则请愿书]]></title>
+        <id>https://www.web3sj.com/?p=60447</id>
+        <link href="https://www.web3sj.com/news/60447/"/>
+        <updated>2023-04-25T15:09:33.000Z</updated>
+        <summary type="html"><![CDATA[根据《行政程序法》（APA）规定，SEC 应在「合理的时间内」回应 Coinbase 的规则制定请愿书。如果 SEC 拒绝请愿书（SEC 有权这样做），那么 Coinbase 将在法庭上对这一决定提出质疑，并会在正式场合解释为什么加密行业需要制定规则。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3假钱包第三方源调查分析：如何甄别网络钓鱼攻击？]]></title>
+        <id>https://www.web3sj.com/news/60416/</id>
+        <link href="https://www.web3sj.com/news/60416/"/>
+        <updated>2023-04-25T14:58:54.000Z</updated>
+        <summary type="html"><![CDATA[当你通过钱包在 Web3 世界中探索体验诸多的区块链相关应用和网站的过程中，你会发现在一条公链上每个应用都是使用钱包「登录」；这与我们传统意义上的「登录」不同，在 Web2 世界中，每个应用之间的账户不全是互通的。但在 Web3 的世界中，所有应用都是统一使用钱包去进行「登录」，我们可以看到「登录」钱包时显示的不是「Login with Wallet」，取而代之的是「Connect Wallet」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZK硬件加速：过去，现在和未来]]></title>
+        <id>https://www.web3sj.com/news/60411/</id>
+        <link href="https://www.web3sj.com/news/60411/"/>
+        <updated>2023-04-25T14:55:18.000Z</updated>
+        <summary type="html"><![CDATA[ZKP 的一个关键方面是它们能够显著提高各种区块链平台上的每秒交易量 (TPS)，这完全依赖于数学原理而不是信任。通过使验证者能够将多个交易合并到一个单一的、简洁的证明中，ZKP 确保了整个过程的准确性和完整性。ZKP 提供了许多其他功能，使它们成为各种扩展和隐私解决方案的重要组成部分，包括像 StarkNet 这样的 ZK 聚合，像 Aztec 这样的私有 ZK 聚合，以及像 Mina、Filecoin、Manta 和 Aleo 这样的第 1 层链。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MetaOasis：连接Web2与Web3的游戏发行平台]]></title>
+        <id>https://www.web3sj.com/news/60397/</id>
+        <link href="https://www.web3sj.com/gamefinews/60397/"/>
+        <updated>2023-04-25T14:50:19.000Z</updated>
+        <summary type="html"><![CDATA[MetaOasis 是一款以科幻为主题的未来多人在线游戏，但它不仅是一款游戏，还是一个多游戏平台，一个元宇宙世界。玩家不仅将体验 MetaOasis 提供的主要游戏内容，基于 MetaOasis 平台，而且还将体验各个子游戏世界或泛娱乐世界。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星 Galaxy S23+ 评测：兼顾两全其美的完美多面手]]></title>
+        <id>https://0xzx.com/2023042522403401791.html</id>
+        <link href="https://0xzx.com/2023042522403401791.html"/>
+        <updated>2023-04-25T14:40:37.000Z</updated>
+        <summary type="html"><![CDATA[优点 – 明亮生动的显示 – 出色的表现 – 出色的相机性能 – 电池寿命长 – 低调但优质的设计 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何使用银行账户购买比特币？]]></title>
-        <id>https://0xzx.com/2023042521353401641.html</id>
-        <link href="https://0xzx.com/2023042521353401641.html"/>
-        <updated>2023-04-25T13:35:26.000Z</updated>
-        <summary type="html"><![CDATA[你可以通过转移美元、欧元、加元和许多其他货币，使用你的银行账户在 Coinbase 上购买比特币。 我们将向你 […]]]></summary>
+        <title type="html"><![CDATA[立即购买的 12 只最佳农业股票]]></title>
+        <id>https://0xzx.com/2023042522383401789.html</id>
+        <link href="https://0xzx.com/2023042522383401789.html"/>
+        <updated>2023-04-25T14:38:45.000Z</updated>
+        <summary type="html"><![CDATA[由于蔬菜是均衡饮食的一部分，因此农业股票可以成为均衡投资组合的一部分。 无论你是喜欢吃蔬菜还是喜欢蔬菜，可以肯 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比较了 16 种最好的 AI 和 ChatGPT 内容检测器]]></title>
-        <id>https://0xzx.com/2023042521353401632.html</id>
-        <link href="https://0xzx.com/2023042521353401632.html"/>
-        <updated>2023-04-25T13:35:17.000Z</updated>
-        <summary type="html"><![CDATA[随着每天都有新的 ChatGPT 替代品出现，AI 内容检测器也越来越受欢迎。 在本文中，我将分享其中的 16 […]]]></summary>
+        <title type="html"><![CDATA[Cinema Femme 短片电影节将在音乐盒剧院进行首次现场放映]]></title>
+        <id>https://0xzx.com/2023042522363401787.html</id>
+        <link href="https://0xzx.com/2023042522363401787.html"/>
+        <updated>2023-04-25T14:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Cinema Femme 短片电影节自从在 Covid-19 隔离的疏远日子成立以来首次在 4 月 30 日星 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wombat Coleus 机械键盘评测：键盘不错，电源按钮令人羞愧]]></title>
-        <id>https://0xzx.com/2023042521323401631.html</id>
-        <link href="https://0xzx.com/2023042521323401631.html"/>
-        <updated>2023-04-25T13:32:25.000Z</updated>
-        <summary type="html"><![CDATA[目前，紧凑、低调的机械键盘市场似乎像咔哒咔哒的杂草一样在增长，有来自不同制造商的大量选择。 它们变得如此受欢迎 […]]]></summary>
+        <title type="html"><![CDATA[Epic Games 在与苹果的战斗中失去吸引力，但开发者可以使用第三方支付选项]]></title>
+        <id>https://0xzx.com/2023042522363401784.html</id>
+        <link href="https://0xzx.com/2023042522363401784.html"/>
+        <updated>2023-04-25T14:36:19.000Z</updated>
+        <summary type="html"><![CDATA[Epic Games 在与苹果的战斗中失去吸引力，但开发者可以使用第三方支付选项 第九巡回上诉法院通过了一项裁 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[集成是企业的重中之重]]></title>
-        <id>https://0xzx.com/2023042521313401617.html</id>
-        <link href="https://0xzx.com/2023042521313401617.html"/>
-        <updated>2023-04-25T13:31:15.000Z</updated>
-        <summary type="html"><![CDATA[一份新报告发现，今年 71% 的企业正在积极计划实施集成技术。 企业集成平台即服务 (iPaaS) 公司 Di […]]]></summary>
+        <title type="html"><![CDATA[INJ 价格预测：单射试图打破抛物线下跌？]]></title>
+        <id>https://0xzx.com/2023042522363401783.html</id>
+        <link href="https://0xzx.com/2023042522363401783.html"/>
+        <updated>2023-04-25T14:36:19.000Z</updated>
+        <summary type="html"><![CDATA[1 INJ 标志着自最近的峰值以来修正了 30% 以上。 2 最近的反弹发生在达到目标价格水平之前。 注入价格 […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 1区块链Venom宣布其公共测试网正式上线]]></title>
+        <id>https://www.theblockbeats.info/news/36805</id>
+        <link href="https://www.theblockbeats.info/news/36805"/>
+        <updated>2023-04-25T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[创新且高度可扩展的区块链基础设施现已向开发人员和用户开放测试。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -64,6 +134,26 @@
 据悉，DFlow允许做市商直接从钱包应用程序购买订单流，并保证做市商将以最佳价格提供执行。DFlow将最佳价格定义为针对中心化和去中心化交易平台汇总的最低公共价格。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[听KOL剖析HOPE生态收益策略]]></title>
+        <id>https://www.theblockbeats.info/news/36806</id>
+        <link href="https://www.theblockbeats.info/news/36806"/>
+        <updated>2023-04-25T13:24:46.000Z</updated>
+        <summary type="html"><![CDATA[HOPE是基于加密原生分布式稳定币HOPE打造的一站式DeFi生态系统，旨在为每个人提供无障碍、公开透明的下一代金融基础设施和服务]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萌发于CeFi危机的HOPE ：从DeFi走向CeFi、TradFi的「分布式稳定币」愿景]]></title>
+        <id>https://www.theblockbeats.info/news/36796</id>
+        <link href="https://www.theblockbeats.info/news/36796"/>
+        <updated>2023-04-25T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[HOPE是在「不足额抵押」与「足额抵押」之间动态变化的稳定币，通过双代币设计机制兼具期权和治理属性。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -179,7 +269,39 @@
         <id>https://www.theblockbeats.info/news/36804</id>
         <link href="https://www.theblockbeats.info/news/36804"/>
         <updated>2023-04-25T10:44:56.000Z</updated>
-        <summary type="html"><![CDATA[American Software Capital将通过其在金融服务、技术支持等方面的优势，为该公司提供全方位的支持，助力AI WORLD在人工智能和区块链领域取得更多成果。]]></summary>
+        <summary type="html"><![CDATA[原文来源：American Software Capital
+
+
+
+American Software Capital 于 4 月 12 日宣布完成了对 AI WORLD 项目的首轮种子轮投资，共计 300 万美元。该投资将为 AI WORLD 项目提供资金支持，并为该公司在人工智能和区块链领域的发展打下坚实基础。
+ 
+
+
+
+
+
+AI WORLD 是一家全球性的科技项目，专注于 AI 技术创新和区块链应用，致力于通过创新性技术应用解决人类面临的各种挑战。该公司在深度学习、自然语言处理、机器视觉等领域拥有强大的技术研发实力，并在多个行业取得了显著成果。例如，AI WORLD 的语音识别技术在智能家居和物联网领域得到广泛应用，其人脸识别技术在金融和安全领域也有着广泛的应用。
+
+
+
+
+
+American Software Capital 是一家在纽约市运营的投资银行，主要业务包括为科技项目投资和为资本市场筹集资金。该集团在全球范围内设有多个办事处，由来自政界、商界、法律界、证券界和会计界等多个领域的成员组成，为众多企业提供上市、资产重组等金融服务。
+
+
+作为 AI WORLD 项目的投资方，American Software Capital 将通过其在金融服务、技术支持等方面的优势，为该公司提供全方位的支持，助力其在人工智能和区块链领域取得更多成果。这次投资的完成不仅为 AI WORLD 项目提供了资金支持，也是 American Software Capital 加强对人工智能和区块链领域投资布局的重要一步。
+
+
+值得一提的是，这次投资只是 American Software Capital 对 AI WORLD 的首轮投资，未来该集团还将继续投资该项目。
+
+
+对于 AI WORLD 项目来说，这是一个重要的里程碑，也将加速项目的发展和壮大。
+
+
+随着人工智能技术的不断发展和应用，该领域的投资前景将越来越广阔，相信 American Software Capital 在这一领域的投资布局将会取得更加出色的成绩。
+
+
+本文来自投稿，不代表BlockBeats观点]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -441,46 +563,6 @@ ETH 涨，所以 NFT 跌
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[零知识证明结合AI如何解决大规模数据模型隐私等问题？]]></title>
-        <id>https://www.web3sj.com/news/60330/</id>
-        <link href="https://www.web3sj.com/news/60330/"/>
-        <updated>2023-04-25T06:04:11.000Z</updated>
-        <summary type="html"><![CDATA[随着机器学习的普及，它正在广泛应用于各种应用程序中。然而，其预测的可信度以及对不透明数据源的依赖性成为了一个主要问题。复制声称具有高准确度的模型的能力很难，而在实际产品中预测的一致性和正确性也没有保证。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero生态新宠儿：速览跨链DEX聚合器Cashmere]]></title>
-        <id>https://www.web3sj.com/?p=60326</id>
-        <link href="https://www.web3sj.com/definews/60326/"/>
-        <updated>2023-04-25T06:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Cashmere（中文译为「羊绒」）并未公布团队背景，CEO 官推账号为 @0xReliq，不过暂未找到进一步信息。该项目团队 Cashmere Labs 此前于去年 12 月在 BNB Chain 欧洲创新孵化器计划中获得二等奖，今年 4 月份入选 Binance Labs 第 6 季 MVB 加速器计划。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克要告微软 ，拒绝AI训练「白嫖」数据]]></title>
-        <id>https://www.web3sj.com/news/60320/</id>
-        <link href="https://www.web3sj.com/news/60320/"/>
-        <updated>2023-04-25T05:54:11.000Z</updated>
-        <summary type="html"><![CDATA[在此之前，AI 大模型开发商都在低成本地使用互联网公开的内容数据训练自家的大模型，如今，各种科技巨头们加持的大模型纷纷开始商业化，互联网内容平台们突然反应过来，不能让这些巨头们薅羊毛「白嫖」数据了。‍‍‍‍‍‍‍‍]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机构质押者大量涌入，以太坊上海升级10天后发生了什么？]]></title>
-        <id>https://www.web3sj.com/news/60288/</id>
-        <link href="https://www.web3sj.com/news/60288/"/>
-        <updated>2023-04-25T05:50:42.000Z</updated>
-        <summary type="html"><![CDATA[130 万枚 ETH 已被提取，价值约合 25 亿美元，在这些被提取的 ETH 中，65.8% 是质押奖励或部分提款，34.1% 是本金或全额提款。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[解析 MEV-Share 的增长飞轮：下一个 LSD 级别的赛道？]]></title>
         <id>https://www.defidaonews.com/article/6815268</id>
         <link href="https://www.defidaonews.com/article/6815268"/>
@@ -491,31 +573,35 @@ ETH 涨，所以 NFT 跌
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3的艺术家发展如何？]]></title>
-        <id>https://www.web3sj.com/news/60263/</id>
-        <link href="https://www.web3sj.com/news/60263/"/>
-        <updated>2023-04-25T05:38:46.000Z</updated>
-        <summary type="html"><![CDATA[如果能主动下注、管理好收藏者社区、与其他艺术家合作、说好自己的故事、建立信誉、搭建团队、做好项目，那么你在 Web3 的艺术家生涯可能会如鱼得水。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shanghai升级后Staking ETH提现数据变化]]></title>
-        <id>https://www.web3sj.com/news/60229/</id>
-        <link href="https://www.web3sj.com/news/60229/"/>
-        <updated>2023-04-25T04:13:54.000Z</updated>
-        <summary type="html"><![CDATA[以太坊完成上海升级已经超过一周时间，统计数据表明，自升级的第一波提款潮之后，ETH 的存款数于 4 月 18 日超过了提款数，但很快又迎来了新的一波提款潮。截止 2023 年 4 月 20 日，共有 758,842 枚 ETH 等待提款，占目前仍处于锁定状态的 ETH 的 4.08%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[以太坊提款功能开启后的带宽使用情况]]></title>
         <id>https://www.theblockbeats.info/news/36802</id>
         <link href="https://www.theblockbeats.info/news/36802"/>
         <updated>2023-04-25T04:00:02.000Z</updated>
-        <summary type="html"><![CDATA[数据显示，上海升级导致geth网络流量大幅增长。]]></summary>
+        <summary type="html"><![CDATA[原文标题：《Bandwidth Usage after Ethereum Withdrawals》
+原文作者：Alex Miller 
+原文编译：Kxp，BlockBeats
+
+
+4 月 12 日，Ethereum 进行了 Shapella 升级。实际上，这是两个不同升级的组合：共识层的 Capella 升级和执行层的 Shanghai 升级。这个联合升级包含了各种功能，但最受期待的还是验证者提现，打破了质押闭环。一旦升级上线，所有具有 0x01 类型凭据的验证者都可以通过以下两种方式之一提取质押：
+
+
+1. 用户可以指示他们的共识客户端完全退出验证器。这将使验证者进入一个队列，之后该验证者的全部余额将被分散到执行层的提款地址中。
+2. 不退出的验证者每 4 天左右自动 "清空 "其超过 32ETH2 的余额。重点是自动执行——用户不需要指示其共识客户端执行此操作，即使他们想保留验证者余额，也无法执行。
+
+
+第一种选项用于解锁质押，并为用户的质押风险设定上限——具体来说，退出的验证者仍然要进行证明/提议，直到它通过队列，队列的长度决定了对无法继续运作的验证者的预期惩罚（例如，队列中的 4 天=4 天的离线惩罚）。
+
+
+然而，从网络的角度来看，第二个选项更为有趣，因为这些消息将由提款队列（不同于退出队列）中的每个验证者不断广播。
+
+
+Shapella 新增了两种不断广播的消息类型：共识提款和可执行 EIP4895。这意味着网络上的所有节点都有两个新的 Gossip 话题，并且我们应该预期带宽消耗的增加。但问题是，带宽究竟增加了多少？
+
+
+Capella 之前和之后的数据快照
+
+
+我自己正在运行一个质押盒子并进行系统监控，因此我去看了一下 Shapella 之后带宽消耗是否有实质性变化。我在升级前后各有大约一周的数据，结果相当明显。每种类型的数据从 4 月 3 日到 12 日进…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -877,206 +963,6 @@ Starkware:
 
 
 StarkWare 是 zk rollups 赛道内最好的公司之一，由以色列理工…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海升级后Staking ETH提现数据变化]]></title>
-        <id>https://www.theblockbeats.info/news/36797</id>
-        <link href="https://www.theblockbeats.info/news/36797"/>
-        <updated>2023-04-24T10:43:25.000Z</updated>
-        <summary type="html"><![CDATA[原文来源：Ebunker 中文博客
-
-
-ETH 正在经历第二波提款潮
-
-
-以太坊完成上海升级已经超过一周时间，统计数据表明，自升级的第一波提款潮之后，ETH 的存款数于 4 月 18 日超过了提款数，但很快又迎来了新的一波提款潮。截止 2023 年 4 月 20 日，共有 758,842 枚 ETH 等待提款，占目前仍处于锁定状态的 ETH 的 4.08%。
-
-
-
-
-
-自上海升级以来，市场参与者一直在密切监视 ETH 的提款数据，因为过去有很多关于市场上是否会有巨大抛压的辩论。但是，截止到 4 月 20 日，ETH 抛压并未在升级后一次性释放，而是显示出阶段性特征。
-
-
-
-
-
-在上周时间里，提款数量继续攀升，目前，仍有 75.8 万枚 ETH 正在排队提款。据 Nansen.AI 统计数据显示，自 4 月 18 日以来，ETH 存款数开始反超提款数，近期大部分 ETH 通过 Lido、Rocketpool 和 Frax 等流动性质押协议存入。而 19 日开始，可能由于 Binance 开启了提款服务，以及大盘行情的回落，又一波提款潮来袭。
-
-
-提款等待时间
-
-
-上海升级使以太坊的质押者能够撤回验证器中的全部余额。当一个完整的验证器撤出其 32 个 ETH 时，其验证器将停用，而部分提款则使质押者可以简单地撤回除 32 枚 ETH 之外获得的奖励。当一个验证器中所有 32 枚 ETH 被撤回时将会导致验证者的退出。因此，以太坊团队为此设定了严格的时间限制，保证多个验证器不会在短期内完全退出，避免对以太坊的网络安全构成威胁。
-
-
-
-
-
-
-
-
-
-为了提取质押的 ETH，需要验证器将其提款凭证前缀从 0x00 更改为 0x01。在上海升级推出时，只有约 40％的验证者将其凭证设置为 0x01。目前，此数字已增加到 85.8％，预计后续将逐渐接近 100％。
-
-
-
-
-
-全部提款过程如…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensus2023共识大会4月26日开幕，会议内容跟踪报道]]></title>
-        <id>https://www.theblockbeats.info/news/36763</id>
-        <link href="https://www.theblockbeats.info/news/36763"/>
-        <updated>2023-04-24T08:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Consensus2023 将于 4 月 26 日在美国得克萨斯州奥斯汀举行，今年亮点在哪里？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEAMZ Web3 Summit峰会将于5月18日在东京启动，Astar、Animoca Brands等共计110个项目方参展]]></title>
-        <id>https://www.theblockbeats.info/news/36776</id>
-        <link href="https://www.theblockbeats.info/news/36776"/>
-        <updated>2023-04-24T08:33:32.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《 TEAMZ Web3 Summit、Astar、Animoca Brands 等共计 110 家企业决定参展》
-原文来源：
-
-TEAMZ
-
-
-
-
-
-截止目前为止 TEAMZ Web3 Summit 东京峰会已经有来自世界各地的 110 家 Web 企业参与决定。与此同时在 5 月 15 日开始的东京 Web3 周期间阿里云和 CGV FOF 将各自举办黑客马拉松。
-
-
-TEAMZ Web3 Summit 是亚洲最大的区块链盛会之一，云集区块链行业领袖、专家、投资人、开发者等。今年，TEAMZ Web3 Summit 将于 5 月 17 日至 18 日在东京 Toranomon Hills Forum 举行。
-
-
-https://web3.teamz.co.jp/
-
-
-
-
-本届峰会以「Web3 产业从这里出发」为理念，围绕区块链技术和 Web3 业务，以 Web3 产业最新话题为导向为 Web3 行业的蓬勃发展提供最前沿的信息和最高质量的行业资源。
-
-
-
-
-截止目前大会参展赞助商 48 家，社区合作 37 家，媒体合作合作 25 家。
-
-
-
-
-钻石赞助商（2 家）
-
-
-
-
-
-
-
-
-
-白金赞助商（3 家）
-
-
-
-
-
-
-黄金赞助商（9 家）
-
-
-
-
-
-
-白银赞助商（5 家）
-
-
-
-
-
-
-路演赞助商（5 家）
-
-
-
-
-
-
-展位赞助商（24 家）
-
-
-
-
-
-
-大会社区（37 家）
-
-
-
-
-
-
-
-
-大会媒体（25 家）
-
-
-
-
-
-
-VC 及投资机构（20 家）
-
-
-
-
-
-
-大会演讲嘉宾
-
-
-平将明（前内阁府国务相 web3PT 数码社会推进本部部长/自民党）
-
-
-
-
-
-
-
-
-
-
-渡辺 創太（Astar Network 创始人）
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Yuzo Kano (bitFlyer Blockchain Inc.) 
-Tone Vays (分析师、衍生品交…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
