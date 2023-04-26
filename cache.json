@@ -63,16 +63,6 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
-          "id": "https://www.defidaonews.com/article/6815458",
-          "author": "区块链资讯",
-          "description": "产业web3才刚刚开始，未来将有巨大的发展空间和机会。",
-          "link": "https://www.defidaonews.com/article/6815458",
-          "publishedOn": "2023-04-26T04:08:12.000Z",
-          "wordCount": 130,
-          "title": "蒋国飞公布蚂蚁科技多项最新技术成果，并联合多家机构发起成立 Web3 开放联盟链",
-          "imageUrl": "https://appserversrc.8btc.cn/luQmVGzPN8WmsT5CCEHw052rnB0J.png?imageView2/1/w/500/h/300"
-        },
-        {
           "id": "https://www.defidaonews.com/article/6815424",
           "author": "吴说",
           "description": "本文为 NFT 交易平台生存现状研究的第一篇，聚焦于后版税时代下的 Blur 和 OpenSea。",
@@ -158,9 +148,19 @@
           "description": "本 Thread 将为你带来 MEV 和 MEV- Share 的深入分析，以及对于 MEV 赛道的展望",
           "link": "https://www.defidaonews.com/article/6815268",
           "publishedOn": "2023-04-25T05:45:11.000Z",
-          "wordCount": 552,
+          "wordCount": 554,
           "title": "解析 MEV-Share 的增长飞轮：下一个 LSD 级别的赛道？",
           "imageUrl": "https://appserversrc.8btc.cn/Fn0NybzZQ3k-nRHBY2fEq4QvVonv.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6815230",
+          "author": "DAOrayaki",
+          "description": "本文旨在简要介绍为什么对基于zk-SNARK的机器学习（ZK-ML）系统产生了浓厚的兴趣，并讨论了该技术的一些潜在应用。",
+          "link": "https://www.defidaonews.com/article/6815230",
+          "publishedOn": "2023-04-25T03:19:14.000Z",
+          "wordCount": 102,
+          "title": "ZK-ML解决大规模数据模型隐私、可验证及安全的用例",
+          "imageUrl": "https://appserversrc.8btc.cn/FvzTniWIDxjkm4Yz3qL_j1mgLc8u.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -362,7 +362,7 @@
           "description": "PANews 4月26日消息，Web3知识图谱协议0xScope创始人Bobie发推文称，zkSync生态DEX Merlin流动性耗尽，黑客盗取182万美元资金并桥接至以太坊。\n据悉，Merlin曾于4月24日宣布通过CertiK对其的审计，并于昨日23:00启动公开发售。",
           "link": "https://panewslab.com/zh/articledetails/ffnljpwt.html",
           "publishedOn": "2023-04-26T02:44:32.000Z",
-          "wordCount": 402,
+          "wordCount": 399,
           "title": "zkSync生态DEX Merlin流动性耗尽，黑客已盗取182万美元资金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -392,7 +392,7 @@
           "description": "PANews 4月26日消息，NFT项目Moonbirds发推文称，“PROOF+Moonbirds社区委员会”已成立，其持有者已提名10名社区成员来代表PROOF和Moonbirds社区提出需求和愿景。\n该委员会将每两周与PROOF领导层会面，推动Moonbirds更多合作并成为PROOF团队的新反馈渠道。",
           "link": "https://panewslab.com/zh/articledetails/prx4o3q6.html",
           "publishedOn": "2023-04-26T02:33:53.000Z",
-          "wordCount": 373,
+          "wordCount": 376,
           "title": "PROOF+Moonbirds社区委员会成立，旨在促进团队和社区沟通",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -412,7 +412,7 @@
           "description": "PANews 4月26日消息，据官方消息，Yuga Labs将推出对应彪马（PUMA）实体运动鞋的NFT系列Grailed PUMA Slipstream。为了获得该系列NFT铸造通行证（Mint Pass）白名单销售资格，用户必须持有PUMA Nitro、Gucci Grail或完成的Level 1或Level 2的10KTF。\n用户可在北京时间4月26日02:00在Premint.xyz上注册白名单。从5月2日开始，Mint Pass可以兑换为Grailed PUMA Slipstream NFT，实物兑换从5月2日开始，到5月9日结束。",
           "link": "https://panewslab.com/zh/articledetails/uf48oq2v.html",
           "publishedOn": "2023-04-26T02:05:21.000Z",
-          "wordCount": 434,
+          "wordCount": 437,
           "title": "Yuga Labs将推出对应彪马实体运动鞋的NFT系列，已开放白名单注册",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -483,6 +483,16 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202304/20532.html",
+          "author": null,
+          "description": "1.外媒：Tiger Global将OpenSea估值下调至30亿美元。\n\n2.知情人士：Binance.US目前在上海约有100名员工。\n\n3.VGX 24小时下跌逾22.1%，Voyager已收到Binance.US终止资产购买协议。\n\n4.StarkNet生态多个协议发布相同「04.28.23」短视频。\n\n5.基于MetaMask的扩展工具CoinChoice上线，支持使用非Gas Token支付Gas费用。\n\n6.老虎证券有意在香港申请虚拟资产交易平台牌照。\n\n7.TinyTap完成850万美元融资，红杉中国等参投。\n\n8.BAYC将“猴子吉米试炼”新篇章“EVO 2之旅”推迟至6月。",
+          "link": "https://www.hellobtc.com/news/202304/20532.html",
+          "publishedOn": "2023-04-26T02:48:00.000Z",
+          "wordCount": 319,
+          "title": "白话区块链早报：Tiger Global将OpenSea估值下调至30亿美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202304/20531.html",
           "author": null,
@@ -571,16 +581,6 @@
           "publishedOn": "2023-04-25T00:33:00.000Z",
           "wordCount": 304,
           "title": "Visa正在招聘加密部门工程师，以规划加密产品路线图",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202304/20522.html",
-          "author": null,
-          "description": "4月24日消息，据金十报道，渣打银行数字资产主管Geoff Kendrick在最新报告中表示，比特币可能会从最近的市场发展中获益。这包括银行业动荡，以及随着美联储紧缩周期接近尾声，风险资产企稳。“尽管不确定性根源依然存在，但我们认为，通往10万美元关口的道路正变得越来越清晰。”他补充说，比特币可能会在明年年底前达到这个水平。",
-          "link": "https://www.hellobtc.com/news/202304/20522.html",
-          "publishedOn": "2023-04-25T00:33:00.000Z",
-          "wordCount": 301,
-          "title": "渣打预测：比特币寒冬已过，明年将升至10万美元",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
