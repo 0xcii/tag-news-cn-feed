@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T02:30:52.661Z</id>
+    <id>urn:2023-04-26T03:13:54.728Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-26T02:30:52.661Z</updated>
+    <updated>2023-04-26T03:13:54.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NFT 交易平台生存现状研究（1）后版税战争时代下的龙头之争]]></title>
+        <id>https://www.defidaonews.com/article/6815424</id>
+        <link href="https://www.defidaonews.com/article/6815424"/>
+        <updated>2023-04-26T03:01:28.000Z</updated>
+        <summary type="html"><![CDATA[本文为 NFT 交易平台生存现状研究的第一篇，聚焦于后版税时代下的 Blur 和 OpenSea。]]></summary>
+        <author>
+            <name>吴说</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊价格预测作为早期以太坊 ICO 鲸鱼在 7 年后变得活跃 – 发生了什么事？]]></title>
         <id>https://0xzx.com/2023042610233403720.html</id>
@@ -803,7 +813,48 @@ Capella 之前和之后的数据快照
         <id>https://www.theblockbeats.info/news/36803</id>
         <link href="https://www.theblockbeats.info/news/36803"/>
         <updated>2023-04-25T03:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Multicoin对人工智能和加密货币的交叉点充满兴趣，并认为其中有三大方向存在机会，包括在强化学习中为人类反馈提供Token激励。]]></summary>
+        <summary type="html"><![CDATA[原文标题：《对话 Multicoin ：Layer2 不能扩展以太坊，看好 Filecoin》
+原文来源：《Empire》
+
+
+原文编译：
+
+TechFlow 深潮
+
+
+
+在《Empire》最新一期播客节目中，邀请到了 MultiCoin 两位创始合伙人 Kyle Samani 和 Tushar Jain。
+
+在播客中，他们讨论了 MultiCoin 与 FTX 的合作，以及对 Solana 的最新看法，他们不认为 Solana 全然依靠 FTX。
+
+
+
+MultiCoin 对人工智能和加密货币的交叉点充满兴趣，并认为其中有三大方向存在机会，包括在强化学习中为人类反馈提供代币激励。
+
+
+
+此外，MultiCoin 也对 Layer2 扩展以太坊这一主流叙事保持怀疑，L2 在继承 L1 安全性方面存在局限性，以及速度和时间敏感性的重要性。最后，MultiCoin 表示看好 Filecoin。
+
+
+
+以下为播客详细内容笔记，由 TechFlow 深潮与 ChatGPT 联合整理。
+
+
+
+
+
+Multicoin 与 Sam Bankman-Fried 和 FTX 的关系
+
+
+Multicoin 没有投资 FTX 的种子轮，但后来投资了其他轮次和 FTX US，此外还投资了 Serum（SRM）。
+
+
+
+MultiCoin 真正意识到问题是在里斯本 Breakpoint 会议期间，他们对 FTX 及其首席执行官 Sam Bankman-Fried 持正面看法，认为存在期限不匹配或资本被保证金头寸占用，没有怀疑存在任何欺诈或破产问题。Kyle 批评 FTX 内部缺乏透明度和治理控制，从而导致欺诈发生，建议交易所应该更像具有实时透明度的 DeFi 协议，以防止将来发生类似事件。
+
+
+
+破产受托人正在努力清算资产并偿还债权人，然而，对于破产前提取的资金是否会进行回拨，仍存在不确定性。到目…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -814,16 +865,6 @@ Capella 之前和之后的数据快照
         <link href="https://www.defidaonews.com/article/6815230"/>
         <updated>2023-04-25T03:19:14.000Z</updated>
         <summary type="html"><![CDATA[本文旨在简要介绍为什么对基于zk-SNARK的机器学习（ZK-ML）系统产生了浓厚的兴趣，并讨论了该技术的一些潜在应用。]]></summary>
-        <author>
-            <name>DAOrayaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L2网络与比特币生态系统的新可能性]]></title>
-        <id>https://www.defidaonews.com/article/6815224</id>
-        <link href="https://www.defidaonews.com/article/6815224"/>
-        <updated>2023-04-25T03:18:42.000Z</updated>
-        <summary type="html"><![CDATA[比特币虽然长期以来一直被视为安全和去中心化的价值存储，或者“数字黄金”，但不得不承认它支持更高级应用的潜力仍然相对未被开发。]]></summary>
         <author>
             <name>DAOrayaki</name>
         </author>
@@ -1016,38 +1057,7 @@ Alpha Orange团队： 
         <id>https://www.theblockbeats.info/news/36777</id>
         <link href="https://www.theblockbeats.info/news/36777"/>
         <updated>2023-04-24T14:00:02.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《与 L2 一样重要的应用链，谁能成为领跑者？》
-原文来源：白泽研究院
-
-
-Web3 近年来发展迅速，对可扩展解决方案的需求变得更加迫切。
-
-
-「应用链」（dApp Chain）叙事渐起：专注于特定用例、可互操作的区块链网络，可以为 dApp 提供更具可扩展性、高效和灵活的基础设施。
-
-
-在本文中，我们将探讨应用链的优势，并比较四个领先的应用链生态系统：Avalanche、Polkadot、Celestia 和 Cosmos。他们中谁将是最适合市场的产品，并且最有能力在未来几年引领应用链领域的发展？
-
-
-为什么需要应用链？
-
-
-长久以来，区块链「三难困境」一直是开发者的眼中钉。事实证明，无法创建一个在安全性、去中心化和可扩展性这三个属性上都表现出色的区块链。
-
-
-许多人已将应用链视为救世主，因为它允许多个链互操作，并通过减少每个链上的交易负载来实现可扩展性，而不会影响安全性和去中心化。然而，应用链却渐渐被另一种解决方案所掩盖：Layer-2。最近，围绕 L2 的讨论越来越多，rollups 有望成为实现可扩展性、同时保持安全性和去中心化的首选解决方案。
-
-
-你可能认为应用链再无出头之日，但事实并非如此。偏爱应用链的开发者认为，应用链可以创造新的价值主张，以 dApp 的原生代币作为支付手段可以增强用户体验，而且应用链允许 MEV 的内部化，从而为 dApp 本身创造收入。因此，虽然 L2 已经成为了热门话题，但应用链不会就此没落。
-
-
-什么是 MEV？
-
-
-MEV，即最大可提取价值。简而言之，MEV 允许矿工和验证者通过操纵交易在区块中的位置来从区块链中提取更多价值。从历史上看，这与抢先交易和三明治攻击等负面行为有关，但它也有一些优势。良好的 MEV，例如套利和清算，对于提高 DeFi 的效率至关重要。 
-
-
-对于 dApp 开发者来说，拥有自己的区块链可以更好地…]]></summary>
+        <summary type="html"><![CDATA[Web3近年来发展迅速，对可扩展解决方案的需求变得更加迫切。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
