@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T04:16:14.278Z</id>
+    <id>urn:2023-05-01T05:12:38.602Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-01T04:16:14.278Z</updated>
+    <updated>2023-05-01T05:12:38.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2023年Q1市场回顾：寻找美元体系真正的对手盘]]></title>
+        <id>https://www.defidaonews.com/article/6815970</id>
+        <link href="https://www.defidaonews.com/article/6815970"/>
+        <updated>2023-05-01T04:39:51.000Z</updated>
+        <summary type="html"><![CDATA[2023年第一季度完美结束，加密货币市场的波动性是显然的。我们在此分享对2023年第一季度加密货币和宏观市场的回顾性分析，同时给出下一阶段的预判。]]></summary>
+        <author>
+            <name>Bing Ventures</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万字拆解 Yuga Labs：从零到 “Web3 迪士尼”，只用了两年]]></title>
+        <id>https://www.defidaonews.com/article/6816074</id>
+        <link href="https://www.defidaonews.com/article/6816074"/>
+        <updated>2023-05-01T04:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Yuga Labs 成功的关键在于它坚定不移地致力于为社区提供价值，始终如一地执行精心策划的战略和兑现为社区许下的承诺。]]></summary>
+        <author>
+            <name>白泽研究院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链游的 AI 革命（二）：OpenAI 是如何封神的？]]></title>
+        <id>https://www.defidaonews.com/article/6816066</id>
+        <link href="https://www.defidaonews.com/article/6816066"/>
+        <updated>2023-05-01T04:38:45.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 仅仅是 OpenAI 在 2022 年 11 月中旬临时开发出来的，全程只用了 13 天时间。]]></summary>
+        <author>
+            <name>W Labs 瓜田实验室</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI：已推出隐私功能，意大利用户可再次使用ChatGPT]]></title>
         <id>https://www.defidaonews.com/article/6816064</id>
@@ -83,6 +113,149 @@
         <summary type="html"><![CDATA[PANews 5月1日消息，Spot On Chain数据监测，某PEPE巨鲸在6小时前将3.4万亿枚PEPE兑换为925枚ETH（约180万美元），2周内投资回报率高达1650倍。据悉，16天前，该巨鲸通过Uniswap仅用1枚ETH买入5.421万亿枚PEPE，4月24日通过Uniswap将216.4万亿枚PEPE换成3.5枚ETH。目前，该巨鲸仍持有2万亿枚PEPE（约150万美元）。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链项目如何从部署自己的DEX中获利？]]></title>
+        <id>https://www.theblockbeats.info/news/36868</id>
+        <link href="https://www.theblockbeats.info/news/36868"/>
+        <updated>2023-05-01T02:58:48.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Native
+
+
+
+
+
+
+
+
+
+
+
+除了高昂的 Token 上架费用，DApp 构建者还需要遵守交易平台的政策和费用，从而失去对 Token 流动性和价值的控制。此外，在中心化交易平台上市也可能导致交易对手风险（不掌握密钥，就不是你的 Token）。
+
+
+重新控制原生 Token
+
+
+
+
+
+
+尽管 DEX 有很多好处，但它们也存在一些缺点。例如，它们受到其网络交易容量的限制。随着交易量的增加，执行交易的费用也在增加，这已经成为 DEX 的一个主要问题。许多 DEX 都托管在以太坊上，并使用自动化做市商（AMM）来管理交易。此外，DEX 在资本效率和流动性水平方面还不足以与 CEX 竞争。最后，DEX 的优先任务是为其流动性提供商和 Token 持有者创造收入，而不是为使用它们的项目创造收入。
+
+
+
+
+虽然使用 DEX 可以实现自我保管和无需许可的结算，但它们还不够高效。DEX 仍然缺乏对链下定价模型的支持，无法基于市场中的总体流动性（包括链上和链下）进行定价，只能做到对给定 AMM 智能合约中的流动性进行定价。
+
+
+
+
+用户体验中也存在一个痛点。访问第三方 DEX 会迫使用户在进行交易时离开他们喜欢的应用程序。
+
+
+
+
+DEX 的 Shopify
+
+
+
+
+解决方案可能是使 DEX 与 CEX 一样高效，并让每个项目拥有自己的 DEX。但如何做到这一点呢？好消息是，有一些专门的项目提供这样的 DEX-as-a-feature 解决方案，其中之一就是 
+
+Native
+
+。该项目使开发者能够轻松部署交易平台，直接集成到他们的 DApps 中，赚取自己的兑换费用并访问整个网络的流动性。
+
+
+
+
+Native 是一个 DEX 基础设施层，或者更简单地说是一个工具包，供任何其他项目成为自己的 DEX，剔除中间商并降低成本，就像 Shopify 允许创业者创建自己的电子商务网站一样。
+
+
+
+
+Native 与专业流动性提供商和做市商的专有集成占据了加密日交易量的 30% 以上，使团队相对于独立的 DEX 具有显著优势。最好的是，它完全免费使用：项目设定自己的兑换费用，这些费用归 Token 发行者所有。
+
+
+
+
+Native 背后的技术与 CEX 级别的效率相匹配，且完全模块化，这意味着团队可以使用他们想要的任何流动性来源、定价模型和交易对来创建他们想要的任何类型的交易平台。项目可以直接与专业流动性提供商和市场做市商以无需许可的方式进行链上合作，并获得自己的流动性。
+
+
+
+
+
+
+
+
+通过为 DEX 提供去中心化的基础设施层，Native 在解决区块链项目面临的流动性和控制问题方面迈出了一大步。凭借其创新方法和关注赋权加密创业者的重点，Native 正在帮助区块链项目从增加收入和更深层次的流动性中受益。同时，DApp 用户可以直接在应用程序中兑换原生 Token，享受更简单、更顺滑的体验。
+
+
+
+
+在 Native 种子轮投资 200 万美元的 Nomad Capital 的 Ricky Li 表示：「Native 让每个人都能拥有自己的 DEX，并控制流动性和费用。它的愿景是，任何建设者或用户都不应该被 CEX 和像 Uniswap 或 Curve 这样的中心化 DEX 挟持以获得流动性。这与我们的信念非常契合，即目前缺少一种金融基础设施层，使我们能够扩大规模并吸引下一批用户。我们需要更多像 Native 这样的 DeFi 中间件基础设施项目。」
+
+
+
+
+为了演示如何使用这项技术，Native 发布了 5minuteDEX，这是一个具有深度流动性的全功能 DEX，覆盖所有顶级交易对。
+
+
+
+
+
+
+
+
+
+Native 于今年 3 月推出了私人测试版，并于 4 月以无需许可的方式向任何人开放了平台。
+
+
+
+
+通过提供 DEX 层，Native 使团队能够创建自己的 DEX，降低成本并重新获得对其原生 Token 的掌控。得益于这种方法，Native 已经与许多区块链项目达成了战略合作伙伴关系，包括 Ankr、NodeReal、Metaverse.ai、Augmentlabs.io、CyberConnect、QuestN、LightNet 和 Byte.City。
+
+
+
+
+
+本文来自投稿，不代表律动 BlockBeats 观点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何玩转BRC-20？]]></title>
+        <id>https://www.theblockbeats.info/news/36869</id>
+        <link href="https://www.theblockbeats.info/news/36869"/>
+        <updated>2023-05-01T02:55:09.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《如何玩转 BRC-20｜veDAO 研究院》
+原文来源：veDAO 研究院
+
+
+BTC 概念的加密货币有哪些？或许你脑海里最先浮现出来的是基于 BTC 生态分叉出来的衍生币，比如 BTD（比特币钻石）、BTK（比特王者）、BTF（比特信仰）等等……这个说法在今年以前不算错。但在今年以来，自从 BTC 生态推出 Ordinals 协议以后，便不再准确了。
+
+
+现在 BTC 生态，既可以发行基于 BRC-20 标准的 Token，也可以发行 BRC-721 协议的 NFT。关于后者，veDAO 研究院已有多篇文章进行讲解：《一文看懂什么是 BTC NFT 以及未来潜力 |veDAO 研究院》
+
+
+而 BRC-20 标准的诞生以及相关 Token 的出现，则意味着 BTC 不再只被简单的视为「Web3 世界的标杆，精美但陈旧的古董。」反而真正的具有了发展和创新的推动力。截至目前，基于 BRC-20 标准发行的 Token，整体 TVL 已经达到 6200 万美元左右。
+
+
+在相关概念方兴未艾的现在，我们不禁要问：BRC-20 标准到底是什么？它与 ERC-20 标准有何不同？Ordinals 协议又与传统的 Omni 协议有何不同？
+
+
+Ordinals 协议和 BRC-20 标准到底是什么？
+
+
+首先我们需要复习一下今年年初诞生的 Ordinals 协议。
+
+
+Ordinals 是基于 BTC 网络的一种 NFT 协议，旨在为每 satoshis（sat）分配唯一身份。通过使用 Ord 软件，该协议将数据添加到这些 sats，并允许软件用户基于一个序数（ordinal numbers）系统来跟踪它们。换言之，Ordinal 协议将比特币最小单位 sats 以 NFT 的形式表现出来，并为 sats 赋予了理由充分的交易价值和收藏价值。当最小单位成为新的炒作标的，某种…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -830,16 +1003,6 @@ Vault 是 PMMP 的一个接口，并在很多方面只是 Power Tokens 和 Unisw
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[a16z：关于数据可用性抽样和 danksharding 的概述及改进建议]]></title>
-        <id>https://www.defidaonews.com/article/6815862</id>
-        <link href="https://www.defidaonews.com/article/6815862"/>
-        <updated>2023-04-29T02:27:26.000Z</updated>
-        <summary type="html"><![CDATA[概述danksharding 中的数据可用性的工作机制，并探讨了一个可能改进数据恢复的新研究方向。]]></summary>
-        <author>
-            <name>行业前沿</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[对冲基金经理Jim Cramer：第一共和银行的倒闭可能标志着银行业危机的结束]]></title>
         <id>https://www.hellobtc.com/news/202304/20554.html</id>
         <link href="https://www.hellobtc.com/news/202304/20554.html"/>
@@ -884,318 +1047,33 @@ Vault 是 PMMP 的一个接口，并在很多方面只是 Power Tokens 和 Unisw
         <id>https://www.theblockbeats.info/news/36859</id>
         <link href="https://www.theblockbeats.info/news/36859"/>
         <updated>2023-04-29T02:00:01.000Z</updated>
-        <summary type="html"><![CDATA[作为加密市场的重要风向标之一，本届Consensus共识大会中有哪些精彩观点与碰撞？]]></summary>
+        <summary type="html"><![CDATA[原文标题：《六大关键词总结 Consensus 2023 亮点和趋势》
+
+原文来源：Nancy, PANews
+
+
+4 月 26 日至 28 日，一年一度的加密盛会Consensus（共识大会）在美国德克萨斯州的奥斯汀市举行。起始于2015年的Consensus共识大会是由区块链媒体Coindesk举办，每年都吸引行业领导者、开发者、KOL、政府官员、艺术家等参与。
+
+
+但由于美国监管环境恶化、整体加密行情下行及主办方母公司DCG债务风波等因素，今年的Consensus共识大会较往年相比些许冷清。比如，Consensus 2023年参与人数约1.2万，较2022年的2万减少了约8000名；赞助商为231个，较去年减少约30个，其中头部赞助商出现大幅减少，而交易所减少的最为明显，仅Huobi、OKX和BitMart等，去年则包含Binance.US、Bitget和Bybit等。
+
+
+不过，Consensus共识大会仍吸引了包括Yuga Labs CEO Daniel Alegre、Animoca Brands联合创始人Yat Siu、美国前CFTC主席Chris Giancarlo、Circle CEO Jeremy Allaire、a16z合伙人Sriram Krishnan、谷歌新闻副总裁Richard Gingras和Near Protocol联合创始人Illia Polosukhin等150位参会嘉宾，演讲主题涉及Web3、安全合规、DAO、DeFi、CeFi、NFT、加密艺术和元宇宙等。
+
+
+作为加密市场的重要风向标之一，本届Consensus共识大会中有哪些精彩观点与碰撞？又有哪些趋势值得关注？
+
+
+监管：迫切需要监管的明确性
+
+
+
+
+「加密爸爸」
+
+、美国前CFTC主席Chris Giancarlo似乎批评了当前美国监管机构对加密货币行业的打压，他表示，从201…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帐户抽象将如何推动 DeFi 的大规模采用？]]></title>
-        <id>https://www.defidaonews.com/article/6815870</id>
-        <link href="https://www.defidaonews.com/article/6815870"/>
-        <updated>2023-04-29T01:21:43.000Z</updated>
-        <summary type="html"><![CDATA[任何人都应该能够使用他们的手机或计算机，并以一种简单、直观的方式访问 Web3。]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[到黑山去，玩转Web3可组合性|Web3 Composability Odyssey@EDCON 2023①]]></title>
-        <id>https://www.theblockbeats.info/news/36862</id>
-        <link href="https://www.theblockbeats.info/news/36862"/>
-        <updated>2023-04-28T16:55:27.000Z</updated>
-        <summary type="html"><![CDATA[原文来源： M7e 元宇宙特攻队
-
-
-继以太坊上海升级、香港 Web 嘉年华之后，最令华语 Web3 建设者兴奋的是，即将于 20 天后在黑山举行的以太坊社区开发大会 EDCON 2023。在这场 OG 云集、聚焦于 Public Goods & Network State 最新叙事的全球 #Web3BUIDL 盛会中，我们邀请大家到黑山去，一起玩转 Web3 可组合性！  
-
-
-Web3 可组合性为何重要
-
-
-
-
-
-
-
-
-区块链、去中心化存储、DID、NFT、DAO 赋权数字公民，让 Web3 天然具有打破垄断、无限开放的可组合性。历经上一轮牛市爆发与熊市沉寂，不久顺利完成上海升级的以太坊和其他公链的基建新进展都在向模块化区块链演进，加之 AIGC 的爆发，让 Web3 的可组合越来越可实操落地。
-
-
-
-将 Web3 Composability Odyssey 进行到底  
-
-
-
-
-
-继去年 8 月大理瓦猫之夏、10 月旧金山区块链周两场 Odyssey 活动之后，我们在 EDCON 2023 继续举办 Web3 Composability Odyssey，邀请全球底层协议、中间层服务、上层应用、DAO、NFT 项目创始人、建设者、创作者和研究者一起通过各种活动聚会就 Web3 可组合性从技术到应用的无穷可能和前景分享真知灼见、孵化创意和创新。
-
-
-
-
-
-
-
-
-EDCON（社区以太坊发展大会）是一个非营利性的全球以太坊年度会议，每年在不同国家举行一次（EDCON 2017 年在巴黎，2018 年在多伦多，2019 至 2021 年在线上，2022 在旧金山大通中心）。EDCON 致力于为以太坊生态服务，促进全球以太坊社区的交流和互动。
-
-
-
-
-
-
-
-
-
-即将举行的 EDCON 2023 将是一个为期五天的活动。它将汇集来自以太坊领域的专家，讨论以太坊技术的最新发展和趋势，并探索基于以太坊的解决方案对各种商业和社会挑战的潜力。除了演讲和小组讨论外，该活动还将提供与志同道合的专业人士交流的机会，以及向行业专家学习的机会。
-
-
-
-怎么玩转 Web3 可组合性  
-
-
-
-
-
-
-
-
-活动 1：VIRTUAL TALK：分享关于 Web3 可组合性的观点和创意
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-活动 2：ON 1 INTERVIEW：探索 Web3 可组合性
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-活动 3： RANDOM WORSHOP：开展 Web3 可组合协作
-
-
-
-
-
-
-
-
-
-
-
-
-
-活动 4：FIRESIDE CHAT：探寻 Web3 新动力  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-活动 5：PANEL DISCUSSION：深潜 Web3 可组合性
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-活动 6： SOCIAL NETWORKING：构建 Web3 建设者社交网络
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-活动 7： BADGE & NFT：申领参与徽章，链上记录成就
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-活动 8： ONE MORE THING：诚邀共建共创
-
-
-
-
-
-
-
-
-诚邀去黑山 EDCON 的小伙伴一起共建共创你喜欢的主题活动！
-
-
-活动介绍：https://shorturl.at/mqKS9
-
-
-
-
-
-Odyssey DAO 发起主办
-
-
-
-
-
-
-
-
-基于 M7e 元宇宙特攻队的社区和影响力，Odyssey DAO 新近成立，致力于建设一个号召数字公民建设人人所有自主自治的元宇宙的加密社区，发起主办此次 Odyssey 活动，首度亮相。
-
-
-
-合作伙伴，首批亮相  
-
-
-截至 4 月 28 日，Web3 Composability Odyssey@EDCON 2023 首批合作伙伴就位亮相！
-
-
-
-
-
-
-
-
-
-
-注：合作伙伴 Logo 按英文首字母排序
-
-
-
-
-
-
-欢迎入群 参与共创  
-
-
-
-
-
-如果熊市低迷、AI 火爆都未能动摇你 All in Web3 的信心和行动，而且对 Web3 可组合性的可能性和前景充满兴趣，无论你是否去黑山，无论现在是什么身份状态，欢迎扫码入群，参与到这场将于黑山 EDCON 2023 开展的 Web3 Composability Odyssey 中来！]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LSD MEV赛道初窥：MEV市场化和公平化将会为LSD带来什么？]]></title>
-        <id>https://www.theblockbeats.info/news/36855</id>
-        <link href="https://www.theblockbeats.info/news/36855"/>
-        <updated>2023-04-28T14:00:04.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《LSD MEV 赛道初窥：MEV 市场化和公平化将会为 LSD 带来什么？》
-原文来源：深潮 TechFlow
-
-
-MEV（Maximal Extractable Value 最大可提取价值）是加密世界最重要的议题之一。它是指验证者通过添加、删除并更改区块中的交易顺序，在超过标准区块奖励和 Gas 费用的区块生产中所能提取的最大价值。
-
-
-当 MEV 邂逅火热的 LSD 浪潮，两者会有怎样的结合？
-
-
-MEV 概念回顾
-
-
-MEV 并非一个新产物，它涉及区块链用户、验证者和搜索者三个利益相关群体。
-
-
-本质上，MEV 促成了所有区块链使用者展开了对于区块空间使用权的争夺。因此，在链上回暖的当下，MEV 成为了许多搜索者的「提款机」。比如，在 Memecoin 风潮下，截止 4 月 19 日，七天内 MEV 所产生的利润已经超过三百万美元。
-
-
-
-
-
-这里的一个反直觉现象是，MEV 的价值并非由区块链的验证者捕获，而是由搜索者捕获，搜索者在中文加密圈子里往往会被称为「科学家」。
-
-
-MEV 可以简单理解为以抢先交易等形式进行的链上套利，常见的就是三明治攻击，俗称夹子机器人。
-
-
-比如，当你在 Uniswap 买入 1 万美元的代币 X，机器人嗅到了这笔交易，于是赶在区块打包之前，用更高的手续费也买入 X，机器人的交易被抢先执行。
-
-
-由于 Uniswap 自动做市机制，代币 X 单价会被抬高，你的交易执行后，代币 X 价格会继续升高。这时候，机器人再生成一笔交易，将前一笔交易中较低价格买入的 X 卖出，刚好赚下差价。
-
-
-机器人生成的两笔交易刚好包夹了我们的交易，看起来就像一个三明治。
-
-
-MEV 协议和实践
-
-
-为了规范 MEV 所带来的无节制索取，加密行业也涌现出一批 MEV 相关协议，比如 Flashbots、CowSawp、Manifold Finance…]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm：从 MEV 机器人被攻击事件出发，理解延迟、MEV-Boost 和共识机制之间的关系]]></title>
-        <id>https://www.defidaonews.com/article/6815848</id>
-        <link href="https://www.defidaonews.com/article/6815848"/>
-        <updated>2023-04-28T13:46:14.000Z</updated>
-        <summary type="html"><![CDATA[MEV-Boost 是如何工作的?]]></summary>
-        <author>
-            <name>wesely</name>
         </author>
     </entry>
 </feed>

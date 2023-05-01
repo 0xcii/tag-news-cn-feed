@@ -63,12 +63,42 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6815970",
+          "author": "Bing Ventures",
+          "description": "2023年第一季度完美结束，加密货币市场的波动性是显然的。我们在此分享对2023年第一季度加密货币和宏观市场的回顾性分析，同时给出下一阶段的预判。",
+          "link": "https://www.defidaonews.com/article/6815970",
+          "publishedOn": "2023-05-01T04:39:51.000Z",
+          "wordCount": 185,
+          "title": "2023年Q1市场回顾：寻找美元体系真正的对手盘",
+          "imageUrl": "https://appserversrc.8btc.cn/Fl3C2qZFQtAjpl0jvbnfLfb6SY3u.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6816074",
+          "author": "白泽研究院",
+          "description": "Yuga Labs 成功的关键在于它坚定不移地致力于为社区提供价值，始终如一地执行精心策划的战略和兑现为社区许下的承诺。",
+          "link": "https://www.defidaonews.com/article/6816074",
+          "publishedOn": "2023-05-01T04:39:13.000Z",
+          "wordCount": 1787,
+          "title": "万字拆解 Yuga Labs：从零到 “Web3 迪士尼”，只用了两年",
+          "imageUrl": "https://appserversrc.8btc.cn/FtLaDRCgocCyd49k6Vb8f8XwCEdh.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6816066",
+          "author": "W Labs 瓜田实验室",
+          "description": "ChatGPT 仅仅是 OpenAI 在 2022 年 11 月中旬临时开发出来的，全程只用了 13 天时间。",
+          "link": "https://www.defidaonews.com/article/6816066",
+          "publishedOn": "2023-05-01T04:38:45.000Z",
+          "wordCount": 443,
+          "title": "链游的 AI 革命（二）：OpenAI 是如何封神的？",
+          "imageUrl": "https://appserversrc.8btc.cn/FrZIhsxw-DEtRVzM9TX_bxZ4UA20.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6816064",
           "author": "Kyle",
           "description": "巴比特讯，5 月 1 日，据OpenAI声明表示，意大利用户可以再次使用ChatGPT，因其推出的新功能包括用户可以关闭其聊天记录，并选择不允许OpenAI在其训练模型中使用用户数据，用户可在该平台上更明显地看到这项隐私政策。同时，OpenAI发言人称，将继续通过电子邮件解决隐私请求，为欧盟用户引入新表格以反对在模型训练中使用他们的数据，并在注册期间为意大利用户实施年龄验证工具。",
           "link": "https://www.defidaonews.com/article/6816064",
           "publishedOn": "2023-05-01T03:34:06.000Z",
-          "wordCount": 101,
+          "wordCount": 104,
           "title": "OpenAI：已推出隐私功能，意大利用户可再次使用ChatGPT",
           "imageUrl": "https://appserversrc.8btc.cn/images/28094f8e91211fbd40cd0a91adfc7c3d.png"
         },
@@ -78,7 +108,7 @@
           "description": "Allo Protocol 旨在在 Gitcoin 社区主导的资助工作（即 Gitcoin 赠款计划）之外，帮助任何其它社区推出相对应的的赠款资助计划。",
           "link": "https://www.defidaonews.com/article/6815988",
           "publishedOn": "2023-04-30T01:32:12.000Z",
-          "wordCount": 404,
+          "wordCount": 407,
           "title": "一文理解 Gitcoin 社区赠款基础设施—— Allo Protocol",
           "imageUrl": "https://appserversrc.8btc.cn/FlPEkmm161pXdFY4WFekJMU83hU5.png?imageView2/1/w/500/h/300"
         },
@@ -88,7 +118,7 @@
           "description": "安全审计报告，就像一个隐形的杠杆",
           "link": "https://www.defidaonews.com/article/6815986",
           "publishedOn": "2023-04-30T01:28:18.000Z",
-          "wordCount": 121,
+          "wordCount": 124,
           "title": "谁来监管审计公司？",
           "imageUrl": "https://appserversrc.8btc.cn/FjFk0NlTcAGRKNk6bp6maJmuy4U2.png?imageView2/1/w/500/h/300"
         },
@@ -98,7 +128,7 @@
           "description": "社会对货币的概念在不断演变，货币与国家的关系也是如此",
           "link": "https://www.defidaonews.com/article/6815984",
           "publishedOn": "2023-04-30T01:22:48.000Z",
-          "wordCount": 152,
+          "wordCount": 155,
           "title": "Paradigm：数字时代的货币",
           "imageUrl": "https://appserversrc.8btc.cn/FiOWWBIKTXwrkKlanOnRXLSqaClz.png?imageView2/1/w/500/h/300"
         },
@@ -108,7 +138,7 @@
           "description": "Momoka 通过 EVM 钱包签名模拟交易，并将交易存储在数据可用层以进行验证，既可确保用户主权，也能实现超大规模扩展。",
           "link": "https://www.defidaonews.com/article/6815892",
           "publishedOn": "2023-04-29T03:02:41.000Z",
-          "wordCount": 750,
+          "wordCount": 753,
           "title": "一文速览 Lens Protocol 扩展解决方案—— Momoka",
           "imageUrl": "https://appserversrc.8btc.cn/Fhdw-hVBlNB1Cg7026qhT_E23NUK.png?imageView2/1/w/500/h/300"
         },
@@ -118,7 +148,7 @@
           "description": "进击的Bankless ！",
           "link": "https://www.defidaonews.com/article/6815920",
           "publishedOn": "2023-04-29T02:38:14.000Z",
-          "wordCount": 471,
+          "wordCount": 474,
           "title": "从媒体到风投，Bankless Ventures如何让10亿人使用加密技术?",
           "imageUrl": "https://appserversrc.8btc.cn/Fl5vLFlK_BVytQSFP9pc1bjleXT6.png?imageView2/1/w/500/h/300"
         },
@@ -128,39 +158,9 @@
           "description": "Consensus 2023有哪些精彩观点与碰撞？又有哪些趋势值得关注？",
           "link": "https://www.defidaonews.com/article/6815918",
           "publishedOn": "2023-04-29T02:27:44.000Z",
-          "wordCount": 194,
+          "wordCount": 197,
           "title": "六大关键词总结Consensus 2023亮点和趋势",
           "imageUrl": "https://appserversrc.8btc.cn/FrxvxXLwDyFRySAmopLfVowZDDB7.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6815862",
-          "author": "行业前沿",
-          "description": "概述danksharding 中的数据可用性的工作机制，并探讨了一个可能改进数据恢复的新研究方向。",
-          "link": "https://www.defidaonews.com/article/6815862",
-          "publishedOn": "2023-04-29T02:27:26.000Z",
-          "wordCount": 1442,
-          "title": "a16z：关于数据可用性抽样和 danksharding 的概述及改进建议",
-          "imageUrl": "https://appserversrc.8btc.cn/FhY_U_jKa9CA6uWhRt3Dra-cZt1N.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6815870",
-          "author": "深潮TechFlow",
-          "description": "任何人都应该能够使用他们的手机或计算机，并以一种简单、直观的方式访问 Web3。",
-          "link": "https://www.defidaonews.com/article/6815870",
-          "publishedOn": "2023-04-29T01:21:43.000Z",
-          "wordCount": 528,
-          "title": "帐户抽象将如何推动 DeFi 的大规模采用？",
-          "imageUrl": "https://appserversrc.8btc.cn/Fu1PNfD_ThIKeOfqMqwcMoGmXGA0.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6815848",
-          "author": "wesely",
-          "description": "MEV-Boost 是如何工作的?",
-          "link": "https://www.defidaonews.com/article/6815848",
-          "publishedOn": "2023-04-28T13:46:14.000Z",
-          "wordCount": 420,
-          "title": "Paradigm：从 MEV 机器人被攻击事件出发，理解延迟、MEV-Boost 和共识机制之间的关系",
-          "imageUrl": "https://appserversrc.8btc.cn/Fp7hO4z0ORzUc7C-GczZI42SoqGC.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "description": "我们可以看到，Curve 的绝大部分日交易量来自于 3pool 和 Tricrypto。DeFi 有许多优秀的资产，但所有的交易量仍来自于头部资产。BTC、ETH、USDT 和 USDC 是 CoinGecko 追踪的前五大 Crypto 中的四种，占据了 Crypto 市值的 71%。只要你涵盖了这些资产，你就涵盖了大部分的 Crypto。",
           "link": "https://www.web3sj.com/definews/62554/",
           "publishedOn": "2023-04-30T12:43:33.000Z",
-          "wordCount": 921,
+          "wordCount": 906,
           "title": "新一代Tricrypto将如何重塑Curve生态系统？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1682858600.png"
         },
@@ -185,7 +185,7 @@
           "description": "中继是 MEV-Boost 架构中重要组成部分，它们在区块构建者和出块者之间充当可信拍卖行。为了实现这种信任，机制会增加中继的延迟和成本，降低出块者的费用，并提高协议对中继的依赖程度。",
           "link": "https://www.web3sj.com/news/62546/",
           "publishedOn": "2023-04-30T12:40:06.000Z",
-          "wordCount": 659,
+          "wordCount": 665,
           "title": "Optimistic中继——不可避免的未来",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/16828583851.png"
         },
@@ -195,7 +195,7 @@
           "description": "同形异义攻击是一种网络钓鱼攻击，攻击者使用与合法 URL 或电子邮件地址中字符相似的字符，以欺骗用户点击链接或输入其登录凭据。",
           "link": "https://www.web3sj.com/news/62541/",
           "publishedOn": "2023-04-30T12:37:41.000Z",
-          "wordCount": 670,
+          "wordCount": 660,
           "title": "如何预防同形异义攻击？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/16828582471.png"
         },
@@ -205,7 +205,7 @@
           "description": "zkRollup是非常有前景的Layer2扩容方案，通过将计算搬到链下并向Layer1链上提供零知识证明的方式来实现。在实现zkRollup的方案当中，FOX系统采用了当下主流结构，主要有两种节点，分别是Sequencer和Folder。简单来说，Sequencer负责对用户提交的交易进行排序打包，并且更新Layer2链上状态，Folder负责对Sequencer打包的交易生成证明并提交到Layer1。",
           "link": "https://www.web3sj.com/news/62534/",
           "publishedOn": "2023-04-30T12:24:48.000Z",
-          "wordCount": 644,
+          "wordCount": 631,
           "title": "Layer2的激励机制：Fiat-Shamir heuristic在FOX的妙用",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/16828574721.png"
         },
@@ -215,7 +215,7 @@
           "description": "Uniswap V3 的集中流动性模型和 Trader Joe 的流动性簿模型为协议层面的流动性效率升级提供了很好的示例。在本文中，流动性效率将表示尽可能优化当前可用资本的利用。",
           "link": "https://www.web3sj.com/definews/62513/",
           "publishedOn": "2023-04-30T12:12:19.000Z",
-          "wordCount": 889,
+          "wordCount": 871,
           "title": "Uniswap V3与Trader Joe孰优孰劣？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/b77e2873f6350944ac9eae246cb7514d-1.png"
         },
@@ -225,7 +225,7 @@
           "description": "NFT项目DigiDaigaku将推出比特币Ordinal NFT。Shibarium团队正开发跨链桥功能“Shibarium Bridge。以太坊升级以来已有195万枚ETH解除质押，净提款约46万枚ETH。",
           "link": "https://www.web3sj.com/news/62510/",
           "publishedOn": "2023-04-30T11:55:41.000Z",
-          "wordCount": 650,
+          "wordCount": 646,
           "title": "Web3世界日报（2023-4.30）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/2023043011532416.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "与 Elon Musk 对比特币、狗狗币的若即若离不同，犹太金融世家出身的 Yoni Assia 一直是比特币和区块链技术的坚定支持者。",
           "link": "https://www.web3sj.com/news/62461/",
           "publishedOn": "2023-04-29T14:22:43.000Z",
-          "wordCount": 931,
+          "wordCount": 935,
           "title": "让推特允许用户交易加密货币，eToro创始人Yoni Assia什么来头？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/5-1682564670497-1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "如果不先创建类似 Web2 的界面来提高采用率，就期望我们可以从行业的当前状态发展到那个点是不现实的。但是，你会问如何做？为了回答这个问题，我想给你展示一些项目在账户抽象化方面所做的贡献。今天，我们将研究 dappOS 和 Instadapp 引入的一些功能。",
           "link": "https://www.web3sj.com/news/62454/",
           "publishedOn": "2023-04-29T14:21:09.000Z",
-          "wordCount": 859,
+          "wordCount": 850,
           "title": "帐户抽象将如何推动DeFi的大规模采用？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/16827780971.png"
         },
@@ -255,7 +255,7 @@
           "description": "在以太坊的早期阶段，大多数区块生产者都是独立的个人或小团体，他们使用个人电脑或小型服务器来运行以太坊节点并提供计算能力。这些区块生产者称为矿工，他们负责使用挖矿软件来尝试解决难题，并通过解决难题来生成新的区块。矿工有机会获得生产新区块的奖励，这个奖励包括新发行的 ETH 和交易费用。",
           "link": "https://www.web3sj.com/news/62438/",
           "publishedOn": "2023-04-29T14:14:04.000Z",
-          "wordCount": 1252,
+          "wordCount": 1234,
           "title": "BV行研：探索以太坊区块空间的收益机会",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/1682777584.png"
         },
@@ -265,7 +265,7 @@
           "description": "目前 Gitcoin 正在进行中的 Gitcoin Grants Beta Round 捐赠，就是在基于 Allo Protocol 的去中心化 Gitcoin Grants Stack 上运行，本文 Foresight News 就带大家简单了解一下 Allo Protocol 的基本情况、机制设计与特色优势。",
           "link": "https://www.web3sj.com/news/62433/",
           "publishedOn": "2023-04-29T13:58:34.000Z",
-          "wordCount": 816,
+          "wordCount": 832,
           "title": "Gitcoin推出的Allo Protocol：社区赠款计划的协议层基础设施",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/04/16827768631.png"
         }
@@ -282,7 +282,7 @@
           "description": "PANews 5月1日消息，Web3反诈骗工具Scam Sniffer推特发文称，“0x36b”开头地址于10小时前遭到ERC20 Permit钓鱼攻击，损失约228万枚USDC。欺诈地址为：“0xdd6cf6483fe5d948e0aeee94d94b8c98f055d1b0”、“0xb6d6c8193cc2d28be229ac208b1cd689653e75d4”、“0x076a3a43b9ed37f9001e58b2418e87333385d4e8”，被盗资金目前被存放在黑客地址“0xCA4DDFFE50720292C9F0530B6F98Ca5e40c046b5”中。",
           "link": "https://panewslab.com/zh/articledetails/360psv39.html",
           "publishedOn": "2023-05-01T03:04:51.000Z",
-          "wordCount": 382,
+          "wordCount": 379,
           "title": "安全团队：某地址遭ERC20 Permit钓鱼攻击，损失约228万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -292,7 +292,7 @@
           "description": "PANews 5月1日消息，Spot On Chain数据监测，某PEPE巨鲸在6小时前将3.4万亿枚PEPE兑换为925枚ETH（约180万美元），2周内投资回报率高达1650倍。据悉，16天前，该巨鲸通过Uniswap仅用1枚ETH买入5.421万亿枚PEPE，4月24日通过Uniswap将216.4万亿枚PEPE换成3.5枚ETH。目前，该巨鲸仍持有2万亿枚PEPE（约150万美元）。",
           "link": "https://panewslab.com/zh/articledetails/13v8qrrv.html",
           "publishedOn": "2023-05-01T03:00:46.000Z",
-          "wordCount": 375,
+          "wordCount": 372,
           "title": "某PEPE巨鲸将3.4万亿枚PEPE兑换为925枚ETH，投资回报率达1650倍",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -302,7 +302,7 @@
           "description": "PANews 5月1日消息，PeckShield监测显示，今年4月，发生41起黑客攻击事件，共9340万美元被盗。截止4月30日，1245枚ETH与2515枚BNB被转入Tornado Cash，203枚ETH转入Fixed Float。此外，“jaredfromsubway.eth”从涉及PEPE的三明治攻击中获得至少140万美元收益。",
           "link": "https://panewslab.com/zh/articledetails/cdxnd636.html",
           "publishedOn": "2023-05-01T02:51:02.000Z",
-          "wordCount": 378,
+          "wordCount": 375,
           "title": "PeckShield：今年4月发生41起黑客攻击事件，9340万美元被盗",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +312,7 @@
           "description": "PANews 5月1日消息，据美通社报道，数字资产公司Fineqia宣布计划以0.01加元的价格进行最多1亿单位的非经纪私募，融资总额高达100万加元（约74万美元）。每个单位将包括一股Fineqia普通股和一份购买一股普通股的认股权证。每份认股权证可在发售结束后三年内以0.05加元的行权价购买普通股。Fineqia计划将私募收益用于营运资金并缩减债务。据此前消息，去年12月，Fineqia宣布完成其第四次私募（“发售”）融资，共筹集4,824,605.90 美元。据悉，Fineqia已在加拿大（CSE：FNQ）、美国（OTC：FNQQF）和欧洲（法兰克福：FNQA）上市，在温哥华和伦敦设有办事处，其投资组合包括处于代币化、区块链技术、NFT和金融科技前沿的企业。",
           "link": "https://panewslab.com/zh/articledetails/tcwtuxtb.html",
           "publishedOn": "2023-05-01T02:17:29.000Z",
-          "wordCount": 371,
+          "wordCount": 368,
           "title": "数字资产公司Fineqia完成100万加元私募融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +322,7 @@
           "description": "PANews 5月1日消息，据官方消息，Layer 1区块链网络Sui宣布其主网将于北京时间2023年5月3日20时正式上线。",
           "link": "https://panewslab.com/zh/articledetails/g2ixntz0.html",
           "publishedOn": "2023-05-01T01:40:21.000Z",
-          "wordCount": 373,
+          "wordCount": 370,
           "title": "Sui主网将于5月3日20时正式上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +332,7 @@
           "description": "PANews 5月1日消息，Gemini在推特发文称，加密贷款机构Genesis、其母公司数字货币集团（DCG）、无担保债权人委员会（UCC）、债权人委员会和 Gemini已同意于4月28日在法庭上进行为期30天的调解程序。Gemini表示，其目标是“尽快达成最终解决方案，并“支持”调解。 据悉，Genesis计划于5月4日在破产法庭出庭。Genesis律师4月30日在法庭上表示，希望在5月8日之前举行两次调解会议，调解期结束后公布交易的最终条款。",
           "link": "https://panewslab.com/zh/articledetails/g1jml581.html",
           "publishedOn": "2023-05-01T01:08:59.000Z",
-          "wordCount": 378,
+          "wordCount": 375,
           "title": "Gemini：Genesis、DCG、债权人委员会等已同意进行调解程序",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +342,7 @@
           "description": "PANews 5月1日消息，据金十，马斯克在社交媒体上表示，美联储的数据滞后太多，温和的衰退已经来临。这不仅仅是煤矿里的金丝雀（硅谷银行）死了，一个最坚定的矿工（瑞士信贷）也死了，会有更多的银行陷入困境，进一步加息将引发严重的经济衰退。",
           "link": "https://panewslab.com/zh/articledetails/ptc8oivt.html",
           "publishedOn": "2023-05-01T00:46:46.000Z",
-          "wordCount": 370,
+          "wordCount": 367,
           "title": "马斯克：美联储的数据滞后太多，温和的衰退已经来临。",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +352,7 @@
           "description": "PANews 5月1日消息，据金十，CME“美联储观察”显示，美联储5月维持利率不变的概率为16.9%，加息25个基点的概率为83.1%；到6月维持利率在当前水平的概率为12.7%，累计加息25个基点的概率为66.9%，累计加息50个基点的概率为20.3%。",
           "link": "https://panewslab.com/zh/articledetails/12yjtogt.html",
           "publishedOn": "2023-05-01T00:44:53.000Z",
-          "wordCount": 372,
+          "wordCount": 369,
           "title": "美联储观察：5月加息25个基点的概率为83.1%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +362,7 @@
           "description": "PANews 5月1日消息，据官方消息，Finewill Capital宣布成立一支数千万美元规模的Web3游戏产业基金，该基金因看好Web3游戏的创新商业形态，将投资于Web2游戏+区块链的复合赛道。\n该基金由韩国游戏公司Wemade和区块链投资基金Mirana Ventures联合作为基石投资人，为投资项目提供传统游戏与区块链领域的支持指导及产业资源。",
           "link": "https://panewslab.com/zh/articledetails/20l302z5.html",
           "publishedOn": "2023-05-01T00:30:00.000Z",
-          "wordCount": 388,
+          "wordCount": 385,
           "title": "Finewill Capital推出数千万美元Web3游戏产业基金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +372,7 @@
           "description": "PANews 5月1日消息，Token Unlocks数据显示，本周有6个加密项目将进行代币解锁，总计释放价值超3000万美元。\nAcala(ACA)将于5月1日15时解锁27,433,333枚代币，价值约230余万美元，占总供应量的2.743%；\n1inch(1INCH)将于5月1日20时解锁21,429枚代币，价值约1万美元，占总供应量的0.001%；\nNym(NYM)将于5月3日8时解锁73,750,000枚代币，价值约1650万美元，占总供应量的7.375%；\nLiquity(LQTY)将于5月5日8时解锁657,350.92枚代币，价值约119万美元，占总供应量的0.657%；\nGalxe(GAL)将于5月5日20时解锁7,614,266.67枚代币，价值约1370万美元，占总供应量的3.807%；\nTornado Cash(TORN)将于5月7日11:29:50解锁175,000枚代币，价值约140万美元，占总供应量的1.75%。",
           "link": "https://panewslab.com/zh/articledetails/3njl1767.html",
           "publishedOn": "2023-05-01T00:09:50.000Z",
-          "wordCount": 399,
+          "wordCount": 396,
           "title": "数据：本周有6种代币将迎来解锁，总计释放价值超3000万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,7 +382,7 @@
           "description": "PANews 5月1日消息，据官方公告，币安将上线第33期Launchpool项目Sui（SUI），可使用BNB、TUSD挖矿。用户可以在5月1日8:00后在Launchpad网站将BNB、TUSD投入到SUI挖矿池中获得SUI奖励，SUI共计可挖矿2天。网站预计将于此公告的大约四小时后，挖矿活动开放前更新。用户可在SUI/TUSD交易对享受零挂单手续费，直至另行通知。用户可在SUI/TUSD交易对享受零挂单手续费，直至另行通知。",
           "link": "https://panewslab.com/zh/articledetails/s8rjwy66.html",
           "publishedOn": "2023-04-30T16:16:23.000Z",
-          "wordCount": 376,
+          "wordCount": 373,
           "title": "币安将上线第33期新币挖矿，使用BNB、TUSD挖矿Sui（SUI）",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -501,6 +501,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36868",
+          "author": null,
+          "description": "原文来源：Native\n\n\n\n\n\n\n\n\n\n\n\n除了高昂的 Token 上架费用，DApp 构建者还需要遵守交易平台的政策和费用，从而失去对 Token 流动性和价值的控制。此外，在中心化交易平台上市也可能导致交易对手风险（不掌握密钥，就不是你的 Token）。\n\n\n重新控制原生 Token\n\n\n\n\n\n\n尽管 DEX 有很多好处，但它们也存在一些缺点。例如，它们受到其网络交易容量的限制。随着交易量的增加，执行交易的费用也在增加，这已经成为 DEX 的一个主要问题。许多 DEX 都托管在以太坊上，并使用自动化做市商（AMM）来管理交易。此外，DEX 在资本效率和流动性水平方面还不足以与 CEX 竞争。最后，DEX 的优先任务是为其流动性提供商和 Token 持有者创造收入，而不是为使用它们的项目创造收入。\n\n\n\n\n虽然使用 DEX 可以实现自我保管和无需许可的结算，但它们还不够高效。DEX 仍然缺乏对链下定价模型的支持，无法基于市场中的总体流动性（包括链上和链下）进行定价，只能做到对给定 AMM 智能合约中的流动性进行定价。\n\n\n\n\n用户体验中也存在一个痛点。访问第三方 DEX 会迫使用户在进行交易时离开他们喜欢的应用程序。\n\n\n\n\nDEX 的 Shopify\n\n\n\n\n解决方案可能是使 DEX 与 CEX 一样高效，并让每个项目拥有自己的 DEX。但如何做到这一点呢？好消息是，有一些专门的项目提供这样的 DEX-as-a-feature 解决方案，其中之一就是 \n\nNative\n\n。该项目使开发者能够轻松部署交易平台，直接集成到他们的 DApps 中，赚取自己的兑换费用并访问整个网络的流动性。\n\n\n\n\nNative 是一个 DEX 基础设施层，或者更简单地说是一个工具包，供任何其他项目成为自己的 DEX，剔除中间商并降低成本，就像 Shopify 允许创业者创建自己的电子商务网站一样。\n\n\n\n\nNative 与专业流动性提供商和做市商的专有集成占据了加密日交易量的 30% 以上，使团队相对于独立的 DEX 具有显著优势。最好的是，它完全免费使用：项目设定自己的兑换费用，这些费用归 Token 发行者所有。\n\n\n\n\nNative 背后的技术与 CEX 级别的效率相匹配，且完全模块化，这意味着团队可以使用他们想要的任何流动性来源、定价模型和交易对来创建他们想要的任何类型的交易平台。项目可以直接与专业流动性提供商和市场做市商以无需许可的方式进行链上合作，并获得自己的流动性。\n\n\n\n\n\n\n\n\n通过为 DEX 提供去中心化的基础设施层，Native 在解决区块链项目面临的流动性和控制问题方面迈出了一大步。凭借其创新方法和关注赋权加密创业者的重点，Native 正在帮助区块链项目从增加收入和更深层次的流动性中受益。同时，DApp 用户可以直接在应用程序中兑换原生 Token，享受更简单、更顺滑的体验。\n\n\n\n\n在 Native 种子轮投资 200 万美元的 Nomad Capital 的 Ricky Li 表示：「Native 让每个人都能拥有自己的 DEX，并控制流动性和费用。它的愿景是，任何建设者或用户都不应该被 CEX 和像 Uniswap 或 Curve 这样的中心化 DEX 挟持以获得流动性。这与我们的信念非常契合，即目前缺少一种金融基础设施层，使我们能够扩大规模并吸引下一批用户。我们需要更多像 Native 这样的 DeFi 中间件基础设施项目。」\n\n\n\n\n为了演示如何使用这项技术，Native 发布了 5minuteDEX，这是一个具有深度流动性的全功能 DEX，覆盖所有顶级交易对。\n\n\n\n\n\n\n\n\n\nNative 于今年 3 月推出了私人测试版，并于 4 月以无需许可的方式向任何人开放了平台。\n\n\n\n\n通过提供 DEX 层，Native 使团队能够创建自己的 DEX，降低成本并重新获得对其原生 Token 的掌控。得益于这种方法，Native 已经与许多区块链项目达成了战略合作伙伴关系，包括 Ankr、NodeReal、Metaverse.ai、Augmentlabs.io、CyberConnect、QuestN、LightNet 和 Byte.City。\n\n\n\n\n\n本文来自投稿，不代表律动 BlockBeats 观点。",
+          "link": "https://www.theblockbeats.info/news/36868",
+          "publishedOn": "2023-05-01T02:58:48.000Z",
+          "wordCount": null,
+          "title": "区块链项目如何从部署自己的DEX中获利？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36869",
+          "author": null,
+          "description": "原文标题：《如何玩转 BRC-20｜veDAO 研究院》\n原文来源：veDAO 研究院\n\n\nBTC 概念的加密货币有哪些？或许你脑海里最先浮现出来的是基于 BTC 生态分叉出来的衍生币，比如 BTD（比特币钻石）、BTK（比特王者）、BTF（比特信仰）等等……这个说法在今年以前不算错。但在今年以来，自从 BTC 生态推出 Ordinals 协议以后，便不再准确了。\n\n\n现在 BTC 生态，既可以发行基于 BRC-20 标准的 Token，也可以发行 BRC-721 协议的 NFT。关于后者，veDAO 研究院已有多篇文章进行讲解：《一文看懂什么是 BTC NFT 以及未来潜力 |veDAO 研究院》\n\n\n而 BRC-20 标准的诞生以及相关 Token 的出现，则意味着 BTC 不再只被简单的视为「Web3 世界的标杆，精美但陈旧的古董。」反而真正的具有了发展和创新的推动力。截至目前，基于 BRC-20 标准发行的 Token，整体 TVL 已经达到 6200 万美元左右。\n\n\n在相关概念方兴未艾的现在，我们不禁要问：BRC-20 标准到底是什么？它与 ERC-20 标准有何不同？Ordinals 协议又与传统的 Omni 协议有何不同？\n\n\nOrdinals 协议和 BRC-20 标准到底是什么？\n\n\n首先我们需要复习一下今年年初诞生的 Ordinals 协议。\n\n\nOrdinals 是基于 BTC 网络的一种 NFT 协议，旨在为每 satoshis（sat）分配唯一身份。通过使用 Ord 软件，该协议将数据添加到这些 sats，并允许软件用户基于一个序数（ordinal numbers）系统来跟踪它们。换言之，Ordinal 协议将比特币最小单位 sats 以 NFT 的形式表现出来，并为 sats 赋予了理由充分的交易价值和收藏价值。当最小单位成为新的炒作标的，某种…",
+          "link": "https://www.theblockbeats.info/news/36869",
+          "publishedOn": "2023-05-01T02:55:09.000Z",
+          "wordCount": null,
+          "title": "如何玩转BRC-20？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36867",
           "author": null,
           "description": "本周比特币价格再次走高，市场情绪较上周有所回暖。Brc20 Token 走热，比特币生态又回归到大众视野中；此外 RWA 叙事自 2018 年之后再次被提起，能否成为 DeFi 的下一波大规模创新浪潮仍值得探讨。\n\n\n那些精彩的文章，不会因为时间的流逝而被遗忘。为方便读者回顾及收藏优质内容、跟踪项目最新动态、了解市场行情以及学习与探讨。律动 BlockBeats 将定期为读者总结优质内容。如有任何建议及意见、投稿及观点探讨，欢迎通过本文文末方式联系我们。\n\n\n\n\n《最近火爆全网的 Brc20 Token 保姆级铸造教程》\n\n\nBrc20 是对标 Erc20 在 BTC 原生链上发行的同质化代币协议，第一个代币为 ordi。当前比较火热的代币有 Pepe，Punk，Bayc，Domo 等等，虽然均为 meme 代币，但均被铸造完毕, 场外交易非常比较活跃。本文小白教程，教会大家如何参与 Brc20 Token 的铸造。\n\n\n\n\n\n\n《RWA 叙事再走热，会成为 DeFi 下一波大规模创新浪潮吗？》\n\n\n近日 RWA 的叙事又再次频繁被提起，Binance、高盛等都任何一个现象级企业或者项目的诞生，都有一个前提条件，就是曾经束缚市场的限制性条件改变了，压制市场的天花板打开了。新一层的市场空间出现了。对于鼓吹 RWA 叙事的玩家，我们可以看到这样的论调：RWA 是 DeFi 进入下一个增量时代的桥梁，将 DeFI 扩展到全世界，RWA 是 DeFi 的下一波大规模创新浪潮。本文从 RWA 的实际用例、风口到来标准以及当前项目情况综合考量，RWA 赛道能否爆发？\n\n\n\n\n《「三傻」出局，KOL 们如何看待当前惨淡的 NFT 市场？》\n\n\n最近的 NFT 市场异常低迷，Blur 这台 NFT 市场的流动性发动机也逐渐熄火。当 Doodles、Clone X、Moonbirds 三个「…",
@@ -573,31 +593,11 @@
         {
           "id": "https://www.theblockbeats.info/news/36859",
           "author": null,
-          "description": "作为加密市场的重要风向标之一，本届Consensus共识大会中有哪些精彩观点与碰撞？",
+          "description": "原文标题：《六大关键词总结 Consensus 2023 亮点和趋势》\n\n原文来源：Nancy, PANews\n\n\n4 月 26 日至 28 日，一年一度的加密盛会Consensus（共识大会）在美国德克萨斯州的奥斯汀市举行。起始于2015年的Consensus共识大会是由区块链媒体Coindesk举办，每年都吸引行业领导者、开发者、KOL、政府官员、艺术家等参与。\n\n\n但由于美国监管环境恶化、整体加密行情下行及主办方母公司DCG债务风波等因素，今年的Consensus共识大会较往年相比些许冷清。比如，Consensus 2023年参与人数约1.2万，较2022年的2万减少了约8000名；赞助商为231个，较去年减少约30个，其中头部赞助商出现大幅减少，而交易所减少的最为明显，仅Huobi、OKX和BitMart等，去年则包含Binance.US、Bitget和Bybit等。\n\n\n不过，Consensus共识大会仍吸引了包括Yuga Labs CEO Daniel Alegre、Animoca Brands联合创始人Yat Siu、美国前CFTC主席Chris Giancarlo、Circle CEO Jeremy Allaire、a16z合伙人Sriram Krishnan、谷歌新闻副总裁Richard Gingras和Near Protocol联合创始人Illia Polosukhin等150位参会嘉宾，演讲主题涉及Web3、安全合规、DAO、DeFi、CeFi、NFT、加密艺术和元宇宙等。\n\n\n作为加密市场的重要风向标之一，本届Consensus共识大会中有哪些精彩观点与碰撞？又有哪些趋势值得关注？\n\n\n监管：迫切需要监管的明确性\n\n\n\n\n「加密爸爸」\n\n、美国前CFTC主席Chris Giancarlo似乎批评了当前美国监管机构对加密货币行业的打压，他表示，从201…",
           "link": "https://www.theblockbeats.info/news/36859",
           "publishedOn": "2023-04-29T02:00:01.000Z",
           "wordCount": null,
           "title": "Consensus2023共识大会：总结六个亮点和趋势",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36862",
-          "author": null,
-          "description": "原文来源： M7e 元宇宙特攻队\n\n\n继以太坊上海升级、香港 Web 嘉年华之后，最令华语 Web3 建设者兴奋的是，即将于 20 天后在黑山举行的以太坊社区开发大会 EDCON 2023。在这场 OG 云集、聚焦于 Public Goods & Network State 最新叙事的全球 #Web3BUIDL 盛会中，我们邀请大家到黑山去，一起玩转 Web3 可组合性！  \n\n\nWeb3 可组合性为何重要\n\n\n\n\n\n\n\n\n区块链、去中心化存储、DID、NFT、DAO 赋权数字公民，让 Web3 天然具有打破垄断、无限开放的可组合性。历经上一轮牛市爆发与熊市沉寂，不久顺利完成上海升级的以太坊和其他公链的基建新进展都在向模块化区块链演进，加之 AIGC 的爆发，让 Web3 的可组合越来越可实操落地。\n\n\n\n将 Web3 Composability Odyssey 进行到底  \n\n\n\n\n\n继去年 8 月大理瓦猫之夏、10 月旧金山区块链周两场 Odyssey 活动之后，我们在 EDCON 2023 继续举办 Web3 Composability Odyssey，邀请全球底层协议、中间层服务、上层应用、DAO、NFT 项目创始人、建设者、创作者和研究者一起通过各种活动聚会就 Web3 可组合性从技术到应用的无穷可能和前景分享真知灼见、孵化创意和创新。\n\n\n\n\n\n\n\n\nEDCON（社区以太坊发展大会）是一个非营利性的全球以太坊年度会议，每年在不同国家举行一次（EDCON 2017 年在巴黎，2018 年在多伦多，2019 至 2021 年在线上，2022 在旧金山大通中心）。EDCON 致力于为以太坊生态服务，促进全球以太坊社区的交流和互动。\n\n\n\n\n\n\n\n\n\n即将举行的 EDCON 2023 将是一个为期五天的活动。它将汇集来自以太坊领域的专家，讨论以太坊技术的最新发展和趋势，并探索基于以太坊的解决方案对各种商业和社会挑战的潜力。除了演讲和小组讨论外，该活动还将提供与志同道合的专业人士交流的机会，以及向行业专家学习的机会。\n\n\n\n怎么玩转 Web3 可组合性  \n\n\n\n\n\n\n\n\n活动 1：VIRTUAL TALK：分享关于 Web3 可组合性的观点和创意\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n活动 2：ON 1 INTERVIEW：探索 Web3 可组合性\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n活动 3： RANDOM WORSHOP：开展 Web3 可组合协作\n\n\n\n\n\n\n\n\n\n\n\n\n\n活动 4：FIRESIDE CHAT：探寻 Web3 新动力  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n活动 5：PANEL DISCUSSION：深潜 Web3 可组合性\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n活动 6： SOCIAL NETWORKING：构建 Web3 建设者社交网络\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n活动 7： BADGE & NFT：申领参与徽章，链上记录成就\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n活动 8： ONE MORE THING：诚邀共建共创\n\n\n\n\n\n\n\n\n诚邀去黑山 EDCON 的小伙伴一起共建共创你喜欢的主题活动！\n\n\n活动介绍：https://shorturl.at/mqKS9\n\n\n\n\n\nOdyssey DAO 发起主办\n\n\n\n\n\n\n\n\n基于 M7e 元宇宙特攻队的社区和影响力，Odyssey DAO 新近成立，致力于建设一个号召数字公民建设人人所有自主自治的元宇宙的加密社区，发起主办此次 Odyssey 活动，首度亮相。\n\n\n\n合作伙伴，首批亮相  \n\n\n截至 4 月 28 日，Web3 Composability Odyssey@EDCON 2023 首批合作伙伴就位亮相！\n\n\n\n\n\n\n\n\n\n\n注：合作伙伴 Logo 按英文首字母排序\n\n\n\n\n\n\n欢迎入群 参与共创  \n\n\n\n\n\n如果熊市低迷、AI 火爆都未能动摇你 All in Web3 的信心和行动，而且对 Web3 可组合性的可能性和前景充满兴趣，无论你是否去黑山，无论现在是什么身份状态，欢迎扫码入群，参与到这场将于黑山 EDCON 2023 开展的 Web3 Composability Odyssey 中来！",
-          "link": "https://www.theblockbeats.info/news/36862",
-          "publishedOn": "2023-04-28T16:55:27.000Z",
-          "wordCount": null,
-          "title": "到黑山去，玩转Web3可组合性|Web3 Composability Odyssey@EDCON 2023①",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36855",
-          "author": null,
-          "description": "原文标题：《LSD MEV 赛道初窥：MEV 市场化和公平化将会为 LSD 带来什么？》\n原文来源：深潮 TechFlow\n\n\nMEV（Maximal Extractable Value 最大可提取价值）是加密世界最重要的议题之一。它是指验证者通过添加、删除并更改区块中的交易顺序，在超过标准区块奖励和 Gas 费用的区块生产中所能提取的最大价值。\n\n\n当 MEV 邂逅火热的 LSD 浪潮，两者会有怎样的结合？\n\n\nMEV 概念回顾\n\n\nMEV 并非一个新产物，它涉及区块链用户、验证者和搜索者三个利益相关群体。\n\n\n本质上，MEV 促成了所有区块链使用者展开了对于区块空间使用权的争夺。因此，在链上回暖的当下，MEV 成为了许多搜索者的「提款机」。比如，在 Memecoin 风潮下，截止 4 月 19 日，七天内 MEV 所产生的利润已经超过三百万美元。\n\n\n\n\n\n这里的一个反直觉现象是，MEV 的价值并非由区块链的验证者捕获，而是由搜索者捕获，搜索者在中文加密圈子里往往会被称为「科学家」。\n\n\nMEV 可以简单理解为以抢先交易等形式进行的链上套利，常见的就是三明治攻击，俗称夹子机器人。\n\n\n比如，当你在 Uniswap 买入 1 万美元的代币 X，机器人嗅到了这笔交易，于是赶在区块打包之前，用更高的手续费也买入 X，机器人的交易被抢先执行。\n\n\n由于 Uniswap 自动做市机制，代币 X 单价会被抬高，你的交易执行后，代币 X 价格会继续升高。这时候，机器人再生成一笔交易，将前一笔交易中较低价格买入的 X 卖出，刚好赚下差价。\n\n\n机器人生成的两笔交易刚好包夹了我们的交易，看起来就像一个三明治。\n\n\nMEV 协议和实践\n\n\n为了规范 MEV 所带来的无节制索取，加密行业也涌现出一批 MEV 相关协议，比如 Flashbots、CowSawp、Manifold Finance…",
-          "link": "https://www.theblockbeats.info/news/36855",
-          "publishedOn": "2023-04-28T14:00:04.000Z",
-          "wordCount": null,
-          "title": "LSD MEV赛道初窥：MEV市场化和公平化将会为LSD带来什么？",
           "imageUrl": null
         }
       ]
