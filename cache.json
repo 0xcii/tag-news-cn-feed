@@ -63,12 +63,62 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6816516",
+          "author": "深潮TechFlow",
+          "description": "在这篇文章中，1KX 将分析链上游戏的潜力以及它们如何改变游戏产业，包括游戏制作、游戏玩法、社区建设和商业模式等方面。",
+          "link": "https://www.defidaonews.com/article/6816516",
+          "publishedOn": "2023-05-05T06:07:30.000Z",
+          "wordCount": 334,
+          "title": "自治世界：完全链上游戏深度分析",
+          "imageUrl": "https://appserversrc.8btc.cn/Fn2KZ0D3r_cYeFLJ0Oe6izBFg1EP.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6816514",
+          "author": "MarsBit",
+          "description": "Paradigm 宣布正在开源一个用 Rust 编写 MEV Bot 的框架 Artemis 并撰文概述了 Artemis 是什么、构建原因、架构组成和未来规划。",
+          "link": "https://www.defidaonews.com/article/6816514",
+          "publishedOn": "2023-05-05T06:03:58.000Z",
+          "wordCount": 116,
+          "title": "Paradigm | Artemis 概述：开源 MEV Bot 框架",
+          "imageUrl": "https://appserversrc.8btc.cn/FjPgi9_OlXoqBnSji7Ag2wnumL09.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6816512",
+          "author": "IOSG Ventures",
+          "description": "尽管整体市场遇冷，但似乎Blur在NFT Fi上向前跃进的脚步未曾放缓。",
+          "link": "https://www.defidaonews.com/article/6816512",
+          "publishedOn": "2023-05-05T05:58:17.000Z",
+          "wordCount": 476,
+          "title": "Blur 借贷协议 Blend - NFTFi 协议矩阵关键棋",
+          "imageUrl": "https://appserversrc.8btc.cn/Frx91fmU61WFcs_ODpwqqg8rLYw-.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6816506",
+          "author": "行业资讯",
+          "description": "那么StarkWare是有什么独特的技术值得各大机构热捧？旗下的StarkNet想要解决问题？我们将在本文中一一道来。",
+          "link": "https://www.defidaonews.com/article/6816506",
+          "publishedOn": "2023-05-05T05:49:44.000Z",
+          "wordCount": 681,
+          "title": "StarkNet 技术风险、经济模型与评论",
+          "imageUrl": "https://appserversrc.8btc.cn/Fo_o13hcSvAtU2gQ85cDlyzLA31M.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6816492",
+          "author": "白泽研究院",
+          "description": "盘点在 2023 年上半年掀起波澜的 4 个以太坊改进提案",
+          "link": "https://www.defidaonews.com/article/6816492",
+          "publishedOn": "2023-05-05T05:29:17.000Z",
+          "wordCount": 486,
+          "title": "2023 年有哪些值得关注的以太坊改进提案？",
+          "imageUrl": "https://appserversrc.8btc.cn/FoNsMBMRYMKh9q7lraGJxUV9prHa.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6816484",
           "author": "行业前沿",
           "description": "最新发布的v0.10版本在实现比特币DeFi方面取得了重大进展，本文浅析RGB release v0.10的特点。",
           "link": "https://www.defidaonews.com/article/6816484",
           "publishedOn": "2023-05-05T03:26:13.000Z",
-          "wordCount": 213,
+          "wordCount": 207,
           "title": "比特币DeFi的重大推进：RGB release v0.10",
           "imageUrl": "https://appserversrc.8btc.cn/FnjVF6WN7TxS9Em6w3d1j1QMM--x.png?imageView2/1/w/500/h/300"
         },
@@ -111,56 +161,6 @@
           "wordCount": 728,
           "title": "Ordinal 是什么？ BTC NFT 解释",
           "imageUrl": "https://appserversrc.8btc.cn/FrsuWLsFXS1t4YwKPs8AFwg-6zo5.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6816376",
-          "author": "区块律动BlockBeats",
-          "description": "本文对互操性的探索趋势进行了概述解读，包括新的互操作性技术、基于乐观假设的桥及流动性共享层的一些协议等。",
-          "link": "https://www.defidaonews.com/article/6816376",
-          "publishedOn": "2023-05-04T08:50:27.000Z",
-          "wordCount": 418,
-          "title": "ABCDE Capital投研合伙人：解读互操作性发展趋势",
-          "imageUrl": "https://appserversrc.8btc.cn/FsU-LOp41gw4NP2dmthkGcWxzjdt.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6816326",
-          "author": "深潮TechFlow",
-          "description": "orc20 取消了一些 brc2 0的限制，并且定义了更多的操作。",
-          "link": "https://www.defidaonews.com/article/6816326",
-          "publishedOn": "2023-05-04T05:42:10.000Z",
-          "wordCount": 338,
-          "title": "解读 ORC-20 代币：ordinals 生态中新的发币规则",
-          "imageUrl": "https://appserversrc.8btc.cn/FlbhCjlZXAqDi_u5ybE70lhd8JRu.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6816314",
-          "author": "慢雾科技",
-          "description": "慢雾安全团队建议使用钱包、交易所时请认准官方下载渠道并从多方进行验证。",
-          "link": "https://www.defidaonews.com/article/6816314",
-          "publishedOn": "2023-05-04T05:35:08.000Z",
-          "wordCount": 461,
-          "title": "慢雾：Web3 假钱包第三方源调查分析",
-          "imageUrl": "https://appserversrc.8btc.cn/FkrRhqq7TDoH_Ukxi0vUhhDC2sqS.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6816272",
-          "author": "吴说",
-          "description": "空投猎人旨在通过推测潜在的空投并提前埋伏来赚钱。虽然这种策略可以带来高额利润，但也会带来财务风险和道德问题。",
-          "link": "https://www.defidaonews.com/article/6816272",
-          "publishedOn": "2023-05-04T02:39:42.000Z",
-          "wordCount": 374,
-          "title": "TheBlock 揭秘来自俄罗斯的“空投猎人”",
-          "imageUrl": "https://appserversrc.8btc.cn/FvT1MKkt4Auf0CKwmlY6GYYpQ2UB.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6816268",
-          "author": "行业资讯",
-          "description": "在2024财年的预算提案中，美国总统提出了数字资产挖矿能源（DAME）消费税。",
-          "link": "https://www.defidaonews.com/article/6816268",
-          "publishedOn": "2023-05-04T02:24:57.000Z",
-          "wordCount": 121,
-          "title": "拜登政府新提案下，比特币矿工可能面临30%的能源税",
-          "imageUrl": "https://appserversrc.8btc.cn/FjonteFFfywLWn65FUo-aNeRF7yn.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -170,12 +170,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/news/63276/",
+          "author": "Gao",
+          "description": "Large Language Models (LLMs) 和 Web3 技术的整合为去中心化金融（DeFi）领域带来了巨大的创新和发展机遇。",
+          "link": "https://www.web3sj.com/news/63276/",
+          "publishedOn": "2023-05-05T06:12:56.000Z",
+          "wordCount": 1109,
+          "title": "详解大型语言模型 LLMs 使用经验",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2e28e72ac3568deba4a9ce0f39f06393.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/63246/",
+          "author": "Gao",
+          "description": "Move 是把资产视为一个资源，存放在模块中，该模块类似于智能合约，其中资源是不能复制或者删除，只能移动和储存，且资源在合约上是透明的，但对合约外的调用是不透明的。",
+          "link": "https://www.web3sj.com/news/63246/",
+          "publishedOn": "2023-05-05T06:01:38.000Z",
+          "wordCount": 821,
+          "title": "五分钟了解公链Sui及其生态项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683266635759.png"
+        },
+        {
           "id": "https://www.web3sj.com/news/63241/",
           "author": "Gao",
           "description": "Blockchain Capital 似乎在 4 月 27 日将价值 1600 万美元的 MATIC 全部清仓，因为 Blockchain Capital 将所有 MATIC 都转移到了 Coinbase。该基金是 MATIC 最大的持有者之一，并在整个 2021 年和 2022 年一直购买 MATIC。",
           "link": "https://www.web3sj.com/news/63241/",
           "publishedOn": "2023-05-05T04:15:35.000Z",
-          "wordCount": 887,
+          "wordCount": 917,
           "title": "LDO遭多家机构抛售，速览四月份部分VC和聪明钱的链上活动",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683260307662.png"
         },
@@ -185,7 +205,7 @@
           "description": "大约一半的欧洲项目创始人透露，里斯本有利的税法和 DeFi 项目是其 Crypto 繁荣的主要原因。葡萄牙也从美国的 Crypto 人才外流中受益。纽约很容易获得风险投资资金，还有一流的会议，这些都对它有利。",
           "link": "https://www.web3sj.com/news/63237/",
           "publishedOn": "2023-05-05T04:11:04.000Z",
-          "wordCount": 718,
+          "wordCount": 684,
           "title": "MiCA助力葡萄牙Crypto市场超越美国？为何里斯本能成为领先的Crypto城市",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/ecb27ca5c93efc00451fbc29c8188cbe.png"
         },
@@ -195,7 +215,7 @@
           "description": "自从 Ordinal 出现以来，越来越多的用户、开发者和爱好者社区铸造了超过 20 万个 ordinal NFT，他们对 BTC 原生的 NFT 的潜力感到兴奋。但究竟什么是 Ordinal NFT，它们是如何工作的，以及它们为什么和其他的 NFT 不同？",
           "link": "https://www.web3sj.com/nftnews/63229/",
           "publishedOn": "2023-05-05T04:07:39.000Z",
-          "wordCount": 983,
+          "wordCount": 971,
           "title": "Ordinal是什么？BTC NFT解读",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683259810885.png"
         },
@@ -205,7 +225,7 @@
           "description": "本文将介绍五个最适合初学者的流动性质押协议。",
           "link": "https://www.web3sj.com/news/63219/",
           "publishedOn": "2023-05-05T03:59:37.000Z",
-          "wordCount": 850,
+          "wordCount": 827,
           "title": "Bankless：5个值得关注的ETH Staking机会",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023050417014138353650.jpg"
         },
@@ -215,7 +235,7 @@
           "description": "理论上轻客户端最安全，因为完全 Trustless，但是适配场景太少了，所以往往局限于局部生态，流动性网络 + 原子交换因为哈希时间锁的技术，基本上也是比较安全的，但是体验一般，支持的币种之类的也有限。于是你会发现市面上大家用的最多的桥还是基于外部验证人的，毕竟这个最灵活，最方便，支持场景也最多。",
           "link": "https://www.web3sj.com/news/63215/",
           "publishedOn": "2023-05-05T03:56:25.000Z",
-          "wordCount": 793,
+          "wordCount": 771,
           "title": "ABCDE Capital 投研合伙人：解读互操作性发展趋势",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683259128925.png"
         },
@@ -235,7 +255,7 @@
           "description": "类似的 Web3 教育平台作为打破 Web2 普通用户或开发者踏入 Web3 世界的壁垒，将成为 Web3 大规模采用的催化剂。特此汇总了近 30 个 Web3 教育平台以及 Layer1/Layer2 推出的官方入门和开发者资源网站，供读者一起学习和探讨。",
           "link": "https://www.web3sj.com/news/63156/",
           "publishedOn": "2023-05-04T16:00:00.000Z",
-          "wordCount": 1180,
+          "wordCount": 1172,
           "title": "梳理行业「造血」系统，Web3教育赛道项目一览",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683216200075.png"
         },
@@ -245,29 +265,9 @@
           "description": "因为亚马逊作为世界最大的电商平台之一，其加入 NFT 市场无疑会给整个领域带来巨大的影响。本文将介绍亚马逊 NFT 市场的各个方面，并分析其对 Web3 生态系统的影响。",
           "link": "https://www.web3sj.com/nftnews/63150/",
           "publishedOn": "2023-05-04T15:47:14.000Z",
-          "wordCount": 671,
+          "wordCount": 723,
           "title": "亚马逊NFT市场：能否为NFT带来合法性和采用的巨大机遇？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023050414281513648320.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63134/",
-          "author": "Gao",
-          "description": "加密行业并未继续高歌猛进，4 月份再次陷入低迷，有人认为熊市并未完全结束，但也有人认为或许只是暂时市场修正，并不会影响长期发展。接下来，就让我们用 12 张图解读刚刚过去的「迷之四月」吧。",
-          "link": "https://www.web3sj.com/news/63134/",
-          "publishedOn": "2023-05-04T15:41:08.000Z",
-          "wordCount": 764,
-          "title": "熊市重袭还是短暂修正？12 张图解读加密行业「迷之四月」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683214473224.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63095/",
-          "author": "Gao",
-          "description": "在这篇文章里，我们将依托上篇文章建立的框架，深入 Polygon zkEVM 关于 Sequencer 和 Bridge 更多的技术细节，同时也探讨未来潜在的去中心化 Sequencer 架构的不同特点。",
-          "link": "https://www.web3sj.com/news/63095/",
-          "publishedOn": "2023-05-04T15:34:20.000Z",
-          "wordCount": 2066,
-          "title": "技术详解Polygon zkEVM Bridge和Sequencer框架",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683214790814.png"
         }
       ]
     },
@@ -277,12 +277,102 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/5ix6wc00.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，据Cointelegraph报道，Coinbase首席执行官Brian Armstrong今日在第一季度财报电话会议上表示，尽管美国的监管存在不确定性，但该公司长期“100%致力于”美国市场。Armstrong提到的他对美国监管的乐观来自于他对国会的信心，他相信国会很快就会通过一套明确的规则，Armstrong称：“当我访问华盛顿时，两党都强烈支持国会介入并制定新的立法，在美国制定明确的规则手册，我认为这对美国来说非常重要。”此外，Armstrong对美国证券交易委员会（SEC）不可预测的执法行动感到担忧。\n此前消息，Coinbase于5月2日推出国际交易所，并于今日披露其第一季度营收为7.73亿美元，环比增加23%。",
+          "link": "https://panewslab.com/zh/articledetails/5ix6wc00.html",
+          "publishedOn": "2023-05-05T05:46:56.000Z",
+          "wordCount": 380,
+          "title": "Coinbase CEO：公司仍100%致力于美国市场",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3u58blr9.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，Tally投票页面显示，Uniswap社区关于“创建v3deployments.uniswap.eth子域名并填充其文本记录”提案已获链上投票通过，最终支持率达99.98%，目前该提案并已进入待执行列表。\n根据该提案，Uniswap v3的规范部署将被记录在一个新的子域中。该提案旨在创建该子域名 (v3deployments.uniswap.eth) ，以跟踪Uniswap V3在L1和L2上的官方部署。此前zkSync和Polygon zkEVM都已经通过了治理投票，并将在未来部署完成后的某个时间添加到该子域。\n此前消息，Uniswap V3核心代码版权商业保护（BSL）已于4月1日到期。",
+          "link": "https://panewslab.com/zh/articledetails/3u58blr9.html",
+          "publishedOn": "2023-05-05T05:29:15.000Z",
+          "wordCount": 399,
+          "title": "Uniswap即将部署新uniswap.eth子域名，以跟踪V3官方部署",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/h5ohhkbe.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，NFT聚合交易市场Element创始人王峰发推文称：“Element将开发支持Bitcoin Ordinals的BRC20铭文代币及NFT交易市场，并陆续集成目前这个全新市场上主流钱包，包括Ordinals wallet和Unisat。”\n他还表示：“Bitcoin Ordinals协议已经带来了加密市场范式改变，未来可期。我个人判断，这个全新资产交易场景大概率会发生在去中心化平台上，而不是CEX。”",
+          "link": "https://panewslab.com/zh/articledetails/h5ohhkbe.html",
+          "publishedOn": "2023-05-05T05:14:08.000Z",
+          "wordCount": 379,
+          "title": "Element将开发支持Bitcoin Ordinals的BRC20铭文代币及NFT交易市场",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/m7i15h7v.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，据The Information报道，三位了解OpenAI财务状况的人士透露，该公司去年开发了ChatGPT，并从谷歌招聘了关键员工，致使亏损大约翻了一番，达到5.4亿美元左右。这一此前未公布的数字反映出，在该公司开始出售聊天机器人的使用权限之前，其机器学习模型的训练成本高昂。\n尽管在OpenAI于2月推出付费版聊天机器人后，公司收入有所增长，但随着越来越多的客户使用其人工智能技术，以及该公司对该软件未来版本进行培训，这些成本可能会继续上升。\nOpenAI首席执行官Sam Altman私下暗示，公司可能会在未来几年筹集至多1000亿美元资金，以进一步开发人工智能的能力。",
+          "link": "https://panewslab.com/zh/articledetails/m7i15h7v.html",
+          "publishedOn": "2023-05-05T05:04:40.000Z",
+          "wordCount": 362,
+          "title": "知情人士：ChatGPT开发公司OpenAI去年亏损翻倍至5.4亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1twjw2q5.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，据Cointelegraph报道，Terraform Labs正在寻求驳回美国投资者Nick Patterson等提起的针对该公司的集体诉讼，理由是所引用的美国证券法不适用于其外国开发的协议。据悉，该诉讼声称Terraform Labs出售未注册证券并误导投资者。\n根据Terraform的说法，同样的论点也适用于诉讼中的RICO（受敲诈勒索者影响和腐败的组织）指控，该指控声称该公司的目标是以散户投资者为代价获取利润。",
+          "link": "https://panewslab.com/zh/articledetails/1twjw2q5.html",
+          "publishedOn": "2023-05-05T04:17:30.000Z",
+          "wordCount": 393,
+          "title": "Terraform Labs以美国法律不适用为由要求寻求驳回集体诉讼",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fweyv2ft.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，据央视新闻报道，当地时间5月4日，美国参议院银行委员会就近期大型银行倒闭事件举行听证会。会上，银行监管专家表示，管理不善是导致破产的主要原因。\n美国商会副主席Thomas Quaadman当天在听证会上表示，硅谷银行、签名银行和第一共和银行有非常独特的商业模式，硅谷银行专注于资本密集型的科技以及生物医学初创企业；第一共和银行集中于财富管理；而签名银行则有大量的数字资产风险。\n在听证会上，专家们明确将最近银行倒闭潮归咎于行政管理不善，同时他们担心银行倒闭会将美国经济拖入衰退。专家和议员们也表示，美联储存在监管失误。",
+          "link": "https://panewslab.com/zh/articledetails/fweyv2ft.html",
+          "publishedOn": "2023-05-05T04:11:23.000Z",
+          "wordCount": 356,
+          "title": "美参议院已就银行倒闭潮举行听证会，专家表示银行管理不善是主因",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ptaobbu8.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，据彭博社报道，加密交易所Coinbase首席财务官Alesia Haas表示，该公司正在密切关注人工智能，以及它将如何影响其业务的各个方面，“我们正在寻找这些机会”。\n报道称，Coinbase正在研究人工智能如何以经济高效的方式改善客户体验。在去年10月份的一篇博客文章中，Coinbase讨论了使用机器学习来打击欺诈，并使交易平台更加安全。\n此前今日早些时候消息，Coinbase第一季度营收为7.73亿美元，环比增加23%。",
+          "link": "https://panewslab.com/zh/articledetails/ptaobbu8.html",
+          "publishedOn": "2023-05-05T04:06:50.000Z",
+          "wordCount": 371,
+          "title": "Coinbase正密切关注AI以及AI对该公司业务的影响",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7q15gq8g.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，据官方推特，OpenSea Pro宣布已集成数据可视化工具Bubblemaps，允许用户通过观察链上关系和活动，查看某一系列的前150名巨鲸持有者之间的可视化关系，继而更轻松地跟踪持有者的行为并提高项目的整体透明度。",
+          "link": "https://panewslab.com/zh/articledetails/7q15gq8g.html",
+          "publishedOn": "2023-05-05T03:53:24.000Z",
+          "wordCount": 376,
+          "title": "OpenSea Pro集成数据可视化工具Bubblemaps，支持查看巨鲸链上关系及活动",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7kl0j81p.html",
+          "author": "PA一线",
+          "description": "PANews 5月5日消息，据彭博社报道，津巴布韦央行将于下周开始向投资者出售黄金支持的数字货币，并将个人的最低认购价格定为10美元，企业和其他实体的最低认购价格定为5000美元。\n津巴布韦储备银行周四在一份声明中表示，这些代币将以美元和当地货币出售，但当地货币应比自愿买卖银行监中间利率高出20%。出价要约于5月8日开始，两天后结束。引入数字代币是这个南部非洲国家支持本国货币的最新尝试，今年在官方市场上，该国当地货币兑美元贬值了37%。\n此前4月28日消息，津巴布韦央行将于5月8日起发行黄金支持的数字代币。",
+          "link": "https://panewslab.com/zh/articledetails/7kl0j81p.html",
+          "publishedOn": "2023-05-05T03:47:27.000Z",
+          "wordCount": 372,
+          "title": "津巴布韦央行为下周发行的基于黄金的数字货币设定最低认购价格",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/jc1qfw11.html",
           "author": "PA一线",
           "description": "PANews 5月5日消息，据Cointelegraph报道，美国蒙大拿州州长Greg Gianforte签署了第178号法案，在很大程度上阻止了该州地方政府通过禁止加密货币挖矿的法律。该立法通过修改现有法律，禁止对挖矿公司征收歧视性电价，以及禁止对加密货币作为支付方式征税，有效地保护了该州加密矿工的权利。\n该法案的最新版本表明，该立法在一定程度上是作为一种预防措施，以回应其他州的某些提议，即“数字资产挖矿经常面临州和地方一级的监管困难。”\n此前消息，该法案已分别于2月和4月在参众议院通过。",
           "link": "https://panewslab.com/zh/articledetails/jc1qfw11.html",
           "publishedOn": "2023-05-05T03:33:58.000Z",
-          "wordCount": 383,
+          "wordCount": 365,
           "title": "美国蒙大拿州州长签署支持加密货币挖矿的法案，正式成为法律",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -292,7 +382,7 @@
           "description": "PANews 5月5日消息，加密借贷平台Celsius发推称：“从今天开始，符合资格的用户将能够提取100%的可分配托管资产（减去某些交易费用）。今年早些时候，法院批准分配合格用户可分配托管资产的剩余6%，总计为合格用户可分配托管资产的100%。此前合格用户被授权可提取其各自可分配托管资产的94%。”",
           "link": "https://panewslab.com/zh/articledetails/4fkpslnf.html",
           "publishedOn": "2023-05-05T03:24:22.000Z",
-          "wordCount": 398,
+          "wordCount": 380,
           "title": "Celsius：符合资格的用户将能够提取100%的可分配托管资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -302,7 +392,7 @@
           "description": "PANews 5月5日消息，据The Block报道，玩具NFT市场Cryptoys宣布将与迪士尼合作，销售以《星球大战》系列电影中最具代表性的三个角色为原型的数字玩具。Cryptoys公司表示，将推出“15款限量版卢克·天行者、莱娅公主和达斯·维达的收藏版数字玩具。”\n此外据Cryptoys官方消息，上述加密玩具将于5月24日发售，每件售价为39.99美元。",
           "link": "https://panewslab.com/zh/articledetails/m4l3z30d.html",
           "publishedOn": "2023-05-05T03:17:29.000Z",
-          "wordCount": 383,
+          "wordCount": 365,
           "title": "迪士尼与NFT市场Cryptoys合作推出“星球大战”加密玩具，将于5月24日发售",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +402,7 @@
           "description": "PANews 5月5日消息，据Cointelegraph报道，加密交易所Bitget 宣布启动企业社会责任（CSR）计划「Blockchain4Youth」。该计划旨在通过鼓励年轻一代来共同打造加密世界的未来，并为行业输出优质人才。Bitget 预计将在未来5年内在该计划中投入1000万美元。Bitget 还将与其他领先的区块链公司合作，孵化年轻企业家的创新项目，并举办 U30（30岁以下）黑客松大赛，以选出最有前途的项目。\nCSR 计划将于5月开始，将与台湾、越南、泰国与其他更多地区的顶级大学举办一系列校园讲座， Bitget 学院课程也将于同月份推出，未来Bitget计划推出奖学金，向年轻的区块链爱好者提供资金资助。",
           "link": "https://panewslab.com/zh/articledetails/qtdto8bh.html",
           "publishedOn": "2023-05-05T03:05:47.000Z",
-          "wordCount": 403,
+          "wordCount": 385,
           "title": "Bitget启动CSR计划「Blockchain4Youth」，将投资1000万美元推动青年人才发展",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +412,7 @@
           "description": "PANews 5月5日消息，据官方博客，支付巨头Stripe宣布推出Stripe托管的法币到加密货币入金渠道（onramp），使Web3公司更容易帮助美国客户购买加密货币。此外，Stripe正在向所有Web3用户开放该入金渠道，包括在过去几个月加入候补名单的用户。\nStripe现在为其入金渠道提供两种实施选项：第一种是去年12月份宣布的一个可嵌入的入金渠道，允许开发人员仅用10行代码就可以将加密货币购买小部件直接插入到自己的网站或应用中。第二种是在crypto.link.com上的Stripe托管入口，公司可以将其美国客户引导至该入口，无需代码。",
           "link": "https://panewslab.com/zh/articledetails/zt05p089.html",
           "publishedOn": "2023-05-05T03:03:15.000Z",
-          "wordCount": 371,
+          "wordCount": 353,
           "title": "支付巨头Stripe推出由其托管的法币到加密货币的入金渠道",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +422,7 @@
           "description": "PANews 5月5日消息，据官方博客，Sui基金会宣布推出Sui改进提案（SIP），允许社区成员发现问题并向Sui网络提议新功能、改进或重大升级。SIP遵循的流程包括：想法、草稿、审查、Last Call、Final（定稿）和Fast Track。",
           "link": "https://panewslab.com/zh/articledetails/t0j4krfv.html",
           "publishedOn": "2023-05-05T02:48:18.000Z",
-          "wordCount": 402,
+          "wordCount": 384,
           "title": "Sui基金会推出Sui改进提案（SIP）及其流程",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +432,7 @@
           "description": "PANews 5月5日消息，据彭博社报道，肯尼亚财政部提议在下一个预算年度对数字资产的转移征收3%的税。该国国家预算将于6月8日公布。\n此前4月30日消息，肯尼亚财政部表示将开始对加密交易所赚取的收入征收1.5%的税。",
           "link": "https://panewslab.com/zh/articledetails/cxvmec06.html",
           "publishedOn": "2023-05-05T02:44:39.000Z",
-          "wordCount": 374,
+          "wordCount": 356,
           "title": "肯尼亚财政部提议对数字资产转移征收3%的税",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +442,7 @@
           "description": "PANews 5月5日消息，据官方博客，加密风投公司Paradigm宣布正在开源MEV Bot框架Artemis。Artemis是用Rust编写MEV Bot的框架，具有简单性、模块化和高性能等特点。Artemis通过为编写MEV Bot提供灵活和可重用的组件，并作为贡献策略和守护者的存储库，来缓解MEV市场中新进入者面临的诸多障碍。\nArtemiscore包括三个主要组件：Collectors（接收待处理交易、新区块、链下订单等外部事件，并将它们转化为内部事件表示）、策略（包含每个MEV机会所需的核心逻辑）和执行器。此外，Paradigm正在开源跨市场NFT套利策略。",
           "link": "https://panewslab.com/zh/articledetails/nz3kg3b2.html",
           "publishedOn": "2023-05-05T02:33:31.000Z",
-          "wordCount": 398,
+          "wordCount": 380,
           "title": "Paradigm正在开源用Rust编写的MEV Bot框架Artemis",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +452,7 @@
           "description": "PANews 5月5日消息，Cosmos Hub在推特上表示：“提案#790已获得批准，Cosmos社区支持在Hub上实施流动性质押模块（Liquid Staking Module），LSM带来了即时流动性质押，无需等待解绑期，该模块将集成到近期的未来升级中。\nCosmos Hub对该功能进一步解释道：“用户将能够直接对他们已经质押的Atom进行流动性质押。为了减轻流动性质押风险，LSM引入了治理控制参数。可以流动质押的ATOM总量将有一个初始上限。上限将设定为所有质押ATOM的25％，并且可以通过治理进行更改。作为一项额外的安全功能，想要从流动质押提供商处获得委托的验证者将需要自行绑定一定数量的ATOM。”",
           "link": "https://panewslab.com/zh/articledetails/5trun5eh.html",
           "publishedOn": "2023-05-05T02:22:00.000Z",
-          "wordCount": 404,
+          "wordCount": 386,
           "title": "Cosmos Hub将在下次升级中实施流动性质押模块",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +462,7 @@
           "description": "PANews 5月5日消息，Arbitrum开发团队Offchain Labs在推特上表示：“作为对社区的提醒，今天和未来几天，大量投资者和团队的ARB将被转移到托管钱包和/或归属智能合约。提醒一下，所有投资者和团队的ARB都被锁定，并且锁定由托管人以合同方式执行，或者通过对那些选择自我托管的人授予智能合约来执行。”",
           "link": "https://panewslab.com/zh/articledetails/mo4qzgs3.html",
           "publishedOn": "2023-05-05T02:06:44.000Z",
-          "wordCount": 405,
+          "wordCount": 387,
           "title": "Offchain Labs：近几日大量投资者和团队的ARB将被转至托管钱包或归属智能合约",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,98 +472,8 @@
           "description": "PANews 5月5日消息，萨尔瓦多总统Nayib Bukele昨日在推特上披露，其签署了一项取消对技术创新征税。该法律名为《创新和技术制造激励法案》，该法案取消了技术创新、软件和应用程序编程、人工智能、计算机和通信硬件制造方面的所有税收(包括收入、财产、资本利得和进口关税)。",
           "link": "https://panewslab.com/zh/articledetails/x5uvi51x.html",
           "publishedOn": "2023-05-05T01:58:17.000Z",
-          "wordCount": 388,
+          "wordCount": 370,
           "title": "萨尔瓦多总统签署取消对技术创新征税的法律",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ur8dwisw.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，据Cointelegraph报道，在美国特拉华州破产法院于5月4日举行的听证会上，法官John Dorsey批准FTX债务人于4月提出将LedgerX出售给Miami International Holdings子公司M7 Holdings的动议。FTX在达成购买协议时表示，交易总收益约为5000万美元，破产法庭尚未对多家媒体要求其公开某些FTX客户身份的动议做出裁决。\nFTX.US于2021年8月购买LedgerX。在一次探讨FTX倒闭的国会听证会上，美国商品和期货交易委员会主席Rostin Behnam曾表示，与其他FTX实体相比，LedgerX是“健康的”、“有偿付能力的”和“可运营的”。\n此前4月26日消息，FTX债务人同意以约5000万美元的价格出售LedgerX。",
-          "link": "https://panewslab.com/zh/articledetails/ur8dwisw.html",
-          "publishedOn": "2023-05-05T01:42:15.000Z",
-          "wordCount": 414,
-          "title": "美国法官批准FTX将LedgerX出售给M7 Holdings",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/6uuru35t.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，Voyager无担保债权人官方委员会（UCC）发推称，Voyager和UCC正在完成清算程序，预计会在5月5日提交清算程序。清算程序将详细说明债权人接收资金分配的过程。提交清算程序后，各方将有10天的时间提出异议。如果没有人提出异议，Voyager打算届时使该计划“生效”。如果有人提出异议，法院将在计划生效之前举行听证会以考虑异议。Voyager希望在接下来的几周内开始向债权人分发。\n此前4月6日消息，因“美国监管环境充满敌意”，Binance.US终止收购Voyager。数据显示，Voyager目前约有10.4亿资产可供清算。",
-          "link": "https://panewslab.com/zh/articledetails/6uuru35t.html",
-          "publishedOn": "2023-05-05T01:36:56.000Z",
-          "wordCount": 382,
-          "title": "Voyager清算程序预计于5月5日提交，将详细说明债权人接收资金分配的过程",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/j1s1g84n.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，欧易OKX在最新公告中发布SUI上线时无法撤单问题的补偿方案，补偿用户范围为在集合竞价期间进行买单委托，期间遇到无法撤单问题，订单最后成功成交，成交价格在1.3 USDT以上的用户，补偿金额=用户集合竞价委托订单最终成交数量×(订单买入均价–1.3) USDT，补偿金额将在3个工作日内打到符合补偿条件的账户。\n此前昨日消息，徐明星表示，将补偿所有无法取消订单且以高于1.3 USDT价格购买SUI的客户；OKX还发布SUI相关交易事故的原因，随后OKX表示，SUI撤单问题已全部恢复，提币已开放。",
-          "link": "https://panewslab.com/zh/articledetails/j1s1g84n.html",
-          "publishedOn": "2023-05-05T01:19:45.000Z",
-          "wordCount": 408,
-          "title": "OKX发布SUI上线时无法撤单问题补偿方案，补偿金额3个工作日内发放",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/sf386938.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，今日凌晨4:00，Curve Finance发推称：“Curve原生稳定币crvUSD的第三次部署已完成。没有错误，但修复了在某些情况下意外高gas使用量的问题。”而在昨日11:32，Curve Finance宣布crvUSD完成了第二次部署。\n此前昨日消息，Curve表示crvUSD第一次部署脚本存在错误，需重新部署。\n相关阅读：解读Curve稳定币：可提高协议收入，减少借贷清算带来的负面影响",
-          "link": "https://panewslab.com/zh/articledetails/sf386938.html",
-          "publishedOn": "2023-05-05T01:07:59.000Z",
-          "wordCount": 415,
-          "title": "Curve原生稳定币crvUSD完成第三次部署，修复某些情况下高gas使用量问题",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/p7g0rfu6.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，Token Terminal数据显示，Uniswap每日活跃用户在5月2日达到94550人，5月3日为89755人，创下2021年5月以来新高。",
-          "link": "https://panewslab.com/zh/articledetails/p7g0rfu6.html",
-          "publishedOn": "2023-05-05T00:59:02.000Z",
-          "wordCount": 396,
-          "title": "数据：Uniswap日活用户创2021年5月以来新高，5月2日突破9万人",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/gwy7h6er.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，针对路透社今日通过一篇报道质疑币安预防和处理恐怖主义融资的合规政策，币安回应称：“路透社的同一位记者故意遗漏了关键事实以符合他们的叙述，我们的政策和流程符合AMLD5/6反洗钱和反恐怖主义融资要求，并且我们有一个强大的合规计划，其中结合了复杂的反洗钱和全球制裁原则和工具来检测和处理可疑活动。”\n币安表示：“一个经常被忽视的事实是，一旦交易在区块链上得到验证，加密交易所就不可能阻止或撤销数字资产存款。加密货币交易所合规性的真正衡量标准是它识别可疑存款并对其做出反应所采取的步骤。当我们了解到不良行为时，我们会进行干预并采取适当的行动，包括冻结资金和与执法部门合作以支持调查。关于文章中提到的具体组织，需要澄清的是，不良行为者不会以其犯罪企业的名义注册账户。这就是为什么我们的团队与执法部门合作，并利用仅供他们使用的信息来识别为非法组织操作帐户的个人。”\n此前今日早些时候消息，路透社报道称，文件显示以色列查封两个币安加密账户以“挫败”伊斯兰国。",
-          "link": "https://panewslab.com/zh/articledetails/gwy7h6er.html",
-          "publishedOn": "2023-05-05T00:30:49.000Z",
-          "wordCount": 383,
-          "title": "币安回应路透社质疑：公司政策和流程符合反洗钱和反恐怖主义融资要求",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/tux5bs8d.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，据路透社报道，文件显示，自2021年以来，以色列在加密交易所币安查封了大约190个加密账户，其中包括两个据称与伊斯兰国(Islamic State)有关的账户，以及数十个据称由与伊斯兰哈马斯(Hamas)组织有关的巴勒斯坦公司所有的账户。以色列国家反恐融资局(NBCTF)网站上的一份文件显示，1月12日，NBCTF没收了两个币安账户及其内容。NBCTF在其网站上表示，此次扣押是为了“挫败”伊斯兰国的“活动”，并“削弱其实现目标的能力”。NBCTF的这份文件此前从未被报道过，它没有提供有关被查获的加密货币价值的任何细节，也没有说明这些账户与伊斯兰国有何联系。",
-          "link": "https://panewslab.com/zh/articledetails/tux5bs8d.html",
-          "publishedOn": "2023-05-05T00:24:49.000Z",
-          "wordCount": 378,
-          "title": "路透社：文件显示以色列查封币安加密账户以“挫败”伊斯兰国",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/tt4banll.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，CertiK在推特更新了关于4月25日Merlin安全事件的最新进展。CertiK表示，这是一个内部Rug Pull，Merlin内部成员恶意利用了所有者钱包的特权。Certik最初试图与Merlin团队的其他成员合作，但许多核心成员拒绝验证他们的真实身份。缺乏合作使核实和救援受害者的过程变得复杂。Certik正专注于与执法部门合作，并已向美国和英国相关机构提交了信息。团队正在探索使用之前承诺的200万美元打击Rug Pull。在合作伙伴的帮助下，Certik已成功冻结了16万美元的被盗资金，之后将继续监控所有被盗资金的流向，并尽力冻结及追回剩余资金。未来CertiK将在审计摘要中优先考虑中心化风险，以确保用户全面了解潜在风险。据此前消息，CertiK表示正在探索一项社区补偿计划以弥补Merlin DEX事件造成的约200万美元用户资金损失。初步调查表明，该恶意开发商位于欧洲，正在与执法部门合作追查他们。已敦促该恶意开发者接受20%的白帽赏金。若攻击者不接受，将立即采取一切可能的行动来保护社区。",
-          "link": "https://panewslab.com/zh/articledetails/tt4banll.html",
-          "publishedOn": "2023-05-05T00:04:49.000Z",
-          "wordCount": 401,
-          "title": "CertiK：Merlin事件为内部Rug Pull，已向美国和英国执法机构提交信息",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/xhwp2b9y.html",
-          "author": "PA一线",
-          "description": "PANews 5月5日消息，据官方博客，专注于比特币等项目的非营利组织OpenSats宣布从Jack Dorsey的慈善计划那里收到了1000万美元的捐款，该捐款将用于支持以比特币、去中心化社交协议Nostr和相关技术为重点的免费开源软件和项目的开发。\n所有捐赠的资金将全部分配给OpenSats董事会审查的项目。startsmall的捐赠包括为OpenSats的运营预算提供资金，此外，捐赠金额的一半（500万美元）将用于推进不断发展的新Nostr生态系统。OpenSats表示其已建立了一个由Nostr开发者组成的委员会，包括fiatjaf和NVK，他们将帮助OpenSats评估项目和协议的贡献。",
-          "link": "https://panewslab.com/zh/articledetails/xhwp2b9y.html",
-          "publishedOn": "2023-05-05T00:01:20.000Z",
-          "wordCount": 385,
-          "title": "Jack Dorsey向非营利组织OpenSats捐赠1000万美元，以资助比特币和Nostr开发",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -591,6 +591,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36897",
+          "author": null,
+          "description": "Arbitrum空投的财富效应点燃了市场对L2的信心，纷纷布局还未发币的L2。而80亿美元高估值的StarkWare自然是备受瞩目。那么StarkWare是有什么独特的技术值得各大机构热捧？",
+          "link": "https://www.theblockbeats.info/news/36897",
+          "publishedOn": "2023-05-05T04:28:29.000Z",
+          "wordCount": null,
+          "title": "StarkNet技术风险、经济模型与评论",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36895",
           "author": null,
           "description": "尽管整体市场遇冷，但似乎Blur在NFT Fi上向前跃进的脚步未曾放缓。",
@@ -678,16 +688,6 @@
           "publishedOn": "2023-05-04T03:09:10.000Z",
           "wordCount": null,
           "title": "a16z：如何在加密动荡期招聘Web3员工—指南和最佳实践法则",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36884",
-          "author": null,
-          "description": "鲍威尔称：「通胀不会这么快下降，需要一些时间，如果我们的预测大体上是正确的，那么降息就不合适了，我们也不会降息。」",
-          "link": "https://www.theblockbeats.info/news/36884",
-          "publishedOn": "2023-05-04T02:56:57.000Z",
-          "wordCount": null,
-          "title": "美联储加息 25 个基点暗示暂停，鲍威尔称「现在降息为时过早」",
           "imageUrl": null
         }
       ]
