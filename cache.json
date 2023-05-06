@@ -63,6 +63,26 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6816682",
+          "author": "行业前沿",
+          "description": "本文主要对Axelar、Celer Network、Layerzero、Multichain和Wormhole这5个更具有拓展性的消息跨链项目进行安全性相关内容的梳理和总结。",
+          "link": "https://www.defidaonews.com/article/6816682",
+          "publishedOn": "2023-05-06T07:09:41.000Z",
+          "wordCount": 705,
+          "title": "探索5个消息跨链项目的安全机制",
+          "imageUrl": "https://appserversrc.8btc.cn/Fvs8jaHLi_ZDm4-ykM_9KQ7EWxUl.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6816678",
+          "author": "深潮TechFlow",
+          "description": "“醋不及防”，PEPE 神话又开始让众人开始因别人家的发财故事而感到焦虑。",
+          "link": "https://www.defidaonews.com/article/6816678",
+          "publishedOn": "2023-05-06T06:59:41.000Z",
+          "wordCount": 356,
+          "title": "“屌丝”翻身靠 MEME ，揭密 PEPE 背后的 NFT 势力",
+          "imageUrl": "https://appserversrc.8btc.cn/Fjm-CSET-F45smqbme9d-W4ayE-f.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6816640",
           "author": "CoinVoice",
           "description": "尽管MEV-Share协议目前仍处于测试阶段，但它已经成功地将共享收益机制引入了以太坊生态系统，为数量庞大的普通用户打开了MEV收益的大门。",
@@ -128,7 +148,7 @@
           "description": "扩展比特币生态系统有四种主要方法：无升级式扩容、侧链、升级式扩容和单程转账",
           "link": "https://www.defidaonews.com/article/6816526",
           "publishedOn": "2023-05-05T07:00:59.000Z",
-          "wordCount": 326,
+          "wordCount": 323,
           "title": "Ordinals 与 BRC-20热潮下，盘点比特币可扩展性发展的四大方向",
           "imageUrl": "https://appserversrc.8btc.cn/FrlHXmP5Y2jSZlKiO6xjiYNgMj2R.png?imageView2/1/w/500/h/300"
         },
@@ -141,26 +161,6 @@
           "wordCount": 158,
           "title": "Celestia：测试模块化区块链软件简介",
           "imageUrl": "https://appserversrc.8btc.cn/FjKB7RxJg_JWOD7jfrwXBM_NydAh.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6816516",
-          "author": "深潮TechFlow",
-          "description": "在这篇文章中，1KX 将分析链上游戏的潜力以及它们如何改变游戏产业，包括游戏制作、游戏玩法、社区建设和商业模式等方面。",
-          "link": "https://www.defidaonews.com/article/6816516",
-          "publishedOn": "2023-05-05T06:07:30.000Z",
-          "wordCount": 334,
-          "title": "自治世界：完全链上游戏深度分析",
-          "imageUrl": "https://appserversrc.8btc.cn/Fn2KZ0D3r_cYeFLJ0Oe6izBFg1EP.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6816514",
-          "author": "MarsBit",
-          "description": "Paradigm 宣布正在开源一个用 Rust 编写 MEV Bot 的框架 Artemis 并撰文概述了 Artemis 是什么、构建原因、架构组成和未来规划。",
-          "link": "https://www.defidaonews.com/article/6816514",
-          "publishedOn": "2023-05-05T06:03:58.000Z",
-          "wordCount": 116,
-          "title": "Paradigm | Artemis 概述：开源 MEV Bot 框架",
-          "imageUrl": "https://appserversrc.8btc.cn/FjPgi9_OlXoqBnSji7Ag2wnumL09.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -170,14 +170,54 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/news/63806/",
+          "author": "Gao",
+          "description": "以太坊生态系统的未来可能由简单的 L1、可扩展的 L2 和定制的 L3 解决方案组成。",
+          "link": "https://www.web3sj.com/news/63806/",
+          "publishedOn": "2023-05-06T07:10:26.000Z",
+          "wordCount": 714,
+          "title": "简析 Layer3 的三大优势：可定制性、互操作性、低成本",
+          "imageUrl": "https://www.web3sj.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/63802/",
+          "author": "Gao",
+          "description": "SharkTeam 对此事件第一时间进行了技术分析，并总结了安全防范手段，希望后续项目可以引以为戒，共筑区块链行业的安全防线。",
+          "link": "https://www.web3sj.com/news/63802/",
+          "publishedOn": "2023-05-06T07:08:13.000Z",
+          "wordCount": 689,
+          "title": "DEUS被攻击事件分析：稳定币DEI合约存在burn逻辑漏洞",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683356987546.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/63798/",
+          "author": "Gao",
+          "description": "Mobaverse 是第一个提出并实现将 NFT 汇聚到商业应用平台的 GameFi。 据 The Block 报道，Mobaverse 于 2022 年 8 月完成 200 万美元首轮融资, 该笔融资主要用于游戏开发。其中 Animoca、Shima Capital 领投，Big Brain holdings、Klaytn、Orgin Ventures、Waterdrip Capital 等机构参投。",
+          "link": "https://www.web3sj.com/gamefinews/63798/",
+          "publishedOn": "2023-05-06T06:58:58.000Z",
+          "wordCount": 800,
+          "title": "三分钟了解Mobaverse：支持NFT商业化的GameFi游戏",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/10-1683342067682.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/63790/",
+          "author": "Gao",
+          "description": "测试区块链网络对于确保其安全性、可靠性和长期稳定性至关重要。测试确保如果网络没有按预期运行，问题会在部署之前被识别和解决。对于模块化区块链，测试过程更为复杂，因为有更多的节点类型和可能的设置。区块链的测试策略 在进行测试过程时要记住的事项 所有团队，Celestia Labs 也不例外，在软件开发的每个方面都有有限的人力资源。",
+          "link": "https://www.web3sj.com/news/63790/",
+          "publishedOn": "2023-05-06T06:50:08.000Z",
+          "wordCount": 683,
+          "title": "浅析模块化区块链测试的重要性及策略",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683355948522.png"
+        },
+        {
           "id": "https://www.web3sj.com/news/63786/",
           "author": "Gao",
-          "description": "本次开发者会议后，将会有组暂定 EIP 被纳入到下次网络升级 Dencun (Deneb + Cancun) 中。",
+          "description": "我们在计划下一个升级 Dencun 的最后阶段了被纳入的 EIP 包括：4844、6780、1153 和 6475，但这些规范都还没冻结 EIP 2537、4788 和 6493 已被列入候选名单很多其他的 EIP 现在仍在 EthMagicians ‍论坛上被讨论我起草了 EIP-6953，总结了长期以来激活网络升级的触发机制 今年夏天会在一些地方看到我谈论以太坊的治理。",
           "link": "https://www.web3sj.com/news/63786/",
           "publishedOn": "2023-05-06T06:16:20.000Z",
-          "wordCount": 894,
+          "wordCount": 898,
           "title": "上海升级完成后，以太坊核心开发者会议又有哪些新内容？",
-          "imageUrl": "https://www.web3sj.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png"
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683354897258.png"
         },
         {
           "id": "https://www.web3sj.com/news/63780/",
@@ -185,7 +225,7 @@
           "description": "对于此类行为，实践中存在着迥然不同的两种思路，一种思路认为，应当构成盗窃罪，而另一种思路则认定应当构成非法获取计算机信息系统数据罪。这两种思路甚至可能出现在同一个案件中的一二审法院的争锋之中。",
           "link": "https://www.web3sj.com/news/63780/",
           "publishedOn": "2023-05-06T06:13:30.000Z",
-          "wordCount": 649,
+          "wordCount": 643,
           "title": "拟定价500,000？虚拟货币也定「盗窃」？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/b908528928a0afeac5b82819590cadca.jpg"
         },
@@ -195,7 +235,7 @@
           "description": "想要实现数十万亿美元的市场，光靠目前已经形成的近 1 万亿美元加密原生市场远远不够，花旗给出了一个更广阔的维度——现实世界资产代币化（Real World Assets Tokenization）。目前近 1 万亿规模的加密原生市场已然激情澎湃，想象一下数十万亿美元市场该是何等波澜壮阔！",
           "link": "https://www.web3sj.com/news/63724/",
           "publishedOn": "2023-05-06T05:38:46.000Z",
-          "wordCount": 1956,
+          "wordCount": 1959,
           "title": "花旗RWA研报：金钱、代币与游戏",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683352630770.png"
         },
@@ -205,7 +245,7 @@
           "description": "首先我们先来了解一下相关的基础概念，流动性质押是一种新型的质押方式，它允许用户将代币质押以获得奖励，同时这些代币仍然能够用于交易或其他目的。",
           "link": "https://www.web3sj.com/news/63706/",
           "publishedOn": "2023-05-06T05:24:34.000Z",
-          "wordCount": 725,
+          "wordCount": 763,
           "title": "五个典型的ETH质押方案",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/a847043ad9784dd448591e1866009dfa-1.jpg"
         },
@@ -215,7 +255,7 @@
           "description": "如果买家在 Meme Coin 刚火之前买入，放弃短期获利机会继续 Hold，则靠 Meme Coin 中致富几率大大增加。例如，如果在「屎币」（SHIB）刚刚推出时花费 11.87 美元买入，投资者可能在 1 年零 3 个月内成为 Meme Coin 百万富翁。",
           "link": "https://www.web3sj.com/news/63699/",
           "publishedOn": "2023-05-06T05:19:10.000Z",
-          "wordCount": 920,
+          "wordCount": 921,
           "title": "PEPE再掀投机热潮，下一个Meme Coin是什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683350492304.png"
         },
@@ -225,49 +265,9 @@
           "description": "而近日，PEPE 的轮番暴涨让 meme 币 / 土狗币再次登上了加密市场的主舞台。几天里，几十个 meme 币 / 土狗币「跟风」出世，动辄数十倍的涨幅，让市场一半在造富神话中狂欢 ，一半在 Fomo 中持续焦虑。目前热门的 meme 币 / 土狗币中已经诞生了多个流派玩法，也不乏披上 meme 外衣的草草跑路的骗局，玩家需警惕风险。",
           "link": "https://www.web3sj.com/news/63691/",
           "publishedOn": "2023-05-06T05:14:54.000Z",
-          "wordCount": 1183,
+          "wordCount": 1200,
           "title": "PEPE上线币安，谁将成为下一个Meme王者？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683288262346264.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63684/",
-          "author": "Gao",
-          "description": "4 月 25 日，H5 小游戏 Flappy Moonbird 宣布以 6000 万美元估值完成 200 万美元 Pre-B 轮融资，FBG Capital 领投。在此之前的 2022 年 12 月底，Flappy Moonbird 宣布获得了 LinkVC 领投的 600 万美元融资。据彼时的报道，该游戏的天使轮融资由 Moonbirds NFT 持有者参与投资。该游戏由法国视频游戏开发商和发行商 Voodoo 旗下工作室 Helix Table 制作，该公司开发了 100 多款休闲游戏，下载量和 MAU 超过 1000 万。",
-          "link": "https://www.web3sj.com/nftnews/63684/",
-          "publishedOn": "2023-05-06T04:32:31.000Z",
-          "wordCount": 870,
-          "title": "链游版「像素鸟」Flappy Moonbird凭何估值6000万美元",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683347721244.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=63672",
-          "author": "Niu",
-          "description": "随着比特币 (BTC) 5月转绿，投资者和交易员都在猜测熊市是否终于结束。在此价格预测中，我们将探索比特币价格预测并分析推动近期积极势头的因素，评估这是否标志着长期看跌趋势的结束。",
-          "link": "https://www.web3sj.com/transaction/63672/",
-          "publishedOn": "2023-05-06T04:28:39.000Z",
-          "wordCount": 664,
-          "title": "随着 BTC 本月变绿，比特币价格预测——熊市结束了吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/d68c52b21b609aacc2f2f3ff2f94a520.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63675/",
-          "author": "Gao",
-          "description": "在这篇文章中，1KX 将分析链上游戏的潜力以及它们如何改变游戏产业，包括游戏制作、游戏玩法、社区建设和商业模式等方面。同时，还会分享他们对未来几年链上游戏发展的看法，并探讨它们对整个游戏行业的影响。",
-          "link": "https://www.web3sj.com/gamefinews/63675/",
-          "publishedOn": "2023-05-06T04:26:39.000Z",
-          "wordCount": 801,
-          "title": "自治世界：完全链上游戏深度分析",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023050511113248575402.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63664/",
-          "author": "Gao",
-          "description": "铭文显著扩展了 Bitcoin 的设计空间。强大的可用性和可靠的数据存储的添加打开了各种用例，其中许多仅开始探索，包括新类型的去中心化软件或 Bitcoin 扩展技术。即使仅仅是 NFT 用例，也有潜力极大扩展 Bitcoin 的文化影响范围。",
-          "link": "https://www.web3sj.com/news/63664/",
-          "publishedOn": "2023-05-06T04:16:25.000Z",
-          "wordCount": 920,
-          "title": "BRC-20热度能否持续？机构、媒体、KOL怎么看",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683346748324.png"
         }
       ]
     },
@@ -276,6 +276,66 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/7naf84va.html",
+          "author": "PA一线",
+          "description": "PANews 5月6日消息，据Venturebeat报道，Sui开发公司Mysten Labs宣布，5月15日起将有11个游戏合作伙伴在Sui区块链陆续上线游戏。《Orange Comet: Final Stardust》、《Arrivant: Project Eluune》和《Talofa: Run Legends》将于5月15日至21日在Sui区块链上线；《Worlds Beyond》、《Lucky Kat：Cosmocadia》和《Aether Games：Cards of Ethernity》将于5月22日到5月28日在Sui区块链上线；《Onenet：Bushi》、《Lucky Kat：Panzerdogs》和《Orange Comet：The Walking Dead》将于5月29日到6月4日在Sui区块链上线；《Onenet：Bushi》、《Lucky Kat：Panzerdogs》和《Orange Comet：The Walking Dead》将于6月5日到6月11日在Sui区块链上线。",
+          "link": "https://panewslab.com/zh/articledetails/7naf84va.html",
+          "publishedOn": "2023-05-06T06:38:54.000Z",
+          "wordCount": 442,
+          "title": "Mysten Labs：5月15日起将有11个游戏开发商在Sui上线游戏",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/yewcrxmq.html",
+          "author": "PA一线",
+          "description": "PANews 5月6日消息，公链REI Network在电报公告中表示，其官方推特账号被黑，不要相信空投信息，并等待进一步通知。\n经查看，该推特账号已删除空投相关信息，但在2小时前发布了一条新推文，电报群中的相关官方人员也尚未确认最新推文是否是钓鱼链接。目前官方电报公告尚未发布有关此事件的最新进展。",
+          "link": "https://panewslab.com/zh/articledetails/yewcrxmq.html",
+          "publishedOn": "2023-05-06T06:28:06.000Z",
+          "wordCount": 400,
+          "title": "公链REI Network官方推特账号被黑，请勿点击可疑链接",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/aic3qrpn.html",
+          "author": "PA一线",
+          "description": "PANews 5月6日消息，据链上分析师余烬监测，某机构地址昨晚又花了163万枚USDC从Amber买入100万枚BLUR和40万枚DYDX。Amber卖给该机构的DYDX、BLUR是前天分别从Binance、OKX提出；该机构目前累计：以821万枚USDC买进310万枚DYDX（成本2.65美元）、以645万枚USDC买进950万枚BLUR（成本0.67美元）。",
+          "link": "https://panewslab.com/zh/articledetails/aic3qrpn.html",
+          "publishedOn": "2023-05-06T06:00:07.000Z",
+          "wordCount": 357,
+          "title": "数据：某机构再次从Amber买入100万枚BLUR和40万枚DYDX",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u7zu9jgd.html",
+          "author": "PA一线",
+          "description": "PANews 5月6日消息，Etherscan数据显示，19个小时前，以太坊联合创始人V神（Vitalik Buterin）相关钱包地址（vitalik.eth）将200枚ETH转入链上标记为“Kraken 4”的地址。\n今日早些时候消息，5月6日8:58，以太坊基金会将15000枚ETH转入Kraken交易所地址。",
+          "link": "https://panewslab.com/zh/articledetails/u7zu9jgd.html",
+          "publishedOn": "2023-05-06T05:29:21.000Z",
+          "wordCount": 405,
+          "title": "数据：V神在19个小时前将200枚ETH转入Kraken交易所地址",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/g3t3op6r.html",
+          "author": "PA一线",
+          "description": "PANews 5月6日消息，加密借贷平台CoinLoan昨日发推文称：“我们的法律团队与案件的所有各方保持直接联系，包括我们的律师和临时受托人，旨在在规定的截止日期前提交爱沙尼亚法院要求的所有信息和文件以结案。这些文件应提供并证明撤销2023年4月24日收到的限制通知的合理和详尽的法律和财务理由。向法院提交这些文件的截止日期是2023年5月19日。在此之前，我们预计不会有任何实质性的进展。”\n此前消息，加密借贷平台CoinLoan暂停含提款的所有用户服务，并暗示正在走破产程序。",
+          "link": "https://panewslab.com/zh/articledetails/g3t3op6r.html",
+          "publishedOn": "2023-05-06T05:23:52.000Z",
+          "wordCount": 368,
+          "title": "CoinLoan：正准备法院要求的文件和信息，以撤销法院对平台的限制通知",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5fkcs8zx.html",
+          "author": "PA一线",
+          "description": "PANews 5月6日消息，据官方推特，NFT项目Pudgy Penguins宣布好莱坞经纪公司WME成为其官方经纪公司。\nPudgy Penguins与WME在电影、电视和游戏领域达成合作，双方将专注于战略合作伙伴关系，帮助Pudgy Penguins吸引新的受众。",
+          "link": "https://panewslab.com/zh/articledetails/5fkcs8zx.html",
+          "publishedOn": "2023-05-06T05:12:28.000Z",
+          "wordCount": 404,
+          "title": "NFT项目Pudgy Penguins与好莱坞经纪公司WME达成合作",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/df5cs4ij.html",
           "author": "PA一线",
@@ -302,7 +362,7 @@
           "description": "PANews 5月6日消息，据安全公司派盾监测，Melo Token项目存在公开的铸币漏洞，相关MEL代币价格已下跌100%。",
           "link": "https://panewslab.com/zh/articledetails/hj3svgw2.html",
           "publishedOn": "2023-05-06T03:30:35.000Z",
-          "wordCount": 396,
+          "wordCount": 399,
           "title": "派盾：Melo Token项目存在铸币漏洞，MEL价格下跌100%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +392,7 @@
           "description": "PANews 5月6日消息，据欧科云链OKLink 多链浏览器数据显示，ETH昨日单日销毁量达11,526枚，创近一年来新高。过去24小时，Uniswap销毁量达5,297枚ETH。截止目前，ETH累计销毁量达319.85万枚ETH，价值超63亿美元。",
           "link": "https://panewslab.com/zh/articledetails/ewrp10nf.html",
           "publishedOn": "2023-05-06T03:07:59.000Z",
-          "wordCount": 375,
+          "wordCount": 363,
           "title": "数据：ETH昨日销毁量达11526枚，创近一年来新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +402,7 @@
           "description": "PANews 5月6日消息，Galaxy研究副总裁Christine Kim发文总结第108次以太坊核心开发者共识（ACDC）会议，开发人员在会上讨论和协调对以太坊共识层（CL）的更改。\n内容包括：1.开发人员将开始着手包括和测试EIP 4788和EIP 6987，以用于Deneb升级。2.关于Deneb Blob的讨论：开发人员讨论了在Deneb规范中引入一个额外的变量和常量，以允许EL具有更大的弹性，以独立于CL调整每个块的最大blob事务数；Deneb Devnet #5的测试工作导致客户端出现了几个错误，将对此进行更多调查。3.关于Deneb未来兼容性注意事项：Tim Beiko提醒CL客户端团队，关于通过EIP 4844引入的新SSZ类型应该在多大程度上向前兼容即将到来的SSZ升级或针对当前RLP标准进行优化，仍然存在不确定性。4.关于多样化MEV-Boost中继客户端依赖性：Ryan提醒开发人员，信标链认证子网 (attnets) 的改造于5月4日推出，升级是向后兼容的；在未来的硬分叉升级中，开发人员可能会考虑引入“降级”功能，以阻止未升级其attnet功能的节点连接到已升级的节点；开发人员讨论通过PR317使MEV中继客户端依赖性多样化，考虑到最近的MEV-Boost漏洞利用，中继现在在通过gossip广播之前验证块的内容，此功能需要Lighthouse和Prysm客户端的自定义分叉。",
           "link": "https://panewslab.com/zh/articledetails/s9xtko57.html",
           "publishedOn": "2023-05-06T03:06:53.000Z",
-          "wordCount": 394,
+          "wordCount": 400,
           "title": "最新以太坊核心开发者会议讨论和协调对共识层的更改，包括Deneb未来兼容性注意事项等",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +412,7 @@
           "description": "PANews 5月6日消息，据CertiK监测，EOA地址（0xa570d...）将约3000枚ETH（约590万美元）转入Tornado Cash。该笔资金来自2021年10月的AnubisDAO 6000万退出骗局事件。",
           "link": "https://panewslab.com/zh/articledetails/5lq9m97s.html",
           "publishedOn": "2023-05-06T02:28:27.000Z",
-          "wordCount": 407,
+          "wordCount": 395,
           "title": "数据：AnubisDAO骗局事件相关EOA地址将3000枚ETH转入Tornado Cash",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +422,7 @@
           "description": "PANews 5月6日消息，DeFi平台Shell Protocol今日发布其治理代币SHELL代币经济学第二部分，SHELL代币初始分配为2亿枚，8000万枚将分配给投资者、核心团队和开发公司，4000万枚将用于初始空投，5000万枚将用于代币生成后的激励活动，3000万枚将分配给DAO金库。Shell DAO将有权铸造超过上面分配的2亿供应量的更多代币，但这需要治理投票。代币计划于2023年晚些时候推出，但目前尚无确切日期。此外，代币发行的法律结构以及调整Shell DAO结构和治理工具计划于今年第三季度完成。\n在全新Shell积分赛季开始时，所有人的Shell积分都会归零，接下来，上一赛季获得的Shell积分将全部转换为CRAB代币。这些CRAB代币不可购买、出售或交易。当SHELL代币发布时，CRAB将可以1:1兑换成SHELL代币。Shell积分是根据用户在协议上的链上活动在链下计算的，而CRAB是通过链上分配的。与Shell积分不同，CRAB代币可以让与社区在SHELL代币生成之前实施更去中心化的治理。\nShell Protocol在4月1日发布的代币经济学第一部分中，介绍了SHELL代币的价值产生和管理协议的方式，SHELL代币直接受益于其协议层Ocean收取的收入。Shell DAO不能操纵或没收用户资产、不能冻结协议、不能阻止新原语的加入，但可增加或减少解除代币封装费用（最高费用为0.05%）、将应计协议收入转移到另一个钱包、将协议受益人更改为另一个钱包。",
           "link": "https://panewslab.com/zh/articledetails/5jtp7150.html",
           "publishedOn": "2023-05-06T02:21:56.000Z",
-          "wordCount": 394,
+          "wordCount": 391,
           "title": "Shell Protocol发布SHELL代币经济学：初始分配为2亿枚，4000万枚将用于初始空投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +432,7 @@
           "description": "PANews 5月6日消息，Etherscan数据显示，北京时间5月6日8:58，以太坊基金会地址（0xde0B2）向经由“0xd864”地址向链上标记为“ Kraken 5”的地址转入15,000枚ETH（约3000万美元）。目前这个Ethereum基金会地址还持有320,272.41枚ETH。",
           "link": "https://panewslab.com/zh/articledetails/7v5q73uh.html",
           "publishedOn": "2023-05-06T01:27:34.000Z",
-          "wordCount": 380,
+          "wordCount": 368,
           "title": "数据：以太坊基金会将15000枚ETH转入Kraken交易所地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,7 +442,7 @@
           "description": "PANews 5月6日消息，据Businesswire报道，比特币矿企TeraWulf发布4月的生产和运营更新，截至4月30日，哈希率容量在2023年第一季度增加21%至4 EH/s。4月该矿企产出239枚比特币，2023年迄今产出771枚比特币。4月份，该矿企提前在Nautilus 设施全面部署50兆瓦的自挖能力。",
           "link": "https://panewslab.com/zh/articledetails/lga9oxhu.html",
           "publishedOn": "2023-05-06T01:12:38.000Z",
-          "wordCount": 378,
+          "wordCount": 375,
           "title": "比特币矿企TeraWulf 4月产出239枚BTC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -412,68 +472,8 @@
           "description": "PANews 5月6日消息，据The Block报道，Paxful前首席执行官Ray Youssef正在与Jack Dorsey旗下比特币公司TBD合作推出即插即用的P2P市场，以允许任何人使用Nostr和闪电网络创建未经许可的P2P市场。\n据悉 ，Paxful是一个知名的P2P比特币市场，在全球运营了近10年之后，于今年4月关闭。Paxful倒闭后不久，Ray Youssef 发布了Civ Kit白皮书，概述了一种结合Nostr架构和比特币闪电网络的P2P电子市场系统，以抵制审查，推动无许可交易。\n相关阅读：两位联创对薄公堂，Paxful关闭背后是“权利的游戏”",
           "link": "https://panewslab.com/zh/articledetails/6p3ss8em.html",
           "publishedOn": "2023-05-06T00:44:15.000Z",
-          "wordCount": 398,
+          "wordCount": 392,
           "title": "Paxful前CEO正与Jack Dorsey旗下比特币公司TBD合作推出P2P市场",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/00rdrjft.html",
-          "author": "PA一线",
-          "description": "PANews 5月6日消息，据Decrypt报道，阿根廷央行在昨天的一份声明中表示，现禁止支付平台向客户提供比特币等数字资产，以降低用户风险。声明称：“提供支付账户的支付服务提供商不得开展或促进与数字资产(包括加密资产)的交易，这些资产不受国家主管部门的监管，也不受阿根廷共和国央行(BCRA)的授权。”这意味着包括Mercado Libre在内的主要平台将不再能够向阿根廷人提供比特币购买服务。",
-          "link": "https://panewslab.com/zh/articledetails/00rdrjft.html",
-          "publishedOn": "2023-05-06T00:24:03.000Z",
-          "wordCount": 366,
-          "title": "阿根廷禁止支付应用程序向用户提供比特币等数字资产",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0f7ike7i.html",
-          "author": "PA一线",
-          "description": "PANews 5月6日消息，DeFi协议DEUS发推文称：“对于从今天DEI漏洞利用期间能够挽救资金的所有白帽黑客，我们确认0x7f5ae1dc8d2b5d599409c57978d21cf596d37996是DEUS团队在Arbitrum上拥有的多签地址。如果你（白帽黑客）还没有返还资金，请与我们联系。在白帽和合作伙伴项目的帮助下，DEUS团队暂停了相关合约并销毁了DEI，以防止进一步的破坏。我们将跟进事后分析，并在未来几天制定恢复计划。在此之前，请不要与任何DEI合约互动。”\n安全公司派盾对此表示：“这似乎是一个公共销毁漏洞，仅BSC链上就损失了130万美元。ARB/ETH的部署也会受到影响。Arbitrum部署遭到黑客攻击，损失超过500万美元。”\nDEI系DEUS推出的稳定币，于今日凌晨3时半左右快速脱锚至0.18美元，现回升至0.29美元。",
-          "link": "https://panewslab.com/zh/articledetails/0f7ike7i.html",
-          "publishedOn": "2023-05-06T00:14:27.000Z",
-          "wordCount": 387,
-          "title": "DEUS推出的稳定币DEI遭到黑客攻击，损失已超630万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5fmlg4hy.html",
-          "author": "PA一线",
-          "description": "PANews 5月6日消息，据彭博社报道，据两位知情人士透露，美国证券交易委员会(SEC)正在调查第一共和银行高管在政府接管并将该银行出售给摩根大通之前的行为。其中一位知情人士表示，SEC正在调查第一共和银行前高管团队中是否有人利用内幕信息进行了不正当交易。目前没有人被指控有不当行为。据此前消息，第一共和银行于本周一被美国联邦存款保险公司（FDIC）接管，并随后出售给摩根大通。",
-          "link": "https://panewslab.com/zh/articledetails/5fmlg4hy.html",
-          "publishedOn": "2023-05-06T00:06:25.000Z",
-          "wordCount": 359,
-          "title": "彭博社：美国SEC正调查第一共和银行高管是否参与内幕交易",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/fr7tbj7x.html",
-          "author": "PA一线",
-          "description": "PANews 5月6日消息，CoinGecko数据显示，PEPE市值突破15亿美元，现约15.4亿美元，目前位居第41位。另外，PEPE 24小时交易量约16.89亿美元。PEPE价格目前为0.00000375美元，24小时涨幅达92.3%。",
-          "link": "https://panewslab.com/zh/articledetails/fr7tbj7x.html",
-          "publishedOn": "2023-05-05T23:58:38.000Z",
-          "wordCount": 362,
-          "title": "数据：PEPE市值突破15亿美元，价格24小时涨幅超92%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/60v56iq6.html",
-          "author": "PA一线",
-          "description": "PANews 5月6日消息，据《华尔街日报》报道，负责调查Terraform Labs的韩国检察官Dan Sung-han表示，将Do Kwon遣返回国是为TerraUSD 和LUNA崩溃事件中受害者伸张正义的最有效方式。如果被引渡回国，Do Kwon将面临欺诈、背信和挪用公款等罪名的指控，刑期最高可达40年。4月下旬，韩国当局以类似罪名起诉了Terraform Labs联合创始人Shin Hyun-seong和其他九人。据韩国KBS World报道，检察官指控这些人非法获利近4600亿韩元(合3.5亿美元)。Do Kwon今年3月在黑山被捕，并被控伪造文件。美国和韩国当局一直在需求引渡Do Kwon。此外，他还受到新加坡监管部门的通缉。",
-          "link": "https://panewslab.com/zh/articledetails/60v56iq6.html",
-          "publishedOn": "2023-05-05T23:58:19.000Z",
-          "wordCount": 406,
-          "title": "韩国检察官：Do Kwon或将在韩国面临最高40年的刑期",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/mh8t4rh3.html",
-          "author": "PA一线",
-          "description": "PANews 5月6日消息，据CoinDesk报道，Voyager Digital的律师表示，由于未能与FTX US或Binance US达成出售协议，已破产加密贷款平台Voyager Digital将自行清算其资产并逐步关闭业务。在周五的一份文件中，Voyager Digital表示在Binance US退出收购后，该公司已放弃寻找买家。10天前，Binance US突然退出了以10亿美元收购Voyager Digital资产的交易。根据该文件，Voyager客户的初始资产回收率为36%，远低于收购计划成功情况下的72%-73%的回收率。但如果Alameda Research从Voyager资产中追回4.46亿美元的尝试失败，客户的资产回收率可能会上升。除了为Alameda预留4.46亿美元资产外，Voyager的律师还预留了2.596亿美元，用于诉讼费用和行政索赔。据悉，持有67种“受支持”代币(包括BTC和ETH)的债权人，都可以按照一定比例直接提取其加密货币。对于持有包括SOL和ALGO在内的38种“不受支持代币”的债权人，Voyager将清算所有资产并使用稳定币USDC偿还客户。",
-          "link": "https://panewslab.com/zh/articledetails/mh8t4rh3.html",
-          "publishedOn": "2023-05-05T23:51:54.000Z",
-          "wordCount": 402,
-          "title": "Voyager Digital计划清算资产并关闭业务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -483,6 +483,26 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202305/20575.html",
+          "author": null,
+          "description": "5月6日消息，据新京报报道，5月5日，《东城区加快元宇宙产业高质量发展行动计划(2023-2025年)》在北京中关村东城园发布，当天东城区成立了元宇宙产业联盟。根据《行动计划》，北京东城区力争3年形成100家以上元宇宙生态链企业，落地形成10大元宇宙示范应用场景项目，新培育20家元宇宙领域专精特新企业，形成北二环沿线元宇宙产业聚集区，构建一带多点的元宇宙产业发展布局。",
+          "link": "https://www.hellobtc.com/news/202305/20575.html",
+          "publishedOn": "2023-05-06T05:45:00.000Z",
+          "wordCount": 298,
+          "title": "北京东城加速布局元宇宙产业，力争3年形成100家以上元宇宙生态链企业",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202305/20574.html",
+          "author": null,
+          "description": "5月6日消息，据欧科云链OKLink 多链浏览器数据显示，ETH昨日单日销毁量达11,526枚，创近一年来新高。过去24小时，Uniswap销毁量达5,297枚ETH。截止目前，ETH累计销毁量达319.85万枚ETH，价值超63亿美元。",
+          "link": "https://www.hellobtc.com/news/202305/20574.html",
+          "publishedOn": "2023-05-06T05:45:00.000Z",
+          "wordCount": 301,
+          "title": "数据：ETH昨日销毁量达11526枚，创近一年来新高",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202305/20573.html",
           "author": null,
@@ -562,26 +582,6 @@
           "wordCount": 304,
           "title": "美国又一家银行陷入危机，PacWest股价暴跌后被爆正考虑出售等选项",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202305/20565.html",
-          "author": null,
-          "description": "5月4日消息，Coinbase首席法务官Paul Grewal发推称：“第三巡回法院刚刚发布了一项纯文本命令，指示美国证券交易委员会（SEC）在10天内对我们的强制执行令请愿书做出回应（并给了我们7天的回复时间）。以下是命令的文本：‘纯文本命令（书记员） 根据法院的指示，被告被命令在本命令发布之日起10天内提交对执行令请愿书的答复。申请人可在提交答复之日起7天内提交答复。’我们感谢法院对此事的认真考虑。”\n此前4月25日消息，Coinbase对SEC提起诉讼，要求SEC回应其于2022年7月提交旨在针对数字资产制定特定规则的请愿书。",
-          "link": "https://www.hellobtc.com/news/202305/20565.html",
-          "publishedOn": "2023-05-04T02:52:00.000Z",
-          "wordCount": 302,
-          "title": "美国法院已命令SEC在10天内对Coinbase提出的加密规则请愿书作出回应",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202305/20564.html",
-          "author": null,
-          "description": "1.鲍威尔：若通胀居高不下，美联储将不会降息。\n\n2.数据：比特币单日交易费用超 337 万美元，10 日内增长超 9 倍。\n\n3.Curve Finance在主网上部署原生稳定币crvUSD。\n\n4.Nansen：巨鲸逢高抛售，PEPE市值缩水近2亿美元。\n\n5.数据：Uniswap的PEPE-WETH的V2和V3成为最活跃的流动性池合约。\n\n6.FTX寻求从Genesis追回近40亿美元资金。\n\n7.徐明星：对所有无法取消订单且买入SUI高于1.3 USDT的客户将获得补偿。\n\n8.币安：已冻结涉嫌诈骗的 XIRTAM 项目方转入的 1909 枚 ETH。\n\n9.不丹王国投资部门与 Bitdeer 合作计划设立 5 亿美元加密货币挖矿基金。",
-          "link": "https://www.hellobtc.com/news/202305/20564.html",
-          "publishedOn": "2023-05-04T01:47:00.000Z",
-          "wordCount": 325,
-          "title": "白话区块链早报：鲍威尔称若通胀居高不下，美联储将不会降息",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
     },
@@ -591,13 +591,23 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
-          "id": "https://www.theblockbeats.info/news/36907",
+          "id": "https://www.theblockbeats.info/news/36910",
           "author": null,
-          "description": "价值投资一场空，梭哈PEPE住皇宫……",
-          "link": "https://www.theblockbeats.info/news/36907",
-          "publishedOn": "2023-05-06T03:15:57.000Z",
+          "description": "「寻找、交易、获利、退出」",
+          "link": "https://www.theblockbeats.info/news/36910",
+          "publishedOn": "2023-05-06T05:18:53.000Z",
           "wordCount": null,
-          "title": "造富神话与焦虑并存，PEPE后谁将登上下一个Meme王位？",
+          "title": "如何找到下一个PEPE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36909",
+          "author": null,
+          "description": "两个逃顶信号同时出现，市场或许已经达到阶段性顶部。",
+          "link": "https://www.theblockbeats.info/news/36909",
+          "publishedOn": "2023-05-06T05:01:55.000Z",
+          "wordCount": null,
+          "title": "「逃顶大师」再次卖币、PEPE 20天30倍，市场已集齐两个顶部信号？",
           "imageUrl": null
         },
         {
@@ -678,16 +688,6 @@
           "publishedOn": "2023-05-05T06:23:17.000Z",
           "wordCount": null,
           "title": "上海升级完成后，以太坊核心开发者会议又有哪些新内容？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36898",
-          "author": null,
-          "description": "揭露喊单乱象，加密圈的杀猪盘是怎样炼成的？",
-          "link": "https://www.theblockbeats.info/news/36898",
-          "publishedOn": "2023-05-05T06:13:44.000Z",
-          "wordCount": null,
-          "title": "详细复盘XIRTAM从开盘到「收割」全过程",
           "imageUrl": null
         }
       ]
