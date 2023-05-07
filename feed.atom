@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-07T05:12:25.917Z</id>
+    <id>urn:2023-05-07T06:16:17.164Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-07T05:12:25.917Z</updated>
+    <updated>2023-05-07T06:16:17.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PEPE早期投资者经验分享：发掘MEME的策略、工具及时机]]></title>
+        <id>https://www.web3sj.com/?p=63886</id>
+        <link href="https://www.web3sj.com/news/63886/"/>
+        <updated>2023-05-07T06:14:48.000Z</updated>
+        <summary type="html"><![CDATA[当购买任何代币时，购买它的前提是有人（在未来）想以更高的价格从你手中购买它。对于迷因币来说尤其如此，因为它们更依赖于心理驱动因素（FOMO），而不是代币的基本面。这在经济学中被称为“空中楼阁理论”（最早流行的证券投资理论，由经济学家约翰·梅纳德·凯恩斯提出），即“投资者试图建造一个空中楼阁，并认为该资产在未来一定上涨，超出其本身的内在价值”。其目标是在其他投资者开始买入之前就建立头寸。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKLink：2023年4月安全事件盘点]]></title>
+        <id>https://www.web3sj.com/news/63879/</id>
+        <link href="https://www.web3sj.com/news/63879/"/>
+        <updated>2023-05-07T05:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Allbridge_io 项目被闪电贷攻击，损失约 57w 美金，主要原因是通过闪电贷对 0x179a 这个池子的价格进行操纵，从而获利。攻击者通过闪电贷，先存入 0x179a 500m BUSD, 然后通过调用 swap，将 bsc_usd 转化为 busd, 同时，对 0x179a 池子进行提现，最终将该池子的 busd 掏空，然后再调用 swap，将 busd 转化为 bsc_usd, 因该池子被破坏，最终将 4w 个 busd, 转化成 78w 个 bsc_usd 出来。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hash Global 创始人：2023 至 2025 年是 Web3 的 iPhone 时刻]]></title>
+        <id>https://www.defidaonews.com/article/6816790</id>
+        <link href="https://www.defidaonews.com/article/6816790"/>
+        <updated>2023-05-07T05:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Hash Global 创始人 KK 发布研究报告，认为 2023-2025 年 Web3 将迎来 iPhone 时刻。]]></summary>
+        <author>
+            <name>行业资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEPE早期投资者经验分享：发掘MEME的策略、工具及时机]]></title>
+        <id>https://www.defidaonews.com/article/6816786</id>
+        <link href="https://www.defidaonews.com/article/6816786"/>
+        <updated>2023-05-07T05:16:06.000Z</updated>
+        <summary type="html"><![CDATA[迷因币PEPE创造了又一波暴富故事，与其羡慕，不如投入，本文系PEPE早期投资者分享的玩转迷因币最全指南。]]></summary>
+        <author>
+            <name>PANews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[据报道，谷歌计划对搜索进行重大改革，重点放在人工智能和视频上]]></title>
+        <id>https://0xzx.com/2023050713153438173.html</id>
+        <link href="https://0xzx.com/2023050713153438173.html"/>
+        <updated>2023-05-07T05:15:12.000Z</updated>
+        <summary type="html"><![CDATA[据报道，谷歌正准备使其搜索引擎更加“可视化、易读、个性化和人性化”，这一方向将标记更少的网站“蓝色链接”，并更 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币铭文钱包UniSat Wallet将于今日15:00停机维护一小时]]></title>
+        <id>https://panewslab.com/zh/articledetails/93l1m3hj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/93l1m3hj.html"/>
+        <updated>2023-05-07T05:14:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月7日消息，比特币铭文钱包UniSatWallet宣布将于今日15:00至16:00进行1小时停机维护，在此期间将进行必要的升级与修复。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“1024 直接对标 ChatGPT”科大讯飞星火大模型立 Flag、一手实测来了]]></title>
+        <id>https://0xzx.com/2023050713133438171.html</id>
+        <link href="https://0xzx.com/2023050713133438171.html"/>
+        <updated>2023-05-07T05:13:59.000Z</updated>
+        <summary type="html"><![CDATA[作者 | 屠敏 出品 | CSDN（ID：CSDNnews） 短短半年之内，在大模型赛道上，国内外 AI 头部 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana 基金会正在招聘 Web3 暑期实习生、分析师、助理 
+，薪资 Compensation: $90k – $230k  *]]></title>
+        <id>https://0xzx.com/2023050713113438170.html</id>
+        <link href="https://0xzx.com/2023050713113438170.html"/>
+        <updated>2023-05-07T05:11:16.000Z</updated>
+        <summary type="html"><![CDATA[Solana 基金会正在招聘 Web3 暑期实习生、分析师、助理 薪酬：$90k – $230k  […]]]></summary>
+        <author>
+            <name>Compensation: $90k - $230k *</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEI攻击者已退还约107万枚DAI]]></title>
+        <id>https://panewslab.com/zh/articledetails/1g1srlwv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1g1srlwv.html"/>
+        <updated>2023-05-07T05:08:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月7日消息，据区块浏览器BscScan显示，DEI黑客攻击者地址之一（0xdf610228 开头）已向DeFi协议DEUS的多签地址退还约107万枚DAI，DEUS已在推特上确认。
+此前消息，DEUS表示如果资金被退回，将不会对黑客采取法律行动，20%的资金将作为漏洞赏金]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果改变世界的 4 种方式]]></title>
+        <id>https://0xzx.com/2023050713073438168.html</id>
+        <link href="https://0xzx.com/2023050713073438168.html"/>
+        <updated>2023-05-07T05:07:17.000Z</updated>
+        <summary type="html"><![CDATA[然而，这并不是一帆风顺的旅程。 Apple 并没有通过发布一种计算机并称之为一天而成为今天的巨人。 相反，苹果 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何将 Excel 转换为 Google 表格]]></title>
+        <id>https://0xzx.com/2023050713063438163.html</id>
+        <link href="https://0xzx.com/2023050713063438163.html"/>
+        <updated>2023-05-07T05:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Google 表格是类似于 Microsoft Excel 的电子表格，用户可以在其中通过应用不同的公式来管理 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scroll：探索 L3 和应用链的更多可能]]></title>
         <id>https://www.defidaonews.com/article/6816784</id>
@@ -16,6 +128,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BRC热潮，是散户「最后的狂欢」吗？]]></title>
+        <id>https://www.theblockbeats.info/news/36921</id>
+        <link href="https://www.theblockbeats.info/news/36921"/>
+        <updated>2023-05-07T04:31:17.000Z</updated>
+        <summary type="html"><![CDATA[这场比特币上的游戏，或许是「散户的胜利」与「最后的机会」。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[速览Mask Network在Gitcoin Web3社交轮次中40个入围项目]]></title>
         <id>https://www.web3sj.com/news/63875/</id>
         <link href="https://www.web3sj.com/news/63875/"/>
@@ -23,56 +145,6 @@
         <summary type="html"><![CDATA[在过去的两轮 Web3 Social Grant 中，每轮都有 50000 美元匹配奖池，总共评选出 155 个项目入围。以过往一样，此次 Web3 Social Grant Round 采用更加公平的 Quadratic Funding 的方式支持 Web3 社交相关项目，同时也是 Gitcoin Grants Beta Round 中唯一独立的 Web3 社交类 Grant。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing Phone 2规格泄露]]></title>
-        <id>https://0xzx.com/2023050712163438107.html</id>
-        <link href="https://0xzx.com/2023050712163438107.html"/>
-        <updated>2023-05-07T04:16:15.000Z</updated>
-        <summary type="html"><![CDATA[Nothing Phone 2 智能手机预计将于 2023 年第三季度推出，不过到目前为止，还没有具体的日期传 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币在银行业困境、加密货币公司扩张离岸以及关键利率上调中测试 29,000 美元]]></title>
-        <id>https://0xzx.com/2023050712153438106.html</id>
-        <link href="https://0xzx.com/2023050712153438106.html"/>
-        <updated>2023-05-07T04:15:14.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 5 月伊始，美国银行业又迎来了动荡的一周。 2023 年 5 月 1 日，联邦政府超越了 Fir […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医疗元宇宙数字生态建设进入高速发展期]]></title>
-        <id>https://0xzx.com/2023050712133438104.html</id>
-        <link href="https://0xzx.com/2023050712133438104.html"/>
-        <updated>2023-05-07T04:13:32.000Z</updated>
-        <summary type="html"><![CDATA[复旦大学附属中山医院呼吸科教授、元宇宙医学创立大会主席白春学教授及其团队2022年2月发表的一篇关于“元宇宙医 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UMA 代币逆势上涨 28%]]></title>
-        <id>https://0xzx.com/2023050712133438102.html</id>
-        <link href="https://0xzx.com/2023050712133438102.html"/>
-        <updated>2023-05-07T04:13:16.000Z</updated>
-        <summary type="html"><![CDATA[作者 CryptoHamster 阅读 2 分钟 发表于 05/07/2023 更新于 05/07/2023  […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[购买 35mm 相机前应了解的一切]]></title>
-        <id>https://0xzx.com/2023050712123438100.html</id>
-        <link href="https://0xzx.com/2023050712123438100.html"/>
-        <updated>2023-05-07T04:12:12.000Z</updated>
-        <summary type="html"><![CDATA[我们可能会收到通过链接进行的购买的佣金。 在过去的几年里，胶片摄影的流行度飙升，许多现有的数码摄影师将 SLR […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -367,26 +439,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[浅析模块化区块链测试的重要性及策略]]></title>
-        <id>https://www.web3sj.com/news/63790/</id>
-        <link href="https://www.web3sj.com/news/63790/"/>
-        <updated>2023-05-06T06:50:08.000Z</updated>
-        <summary type="html"><![CDATA[测试区块链网络对于确保其安全性、可靠性和长期稳定性至关重要。测试确保如果网络没有按预期运行，问题会在部署之前被识别和解决。对于模块化区块链，测试过程更为复杂，因为有更多的节点类型和可能的设置。区块链的测试策略 在进行测试过程时要记住的事项 所有团队，Celestia Labs 也不例外，在软件开发的每个方面都有有限的人力资源。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海升级完成后，以太坊核心开发者会议又有哪些新内容？]]></title>
-        <id>https://www.web3sj.com/news/63786/</id>
-        <link href="https://www.web3sj.com/news/63786/"/>
-        <updated>2023-05-06T06:16:20.000Z</updated>
-        <summary type="html"><![CDATA[我们在计划下一个升级 Dencun 的最后阶段了被纳入的 EIP 包括：4844、6780、1153 和 6475，但这些规范都还没冻结 EIP 2537、4788 和 6493 已被列入候选名单很多其他的 EIP 现在仍在 EthMagicians ‍论坛上被讨论我起草了 EIP-6953，总结了长期以来激活网络升级的触发机制 今年夏天会在一些地方看到我谈论以太坊的治理。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[北京东城加速布局元宇宙产业，力争3年形成100家以上元宇宙生态链企业]]></title>
         <id>https://www.hellobtc.com/news/202305/20575.html</id>
         <link href="https://www.hellobtc.com/news/202305/20575.html"/>
@@ -412,16 +464,6 @@
         <link href="https://www.theblockbeats.info/news/36910"/>
         <updated>2023-05-06T05:18:53.000Z</updated>
         <summary type="html"><![CDATA[「寻找、交易、获利、退出」]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「逃顶大师」再次卖币、PEPE 20天30倍，市场已集齐两个顶部信号？]]></title>
-        <id>https://www.theblockbeats.info/news/36909</id>
-        <link href="https://www.theblockbeats.info/news/36909"/>
-        <updated>2023-05-06T05:01:55.000Z</updated>
-        <summary type="html"><![CDATA[两个逃顶信号同时出现，市场或许已经达到阶段性顶部。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -476,26 +518,6 @@
 12.币安在创新区上线FLOKI(FLOKI)和Pepe(PEPE)。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEPE再掀投机热潮，下一个Meme Coin是什么？]]></title>
-        <id>https://www.defidaonews.com/article/6816602</id>
-        <link href="https://www.defidaonews.com/article/6816602"/>
-        <updated>2023-05-06T01:25:04.000Z</updated>
-        <summary type="html"><![CDATA[又一轮Meme热潮正席卷市场]]></summary>
-        <author>
-            <name>星球日报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社论：加密项目离开美国“最好不过” SEC 应快速清除不良项目]]></title>
-        <id>https://www.defidaonews.com/article/6816572</id>
-        <link href="https://www.defidaonews.com/article/6816572"/>
-        <updated>2023-05-06T01:20:53.000Z</updated>
-        <summary type="html"><![CDATA[彭博社发表社论旗帜鲜明支持美国 SEC 的监管，引发加密行业广泛嘲讽。但我们也可以脱离开币圈视角，从文章中看到彭博社以及其一定程度代表美国主流社会的立场。]]></summary>
-        <author>
-            <name>吴说</name>
         </author>
     </entry>
     <entry>
