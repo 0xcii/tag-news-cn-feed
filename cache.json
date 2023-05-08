@@ -158,7 +158,7 @@
           "description": "关于虚拟货币纠纷案件的审理。",
           "link": "https://www.defidaonews.com/article/6816766",
           "publishedOn": "2023-05-07T02:55:25.000Z",
-          "wordCount": 165,
+          "wordCount": 163,
           "title": "全国法院金融审判会议纪要：最新涉虚拟货币、挖矿、委托投资等审判要求",
           "imageUrl": "https://appserversrc.8btc.cn/FisMK7sNQoKuIcDpy7vc5Rojh95Y.png?imageView2/1/w/500/h/300"
         }
@@ -170,12 +170,82 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/news/64029/",
+          "author": "Gao",
+          "description": "相较于撸空投，BRC20 代币造富的神话更加容易。用户无需参与链上操作内卷，也无需担心无法满足苛刻的条件，只需在代币发行时第一时间铸造即可，甚至在早期比特币链上不拥堵时，链上 GAS 费成本仅需几 U 就可参与。",
+          "link": "https://www.web3sj.com/news/64029/",
+          "publishedOn": "2023-05-08T03:59:48.000Z",
+          "wordCount": 1131,
+          "title": "BRC20代币打新还有机会？一文详解BRC20原理、特点及参与方式",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683518679129.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/64025/",
+          "author": "Gao",
+          "description": "每个新时代都是从根本上增强人类协作能力的新技术的产物。书面语言是传播宗教文本的必要条件，也是全球制度化宗教的前兆，印刷机使公民能够参与民主治理，风险投资使硅谷能够在创新方面超越华尔街。",
+          "link": "https://www.web3sj.com/news/64025/",
+          "publishedOn": "2023-05-08T03:55:46.000Z",
+          "wordCount": 755,
+          "title": "「网络国家」的终极形态是Metaverse",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683518342098.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/64020/",
+          "author": "Gao",
+          "description": "人们可以认为zkEVM电路由许多子电路组成，比如n个子电路，它们通过查找表互连。每个子电路用于约束特定的操作——例如，Keccak电路计算Keccak哈希，求幂电路计算求幂。我们的zkEVM电路设计中当前限制是每个子电路必须具有相同的行数，比如m行。",
+          "link": "https://www.web3sj.com/news/64020/",
+          "publishedOn": "2023-05-08T03:50:03.000Z",
+          "wordCount": 659,
+          "title": "探讨ZK Rollup中「证明溢出」问题：有哪些解决方案？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683518066975.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/64007/",
+          "author": "Gao",
+          "description": "在下面的图片中，您可以看到每周在 L2 上推出的新项目数量。另一张则为一些较老的 L1 项目。我也看过在 Aptos 和 Canto 等较新的 L1 上启动的项目，但目前数量并不多。您还可以看到最受欢迎的区块链（以太坊、BNB 和 Arbitrum）。它们三者都在 2023 年有了不错的增长。",
+          "link": "https://www.web3sj.com/news/64007/",
+          "publishedOn": "2023-05-08T03:43:46.000Z",
+          "wordCount": 831,
+          "title": "L1和L2，谁是赢家？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/5-1683504332286.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/news/63994/",
+          "author": "Gao",
+          "description": "CyberConnect 主要用于构建基于区块链地址的去中心化社交图谱，最早创建于 2021 年 9 月，但其爆发时间主要还是在 2023 年 3 月开始。Dune 数据显示，CyberConnect 应用相关数据主要从 3 月 8 日开始加速增长，并在 3 月 18 日日活用户数达到高峰，当日活跃地址数约为 21 万，高速增长一直维持到 3 月 20 日前后。",
+          "link": "https://www.web3sj.com/news/63994/",
+          "publishedOn": "2023-05-08T03:38:52.000Z",
+          "wordCount": 1123,
+          "title": "Cyber Connect近期为何大热？ Web3社交未来将如何发展",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683517361236.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/63983/",
+          "author": "Gao",
+          "description": "下文提供了两种 Web3 隐私方法不同维度的比较：零知识证明（Zero-Knowledge Proofs）和可信执行环境（Trusted Execution Environments）。无论是开发人员还是用户，了解这些技术之间的差异对于理解 Web3 的未来都十分重要。在比较这些技术之前，让我们先定义一些术语。",
+          "link": "https://www.web3sj.com/news/63983/",
+          "publishedOn": "2023-05-08T03:25:54.000Z",
+          "wordCount": 794,
+          "title": "隐私保护技术TEE与ZKP的区别究竟在哪里？4个维度帮你全面了解",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683517017027.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=63980",
+          "author": "Gao",
+          "description": "目前，比特币生态的支持者分为两派：保守派认为比特币必须保持其纯粹的货币性质，它仅用作价值存储，不需要其他形式的可扩展性；激进派认为，比特币需要扩容，只有这样才能拥有更多原生的应用生态，才能推动其规模化、可持续化的发展。",
+          "link": "https://www.web3sj.com/news/63980/",
+          "publishedOn": "2023-05-08T03:24:48.000Z",
+          "wordCount": 739,
+          "title": "Ordinals与BRC-20热潮下，盘点比特币可扩展性发展的四大方向",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683516270004.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=63923",
           "author": "Gao",
           "description": "brc20是对标erc20在BTC原生链上发行的同质化代币协议，第一个代币为ordi,由作者@domo发行，当前比较火热的代币有pepe，punk，bayc，domo等等，虽然均为meme代币，但均被铸造完毕,场外交易非常比较活跃。",
           "link": "https://www.web3sj.com/news/63923/",
           "publishedOn": "2023-05-07T15:32:38.000Z",
-          "wordCount": 880,
+          "wordCount": 869,
           "title": "保姆级教程：手把手教你如何铸造Brc-20代币",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683473546030.png"
         },
@@ -185,7 +255,7 @@
           "description": "白宫将加密货币纳入新兴技术关注列表。ENS 社区投票选举 ENS 联创 Alex Van de Sande 担任 ENS 基金会董事。以太坊核心开发者第108次共识会议：将为Deneb升级纳入与测试EIP-4788、EIP-6987。",
           "link": "https://www.web3sj.com/news/63918/",
           "publishedOn": "2023-05-07T14:11:12.000Z",
-          "wordCount": 739,
+          "wordCount": 746,
           "title": "Web3世界日报（2023-5.7）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023050714110472.jpg"
         },
@@ -195,79 +265,9 @@
           "description": "共享排序器网络主要由Alex Beckett介绍，后来由Celestia的Evan Forbes和Espresso Systems团队（以及Radius）进行了更深入的研究，以及Jon Charbonneau的新作品。Josh、Jordan及其Astria团队正在构建第一个生产中的共享排序器网络。Astria的共享排序器网络是一个模块化区块链，为rollup聚合和排序交易，而无需执行这些交易。",
           "link": "https://www.web3sj.com/news/63893/",
           "publishedOn": "2023-05-07T06:35:17.000Z",
-          "wordCount": 1306,
+          "wordCount": 1313,
           "title": "深度：一文探索共享排序器网络属性",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683440520058.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=63890",
-          "author": "Gao",
-          "description": "高度可定制性：L3 解决方案能够创建任何需要的执行环境和 DA （数据可用）解决方案，开发人员可以将 Cairo 部署在 Scroll 之上以获得更有利于 ZK 的执行环境，构建隐私链、游戏引擎，甚至将其他 L1 迁移到以太坊生态系统作为 L3 来共享其好处。他们也可以选择任何所需的 DA 方案，如委员会或 DA 链，这对企业级区块链尤其有利。",
-          "link": "https://www.web3sj.com/news/63890/",
-          "publishedOn": "2023-05-07T06:17:23.000Z",
-          "wordCount": 703,
-          "title": "Scroll：探索L3和应用链的更多可能",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683440233815.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=63886",
-          "author": "Gao",
-          "description": "当购买任何代币时，购买它的前提是有人（在未来）想以更高的价格从你手中购买它。对于迷因币来说尤其如此，因为它们更依赖于心理驱动因素（FOMO），而不是代币的基本面。这在经济学中被称为“空中楼阁理论”（最早流行的证券投资理论，由经济学家约翰·梅纳德·凯恩斯提出），即“投资者试图建造一个空中楼阁，并认为该资产在未来一定上涨，超出其本身的内在价值”。其目标是在其他投资者开始买入之前就建立头寸。",
-          "link": "https://www.web3sj.com/news/63886/",
-          "publishedOn": "2023-05-07T06:14:48.000Z",
-          "wordCount": 662,
-          "title": "PEPE早期投资者经验分享：发掘MEME的策略、工具及时机",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683440070677.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63879/",
-          "author": "Gao",
-          "description": "Allbridge_io 项目被闪电贷攻击，损失约 57w 美金，主要原因是通过闪电贷对 0x179a 这个池子的价格进行操纵，从而获利。攻击者通过闪电贷，先存入 0x179a 500m BUSD, 然后通过调用 swap，将 bsc_usd 转化为 busd, 同时，对 0x179a 池子进行提现，最终将该池子的 busd 掏空，然后再调用 swap，将 busd 转化为 bsc_usd, 因该池子被破坏，最终将 4w 个 busd, 转化成 78w 个 bsc_usd 出来。",
-          "link": "https://www.web3sj.com/news/63879/",
-          "publishedOn": "2023-05-07T05:46:55.000Z",
-          "wordCount": 2552,
-          "title": "OKLink：2023年4月安全事件盘点",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683439144740.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63875/",
-          "author": "Gao",
-          "description": "在过去的两轮 Web3 Social Grant 中，每轮都有 50000 美元匹配奖池，总共评选出 155 个项目入围。以过往一样，此次 Web3 Social Grant Round 采用更加公平的 Quadratic Funding 的方式支持 Web3 社交相关项目，同时也是 Gitcoin Grants Beta Round 中唯一独立的 Web3 社交类 Grant。",
-          "link": "https://www.web3sj.com/news/63875/",
-          "publishedOn": "2023-05-07T04:18:04.000Z",
-          "wordCount": 2103,
-          "title": "速览Mask Network在Gitcoin Web3社交轮次中40个入围项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/10-1683377760975.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=63856",
-          "author": "Gao",
-          "description": "最新以太坊核心开发者会议讨论和协调对共识层的更改，包括Deneb未来兼容性注意事项等。Voyager Digital计划清算资产并关闭业务。质押以太坊存入净数量达97586ETH，价值1.89亿美元。",
-          "link": "https://www.web3sj.com/news/63856/",
-          "publishedOn": "2023-05-06T12:04:04.000Z",
-          "wordCount": 687,
-          "title": "Web3世界日报（2023-5.6）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023050611512058.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63828/",
-          "author": "Gao",
-          "description": "iPhone 所涵盖的所有技术：智能手机本身，操作系统，互联网访问协议，音乐播放，手机照相和触屏等在 2007 年第一代 iPhone 推出时早已存在，甚至在推出的头二年，大家也没觉得有什么了不起。是在 iPhone 所支撑的应用和由此带来的用户及经济价值大爆发后，移动互联网的飞轮才真正转动起来，APP 也逐渐成为了移动互联网经济的核心载体。这其中当然也离不开新一代通信网络技术的成熟。",
-          "link": "https://www.web3sj.com/news/63828/",
-          "publishedOn": "2023-05-06T07:28:57.000Z",
-          "wordCount": 850,
-          "title": "Hash Global创始人：2023至2025年是Web3的iPhone时刻",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683358238551.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/63821/",
-          "author": "Gao",
-          "description": "区块链以其透明度和可追溯性超越世界上的大多数系统，但在其背后也存在着看不见的博弈。在众多的博弈中，MEV 无疑是最受关注的一个。最初，MEV 被视为机会主义交易者对用户征收滥用额外税的行为，但如今，它已经变得无处不在，并且已经发展成为链上套利交易的总称。套利、清算、抢先交易、三明治攻击和反向交易都是目前流行的 MEV 攻击策略。",
-          "link": "https://www.web3sj.com/definews/63821/",
-          "publishedOn": "2023-05-06T07:24:20.000Z",
-          "wordCount": 860,
-          "title": "详解Flashbots推出的MEV-Share协议：以太坊用户的MEV收益时代来临",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/d8d818f491cae460b2c7196423d6f8ce.png"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "description": "PANews 5月8日消息，Dune数据显示，昨日BRC-20铸造费用达158.13 BTC，转账费用达7.11 BTC，均创历史新高。此外，BRC-20总支出费用已达382.47 BTC。",
           "link": "https://panewslab.com/zh/articledetails/xsqvbcks.html",
           "publishedOn": "2023-05-08T02:12:16.000Z",
-          "wordCount": 404,
+          "wordCount": 401,
           "title": "数据：昨日BRC-20铸造费用超158 BTC，创历史新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -292,7 +292,7 @@
           "description": "PANews 5月8日消息，Lookonchain数据显示，在5月6日以太坊基金会地址向Kraken转入15000枚ETH（价值约2970万美元）之后，当日2个巨鲸地址在Uniswap上抛售共计19,090枚ETH（价值约3570万美元）。\n其中，0x6071开头地址以1873美元的均价将9950枚ETH兑换成1863万枚DAI。0x7641开头地址以1867美元的均价将9140枚ETH兑换成1707万枚DAI。",
           "link": "https://panewslab.com/zh/articledetails/8866exko.html",
           "publishedOn": "2023-05-08T02:01:34.000Z",
-          "wordCount": 410,
+          "wordCount": 404,
           "title": "数据：2个巨鲸地址于5月6日在Uniswap上抛售约1.9万枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -302,7 +302,7 @@
           "description": "PANews 5月8日消息，币安发推文称：“由于大量未处理交易，我们暂时关闭了BTC提款。我们的团队目前正在努力解决问题，并将尽快重新开放BTC提款。资金是安全的。”\n此前消息，币安曾于昨日晚间暂停BTC提款约1小时。",
           "link": "https://panewslab.com/zh/articledetails/v5scjvms.html",
           "publishedOn": "2023-05-08T01:39:06.000Z",
-          "wordCount": 384,
+          "wordCount": 381,
           "title": "币安再次暂停BTC提款，因出现大量未处理交易",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +312,7 @@
           "description": "PANews 5月8日消息，据链上分析师余烬监测，2个月前，BTC平均每个区块产出奖励为0.19 BTC的手续费和6.25 BTC的出块奖励；现在，BTC平均每个区块产出奖励为4.85 BTC的手续费和6.25 BTC出块奖励；手续费收入部分提升了24.5倍。",
           "link": "https://panewslab.com/zh/articledetails/18kyp0rf.html",
           "publishedOn": "2023-05-08T01:29:24.000Z",
-          "wordCount": 387,
+          "wordCount": 384,
           "title": "数据：BTC矿工手续费收入较2个月前增长24.5倍",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +322,7 @@
           "description": "PANews 5月8日消息，Interlay Labs发布BRC-21代币标准V0.1版本，该提案概述了一个标准，用于向/从比特币铸造和赎回BRC-20代币，这些代币最初是在其他“源”链上创建的，如以太坊（ETH、DAI…）、Cosmos、Polkadot或Interlay。\n关于该标准的用例，Interlay Labs表示：“虽然可以使用BRC-21资产代表比特币上的ETH、 DOT、SOL等，但我们认为，从这个标准中出现的主要用例是将去中心化的稳定币部署到闪电网络或类似的支付协议上。像MakerDAO、Liquity或RAI这样的去中心化稳定币需要复杂的造币、赎回和清算机制来保持它们的挂钩。由于缺乏可编程性，这些协议不能直接部署在比特币上，而且在不久的将来这种情况不太可能改变。我们相信，这种完全去中心化的、从比特币中挖矿和赎回跨链资产的方法，更有可能被大规模采用，而不是把时间花在比特币的工程协议上，这些协议可以在其他地方用几行代码来表示。”",
           "link": "https://panewslab.com/zh/articledetails/tcahtadc.html",
           "publishedOn": "2023-05-08T01:21:38.000Z",
-          "wordCount": 404,
+          "wordCount": 401,
           "title": "Interlay Labs发布BRC-21代币标准，用于铸造和赎回去中心化的跨链BRC-20代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +332,7 @@
           "description": "PANews 5月8日消息，BTC.com数据显示，4月底以来比特币全网手续费持续上涨，5月7日比特币全网手续费403.91 BTC，较4月8日单日全网手续费的21.89 BTC增长近20倍。",
           "link": "https://panewslab.com/zh/articledetails/e8ru87tm.html",
           "publishedOn": "2023-05-08T01:15:00.000Z",
-          "wordCount": 402,
+          "wordCount": 399,
           "title": "数据：昨日比特币全网手续费超400 BTC，较4月8日增长近20倍",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +352,7 @@
           "description": "PANews 5月8日消息，Token Unlock数据显示，自以太坊上海升级完成以来，已有约242万枚ETH解除质押，约242万枚ETH新存入质押，净质押余额约4340枚ETH。即以太坊上海升级完成以来的ETH新存入质押数已超过解除质押数。此外，当前约枚14.57万ETH处于待提款状态。",
           "link": "https://panewslab.com/zh/articledetails/u022yalh.html",
           "publishedOn": "2023-05-08T00:47:57.000Z",
-          "wordCount": 395,
+          "wordCount": 392,
           "title": "数据：上海升级完成以来的ETH质押存款已超过提款，净质押余额约4340枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +362,7 @@
           "description": "PANews 5月8日消息，据官方推特，币安在昨日23:07以网络问题为由暂时关闭BTC提款服务，并于今日凌晨00:38恢复。",
           "link": "https://panewslab.com/zh/articledetails/v164u23r.html",
           "publishedOn": "2023-05-08T00:21:52.000Z",
-          "wordCount": 383,
+          "wordCount": 380,
           "title": "币安已恢复BTC提款服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +372,7 @@
           "description": "PANews 5月8日消息，据Digital Journal报道，链游工作室Aether Game宣布完成450万美元代币及股权融资，Mysten Labs、Polygon、Magic Eden、Polkastarter、Cogitent、Ultra、GSR、EMURGO、Master Ventures和Eclipse等参投，新资金将用于旗下《Cards of Ethernity》、《Gates of Ethernity》等游戏的开发。\n据悉，《Cards of Ethernity》是一款在Sui和Polygon区块链上推出的多链游戏，《Gates of Ethernity》是一款将于2023年底推出的战略性自动战斗游戏。Mysten Labs此前宣布，Aether Game的Cards of Ethernity链游将于5月22日到5月28日在Sui区块链上线。",
           "link": "https://panewslab.com/zh/articledetails/rbmzc5iv.html",
           "publishedOn": "2023-05-08T00:13:52.000Z",
-          "wordCount": 476,
+          "wordCount": 488,
           "title": "链游工作室Aether Game完成450万美元股权融资，Mysten Labs等参投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -521,6 +521,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36923",
+          "author": null,
+          "description": "本文分析了Otherside、Flappy Moonbird和Mobaverse三个案例，讨论了NFT和链游之间的关系及其发展趋势。",
+          "link": "https://www.theblockbeats.info/news/36923",
+          "publishedOn": "2023-05-08T03:04:01.000Z",
+          "wordCount": null,
+          "title": "拿什么来拯救你，PFP类的NFT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36922",
           "author": null,
           "description": "Omni在设计中融合了多项新颖技术，从而在安全性、高效性和功能性三个方面实现了独特优势。",
@@ -608,16 +618,6 @@
           "publishedOn": "2023-05-06T07:36:47.000Z",
           "wordCount": null,
           "title": "BRC-20 Token七大不能忽视的风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36913",
-          "author": null,
-          "description": "近 30 个 Web3 教育网站大盘点，梳理行业「造血」系统",
-          "link": "https://www.theblockbeats.info/news/36913",
-          "publishedOn": "2023-05-06T06:58:05.000Z",
-          "wordCount": null,
-          "title": "Open Campus带动教育赛道，哪些项目还值得关注？",
           "imageUrl": null
         }
       ]

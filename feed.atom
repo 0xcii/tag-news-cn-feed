@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-08T03:14:06.253Z</id>
+    <id>urn:2023-05-08T04:16:00.082Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-08T03:14:06.253Z</updated>
+    <updated>2023-05-08T04:16:00.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BRC20代币打新还有机会？一文详解BRC20原理、特点及参与方式]]></title>
+        <id>https://www.web3sj.com/news/64029/</id>
+        <link href="https://www.web3sj.com/news/64029/"/>
+        <updated>2023-05-08T03:59:48.000Z</updated>
+        <summary type="html"><![CDATA[相较于撸空投，BRC20 代币造富的神话更加容易。用户无需参与链上操作内卷，也无需担心无法满足苛刻的条件，只需在代币发行时第一时间铸造即可，甚至在早期比特币链上不拥堵时，链上 GAS 费成本仅需几 U 就可参与。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「网络国家」的终极形态是Metaverse]]></title>
+        <id>https://www.web3sj.com/news/64025/</id>
+        <link href="https://www.web3sj.com/news/64025/"/>
+        <updated>2023-05-08T03:55:46.000Z</updated>
+        <summary type="html"><![CDATA[每个新时代都是从根本上增强人类协作能力的新技术的产物。书面语言是传播宗教文本的必要条件，也是全球制度化宗教的前兆，印刷机使公民能够参与民主治理，风险投资使硅谷能够在创新方面超越华尔街。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探讨ZK Rollup中「证明溢出」问题：有哪些解决方案？]]></title>
+        <id>https://www.web3sj.com/news/64020/</id>
+        <link href="https://www.web3sj.com/news/64020/"/>
+        <updated>2023-05-08T03:50:03.000Z</updated>
+        <summary type="html"><![CDATA[人们可以认为zkEVM电路由许多子电路组成，比如n个子电路，它们通过查找表互连。每个子电路用于约束特定的操作——例如，Keccak电路计算Keccak哈希，求幂电路计算求幂。我们的zkEVM电路设计中当前限制是每个子电路必须具有相同的行数，比如m行。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1和L2，谁是赢家？]]></title>
+        <id>https://www.web3sj.com/news/64007/</id>
+        <link href="https://www.web3sj.com/news/64007/"/>
+        <updated>2023-05-08T03:43:46.000Z</updated>
+        <summary type="html"><![CDATA[在下面的图片中，您可以看到每周在 L2 上推出的新项目数量。另一张则为一些较老的 L1 项目。我也看过在 Aptos 和 Canto 等较新的 L1 上启动的项目，但目前数量并不多。您还可以看到最受欢迎的区块链（以太坊、BNB 和 Arbitrum）。它们三者都在 2023 年有了不错的增长。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Connect近期为何大热？ Web3社交未来将如何发展]]></title>
+        <id>https://www.web3sj.com/news/63994/</id>
+        <link href="https://www.web3sj.com/news/63994/"/>
+        <updated>2023-05-08T03:38:52.000Z</updated>
+        <summary type="html"><![CDATA[CyberConnect 主要用于构建基于区块链地址的去中心化社交图谱，最早创建于 2021 年 9 月，但其爆发时间主要还是在 2023 年 3 月开始。Dune 数据显示，CyberConnect 应用相关数据主要从 3 月 8 日开始加速增长，并在 3 月 18 日日活用户数达到高峰，当日活跃地址数约为 21 万，高速增长一直维持到 3 月 20 日前后。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐私保护技术TEE与ZKP的区别究竟在哪里？4个维度帮你全面了解]]></title>
+        <id>https://www.web3sj.com/news/63983/</id>
+        <link href="https://www.web3sj.com/news/63983/"/>
+        <updated>2023-05-08T03:25:54.000Z</updated>
+        <summary type="html"><![CDATA[下文提供了两种 Web3 隐私方法不同维度的比较：零知识证明（Zero-Knowledge Proofs）和可信执行环境（Trusted Execution Environments）。无论是开发人员还是用户，了解这些技术之间的差异对于理解 Web3 的未来都十分重要。在比较这些技术之前，让我们先定义一些术语。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ordinals与BRC-20热潮下，盘点比特币可扩展性发展的四大方向]]></title>
+        <id>https://www.web3sj.com/?p=63980</id>
+        <link href="https://www.web3sj.com/news/63980/"/>
+        <updated>2023-05-08T03:24:48.000Z</updated>
+        <summary type="html"><![CDATA[目前，比特币生态的支持者分为两派：保守派认为比特币必须保持其纯粹的货币性质，它仅用作价值存储，不需要其他形式的可扩展性；激进派认为，比特币需要扩容，只有这样才能拥有更多原生的应用生态，才能推动其规模化、可持续化的发展。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拿什么来拯救你，PFP类的NFT]]></title>
+        <id>https://www.theblockbeats.info/news/36923</id>
+        <link href="https://www.theblockbeats.info/news/36923"/>
+        <updated>2023-05-08T03:04:01.000Z</updated>
+        <summary type="html"><![CDATA[本文分析了Otherside、Flappy Moonbird和Mobaverse三个案例，讨论了NFT和链游之间的关系及其发展趋势。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam 社区市场新手指南]]></title>
         <id>https://0xzx.com/2023050810513439904.html</id>
@@ -324,36 +404,6 @@ Sweatcoin（Sweat Economy）将于5月13日8时解锁129,348,776枚代币，价�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scroll：探索L3和应用链的更多可能]]></title>
-        <id>https://www.web3sj.com/?p=63890</id>
-        <link href="https://www.web3sj.com/news/63890/"/>
-        <updated>2023-05-07T06:17:23.000Z</updated>
-        <summary type="html"><![CDATA[高度可定制性：L3 解决方案能够创建任何需要的执行环境和 DA （数据可用）解决方案，开发人员可以将 Cairo 部署在 Scroll 之上以获得更有利于 ZK 的执行环境，构建隐私链、游戏引擎，甚至将其他 L1 迁移到以太坊生态系统作为 L3 来共享其好处。他们也可以选择任何所需的 DA 方案，如委员会或 DA 链，这对企业级区块链尤其有利。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEPE早期投资者经验分享：发掘MEME的策略、工具及时机]]></title>
-        <id>https://www.web3sj.com/?p=63886</id>
-        <link href="https://www.web3sj.com/news/63886/"/>
-        <updated>2023-05-07T06:14:48.000Z</updated>
-        <summary type="html"><![CDATA[当购买任何代币时，购买它的前提是有人（在未来）想以更高的价格从你手中购买它。对于迷因币来说尤其如此，因为它们更依赖于心理驱动因素（FOMO），而不是代币的基本面。这在经济学中被称为“空中楼阁理论”（最早流行的证券投资理论，由经济学家约翰·梅纳德·凯恩斯提出），即“投资者试图建造一个空中楼阁，并认为该资产在未来一定上涨，超出其本身的内在价值”。其目标是在其他投资者开始买入之前就建立头寸。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKLink：2023年4月安全事件盘点]]></title>
-        <id>https://www.web3sj.com/news/63879/</id>
-        <link href="https://www.web3sj.com/news/63879/"/>
-        <updated>2023-05-07T05:46:55.000Z</updated>
-        <summary type="html"><![CDATA[Allbridge_io 项目被闪电贷攻击，损失约 57w 美金，主要原因是通过闪电贷对 0x179a 这个池子的价格进行操纵，从而获利。攻击者通过闪电贷，先存入 0x179a 500m BUSD, 然后通过调用 swap，将 bsc_usd 转化为 busd, 同时，对 0x179a 池子进行提现，最终将该池子的 busd 掏空，然后再调用 swap，将 busd 转化为 bsc_usd, 因该池子被破坏，最终将 4w 个 busd, 转化成 78w 个 bsc_usd 出来。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hash Global 创始人：2023 至 2025 年是 Web3 的 iPhone 时刻]]></title>
         <id>https://www.defidaonews.com/article/6816790</id>
         <link href="https://www.defidaonews.com/article/6816790"/>
@@ -394,16 +444,6 @@ Sweatcoin（Sweat Economy）将于5月13日8时解锁129,348,776枚代币，价�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[速览Mask Network在Gitcoin Web3社交轮次中40个入围项目]]></title>
-        <id>https://www.web3sj.com/news/63875/</id>
-        <link href="https://www.web3sj.com/news/63875/"/>
-        <updated>2023-05-07T04:18:04.000Z</updated>
-        <summary type="html"><![CDATA[在过去的两轮 Web3 Social Grant 中，每轮都有 50000 美元匹配奖池，总共评选出 155 个项目入围。以过往一样，此次 Web3 Social Grant Round 采用更加公平的 Quadratic Funding 的方式支持 Web3 社交相关项目，同时也是 Gitcoin Grants Beta Round 中唯一独立的 Web3 社交类 Grant。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全国法院金融审判会议纪要：最新涉虚拟货币、挖矿、委托投资等审判要求]]></title>
         <id>https://www.defidaonews.com/article/6816766</id>
         <link href="https://www.defidaonews.com/article/6816766"/>
@@ -431,16 +471,6 @@ Sweatcoin（Sweat Economy）将于5月13日8时解锁129,348,776枚代币，价�
         <summary type="html"><![CDATA[Suipad 是Sui生态一个以社区为中心的新项目启动平台，其是Sui 上的 Tier 1 项目，SuiPad 通过与 Mysten Labs的官方合作伙伴关系， 将成为Sui上项目启动的一体化解决方案。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-5.6）]]></title>
-        <id>https://www.web3sj.com/?p=63856</id>
-        <link href="https://www.web3sj.com/news/63856/"/>
-        <updated>2023-05-06T12:04:04.000Z</updated>
-        <summary type="html"><![CDATA[最新以太坊核心开发者会议讨论和协调对共识层的更改，包括Deneb未来兼容性注意事项等。Voyager Digital计划清算资产并关闭业务。质押以太坊存入净数量达97586ETH，价值1.89亿美元。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -489,36 +519,6 @@ Sweatcoin（Sweat Economy）将于5月13日8时解锁129,348,776枚代币，价�
         <link href="https://www.theblockbeats.info/news/36914"/>
         <updated>2023-05-06T07:36:47.000Z</updated>
         <summary type="html"><![CDATA[作者对BRC-20 Token 表示担忧并提出相应风险。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hash Global创始人：2023至2025年是Web3的iPhone时刻]]></title>
-        <id>https://www.web3sj.com/news/63828/</id>
-        <link href="https://www.web3sj.com/news/63828/"/>
-        <updated>2023-05-06T07:28:57.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 所涵盖的所有技术：智能手机本身，操作系统，互联网访问协议，音乐播放，手机照相和触屏等在 2007 年第一代 iPhone 推出时早已存在，甚至在推出的头二年，大家也没觉得有什么了不起。是在 iPhone 所支撑的应用和由此带来的用户及经济价值大爆发后，移动互联网的飞轮才真正转动起来，APP 也逐渐成为了移动互联网经济的核心载体。这其中当然也离不开新一代通信网络技术的成熟。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Flashbots推出的MEV-Share协议：以太坊用户的MEV收益时代来临]]></title>
-        <id>https://www.web3sj.com/news/63821/</id>
-        <link href="https://www.web3sj.com/definews/63821/"/>
-        <updated>2023-05-06T07:24:20.000Z</updated>
-        <summary type="html"><![CDATA[区块链以其透明度和可追溯性超越世界上的大多数系统，但在其背后也存在着看不见的博弈。在众多的博弈中，MEV 无疑是最受关注的一个。最初，MEV 被视为机会主义交易者对用户征收滥用额外税的行为，但如今，它已经变得无处不在，并且已经发展成为链上套利交易的总称。套利、清算、抢先交易、三明治攻击和反向交易都是目前流行的 MEV 攻击策略。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Campus带动教育赛道，哪些项目还值得关注？]]></title>
-        <id>https://www.theblockbeats.info/news/36913</id>
-        <link href="https://www.theblockbeats.info/news/36913"/>
-        <updated>2023-05-06T06:58:05.000Z</updated>
-        <summary type="html"><![CDATA[近 30 个 Web3 教育网站大盘点，梳理行业「造血」系统]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
