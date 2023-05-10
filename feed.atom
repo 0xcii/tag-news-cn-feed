@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-10T14:13:05.658Z</id>
+    <id>urn:2023-05-10T15:12:55.150Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-10T14:13:05.658Z</updated>
+    <updated>2023-05-10T15:12:55.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[主网上线一周，Sui生态进展如何？]]></title>
+        <id>https://www.web3sj.com/news/65316/</id>
+        <link href="https://www.web3sj.com/news/65316/"/>
+        <updated>2023-05-10T14:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Cetus 目前是 Sui 主网上 TVL 最高的 DEX（1500 万美元），具有单币质押和 LP 挖矿功能。曾入选 Sui 第二轮开发者资金项目，种子轮由 OKX Ventures、KuCoin Ventures、NGC Ventures、Animoca Ventures 等投资。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unstoppable Finance 推出欧洲首家 DeFi 银行]]></title>
+        <id>https://0xzx.com/2023051022293448357.html</id>
+        <link href="https://0xzx.com/2023051022293448357.html"/>
+        <updated>2023-05-10T14:29:16.000Z</updated>
+        <summary type="html"><![CDATA[德国初创公司 Unstoppable Finance 宣布推出欧洲首家完全监管的 DeFi 银行和稳定币。 该 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊审计员一周赚了 15 亿美元交易员蜂拥而至交易PEPE后]]></title>
+        <id>https://0xzx.com/2023051022283448355.html</id>
+        <link href="https://0xzx.com/2023051022283448355.html"/>
+        <updated>2023-05-10T14:28:16.000Z</updated>
+        <summary type="html"><![CDATA[以太坊交易审计员在 5 月的第一周从增加的股权奖励中总共赚取了 4600 万美元，这是衡量审计员年度回报的指标 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[花瓣筹集了 3500 万美元； 剥离 B2B 部门]]></title>
+        <id>https://0xzx.com/2023051022283448354.html</id>
+        <link href="https://0xzx.com/2023051022283448354.html"/>
+        <updated>2023-05-10T14:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Petal 是一家美国信用卡初创公司，它放弃了传统的信用评分以努力吸引年轻人和银行账户不足的人，已经筹集了 3 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安永推出 EY OpsChain ESG 以追踪碳信用和排放]]></title>
+        <id>https://0xzx.com/2023051022273448353.html</id>
+        <link href="https://0xzx.com/2023051022273448353.html"/>
+        <updated>2023-05-10T14:27:10.000Z</updated>
+        <summary type="html"><![CDATA[专业服务公司安永 (EY) 周三宣布推出 EY OpsChain ESG 测试版，该产品可通过代币化准确跟踪碳 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masimo (MASI) 第一季​​度收益超过预期，利润率下跌]]></title>
+        <id>https://0xzx.com/2023051022263448352.html</id>
+        <link href="https://0xzx.com/2023051022263448352.html"/>
+        <updated>2023-05-10T14:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Masimo Corporation (MASI Quick Quote – ) 2023 年第一 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只读型重入漏洞介绍及案例分析]]></title>
+        <id>https://www.web3sj.com/news/65275/</id>
+        <link href="https://www.web3sj.com/news/65275/"/>
+        <updated>2023-05-10T14:12:37.000Z</updated>
+        <summary type="html"><![CDATA[目前由于开发人员安全意识的提高，多数项目都使用了重入锁防止重入漏洞，减少安全风险。但是在 DeFi 领域中，尽管合约在某些关键函数使用了重入锁，却也仍然有可能遭受到只读型重入漏洞的攻击。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盘点Sui即将上线的13款链游，Sui能否靠链游打响市场争夺战]]></title>
         <id>https://www.web3sj.com/news/65264/</id>
@@ -84,56 +154,6 @@
         <summary type="html"><![CDATA[PANews 5月10日消息，MEV跟踪网站EigenPhi的一份报告显示，jaredfromsubway.eth 部署的 MEV 机器人在不到 3 个月的时间里，获得了超过 4060 万美元的收入和 3435 万美元的利润。该机器人自上线以来总共进行了 23.8 万次攻击，受害者超过 10.6 万人。支付了约 630 万的 Gas 费用。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[托管银行初创公司 Casler 筹集了 500 万美元以解决复杂的交易流程]]></title>
-        <id>https://0xzx.com/2023051021283448232.html</id>
-        <link href="https://0xzx.com/2023051021283448232.html"/>
-        <updated>2023-05-10T13:28:16.000Z</updated>
-        <summary type="html"><![CDATA[在此之前，这家初创公司从 Zerodha、Venture Catalysts、9Unicorns、FAAD N […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arc 改变 Web 浏览器体验的 5 种方式]]></title>
-        <id>https://0xzx.com/2023051021273448230.html</id>
-        <link href="https://0xzx.com/2023051021273448230.html"/>
-        <updated>2023-05-10T13:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Arc 是一种新的浏览器，与 Chrome、Edge 和 Safari 等浏览器相比，它的功能略有不同。 从本 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procore Technologies (PCOR) 还有多少上涨空间？ 华尔街分析师认为 33.21%]]></title>
-        <id>https://0xzx.com/2023051021263448221.html</id>
-        <link href="https://0xzx.com/2023051021263448221.html"/>
-        <updated>2023-05-10T13:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Procore Technologies (PCOR Quick Quote – ) 上个交易日收 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随着空头控制，ADA 跌至 0.358 美元]]></title>
-        <id>https://0xzx.com/2023051021253448220.html</id>
-        <link href="https://0xzx.com/2023051021253448220.html"/>
-        <updated>2023-05-10T13:25:13.000Z</updated>
-        <summary type="html"><![CDATA[卡尔达诺价格分析显示市场看跌趋势，因为 ADA 跌至 0.358 美元的低点。 卡尔达诺的短期趋势是看跌的，只 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Prime 视频的发布日期和时间是什么时候？]]></title>
-        <id>https://0xzx.com/2023051021243448218.html</id>
-        <link href="https://0xzx.com/2023051021243448218.html"/>
-        <updated>2023-05-10T13:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Air Prime Video 的发布日期和时间无疑受到了篮球和/或耐克球迷的热切期待。 这部由本·阿弗莱克和 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -517,26 +537,6 @@ dYdX 是有史以来交易量最成功的链上衍生品 DEX，总成交量约�
         <link href="https://www.web3sj.com/news/65116/"/>
         <updated>2023-05-10T08:11:15.000Z</updated>
         <summary type="html"><![CDATA[供给方承担了一些相对很小的节点运营成本以及质押 ETH 被罚没的风险，为需求方提供节点服务。需求方支付一定的报酬（项目方 token、手续费等）。某些类型的服务可能还有些隐性收益（当 squencer 有 MEV 收入）]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘Pudgy Penguins CEO的成长之路：从流浪街头到人生巅峰]]></title>
-        <id>https://www.web3sj.com/news/65109/</id>
-        <link href="https://www.web3sj.com/nftnews/65109/"/>
-        <updated>2023-05-10T07:48:15.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 4 月 2 日，Luca 收购了 Pudgy Penguins 并成为了该项目的首席执行官。此后，Pudgy Penguins 的地板价从 0.8 ETH 一路上升至 4.25 ETH，这与同期保守 NFT 熊市困扰的其他项目形成了鲜明对比。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从「Dunkirk」出发，ZK如何翻开资金安全的新篇章？]]></title>
-        <id>https://www.web3sj.com/news/65105/</id>
-        <link href="https://www.web3sj.com/news/65105/"/>
-        <updated>2023-05-10T07:45:23.000Z</updated>
-        <summary type="html"><![CDATA[zkLink 的此次安全测试「Dunkirk」，旨在模拟最极端情况下用户资金大规模的紧急撤退，测试期间，zkLink 将关闭服务器，模拟真实环境下协议运营人员全部消失或服务器宕机，并邀请业内富有声誉的第三方运行恢复程序，用户可通过恢复程序取回 zkLink 中代币。]]></summary>
         <author>
             <name>Gao</name>
         </author>
