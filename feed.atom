@@ -1,18 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-12T14:11:31.219Z</id>
+    <id>urn:2023-05-12T15:12:48.932Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-12T14:11:31.219Z</updated>
+    <updated>2023-05-12T15:12:48.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[DAO 的「人治困境」：内讧撕逼不断，利益分配不均]]></title>
-        <id>https://www.web3sj.com/news/65827/</id>
-        <link href="https://www.web3sj.com/news/65827/"/>
-        <updated>2023-05-12T14:09:50.000Z</updated>
-        <summary type="html"><![CDATA[由人驱动的 DAO，表面披着民主外衣。]]></summary>
+        <title type="html"><![CDATA[开发者为比特币拥堵问题提出多种解决方案，以闪电网络为代表的Layer2或成赢家]]></title>
+        <id>https://www.web3sj.com/news/65919/</id>
+        <link href="https://www.web3sj.com/news/65919/"/>
+        <updated>2023-05-12T15:10:22.000Z</updated>
+        <summary type="html"><![CDATA[比特币矿工获得了几年来的最高收入，在某些区块中，交易手续费带来的收入超过区块奖励的一半，按这种情况发展，明年减半后的安全问题也能得到解决。但这也使比特币网络变得拥堵，内存池中存在大量未确认的交易。Ordinals 带来的比特币交易拥堵在比特币社区引起了很大争议。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：共享排序器，让Rollup更加去中心化]]></title>
+        <id>https://www.web3sj.com/news/65912/</id>
+        <link href="https://www.web3sj.com/news/65912/"/>
+        <updated>2023-05-12T15:06:34.000Z</updated>
+        <summary type="html"><![CDATA[如果您像我一样是一个 DeFi 迷，那么您会喜欢一个好的 Rollup。交换、借贷和交易，所有这些只需要几分钱，而几年前这种近乎无摩擦的体验似乎是不可想象的。虽然有时候使用 Rollup 的体验更像 BNB Chain 这样的中心化链，而不是以太坊。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术详解Canton Network：开放、可扩展、支持隐私的企业区块链]]></title>
+        <id>https://www.web3sj.com/news/65902/</id>
+        <link href="https://www.web3sj.com/news/65902/"/>
+        <updated>2023-05-12T14:59:29.000Z</updated>
+        <summary type="html"><![CDATA[「Canton Network 是对行业呼吁的有力回应，该解决方案利用区块链的潜力，同时保留机构金融的基本隐私要求，」另一位参与者 DRW 的合伙人兼 Cumberland 的全球负责人 Chris Zuehlke 说，「这种独特的方法，加上跨多个智能合约执行原子交易的能力，是将上述工作流程带入链上所必需的技术。」]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无KYC闪兑交易所：Tornado Cash之外的混币途径]]></title>
+        <id>https://www.web3sj.com/news/65878/</id>
+        <link href="https://www.web3sj.com/news/65878/"/>
+        <updated>2023-05-12T14:52:19.000Z</updated>
+        <summary type="html"><![CDATA[通过切断存款地址和取款地址之间的关系，黑客就能将钱洗白从而在未来将虚拟货币换成现金。对于 Tornado Cash 的使用者来说，混币池内的流动性决定了使用者是否能很好的隐匿资金去向，尤其是当资金量非常庞大的时候。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap或将收费？]]></title>
+        <id>https://www.web3sj.com/news/65870/</id>
+        <link href="https://www.web3sj.com/definews/65870/"/>
+        <updated>2023-05-12T14:47:48.000Z</updated>
+        <summary type="html"><![CDATA[在 Uniswap 中，任何人都可以添加他们自己的代币到一个流动性池中，这个池子由代币对组成，例如 ETH/USDT、UNI/ETH 等等。这些代币池子可以直接用以太坊钱包连接到 Uniswap 交易所进行交易。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭开以太坊MEV产业链利益的神秘面纱]]></title>
+        <id>https://www.web3sj.com/news/65865/</id>
+        <link href="https://www.web3sj.com/definews/65865/"/>
+        <updated>2023-05-12T14:34:59.000Z</updated>
+        <summary type="html"><![CDATA[MEV 用于描述在生成一个新区块（将被添加至某区块链）时，为获取尽可能多的利润（即「最大提取利益」）而重新排序交易的行为。也可以将其理解为：通过选择以何种顺序添加哪些交易，从一个区块中挤出的、超出标准奖励和 gas 费的额外价值。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当应用不会再有护城河，价值该被如何捕获]]></title>
+        <id>https://www.web3sj.com/news/65850/</id>
+        <link href="https://www.web3sj.com/news/65850/"/>
+        <updated>2023-05-12T14:32:31.000Z</updated>
+        <summary type="html"><![CDATA[近几个月来，随着 GPT-3 升级为 GPT-4，上一段最后一句话得到了更有力的印证。而且，这不仅仅是 GPT 营销话术，事实上，人工智能的确使任何人都能更容易地自己构建应用程序，以满足越来越多的小众需求。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羊毛出在猪身上？一文读懂Arbitrum上游戏化DEX：SpartaDex]]></title>
+        <id>https://www.web3sj.com/news/65831/</id>
+        <link href="https://www.web3sj.com/definews/65831/"/>
+        <updated>2023-05-12T14:15:42.000Z</updated>
+        <summary type="html"><![CDATA[一个行业新范式传播路径往往是：DeFi 率先钻研出新的玩法，然后市场上其他相关仿盘开始出现，最后再将势能传导到 GameFi 中，用游戏的方式将 DeFi 的思维逻辑再体现一遍。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO的「人治困境」：内讧撕逼不断，利益分配不均]]></title>
+        <id>https://www.web3sj.com/news/65827/</id>
+        <link href="https://www.web3sj.com/daonews/65827/"/>
+        <updated>2023-05-12T14:09:50.000Z</updated>
+        <summary type="html"><![CDATA[简单理解，DAO 成员的组成是一帮志同道合的人所汇集的互联网社区，通过购买 DAO 代币或者注资的形式为实现目标提供资金支持，且不受单个个体的影响。最终 DAO 的决策由社区投票决定，社区也可以通过构建小组、创建任务来细化决策的执行和资金的用途。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊上海升级后质押量逆势上涨，LSDFi 值得长期关注吗？]]></title>
+        <id>https://www.theblockbeats.info/news/36980</id>
+        <link href="https://www.theblockbeats.info/news/36980"/>
+        <updated>2023-05-12T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[以太坊上海升级后质押量不降反升，LSDFi的呼声水涨船高]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -63,6 +153,114 @@
         <summary type="html"><![CDATA[Terraform Labs 联合创始人 Do Kwon 将与公司首席财务官 Han Chong-Joon 一 […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟法律草案强制加密公司向税务机关提供其客户持有资产的详细信息]]></title>
+        <id>https://panewslab.com/zh/articledetails/tzilv6tz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tzilv6tz.html"/>
+        <updated>2023-05-12T13:35:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，据CoinDesk报道，欧盟法律草案显示，欧盟计划强制加密货币公司向税务机关提供其客户持有资产的详细信息，该法案将于下周由各国财政部长达成一致，并将允许税务机关在 27 个国家集团内共享数据。知情人士透露，少部分财政部长尚未获得议会的正式批准。
+该法案要求加密公司向税务机关注册，有争议的是，这项被称为行政合作第八指令 (DAC8) 的法律仍然包括用于交易可用于支付或投资的 NFT 的平台，以及来自欧盟以外的拥有欧盟客户的供应商。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX与UniSat达成官方合作，共建BRC-20行业标准]]></title>
+        <id>https://panewslab.com/zh/articledetails/haqlpbq7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/haqlpbq7.html"/>
+        <updated>2023-05-12T13:19:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，据官方消息，OKX与比特币铭文钱包 UniSat Wallet达成官方合作，共建BRC-20行业标准。
+据悉，双方将基于OKX自研BRC-20账本解析与索引库，展开双重校验方面的合作，同时UniSat也将成为OKX Web3 BRC20市场数据供应商。此外，未来OKX将于与Unisat保持探索互换BRC20的订单流动性，持续共建BTC生态 。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国专利商标局已批准贝克汉姆的3个NFT和元宇宙商标申请]]></title>
+        <id>https://panewslab.com/zh/articledetails/g3g4k9ar.html</id>
+        <link href="https://panewslab.com/zh/articledetails/g3g4k9ar.html"/>
+        <updated>2023-05-12T13:16:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，美国专利商标局商标律师 Mike Kondoudis 在推特发文表示，美国专利商标局已经批准足球巨星大卫·贝克汉姆（David Beckham）的 3 个 NFT 和元宇宙商标申请。该商标内容包括 NFT 及数字代币、虚拟服装/鞋类/头饰、以及虚拟表演+娱乐活动。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华盛顿邮报：马斯克选择NBC环球公司广告主管Linda Yaccarino为推特CEO]]></title>
+        <id>https://panewslab.com/zh/articledetails/ij1wqx6c.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ij1wqx6c.html"/>
+        <updated>2023-05-12T13:08:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，据金十报道，NBC环球公司宣布广告主管Linda Yaccarino离职。据说她正在谈判成为下任Twitter首席执行官。据华盛顿邮报：马斯克选择NBC环球公司广告主管Linda Yaccarino为推特CEO。NBC环球公司表示，推特新CEO Linda Yaccarino将在本公司担任临时职位。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CosmWasm平台Neutron成为第一个使用复制安全性启动的Cosmos区块链]]></title>
+        <id>https://panewslab.com/zh/articledetails/dz5snam4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/dz5snam4.html"/>
+        <updated>2023-05-12T13:03:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，据The Block报道，无需许可的 CosmWasm 智能合约平台 Neutron 成为第一个使用复制安全性启动的 Cosmos 区块链。复制安全性使 Cosmos 生态系统中的区块链能够依赖 Cosmos Hub 的验证器集来确保其安全性。Neutron 是在 Cosmos 社区于 5 月 6 日批准了由 ATOM 持有者投票通过的治理提案 792后推出的。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一集体诉讼指控Jump Trading通过操纵Terra算稳UST价格获利近13亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/1t4ihyjy.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1t4ihyjy.html"/>
+        <updated>2023-05-12T12:53:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，据Blockworks报道，一项集体诉讼指控 Jump Trading 在 2021 年 5 月 23 日至 5 月 27 日期间大量净购买了超过 6200 万个 UST 代币。据称，从 2019 年 11 月左右开始，前 Terraform 首席执行官 Do Kwon 与 Jump 之间的谈判达成了一系列协议。根据诉讼，作为其中的一部分，TFL 向 Jump 借出了 3000 万个 LUNA 代币，使他们能够为 LUNA 和 UST 提供做市服务。 作为回报，Jump 有权获得赔偿，其中包括以大幅折扣价获得 LUNA 代币。
+诉讼称，不久之后，即当年 5 月 23 日，Kwon 和 Jump 合谋人为抬高了 UST 和 aUST（Terra 借贷平台 Anchor 上使用的代币）的价格。这显然是通过 Jump 秘密购买大量 UST 来实现的，暂时恢复了 UST 挂钩 1 美元的假象。由于该计划，据说 Jump 通过出售其通过修改后的协议获得的大幅折扣 LUNA 代币，赚取了超过 12.8 亿美元的惊人利润。
+诉讼中写道：“原告的指控是基于对他自己和他自己的行为的个人了解，以及基于原告律师进行的调查以及通过原告律师进行的调查对所有其他事项的信息和信念，其中调查包括，除其他事项外，审查有关数字资产的白皮书、新闻稿、媒体报道和其他公开披露的有关被告的报告和信息。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG 电子正在为可交易NFT的电视申请专利保护]]></title>
+        <id>https://panewslab.com/zh/articledetails/b1wxjxvh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/b1wxjxvh.html"/>
+        <updated>2023-05-12T12:43:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，韩国公司 LG 电子正在为一款能让用户交易 NFT 的电视寻求专利保护。该设备将能够与 NFT 市场服务器建立连接，接收和显示预览图，并通过连接到电视的用户加密货币钱包完成购买。LG 于去年 9 月开始了将 NFT 引入其电视的工作，发布了插入 Hedera Network 的艺术实验室市场，自 2020 年以来 LG 一直是该网络的节点运营商。
+值得一提的是，三星电子也拟于今年上半年推出可交易和展示NFT的智能电视。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interlay创始人提议创建BRC-42标准，旨在将BRC-20代币桥接至以太坊等外部网络]]></title>
+        <id>https://panewslab.com/zh/articledetails/6c4auzpo.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6c4auzpo.html"/>
+        <updated>2023-05-12T12:19:01.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，跨链互操作性项目Interlay创始人Alexei Zamyatin发推提议创建BRC-42标准（对BRC-20标准的扩展），旨在以完全去中心化的方式将BRC-20代币桥接至以太坊、Solana、Polkadot、Interlay等外部智能合约链，从而解锁BRC-20代币的DeFi用例，比如闪兑、借贷等。
+此前，Interlay Labs发布BRC-21代币标准，用于铸造和赎回去中心化的跨链BRC-20代币。
+相关阅读：比特币生态代币新标准BRC-21是什么？]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aragon宣布暂时将Aragon DAO更名为Aragon Grants DAO]]></title>
+        <id>https://panewslab.com/zh/articledetails/kx64d292.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kx64d292.html"/>
+        <updated>2023-05-12T12:04:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月12日消息，Aragon协会发布澄清公告表示： 1. 金库目前由作为其托管人的 AA（Aragon协会）控制；2. AA 正在逐步将国库和核心基础设施转移到 Aragon DAO 以降低风险；3. 作为非营利组织，AA 有责任确保财政部实现其目标，建立去中心化的治理基础设施。此外，暂时将 Aragon DAO 更名为 Aragon Grants DAO，向 “无风险价值(RFV)攻击者”传达的信息非常明确：从协会发送到 DAO 的任何更多资金都用于建设者。
+前天报道，Aragon协会取消ANT代币持有人投票权，以应对Arca等投资者对其发起的“51%攻击”。dForce创始人指责Aragon团队通过“重新调整DAO劫持协议金库”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEV和隐私发展趋势：MEV技术现状与新型隐私设计]]></title>
+        <id>https://www.theblockbeats.info/news/36986</id>
+        <link href="https://www.theblockbeats.info/news/36986"/>
+        <updated>2023-05-12T12:01:48.000Z</updated>
+        <summary type="html"><![CDATA[MEV现状、技术动向与新设计]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -129,26 +327,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BRC20真的懂 Web3？探寻宗教式社区建设，Yuga Labs「猿」宇宙的案例解析]]></title>
-        <id>https://www.web3sj.com/?p=65802</id>
-        <link href="https://www.web3sj.com/nftnews/65802/"/>
-        <updated>2023-05-12T10:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Yuga Labs 于 2021 年首个推出的由 1 万只无聊猿组成的 NFT 系列 —— Bored Ape Yacht Club 在 NFT 行业中拥有最高的地板价（NFT 系列中市场定价最低的那个价格），价格高达为 9.6 万美元，紧随其后的是 CryptoPunks，价格为 9.2 万美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从AI + Crypto出发聊聊Web3女性向游戏HIM]]></title>
-        <id>https://www.web3sj.com/news/65777/</id>
-        <link href="https://www.web3sj.com/gamefinews/65777/"/>
-        <updated>2023-05-12T10:20:04.000Z</updated>
-        <summary type="html"><![CDATA[在大家还在纠结 trustless 且 transparent 的链上大模型如何部署，on-chain AI 能为 web3 带来多大价值，底层的 proof system 怎么才能支撑千亿参数的 LLM 的同时（可以参考上一篇文章），我们也开始思考一系列问题。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[探秘以太坊下一站：坎昆升级与Pro-Danksharding |Gwei Research直播回顾]]></title>
         <id>https://www.defidaonews.com/article/6817698</id>
         <link href="https://www.defidaonews.com/article/6817698"/>
@@ -156,16 +334,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         <summary type="html"><![CDATA[坎昆升级究竟会如何影响以太坊的可扩展性？除了 EIP-4844，还有哪些提案值得关注？分层与模块化会是公链发展的终局形态吗？]]></summary>
         <author>
             <name>wesely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkEVM与zkVM：一字之差，天壤之别]]></title>
-        <id>https://www.web3sj.com/news/65771/</id>
-        <link href="https://www.web3sj.com/news/65771/"/>
-        <updated>2023-05-12T10:11:22.000Z</updated>
-        <summary type="html"><![CDATA[随着当前智能合约的复杂性增加，dapp 越来越先进，区块空间越来越稀缺，运行链上代码的成本也在增加。换句话说，如果你的 DeFi 逻辑变得计算昂贵，或者你的链上游戏逻辑需要额外的计算能力，你应该考虑使用 zkVM 或 zkEVM，将复杂的应用逻辑移到链外。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -252,16 +420,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Searcher、Builder、Validator：谁是MEV的最终赢家？]]></title>
-        <id>https://www.web3sj.com/news/65749/</id>
-        <link href="https://www.web3sj.com/definews/65749/"/>
-        <updated>2023-05-12T08:15:14.000Z</updated>
-        <summary type="html"><![CDATA[这个复杂的交互网络，特别是在当前 PBS 方案下的构建者和验证者之间，可以通过下面的桑基图进行探索。这张图表是一个丰富的数据可视化工具，用来追踪 MEV 的来源——有些可以识别，有些仍然神秘。让我们更近距离地观察这些数据及其含义。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lisk基金会计划在未来10周内将1000枚BTC兑换为ETH]]></title>
         <id>https://panewslab.com/zh/articledetails/4g045bgw.html</id>
         <link href="https://panewslab.com/zh/articledetails/4g045bgw.html"/>
@@ -283,16 +441,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[跟随聪明钱：一览顶级加密风投的最新投资]]></title>
-        <id>https://www.web3sj.com/news/65745/</id>
-        <link href="https://www.web3sj.com/news/65745/"/>
-        <updated>2023-05-12T08:07:55.000Z</updated>
-        <summary type="html"><![CDATA[NEX Protocol 建设者 MooMs 长期追踪 Web3“聪明钱”的流向，并试图提前发现下个行业趋势。以下是 MooMs 在研究顶级加密风投后，关注到的 7 个有前景的项目。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[当应用不会再有护城河，价值该被如何捕获]]></title>
         <id>https://www.defidaonews.com/article/6817664</id>
         <link href="https://www.defidaonews.com/article/6817664"/>
@@ -300,16 +448,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         <summary type="html"><![CDATA[如今构建一个App已经不是什么难事，这时我们就会面临问题]]></summary>
         <author>
             <name>区块律动BlockBeats</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEME后下一波热潮是什么？分享6个领域和16个项目]]></title>
-        <id>https://www.web3sj.com/news/65740/</id>
-        <link href="https://www.web3sj.com/news/65740/"/>
-        <updated>2023-05-12T08:01:18.000Z</updated>
-        <summary type="html"><![CDATA[当多数人还在努力发掘潜力迷因币时，加密 KOL Tindorr 更愿意为下一波浪潮做好准备。以下是作者在其观察列表上列出的 6 个领域和 16 个项目。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -324,26 +462,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Memecoin革命：幽默与加密相遇]]></title>
-        <id>https://www.web3sj.com/news/65736/</id>
-        <link href="https://www.web3sj.com/news/65736/"/>
-        <updated>2023-05-12T07:49:01.000Z</updated>
-        <summary type="html"><![CDATA[在这份综合指南中，我们将探索 MemeCoin 革命，并深入了解这一新兴趋势。本文将讨论 MemeCoins 的历史、优缺点，以及如何投资它们。我们还将介绍投资 MemeCoins 的潜在风险和回报，并提供有关如何驾驭这个令人兴奋的加密货币新世界的技巧。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[易被忽视的Web3增长困境：增长平台自身是否也在增长？]]></title>
-        <id>https://www.web3sj.com/news/65731/</id>
-        <link href="https://www.web3sj.com/news/65731/"/>
-        <updated>2023-05-12T07:35:46.000Z</updated>
-        <summary type="html"><![CDATA[很多项目方乐于选择在上线或新产品发布的关键节点使用任务平台来更进一步拉动用户增长。因为这往往是一个投入低成本却具备出色效果的行为。归根结底，奖金用于回馈了用户，用户好感度大大提升。究其效果也是令人欣喜，短时间内带来大量的流量涌入。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Finance：Optimism生态杠杆收益聚合协议已上线，并将发布空投计划]]></title>
         <id>https://www.theblockbeats.info/news/36981</id>
         <link href="https://www.theblockbeats.info/news/36981"/>
@@ -351,16 +469,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         <summary type="html"><![CDATA[Extra Finance 基于 Optimism 生态搭建，是一个社区驱动的杠杆收益聚合协议。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：24小时内33万亿枚PEPE被转入交易所，价值约4637万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/cy17rvld.html</id>
-        <link href="https://panewslab.com/zh/articledetails/cy17rvld.html"/>
-        <updated>2023-05-12T07:33:42.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，Web3知识图谱协议0xScope发推文称，在过去的24小时内，价值约4637万美元的33万亿枚 PEPE被存入交易所，代币来自1176个地址，净存款为2294万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -374,27 +482,6 @@ Armstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[比特币矿企HIVE Blockchain拟出售1亿美元股票以支持其算力增长计划]]></title>
-        <id>https://panewslab.com/zh/articledetails/wwuoknv7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wwuoknv7.html"/>
-        <updated>2023-05-12T07:28:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，据CoinDesk报道，比特币矿企HIVE Blockchain宣布，该公司计划将其算力或哈希率大致提高一倍，达到6 EH/s 。为此，HIVE Blockchain将发行并出售1亿美元的普通股以支持此项计划。每exahash的比特币挖矿算力将花费3000万美元，因此该产品可以为高达3 EH/s的增长提供资金。
-HIVE Blockchain还表示，已购买了1.26 EH/s的新一代矿机。其中包括0.71 EH/s的Bitmain Antminer型号，其余则由Hive使用英特尔半导体定制的矿机组成。该公司强调，其矿机的电力效率和购买价格有望“优化其运营这些矿机的现金流投资的短期回报”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：昨日BRC-20相关交易费用降至30 BTC，较5月8日下降88%]]></title>
-        <id>https://panewslab.com/zh/articledetails/zf7dh7r2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zf7dh7r2.html"/>
-        <updated>2023-05-12T07:19:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，Dune数据显示，5月11日，BRC-20相关交易（铸造、转移和部署）费用降至30 BTC，较5月8日峰值（255 BTC）下降88%。目前，此类费用已连续三日下滑。此外，5月11日BRC-20相关交易费用仅占比特币当日全部交易手续费的约15%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1kx合伙人Peter：设计代币网络的挑战及解决方案]]></title>
         <id>https://www.theblockbeats.info/news/36979</id>
         <link href="https://www.theblockbeats.info/news/36979"/>
@@ -405,17 +492,6 @@ HIVE Blockchain还表示，已购买了1.26 EH/s的新一代矿机。其中包�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MetaMask现支持美国用户通过PayPal购买以太坊]]></title>
-        <id>https://panewslab.com/zh/articledetails/b9b3mtw5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/b9b3mtw5.html"/>
-        <updated>2023-05-12T06:50:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，据官方博客，加密钱包提供商MetaMask通过与PayPal的合作，已将PayPal集成至MetaMask，为美国用户提供以太坊购买服务（夏威夷除外）。MetaMask表示，这使其成为首个通过PayPal实现此类交易的Web3钱包。除了直接购买ETH之外，该集成还支持将ETH从PayPal转移到MetaMask，以帮助更多用户进行自我托管。
-此前去年12月，MetaMask宣布其与PayPal达成合作关系，并将允许用户通过PayPal购买以太坊。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[详解Maker Endgame：Maker的终局是走向 DeFi 和 AI 创新最前沿]]></title>
         <id>https://www.defidaonews.com/article/6817642</id>
         <link href="https://www.defidaonews.com/article/6817642"/>
@@ -423,39 +499,6 @@ HIVE Blockchain还表示，已购买了1.26 EH/s的新一代矿机。其中包�
         <summary type="html"><![CDATA[这篇文章概述了Endgame将为Maker带来的全面改变的路线图，以及即将到来的五个连续启动阶段。]]></summary>
         <author>
             <name>录觉麟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周三美众议院加密政策听证会举行前，民主党曾散发鼓动参会者支持SEC的文件]]></title>
-        <id>https://panewslab.com/zh/articledetails/ya1mg2r5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ya1mg2r5.html"/>
-        <updated>2023-05-12T06:39:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，据Blockworks报道，在周三美国众议院就加密货币政策举行联合听证会之前，民主党散发的泄露文件引发了加密货币行业的强烈抗议。这份发给民主党众议院金融服务委员会成员的备忘录鼓励党员支持让美国证券交易委员会(SEC)成为加密行业的主要监管机构的想法。该备忘录还鼓励民主党人打消共和党人的说法，即加密货币领域需要更多的监管透明度。备忘录写道：“问题不在于监管规则模棱两可，而在于行业普遍对现行法律不遵守。几十年来，美国的监管体系运转良好，并在金融体系中维持了大规模创新。我们不能仅仅因为加密公司拒绝遵守规则就发明新的监管结构。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ParaSpace旧官推：希望通过谈判推进多重签名转移至社区选举的签署人]]></title>
-        <id>https://panewslab.com/zh/articledetails/ff0qzohj.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ff0qzohj.html"/>
-        <updated>2023-05-12T06:22:41.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，NFT借贷协议ParaSpace旧官推今日早间表示：“为了遵守我们对透明度的承诺，在与Zeneca沟通后，我们同意让所有人都可以在Twitter Spaces上收听与Yubo Ruan和所有多签名签署者的第三方主持会议。我们将推进解决2个关键问题：1.立即采取措施解决平台利率问题：向其他多重签名签名者发出请求，以暂时暂停对借款人的协议利息。2.释放多重签名：将促进控制权从ParaSpace团队的所有签署人和Yubo方面的任何愿意签署人转移到社区选举的签署人，计划进行1天内的提名，在进行2天的投票。我们邀请Yubo和其他签署人参与其中，并在空间会议期间与我们协调。”目前，该会议正在进行。
-此前今日早些时候消息，ParaSpace新官推今日午间表示，核心开发者正申请重获多签资格以推进协议升级。
-相关阅读：用户资金被挪用，创始人被夺权，ParaSpace内部到底发生了什么？]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于区块链的患者网络Humanscape完成约1500万美元C轮融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/2tlodz60.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2tlodz60.html"/>
-        <updated>2023-05-12T06:04:41.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，据首尔经济日报报道，基于区块链的去中心化患者网络Humanscape完成200亿韩元（约1500万美元）C轮融资，新韩银行、新韩资产管理、教保证券、韩亚证券和Mint Venture Partners作为新投资者参投，GC Green Cross Holdings、Care Labs、UTC Investment等现有投资者追加投资。新资金将用于该公司进行进一步扩展其市场。
-据悉，Humanscape是一个基于区块链的去中心化患者网络。Humanscape可以通过基于社区活动的智力和情感互动，为患者克服疾病提供帮助。平台上由患者生成的健康数据 PGHD主导行使权完全归属于患者。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -476,27 +519,6 @@ HIVE Blockchain还表示，已购买了1.26 EH/s的新一代矿机。其中包�
         <summary type="html"><![CDATA[没有永恒的朋友，也没有永恒的敌人，只有永恒的利益。]]></summary>
         <author>
             <name>深潮TechFlow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：3000万枚MATIC从Polygon质押合约转出，约合2494万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/3ib78i03.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3ib78i03.html"/>
-        <updated>2023-05-12T05:47:19.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，据Whale Alert监测，北京时间今日12:58，3000万枚MATIC从Polygon (Matic): PoS Staking Contract合约转至0x4073开头地址，约合2494万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：9个可疑地址昨日共向交易所转入26万亿枚LADYS，价值370万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/3x7tub9z.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3x7tub9z.html"/>
-        <updated>2023-05-12T05:44:45.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月12日消息，链上分析师Lookonchain发推文称，9个可疑地址昨日总共向交易所转入26万亿枚LADYS（价值370万美元），巧合的是这些地址每次转账后LADYS的价格都会下跌。
-此前昨日消息，42个可疑地址当前持有205万亿枚LADYS，占总供应量的23%。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -535,16 +557,6 @@ HIVE Blockchain还表示，已购买了1.26 EH/s的新一代矿机。其中包�
         <link href="https://www.theblockbeats.info/news/36973"/>
         <updated>2023-05-12T04:04:48.000Z</updated>
         <summary type="html"><![CDATA[「聪明钱」背后的真相是什么？]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何与黑客谈判，靠漏洞赏金收回资产]]></title>
-        <id>https://www.theblockbeats.info/news/36971</id>
-        <link href="https://www.theblockbeats.info/news/36971"/>
-        <updated>2023-05-12T03:30:50.000Z</updated>
-        <summary type="html"><![CDATA[遭遇黑客攻击，应如何与其谈判降低损失？]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -621,16 +633,6 @@ HIVE Blockchain还表示，已购买了1.26 EH/s的新一代矿机。其中包�
 针对EIP-4844，会议讨论了如何协调预编译输入格式问题，因为CL上默认的是little-endian，而EL上默认的是big-endian，之后将推进协调此问题。此外，开发者讨论了EIP-4844事务类型应该使用SSZ还是RLP，目前有两种方案可选，一是对当前的SSZ事务规范进行一些小的修改，以进行完整的SSZ转换，二是更改4844以使用RLP编码，但完全迁移工作量大，有很多问题需要解决，或会延迟升级。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传奇交易员GCR的30条交易心得]]></title>
-        <id>https://www.theblockbeats.info/news/36968</id>
-        <link href="https://www.theblockbeats.info/news/36968"/>
-        <updated>2023-05-12T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[强者恒强，反之亦然。减少赢家组合、增加输家组合是一个糟糕的策略，你最好反其道而行之。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>

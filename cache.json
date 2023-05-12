@@ -68,7 +68,7 @@
           "description": "坎昆升级究竟会如何影响以太坊的可扩展性？除了 EIP-4844，还有哪些提案值得关注？分层与模块化会是公链发展的终局形态吗？",
           "link": "https://www.defidaonews.com/article/6817698",
           "publishedOn": "2023-05-12T10:19:30.000Z",
-          "wordCount": 714,
+          "wordCount": 716,
           "title": "探秘以太坊下一站：坎昆升级与Pro-Danksharding |Gwei Research直播回顾",
           "imageUrl": "https://appserversrc.8btc.cn/Fi6ZBPKH5TGg0HfUVtDrstD29u4q.png?imageView2/1/w/500/h/300"
         },
@@ -158,7 +158,7 @@
           "description": "阿里云的触手正在向币圈延伸",
           "link": "https://www.defidaonews.com/article/6817594",
           "publishedOn": "2023-05-12T03:19:16.000Z",
-          "wordCount": 178,
+          "wordCount": 182,
           "title": "阿里云盯上新兴的 Web3 蛋糕，触手正在向币圈延伸",
           "imageUrl": "https://appserversrc.8btc.cn/Fhu1gZfU8krmYrv7CiZ-bfjIfzsx.png?imageView2/1/w/500/h/300"
         }
@@ -170,14 +170,94 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/news/65919/",
+          "author": "Gao",
+          "description": "比特币矿工获得了几年来的最高收入，在某些区块中，交易手续费带来的收入超过区块奖励的一半，按这种情况发展，明年减半后的安全问题也能得到解决。但这也使比特币网络变得拥堵，内存池中存在大量未确认的交易。Ordinals 带来的比特币交易拥堵在比特币社区引起了很大争议。",
+          "link": "https://www.web3sj.com/news/65919/",
+          "publishedOn": "2023-05-12T15:10:22.000Z",
+          "wordCount": 810,
+          "title": "开发者为比特币拥堵问题提出多种解决方案，以闪电网络为代表的Layer2或成赢家",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683904333541.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/65912/",
+          "author": "Gao",
+          "description": "如果您像我一样是一个 DeFi 迷，那么您会喜欢一个好的 Rollup。交换、借贷和交易，所有这些只需要几分钱，而几年前这种近乎无摩擦的体验似乎是不可想象的。虽然有时候使用 Rollup 的体验更像 BNB Chain 这样的中心化链，而不是以太坊。",
+          "link": "https://www.web3sj.com/news/65912/",
+          "publishedOn": "2023-05-12T15:06:34.000Z",
+          "wordCount": 790,
+          "title": "Bankless：共享排序器，让Rollup更加去中心化",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023051217044750376620.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/65902/",
+          "author": "Gao",
+          "description": "「Canton Network 是对行业呼吁的有力回应，该解决方案利用区块链的潜力，同时保留机构金融的基本隐私要求，」另一位参与者 DRW 的合伙人兼 Cumberland 的全球负责人 Chris Zuehlke 说，「这种独特的方法，加上跨多个智能合约执行原子交易的能力，是将上述工作流程带入链上所必需的技术。」",
+          "link": "https://www.web3sj.com/news/65902/",
+          "publishedOn": "2023-05-12T14:59:29.000Z",
+          "wordCount": 799,
+          "title": "技术详解Canton Network：开放、可扩展、支持隐私的企业区块链",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683903584145.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/65878/",
+          "author": "Gao",
+          "description": "通过切断存款地址和取款地址之间的关系，黑客就能将钱洗白从而在未来将虚拟货币换成现金。对于 Tornado Cash 的使用者来说，混币池内的流动性决定了使用者是否能很好的隐匿资金去向，尤其是当资金量非常庞大的时候。",
+          "link": "https://www.web3sj.com/news/65878/",
+          "publishedOn": "2023-05-12T14:52:19.000Z",
+          "wordCount": 852,
+          "title": "无KYC闪兑交易所：Tornado Cash之外的混币途径",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683903366853.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/65870/",
+          "author": "Gao",
+          "description": "在 Uniswap 中，任何人都可以添加他们自己的代币到一个流动性池中，这个池子由代币对组成，例如 ETH/USDT、UNI/ETH 等等。这些代币池子可以直接用以太坊钱包连接到 Uniswap 交易所进行交易。",
+          "link": "https://www.web3sj.com/definews/65870/",
+          "publishedOn": "2023-05-12T14:47:48.000Z",
+          "wordCount": 715,
+          "title": "Uniswap或将收费？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/a13c6518b71a8d5403cf530985ac3630.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/news/65865/",
+          "author": "Gao",
+          "description": "MEV 用于描述在生成一个新区块（将被添加至某区块链）时，为获取尽可能多的利润（即「最大提取利益」）而重新排序交易的行为。也可以将其理解为：通过选择以何种顺序添加哪些交易，从一个区块中挤出的、超出标准奖励和 gas 费的额外价值。",
+          "link": "https://www.web3sj.com/definews/65865/",
+          "publishedOn": "2023-05-12T14:34:59.000Z",
+          "wordCount": 813,
+          "title": "揭开以太坊MEV产业链利益的神秘面纱",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/8f5b9cf626cc8a6cc7da669387333436.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/news/65850/",
+          "author": "Gao",
+          "description": "近几个月来，随着 GPT-3 升级为 GPT-4，上一段最后一句话得到了更有力的印证。而且，这不仅仅是 GPT 营销话术，事实上，人工智能的确使任何人都能更容易地自己构建应用程序，以满足越来越多的小众需求。",
+          "link": "https://www.web3sj.com/news/65850/",
+          "publishedOn": "2023-05-12T14:32:31.000Z",
+          "wordCount": 979,
+          "title": "当应用不会再有护城河，价值该被如何捕获",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/499300b2f210494cf25b8efac7eceaee3dd1159e.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/news/65831/",
+          "author": "Gao",
+          "description": "一个行业新范式传播路径往往是：DeFi 率先钻研出新的玩法，然后市场上其他相关仿盘开始出现，最后再将势能传导到 GameFi 中，用游戏的方式将 DeFi 的思维逻辑再体现一遍。",
+          "link": "https://www.web3sj.com/definews/65831/",
+          "publishedOn": "2023-05-12T14:15:42.000Z",
+          "wordCount": 1005,
+          "title": "羊毛出在猪身上？一文读懂Arbitrum上游戏化DEX：SpartaDex",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/8b2fa6cc50d3ad3d930b03d0d3c95aa0.png"
+        },
+        {
           "id": "https://www.web3sj.com/news/65827/",
           "author": "Gao",
-          "description": "由人驱动的 DAO，表面披着民主外衣。",
-          "link": "https://www.web3sj.com/news/65827/",
+          "description": "简单理解，DAO 成员的组成是一帮志同道合的人所汇集的互联网社区，通过购买 DAO 代币或者注资的形式为实现目标提供资金支持，且不受单个个体的影响。最终 DAO 的决策由社区投票决定，社区也可以通过构建小组、创建任务来细化决策的执行和资金的用途。",
+          "link": "https://www.web3sj.com/daonews/65827/",
           "publishedOn": "2023-05-12T14:09:50.000Z",
-          "wordCount": 692,
-          "title": "DAO 的「人治困境」：内讧撕逼不断，利益分配不均",
-          "imageUrl": "https://www.web3sj.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png"
+          "wordCount": 695,
+          "title": "DAO的「人治困境」：内讧撕逼不断，利益分配不均",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683900676388.png"
         },
         {
           "id": "https://www.web3sj.com/?p=65813",
@@ -185,89 +265,9 @@
           "description": "Arbitrum社区发起“将部分DAO收入分配给ARB持有者”的提案。以太坊开发者在最新ACDE会议聚焦EIP-4844，并欲在后两次会议最终确定坎昆升级范围。2023年Q1加密公司在353轮投资中筹集了26亿美元，创2020年以来新低。",
           "link": "https://www.web3sj.com/news/65813/",
           "publishedOn": "2023-05-12T11:23:37.000Z",
-          "wordCount": 710,
+          "wordCount": 704,
           "title": "Web3世界日报（2023-5.12）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023051211213551.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=65802",
-          "author": "Gao",
-          "description": "Yuga Labs 于 2021 年首个推出的由 1 万只无聊猿组成的 NFT 系列 —— Bored Ape Yacht Club 在 NFT 行业中拥有最高的地板价（NFT 系列中市场定价最低的那个价格），价格高达为 9.6 万美元，紧随其后的是 CryptoPunks，价格为 9.2 万美元。",
-          "link": "https://www.web3sj.com/nftnews/65802/",
-          "publishedOn": "2023-05-12T10:35:56.000Z",
-          "wordCount": 1054,
-          "title": "BRC20真的懂 Web3？探寻宗教式社区建设，Yuga Labs「猿」宇宙的案例解析",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683887330213.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/65777/",
-          "author": "Gao",
-          "description": "在大家还在纠结 trustless 且 transparent 的链上大模型如何部署，on-chain AI 能为 web3 带来多大价值，底层的 proof system 怎么才能支撑千亿参数的 LLM 的同时（可以参考上一篇文章），我们也开始思考一系列问题。",
-          "link": "https://www.web3sj.com/gamefinews/65777/",
-          "publishedOn": "2023-05-12T10:20:04.000Z",
-          "wordCount": 1198,
-          "title": "从AI + Crypto出发聊聊Web3女性向游戏HIM",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/5-1683863053744-1.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/65771/",
-          "author": "Gao",
-          "description": "随着当前智能合约的复杂性增加，dapp 越来越先进，区块空间越来越稀缺，运行链上代码的成本也在增加。换句话说，如果你的 DeFi 逻辑变得计算昂贵，或者你的链上游戏逻辑需要额外的计算能力，你应该考虑使用 zkVM 或 zkEVM，将复杂的应用逻辑移到链外。",
-          "link": "https://www.web3sj.com/news/65771/",
-          "publishedOn": "2023-05-12T10:11:22.000Z",
-          "wordCount": 831,
-          "title": "zkEVM与zkVM：一字之差，天壤之别",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683886530264.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/65749/",
-          "author": "Gao",
-          "description": "这个复杂的交互网络，特别是在当前 PBS 方案下的构建者和验证者之间，可以通过下面的桑基图进行探索。这张图表是一个丰富的数据可视化工具，用来追踪 MEV 的来源——有些可以识别，有些仍然神秘。让我们更近距离地观察这些数据及其含义。",
-          "link": "https://www.web3sj.com/definews/65749/",
-          "publishedOn": "2023-05-12T08:15:14.000Z",
-          "wordCount": 798,
-          "title": "Searcher、Builder、Validator：谁是MEV的最终赢家？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/5-1683853320039.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/65745/",
-          "author": "Gao",
-          "description": "NEX Protocol 建设者 MooMs 长期追踪 Web3“聪明钱”的流向，并试图提前发现下个行业趋势。以下是 MooMs 在研究顶级加密风投后，关注到的 7 个有前景的项目。",
-          "link": "https://www.web3sj.com/news/65745/",
-          "publishedOn": "2023-05-12T08:07:55.000Z",
-          "wordCount": 744,
-          "title": "跟随聪明钱：一览顶级加密风投的最新投资",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683879002804.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/65740/",
-          "author": "Gao",
-          "description": "当多数人还在努力发掘潜力迷因币时，加密 KOL Tindorr 更愿意为下一波浪潮做好准备。以下是作者在其观察列表上列出的 6 个领域和 16 个项目。",
-          "link": "https://www.web3sj.com/news/65740/",
-          "publishedOn": "2023-05-12T08:01:18.000Z",
-          "wordCount": 748,
-          "title": "MEME后下一波热潮是什么？分享6个领域和16个项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683878537899.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/65736/",
-          "author": "Gao",
-          "description": "在这份综合指南中，我们将探索 MemeCoin 革命，并深入了解这一新兴趋势。本文将讨论 MemeCoins 的历史、优缺点，以及如何投资它们。我们还将介绍投资 MemeCoins 的潜在风险和回报，并提供有关如何驾驭这个令人兴奋的加密货币新世界的技巧。",
-          "link": "https://www.web3sj.com/news/65736/",
-          "publishedOn": "2023-05-12T07:49:01.000Z",
-          "wordCount": 808,
-          "title": "Memecoin革命：幽默与加密相遇",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/5-1683851859154.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/65731/",
-          "author": "Gao",
-          "description": "很多项目方乐于选择在上线或新产品发布的关键节点使用任务平台来更进一步拉动用户增长。因为这往往是一个投入低成本却具备出色效果的行为。归根结底，奖金用于回馈了用户，用户好感度大大提升。究其效果也是令人欣喜，短时间内带来大量的流量涌入。",
-          "link": "https://www.web3sj.com/news/65731/",
-          "publishedOn": "2023-05-12T07:35:46.000Z",
-          "wordCount": 819,
-          "title": "易被忽视的Web3增长困境：增长平台自身是否也在增长？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1683877298279.png"
         }
       ]
     },
@@ -277,12 +277,102 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/tzilv6tz.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，据CoinDesk报道，欧盟法律草案显示，欧盟计划强制加密货币公司向税务机关提供其客户持有资产的详细信息，该法案将于下周由各国财政部长达成一致，并将允许税务机关在 27 个国家集团内共享数据。知情人士透露，少部分财政部长尚未获得议会的正式批准。\n该法案要求加密公司向税务机关注册，有争议的是，这项被称为行政合作第八指令 (DAC8) 的法律仍然包括用于交易可用于支付或投资的 NFT 的平台，以及来自欧盟以外的拥有欧盟客户的供应商。",
+          "link": "https://panewslab.com/zh/articledetails/tzilv6tz.html",
+          "publishedOn": "2023-05-12T13:35:44.000Z",
+          "wordCount": 390,
+          "title": "欧盟法律草案强制加密公司向税务机关提供其客户持有资产的详细信息",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/haqlpbq7.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，据官方消息，OKX与比特币铭文钱包 UniSat Wallet达成官方合作，共建BRC-20行业标准。\n据悉，双方将基于OKX自研BRC-20账本解析与索引库，展开双重校验方面的合作，同时UniSat也将成为OKX Web3 BRC20市场数据供应商。此外，未来OKX将于与Unisat保持探索互换BRC20的订单流动性，持续共建BTC生态 。",
+          "link": "https://panewslab.com/zh/articledetails/haqlpbq7.html",
+          "publishedOn": "2023-05-12T13:19:28.000Z",
+          "wordCount": 378,
+          "title": "OKX与UniSat达成官方合作，共建BRC-20行业标准",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/g3g4k9ar.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，美国专利商标局商标律师 Mike Kondoudis 在推特发文表示，美国专利商标局已经批准足球巨星大卫·贝克汉姆（David Beckham）的 3 个 NFT 和元宇宙商标申请。该商标内容包括 NFT 及数字代币、虚拟服装/鞋类/头饰、以及虚拟表演+娱乐活动。",
+          "link": "https://panewslab.com/zh/articledetails/g3g4k9ar.html",
+          "publishedOn": "2023-05-12T13:16:21.000Z",
+          "wordCount": 419,
+          "title": "美国专利商标局已批准贝克汉姆的3个NFT和元宇宙商标申请",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ij1wqx6c.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，据金十报道，NBC环球公司宣布广告主管Linda Yaccarino离职。据说她正在谈判成为下任Twitter首席执行官。据华盛顿邮报：马斯克选择NBC环球公司广告主管Linda Yaccarino为推特CEO。NBC环球公司表示，推特新CEO Linda Yaccarino将在本公司担任临时职位。",
+          "link": "https://panewslab.com/zh/articledetails/ij1wqx6c.html",
+          "publishedOn": "2023-05-12T13:08:27.000Z",
+          "wordCount": 405,
+          "title": "华盛顿邮报：马斯克选择NBC环球公司广告主管Linda Yaccarino为推特CEO",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dz5snam4.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，据The Block报道，无需许可的 CosmWasm 智能合约平台 Neutron 成为第一个使用复制安全性启动的 Cosmos 区块链。复制安全性使 Cosmos 生态系统中的区块链能够依赖 Cosmos Hub 的验证器集来确保其安全性。Neutron 是在 Cosmos 社区于 5 月 6 日批准了由 ATOM 持有者投票通过的治理提案 792后推出的。",
+          "link": "https://panewslab.com/zh/articledetails/dz5snam4.html",
+          "publishedOn": "2023-05-12T13:03:33.000Z",
+          "wordCount": 463,
+          "title": "CosmWasm平台Neutron成为第一个使用复制安全性启动的Cosmos区块链",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1t4ihyjy.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，据Blockworks报道，一项集体诉讼指控 Jump Trading 在 2021 年 5 月 23 日至 5 月 27 日期间大量净购买了超过 6200 万个 UST 代币。据称，从 2019 年 11 月左右开始，前 Terraform 首席执行官 Do Kwon 与 Jump 之间的谈判达成了一系列协议。根据诉讼，作为其中的一部分，TFL 向 Jump 借出了 3000 万个 LUNA 代币，使他们能够为 LUNA 和 UST 提供做市服务。 作为回报，Jump 有权获得赔偿，其中包括以大幅折扣价获得 LUNA 代币。\n诉讼称，不久之后，即当年 5 月 23 日，Kwon 和 Jump 合谋人为抬高了 UST 和 aUST（Terra 借贷平台 Anchor 上使用的代币）的价格。这显然是通过 Jump 秘密购买大量 UST 来实现的，暂时恢复了 UST 挂钩 1 美元的假象。由于该计划，据说 Jump 通过出售其通过修改后的协议获得的大幅折扣 LUNA 代币，赚取了超过 12.8 亿美元的惊人利润。\n诉讼中写道：“原告的指控是基于对他自己和他自己的行为的个人了解，以及基于原告律师进行的调查以及通过原告律师进行的调查对所有其他事项的信息和信念，其中调查包括，除其他事项外，审查有关数字资产的白皮书、新闻稿、媒体报道和其他公开披露的有关被告的报告和信息。”",
+          "link": "https://panewslab.com/zh/articledetails/1t4ihyjy.html",
+          "publishedOn": "2023-05-12T12:53:43.000Z",
+          "wordCount": 615,
+          "title": "一集体诉讼指控Jump Trading通过操纵Terra算稳UST价格获利近13亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b1wxjxvh.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，韩国公司 LG 电子正在为一款能让用户交易 NFT 的电视寻求专利保护。该设备将能够与 NFT 市场服务器建立连接，接收和显示预览图，并通过连接到电视的用户加密货币钱包完成购买。LG 于去年 9 月开始了将 NFT 引入其电视的工作，发布了插入 Hedera Network 的艺术实验室市场，自 2020 年以来 LG 一直是该网络的节点运营商。\n值得一提的是，三星电子也拟于今年上半年推出可交易和展示NFT的智能电视。",
+          "link": "https://panewslab.com/zh/articledetails/b1wxjxvh.html",
+          "publishedOn": "2023-05-12T12:43:56.000Z",
+          "wordCount": 461,
+          "title": "LG 电子正在为可交易NFT的电视申请专利保护",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6c4auzpo.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，跨链互操作性项目Interlay创始人Alexei Zamyatin发推提议创建BRC-42标准（对BRC-20标准的扩展），旨在以完全去中心化的方式将BRC-20代币桥接至以太坊、Solana、Polkadot、Interlay等外部智能合约链，从而解锁BRC-20代币的DeFi用例，比如闪兑、借贷等。\n此前，Interlay Labs发布BRC-21代币标准，用于铸造和赎回去中心化的跨链BRC-20代币。\n相关阅读：比特币生态代币新标准BRC-21是什么？",
+          "link": "https://panewslab.com/zh/articledetails/6c4auzpo.html",
+          "publishedOn": "2023-05-12T12:19:01.000Z",
+          "wordCount": 393,
+          "title": "Interlay创始人提议创建BRC-42标准，旨在将BRC-20代币桥接至以太坊等外部网络",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/kx64d292.html",
+          "author": "PA一线",
+          "description": "PANews 5月12日消息，Aragon协会发布澄清公告表示： 1. 金库目前由作为其托管人的 AA（Aragon协会）控制；2. AA 正在逐步将国库和核心基础设施转移到 Aragon DAO 以降低风险；3. 作为非营利组织，AA 有责任确保财政部实现其目标，建立去中心化的治理基础设施。此外，暂时将 Aragon DAO 更名为 Aragon Grants DAO，向 “无风险价值(RFV)攻击者”传达的信息非常明确：从协会发送到 DAO 的任何更多资金都用于建设者。\n前天报道，Aragon协会取消ANT代币持有人投票权，以应对Arca等投资者对其发起的“51%攻击”。dForce创始人指责Aragon团队通过“重新调整DAO劫持协议金库”。",
+          "link": "https://panewslab.com/zh/articledetails/kx64d292.html",
+          "publishedOn": "2023-05-12T12:04:59.000Z",
+          "wordCount": 477,
+          "title": "Aragon宣布暂时将Aragon DAO更名为Aragon Grants DAO",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/3zy95551.html",
           "author": "PA一线",
           "description": "PANews 5月12日消息，据黑山当地媒体Pobjeda报道，在法院同意支付 400,000 欧元（436,000 美元）保释金后，Terraform Labs 联合创始人 Do Kwon 将被释放出狱，等待审判。其同伙Hon Chand Jun也将以 40 万欧元的保释金获释。被告人还承诺，如果获得保释，他们将在刑事诉讼结束之前不会躲藏，他们将定期回应法庭传票，并将在辩护律师提供的地址与他们联系。据被告人称，除保释外，作为保证被告人在场和诉讼顺利进行的措施，还确定了禁止他们离开公寓的措施，法院认为该措施取代了拘留。\n控方代表反对上述提议，指出所提供的金额并不能保证被告人在场，被告人没有兴趣留在黑山境内，他还指出，没有确定监视措施的条件。不服的一方有权在三日内对该（法院）决定提出上诉。",
           "link": "https://panewslab.com/zh/articledetails/3zy95551.html",
           "publishedOn": "2023-05-12T11:51:12.000Z",
-          "wordCount": 444,
+          "wordCount": 438,
           "title": "外媒：Do Kwon将在支付40万欧元保释金后被释放出狱",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -292,7 +382,7 @@
           "description": "PANews 5月12日消息，据金十报道，市场消息称，津巴布韦央行发行了价值140亿津元的黄金支持数字货币。",
           "link": "https://panewslab.com/zh/articledetails/h3hscj1u.html",
           "publishedOn": "2023-05-12T11:34:49.000Z",
-          "wordCount": 366,
+          "wordCount": 360,
           "title": "市场消息：津巴布韦央行发行了价值140亿津元的黄金支持数字货币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -302,7 +392,7 @@
           "description": "PANews 5月12日消息，根据美国证券交易委员会的披露， Coinbase 首席执行官Brian Armstrong去年获得了 630 万美元的安保福利，是前一年公司为其支付的安保成本的三倍多。2021 年，Armstrong的安保费用为 190 万美元。该公司上个月发布的高管薪酬摘要没有对这一涨幅做出解释。\nArmstrong在 2022 年的总薪酬为 750 万美元。他拿了 100 万美元的固定工资，剩下的是安全费用和法律费用。他在 2021 年和 2020 年领取相同的基本工资。其大部分财富来自他持有和出售的 Coinbase 股票。在公司于 2021 年上市后的几周内，他从股票销售中赚取了 2.92 亿美元。",
           "link": "https://panewslab.com/zh/articledetails/9y6223tt.html",
           "publishedOn": "2023-05-12T11:08:12.000Z",
-          "wordCount": 441,
+          "wordCount": 438,
           "title": "Coinbase薪酬披露显示其CEO去年获得了630万美元的安保福利",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +402,7 @@
           "description": "PANews 5月12日消息，韩国游戏巨头Wemade旗下链游平台WEMIX宣布推出代币销毁平台“WEMIX BURN Platform”，WEMIX销毁计划分为Mass Burn、Batch Burn和Auto Burn三种类型，让投资者、WEMIX 代币持有者和社区成员可以查看每一次销毁过程的细节，继而实现通缩代币经济并支持 WEMIX3.0 生态系统的健康长期发展。\n此前报道，WEMIX将实施代币通缩政策，投资收入的25%将按季度销毁。",
           "link": "https://panewslab.com/zh/articledetails/4fww5h4u.html",
           "publishedOn": "2023-05-12T10:46:45.000Z",
-          "wordCount": 413,
+          "wordCount": 407,
           "title": "链游平台WEMIX推出代币销毁平台，销毁计划将分三种类型",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +412,7 @@
           "description": "PANews 5月12日消息，区块链游戏 Medieval Empires 宣布以 3000 万美元估值完成 200 万美元新一轮融资。Medieval Empires 首席执行官 Jan Berkefeld 表示，本次募集的新资金将用于加速游戏的开发以为用户提供卓越的游戏体验。该游戏是一款多人在线战略游戏，背景设定在 13 世纪后期，玩家可以构建自己的帝国并配合使用 NFT 在游戏里开疆拓土。\n此前 4 月，链游Medieval Empires完成DWF Labs领投的300万美元融资。",
           "link": "https://panewslab.com/zh/articledetails/ximh8kfh.html",
           "publishedOn": "2023-05-12T09:57:52.000Z",
-          "wordCount": 471,
+          "wordCount": 465,
           "title": "链游Medieval Empires完成200万美元新一轮融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +422,7 @@
           "description": "PANews 5月12日消息，据Cointelegraph报道，根据 Metal Blockchain 团队的公告，美联储即将推出的即时支付服务 FedNow 将与 Metal Blockchain 整合。该公告称，整合将允许 Metal 用户使用 FedNow 的“发送/接收”功能立即将资金转换为稳定币并再次转换回来。Metal Blockchain 是由 Metallicus 基于 Avalanche 代码的一个分支“X-Chain”子网开发的加密网络。Metal 开发人员声称该网络“建立在 BSA [银行保密法] 合规性的基础上”，这意味着它内置了身份验证和反洗钱功能。\n此前报道，美联储将于7月推出实时支付系统FedNowService。",
           "link": "https://panewslab.com/zh/articledetails/09mfn82d.html",
           "publishedOn": "2023-05-12T09:49:03.000Z",
-          "wordCount": 475,
+          "wordCount": 469,
           "title": "美联储的支付系统FedNow将与Metal Blockchain整合，支持将现金转换为稳定币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +432,7 @@
           "description": "PANews 5月12日消息，根据PitchBook的2023年第一季度加密报告，加密公司在 353 轮投资中筹集了 26 亿美元。分别比去年同期下降 78.0% 和 64.4%。该报告显示，交易价值环比下降 11%，交易总额下降 12.2%。2023 年第一季度还创下了自 2020 年第四季度以来该领域的最低投资额。与 2022 年全年相比，本季度种子轮融资增长了 33.3%，后期融资融资增长了 209.2%。但是，早期融资融资下降了 16.7%。",
           "link": "https://panewslab.com/zh/articledetails/fv9cj7n0.html",
           "publishedOn": "2023-05-12T09:13:40.000Z",
-          "wordCount": 447,
+          "wordCount": 441,
           "title": "2023年Q1加密公司在353轮投资中筹集了26亿美元，创2020年以来新低",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +442,7 @@
           "description": "PANews 5月12日消息，据华尔街日报报道，知情人士透露，Comcast旗下NBC环球公司广告主管Linda Yaccarino正就出任推特新CEO事宜进行商讨。Yaccarino现任NBCU的全球广告和合作关系主席，她在NBCU工作了十多年，一直倡导寻找更好的方法来衡量广告效果。\n此前今日早些时候消息，马斯克推特发文称，他已为X和推特找到了一位新CEO，她将于6周后上任。",
           "link": "https://panewslab.com/zh/articledetails/lm761234.html",
           "publishedOn": "2023-05-12T08:52:44.000Z",
-          "wordCount": 379,
+          "wordCount": 373,
           "title": "华尔街日报：推特新CEO或为NBC环球公司广告主管Linda Yaccarino",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +452,7 @@
           "description": "PANews 5月12日消息，Token Unlock数据显示，自4月13日以太坊主网完成上海升级以来，已有约257万枚ETH解除质押，约314万枚ETH新存入质押，总质押量净增长超57万枚ETH。此外，当前约26140枚ETH处于待提款状态。",
           "link": "https://panewslab.com/zh/articledetails/60afxpft.html",
           "publishedOn": "2023-05-12T08:21:30.000Z",
-          "wordCount": 393,
+          "wordCount": 387,
           "title": "数据：上海升级1个月以来，ETH质押量净增长超57万枚",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +462,7 @@
           "description": "PANews 5月12日消息，区块链应用平台Lisk联合创始人Max Kordek发推文称，Lisk基金会将在未来10周内将1000枚BTC兑换为ETH，并把这些ETH作为基金会长期资金的一部分。Lisk基金会将每周出售100枚BTC，以降低相关第三方的风险。购买的ETH将会存入一个多签钱包。基金会有意将这些ETH进行质押，但这不会立刻完成。\n此外，对于未来的财务战略，2023年Lisk基金会将使用法币资金，2024和2025年将使用比特币资金，在此之后，基金会将由项目的收入来维持。",
           "link": "https://panewslab.com/zh/articledetails/4g045bgw.html",
           "publishedOn": "2023-05-12T08:11:27.000Z",
-          "wordCount": 407,
+          "wordCount": 401,
           "title": "Lisk基金会计划在未来10周内将1000枚BTC兑换为ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,98 +472,8 @@
           "description": "PANews 5月12日消息，对于今日凌晨以太坊共识层（即原信标链）短暂异常，imToken分析该异常主要源于共识层Epoch投票未达到2/3 ，导致连续30分钟无法确认最终性，但后恢复正常。imToken认为这表明以太坊PoS共识算法去中心化程度高，具备韧性。\n据悉，以太坊共识机制要求交易最终性需等待2个 Epoch（约12分钟）确认。imToken认为，只要执行层区块生产正常且Safe Head投票率达到阈值，便可满足大部分场景，安全级别与合并前主网交易需6-12区块确认相当。",
           "link": "https://panewslab.com/zh/articledetails/5u52vp9s.html",
           "publishedOn": "2023-05-12T07:51:49.000Z",
-          "wordCount": 377,
+          "wordCount": 371,
           "title": "imToken：以太坊信标链凌晨短暂异常原因为共识层Epoch投票未达2/3",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cy17rvld.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，Web3知识图谱协议0xScope发推文称，在过去的24小时内，价值约4637万美元的33万亿枚 PEPE被存入交易所，代币来自1176个地址，净存款为2294万美元。",
-          "link": "https://panewslab.com/zh/articledetails/cy17rvld.html",
-          "publishedOn": "2023-05-12T07:33:42.000Z",
-          "wordCount": 381,
-          "title": "数据：24小时内33万亿枚PEPE被转入交易所，价值约4637万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/wwuoknv7.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，据CoinDesk报道，比特币矿企HIVE Blockchain宣布，该公司计划将其算力或哈希率大致提高一倍，达到6 EH/s 。为此，HIVE Blockchain将发行并出售1亿美元的普通股以支持此项计划。每exahash的比特币挖矿算力将花费3000万美元，因此该产品可以为高达3 EH/s的增长提供资金。\nHIVE Blockchain还表示，已购买了1.26 EH/s的新一代矿机。其中包括0.71 EH/s的Bitmain Antminer型号，其余则由Hive使用英特尔半导体定制的矿机组成。该公司强调，其矿机的电力效率和购买价格有望“优化其运营这些矿机的现金流投资的短期回报”。",
-          "link": "https://panewslab.com/zh/articledetails/wwuoknv7.html",
-          "publishedOn": "2023-05-12T07:28:32.000Z",
-          "wordCount": 421,
-          "title": "比特币矿企HIVE Blockchain拟出售1亿美元股票以支持其算力增长计划",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zf7dh7r2.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，Dune数据显示，5月11日，BRC-20相关交易（铸造、转移和部署）费用降至30 BTC，较5月8日峰值（255 BTC）下降88%。目前，此类费用已连续三日下滑。此外，5月11日BRC-20相关交易费用仅占比特币当日全部交易手续费的约15%。",
-          "link": "https://panewslab.com/zh/articledetails/zf7dh7r2.html",
-          "publishedOn": "2023-05-12T07:19:49.000Z",
-          "wordCount": 405,
-          "title": "数据：昨日BRC-20相关交易费用降至30 BTC，较5月8日下降88%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/b9b3mtw5.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，据官方博客，加密钱包提供商MetaMask通过与PayPal的合作，已将PayPal集成至MetaMask，为美国用户提供以太坊购买服务（夏威夷除外）。MetaMask表示，这使其成为首个通过PayPal实现此类交易的Web3钱包。除了直接购买ETH之外，该集成还支持将ETH从PayPal转移到MetaMask，以帮助更多用户进行自我托管。\n此前去年12月，MetaMask宣布其与PayPal达成合作关系，并将允许用户通过PayPal购买以太坊。",
-          "link": "https://panewslab.com/zh/articledetails/b9b3mtw5.html",
-          "publishedOn": "2023-05-12T06:50:54.000Z",
-          "wordCount": 377,
-          "title": "MetaMask现支持美国用户通过PayPal购买以太坊",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ya1mg2r5.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，据Blockworks报道，在周三美国众议院就加密货币政策举行联合听证会之前，民主党散发的泄露文件引发了加密货币行业的强烈抗议。这份发给民主党众议院金融服务委员会成员的备忘录鼓励党员支持让美国证券交易委员会(SEC)成为加密行业的主要监管机构的想法。该备忘录还鼓励民主党人打消共和党人的说法，即加密货币领域需要更多的监管透明度。备忘录写道：“问题不在于监管规则模棱两可，而在于行业普遍对现行法律不遵守。几十年来，美国的监管体系运转良好，并在金融体系中维持了大规模创新。我们不能仅仅因为加密公司拒绝遵守规则就发明新的监管结构。”",
-          "link": "https://panewslab.com/zh/articledetails/ya1mg2r5.html",
-          "publishedOn": "2023-05-12T06:39:11.000Z",
-          "wordCount": 354,
-          "title": "周三美众议院加密政策听证会举行前，民主党曾散发鼓动参会者支持SEC的文件",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ff0qzohj.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，NFT借贷协议ParaSpace旧官推今日早间表示：“为了遵守我们对透明度的承诺，在与Zeneca沟通后，我们同意让所有人都可以在Twitter Spaces上收听与Yubo Ruan和所有多签名签署者的第三方主持会议。我们将推进解决2个关键问题：1.立即采取措施解决平台利率问题：向其他多重签名签名者发出请求，以暂时暂停对借款人的协议利息。2.释放多重签名：将促进控制权从ParaSpace团队的所有签署人和Yubo方面的任何愿意签署人转移到社区选举的签署人，计划进行1天内的提名，在进行2天的投票。我们邀请Yubo和其他签署人参与其中，并在空间会议期间与我们协调。”目前，该会议正在进行。\n此前今日早些时候消息，ParaSpace新官推今日午间表示，核心开发者正申请重获多签资格以推进协议升级。\n相关阅读：用户资金被挪用，创始人被夺权，ParaSpace内部到底发生了什么？",
-          "link": "https://panewslab.com/zh/articledetails/ff0qzohj.html",
-          "publishedOn": "2023-05-12T06:22:41.000Z",
-          "wordCount": 410,
-          "title": "ParaSpace旧官推：希望通过谈判推进多重签名转移至社区选举的签署人",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2tlodz60.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，据首尔经济日报报道，基于区块链的去中心化患者网络Humanscape完成200亿韩元（约1500万美元）C轮融资，新韩银行、新韩资产管理、教保证券、韩亚证券和Mint Venture Partners作为新投资者参投，GC Green Cross Holdings、Care Labs、UTC Investment等现有投资者追加投资。新资金将用于该公司进行进一步扩展其市场。\n据悉，Humanscape是一个基于区块链的去中心化患者网络。Humanscape可以通过基于社区活动的智力和情感互动，为患者克服疾病提供帮助。平台上由患者生成的健康数据 PGHD主导行使权完全归属于患者。",
-          "link": "https://panewslab.com/zh/articledetails/2tlodz60.html",
-          "publishedOn": "2023-05-12T06:04:41.000Z",
-          "wordCount": 403,
-          "title": "基于区块链的患者网络Humanscape完成约1500万美元C轮融资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3ib78i03.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，据Whale Alert监测，北京时间今日12:58，3000万枚MATIC从Polygon (Matic): PoS Staking Contract合约转至0x4073开头地址，约合2494万美元。",
-          "link": "https://panewslab.com/zh/articledetails/3ib78i03.html",
-          "publishedOn": "2023-05-12T05:47:19.000Z",
-          "wordCount": 404,
-          "title": "数据：3000万枚MATIC从Polygon质押合约转出，约合2494万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3x7tub9z.html",
-          "author": "PA一线",
-          "description": "PANews 5月12日消息，链上分析师Lookonchain发推文称，9个可疑地址昨日总共向交易所转入26万亿枚LADYS（价值370万美元），巧合的是这些地址每次转账后LADYS的价格都会下跌。\n此前昨日消息，42个可疑地址当前持有205万亿枚LADYS，占总供应量的23%。",
-          "link": "https://panewslab.com/zh/articledetails/3x7tub9z.html",
-          "publishedOn": "2023-05-12T05:44:45.000Z",
-          "wordCount": 364,
-          "title": "数据：9个可疑地址昨日共向交易所转入26万亿枚LADYS，价值370万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -591,6 +591,26 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/36980",
+          "author": null,
+          "description": "以太坊上海升级后质押量不降反升，LSDFi的呼声水涨船高",
+          "link": "https://www.theblockbeats.info/news/36980",
+          "publishedOn": "2023-05-12T14:00:01.000Z",
+          "wordCount": null,
+          "title": "以太坊上海升级后质押量逆势上涨，LSDFi 值得长期关注吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/36986",
+          "author": null,
+          "description": "MEV现状、技术动向与新设计",
+          "link": "https://www.theblockbeats.info/news/36986",
+          "publishedOn": "2023-05-12T12:01:48.000Z",
+          "wordCount": null,
+          "title": "MEV和隐私发展趋势：MEV技术现状与新型隐私设计",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/36985",
           "author": null,
           "description": "「推特公开搜索Twitter CEO ，Linda赫然在列，与马斯克并排」",
@@ -668,26 +688,6 @@
           "publishedOn": "2023-05-12T04:04:48.000Z",
           "wordCount": null,
           "title": "从PEPE和BEN赚取超百万美元，「聪明钱」精准扫货背后或为老鼠仓交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36971",
-          "author": null,
-          "description": "遭遇黑客攻击，应如何与其谈判降低损失？",
-          "link": "https://www.theblockbeats.info/news/36971",
-          "publishedOn": "2023-05-12T03:30:50.000Z",
-          "wordCount": null,
-          "title": "如何与黑客谈判，靠漏洞赏金收回资产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/36968",
-          "author": null,
-          "description": "强者恒强，反之亦然。减少赢家组合、增加输家组合是一个糟糕的策略，你最好反其道而行之。",
-          "link": "https://www.theblockbeats.info/news/36968",
-          "publishedOn": "2023-05-12T01:00:01.000Z",
-          "wordCount": null,
-          "title": "传奇交易员GCR的30条交易心得",
           "imageUrl": null
         }
       ]
