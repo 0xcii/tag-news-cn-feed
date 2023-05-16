@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-16T09:12:34.524Z</id>
+    <id>urn:2023-05-16T10:13:32.911Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-16T09:12:34.524Z</updated>
+    <updated>2023-05-16T10:13:32.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[龙心晨报25 喘口气！ 现金已不安全]]></title>
+        <id>https://www.web3sj.com/?p=66908</id>
+        <link href="https://www.web3sj.com/transaction/66908/"/>
+        <updated>2023-05-16T09:29:28.000Z</updated>
+        <summary type="html"><![CDATA[短期内BTC继续看三万压力位，31000附近做好保护和止损操作。ETH层面继续看2000的压力，下方看到1700附近可以做现金备兑。不建议继续加仓期权卖方仓位]]></summary>
+        <author>
+            <name>Niu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sui生态热门应用Suia，如何塑造链上社交新模式？]]></title>
         <id>https://www.web3sj.com/news/66945/</id>
@@ -33,6 +43,42 @@
         <summary type="html"><![CDATA[交易只是告诉以太坊网络，你作为一个用户，想要执行一个行动的一种方式。在此案例中，这将是向 Vitalik 发送 1 个 DAI。而钱包（如 Metamask）有助于以一种相对简单的方式建立这种交易。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简析Neutron：推动Cosmos实现链间增长与创新]]></title>
+        <id>https://www.theblockbeats.info/news/37030</id>
+        <link href="https://www.theblockbeats.info/news/37030"/>
+        <updated>2023-05-16T08:51:01.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《浅析：Neutron 为 Cosmos 带来的创新》  
+
+原文来源：
+
+AppleDao 
+
+
+Cosmos 目前现状
+
+cosmos 生态曾在 2022 年因 stake 结合空投的模式火热了一段时间，早期质押者从中受益颇多，但 ATOM 的中立和几乎没有任何形式上的「价值捕获」导致整个生态并没有吸引太多的用户和资金。但也由此成就了 cosmos 生态神器 IBC 协议的发展目前越来越多的项目加入 cosmos 生态包括老牌 defi 项目 DYDX、近期走势亮眼的 INJ 等一系列项目。包括 L2 的概念有一定程度上也是受到了 cosmos 的启发。
+
+在今年 3 月 15 日 cosmos hub 发推表示 cosmos hub 将启用 Replicated Security（最初曾被命名为 Interchain Security。该机制允许其他 Cosmos 生态区块链借助 Cosmos Hub 的验证器来保证自己的安全性，而无需维护自己的验证器，这些区块链将被称为消费者链），这代表 cosmos 生态真正意义上姚迈入 atom2.0「融合时代」，Neutron 将是第一条 Replicated Security 上启动的链。
+
+什么是 Neutron
+
+
+Neutron 由 Tendermint 提供支持并使用 Cosmos SDK 构建，是跨链 DeFi 最安全的免许可智能合约平台
+  
+Neutron 让开发人员启动智能合约
+
+
+Neutron 提供了与其他协议和应用链互操作的工具
+
+
+Neutron 由行业领导者和 Cosmos OG P2P （Lido 核心团队）孵化
+
+Neutron 是第一个在 Replicated Security (RS) 上启动的链使其成为经济安全方面排名前 10 的权益证明链。由于需要复杂的基础设施，在 Cosmo…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -86,6 +132,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[数据：86个可疑地址曾共向交易所存入90万亿枚LADYS，现仍持131万亿枚]]></title>
+        <id>https://panewslab.com/zh/articledetails/v1adbkj9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/v1adbkj9.html"/>
+        <updated>2023-05-16T08:28:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月16日消息，Lookonchain更新了LADYS可疑地址列表，86个地址共向交易所存入了90万亿枚LADYS （约1080万美元），并发现这些代币在转入交易所后LADYS的价格开始下跌。这86个地址目前持有131万亿枚LADYS（约1500万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[比特币价格预测：BTC 突破 27,200 美元的关键水平；  50 EMA可以触发反弹吗？]]></title>
         <id>https://0xzx.com/2023051616283462997.html</id>
         <link href="https://0xzx.com/2023051616283462997.html"/>
@@ -93,6 +149,17 @@
         <summary type="html"><![CDATA[比特币 (BTC) 在市场上取得重大进展，突破了关键的 27,200 美元水平。 这一突破引发了交易员和投资者 […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美FDIC主席：签名银行未能了解加密相关风险加速了其倒闭]]></title>
+        <id>https://panewslab.com/zh/articledetails/7q367bmi.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7q367bmi.html"/>
+        <updated>2023-05-16T08:13:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月16日消息，据Cointelegraph报道，美国联邦存款保险公司（FDIC）主席 Martin Gruenberg在一场有关《对审慎的监管机构的监督》听证会上表示，签名银行（Signature Bank）失败的根本原因是管理不善。根据FDIC首席风险官的说法，银行管理层没有优先考虑良好的治理举措；在处理FDIC监管建议时不那么反应迅速或及时；还通过过度依赖未投保的存款而没有实施基本的流动性风险管理实践和控制，为其快速增长提供资金。此外，该银行未能了解其与加密行业存款的关联和依赖的风险，也未能了解其容易受到2022年底至2023年加密行业动荡的影响。
+尽管Silvergate的清算和硅谷银行（SVB）的失败所带来的后果是前所未有的，但 Signature Bank的治理不善和风险管理实践不足使该银行无法在压力时期有效管理其流动性，使其无法满足非常大的提款请求。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -106,6 +173,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[借助Memecoin筹集690万美元，加密传奇人物Ben是谁？]]></title>
+        <id>https://www.theblockbeats.info/news/37028</id>
+        <link href="https://www.theblockbeats.info/news/37028"/>
+        <updated>2023-05-16T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Ben 可以说是加密圈最具争议的人物之一。他推出了 BEN 代币，还发起了当前「meme summer」规模最大的预售之一。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlockFi债权人称该公司的失败应归咎于其管理层]]></title>
+        <id>https://panewslab.com/zh/articledetails/vj8usoab.html</id>
+        <link href="https://panewslab.com/zh/articledetails/vj8usoab.html"/>
+        <updated>2023-05-16T07:57:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月16日消息，据CoinDesk报道，BlockFi债权人认为，BlockFi关于自己是FTX和Alameda受害者的说法是“虚假陈述”，并将该公司的失败归咎于管理决策不善以及重组代理人。
+BlockFi债权人委员会在法庭文件中指出了几个例子：1.在FTX崩溃后的几天里，当加密货币市场暴跌时，BlockFi将大约2.4亿美元的加密货币转换为法币，给客户造成了重大的财务损失和潜在的税务问题。2.BlockFi后来将收益和额外的1000万美元存入硅谷银行，该银行之后倒闭，联邦政府曾介入救助所有硅谷银行储户，但BlockFi的任何人（包括重组团队）都懒得跟进，也没有人支付任何保证金。3.债权人认为，BlockFi还花费2250万美元的客户资金为其董事和高管购买价值3000万美元的保险。
+此前消息，BlockFi称对FTX索赔的成败是偿还用户资金的关键；BlockFi已向法院申请清算其贷款业务。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitDAO正对“优化品牌、代币与代币经济学”提案进行投票]]></title>
+        <id>https://panewslab.com/zh/articledetails/rdtnx2ev.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rdtnx2ev.html"/>
+        <updated>2023-05-16T07:42:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月16日消息，Snapshot投票页面显示，BitDAO社区正对“优化品牌、代币与代币经济学”BIP-21提案进行投票，目前支持率达100%并已达到法定投票数，投票将于5月19日截止。
+该提案提议按照“一个品牌，一个代币”原则，将mantle.xyz定位为统一的生态系统品牌，现有的Rollup项目将被称为Mantle Network；以产品为中心，并将BIT代币转换成 Mantle，设置代币转换计划与转换期。同时，保留所有现有的治理流程，简化代币经济学。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[真假Arbitrum，项目方如何甄别？]]></title>
         <id>https://www.web3sj.com/news/66869/</id>
         <link href="https://www.web3sj.com/news/66869/"/>
@@ -113,6 +213,17 @@
         <summary type="html"><![CDATA[Arbitrum 是以太坊 Layer2 层扩容解决方案，使用 Rollup 扩容技术的最优解之一，是一个可以同时保持无信任和安全性的智能合约。Arbitrum 相比于以太坊 Layer 1 ，实现了更高的吞吐量和更低的运算成本。Dune Analytics 数据显示，以太坊 Layer2 网络 Arbitrum 链上 ERC-20 代币累计锁仓总价值已突破 90 亿美元。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国电信与树图联合研发的BSIM卡对外发布]]></title>
+        <id>https://panewslab.com/zh/articledetails/jltat2f2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jltat2f2.html"/>
+        <updated>2023-05-16T07:14:06.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月16日消息，据新华财经报道，中国电信股份有限公司研究院与上海树图区块链研究院联合研发的BSIM卡在上海对外发布。和传统SIM卡相比，BSIM卡具有便携、高安全、高性能等特点，将促进Web3.0创新应用和Web3.0产业生态发展。
+据悉，在BSIM卡推广和落地应用方面，中国电信股份有限公司研究院副院长李安民表示，中国电信将联合合作伙伴共同推动数字资产卡BSIM在湖南等地落地，面向元宇宙数字资产、数字身份认证、物联网设备采集等场景进行应用。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -126,6 +237,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[数据：Uranium Finance黑客近1个小时将650枚ETH转至Tornado Cash]]></title>
+        <id>https://panewslab.com/zh/articledetails/3epo0wcr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3epo0wcr.html"/>
+        <updated>2023-05-16T07:11:36.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月16日消息，Etherscan数据显示，Uranium Finance攻击者近1个小时共将650枚ETH转至Tornado Cash，交易包含6笔100枚ETH、和5笔10枚ETH。
+此前2021年4月消息，BSC生态Uranium Finance出现漏洞导致5000万美元资金被盗。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023 年 NFT 市场分析：内幕观察]]></title>
         <id>https://www.defidaonews.com/article/6818128</id>
         <link href="https://www.defidaonews.com/article/6818128"/>
@@ -133,6 +255,27 @@
         <summary type="html"><![CDATA[CoinMarketCap 和 NFTGo 联合发布了报告《2023 年 NFT 市场分析：内幕观察》，报告涵盖了 2023 年上半年 NFT 市场的最新动态。]]></summary>
         <author>
             <name>NFTGo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon zkEVM明牌空投，哪些项目可以交互]]></title>
+        <id>https://www.theblockbeats.info/news/37029</id>
+        <link href="https://www.theblockbeats.info/news/37029"/>
+        <updated>2023-05-16T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[「没有规定说已发行的token不能进行大规模空投」]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊基金会前开发人员对加密项目WorldCoin持怀疑态度]]></title>
+        <id>https://panewslab.com/zh/articledetails/lszhkrzt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/lszhkrzt.html"/>
+        <updated>2023-05-16T06:38:49.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月16日消息，以太坊基金会前开发人员Hudson Jameson在昨日的推文中对加密项目WorldCoin表示质疑：“WorldCoin团队的计划是不切实际和可怕的。我不太担心尖端的zk技术正在建立，但我对其项目的推出持怀疑态度。一些团队成员谈论到该项目2025年将有数千万人加入，但没有迹象表明他们有公开的计划来处理因地区而异的巨大社会经济问题，他们也没有一个工作组来邀请这方面的专家。Worldcoin代币经济学也值得怀疑，因为只有80%的代币面向公众，此外10%面向投资者，10%面向团队。这将如何创造一种公平的全球货币？他们有没有分析如何防止某些地区的贫富差距？WorldCoin似乎是一个VC发明的解决全球问题的产品，但除了开发很酷的技术之外，他们对解决问题的因素一无所知。我不认为WorldCoin会成功。”
+此前5月14日消息，OpenAI CEO为其加密项目Worldcoin寻求近1亿美元融资，计划未来几周推出。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -254,16 +397,6 @@ BlockSec补充称，该骗局利用了OpenSea协议的代理升级接口。]]></
         <summary type="html"><![CDATA[坎昆升级与BTC减半共振，下半年格局将被搅动]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读ERC721-C：可编程的版税，让NFT价值分配更公平]]></title>
-        <id>https://www.web3sj.com/news/66788/</id>
-        <link href="https://www.web3sj.com/nftnews/66788/"/>
-        <updated>2023-05-16T05:30:42.000Z</updated>
-        <summary type="html"><![CDATA[NFT 的版税制度可能会迎来巨变，现在我们可以给持有者设置 100% 的版税，并阻止 Blur 和 Opensea 将版税设置为 0%。分析师 Hunter Solaire 在本文中解释了新型的 NFT 标准 ERC721-C ，以及它是如何做到这一切的。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -405,7 +538,47 @@ Matrixport将加入Copper的ClearLoop网络，允许用户通过Matrixport子账
         <id>https://www.theblockbeats.info/news/36996</id>
         <link href="https://www.theblockbeats.info/news/36996"/>
         <updated>2023-05-16T03:39:58.000Z</updated>
-        <summary type="html"><![CDATA[“我们的目标是在未来六个月内成为交易量排名前三的去中心化交易所。”核心开发者Bob Baxley在谈及Maverick的未来时说道。]]></summary>
+        <summary type="html"><![CDATA[上线一个月，以太坊主网交易量一度前三的 Maverick，TVL 仅不到 Uniswap 和 Curve 百分之一。
+
+
+在以太坊于 4 月 12 日完成上海升级之后，超过 1800 万个 ETH 被解锁，明显地看到了 DeFi 市场的活跃度增加和一些显著的变化。
+
+
+然而，仍存在一个明显的问题，即当前 AMM 领域的巨大限制。其一是 AMM 的资金利用率偏低，无论是早期的 xy=k 模型还是后来的 Uniswap V3 模型，大部分的交易对在去中心化交易所上的深度都不够。其二是无常损失还是没有得到本质上的解决，依靠 Token 经济学的补偿终究可持续性不佳。
+
+
+
+
+例如，尽管在总锁定价值（TVL）和交易量上占据主导地位，但 Uniswap 上的大多数流动性提供者仍在亏损。交易手续费收益通常不足以抵消无常损失，尤其对于集中和被动流动性而言。
+
+
+DeFi 行业迫切需要解决这一问题，而 Maverick 协议恰逢其时地进入了用户的视野。
+
+
+
+
+根据 Defillama 的数据，截至 4 月 21 日，在以太坊网络 DEX 排行榜上，Uniswap 位居榜首，24 小时交易量达 12.4 亿美元，周涨幅达 73.17%；紧随其后的是 Curve（1.31 亿美元），周涨幅达 24.71%。
+
+
+
+
+令人瞩目的是，Maverick Protocol 成功跻身第三位，24 小时交易量达到了 3645 万美元，周涨幅达 58.86%。
+
+
+
+
+
+
+
+Maverick AMM 如何提高流动性效率
+
+
+
+
+Maverick Protocol 是一种根据交易价格移动的，动态分布自动做市商（AMM），旨在提供更深的流动性、为去中心化金融市场带来最佳流动性并提高资本效率，在此基础上，提供工具，最大化交易手续费收益，或者减少、规避无偿损失。
+
+
+协议的独特之处在于，Maverick AMM …]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -491,84 +664,6 @@ Regelman表示，这些都是长期目标，没有明确的时间表，但指出
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Compound III已部署至Arbitrum网络]]></title>
-        <id>https://panewslab.com/zh/articledetails/9mn7v0ip.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9mn7v0ip.html"/>
-        <updated>2023-05-16T02:36:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月16日消息，Compound Labs发推文称， 借贷协议Compound III已部署至Arbitrum上，支持用户使用ARB、GMX、WETH和WBTC作为抵押品在Arbitrum上借入USDC。
-此前2月消息，Compound III已部署至Polygon网络。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EOS EVM发布v0.4.2版本，包含严重安全漏洞修复]]></title>
-        <id>https://panewslab.com/zh/articledetails/je8wskcj.html</id>
-        <link href="https://panewslab.com/zh/articledetails/je8wskcj.html"/>
-        <updated>2023-05-16T02:31:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月16日消息，EOS网络基金会发推文称，EOS EVM已发布v0.4.2版本，此版本修复了EOS EVM中发现的一个严重安全漏洞。EOS主网实施的EOS EVM合约、EOS EVM节点和EOS EVM RPC组件都需要升级。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loopring上线“大宗交易”功能，支持自托管钱包直接访问CEX]]></title>
-        <id>https://panewslab.com/zh/articledetails/ntnhp1vc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ntnhp1vc.html"/>
-        <updated>2023-05-16T02:25:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月16日消息，据官方博客，以太坊Layer 2协议Loopring宣布引入直接从Loopring L2上的自托管钱包访问主要CEX流动性的途径，即“大宗交易（Block Trade）”功能，可享受低滑点以及最佳价格执行，降低CEX资金风险。
-该功能类似于传统股票市场中的大宗交易系统，主要针对不再希望将资金交给第三方保管的CEX用户，以及通常需要将大订单转移到CEX才能执行的DeFi用户这个过程。当前该功能测试版仅支持选定的交易对（ETH、LRC+USDC），之后会扩展更多交易对。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：Brevan Howard Digital过去3天内将21万枚LDO转至Coinbase]]></title>
-        <id>https://panewslab.com/zh/articledetails/x29hhilg.html</id>
-        <link href="https://panewslab.com/zh/articledetails/x29hhilg.html"/>
-        <updated>2023-05-16T02:15:23.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月16日消息，据Spot on Chain报道，Brevan Howard Digital（原Dragonfly Capital）的钱包0x7d6于今日凌晨以2.15美元的价格将16万枚LDO（34.4万美元）转移到Coinbase。
-该地址在过去3天内共将21万枚LDO（约合39.1万美元）转移到Coinbase。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国特勤局在Reddit AMA活动中称赞区块链，并称持有加密货币并已推出NFT]]></title>
-        <id>https://panewslab.com/zh/articledetails/s1n95av6.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s1n95av6.html"/>
-        <updated>2023-05-16T01:58:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月16日消息，据Cointelegraph报道，美国特勤局旧金山外地办事处和湾区地区执法联合计算机小组 (REACT) 在Reddit上举办了一场AMA活动。尽管一些监管机构仍将加密货币视为欺诈者和诈骗者的工具，但REACT特别工作组称赞区块链的公开和透明性质是打击犯罪分子追踪资金流动的“绝佳机会”。
-此外，美国特勤局在回答问题时表示，其是加密货币的持有者也是加密货币的爱好者，该机构表示，通过拥有加密货币，它可以帮助他们更好地了解加密世界的更深层机制。当一位reddit用户询问美国特勤局是否会考虑推出自己的“memecoin”时，该机构的回应是其已在OpenSea上推出自己的NFT系列。
-OpenSea页面显示，美国特勤局旧金山办事处（United States Secret Service San Francisco Field Office）NFT系列于2022年10月创建。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美SEC回应：Coinbase无权要求政府机构履行某些职责，加密规则制定需要时间]]></title>
-        <id>https://panewslab.com/zh/articledetails/oc1amyx6.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oc1amyx6.html"/>
-        <updated>2023-05-16T01:44:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月16日消息，据Blockworks报道，美国证券交易委员会（SEC）已对Coinbase提起的诉讼作出回应，称Coinbase无权要求政府机构履行某些职责。SEC在回应中写道：“也许是意识到这一点，Coinbase反而断言法院应该迫使委员会对Coinbase最近提交的规则制定请愿书采取行动。但没有任何法规或条例要求委员会在特定时限内采取此类行动。Coinbase提交申请仅仅过去了几个月，而Coinbase补充记录的时间甚至更短。”
-SEC继续解释称：“考虑Coinbase寻求的这种重大变化，可能会更广泛地影响加密资产和证券市场，这需要时间。Coinbase希望其政策偏好立即得到解决，但这并不能使它获得特权，即由其来命令委员会对规则制定请愿书采取行动。”
-此前4月消息，Coinbase对SEC提起诉讼，要求SEC回应其于2022年7月提交旨在针对数字资产制定特定规则的请愿书；5月初，美国法院命令SEC在10天内对Coinbase提出的加密规则请愿书作出回应。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密矿企Soluna Holdings获得Navitas Global 1400万美元投资]]></title>
-        <id>https://panewslab.com/zh/articledetails/t8qu6geo.html</id>
-        <link href="https://panewslab.com/zh/articledetails/t8qu6geo.html"/>
-        <updated>2023-05-16T01:34:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月16日消息，据Businesswire报道，加密矿业数据中心Soluna Holdings获私人数据中心开发公司Navitas Global 1400万美元的投资，以完成德克萨斯州Dorothy 1B数据中心的开发。该交易包括一笔200万美元的贷款以完成25兆瓦站点的建设，以及一笔1200万美元的股权投资。Soluna将提供运营和维护专业知识，并将保留该项目51%的所有权。该交易预计将帮助Soluna在今年下半年实现正现金流。
-据悉，Soluna Holdings是将过剩可再生能源转化为全球计算资源的绿色数据中心的开发商。Soluna为比特币挖矿、人工智能和机器学习等计算密集型、可批处理的应用程序构建模块化、可扩展的数据中心。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bankless：一文了解以太坊上前五大 Gas 消耗大户]]></title>
         <id>https://www.defidaonews.com/article/6818042</id>
         <link href="https://www.defidaonews.com/article/6818042"/>
@@ -614,16 +709,6 @@ SEC继续解释称：“考虑Coinbase寻求的这种重大变化，可能会更
         <link href="https://www.theblockbeats.info/news/37002"/>
         <updated>2023-05-15T14:00:01.000Z</updated>
         <summary type="html"><![CDATA[“当所有Web3的人都‘听得懂人话’的那一刻，Web3时代就真的来临了。”]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再被旁氏欺骗了，Web3游戏必须走向真正去中心化]]></title>
-        <id>https://www.theblockbeats.info/news/37001</id>
-        <link href="https://www.theblockbeats.info/news/37001"/>
-        <updated>2023-05-15T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[即使代币经济模型再怎么精心设计、优化，也只是在更加隐蔽和巧妙地进行旁氏式欺骗。只有打造一个真正去中心化的游戏，才能使游戏经济变得可持续。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -679,26 +764,6 @@ SEC继续解释称：“考虑Coinbase寻求的这种重大变化，可能会更
 根据该提案，GFX labs将负责目标链上合约的技术部署，跨链桥由Wormhole提供。Uniswap治理层批准该提案将导致所述Uniswap v3合约被视为Moonbeam上的规范部署。若此次投票通过，与所有规范的v3部署一样，此部署将受到以太坊Layer 1 Uniswap协议的治理和控制。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回顾Binance Launchpad历史数据，分析BNB长期持有收益]]></title>
-        <id>https://www.theblockbeats.info/news/37004</id>
-        <link href="https://www.theblockbeats.info/news/37004"/>
-        <updated>2023-05-15T10:38:29.000Z</updated>
-        <summary type="html"><![CDATA[用数据说话，对比历史评估当前 Launchpad 的收益水平，以及对标 ETH 质押回报计算长期持有 BNB 的打新回报率]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LTC即将迎来减半，市场的冷漠与未来前景分析]]></title>
-        <id>https://www.theblockbeats.info/news/37003</id>
-        <link href="https://www.theblockbeats.info/news/37003"/>
-        <updated>2023-05-15T09:29:05.000Z</updated>
-        <summary type="html"><![CDATA[虽然莱特币的减半事件即将到来，本文将探讨减半事件的心理学、莱特币是否还需要存在以及市场对其的反应。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
 </feed>
