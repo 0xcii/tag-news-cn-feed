@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-16T13:16:21.937Z</id>
+    <id>urn:2023-05-16T14:11:57.675Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-16T13:16:21.937Z</updated>
+    <updated>2023-05-16T14:11:57.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[速览「NFT 黑马」Mythos Chain]]></title>
+        <id>https://www.web3sj.com/news/66998/</id>
+        <link href="https://www.web3sj.com/news/66998/"/>
+        <updated>2023-05-16T14:10:49.000Z</updated>
+        <summary type="html"><![CDATA[主要交易额来自被收购的 DMarket，欲作「Web3 版 Steam」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不同证明方案的比较：理解ZK证明系统的优缺点]]></title>
+        <id>https://www.web3sj.com/news/66994/</id>
+        <link href="https://www.web3sj.com/news/66994/"/>
+        <updated>2023-05-16T14:08:12.000Z</updated>
+        <summary type="html"><![CDATA[在零知识证明系统中，有三个实体参与：设置者、证明者和验证者。不同的证明方案会以各种方式影响它们的行为，从而影响效率、安全性和整个系统的性能。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon zkEVM明牌空投，哪些项目可以交互]]></title>
+        <id>https://www.web3sj.com/news/66976/</id>
+        <link href="https://www.web3sj.com/news/66976/"/>
+        <updated>2023-05-16T13:59:56.000Z</updated>
+        <summary type="html"><![CDATA[在 ZK Rollup 扩容方案下，链下（Layer2）执行交易、完成复杂计算，将多个交易数据批量处理压缩打包之后，会创建一个链下计算的「零知识证明」结果，提交至主网（Layer1）进行证明校验，主网上验证者可以快速检查此证明是否正确，并将数据部分存储在在主网上，共享主网的安全性。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-5.16）]]></title>
+        <id>https://www.web3sj.com/?p=66973</id>
+        <link href="https://www.web3sj.com/news/66973/"/>
+        <updated>2023-05-16T13:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Web3风险投资公司Red Beard Ventures完成2500万美元融资，Animoca Brands和SuperRare等支持。Loopring上线“大宗交易”功能，支持自托管钱包直接访问CEX。Compound III已部署至Arbitrum网络。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G7会议提及加密货币资产和CBDC | 支持国际组织监管]]></title>
         <id>https://0xzx.com/2023051620473463571.html</id>
@@ -507,16 +547,6 @@ BlockFi债权人委员会在法庭文件中指出了几个例子：1.在FTX崩�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[真假Arbitrum，项目方如何甄别？]]></title>
-        <id>https://www.web3sj.com/news/66869/</id>
-        <link href="https://www.web3sj.com/news/66869/"/>
-        <updated>2023-05-16T07:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum 是以太坊 Layer2 层扩容解决方案，使用 Rollup 扩容技术的最优解之一，是一个可以同时保持无信任和安全性的智能合约。Arbitrum 相比于以太坊 Layer 1 ，实现了更高的吞吐量和更低的运算成本。Dune Analytics 数据显示，以太坊 Layer2 网络 Arbitrum 链上 ERC-20 代币累计锁仓总价值已突破 90 亿美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国电信与树图联合研发的BSIM卡对外发布]]></title>
         <id>https://panewslab.com/zh/articledetails/jltat2f2.html</id>
         <link href="https://panewslab.com/zh/articledetails/jltat2f2.html"/>
@@ -525,16 +555,6 @@ BlockFi债权人委员会在法庭文件中指出了几个例子：1.在FTX崩�
 据悉，在BSIM卡推广和落地应用方面，中国电信股份有限公司研究院副院长李安民表示，中国电信将联合合作伙伴共同推动数字资产卡BSIM在湖南等地落地，面向元宇宙数字资产、数字身份认证、物联网设备采集等场景进行应用。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数说以太坊MEV：单日获利最高超100万美元，近1个月总利润超1300万美元]]></title>
-        <id>https://www.web3sj.com/news/66845/</id>
-        <link href="https://www.web3sj.com/definews/66845/"/>
-        <updated>2023-05-16T07:13:46.000Z</updated>
-        <summary type="html"><![CDATA[如今，以太坊的 Gas 均价在长期低于 50 Gwei 后又开启了持续上涨模式，已连续多日高于 100 Gwei，处于近一年来的高位。但是，与 Gas 价格直接相关的链上交易次数却保持了相对稳定。那么，推动此番 Gas 价格上涨的原因还会是 MEV 吗？]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -606,16 +626,6 @@ Polygon zkevm 交互
         <summary type="html"><![CDATA[VCs 最近投资了哪些项目？如何跟上他们的步伐？]]></summary>
         <author>
             <name>白泽研究院</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto VC们最近有何动向？7个工具助你轻松追踪]]></title>
-        <id>https://www.web3sj.com/?p=66832</id>
-        <link href="https://www.web3sj.com/news/66832/"/>
-        <updated>2023-05-16T06:38:04.000Z</updated>
-        <summary type="html"><![CDATA[你可能经常会听到「VC 投了」之类的话，这些 VC 都是谁？哪些口碑最好？而且，最重要的是，他们投资了哪些项目？你如何跟上他们的步伐呢？不需要成为一名专家研究员，以下 7 种工具可以帮助你探索 VC 并找到下一个 50x。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -691,16 +701,6 @@ BRC-20 代币风险与机遇共存。BRC-20 仍然存在很多缺陷，但也为
         <summary type="html"><![CDATA[Ben 是深谙注意力游戏的高手，但游戏终有结束的时候。]]></summary>
         <author>
             <name>Foresight News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[imToken：以太坊网络Finalize延迟事件分析报告]]></title>
-        <id>https://www.web3sj.com/news/66816/</id>
-        <link href="https://www.web3sj.com/news/66816/"/>
-        <updated>2023-05-16T05:58:32.000Z</updated>
-        <summary type="html"><![CDATA[imToken 分析该异常主要某几种以太坊共识层客户端节点负载过高，使得 Validator 宕机离线，直接导致 Epoch 投票无法达到 2/3，共识层无法确认最终性，但短时间过后以太坊网络自我恢复正常，imToken 认为这表明以太坊 PoS 共识算法具备韧性和自我修复的能力。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
