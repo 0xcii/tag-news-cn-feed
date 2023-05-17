@@ -63,6 +63,16 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6818258",
+          "author": "凹凸曼",
+          "description": "一文快速了解 ERC-6551 的基础知识！",
+          "link": "https://www.defidaonews.com/article/6818258",
+          "publishedOn": "2023-05-17T02:52:56.000Z",
+          "wordCount": 534,
+          "title": "ERC-6551：NFT 游戏规则改变者",
+          "imageUrl": "https://appserversrc.8btc.cn/FuxP1N3ZFR-5LaZbGEpAgQnEBy0X.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6818238",
           "author": "陀螺财经",
           "description": "AI爆火，Web3焦虑？",
@@ -151,16 +161,6 @@
           "wordCount": 441,
           "title": "靠 memecoin 筹集 690 万美元的加密传奇：Ben 是何方神圣？",
           "imageUrl": "https://appserversrc.8btc.cn/FtzSL1brXFY7no2CbXjGTSMdQ8pY.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6818108",
-          "author": "IOSG Ventures",
-          "description": "分析了 NFT 期货和期权赛道的发展现状及潜在风险",
-          "link": "https://www.defidaonews.com/article/6818108",
-          "publishedOn": "2023-05-16T05:55:50.000Z",
-          "wordCount": 309,
-          "title": "从商品投机到金融投机：NFT 衍生品的符号游戏 #174",
-          "imageUrl": "https://appserversrc.8btc.cn/FnXKY6O0ETrAzwVEdFAU_jw-O0O-.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -175,7 +175,7 @@
           "description": "当以太坊转向权益证明（Proof of Stake, PoS）之后，验证器（validator）扮演了一个非常重要的角色。我们可以将整个以太坊 PoS 网络想象成一个大型运动赛事，而验证器就像是参赛选手。",
           "link": "https://www.web3sj.com/news/67067/",
           "publishedOn": "2023-05-16T14:34:23.000Z",
-          "wordCount": 952,
+          "wordCount": 970,
           "title": "教你看懂以太坊质押看板rated.network",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684247780409.png"
         },
@@ -185,7 +185,7 @@
           "description": "Maverick Protocol 是一种根据交易价格移动的，动态分布自动做市商（AMM），旨在提供更深的流动性、为去中心化金融市场带来最佳流动性并提高资本效率，在此基础上，提供工具，最大化交易手续费收益，或者减少、规避无偿损失。",
           "link": "https://www.web3sj.com/project/67054/",
           "publishedOn": "2023-05-16T14:31:29.000Z",
-          "wordCount": 1030,
+          "wordCount": 1042,
           "title": "对标Uni V3，日均资本效率达100%以上Maverick是什么来头",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684247632366.png"
         },
@@ -195,7 +195,7 @@
           "description": "Sui 的独特之处部分在于它能够并行处理交易，以及通过添加更多节点实现横向扩展来满足需求——这两项功能可以随着越来越多的游戏和去中心化应用程序 (dapps) 部署后，依然可以将其交易费用保持在非常低的水平。Sui 的创建者 Mysten Labs 还表示，动态更新的 NFT 和「基于对象」的模型也对游戏开发商具有一定的吸引力。",
           "link": "https://www.web3sj.com/gamefinews/67047/",
           "publishedOn": "2023-05-16T14:28:25.000Z",
-          "wordCount": 814,
+          "wordCount": 793,
           "title": "解读Sui在Web3游戏生态上的布局与设计",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684247421756.png"
         },
@@ -205,7 +205,7 @@
           "description": "在 Internet 的早期，不会有数十亿个网站。人们认为互联网会更像报纸和电视网络等传统媒体的传播模式。用户生成内容的新颖能力打破了这一框架。克里斯·安德森 (Chris Anderson) 的《长尾》一书详细描述了这种现象，说明像 YouTube 这样的平台的大部分收入来自「长尾」内容。",
           "link": "https://www.web3sj.com/news/67041/",
           "publishedOn": "2023-05-16T14:25:21.000Z",
-          "wordCount": 691,
+          "wordCount": 707,
           "title": "流动性：价值互联网的核心",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/63f7edcd202ad45045cd943769489ce6.jpg"
         },
@@ -215,7 +215,7 @@
           "description": "这个经验最与我们的直觉相悖，但其背后的数学逻辑实际上非常简单。假设您将基金的 0.5% 投资于回报率高达 100 倍的公司，即使这家公司获得这样的回报，您的基金仍然不能够获得回报。由于风险投资回报的分布遵循幂律分布，高达 100 倍回报的赢家实际上非常少见。",
           "link": "https://www.web3sj.com/news/67037/",
           "publishedOn": "2023-05-16T14:22:07.000Z",
-          "wordCount": 772,
+          "wordCount": 750,
           "title": "加密投资的三个反直觉经验",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684247058221.png"
         },
@@ -225,7 +225,7 @@
           "description": "我必须澄清，我是 ERC6059 的创作者之一，并领导 EVM Dev@RmrkApp。不过，我会尽量做到客观。简而言之，6551 允许创建一个只有 NFT 持有者才能管理的「账户」。每个 NFT 都可以部署不同的实现，成为「代币绑定帐户」。预计这些实现需要一些支持。",
           "link": "https://www.web3sj.com/news/67031/",
           "publishedOn": "2023-05-16T14:18:57.000Z",
-          "wordCount": 761,
+          "wordCount": 786,
           "title": "简单理解ERC-6551与ERC-6059",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684246853866.png"
         },
@@ -235,7 +235,7 @@
           "description": "目前对垃圾币的 FOMO 狂热似乎已经在逐渐消退。许多以太坊用户看到这一点会松一口气，因为上周网络上的 Gas 价格是多么「惨不忍睹」，而 Gas 价格飙升的原因与 Meme 币的狂热有关。",
           "link": "https://www.web3sj.com/news/67003/",
           "publishedOn": "2023-05-16T14:13:12.000Z",
-          "wordCount": 873,
+          "wordCount": 863,
           "title": "Bankless：揭秘Meme热潮中以太坊最大的Gas消耗者",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684246617211.png"
         },
@@ -245,7 +245,7 @@
           "description": "从今年第二季度以来，Mythos Chain 的增长势头非常强劲。Cryptoslam 数据显示，近一个月，Mythos Chain 稳居 NFT 市场第五，交易额超 3758.6 万美元，仅次于 Polygon。其中，仅过去 2 个多月 Mythos Chain 就创造了约 7357 万美元的交易额，约占其历史总交易额的超 72.8%。",
           "link": "https://www.web3sj.com/nftnews/66998/",
           "publishedOn": "2023-05-16T14:10:49.000Z",
-          "wordCount": 949,
+          "wordCount": 946,
           "title": "速览「NFT 黑马」Mythos Chain",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684246358290.png"
         },
@@ -255,7 +255,7 @@
           "description": "在零知识证明系统中，有三个实体参与：设置者、证明者和验证者。不同的证明方案会以各种方式影响它们的行为，从而影响效率、安全性和整个系统的性能。",
           "link": "https://www.web3sj.com/news/66994/",
           "publishedOn": "2023-05-16T14:08:12.000Z",
-          "wordCount": 699,
+          "wordCount": 680,
           "title": "不同证明方案的比较：理解ZK证明系统的优缺点",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684246199484.png"
         },
@@ -265,7 +265,7 @@
           "description": "在 ZK Rollup 扩容方案下，链下（Layer2）执行交易、完成复杂计算，将多个交易数据批量处理压缩打包之后，会创建一个链下计算的「零知识证明」结果，提交至主网（Layer1）进行证明校验，主网上验证者可以快速检查此证明是否正确，并将数据部分存储在在主网上，共享主网的安全性。",
           "link": "https://www.web3sj.com/news/66976/",
           "publishedOn": "2023-05-16T13:59:56.000Z",
-          "wordCount": 879,
+          "wordCount": 896,
           "title": "Polygon zkEVM明牌空投，哪些项目可以交互",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684245717901.png"
         }
@@ -292,7 +292,7 @@
           "description": "PANews 5月17日消息，据CryptoSlate报道，Arkham Intelligence数据显示，Celsius Network于今日凌晨00:45起陆续将大约428,083.6枚stETH（价值超过8亿美元）转移到一个用于从Lido Finance取消质押的钱包，这是Celsius持有的全部stETH。该钱包在大约40分钟内处理了大约429笔交易，提取了所有stETH。\n据悉，Celsius欠债权人约47亿美元。该媒体分析称，Celsius可能会使用提款的收益来帮助为其重组和债权人还款提供资金，或者可以通过不同的平台重新质押。",
           "link": "https://panewslab.com/zh/articledetails/5ouix2um.html",
           "publishedOn": "2023-05-17T00:52:35.000Z",
-          "wordCount": 396,
+          "wordCount": 393,
           "title": "数据：Celsius已在Lido Finance取消质押价值超8亿美元的stETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +322,7 @@
           "description": "PANews 5月17日消息，Coinbase在推特上表示，Coinbase暂时暂停了ETH质押奖励提款，以解决一个小技术问题。ETH质押不会受到影响，奖励仍在赚取并将支付，预计将在未来72小时内解决这个问题。",
           "link": "https://panewslab.com/zh/articledetails/8lrk2fri.html",
           "publishedOn": "2023-05-16T23:55:16.000Z",
-          "wordCount": 398,
+          "wordCount": 386,
           "title": "Coinbase因技术问题暂停ETH质押奖励提款，将在3天内解决",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -349,7 +349,7 @@
           "description": "5月16日消息，彭博社在第一季度调查了60家主要的加密公司，涵盖交易所、矿业公司、分析公司和代币发行商，以评估该行业的治理和控制状况。其中许多公司，包括币安、Coinbase、Tether和OpenSea等。虽然有相当一部分公司遵守传统标准，但也有许多公司在规范之外运作。调查的公司符合以下一项或多项标准：公开上市，私募融资估值超过10亿美元，或截至2023年1月被认为在该行业具有重大影响力。\n针对是否雇用第三方审计师并拥有独立的董事会一问，超过半数的公司提供了全部或部分回复，17家拒绝参与，8家没有回复。调查结果显示，大约一半的受访企业目前聘请独立审计师评估其财务状况。此外，63%的公司拥有独立的董事会，其中Tether、火必和Magic Eden没有独立董事会，且Crypto.com、Kraken、Uniswap Labs和OpenSea拒绝确认其董事会成员信息。\n调查结果显示，在披露其现任审计师信息的24家公司中，约有46%的公司表示，他们的全面财务审计是由四大会计师事务所完成的，包括Coinbase、Circle、Ripple、Chainalysis、Ledger和Anchorage Digital。",
           "link": "https://www.hellobtc.com/news/202305/20630.html",
           "publishedOn": "2023-05-16T05:19:00.000Z",
-          "wordCount": 304,
+          "wordCount": 303,
           "title": "彭博社：60家主要加密公司中许多公司没有第三方审计师和独立董事会",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
