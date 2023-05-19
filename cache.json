@@ -68,7 +68,7 @@
           "description": "2008年11月第一个比特币论坛创立，几经迁移，经历多轮黑客攻击，论坛捐赠地址依旧拥有价值超约 3400 万美元的BTC",
           "link": "https://www.defidaonews.com/article/6818694",
           "publishedOn": "2023-05-19T09:01:34.000Z",
-          "wordCount": 941,
+          "wordCount": 940,
           "title": "2008-2023，比特币论坛上的那些事",
           "imageUrl": "https://appserversrc.8btc.cn/Fq-sj2QipxyX_RNstjuYTOA607vX.png?imageView2/1/w/500/h/300"
         },
@@ -170,12 +170,72 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=67872",
+          "author": "Niu",
+          "description": "BTC市场在午夜做了一次急跌，然后迅速的拉了回来，这也是为什么我建议大家在卖方做好单子后第一时间去挂一个对手单低价格，方便随时盘中的急跌急拉平仓的原因。短期来看，期权市场我们建议的操作依然是空远期的BTC，买远期的ETH",
+          "link": "https://www.web3sj.com/transaction/67872/",
+          "publishedOn": "2023-05-19T10:12:45.000Z",
+          "wordCount": 615,
+          "title": "龙心晨报28 领涨！ 最难的生意",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/3.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=67858",
+          "author": "Niu",
+          "description": "强劲的美国经济数据（初领失业金人数 -2.2 万，费城联储制造业指数 +20.9）、美联储的鹰派言论以及对美国债务上限情况缓解的乐观前景共同帮助美国资产重回主导地位，在全球范围内引发新一波风险情绪升温。",
+          "link": "https://www.web3sj.com/transaction/67858/",
+          "publishedOn": "2023-05-19T09:55:10.000Z",
+          "wordCount": 747,
+          "title": "SignalPlus：梦回 8 月，尽情狂欢特别版",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/64fd52d8ccd5e50327df07230d91882c.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/news/67859/",
+          "author": "Gao",
+          "description": "在比特币网络上推出 DeFi 应用程序之前，BTC 持有者可以将其持有的 BTC 转换为其他区块链上的包装版本。以太坊网络上最受欢迎的资产（ERC-20 代币）是封装 BTC (wBTC) 资产。",
+          "link": "https://www.web3sj.com/news/67859/",
+          "publishedOn": "2023-05-19T09:46:42.000Z",
+          "wordCount": 961,
+          "title": "比特币上的DeFi：BTCFi 是突破还是泡沫？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684489745909.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/67848/",
+          "author": "Gao",
+          "description": "为了准确定义这篇文章中 DePIN 的概念，我们采用 Messari（https://messari.io/report/the-depin-sector-map）对于 DePIN 的解释：一种采用区块链技术，通过代币激励的方式，以无需许可、无需信任和可编程的形式来协调多个个体单位的物理硬件设施。DePIN 也可以被描述成 Proof of Physical Network (PoPW) 或 Token Incentivized Physical Infrastructure Networks (TIPIN)。",
+          "link": "https://www.web3sj.com/news/67848/",
+          "publishedOn": "2023-05-19T09:37:50.000Z",
+          "wordCount": 1195,
+          "title": "DePIN赛道全貌：是破坏式创新还是「空中楼阁」？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684489214038.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/67841/",
+          "author": "Gao",
+          "description": "在 PoW 时代，MEV 的主要参与者包括搜索者和矿工，其中矿工拥有出矿权，并且在交易排序、插队和篡改方面具有特权，从而占据利润的大头。同时，搜索者愿意支付高昂的 Gas 费用，以确保自己的交易被包含在区块中，某些情况下，搜索者可能会拿出 MEV 的 90% 甚至更多作为奖励支付给矿工。",
+          "link": "https://www.web3sj.com/news/67841/",
+          "publishedOn": "2023-05-19T09:34:24.000Z",
+          "wordCount": 869,
+          "title": "从FlashBots看MEV去中心化之路",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684488998506.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/67835/",
+          "author": "Gao",
+          "description": "这里我只聊聊在 LSDFi 板块——大多数 LSDFi 项目只是昙花一现，用高额的 token 奖励吸引 TVL，然后通过一些锁定的手段来延缓 token 释放。我更喜欢那些做了一些创新的项目，比如 Pendle 做了利率相关的延伸——当然 Pendle 的这些不止适用于以太坊质押。",
+          "link": "https://www.web3sj.com/definews/67835/",
+          "publishedOn": "2023-05-19T09:26:39.000Z",
+          "wordCount": 747,
+          "title": "了解以太坊收益指数产品OETH的脉络",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684488502769.png"
+        },
+        {
           "id": "https://www.web3sj.com/news/67813/",
           "author": "Gao",
           "description": "在以太坊和其他区块链平台上，数据是在链上的，也就是说，所有的交易、合约状态和事件都被记录在区块链上，而且这些数据是不可篡改和不可删除的。因此，跟踪链上数据对于开发和使用基于区块链的应用程序非常重要。",
           "link": "https://www.web3sj.com/news/67813/",
           "publishedOn": "2023-05-19T08:43:13.000Z",
-          "wordCount": 714,
+          "wordCount": 710,
           "title": "重新认识Dune：或许是最强平民级免费链上分析工具",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684485881176.png"
         },
@@ -185,7 +245,7 @@
           "description": "Web3 社交隐含地利用了区块链技术和代币化，将其与联盟模型和其他形式的去中心化区分开来。Web2 社交商业模式几乎需要收集用户数据来启动广告和订阅收入，而 Web3 社交可以最小化甚至完全消除平台的干扰。在 Web3 社交中，目标是连接用户和吸引开发者，继而尽可能地避开对二者的影响。",
           "link": "https://www.web3sj.com/news/67808/",
           "publishedOn": "2023-05-19T08:27:08.000Z",
-          "wordCount": 837,
+          "wordCount": 816,
           "title": "透过Lens Protocol，读懂 Web3社交的3个决定性特征",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684485318311.png"
         },
@@ -195,7 +255,7 @@
           "description": "16 年的 POW 算力产币，17 年的 ICO（ETH 换项目 Token），18 年的 IEO（交易平台币换项目 Token ），Fcoin 交易挖矿（主流币换平台币），VDS 共振模式，20 年的 DeFi（提供流动性换取 Token ），刷空投（gas fee 博项目 Token ），21 年的 play to earn ......",
           "link": "https://www.web3sj.com/news/67798/",
           "publishedOn": "2023-05-19T08:19:48.000Z",
-          "wordCount": 987,
+          "wordCount": 995,
           "title": "莱特币LTC-20协议，能否复刻BRC-20的成功？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684484651011.png"
         },
@@ -205,69 +265,9 @@
           "description": "从 Arbitrum 到 Optimism，所有主要的 L2 都是中心化的。导致这个结果的原因在于 L2 不继承 L1 的安全性，即便它们过渡到去中心化排序器之后，L2 也仅具有 L1 安全性的一小部分，因为它们仍然依赖于单独的共识层。",
           "link": "https://www.web3sj.com/news/67794/",
           "publishedOn": "2023-05-19T08:13:55.000Z",
-          "wordCount": 803,
+          "wordCount": 797,
           "title": "Cyber Capital创始人：以太坊扩容不要单指望L2",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684484348657.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/67759/",
-          "author": "Gao",
-          "description": "Worldcoin 是由 OpenAI 创始人 @sama 创立的 crypto 项目。由于全世界目前有大多数人无法通过数字方式来验证身份，Worldcoin 的愿景是建设一个全球最大的，公平的数字身份和货币体系。以此来帮助每一个人进入全球金融体系。",
-          "link": "https://www.web3sj.com/project/67759/",
-          "publishedOn": "2023-05-19T08:00:48.000Z",
-          "wordCount": 783,
-          "title": "了解Worldcoin的愿景、功能、Token信息以及如何参与",
-          "imageUrl": "https://www.web3sj.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/67750/",
-          "author": "Gao",
-          "description": "Centrifuge 是目前 RWA 领域业务比较全面的项目，建立了一个将链上和链下交易链接起来的框架，希望能成为 RWA 无需信任的共识层。根据 rwa.xyz 的数据，Centrifuge 已经是私人信贷领域活跃贷款最高的项目。本文将拆解 Centrifuge 的业务模式和产品组件。",
-          "link": "https://www.web3sj.com/definews/67750/",
-          "publishedOn": "2023-05-19T07:52:27.000Z",
-          "wordCount": 1034,
-          "title": "读懂RWA龙头之一Centrifuge的业务模式和产品组件",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684482867416.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/67737/",
-          "author": "Gao",
-          "description": "ben.eth 在短短几天内通过「直接打钱」的预售方式获得了约 3800 枚 ETH（约 700 万美元）。（注：预售已结束，请不要再向 ben.eth 地址发送任何资产！）而在 $PSYOP 启动前，ben.eth 还在 5 月 5 日启动过另一个 meme Token $BEN。ben.eth 通过 $BEN 获得了约 55 枚 ETH，$BEN 的市场表现在开始也非常一般。",
-          "link": "https://www.web3sj.com/news/67737/",
-          "publishedOn": "2023-05-19T07:34:44.000Z",
-          "wordCount": 1034,
-          "title": "Meme Token「新玩法」，良机还是危机？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684482229526.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/67723/",
-          "author": "Gao",
-          "description": "跨链桥的安全事故分类两类：一类是合约代码漏洞导致，比如缺乏代币合约地址验证，导致攻击者伪造的假币存入事件没有被过滤，再比如缺乏访问控制，导致验证者集名单被篡改；另一类是验证节点串谋，盗取私钥，进而盗取跨链桥锁仓资金，亦或铸造假币向 LP 抢劫。",
-          "link": "https://www.web3sj.com/news/67723/",
-          "publishedOn": "2023-05-19T07:30:03.000Z",
-          "wordCount": 1062,
-          "title": "三分钟了解Bool Network：跨链桥中的六边形战士",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684481524979.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/67716/",
-          "author": "Gao",
-          "description": "最初的 Solidly 去中心化交易所，现在俗称为 ve（3，3），在 DeFi 领域引起了很多关注。这是一项引人注目的 DEX 创新和设计，提供了比 Uniswap 和 Sushiswap 等原始自动化做市商 （AMM） 更优越的激励系统。",
-          "link": "https://www.web3sj.com/definews/67716/",
-          "publishedOn": "2023-05-19T07:00:59.000Z",
-          "wordCount": 877,
-          "title": "无处不在的ve(3,3)：哪些项目值得重点关注？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/2023051810282078084861.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/67694/",
-          "author": "Gao",
-          "description": "BRC-20 毫无疑问是近期热点，但加密市场总是不缺故事，BRC-20 的竞争者开始纷纷出现。目前，BRC-20 的竞争者主要是 ORC-20，那么获得币安支持的 ORC-20 与 BRC-20 有何不同？而市场是否将进入到新一轮 FOMO 中？",
-          "link": "https://www.web3sj.com/news/67694/",
-          "publishedOn": "2023-05-19T03:49:13.000Z",
-          "wordCount": 954,
-          "title": "币安入局ORC-20，BRC-20迎来终局？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1684468438574.png"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "description": "PANews 5月19日消息，Web3知识图谱协议0xScope发推文称，Longling Capital相关（0x930D开头）地址在2小时前将9300枚ETH (1674万美元) 存入币安。\n该地址持有ETH的成本约为1450美元，目前仍在Compound中持有16000枚ETH(约合2890万美元)，并借入620万枚USDC。",
           "link": "https://panewslab.com/zh/articledetails/i8s4rs5f.html",
           "publishedOn": "2023-05-19T07:05:14.000Z",
-          "wordCount": 413,
+          "wordCount": 428,
           "title": "数据：Longling Capital相关地址2小时前将9300枚ETH存入币安",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -292,7 +292,7 @@
           "description": "PANews 5月19日消息，据多位推特用户的推文，Meme代币PSYOP在UniSwap V3开启了流动性池，但Uniswap UI默认将交易订单路由到虚假的V2流动性池，当用户购买V3池上的PSYOP代币时，它会自动将交易重新路由到V2池。\n据悉，PSYOP代币由具有争议的加密KOL Ben发起。",
           "link": "https://panewslab.com/zh/articledetails/afoph157.html",
           "publishedOn": "2023-05-19T06:57:41.000Z",
-          "wordCount": 391,
+          "wordCount": 397,
           "title": "Uniswap平台将某Meme代币在V3上的交易订单自动路由至虚假V2池",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -302,7 +302,7 @@
           "description": "PANews 5月19日消息，据Cointelegraph报道，自2022年初以来，包括Tether、Circle和其他公司在内的稳定币发行商已花费超过100万美元资金用于在国会山游说立法者。\n其中，Tether聘请Michael Jason Lee的律师事务所进行游说工作，自2022年初以来，Tether已花费约60万美元，其中每季度花费12万美元用于游说美国参议院和众议院。而Circle于2021年底开始与战略咨询公司Invariant合作进行游说工作，此后至少已花费56万美元，该公司的季度游说预算目前为10万美元。Paxos自2022年初开始以来，已花费约30万美元进行游说。\n然而，稳定币发行商承诺的金额与其他主要加密公司花费的金额相比相形见绌。自2015年开始游说以来，Coinbase已花费约550万美元，而Binance.US在2022年花费了近100万美元。",
           "link": "https://panewslab.com/zh/articledetails/9tlx79sn.html",
           "publishedOn": "2023-05-19T06:19:51.000Z",
-          "wordCount": 385,
+          "wordCount": 391,
           "title": "稳定币发行商自2022年初以来已为游说国会花费超100万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +312,7 @@
           "description": "PANews 5月19日消息，去中心化交易平台PancakeSwap正对“为Cake代币提供带有VIP池的额外功能”提案进行投票，该提案旨在为Cake代币提供另一种用途，通过创建独家产品使其更具吸引力。提案提议创建用于赋予用户特殊质押权力的sCake代币，功能类似于IF0，用户为了参与IF0，需要在池中质押Cake，并以此数量和质押时间确定可提交给VIP池的sCake数量。该功能将提升Cake需求、推动Cake有更多的质押，并对项目有更多的排他性。\n该提案目前支持率达98.66%，投票将于5月25日截止。",
           "link": "https://panewslab.com/zh/articledetails/fn82twpz.html",
           "publishedOn": "2023-05-19T06:15:28.000Z",
-          "wordCount": 379,
+          "wordCount": 385,
           "title": "PancakeSwap社区正对“为Cake代币提供带有VIP池的额外功能”提案进行投票",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +322,7 @@
           "description": "PANews 5月19日消息，Aave社区正在对“将1INCH、ENS添加至以太坊上Aave V3市场”的两项提案进行ARFC投票，如果达成共识并对提案进行细化，则提交ARFC进行快照投票以最终批准。这两项投票均将于5月20日截止。\n此外，Aave社区正在对“将ARB添加至Arbitrum上Aave V3市场”的提案进行温度检查投票，若此次投票通过，则进入ARFC阶段。该提案投票将于5月23日截止。\n目前Aave已在Snapshot投票阶段启用匿名投票，暂时无法查看投票支持率和反对率。",
           "link": "https://panewslab.com/zh/articledetails/oxgjd66o.html",
           "publishedOn": "2023-05-19T05:51:25.000Z",
-          "wordCount": 391,
+          "wordCount": 397,
           "title": "Aave社区正考虑将1INCH、ENS、ARB添加至V3市场",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +332,7 @@
           "description": "PANews 5月19日消息，据派盾预警监测，Arbitrum生态Swaprum项目发生Rug Pull，SAPR价格下跌了100%，Swaprum已删除社交账号，诈骗者将1628枚ETH（约294万美元）桥接到以太坊，并将1620枚ETH转入Tornado Cash。",
           "link": "https://panewslab.com/zh/articledetails/5guq81gl.html",
           "publishedOn": "2023-05-19T05:16:53.000Z",
-          "wordCount": 427,
+          "wordCount": 418,
           "title": "派盾：Arbitrum生态Swaprum项目发生Rug Pull，损失近300万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +342,7 @@
           "description": "PANews 5月19日消息，Galaxy研究副总裁Christine Kim发文总结第109次以太坊核心开发者共识（ACDC）会议，开发人员讨论了下一个Deneb规范发布的准备工作（Deneb是CL上下一个即时以太坊升级的名称）。开发人员的目标是5月23日发布，并计划启动一个新的测试网络，以确认此后不久Deneb规范的最新变化。据悉，在下一个Deneb版本中将包含四项更改。\n开发人员还讨论了EIP-4788的更新，它允许EL上的智能合约应用程序验证CL状态的证明，这有利于改进去中心化质押池、再质押协议、MEV应用程序等的信任假设。\n此外，开发人员还对安全改进提议、“永久有效的签名自愿退出”提案dapplion进行了谈论，并在共识规范存储库下对“节点确认规则”PR #3339进行了更新。",
           "link": "https://panewslab.com/zh/articledetails/o0p5rwjb.html",
           "publishedOn": "2023-05-19T05:12:18.000Z",
-          "wordCount": 397,
+          "wordCount": 399,
           "title": "以太坊开发人员将于下周为Deneb规范的确认启动新测试网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +352,7 @@
           "description": "PANews 5月19日消息，Blockworks Research在推特上表示，比特币Layer 2网络Stacks在过去的几个月里经历了几重障碍：1.STX“stacking”机制中存在一个严重漏洞；2.混乱的审查在Stacks挖矿过程中变得司空见惯；3.Stacks链区块重组更常见。\n针对STX“stacking”机制中的漏洞，Stacks在其新颖的传输证明共识机制下运行，矿工通过将BTC发送到STX持有者（Stackers）来竞争挖掘下一个Stacks区块，矿工发送的与比赛相关的BTC越多，他们获胜的机会就越大。4月19日，人们发现一个地址能够欺骗协议，使其认为他们堆叠了比实际更多的STX。目前尚不清楚这是否是一次蓄意攻击，但这使得bc1qpy开头比特币地址吸走了15.5枚比特币，这些比特币最终应该流向诚实的Stacker。Stacks被迫恢复到销毁证明机制并解锁所有堆叠的STX代币。目前，没有任何STX Stacker赚取任何BTC。如果堆叠的STX数量超过流动性供应总量，节点将进入不可恢复状态。sBTC将很快推出，并依赖STX Stackers来签署BTC和Stacks之间的挂钩/退出。如果这个漏洞发生在sBTC上，那么跨链桥中的所有资金都将处于危险之中。Stacks网络将在5月26日通过升级恢复到传输证明。\n针对挖矿过程中混乱的审查，f2pool持有约15%的比特币挖矿算力，近半年来，F2Pool在其他Stacks矿工试图将BTC发送到STX Stackers地址时，一直忽略他们的交易，并用他们的BTC出价替换低价值交易。这确保无论他们向STX Stackers发送多少BTC，他们都可以保证获胜，因为没有其他竞争。F2Pool每次开采一个区块时，基本上只需支付不到1美元的BTC即可获得600美元以上的STX代币。这会降低所有STX Stackers的产量。同样，如果sBTC上线，这可能会很糟糕。STX Stackers将负责维护sBTC:BTC挂钩，主要激励是矿工的BTC收益。没有STX罚没机制，因此始终适当地激励它们至关重要。即使不同的矿工设法赢得了Stacks区块，F2Pool也可以创建一个兄弟区块来使初始Stacks区块无效并剥夺其他矿工的区块奖励。论坛上有一项提议，要求将最低数量的BTC发送给Stackers，以赢得一个区块，以确保STX Stackers获得公平的份额。但如果这种审查仍然有利于F2Pool，它就不太可能停止。Stacks基金会聘请了第三方来评估潜在的解决方案。\n此外，Stacks在过去几个月中一直在经历多次区块终止。这可能会导致Stacks矿工从链中掉线、网络吞吐量降低等。这个问题也源于一些大矿工，但Stacks团队发布了一份声明称该活动似乎不是恶意的。目前还不清楚Nakamoto升级将如何影响Fast Blocks的引入，解决重组的计划并不明确。",
           "link": "https://panewslab.com/zh/articledetails/ncbo2wai.html",
           "publishedOn": "2023-05-19T05:00:15.000Z",
-          "wordCount": 413,
+          "wordCount": 416,
           "title": "Stacks网络近几个月面临三重困境：严重漏洞、挖矿垄断、多次区块重组",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +362,7 @@
           "description": "PANews 5月19日消息，据彭博社报道，加密货币投资公司Hashkey Group计划以超过10亿美元的估值筹集1亿至2亿美元资金，利用香港的数字资产推动力来吸引潜在投资者。据悉，目前Hashkey经营着香港仅有的两家持牌数字货币交易所之一。\n消息人士称，Hashkey正就此进行早期谈判，交易正在取得进展，但规模和估值等条款可能会发生变化，因为它们尚未最终敲定。",
           "link": "https://panewslab.com/zh/articledetails/eoddy1nq.html",
           "publishedOn": "2023-05-19T04:09:21.000Z",
-          "wordCount": 393,
+          "wordCount": 399,
           "title": "彭博社：Hashkey Group拟以超10亿美元估值筹集1亿至2亿美元资金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +372,7 @@
           "description": "PANews 5月19日消息，据Cointelegraph报道，由高盛、花旗集团、Circle和富达等公司支持的区块链游说团体，即美国数字商会，向国会和参议院发出行动呼吁，要求优先通过全国性的加密货币监管方法。该组织补充说，它要求国会组织一个“数字资产和区块链技术日光委员会”，以在美国制定“数字资产和区块链技术的国家战略方法”。该团体警告，如果不采取行动将使“敌对国家”在该领域进一步开展活动，“危及美国的领导地位和美元至上地位”。",
           "link": "https://panewslab.com/zh/articledetails/dlui9w88.html",
           "publishedOn": "2023-05-19T03:57:16.000Z",
-          "wordCount": 374,
+          "wordCount": 380,
           "title": "美国数字商会呼吁国会成立专门制定加密法规的委员会",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,7 +382,7 @@
           "description": "PANews 5月19日消息，据Spot on Chain数据显示，北京时间5月19日01:10，0x9714开头的巨鲸地址将3400枚ETH转至Coinbase，价值约合616万美元。\n该巨鲸地址此前于2021年9月至11月期间，以3575美元均价囤积约14,300枚ETH，此后于2022 年下半年开始逐渐清仓止损，抛售均价为1558美元。",
           "link": "https://panewslab.com/zh/articledetails/t0m4h0ck.html",
           "publishedOn": "2023-05-19T03:51:59.000Z",
-          "wordCount": 385,
+          "wordCount": 400,
           "title": "数据：某巨鲸地址凌晨将3400枚ETH转至Coinbase，约合616万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -392,7 +392,7 @@
           "description": "PANews 5月19日消息，据Coinlelegraph报道，在5月18日美国众议院关于稳定币的听证会上，主要关注点是两个有竞争性的稳定币法案，州与联邦监管是一个关键问题。共和党的法案将允许稳定币发行商选择他们注册的州，而无需通过联邦储备委员会。民主党的法案保留了联邦手中适当的监管机构的监管机会。",
           "link": "https://panewslab.com/zh/articledetails/qc3a9az7.html",
           "publishedOn": "2023-05-19T03:45:27.000Z",
-          "wordCount": 372,
+          "wordCount": 375,
           "title": "美众议院稳定币听证会重点谈论了两个具有竞争性法案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -402,7 +402,7 @@
           "description": "PANews 5月19日消息，据界面新闻报道，百度副总裁、百度“希壤”业务负责人马杰已经于近期离职，希壤团队虽并未解散，但前途目前并不明朗，部分人员已经转岗或离职。\n内部相关人士表示，元宇宙业务短期内难以看到好的商业模式，盈利能力较差，以及百度转向AIGC相关业务、不愿意向元宇宙业务投入更多资源，是希壤被边缘化的主要原因。截至发稿，百度对此消息未有回应。",
           "link": "https://panewslab.com/zh/articledetails/ncf2j600.html",
           "publishedOn": "2023-05-19T03:37:40.000Z",
-          "wordCount": 376,
+          "wordCount": 382,
           "title": "百度副总裁马杰离职，元宇宙业务“希壤”陷入边缘化危机",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -412,7 +412,7 @@
           "description": "PANews 5月19日消息，据Finextra报道，数字资产数据提供商PYOR宣布完成400万美元种子轮融资，Castle Island Ventures领投，Hash3、Antler、Future Perfect Venture、Force Ventures、CoinSwitch Ventures、Coinbase Ventures和天使投资人Balaji Srinivasan参投。\n据悉，PYOR成立于2022年8月，旨在通过量身定制的桌面分析界面提供有关数字资产的关键见解。该项目目前处于内测阶段，最近宣布推出其Terminal产品，这一即插即用数据终端使机构能够访问基本的区块链数据，并通过适合其需求的定制仪表板编写私人查询信息。",
           "link": "https://panewslab.com/zh/articledetails/wfu01iz1.html",
           "publishedOn": "2023-05-19T03:33:51.000Z",
-          "wordCount": 428,
+          "wordCount": 434,
           "title": "数字资产数据提供商PYOR完成400万美元种子轮融资，Coinbase Ventures等参投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -422,7 +422,7 @@
           "description": "PANews 5月19日消息，NFT借贷协议ParaSpace的首席商务官Jay Yao发推文称：“今天早些时候，我和其他团队成员一起辞去了我在ParaSpace的职位。虽然我们仍在努力完成我们的解决方案，但我想花一点时间向社区道歉，因为我们的内部事务影响了我们的用户——这从来没有打算成为一个公共问题，它应该在内部解决。我很抱歉并没有这样做。我真心希望Yubo和ParaSpace向前迈进。”\n此前昨日消息，ParaSpace创始人Yubo表示，Thomas Schmidt和Jay Yao同意交出多重签名和推特账户权限，已成功在Arbitrum网络部署协议。\n相关阅读：用户资金被挪用，创始人被夺权，ParaSpace内部到底发生了什么？",
           "link": "https://panewslab.com/zh/articledetails/s0k6fc7k.html",
           "publishedOn": "2023-05-19T03:26:27.000Z",
-          "wordCount": 422,
+          "wordCount": 449,
           "title": "ParaSpace“内斗”或结束，Jay Yao等人已辞职",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -432,7 +432,7 @@
           "description": "PANews 5月19日消息，Dune数据显示，比特币在北京时间5月19日凌晨01:18区块高度790340处的出块时间达1小时40分钟35秒，为今年出块最慢的比特币区块，且是过去一年中出块第三慢的比特币区块。\n此外，Btc.com数据显示，区块高度790340处的交易数达2141，交易总额达11659.23枚BTC。",
           "link": "https://panewslab.com/zh/articledetails/fak0y8d3.html",
           "publishedOn": "2023-05-19T03:16:05.000Z",
-          "wordCount": 379,
+          "wordCount": 382,
           "title": "数据：比特币今日凌晨某区块出块时间达1小时40分钟",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -442,7 +442,7 @@
           "description": "PANews 5月19日消息，据CoinDesk报道，Galaxy Digital宣布已于本周早些时候完成其第一笔在链上结算的场外 (OTC) 期权交易，这标志着将传统金融系统引入DeFi基础设施迈出了切实的一步。Ribbon Finance的期权交易平台Aevo与加密货币投资公司CoinFund执行了Galaxy交易。\nGalaxy Digital在一份声明中表示，衍生品正成为加密市场中越来越重要的部分，与现货交易相比，其在总交易量中的份额上个月创下历史新高。最近的市场事件凸显了传统双边期权交易的脆弱性，DeFi表现非常出色，而CeFi和一些传统的交易方法面临挑战。",
           "link": "https://panewslab.com/zh/articledetails/qk70nrtr.html",
           "publishedOn": "2023-05-19T02:54:12.000Z",
-          "wordCount": 427,
+          "wordCount": 433,
           "title": "Galaxy Digital已执行其首个在链上结算的场外期权交易",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -452,7 +452,7 @@
           "description": "PANews 5月19日消息，据Decrypt报道，数字资产银行Custodia Bank首席执行官Caitlin Long在迈阿密比特币大会的小组讨论中表示，该银行在4月份发布了60天的预先通知，它将面向其客户推出比特币托管服务。\n据悉，Custodia Bank前身为Avanti，自2020年以来一直为拥有数字资产的客户提供全套金融服务。作为一家特殊目的存储机构（SPDI），该行也是首批根据怀俄明州加密货币友好法律注册的机构之一。",
           "link": "https://panewslab.com/zh/articledetails/9r3zdnmb.html",
           "publishedOn": "2023-05-19T02:47:55.000Z",
-          "wordCount": 396,
+          "wordCount": 399,
           "title": "数字资产银行Custodia Bank将推出比特币托管服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -462,7 +462,7 @@
           "description": "PANews 5月19日，链上分析师余烬发推文称，6小时前，某巨鲸地址将10,000枚BTC (约合2.67亿美元)转入Coinbase。\n而在5月12日早上，该巨鲸地址就曾向Coinbase转入过10,000枚BTC，当时BTC价格为27620美元。在该地址5月12日这笔BTC进入交易所后一天时间，BTC下跌至25811美元，跌幅为6%。",
           "link": "https://panewslab.com/zh/articledetails/u0gl9wt5.html",
           "publishedOn": "2023-05-19T02:40:03.000Z",
-          "wordCount": 375,
+          "wordCount": 387,
           "title": "数据：某巨鲸地址凌晨将1万枚BTC转至Coinbase，约合2.67亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -472,7 +472,7 @@
           "description": "PANews 5月19日消息，安全社区Dilation Effect发推文称：“近期一些人反馈自己钱包莫名其妙被盗（币和NFT被清空），共同特点是使用iPhone ，且没有乱点链接，也没有将助记词保存在手机相册或云服务上，只抄写在了纸上。这些用户百思不得其解。为此经过大量调研和分析，发现了一种很少被人察觉的攻击场景，并且在部分钱包App上复现成功。从App Store上下载App存在国家或地区的限制，比如中国大陆账号无法下载一些App，很多用户会购买（淘宝）或使用网上共享的美国Apple ID。因为iPhone的备份机制会将手机App数据备份到云端，攻击者使用与你同样的Apple ID就可以在他手机上恢复你钱包App数据。加上钱包的本地访问密码并不会设置得很复杂，攻击者轻易进行破解后将你的资产转走。我们在链上追踪被盗资金后发现其背后有成熟的作案团伙，受害用户被盗资金已累计超过1000万美金。”\nDilation Effect提醒道，1.使用iPhone手机且安装了钱包App的用户，如果你的购买或使用过他人提供的Apple ID，请立即停止使用，并马上转移钱包资产。2.此攻击场景已经在部分市面上流行的钱包App上成功复现，呼吁各大钱包厂商重视和排查此问题，积极进行优化，并给用户发布提醒。\n慢雾首席信息安全官对此表示：“其实这个问题的核心点是‘应用没有和设备密码绑定’，这是目前99%的钱包、交易App等都存在的问题，我很长之之前提过，但可能是为了应用设计之初就没有考虑这个问题，导向目标市场上的应用依旧未修复。”",
           "link": "https://panewslab.com/zh/articledetails/gnj011m1.html",
           "publishedOn": "2023-05-19T02:31:46.000Z",
-          "wordCount": 432,
+          "wordCount": 423,
           "title": "预警：使用他人Apple ID的苹果用户需注意加密钱包安全，某作案团伙已盗取超1000万美金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -591,19 +591,9 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
-          "id": "https://www.theblockbeats.info/news/37103",
-          "author": null,
-          "description": "加密货币 KOL Seth 列举了一些项目方一直在做事的 BRC20 DeFi 项目。",
-          "link": "https://www.theblockbeats.info/news/37103",
-          "publishedOn": "2023-05-19T07:45:46.000Z",
-          "wordCount": null,
-          "title": "BTC DeFi有哪些能关注的项目",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.theblockbeats.info/news/37099",
           "author": null,
-          "description": "LSD 和 LSD-fi 再次成为热门叙事。投资者们纷纷寻找低市值、高潜力的项目，以期在这个新兴板块中获得丰厚的回报。",
+          "description": "原文标题：《盘点10个低市值LSD-fi项目：寻找被低估的新机会》\n原文作者：\n\nNikyous\n\n\n原文编译：\n\n深潮 TechFlow\n\n\n\nLSD 和 LSD-fi 再次成为热门叙事。投资者们纷纷寻找低市值、高潜力的项目，以期在这个新兴板块中获得丰厚的回报。在这篇文章中，研究员 Nikyous 将介绍 10 个被低估的 LSD-fi 代币，它们在市场中具有巨大的潜力，值得投资者关注。\n\n\n\n\n\nLybraFinanceLSD\n\n\n$LBR 提供 $eUSD，这是第一个计息的全链稳定币。TVL - 24,200 万美元，市值 - 4,300 万美元，市值/TVL - 0.17。\n\n\n特点：\n\n\n- 由 LSD 支持；\n\n\n- 1:1 硬挂钩；\n\n\n- 0 铸币/贷款费；\n\n\n- 约 8% 的基本年化收益率。\n\n\n\n\n\nZeroLiquid\n\n\n$ZERO 将通过 LSD 代币提供自我偿还贷款功能。\n\n\n此外，他们的贷款特点：\n\n\n- 0% 利息；\n\n\n- 无清算风险。\n\n\n你只需存入你的 LSD 代币，如 $stETH，以此为抵押贷款，随着你的 LSD 产生收益，它们会偿还你的贷款。\n\n\n\n\n\nunsheth\n\n\n$USH 的目标只有一个 通过激励实现去中心化。\n\n\n他们为较小的验证者提供更高的收益，质押者获得更高的收益，$ETH 变得更去中心化，可以将其视为优先考虑去中心化的收益聚合器。\n\n\n\n\n\nAcidDAO\n\n\n$ACID 旨在优化 LSD 代币的回报，例如：\n\n\n $stETH;\n\n\n $rETH;\n\n\n $frxETH.\n\n\n等等，提供比 4-5% 年化收益率的高的多的 LSD 资产收益。$ACID 持有 LSD 资产，并从 $ETH 节点获得真实收入。\n\n\n\n\n\nFlashstake\n\n\n$FLASH 让你可以获得即时的预付收益。通常，你需要等待 365 天才能获得 4-5% 的 $ETH 年化。使用 $FLASH，你可以通过锁定本金立即获得它。\n\n\n他们支持：\n\n\n- $stETH;\n\n\n- $sUSD;\n\n\n- $GLP;\n\n\n- $rETH 即将推出。\n\n\n\n\n\nAgility Protocol\n\n\n$AGI 既是 aUSD 交易平台，又是 LSD 流动性分配平台。\n\n\nAgility Protocol 的目标是帮助 LSD 项目提高初始流动性——LSD/ETH。他们为各种收益策略提供不同的策略金库。\n\n\nLSDx Finance\n\n\n$LSD 目前提供两种产品：\n\n\n- ETHx：一篮子 LSD，允许快速转换；\n\n\n- UM：基于 $ETH 质押回报的主权债券支持的稳定币。\n\n\n它是所有 LSD 的超流动性协议。\n\n\nSharedStake\n\n\n$SGT 是一个去中心化质押解决方案，允许用户质押 $ETH 并在 ETH2 奖励之上获得额外收益。如果你持有他们的 NFT，还能 LSD 的 APR，他们是第一个这样做的项目。\n\n\n- TVL - 2900 万美元；\n\n\n- 市值 - 200 万美元；\n\n\n- 市值/TVL - 0.069。\n\n\n\n\n\nParallax\n\n\n$PLX 是一个流动性层基础设施，它为 DeFi 参与者、DAO 和协议提供支持。它主要由 4 个组件组成：\n\n\n- Orbital - 收益优化器；\n\n\n- Andromeda - 多变量收益；\n\n\n- Supernova - 为 LSDfi 提供动力；\n\n\n- Black Hole - 流动性市场。\n\n\n\n\n\nOrigin\n\n\n即将到来的 LSD 新参与者。他们已经有 $OUSD——一种产生收益的稳定币。此外，他们计划推出 $OETH——从以下来源累积价值的 $ETH：\n\n\n- $LDO;\n\n\n- $FRAX;\n\n\n- $RPL;\n\n\n- $CRV;\n\n\n- $CVX.\n\n\n\n\n\n原文链接",
           "link": "https://www.theblockbeats.info/news/37099",
           "publishedOn": "2023-05-19T06:00:01.000Z",
           "wordCount": null,
@@ -613,7 +603,7 @@
         {
           "id": "https://www.theblockbeats.info/news/37098",
           "author": null,
-          "description": "一个完善的DePIN（去中心化网络硬件基础设施）项目是一个更加复杂、综合性更强的Web3 项目。",
+          "description": "原文标题：《DePIN 赛道全貌：是破坏式创新还是「空中楼阁」？\n\n》\n原文来源：Puzzle Ventures\n\n\n引言\n\n\n\nDePIN 是 Decentralized Physical Infrastructure Networks 的简称，顾名思义也就是「去中心化的网络硬件基础设施」。实际上这种去中心化的硬件设施在很早以前就有模糊的概念的实际的应用，例如比特币矿机实际上就是一种去中心化的硬件网络，而 web2 世界的电网管理系统也涵盖一定的去中心化硬件设施理念。\n\n\n为了准确定义这篇文章中 DePIN 的概念，我们采用 Messari（https://messari.io/report/the-depin-sector-map）对于 DePIN 的解释：一种采用区块链技术，通过代币激励的方式，以无需许可、无需信任和可编程的形式来协调多个个体单位的物理硬件设施。DePIN 也可以被描述成 Proof of Physical Network (PoPW) 或 Token Incentivized Physical Infrastructure Networks (TIPIN)。用简单的话来说，就是由代币激励来进行管理的无数个单体硬件所组成的一个网络，而这个网络可用来服务于某些具体的项目。\n\n\n从广义上来看，DePIN 涵盖的范围实际上非常广。PoW 矿机就是维持区块链网络运营的硬件设施，但是随着传统 PoW 的模式逐渐被淘汰，矿机并不在本文的讨论范围之内，本文将更专注于在区块链网络之上提供具体服务的硬件网络，而不是区块链网络本身。从另一个角度来看，整个 web3 世界都是构架在 DePIN 网络之上的，因为每一个节点的运营都是基于个体单位租用各自的服务器来实现的。在厘清了这两个逻辑之后，我们可以更加专注于本文的研究方向：非区块链网络本身所涵盖的，提供额外 toB 或 t…",
           "link": "https://www.theblockbeats.info/news/37098",
           "publishedOn": "2023-05-19T03:25:35.000Z",
           "wordCount": null,
@@ -623,7 +613,7 @@
         {
           "id": "https://www.theblockbeats.info/news/37097",
           "author": null,
-          "description": "掌握钱包追踪技巧，找到正确钱包，从而轻松获利。",
+          "description": "原文作者：hoeem \n原文编译：Kxp，BlockBeats\n\n\n钱包追踪真是一门高深的学问，只要你知道如何找到那些正确钱包，就能跟着大赚特赚。今天，就让我来教你怎么找到这类钱包吧——下面是「钱包狩猎 101 指南」，让你轻松猎取财富。\n\n\n你可以通过下面几个方法找到你想要关注的钱包：\n\n\n· 寻找有投资眼光的巨鲸\n\n· 使用区块链浏览器\n· 使用 Bubblemaps \n· 在 Dune 上使用 Token Analyzooor\n\n\n1. 使用 CoinGecko\n\n\n我们的目标不只是找到一个钱包，而是要找到那些投资于表现出色 Token 的正确钱包。为此，我们可以进行如下操作：\n\n\n· 前往 CoinGecko \n· 点击涨幅最高者\n· 过滤时间范围\n· 记下你感兴趣的 Token\n· 记下它们所在的区块链\n· 记下 Token 地址\n· 记下 Token 价格较低的日期\n\n\n现在你就有了一份表现出色的 Token 列表，这很重要，因为我们希望找到投资于这些资产的钱包。\n\n\n个人而言，我将忽略那些投资于 Meme 币的钱包，因为他们更有可能是赌徒，这些人在未来投资的过程中很可能会因为自己的非理性决策而损失大笔资金。\n\n\n2. 使用区块链浏览器\n\n\n现在你已经记下了要研究的 Token，那么这时你就可以前往该 Token 所在的浏览器了：\n\n\n· 前往相应的区块链浏览器\n· 输入 Token 地址\n· 过滤大额交易\n· 下载 CSV 列表以查找特定日期\n· 点击大额交易的地址\n· 避免选中合约地址\n· 记下在 Token 价格低谷期间有购买记录的地址中你感兴趣的地址\n· 根据持有者进行筛选\n\n· 记下巨鲸地址\n\n\n按照这种方法，你就能收集到一些可能有用的钱包地址。\n\n\n3. 使用 Bubblemaps\n\n\n· 前往 Bubblemaps\n· 输入 Token 地址\n· 筛选你感兴趣的时间段\n· 查看该时间段排名靠前的持有者\n· 避免选中仅有预售 Token 的地址\n\n\n这是一种非常快速的方法，可以找到一些拥有大量 Token 的持有者，该平台的可视化辅助功能可以帮你避开那些仅因参与了预售而拥有大量 Token 的地址。\n\n\n4. 使用 Token Analyzooor\n\n\n幸运的是，我们可以使用由 Mochi 设计的出色 Dune 仪表板：\n\n\n· 前往 Dune\n· 搜索 Token Analyzooor\n· 点击 Token 所在链\n· 输入 Token 地址\n· 输入你想要查看某人何时购买的天数\n· 现在你可以看到最高持有者\n· 查看盈利地址\n· 点击感兴趣的地址，忽略合约地址，记下其他地址\n\n\n现在，你有了更多在 Token 价格较低时购买的地址，一个智能钱包。\n\n\n5. 筛选你要调查的钱包\n\n\n现在，你有了一个自己感兴趣钱包的列表，这些钱包都购买了一个表现良好的 Token，那么下一步我们应该怎么做？\n\n\n之前我们只能靠运气，所以现在我们需要：\n\n\n· 在 DeBank、Arkham 或 Zerion 中输入钱包地址\n· 筛选交易\n· 查找 Token 的购买和出售记录\n· 查看是否有成功盈利的交易记录\n\n· 如果有，那么你就找到了一个值得持续关注的钱包\n\n\n总结：\n\n\n你可以使用上述任何方法来确定你可能感兴趣的钱包，借助钱包扫描器筛选这些钱包，看看它们是否有良好的交易记录，并把它们记录下来。\n\n\n原文链接",
           "link": "https://www.theblockbeats.info/news/37097",
           "publishedOn": "2023-05-19T03:09:22.000Z",
           "wordCount": null,
@@ -633,7 +623,7 @@
         {
           "id": "https://www.theblockbeats.info/news/37095",
           "author": null,
-          "description": "AI时代到来，善用 ChatGPT+Dune，建立更强数据库。",
+          "description": "原文标题：《\n\n重新认识 Dune：或许是最强平民级免费链上分析工具》\n原文作者：Leshka.eth\n\n\n原文编译：Odaily 星球日报\n\n\n\nDune 是一家专注于分析 Web3 数据的公司，为加密资产市场和区块链技术的用户提供全面的数据分析工具和数据分析看板。\n\n\n在高度数字化的时代，Dune 的数据分析工具为用户提供了实时的市场动态和价格趋势，帮助用户制定更好的投资策略。无论用户是新手还是专业投资者，Dune 都可以提供相对全面、准确的数据分析和市场情报。Dune 在三轮融资中获得了来自@dragonfly_xyz、@multicoincap、@coinbase 等巨头总共 8000 万美元的融资。\n\n\n为什么分析链上数据很重要？\n\n\n在以太坊和其他区块链平台上，数据是在链上的，也就是说，所有的交易、合约状态和事件都被记录在区块链上，而且这些数据是不可篡改和不可删除的。因此，跟踪链上数据对于开发和使用基于区块链的应用程序非常重要。  \n\n\n确保数据的准确性和完整性：由于区块链上的数据是不可篡改的，因此跟踪链上数据可以确保数据的准确性和完整性。这对于金融、保险、供应链等领域的应用程序尤为重要。\n\n\n实时监控合约状态和交易：跟踪链上数据可以帮助开发者实时监控合约状态和交易，及时发现错误或异常情况，并采取必要的措施。对于开发者而言，还可以通过这些数据更好的了解用户需求和市场趋势，为 Dapp 的开发和优化提供强力支持。\n\n\n分析和预测市场趋势：跟踪链上数据可以帮助分析币价、市场交易量、持仓情况等数据，从而预测市场趋势和做出更好的投资决策。\n\n\n自动执行智能合约：跟踪链上数据可以帮助智能合约自动执行，例如触发合约的特定事件或条件。\n\n\n总之，跟踪链上数据对于开发和使用区块链应用程序是非常重要的，可以确保数据的准确性和完整性，实时监控合约状态和交易，分析和预测市场趋势，以及自动执行智能合约等。\n\n\nDune 是如何获取数据的？\n\n\n与传统行业相比，在区块链上获取和分析数据更容易。\n\n\n\n\n\n虽然各链的技术细节不完全相同，但是每条区块链都遵循“提出交易-达成一致-添加到链上”的逻辑。区块链中存在各种共识机制，但是\n一旦达成共识，关于最新区块的信息就会在区块链网络中进行广播，让所有节点都知道这个新区块并记录。\n\n\n理论上来说，任何人都可以运行自己的节点，因此区块链世界中透明度很高，允许数据分析师访问任何“正在发生的事情”的完整信息。而 Dune 通过 API 访问由节点创立者捕获的区块链数据，这样 Dune 可以专注于创造最佳的数据访问体验，而节点创立者则专注尽可能有效地运行节点。\n\n\n从节点创立者处获得的数据一般是哈希字节码的形式，Dune 接收到这些字节码之后的通过其数据引擎将其提取为一组称为“原始数据”的表格，再通过智能合约进行解析得到。\n\n\n数据解析之后，则使用 SQL（一种用于在数据库中进行存储、操作和检索的高级语言）将其创建为易于读取的可视化图表和数据看板。\n\n\n举个例子，带你玩转 Dune\n\n\n在打开Dune 网站之后，可以看到很多趋势数据看板，包括很多 Dapp 的链上统计数据，如 Ethereum、Arbitrum、Optimism 等。\n我们以@LayerZero_Labs 的数字看板为例：\n\n\n\n\n\n其中可以提取出一些关键信息：\n\n\n\n\n\n超过一百万个钱包正在使用 LayerZero。\n\n\n进行了十笔以上交易的用户（一般被认为是活跃的真实用户）占比达到 15% 。\n\n\n使用 LayerZero 不超过一个月的用户占比为 66%。\n\n\n同时，我们可以通过钱包地址检索任意一个钱包使用 LayerZero 的交易次数和交易金额。\n\n\n\n\n\n我们还可以创建自定义数字看板：\n\n\n\n\n\n如果你精通 SQL 语言，则可以直接在 Dune 面板中编写查询代码：\n\n\n\n\n\n此外，我们还可以使用 ChatGPT 来生成 SQL 查询代码：\n\n\n\n\n\n要进行查询直接在编辑器中粘贴代码然后点击运行即可：\n\n\n\n\n\n然后点击保存，并且可以添加一些针对此数据看板的描述：\n\n\n\n\n\n总之，Dune 是一个非常强大的工具，Dune 上的数据看板设计直观，不需要数据分析技能就能轻松理解它。\n\n\n可以极大地帮助 Web3 玩家、开发人员等更好地了解数字资产市场和区块链网络，制定更好的投资和交易策略，优化 DApp 和智能合约，提高区块链网络的安全性和可靠性。\n\n\n\n如果能善用 ChatGPT+Dune，我相信可以极大地帮助 Web3 玩家、开发人员等更好地了解数字资产市场和区块链网络，制定更好的投资和交易策略，优化 DApp 和智能合约，提高区块链网络的安全性和可靠性。  \n\n\n原文链接",
           "link": "https://www.theblockbeats.info/news/37095",
           "publishedOn": "2023-05-19T01:00:01.000Z",
           "wordCount": null,
@@ -643,7 +633,7 @@
         {
           "id": "https://www.theblockbeats.info/news/37092",
           "author": null,
-          "description": "本篇从乔布斯和吃豆人说起，介绍到英伟达和游戏GPU的不解之缘，作者认为游戏才是这半个世纪以来科技进步的幕后推手。",
+          "description": "原文标题：《\n\n《链游的 AI 革命》（三）电子游戏，科技发展的隐藏发动机》\n原文来源：WLabs瓜田实验室\n\n\n\n电子游戏，科技发展的隐藏发动机\n\n\n\n估计很多瓜友一看到这个标题，就咧嘴一笑：瓜哥，你不能因为自己喜欢玩游戏，就把电子游戏拔高到这个高度啊。不是搞笑，我这可是一本正经的在唠嗑，开始都不想加「隐藏」这两个字，就是发动机，后来想想东方国目前对游戏行业的态度比较暧昧，还是低调一些为好。来吧，本系列长文的第三篇，我们聊聊游戏为啥可以带动了世界这五十年的科技发展。\n\n\n\n01 乔布斯和吃豆人\n\n\n从事电子行业的瓜友应该知道，集成电路行业的起飞是在上世纪 70 年代，那时摩托罗拉公司推出了 6502 的处理器，性价比很高，虽然只是 8 位处理器，但是已经可以进行复杂的运算了，而且价格非常亲民，就是说如果搞一个电子产品，安装上这个 6502 处理器，就可以卖给工薪阶层了。\n\n\n\n\n如何把一项新技术转化为普罗大众都可以购买到的产品，而且大家乐于购买，这是一个新兴行业是否能席卷全球的重要判断标准，其中包含了三个要素：\n\n\n技术要是新的；\n\n\n技术已经可以落地成产品了；\n\n\n产品足够便宜；\n\n\n大家回顾下这几十年划时代的科技产品发展，是不是都是符合了这三要素：家用电脑，互联网，手机，移动互联网等等。为什么我们要写这个系列的长文？就是感觉 AI 和区块链都有可能发展成如上所述的划时代产品啊...\n\n\n在摩托罗拉公司性价比颇高的 8 位处理器横空出世当年，一家公司和一个人都非常敏锐的发现了这里面可能蕴藏的巨大商机，于是他们各自选了一个方向花开两枝：那个人类找了一个好基友，组装了下面这台丑丑的电子设备：\n\n\n\n\n\n\n\n对了，这就是苹果计算机一代（Apple I）的原型，那个天选之人是苹果创始人之一乔布斯，他的好基友就是沃兹尼亚克。世界上第一台家用个人电脑就这么诞生了，那时就是这么一个丑…",
           "link": "https://www.theblockbeats.info/news/37092",
           "publishedOn": "2023-05-18T13:00:01.000Z",
           "wordCount": null,
@@ -663,7 +653,7 @@
         {
           "id": "https://www.theblockbeats.info/news/37093",
           "author": null,
-          "description": "本文将盘点即将进行IDO 的SUI Network 生态项目，接下来有什么投资机遇？",
+          "description": "原文标题：《\n\n接下来的投资机遇？一文盘点 Sui 公链上即将发行代币的潜力项目 | veDAO 研究院》\n原文来源：veDAO\n\n\n自从 Sui Network 主网上线后，公链上的生态项目如雨后春笋般上线主网，部分项目也已经进行了代币初次分发。\n\n\n近日基于 Sui 和 Aptos 的 DEX Cetus 结束火爆的 IDO，共吸引了 1.08 亿枚 SUI 参与，超募超过 1350%（Hard Cap 仅为 80w 枚 SUI）。另外 Launchpad 平台 SuiPad 也已完成 IDO，公开轮在 55 秒内售罄，目前代币已经上线 kucoin、gate 等中心化交易所。\n\n\n这些成功的 IDO 表现了市场对项目们的青睐也体现了市场对 Sui 公链生态项目的关注，本文将盘点即将进行 IDO 的 SUI Network 生态项目，与你一同分享潜在的投机机会。\n\n\nWispSwap\n\n\nWispSwap 是 Sui 区块链上的去中心化交易所和 DeFi 平台。该平台提供了一系列多元的金融产品，包括交易，贷款，农业，抵押，预测市场和 launchpad，使其成为 DeFi 用户的一站式商店。平台通过实施创新和精心设计的机制，努力提升用户体验并实现回报最大化。\n\n\n本轮融资将用于产品研发、智能合约审计、CEX 上市和 WISP 代币的初始流动性增加。\n\n\n\n\n\n项目信息查询：https://app.vedao.com/projects/d97707f4e062872edcac2c815f097db192bc96d9d41001dc50512832cb2d97f4\n\n\nIDO 详情：https://medium.com/@wispswap/wispswap-ido-ea477463f69b\n\n\n白名单预售轮 Whitelist Round (Presale)\n\n\n1. 预售…",
           "link": "https://www.theblockbeats.info/news/37093",
           "publishedOn": "2023-05-18T09:21:12.000Z",
           "wordCount": null,
@@ -673,7 +663,7 @@
         {
           "id": "https://www.theblockbeats.info/news/37091",
           "author": null,
-          "description": "World App 刚上线，便被赋予「可能成为 AI 时代身份证的产品」的称号，这是一个极具创新和雄心的项目。",
+          "description": "原文标题：《\n\nAI 的尽头是 Web3？「ChatGPT 之父」推出加密钱包 World App》\n原文来源：AIOnews\n\n动态：World App 全新上线\n\n\n\n\n\n\n\n「每个人都应有同等获得去中心化的身份，自由访问去中心化的金融体系的权利。」\n\n\n\n历经数月，ChatGPT 的热度仍迟迟未消。\n\n\n上线仅仅两个月，ChatGPT 便坐拥过亿月活量，成为史上增速最快的消费级应用程序，一度席卷了全球互联网，也随之引发了破圈效应，使得 AI 领域受到越来越多的关注。\n\n\n而近日，ChatGPT 之父 Sam Altman 再放新招，当地时间 5 月 8 日，由 Sam Altman 所创立的加密货币公司 Worldcoin 宣布推出最新产品——加密钱包 World App，目前经过超过 150 万测试版用户的广泛开发和学习，World App 第一阶段已在全球范围内发布，在 80 多个国家/地区被允许下载和使用。\n\n\nWorld App 的定位与目标是极具野心的，它的所属团队希望能让全球数十亿人都可通过这个应用去获得去中心化的身份，并接触到去中心化的金融体系。World App 不仅是首个原生支持 Worldcoin 生态系统的加密钱包，还是一次突破性的创新，它初期建立在以太坊侧链 Polygon（可以从以太坊发送和接收资产的区块链）之上，为用户提供 gas-free 交易体验。当地时间 5 月 11 日，Worldcoin Foundation 和 Tools for Humanity 与 Optimism Collective 正式建立合作伙伴关系，而 World App 也从 Polygon 迁移到 Optimism 主网，此外，World ID 协议也可在 Optimism 主网上使用。\n\n\n观察：走进 World App\n\n\n「将加密世界的财富和人类身份置于…",
           "link": "https://www.theblockbeats.info/news/37091",
           "publishedOn": "2023-05-18T07:41:44.000Z",
           "wordCount": null,
@@ -683,11 +673,21 @@
         {
           "id": "https://www.theblockbeats.info/news/37089",
           "author": null,
-          "description": "LTC-20参与门槛极低，最低只需几美金便可入门莱特币铭文市场。",
+          "description": "原文标题：《莱特币 LTC20 协议，下一个诞生百倍千倍的投机市场？》\n原文来源：Sammi西米\n\n\n\n\n一 加密新叙事——新的范式投资机会\n\n\n这两周 brc 市场爆火，创造了很多暴富神话。你一定见过类似的言论：「如果在 3 月，你花 300 美金铭刻 brc20 上的 ordi 铭文，按照成本 3 美金一张 1000 个计算的话，如今价值 150 万美金」。\n\n\n币圈每一轮造富运动的发生，本质上都是「Token分发方式的演变」，这也是每个周期生产加密富豪的最佳流水线。\n\n\n16 年的 POW 算力产币，17 年的 ICO（ETH 换项目Token），18 年的 IEO（交易平台币换项目\n\nToken\n\n），Fcoin 交易挖矿（主流币换平台币），VDS 共振模式，20 年的 DeFi（提供流动性换取\n\nToken\n\n），刷空投（gas fee 博项目\n\nToken\n\n），21 年的 play to earn ......\n\n\n再到近期的 BRC20，在比特币上部署、铸造和转账铭文。便是一种更去中心化与更公平的\n\nToken\n\n分发方式。\n\n\n它的原理类似于给一张百元大钞上签上易洋千玺的签名，铭文仅限四字，且限量发行，那么它的价值就高于同等面值的百元大钞，因为具备了炒作基础。而溢价的高低由叙事，稀缺性，共识基础等多重因素动态决定。\n\n\n \n\nBrc20 当前市值约为 4.87 亿美金\n\n\n二 可复制的成功模式——时光机投资法则\n\n\n投资中最难的是择时，其次是择价。一个新的赛道是否爆发、何时爆发是很难把握的，在 0-1 的过程中，可能会耗费大量时间及资金成本在 1 出现前的无数个 0 上面。\n\n\n因此，每当市场出现了新的范式机会，找到并押注赛道龙二是一个相对简单且赔率很高的方式。比如 20 年炒作预言机赛道时，错过了龙头$link(130 天 9 倍)，还可以投资$band…",
           "link": "https://www.theblockbeats.info/news/37089",
           "publishedOn": "2023-05-18T06:40:33.000Z",
           "wordCount": null,
           "title": "莱特币LRC-20协议，能否复刻BRC-20的成功？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/37088",
+          "author": null,
+          "description": "原文标题：《\n\n探访真实的日本加密市场：封闭与矛盾并存，机会在哪儿?》\n\n原文来源： 深潮 TechFlow\n\n\n想到日本，你首先想到什么？\n\n\n樱花、动漫、富士山、任天堂……？\n\n\n\n当日本与 Crypto 联系在一起，大部分加密从业者却鲜有认知，尽管从 2017 年开始，Crypto 交易和交易所在日本都有了合法地位，但是日本市场始终存在感不强，封闭与独立是很多人的固有印象。\n\n\n日本加密市场的真实现状是如何？目前有哪些核心的参与者？如何参与日本加密市场？\n\n\n带着好奇，深潮 TechFlow 记者于 4 月探访日本东京，与当地的加密从业者交流，获得了诸多信息，与大家分享，没有长篇大论的废话，只有干货，本文联合作者还包括 Emoote Venture Partner James，向他致敬。\n\n\n*本文节选自 TechFlow 深潮出品的《亚太市场 Web3 真相》报告日本市场部分。\n\n\n日本加密市场概述\n\n\n根据与朋友的讨论以及第三方机构的数据，参与虚拟货币投资的日本人可以分为 3 个圈层，且下面的圈层是上面的圈层的完全子集，整体而言，日本本地加密用户超过 500 万。\n\n\n\n\n\n日本加密市场充满着特殊性与矛盾，主要有以下三个方面：\n\n\n（1）合规但是缺乏活力\n\n\n在日本无论是交易加密资产还是运营交易所，都可以在合法合规的框架下运营，主要由日本金融厅和日本虚拟货币交易业协会（自律组织）监管，总体原则是：优先监管反洗钱/反恐怖融资，再监管交易平台从而保障用户利益。比如，要求交易所将客户资产与其运营资金分开，交易所至少 95% 的资产需存放在冷钱包中，充分保障了个人投资者的安全。\n\n\n但是重监管也带来诸多限制，让日本加密市场缺乏活力。所有在日本合规交易所上市的代币都需要经过日本虚拟货币交易所协会（JVCEA）的批准，这个周期至少是 6 个月到一年。\n\n\n其次，日本有着高昂的…",
+          "link": "https://www.theblockbeats.info/news/37088",
+          "publishedOn": "2023-05-18T06:03:12.000Z",
+          "wordCount": null,
+          "title": "探索真实的日本加密市场，挖掘封闭与矛盾间的机遇",
           "imageUrl": null
         }
       ]
