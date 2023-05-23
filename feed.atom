@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-23T22:12:09.476Z</id>
+    <id>urn:2023-05-23T23:12:21.180Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-23T22:12:09.476Z</updated>
+    <updated>2023-05-23T23:12:21.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -845,7 +845,50 @@ BUIDLer
         <id>https://www.theblockbeats.info/news/37124</id>
         <link href="https://www.theblockbeats.info/news/37124"/>
         <updated>2023-05-22T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[自 Uniswap 推出 V3 版本一年半有余，其所提出的「聚合流动性」概念已被用户习以为常。]]></summary>
+        <summary type="html"><![CDATA[原文标题：《iZUMi开创的DL-AMM：基于UniSwap V3思路的改进》
+原文来源：Biteye
+
+
+自 Uniswap 推出 V3 版本一年半有余，其所提出的「聚合流动性」概念已被用户习以为常。
+
+
+目前 Uniswap 官网提供的分析数据中，V3 的 TVL 约是 V2 的 3 倍以上，日交易量则在 10 倍以上。
+
+
+https://info.uniswap.org/#/
+
+
+集中流动性使得用户可以主动选择其提供流动性的价格范围，显著提升了 V3 的 LP 资金效率，但其并未改变定义 LP 的恒定乘积公式，也就是说，无常损失仍然存在，并随着资金效率提升而相对放大；
+
+
+用户交易仍旧有滑点，易遭到三明治攻击。从用户角度，限价单是更为习惯、也更有利的交易方式，但 V3 并没有做到这一点。
+
+
+Uniswap V3 实际上已经有了价格区间的概念，每个区间的流动性定义因该区间价格上下限不同而不同，如下：
+
+
+
+
+
+由于 LP 无法实时追踪市场价格变化，一旦价格超出所选区间，LP 对本身会变为单一币种流动性，相对于现有市价是存在损失的。
+
+
+在追踪市价一途，机构及专业投资者显然更具优势；而一份近期的数据分析指出，为 Uniswap V3 提供流动性的投资者整体处于亏损状态，手续费并没有超过无常损失。
+
+
+https://twitter.com/thiccythot\_/status/1589022227437039616
+
+
+AMM 真的要 xy=k 一条道走到黑吗？笔者最近注意到一脉新的 AMM 设计思路，在此分享。
+
+
+01 iZUMi 的 DL-AMM 模型
+
+
+DL-AMM 模型源自 iZUMi 产品矩阵中的 iZiswap，其设计概念最早于 2021 年 11 月由 iZUMi 的两位 co-founder 发表的论文中提出。
+
+
+https://assets.…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
