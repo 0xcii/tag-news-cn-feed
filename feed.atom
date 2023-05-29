@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-29T05:12:21.661Z</id>
+    <id>urn:2023-05-29T06:17:26.627Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-29T05:12:21.661Z</updated>
+    <updated>2023-05-29T06:17:26.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[揭秘智慧投资: 如何追踪「聪明钱」]]></title>
+        <id>https://www.web3sj.com/news/70376/</id>
+        <link href="https://www.web3sj.com/news/70376/"/>
+        <updated>2023-05-29T06:03:48.000Z</updated>
+        <summary type="html"><![CDATA[追踪加密货币钱包主要有三步：发现钱包、收集钱包链上交易的深度数据，以及将前两步获取的数据翻译成有用的信息。通过这些，投资者可以了解到「聪明」的投资者的行动，并可能使用来自显著钱包所做的动作的线索预测市场动向。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上线两个月，zkSync Era生态进展如何？]]></title>
+        <id>https://www.web3sj.com/news/70369/</id>
+        <link href="https://www.web3sj.com/news/70369/"/>
+        <updated>2023-05-29T06:00:39.000Z</updated>
+        <summary type="html"><![CDATA[简单来说，zk 电路逐个交易 proof 的机制天然成本高，须要生态数据达到一定体量后，其交易速率、GAS 成本、丝滑体验等才能达到均衡状态。这是量变到质变的过程，需要且走且看。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[透析525页欧盟监管条例：只有3类加密资产获批]]></title>
+        <id>https://www.web3sj.com/news/70365/</id>
+        <link href="https://www.web3sj.com/news/70365/"/>
+        <updated>2023-05-29T05:57:08.000Z</updated>
+        <summary type="html"><![CDATA[条例分为 9 大部分，每章内容对所有加密相关领域进行了梳理（括号中页码为原 PDF 页码，非欧盟文件中页码，欧盟标注页码与 PDF 页码有 2 页的差异）]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达公布一批AI相关产品，包括将为游戏提供定制化AI模型代工服务]]></title>
+        <id>https://panewslab.com/zh/articledetails/9iz93tqa.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9iz93tqa.html"/>
+        <updated>2023-05-29T05:20:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月29日消息，据格隆汇报道，英伟达CEO黄仁勋公布了一批与AI相关的新产品和服务，希望进一步利用这股热潮。黄仁勋表示，新推出的产品范围广泛，包括名为DGX GH200的AI超级计算机平台，这将帮助科技公司创建ChatGPT的“继任者”。预计微软、Meta Platforms和谷歌将成为该设备的首批用户。
+英伟达将与WPP集团合作，利用AI和虚拟世界来降低广告制作成本。此外，该公司正准备发布一款网络服务，旨在加速数据中心内信息的传输速度。该公司甚至打算改变人们与视频游戏的互动方式：一项名为英伟达ACE for Games的服务将利用AI来激活背景角色，赋予他们更多个性。一连串的产品突显出英伟达正从一家计算机图形芯片制造商转变为一家处于AI热潮中心的公司。
+此外，据界面新闻报道，英伟达官网宣布将提供定制AI模型代工服务——Avatar Cloud Engine (ACE) for Games，可开发在云端和PC上运行的AI模型。开发者可以使用该服务在其软件和游戏中搭建和部署定制化的语音、对话和动画AI模型。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究员：Polygon zkEVM中一项资产桥接漏洞已修复，没有资金面临风险]]></title>
+        <id>https://panewslab.com/zh/articledetails/h4mgyb5p.html</id>
+        <link href="https://panewslab.com/zh/articledetails/h4mgyb5p.html"/>
+        <updated>2023-05-29T05:14:18.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月29日消息，Scroll区块链安全研究员iczc发推称，在Polygon zkEVM中发现一个漏洞，并获得来自 Web3漏洞赏金平台Immunefi L2漏洞赏金。该漏洞导致从L1桥接至Polygon zkEVM（L2）的资产无法在L2中正确认领，从而阻碍了L1至L2的资产迁移。
+iczc在处理认领交易（claim tx）预执行结果的代码逻辑中发现，恶意攻击者可以通过将Gas费设置为非零来绕过对认领交易的“isReverted”预执行检查，使其可以通过发送大量低成本的claim对定序器和验证器进行DoS攻击，从而增加计算开销。此外，交易不会在执行后立即从池中删除。状态从“待定”更新为“选定”，并继续存在于PostgreSQL数据库中。目前，只有一个可信的定序器能够从交易池中获取交易并执行它们。因此，另一个漏洞是通过发送一个失败的交易来恶意标记任何存款数。这将导致正确使用存款数的认领交易被拒绝，因为存款数已经被使用。这使得新用户无法使用L2网络。Polygon zkEVM团队通过删除认领交易的特定gas逻辑，修复了这一漏洞，没有资金面临风险。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPNX：约60万Celsius独立债权人的85%系小额债权人]]></title>
+        <id>https://panewslab.com/zh/articledetails/zs5m4nyt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zs5m4nyt.html"/>
+        <updated>2023-05-29T05:07:05.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月29日消息，三箭资本创始人Zhu Su等人创办的加密索赔和交易平台Open Exchange（OPNX）发推称，之所以将Celsius Network破产索赔确定为OPNX平台上第一个索赔代币和第一个代币化的现实世界资产，是因为Celsius Network有一个完全未经编辑的债权人数据库，因此可以快速验证债权人并提供准确估值。此外，在大约60万独立债权人中，有85%属于“小额债权人”，即索赔金额在5000美元或以下，可以用高流动性加密资产（比如BTC、ETH、USDC）进行一次性支付。此外，尽管Celsius选择Fahrenheit来收购其资产，但不知道该过程需要多长时间才能完成以及债权人能收到付款。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴厘岛将打击使用加密货币作为支付方式的外国游客]]></title>
+        <id>https://panewslab.com/zh/articledetails/ed789k16.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ed789k16.html"/>
+        <updated>2023-05-29T04:59:57.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月29日消息，据Antara报道，巴厘岛政府将打击外国游客在酒店、餐馆、旅游目的地、购物中心和其他地方使用加密货币作为支付手段。巴厘岛州长Wayan Koster表示：“外国游客行为不当、从事签证许可中不允许的活动、使用加密货币作为支付手段以及违反其他规定的行为将得到坚决处理。严厉的措施包括驱逐出境、行政制裁、刑事处罚、关闭营业场所和其他严厉制裁。”
+Koster表示，印尼禁止使用印尼盾以外的货币作为支付手段，是指2011年第7号货币法。根据该法律，如果使用印尼盾以外的其他形式的货币，则可处以最高一年的监禁和最高2亿印尼盾（约合13,300美元）的罚款。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随着美国准备提高债务上限，比特币 (BTC) 价格上涨 3.5% |  Coingape]]></title>
         <id>https://0xzx.com/2023052912323495589.html</id>
@@ -93,6 +167,17 @@
         <summary type="html"><![CDATA[Lido 是一个为 Ethereum 提供流动性质押解决方案的去中心化自治组织。Lido 生态系统目前由其协议 Token LDO 进行治理，该 Token 赋予用户在平台上对活动、升级和变更进行投票的权力。Lido 的 stETH 衍生 Token 与 ETH 的价格保持 1:1 的兑付比例，该币代表了用户质押的 ETH 持有量。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐私网络Aleo已修复通货膨胀漏洞]]></title>
+        <id>https://panewslab.com/zh/articledetails/rukg9ze7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rukg9ze7.html"/>
+        <updated>2023-05-29T03:45:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月29日消息，风投工作室LambdaClass贡献者Fede's Intern在推特上表示，发现可编程隐私网络Aleo存在通货膨胀漏洞与使用第一个漏洞停止区块生产的问题，并通过邮件联系 Aleo 团队。在Zero Knowledge Podcast的公开讨论下，Aleo CEO、Zero Knowledge Podcast贡献者Alex Pruden介入此事，目前漏洞已修复。
+Alex Pruden表示将为Fede's Intern提供漏洞赏金。Fede's Intern表示，将在接下来几天写一份报告，并将赏金捐给Zero Knowledge Podcast。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -206,36 +291,6 @@ CoinDesk采访了6家印度加密平台（CoinDCX、CoinSwitch、WazirX、BuyUCo
         <summary type="html"><![CDATA[分析DVT如何为以太坊的去中心化做出贡献]]></summary>
         <author>
             <name>MarsBit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开辟比LSD更大的赛道？一文说清EigenLayer提出的Restaking再质押协议]]></title>
-        <id>https://www.web3sj.com/news/70245/</id>
-        <link href="https://www.web3sj.com/definews/70245/"/>
-        <updated>2023-05-29T03:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Eigenlayer 是以太坊生态的一个去中心化的信任市场，旨在扩展以太坊的信任网络，其核心机制 Restaking 允许将已经质押在以太坊上的 ETH，再次质押在其他共识协议上，让其共享到以太坊几乎不可撼动的经济安全性，保证自身的安全启动和运行。ETH 质押者除了可以收获以太坊的质押奖励，还可以得到 AVS 提供的 Restaking 收益。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[传统公司金融理论在DAO领域的应用]]></title>
-        <id>https://www.web3sj.com/news/70232/</id>
-        <link href="https://www.web3sj.com/daonews/70232/"/>
-        <updated>2023-05-29T03:02:33.000Z</updated>
-        <summary type="html"><![CDATA[去中心化自治组织 DAO（Decentralized Autonomous Organization）一般指基于区块链技术、通过智能合约开展、由设计完备的通证经济来维护各方利益的组织，参与者由共同目标联结，通过网络进行协作。与传统公司制层级架构设计不同，DAO 不存在中心节点和层级架构，所有决策由 DAO 成员投票决定。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「No Chinese」：黑山EDCON中的傲慢与偏见]]></title>
-        <id>https://www.web3sj.com/news/70228/</id>
-        <link href="https://www.web3sj.com/news/70228/"/>
-        <updated>2023-05-29T02:56:57.000Z</updated>
-        <summary type="html"><![CDATA[本次会议的核心参与者构成主要包括 Vitalik Buterin 及其紧密团队、以太坊基金会、以太坊社区、Zuzalu 的开发者以及各类数字游民。他们聚集在 Vitalik 和朋友们发起的 Zuzalu，这是一个首创的快闪城市社区形式的社会实验，地点在黑山的 Sea Forest 度假区。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
