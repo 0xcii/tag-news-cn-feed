@@ -1,16 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T07:11:47.343Z</id>
+    <id>urn:2023-05-30T08:16:19.415Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-30T07:11:47.343Z</updated>
+    <updated>2023-05-30T08:16:19.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[EIP-6963 概述：多钱包冲突的可能解决方案]]></title>
+        <title type="html"><![CDATA[简析订单簿项目Sei Network: 突破DEX扩展性]]></title>
+        <id>https://www.web3sj.com/news/70739/</id>
+        <link href="https://www.web3sj.com/definews/70739/"/>
+        <updated>2023-05-30T08:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Sei Labs 有一个核心论点：交换数字资产的能力是加密的基本应用。如何扩展交易应用程序和交易所的问题有助于开启 Web3 采用的下一阶段增长。Sei 是为交易而构建的通用第 1 层区块链，在堆栈的每一层都进行了优化，为交易应用程序和交易所提供最佳基础设施。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读懂SUAVE：提升以太坊交易处理效率的新利器]]></title>
+        <id>https://www.web3sj.com/news/70726/</id>
+        <link href="https://www.web3sj.com/news/70726/"/>
+        <updated>2023-05-30T08:01:49.000Z</updated>
+        <summary type="html"><![CDATA[以太坊近年来在区块链领域取得了巨大成功，但面临着恶意 MEV 的挑战。为了解决这些问题，Flashbot 团队提出了 Suave，本文将深入解析 Suave 的原理、工作流程以及其与以太坊的关系。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跟随加密叙事：了解即将迎来重要更新的5个协议]]></title>
+        <id>https://www.web3sj.com/news/70716/</id>
+        <link href="https://www.web3sj.com/news/70716/"/>
+        <updated>2023-05-30T07:59:12.000Z</updated>
+        <summary type="html"><![CDATA[这些催化剂将改变协议和代币的基本面。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赵长鹏最新专访：被监管“置于显微镜下”，市场正在熊市中复苏]]></title>
+        <id>https://www.defidaonews.com/article/6820038</id>
+        <link href="https://www.defidaonews.com/article/6820038"/>
+        <updated>2023-05-30T07:47:37.000Z</updated>
+        <summary type="html"><![CDATA[5月29日，币安首席执行官赵长鹏接受了Bankless采访，就当前加密行业和市场的状况发表看法。]]></summary>
+        <author>
+            <name>PANews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在比特币上铸造NFT只要5美元？了解一下BRC-1155与GBRC-721]]></title>
+        <id>https://www.web3sj.com/news/70698/</id>
+        <link href="https://www.web3sj.com/nftnews/70698/"/>
+        <updated>2023-05-30T07:40:55.000Z</updated>
+        <summary type="html"><![CDATA[几个月前，以太坊上 ERC-1155 的「Open Edition」艺术类 NFT 就曾在一段时间内成为市场的「小主线」，其基建的完善以及「艺术游戏化」玩法的不断进步，最终使得「Open Edition」成功引起市场瞩目。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Hashed将2313万枚SAND存入币安，约合1290万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/8b9z8wmk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8b9z8wmk.html"/>
+        <updated>2023-05-30T07:39:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据Lookonchain监测，Hashed于半个多小时前将2313万枚SAND（约合1290万美元）存入币安。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近1000万用户参与，Reddit NFT头像集合如何创造市场奇迹？]]></title>
+        <id>https://www.web3sj.com/news/70693/</id>
+        <link href="https://www.web3sj.com/nftnews/70693/"/>
+        <updated>2023-05-30T07:37:19.000Z</updated>
+        <summary type="html"><![CDATA[凭借其广泛的认可度和全球吸引力，Reddit 的 NFT 收藏在 NFT 社区和其他领域都获得了极高的赞誉。根据 Dune Analytics 的数据，目前 Reddit 可收藏头像持有者的数量约为 990 万。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万向区块链实验室、HashKey Capital发起Web3.0创新孵化平台Future3 Campus，首期招募已开启]]></title>
+        <id>https://www.defidaonews.com/article/6820034</id>
+        <link href="https://www.defidaonews.com/article/6820034"/>
+        <updated>2023-05-30T07:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Future3 Campus将推出首期5000万美金的种子基金用于Web3.0项目孵化，真正服务于Web3.0领域的创新创业]]></summary>
+        <author>
+            <name>行业资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ordinals Market和Bitcoin Miladys联合推出NFT迁移新标准BRC-721E]]></title>
+        <id>https://panewslab.com/zh/articledetails/1ez9mb5v.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1ez9mb5v.html"/>
+        <updated>2023-05-30T07:31:22.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据官网消息，比特币NFT市场Ordinals Market和Bitcoin Miladys联合发布了BRC-721E标准，允许将不可变的、可验证的ERC-721 NFT迁移至Ordinals，而无需事先嵌入整个NFT系列。
+在桥接NFT时，BRC-721E将数据直接编码到一个销毁交易中，销毁交易会指定一个比特币地址来接收铭文。之前Teleburn要求在销毁ETH NFT之前知道铭文ID，但BRC-721E允许在刻录之前进行销毁，这也意味着销毁交易同时充当了链上铭文请求，用户也可以使用这个接收空投。
+此外，该标准运行原理是索引器从两条链收集数据，以极低的成本在比特币上提供丰富的动态元数据。该标准还具备未来升级和附加链上数据的能力。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[品牌进军Web3究竟要不要新设立子品牌？]]></title>
+        <id>https://www.web3sj.com/news/70687/</id>
+        <link href="https://www.web3sj.com/news/70687/"/>
+        <updated>2023-05-30T07:25:11.000Z</updated>
+        <summary type="html"><![CDATA[奔驰在官推@MercedesBenz 基础上新开一个 「Mercedes-Benz NXT」的账号，希望 NXT 作为在链上数字艺术与藏品的主阵地，「在 Web3 社区内建立专门存在的长期承诺」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gulf 币安在泰国获得监管批准]]></title>
+        <id>https://0xzx.com/2023053015183498210.html</id>
+        <link href="https://0xzx.com/2023053015183498210.html"/>
+        <updated>2023-05-30T07:18:18.000Z</updated>
+        <summary type="html"><![CDATA[Gulf 币安是加密货币交易所 币安与 Gulf Energy 的创新部门 Gulf  […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家认为 XRP 高价不太可能源于投机投资者]]></title>
+        <id>https://0xzx.com/2023053015173498209.html</id>
+        <link href="https://0xzx.com/2023053015173498209.html"/>
+        <updated>2023-05-30T07:17:14.000Z</updated>
+        <summary type="html"><![CDATA[行业专家 Molly Elmore 认为，广泛采用和效用将把 XRP 推向高价，而不是短期投机投资​​者。 最 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再看 iOS 16.6 和 16.5（视频）]]></title>
+        <id>https://0xzx.com/2023053015153498207.html</id>
+        <link href="https://0xzx.com/2023053015153498207.html"/>
+        <updated>2023-05-30T07:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Apple 最近发布了适用于 iPhone 的 iOS 16.5，他们还以 iOS 16.6 beta 1 的 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InDrive 着眼于新兴市场的雄心壮志]]></title>
+        <id>https://0xzx.com/2023053015143498206.html</id>
+        <link href="https://0xzx.com/2023053015143498206.html"/>
+        <updated>2023-05-30T07:14:14.000Z</updated>
+        <summary type="html"><![CDATA[InDrive 首席执行官 Arsen Tomsky 汤姆基恩 随着完成退出本土市场，俄罗斯网约车公司inDr […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型是神仙打架 创业者在AI还有哪些机会？]]></title>
+        <id>https://0xzx.com/2023053015133498204.html</id>
+        <link href="https://0xzx.com/2023053015133498204.html"/>
+        <updated>2023-05-30T07:13:18.000Z</updated>
+        <summary type="html"><![CDATA[整理：洪雨晗 5月20日，由创业邦主办的2023新青年创投峰会在北京举行，本届峰会以“你好，青年”为主题，旨在 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回顾稳定币崩盘史，浅析USDT的潜在风险]]></title>
+        <id>https://www.web3sj.com/news/70674/</id>
+        <link href="https://www.web3sj.com/definews/70674/"/>
+        <updated>2023-05-30T07:12:38.000Z</updated>
+        <summary type="html"><![CDATA[USDT 发行人 Tether 报告称，2023 年第一季度净收入为 15 亿美元，该公司的超额准备金达到 24.4 亿美元。在他们最新的公告中，Tether 表示他们将每月利润的 15% 用于投资 BTC。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-6963概述：多钱包冲突的可能解决方案]]></title>
         <id>https://www.web3sj.com/news/70670/</id>
         <link href="https://www.web3sj.com/news/70670/"/>
         <updated>2023-05-30T07:10:38.000Z</updated>
-        <summary type="html"><![CDATA[EIP-6963 旨在增强多个钱包提供商之间的互操作性，降低新提供商的准入门槛，并改善以太坊网络上的用户体验。]]></summary>
+        <summary type="html"><![CDATA[目前，提供浏览器扩展的钱包提供程序必须将们的以太坊提供程序（根据 EIP-1193 标准）注入到浏览器的 window.ethereum 对象中。这种机制对安装了多个浏览器扩展的用户来说造成了一种问题。浏览器扩展以不可预测和不稳定的顺序加载到网页中，导致用户无法自主选择 window.ethereum 对象中的以太坊的钱包。通常，最后加载的钱包是弹出控制页面那个。]]></summary>
         <author>
             <name>Gao</name>
         </author>
@@ -36,23 +198,15 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nostr的隐私悖论与对比特币隐私的改善]]></title>
-        <id>https://www.web3sj.com/news/70644/</id>
-        <link href="https://www.web3sj.com/news/70644/"/>
-        <updated>2023-05-30T06:47:59.000Z</updated>
-        <summary type="html"><![CDATA[在 Nostr 中，所有数据都存储在用户本地，仅通过中继进行分发，而不是存储在像 Twitter 这样的中央服务器上。在社交媒体的情况下，Nostr 增加了抗审查能力，因为用户可以完全拥有自己的内容和个人资料。鉴于近期围绕 Twitter 的审查政策引发的争议，用户开始向联邦通信解决方案 Mastodon 迁移。]]></summary>
+        <title type="html"><![CDATA[日本加密交易所BitFlyer公布存款和转账限制措施，以响应该国旅行规则]]></title>
+        <id>https://panewslab.com/zh/articledetails/cta9s8fq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cta9s8fq.html"/>
+        <updated>2023-05-30T06:46:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据Coinpost报道，日本加密交易所BitFlyer将从5月30日15:00起仅支持从符合旅行规则的交易所或MetaMask等钱包进行加密货币存款和转账。旅行规则支持的加密资产类型也有限制，包括BTC、ETH，以及BAT、LINK、MATIC、MKR、PLT这些ERC-20代币。
+该媒体还补充称，Coincheck是目前日本唯一一家允许从BitFlyer对外提现的交易所，且目前只能以比特币的形式在二者间进行转账或存入。但是，此限制仅限于21个需要根据旅行规则进行信息通知的国家和地区。
+此前5月24日消息，日本将从6月开始实施更严格的加密货币反洗钱法，包括金融行动特别工作组 (FATF) 的“旅行规则” 。]]></summary>
         <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新西兰加密资产税收概览]]></title>
-        <id>https://www.web3sj.com/news/70640/</id>
-        <link href="https://www.web3sj.com/news/70640/"/>
-        <updated>2023-05-30T06:41:47.000Z</updated>
-        <summary type="html"><![CDATA[依据税务局规定，考虑到加密货币的资产属性，其在出售和交易过程中产生的收益应报告为「应纳税所得额」，缴纳个人或企业所得税；如果属于挖矿、NFT 交易或用加密资产支付商品和服务等，则需要支付商品及服务税（GST）。整体来说，新西兰的加密货币税收政策是较为全面的，为加密货币的持有者、投资者和交易者均提供了清晰的指导和规范。]]></summary>
-        <author>
-            <name>Gao</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -66,23 +220,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT市场发展的主要考虑因素与挑战]]></title>
-        <id>https://www.web3sj.com/news/70631/</id>
-        <link href="https://www.web3sj.com/nftnews/70631/"/>
-        <updated>2023-05-30T06:38:06.000Z</updated>
-        <summary type="html"><![CDATA[NFT 市场是一个数字平台，允许用户购买和出售 NFT。用户将他们的钱包连接到平台，转移资金，浏览可用的 NFT，并购买或竞标所需资产。报价被接受后，NFT 被转移到他们的账户，完成交易。基于拍卖的市场允许对 NFT 进行竞价。]]></summary>
+        <title type="html"><![CDATA[经合组织将制定有关生成式人工智能的新指导方针]]></title>
+        <id>https://panewslab.com/zh/articledetails/vsr3cuow.html</id>
+        <link href="https://panewslab.com/zh/articledetails/vsr3cuow.html"/>
+        <updated>2023-05-30T06:33:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据日经新闻5月29日消息，经济合作与发展组织（OECD）将制定有关生成式人工智能的新指导方针。经济合作与发展组织秘书长科尔曼在接受采访时表示，该组织正在考虑修订2019年制定的人工智能原则，计划最早6月份就新指南展开讨论，年底前拿出成果。]]></summary>
         <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4月获顶级加密VCs投资的这27个项目，都是什么来头？]]></title>
-        <id>https://www.web3sj.com/news/70573/</id>
-        <link href="https://www.web3sj.com/news/70573/"/>
-        <updated>2023-05-30T06:28:15.000Z</updated>
-        <summary type="html"><![CDATA[最近 VC 们都在看好哪些赛道的哪些项目？本文将盘点 27 个在 4 月获得顶级加密 VC 投资的项目，帮助读者快速理解。]]></summary>
-        <author>
-            <name>Gao</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -96,83 +240,24 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《侠盗猎车手 6》引入加密货币的谣言已经传了2年，为何它不会结合 Web3？]]></title>
-        <id>https://www.web3sj.com/news/70568/</id>
-        <link href="https://www.web3sj.com/gamefinews/70568/"/>
-        <updated>2023-05-30T06:23:13.000Z</updated>
-        <summary type="html"><![CDATA[知名动作冒险游戏系列《侠盗猎车手》（GTA）或将在其即将推出的游戏升级版本《侠盗猎车手 6》（GTA 6）中引入加密货币奖励，这款预计将于 2023 年或 2024 年发布的游戏计划整合区块链技术来实施基于加密货币的奖励系统，并且可能会把比特币作为这款游戏的支付方式和奖励代币。]]></summary>
+        <title type="html"><![CDATA[数据：Wintermute过去42小时内将265.1万枚OP转至币安]]></title>
+        <id>https://panewslab.com/zh/articledetails/y1lb40kz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y1lb40kz.html"/>
+        <updated>2023-05-30T06:18:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据Spot On Chain监测，过去的42小时内，Wintermute已将265.1万枚OP转移到币安，平均价格为1.63美元（共计431万美元）。据悉，Wintermute是Optimism的B轮投资者之一。
+此前消息，价值5.87亿美元的OP代币将于5月31日解锁，占总供应量的9%。]]></summary>
         <author>
-            <name>Gao</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[要求驳回SEC 诉讼 Gemini、Genesis 强调：Earn 产品并非证券]]></title>
-        <id>https://0xzx.com/2023053014183498105.html</id>
-        <link href="https://0xzx.com/2023053014183498105.html"/>
-        <updated>2023-05-30T06:18:14.000Z</updated>
-        <summary type="html"><![CDATA[美国证券交易委员会（SEC）今年1 月对加密货币公司Gemini、Genesis 提起诉讼，指控这两家公司合作 […]]]></summary>
+        <title type="html"><![CDATA[数据：价值5.87亿美元的OP代币将于5月31日解锁，占总供应量的9%]]></title>
+        <id>https://panewslab.com/zh/articledetails/j0xpmyxr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j0xpmyxr.html"/>
+        <updated>2023-05-30T06:10:01.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，Token Unlocks数据显示，Optimism将于5月31日解锁386,547,056.64枚OP代币，约合5.87亿美元，占总供应量的9%。其中204,010,947枚OP系核心贡献者解锁，182,536,110枚OP系投资者解锁。]]></summary>
         <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文简析全链游戏引擎]]></title>
-        <id>https://www.web3sj.com/news/70558/</id>
-        <link href="https://www.web3sj.com/gamefinews/70558/"/>
-        <updated>2023-05-30T06:17:57.000Z</updated>
-        <summary type="html"><![CDATA[在过去，像 Unreal、Unity 和 Phaser 这样的游戏引擎被用作传统游戏开发的一站式服务。它包括了开发游戏的基本构建，如控制运动、二维和三维渲染、物体碰撞检测、声音、颜色、脚本等物理引擎，甚至还包括服务器客户端架构、PC / 游戏机 / 手机的框架、交易市场等分配机制。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XRP 看到最大的地址活动峰值，因为它在 9 个月内首次突破]]></title>
-        <id>https://0xzx.com/2023053014173498104.html</id>
-        <link href="https://0xzx.com/2023053014173498104.html"/>
-        <updated>2023-05-30T06:17:15.000Z</updated>
-        <summary type="html"><![CDATA[XRP 上一次见证类似的地址活动大幅上涨是在今年 3 月，导致几天后令人印象深刻的 45% 反弹。 在过去的两天里 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana联创：公司目标是实现10到100倍的增长，有潜力成为加密货币领域的苹果]]></title>
-        <id>https://0xzx.com/2023053014163498103.html</id>
-        <link href="https://0xzx.com/2023053014163498103.html"/>
-        <updated>2023-05-30T06:16:36.000Z</updated>
-        <summary type="html"><![CDATA[MarsBit消息，Solana联合创始人Raj Gokal表示，Solana有潜力成为加密货币领域的苹果。多年来 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金砖国家正在就沙特阿拉伯的加入进行谈判]]></title>
-        <id>https://0xzx.com/2023053014163498101.html</id>
-        <link href="https://0xzx.com/2023053014163498101.html"/>
-        <updated>2023-05-30T06:16:19.000Z</updated>
-        <summary type="html"><![CDATA[据英国《金融时报》报道，由金砖国家（巴西、俄罗斯、印度、中国和南非）成立的位于上海的新开发银行 (NDB) 正 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么 AI 加密货币是下一个趋势？ 以下是一些值得投资的项目]]></title>
-        <id>https://0xzx.com/2023053014163498100.html</id>
-        <link href="https://0xzx.com/2023053014163498100.html"/>
-        <updated>2023-05-30T06:16:18.000Z</updated>
-        <summary type="html"><![CDATA[人工智能 (AI) 加密货币越来越受到投资者的欢迎。 人工智能是计算机科学的一部分。 从它的应用来看，可以根据 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3社交网络：资产，还是意识形态优先？]]></title>
-        <id>https://www.web3sj.com/news/70551/</id>
-        <link href="https://www.web3sj.com/news/70551/"/>
-        <updated>2023-05-30T06:11:23.000Z</updated>
-        <summary type="html"><![CDATA[我认为在 Web3 社交网络主要有两种建设路径：资产优先，或意识形态优先。资产优先路径注重用户对盈利的渴望，通过数字所有权来解锁，这将金钱放在平台的最前沿。金融化的功能允许用户在网络中消费、收藏和赚钱。]]></summary>
-        <author>
-            <name>Gao</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -186,7 +271,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[路透社：币安澳大利亚用户正以低于其他交易所的折扣价出售比特币]]></title>
+        <title type="html"><![CDATA[币安将于5月31日对BNB Smart Chain进行约1个小时的钱包维护]]></title>
+        <id>https://panewslab.com/zh/articledetails/hs386x4c.html</id>
+        <link href="https://panewslab.com/zh/articledetails/hs386x4c.html"/>
+        <updated>2023-05-30T05:56:35.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据官方公告，币安将于2023年5月31日14:00对BNB Smart Chain（BEP20）进行钱包维护，预计需要1小时，期间暂停BNB Smart Chain（BEP20）的充值和提现业务，BEP20的数字资产/代币交易将不受影响。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路透社：币安澳大利亚用户正以低于其他交易所的折价出售比特币]]></title>
         <id>https://panewslab.com/zh/articledetails/nl4djaed.html</id>
         <link href="https://panewslab.com/zh/articledetails/nl4djaed.html"/>
         <updated>2023-05-30T05:40:12.000Z</updated>
@@ -421,51 +516,6 @@ Gemini的许多竞争对手（包括Coinbase、Kraken），在4月份的市场�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[委内瑞拉Petro区块链多次宕机，且数百个钱包无故被冻结]]></title>
-        <id>https://panewslab.com/zh/articledetails/fx36zgyg.html</id>
-        <link href="https://panewslab.com/zh/articledetails/fx36zgyg.html"/>
-        <updated>2023-05-30T01:55:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据Bitcoin com报道，加密爱好者私人协会Asonacrip发布警告称，委内瑞拉官方加密货币Petro的区块链自上周以来一直面临困难，该链于5月24日停止，随后于5月27日再次开始生产区块，但在仅产出4个区块后于5月28日再次停止。Petro链在首次宕机后的几个小时，数百个Petro钱包在没有通知的情况下被冻结，其中大多数属于该社区的活跃成员。
-据悉，自两个多月该国国家加密资产监管机构“Sunacrip”干预以来，法定货币的提款也被冻结。目前，Sunacrip和petro官方支持账户均未对报告的问题进行更新。此前Sunacrip负责人Joselit Ramirez因涉嫌参与一项价值数十亿美元的加密腐败计划而被捕，随后该机构正由一个干预委员会临时管理。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国总统候选人小罗伯特·肯尼迪称其若当选将向SEC提名加密友好人士]]></title>
-        <id>https://panewslab.com/zh/articledetails/o9lx0sqw.html</id>
-        <link href="https://panewslab.com/zh/articledetails/o9lx0sqw.html"/>
-        <updated>2023-05-30T01:40:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据Bitcoin com报道，美国总统候选人小罗伯特·肯尼迪(Robert F. Kennedy Jr.)表示，他不希望证券交易委员会(SEC)出现反加密货币人士。他还抨击证券监管机构保护银行而不是美国人民。他说：“他们所做的事情模糊不清，不透明，也没有给我们的制度带来透明度。”
-肯尼迪在接受采访时表达了对比特币的钦佩，同时批评了SEC对加密货币行业的监管方式。他表示，如果他当选总统，他打算向美国证券交易委员会提名加密货币友好人士。
-此前消息，罗伯特•肯尼迪宣布接受比特币竞选捐款。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国德州立法会议仍未对加密法案进行决议，立法进展或要等到明年]]></title>
-        <id>https://panewslab.com/zh/articledetails/yd5b3c99.html</id>
-        <link href="https://panewslab.com/zh/articledetails/yd5b3c99.html"/>
-        <updated>2023-05-30T01:29:10.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据Cointelegraph报道，美国德克萨斯州第88届立法会议将于美国时间5月29日结束，涉及数字资产领域方面的法案仍没有任何决议。立法者可能无法处理该提案，直到2025年1月下一次常规会期开始。
-据悉，该提案已于4月24日移交给国家事务委员会，旨在修改德克萨斯州公用事业和税收法规中的条款，以增加对加密挖矿公司的限制。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国国家警察厅拟将其“加密资产交易确认系统”应用于币安]]></title>
-        <id>https://panewslab.com/zh/articledetails/w03jry3l.html</id>
-        <link href="https://panewslab.com/zh/articledetails/w03jry3l.html"/>
-        <updated>2023-05-30T01:21:33.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据Edaily报道，韩国国家警察厅将于今日下午与韩国前5大加密交易所（Upbit、Bithumb、Coinone、Korbit和Gopax）和币安会面，召开“虚拟资产交易所工作会议”。该会议将讨论一项计划，即韩国国家警察厅希望将其“加密资产交易确认系统”应用于币安，以便对币安进行刑事调查。
-该系统可查询交易所上的钱包地址并可快速申请冻结资金，警方只要搜索正在调查的加密钱包地址，就会告知5大交易所。去年10月韩国前5大加密交易所已加入该系统，截止目前已有2086名侦查人员在使用该系统。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nostr 的隐私悖论与对比特币隐私的改善]]></title>
         <id>https://www.defidaonews.com/article/6819938</id>
         <link href="https://www.defidaonews.com/article/6819938"/>
@@ -476,37 +526,6 @@ Gemini的许多竞争对手（包括Coinbase、Kraken），在4月份的市场�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stargate DAO关于禁用Fantom流动性池和跨链路径的提案已获投票通过]]></title>
-        <id>https://panewslab.com/zh/articledetails/qetb7hnr.html</id>
-        <link href="https://panewslab.com/zh/articledetails/qetb7hnr.html"/>
-        <updated>2023-05-30T01:05:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，Stargate DAO关于禁用Fantom流动性池和跨链路径的提案投票已结束，并以93.98%的支持率获得通过。
-该提案表示，为降低Stargate及其流动性提供者的风险，Stargate应该删除Fantom USDC池，并从池中移除所有DAO控制的资金，因此提议禁用Fantom流动性池和跨链路径。根据该提案，将Fantom流动性池中的STG排放设置为0，断开Fantom流动性池与所有其他池的连接，通过Multichain移除任何USDC POL，然后将POL存入以太坊USDC池，同时将现有LP列入白名单，以便将他们的LP赎回到任何其他链。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5.15-5.29 两周观察】债务拉锯，加息疑云，监管落地]]></title>
-        <id>https://www.defidaonews.com/article/6819934</id>
-        <link href="https://www.defidaonews.com/article/6819934"/>
-        <updated>2023-05-30T01:04:03.000Z</updated>
-        <summary type="html"><![CDATA[美联储加息是否到顶，以及香港和欧盟对于加密行业的监管成文落地也为加密市场带来了新的变量。]]></summary>
-        <author>
-            <name>Mochi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港加密新政即将生效！盘点值得投资的6个加密项目]]></title>
-        <id>https://www.defidaonews.com/article/6819894</id>
-        <link href="https://www.defidaonews.com/article/6819894"/>
-        <updated>2023-05-30T01:00:03.000Z</updated>
-        <summary type="html"><![CDATA[香港加密监管新规将于6月1日起正式生效]]></summary>
-        <author>
-            <name>veDAO研究院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[孔剑平：理想主义的践行者]]></title>
         <id>https://www.theblockbeats.info/news/42247</id>
         <link href="https://www.theblockbeats.info/news/42247"/>
@@ -514,27 +533,6 @@ Gemini的许多竞争对手（包括Coinbase、Kraken），在4月份的市场�
         <summary type="html"><![CDATA[种一棵树最好的时间是十年前，其次是现在]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：Ordinals铸造铭文总量突破1000万枚，累计费用收入约4414万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/bntociy9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/bntociy9.html"/>
-        <updated>2023-05-30T00:47:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，Dune数据显示，比特币NFT协议Ordinals铸造铭文总量突破1000万枚，达10,018,046枚。累计费用收入达1,578.4611枚BTC，价值4414万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3凭证网络zkMe完成200万美元Pre-Seed轮融资，Circle Venture等参投]]></title>
-        <id>https://panewslab.com/zh/articledetails/1wvdswuw.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1wvdswuw.html"/>
-        <updated>2023-05-30T00:38:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据官方推特，Web3凭证网络zkMe完成200万美元Pre-Seed轮融资，Circle Venture、Spartan Group、CMS Holdings、Fenbushi Capital、NGC Ventures、Arkstream Capital等参投。zkMe计划利用新资金加速开发，在一个月内完成主网测试并上线客户注册功能。
-据悉，zkMe是一个去中心化的Web3凭证网络，它利用零知识证明来实现安全和私密的凭证发布和验证。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
