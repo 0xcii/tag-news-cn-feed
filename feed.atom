@@ -1,58 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-30T05:11:48.473Z</id>
+    <id>urn:2023-05-30T06:16:09.710Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-30T05:11:48.473Z</updated>
+    <updated>2023-05-30T06:16:09.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[ETH Research Grant第三轮资助匿名MACI投票在DoraHacks.io正式开启]]></title>
-        <id>https://0xzx.com/2023053012163497951.html</id>
-        <link href="https://0xzx.com/2023053012163497951.html"/>
-        <updated>2023-05-30T04:16:35.000Z</updated>
-        <summary type="html"><![CDATA[MarsBit消息，据官方消息，以太坊研究长期资助Grant（ETH Research Grant）第三轮资助 […]]]></summary>
+        <title type="html"><![CDATA[Web3 社交网络：资产，还是意识形态优先？]]></title>
+        <id>https://www.web3sj.com/news/70551/</id>
+        <link href="https://www.web3sj.com/news/70551/"/>
+        <updated>2023-05-30T06:11:23.000Z</updated>
+        <summary type="html"><![CDATA[用经济利益、所有权来撬动 Web3 社交，可能是务实路径~~]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解Rollup的分类]]></title>
+        <id>https://www.web3sj.com/news/70525/</id>
+        <link href="https://www.web3sj.com/news/70525/"/>
+        <updated>2023-05-30T06:04:49.000Z</updated>
+        <summary type="html"><![CDATA[不管是 Validity Rollup 还是 Optimistic Rollup，它们都会将资料上传到 L1（例如 Ethereum），让所有人都可以透过存取 L1 来存取到该 Rollup 的资料，并藉此推导出 Rollup 最新的状态，例如 Alice 有 10 USDT、Bob 有 5 USDT。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZKML——迈向可验证人工智能的未来]]></title>
+        <id>https://www.defidaonews.com/article/6820008</id>
+        <link href="https://www.defidaonews.com/article/6820008"/>
+        <updated>2023-05-30T06:03:02.000Z</updated>
+        <summary type="html"><![CDATA[通过将可验证和无需信任的属性注入机器学习模型，区块链和 ZK 技术可以形成 AI 对齐的框架。]]></summary>
+        <author>
+            <name>行业前沿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索PlanetIX：解读区块链游戏运营的奥秘]]></title>
+        <id>https://www.web3sj.com/news/70519/</id>
+        <link href="https://www.web3sj.com/gamefinews/70519/"/>
+        <updated>2023-05-30T06:02:11.000Z</updated>
+        <summary type="html"><![CDATA[空投是区块链项目中常用的营销策略，是指通过免费分发代币来引起潜在用户的关注，激励社区参与并奖励早期采用者的过程。空投通常会针对满足特定条件的用户进行代币分发，例如持有特定代币数量或完成特定任务的用户。代币通常会直接发放到用户的钱包中，十分简单高效。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[路透社：币安澳大利亚用户正以低于其他交易所的折扣价出售比特币]]></title>
+        <id>https://panewslab.com/zh/articledetails/nl4djaed.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nl4djaed.html"/>
+        <updated>2023-05-30T05:40:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据路透社报道，币安澳大利亚分支机构（Binance Australia）的比特币价格周二比当地其他加密交易所的比特币价格低近9,000澳元（约5860美元），表明其用户正在寻求迅速平仓。
+比特币在Binance Australia的价格约为34,000澳元（23,062.20美元），而澳大利亚加密货币交易所BTC Markets的价格为43,000澳元（约28000美元）。比特币在澳大利亚境外的报价为27,790美元。
+本月早些时候，币安表示，在第三方服务提供商切断其服务后，澳大利亚的一些客户将无法存取款。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文简析全链游戏引擎]]></title>
+        <id>https://www.defidaonews.com/article/6819998</id>
+        <link href="https://www.defidaonews.com/article/6819998"/>
+        <updated>2023-05-30T05:34:46.000Z</updated>
+        <summary type="html"><![CDATA[像《黑暗森林》这样的全链游戏已经证明，你可以把游戏逻辑都放在链上，且由于其具有无许可的互操作性]]></summary>
+        <author>
+            <name>IOSG Ventures</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：Lido势不可挡吗?]]></title>
+        <id>https://www.defidaonews.com/article/6819996</id>
+        <link href="https://www.defidaonews.com/article/6819996"/>
+        <updated>2023-05-30T05:29:31.000Z</updated>
+        <summary type="html"><![CDATA[流动性质押巨头规模越来越大，担忧也越来越多]]></summary>
+        <author>
+            <name>MarsBit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suave：提升以太坊交易处理效率的新利器]]></title>
+        <id>https://www.defidaonews.com/article/6819980</id>
+        <link href="https://www.defidaonews.com/article/6819980"/>
+        <updated>2023-05-30T05:25:10.000Z</updated>
+        <summary type="html"><![CDATA[通过Flashbot团队推出的Suave功能，以太坊的MEV交易处理得到了进一步的改进和优化。]]></summary>
+        <author>
+            <name>WebX实验室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tribe Capital拟推出2.5亿美元印度专项基金，将投资AI、金融科技等领域]]></title>
+        <id>https://panewslab.com/zh/articledetails/0u635s9h.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0u635s9h.html"/>
+        <updated>2023-05-30T05:18:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据印度经济时报报道，Tribe Capital计划推出规模达2.5亿美元印度专项基金。Tribe India Venture AIF Fund I将与Trible Capital旗下全球基金分开运营，并将专注于加大在人工智能、软件和金融科技领域的投资。
+Tribe Capital此前已支持大量加密货币平台和Web3初创公司，包括FTX、Kraken、Binance US等。去年旗下孵化器项目Tribe Crypto Labs融资2500万美元。
+此前4月消息，彭博社报道称，Tribe Capital拟为潜在的FTX重启计划筹资2.5亿美元，已获1亿美元支持。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新项目烧掉 36 亿柴犬，共计 11B]]></title>
+        <id>https://0xzx.com/2023053013173498039.html</id>
+        <link href="https://0xzx.com/2023053013173498039.html"/>
+        <updated>2023-05-30T05:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Blaze代币 在过去 24 小时内销毁超过 36 亿个 SHIB，每月销毁 115.5 亿个。 Bl […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google 将为 Pixel Call Screen 带来新功能]]></title>
-        <id>https://0xzx.com/2023053012163497950.html</id>
-        <link href="https://0xzx.com/2023053012163497950.html"/>
-        <updated>2023-05-30T04:16:16.000Z</updated>
-        <summary type="html"><![CDATA[在 Pixel 手机上，Google 带来了 Pixel Call Screen 的更新。 在此更新中，该公司 […]]]></summary>
+        <title type="html"><![CDATA[国家区块链技术（能源领域）创新中心成立，聚焦能源数字化]]></title>
+        <id>https://0xzx.com/2023053013163498038.html</id>
+        <link href="https://0xzx.com/2023053013163498038.html"/>
+        <updated>2023-05-30T05:16:20.000Z</updated>
+        <summary type="html"><![CDATA[MarsBit消息，5月29日，2023中关村论坛“区块链+隐私计算发展论坛”在京举行。国家区块链技术（能源领 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit 的 NFT 销售额达到 1.6 亿雷亚尔]]></title>
-        <id>https://0xzx.com/2023053012163497949.html</id>
-        <link href="https://0xzx.com/2023053012163497949.html"/>
-        <updated>2023-05-30T04:16:15.000Z</updated>
-        <summary type="html"><![CDATA[以与加密货币社区的联系而闻名的社交网络 Reddit 正乘着其 NFT 系列所谓的“Reddit Collec […]]]></summary>
+        <title type="html"><![CDATA[赵长鹏：币安有限的透明度是合理的，主流媒体对行业倾向于负面报道]]></title>
+        <id>https://panewslab.com/zh/articledetails/lh9clckk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/lh9clckk.html"/>
+        <updated>2023-05-30T05:16:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据Cryptoslate报道，币安首席执行官赵长鹏在接受Bankless采访时表示，福布斯、英国金融时报和路透社等主流新闻源倾向于对加密货币进行负面报道，而币安因其庞大的规模而特别吸引FUD。
+赵长鹏表示，币安的目标是“尽可能透明”，但透明度是有限度的。他认为，如果币安公开其所有钱包地址，就会暴露币安的供应商和合作伙伴，从而损害隐私和安全并影响竞争。赵长鹏表示，币安遵守全球法规。由于币安的规模，监管机构在更大程度上将其“置于显微镜下”。
+赵长鹏还指出，币安曾一度考虑收购一家银行，但发现这需要广泛遵守当地法规。银行的成本很高，风险很高，而且往往利润不高。他还评论了加密货币市场的现状。市场正在从2022年的熊市中复苏。这让市场“喜忧参半”，因为目前还不清楚未来什么会推动“爆炸式增长”。
+相关阅读：赵长鹏最新专访：被监管“置于显微镜下”，市场正在熊市中复苏]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么新的卡诺州长阿巴优素福要没收甘杜杰出售的公共资产]]></title>
+        <id>https://0xzx.com/2023053013153498037.html</id>
+        <link href="https://0xzx.com/2023053013153498037.html"/>
+        <updated>2023-05-30T05:15:12.000Z</updated>
+        <summary type="html"><![CDATA[文章摘要 优素福省长说，在政府做出最终决定之前，所有被甘杜杰政府“不道德地掠夺”和出售的公共场所和资产都应该由 […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[根据 Avorak AI 的说法，以太坊分片是区块链性能的下一次进化]]></title>
-        <id>https://0xzx.com/2023053012153497947.html</id>
-        <link href="https://0xzx.com/2023053012153497947.html"/>
-        <updated>2023-05-30T04:15:13.000Z</updated>
-        <summary type="html"><![CDATA[以太坊 (ETH) 不断改进其网络，以保持其作为智能合约和 dApp 的领先区块链网络的地位。 根据 Avor […]]]></summary>
+        <title type="html"><![CDATA[Meta头显设备首次亮相，或成苹果最大竞争对手]]></title>
+        <id>https://0xzx.com/2023053013133498035.html</id>
+        <link href="https://0xzx.com/2023053013133498035.html"/>
+        <updated>2023-05-30T05:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Apple Inc.头显的推出无疑将成为今年混合现实领域的最大新闻。但苹果不会独占市场。Meta Platfo […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何在线观看《魔戒》第 4 季的黑暗面：从任何地方流式传输纪录片系列]]></title>
-        <id>https://0xzx.com/2023053012143497945.html</id>
-        <link href="https://0xzx.com/2023053012143497945.html"/>
-        <updated>2023-05-30T04:14:18.000Z</updated>
-        <summary type="html"><![CDATA[《魔戒之暗面》第 4 季即将到来，粉丝们比以往任何时候都更加兴奋。 对于那些不熟悉的人，广受好评的纪录片系列揭 […]]]></summary>
+        <title type="html"><![CDATA[XRP 交易量在韩国领先的加密货币交易所跃升，原因如下]]></title>
+        <id>https://0xzx.com/2023053013123498034.html</id>
+        <link href="https://0xzx.com/2023053013123498034.html"/>
+        <updated>2023-05-30T05:12:17.000Z</updated>
+        <summary type="html"><![CDATA[根据 CoinMarketCap 的数据，XRP 在韩国加密货币交易所的交易量出现大幅上涨，尤其是 Bithumb […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博社：Gemini交易量在今年1月至4月期间下降46%]]></title>
+        <id>https://panewslab.com/zh/articledetails/rs1jt838.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rs1jt838.html"/>
+        <updated>2023-05-30T05:05:18.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据彭博社报道，Kaiko数据显示，与去年9月至12月期间相比，Gemini的交易量在今年1月至4月期间下降46%，这是其降幅最大的时期之一，其降幅几乎是Coinbase平台交易量降幅的六倍。
+此外，CCData数据显示，今年4月，Gemini上大约有7.47亿美元的加密货币易手，相当于上个月全球现货交易量的0.12%。这比2月份有所上升，当时Gemini的份额触及0.07%的低点。然而，4月份的数字仍然几乎是一年前的一半，低于2017年的近5%。
+Gemini的许多竞争对手（包括Coinbase、Kraken），在4月份的市场份额都比去年同期有所增加。全球最大加密货币交易所币安的全球交易量份额从一年前的31%攀升至46%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曾受FTX事件影响的加密交易所TrigonX将重启]]></title>
+        <id>https://panewslab.com/zh/articledetails/zm7mjmo6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zm7mjmo6.html"/>
+        <updated>2023-05-30T05:01:58.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，据Cointelegraph报道，澳大利亚加密货币交易所TrigonX将重新启动，目前已通过公司筹划协议，并得到债权人的批准。其公司董事Matteo Salerno表示，恢复向债权人派发“更好、更确定且更有利的股息”将是比清算更好的方案。
+据悉，TrigonX成立于2014年，是去年FTX破产事件中受影响的众多机构之一。在无法满足提现需求后，TrigonX于2022年12月16日任命管理人。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊会议确定为EIP-4844执行一项更新，并在Devnet 6启动前进行测试]]></title>
+        <id>https://panewslab.com/zh/articledetails/bj53hopz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/bj53hopz.html"/>
+        <updated>2023-05-30T04:13:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 5月30日消息，以太坊社区开发人员terence.eth在推特上分享了昨日举行的第22次EIP-4844实施者电话会议内容，会议主要涵盖三大主题：1.Deneb引擎API版本控制；2.将“data_gas_used”添加至执行标头；3.Devnet 6范围和测试更新。
+其中，会议已确定在EIP-4844更新中将“data_gas_used”添加至执行标头，因为之前使用的EIP1559中，常规基本费用是使用当前标头计算的。在EIP4844中，数据gas计算使用父标头而不是当前标头，excess_data_gas是下一个区块的定价，而base_fee是当前区块的定价。此外，会议决定为让Devnet 6涵盖“data_gas_used”更新，在“data_gas_used”转移至Devnet 6之前，使用另一个从属于EIP4844的测试网进行测试。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -477,69 +618,6 @@ BRC-20 + ERC-1155 = BRC-1155
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：ben.eth疑似动用其项目预售资金中的485 ETH买入两个项目的NFT]]></title>
-        <id>https://panewslab.com/zh/articledetails/n57lm0tp.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n57lm0tp.html"/>
-        <updated>2023-05-30T00:30:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，推特用户CryptoFinally引援链上数据称，链上标记为“ben.eth”的钱包将485（约100万美元）枚ETH转至链上标记为“Ben Waifu TV wallet”的钱包，随后该钱包将这485枚ETH用于买入NFT项目“Nakamigos”与“Bonklers”。CryptoFinally称这疑似动用了其项目的预售资金。
-据悉，加密KOL ben.eth此前推出新Meme币项目PSYOP，该代币的供应量的93.45%由Ben以“ben.eth”的钱包持有。
-相关阅读：站在Meme风口下，Ben是如何从无名小辈成为加密新传奇？]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Dorado Exchange疑似被攻击，损失约58万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/5yw4g8kz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/5yw4g8kz.html"/>
-        <updated>2023-05-30T00:08:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，Proximity Labs研究员Res发推表示，永续DEX El Dorado Exchange（EDE）疑似被攻击，损失约58万美元，某地址一直在向Arbitrum的ELP-1池发送小额资金，并在之后立即提取大额资金。
-攻击者已在链上发送了两条消息，表示“你好，我不是黑帽黑客”，“EDE管理员创建了一个机器人，可以在他们喜欢的时候强制平仓，问问管理员，看看他们是否对你撒谎”。该地址为0x80826e9801420e19a948b8ef477fd20f754932dc。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国比特币挖矿税提案已被取消]]></title>
-        <id>https://panewslab.com/zh/articledetails/nxilp2n6.html</id>
-        <link href="https://panewslab.com/zh/articledetails/nxilp2n6.html"/>
-        <updated>2023-05-29T23:34:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据CryptoPotato报道，美国俄亥俄州众议员Warren Davidson证实，拜登政府对美国所有比特币矿工征收30%税的联邦预算提案已被取消。他于周日分享了新提议的债务上限协议文本，协议主要内容包括在2025年1月1日之前完全暂停债务上限，同时实施一系列削减开支的措施，包括限制非国防开支等。比特币矿企Riot Platforms研究副总裁Pierre Rochard指出，该协议没有提及政府此前提议的数字资产矿业能源(DAME)税。Davidson随后证实该提案已被取消。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本央行确认已启动CBDC试点项目]]></title>
-        <id>https://panewslab.com/zh/articledetails/gibtw9pf.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gibtw9pf.html"/>
-        <updated>2023-05-29T22:08:59.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据Cointelegragh报道，日本央行(BOJ)发布了其CBDC概念验证(PoC)试验第二阶段的结果，并确认其CBDC试点项目已于4月如期启动。第二阶段PoC试验为期一年，从2022年4月持续至2023年3月，测试了实施CBDC持有量上限的技术，以“确保金融体系稳定”。未来将建立CBDC论坛，以获取私营企业的意见。日本央行表示，将在2026年之前就发行CBDC做出最终决定。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PancakeSwap正式上线GameFi平台Pancake Protectors]]></title>
-        <id>https://panewslab.com/zh/articledetails/hp6cyvro.html</id>
-        <link href="https://panewslab.com/zh/articledetails/hp6cyvro.html"/>
-        <updated>2023-05-29T21:29:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，据官方消息，PancakeSwap宣布其GameFi平台Pancake Protectors已正式上线主网。玩家可获得NFT和原生代币CAKE奖励。游戏支持第三方NFT部署，玩家可以将其BAYC、MAYC或其它NFT集成为头像。目前CAKE报1.72美元，24小时内上涨5.31%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jimbos Protocol：若黑客归还90%的资金，则放弃追究]]></title>
-        <id>https://panewslab.com/zh/articledetails/g8wuaci0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/g8wuaci0.html"/>
-        <updated>2023-05-29T21:12:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 5月30日消息，Jimbos Protocol推特发文称，过去24小时一直在与安全专家合作，并已找到有用线索。团队已向攻击者提议，表示若归还90%的资金，则放弃追究。否则将起诉攻击者，直到其被捕入狱。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-5.29）]]></title>
         <id>https://www.web3sj.com/?p=70436</id>
         <link href="https://www.web3sj.com/news/70436/"/>
@@ -611,16 +689,6 @@ NFT 变 Vtuber
         <summary type="html"><![CDATA[场内资金持续流出，OP与1INCH分别迎来价值约2.55亿与1.01亿美元的超大额解锁]]></summary>
         <author>
             <name>GWEI Research</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 月获顶级加密 VCs 投资的这 27 个项目，都是什么来头？]]></title>
-        <id>https://www.defidaonews.com/article/6819858</id>
-        <link href="https://www.defidaonews.com/article/6819858"/>
-        <updated>2023-05-29T08:48:54.000Z</updated>
-        <summary type="html"><![CDATA[一文了解 27 个在 4 月获得顶级加密 VC 投资的项目]]></summary>
-        <author>
-            <name>白泽研究院</name>
         </author>
     </entry>
     <entry>
@@ -702,16 +770,6 @@ http://glassnode.com  优点是：代币的数据维度多，缺点是支持代
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[香港反洗钱新规生效，合规要点全整理]]></title>
-        <id>https://www.defidaonews.com/article/6819854</id>
-        <link href="https://www.defidaonews.com/article/6819854"/>
-        <updated>2023-05-29T07:21:48.000Z</updated>
-        <summary type="html"><![CDATA[细化对虚拟资产交易平台之于反洗钱的监管有助于提升香港地区的市场透明度、推动虚拟资产交易的长远发展。]]></summary>
-        <author>
-            <name>肖飒</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[表情包改变游戏规则，Meme在Web3营销中如何发力？]]></title>
         <id>https://www.web3sj.com/news/70395/</id>
         <link href="https://www.web3sj.com/news/70395/"/>
@@ -762,46 +820,6 @@ http://glassnode.com  优点是：代币的数据维度多，缺点是支持代
 3）zkSync 生态多元创新性还不…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链项目融资，SAFT真的管用吗？]]></title>
-        <id>https://www.defidaonews.com/article/6819842</id>
-        <link href="https://www.defidaonews.com/article/6819842"/>
-        <updated>2023-05-29T06:29:22.000Z</updated>
-        <summary type="html"><![CDATA[SAFT的法律效力如何？真的能满足中国创业团队的法律合规需求吗？本篇文章我们就来聊一聊。]]></summary>
-        <author>
-            <name>曼昆区块链</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘智慧投资: 如何追踪「聪明钱」]]></title>
-        <id>https://www.web3sj.com/news/70376/</id>
-        <link href="https://www.web3sj.com/news/70376/"/>
-        <updated>2023-05-29T06:03:48.000Z</updated>
-        <summary type="html"><![CDATA[追踪加密货币钱包主要有三步：发现钱包、收集钱包链上交易的深度数据，以及将前两步获取的数据翻译成有用的信息。通过这些，投资者可以了解到「聪明」的投资者的行动，并可能使用来自显著钱包所做的动作的线索预测市场动向。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上线两个月，zkSync Era生态进展如何？]]></title>
-        <id>https://www.web3sj.com/news/70369/</id>
-        <link href="https://www.web3sj.com/news/70369/"/>
-        <updated>2023-05-29T06:00:39.000Z</updated>
-        <summary type="html"><![CDATA[简单来说，zk 电路逐个交易 proof 的机制天然成本高，须要生态数据达到一定体量后，其交易速率、GAS 成本、丝滑体验等才能达到均衡状态。这是量变到质变的过程，需要且走且看。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[透析525页欧盟监管条例：只有3类加密资产获批]]></title>
-        <id>https://www.web3sj.com/news/70365/</id>
-        <link href="https://www.web3sj.com/news/70365/"/>
-        <updated>2023-05-29T05:57:08.000Z</updated>
-        <summary type="html"><![CDATA[条例分为 9 大部分，每章内容对所有加密相关领域进行了梳理（括号中页码为原 PDF 页码，非欧盟文件中页码，欧盟标注页码与 PDF 页码有 2 页的差异）]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -890,16 +908,6 @@ Source：NFTGo
 序数（…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对比OP、ARB和传闻Layerzero的空投标准，如何用50美元高质量交互？]]></title>
-        <id>https://www.defidaonews.com/article/6819808</id>
-        <link href="https://www.defidaonews.com/article/6819808"/>
-        <updated>2023-05-29T03:10:48.000Z</updated>
-        <summary type="html"><![CDATA[保姆级Layerzero交互教程]]></summary>
-        <author>
-            <name>PANews</name>
         </author>
     </entry>
     <entry>
