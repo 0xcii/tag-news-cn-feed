@@ -78,7 +78,7 @@
           "description": "一边签字，一边前往即将为AI立法的欧洲游说。",
           "link": "https://www.defidaonews.com/article/6820298",
           "publishedOn": "2023-06-01T02:33:24.000Z",
-          "wordCount": 236,
+          "wordCount": 226,
           "title": "签名支持全球管控AI，三巨头侧漏“求生欲”",
           "imageUrl": "https://appserversrc.8btc.cn/FmfOdZngTA3k2JSUZHMvIjhe1pxt.png?imageView2/1/w/500/h/300"
         },
@@ -170,12 +170,72 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/news/71314/",
+          "author": "Gao",
+          "description": "过于一个月，6 个主要的衍生品 DEX 协议中，5 个呈现交易量下降的趋势，只有 Kwenta 出现了逆势增长的趋势。Kwenta 是建立在 Synthetix 上的 perp 前端，贡献了 synthetix 超过 95% 的交易量增长和收入增长。Synthetix 则是流动性提供协议，拥有超过 4 亿美元的 TVL，为 Kwenta 等前端提供流动性池子。",
+          "link": "https://www.web3sj.com/definews/71314/",
+          "publishedOn": "2023-06-01T03:36:13.000Z",
+          "wordCount": 1030,
+          "title": "衍生品DEX争夺战：Kwenta、Level周内交易量超越GMX",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685590982196.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/71308/",
+          "author": "Gao",
+          "description": "瑞士是领头羊中的典范。瑞士位于欧洲中心，以其「加密谷」而闻名，现在是区块链业务的热点中心，业务遍布楚格、苏黎世、日内瓦和纳沙泰尔等城市。它不是欧盟的成员国，但它通过一系列双边条约与欧盟有联系。",
+          "link": "https://www.web3sj.com/news/71308/",
+          "publishedOn": "2023-06-01T03:34:09.000Z",
+          "wordCount": 657,
+          "title": "全球区块链加密人才之争，美国正面临着巨大挑战",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/bf2560db8985b1de71e56ddd7150e96a.webp"
+        },
+        {
+          "id": "https://www.web3sj.com/news/71304/",
+          "author": "Gao",
+          "description": "Abyss World 是一款第三人称 ARPG 开放世界游戏，依托在高性能公链 Sui 网络上，后拓展为 Sui 与 Polygon 并行的多链游戏。游戏背景设立在设定在一个名为「诺迪尼亚」的充满古老秘密的架空世界中，玩家可以在游戏中探索这个庞大的世界，朝着「深渊的秘密」方向一步步解密。",
+          "link": "https://www.web3sj.com/gamefinews/71304/",
+          "publishedOn": "2023-06-01T03:30:41.000Z",
+          "wordCount": 893,
+          "title": "解析Abyss World：Sui生态3A大作，12万Steam愿望清单，能否承载链游新希望？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685590408405.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/71297/",
+          "author": "Gao",
+          "description": "GBRC721 协议全称为 generative-brc-721，创始人叫 Jerry ( 推特账号@0xJerry543），Jerry 也是比特币 NFT 项目 DogePunks 的发起人。根据 GBRC721 协议文档，其可以节省所有链上资源，同时实现 50%-90% 的区块空间优化，从而容纳更多创作者并促进创新。同时解决了项目不得不选择 IPFS 链外存储的问题，使得比特币链上的 NFT 可以全链存储。该方案也不用再依赖第三方检索支持。",
+          "link": "https://www.web3sj.com/news/71297/",
+          "publishedOn": "2023-06-01T03:25:59.000Z",
+          "wordCount": 869,
+          "title": "详解由OrdiBots千倍涨幅带火的GBRC-721协议及其生态项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685590079472.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/71292/",
+          "author": "Gao",
+          "description": "投资银行巨头高盛最近在一份报告中表示，尽管政策制定者努力提振市场情绪，但人民币可能将面临更多贬值空间。 一些观察人士认为，中国人民银行为遏制人民币波动而进行的潜在干预可能会加速美元指数的上涨，并加剧加密市场的困境。",
+          "link": "https://www.web3sj.com/news/71292/",
+          "publishedOn": "2023-06-01T03:22:10.000Z",
+          "wordCount": 660,
+          "title": "美元走强人民币持续贬值，加密市场或再承压",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685589826204.png"
+        },
+        {
+          "id": "https://www.web3sj.com/news/71286/",
+          "author": "Gao",
+          "description": "ML 在 web3 之外的大多数应用程序中被广泛应用，在智能合约中的应用几乎是零。其主要是由于在链上运行这些模型的计算成本很高。例如，FastBERT 是一种计算优化语言模型，使用约 1800 MFLOPS（百万浮点运算），这无法直接在 EVM 上运行。",
+          "link": "https://www.web3sj.com/news/71286/",
+          "publishedOn": "2023-06-01T03:19:40.000Z",
+          "wordCount": 1202,
+          "title": "智能合约智能性的下一步：深入剖析ZKML赛道",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/38bbbf6aea35bfe1b798c9ad1afdd784.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/news/71252/",
           "author": "Gao",
-          "description": "本文将从数据、应用、事件等层面，讨论 Sui 生态的当前现状。",
+          "description": "作为 Sui 长期的观察者和生态投资者，我认为我们有责任诚实地讨论一下 Sui 生态发生了什么。本文将从数据、应用、事件等层面，讨论 Sui 生态的当前现状。",
           "link": "https://www.web3sj.com/news/71252/",
           "publishedOn": "2023-06-01T02:56:24.000Z",
-          "wordCount": 1179,
+          "wordCount": 1321,
           "title": "上线近一个月，Sui生态发展如何？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685588659366.png"
         },
@@ -185,7 +245,7 @@
           "description": "仅在上一个财政季度，负责 VR 和元宇宙的 Meta Reality Labs 部门就被报道 42.79 亿美元的运营亏损。Meta 现在专注于构建 LLaMA，这是他们为了竞争 ChatGPT 和 Bard 开发的大语言模型 。生成式人工智能的兴起似乎可能缓慢扼杀元宇宙，或者会扼杀吗？",
           "link": "https://www.web3sj.com/news/71249/",
           "publishedOn": "2023-06-01T02:55:42.000Z",
-          "wordCount": 703,
+          "wordCount": 731,
           "title": "生成式AI的兴起如何杀死元宇宙，或拯救它？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685588125359.png"
         },
@@ -195,7 +255,7 @@
           "description": "波卡无论在系统建设，还是在致力于系统可持续发展的治理方面都表现出「蓝图设计、纲领性原则」指导下的有序开展。在系统建设方面，波卡遵循「最小、简单、通用、健壮」的「波卡哲学」；在治理方面，早在 2019 年 1 月 Gavin Wood 在《治理》一文中就提出一个关键且永恒的基本原则，基于该基本原则衍生出相应的治理规则，本文将其归纳总结为「一项基本原则，四项核心规则」。",
           "link": "https://www.web3sj.com/project/71243/",
           "publishedOn": "2023-06-01T02:44:57.000Z",
-          "wordCount": 807,
+          "wordCount": 805,
           "title": "一文了解Polkadot链上治理",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685587504440.png"
         },
@@ -205,69 +265,9 @@
           "description": "$LBR 最近表现非常出色。Lybra 是 eUSD 背后的项目，它是由 LSDs（stETH）支持的利息稳定币。其总锁仓价值在 3 周内从 1600 万美元增加到 1.6 亿美元，任何人都可以用 0 手续费借贷 $eUSD 抵押 $stETH。",
           "link": "https://www.web3sj.com/definews/71231/",
           "publishedOn": "2023-06-01T02:42:19.000Z",
-          "wordCount": 837,
+          "wordCount": 834,
           "title": "链上数据洞察：哪些协议增长最快？趋势和叙事在哪？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023053114261783848370.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/71217/",
-          "author": "Gao",
-          "description": "简而言之，跨链交换是一种以最小化信任的方式，在不同的区块链之间交换由一个区块链发行的通证和另一个区块链发行的通证的机制。",
-          "link": "https://www.web3sj.com/knowledge/71217/",
-          "publishedOn": "2023-06-01T02:36:52.000Z",
-          "wordCount": 647,
-          "title": "科普｜什么是跨链交易?",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685587276701.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/71210/",
-          "author": "Gao",
-          "description": "Moonbirds 的起步非常有前景，上万人报名参加了他们的预售，发售价格是 2.5 ETH，其创始人 Kevin Rose 更被誉为「NFT 教主」，接着几天和几周内，底价飙升至 40 ETH （按当时价值约为 12 万美元），而从那以后，地板下跌了超过 95% 。比其他任何同期的蓝筹 NFT 项目跌幅都大。",
-          "link": "https://www.web3sj.com/news/71210/",
-          "publishedOn": "2023-06-01T02:34:07.000Z",
-          "wordCount": 780,
-          "title": "复盘Moonbirds「六宗罪」：蓝筹NFT的教训",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685586947415.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/71158/",
-          "author": "Gao",
-          "description": "坎昆升级是以太坊上海升级后的下一次升级，之所以叫坎昆升级，是以太坊升级惯例用以太坊开发者大会举办的城市来命名，下次大会的城市刚好在墨西哥的城市坎昆。每一次升级都会纳入几个非常重要的提案，这些提案的目的是为了更好地解决区块链三难问题，以提升性能和使用体验。",
-          "link": "https://www.web3sj.com/news/71158/",
-          "publishedOn": "2023-05-31T12:26:18.000Z",
-          "wordCount": 881,
-          "title": "以太坊新分片：坎昆升级EIP-4844利好哪些赛道",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1685536101220.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/71145/",
-          "author": "Gao",
-          "description": "作为最早在 zkSync 2.0 测试网上部署永续合约产品的 DeFi 项目，Phezzan Protocol 也曾伴随着 zkSync 2.0 的技术升级而迭代过数版产品，然而令人唏嘘的是，在 zkSync 2.0 正式上线主网并更名为 zkSync Era 后不久，曾被寄予厚望的 Phezzan Protocol 却过早地迎来了失败的结局。",
-          "link": "https://www.web3sj.com/news/71145/",
-          "publishedOn": "2023-05-31T12:21:42.000Z",
-          "wordCount": 751,
-          "title": "一名Web3创业失败者的自述",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1685535822663.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/71140/",
-          "author": "Gao",
-          "description": "炙手可热的比特币协议 Ordinals 在周一抵达一个可观的新里程碑，就在其创建者表明他将退缩的几天后。但是 Casey Rodarmor 不会完全消失，项目的新看守人告诉 Decrypt。",
-          "link": "https://www.web3sj.com/news/71140/",
-          "publishedOn": "2023-05-31T12:19:41.000Z",
-          "wordCount": 751,
-          "title": "比特币Ordinals铭文突破千万，协议创始人却隐退了",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/b7d0fc24b4a21d0f492906dd1fcde117.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/news/71131/",
-          "author": "Gao",
-          "description": "借贷是任何金融体系的基石。在贷方从闲置现金中获得回报的同时，借款人也快速获得了周转资金。DeFi 领域的借贷市场中超额抵押占据主导，超额抵押意味着借款人必须存入超过贷款价值的抵押品。例如，借款人要借入 5,000 美元 USDC，需要提供 10,000 美元的 ETH 作为抵押品。",
-          "link": "https://www.web3sj.com/definews/71131/",
-          "publishedOn": "2023-05-31T12:15:29.000Z",
-          "wordCount": 826,
-          "title": "TVL已不足DeFi的1%，无抵押贷款还有希望吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/05/1685535533704.png"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "description": "PANews 6月1日消息，LSDFi协议unshETH今日凌晨在推特上正式对昨晚的安全事件做出了回应。unshETH表示，5月31日22:00左右，unshETH合约的其中一个部署私钥被泄露。出于谨慎起见，官方紧急暂停了unshETH的ETH的提款，根据安全模型，unshETH的ETH存款（TVL达3500万美元）由多重签名+时间锁保护，并不处于风险之中。\n此外一些附属协议合约（流动性矿池、跨链桥等）已经受到了攻击，正在与来自Coinbase、Stargate、Paladin Blockchain Security、Github以及ogle等白帽安全专家合作，以确保用户资金的安全，并预计影响范围将受到限制。同时官方已经联系黑客，试图协商返还资金和合约所有权，以限制对现有用户的影响。\n此前昨日消息，unshETH的金库疑似出现安全问题，用户需尽快将资金转出。",
           "link": "https://panewslab.com/zh/articledetails/y2po7w76.html",
           "publishedOn": "2023-06-01T01:15:16.000Z",
-          "wordCount": 406,
+          "wordCount": 409,
           "title": "unshETH：合约部署私钥被泄露，已紧急暂停提款并联系黑客",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +322,7 @@
           "description": "PANews 6月1日消息，据官方推特，以太坊Layer 2网络Starknet宣布其主网已在v0.11.2版本上运行，关键特征是激活了其编程语言Cairo 1，用户现在可以在主网上部署Cairo 1合约。",
           "link": "https://panewslab.com/zh/articledetails/vvbutgjx.html",
           "publishedOn": "2023-06-01T00:09:45.000Z",
-          "wordCount": 410,
+          "wordCount": 413,
           "title": "Starknet主网已在v0.11.2版本上运行，关键特征为激活Cairo 1",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +332,7 @@
           "description": "PANews 6月1日消息，BTC.com数据显示，比特币挖矿难度于今日凌晨02:19（区块高度792288处）迎来了挖矿难度调整，挖矿难度上调3.4%至51.23 T，再创历史新高。目前全网平均算力为376.23 EH/s。",
           "link": "https://panewslab.com/zh/articledetails/allqptjj.html",
           "publishedOn": "2023-05-31T23:57:09.000Z",
-          "wordCount": 377,
+          "wordCount": 374,
           "title": "比特币挖矿难度上调3.4%至51.23 T，再创历史新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -442,7 +442,7 @@
           "description": "PANews 6月1日消息，加密货币交易所Gate.io发布关于限制提币问题的公告称，Gate.io团队当前正着眼于十周年庆典和Gate Group 旗下交易平台Gate.HK的上线工作，运营一切正常，提币顺畅，并无传言的运营和提币问题，请不要相信谣言，切勿被别有用心之人误导，以免上当受骗。\nGate Group 旗下交易平台Gate.HK已于5月23日正式开启网站并开放注册和交易服务。并已根据最新的监管准备向香港证监会申请虚拟资产服务提供者（VASP）牌照。\nGate.io最后要特别提醒用户注意：Gate.io不会通过电话、短信、邮件等方式主动联系用户。如果收到任何声称来自Gate.io的主动联络，强烈建议您保持警惕，并避免向其提供个人信息或资金。",
           "link": "https://panewslab.com/zh/articledetails/sjym2946.html",
           "publishedOn": "2023-05-31T16:09:06.000Z",
-          "wordCount": 378,
+          "wordCount": 370,
           "title": "Gate公告：运营一切正常，提币顺畅，并无传言的运营和提币问题",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -459,7 +459,7 @@
           "description": "比特币耶稣Ver表示，尽管与比特币相比，以太坊没有最大的市值，但我认为以太坊在推动全球采用方面处于领先地位。如果不是发生了大规模的内战，所有这些都将建立在比特币之上。这些比特币核心开发人员讨厌 Vitalik，他们基本上把他赶出了项目，去创建以太坊，并为此赋予他更多权力。",
           "link": "https://www.hellobtc.com/news/202305/20723.html",
           "publishedOn": "2023-05-31T07:12:00.000Z",
-          "wordCount": 305,
+          "wordCount": 308,
           "title": "比特币耶稣：以太坊在推动全球采用方面处于领先地位",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -561,6 +561,36 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42289",
+          "author": null,
+          "description": "音乐NFT平台FANSI宣布与知名音乐制作人Jack Chou合作，结合人工智能技术，推出全新AI音乐生成作品。",
+          "link": "https://www.theblockbeats.info/news/42289",
+          "publishedOn": "2023-06-01T02:42:53.000Z",
+          "wordCount": null,
+          "title": "音乐NFT平台FANSI与知名制作人联手推出AI生成音乐NFT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42286",
+          "author": null,
+          "description": "Polyhedra Network团队设计并开发了基于LayerZero协议的Polyhedra zkLightClient技术，这是一种为Layer-1和Layer-2区块链网络的互操作性提供安全和高效的跨链基础设施的前沿解决方案。",
+          "link": "https://www.theblockbeats.info/news/42286",
+          "publishedOn": "2023-06-01T02:28:12.000Z",
+          "wordCount": null,
+          "title": "LayerZero与Polyhedra Network战略合作集成zkLightClient，共同推出零知识证明跨链消息传递客户端",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42283",
+          "author": null,
+          "description": "在Web3.0的发展上，新加坡具有一些先发优势，但中国香港也在努力迎头赶上。今天正式施行的《适用于虚拟资产交易平台营运者的指引》香港新规，对加密行业意味着什么？",
+          "link": "https://www.theblockbeats.info/news/42283",
+          "publishedOn": "2023-06-01T02:00:01.000Z",
+          "wordCount": null,
+          "title": "香港虚拟资产新规正式生效，Web3在香港的历史时刻",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42280",
           "author": null,
           "description": "Type!t是全球首款Web3输入法，基于加密技术和去中心化存储等功能来保护用户的使用数据和其他隐私信息，同时还具备Type To Earn、Gamefi、加密聊天、AI词库等Web3功能。",
@@ -628,36 +658,6 @@
           "publishedOn": "2023-05-30T08:52:34.000Z",
           "wordCount": null,
           "title": "梳理比特币上的Ordinals家族",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42243",
-          "author": null,
-          "description": "LSDfi是LSD的自然延伸，融入了经典的DEX和借贷协议，同时还包含了多种复杂协议，形成了一个完整的经济体系。",
-          "link": "https://www.theblockbeats.info/news/42243",
-          "publishedOn": "2023-05-30T03:00:01.000Z",
-          "wordCount": null,
-          "title": "LSDfi: 探秘 DeFi 中的新故事线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42250",
-          "author": null,
-          "description": "降低比特币 NFT 的成本，在现阶段的尝试来看是一个「让前端做得更多还是更少」的问题。",
-          "link": "https://www.theblockbeats.info/news/42250",
-          "publishedOn": "2023-05-30T02:35:08.000Z",
-          "wordCount": null,
-          "title": "在比特币上铸造NFT只要5美元？了解一下BRC-1155与GBRC-721",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42247",
-          "author": null,
-          "description": "种一棵树最好的时间是十年前，其次是现在",
-          "link": "https://www.theblockbeats.info/news/42247",
-          "publishedOn": "2023-05-30T01:00:01.000Z",
-          "wordCount": null,
-          "title": "孔剑平：理想主义的践行者",
           "imageUrl": null
         }
       ]
