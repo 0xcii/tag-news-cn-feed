@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-01T12:26:40.541Z</id>
+    <id>urn:2023-06-01T13:16:36.138Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-01T12:26:40.541Z</updated>
+    <updated>2023-06-01T13:16:36.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[a16z：解密 Web3 协议去中心化的关键要素]]></title>
+        <id>https://www.web3sj.com/news/71443/</id>
+        <link href="https://www.web3sj.com/news/71443/"/>
+        <updated>2023-06-01T13:14:54.000Z</updated>
+        <summary type="html"><![CDATA[去中心化是实现 Web3 潜力和应对监管不确定性的关键。然而，实现去中心化并非易事。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foresight Ventures：理性看待去中心化算力网络]]></title>
+        <id>https://www.web3sj.com/news/71433/</id>
+        <link href="https://www.web3sj.com/news/71433/"/>
+        <updated>2023-06-01T13:11:15.000Z</updated>
+        <summary type="html"><![CDATA[我们在讨论分布式算力在训练时的应用，一般聚焦在大语言模型的训练，主要原因是小模型的训练对算力的需求并不大，为了做分布式去搞数据隐私和一堆工程问题不划算，不如直接中心化解决。而大语言模型对算力的需求巨大，并且现在在爆发的最初阶段，2012-2018，AI 的计算需求大约每 4 个月就翻一倍，现在更是对算力需求的集中点，可以预判未来 5-8 年仍然会是巨大的增量需求。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读信标层：Rollup网络安全与跨链转账的关键]]></title>
+        <id>https://www.web3sj.com/news/71429/</id>
+        <link href="https://www.web3sj.com/news/71429/"/>
+        <updated>2023-06-01T13:08:56.000Z</updated>
+        <summary type="html"><![CDATA[今天的 Rollups 作为链下交易执行器，并在 Rollup 和以太坊之间提供了一个“原生跨链桥”。我们将这个原生跨链桥称为 Enshrined 跨链桥。该跨链桥允许用户在以太坊上锁定一个资产，并在 Rollup 上铸造一个相同价值的封装资产；相反，当 Enshrined 跨链桥确信封装资产已在 Rollup 上燃烧时，则可以解锁来自以太坊的资产。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B2Core 发布具有事件通知、电报集成和综合 cTrader 数据的新更新]]></title>
+        <id>https://0xzx.com/2023060120363504568.html</id>
+        <link href="https://0xzx.com/2023060120363504568.html"/>
+        <updated>2023-06-01T12:36:16.000Z</updated>
+        <summary type="html"><![CDATA[B2Core 是面向金融市场企业的领先 CRM 平台，已宣布一项重大更新，为金融服务公司配备强大的工具和简化的 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国投资银行 TD Cowen 关闭加密货币领域]]></title>
+        <id>https://0xzx.com/2023060120363504567.html</id>
+        <link href="https://0xzx.com/2023060120363504567.html"/>
+        <updated>2023-06-01T12:36:15.000Z</updated>
+        <summary type="html"><![CDATA[TD Cowen 将在推出一年后关闭其加密货币领域。 Cowen Digital 的关闭标志着一周内第二个机构加密货币 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Phone 2 可以获得三年的 Android 操作系统更新]]></title>
+        <id>https://0xzx.com/2023060120363504566.html</id>
+        <link href="https://0xzx.com/2023060120363504566.html"/>
+        <updated>2023-06-01T12:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Nothing Phone 2 可以获得三年的 Android 操作系统更新 虽然 Nothing Phone […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 AI 进行全站实体优化的 3 种方法]]></title>
+        <id>https://0xzx.com/2023060120353504563.html</id>
+        <link href="https://0xzx.com/2023060120353504563.html"/>
+        <updated>2023-06-01T12:35:13.000Z</updated>
+        <summary type="html"><![CDATA[准备好发现三种极其简单（但功能强大）的策略，帮助你更快、更有效地进行优化了吗？ 以下是你将在本文中学到的内容： […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bybit以新的监管发展为由宣布退出加拿大]]></title>
+        <id>https://0xzx.com/2023060120333504559.html</id>
+        <link href="https://0xzx.com/2023060120333504559.html"/>
+        <updated>2023-06-01T12:33:20.000Z</updated>
+        <summary type="html"><![CDATA[数字资产交易所 Bybit 宣布，由于与当地监管机构的反复挑战，它正在结束其在加拿大的业务。 该交易所通过其网 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合规虚拟资产交易平台 HashKey PRO 递交牌照申请以在香港开展零售业务]]></title>
         <id>https://www.defidaonews.com/article/6820430</id>
@@ -33,56 +113,6 @@
         <summary type="html"><![CDATA[PANews 6月1日消息，经PANews实测，微信搜索已支持显示比特币价格查询服务，该服务由名为“全球汇率换算”的小程序提供，能够显示比特币的实时价格。暂不支持除比特币（BTC）以外的其他加密货币。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Display 将在 iPhone 15 Pro 的 LTPO OLED 显示屏中获得更大份额]]></title>
-        <id>https://0xzx.com/2023060119343504398.html</id>
-        <link href="https://0xzx.com/2023060119343504398.html"/>
-        <updated>2023-06-01T11:34:17.000Z</updated>
-        <summary type="html"><![CDATA[根据韩国出版物 The Elec 的一份新报告，LG Display 将增加 iPhone 15 Pro 系列 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安裁员，躲避加拿大监管调查]]></title>
-        <id>https://0xzx.com/2023060119333504397.html</id>
-        <link href="https://0xzx.com/2023060119333504397.html"/>
-        <updated>2023-06-01T11:33:21.000Z</updated>
-        <summary type="html"><![CDATA[随着交易量暴跌以及数字资产交易所试图回避加拿大监管机构的调查，币安正在对其全球员工进行裁员。 星期 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[总部位于科隆的 bNear 在 Pre-Seed 中筹集了超过 100 万欧元，成为 Microsoft Teams 中的第一个虚拟办公室]]></title>
-        <id>https://0xzx.com/2023060119333504396.html</id>
-        <link href="https://0xzx.com/2023060119333504396.html"/>
-        <updated>2023-06-01T11:33:11.000Z</updated>
-        <summary type="html"><![CDATA[即使在大流行造成的干扰之后，远程工作模式和家庭办公室仍然受到许多公司的欢迎。 很明显，员工很高兴有机会在任何地 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[资深加密货币投资者谈芬尼对比特币的愿景]]></title>
-        <id>https://0xzx.com/2023060119323504395.html</id>
-        <link href="https://0xzx.com/2023060119323504395.html"/>
-        <updated>2023-06-01T11:32:11.000Z</updated>
-        <summary type="html"><![CDATA[资深加密货币投资者亚当科克伦最近在推特上讨论了比特币发展的关键人物哈尔芬尼关于加密货币未来的经常被误解的观点。 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[进退两难：隐私与个性化]]></title>
-        <id>https://0xzx.com/2023060119313504393.html</id>
-        <link href="https://0xzx.com/2023060119313504393.html"/>
-        <updated>2023-06-01T11:31:14.000Z</updated>
-        <summary type="html"><![CDATA[德勤的一项调查显示，多达 79% 的人愿意分享他们的数据，如果他们看到这样做有明显的价值的话。 但是，人们还需 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -451,36 +481,6 @@
         <summary type="html"><![CDATA[学会追踪部署地址可以让你在他人之前发现潜力项目，从而有机会获得巨大回报。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[衍生品DEX争夺战：Kwenta、Level周内交易量超越GMX]]></title>
-        <id>https://www.web3sj.com/news/71314/</id>
-        <link href="https://www.web3sj.com/definews/71314/"/>
-        <updated>2023-06-01T03:36:13.000Z</updated>
-        <summary type="html"><![CDATA[过于一个月，6 个主要的衍生品 DEX 协议中，5 个呈现交易量下降的趋势，只有 Kwenta 出现了逆势增长的趋势。Kwenta 是建立在 Synthetix 上的 perp 前端，贡献了 synthetix 超过 95% 的交易量增长和收入增长。Synthetix 则是流动性提供协议，拥有超过 4 亿美元的 TVL，为 Kwenta 等前端提供流动性池子。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球区块链加密人才之争，美国正面临着巨大挑战]]></title>
-        <id>https://www.web3sj.com/news/71308/</id>
-        <link href="https://www.web3sj.com/news/71308/"/>
-        <updated>2023-06-01T03:34:09.000Z</updated>
-        <summary type="html"><![CDATA[瑞士是领头羊中的典范。瑞士位于欧洲中心，以其「加密谷」而闻名，现在是区块链业务的热点中心，业务遍布楚格、苏黎世、日内瓦和纳沙泰尔等城市。它不是欧盟的成员国，但它通过一系列双边条约与欧盟有联系。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析Abyss World：Sui生态3A大作，12万Steam愿望清单，能否承载链游新希望？]]></title>
-        <id>https://www.web3sj.com/news/71304/</id>
-        <link href="https://www.web3sj.com/gamefinews/71304/"/>
-        <updated>2023-06-01T03:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Abyss World 是一款第三人称 ARPG 开放世界游戏，依托在高性能公链 Sui 网络上，后拓展为 Sui 与 Polygon 并行的多链游戏。游戏背景设立在设定在一个名为「诺迪尼亚」的充满古老秘密的架空世界中，玩家可以在游戏中探索这个庞大的世界，朝着「深渊的秘密」方向一步步解密。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
