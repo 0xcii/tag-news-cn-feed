@@ -1,28 +1,168 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T03:04:42.786Z</id>
+    <id>urn:2023-06-04T04:14:29.604Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-04T03:04:42.786Z</updated>
+    <updated>2023-06-04T04:14:29.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[星爵和卡魔拉的爱情故事在漫画中大不相同]]></title>
-        <id>https://0xzx.com/2023060409543510899.html</id>
-        <link href="https://0xzx.com/2023060409543510899.html"/>
-        <updated>2023-06-04T01:54:14.000Z</updated>
-        <summary type="html"><![CDATA[银河护卫队对于漫威影业来说是一个惊人的成功故事，它将当时漫威Cosmos中比较默默无闻的超级英雄团队之一变成了 MCU […]]]></summary>
+        <title type="html"><![CDATA[Kakarot 三阶段路线图：将如何赋能 Starknet 和以太坊生态]]></title>
+        <id>https://www.defidaonews.com/article/6820704</id>
+        <link href="https://www.defidaonews.com/article/6820704"/>
+        <updated>2023-06-04T04:13:08.000Z</updated>
+        <summary type="html"><![CDATA[获 Vitalik Buterin 投资、即将启动测试网的 Kakarot zkEVM 是什么？将为以太坊和 StarkWare 生态带来哪些价值赋能？]]></summary>
+        <author>
+            <name>Foresight News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话Arbitrum研究员Patrick McCorry | 如何去中心化Rollup？]]></title>
+        <id>https://www.web3sj.com/news/72311/</id>
+        <link href="https://www.web3sj.com/news/72311/"/>
+        <updated>2023-06-04T04:12:03.000Z</updated>
+        <summary type="html"><![CDATA[那么具体到底是去中心化什么？Rollup 系统中各个部分的分工是怎么样的？去中心化意味着最大化系统运行参与者吗？中心化排序器会带来什么影响？共享排序器以及 L2 本地共识应该如何设计？ZK-Rollup 中独有的证明者负责什么职能？一个开放的去中心化证明者网络是怎么样的？我们为什么需要 zk 硬件加速？数据可用性问题有什么方案可以解决？....]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吴说周精选：币安启动裁员、CNHC 团队失联、BKEX 暂停提币与新闻Top10（0527-0602）]]></title>
+        <id>https://www.defidaonews.com/article/6820694</id>
+        <link href="https://www.defidaonews.com/article/6820694"/>
+        <updated>2023-06-04T04:11:01.000Z</updated>
+        <summary type="html"><![CDATA[本周新闻Top10]]></summary>
+        <author>
+            <name>吴说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话 Arbitrum 研究员 Patrick McCorry | 如何去中心化 Rollup？]]></title>
+        <id>https://www.defidaonews.com/article/6820702</id>
+        <link href="https://www.defidaonews.com/article/6820702"/>
+        <updated>2023-06-04T04:10:22.000Z</updated>
+        <summary type="html"><![CDATA[ECN 策展了一个以“去中心化 Rollup”为主题的播客访谈系列，邀请了这个领域里的优秀创始人、研究员谈谈他们对去中心化 Rollup 的理解。]]></summary>
+        <author>
+            <name>ECN以太坊中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Messari：图解14条L1公链一季度表现]]></title>
+        <id>https://www.web3sj.com/news/72285/</id>
+        <link href="https://www.web3sj.com/news/72285/"/>
+        <updated>2023-06-04T04:09:01.000Z</updated>
+        <summary type="html"><![CDATA[这里的收入是指协议所收取的所有费用总和。由于相对较高的使用率和 gas 费，以太坊在第一季度的收入为 4.57 亿美元，几乎是所有其他 L1 总收入的 2.8 倍。收入增长最显著的是 Hedera，环比增长 489%，这在很大程度上是由其共识服务的使用增加所驱动的，该服务为 Web2 和 Web3 应用程序提供了可验证的时间戳和事件排序。这些应用包括跟踪来源，在 DAO 中计算选票，以及监控物联网设备。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakarot 三阶段路线图：将如何赋能 Starknet 和以太坊生态]]></title>
+        <id>https://www.web3sj.com/news/72281/</id>
+        <link href="https://www.web3sj.com/news/72281/"/>
+        <updated>2023-06-04T04:05:44.000Z</updated>
+        <summary type="html"><![CDATA[CairoVM 通过利用多项式（polynomials）和 ZK-STARK 证明系统实现可证明计算。zkEVM 的特点是能够生成可证明的交易，从而产生可证明的区块。Kakarot 建立在 CairoVM 之上，在 Kakarot 上执行的每一笔交易都是可证明的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[存入 1,000,000,000 美元后，Apple Banking 客户难以取款]]></title>
+        <id>https://0xzx.com/2023060412033511016.html</id>
+        <link href="https://0xzx.com/2023060412033511016.html"/>
+        <updated>2023-06-04T04:03:13.000Z</updated>
+        <summary type="html"><![CDATA[在几周内存入超过 1,000,000,000 美元后，Apple 储蓄账户的客户表示，他们现在很难提取资金。  […]]]></summary>
         <author>
             <name>0x资讯</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何修复 Windows 10 中的可信模块平台 (TPM) 错误]]></title>
-        <id>https://0xzx.com/2023060409513510898.html</id>
-        <link href="https://0xzx.com/2023060409513510898.html"/>
-        <updated>2023-06-04T01:51:16.000Z</updated>
-        <summary type="html"><![CDATA[可信平台模块 (TPM) 是一种基于硬件的安全措施，用于验证你的 PC。 有时，TPM 可能会发生故障，导致用 […]]]></summary>
+        <title type="html"><![CDATA[在圣安东尼奥轻松呼吸：清洁风管的好处]]></title>
+        <id>https://0xzx.com/2023060412023511014.html</id>
+        <link href="https://0xzx.com/2023060412023511014.html"/>
+        <updated>2023-06-04T04:02:22.000Z</updated>
+        <summary type="html"><![CDATA[圣安东尼奥的 NRG 风管清洗 18911 Hardy Oak Blvd 圣安东尼奥，TX 78258 210 […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币综述：“隐私令牌将从欧洲的 币安中删除”]]></title>
+        <id>https://0xzx.com/2023060412023511013.html</id>
+        <link href="https://0xzx.com/2023060412023511013.html"/>
+        <updated>2023-06-04T04:02:19.000Z</updated>
+        <summary type="html"><![CDATA[在本文中，我们介绍了本周加密货币领域的五个最引人注目的新闻。 了解新闻并了解所有投资（包括加密货币投资）的风险 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚拟货币基金如何在香港合规展业？]]></title>
+        <id>https://www.web3sj.com/news/72276/</id>
+        <link href="https://www.web3sj.com/news/72276/"/>
+        <updated>2023-06-04T04:01:13.000Z</updated>
+        <summary type="html"><![CDATA[在 2018 年之前，SFC 监管从事虚拟资产管理服务的前提是被管理的虚拟资产属于香港《证券及期货条例》附表 1 所定义的「证券」或「期货合约」。然而，这导致许多非属于「证券」或「期货合约」类的虚拟资产位于监管空白地带，不利于投资者保护。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龙与地下城最危险的魔法物品]]></title>
+        <id>https://0xzx.com/2023060411583511011.html</id>
+        <link href="https://0xzx.com/2023060411583511011.html"/>
+        <updated>2023-06-04T03:58:21.000Z</updated>
+        <summary type="html"><![CDATA[龙与地下城中的魔法物品是玩家可以获得的最令人兴奋的工具之一。 从简单的奖励到能力，再到违反物理定律的独特效果。 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何前往塞尔达：王国之泪中的廷格尔岛峡谷]]></title>
+        <id>https://0xzx.com/2023060411583511009.html</id>
+        <link href="https://0xzx.com/2023060411583511009.html"/>
+        <updated>2023-06-04T03:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Tingel Island 是 Zelda TotK 中 Akkala Highlands 以东的一个有点偏僻 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink已在以太坊集成AAVE/ETH喂价]]></title>
+        <id>https://panewslab.com/zh/articledetails/ahs0282n.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ahs0282n.html"/>
+        <updated>2023-06-04T03:07:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月4日消息，据官方消息，Chainlink已在以太坊上集成AAVE/ETH喂价。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZachXBT：Atomic Wallet黑客攻击前五大受害者累计损失970万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/66mu94xv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/66mu94xv.html"/>
+        <updated>2023-06-04T02:50:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月4日消息，ZachXBT推特发文称，据其观察，加密钱包Atomic Wallet黑客攻击事件造成的最大个人损失为350万美元（1897 ETH）。前五大受害者的累计损失达970万美元。根据ZachXBT此前统计的数据，比特币、ETH、Tron、BSC、ADA、Ripple、Polkadot、Cosmos、Algo、Avax、XLM、LTC和Doge链上被盗资金已经超过1400万美元。估计至少有2000万美元被盗。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DefiLlama将进行ChatGPT插件Beta测试]]></title>
+        <id>https://panewslab.com/zh/articledetails/r54w48vr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/r54w48vr.html"/>
+        <updated>2023-06-04T02:44:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月4日消息，DefiLlama创始人0xngmi推特发文称，由Kofi构建的DefiLlama ChatGPT插件很快将进行Beta测试。如果用户在ChatGPT上具有插件访问权限，并愿意就该插件提供反馈，可以加入等待名单。该插件将允许用户使用提示语查询DefiLlama的数据。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波场TRON利用BitTorrent实现以太坊区块链桥接]]></title>
+        <id>https://panewslab.com/zh/articledetails/8ad3javw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8ad3javw.html"/>
+        <updated>2023-06-04T02:24:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月4日消息，据波场TRON创始人孙宇晨在社交媒体透露，波场TRON已通过利用BitTorrent的桥接器实现以太坊区块链桥接，据悉桥接使用的合约地址为0x50327c6c5a14dcade707abad2e27eb517df87ab5，目前TRX可以在以太坊生态系统中被完全访问。据此前消息，波场于本周三的网络交易量达到10935762笔，创下单日交易量最高记录。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -36,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[保单限额增加的加密货币保险扩展 – Evertas]]></title>
-        <id>https://0xzx.com/2023060409363510896.html</id>
-        <link href="https://0xzx.com/2023060409363510896.html"/>
-        <updated>2023-06-04T01:36:11.000Z</updated>
-        <summary type="html"><![CDATA[1 Evertas 宣布，每份保单对托管加密货币资产的承保限额现在为 4.2 亿美元。 2 新产品加密货币挖矿硬件的最 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第110次以太坊ACDC会议：CL客户端考虑在Deneb升级中包含EIP 4788]]></title>
         <id>https://panewslab.com/zh/articledetails/225cecwt.html</id>
         <link href="https://panewslab.com/zh/articledetails/225cecwt.html"/>
@@ -53,26 +183,6 @@
         <summary type="html"><![CDATA[PANews 6月4日消息，据Galaxy研究副总裁Christine Kim记录，以太坊核心开发人员于本周召开了第110次全核心开发人员共识 (ACDC) 电话会议。开发人员在会上讨论和协调对以太坊共识层 (CL) 的更改。CL客户端团队正考虑将EIP 4788纳入Deneb升级。据悉，EIP 4788 为智能合约和去中心化应用程序引入了一种信任最小化的方式来访问CL和验证者余额、活动和奖励等信息。此外，以太坊基金会研究员Dankrad Feist分享了一项数据实验的结果，该实验测试了以太坊主网处理大型区块的能力。根据实验，Feist建议将EIP 4844规范中每个区块的最大blob数从4增加到6。他还建议根据以太坊节点预计发送的数据量，重新评估在插槽中接收区块的四秒截止时间。最后，开发人员讨论了对引擎API版本控制的修改建议，以减少未来API规范和测试的复杂性。Engine API是用于CL和EL之间通信的标准方法集合。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choice Hotels (CHH) 通过新酒店扩大国内足迹]]></title>
-        <id>https://0xzx.com/2023060409263510894.html</id>
-        <link href="https://0xzx.com/2023060409263510894.html"/>
-        <updated>2023-06-04T01:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Choice Hotels International, Inc (CHH Quick Quote ̵ […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放弃美元是逃避制裁和侵略]]></title>
-        <id>https://0xzx.com/2023060409253510893.html</id>
-        <link href="https://0xzx.com/2023060409253510893.html"/>
-        <updated>2023-06-04T01:25:13.000Z</updated>
-        <summary type="html"><![CDATA[随着各国努力应对美元 (USD) 的霸道影响，世界经济机器的安静杂音变得越来越响亮。 在 RT 播出的独家专访 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -336,46 +446,6 @@ Ordinals 使 NFT 得以创建，它完全是比特币原生的，不需要第二
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[布局香港，Relation将如何构筑全球Web3社交网络]]></title>
-        <id>https://www.web3sj.com/news/72182/</id>
-        <link href="https://www.web3sj.com/news/72182/"/>
-        <updated>2023-06-02T13:25:41.000Z</updated>
-        <summary type="html"><![CDATA[从抢先在香港布局的 HashKey Capital 投资版图中我们可以发现一个香港概念下 Web3 社交领域的种子选手 —— 去中心化社交图谱协议 Relation。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以zkSync为例，解读发现新公链机会的三板斧]]></title>
-        <id>https://www.web3sj.com/news/72171/</id>
-        <link href="https://www.web3sj.com/news/72171/"/>
-        <updated>2023-06-02T13:22:50.000Z</updated>
-        <summary type="html"><![CDATA[在早期生态系统中，跨链桥通常有限，可能只有 eth 可以用于桥接。用户通常会使用交换功能将 eth 转换为 usdc/usdt/dai，所以这些都是真实收益。此外，您还可以从那些为了空投的人不停的刷交易量中获得收益。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avalanche DeFi负责人：在L2时代，L1的角色是什么？]]></title>
-        <id>https://www.web3sj.com/news/72160/</id>
-        <link href="https://www.web3sj.com/news/72160/"/>
-        <updated>2023-06-02T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[这两种解决方案承诺通过快速交易和更低的费用来扩展以太坊，这是 L1 的原始目的。那么，现在山寨 L1 的作用是什么？它们会消失、演变还是继续提供独特的功能？Luigi 不同意以太坊已经赢得了 L1「战争」。他警告说，如果所有活动都集中在以太坊上，就会出现中心化风险。他希望有多个 L1 提供选择，更多的容错能力，并在 L1 层面引入竞争 / 创新。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Binance Launchpad，IEO还是好的投资机会吗？]]></title>
-        <id>https://www.web3sj.com/news/72145/</id>
-        <link href="https://www.web3sj.com/news/72145/"/>
-        <updated>2023-06-02T13:14:29.000Z</updated>
-        <summary type="html"><![CDATA[不可否认，加密市场依旧处于熊市之中。和此前的熊市类似，加密市场投资热点板块切换迅速，不同板块此起彼伏。不同的是，鲜有人对过往的行情进行复盘，尤其是曾经风靡熊市的 IEO。相比牛市盈利方式多种多样，IEO 因能够提供更加稳定可确定性的盈利而在熊市中广受欢迎。Binance CEO CZ 甚至在推特上表示「When Launchpad?」。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[深度长文 | 2023美国银行危机的原因、影响和解决方案]]></title>
         <id>https://www.defidaonews.com/article/6820540</id>
         <link href="https://www.defidaonews.com/article/6820540"/>
@@ -458,16 +528,6 @@ Ordinals 使 NFT 得以创建，它完全是比特币原生的，不需要第二
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一文读懂 DeFi 创新领头羊-- Curve]]></title>
-        <id>https://www.defidaonews.com/article/6820486</id>
-        <link href="https://www.defidaonews.com/article/6820486"/>
-        <updated>2023-06-02T02:42:31.000Z</updated>
-        <summary type="html"><![CDATA[LLAMA 协议是一种创新机制，可充当“第一道防线”，防止借入稳定币的抵押品价格下降，有助于为 LSD 持有者开辟一个全新的市场]]></summary>
-        <author>
-            <name>wesely</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[专访Starknet创始人：仰望星空，脚踏实地]]></title>
         <id>https://www.theblockbeats.info/news/42268</id>
         <link href="https://www.theblockbeats.info/news/42268"/>
@@ -475,26 +535,6 @@ Ordinals 使 NFT 得以创建，它完全是比特币原生的，不需要第二
         <summary type="html"><![CDATA[创作zk-STARK的计算机科学家Eli Ben-Sasson向我们透露了自己对STARKs、SNARKs和Rollup赛道的看法，以及对Starknet生态的期许。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia : OP 堆栈的模块化数据可用性]]></title>
-        <id>https://www.defidaonews.com/article/6820478</id>
-        <link href="https://www.defidaonews.com/article/6820478"/>
-        <updated>2023-06-02T02:20:05.000Z</updated>
-        <summary type="html"><![CDATA[量子引力桥 (QGB) 将允许 OP Stack Rollup 直接利用 Celestia 提供的 DA 保证。]]></summary>
-        <author>
-            <name>录觉麟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI CTO 推特帐号疑似被黑并发布加密诈骗信息]]></title>
-        <id>https://www.defidaonews.com/article/6820468</id>
-        <link href="https://www.defidaonews.com/article/6820468"/>
-        <updated>2023-06-02T01:48:07.000Z</updated>
-        <summary type="html"><![CDATA[巴比特讯，OpenAI 首席技术官 Mira Murati 的推特帐号疑似被盗，并于今日发布加密诈骗信息。该推特帐号最新发布的一条推文显示，即将发布 OPENAI 代币（由基于人工智能的语言模型驱动）并支持通过附带链接查看空投资格。]]></summary>
-        <author>
-            <name>Yangz</name>
         </author>
     </entry>
     <entry>
