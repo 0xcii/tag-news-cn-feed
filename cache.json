@@ -63,6 +63,26 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6820834",
+          "author": "凹凸曼",
+          "description": "Cairo VM 由一种新的、安全且符合人体工程学的 Rust 启发的编程语言支持，旨在通过使用 STARK 证明扩展以太坊来获得最大效率。",
+          "link": "https://www.defidaonews.com/article/6820834",
+          "publishedOn": "2023-06-05T08:28:09.000Z",
+          "wordCount": 671,
+          "title": "一文了解 Validity Rollups和Cairo VM 的作用",
+          "imageUrl": "https://appserversrc.8btc.cn/FpsMYpY6Gais_SCrNOw4fnDphr3r.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6820832",
+          "author": "GWEI Research",
+          "description": "L2上的资金正在向 zkSync Era 上转移",
+          "link": "https://www.defidaonews.com/article/6820832",
+          "publishedOn": "2023-06-05T08:24:39.000Z",
+          "wordCount": 670,
+          "title": "zkSync Era TVL 逆势大幅上涨，Optimism 主网升级即将开启，BTC生态项目大盘点|Gwei Research 行业周报#9",
+          "imageUrl": "https://appserversrc.8btc.cn/FubbvbXdnJHXdSAyMkMW-i2LMJui.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6820828",
           "author": "PANews",
           "description": "《数字资产市场架讨论草案》中提到将为相关实体提供一个过渡期，确保实体可以“临时遵守”美国证券交易委员会和美国商品期货交易委员会的规定。",
@@ -141,26 +161,6 @@
           "wordCount": 472,
           "title": "对话 Avalanche：L2 时代，Avalanche 的未来之路在哪里？",
           "imageUrl": "https://appserversrc.8btc.cn/FjTV6qqMCCWvR8CdkRnLYS93EmhU.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6820704",
-          "author": "Foresight News",
-          "description": "获 Vitalik Buterin 投资、即将启动测试网的 Kakarot zkEVM 是什么？将为以太坊和 StarkWare 生态带来哪些价值赋能？",
-          "link": "https://www.defidaonews.com/article/6820704",
-          "publishedOn": "2023-06-04T04:13:08.000Z",
-          "wordCount": 526,
-          "title": "Kakarot 三阶段路线图：将如何赋能 Starknet 和以太坊生态",
-          "imageUrl": "https://appserversrc.8btc.cn/Fh2P7A2zpw1Suvs53QzPRvX0V2im.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6820694",
-          "author": "吴说",
-          "description": "本周新闻Top10",
-          "link": "https://www.defidaonews.com/article/6820694",
-          "publishedOn": "2023-06-04T04:11:01.000Z",
-          "wordCount": 1069,
-          "title": "吴说周精选：币安启动裁员、CNHC 团队失联、BKEX 暂停提币与新闻Top10（0527-0602）",
-          "imageUrl": "https://appserversrc.8btc.cn/FuNHlxuw6yzfng8YccMSuogNy9BQ.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -170,12 +170,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/news/72702/",
+          "author": "Gao",
+          "description": "美国人口普查数据显示，从 2010 年到 2020 年，美国 65 岁及以上居民占全部人口的比例增长了 38%，占全国人口的 16.9%，增长速度是 130 年来最快的。按照这一趋势，到 2034 年美国的老年人的数量将首次超过儿童。",
+          "link": "https://www.web3sj.com/news/72702/",
+          "publishedOn": "2023-06-05T08:19:07.000Z",
+          "wordCount": 897,
+          "title": "硅谷富豪们砸钱换寿命，Sam Altman也投资，能打败AI 的只有长生不老了",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1ca317231e1d7ad370abad3bfa70e647.png"
+        },
+        {
           "id": "https://www.web3sj.com/news/72686/",
           "author": "Gao",
           "description": "信息这个概念最近的发明的现代理念。尽管人类创造和使用信息技术（如书写、印刷和电报）已有数百年或数千年的历史，但直到上个世纪，我们才清楚地阐明所有这些事物的共同点，并意识到它们可以被理解作为一个类别。",
           "link": "https://www.web3sj.com/news/72686/",
           "publishedOn": "2023-06-05T08:03:06.000Z",
-          "wordCount": 773,
+          "wordCount": 765,
           "title": "从人与社会的发展，看加密技术的核心价值",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/6cd205ccf079105d3e05b390826d272a.jpg"
         },
@@ -185,7 +195,7 @@
           "description": "同霍姆斯一样，SBF 也入选了时代杂志「全球百大影响力人物（2022 年）」，而且他作为加密交易所 FTX 的创始人，是加密行业唯一入选时代百大的人物，即便币圈首富 CZ 也没有入选。",
           "link": "https://www.web3sj.com/news/72576/",
           "publishedOn": "2023-06-05T07:38:21.000Z",
-          "wordCount": 1898,
+          "wordCount": 1883,
           "title": "霸主、黑幕、崩盘：加密交易所13年兴衰史",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685950928785.png"
         },
@@ -195,7 +205,7 @@
           "description": "现在有两大类的账号， 一个叫 EOA 账号一个叫 CA 账号，可以说除了 4337 以外的所有合约钱包，都可以称作一个非标准合约钱包，MPC 钱包。它也是现在非常火热的一个领域啊. 前一阵子可以说是硅谷一条街.。然后起码有找出五家在做 MPC 钱包的，多数采用的是 TSS 的方式。它相当于每一个分片各自签名。签完名大家汇总。",
           "link": "https://www.web3sj.com/news/72562/",
           "publishedOn": "2023-06-05T07:31:41.000Z",
-          "wordCount": 844,
+          "wordCount": 858,
           "title": "用一个小时讲清楚账号抽象这件事",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685950453089.png"
         },
@@ -205,7 +215,7 @@
           "description": "比特币是一个去中心化的账本，记录着发生在其中的每一笔交易。每一笔交易在提交时，比特币网络除了基本的交易元数据之外，还允许提交一串自定义字符，可以理解为交易备注。这个交易备注字段曾经主要是「op_return」字段，在 Taproot 升级之后，也可以是交易 witness 字段。不管存在哪里，这部分是作为交易的一部分，存储在比特币链上的。",
           "link": "https://www.web3sj.com/news/72553/",
           "publishedOn": "2023-06-05T07:00:34.000Z",
-          "wordCount": 852,
+          "wordCount": 860,
           "title": "玩铭文，Arweave不比BTC香吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1685943421656.png"
         },
@@ -215,7 +225,7 @@
           "description": "它用什么赢得了 Vitalik 和 StarkWare 的支持？分析师 cookies 在本文将探讨 Kakarot 的各个阶段及其优缺点，以及该项目面临的挑战和机遇。",
           "link": "https://www.web3sj.com/news/72540/",
           "publishedOn": "2023-06-05T05:38:25.000Z",
-          "wordCount": 929,
+          "wordCount": 946,
           "title": "Vitalik参与投资，Kakarot如何将EVM引入Starknet？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1685941883534.jpg"
         },
@@ -225,7 +235,7 @@
           "description": "与 2022 年 12 月的数据相比，当时 ATM 的数量超过了 39,000 台，尽管在那段时间内 BTC 的价格上涨，但仍然可以看出呈下降的趋势。Coin ATM Radar 的数据显示，仅在 3 月份，全球就有大约 3,600 台 BTC ATM 断开连接。",
           "link": "https://www.web3sj.com/news/72535/",
           "publishedOn": "2023-06-05T05:33:08.000Z",
-          "wordCount": 747,
+          "wordCount": 793,
           "title": "2023年比特币ATM首次数量激增，全球分布大揭秘",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/93f38d124e3ea42d7c0615d1e7cd8dbc.png"
         },
@@ -235,7 +245,7 @@
           "description": "现阶段 Web3 教育平台基本由中心化和去中心化的平台组成，中心化平台的优势在于运营，而去中心化平台的亮点则是激励体系。Web3 教育平台可以大致分为三类：通识普及类、L2E（Learning to Earn） 平台、课程教育。",
           "link": "https://www.web3sj.com/news/72513/",
           "publishedOn": "2023-06-05T05:21:47.000Z",
-          "wordCount": 1018,
+          "wordCount": 999,
           "title": "新的破圈效应？值得关注的Web3教育项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685943012877.png"
         },
@@ -245,7 +255,7 @@
           "description": "鉴于以太坊最近的硬分叉，该分叉允许用户提取锁仓的以太币（ETH），我们认为这将成为美国国债的一个重要竞争对手，我们使用一种更严谨的估值模型重新评估了以太坊。根据我们的估计，以太坊网路收入将从每年 26 亿美元增长到 2030 年的 510 亿美元。假设以太坊在智能合约协议中占有 70％ 的市场份额，这意味着 2030 年代价格将达到 11,800 美元，我们以以太坊最近的波动率推导出的 12％ 资本成本将其折现为今天的 5,300 美元。",
           "link": "https://www.web3sj.com/news/72498/",
           "publishedOn": "2023-06-05T03:45:41.000Z",
-          "wordCount": 944,
+          "wordCount": 955,
           "title": "VanEck以太坊估值报告全文：ETH将在2030年逼近1.2万美元",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685936741740.png"
         },
@@ -255,19 +265,9 @@
           "description": "这一在社区中流传许久的功能，终于跟用户正式见面了。这个基于比特币网络的域名资产也在 BTC 生态内成为「局部热点」。但与 BRC-20、比特币 NFT 之前的大火有所不同，投资者对域名资产的交易兴趣似乎远逊于前。如今上线数日，其数据表现如何，又是否值得布局呢？",
           "link": "https://www.web3sj.com/news/72492/",
           "publishedOn": "2023-06-05T03:42:01.000Z",
-          "wordCount": 729,
+          "wordCount": 714,
           "title": "上线至今总成交量仅4万美元，Unisat域名价值几何？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1685936700511.png"
-        },
-        {
-          "id": "https://www.web3sj.com/news/72488/",
-          "author": "Gao",
-          "description": "根据 CSA 发布的加密新规显示，交易所和其他平台除了被要求必须遵守「加强的投资者保护承诺」，并规定在加拿大运营的加密交易平台必须在申请注册的同时，在 30 天内向其主要监管机构提供一份加强的预注册承诺，还被要求在加拿大运营的加密资产交易平台（CTP）做出一些新承诺并在 3 月 24 日前完成，包括交易所需隔离托管用户资产、禁止向任何加拿大用户提供保证金或任何形式的杠杆交易及禁止未经 CSA 许可出售稳定币及专有代币（平台币）。",
-          "link": "https://www.web3sj.com/news/72488/",
-          "publishedOn": "2023-06-05T03:37:15.000Z",
-          "wordCount": 800,
-          "title": "加拿大的加密寒冬：币安等多家主流交易所退出，矿业份额减半",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1685931953531.jpg"
         }
       ]
     },
@@ -276,6 +276,96 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/k4dp5op1.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，据CoinDesk报道，英国立法者呼吁政府尽早出台加密金融服务法规，并任命一名专职官员来监督这一过程。在周一发布的一份报告中，加密货币和数字资产全议会小组 (APPG) 指出，加密货币将继续存在，需要立即监管。该小组包括来自不同政党和议会两院的立法者，提出了53条关于监管该国加密货币的建议。\n英国政府最近结束了一项咨询，建议英国通过将其纳入现有金融服务法规的范围来监管加密货币，隶属于 APPG 的游说团体 CryptoUK在对咨询的回应中表示，它希望英国在一年内制定具体的加密法规。",
+          "link": "https://panewslab.com/zh/articledetails/k4dp5op1.html",
+          "publishedOn": "2023-06-05T08:30:29.000Z",
+          "wordCount": 369,
+          "title": "英国议员呼吁设立专门的政府官员来监督加密监管法规的制定",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/18222td4.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，据彭博社报道，摩根大通公司已与6家印度银行合作，推出基于区块链的平台，以在该国最新的国际金融中心结算银行间美元交易。摩根大通负责印度的高级官员兼亚太区副董事长Kaustubh Kulkarni表示：“我们将在未来几个月开展试点项目，因为我们需要分析银行的经验。这些银行包括 HDFC Bank Ltd.、ICICI Bank Ltd.、Axis Bank Ltd.、Yes Bank Ltd. 和 IndusInd Bank Ltd.等私人银行，此外还有摩根大通在GIFT City的银行部门。” 在获得国际金融服务中心管理局的批准后，该试点项目将于周一启动，使用摩根大通的区块链平台Onyx。\n在现有的结算系统下，结算可能需要几个小时才能完成。此外，交易不会在星期六、星期日或公众假期结算。实时区块链支持的系统将消除这一障碍，使交易可24小时可用。\n此举将进一步推动印度政府将古吉拉特邦国际金融科技城(Gujarat International Finance tech -City)定位为新加坡和迪拜以外的交易中心的努力。印度储备银行已经启动了一个以美元结算的国内无本金交割远期市场。",
+          "link": "https://panewslab.com/zh/articledetails/18222td4.html",
+          "publishedOn": "2023-06-05T08:13:46.000Z",
+          "wordCount": 446,
+          "title": "摩根大通与印度6家银行合作，在区块链上结算银行间美元交易",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3ooz8ld1.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，Shiba Inu犬种主题项目FLOKI在推特上表示，加密社区需警惕假冒的FLOKI空投消息和视频，相关内容均为骗局。FLOKI没有进行任何空投，也不打算进行任何空投。如果用户将钱包连接到这些诈骗网站，会导致自己的加密资产丢失。",
+          "link": "https://panewslab.com/zh/articledetails/3ooz8ld1.html",
+          "publishedOn": "2023-06-05T08:05:45.000Z",
+          "wordCount": 371,
+          "title": "FLOKI：没有空投计划，请警惕相关骗局",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/23byy3bj.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，据“量子位”微信公众号，美团联合创始人王慧文的AI创业公司光年之外，已在近期完成了新一轮2.3亿美元（折合人民币16.3亿）融资，投前估值10亿美元。光年之外的本轮融资，据称由源码资本领投8000万美元，此外腾讯、五源资本和快手创始人宿华均参与其中。五源资本投资4000万美元，宿华以个人身份投资4000万美元，腾讯投资5000万美元。\n融资消息被曝之前，关于这家公司的最新消息出现在5月5日，王慧文在即刻App上转发公司招聘贴，寻找爬虫、数据、前端、后端和产品实习生。\n此前2月消息，王慧文出资5000万美元进军人工智能，称将打造中国的OpenAI；3月消息，美团创始人王兴将参与王慧文AI公司“光年之外”的A轮投资，并出任董事。",
+          "link": "https://panewslab.com/zh/articledetails/23byy3bj.html",
+          "publishedOn": "2023-06-05T07:57:30.000Z",
+          "wordCount": 385,
+          "title": "王慧文旗下AI公司“光年之外”以10亿美元估值完成2.3亿美元融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/mt00twnb.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，Web3反诈骗平台Scam Sniffer发推文称，与多链诈骗服务提供商Inferno Drainer相关的失窃金额自上次报告为600万美元以来已达到约1000万美元。安全团队慢雾表示，Move生态NFT AMM项目Mobius的Discord遭遇黑客攻击，并发布钓鱼链接，目前正协助该项目方进行调查，已确认这是Inferno Drainer的有一次黑客攻击。",
+          "link": "https://panewslab.com/zh/articledetails/mt00twnb.html",
+          "publishedOn": "2023-06-05T07:47:00.000Z",
+          "wordCount": 374,
+          "title": "安全公司：诈骗服务提供商Inferno Drainer已窃取近1000万美元资金",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d2m16a2t.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，Snapshot投票页面显示，BitDAO社区正对“Mantle代币设计、转换参数和资产处理”MIP-22提案进行投票，该投票将于6月7日结束，目前支持率达100%，且已到达投票生效的最低票数。\n根据该提案，1.Mantle代币MNT应包含类似于ARB和OP代币的“可升级性”和“铸币”功能。2.单向代币转换比率应设置为1 BIT代币对1 MNT代币。3.应授权Mantle核心贡献者团队确定BIT代币退市、MNT代币上市、开通转换通道和Mantle网络主网的最佳时间和顺序。4.可以根据BIP-10的意图，利用解构后的BIT-ETH池的收益，创建MNT-ETH的DEX流动性池。5.可以建立一个临时的转换库（TCT）来为代币创建和转换过程提供支持。\n在BIT到MNT转换通道运行之前，将并行一下工作：1.评估任何反馈并将其纳入 MNT代币功能和转换计划；2.批准此提案；3.对MNT代币进行审计，并发布审计报告；4.在L1上部署MNT代币，初始供应由TCT监管；5.对L1转换智能合约进行审计和测试；5.确保选择中心化交易所对BIT到MNT转换的支持；6.在Mantle Network测试网和主网上实施MNT代币（TCT中持有的BIT将被销毁，TCT将在转换完成后退役）；6.资产流向将在Treasury Monitor上定期更新。\n此前5月21日消息，BitDAO社区关于“优化品牌、代币与代币经济学”的提案获得通过。",
+          "link": "https://panewslab.com/zh/articledetails/d2m16a2t.html",
+          "publishedOn": "2023-06-05T07:32:17.000Z",
+          "wordCount": 365,
+          "title": "BitDAO社区正对“Mantle代币设计及资产处理”提案进行投票",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cy8m99s4.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，Web3知识图谱协议0xScope创始人Bobie发推文称，Multichain的Zksync Era/Kava EVM/Avax C-Chain跨链桥疑似恢复运行。\n不过，Multichain官方社交媒体账号并未发布任何更新。此前6月1日消息，Multichain表示，目前仍无法联系到CEO获得必要的服务器访问权限，将在UI上对受影响的链暂停相应的跨链服务。",
+          "link": "https://panewslab.com/zh/articledetails/cy8m99s4.html",
+          "publishedOn": "2023-06-05T07:05:03.000Z",
+          "wordCount": 394,
+          "title": "0xScope：Multichain的部分跨链桥疑似恢复运行",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/y3abtz9o.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，Snapshot投票页面显示，dYdX社区关于“启动dYdX运营subDAO V2”提案以99.95%的支持率获得投票通过。根据该提案，dYdX运营 subDAO（“OPS subDAO”）的初始期限将于6月19日（“DOT 1.0 ”）到期，为了在接下来的18个月内运行DOT ，社区计划向dYdX财库申请660万美元用于支付成本和贡献者补偿。",
+          "link": "https://panewslab.com/zh/articledetails/y3abtz9o.html",
+          "publishedOn": "2023-06-05T06:53:32.000Z",
+          "wordCount": 381,
+          "title": "dYdX财库拨款660万美元以启动运营subDAO V2的提案已获投票通过",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5ryy2qru.html",
+          "author": "PA一线",
+          "description": "PANews 6月5日消息，据智通财经报道，香港财经事务及库务局局长许正宇汇报香港在金融科技及其他创新金融服务方面的最新发展及措施，以及虚拟资产规管工作的进展。他表示，为把握Web3发展带来的机遇，香港财政司司长将成立专责小组，就如何促进Web3行业的可持续及负责任发展提供建议。此外，香港金管局正就“稳定币”拟订规管框架，并计划于今年内进行第二轮的公众咨询。\n此前消息，许正宇于3月表示，正研究“稳定币”监管制度，拟在2024年实施相关监管。",
+          "link": "https://panewslab.com/zh/articledetails/5ryy2qru.html",
+          "publishedOn": "2023-06-05T06:36:21.000Z",
+          "wordCount": 362,
+          "title": "港财库局许正宇：稳定币监管框架计划于年内进行公众咨询",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/ideumnha.html",
           "author": "PA一线",
@@ -292,17 +382,17 @@
           "description": "PANews 6月5日消息，据Lookonchain监测，1小时前，一SmartMoney地址向CryptoCom存入了825枚BTC（约合2220万美元）。 从2021年1月18日至今，该SmartMoney地址经常低价买入BTC，并高价卖出。目前该地址持有2,404.6枚BTC（约合6457万美元），利润约为3.3亿美元。",
           "link": "https://panewslab.com/zh/articledetails/8uunlaz0.html",
           "publishedOn": "2023-06-05T06:22:41.000Z",
-          "wordCount": 377,
+          "wordCount": 374,
           "title": "数据：某聪明钱地址向CryptoCom存入825枚BTC，约合2220万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
           "id": "https://panewslab.com/zh/articledetails/ha964lmr.html",
           "author": "PA一线",
-          "description": "PANews 6月5日消息，据中国基金报微信公众号，2023年6月5日，香港证监会行政总裁梁凤仪在香港投资基金公会的年会上，发表题为“重新思考、整备和部署：香港作为资产管理中心的发展路向”的演讲。梁凤仪表示：“香港证监会以推动增长为己任。我们了解市场上的投资产品要推陈出新，才能与时并进，迎合投资者不断变化的需求。我们目前聚焦于三大范畴：环境、社会及管治（environmental,socialandgovernance，简称ESG），虚拟资产，以及人民币计价产品。”\n针对虚拟资产，梁凤仪表示，这些产品的需求近年不断上升，我们推出措施来鼓励负责任的科技创新和支持金融科技业界。我们认可了首批虚拟资产期货ETF，而这些ETF主要投资于在芝加哥商品交易所买卖的虚拟资产期货，当中包括全球首只以太币期货ETF及亚洲首只比特币期货ETF。两周前，我们发布了适用于持牌虚拟资产交易平台营运者的指引。与虚拟资产期货ETF一样，我们采取了多项保障投资者利益的措施，例如就可供零售投资者买卖的代币的纳入准则订明要求。\n此外，尽管梁凤仪指出投资环境仍见严峻，但她表示：“我们不忘危中有机，‘机’有中国经济重启、数码化转型、第三代互联网（Web3）及生成式人工智能（generative AI）等，都正是推动创新和可持续投资的重大机遇。”",
+          "description": "PANews 6月5日消息，据中国基金报微信公众号，2023年6月5日，香港证监会行政总裁梁凤仪在香港投资基金公会的年会上，发表题为“重新思考、整备和部署：香港作为资产管理中心的发展路向”的演讲。梁凤仪表示：“香港证监会以推动增长为己任。我们了解市场上的投资产品要推陈出新，才能与时并进，迎合投资者不断变化的需求。我们目前聚焦于三大范畴：环境、社会及管治（ESG），虚拟资产，以及人民币计价产品。”\n针对虚拟资产，梁凤仪表示，这些产品的需求近年不断上升，我们推出措施来鼓励负责任的科技创新和支持金融科技业界。我们认可了首批虚拟资产期货ETF，而这些ETF主要投资于在芝加哥商品交易所买卖的虚拟资产期货，当中包括全球首只以太币期货ETF及亚洲首只比特币期货ETF。两周前，我们发布了适用于持牌虚拟资产交易平台营运者的指引。与虚拟资产期货ETF一样，我们采取了多项保障投资者利益的措施，例如就可供零售投资者买卖的代币的纳入准则订明要求。\n此外，尽管梁凤仪指出投资环境仍见严峻，但她表示：“我们不忘危中有机，‘机’有中国经济重启、数码化转型、第三代互联网（Web3）及生成式人工智能（generative AI）等，都正是推动创新和可持续投资的重大机遇。”梁凤仪还表示，香港证监会将拥抱科技发展，并且对基金代币化持开放态度。",
           "link": "https://panewslab.com/zh/articledetails/ha964lmr.html",
           "publishedOn": "2023-06-05T05:57:18.000Z",
-          "wordCount": 363,
+          "wordCount": 355,
           "title": "梁凤仪：港证监会聚焦虚拟资产等范畴，Web3和生成式AI等是重大机遇",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -312,7 +402,7 @@
           "description": "PANews 6月5日消息，据区块链分析公司Glassnode官推披露最新数据显示，目前美国实体持有的BTC数量比2022年6月减少了11%，而同一时间段内的亚洲市场活跃投资者数量则增加了9.9%，这种情况与2020-21牛市周期有很大不同。在稳定币方面，USDT供应量近期创下历史新高，由于稳定币是不计息的，因此表明随着监管压力不断增加，美国市场资金在数字资产上的活跃度已有所下降。",
           "link": "https://panewslab.com/zh/articledetails/m2ykkt8o.html",
           "publishedOn": "2023-06-05T05:50:12.000Z",
-          "wordCount": 371,
+          "wordCount": 368,
           "title": "数据：美国实体持有的BTC数量较一年前减少11%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +412,7 @@
           "description": "PANews 6月5日消息，检察日报于上月中旬发布了一起“利用元宇宙概念搞传销”的案例。文章称，打着“元宇宙全球智库中心项目”的旗号，高某等人以线上广告投放、线下组织见面会、集中参观、开展授课活动等方式，在上海市青浦区设立办公地点，引诱社会公众投入资金，并发展他人做下线。日前，青浦区检察院以涉嫌组织、领导传销活动罪对高某提起公诉，案件正在进一步审理中。\n经查，高某等人以投资平台获取高额回报为名，要求参加者以投入相应资金的方式获得加入资格，并按一定顺序组成层级，直接或间接以发展人员的数量和投入金额作为返利依据，引诱参加者继续发展他人参加，骗取钱财，严重扰乱经济社会秩序。据介绍，截至案发，该案涉案金额1160万余元，涉案被害人1.4万余人。日前，该院以涉嫌组织、领导传销活动罪先后对刘某、罗某、高某等人提起公诉。",
           "link": "https://panewslab.com/zh/articledetails/yrezoq9f.html",
           "publishedOn": "2023-06-05T05:37:29.000Z",
-          "wordCount": 369,
+          "wordCount": 366,
           "title": "上海青浦区一起“元宇宙”传销案被提起公诉，涉案金额达1160万余元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +422,7 @@
           "description": "PANews 6月5日消息，加密钱包Atomic在推特上更新攻击事件调查进展，表示目前不到1%的月活用户受到影响/已上报。最新一笔被盗交易是在40多个小时前确认。安全调查正在进行中。Atomic Wallet将受害者地址告知主要交易所和区块链分析公司，以追踪并阻止被盗资金转移。\n此前昨日消息，Atomic钱包被盗总额已超3500万美元。今日早些时候消息，Atomic尚未确认攻击媒介，调查仍在进行。",
           "link": "https://panewslab.com/zh/articledetails/71jfdqjc.html",
           "publishedOn": "2023-06-05T05:25:16.000Z",
-          "wordCount": 383,
+          "wordCount": 380,
           "title": "加密钱包Atomic：目前低于1%的月活用户受到攻击事件影响",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -342,7 +432,7 @@
           "description": "PANews 6月5日消息，据Cointelegraph报道，推特创始人、金融科技公司Block Inc.现任首席执行官Jack Dorsey表示支持加密货币支持者、民主党总统候选人小罗伯特·肯尼迪(Robert F. Kennedy Jr.)。\nDorsey在YouTube上分享了一段来自福克斯新闻的视频片段，其中肯尼迪解释了他计划如何击败共和党总统候选人罗恩·德桑蒂斯和唐纳德·特朗普。Dorsey写道：“他可以而且将会获胜”。当用户问他是“赞同还是只是预测？” 肯尼迪，Dorsey回答说“两者都有”。\n根据福克斯新闻5月27日的一项民意调查，肯尼迪获得了16%的民主党初选选民的支持，对于现任总统的初选挑战者来说，这是一个“相当大的比例”。",
           "link": "https://panewslab.com/zh/articledetails/p83bu626.html",
           "publishedOn": "2023-06-05T05:22:33.000Z",
-          "wordCount": 389,
+          "wordCount": 386,
           "title": "Jack Dorsey预测加密支持者小罗伯特·肯尼迪会赢得美总统竞选",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -352,7 +442,7 @@
           "description": "PANews 6月5日消息，zkSync生态去中心化交易平台SyncSwap在推特上宣布，跨链桥SyncSwap Move已正式上线。SyncSwap Move由zkSync官方桥与ZK技术提供支持，允许在以太坊与zkSync Era之间转账。USDT与WBTC是Move第一批原生支持的代币，用户可在SyncSwap上进行交易。",
           "link": "https://panewslab.com/zh/articledetails/eqnz2o9a.html",
           "publishedOn": "2023-06-05T05:09:01.000Z",
-          "wordCount": 396,
+          "wordCount": 393,
           "title": "跨链桥SyncSwap Move已上线，首批支持USDT与WBTC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -362,7 +452,7 @@
           "description": "PANews 6月5日消息，Arbitrum生态DEX Camelot在推特上表示：“在过去两个月中一直处于测试阶段的 Camelot v3 AMM发现一个潜在问题，已经得到缓解，用户资金目前没有风险，但作为额外的安全措施，我们要求我们的社区用户移除在v3的头寸。我们决定弃用当前v3 AMM合约，并将很快将新版本与v3 farms一起重新部署。其他合约与v2 AMM未受影响。”",
           "link": "https://panewslab.com/zh/articledetails/ip9q6m6v.html",
           "publishedOn": "2023-06-05T05:06:00.000Z",
-          "wordCount": 403,
+          "wordCount": 400,
           "title": "Camelot：测试版v3 AMM发现问题将重新部署，用户资金尚无风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -372,7 +462,7 @@
           "description": "PANews 6月5日消息，据链上分析师余烬监测，Sui网络目前每个纪元（约24小时）产出111万枚SUI，而Sui主网上线至今已经53纪元，也就是已经产出5888万枚SUI；目前Sui网络PoS质押了73亿枚SUI，也就是Sui网络一年约4.05亿枚SUI的产出，都被未解锁的项目方、投资人、基金会挖了；一年的PoS产出（4.05亿枚）已接近于OKX/Kucoin公售（4.5亿枚）的数量。",
           "link": "https://panewslab.com/zh/articledetails/mcfmraox.html",
           "publishedOn": "2023-06-05T03:47:25.000Z",
-          "wordCount": 384,
+          "wordCount": 381,
           "title": "数据：Sui主网上线至今PoS质押已经产出5888万枚SUI",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -382,98 +472,8 @@
           "description": "PANews 6月5日消息，数字资产行情分析软件AICoin在其网站上表示：“近日，MEXC Global交易平台上线了以AICoin名义发布的虚假项目，对AICoin品牌声誉造成了极其严重的影响。AlCoin作出以下声明：1.AlCoin从未发行过任何项目，也未授权过任何主体发布任何项目；2.MEXC Global交易平台上线以AICoin名义发布的任何项目均与AlCoin无关，请投资者提高警惕，谨慎辨别，切勿上当受骗，并积极举报；3. AlCoin对盗用我司名义进行一切侵犯我司合法权益的非法行为，将坚决通过法律途径维护自身权益。”",
           "link": "https://panewslab.com/zh/articledetails/72p6bok0.html",
           "publishedOn": "2023-06-05T03:31:56.000Z",
-          "wordCount": 370,
+          "wordCount": 369,
           "title": "AICoin：MEXC Global上线以AICoin名义发布的虚假项目，请勿投资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/dwaeb141.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，Lookonchain监测数据显示，Mechanism Capital联合创始人Andrew Kang似乎正在使用高杠杆在MUX平台做多/做空BTC和ETH。他一共交易8次，被清算7次，损失37.7万美元；使用高达100倍的杠杆。",
-          "link": "https://panewslab.com/zh/articledetails/dwaeb141.html",
-          "publishedOn": "2023-06-05T03:14:07.000Z",
-          "wordCount": 391,
-          "title": "数据：Andrew Kang疑似在BTC和ETH高杠杆交易中损失37.7万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/t8kjab8v.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，据Cointelegraph报道，自去年加密交易所FTX倒闭以来，加密影响者对代言协议采取了更加谨慎的态度，其中有几位名人因涉嫌在该交易所的推广中扮演的角色而受到诉讼。某KOL表示，这已经敲响了警钟，那些支持加密公司的人需要明白，如果该公司未来变得不利，他们的关注者可以对他们采取法律行动。\n加密视频博Tiffany Fong此前因采访SBF而获得大量名气，但目前她对其在社交媒体上支持加密公司并不感兴趣。Fong称：“由于许多曾经享有盛誉的公司已经倒闭，我不想推销任何可能会影响客户的内容。”Fong承认她收到了很多邀请，但她对大部分都没有作出回应，因为她认为风险大于回报。其他的几个KOL表达了类似的观点。",
-          "link": "https://panewslab.com/zh/articledetails/t8kjab8v.html",
-          "publishedOn": "2023-06-05T03:09:27.000Z",
-          "wordCount": 344,
-          "title": "外媒：FTX倒闭后KOL对加密公司的代言采取更谨慎的态度",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/et4rbk97.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，据OKLink上海升级专题页显示，以太坊完成上海升级后，已有 300 万枚 ETH 解除质押，当前验证者数为602,779。当前ETH质押量为1929万枚，质押率为16.04%。",
-          "link": "https://panewslab.com/zh/articledetails/et4rbk97.html",
-          "publishedOn": "2023-06-05T02:56:41.000Z",
-          "wordCount": 366,
-          "title": "数据：上海升级后已有300万枚ETH解除质押，验证者总量超60万",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qu0yoz4g.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，比特币协议Ordinals新任首席维护者Raph在推特上宣布，Ordinals协议已上线0.6.0版本，该版本实现了识别更多类型铭文，包括诅咒铭文。\n根据Ord.io开发者的解读，许多以前未被识别的铭文现在被Ordinals协议索引为“诅咒铭文”。市场升级到0.6.0后，用户就可以交易他们（在该版本上线前有7万个无效铭文）。正常的铭文被分配一个正编号，而诅咒铭文被分配了一个负编号。第一个诅咒铭文是-1，现在是-71,508。该协议设置了一个区块激活高度，可以将特定类型的诅咒铭文索引为正常的正数铭文，虽然正数铭文数字永远不会改变，但负数铭文的数字可以且将会改变。如果发现新的特殊情况并添加新类型的诅咒铭文，现有的诅咒铭文将被重新索引，新的诅咒铭文将被插入，这将导致负数铭文编号的移动。",
-          "link": "https://panewslab.com/zh/articledetails/qu0yoz4g.html",
-          "publishedOn": "2023-06-05T02:45:36.000Z",
-          "wordCount": 369,
-          "title": "比特币Ordinals协议已上线0.6.0版本，支持名为“诅咒铭文”的负数铭文",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ds6tusr8.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，据官方博客，非托管流动性质押平台ether.fi宣布将推出会员忠诚度计划，以奖励早期采用者和长期支持者。用户可将ETH转移到忠诚度计划中，并通过ether.fi合作的节点运营者进行质押。EAP用户赚取的总积分将决定其会员等级，会员级别包括青铜、白银、黄金和白金。\n用户可以放弃质押奖励来提高积分收入，并更快地提高会员等级。会员可以获得来自ether.fi财库与额外收入流的奖励。忠诚度奖励计划中的每一笔ether.fi存款都将存放在NFT中，每个NFT将是一个跟踪其存款、奖励、积分与会员等级的PFP。",
-          "link": "https://panewslab.com/zh/articledetails/ds6tusr8.html",
-          "publishedOn": "2023-06-05T02:18:53.000Z",
-          "wordCount": 360,
-          "title": "ether.fi推出会员忠诚度计划，以奖励早期采用者和长期支持者",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9sc6e9cq.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，加密索赔和交易平台OPNX发推称，截至目前，已推出现货/期货服务；在没有内部做市商（MM）的情况下，日均交易额从13.64美元升至2000万美元；原生代币OX推出S2T4F模型；推出The Herd质押以及Celsius索赔交易。接下来，OPNX将推出Giga关联计划、Justice代币、FTX索赔交易等。",
-          "link": "https://panewslab.com/zh/articledetails/9sc6e9cq.html",
-          "publishedOn": "2023-06-05T02:15:52.000Z",
-          "wordCount": 369,
-          "title": "OPNX：日均交易额达2000万美元，将推出Justice代币、FTX索赔交易等",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4qu218xb.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，据网易科技报道，营销机构VezaDigital数据显示，今年3月份共有8.47亿用户访问了ChatGPT开发商、人工智能研究公司OpenAI的网站，比2月份增长了54%。该公司网站每月独立访问量在3月份飙升至10亿次。如果仅从在线访问量来看，OpenAI已经跻身全球20家流量最高网站榜单。",
-          "link": "https://panewslab.com/zh/articledetails/4qu218xb.html",
-          "publishedOn": "2023-06-05T02:06:15.000Z",
-          "wordCount": 364,
-          "title": "OpenAI网站访问量飙升至10亿次，跻身全球20家流量最高网站榜单",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1ms21b9a.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，慢雾首席信息安全官23pds发推文称，Atomic钱包官方紧急下线cloudflare的下载站点与sha256sum验证站点，由此猜测可能是在历史版本下载这个环节上出现了安全问题。同时，23pds表示，由于Atomic钱包事件火热，钓鱼账号开始跟进钓鱼，其诈骗方式为Scamming Methods，需注意资金风险。\n此前昨日消息，Atomic钱包被盗总额已超3500万美元。今日早些时候消息，Atomic尚未确认攻击媒介，调查仍在进行。",
-          "link": "https://panewslab.com/zh/articledetails/1ms21b9a.html",
-          "publishedOn": "2023-06-05T02:00:39.000Z",
-          "wordCount": 367,
-          "title": "慢雾：Atomic钱包被攻击或因历史下载版本中存在安全问题",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/p7gjeagv.html",
-          "author": "PA一线",
-          "description": "PANews 6月5日消息，据彭博社报道，币安中东和北非区域新任负责人Richard Teng被视为币安首席执行官赵长鹏的潜在接班人。据知情人士透露，如果赵长鹏辞职，Richard Teng将成为接任首席执行官一职的热门人选；随着近几个月来美国监管机构对币安的审查力度加大，接班问题变得更加紧迫。此前美国商品期货交易委员会于3月底起诉币安和赵长鹏涉嫌违反衍生品监管规定，并指控其“虚假”合规。币安没有回复记者就继任问题置评的请求。但赵长鹏对CFTC指控的许多问题的描述提出了异议。\n报道称，Richard Teng在新加坡央行和阿布扎比国际自由贸易区担任高级职务的履历使他成为帮助引导币安度过监管困境的理想人选。根据Richard Teng在LinkedIn上的个人资料，他在2007年之前在新加坡金融管理局（新加坡金融管理局）工作了13年，直到2007年。之后，他在阿布扎比全球市场(Abu Dhabi Global Market)工作了六年。他的个人资料显示，他拥有西澳大利亚大学的应用金融硕士学位。\n币安对此报道对PANews回应称，该新闻系彭博社的猜测。",
-          "link": "https://panewslab.com/zh/articledetails/p7gjeagv.html",
-          "publishedOn": "2023-06-05T01:54:19.000Z",
-          "wordCount": 383,
-          "title": "彭博社：若赵长鹏辞职，Richard Teng或将接任币安CEO",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
