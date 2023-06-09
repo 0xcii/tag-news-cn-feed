@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T11:10:51.399Z</id>
+    <id>urn:2023-06-09T12:26:18.281Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-09T11:10:51.399Z</updated>
+    <updated>2023-06-09T12:26:18.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mint Ventures：深度解读Shapella升级后的收益率、竞争格局和LSD-Fi的长期影响]]></title>
+        <id>https://www.theblockbeats.info/news/42534</id>
+        <link href="https://www.theblockbeats.info/news/42534"/>
+        <updated>2023-06-09T12:00:02.000Z</updated>
+        <summary type="html"><![CDATA[原文来源：Mint Ventures
+
+
+
+ETH Staking 的过去和现在
+
+
+在开始之前，我们还是需要来简单回顾一下 ETH 的 Staking。与目前上线的绝大多数 PoS 公链不同，以太坊的 PoS 不支持链原生的代理委托，也限制了单一节点（有利可图的）最大质押规模为 32 个 ETH。这种质押方式的好处显而易见，可以尽可能的减少单一实体直接通过控制一个庞大的节点来左右以太坊共识的可能性，保持以太坊网络尽可能的去中心化。但是由于节点运营的操作复杂度对于普通用户而言相当之高，所以除了用户自行质押的 solo staking 之外，在实践过程中，逐步出现了另外 3 类 Staking 方式： staking pools、liquid staking 以及 cex staking，这 4 种质押方式的特点如下：
+
+
+- Solo staking 即质押用户自行处理全部质押流程和后续维护的方式，其主要弊端是对设备、资金、知识、网络的高要求。
+
+
+- Staking pools 则一定程度上免除了质押用户对网络和硬件的需求。质押用户只需付出一定的费用，就可以请专业的质押服务提供商来对自己提供的 32ETH 进行质押来获取收益。同时这种方式也能保证取款私钥仍由质押者本身掌控，对资金的掌控度也较高。但是对质押者的资金和知识仍然具有较高要求。在某些分类中，这种质押方式也被称作 Staking as a service。
+
+
+- Liquid staking 在 staas 将节点具体运营外包给专业节点运营商的基础上更进一步，由质押池来统一归集用户的 ETH 进行质押操作，使得用户可以以任意金额进行质押，同时质押池会给用户发放一个质押衍生品 LSD（Liquid Staking Derivatives/ Tokens, 我们下文统一以 LSD 来代替），LSD 在 DeFi 中目…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国金融行为监管局将禁止加密空投等激励措施与引导用户投资相结合]]></title>
+        <id>https://panewslab.com/zh/articledetails/6z7baw0m.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6z7baw0m.html"/>
+        <updated>2023-06-09T11:24:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月9日消息，据CoinDesk报道，英国金融行为监管局（FCA）支付和数字资产主管Matthew Long表示，在FCA的新规定于10月8日生效生效后，将禁止通过空投赠送免费的NFT或加密货币的形式，来引导用户对加密资产的投资。虽然加密空投和NFT本身不会被禁止，但禁止将此类激励措施与鼓励人们投资的促销活动结合使用。
+此前消息，英国金融行为监管局宣布从10月8日起，加密服务广告商将在英国面临更严格的规定。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TMS网络（TMSN）：2023年不可阻挡的浪潮压倒性Arbitrum（ARB）和瑞波币（XRP）]]></title>
         <id>https://0xzx.com/2023060919073524382.html</id>
@@ -56,6 +93,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[香港金融管理局：将开始为实施零售CBDC进行研究和试点]]></title>
+        <id>https://panewslab.com/zh/articledetails/bpzkuohr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/bpzkuohr.html"/>
+        <updated>2023-06-09T11:00:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月9日消息，据CoinDesk报道，香港金融管理局 (HKMA) 发布的《电子港元 - 制定下一步计划》报告中表示，将开始为实施零售央行数字货币（CBDC）进行研究和试点。报告称，尽管从2017年就开始研究数字版港元（称为“e-HKD”）的开发，但最近的一项研究和从“两轮市场咨询”中收到的评论使金管局确信，“有必要至少开始为未来可能实施的零售CBDC铺平道路”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[相较于BRC721 ，GBRC-721有什么亮点？]]></title>
         <id>https://www.web3sj.com/?p=73746</id>
         <link href="https://www.web3sj.com/news/73746/"/>
@@ -63,6 +110,16 @@
         <summary type="html"><![CDATA[GBRC721 作为 BRC721 标准的扩展，一个值得注意的特点是它在块空间使用效率方面的提高。独特的「deploy」操作只在链上存储一次集合特征，随后的「mint」操作会参考这些特征。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3日报｜三家VC起诉Curve创始人商业欺诈；Magic Eden上线比特币域名铭文铸造功能]]></title>
+        <id>https://www.theblockbeats.info/news/42535</id>
+        <link href="https://www.theblockbeats.info/news/42535"/>
+        <updated>2023-06-09T10:54:41.000Z</updated>
+        <summary type="html"><![CDATA[6月9日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +133,27 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[前花旗高级交易主管Matt Zhang：加密项目应考虑是否需要代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/529b6w6u.html</id>
+        <link href="https://panewslab.com/zh/articledetails/529b6w6u.html"/>
+        <updated>2023-06-09T10:31:57.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月9日消息，据The Block报道，前花旗结构性产品交易全球主管Matt Zhang表示，随着美国监管不确定性的增加，加密项目应该仔细考虑他们是否需要代币。
+此前消息，由前花旗高级交易主管Matt Zhang创立的数字资产投资管理公司 Hivemind Capital Partners宣布推出其新的开放式 Liquid Opportunity Fund，其目标是规模3 亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget Research每周要闻：SEC诉讼引市场恐慌，Meme币生命周期明显缩短]]></title>
+        <id>https://www.theblockbeats.info/news/42527</id>
+        <link href="https://www.theblockbeats.info/news/42527"/>
+        <updated>2023-06-09T10:30:20.000Z</updated>
+        <summary type="html"><![CDATA[聚焦链上数据，每周要闻盘点。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[签名就被盗？用过Uniswap的请警惕！揭秘Permit2签名钓鱼]]></title>
         <id>https://www.web3sj.com/?p=73704</id>
         <link href="https://www.web3sj.com/definews/73704/"/>
@@ -83,6 +161,37 @@
         <summary type="html"><![CDATA[对于个人来说，如果你不懂得你正在做的操作意味着什么，那么你进行的每一个链上交互或签名都有可能使你的资产被盗。因此安全问题一直是加密世界中最头疼的问题之一，并且由于区块链的特性，一旦资产被盗几乎是没有办法可以追回的，所以在加密世界中具备安全知识尤其重要。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：约3170万美元的SHIB转移到币安]]></title>
+        <id>https://panewslab.com/zh/articledetails/psr9dvbd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/psr9dvbd.html"/>
+        <updated>2023-06-09T10:01:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月9日消息，据Whale Alert监测，4,000,379,151,023枚SHIB（价值约31,709,005美元）解除质押后转移到Binance。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opside 实现 PoS & PoW 全面去中心化，Era7 和 iZUMi 专属 ZK-Rollup 即将上线]]></title>
+        <id>https://panewslab.com/zh/articledetails/l1f298gd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l1f298gd.html"/>
+        <updated>2023-06-09T10:00:13.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月9日消息，Opside 官方宣布早期冷启动节点全面退出网络，PoS 节点网络和 PoW 矿工网络全部交由社区运营，实现完全去中心化。自5月24日 Opside 推出 Pre-alpha 激励测试网以来，已有超过 2,000+ 节点平稳运行；PoW 方面，上线 5 天内已有 14 家矿工机构参与到 Public zkEVM 的挖矿中，实际算力供给远大于需求。
+此外，Opside官方还透露，继 Public zkEVM 成功启动后，下周还将上线更多专属 ZK-Rollup，Era7 和 iZUmi 或将首发。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Do Kwon自被捕以来已转移2900万美元的加密货币]]></title>
+        <id>https://panewslab.com/zh/articledetails/wv74oyq6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wv74oyq6.html"/>
+        <updated>2023-06-09T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月9日消息，据Cryptonomis报道，首尔南区检察官办公室金融犯罪调查局局长Dan Sunghan向透露，在3月23日Do Kwon试图持假护照离开黑山被捕后，可能亲自或应他的要求转移了大约2900万美元的加密货币。此前消息，Dan Sunghan表示，Do Kwon和他的同事在瑞士Sygnum Bank AG中仍持有1300万美元资金，这些资金是从Luna Foundation Guard的加密钱包转移到另一个独立的钱包，然后通过场外交易服务转入该银行，韩国检方正努力冻结这些资金。据悉，Sygnum Bank是一家专门从事加密货币的瑞士银行。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -404,29 +513,6 @@ PANews此前对此进行报道时，发现The Moment3 !官方推特账号于6月
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta CEO评苹果Vision Pro头显：无“突破性解决方案”，且成本太高]]></title>
-        <id>https://panewslab.com/zh/articledetails/sbcw434f.html</id>
-        <link href="https://panewslab.com/zh/articledetails/sbcw434f.html"/>
-        <updated>2023-06-09T05:52:53.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月9日消息，据The Verge报道，Meta首席执行官Mark Zuckerberg似乎并不担心苹果日前推出的Vision Pro头显。Zuckerberg在今天举办的全员会议上表示，苹果Vision Pro头显的各项功能和场景应用，Meta此前早已纳入设想或正在实现中，没有出现创新的“突破性的解决方案”，且成本是Quest 3头显的7倍；在价值观和愿景上，苹果和Meta的差异已显现出来，Meta的目标是提供供“每个人都可以访问且负担得起”的产品。
-Meta 在元宇宙中的目标是倡导多元社交，而Vision Pro似乎更加孤立。他承认，苹果的方法“可能是未来计算的愿景”，但“不是我想要的”。
-据悉，Vision Pro的售价为3499美元，Quest 3的售价为499美元，Quest Pro的售价为999美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多位律师认为Ripple案的裁决很可能会对币安和Coinbase案产生影响]]></title>
-        <id>https://panewslab.com/zh/articledetails/b4p4f1z2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/b4p4f1z2.html"/>
-        <updated>2023-06-09T05:42:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月9日消息，据Cointelegraph报道，加密律师James Murphy（推特昵称：MetaLawMan）在推特上表示，在美国证券交易委员会（SEC）诉Ripple案的裁决中，对Ripple有利的结果可能会“破坏SEC对Coinbase和币安提起诉讼的整个基础”，但Torres法官对Ripple案的裁决不会成为最近这些诉讼“有约束力的先例”，负责Coinbase和Binance诉讼的法官”没有义务以同样的方式做出裁决”，因为只有上诉法院和最高法院的裁决才有这种影响力。Murphy认为，负责申领Coinbase案件的法官Reardon“将非常密切地关注”XRP是否属于证券的决定，并指出他们同在曼哈顿下城法院任职。他认为，对于Coinbase投诉中引用的13种代币是否为证券，Reardon将“遵循同样的推理”。
-Ripple案支持者John Deaton律师在接受采访时表示，SEC“很清楚”Torres法官对Ripple案的裁决将在“不久的将来”公布，因此SEC可能故意在该结果之前提交这些新案件，以防监管机构在Ripple案件中面临不利结果。律所Morgan Mac Lawyers的顾问Bill Morgan表示，其也认为Ripple案可能会对币安和Coinbase案产生影响，Ripple诉讼的结果可以作为行业或SEC的”优势”，这取决于最终结果。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[重新思考预言机，看到及未被看到的]]></title>
         <id>https://www.defidaonews.com/article/6821512</id>
         <link href="https://www.defidaonews.com/article/6821512"/>
@@ -447,67 +533,11 @@ Ripple案支持者John Deaton律师在接受采访时表示，SEC“很清楚”
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pudgy Penguins CEO计划推出Web3许可市场Overpass]]></title>
-        <id>https://panewslab.com/zh/articledetails/z0mfsq9m.html</id>
-        <link href="https://panewslab.com/zh/articledetails/z0mfsq9m.html"/>
-        <updated>2023-06-09T05:25:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月9日消息，据Forkast报道，NFT项目Pudgy Penguins首席执行官 Luca Netz在接受采访时表示，其最早将于6月下旬推出名为Overpass的Web3许可市场。
-Netz介绍称：“NFT许可将使该行业从“庞氏经济学”模式转变，并通过关注有形的、现实世界的收入来促进可持续增长。Overpass旨在通过区块链技术简化并解决目前复杂且繁琐的许可程序，与创建虚拟资产和空投的负债形式不同，Overpass模型代表了范式转变。该平台允许公司直接从持有者那里获得知识产权许可，用于他们的产品和工具，为持有者提供一种可扩展的获取货币收益的方式。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta展示自研生成式AI工具，输入文本即可修图和创建表情]]></title>
-        <id>https://panewslab.com/zh/articledetails/1tqymi9g.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1tqymi9g.html"/>
-        <updated>2023-06-09T05:07:06.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月9日消息，据路透社报道，Meta昨日向员工展示了其正在构建的一系列生成式AI工具，包括为Messenger和WhatsApp推出类似ChatGPT的聊天机器人，支持多种语言。根据Meta发言人提供的会议摘要，在全体会议上发言的公司高管还展示了即将推出的Instagram新AI功能，包括通过文本提示修改用户发布的照片，以及为消息服务创建表情贴纸。
-Meta首席执行官马克・扎克伯格在昨日的会议上告诉员工，去年生成式AI技术的进步使公司有可能将这项技术“融入我们的每一款产品”。除了面向消费者的工具之外，与会的高管们还宣布了一款名为Metamate的员工生产力助手，它可以根据从公司内部系统收集的信息回答问询并执行任务。
-此外，据Axios报道，扎克伯格向员工宣布了一项计划，将在其旗舰产品（如 Facebook和Instagram）中加入生成式AI文本、图像和视频生成器，不过扎克伯格此举并非替代公司在元宇宙的重心。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国众议院共和党人发布稳定币新监管草案，融合了两党部分立场]]></title>
-        <id>https://panewslab.com/zh/articledetails/e01pk3ig.html</id>
-        <link href="https://panewslab.com/zh/articledetails/e01pk3ig.html"/>
-        <updated>2023-06-09T04:58:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月9日消息，据CoinDesk报道，美国众议院金融服务委员会共和党主席发布了稳定币监管主要立法提案的新草案，其中包括民主党立法者的一些立场，将于6月13日的委员会听证会上进一步讨论。如果该法案被国会两院提出并通过，将建立美国首个稳定币法规。
-该草案将要求美联储制定发行稳定币的要求，但仍将让州监管机构监督发行这些代币的公司，还赋予美联储一些额外权力，包括在紧急情况下干预受国家监管的发行人的权力。各州也可以将其监管职责移交给联邦监管机构。新草案还删除了早些时候要求研究数字美元优点的部分。
-委员会发言人表示，这份新草案旨在开始融合两党的部分立场，并进一步增加了共和党委员会成员的观点。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX完成第20次OKB回购销毁，总价值约2.58亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/u5zsl8yu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/u5zsl8yu.html"/>
-        <updated>2023-06-09T04:48:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月9日消息，据官方消息，OKX宣布完成第20次OKB回购销毁，本次回购从2023年3月1日开始至2023年5月31日止，共面向二级市场回购并销毁的OKB数量为5,497,312.77枚，价值约2.58亿美元（按90日均价），已转入黑洞地址。
-截止目前，OKX已累计销毁OKB数量为64,042,314.70枚，OKB现有流通量为235,957,685.30枚。据悉，自2019年5月4日开始，欧易OKX针对发行总量3亿枚的OKB，根据当季市场和经营情况每三个月进行回购并转入黑洞地址彻底销毁。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OKX Ventures：重新思考预言机，看到及未被看到的]]></title>
         <id>https://www.theblockbeats.info/news/42504</id>
         <link href="https://www.theblockbeats.info/news/42504"/>
         <updated>2023-06-09T04:34:03.000Z</updated>
         <summary type="html"><![CDATA[OKX Ventures核心观点是只要链下数据还有价值，预言机这类中间件在整个Web3的叙述中将持续发挥关键作用]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ankr企业级RPC和AppChain解决方案现已在微软Azure应用市场上可用]]></title>
-        <id>https://www.theblockbeats.info/news/42499</id>
-        <link href="https://www.theblockbeats.info/news/42499"/>
-        <updated>2023-06-09T03:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Ankr致力于提供领先的技术，帮助客户在瞬息万变的行业中保持领先地位，从而创造令用户惊叹的体验。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -557,16 +587,6 @@ Meta首席执行官马克・扎克伯格在昨日的会议上告诉员工，去�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HarryPotterObamaSonic10Inu：从BSC转生ETH的「抽象大师」]]></title>
-        <id>https://www.theblockbeats.info/news/42495</id>
-        <link href="https://www.theblockbeats.info/news/42495"/>
-        <updated>2023-06-09T02:02:47.000Z</updated>
-        <summary type="html"><![CDATA[忘掉过去转头起飞的「抽象大师」，Crypto 世界真是太带劲啦]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[从Ordinals辩论回顾2014年OP_Return之争：Dapps与比特币交易对决]]></title>
         <id>https://www.defidaonews.com/article/6821444</id>
         <link href="https://www.defidaonews.com/article/6821444"/>
@@ -604,16 +624,6 @@ Meta首席执行官马克・扎克伯格在昨日的会议上告诉员工，去�
         <summary type="html"><![CDATA[Chainlink正在与Swift全球社区合作，让金融机构通过Swift与全球各大区块链网络无缝交互。]]></summary>
         <author>
             <name>Chainlink</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm引入Flood工具，用于区块链节点负载测试]]></title>
-        <id>https://www.theblockbeats.info/news/42486</id>
-        <link href="https://www.theblockbeats.info/news/42486"/>
-        <updated>2023-06-09T01:00:01.000Z</updated>
-        <summary type="html"><![CDATA[本文主要介绍了 Flood，一种负载测试工具，它为区块链节点的性能特征提供了前所未有的视图。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
         </author>
     </entry>
     <entry>
