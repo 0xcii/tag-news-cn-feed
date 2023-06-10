@@ -63,12 +63,22 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
+          "id": "https://www.defidaonews.com/article/6821608",
+          "author": "吴说",
+          "description": "美 SEC 为何要起诉 Binance 和 Coinbase？",
+          "link": "https://www.defidaonews.com/article/6821608",
+          "publishedOn": "2023-06-10T02:55:13.000Z",
+          "wordCount": 461,
+          "title": "美 SEC 主席 Gary Gensler 演讲全文：我们为什么起诉 Binance 和 Coinbase？",
+          "imageUrl": "https://appserversrc.8btc.cn/lsoUbDw7GSHtKfydqtrfV0Jfvh_c.png?imageView2/1/w/500/h/300"
+        },
+        {
           "id": "https://www.defidaonews.com/article/6821596",
           "author": "Kyle",
           "description": "随着以太坊从一项年轻的实验性技术转变为成熟的技术堆栈，能够真正为普通用户带来开放、全球和无需许可的体验，这个堆栈需要大致同时经历三个主要的技术过渡",
           "link": "https://www.defidaonews.com/article/6821596",
           "publishedOn": "2023-06-09T15:25:28.000Z",
-          "wordCount": 1073,
+          "wordCount": 1094,
           "title": "Vitalik Buterin：以太坊的三次技术过渡",
           "imageUrl": "https://appserversrc.8btc.cn/Fi4yStly7roHi7BOMyz8KWKRKyct.png?imageView2/1/w/500/h/300"
         },
@@ -128,7 +138,7 @@
           "description": "币安人，在我们经历这些艰难时期时，我想与您分享 2 条推文。",
           "link": "https://www.defidaonews.com/article/6821452",
           "publishedOn": "2023-06-09T02:37:55.000Z",
-          "wordCount": 257,
+          "wordCount": 263,
           "title": "回击：CZ 内部信披露与 Gensler 抨击两家交易所",
           "imageUrl": "https://appserversrc.8btc.cn/Fh4epkQ1AVNdcZdxy3f6GoDN0EAj.png?imageView2/1/w/500/h/300"
         },
@@ -151,16 +161,6 @@
           "wordCount": 251,
           "title": "去中心化排序器如何服务不同的 Rollup？",
           "imageUrl": "https://appserversrc.8btc.cn/FpuqzFqYhco8QTDTS6JE-m3oOuZP.png?imageView2/1/w/500/h/300"
-        },
-        {
-          "id": "https://www.defidaonews.com/article/6821438",
-          "author": "深潮TechFlow",
-          "description": "在本文中，主要介绍了 Flood，一种负载测试工具，它为区块链节点的性能特征提供了前所未有的视图。",
-          "link": "https://www.defidaonews.com/article/6821438",
-          "publishedOn": "2023-06-09T01:19:59.000Z",
-          "wordCount": 391,
-          "title": "Paradigm引入Flood工具，用于区块链节点负载测试",
-          "imageUrl": "https://appserversrc.8btc.cn/FhUT9DxVbaVPOuCYUB6MqQBq8PUJ.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -277,42 +277,12 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
-          "id": "https://panewslab.com/zh/articledetails/gvl1kp0d.html",
-          "author": "PA一线",
-          "description": "PANews 6月10日消息，据官方消息，Arbitrum发布了关于此前交易批量提交故障的事后分析报告。Arbitrum表示，排序器没有宕机或耗尽资金，排序器会继续接受用户交易，没有用户资金面临任何风险。据此前消息，Arbitrum的排序器代码出现bug，导致该网络批量提交交易的功能短暂中断，交易无法在主链上得到确认。随后漏洞被修复，交易批量提交功能已恢复。",
-          "link": "https://panewslab.com/zh/articledetails/gvl1kp0d.html",
-          "publishedOn": "2023-06-10T02:09:49.000Z",
-          "wordCount": 343,
-          "title": "Arbitrum发布排序器故障分析报告：没有用户资金面临风险",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/uc7whuy2.html",
-          "author": "PA一线",
-          "description": "PANews 6月10日消息，据Crowdfundinsider报道，MEV Capital正在推出一个新的数字资产对冲基金“MEV Capital Stablecoin High-Yield Fund SP”。该基金采用开放式结构，在开曼群岛金融管理局 (CIMA) 注册，并由CIMA批准的审计师审计。该基金本月开始认购并以USDC计价，目标是到2023年达到1.3亿美元的资管规模。MEV Capital正在寻求在今年晚些时候推出一个ETH计价的高收益基金，并逐步扩展到其他Layer 2网络。",
-          "link": "https://panewslab.com/zh/articledetails/uc7whuy2.html",
-          "publishedOn": "2023-06-10T01:50:25.000Z",
-          "wordCount": 398,
-          "title": "MEV Capital推出USDC计价的数字资产对冲基金",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9ryozhsi.html",
-          "author": "PA一线",
-          "description": "PANews 6月10日消息，据Blockworks报道，美国证券交易委员会（SEC）对上市公司Coinbase的最新执法行动并没有阻止Circle或其他公司继续寻求上市。Circle高管在今年早些时候表示，上市仍然是Circle战略的关键部分，而本周Circle的发言人再次证实了这一计划。该发言人表示：“我们不准备设定具体的最后期限，但我们将采取措施，在可行的情况下继续上市之旅”。此外，Circle于两周前发布了一份企业法律顾问的招聘启事，称该职位将“协助潜在的上市流程”，以及“支持建立上市公司政策、实践和流程”。不过，一位业内高管表示，在目前的环境下，大多数考虑上市的公司都可能面临很多困难。",
-          "link": "https://panewslab.com/zh/articledetails/9ryozhsi.html",
-          "publishedOn": "2023-06-10T01:16:11.000Z",
-          "wordCount": 343,
-          "title": "Circle将采取措施继续寻求上市",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
           "id": "https://panewslab.com/zh/articledetails/o8iw4qhe.html",
           "author": "PA一线",
           "description": "PANews 6月10日消息，Fox Business记者Eleanor Terrett推特发文称称，Circle首席执行官Jeremy Allaire、Steptoe & Johnson律师事务所合伙人Coy Garrison、Ava Labs创始人兼CEO Emin Gün Sirer、NFA News总裁兼CEO Thomas Sexton III将出席下周二举行的美国众议院金融服务委员会数字资产听证会。据此前消息，美国众议院金融服务委员会宣布将于当地时间6月13日14:00（北京时间6月14日凌晨）召开一场题为“数字资产的未来：为数字资产生态系统提供清晰度”的听证会。",
           "link": "https://panewslab.com/zh/articledetails/o8iw4qhe.html",
           "publishedOn": "2023-06-09T23:23:49.000Z",
-          "wordCount": 421,
+          "wordCount": 448,
           "title": "Circle CEO、Ava Labs创始人等将出席美国众议院数字资产听证会",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -322,7 +292,7 @@
           "description": "PANews 6月10日消息，据CoinDesk报道，链上数据显示，自美国证券交易委员会(SEC)执法行动后，已有大约40亿美元资金从币安、Coinbase和Binance US流出。区块链分析公司Nansen和Glassnode的数据显示，本周一至周四，这三家交易所通过以太坊网络净流出31亿美元，比特币(BTC)净流出8.64亿美元。其中币安在四天内的以太坊净流出为20亿美元。该指标包括ETH和所有基于以太坊的代币。与此同时，比特币净流出8.38亿美元(31,868枚比特币)。Coinbase的以太坊净流出达10亿美元，比特币净流出总额为2500万美元。而Binance US以太坊净流出总额为7500万美元。",
           "link": "https://panewslab.com/zh/articledetails/ioi1w1iy.html",
           "publishedOn": "2023-06-09T23:18:27.000Z",
-          "wordCount": 355,
+          "wordCount": 382,
           "title": "数据：SEC执法行动已导致40亿美元从币安、Coinbase和Binance US流出",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -332,7 +302,7 @@
           "description": "PANews 6月10日消息，据CoinDesk报道，加密交易所Crypto.com宣布，从6月21日起将不再向美国的机构客户提供服务，机构用户已提前收到暂停服务决定的通知。该交易所表示，鉴于“当前的市场格局”，机构客户的“需求有限”。零售投资者不会受此决定的影响，可以继续能够在美国使用该平台。",
           "link": "https://panewslab.com/zh/articledetails/0f2kgn0l.html",
           "publishedOn": "2023-06-09T23:08:58.000Z",
-          "wordCount": 343,
+          "wordCount": 370,
           "title": "Crypto.com将于6月21日停止向美国机构客户提供服务，零售业务不受影响",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }

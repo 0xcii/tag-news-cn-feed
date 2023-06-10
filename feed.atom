@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T02:42:03.108Z</id>
+    <id>urn:2023-06-10T03:13:04.321Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-10T02:42:03.108Z</updated>
+    <updated>2023-06-10T03:13:04.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[美 SEC 主席 Gary Gensler 演讲全文：我们为什么起诉 Binance 和 Coinbase？]]></title>
+        <id>https://www.defidaonews.com/article/6821608</id>
+        <link href="https://www.defidaonews.com/article/6821608"/>
+        <updated>2023-06-10T02:55:13.000Z</updated>
+        <summary type="html"><![CDATA[美 SEC 为何要起诉 Binance 和 Coinbase？]]></summary>
+        <author>
+            <name>吴说</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是分叉？ 什么是硬分叉和软分叉？]]></title>
         <id>https://0xzx.com/2023061010353526156.html</id>
@@ -53,36 +63,6 @@
         <summary type="html"><![CDATA[如果你需要一份工作，你可能想在 American Truck Simulator 的虚拟高速公路上登记，一家现 […]]]></summary>
         <author>
             <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum发布排序器故障分析报告：没有用户资金面临风险]]></title>
-        <id>https://panewslab.com/zh/articledetails/gvl1kp0d.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gvl1kp0d.html"/>
-        <updated>2023-06-10T02:09:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月10日消息，据官方消息，Arbitrum发布了关于此前交易批量提交故障的事后分析报告。Arbitrum表示，排序器没有宕机或耗尽资金，排序器会继续接受用户交易，没有用户资金面临任何风险。据此前消息，Arbitrum的排序器代码出现bug，导致该网络批量提交交易的功能短暂中断，交易无法在主链上得到确认。随后漏洞被修复，交易批量提交功能已恢复。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEV Capital推出USDC计价的数字资产对冲基金]]></title>
-        <id>https://panewslab.com/zh/articledetails/uc7whuy2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uc7whuy2.html"/>
-        <updated>2023-06-10T01:50:25.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月10日消息，据Crowdfundinsider报道，MEV Capital正在推出一个新的数字资产对冲基金“MEV Capital Stablecoin High-Yield Fund SP”。该基金采用开放式结构，在开曼群岛金融管理局 (CIMA) 注册，并由CIMA批准的审计师审计。该基金本月开始认购并以USDC计价，目标是到2023年达到1.3亿美元的资管规模。MEV Capital正在寻求在今年晚些时候推出一个ETH计价的高收益基金，并逐步扩展到其他Layer 2网络。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle将采取措施继续寻求上市]]></title>
-        <id>https://panewslab.com/zh/articledetails/9ryozhsi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9ryozhsi.html"/>
-        <updated>2023-06-10T01:16:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月10日消息，据Blockworks报道，美国证券交易委员会（SEC）对上市公司Coinbase的最新执法行动并没有阻止Circle或其他公司继续寻求上市。Circle高管在今年早些时候表示，上市仍然是Circle战略的关键部分，而本周Circle的发言人再次证实了这一计划。该发言人表示：“我们不准备设定具体的最后期限，但我们将采取措施，在可行的情况下继续上市之旅”。此外，Circle于两周前发布了一份企业法律顾问的招聘启事，称该职位将“协助潜在的上市流程”，以及“支持建立上市公司政策、实践和流程”。不过，一位业内高管表示，在目前的环境下，大多数考虑上市的公司都可能面临很多困难。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -437,16 +417,6 @@
         <summary type="html"><![CDATA[简单介绍 5 种排序器方案及其优缺点。]]></summary>
         <author>
             <name>MarsBit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm引入Flood工具，用于区块链节点负载测试]]></title>
-        <id>https://www.defidaonews.com/article/6821438</id>
-        <link href="https://www.defidaonews.com/article/6821438"/>
-        <updated>2023-06-09T01:19:59.000Z</updated>
-        <summary type="html"><![CDATA[在本文中，主要介绍了 Flood，一种负载测试工具，它为区块链节点的性能特征提供了前所未有的视图。]]></summary>
-        <author>
-            <name>深潮TechFlow</name>
         </author>
     </entry>
     <entry>
