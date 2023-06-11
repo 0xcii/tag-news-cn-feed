@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T13:14:10.549Z</id>
+    <id>urn:2023-06-11T14:10:55.843Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-11T13:14:10.549Z</updated>
+    <updated>2023-06-11T14:10:55.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,16 @@
         <summary type="html"><![CDATA[开放世界游戏不断改进，令人难以置信，为玩家提供了越来越详细的环境来探索他们内心的内容。 但是地图越大，故事就越 […]]]></summary>
         <author>
             <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全机构：BSC生态协议Atlantis Loans遭治理攻击，已损失约100万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/w008h0cr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/w008h0cr.html"/>
+        <updated>2023-06-11T11:45:05.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月11日消息，据安全机构 Beosin监控，BSC 生态协议 Atlantis Loans 遭治理攻击，攻击者获得了对合约的控制权，并替换为包含后门功能的合约，以转移用户资产，目前损失约为 100 万美元。攻击者于 2023 年 6 月 7 日在 GovernorBravo 合约中创建恶意治理提案。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
