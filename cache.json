@@ -88,7 +88,7 @@
           "description": "为什么 SEC 对交易所质押的攻击只会进一步使 Lido 受益？",
           "link": "https://www.defidaonews.com/article/6822016",
           "publishedOn": "2023-06-13T07:01:31.000Z",
-          "wordCount": 404,
+          "wordCount": 408,
           "title": "SEC 强监管后，Lido 的质押中心化或为以太坊的未来埋下隐患",
           "imageUrl": "https://appserversrc.8btc.cn/FgdJ9E0YpLSD5xP9noNOCO26gclz.png?imageView2/1/w/500/h/300"
         },
@@ -593,11 +593,11 @@
         {
           "id": "https://www.theblockbeats.info/news/42643",
           "author": null,
-          "description": "对于 Web3 来说，身处熊市，我们即将度过艰难的六月，但 Crypto 开发者并不会停止动作。今日，Uniswap 发布了 Uniswap V4 版本代码草稿，以便可以公开构建 V4 版本。Bankless 与 Uniswap 创始人 Hayden Adams 交谈后，深入了解这个将到来的 V4 版本的所有功能更新。\n\n\n\n在这之前，我们先熟悉一下上个版本 V3 的具体情况，Uniswap V3 于 2021 年 5 月发布，引入了集中流动性（可以在特定价格范围内提供流动性），从而显着提高 DEX 的资本效率，也奠定了 Uniswap 作为 DeFi 领域最大 DEX 的地位。目前 Uniswap 在 DeFi 链上交易量中占有 57.4% 的份额，是该领域排名第二 DEX 的 3 倍之多。\n\n\n\nUniswap V4 的愿景是允许任何人通过引入「挂钩」（Hooks）来做出这些权衡决定。以下是 Uniswap V4 版本的主要功能：\n\n\n挂钩 Hooks\n\n\n\n\n\n例如，挂钩可以用来创建具有根据市场条件变动的动态交换费用的资金池，而不是预先设置和静态的交换费用。同时，挂钩还使交易者能够下更复杂的订单，例如限价订单或 TWAP（时间加权平均价格）订单，这些订单会在一定时间内买入/卖出一定数量的 Token。\n\n\n\n不仅如此，挂钩还允许以不同的方式使用 Uniswap 的流动性。这类似于 Balancer 的 Boosted Pools，超出范围的流动性可以存入其他协议，例如借贷者，以获得额外的收益。\n\n\n\n以上这些有关挂钩的示例，仅仅是 Uniswap 团队构思出的一些应用。除此之外，任何人都可以无需获得许可的构建和部署自己的挂钩。\n\n\n\n律动 BlockBeats 注：在 DeFi 中，Hooks是一种编程概念，指的是一组用于在智能合约执行特定操作时自动触发的函数或代码片…",
+          "description": "V4对Uniswap本身以及整个DeFi都将产生广泛的影响。",
           "link": "https://www.theblockbeats.info/news/42643",
           "publishedOn": "2023-06-13T14:13:28.000Z",
           "wordCount": null,
-          "title": "关于Uniswap v4，你需要知道的一切",
+          "title": "关于Uniswap V4，你需要知道的一切",
           "imageUrl": null
         },
         {
