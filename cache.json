@@ -1,6 +1,63 @@
 {
   "sources": [
     {
+      "title": "0x资讯",
+      "feedUrl": "https://0xzx.com/feed/",
+      "siteUrl": "https://0xzx.com",
+      "articles": [
+        {
+          "id": "https://0xzx.com/2023061423343536401.html",
+          "author": "0x资讯",
+          "description": "Jackery Explorer 2000 Plus是新系列的第一款太阳能发电机，是一款采用LIFEPO4电池 […]",
+          "link": "https://0xzx.com/2023061423343536401.html",
+          "publishedOn": "2023-06-14T15:34:04.000Z",
+          "wordCount": 2294,
+          "title": "Jackery Explorer 2000 Plus，第一个带扩展电池的模块化电站",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/2023061423343536400.html",
+          "author": "0x资讯",
+          "description": "Apple 续订了科幻剧《筒仓》第二季。 该剧由格雷厄姆·约斯特创作，根据作家休·豪伊的羊毛小说改编，由丽贝卡 […]",
+          "link": "https://0xzx.com/2023061423343536400.html",
+          "publishedOn": "2023-06-14T15:34:03.000Z",
+          "wordCount": 1820,
+          "title": "Apple 续订 Silo 第 2 季",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/2023061423343536399.html",
+          "author": "0x资讯",
+          "description": "提供软件解决方案和创意服务的知名平台 Polygon Labs 已开始与 Hang 和 Flipkart 合作 […]",
+          "link": "https://0xzx.com/2023061423343536399.html",
+          "publishedOn": "2023-06-14T15:34:01.000Z",
+          "wordCount": 2281,
+          "title": "Polygon 与 Hang 和 Flipkart 合作开展品牌至上的忠诚度项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/2023061423323536398.html",
+          "author": "0x资讯",
+          "description": "根据周三发布的一份议会报告，控制食品通胀的措施，例如取消“最佳食用”标签和标准化盘点尺寸以解决所谓的缩水膨胀问 […]",
+          "link": "https://0xzx.com/2023061423323536398.html",
+          "publishedOn": "2023-06-14T15:32:23.000Z",
+          "wordCount": null,
+          "title": "以下是渥太华应对食品通胀的方法——以及何时可以缓解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://0xzx.com/?p=3536344",
+          "author": "smoey0xzxadmin",
+          "description": "Excel 是几乎每个人都使用的实用程序之一，无论是学生还是职业人士。虽然它很少遇到错误，但许多人在他们的系统 […]",
+          "link": "https://0xzx.com/2023061423113536344.html",
+          "publishedOn": "2023-06-14T15:11:29.000Z",
+          "wordCount": null,
+          "title": "如何修复“没有足够的内存来运行 Microsoft Excel”错误",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "DeFi之道",
       "feedUrl": "https://www.defidaonews.com/feed",
       "siteUrl": "https://www.defidaonews.com",
@@ -113,12 +170,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=74731",
+          "author": "Gao",
+          "description": "Uniswap 从 2018 年上线以来，经过了多个版本的更新。Uniswap V1 引入了恒定乘积的做市商模型，支持无需许可的代币交换；Uniswap V2 增加了 ERC-20/ERC-20 对的交易（V1 只支持 ERC-20/ETH 对的交易）；Uniswap V3 引入了「集中流动性」并让做市商可以自行选择费用层级（V2 固定为 0.3%），大大提高了资金利用率。",
+          "link": "https://www.web3sj.com/definews/74731/",
+          "publishedOn": "2023-06-14T15:36:32.000Z",
+          "wordCount": 888,
+          "title": "深度解读Uniswap v4：一个「集大成者」的去中心化交易所",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686756980107.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=74715",
+          "author": "Gao",
+          "description": "Panoptic Protocol 是世界上第一个可以让 Uniswap v3 生态中的任何资产池进行无需许可的期权交易的协议。Panoptic 的宗旨是开发一个无需信任、无需许可、可组合的期权产品，并克服了在以太坊区块链上搭建期权交易协议的挑战性任务。",
+          "link": "https://www.web3sj.com/definews/74715/",
+          "publishedOn": "2023-06-14T15:33:52.000Z",
+          "wordCount": 1016,
+          "title": "五分钟了解Panoptic Protocol：永久、无预言机期权协议",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/ed8fcb19c3cfb6adf33bb6b443d7dee0.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=74705",
+          "author": "Gao",
+          "description": "Middleware 是指在 Web3.0 技术栈中起到连接、增强和补充功能的重要组成部分。它们扮演着桥梁的角色，连接着区块链技术与应用的世界。中间件为开发者和用户提供了一种更加友好、高效的方式来与分布式应用和区块链交互，同时也解决了一些在去中心化环境下的技术挑战。",
+          "link": "https://www.web3sj.com/news/74705/",
+          "publishedOn": "2023-06-14T15:29:35.000Z",
+          "wordCount": 1330,
+          "title": "梳理中间件细分赛道：跨链桥、预言机、网关类API与数据分析协议",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686756562337.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=74678",
+          "author": "Gao",
+          "description": "2014 年 MT.GOX 交易所安全事件（也被称为「门头沟事件」），遭受了比特币上的交易延展性攻击 (Transaction malleability attack)，造成了约 85 万枚比特币的损失。此次攻击的具体过程如下：攻击者首先在 MT.GOX 发起一笔提现交易 A，接着在交易 A 被确认之前通过篡改交易签名，使得标识一笔交易唯一性的交易哈希发生改变，生成伪造的交易 B。",
+          "link": "https://www.web3sj.com/news/74678/",
+          "publishedOn": "2023-06-14T15:24:14.000Z",
+          "wordCount": 1067,
+          "title": "由9年前的「门头沟事件」看Groth16证明延展性攻击",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686756239509.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=74663",
+          "author": "Gao",
+          "description": "作为 Move 系公链的代表项目之一，Sui 代表了与以太坊 L2 不同的发展方向。项目上线至今，争议不少，尤其是其代币发行方式和释放模型。有人认为会步 ICP 后尘，也有人认为可能类似 2021 年新公链。",
+          "link": "https://www.web3sj.com/project/74663/",
+          "publishedOn": "2023-06-14T15:17:09.000Z",
+          "wordCount": 983,
+          "title": "Sui生态数据与代币释放情况分析",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686755811318.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=74659",
           "author": "Gao",
           "description": "Archway 是基于 Cosmos 开发组件构建的原生的 Layer1 区块链。除了与一般公链共同的功能，1 年多前，Archway 协议提出了「价值捕获」的想法，即所有为协议做出贡献的人，都可以获得价值回报。价值捕获的想法很受欢迎，一些协议也通过 Gas 回扣，代币再分配等方式进行尝试，但迄今核心的问题仍未解决，Dapps 无法真正受益并参与 L1 的价值捕获，且与它们为 L1 创造的价值成比例。",
           "link": "https://www.web3sj.com/news/74659/",
           "publishedOn": "2023-06-14T15:12:28.000Z",
-          "wordCount": 771,
+          "wordCount": 754,
           "title": "速览即将在Coinlist公售的价值捕获链Archway",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/DQzssz27oH.png"
         },
@@ -128,7 +235,7 @@
           "description": "Binance.US与美SEC在听证会上提交初步妥协方案，双方将继续协商。苹果公司与Damus达成共识，Damus调整zaps功能后可留在App Store。以太坊网络未受今日亚马逊AWS宕机影响，但64%的节点依赖AWS令人担忧。",
           "link": "https://www.web3sj.com/news/74647/",
           "publishedOn": "2023-06-14T11:59:59.000Z",
-          "wordCount": 710,
+          "wordCount": 720,
           "title": "Web3世界日报（2023-6.14）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023061411580824.jpg"
         },
@@ -138,7 +245,7 @@
           "description": "Hooks 是 Uniswap V4 的核心机制，指的是在资金池生命周期的某个特定时刻运行的代码片段。与之前的 Uniswap 版本相比，新版本资金池的可定制程度更高，因此无论是创建池子，还是 LP（流动性提供者）添加 / 移除流动性，抑或是在 swap 之前 / 后，Hooks 起到的作用都非常重要。",
           "link": "https://www.web3sj.com/definews/74631/",
           "publishedOn": "2023-06-14T09:10:09.000Z",
-          "wordCount": 797,
+          "wordCount": 772,
           "title": "Uniswap v4是如何实现限价单交易的？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686733781573.png"
         },
@@ -148,7 +255,7 @@
           "description": "区块链的匿名性为某些应用程序打开了垃圾邮件和 Sybil 攻击（女巫攻击）的可能性，这可能会严重影响用户体验和应用程序的整体功能。例如，一个 Web3 聊天应用程序，其中的用户是匿名的。每个人都可以发送无限量的消息，但我们没有能力踢出这个成员，因为消息的发送者是匿名的。",
           "link": "https://www.web3sj.com/news/74627/",
           "publishedOn": "2023-06-14T09:05:16.000Z",
-          "wordCount": 661,
+          "wordCount": 668,
           "title": "解析零知识证明防女巫方案RLN",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686733504445.png"
         },
@@ -158,59 +265,9 @@
           "description": "ERC-4626 是一种标准，它改进了收益型保险库的技术参数。它为代表单个底层 ERC-20 代币份额的收益保险库提供标准 API。代币化保险库已经成为 DeFi 中极为常见的模式。收益聚合器、借贷市场、质押衍生品等许多 dApp 都利用和依赖于代币化保险库。代币化保险库的示例包括 Yearn 和 Balancer。作为一个收益聚合器，Yearn 保险库使用户可以存入数字资产并获得收益。",
           "link": "https://www.web3sj.com/definews/74620/",
           "publishedOn": "2023-06-14T08:31:45.000Z",
-          "wordCount": 858,
+          "wordCount": 854,
           "title": "了解ERC-4626：DeFi代币化保险库的新标准",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686731492647.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74613",
-          "author": "Gao",
-          "description": "飒姐团队认为，在 CFTC Vs. Ooki DAO 速战速决且争议重重的一案中，最主要的价值是开创出 DAO 作为美国法项下「适格被告」的先例，这昭示了美国加州法院在实质上将 DAO 认定为了一种「法律实体」予以对待。当然，这种对待并不意味着 DAO 成为了一种合法的「法人实体」，但并不影响其承担相应的刑事、行政及民事责任。",
-          "link": "https://www.web3sj.com/daonews/74613/",
-          "publishedOn": "2023-06-14T07:51:48.000Z",
-          "wordCount": 842,
-          "title": "美CFTC胜诉，全球DAO第一案释放了什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/11cdc668bddda0b8df4f36e3a80c8c3f.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74605",
-          "author": "Gao",
-          "description": "Ledger 最初推出这一新功能的目的是让用户更轻松地自行管理自己的资产，通过将私钥助记词分成三份并由三个平台进行备份，让用户更便于恢复他们的私钥。然而，倡导隐私和自主权的 Web3 社区对此举感到意外，而市场反应也与预期完全相反。起初，Ledger CEO 坚持认为非 Web3 用户需要这样的功能，但最终无法抵挡公众舆论的声讨。",
-          "link": "https://www.web3sj.com/news/74605/",
-          "publishedOn": "2023-06-14T07:16:34.000Z",
-          "wordCount": 716,
-          "title": "Ledger Recover为何陷入南辕北辙的局面？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686726983044.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74600",
-          "author": "Gao",
-          "description": "当天早些时候，Amy Berman Jackson 法官似乎暗示她可能倾向于对用户访问币安、Binance.US 资产给予一定程度限制，但不是全面的限制令。此外，Amy Berman Jackson 还要求币安进一步与美国证券交易委员会就限制令进行协调，同时还命令美国证券交易委员会用「其他材料」代替限制令。",
-          "link": "https://www.web3sj.com/news/74600/",
-          "publishedOn": "2023-06-14T06:36:51.000Z",
-          "wordCount": 722,
-          "title": "币安诉讼案峰回路转：法官拒绝资产冻结令，或真能与SEC达成和解？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1686710590829.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74595",
-          "author": "Gao",
-          "description": "通过 Hooks，可以自定义与流动性池、交易、费用、LP 头寸的各种交互。Hooks 的本质是实现可定制化的流动性池。开发者可通过部署 Hooks（钩子）来实现满足自身需求场景 DEX，底层则是利用 Uniswap V4 的大流动性池。",
-          "link": "https://www.web3sj.com/definews/74595/",
-          "publishedOn": "2023-06-14T06:19:00.000Z",
-          "wordCount": 715,
-          "title": "Uniswap v4浮出水面，DEX能否超越CEX吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686723522906.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74579",
-          "author": "Gao",
-          "description": "2022 年 3 月 28 日，BLUR 获得了由 Paradigm 领导的 1100 万美元种子轮融资，但 BLUR 此轮的估值不清楚。看起来估值低于 10 亿美元是合理的：以下投资者目前处于获利状态，可能会在解锁时产生卖压。",
-          "link": "https://www.web3sj.com/nftnews/74579/",
-          "publishedOn": "2023-06-14T06:16:03.000Z",
-          "wordCount": 841,
-          "title": "BLUR即将解锁1.95亿代币：为什么预期抛售不会存在？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686723353370.png"
         }
       ]
     },
