@@ -1,10 +1,163 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-14T08:16:39.588Z</id>
+    <id>urn:2023-06-14T09:13:27.272Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-14T08:16:39.588Z</updated>
+    <updated>2023-06-14T09:13:27.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap v4是如何实现限价单交易的？]]></title>
+        <id>https://www.web3sj.com/?p=74631</id>
+        <link href="https://www.web3sj.com/definews/74631/"/>
+        <updated>2023-06-14T09:10:09.000Z</updated>
+        <summary type="html"><![CDATA[Hooks 是 Uniswap V4 的核心机制，指的是在资金池生命周期的某个特定时刻运行的代码片段。与之前的 Uniswap 版本相比，新版本资金池的可定制程度更高，因此无论是创建池子，还是 LP（流动性提供者）添加 / 移除流动性，抑或是在 swap 之前 / 后，Hooks 起到的作用都非常重要。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解析零知识证明防女巫方案RLN]]></title>
+        <id>https://www.web3sj.com/?p=74627</id>
+        <link href="https://www.web3sj.com/news/74627/"/>
+        <updated>2023-06-14T09:05:16.000Z</updated>
+        <summary type="html"><![CDATA[区块链的匿名性为某些应用程序打开了垃圾邮件和 Sybil 攻击（女巫攻击）的可能性，这可能会严重影响用户体验和应用程序的整体功能。例如，一个 Web3 聊天应用程序，其中的用户是匿名的。每个人都可以发送无限量的消息，但我们没有能力踢出这个成员，因为消息的发送者是匿名的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SignalPlus宏观研报：美联储暂停加息，核心通胀趋势放缓]]></title>
+        <id>https://www.theblockbeats.info/news/42655</id>
+        <link href="https://www.theblockbeats.info/news/42655"/>
+        <updated>2023-06-14T08:50:14.000Z</updated>
+        <summary type="html"><![CDATA[原文标题：《
+
+SignalPlus 宏观研报 (20230614)
+
+》
+原文来源：SignalPlus 華語
+
+
+
+
+
+
+
+
+
+各位朋友，欢迎来到 SignalPlus 宏观研报。SignalPlus 宏观研报每天为各位更新宏观市场信息，并分享我们对宏观趋势的观察和看法。欢迎追踪订阅，与我们一起关注最新的市场动态。
+
+
+
+
+
+
+
+美国 5 月份整体 CPI 小幅上涨 0.1%，核心 CPI 环比上涨 0.436%（未四舍五入），整体指数同比降至 4.0%，为 2021 年 3 月以来最低，而核心指数同比增长也放缓至 5.3%，为 2021 年 11 月以来最低，但仍远高于美联储的目标值；其中能源价格在该月份下跌了 3.6%（同比下跌 11.7%），这是 CPI 增长整体放缓的主要原因，而住房通胀则仍然保持强势，连续第 3 个月上涨 0.5%。
+
+
+
+
+
+
+市场试图从数据中找出理由来证明美联储暂停加息是合理的，包括整体通胀不及预期、核心通胀趋势放缓以及住房以外的通胀走弱，美债收益率起初因整体 CPI 未达预期而下跌，但后续对通胀的组成项目深入解读（业主等价租金环比增长 0.52%，隐含的 PCE 转嫁价格环比增长 0.4%），加上英国收益率大幅上升（2 年期 +26bp，英国央行下周加息 50 个基点的机率约为 15%），推动美债收益率曲线最终收高 10 个基点以上。
+
+
+
+
+
+
+至于今天的美联储会议，几乎所有年底前降息的预期都已经被从远期利率曲线中排除，对于 11 月至 12 月间联邦基金利率的定价在短短一个月内从 4.5% 左右升至约 5.2%，然而，市场仍普遍预期美联储在今天的会议上会暂停加息，加息 25 个基点的机率预测只有 10% 左右，不过市场预期 7 月 FOMC 加息的可能性超过 50%。
+
+
+今天的会议需要关注的一些重点：
+
+
+是否加息？从历史经验来看，…]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无政府主义和加密货币]]></title>
+        <id>https://www.defidaonews.com/article/6822220</id>
+        <link href="https://www.defidaonews.com/article/6822220"/>
+        <updated>2023-06-14T08:44:16.000Z</updated>
+        <summary type="html"><![CDATA[加密朋克将建立新的秩序，改变世界的经济、政治的格局。]]></summary>
+        <author>
+            <name>Block unicorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解ERC-4626：DeFi代币化保险库的新标准]]></title>
+        <id>https://www.web3sj.com/?p=74620</id>
+        <link href="https://www.web3sj.com/definews/74620/"/>
+        <updated>2023-06-14T08:31:45.000Z</updated>
+        <summary type="html"><![CDATA[ERC-4626 是一种标准，它改进了收益型保险库的技术参数。它为代表单个底层 ERC-20 代币份额的收益保险库提供标准 API。代币化保险库已经成为 DeFi 中极为常见的模式。收益聚合器、借贷市场、质押衍生品等许多 dApp 都利用和依赖于代币化保险库。代币化保险库的示例包括 Yearn 和 Balancer。作为一个收益聚合器，Yearn 保险库使用户可以存入数字资产并获得收益。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap V4是如何实现限价单交易的？]]></title>
+        <id>https://www.theblockbeats.info/news/42667</id>
+        <link href="https://www.theblockbeats.info/news/42667"/>
+        <updated>2023-06-14T08:24:15.000Z</updated>
+        <summary type="html"><![CDATA[V4版本的新功能Hooks使交易者能够部署更复杂的交易订单，其中就包括限价单交易。]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最安全的项目在Optimism网络上掀起波澜-]]></title>
+        <id>https://0xzx.com/2023061416173535573.html</id>
+        <link href="https://0xzx.com/2023061416173535573.html"/>
+        <updated>2023-06-14T08:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Optimism Network 通过引入可扩展的解决方案和增强去中心化应用程序的安全性，引领了以太坊生态系统 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA Mobile 发布了 UTOTS 以及一个在社区中引起巨大骚动的漏洞]]></title>
+        <id>https://0xzx.com/2023061416173535572.html</id>
+        <link href="https://0xzx.com/2023061416173535572.html"/>
+        <updated>2023-06-14T08:17:20.000Z</updated>
+        <summary type="html"><![CDATA[EA 搞砸了另一个 FIFA Mobile 更新，这次是 UTOTS 漏洞。 这个错误在短时间内为用户提供了顶 […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这是 Shibarium 如何影响 Shiba Inu 价格]]></title>
+        <id>https://0xzx.com/2023061416173535571.html</id>
+        <link href="https://0xzx.com/2023061416173535571.html"/>
+        <updated>2023-06-14T08:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Shibarium 仍然是 Shiba Inu 社区中最受期待的项目，但这个即将加入生态系统的项目将如何帮助  […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Watch 现已推出最佳 Pixel 功能之一]]></title>
+        <id>https://0xzx.com/2023061416173535570.html</id>
+        <link href="https://0xzx.com/2023061416173535570.html"/>
+        <updated>2023-06-14T08:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Rita El Khoury / Android Authority 长话短说 Google Pixel Wa […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shiba Inu 价格停滞不前，而分析师看好 Tradecurve]]></title>
+        <id>https://0xzx.com/2023061416163535568.html</id>
+        <link href="https://0xzx.com/2023061416163535568.html"/>
+        <updated>2023-06-14T08:16:17.000Z</updated>
+        <summary type="html"><![CDATA[就像任何其他具有许多移动组件的行业一样，波动性在加密货币行业中始终存在。 今天，我们探讨了两个著名的项目——S […]]]></summary>
+        <author>
+            <name>0x资讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美CFTC胜诉，全球DAO第一案释放了什么？]]></title>
         <id>https://www.web3sj.com/?p=74613</id>
@@ -66,56 +219,6 @@
 该地址的最后一次活动是在55天前，当时它在4月21日以平均1937美元的价格将12,746枚stETH兑换成2469万枚USDT。目前该地址持有18700枚stETH（约合3250万美元）。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI下一步已明确黄仁勋预测的方向，特斯拉和OpenAI疯狂追赶]]></title>
-        <id>https://0xzx.com/2023061415133535478.html</id>
-        <link href="https://0xzx.com/2023061415133535478.html"/>
-        <updated>2023-06-14T07:13:26.000Z</updated>
-        <summary type="html"><![CDATA[作者：椎名 编辑：Zuri  来源：硅兔赛跑 图片来源：由无界 AI工具生成 没能搭上AIGC第一班列车的人们 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由于监管机构，加密货币行业“注定”以 BTC 为中心：Michael Saylor]]></title>
-        <id>https://0xzx.com/2023061415133535477.html</id>
-        <link href="https://0xzx.com/2023061415133535477.html"/>
-        <updated>2023-06-14T07:13:25.000Z</updated>
-        <summary type="html"><![CDATA[MicroStrategy 联合创始人 Michael Saylor 表示，美国监管机构对加密货币公司采取的执 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ 否认 币安的比特币和 BNB 销售，但加密货币社区令人怀疑]]></title>
-        <id>https://0xzx.com/2023061415123535476.html</id>
-        <link href="https://0xzx.com/2023061415123535476.html"/>
-        <updated>2023-06-14T07:12:10.000Z</updated>
-        <summary type="html"><![CDATA[在指控 币安及其首席执行官赵长鹏（CZ）以惊人的速度清算比特币（BTC）和 BNB 后，CZ 在一 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当我们都被人工智能驱动时，留给领导者的是什么？]]></title>
-        <id>https://0xzx.com/2023061415113535474.html</id>
-        <link href="https://0xzx.com/2023061415113535474.html"/>
-        <updated>2023-06-14T07:11:19.000Z</updated>
-        <summary type="html"><![CDATA[为了充分探讨领导力和人工智能这一主题，我鼓励你阅读我之前题为“拥抱 AI 成为 WITCH 领导者”的文章（链 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安首席执行官反击交易所出售比特币换取 BNB 硬币的传言]]></title>
-        <id>https://0xzx.com/2023061415113535473.html</id>
-        <link href="https://0xzx.com/2023061415113535473.html"/>
-        <updated>2023-06-14T07:11:14.000Z</updated>
-        <summary type="html"><![CDATA[币安首席执行官 Changpeng “CZ” Zhao 驳斥了有关全球最大的加密货币交易所一直在出 […]]]></summary>
-        <author>
-            <name>0x资讯</name>
         </author>
     </entry>
     <entry>
@@ -261,36 +364,6 @@
         <summary type="html"><![CDATA[Uniswap V4 出现加快了 DEX 追赶 CEX 的脚步，Uniswap 有机会成为加密 defi 的真正基础设施，甚至有机会在未来五到十年内达到并超越 CEX 的市场份额。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostr2.0：作为比特币Layer2链下数据存储层]]></title>
-        <id>https://www.web3sj.com/?p=74548</id>
-        <link href="https://www.web3sj.com/news/74548/"/>
-        <updated>2023-06-14T05:56:22.000Z</updated>
-        <summary type="html"><![CDATA[本文将阐述 Nostr 中继如何在保持轻量级特性的同时同步其数据，使用户可以选择性地删除数据，这是 Layer 1 区块链所不具备的。同时，与在比特币区块链中存储大量数据相比，因为比特币区块的容量和速度有限，使用 Nostr 中继存储数据可能更加便宜。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安最新Launchpool项目Maverick是什么来头？]]></title>
-        <id>https://www.web3sj.com/?p=74533</id>
-        <link href="https://www.web3sj.com/definews/74533/"/>
-        <updated>2023-06-14T05:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Maverick Protocol 是一种根据交易价格移动的，动态分布自动做市商（AMM），旨在提供更深的流动性、为去中心化金融市场带来最佳流动性并提高资本效率，在此基础上，提供工具，最大化交易手续费收益，或者减少、规避无偿损失。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero OFT：无缝跨链代币转移的解决方案]]></title>
-        <id>https://www.web3sj.com/?p=74529</id>
-        <link href="https://www.web3sj.com/news/74529/"/>
-        <updated>2023-06-14T05:45:53.000Z</updated>
-        <summary type="html"><![CDATA[在 Omnichain Fungible Tokens（OFTs）出现之前，曾经尝试了多种方法。其中最早的解决方案之一是使用包装资产，即将一个区块链上的代币包装在智能合约中，然后钉住到不同区块链上的一个特定价值。这种方法可以使代币在不同链之间转移，但也引入了新的风险，例如代币失去锚定，可能会给用户带来重大损失。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -553,16 +626,6 @@ Stuart Alderoty表示，SEC应该立即从其网站上删除这篇演讲。必�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[快速了解递归铭文：ordinals的乐高积木]]></title>
-        <id>https://www.defidaonews.com/article/6822076</id>
-        <link href="https://www.defidaonews.com/article/6822076"/>
-        <updated>2023-06-14T01:32:34.000Z</updated>
-        <summary type="html"><![CDATA[递归铭文可以使用特殊的语法来引用其他铭文，这使创建铭文的体积更小，成本更低。]]></summary>
-        <author>
-            <name>veDAO研究院</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[递归铭文：比特币Ordinals协议的再次创新]]></title>
         <id>https://www.theblockbeats.info/news/42619</id>
         <link href="https://www.theblockbeats.info/news/42619"/>
@@ -578,26 +641,6 @@ Stuart Alderoty表示，SEC应该立即从其网站上删除这篇演讲。必�
         <link href="https://www.theblockbeats.info/news/42643"/>
         <updated>2023-06-13T14:13:28.000Z</updated>
         <summary type="html"><![CDATA[V4对Uniswap本身以及整个DeFi都将产生广泛的影响。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI开始对Web3全行业产生影响力]]></title>
-        <id>https://www.theblockbeats.info/news/42592</id>
-        <link href="https://www.theblockbeats.info/news/42592"/>
-        <updated>2023-06-13T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[AI对Web3的整顿一方面是，AI技术的出现，分散了资本对Web3的注意力；另一方面是AI使得Web3领域机制和逻辑正在发生改变。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance最新Launchpool，日均资本效率达100%以上Maverick是什么来头]]></title>
-        <id>https://www.theblockbeats.info/news/42640</id>
-        <link href="https://www.theblockbeats.info/news/42640"/>
-        <updated>2023-06-13T12:58:10.000Z</updated>
-        <summary type="html"><![CDATA[“我们的目标是在未来六个月内成为交易量排名前三的去中心化交易所。”核心开发者Bob Baxley在谈及Maverick的未来时说道。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
