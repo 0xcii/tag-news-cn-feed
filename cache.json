@@ -71,7 +71,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 459,
+          "wordCount": 451,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         },
@@ -113,12 +113,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=74908",
+          "author": "Gao",
+          "description": "为什么今天说起来 Lido 了呢？最近大量用户跑向了 Lido 上面进行质押，与上月相比 Lido 的 TVL 增加了 0.5 亿美元，这事细说起来和币安、coinbase 被控诉有联系，详细的内容让我们接着往下看叭！",
+          "link": "https://www.web3sj.com/definews/74908/",
+          "publishedOn": "2023-06-15T10:13:56.000Z",
+          "wordCount": 726,
+          "title": "质押协议Lido本月存款增加近百万以太币，原因竟是SEC控诉？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/e4fe93403abbcd2626695647e26eac54.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=74899",
           "author": "Gao",
           "description": "在过去最近 48 小时里，Curve 3pool 中的 USDT 集中度上升至了 50%，又在仅仅一个小时内又从 50% 急剧上升到了 74%。这引发了社区的担忧，大家似乎都对 USDT 突如其来的抛压有些摸不着头脑。难道是有人提前知道了一些关键信息？毕竟上一次 Curve 3pool 中的 USDT 集中度超过 50%，是在 2022 年 11 月 FTX 崩盘之时，自那之后 USDT 集中度就再未达到如此高的程度了。",
           "link": "https://www.web3sj.com/news/74899/",
           "publishedOn": "2023-06-15T10:11:56.000Z",
-          "wordCount": 830,
+          "wordCount": 790,
           "title": "USDT面临严重抛压，是做市商们在退出吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686823903757.png"
         },
@@ -128,7 +138,7 @@
           "description": "Dune Anlytics 数据显示，截至 6 月 13 日 LSDfi TVL 达 4.2 亿美元，仅约为 LSD TVL 的 2.3%，其中 Lybra Finance 占比达 41.1%，其在 5 月 29 日单日有约 4000 万美元的 ETH/stETH 流入创下新的单日增长记录，但随着竞争者的加入其市场份额在下降。",
           "link": "https://www.web3sj.com/definews/74881/",
           "publishedOn": "2023-06-15T07:30:52.000Z",
-          "wordCount": 1053,
+          "wordCount": 1060,
           "title": "解析LSDFi项目Lybra Finance：稳定性如何？「二层套娃」存在哪些风险？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686814228359.png"
         },
@@ -138,7 +148,7 @@
           "description": "在美国，加密公司正在转向少数规模较小的区域性银行开设账户。位于宾夕法尼亚的 Customers Bancorp 成为新宠之一。瑞士和亚洲的银行也在发挥更大的作用，尽管它们对来自加密货币领域的客户还未完全敞开怀抱。在英国，获得银行业务的条件也有所恶化，加密公司转而求助于支付服务提供商来作为替代方案。",
           "link": "https://www.web3sj.com/news/74877/",
           "publishedOn": "2023-06-15T07:16:12.000Z",
-          "wordCount": 839,
+          "wordCount": 819,
           "title": "彭博社：Silvergate和Signature倒闭后，加密银行新格局正在形成",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1686811435052.jpg"
         },
@@ -148,7 +158,7 @@
           "description": "我们都知道区块链的「不可篡改」特质，智能合约代码在部署于区块链上后就无法被修改。因此当开发者想为逻辑升级、修复错误或因安全更新试图更新合约代码时，他们必须部署一个新的合约，并会生成一个新的合约地址。想要解决这个问题，就可以用代理模式。代理模式实现了合约的可升级性，并且不会改变合约的部署地址，这也是目前最普遍的合约升级模式。",
           "link": "https://www.web3sj.com/news/74867/",
           "publishedOn": "2023-06-15T07:01:48.000Z",
-          "wordCount": 868,
+          "wordCount": 838,
           "title": "打破区块链的不可篡改性：代理模式如何实现智能合约升级？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686812492660.png"
         },
@@ -158,7 +168,7 @@
           "description": "在 DeFi 中，流动性通过价格滑点来衡量，即在类似于 Uniswap 这样的自动做市商（AMMs）上交易资产时，预期价格和执行价格之间的差异。更好的流动性可以降低价格滑点，使交易更加高效，并使所有参与者受益。因此，在 DeFi 中，项目有动力为其原生代币创造深层流动性，以积累价值并吸引更多用户。",
           "link": "https://www.web3sj.com/news/74859/",
           "publishedOn": "2023-06-15T06:49:00.000Z",
-          "wordCount": 798,
+          "wordCount": 788,
           "title": "Bankless：寻找更可持续的代币模型",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686811720391.png"
         },
@@ -168,7 +178,7 @@
           "description": "为免违反任何发牌制度的规定及确保业务得以持续运作，证监会要求虚拟资产交易平台（连同其建议的负责人员和持牌代表）应同时根据《证券及期货条例》下的现行制度及《打击洗钱条例》下的 VASP 制度申请批准，以获双重发牌及核准。",
           "link": "https://www.web3sj.com/news/74855/",
           "publishedOn": "2023-06-15T06:45:18.000Z",
-          "wordCount": 684,
+          "wordCount": 680,
           "title": "五个关于香港VASP法案的YES or NO",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686811500277.png"
         },
@@ -178,7 +188,7 @@
           "description": "由于加密货币在不同国家和地区受到不同程度的税收和监管，一些国家或地区为了吸引加密货币相关的个人或企业，在税收政策上给予了较大的优惠或灵活性，从而形成了一些加密货币避税天堂。以下将介绍六个典型的加密货币避税天堂及其税收政策。",
           "link": "https://www.web3sj.com/news/74828/",
           "publishedOn": "2023-06-15T05:50:51.000Z",
-          "wordCount": 715,
+          "wordCount": 749,
           "title": "加密货币避税天堂及国际监管的影响",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686808238810.png"
         },
@@ -188,7 +198,7 @@
           "description": "随后创始人 Michael 购买 CRV 来抬高币价。尽管 Aave 账户承担清算风险，但空头仍有获利潜力。一种获利方法是在 OKX 等交易所进行高杠杆空头交易，利用市场流动性不足且缺乏强劲多头干扰的情况下获取高概率的盈利机会。另一种获利方法是将空头仓位转为多头仓位。当市场流动性被耗尽时空头平仓转而做多。",
           "link": "https://www.web3sj.com/definews/74823/",
           "publishedOn": "2023-06-15T05:46:47.000Z",
-          "wordCount": 826,
+          "wordCount": 829,
           "title": "CRV做空历史及当前潜在做空成本",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686807997442.png"
         },
@@ -198,19 +208,9 @@
           "description": "排序器通过在链下汇集许多 L2 上的用户交易，并将它们作为一个集合的单个交易提交到主链 L1 上，来让 L2 高效运行。这样，这种承诺的成本就可以在集合中的所有用户交易上分摊。排序器还可以压缩集合，以进一步节省主链数据可用性的成本。总的来说，它是 L2 必不可少的组件。",
           "link": "https://www.web3sj.com/news/74819/",
           "publishedOn": "2023-06-15T05:41:16.000Z",
-          "wordCount": 737,
+          "wordCount": 722,
           "title": "解密排序器：保障交易真实性的关键",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/image-25.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74814",
-          "author": "Gao",
-          "description": "作为一家专注数字 / 加密资产的金融科技公司，FutureMoney 从于 2017 年到现今累计管理和顾问的资产超过 1 亿美元，只用了不到 6 年时间。FutureMoney 的发展历程，更像是一次理性主义的诠释。其背后涵盖了两位创始人的长期主义、价值观选择、助力中国创业者出海和 Web3 未来发展。",
-          "link": "https://www.web3sj.com/news/74814/",
-          "publishedOn": "2023-06-15T05:19:20.000Z",
-          "wordCount": 808,
-          "title": "哈佛商业评论：投资机构如何应对2023年后的Web 3.0",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1686796306749.jpg"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "PANews 6月15日消息，根据Castle Island Ventures普通合伙人Matt Walsh、金融律师Scott Johnsson以及的Paradigm法律负责人Rodrigo的推文，此前已获得美国证券交易委员会（SEC）指导方针下的第一个特殊用途经纪交易商许可证的加密初创公司Prometheum首席执行官Aaron Kaplan，作为的证人出席了美国众议院金融服务委员会共和党人6月13日的数字资产相关听证会，宣称其代表了“加密货币的合规路径”，而那些要求更新法规的人只是藐视法律。Prometheum首席执行官在会上宣读预先写好的笔记，清楚地协调与民主党国会议员（或美国SEC）的叙述。\n但Rodrigo分析称，除非项目首先向SEC注册代币，否则Prometheum的另类交易系统 (ATS)将无法交易任何代币。Matt Walsh对此评论道，Prometheum的ATS是一辆没有轮子的自行车。美国众议员Mike Flood也在听证会上指出Prometheum的说法是无稽之谈，更确切地说，他们无法交易任何广泛交易的资产(BTC, ETH)，这就是为什么需要实现实际的监管清晰度。\n此外，Matt Walsh指出，Pitchbook数据显示，Prometheum已经筹集了4819万美元。与所有私营公司一样，他们在筹集资金时需要提交表格 D。奇怪的是，即使在他们的早期融资中，他们也使用投资银行来筹集资金（对于早期阶段由风险投资支持的初创公司来说非常罕见）。Walsh还表示：“奇怪的是，当美国的实际企业无法获得公平的机会时，这个没有商业模式的边缘参与者被 EC举为合规的例子。”",
           "link": "https://panewslab.com/zh/articledetails/ad81ubwh.html",
           "publishedOn": "2023-06-15T09:12:17.000Z",
-          "wordCount": 387,
+          "wordCount": 384,
           "title": "Prometheum在听证会上宣称其代表“加密合规路径”且无需更新法规，有议员指出其说法太荒谬",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 6月15日消息，据CoinDesk报道，已经倒闭的加密货币贷款机构Celsius已于周四纽向约破产法庭提交了一份最新的破产计划，以反映Fahrenheit财团对其资产的成功竞标。但该计划可能会面临债权人的反对。\nMcCarter & English律师事务所的David Adler在推特上表示：“这项拟议的处理方式违反了所有消费者贷款法。”他在该案中所代表的借款人团体将反对该计划，因为Celsius不会归还他们的抵押品。Adler补充说，Celsius“需要表明他们正在推进案件并与选民进行沟通”，以保持提出破产计划的独家权利，并表示他的客户在过去的7个星期里被忽视。\n此前5月25日消息，Fahrenheit赢得破产加密借贷公司Celsius资产拍卖，但仍需得到监管机构的批准，才能完成收购。",
           "link": "https://panewslab.com/zh/articledetails/8tpetsin.html",
           "publishedOn": "2023-06-15T08:41:33.000Z",
-          "wordCount": 353,
+          "wordCount": 350,
           "title": "Celsius在Fahrenheit中标其资产拍卖后提交新的破产计划，或会面临债权人的反对",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 6月15日消息，据新华社报道，法国总统马克龙14日在巴黎举行的“科技万岁”科技创新展开幕式上宣布，将追加投资超过5亿欧元发展人工智能，打造世界级产业群。\n马克龙当天在与初创企业负责人举行圆桌会谈时指出，面对新工业革命的浪潮，法国必须打造 5 到 10 个人工智能产业群，创造出领先世界的顶级企业，为此计划投入超过 5 亿欧元。他还表示，政府还将投资 5000 万欧元升级现有的让 - 扎伊超级计算机项目。他希望法国大力发展生成式人工智能和开源大语言模型，并鼓励建立法语数据库。\n马克龙介绍，一个由 28 家机构投资者投资的名为“Tibi 2”的基金将用于资助初创企业，该基金目前已汇集高达70亿欧元的资金，最终目标是100亿欧元。他还表示，已有125家科技创新企业获得了“法国 2030”投资计划的资助。",
           "link": "https://panewslab.com/zh/articledetails/2mkovzyi.html",
           "publishedOn": "2023-06-15T08:09:39.000Z",
-          "wordCount": 377,
+          "wordCount": 374,
           "title": "法国总统：将追加投资超过5亿欧元发展人工智能，打造世界级产业群",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月15日消息，据Lookonchain监测，在币安宣布Maverick Protocol ( MAV)上线Launchpool之后，一鲸鱼向币安存入了155400枚BNB（价值3650万美元）。该巨鲸此前从RDNT Capital提取55400枚BNB，并从Venus Protocol借出10万枚BNB。",
           "link": "https://panewslab.com/zh/articledetails/p8r5lqn4.html",
           "publishedOn": "2023-06-15T07:56:36.000Z",
-          "wordCount": 361,
+          "wordCount": 362,
           "title": "数据：某巨鲸在币安公布新币挖矿项目后向币安存入15.54万枚BNB，约合3650万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 6月15日消息，据上海市人民政府官网，上海市人民政府办公厅今日印发《上海市推动制造业高质量发展三年行动计划（2023-2025 年）》。在重点任务上，计划布局新赛道和未来产业。落实“四个新赛道”“五大未来产业”行动方案，发展区块链、Web3.0 等数字新经济，推动元宇宙重大应用，布局碳捕集利用、“氨 - 氢”、高效储能等绿色低碳领域，打造智能网联汽车、智能机器人、智能穿戴、虚拟显示等终端品牌；加速布局未来产业细分领域，建设张江、临港、大零号湾等未来产业先导区。\n此前6月13日消息，上海科技委印发《上海市“元宇宙”关键技术攻关行动方案（2023—2025年）》。",
           "link": "https://panewslab.com/zh/articledetails/0r5bcu8d.html",
           "publishedOn": "2023-06-15T07:50:48.000Z",
-          "wordCount": 384,
+          "wordCount": 366,
           "title": "上海市政府：发展区块链、Web3.0等数字新经济，推动元宇宙重大应用",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 6月15日消息，据Kuki News报道，韩国国会政治事务委员会经过执政党和在野党之间的协议，确认了将于7月11日举行虚拟资产相关听证会。听证会的主题以及出席证人和参与者暂未确定。听证会实施计划书将于6月30日进行表决。",
           "link": "https://panewslab.com/zh/articledetails/b3izujws.html",
           "publishedOn": "2023-06-15T07:43:42.000Z",
-          "wordCount": 344,
+          "wordCount": 341,
           "title": "韩国国会政务委员会将于7月11日举行虚拟资产相关听证会",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 6月15日消息，据Lookonchain监测，0xD275开头巨鲸地址在USDT脱钩后，从Aave借了5000万枚USDC，并开始购买USDT进行套利。",
           "link": "https://panewslab.com/zh/articledetails/r7wo07m8.html",
           "publishedOn": "2023-06-15T07:26:52.000Z",
-          "wordCount": 336,
+          "wordCount": 337,
           "title": "数据：某巨鲸从Aave借出5000万枚USDC，开始购买USDT进行套利",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 6月15日消息，据Accounting Today报道，美国审计监管机构周三表示，审计人员在审查涉及加密货币的公司的财务报表时，在根除异常交易和评估加密货币挖矿收入是否正确入账等方面存在不足。\n美国上市公司会计监督委员会（PCAOB）发布《涉及加密资产的上市公司审计相关检查意见》，评估审计师如何测试其客户的加密交易或持有的资产。作为针对新出现的审计风险的跨公司审查的一部分，该委员会将在今年加大这些监督力度，并将审查审计师如何应对具有大量加密交易和持有的客户的欺诈风险。该委员会检查部门负责人Botic表示，若看到加密货币对公司的财务报表或公司的活动有重要影响，则将对其进行检查。",
           "link": "https://panewslab.com/zh/articledetails/8iuq275e.html",
           "publishedOn": "2023-06-15T07:24:40.000Z",
-          "wordCount": 345,
+          "wordCount": 342,
           "title": "美国上市公司会计监督委员会：将加大对审计人员涉及加密交易的监督力度",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 6月15日消息，据0xScope监测，0x8b37开头巨鲸在近2小时前将其所持有的全部360万枚CRV转移至币安。据悉，该地址从5月30日开始出售CRV，目前其钱包中不再持有CRV。",
           "link": "https://panewslab.com/zh/articledetails/wio8w9jz.html",
           "publishedOn": "2023-06-15T07:17:45.000Z",
-          "wordCount": 352,
+          "wordCount": 353,
           "title": "数据：某巨鲸将所持有的全部360万枚CRV转至币安",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 6月15日消息，据慢雾区消息，Nuxt.js 远程代码执行漏洞(CVE-2023-3224) PoC在互联网上公开，目前已出现攻击案例。Nuxt.js 是一个基于Vue.js 的轻量级应用框架，可用来创建服务端渲染(SSR) 应用，也可充当静态站点引擎生成静态站点应用，具有优雅的代码结构分层和热加载等特性。Nuxt 中存在代码注入漏洞，当服务端以开发模式启动时，远程未授权攻击者可利用此漏洞注入恶意代码并获取目标服务器权限。其中，Nuxt == 3.4.0，Nuxt == 3.4.1，Nuxt == 3.4.2 均受到影响。加密货币行业有大量平台采用此方案构建前后端服务，请注意风险，并将 Nuxt 升级到 3.4.3 或以上版本。",
           "link": "https://panewslab.com/zh/articledetails/iyezxzq8.html",
           "publishedOn": "2023-06-15T07:13:26.000Z",
-          "wordCount": 400,
+          "wordCount": 398,
           "title": "安全预警：Nuxt.js出现远程代码执行漏洞攻击案例，请相关方及时升级",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 6月15日消息，据Techin Asia报道，Web3支付初创公司Poko完成450万美元种子轮融资，Y Combinator、NAZCA、Global Founders Capital领投，GOodwater Capital、Soma Capital、Amasia、Credit Ease、Dentsu Ventures、Orange DAO、MS&AD Ventures参投，以推动其发展。该公司之前曾在Y Combinator处获得50万美元种子资金，加上此轮融资共获得500万美元资金。\n据悉，Poko是一家位于新加坡和越南的Web3支付初创公司，其B2B2C模式意味着其大部分主要用户是Web3钱包、市场以及去中心化应用程序和游戏。Poko目前专注于两种产品，支付入口聚合器和直接结账。该公司表示，它在拉丁美洲、印度和东南亚市场拥有超过1100万个活跃钱包使用其支付渠道。",
           "link": "https://panewslab.com/zh/articledetails/171ur1gm.html",
           "publishedOn": "2023-06-15T07:10:05.000Z",
-          "wordCount": 392,
+          "wordCount": 389,
           "title": "Web3支付初创公司Poko完成450万美元种子轮融资，Y Combinator等领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 6月15日消息，据CoinDesk报道，已破产的对冲基金三箭资本清算人周三提交的一份法庭文件称，创始人Kyle Davies应被认定为藐视法庭，因为他没有回应有关三箭资本倒闭的信息传票。该文件敦促纽约法院对故意无视先前请求的行为每天罚款1万美元，理由是Davies奢侈的生活方式和经营该公司的丰厚利润。",
           "link": "https://panewslab.com/zh/articledetails/ii4vxj00.html",
           "publishedOn": "2023-06-15T07:01:42.000Z",
-          "wordCount": 350,
+          "wordCount": 347,
           "title": "三箭资本清算人要求法院判定其创始人Kyle Davies藐视法庭并进行处罚，因其未按时回应传票",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "PANews 6月15日消息，数据显示，Curve平台稳定币3pool比例发生倾斜，其中USDT占比达到70.29%。此外，行情显示，稳定币USDT出现轻微脱锚，跌至0.9929美元附近。\nTether首席技术官Paolo Ardoino对此表示：“如今市场动荡不安，因此攻击者很容易利用这种普遍情绪。 但Tethe一如既往地准备就绪，我们准备赎回任何金额。”",
           "link": "https://panewslab.com/zh/articledetails/73ifbyq9.html",
           "publishedOn": "2023-06-15T06:51:13.000Z",
-          "wordCount": 376,
+          "wordCount": 377,
           "title": "Curve稳定币3pool中USDT占比超70%，USDT出现轻微脱锚",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -355,7 +355,7 @@
           "description": "PANews 6月15日消息，据CoinDesk报道，西班牙加密货币交易所Bit2Me完成1500万美元新一轮融资，Investcorp领投，西班牙最大电信公司Telefónica的投资部门Telefónica Ventures、Stratminds VC、Cardano和YGG Fund参投。Bit2Me将使用这些资金来提升其在公司诞生地西班牙的市场份额，并加速其在拉丁美洲的扩张。\n据悉，Bit2Me成立于2014年，是首家获得西班牙央行许可的加密服务提供商。",
           "link": "https://panewslab.com/zh/articledetails/jupq7v9d.html",
           "publishedOn": "2023-06-15T06:07:37.000Z",
-          "wordCount": 362,
+          "wordCount": 359,
           "title": "西班牙加密交易所Bit2Me完成1500万美元融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +365,7 @@
           "description": "PANews 6月15日消息，加密交易所Gemini联合创始人Cameron Winklevoss发推文称：“所有人包括美国证券交易委员会（SEC）都知道1933年制定的证券法不符合当今世界的现实情况。有两种选择：采用第一原则方法更新法律，或者让美国被抛在后面。你不能假装电子邮件是普通邮件并期望网络蓬勃发展。你不能假装加密货币是一片橘子园，并期望它会蓬勃发展。当然，除非你的目标是杀死它。被抛在后面是什么意思？工业转移到海外、人才流失、大量人失业、失去经济增长、国家安全风险、美国不参与开发未来的金融轨道。”",
           "link": "https://panewslab.com/zh/articledetails/govxbltd.html",
           "publishedOn": "2023-06-15T06:03:28.000Z",
-          "wordCount": 346,
+          "wordCount": 343,
           "title": "Gemini联创：证券法不适用于监管加密行业，若不更新美国就会落后",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +375,7 @@
           "description": "PANews 6月15日消息，据Decrypt报道，Chainalysis欧洲政策负责人Janet Ho在最近的一次网络研讨会上表示，加密公司现在需要开始为欧盟的新加密法做准备，尽管它们要到明年年底才会实施；在“良好的情况下”，申请人可能需要四到五个月的时间才能从当地主管部门获得MiCA许可证。据悉，法规的文本规定，如果任何信息缺失，当局有25个工作日通知申请人，还有60个工作日批准或拒绝他们的请求。\n她还表示，公司不必将遵守法规视为一种负担，获得授权也有好处。Ho指出：“一旦你获得一个许可证，你还可以在欧盟范围内扩大业务。MiCA将允许企业在获得其他欧盟国家的许可后，无需进一步授权即可将其实践‘传递’到其他欧盟国家”\n据悉，虽然该法规将于今年6月29日成为法律，但第一批规则要到2024年6月29日才能生效，其余规则将在当年年底前实施。",
           "link": "https://panewslab.com/zh/articledetails/9t7v0mdx.html",
           "publishedOn": "2023-06-15T05:53:42.000Z",
-          "wordCount": 342,
+          "wordCount": 339,
           "title": "Chainalysis：加密公司要尽快为欧盟新加密法做准备",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -385,7 +385,7 @@
           "description": "PANews 6月15日消息，据官方推特，NFT铸造平台Manifold已支持在Optimism主网上创建NFT，并将在Optimism上向符合条件的创作者提供价值6.90美元的 ETH，以帮助其开始创作。用户可免费申领Manifold-Optimism Creator NFT。",
           "link": "https://panewslab.com/zh/articledetails/xbzjavvb.html",
           "publishedOn": "2023-06-15T05:37:37.000Z",
-          "wordCount": 360,
+          "wordCount": 357,
           "title": "NFT铸造平台Manifold支持在Optimism主网上创建NFT",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -395,7 +395,7 @@
           "description": "PANews 6月15日消息，据Lookonchain监测，约40分钟前，一巨鲸地址以1626万枚USDT买入9641枚stETH，均价约1687美元。\n该巨鲸在3月13日以1589美元的均价买入8701枚stETH，并在3月15日用928枚WBTC兑换13731枚stETH。4月21日，该巨鲸以2020万枚USDT的价格出售10427枚stETH，均价为1937美元。",
           "link": "https://panewslab.com/zh/articledetails/30d9ba82.html",
           "publishedOn": "2023-06-15T05:35:16.000Z",
-          "wordCount": 359,
+          "wordCount": 354,
           "title": "数据：某巨鲸以1626万枚USDT买入9641枚stETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -405,7 +405,7 @@
           "description": "PANews 6月15日消息，据The Block报道，数字资产交易公司BCB Group将不再收购金融机构Sutor Bank。 根据一份电子邮件声明，经过双方的“仔细分析和考虑”，Sutor Bank撤回了将其股份出售给BCB Group的协议。BCB引用了“最近的银行市场事件和宏观经济变化”，并表示将通过在法国申请电子货币许可证来更多地关注其欧洲战略，并着手捕捉和服务对美元支付渠道的需求。\nBCB Group集团于2021年12月首次宣布收购Sutor Bank的计划，交易条款并未公布，但其称将为此提供“大量注资”。",
           "link": "https://panewslab.com/zh/articledetails/pvo1u6p6.html",
           "publishedOn": "2023-06-15T05:25:36.000Z",
-          "wordCount": 381,
+          "wordCount": 378,
           "title": "数字资产交易公司BCB Group取消对金融机构Sutor Bank的收购交易",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -415,7 +415,7 @@
           "description": "PANews 6月15日消息，据The Block报道，一个套利机器人在以太坊上执行了一系列复杂的交易，涉及2亿美元的闪电贷，却仅赚取了3.24美元的利润。\nArkham Intelligence在Twitter帖子中表示，套利机器人利用闪电贷，通过“DssFlash”合约从MakerDAO获得了2亿美元的DAI稳定币贷款，之后利用这笔资金在Aave作抵押，借入价值2300美元的WETH，随后用于在Curve购买 Threshold Network (T) 代币，完成套利循环后，该机器人在Balancer交易所出售了Threshold Network代币，产生了0.019 ETH的收益，约合33美元，但交易成本和以太坊区块生产者1美元的费用显着侵蚀了净收益，因此其最终收益仅 为3.24美元。",
           "link": "https://panewslab.com/zh/articledetails/a634jvlq.html",
           "publishedOn": "2023-06-15T05:12:05.000Z",
-          "wordCount": 373,
+          "wordCount": 370,
           "title": "某套利机器人通过2亿美元的闪电贷仅获得约3美元利润",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
