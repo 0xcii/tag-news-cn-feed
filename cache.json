@@ -81,7 +81,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 441,
+          "wordCount": 467,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         },
@@ -113,12 +113,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=75050",
+          "author": "Gao",
+          "description": "本文系加密 KOL slappjakke.eth 盘点的值得关注的前 20 个项目。Velodrome 是第一个成功的 ve(3,3) DEX，也是唯一一个主导一条链上 TVL 的 DEX，是 Optimism 的主要流动性中心。即将开启与 V2 的费用切换，实现集中流动性。未来将空投代币 AERO 到 Base 上的 veVELO lockers。",
+          "link": "https://www.web3sj.com/news/75050/",
+          "publishedOn": "2023-06-16T04:00:18.000Z",
+          "wordCount": 992,
+          "title": "加密熊市如何埋伏？一文盘点值得关注的20个「潜力股」",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686888006253.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75047",
+          "author": "Gao",
+          "description": "我们都知道「技术债务」，即产品决策的累积会导致代码库问题，必须在以后解决。代币债务的工作方式类似，它影响了发行过代币的加密协议，但必须进行重大的协议更改和重新设计代币以捕获价值。如果代币经济模型没有优化，，项目就需要努力修复它们。",
+          "link": "https://www.web3sj.com/news/75047/",
+          "publishedOn": "2023-06-16T03:51:45.000Z",
+          "wordCount": 733,
+          "title": "Variant：从代币设计克服「代币债务」现象",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686887492048.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75044",
+          "author": "Gao",
+          "description": "我们计划进行两次筹款讲座。第一次由我主持，将是一个高层次的概述。接下来的一周，我的搭档 Kirstie 将深入研究筹资机制，并会分享她的发现。在我们开始之前，建议您去图书馆查看关于筹款的资源，包括保罗·格雷厄姆的集资论文。虽然这些资源有些过时，但它们可以帮助您了解筹款的基础知识。",
+          "link": "https://www.web3sj.com/news/75044/",
+          "publishedOn": "2023-06-16T03:42:09.000Z",
+          "wordCount": 799,
+          "title": "YC合伙人：初创企业筹集资金需要做哪些准备工作？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1686878630948.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75038",
+          "author": "Gao",
+          "description": "这样的消息并不新鲜，朝鲜黑客几乎每月都能登上几次加密行业的新闻头条，每当有金额巨大的攻击事件发生，Lazarus Group 这个神秘朝鲜黑客组织大名总是牵涉其中。根据今年 4 月美国国家安全委员会发布的一份年度报告，朝鲜黑客窃取的虚拟资产总额超过 30 亿美元。",
+          "link": "https://www.web3sj.com/news/75038/",
+          "publishedOn": "2023-06-16T03:38:11.000Z",
+          "wordCount": 749,
+          "title": "猿猴身后千里马：朝鲜、黑客与加密货币",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686886677915.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75033",
+          "author": "Gao",
+          "description": "Gensyn 本质是一种基于 Substripe 协议的第一层权益证明区块链，可通过智能合约方式可促进机器学习的任务分配和奖励，来快速实现 AI 模型的学习能力，并降低深度学习训练的价格。2020 年 GPT-3 单次训练的成本约为 1200 万美元，比 2019 年 GPT-2 训练的估计值约 43000 美元高出 270 倍以上。一般来说，最好的神经网络的模型复杂度（大小）目前每三个月翻一番。",
+          "link": "https://www.web3sj.com/news/75033/",
+          "publishedOn": "2023-06-16T03:35:38.000Z",
+          "wordCount": 705,
+          "title": "解析融资4300万美元的分布式AI计算网络Gensyn",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686886520442.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=75025",
           "author": "Gao",
           "description": "6 月 8 日，Taiko 宣布在两轮种子轮融资中筹集了 2200 万美元，第一轮是由红杉中国领投的 1000 万美元，第二轮是由 Generative Ventures 领投的 1200 万美元。6 月 7 日，Taiko 上线了 Alpha-3 激励测试网。据 Taiko 官方介绍，该测试网侧重于去中心化、以太坊等效的 zkEVM 部分。",
           "link": "https://www.web3sj.com/news/75025/",
           "publishedOn": "2023-06-16T03:07:25.000Z",
-          "wordCount": 1007,
+          "wordCount": 1022,
           "title": "了解融资千万美金的Type 1 zkEVM新秀Taiko",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686884798943.png"
         },
@@ -128,7 +178,7 @@
           "description": "今天的通讯由 Siddharth 共同撰写，讽刺的是，他正在社交网络之外的喜马拉雅山脉的某个地方享受着美好旅程。在过去的几个月里，我们一直在集思广益，讨论互联网的现状以及 web3 原语在未来是否会发挥作用。这篇文章不是关于市场概况的详细分析，几乎没有提到任何代币，也绝对不是去中心化和互联网的最佳案例。",
           "link": "https://www.web3sj.com/news/75014/",
           "publishedOn": "2023-06-16T03:02:54.000Z",
-          "wordCount": 1238,
+          "wordCount": 1276,
           "title": "Web3新互联网社交网络",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/c3b247c6c289c0c6a93971d885dc1f72.jpg"
         },
@@ -138,7 +188,7 @@
           "description": "Azuki 是一个由一万个以动画为灵感的非同质化代币（NFT）构成的系列。自 2022 年由 Chiru Labs 推出以来已成为 Web3 领域的强势力量。Azuki 的推出见证了该系列在短短几分钟内销售一空，并积累了超过 2900 万美元的资金。该项目能有今天的地位，归功于其多样化且忠实的社区。除了令人惊叹的数据，Azuki 的独特之处其实在于团队对创造游戏化元宇宙的雄心壮志。",
           "link": "https://www.web3sj.com/nftnews/74970/",
           "publishedOn": "2023-06-15T16:16:32.000Z",
-          "wordCount": 1237,
+          "wordCount": 1238,
           "title": "从数据视角解读Azuki",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686845775556.png"
         },
@@ -148,7 +198,7 @@
           "description": "加密分析师 Thor Hartvigsen 在本文中讲述了他是如何通过链上空头策略来对冲 USDT 风险的。下面来看看他的具体操作。USDT 目前在 Curve 的 3pool 中的占比已经来到了 70%，这是否是毫无根据的恐慌，还是大型机构知道我们所不知道的事情？我不想承担这个风险，所以我在链上做空 USDT 作为对冲。",
           "link": "https://www.web3sj.com/definews/74952/",
           "publishedOn": "2023-06-15T12:38:35.000Z",
-          "wordCount": 720,
+          "wordCount": 716,
           "title": "当突发事件来临，如何有效在链上对冲USDT的风险？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686832693366.png"
         },
@@ -158,59 +208,9 @@
           "description": "尽管当前 USDT 价格仅略微脱钩，远没有去年受硅谷银行倒闭影响的 USDC 脱钩情况严重，但在波动尤为剧烈的加密市场中，若果真遭到监管影响，引发挤兑，那么就会加速脱钩速度并进一步引发流动性危机。",
           "link": "https://www.web3sj.com/definews/74939/",
           "publishedOn": "2023-06-15T12:16:32.000Z",
-          "wordCount": 890,
+          "wordCount": 913,
           "title": "面对第n次FUD，USDT能否再次度过危机？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686831374685.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74922",
-          "author": "Gao",
-          "description": "一个问题是，业内最大的公司是否会支持 Ready Player Me 的 API，或者他们是否会各行其是，或者他们会寻求一种不同的技术作为 Avatar 互操作性的标准。到目前为止，Ready Player Me 拥有 Spatial 和 VR Chat 等 Web3 合作伙伴，并拥有 Verizon 等企业客户。很高兴看到更多的 AAA 级游戏公司加入进来，必须有人阻止元宇宙成为通天塔。",
-          "link": "https://www.web3sj.com/news/74922/",
-          "publishedOn": "2023-06-15T12:13:15.000Z",
-          "wordCount": 1301,
-          "title": "探讨可互操作性Avatar的实践、意义与挑战",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2489a99398f631ff9b2aa2d65a11f044.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74919",
-          "author": "Gao",
-          "description": "Aave v2上stETH在近1567美元处面临约7450万美元清算风险。资本市场监管委员会：SEC的政策实际上使加密交易所无法在SEC注册。Sei澄清：参与测试网激励或空投不需要人脸识别或KYC。",
-          "link": "https://www.web3sj.com/news/74919/",
-          "publishedOn": "2023-06-15T11:44:09.000Z",
-          "wordCount": 683,
-          "title": "Web3世界日报（2023-6.15）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023061511422226.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74908",
-          "author": "Gao",
-          "description": "为什么今天说起来 Lido 了呢？最近大量用户跑向了 Lido 上面进行质押，与上月相比 Lido 的 TVL 增加了 0.5 亿美元，这事细说起来和币安、coinbase 被控诉有联系，详细的内容让我们接着往下看叭！",
-          "link": "https://www.web3sj.com/definews/74908/",
-          "publishedOn": "2023-06-15T10:13:56.000Z",
-          "wordCount": 738,
-          "title": "质押协议Lido本月存款增加近百万以太币，原因竟是SEC控诉？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/e4fe93403abbcd2626695647e26eac54.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74899",
-          "author": "Gao",
-          "description": "在过去最近 48 小时里，Curve 3pool 中的 USDT 集中度上升至了 50%，又在仅仅一个小时内又从 50% 急剧上升到了 74%。这引发了社区的担忧，大家似乎都对 USDT 突如其来的抛压有些摸不着头脑。难道是有人提前知道了一些关键信息？毕竟上一次 Curve 3pool 中的 USDT 集中度超过 50%，是在 2022 年 11 月 FTX 崩盘之时，自那之后 USDT 集中度就再未达到如此高的程度了。",
-          "link": "https://www.web3sj.com/news/74899/",
-          "publishedOn": "2023-06-15T10:11:56.000Z",
-          "wordCount": 822,
-          "title": "USDT面临严重抛压，是做市商们在退出吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686823903757.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=74881",
-          "author": "Gao",
-          "description": "Dune Anlytics 数据显示，截至 6 月 13 日 LSDfi TVL 达 4.2 亿美元，仅约为 LSD TVL 的 2.3%，其中 Lybra Finance 占比达 41.1%，其在 5 月 29 日单日有约 4000 万美元的 ETH/stETH 流入创下新的单日增长记录，但随着竞争者的加入其市场份额在下降。",
-          "link": "https://www.web3sj.com/definews/74881/",
-          "publishedOn": "2023-06-15T07:30:52.000Z",
-          "wordCount": 1071,
-          "title": "解析LSDFi项目Lybra Finance：稳定性如何？「二层套娃」存在哪些风险？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686814228359.png"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "PANews 6月16日消息，BNB Chain在推特上表示，BNB Chain验证者和项目正在讨论将MEV集成到BSC网络中，一些验证者以各种格式试行MEV。社区编写了一套相关的指导方针，有待讨论，正在收集反馈。\n根据该指导方针，”BSC MEV执行原则“提出并阐明了一套原则和指南，用于在BNB Smart Chain（BSC）网络中进行最大可提取价值（MEV）操作，旨在确保此类操作不会损害用户体验或操纵用户以获取价值，处理交易优先级等具体做法强调用户与BNB生态系统之间公平与效率之间所需的平衡。",
           "link": "https://panewslab.com/zh/articledetails/6hc6py72.html",
           "publishedOn": "2023-06-16T02:34:12.000Z",
-          "wordCount": 357,
+          "wordCount": 354,
           "title": "BNB Chain验证者和项目正讨论将MEV集成到BSC网络中",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 6月16日消息，据路透社报道，曼哈顿的美国地区法官Jed Rakof在周四的听证会上考虑了Terraform Labs创建的数字资产(TerraUSD和Luna)是否是证券，这是美国证券交易委员会针对该公司及其创始人Do Kwon的欺诈案的核心问题。在听证会上，Rakoff质疑Terraform Labs提供的所谓Anchor协议是否不应被视为证券（该协议提供高达20%的TerraUSD存款回报），Anchor表示：”这是你创造的东西，我不明白为什么这不是一个证券合约。“\nTerraform Labs和Kwon认为该案应该被驳回，因为它的数字资产不符合证券的定义，而且美国证券交易委员会对该行业缺乏权威。SEC律师Devon Staren表示：”我们只是在应用证券法。“法官表示，他将在7月14日之前对驳回案件的动议作出裁决。",
           "link": "https://panewslab.com/zh/articledetails/6kfnv2um.html",
           "publishedOn": "2023-06-16T02:20:51.000Z",
-          "wordCount": 377,
+          "wordCount": 374,
           "title": "美国法官考虑在最新听证会上考虑Terraform Labs的加密货币是否是证券",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 6月16日消息，据Decrypt报道，已破产的加密货币借贷平台BlockFi在美国新泽西州破产法院起诉康涅狄格州银行业专员Jorge Perez。此前，该州监管机构一再拒绝接受BlockFi放弃自2020年4月以来所持康涅狄格州汇款机构许可证的提议。相反，监管机构一直坚持进行行政诉讼程序。\n自3月以来，BlockFi一名律师多次与康涅狄格州银行部门的一名律师通电话，并被告知如果该公司想避免法庭诉讼，就需要支付100万美元的罚款。BlockFi在诉讼中表示，该部门撤销许可证和评估罚款的行动是为了追求其金钱利益，而不是为了保护公众健康、安全或福利。",
           "link": "https://panewslab.com/zh/articledetails/cd4o5h8s.html",
           "publishedOn": "2023-06-16T02:10:43.000Z",
-          "wordCount": 350,
+          "wordCount": 347,
           "title": "BlockFi起诉康涅狄格州银行业专员，声称该州监管机构拒绝接受其放弃许可证",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月16日消息，据The Block报道，区块链协会周四表示，它向美国证券交易委员会（SEC）提交了《信息自由法》请求，在加密推特上的一连串猜测中，征求SEC与一家名为Prometheum的鲜为人知的加密交易所互动的详细信息。\n上述所提的“猜测”和昨天的一篇报道有关，即Prometheum CEO出席国会作证，期间还发表了“Prometheum代表加密货币的合规路径，而那些要求更新法规的人只是藐视法律的研究”的言论。区块链协会首席政策官Jake Chervinsky表示，Prometheum CEO的证词毫无意义，这里发生了一些可疑的事情。。Paradigm法律负责人Rodrigo针对Promethium在听证会上的言论表示，除非项目首先向SEC注册代币，否则Prometheum的另类交易系统 (ATS)将无法交易任何代币。Matt Walsh对此评论道，Prometheum的ATS是一辆没有轮子的自行车。\n此前消息，Prometheum宣布其已获得美SEC指导方针下的第一个特殊用途经纪交易商许可证，该许可证将允许其托管数字资产证券。",
           "link": "https://panewslab.com/zh/articledetails/9f94yo2q.html",
           "publishedOn": "2023-06-16T02:04:26.000Z",
-          "wordCount": 362,
+          "wordCount": 359,
           "title": "区块链协会要求美SEC提供其与Prometheum的互动信息，此前该交易所在国会言论引社区猜测",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 6月16日消息，据美通社报道，去中心化身份初创公司Intuition宣布完成400万美元种子轮融资，Superscrypt领投，Shima Capital、Avon Ventures、WW Ventures、Matrixport Ventures、Polygon Ventures、ConsenSys、ArkStream Capital等参投。\nIntuition计划在今年晚些时候公开发布其协议和首批应用程序。Intuition提供去中心化的基础架构、开发人员工具和应用程序，支持创建开放、灵活的知识图谱，从而提高社会知识的质量和可用性。Intuition允许用户创建关于任何主题的证明，以易于导航、查询和其他应用程序利用的方式存储信息。",
           "link": "https://panewslab.com/zh/articledetails/sr4lanzj.html",
           "publishedOn": "2023-06-16T01:35:00.000Z",
-          "wordCount": 379,
+          "wordCount": 376,
           "title": "去中心化身份初创公司Intuition完成400万美元融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 6月16日消息，据彭博社报道，知情人士表示，香港金融监管机构已于周一召开会议，将银行、加密平台和其他行业参与者召集在一起，集中讨论如何解决加密公司在开设银行账户遇到的困难，这将是自4月下旬以来第二次推动银行更多参与的会议，突显出加密公司在获得银行服务方面面临的困难。下周的会议将迎合那些没有出席就职对话的人。\n香港金融管理局的一位发言人表示，事实上的央行“不时与银行业和相关利益相关者就各种议题保持密切对话”，但拒绝就计划中的会议发表评论。负责监管加密货币交易所的香港证券及期货事务监察委员会(Securities and Futures Commission)发言人拒绝置评。",
           "link": "https://panewslab.com/zh/articledetails/d47yol4f.html",
           "publishedOn": "2023-06-16T01:25:35.000Z",
-          "wordCount": 338,
+          "wordCount": 335,
           "title": "彭博社：香港金融监管机构已召开第二次会议促进加密公司获得银行账户",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 6月16日消息，治理页面显示，MakerDAO关于将DAI储蓄率 (DSR) 从1%提高到3.49%的提案已获投票通过，此外该提案还包括将USDP PSM债务上限将降至0 DAI，以及将BlockTower Andromeda (RWA015-A) 将作为一种新的金库类型上线，新金库将允许额外购买高达12.8亿美元的美国国债作为储备，从而使传统金融资产在DAI的储备中发挥更大的作用。这些变化预计将于北京时间6月19日22:00执行。\n此前6月2日消息，MakerDAO批准从储备中剔除5亿美元的稳定币USDP。",
           "link": "https://panewslab.com/zh/articledetails/3g1yiqwa.html",
           "publishedOn": "2023-06-16T01:14:03.000Z",
-          "wordCount": 390,
+          "wordCount": 387,
           "title": "MakerDAO关于将DAI储蓄率提高至3.49%的提案已获投票通过",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 6月16日消息，链上数据显示，一休眠13年的比特币地址（13CFnF开头）于北京时间6月15日19:37将50枚BTC（约合127万美元）转移至另一个地址。该地址曾于2010年收到这50枚BTC，目前该地址的比特币余额已清零。",
           "link": "https://panewslab.com/zh/articledetails/3k1bz4kd.html",
           "publishedOn": "2023-06-16T00:55:26.000Z",
-          "wordCount": 338,
+          "wordCount": 336,
           "title": "数据：某休眠13年的比特币地址昨日晚间转移50枚BTC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 6月16日消息，据The Block报道，Uniswap基金会的跨链桥评估委员会选择了Wormhole和Axelar作为潜在跨链部署的两个跨链桥。\n2023年1月，Uniswap最初选择Wormhole作为其首选跨链桥，但处理过程因争议而受损。3月，它成立了一个委员会来研究并提出方案，这一过程现已完成。委员会在其报告中得出结论：“委员会发现Wormhole和Axelar跨链桥目前适合DAO在未来的跨链部署中用于管理治理消息传递，但建议社区持续不断地审查它们和其他桥接器提供商。多桥架构可能更适合Uniswap，但此类跨链交换尚未准备就绪。”\n该委员会还审查了跨链协议LayerZero、Celer、DeBridge和Multichain。但过去几周，Multichain受到多项技术问题的打击，并在一段时间内与其CEO失去联系。\n相关阅读：Uniswap跨链桥选择投票暗藏加密VC巨头之争，官方提议建立评估小组",
           "link": "https://panewslab.com/zh/articledetails/b9pc4mod.html",
           "publishedOn": "2023-06-16T00:37:25.000Z",
-          "wordCount": 363,
+          "wordCount": 360,
           "title": "Uniswap委员会批准跨链桥Wormhole和Axelar用于跨链部署",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 6月16日消息，Tether在博客文章中表示，昨日通过DeFi和CEX对USDT的攻击与其旧的稳定币储备文件被移交给CoinDesk的时间相吻合。此前CoinDesk依据《信息自由法》寻求公开披露与Tether第一份季度报告有关的材料，Tether近日决定放弃对CoinDesk的反对，因此当地时间15日上午，纽约总检察长办公室（NYAG）向CoinDesk提供回应文件。Tether向NYAG按季提交文件报告稳定币储备情况，系根据2021年和解协议条款。根据该条款，Tether需要在两年内每个季度向纽约总检察长办公室报告稳定币储备情况。\nTether指出CoinDesk获得的材料已经过时，无法准确反映其储备现状，同时呼吁CoinDesk抛开偏见，不要泄漏其客户信息。此外，Tether正在监控USDT市场，并寻找试图在CoinDesk决定公布关于此事的任何信息时制造恐慌的操纵迹象。",
           "link": "https://panewslab.com/zh/articledetails/i069f0f9.html",
           "publishedOn": "2023-06-16T00:26:25.000Z",
-          "wordCount": 347,
+          "wordCount": 344,
           "title": "Tether：USDT FUD或与CoinDesk获得其过时报告有关，呼吁该媒体不要泄漏其客户信息",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 6月16日消息，美国众议院金融服务委员会主席Patrick McHenry宣布了两场关于对美国证券交易委员会（SEC）监督的听证会。监督和调查小组委员会将于北京时间6月22日21:30举行题为“对SEC的监督”的听证会，资本市场小组委员会将于北京时间6月22日22:30举行题为“监督SEC的交易和市场部”的听证会。",
           "link": "https://panewslab.com/zh/articledetails/np52h130.html",
           "publishedOn": "2023-06-16T00:08:08.000Z",
-          "wordCount": 335,
+          "wordCount": 332,
           "title": "美国众议院将于6月22日举行两场对SEC监督相关的听证会",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 6月16日消息，据彭博社报道，多伦多证券交易所(Toronto Stock Exchange)的母公司TMX集团正计划推出一个针对初创企业和另类资产类别的新交易平台。该公司在本周发布的白皮书中表示，新交易所将针对成长型公司。该公司尚未确定哪些资产类别将在新交易所交易，但正在考虑加密货币、NFT、证券化房地产和私营公司的股份。此外，创业版交易所TSX Venture还在考虑为估值不低于5000万加元、同时寻求1000万加元独立融资的公司提供“通行证”，以加快上市流程。",
           "link": "https://panewslab.com/zh/articledetails/boebaitd.html",
           "publishedOn": "2023-06-16T00:07:46.000Z",
-          "wordCount": 348,
+          "wordCount": 345,
           "title": "多伦多交易所母公司计划推出新交易平台，或将支持加密货币和NFT交易",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "PANews 6月16日消息，据Cointelegraph报道，欧盟金融监管机构将为最近通过的加密资产市场法规(MiCA)启动三次咨询。在欧洲证券和市场管理局(ESMA)网站最新发布的一份通知中，监管机构表示，将于2023年7月、10月和2024年第一季度启动3次公众咨询，内容将涵盖MiCA的授权、治理、利益冲突和投诉处理程序。这些措施将得到欧盟委员会、欧洲议会和欧洲理事会的批准。第一次咨询将包括欧盟加密资产服务提供商应用的技术标准，以及处理投诉和披露潜在利益冲突的程序。第二次咨询将考虑向投资者披露信息、加密公司的治理要求以及“可持续性指标和对气候的不利影响”。最后一次咨询可能会考虑投资者保护和反市场滥用的规则。",
           "link": "https://panewslab.com/zh/articledetails/73dom9i5.html",
           "publishedOn": "2023-06-15T23:54:22.000Z",
-          "wordCount": 335,
+          "wordCount": 332,
           "title": "欧盟监管机构将于7月启动MiCA咨询",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -355,7 +355,7 @@
           "description": "PANews 6月16日消息，据彭博社报道，加密交易平台Abra被美国德克萨斯州证券委员会指控证券欺诈，该监管机构已对Abra及其首席执行官Bill Barhydt发出了紧急停止令。根据周四的一份文件，德克萨斯州证券委员会指控Abra通过销售其加密投资产品Abra Earn和Abra Boost误导了投资者。该机构表示，Abra秘密将资产转移给币安控股有限公司(Binance Holdings Ltd.)。此外，Abra在今年3月份已经资不抵债或接近资不抵债。据此前消息，Abra在2021年完成5500万美元融资，Amex Ventures、Arbor Ventures和Kenetic Advisors等参投。去年，它还与美国运通公司(American Express Co.)合作，并计划在美国运通网络上推出加密信用卡。去年，该平台在美国和亚洲裁员5%。",
           "link": "https://panewslab.com/zh/articledetails/bpz1uztq.html",
           "publishedOn": "2023-06-15T23:44:57.000Z",
-          "wordCount": 370,
+          "wordCount": 367,
           "title": "美国德州监管机构指控Abra证券欺诈，称其已资不抵债",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +365,7 @@
           "description": "PANews 6月16日消息，据CoinDesk报道，资管巨头贝莱德旗下的iShares周四下午向美国SEC提交了成立比特币现货ETF的文件。文件显示，该基金将被命名为“iShares比特币信托(iShares Bitcoin Trust)”，其资产“主要由代表该信托的托管人持有的比特币组成”。文件中称，托管人为加密交易所Coinbase。尽管美国证券交易委员会（SEC）批准了一些比特币期货ETF，但它拒绝了所有资管公司的比特币现货ETF申请，包括Grayscale、VanEck和WisdomTree。贝莱德是全球最大的资产管理公司，管理的资产超过10万亿美元。",
           "link": "https://panewslab.com/zh/articledetails/vhr31uw5.html",
           "publishedOn": "2023-06-15T23:34:01.000Z",
-          "wordCount": 348,
+          "wordCount": 345,
           "title": "贝莱德已提交比特币现货ETF申请",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +375,7 @@
           "description": "PANews 6月16日消息，据CoinDesk报道，在黑山法院考虑韩国的引渡请求期间，Terraform Labs联合创始人Do Kwon将在当地被拘留六个月。此前黑山法院批准了Do Kwon的保释请求。今年3月，Do Kwon在黑山因涉嫌伪造文件而被捕，Terra的另一名高管Han Chang-Joon也被逮捕。在Do Kwon被捕后，韩国和美国都要求引渡他。他也可能因伪造文件在黑山入狱。Do Kwon和Han Chang-Joon将于周五在黑山法院出庭。",
           "link": "https://panewslab.com/zh/articledetails/7ef1qkno.html",
           "publishedOn": "2023-06-15T23:25:10.000Z",
-          "wordCount": 374,
+          "wordCount": 371,
           "title": "Do Kwon获得保释后将在黑山被拘留六个月",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -385,7 +385,7 @@
           "description": "PANews 6月16日消息，据CoinDesk报道，苏富比在本周四完成了第二轮从三箭资本（3AC）没收的NFT作品的拍卖，销售额超过1090万美元。拍卖在纽约举行，包括“Grails”系列作品。总共有37件作品来自Dmitri Cherniak, Tyler Hobbs, Jeff Davis等生成艺术家。本次拍卖的亮点包括Dmitri Cherniak的《Ringers #879》(通常被称为“鹅”)，估价为200万至300万美元。在多次竞标后，它最终以620万美元的价格卖给了著名的NFT投资者6529。苏富比表示，这是有史以来价格第二高的生成艺术作品。截至目前，Grails系列拍卖的成交额已经超过1600万美元。",
           "link": "https://panewslab.com/zh/articledetails/sqzoc9qc.html",
           "publishedOn": "2023-06-15T22:58:51.000Z",
-          "wordCount": 369,
+          "wordCount": 366,
           "title": "苏富比第二轮三箭资本NFT拍卖结束，成交额超过1090万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -395,7 +395,7 @@
           "description": "PANews 6月16日消息，据路透社报道，据知情人士透露，Binance. US自上周被美国证券交易委员会（SEC）指控违反证券法并寻求冻结其资产以来，已经进行了一轮裁员，约有50人被解雇，波及法律、合规和风险部门。此外，两名Binance. US员工周三在领英(LinkedIn)上表示将离职，其中一名员工提到这是“一轮裁员”。",
           "link": "https://panewslab.com/zh/articledetails/25dktv9s.html",
           "publishedOn": "2023-06-15T18:37:46.000Z",
-          "wordCount": 355,
+          "wordCount": 352,
           "title": "知情人士：Binance. US在被美国SEC指控后已裁员约50人",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -405,7 +405,7 @@
           "description": "PANews 6月16日消息，纽约南区联邦法官Lewis Kaplan在周四的听证会上就SBF辩护团队提出的驳回银行欺诈、电信欺诈和竞选资金指控的动议提出质疑，但他并未在听证会上就驳回动议做出决定。SBF另一名律师Mark Cohen在法庭上辩称，竞选资金指控应该被驳回，或者与其他指控分开。此外，法官还驳回了辩护团队提出的与程序有关的多项动议，包括要求美国司法部审查FTX文件和材料的动议。",
           "link": "https://panewslab.com/zh/articledetails/dh0pdrh9.html",
           "publishedOn": "2023-06-15T18:21:16.000Z",
-          "wordCount": 351,
+          "wordCount": 348,
           "title": "美国联邦法官质疑SBF要求驳回多项指控的动议",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -422,7 +422,7 @@
           "description": "英国首相Rishi Sunak公布了该国人工智能 (AI) 发展计划，政府计划为此拨款1亿英镑（1.25亿美元）。作为该计划的一部分，当局将设立一个奖学金基金和一个相关的专家工作组。主要方向将是农业和医疗保健的发展。",
           "link": "https://www.hellobtc.com/news/202306/20785.html",
           "publishedOn": "2023-06-15T10:20:00.000Z",
-          "wordCount": 309,
+          "wordCount": 310,
           "title": "英国政府计划为人工智能拨款1亿英镑",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -524,9 +524,29 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42726",
+          "author": null,
+          "description": "原文作者：Haotian（Twitter：@tmel0211），区块链安全从业者\n\n\nUniswap V4 新版给熊市冷寂的 Crypto 行业注入了一剂 catalyst，大家不约而同感慨 Uniswap 框架式创新的范式力量，也对未来 DEX 从 CEX 手里抢夺流动性充满信心。\n但无论 Uniswap 多么牛逼，它只是过去 5 年 DeFi 行业创新的集大成者，过去诸多 DeFi 协议上的创新 Moment，同样值得被分享并颂扬。\n\n\n\n一切都始于那 500 行代码，作为 DeFi 的基因和起源，X*Y=K 的 AMM 算法打开了 DeFi 行业的「寒武纪时刻」。\n这种算法实现了资产定价和兑换的自动化，实现了风险对冲与套利机制、实现了开放抗审查的金融，最关键是实现了金融业务的模块化重组，使得金融可以像积木一样组合与重构，为以后各种玩法诞生埋下种子。\n\n\n\nUniswap V4 的 Hooks 可以往 AMM 池添加新功能和特性，Singleton 合约则改变了账户框架和交易逻辑，算是一次框架式创新，基于此可以畅想无数种可能。\n我们就以此次 uniswap V4 出现的新功能为例，来回顾下那些真实存在于 DeFi 世界的创新力量，始于 Uniswap，却不止于 Uniswap ：\n\n\n\n1）「限价订单」：2020 年底 dYdX 就基于其底层 StarkEx 的 L2 扩展协议「私有订单薄「特性实现了限价订单（通过在 L2 隐藏状态下撮合交易，再将结果呈现在链上）这和 V 3 Concentrated Liquidity 模型下实现限价逻辑大不一样，但限价订单思路可以降低 AMM 交易风险并提升效率，是 DeFi 发展进程中尤为重要的创新；\n\n\n\n2）「TWAMM」：2021 年 7 月 Perpetual Protocol 推出了时间加权 AMM 模型，可根据近段时间…",
+          "link": "https://www.theblockbeats.info/news/42726",
+          "publishedOn": "2023-06-16T03:31:41.000Z",
+          "wordCount": null,
+          "title": "Uniswap V4：框架式创新引领DeFi之路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42724",
+          "author": null,
+          "description": "迄今为止，出于对现货市场潜在欺诈或操纵的担忧，SEC尚未批准任何此类现货 ETF 的申请，包括灰度（Grayscale）、VanEck 和 WisdomTree。",
+          "link": "https://www.theblockbeats.info/news/42724",
+          "publishedOn": "2023-06-16T03:14:30.000Z",
+          "wordCount": null,
+          "title": "监管重压之际，资管巨头贝莱德递交现货比特币ETF申请",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42720",
           "author": null,
-          "description": "精选要闻：\n\n1. Curve 3pool 中 USDT 占比超 74%，USDT 出现轻微脱锚；\n2. Tether CTO：市场情绪很容易被利用，已准备好赎回任何数量的资金；\n3. 鲍威尔：几乎所有决策者都认为今年应该适当进行进一步的加息；\n4. 三箭资本联创 Kyle Davies 因未按时回应传票被要求认定为藐视法庭；\n5. 数据：过去 5 天内 Jump 共将约 22 亿美元 ETH 从托管地址转至新地址；\n6. Sei 基金会：网传 Sei 空投或测试网激励需要 KYC/面部扫描不实；\n\n\n项目动态\n\n\nCurve 3pool 中 USDT 占比超 74%，USDT 出现轻微脱锚\n行情数据显示，稳定币 USDT 出现轻微脱锚，跌至 0.9978 美元附近。据 Curve 官方数据显示，当前 3pool 中 USDT 占比已达 74.35%(301,753,409 枚)。\n\n\nTether CTO：市场情绪很容易被利用，已准备好赎回任何数量的资金\nTether CTO Paolo Ardoino 在推特上表示，如今市场动荡不安，因此攻击者很容易利用这种普遍情绪，「但 Tether 一如既往地准备就绪，让他们来，我们已准备好赎回任何数量的资金。」\n\n此前报道，Curve 3pool 中 USDT 占比超 74%，USDT 出现轻微脱锚。\n\n\nCRV 链上 0.372 美元处面临超 1 亿美元清算风险\n据 DefiLlama 数据显示，CRV 链上 24 小时可清算价值变化为-1.3%，当前剩余可清算额约为 1.117 亿美元。其中在 0.372 美元处存在 1.08 亿美元的链上清算，截至发文时，CRV 报 0.576 美元，24 小时跌幅达 11.52%。\n\n\nOKX 获迪拜 VARA 颁发的 MVP 预备牌照，并计划增加员工数\n据 CoinDesk 报道，加密交…",
+          "description": "6月15日加密行业重要资讯一览",
           "link": "https://www.theblockbeats.info/news/42720",
           "publishedOn": "2023-06-15T11:05:31.000Z",
           "wordCount": null,
@@ -536,7 +556,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42718",
           "author": null,
-          "description": "原文来源：欧易 OKX\n\n\n2023 年 6 月 15 日，全球第二大数字资产交易平台和 Web3 科技公司欧易 OKX 宣布已获得迪拜虚拟资产监管局 (VARA) 颁发的 MVP（Minimal Viable Product）预备许可证。此前，欧易 OKX 已获得 VARA 授予的临时虚拟资产许可证。\n\n\nMVP 预备许可证是允许获批的持牌人在满足 VARA 监管制度内开展 MVP 运营所需的所有先决条件。一旦获得运营许可，欧易 OKX 将能够开展经 VARA 批准的虚拟资产活动，为合格的零售和机构客户提供一系列虚拟资产相关服务。\n\n\n欧易 OKX 计划扩大中东业务作为其全球重要战略增长和业务中心。欧易 OKX 目前已在迪拜世界贸易中心开设了新办公室，并拟将当地团队扩招至 30 人，重点招聘当地员工和高级管理人员。此外，欧易 OKX 还计划扩展更多的阿联酋品牌合作伙伴，围绕用户需求开展精彩的活动。\n\n\n欧易 OKX 全球首席商务官 Lennix Lai 表示：「我们很高兴从 VARA 获得 MVP 预备许可证，合规是虚拟资产交易平台的未来发展主题，迪拜和 VARA 成功地创造了一个适宜的环境，让虚拟资产服务商有充分的发展空间。随着今年欧易 OKX 迪拜新办公室的成立，我们将重点招聘当地员工，从而更好的服务当地用户。中东和北非地区是全球最具潜力的 Web3 和虚拟资产市场，正展现出巨大的活力，我们期待可以在这里提供更好的服务。」\n\n\n欧易 OKX 全球政府关系主管 Tim Byun 表示：「迪拜和 VARA 通过为虚拟资产和 Web3 行业建立最及时、全面和标准化的监管框架正成为全球加密监管的领导者，获得 MVP 预备许可证是欧易 OKX 全球合规进程的重要成果。在当今不确定的市场环境中，虚拟资产服务商的安全性、透明度以及合规性至关重要。在 VARA 的综合框架下，所有虚拟服务商必需在合规、风险管理、安全和消费者保护等方面提升至传统金融服务商的高标准，这为用户提供了信心，并使中东和北非地区的虚拟资产和 Web3 行业获得增长。」\n\n\n欧易 OKX 首席营销官 Haider Rafique 表示：「我们一直盼望打进阿联酋市场，希望当地能亲身体验欧易 OKX 的产品服务。与其他虚拟资产交易平台相比，欧易 OKX 一直保持审慎和高透明度，已连续第七个月发布平台的储备金证明，是全球唯一一家按月定期公布储备金证明的虚拟资产交易平台。同时，欧易 OKX 的去中心化生态系统正成为 Web3 行业的领导者。这种谨慎但进取的营商态度与我们全球顶级品牌合作伙伴（曼城足球俱乐部、迈凯伦 F1 车队、以及翠贝卡电影节等）保持一致，按部就班并以正确的方式营运拓展。」\n\n\n\n关于迪拜虚拟资产监管局 (VARA)\n\n\n迪拜虚拟资产监管局 (VARA) 于 2022 年 3 月成立，是全球首个专门设立以监管虚拟资产行业的机构，旨在负责管理和监督迪拜（包括特别开发区和自由区，但不包括迪拜国际国际金融中心）的虚拟资产领域相关的活动。VARA 支持无国界经济的愿景，在创建先进的法律框架来保护投资者、以及建立虚拟资产行业监管国际标准方面发挥着核心作用。\n\n\n本文内容仅供参考，不构成亦不得被视为任何产品交易的邀请、要约、招揽或推荐或投资建议；投资需谨慎，数字资产价格具有一定市场风险和价格波动性，投资数字资产存在风险，甚至可能会导致您损失全部投资金额；因此，数字资产交易未必适合所有投资者，您需了解产品的运作模式，自主做出判断和决策。\n\n\n本文来自转载，不代表 BlockBeats 观点",
+          "description": "欧易 OKX 计划扩大中东业务作为其全球重要战略增长和业务中心",
           "link": "https://www.theblockbeats.info/news/42718",
           "publishedOn": "2023-06-15T10:44:11.000Z",
           "wordCount": null,
@@ -556,7 +576,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42709",
           "author": null,
-          "description": "原文作者：Jaleel，Leo\n编辑：Jack\n\n\n根据数据显示，在过去的 24 小时内，共有 9900 万枚 USDT 在 Curve 的 3pool 中售出，净流出达到 6440 万美元。而在过去的 3 天内，共有 2.05 亿枚 USDT 在 3pool 中被售出，净流出金额则达到了 1.3 亿美元。同时根据 Curve 官方的最新数据显示，截至撰稿时，3pool 中 USDT 的占比已经达到了 74%，共计 301,753,409 枚。而 DAI 和 USDC 的占比分别为 12.91% 和 12.74%。\n\n\n\n\n\n\n\n\n\n而在过去最近 48 小时里，Curve 3pool 中的 USDT 集中度上升至了 50%，又在仅仅一个小时内又从 50% 急剧上升到了 74%。这引发了社区的担忧，大家似乎都对 USDT 突如其来的抛压有些摸不着头脑。难道是有人提前知道了一些关键信息？毕竟上一次 Curve 3pool 中的 USDT 集中度超过 50%，是在 2022 年 11 月 FTX 崩盘之时，自那之后 USDT 集中度就再未达到如此高的程度了。\n\n\n\n\n\n做市商们在退出？\n\n\n\n\n今日 USDT 的抛压不禁让我们联想起近一个月来市场流动性的迅速枯竭。近期，市场的表现很差，似乎进入了流动性匮乏的局面。尤其是 6 月 10 日的「15 分钟暴跌」事件，山寨币普遍跌幅超 20%，主流币种也出现相应幅度下跌。值得注意的是，彼时市场还没有遭到 SEC 监管出击的影响。而关于「15 分钟暴跌」原因的猜测，市场上也出现了 Jump Trading 和与 DWF 正在撤走流动性并退市的传言。\n\n\n\n\n\n实际上，这种猜测并非空穴来风。今日，DWF Labs 管理合伙人 Andrei Grachev 发推称，目前市场 24 小时现货交易额已降至 230 亿美元，创下自 2019 年冬季…",
+          "description": "在种种信息的暗示下，我们不禁联想，今天Curve 3Pool池的严重倾斜，是否也与机构退场有关？",
           "link": "https://www.theblockbeats.info/news/42709",
           "publishedOn": "2023-06-15T07:12:02.000Z",
           "wordCount": null,
@@ -566,7 +586,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42701",
           "author": null,
-          "description": "原文作者：Thor Hartvigsen\n原文编译：Kxp，BlockBeats\n\n\n今天，我注意到 USDT 在 Curve 的 3pool 中所占比例已经超过了 60%，这种严重的过度集中引发了市场的高度关注。\n\n\n面对这种情况，我不禁思考，这是毫无根据的恐慌还是大型机构掌握了我们所不知道的信息呢？\n\n\n作为专业投资者，我不想在这件事情上赌一把，因此我选择了在链上进行 USDT 空头对冲，以下是我的具体操作方法。\n\n\n\n\n\nCurve 作为主要的稳定币交换平台，其协议拥有最深的流动性。然而，当 Curve 的 3pool 出现不平衡时，进行稳定币交换就会变得困难，容易遭受大幅度的滑点风险。\n\n\n目前，情况正是如此，因为许多人都在抛售 USDT。\n\n\n如果你希望将 USDT 转换为其他稳定币，有几个选择可供你考虑，比如 USDC、DAI、FRAX，或者像主网上的 LUSD 或 Arbitrum 上的 VST 这样的去中心化稳定币。此外，你还可以很容易地在链上做空 USDT：\n\n\n• 前往像 Aave 或 Radiant Capital 这样的货币市场\n\n\n• 存入波动性较低的抵押品，例如 USDC 或其他非 USDT 的稳定币\n\n\n• 用这些抵押品借出 USDT\n\n\n• 将借来的 USDT 转换为其他稳定币\n\n\n•（如果需要，还可以循环操作以进行杠杆空头）\n\n\n如果 USDT 解锚，你便可以偿还贷款并从中获利。\n\n\n需要注意的是，在 Aave Ethereum 主网上，借出 USDT 的成本约为 2% APY，但在 Arbitrum 上为 20%；而在 Radiant 上借出 USDT 的成本为 10%，但如果你有资格获得 RDNT 奖励，则可以免费借出。\n\n\n\n\n\n\n关于 USDT 是否会解锚，我个人认为不会。然而，由于我无法得知幕后的真相，所以只能持观望态度。\n\n\n鉴于我已经在 Radiant 上存有资金，这次空头操作对我来说是免费的，因此能够从中获利。\n\n\n原文链接",
+          "description": "USDT在Curve 3pool中占比已经超60%，这是毫无根据的恐慌，还是大型机构掌握了我们所不知道的信息呢？",
           "link": "https://www.theblockbeats.info/news/42701",
           "publishedOn": "2023-06-15T06:36:19.000Z",
           "wordCount": null,
@@ -576,7 +596,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42697",
           "author": null,
-          "description": "原文作者：Yilan，Invest&Research@LD Capital\n\n\n最近 Curve 创始人套现行为和持续的抵押 CRV 借出稳定币的行为在市场流动性受 SEC 事件影响时成为备受市场关注的焦点。为了分析 CRV 的链上做空成本，可能性以及相关影响，先回顾一下在去年的 CRV 多空大战中，看看过去的做空操作是如何进行的。\n\n\n去年 FTX 暴雷后不久，市场缺乏信心流动性极度萎缩时，一名巨鲸从 Aave 借出了大量 CRV 代币，转移到 OKX 交易平台，总计借出了 4700 万 CRV，受到巨鲸的砸盘做空影响，CRV 价格从 0.545 美元下跌至 0.424 美元，跌幅达 21.88%，最低达到 0.4 美元，这种操作为通过链上反复借贷并转移代币，以打压币价进行大规模做空。\n\n\n随后创始人 Michael 购买 CRV 来抬高币价。尽管 Aave 账户承担清算风险，但空头仍有获利潜力。一种获利方法是在 OKX 等交易平台进行高杠杆空头交易，利用市场流动性不足且缺乏强劲多头干扰的情况下获取高概率的盈利机会。另一种获利方法是将空头仓位转为多头仓位。当市场流动性被耗尽时空头平仓转而做多。\n\n\nAave 在 CRV 多空博弈事件后取消了 CRV 借出（即无法通过同样的链上循环贷不断增加杠杆进行做空）。\n\n\n此外，中心化交易平台也提供了借币做空的机会。\n\n\n当前，CRV 代币的筹码分布如下：Curve dex 中持有 1.16 亿，Binance持有 6547 万，OKX 持有 1256 万，其他中心化交易平台共计 5329 万。\n\n\n可以看出，中心化交易平台持有大量的 CRV 代币，占据了流通总量的 15%。但由于缺少中心化交易平台数据无法计算可能的做空行为成本。\n\n\n目前来看，CRV 的总链上可清算金额为 1.13 亿美元，其中 99%（2.89 亿 CRV）集中在 0.375 美元的价格附近。——这意味着，借币做空可能会足够将价格压到清算价格附近，但 Curve 创始人有能力添加保证金让清算价格继续下移，单纯做空成本会非常高。\n\n\n\n\n\n\nAave 启动 CRV 和 CRV 清算水平\n\n\n但事实上这个体量的 CRV 没有人能够进行清算，因此如果 Aave 希望 Michael repaying his loan, 将 CRV 借贷池 LTV 降低是正确的风控措施，但不应 suddenly change the LTV to 0, 这样会导致 Aave 坏帐风险大大增加。\n\n\n虽然链上借 CRV 的途径较少，但链上 CRV 现货抛压较大, 并且，过去 6 小时中心化交易平台的做空行为增长显著 (190%+ APY on BN to short CRV)，OI 两小时增加 500w, 24hr 增加 1400w。\n\n\n\n\n\nCRV 创始人目前在 AAVE，Abracadabra，Fraxlend, Curve, Inverse Finance 中借出了超过 4400w 刀的 stablecoin，如果清算（关于清算价格等具体信息看上一条 thread）发生，这些借贷平台存在潜在坏账风险。\n\n\n但事实上 Aave 这个体量的 CRV 会在产生大幅滑点的情况下进行清算，因此将 CRV 借贷池 LTV 降低是正确的风控措施，但应缓慢下调而不应 suddenly change the LTV to 0, 这样会导致 Aave 坏帐风险大大增加。\n\n\n过去一天，创始人 Michael 从 Fraxlend 中取回 700 多 wCRV(25%+), 存到 Inverse Finance(fixed borrow rate 6.84%) 0x73f8af 这个地址 is created by Inverse Finance FiRM CRV market, 地址 Curve 创始人在这个地址中至少抵押了 600 多 wCRV，目前 Inverse Finance CRV 池子中 900 多 w TVL, 大部分为 CRV 创始人抵押。\n\n\n另外 abracadabra 中也继续抵押了 400w CRV, 近 8000w CRV 在 Abracadabra CDP 中。\n\n\n原文链接",
+          "description": "去年的CRV多空大战中是如何进行的？",
           "link": "https://www.theblockbeats.info/news/42697",
           "publishedOn": "2023-06-15T05:53:37.000Z",
           "wordCount": null,
@@ -596,31 +616,11 @@
         {
           "id": "https://www.theblockbeats.info/news/42688",
           "author": null,
-          "description": "原文标题：《\n\n大厦将倾？韩国又一加密公司暂停提款\n\n》\n原文来源：Foresight News\n\n\n继 Haru Invest 暂停平台存取款之后，Delio昨日宣布鉴于市场波动性急剧增加等情况暂停提现。在外界对质疑 Delio 将客户资金存入 Haru Invest 的情况下，很多用户担心可能会出现恐慌和连环挤兑风险。\n\n\n昨日下午，Haru Invest 表示其委托运营商 B&S Holdings 以欺诈方式提供包含虚假信息的管理报告，已经对B&S Holdings 提起刑事诉讼，并计划提起民事诉讼。而根据 News1 报道，B&S Holdings 是一家韩国公司，使用过 FTX。\n\n\n此外，@ErgoBTC 发推称，「Haru Invest 的 BTC 余额从来没有特别高，交易量最高是在 2022 年夏季，监测到 Haru Invest 对 FTX 的两次资金交易是其比特币地址最大的转出交易。」\n\n\n\n\n\n不过，Haru Invest 在去年 11 月份针对 FTX 问题回应称，「已在 FTX 风险扩散之前检测到了风险，并撤出了所有在 FTX 上管理的资产，没有任何损失，也没有受到 FTX 和 FTT 价格下跌的影响，并保证仅在具有准备金证明或发布关于准备金证明的指导方针的交易平台重新分配资产。」\n\n\nHaru Invest 针对 FTX 问题的回应是否属实，Haru Invest 和其委托运营商 B&S Holdings 是否受到了 FTX 影响并最近才有所反应我们尚不得知。\n\n\n那 Delio 和 Haru Invest 这几日到底发生了什么？两家公司的背后主体在哪里？又提供什么服务？有什么业务往来？监管机构相关人士如何看待这一事件？笔者将带大家一探究竟。\n\n\nHaru Invest 是谁？\n\n\nHaru Invest 总部位于新加坡，但一直主要在韩国开展业务…",
+          "description": "在外界对质疑 Delio 将客户资金存入 Haru Invest 的情况下，很多用户担心可能会出现恐慌和连环挤兑风险。",
           "link": "https://www.theblockbeats.info/news/42688",
           "publishedOn": "2023-06-15T03:45:51.000Z",
           "wordCount": null,
           "title": "韩国加密公司Delio与Haru Invest暂停提款，详解事件始末",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42661",
-          "author": null,
-          "description": "采访：Jack，BlockBeats\n编译：Laughing，BlockBeats\n\n\n\n似乎自黑山 EDCON 后，ZK 就成了所有人都在讨论的话题。但实际上，ZK 赛道的热度自年初 Arbitrum 空投后便未曾消减过。随着 zkSync Era 上线，「ZK 空投」的预期也被推到了新的高点，除了 zkSync 和 Starknet，Scroll、Linea 等 zkEVM 项目也成了「羊毛党」的重点撸毛对象。\n\n\n\n但有意思的是，尽管 ZK 赛道的空头预期空前高涨，但大多数人对这个领域的细分概念仍然相对模糊。ZK Rollup、zkEVM、zk-SNARK、zk-STARK 等等，每一个似乎都很重要，但每一个都不是太懂。必须承认，ZK 赛道的强技术性，的确为很多人了解该领域增添了不少难度。\n\n\n\nPolygon 作为最早投入 ZK 扩容开发的团队，自身产品经历过多次迭代，对 ZK Rollup 有着深刻的理解与洞见，而 Polygon zkEVM 也是目前少数已上线的 zkEVM。为此，BlockBeats 在近期专访了 Polygon zkEVM 的技术负责人 Jordi Baylina，向这位「技术宅男」请教了 ZK 赛道的发展现状、机会，以及 Polygon zkEVM 的未来展望。\n\n\n关于 ZK Rollup 和 zkEVM\n\n\n\nBlockBeats：首先，Jordi 能否向读者简单阐释 ZK Rollups 和 zkEVM 之间的区别？以及我们为什么需要一个经过 ZK 验证的 EVM？\n\n\n\nJordi Baylina：从用户的角度来看，OP Rollups 和 ZK Rollups 最大的区别是提取资金所需的时间。例如，当你将 1 个 ETH 放入 Optimism 或 Arbitrum 时，取回这笔钱至少需要一周的时间。如果你想把资金留在那里，问题就…",
-          "link": "https://www.theblockbeats.info/news/42661",
-          "publishedOn": "2023-06-15T03:00:01.000Z",
-          "wordCount": null,
-          "title": "专访Polygon zkEVM：MATIC一个Token就足够了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42678",
-          "author": null,
-          "description": "原文作者：Sina Pilehchiha\n原文编译：深潮 TechFlow\n\n\nTLDR： ERC-4626 是用于代币化保险库 (Vault) 的标准。\n\n\n在引入 ERC-4626 之前，每个保险库都有其各自的规范和实现细节。这使得集成变得困难、容易出错且浪费资源。\n\n\nERC-4626 试图通过标准规范来解决这个问题，以降低集成工作量，并创建更一致和强大的实现模式，就像 ERC-20 一样。\n\n\n什么是 ERC-4626 ？\n\n\nERC-4626 是一种标准，它改进了收益型保险库的技术参数。它为代表单个底层 ERC-20 代币份额的收益保险库提供标准 API。\n\n\n代币化保险库已经成为 DeFi 中极为常见的模式。收益聚合器、借贷市场、质押衍生品等许多 dApp 都利用和依赖于代币化保险库。代币化保险库的示例包括 Yearn 和 Balancer。作为一个收益聚合器，Yearn 保险库使用户可以存入数字资产并获得收益。Balancer 是一个自动化的组合管理器和流动性提供商，其业务逻辑的核心依赖保险库。这些保险库管理各种池中的代币。同时，它们将代币管理与池子本身的逻辑分离开来。\n\n\n协议通过代币化其保险库来增强流动性和灵活性。代币化保险库可以轻松进行交易，并在 DeFi 平台上使用资产。此外，它们还能够创建多样化、相互连接的金融产品。该行业一直倡导这种范式，通常称为“货币乐高”。\n\n\n然而，没有适当的适应性或标准化的可组合性会带来挑战。它不仅使开发人员难以遵守 ERC-20 等行业标准，而且还会使新开发人员感到困惑。如果没有适当的适应性或标准化，就很难审查新的变化并验证集成的实施细节。\n\n\n于是 ERC-4626 被提出来解决这个问题，并简化集成，同时允许 DeFi 参与者最终采用更安全和强大的统一保险库规范。这反过来也将减少协议可能遭受的攻击面，同时在多个协议之间集…",
-          "link": "https://www.theblockbeats.info/news/42678",
-          "publishedOn": "2023-06-15T01:30:01.000Z",
-          "wordCount": null,
-          "title": "一文读懂ERC-4626：DeFi代币化保险库的新标准",
           "imageUrl": null
         }
       ]
