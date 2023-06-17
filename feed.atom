@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-17T13:13:35.752Z</id>
+    <id>urn:2023-06-17T14:10:39.780Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-17T13:13:35.752Z</updated>
+    <updated>2023-06-17T14:10:39.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Uniswap v4升级：四大新特性引领DeFi创新]]></title>
+        <id>https://www.web3sj.com/?p=75343</id>
+        <link href="https://www.web3sj.com/definews/75343/"/>
+        <updated>2023-06-17T13:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Uniswap V4 放弃了原始的 Factor/Pool 结构，而是将所有池合并到一个称为 Singleton 的单个合约中。Singleton 减少了多跳交易（Multi-Hop,即 swap 时需要转换多次 ) 的成本，并且还将合约部署成本降低了 99％。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI带微软市值飞升2.6万亿美元！外媒却爆两家内斗，关系微妙]]></title>
+        <id>https://www.web3sj.com/?p=75315</id>
+        <link href="https://www.web3sj.com/news/75315/"/>
+        <updated>2023-06-17T13:43:05.000Z</updated>
+        <summary type="html"><![CDATA[2021 年，微软乘着「元宇宙」的东风，市值一路走高，突破 2.5 万亿，超越苹果成为全世界市值最高的公司。而如今，在资本市场遭遇寒冬，全球经济一蹶不振之时，微软却再次凭借押宝 OpenAI 和「AI 热潮」，市值接近 2.6 万亿，再次创造历史。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万众期待的贝莱德比特币现货ETF能获得通过么？]]></title>
+        <id>https://www.web3sj.com/?p=75303</id>
+        <link href="https://www.web3sj.com/news/75303/"/>
+        <updated>2023-06-17T13:28:03.000Z</updated>
+        <summary type="html"><![CDATA[事实上，SEC 已经批准了相当多的比特币期货 ETF，这些 ETF 在 CME 持有近期比特币期货合约，但是还没有比特币现货 ETF。这些期货 ETF 目前在美国股票市场交易，但资产管理规模都很小。那么，它们为什么不受欢迎呢？]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-6.17）]]></title>
         <id>https://www.web3sj.com/?p=75298</id>
@@ -453,36 +483,6 @@
         <link href="https://www.web3sj.com/news/75222/"/>
         <updated>2023-06-16T16:20:19.000Z</updated>
         <summary type="html"><![CDATA[在近期 SEC 监管压力巨大，且多支现货比特币 ETF 未被批准的情况下，全球最大资管巨头的比特币 ETF 申请令人非常意外。Variant Fund 顾问、执业律师 Jake Chervinsky（@jchervinsky）在 Twitter 上写道：「SEC 多年来一直坚决拒绝批准现货比特币 ETF，这种态度已经根深蒂固。明知道 SEC 对此的消极态度，贝莱德却仍希望在纳斯达克上市比特币 ETF。我们每个人都应该知道这事儿有多重要，对吧？」]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[崩溃还是复兴？一览 LUNA 2.0 和 Terra 生态系统现状]]></title>
-        <id>https://www.web3sj.com/?p=75219</id>
-        <link href="https://www.web3sj.com/news/75219/"/>
-        <updated>2023-06-16T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[上次 UST 崩盘导致了区块链分裂，也被称为硬分叉，创建了一个新的区块链和代币，现在独立运行。LUNA 或 LUNA 2.0 代表由于分叉而产生的新 LUNA 代币，原始的 LUNA 代币现在被称为 LUNA Classic 或 LUNC。超过 65% 的持有人支持 Terra 平台推出后的复兴。Terra 是由 Terraform Labs 创建的区块链项目，是众多稳定币和去中心化应用程序的基础。 Terra 美元，或 Terra $UST，它使用算法将其与美元挂钩。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWA链上借贷项目比较分析]]></title>
-        <id>https://www.web3sj.com/?p=75203</id>
-        <link href="https://www.web3sj.com/definews/75203/"/>
-        <updated>2023-06-16T16:01:58.000Z</updated>
-        <summary type="html"><![CDATA[区块链和加密货币世界的新兴趋势之一是使用现实世界的资产来扩大链上信用。这涉及利用区块链技术创建现实世界资产的数字表示，例如房地产、商品或艺术品，并使用这些数字资产作为抵押品来发行链上信用。通过这样做，借款人可以比传统贷款更容易、更便宜地获得信贷，而贷方可以通过向市场提供流动性来从其持有的资产中赚取利息。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos主网上线至今，链上DeFi发展如何？]]></title>
-        <id>https://www.web3sj.com/?p=75200</id>
-        <link href="https://www.web3sj.com/definews/75200/"/>
-        <updated>2023-06-16T15:51:55.000Z</updated>
-        <summary type="html"><![CDATA[本文 Aptos Global 将与你一起了解正在 Aptos 链上开发，值得关注的部分 Defi 项目。积极参与链上交易活动，方便更好的了解生态的增长潜力。]]></summary>
         <author>
             <name>Gao</name>
         </author>
