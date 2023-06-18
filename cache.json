@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 654,
+          "wordCount": 657,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -91,7 +91,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 457,
+          "wordCount": 463,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         },
@@ -113,12 +113,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=75357",
+          "author": "Gao",
+          "description": "与此同时，在 6 月 1 日正式落地加密货币交易平台申请后，香港被视为加密友好之地。香港立法会议员吴杰庄甚至表示，欢迎全球虚拟资产交易平台包括 Coinbase 来香港申请合规平台。但实际上，由于严格的 KYC 和反洗钱规则，加密公司在香港获得银行服务方面遇到了困难。",
+          "link": "https://www.web3sj.com/news/75357/",
+          "publishedOn": "2023-06-18T02:34:31.000Z",
+          "wordCount": 657,
+          "title": "香港加密新政后银行却不配合开户，监管机构向多家银行施压",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16870556611.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=75347",
           "author": "Gao",
           "description": "在这个数字化的「黑暗森林」中，矿工、验证者就如同那位服务员，他们在处理区块链交易时可以获取价值。当用户提交交易到区块链时，这些交易信息并不会立即被记录在区块中，而是暂时被放在一个公开的待处理交易池，这就如同顾客的订单被放在餐厅的厨房等待烹饪。然而，在这个池中，任何人都可以看到交易信息，就像其他食客可以看到厨师正在忙碌的情况。",
           "link": "https://www.web3sj.com/definews/75347/",
           "publishedOn": "2023-06-17T15:44:16.000Z",
-          "wordCount": 1382,
+          "wordCount": 1379,
           "title": "读懂MEV：区块链的黑暗森林法则",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16870166131.png"
         },
@@ -128,7 +138,7 @@
           "description": "Uniswap V4 放弃了原始的 Factor/Pool 结构，而是将所有池合并到一个称为 Singleton 的单个合约中。Singleton 减少了多跳交易（Multi-Hop,即 swap 时需要转换多次 ) 的成本，并且还将合约部署成本降低了 99％。",
           "link": "https://www.web3sj.com/definews/75343/",
           "publishedOn": "2023-06-17T13:48:16.000Z",
-          "wordCount": 760,
+          "wordCount": 751,
           "title": "Uniswap v4升级：四大新特性引领DeFi创新",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1686894231359.png"
         },
@@ -138,7 +148,7 @@
           "description": "2021 年，微软乘着「元宇宙」的东风，市值一路走高，突破 2.5 万亿，超越苹果成为全世界市值最高的公司。而如今，在资本市场遭遇寒冬，全球经济一蹶不振之时，微软却再次凭借押宝 OpenAI 和「AI 热潮」，市值接近 2.6 万亿，再次创造历史。",
           "link": "https://www.web3sj.com/news/75315/",
           "publishedOn": "2023-06-17T13:43:05.000Z",
-          "wordCount": 1127,
+          "wordCount": 1110,
           "title": "OpenAI带微软市值飞升2.6万亿美元！外媒却爆两家内斗，关系微妙",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16870093791.png"
         },
@@ -148,7 +158,7 @@
           "description": "事实上，SEC 已经批准了相当多的比特币期货 ETF，这些 ETF 在 CME 持有近期比特币期货合约，但是还没有比特币现货 ETF。这些期货 ETF 目前在美国股票市场交易，但资产管理规模都很小。那么，它们为什么不受欢迎呢？",
           "link": "https://www.web3sj.com/news/75303/",
           "publishedOn": "2023-06-17T13:28:03.000Z",
-          "wordCount": 799,
+          "wordCount": 793,
           "title": "万众期待的贝莱德比特币现货ETF能获得通过么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16870083801.png"
         },
@@ -158,7 +168,7 @@
           "description": "dYdX创始人：dYdX v4 将完全开放源代码，不包含商业版权许可。外媒：贝莱德获得SEC批准的ETF记录为575只通过，仅1只拒绝。Uniswap创始人：BUSL是社区的最佳选择，UNI持有者可通过治理投票改为GPL。",
           "link": "https://www.web3sj.com/news/75298/",
           "publishedOn": "2023-06-17T11:45:09.000Z",
-          "wordCount": 693,
+          "wordCount": 686,
           "title": "Web3世界日报（2023-6.17）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023061711440075.jpg"
         },
@@ -178,7 +188,7 @@
           "description": "尽管目前流行的 NFT 类型受限，但有几个新兴的用例宣称将把去中心化所有权的好处（可组合性、透明度和安全性）带给新的资产类别。在本文中，我们将探讨五种最有前途的 NFT 新型使用案例，而不至于艺术和收藏品。",
           "link": "https://www.web3sj.com/nftnews/75272/",
           "publishedOn": "2023-06-17T05:43:35.000Z",
-          "wordCount": 992,
+          "wordCount": 942,
           "title": "NFT的未来视角：探索艺术与收藏品之外的可能性",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686980602939.png"
         },
@@ -188,7 +198,7 @@
           "description": "在这一背景下，结合两者的 ZKML（Zero-Knowledge Machine Learning 零知识机器学习）在近期蓬勃发展。ZKML 将零知识证明的隐私保护和验证能力与机器学习的数据处理和决策能力相结合，为区块链应用带来了全新的机遇和可能性。ZKML 为我们提供了一种同时保护数据隐私、验证模型准确性和提升算力效率的解决方案。",
           "link": "https://www.web3sj.com/news/75267/",
           "publishedOn": "2023-06-17T05:16:51.000Z",
-          "wordCount": 918,
+          "wordCount": 920,
           "title": "一览零知识机器学习zkML的优势和挑战",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686978989821.png"
         },
@@ -198,19 +208,9 @@
           "description": "该文件还指出，这种转换不会影响任何债权人的索赔。债务人也会尽可能最大化加密货币的兑换。债务人表示，除了有限的情况外，整体计划将包括以比特币和以太坊的形式向债权人支付加密货币。有关代币转换的更新将包括在每月预算和加密货币报告中。",
           "link": "https://www.web3sj.com/news/75262/",
           "publishedOn": "2023-06-17T05:01:56.000Z",
-          "wordCount": 662,
+          "wordCount": 645,
           "title": "Celsius 债务人或将出售山寨币，哪些币种是大额持仓？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686978097069.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75237",
-          "author": "Gao",
-          "description": "2018 年，当我第一次进入加密市场时，一位 OG 告诉我，「投资 ETH，它的价格腰斩了，底部已经到了」，这也是我进入市场的机会。彼时，以太坊等项目还没被称为是 L1，而是智能合约平台。",
-          "link": "https://www.web3sj.com/news/75237/",
-          "publishedOn": "2023-06-16T16:23:24.000Z",
-          "wordCount": 982,
-          "title": "在下一次L1之战中，哪些项目将脱颖而出？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1686932592919.png"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "PANews 6月18日消息，据Bitcoin.com报道，去年6月马斯克被指控对狗狗币价格进行操纵，损害了散户投资者利益。对此马斯克律师Alex Spiro辩称，马斯克并非原告所说的所谓“DOGE鲸鱼”，马斯克拥有特定钱包的指控“毫无依据”。",
           "link": "https://panewslab.com/zh/articledetails/qhh65fso.html",
           "publishedOn": "2023-06-18T00:57:36.000Z",
-          "wordCount": 340,
+          "wordCount": 337,
           "title": "马斯克否认“狗狗币鲸鱼”指控",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 6月18日消息，据PeckShield检测，跨链市场解决方案Midas Capital遭黑客攻击，损失超过60万美元，原因是其借贷协议中的四舍五入问题（源自Compound Finance v2代码库的分叉），而同样的情况在此前Hundred Finance攻击事件中也发生过。",
           "link": "https://panewslab.com/zh/articledetails/7xmbgnkh.html",
           "publishedOn": "2023-06-18T00:39:45.000Z",
-          "wordCount": 362,
+          "wordCount": 359,
           "title": "PeckShield：Midas Capital遭黑客攻击，损失超过60万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -354,6 +354,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42785",
+          "author": null,
+          "description": "BlockBeats 将在本文整理当周（6.11-6.17）行业重点新闻内容，并推荐深度佳文帮助读者更好了解市场，获悉行业趋势。\n\n\n本周重要新闻回顾 \n\n\nBinance 上线 Launchpool 新项目 Maverick Protocol（MAV）\n\n\n\n6 月 13 日，Binance 宣布上线 Launchpool 新项目 Maverick Protocol（MAV），用户可以在 2023 年 06 月 14 日 08:00 后在 Launchpad 网站将 BNB、TUSD 投入到 MAV 挖矿池中获得 MAV 奖励，MAV 共计可挖矿 25 天。一旦 MAV Token 流动性满足要求，Binance 将开通 MAV/BTC、MAV/USDT 和 MAV/TUSD 交易市场。确切的日期和时间将在确定后公布。\n\n\n中银国际在以太坊联盟链上发行价值 2 亿元的 Token 化票据\n\n\n\n6 月 12 日，瑞银集团表示，中银国际发行了由瑞银发起并向其香港客户配售的数字结构化票据，总价值 2 亿元人民币。瑞银集团称，该交易标志着亚太地区首个遵守香港和瑞士法律并在以太坊联盟链上进行 Token 化的此类产品。\n\nBlockBeats 注，中银国际是中国银行集团旗下境外投资银行机构，以太坊联盟链指以开源以太坊框架搭建的许可链。\n\n\n美国法官拒绝 SEC 冻结 Binance.US 资产的请求\n\n\n\n6 月 14 日，据 Coindesk 报道，负责监督美国证券交易委员会（SEC）对 Binance 和 Binance.US 案件的联邦法官拒绝下令冻结美国交易平台资产的临时限制令。这将使 Binance.US 能够继续开展业务，同时与监管机构讨论该限制令。如果双方能够就限制达成一致，哥伦比亚特区地区法院的艾米伯曼杰克逊法官表示，「绝对没有必要」发出限制令。同时，法官责令 B…",
+          "link": "https://www.theblockbeats.info/news/42785",
+          "publishedOn": "2023-06-18T02:40:24.000Z",
+          "wordCount": null,
+          "title": "本周热门回顾｜Binance上线Launchpool新项目；黄立成起诉链上分析师ZachXBT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42782",
           "author": null,
           "description": "原文标题：《Smart Contract Authority Conflicts》\n原文来源：Stanford Blockchain Review\n原文作者：Chris Truax\n原文编译：Kxp，BlockBeats\n\n\n引言\n\n\n区块链和智能合约有着改变商业运作方式的潜力。为了实现这一潜力，区块链首先必须是可靠的。然而，目前实施的智能合约存在一种以前未被认识到的缺陷，可能导致它们所依附的区块链崩溃或分裂。\n\n\n与互联网一样，区块链技术承诺一种新的无需中心化控制的互动方式。自诞生之日起，公共区块链就需要在权威和私人控制之外运作。\n\n\n但这是一个谬论。虽然区块链可能在国家直接控制之外运作，但维护区块链的服务器（称为节点）及其运营者则不然。节点和运营者都有自身的实际位置，因此会受到所在国家法律的约束。\n\n\n我们已经看到这种情况的一些后果。例如，许多区块链初创公司因为提供根据美国法律属于未注册证券的项目而引起 SEC 的不满。自从 Crypto 发明以来，各国权威一直间接通过税法对 Crypto 进行监管。在经历了 Three Arrows Capital、FTX、Coinbase 和 Binance 的丑闻之后，国家的直接监管只是时间问题。\n\n\n智能合约代表着一种更加隐蔽的威胁。虽然 Crypto 领域将来会受到监管，即对未来交易会施加新的法规，但智能合约会产生「追溯性」监管的风险。换句话说，Crypto 可以选择根据法规改变未来行为。但问题在于，一旦智能合约执行了某些操作，区块链可能无法撤销或改变这些操作，即使相关行为在未来可能受到法规限制或禁止。\n\n\n智能合约的权威冲突\n\n\n智能合约得到正确实施的标志在于它不能被单方面修改。事实上，除非设计如此，即使得到各方同意，谁也不能修改智能合约。然而，一个在今天完全合法的智能合约行为在明天可能是非法的。智能合约的权威冲突（Smar…",
@@ -396,7 +406,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42738",
           "author": null,
-          "description": "本文对Azuki和Beanz在NFT市场上的表现进行了分析，重点关注其社区实力、借贷动态以及推动其坚韧成长的战略性合作。",
+          "description": "原文标题：《\n\n从数据视角解读 Azuki\n\n》\n原文来源：NFTGo\n\n\n\n\n\n简介\n\n\n一颗红豆能有什么样的魔力？\n\n\nAzuki 是一个由一万个以动画为灵感的非同质化代币（NFT）构成的系列。自 2022 年由 Chiru Labs 推出以来已成为 Web3 领域的强势力量。Azuki 的推出见证了该系列在短短几分钟内销售一空，并积累了超过 2900 万美元的资金。该项目能有今天的地位，归功于其多样化且忠实的社区。除了令人惊叹的数据，Azuki 的独特之处其实在于团队对创造游戏化元宇宙的雄心壮志。他们的目标是创造一个名为 Hilumia 的空间，为持有者提供沉浸式的互动体验。\n\n\n本报告对 Azuki 和 Beanz 在 NFT 市场上的表现进行了全面分析，重点关注其社区实力、借贷动态以及推动其坚韧成长的战略性合作。我们将从数据角度探讨他们的交易活动、持有人规律、贷款量和跨平台吸引力，多方面展示这两个项目是如何在市场波动中打出一片江山。\n\n\n\nIPX x Chiru Labs：一场革命性的 Web3 扩张行动\n\n\n\n来源：Tweet@Azuki\n\n\nChiru Labs 是 Azuki 背后的创意力量来源，该公司宣布与著名全球 IP 平台 IPX 建立重要合作关系。IPX 因与 BTS、Netflix 和星巴克等知名品牌的成功合作而闻名。这一联盟标志着 LINE FRIENDS 在 Web 领域的重大突破（LINE FRIENDS 是一系列流行全球且诞生于 LINE 短信应用程序的贴图角色）。\n\n\n这次合作标志着 Web3 和现有 IP 的突破性结合，范围涵盖内容共创、LINE FRIENDS 商店的零售分销以及沉浸式线下活动。既然 BEANZ 和 LINE FRIENDS 已经起了头，这种合作很有可能扩展到其他 IP，包括那些由 IPX 指定的 Web3 合作伙伴所…",
           "link": "https://www.theblockbeats.info/news/42738",
           "publishedOn": "2023-06-17T01:00:01.000Z",
           "wordCount": null,
@@ -441,16 +451,6 @@
           "publishedOn": "2023-06-16T10:20:33.000Z",
           "wordCount": null,
           "title": "贝莱德高压监管下申请比特币ETF，为何加密社区却普遍唱衰？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42751",
-          "author": null,
-          "description": "全球规模最大的资管巨头之一贝莱德 (BlackRock) 今晨通过子公司 iShares 向美 SEC 提交了现货比特币 ETF 的文件申请，该申请文件显示，此次申请的基金被命名为「iShares Bitcoin Trust」，其资产「主要由代表该信托托管人持有的比特币组成」。\n\n\n\n针对此次贝莱德申请的到底是现货 ETF 还是信托，在加密业界引发了巨大分歧和争议，有人认为贝莱德此次申请的是信托，但和 Grayscale 发行的 GBTC 这类信托基金又不一样，它更加灵活，可供赎回，另一种观点则认为这次贝莱德申请的是一种另类结构的 ETF，它代表的是公开上市的比特币信托基金股票，它和 GBTC 这类金融工具完全不一样，反而更像是 GLD 和贝莱德旗下安硕（iShares）管理的多支知名 ETF 基金。\n\n\n\n贝莱德申请的到底是现货 ETF 还是信托？来自加密行业的分析师、投资人和专业人士又各自持有哪些论点？以及从传统金融的角度来看，ETF 和信托各自的定义、主要区别、投资风险和各自的优缺点又是什么？接下来本文将为你理清这些迷思。\n\n\n\n贝莱德申请的是信托吗？\n\n\n\nPomp Investments 投资人 Anthony Pompliano 认为贝莱德申请的是信托，而非比特币 ETF。虽然两者在技术上有所不同，尤其是当涉及到监管批准方面的情况下，但对于投资者来说，结果是一样的。Anthony Pompliano 发推称，GBTC 就是一种信托，因此你不能从基金中赎回它。贝莱德也是一种信托，但你可以赎回它。如果该申请被批准，对投资者来说是一个巨大的胜利。不过，最大的利好仍然是一个真正的比特币现货 ETF 被 SEC 批准。\n\n\n\n\n\n\n\nWeb3 技术营销工作室 SCRIB3 客户经理 Joey Campbell 同样认为，贝莱德提交的是信托，他发布推文称，「目前我们有人对「…",
-          "link": "https://www.theblockbeats.info/news/42751",
-          "publishedOn": "2023-06-16T10:15:35.000Z",
-          "wordCount": null,
-          "title": "贝莱德向SEC申请的，到底是比特币ETF还是信托？",
           "imageUrl": null
         }
       ]
