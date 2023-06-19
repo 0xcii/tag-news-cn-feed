@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 670,
+          "wordCount": 673,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 911,
+          "wordCount": 897,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 451,
+          "wordCount": 447,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=75521",
+          "author": "Gao",
+          "description": "行业对于 DEX 的态度是一如既往看好的，因为它们在做的事情是将交易和托管去中心化，交易者不需要担心费用、价格和结算的不透明，这一切在链上都是可查的。Uniswap 引发了 DEX 的浪潮，允许每个人进行无许可交易，并提供流动性参与做市。",
+          "link": "https://www.web3sj.com/definews/75521/",
+          "publishedOn": "2023-06-19T06:56:26.000Z",
+          "wordCount": 856,
+          "title": "Uniswap v4有可能flip CEX吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1687153604360.webp"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75518",
+          "author": "Gao",
+          "description": "区块链和智能合约有着改变商业运作方式的潜力。为了实现这一潜力，区块链首先必须是可靠的。然而，目前实施的智能合约存在一种以前未被认识到的缺陷，可能导致它们所依附的区块链崩溃或分裂。与互联网一样，区块链技术承诺一种新的无需中心化控制的互动方式。自诞生之日起，公共区块链就需要在权威和私人控制之外运作。",
+          "link": "https://www.web3sj.com/news/75518/",
+          "publishedOn": "2023-06-19T06:44:38.000Z",
+          "wordCount": 680,
+          "title": "详解SCAC：智能合约的权威冲突",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687157072.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75510",
+          "author": "Gao",
+          "description": "空投（Airdrop）是指在区块链领域中，通过向特定的数字钱包地址发送免费的加密代币的一种行为。也就是说空投就是项目方赠送加密资产给用户的一种行为。对于项目方来说，加密空投是一种营销策略，旨在推广新项目和它的加密代币，提高对项目的认识，并促进采用。",
+          "link": "https://www.web3sj.com/news/75510/",
+          "publishedOn": "2023-06-19T06:21:29.000Z",
+          "wordCount": 1026,
+          "title": "详解加密空投策略和近期6个空投机会",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687155657.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=75488",
           "author": "Gao",
           "description": "根据币安的介绍，Maverick 是一种可组合的去中心化金融基础设施，使建设者和流动性提供者实现高资本效率并执行他们所需的流动性提供 (LP) 策略。光看这一句话的介绍，你可能很懵，不清楚这是干什么的，那就让我们先从 Uniswap v2 说起，了解一下他们解决了什么问题。",
           "link": "https://www.web3sj.com/news/75488/",
           "publishedOn": "2023-06-19T06:16:08.000Z",
-          "wordCount": 983,
+          "wordCount": 991,
           "title": "上线币安LaunchPool的Maverick原理和使用教程",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16871553661.png"
         },
@@ -128,7 +158,7 @@
           "description": "Uniswap v4 引入了一系列新特性和可定制性，最新版本增加了名为「hook」（钩子）的功能，这是一种智能合约，允许开发者在现有的流动性池上进行扩展。项目的首席智能合约工程师 Sara Reynolds 将 hook 的功能描述为「在定制可能性方面几乎没有限制」。",
           "link": "https://www.web3sj.com/definews/75480/",
           "publishedOn": "2023-06-19T06:03:25.000Z",
-          "wordCount": 694,
+          "wordCount": 686,
           "title": "Uniswap v4功能强大，但开发者为何不买账？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2c43c24887bdf85433ee946e432d2172.png"
         },
@@ -138,7 +168,7 @@
           "description": "自第一季度结束以来，加密资产领域发生了很多变化。虽然比特币第一季度在美国银行系统信心下降的推动下获得了可观的回报，但第二季度的情况却恰恰相反。市场表现不佳的主要原因是金融监管机构对加密资产行业采取的行动。尽管比特币在年初至今上涨了 53.6%，但 2023 年到目前为止，可以说是好坏参半。",
           "link": "https://www.web3sj.com/news/75477/",
           "publishedOn": "2023-06-19T05:53:38.000Z",
-          "wordCount": 745,
+          "wordCount": 746,
           "title": "NYDIG：从周期看比特币接下来会发生什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16871540061.png"
         },
@@ -148,7 +178,7 @@
           "description": "在 DeFi 世界中，流动性非常重要。但是，有很多不可预知的因素，包括以用户可以随时提取流动性，如果用户不断提现，而协议又不能及时处置资产，协议就会出现流动性问题，甚至可能破产。",
           "link": "https://www.web3sj.com/news/75448/",
           "publishedOn": "2023-06-19T05:45:19.000Z",
-          "wordCount": 1442,
+          "wordCount": 1444,
           "title": "速览5月获顶级加密VC投资的25个项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/c962c32adc5ed86ae33f4fa29e723c0b.png"
         },
@@ -158,7 +188,7 @@
           "description": "我们邀请到了 Scroll 联合创始人 Ye Zhang 以及 Cysic 联合创始人 Leo Fan，针对 ZK 电路、硬件加速具体是在加速什么什么、一个开放的去中心化证明者网络是怎么样的、zk 生成的挖矿市场与比特币的 PoW 挖矿机制的区别等等这些社区关注的问题进行了讨论。同时 Ye 和 Leo 都分别分享了他们团队在 prover 网络和 zk 硬件加速市场做的一些研究以及将来的部署。",
           "link": "https://www.web3sj.com/news/75444/",
           "publishedOn": "2023-06-19T05:37:32.000Z",
-          "wordCount": 1649,
+          "wordCount": 1652,
           "title": "对话Scroll和Cysic联创：证明者网络和zk硬件加速",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16871530301.png"
         },
@@ -168,7 +198,7 @@
           "description": "「一个人怎么可能会害怕错过一个糟糕的聚会和糟糕的伙伴？」害怕错过是心灵的本能反应。在充斥着廉价多巴胺的网络世界中，FOMO（错失恐惧）是否已经成为一种不可避免的现象？这真的是一种新鲜事吗？",
           "link": "https://www.web3sj.com/news/75437/",
           "publishedOn": "2023-06-19T05:21:07.000Z",
-          "wordCount": 737,
+          "wordCount": 715,
           "title": "加密推特的FOMO陷阱，与悄然而至的ROMO艺术",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16871520681.png"
         },
@@ -178,39 +208,9 @@
           "description": "2017 年 7 月，Hayden Adams 被他大学毕业后的第一个雇主西门子解雇，彼时他还是一位毫无区块链开发经验的机械工程师。2018 年 8 月，在 Hayden 失业的第 13 个月时，Hayden 与他的伙伴们完成了 Uniswap v1 的开发并在以太坊主网上线，从此成为 DeFi 世界里最不可或缺的拼图之一。而在本文着笔的 48 小时前，Uniswap 发布了他们的第四版迭代。",
           "link": "https://www.web3sj.com/definews/75426/",
           "publishedOn": "2023-06-19T05:13:13.000Z",
-          "wordCount": 1073,
+          "wordCount": 1108,
           "title": "Uniswap v4: DeFi五月花号再次启程",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16871515471.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75415",
-          "author": "Gao",
-          "description": "DePIN（Decentralized Physical Infrastructure）也即去中心化网络硬件基础设施。这种创新方法正在彻底改变创建和管理基础设施和硬件网络的方式。DePIN 在一个独特的前提下运作：使用代币化奖励来激励和协调个人和小型企业。",
-          "link": "https://www.web3sj.com/news/75415/",
-          "publishedOn": "2023-06-19T03:05:43.000Z",
-          "wordCount": 706,
-          "title": "解读DePIN：构建高效和民主化的去中心化基础设施系统",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687143923005.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75399",
-          "author": "Gao",
-          "description": "通常而言，代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。",
-          "link": "https://www.web3sj.com/news/75399/",
-          "publishedOn": "2023-06-19T03:00:11.000Z",
-          "wordCount": 832,
-          "title": "代币解锁周报｜SPACE ID代币总供应量0.75%将于本周一次性解锁",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1677469926587.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75376",
-          "author": "Gao",
-          "description": "过去一周ARK基金减持约9.7万股Coinbase股票。马斯克否认“狗狗币鲸鱼”指控。香港财政司长：拨款5000万元促进数码港Web3企业发展，过去一年有超150家落户。",
-          "link": "https://www.web3sj.com/news/75376/",
-          "publishedOn": "2023-06-18T11:31:45.000Z",
-          "wordCount": 621,
-          "title": "Web3世界日报（2023-6.18）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023061811313256.jpg"
         }
       ]
     },
@@ -220,12 +220,92 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/ar9ruqw2.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，据金融时报报道，据五位消息人士透露，新加坡加密交易所Crypto.com拥有自营交易和做市团队，该团队进行代币交易以获取利润。Crypto.com的高管向其他外部交易公司发表了宣誓声明，称“Crypto.com绝不参与交易”，且其员工被要求“说没有内部做市商类型的操作”，但该交易所的自营交易团队的唯一目标是“赚钱而不是促进交易”。\nCrypto.com对此进行回应称：“并未要求员工向其他市场参与者撒谎。我们有一个在Crypto.com交易所运营的内部做市商，该内部做市商的待遇与第三方做市商完全相同，它们同样促进了我们平台上的低价差和高效市场。这不是一种有争议的做法。Crypto.com是客户的交易对手方，并以经纪人模式运行。因此，Crypto.com交易团队通过在包括Crypto.com交易所在内的多个场所对冲这些头寸，确保Crypto.com的风险中性。平台上的参与者，包括做市商，都受到平等对待。公司不依赖自营交易作为收入来源。”\n据悉，在大多数市场中，交易所以最具竞争力的透明价格将买家与卖家配对。做市商和自营交易通常由独立的私人公司进行。",
+          "link": "https://panewslab.com/zh/articledetails/ar9ruqw2.html",
+          "publishedOn": "2023-06-19T06:33:43.000Z",
+          "wordCount": 366,
+          "title": "金融时报：Crypto.com拥有自营交易和做市团队，但要求员工对外称没有",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5gf1vwbu.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，Snapshot投票页面显示，Uniswap社区以99.98%的支持率通过了“将Uniswap V3部署至Filecoin虚拟机（FVM）”提案的温度检查投票。该投票由Michigan Blockchain发起，该团队认为Uniswap尽早在其数据经济中获得市场份额是有价值的，FVM部署是推进Uniswap多链愿景的合适方式。\n接下来，将开始最终确定此前RFC中提到的相关利益相关者，待利益相关者确定后v3合约将部署在目标链上。此后，一旦对合同进行审计，就会开始链上投票。",
+          "link": "https://panewslab.com/zh/articledetails/5gf1vwbu.html",
+          "publishedOn": "2023-06-19T06:08:12.000Z",
+          "wordCount": 378,
+          "title": "Uniswap V3部署至Filecoin虚拟机（FVM）的提案已通过温度检查投票",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/kbxue06b.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，Snapshot投票页面显示，AAVE社区以99.97%的支持率通过了“在Scroll主网部署Aave V3最小可行产品(MVP)版本”提案的温度检查投票。根据该提案，Scroll主网将于今年8月初上线，并计划将Aave V3作为其主网上首批 DeFi DApp 之一。最初部署的版本将支持WETH、USDC和wstETH三种抵押资产和USDC一种可借入资产。\n该提案将进入ARFC阶段进行进一步讨论、风险参数评估网络分析以及最终定稿提案。如果ARFC阶段投票成功，则将提案作为AIP提交以进行投票和链上治理批准。",
+          "link": "https://panewslab.com/zh/articledetails/kbxue06b.html",
+          "publishedOn": "2023-06-19T06:03:51.000Z",
+          "wordCount": 405,
+          "title": "“Aave V3 MVP版本部署至Scroll主网”的提案已通过温度检查投票",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/24vsn251.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，Snapshot投票页面显示，以太坊域名服务ENS社区以100%的投票支持率通过了ENS名称规范化标准（ENSIP-15）提案。该提案系ENS社区核心贡献者raffy.eth发布 ，具体建议包括将ENSIP-1§名称语法“UTS-46 算法”替换为指向ENSIP-15的链接，同意根据ENSIP-15规范化名称，以获得更安全的最终用户体验。",
+          "link": "https://panewslab.com/zh/articledetails/24vsn251.html",
+          "publishedOn": "2023-06-19T05:52:08.000Z",
+          "wordCount": 368,
+          "title": "“ENS名称规范化标准”ENSIP-15提案已获投票通过",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/y4n15zxs.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，据界面新闻报道，Cobo首席运营官Lily Z King表示，截止到目前，香港只有两家企业此前已经获得虚拟资产交易所业务所需的牌照，包括9号牌在内，目前还有140家企业在申请。Lily透露，牌照申请以及合规运营的成本非常昂贵，“每年的营运成本可能在2000万港币左右，初期成本可能在3000万至4000万港币。”\nLily还表示，从香港本地市场来看，申请牌照的目的并不是出于经济回报，而是为了整体战略布局。“一个有意思的现象是，申请人中，除了证券交易所或代理机构，还有很多传统金融企业想要跨界，其中也不乏一些内地企业的海外子公司，他们也想在香港做一些布局。”Lily认为：“香港开放Web3零售端的举措，表现的是一种‘拥抱Web3整个业态’的姿态，所以最终有多少机构申请、多少机构得到牌照并不重要，重要的是大家对香港态度的认可。”\n此外，BC科技首席财务官胡振邦表示：“如果香港主要覆盖亚太市场，我估计也就4至5家拿到牌照。”胡振邦强调，这并不意味着从事虚拟资产的金融机构是少数，它们更多可能会跟持牌机构合作。银行券商可以先去证监会申请，把服务范围从股票债券延伸到数字资产，再选择跟一个持牌机构合作。",
+          "link": "https://panewslab.com/zh/articledetails/y4n15zxs.html",
+          "publishedOn": "2023-06-19T05:41:23.000Z",
+          "wordCount": 382,
+          "title": "Cobo COO：香港虚拟资产业务牌照申请者中包括很多传统金融企业",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/t3p800vn.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，据官方博客，Animoca Brands与日本最大的贸易公司之一三井物产株式会社Mitsui&Co.通过战略投资建立合作伙伴关系，三井物产和Animoca Brands旨在通过利用三井物产从工业企业到消费者企业的广泛资产，以及其广泛的合作伙伴和客户网络，创造有助于创新和Web3在日本市场的应用的新业务。\n三井物产和Animoca Brands将通过加速战略合作伙伴关系的发展，共同为社会问题提供解决方案，例如通过合作业务的发展和在不同领域建立合资企业，包括将区块链技术应用于健康和脱碳/碳信用领域。",
+          "link": "https://panewslab.com/zh/articledetails/t3p800vn.html",
+          "publishedOn": "2023-06-19T05:15:49.000Z",
+          "wordCount": 400,
+          "title": "日本三井物产与Animoca Brands达成合作，以创建Web3应用于当地市场的新业务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/126wqcbb.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，比特币钱包Xverse在推特上向OnChainMonkey（OCM）Dimensions持有者发布提醒称，请不要从Ordinals地址恢复BTC。诅咒铭文尚未被Xverse第三方索引器识别，可能会导致用户的Dimensions Ordinals丢失。Xverse还表示，即将推出解决方案，所有Ordinals和资金都是安全的。",
+          "link": "https://panewslab.com/zh/articledetails/126wqcbb.html",
+          "publishedOn": "2023-06-19T05:08:53.000Z",
+          "wordCount": 361,
+          "title": "Xverse：OCM Dimensions持有者暂勿从Ordinals地址恢复BTC",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/f7o1ncqz.html",
+          "author": "PA一线",
+          "description": "PANews 6月19日消息，据官方公告，币安现货平台推出现货DCA机器人。该功能是交易机器人的新平均成本法 (DCA) 策略，DCA机器人根据用户选定的价格偏差和所需的周期自动买卖定量资产。\n通过此功能，用户现在可以设置现货DCA机器人以平均价格买卖资产，从而减少市场波动的影响。此外，现货DCA机器人可以协助用户以所需的止盈百分比自动获利。",
+          "link": "https://panewslab.com/zh/articledetails/f7o1ncqz.html",
+          "publishedOn": "2023-06-19T05:00:37.000Z",
+          "wordCount": 376,
+          "title": "币安现货推出现货DCA机器人，用户可通过设置以平均价格买卖资产",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/sefze5l0.html",
           "author": "PA一线",
           "description": "PANews 6月19日消息，据Spot On Chain监测，2小时前0x655开头的巨鲸地址将1719美元的均价将2535枚stETH兑换为436万枚USDC，22小时内0x109开头的巨鲸地址以26421美元的均价将138枚WBTC兑换为365万枚USDC。\n0x655开头的巨鲸地址上一次兑现stETH是在4月21日，平均价格为1937美元，现在以1719美元左右的价格继续卖出。此次最新销售使其从stETH实现的利润增至约360万美元（投资回报率14.38%）。\n0x109开头的巨鲸地址说通过这些最新的销售，从WBTC中实现的利润为81.7万美元（投资回报率：8.01%）。当前余额：钱包中有72枚WBTC，以及借给Aave V3的170枚WBTC。",
           "link": "https://panewslab.com/zh/articledetails/sefze5l0.html",
           "publishedOn": "2023-06-19T04:07:46.000Z",
-          "wordCount": 362,
+          "wordCount": 366,
           "title": "数据：某巨鲸将2535枚stETH换为436万枚USDC，另一巨鲸将138枚WBTC换为365万枚USDC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +315,7 @@
           "description": "PANews 6月19日消息，据Lookonchain监测，做市商Wintermute Trading在过去12小时内从OKX和币安撤回了76.7万枚ANT（约合296万美元） ，成为ANT的第10大持有者。",
           "link": "https://panewslab.com/zh/articledetails/cj0pm7qf.html",
           "publishedOn": "2023-06-19T03:50:38.000Z",
-          "wordCount": 385,
+          "wordCount": 389,
           "title": "数据：Wintermute Trading近12小时内从交易所提出76.7万枚ANT，成为第10大持有者",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +325,7 @@
           "description": "PANews 6月19日消息，据Cointelegraph报道，在马斯克称AI机器人账号“Explain This Bob”是一个诈骗性的加密货币账户之后，推特已将该账号封禁。\nExplain This Bob账号在被封之前已经积累了超过40万名粉丝。该机器人由来自印度的Prabhu Biswal创建，并使用OpenAI的GPT-4模型来理解和回应推文。该账号还与2023年4月推出的ERC-20 memecoin Bob（BOB）代币相关联。",
           "link": "https://panewslab.com/zh/articledetails/ktrj59ry.html",
           "publishedOn": "2023-06-19T03:47:23.000Z",
-          "wordCount": 384,
+          "wordCount": 388,
           "title": "马斯克警告AI机器人账号Explain This Bob系加密骗局后，推特已将该账号封禁",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +335,7 @@
           "description": "PANews 6月19日消息，据Decrypt报道，Genius.com联合创始人兼前首席执行官Tom Lehman于上周六推出了名为Ethscriptions的协议，该协议类似于比特币铭文，可将金融和任意数据写入以太坊区块链主链，用户可以刻录任何类型的文件，只要文件大小不超过96 KB。然而，根据其创建者的说法，它目前只允许使用图像，但未来会有所改变。\n根据Lehman的说法，这些铭文利用了以太坊“calldata”，指的是在对智能合约的调用中提供的数据；该协议比使用合约存储更便宜，更去中心化，并可保证所有有效内容的全球唯一性。Lehman 表示，在不到18小时的时间内已有近3万个Ethscriptions被创建。\nNFT KOL Adam McBride表示：“与Ordinals类似，Ethscriptions对我来说令人兴奋的是，开发人员正在再次使用区块链技术，正是这种实验推动了创新和采用。这项技术已经存在多年，这是它第一次获得广泛关注。”不过，报道称，Ethscriptions在周末遭受数次停机，该协议是昙花一现的时尚还是令人兴奋的新趋势最终将由社区决定。",
           "link": "https://panewslab.com/zh/articledetails/bjt7aihb.html",
           "publishedOn": "2023-06-19T03:35:04.000Z",
-          "wordCount": 378,
+          "wordCount": 379,
           "title": "某开发者推出类似于比特币铭文的以太坊铭文协议Ethscriptions",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +345,7 @@
           "description": "PANews 6月19日消息，有用户反馈，币安近日在发送给用户的邮件中表示，若用户的母账户和子账户的充值地址在以太坊网络中，这些网络的充值地址即将过期并被替换；请在北京时间7月15日15:41:45之前通过币安App网站或者SAPI重新获取地址；一旦过期，届时用户向旧地址的充值将不能自动上账。\n需要注意的是，以下有相同充值地址的网络将不再有效：AMB、ARBITRUM、AVAXC、BSC、CELO、CFXEVM、CHZ、CTXC、ETC、ETH、FTM、GLMRKLAY、MATIC、MOVR、OPTIMISM、REL、RON、RSK、THETA、TOMO、VET、WAN、WTC、XDAI。",
           "link": "https://panewslab.com/zh/articledetails/8aoy1px1.html",
           "publishedOn": "2023-06-19T03:27:35.000Z",
-          "wordCount": 361,
+          "wordCount": 365,
           "title": "币安已向部分用户发送关于“更换以太坊网络充值地址”的邮件",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +355,7 @@
           "description": "PANews 6月19日消息，据雅虎财经报道，香港金融管理局总裁余伟文在接受采访时表示，多边央行数字货币桥mBridge项目预计明年初可进入“最简可行产品（MVP）”阶段，除了中国内地、中国香港、泰国及阿联酋四地央行，另有两地央行正洽谈加入，相信于MVP前会有更多央行参与。他还表示，在四地央行以外，mBridge现有15个央行或国际组织作为观察成员，其中两个正洽谈加入，详情稍后公布。余伟文坦言，暂不想扩展太大，盼先建立规模可控的合作平台，以便在试验阶段洽谈细节，建立平台后再逐渐扩大网络。\n余伟文指出，此次到访阿联酋的行程系与该国商讨如何解决一些难题，盼推进mBridge至MVP阶段，令贸易结算更便宜快捷。他直言，现时困难之处不是技术层面，并列举四大挑战，分别为协调各地监管、平台管治方法、确保本币流动性，以及保障外币流动性。",
           "link": "https://panewslab.com/zh/articledetails/8n8yu980.html",
           "publishedOn": "2023-06-19T02:50:30.000Z",
-          "wordCount": 346,
+          "wordCount": 350,
           "title": "香港金管局总裁：mBridge预计明年初可进入MVP阶段，另有两地央行正洽谈加入",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +365,7 @@
           "description": "PANews 6月19日消息，据Galaxy研究副总裁Christine Kim记录，以太坊核心开发人员于6月15日召开了第111次全核心开发人员共识 (ACDC) 电话会议。以太坊共识层客户端团队讨论了Deneb升级的最终范围、验证者证明和聚合截止日期的潜在变化，以及将最大有效验证者余额从32 ETH增加到2048 ETH的提议。\n关于Deneb范围规划，开发者们提议对EIP-6988进行更新，该提案提出了一个代码，以防止强行从网络中弹出的slashed验证器被协议选为区块提议者。此外，会议并讨论了EIP-7044、EIP-7045与EIP-4788三个提案，计划在未来几周内将上述三个EIP合并到Deneb规范中，并鼓励CL客户端团队尽快对其进行审查。其中，EIP-7044提出一个代码更改以改善质押者体验，确保签名的验证器退出永久有效。EIP-7045提出代码更改以加强网络的安全性，扩大证明槽的包含范围。EIP-4788提出一个代码更改，以改善质押者体验，它将公开信标链区块的根，其中包含EVM内部链状态信息，供DApp开发者的信任最小化访问。\n关于验证者证明和聚合截止日期，会议已同意在下一个EIP-4844测试网Devnet 6上测试增加的blob数量从4增加至6，并在两周内就此事做出最终决定。与围绕最大blob计数的讨论相关，Nimbus开发者arnetheduck提出了在上海升级后主网上增加区块重组的问题。arnetheduck提议考虑更改4秒的最后期限，以聚合验证者证明并通过网络发送它们，并决定进一步予以调查。\n关于验证者最大有效余额，以太坊基金会研究员Michael Neuder提出取消32枚ETH质押上限，以帮助减少活跃验证者集的增长。开发者讨论了这一变化的潜在缺陷，以及将该提案与智能合约启动的部分和全部提款直接从EL中启动的可能性。开发者同意继续讨论在ETHMagicians和Discord上异步更改以太坊验证器有效余额的实施细节。\n关于Holesky测试网协调电话会议，以太坊核心开发者就Holesky测试网启动进行了第一次协调电话会议，Holesky预计将在年底前取代现有的Goerli测试网。",
           "link": "https://panewslab.com/zh/articledetails/ebx6v6gb.html",
           "publishedOn": "2023-06-19T02:29:33.000Z",
-          "wordCount": 387,
+          "wordCount": 391,
           "title": "第111次以太坊ACDC会议：未来几周拟将EIP-7044、7045与4788合并到Deneb规范中",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +375,7 @@
           "description": "PANews 6月19日消息，据明报报道，香港金融管理局总裁余伟文指出，美国过去对虚拟资产没有清楚的监管要求，新加坡和迪拜等地则针对部分虚拟货币的功能，如反洗钱等有规管，香港在吸收外地，如FTX倒闭等经验后，从最严格的准则渐渐开放，严格而清晰地进行规管。\n他还指过去香港在虚拟资产监管严格，程度近乎禁止，相对外地较为模糊，目前各地监管水平开始趋向一致，有利于减少日后各地标准不同引起的监管套利。",
           "link": "https://panewslab.com/zh/articledetails/z49nooy0.html",
           "publishedOn": "2023-06-19T02:07:52.000Z",
-          "wordCount": 367,
+          "wordCount": 371,
           "title": "香港金管局总裁：各地虚拟资产监管水平开始趋向一致，利于减少监管套利",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +385,7 @@
           "description": "PANews 6月19日消息，据CertiK官方推特发布消息称，Ara项目遭到闪电贷攻击。攻击者疑似获利约12.4万美元的BUSD。\n攻击者地址：0xF84efA8a9F7E68855CF17EAaC9c2f97A9d131366。",
           "link": "https://panewslab.com/zh/articledetails/b4tcb1ws.html",
           "publishedOn": "2023-06-19T01:59:11.000Z",
-          "wordCount": 373,
+          "wordCount": 377,
           "title": "安全公司：Ara项目遭到闪电贷攻击，或已获利约12.4万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +395,7 @@
           "description": "PANews 6月19日消息，据Forkast报道，香港金融科技协会主席Neil Tan（陈文理）表示：“由于美国充满挑战的监管环境，加密货币公司正被迫探索更友好的司法管辖区。香港作为通往中国的门户的战略地位，加上其强大的资本渠道，正在加强其成为虚拟资产领域领导者的雄心。然而，香港面临来自迪拜和新加坡的激烈竞争。”\nNeil Tan表示：“其他司法管辖区正在发生的事情是散户投资者准入方面出现了倒退。香港正率先进入这一领域。加密在中国是被禁止的，但在这里是完全合法的。这是一个沙盒，它是许多此类跨境活动的接入点。中国已经表示这是他们可以的运作方式，而且似乎已经获得批准。所以我认为这是非常受欢迎的。”\n此外，针对e-HKD（数字港元）用例，Neil Tan表示，参与e-HKD试点的公司正在尝试利用智能合约技术尝试测试线上和线下支付，除此之外，这些公司还在研究代币化存款和代币化资产。他们与台湾银行富邦银行合作，主要是为了对房地产进行代币化。",
           "link": "https://panewslab.com/zh/articledetails/z69dfynz.html",
           "publishedOn": "2023-06-19T01:55:47.000Z",
-          "wordCount": 367,
+          "wordCount": 371,
           "title": "香港金融科技协会主席：加密公司在美国监管严格的情况下关注香港",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +405,7 @@
           "description": "PANews 6月19日消息，据Decrypt报道，Nike的官方推特账户上周五分享了堡垒之夜“终极潜行狩猎”的预告片，在预告片片尾出现了Nike以及虚幻4引擎的标志，并配上了“6月20日”的日期，该宣传片可能暗示着堡垒之夜将和Nike推出的NFT服装平台.swoosh合作。",
           "link": "https://panewslab.com/zh/articledetails/ny4cur72.html",
           "publishedOn": "2023-06-19T01:42:54.000Z",
-          "wordCount": 360,
+          "wordCount": 364,
           "title": "外媒：堡垒之夜宣传片暗示其将与Nike旗下NFT平台合作",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,88 +415,8 @@
           "description": "PANews 6月19日消息，据《明报》报道，此前市场传香港金管局早前质疑本港多间大型银行不接受虚拟资产交易所开户，金管局总裁余伟文回应指，金管局一向有与银行有交流，“交流时是否有压力则大家感觉不一”，因为虚拟资产还是新项目，银行监管框架、运作要求一直都是针对传统的金融业务，所以业界也要不断更新认知，多向香港金管局厘清其监管期望。余伟文指出金融机构一旦获得发牌，已有监管机构审视其运作，而香港金管局对银行有反洗钱、客户审户要求，银行需以奉行“风险为本”的原则，对逐个客户应有其审查程序再决定开户与否。",
           "link": "https://panewslab.com/zh/articledetails/llne6kbz.html",
           "publishedOn": "2023-06-19T01:38:12.000Z",
-          "wordCount": 349,
+          "wordCount": 353,
           "title": "香港金管局回应“敦促银行接受加密货币客户”：交流时是否有压力大家感觉不一",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/g3mt597n.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，Curve社区发起关于“将WBTC抵押品添加到crvUSD中，上限为2亿枚crvUSD”提案的链上投票。目前该提案支持率达100%，投票将于6月25日结束。",
-          "link": "https://panewslab.com/zh/articledetails/g3mt597n.html",
-          "publishedOn": "2023-06-19T01:27:52.000Z",
-          "wordCount": 348,
-          "title": "Curve发起“将WBTC抵押品添加到crvUSD中”的提案投票",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4ktwhg77.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，Binance.US在推特上表示：“美国证券交易委员会（SEC）从未提供过任何关于其滥用客户资产的证据。事实上，本周早些时候，SEC的律师在法官的询问下在法庭上承认，他们没有证据表明发生过任何此类事情。这与该机构继续试图以任何方式扼杀加密行业是一致的，即使是提出没有事实支持的指控。这场斗争损害了我们的业务和声誉，但没有损害我们的斗志，以及我们捍卫自己免受不属于我们司法系统的无端指控和“执法监管”策略的决心。我们期待继续在法庭上为自己辩护。”\n此前消息，哥伦比亚特区地区法院Amy Berman Jackson法官已经批准币安与SEC的拟定协议，即将所有美国客户资金和钱包密钥转移回境内，仅Binance.US员工可以访问客户资金。法院没有批准SEC提出的冻结Binance.US平台上资产的临时限制令，这使Binance.US能够继续运营。",
-          "link": "https://panewslab.com/zh/articledetails/4ktwhg77.html",
-          "publishedOn": "2023-06-19T01:20:17.000Z",
-          "wordCount": 374,
-          "title": "Binance.US：SEC从未提供过关于平台滥用客户资产的证据",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/sp1p6ppg.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，据安全团队慢雾SlowMist监测，过去一周Web3生态系统因恶意行为者遭受的损失约2400万美元，这些安全事件包括Atlantis Loans（100万美元损失，治理攻击）、Ben Armstrong（没有损失报告，推特被黑）、TrustTheTrident（9.5万美元损失，合约漏洞）、FPG（2000万美元损失，安全漏洞）、Sturdy（77万美元损失，价格操纵）、Pawnfi（攻击者获益63万美元，未知攻击方法）、Move VM（无损失报告，Stack Overflow漏洞）、Hashflow（60万美元损失，授权攻击）、DEP/USDT与LEV/USDC（10.58万美元损失，未知攻击方法）、Midas Capital（60万美元损失，合约漏洞），总计23,795,800美元。上面的列表包含已报告的所有事件，可能还有其他未报告的事件。",
-          "link": "https://panewslab.com/zh/articledetails/sp1p6ppg.html",
-          "publishedOn": "2023-06-19T01:06:46.000Z",
-          "wordCount": 382,
-          "title": "安全团队：过去一周Web3安全事件已造成至少约2400万美元的损失",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qts1i997.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，据《南华早报》报道，中银国际首次在以太坊上成功发行2亿元人民币全数字化结构性票据，该产品由瑞银负责发起。虽然传统票据需由中央证券存管机构 (CSD) 持有，但这款证券产品是作为智能合约创建并直接在以太坊网络上注册，因此不涉及CSD，而选择以太坊这样的公共区块链可以实现“不同市场参与者之间更大的互操作性和连接性”，瑞银客户可以使用法定货币购买该产品，同时瑞银担任该产品的托管人，中银国际副首席执行官Ying Wang则在此前一份声明中表示该产品“专为亚太地区的客户设计”。不过《南华早报》称，截至目前中银国际和瑞银暂未说明投资者可以从该票据产品中获得什么样的收益，也没有详细说明其结构。",
-          "link": "https://panewslab.com/zh/articledetails/qts1i997.html",
-          "publishedOn": "2023-06-19T00:50:49.000Z",
-          "wordCount": 362,
-          "title": "瑞银发言人：中银国际在以太坊上发行的代币化票据不涉及中央证券存管机构",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/re0un6m5.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，据Forkast报道，澳大利亚加密交易所Independent Reserve新加坡首席执行官Lasanka Perera在接受采访时表示，该交易所可能会在“未来几个月”设立香港办事处，并正在关注东南亚的“其他几个”司法管辖区；此外，该交易所希望到今年年底将其每日交易量翻一番，并将其在新加坡的用户群扩大50%。Perera称：“当我们在香港设立公司时，我们将寻求成为一家受监管的企业。”据悉该交易所专注于机构客户。\nPerera还提到，新加坡对加密货币交易所公开广告的限制导致其每月零售客户获取量下降了90%。Perera还对比了香港和新加坡发展加密市场的优势，他表示，香港是一个非常活跃的金融中心，拥有深厚的资本市场，这是通往大中华区的大门，所以这是一个非常诱人的商业机会。新加坡拥有相当活跃的资本市场，但这里的投资者更关注资本保全和资产保护，因此不一定积极进行配置和承担风险。",
-          "link": "https://panewslab.com/zh/articledetails/re0un6m5.html",
-          "publishedOn": "2023-06-19T00:34:57.000Z",
-          "wordCount": 369,
-          "title": "澳大利亚加密交易所Independent Reserve计划在香港设立办事处",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/wvykdg74.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，据韩联社报道，韩国法院在一起虚拟资产借贷纠纷案中裁定，《贷款业务法》和《利息限制法》规定的利率上限不适用于虚拟资产。据悉，原告指控被告在还款期限已过后仍不偿还其比特币，而被告便称原告违法了《贷款业务法》和《利息限制法》。法院在一审和二审中的裁定均支持原告，称“双方的合同标的是比特币，不是货币，因此限制最高利率的《贷款业务法》和《利息限制法》不适用。”",
-          "link": "https://panewslab.com/zh/articledetails/wvykdg74.html",
-          "publishedOn": "2023-06-19T00:24:30.000Z",
-          "wordCount": 354,
-          "title": "韩国法院裁定虚拟资产的借贷利率不受最高利率限制",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/8poj1wcg.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，据The Daily Hodl报道，Coinbase前首席技术官Balaji Srinivasan在Impact Theory播客接受采访中表示：“各国可能会决定在未来夺取数字资产，以试图从经济动荡中恢复过来。如果G7国家决定允许没收数字资产，那么苹果、微软和谷歌等科技巨头可以向他们伸出援手。科技巨头可以很容易地扫描我们的设备以找到私钥并将其交给当局，如果他们被命令这样做的话。”\nSrinivasan进一步表示：“最大的风险因素实际上是苹果、谷歌和微软，因为他们拥有操作系统访问权限。这实际上是我最关心的：事实是苹果有软件更新，谷歌可以进入你的谷歌驱动器，微软有Windows，如果国家下令，理论上，他们可以扫描你的硬盘驱动器以获取私人信息密钥，然后提取你的数字资产。”",
-          "link": "https://panewslab.com/zh/articledetails/8poj1wcg.html",
-          "publishedOn": "2023-06-19T00:13:34.000Z",
-          "wordCount": 365,
-          "title": "Coinbase前CTO：苹果、微软或谷歌理论上可以帮助政府从公民手中没收加密货币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/8berrz1a.html",
-          "author": "PA一线",
-          "description": "PANews 6月19日消息，据Bitcoinist报道，英国最大的银行之一NatWest已经实施了一项新政策，要求客户在提取超过2000英镑的现金，包括从加密货币平台提取的现金时，需提前24个小时通知该银行。在某些情况下，客户还需要就其拟进行的交易的性质提供解释和文件，将包括他们的借记卡和密码、有效身份证以及需要的付款发票。通知还指出，提前通知银行不构成取款授权。如果分行对提供的解释和文件不“满意”，分行可以拒绝客户的交易以及提取资金。\n2023年3月，NatWest为加密货币交易所制定了每日1000英镑的限额和30天5000英镑的付款限额。他们之所以做出这一决定，是因为去年英国消费者因加密骗局而损失了3.29亿英镑。",
-          "link": "https://panewslab.com/zh/articledetails/8berrz1a.html",
-          "publishedOn": "2023-06-19T00:05:27.000Z",
-          "wordCount": 355,
-          "title": "英国NatWest银行要求用户在提款超过2000英镑的现金或加密货币时须对其提前通知",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
