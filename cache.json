@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 683,
+          "wordCount": 667,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 911,
+          "wordCount": 913,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 467,
+          "wordCount": 453,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -225,7 +225,7 @@
           "description": "PANews 6月19日消息，据Galaxy研究副总裁Christine Kim记录，以太坊核心开发人员于6月15日召开了第111次全核心开发人员共识 (ACDC) 电话会议。以太坊共识层客户端团队讨论了Deneb升级的最终范围、验证者证明和聚合截止日期的潜在变化，以及将最大有效验证者余额从32 ETH增加到2048 ETH的提议。\n关于Deneb范围规划，开发者们提议对EIP-6988进行更新，该提案提出了一个代码，以防止强行从网络中弹出的slashed验证器被协议选为区块提议者。此外，会议并讨论了EIP-7044、EIP-7045与EIP-4788三个提案，计划在未来几周内将上述三个EIP合并到Deneb规范中，并鼓励CL客户端团队尽快对其进行审查。其中，EIP-7044提出一个代码更改以改善质押者体验，确保签名的验证器退出永久有效。EIP-7045提出代码更改以加强网络的安全性，扩大证明槽的包含范围。EIP-4788提出一个代码更改，以改善质押者体验，它将公开信标链区块的根，其中包含EVM内部链状态信息，供DApp开发者的信任最小化访问。\n关于验证者证明和聚合截止日期，会议已同意在下一个EIP-4844测试网Devnet 6上测试增加的blob数量从4增加至6，并在两周内就此事做出最终决定。与围绕最大blob计数的讨论相关，Nimbus开发者arnetheduck提出了在上海升级后主网上增加区块重组的问题。arnetheduck提议考虑更改4秒的最后期限，以聚合验证者证明并通过网络发送它们，并决定进一步予以调查。\n关于验证者最大有效余额，以太坊基金会研究员Michael Neuder提出取消32枚ETH质押上限，以帮助减少活跃验证者集的增长。开发者讨论了这一变化的潜在缺陷，以及将该提案与智能合约启动的部分和全部提款直接从EL中启动的可能性。开发者同意继续讨论在ETHMagicians和Discord上异步更改以太坊验证器有效余额的实施细节。\n关于Holesky测试网协调电话会议，以太坊核心开发者就Holesky测试网启动进行了第一次协调电话会议，Holesky预计将在年底前取代现有的Goerli测试网。",
           "link": "https://panewslab.com/zh/articledetails/ebx6v6gb.html",
           "publishedOn": "2023-06-19T02:29:33.000Z",
-          "wordCount": 391,
+          "wordCount": 388,
           "title": "第111次以太坊ACDC会议：未来几周拟将EIP-7044、7045与4788合并到Deneb规范中",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月19日消息，据Forkast报道，香港金融科技协会主席Neil Tan（陈文理）表示：“由于美国充满挑战的监管环境，加密货币公司正被迫探索更友好的司法管辖区。香港作为通往中国的门户的战略地位，加上其强大的资本渠道，正在加强其成为虚拟资产领域领导者的雄心。然而，香港面临来自迪拜和新加坡的激烈竞争。”\nNeil Tan表示：“其他司法管辖区正在发生的事情是散户投资者准入方面出现了倒退。香港正率先进入这一领域。加密在中国是被禁止的，但在这里是完全合法的。这是一个沙盒，它是许多此类跨境活动的接入点。中国已经表示这是他们可以的运作方式，而且似乎已经获得批准。所以我认为这是非常受欢迎的。”\n此外，针对e-HKD（数字港元）用例，Neil Tan表示，参与e-HKD试点的公司正在尝试利用智能合约技术尝试测试线上和线下支付，除此之外，这些公司还在研究代币化存款和代币化资产。他们与台湾银行富邦银行合作，主要是为了对房地产进行代币化。",
           "link": "https://panewslab.com/zh/articledetails/z69dfynz.html",
           "publishedOn": "2023-06-19T01:55:47.000Z",
-          "wordCount": 367,
+          "wordCount": 365,
           "title": "香港金融科技协会主席：加密公司在美国监管严格的情况下关注香港",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 6月19日消息，据Decrypt报道，Nike的官方推特账户上周五分享了堡垒之夜“终极潜行狩猎”的预告片，在预告片片尾出现了Nike以及虚幻4引擎的标志，并配上了“6月20日”的日期，该宣传片可能暗示着堡垒之夜将和Nike推出的NFT服装平台.swoosh合作。",
           "link": "https://panewslab.com/zh/articledetails/ny4cur72.html",
           "publishedOn": "2023-06-19T01:42:54.000Z",
-          "wordCount": 355,
+          "wordCount": 354,
           "title": "外媒：堡垒之夜宣传片暗示其将与Nike旗下NFT平台合作",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 6月19日消息，据Forkast报道，澳大利亚加密交易所Independent Reserve新加坡首席执行官Lasanka Perera在接受采访时表示，该交易所可能会在“未来几个月”设立香港办事处，并正在关注东南亚的“其他几个”司法管辖区；此外，该交易所希望到今年年底将其每日交易量翻一番，并将其在新加坡的用户群扩大50%。Perera称：“当我们在香港设立公司时，我们将寻求成为一家受监管的企业。”据悉该交易所专注于机构客户。\nPerera还提到，新加坡对加密货币交易所公开广告的限制导致其每月零售客户获取量下降了90%。Perera还对比了香港和新加坡发展加密市场的优势，他表示，香港是一个非常活跃的金融中心，拥有深厚的资本市场，这是通往大中华区的大门，所以这是一个非常诱人的商业机会。新加坡拥有相当活跃的资本市场，但这里的投资者更关注资本保全和资产保护，因此不一定积极进行配置和承担风险。",
           "link": "https://panewslab.com/zh/articledetails/re0un6m5.html",
           "publishedOn": "2023-06-19T00:34:57.000Z",
-          "wordCount": 373,
+          "wordCount": 367,
           "title": "澳大利亚加密交易所Independent Reserve计划在香港设立办事处",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 6月19日消息，据韩联社报道，韩国法院在一起虚拟资产借贷纠纷案中裁定，《贷款业务法》和《利息限制法》规定的利率上限不适用于虚拟资产。据悉，原告指控被告在还款期限已过后仍不偿还其比特币，而被告便称原告违法了《贷款业务法》和《利息限制法》。法院在一审和二审中的裁定均支持原告，称“双方的合同标的是比特币，不是货币，因此限制最高利率的《贷款业务法》和《利息限制法》不适用。”",
           "link": "https://panewslab.com/zh/articledetails/wvykdg74.html",
           "publishedOn": "2023-06-19T00:24:30.000Z",
-          "wordCount": 354,
+          "wordCount": 352,
           "title": "韩国法院裁定虚拟资产的借贷利率不受最高利率限制",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -355,7 +355,7 @@
           "description": "PANews 6月19日消息，据Bitcoinist报道，英国最大的银行之一NatWest已经实施了一项新政策，要求客户在提取超过2000英镑的现金，包括从加密货币平台提取的现金时，需提前24个小时通知该银行。在某些情况下，客户还需要就其拟进行的交易的性质提供解释和文件，将包括他们的借记卡和密码、有效身份证以及需要的付款发票。通知还指出，提前通知银行不构成取款授权。如果分行对提供的解释和文件不“满意”，分行可以拒绝客户的交易以及提取资金。\n2023年3月，NatWest为加密货币交易所制定了每日1000英镑的限额和30天5000英镑的付款限额。他们之所以做出这一决定，是因为去年英国消费者因加密骗局而损失了3.29亿英镑。",
           "link": "https://panewslab.com/zh/articledetails/8berrz1a.html",
           "publishedOn": "2023-06-19T00:05:27.000Z",
-          "wordCount": 355,
+          "wordCount": 353,
           "title": "英国NatWest银行要求用户在提款超过2000英镑的现金或加密货币时须对其提前通知",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -506,7 +506,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42791",
           "author": null,
-          "description": "原文标题：《Asset Risk Assessment - Membrane Finance (EUROe)》\n原文作者：LLAMARISK、EVMKNOWS\n原文编译：Kxp，BlockBeats\n\n\nEUROe / Membrane Finance\n\n\nEUROe 是一种符合 MiCA 标准的托管稳定币，由区块链开发组织 Equilibrium Group 的子公司 Membrane Finance 发行。它于 2023 年 2 月 1 日正式在 Ethereum 主网上推出，并已部署到 Polygon、Arbitrum、Avalanche 和一些测试网。截至目前，共发行了约 164 万个 EUROe，分布在四个链上：Ethereum 主网（982,777 个 EUROe）、Arbitrum（96,873 个 EUROe）、Polygon（560,235 个 EUROe）和 Avalanche（25 个 EUROe）。\n\n\n\n\n\nEUROe 链上供应情况- 2023 年 5 月 26 日\nEUROe 是根据欧盟承认的标准监管框架下发行的电子货币。它受芬兰金融监管机构（FIN-FSA）监管，可以通过验证 Membrane Finance Oy 的状态来确认。此外，EUROe 已完全符合 MiCA 标准，以应对 2024 年夏季即将生效的新法规。\n\n\n目前，Membrane Finance 仅向机构提供直接发行和销毁 EUROe 的服务，但任何人都可以在二级市场上无需许可地获取和使用 EUROe。这些渠道包括 DeFi、经纪人、场外交易或中心化交易所。此决策旨在降低存储大量客户 KYC 数据的成本和安全风险，以及降低处理发行/赎回请求的成本。\n\n\n发行概览 \n\n\nMembrane 是 EUROe 的唯一发行方。Membrane 的「客户」是与 Membrane 有账户并经历…",
+          "description": "Membrane Finance在健全的监管框架下运营，遵守芬兰法律，并为即将到来的MiCA要求做好了准备。",
           "link": "https://www.theblockbeats.info/news/42791",
           "publishedOn": "2023-06-18T05:55:29.000Z",
           "wordCount": null,
@@ -516,7 +516,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42788",
           "author": null,
-          "description": "David问我：「SEC对Coinbase和Binance的调查是怎么回事?」我回答说，这只是法定金融体系试图限制资本离开赌场的又一个例子。",
+          "description": "作者：Arthur Hayes\n编译：GaryMa, 吴说区块链（有所删改）\n\n\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和房地产市场。\n\n\n然后，我们谈到了加密市场的现状，David 问我：「那么，SEC 对 Coinbase 和 Binance 的调查是怎么回事?」\n我回答说，这只是法定金融体系试图限制资本离开赌场的又一个例子。有大量债务需要偿还，金融体系需要尽可能多的退出流动性。他点头表示同意。David 喜欢把脆弱的法定金融体系称为夏普世界。(这个名字源于夏普比率，大多数风险经理认为夏普比率是衡量投资组合「风险」程度的标准——而实际上，它完全是无稽之谈，因为它关注的是概率可能性，而不是投资决策的实际结果。)\n\n\n然后我补充说，我认为美国针对加密货币发生的事情实际上是无关紧要的，因为资本是可替代的。(我将稍微扩展一下这个想法。)\n\n\n最后，我们谈到了即将到来的人民币贬值。这一对话的背景是我们对新加坡当前住宅房地产市场的持续上涨感到怀疑。中国资本并不关心房产税有多大，因为人民币被高估了，新加坡元被低估了。因此，即使他们必须向新加坡政府缴纳 60% 的税，中国资本也将新加坡的房地产视为一个廉价的银行账户，可以安全地储存他们的财富。\n\n\nDavid 接着说，北京最终会让人民币对日元贬值，因为日本是中国真正的全球出口竞争对手。自从日本央行 BOJ 继续其印钞活动（称为收益率曲线控制 YCC）以来，日元对美元和人民币迅速贬值，而所有其他主要央行都在提高利率并缩减资产负债表。自疫情以来，中国人民银行和中国中央政府在印钞方面表现出相对克制，这就是为什么人民币对美元和日元如此「强势」的原因。…",
           "link": "https://www.theblockbeats.info/news/42788",
           "publishedOn": "2023-06-18T03:19:05.000Z",
           "wordCount": null,
@@ -536,7 +536,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42782",
           "author": null,
-          "description": "原文标题：《Smart Contract Authority Conflicts》\n原文来源：Stanford Blockchain Review\n原文作者：Chris Truax\n原文编译：Kxp，BlockBeats\n\n\n引言\n\n\n区块链和智能合约有着改变商业运作方式的潜力。为了实现这一潜力，区块链首先必须是可靠的。然而，目前实施的智能合约存在一种以前未被认识到的缺陷，可能导致它们所依附的区块链崩溃或分裂。\n\n\n与互联网一样，区块链技术承诺一种新的无需中心化控制的互动方式。自诞生之日起，公共区块链就需要在权威和私人控制之外运作。\n\n\n但这是一个谬论。虽然区块链可能在国家直接控制之外运作，但维护区块链的服务器（称为节点）及其运营者则不然。节点和运营者都有自身的实际位置，因此会受到所在国家法律的约束。\n\n\n我们已经看到这种情况的一些后果。例如，许多区块链初创公司因为提供根据美国法律属于未注册证券的项目而引起 SEC 的不满。自从 Crypto 发明以来，各国权威一直间接通过税法对 Crypto 进行监管。在经历了 Three Arrows Capital、FTX、Coinbase 和 Binance 的丑闻之后，国家的直接监管只是时间问题。\n\n\n智能合约代表着一种更加隐蔽的威胁。虽然 Crypto 领域将来会受到监管，即对未来交易会施加新的法规，但智能合约会产生「追溯性」监管的风险。换句话说，Crypto 可以选择根据法规改变未来行为。但问题在于，一旦智能合约执行了某些操作，区块链可能无法撤销或改变这些操作，即使相关行为在未来可能受到法规限制或禁止。\n\n\n智能合约的权威冲突\n\n\n智能合约得到正确实施的标志在于它不能被单方面修改。事实上，除非设计如此，即使得到各方同意，谁也不能修改智能合约。然而，一个在今天完全合法的智能合约行为在明天可能是非法的。智能合约的权威冲突（Smar…",
+          "description": "以太坊区块链试图强迫美国参与者参与非法交易。除了在参与区块链方面制造不利因素外，这可能还会带来更大的法律问题。",
           "link": "https://www.theblockbeats.info/news/42782",
           "publishedOn": "2023-06-17T09:52:04.000Z",
           "wordCount": null,
@@ -576,7 +576,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42738",
           "author": null,
-          "description": "本文对Azuki和Beanz在NFT市场上的表现进行了分析，重点关注其社区实力、借贷动态以及推动其坚韧成长的战略性合作。",
+          "description": "原文标题：《\n\n从数据视角解读 Azuki\n\n》\n原文来源：NFTGo\n\n\n\n\n\n简介\n\n\n一颗红豆能有什么样的魔力？\n\n\nAzuki 是一个由一万个以动画为灵感的非同质化代币（NFT）构成的系列。自 2022 年由 Chiru Labs 推出以来已成为 Web3 领域的强势力量。Azuki 的推出见证了该系列在短短几分钟内销售一空，并积累了超过 2900 万美元的资金。该项目能有今天的地位，归功于其多样化且忠实的社区。除了令人惊叹的数据，Azuki 的独特之处其实在于团队对创造游戏化元宇宙的雄心壮志。他们的目标是创造一个名为 Hilumia 的空间，为持有者提供沉浸式的互动体验。\n\n\n本报告对 Azuki 和 Beanz 在 NFT 市场上的表现进行了全面分析，重点关注其社区实力、借贷动态以及推动其坚韧成长的战略性合作。我们将从数据角度探讨他们的交易活动、持有人规律、贷款量和跨平台吸引力，多方面展示这两个项目是如何在市场波动中打出一片江山。\n\n\n\nIPX x Chiru Labs：一场革命性的 Web3 扩张行动\n\n\n\n来源：Tweet@Azuki\n\n\nChiru Labs 是 Azuki 背后的创意力量来源，该公司宣布与著名全球 IP 平台 IPX 建立重要合作关系。IPX 因与 BTS、Netflix 和星巴克等知名品牌的成功合作而闻名。这一联盟标志着 LINE FRIENDS 在 Web 领域的重大突破（LINE FRIENDS 是一系列流行全球且诞生于 LINE 短信应用程序的贴图角色）。\n\n\n这次合作标志着 Web3 和现有 IP 的突破性结合，范围涵盖内容共创、LINE FRIENDS 商店的零售分销以及沉浸式线下活动。既然 BEANZ 和 LINE FRIENDS 已经起了头，这种合作很有可能扩展到其他 IP，包括那些由 IPX 指定的 Web3 合作伙伴所…",
           "link": "https://www.theblockbeats.info/news/42738",
           "publishedOn": "2023-06-17T01:00:01.000Z",
           "wordCount": null,
