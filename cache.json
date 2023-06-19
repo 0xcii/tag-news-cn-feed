@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 667,
+          "wordCount": 678,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 888,
+          "wordCount": 918,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 449,
+          "wordCount": 453,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=75661",
+          "author": "Gao",
+          "description": "这催生了 L2 ：OPRU 引入了排序器来捆绑一堆交易，然后提交到主网上。这不仅有助于 app 承接以太坊的安全性，同时也给予了用户更好的体验。用户可以更快地提交交易，手续费也更加便宜了。虽然操作变 得便宜了，但它仍然使用原生 EVM 作为执行层。",
+          "link": "https://www.web3sj.com/news/75661/",
+          "publishedOn": "2023-06-19T14:18:28.000Z",
+          "wordCount": 1044,
+          "title": "解放以太坊性能：超越EVM瓶颈的创新之路",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687184292171.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75650",
+          "author": "Gao",
+          "description": "坎昆升级将如何为以太坊扩容提速，又将为 Layer2 带来哪些新的发展机遇？R3PO 认为，通过坎昆升级，Layer2 将更好地融入以太坊生态系统，为用户提供更快速、低成本的交易体验。无论是 Optimistic Rollup 还是 ZK Rollup，它们都将受益于此次升级，共同推动以太坊生态的发展。",
+          "link": "https://www.web3sj.com/news/75650/",
+          "publishedOn": "2023-06-19T14:13:21.000Z",
+          "wordCount": 920,
+          "title": "坎昆升级能为L2带来哪些新机会？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687183973072.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=75641",
           "author": "Gao",
           "description": "加密市场中有哪些项目和英伟达有关联呢？英伟达有一个创业孵化计划——NVIDIA Inception，旨在支持和加速人工智能和数据科学领域的初创企业，为初创公司提供包括技术指导、深度学习培训、硬件和软件支持、市场推广和业务网络的资源和支持。下面 PANews 将盘点加入 NVIDIA Inception 计划的加密原生项目。",
           "link": "https://www.web3sj.com/news/75641/",
           "publishedOn": "2023-06-19T14:09:35.000Z",
-          "wordCount": 831,
+          "wordCount": 838,
           "title": "盘点6个加入英伟达NVIDIA Inception计划的加密项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687183763248.png"
         },
@@ -138,7 +158,7 @@
           "description": "Nouns 是一个很特别的 DAO，有别于一般总量为 10K 的 NFT 项目，Nouns 每天拍卖一个 NFT，从开始拍卖至今，没有出现过间断或者流拍，在接近 2 年的时间里，国库仅通过拍卖积累了超过 62000 ETH，这是怎么做到的呢？",
           "link": "https://www.web3sj.com/daonews/75603/",
           "publishedOn": "2023-06-19T14:01:22.000Z",
-          "wordCount": 1724,
+          "wordCount": 1602,
           "title": "Nounish DAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/e1c52ffaf5eb37f7b95bf06b097aa638.png"
         },
@@ -148,7 +168,7 @@
           "description": "我们先来详细解释以下 RWA 通证化（代币化），指的是一种将现实世界的资产（如房地产、土地、机械设备等）与区块链技术相结合的金融工具。通过 RWA，实体资产可以在区块链上进行发行、交易和融资，实现资产的快速流通和价值发现。",
           "link": "https://www.web3sj.com/definews/75600/",
           "publishedOn": "2023-06-19T13:54:05.000Z",
-          "wordCount": 703,
+          "wordCount": 727,
           "title": "资产数字化之路上的碰撞，一文对比ABS和RWA的不同",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2c4806e2f59acad1aea41c3d086a421b.png"
         },
@@ -158,7 +178,7 @@
           "description": "在 Web3 游戏中，玩家与游戏之间的交互是一种价值交互的双向行为，受益于 NFT 对游戏资产道具的封装，在 Web3 游戏的道具不仅仅可以根据在游戏中的效用进行定价，还可以因为市场交易行为进行定价，而在传统的 Web2 游戏中，游戏道具只能根据在游戏中的效用进行定价。",
           "link": "https://www.web3sj.com/gamefinews/75597/",
           "publishedOn": "2023-06-19T13:51:49.000Z",
-          "wordCount": 963,
+          "wordCount": 976,
           "title": "Web3游戏项目方，如何最低成本构建链上交易流动性框架以及商业模型",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687182698018.png"
         },
@@ -168,7 +188,7 @@
           "description": "随之而来的是 BTC 网络手续费飙升，网络堵塞。此外，BTC 网络不支持智能合约的特性限制了更复杂的生态业务发展。市场开始将注意力聚焦在 BTC 二层网络与应用，以期望捕获 BTC 生态增长的收益。",
           "link": "https://www.web3sj.com/news/75587/",
           "publishedOn": "2023-06-19T13:49:34.000Z",
-          "wordCount": 1160,
+          "wordCount": 1164,
           "title": "BTC二层网络Stacks可能面临哪些挑战？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/638f65baa6f6c7917ef10a246938dc43.png"
         },
@@ -178,7 +198,7 @@
           "description": "那么，互联的 Web3 最终将呈现出怎样的局面呢？我们认为，跨链桥最终将演变为跨链消息传递或「任意消息传递」（AMP）协议，以解锁新的应用场景，让应用能够在源链和目标链之间传递任意消息。我们还将见证「信任机制格局」的出现，其中构建者将在可用性、复杂性和安全性之间做出各种权衡。",
           "link": "https://www.web3sj.com/news/75584/",
           "publishedOn": "2023-06-19T13:38:01.000Z",
-          "wordCount": 967,
+          "wordCount": 949,
           "title": "破解互操作性信任难题：Web3和跨连桥最终将如何演变？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687181856707.png"
         },
@@ -188,29 +208,9 @@
           "description": "美国银行：加密市场监管的不确定性给区块链发展蒙上阴影。Babydoge正式上线去中心化交易所BabyDogeSwap。以太坊开发人员考虑将验证者限制从32ETH提高到2048ETH。",
           "link": "https://www.web3sj.com/news/75579/",
           "publishedOn": "2023-06-19T13:18:45.000Z",
-          "wordCount": 733,
+          "wordCount": 732,
           "title": "Web3世界日报（2023-6.19）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023061913180558.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75562",
-          "author": "Gao",
-          "description": "上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和房地产市场。",
-          "link": "https://www.web3sj.com/news/75562/",
-          "publishedOn": "2023-06-19T09:26:39.000Z",
-          "wordCount": 1018,
-          "title": "Arthur Hayes：美国监管加剧，香港欢迎加密货币，这意味着什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16871668011.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75546",
-          "author": "Gao",
-          "description": "通胀和通缩是同一个硬币的两面，与供需紧密相关，直接影响货币的购买力。现实世界的经济非常重视这些价值，央行会积极采取行动来控制它们。但是，在简化的游戏中尝试将现实世界的模型和解决方案转化过来并不合适，因为虚拟经济往往过于简化，无法长期自我维持。",
-          "link": "https://www.web3sj.com/gamefinews/75546/",
-          "publishedOn": "2023-06-19T09:17:00.000Z",
-          "wordCount": 687,
-          "title": "详谈游戏经济系统设计的关键要点：如何应对破坏性经济？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/16871662071.png"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "PANews 6月19日消息，据黑山广播电视台，Terraform Labs联合创始人Do Kwon在黑山因伪造护照案被判有罪，被判4个月监禁。曾任该平台首席财务官Han Chang-joon也被判犯有同样的罪行并被判处四个月监禁。黑山警方表示，二人被发现持有多本护照。美国和韩国都在寻求从黑山引渡Do Kwo。黑山官员表示，他们可能会考虑在完成当地刑事诉讼程序后将Do Kwo移交给美国。\n今日早些时候，DoKwon称对黑山法院称其护照从第三方机构获得因而对伪造并不知情。",
           "link": "https://panewslab.com/zh/articledetails/rdybsyj5.html",
           "publishedOn": "2023-06-19T12:47:29.000Z",
-          "wordCount": 397,
+          "wordCount": 391,
           "title": "Do Kwon在黑山因伪造护照被判4个月监禁",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 6月19日消息，据The Block报道，Aave 社区一致投票反对 Gauntlet 提出的冻结第 2 版 Curve DAO (CRV) 代币的提议。上周，Gauntlet建议在Aave v2冻结CRV市场，Gauntlet 的提议旨在管理与 Curve 创始人 Michael Egorov 获得的大笔贷款相关的风险。",
           "link": "https://panewslab.com/zh/articledetails/soofkr4t.html",
           "publishedOn": "2023-06-19T12:34:15.000Z",
-          "wordCount": 435,
+          "wordCount": 429,
           "title": "Aave社区反对在V2上冻结CRV代币的提议",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 6月19日消息，据Cointelegraph报道，区块链和智能合约安全公司 CertiK 因发现一种新型安全威胁而被SUI授予50万美元赏金。该威胁被命名为“HamsterWheel（仓鼠轮）”，并有可能破坏SUI整个Layer 1网络。\n在主网启动前，CertiK向SUI报告了这一关键漏洞，并得到了SUI的确认与反馈。认识到情况的严重性后，SUI迅速实施了安全解决方案以缓释这种攻击的潜在威胁。目前SUI已推出修复措施用以确保其网络安全。\n为了感谢CertiK，SUI支付了50万美元用来奖励这一关键性的发现。关于HamsterWheel攻击的技术细节和对Layer 1更深层次的影响将会随后披露给公众。CertiK由耶鲁大学和哥伦比亚大学的两位教授创立，已保护超过4000亿美元的数字资产免受损失。",
           "link": "https://panewslab.com/zh/articledetails/zkw8py23.html",
           "publishedOn": "2023-06-19T12:18:09.000Z",
-          "wordCount": 364,
+          "wordCount": 366,
           "title": "CertiK获SUI颁发50万美元漏洞赏金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月19日消息，据CoinDesk报道，法国最高市场监管机构 Autorité des Marchés Financiers (AMF) 周一发布一份关于 DeFi 的讨论文件，AMF 表示希望向在该国运营的加密货币交易所颁发许可证，分享了其对构成 DeFi 生态系统的去中心化和“非中介”协议提出的“监管问题的初步思考”。AMF 尝试定义 DeFi、称为DAO的去中心化治理系统和运行交易的自动化“智能合约”。该文件还提出了相关的风险和控制级别以供辩论。\nAMF 表示完全支持金融稳定委员会 (FSB) 等全球标准制定者寻求的为 DeFi 行业制定标准，国际证券监管机构 IOSCO 的工作组将在年底前发布建议等举措。并打算加强与公共和私人利益相关者的接触，以期出现一个平衡的监管框架，这将有助于支持去中心化金融的长期健康发展。最后，还邀请行业利益相关者在 9 月 30 日之前为 AMF 提议的讨论点做出贡献。",
           "link": "https://panewslab.com/zh/articledetails/hjusdio6.html",
           "publishedOn": "2023-06-19T12:02:25.000Z",
-          "wordCount": 438,
+          "wordCount": 432,
           "title": "法国市场监管机构发布关于DeFi的讨论文件，表示支持DeFi全球规则",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 6月19日消息，Arch Public联合创始人Andrew Parish发推称，全球第三大资产管理公司富达疑似正在考虑收购Grayscale（灰度）或申请比特币现货ETF。一个或两个即将到来。\n上周报道，贝莱德已提交比特币现货ETF申请。",
           "link": "https://panewslab.com/zh/articledetails/9u4vi8s7.html",
           "publishedOn": "2023-06-19T11:37:49.000Z",
-          "wordCount": 370,
+          "wordCount": 364,
           "title": "资管巨头富达疑似正在考虑收购灰度或申请比特币现货ETF",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 6月19日消息，区块链安全机构PeckShield监测显示，BNB Chain 上项目 VPANDA DAO 发生 Rug Pull，损失金额约 26.5 万枚 BUSD，目前已转入 0x33d2 开头地址。",
           "link": "https://panewslab.com/zh/articledetails/w95yf9y9.html",
           "publishedOn": "2023-06-19T11:13:54.000Z",
-          "wordCount": 418,
+          "wordCount": 420,
           "title": "PeckShield：VPANDA DAO发生Rug Pull，损失约26.5万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 6月19日消息，据The Block报道，在周五举行的最近一次以太坊核心开发者共识会议上，以太坊基金会研究员兼拟议变更的主要支持者 Michael Neuder 提出将每个验证者的最大验证者余额从 32 ETH 提高到 2,048 ETH。他说，虽然目前（32 ETH）的验证者上限促进了去中心化，但它无意中导致了验证者集规模的膨胀。Neuder 表示，提高上限可能会减缓活跃验证者集的扩张——最终提高网络在单个以太坊时隙内实现最终性方面的效率。提议的增加上限还将引入自动复合验证器奖励的可能性。",
           "link": "https://panewslab.com/zh/articledetails/zx0ah94n.html",
           "publishedOn": "2023-06-19T10:38:31.000Z",
-          "wordCount": 399,
+          "wordCount": 393,
           "title": "以太坊开发人员考虑将验证者限制从32ETH提高到2048ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 6月19日消息，据The Block报道，Frax Finance 的创始人 Sam Kazemian 表示支持加密货币投资研究公司 Ouroboros Capital 在 6 月 16 日提出的一项优化代币回购策略的提案。在该策略中，该项目在预定的时间范围内购买和销毁相同数量的 FXS，而不管任何价格波动。该项目为此提供了2000 万美元的资金。\n该提案建议，当 FXS 价格跌至 5 美元以下时，将启动价值 100 万美元的时间加权平均价格 (TWAP) 回购。如果价格进一步下滑至 4 美元以下，则建议启动为期 1 个月的额外 100 万美元回购。这里的关键前提是随着价格进一步下跌，购买更多的 FXS 代币用于后续销毁。\nCoinGecko数据显示，FXS目前的价格约在5.45美元附近。",
           "link": "https://panewslab.com/zh/articledetails/5yaa1zkb.html",
           "publishedOn": "2023-06-19T09:53:22.000Z",
-          "wordCount": 487,
+          "wordCount": 481,
           "title": "Frax创始人表示支持Ouroboros Capital提出的FXS代币回购提案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 6月19日消息，据CoinShares周报数据，上周数字资产投资产品小幅度净流出510万美元，为连续第9周资金流出，近9周流出资金总额为4.23亿美元。其中比特币投资产品净流出50万美元，以太坊投资产品流出500万美元。区块链概念股票出现了自FTX倒闭以来最大的资金流出，总计1230万美元。值得注意的是，上周XRP、Cardano和Polygon分别流入100万美元、60万美元和20万美元。",
           "link": "https://panewslab.com/zh/articledetails/zrjlbxwm.html",
           "publishedOn": "2023-06-19T09:44:35.000Z",
-          "wordCount": 354,
+          "wordCount": 348,
           "title": "CoinShares：上周数字资产投资产品小幅净流出510万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 6月19日消息，币安发推表示，今日将把比特币冷钱包中的资金转移到新地址 1Pzaqw98PeRfyHypfqyEgg5yycJRsENrE7t，接下来会出现大额资金变动，但用户资金安全。",
           "link": "https://panewslab.com/zh/articledetails/6496j7xw.html",
           "publishedOn": "2023-06-19T09:32:55.000Z",
-          "wordCount": 345,
+          "wordCount": 339,
           "title": "币安：今日会将比特币冷钱包资金转入新地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 6月19日消息，据C114通信网报道，中国移动今日在福州新区完成闽港区块链“中移闽链”和“中移香港链”的跨境跨链流通测试。本次测试采用中国移动研究院自主研发的“中移链”跨链服务和跨链NFT智能合约技术方案，构建链间标准跨链协议，通过“跨链服务+链适配器+智能合约”实现一套标准跨链原语，支持不同链之间进行通用数据和数字资产的跨链互操作，实现不同链之间的可信交互、双向流通，从而构成区块链价值信任网络，为闽港两地通用数据在不同区块链间的可信交互、自由流通提供坚实基础。“中移闽链”目前部署在福州长乐数据中心，后续将在平潭综合实验区落地部署，“中移香港链”则部署在香港的云资源池。下一步，“中移链”将与福建实达集团自主研发的区块链平台进行打通，实现闽、港和社会三方跨链协同服务。\n此前曾报道，BSN携手中国移动正式推出开放联盟链“中移链”。",
           "link": "https://panewslab.com/zh/articledetails/my87d6ql.html",
           "publishedOn": "2023-06-19T09:24:18.000Z",
-          "wordCount": 376,
+          "wordCount": 369,
           "title": "中国移动今日在福州新区完成闽港区块链“中移闽链”和“中移香港链”的跨境跨链流通测试",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 6月19日消息，据CoinDesk报道，美国银行 (BAC) 在周五的一份研究报告中表示，风险资产的涨势仍在继续，但自5月初以来，数字资产的表现落后于纳斯达克股票指数24%，而今年年初已上涨52%。分析师Alkesh Shah和Andrew Moss写道：“由于美国证券交易委员会 (SEC) 的执法行动造成监管不确定性，给代币价格带来压力，因此数字资产情绪仍然不佳。”\n美国银行表示，过度关注监管阻力、比特币现货ETF在美国的批准以及非法活动，“给分布式账本和区块链技术基础设施的快速发展和整合蒙上了阴影”。报告补充说，“特别是私人许可的分布式账本和区块链子网”，这使得传统金融资产的代币化成为可能，预计区块链基础设施和代币化将“在未来5到10年内改变金融和非融资基础设施和市场”。",
           "link": "https://panewslab.com/zh/articledetails/qe72n6ew.html",
           "publishedOn": "2023-06-19T08:41:56.000Z",
-          "wordCount": 384,
+          "wordCount": 378,
           "title": "美国银行：加密市场监管的不确定性给区块链发展蒙上阴影",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "PANews 6月19日消息，据金十报道，IMF总裁格奥尔基耶娃表示，国际货币基金组织正在努力推动全球央行数字货币平台概念的发展。",
           "link": "https://panewslab.com/zh/articledetails/89bkco56.html",
           "publishedOn": "2023-06-19T08:37:26.000Z",
-          "wordCount": 340,
+          "wordCount": 334,
           "title": "IMF总裁：国际货币基金组织正推动全球央行数字货币平台概念的发展",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -355,7 +355,7 @@
           "description": "PANews 6月19日消息，Tether首席技术官Paolo Ardoino在推特上发布提示称：“人工智能可以提高恶意黑客的能力，以减少暴力破解字典的规模，学习和推导你的个人偏好。选择密码时不要太明显。”",
           "link": "https://panewslab.com/zh/articledetails/du6srqdi.html",
           "publishedOn": "2023-06-19T08:25:02.000Z",
-          "wordCount": 375,
+          "wordCount": 369,
           "title": "Tether CTO：AI可提高黑客的能力，不要选择太简单的密码",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +365,7 @@
           "description": "PANews 6月19日消息，据Spot On Chain监测，Mechanism Capital相关0x4f8开头地址12小时前以1.298美元（共计127万美元）的价格将98.1万枚HIGH转移到币安。\n值得注意的是，Mechanism Capital是Highstreet的投资者之一。他们更为知名的钱包0xa04从钱包0x4f8收到了50万枚HIGH。",
           "link": "https://panewslab.com/zh/articledetails/w6cnzj4p.html",
           "publishedOn": "2023-06-19T08:05:18.000Z",
-          "wordCount": 382,
+          "wordCount": 376,
           "title": "数据：Mechanism Capital相关地址凌晨将98.1万枚HIGH转至币安，约合127万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +375,7 @@
           "description": "PANews 6月19日消息，据Finance Magnates报道，币安英国子公司Binance Markets Limited（BML）在英国FCA的注册已应公司要求正式撤销。现在，币安的所有实体都没有在英国获得任何运营许可。 FCA的最新消息称：“BML最近提交了一份撤销其FCA许可的申请，该申请于2023年5月30日完成。在取消许可完成后，该公司不再获得FCA的授权。币安集团中没有其他实体持有任何形式的英国授权或注册在英国开展受监管的业务。”\n币安负责英国和欧洲增长的次区域经理Ilir Laro指出，取消BML的注册不会对运营产生影响，因为它从未开展过任何业务。Laro称：“BML于2020年被币安集团成功收购，旨在在英国开展受监管的业务。然而，这一尝试并未成功，自收购以来一直处于休眠状态。”",
           "link": "https://panewslab.com/zh/articledetails/00l4s4kh.html",
           "publishedOn": "2023-06-19T07:59:43.000Z",
-          "wordCount": 368,
+          "wordCount": 362,
           "title": "币安英国子公司已于5月底在FCA撤销注册",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -385,7 +385,7 @@
           "description": "PANews 6月19日消息，据Nansen数据显示，链上分析师ZachXBT为反击黄立成起诉而发起募款的地址中部分代币已被转移到“0x3e7E”开头地址，目前ZachXBT的募款地址中代币净值已不足7万美元，本文撰写时为69,919.93美元。",
           "link": "https://panewslab.com/zh/articledetails/dib9dz4q.html",
           "publishedOn": "2023-06-19T07:33:33.000Z",
-          "wordCount": 353,
+          "wordCount": 347,
           "title": "ZachXBT已转移部分捐款代币，当前其募款地址代币总净值已不足7万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -395,7 +395,7 @@
           "description": "PANews 6月19日消息，合成资产发行协议Synthetix创始人Kain Warwick在博客文章中表示，多年来社区一直对质押SNX的复杂性表示担忧，因此他建议在Synthetix V3中实施新的SNX质押模块。\n该模块简化了质押过程：用户只需存入SNX，无需面临市场风险或对冲需求。这种更简单的质押方法旨在吸引新用户使用Synthetix V3系统。最初，金库委员会将为这个池提供资金，但在未来一部分协议费用可能会分配给这个池。这种新形式的SNX质押将成为进入Synthetix生态系统的主要门户。",
           "link": "https://panewslab.com/zh/articledetails/tfrnsgg2.html",
           "publishedOn": "2023-06-19T07:20:14.000Z",
-          "wordCount": 360,
+          "wordCount": 354,
           "title": "Synthetix创始人提议在V3版本中实施新SNX质押模块以简化质押过程",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -405,7 +405,7 @@
           "description": "PANews 6月19日消息，据豪华房产新闻网dirt.com报道，台湾歌手黄立成上周以2500万美元购入位于1410 Tanager Way的洛杉矶豪宅，该房屋面积为14,000平方英尺，拥有5间卧室，8间浴室，售价为每平方英尺1,786美元。\n此前消息，黄立成以诽谤罪起诉链上侦探ZachXBT，ZachXBT已获得超100万美元捐款以支付法律费用。昨日消息，黄立成抛售19枚NFT，包括BAYC、MAYC、Azuki以及CryptoPunks系列。",
           "link": "https://panewslab.com/zh/articledetails/wapak66p.html",
           "publishedOn": "2023-06-19T06:51:11.000Z",
-          "wordCount": 377,
+          "wordCount": 371,
           "title": "外媒：黄立成上周以2500万美元购入洛杉矶豪宅",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -415,7 +415,7 @@
           "description": "PANews 6月19日消息，据Cointelegraph报道，Terraform Labs创始人Do Kwon告诉黑山法院，他不知道自己旅行时使用的护照据称是伪造的，而是将责任归咎于一家第三方中文机构。Do Kwon称：“我在朋友推荐的一家新加坡机构填写了所需文件后，收到了我的哥斯达黎加护照。我通过另一家机构收到了我的比利时护照。”Do Kwon称其“多年来”一直带着他的哥斯达黎加护照旅行，所以他没有理由怀疑它的真实性。\n除了否认伪造旅行证件外，Kwon还否认了他向黑山前财政部长Milojko Spajić提供任何经济捐助的指控。",
           "link": "https://panewslab.com/zh/articledetails/939vwlge.html",
           "publishedOn": "2023-06-19T06:46:22.000Z",
-          "wordCount": 389,
+          "wordCount": 383,
           "title": "Do Kwon对黑山法院称其护照从第三方机构获得因而对伪造并不知情",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -534,9 +534,29 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42803",
+          "author": null,
+          "description": "本文分析了加密空投，包括它的定义、历史、流程与分类等，同时提供安全参与撸空投的经验与注意事项。",
+          "link": "https://www.theblockbeats.info/news/42803",
+          "publishedOn": "2023-06-19T13:00:01.000Z",
+          "wordCount": null,
+          "title": "详解加密空投策略和6个撸空机会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theblockbeats.info/news/42818",
+          "author": null,
+          "description": "第0季Arc8 League NFT通行证的持有者将争夺价值18,000美元的总奖池",
+          "link": "https://www.theblockbeats.info/news/42818",
+          "publishedOn": "2023-06-19T12:21:29.000Z",
+          "wordCount": null,
+          "title": "区块链休闲游戏平台Arc8开放Arc8联赛第0季许可名单注册",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42815",
           "author": null,
-          "description": "精选要闻：\n\n1. Binance.US：SEC 从未提供过关于平台滥用客户资产的证据；\n\n2. 黄立成以 2500 万美元购入一座全新洛杉矶豪宅；\n\n3. ZachXBT 已转移部分捐款至多签钱包，当前募款地址 Token 净值约 7 万美元；\n\n4. CryptoPunk #8611 以约 50 ETH 价格销毁，并在比特币上铸造相同图像铭文；\n\n5. The Block：CEX 现货日均交易数据已降至今年年初水平；\n\n6. 香港金管局总裁：港银应对虚拟资产更新认知，多向当局厘清其监管期望；\n\n\n项目动态\n\n\n黄立成以 2500 万美元购入一座全新洛杉矶豪宅\n据豪华房产新闻网 dirt.com 报道，「麻吉大哥」黄立成上周以 2500 万美元的价格购买了一座位于加州洛杉矶伯德街的全新豪宅，该豪宅总面积为 14,000 平方英尺（约合 1300 平方米），拥有 5 间卧室，8 间浴室。由 Vantage Design Group 设计，卖方为 Hankey Capital。拥有酒室、大理石酒吧以及大型健身房等。 \n\n\n BlockBeats 此前报道，6 月 17 日，「麻吉大哥」黄立成表示，链上侦探 ZachXBT 曾于一年前发布文章损害其声誉，个人已在美国德克萨斯州西区地方法院对 ZachXBT 提起诽谤诉讼。后要求 ZachXBT 道歉并表示，任何赔偿款将捐给慈善机构。\n\n至此「麻吉大哥」深陷舆论热潮，ZachXBT 回应黄立成对其提起的诉讼毫无根据，其将反击以捍卫言论自由。在不到两日时间里，ZachXBT 已获得超 100 万美元捐款以支付法律费用。获得 Binance、加密媒体 Bankless、Coinbase Cloud 协议负责人 Viktor Bunin、加密安全公司 CertiK、余弦、Justin Sun 等一众机构和 KOL 的支持并捐款。\n\n\nB…",
+          "description": "6月19日加密行业重要资讯一览",
           "link": "https://www.theblockbeats.info/news/42815",
           "publishedOn": "2023-06-19T11:01:12.000Z",
           "wordCount": null,
@@ -546,7 +566,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42810",
           "author": null,
-          "description": "原文标题：《\n\n解读币安研究院 LSDfi 报告：当流动性质押与 DeFi 相遇\n\n》\n\n原文来源：TechFlow深潮\n\n\n\n导读\n\n\n近期，Binance 研究院发布了 LSDfi 研究报告，内容涵盖 LSDfi 赛道的总体格局、收益情况以及可能的风险。报告显示虽然 LSDfi 增势迅猛，但规模不到 LSD 本身的 3%，作为年轻赛道仍有后续提升空间。\n\n\n\n此外，在 BNB 链生态中，流动性质押和相关玩法同样也在发展。数据显示该链上的 LSD 项目在费率上相对更低，也存在着参与机会。\n\n\n同时，LSDfi 在最大化 ETH 质押收益的同时，由于赛道仍在早期，参与者们仍需要注意各类险，在收益和风险中寻找平衡，锁定确定性机会。\n\n\n深潮对该报告的核心观点进行了精选和提炼，内容如下：\n\n\n核心结论\n\n\n在过去几个月中，LSD 协议的 TVL 迅速增长，得益于 LSD 的采用。顶级 LSD 协议的累计 TVL 已突破 4 亿美元，自一个月前翻了一番以上。促进 LSD 增长的有利因素包括质押 ETH 的增长以及 LSD 的目前低渗透率。\n\n\n目前，LSD 协议的 TVL 仅占总可寻址市场的不到 3%。尽管 LSD 为 LSD 持有人提供了有吸引力的机会，用户应意识到相关风险，包括但不限于惩罚风险、LSD 价格风险、智能合约风险和第三方风险等。\n\n\n以太坊质押及 LSD 发展情况\n\n\nETH 质押市场快速发展。随着以太坊成功过渡到 PoS 共识机制，并在 Shapella 升级后允许质押 ETH 的提取，质押量迅猛增长。目前总质押 ETH 已超过 22.8M ETH。\n\n\n\n\n\nLSD 同步蓬勃发展。运行独立节点存在技术难题和资本需求较高，不适合每个人。因此，流动性质押协议降低了参与门槛，同时保持质押资产的流动性。数据也显示 LSD 玩法中质押的 ETH 占总体质押量的比例不断增…",
+          "description": "LSDfi 增势迅猛，规模不到 LSD 本身的3%，后续提升空间巨大。",
           "link": "https://www.theblockbeats.info/news/42810",
           "publishedOn": "2023-06-19T08:21:06.000Z",
           "wordCount": null,
@@ -556,7 +576,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42809",
           "author": null,
-          "description": "原文作者：@jinzejiang0x0，LD Capital\n\n\n\n\n\n摘要：\n\n\n美国证券交易委员会（SEC）对加密货币交易平台 Binance 和 Coinbase 提出了正式诉讼，这引发了市场的大规模抛售及涉及证券定义的代币被下架等一系列连锁事件；\n\n\nSEC 对 Binance 的指控更为严重，包括欺诈、跨实体混合资产以及与客户进行对手盘交易；\n\n\n市场对此反应剧烈，被 SEC 定义为「证券」的 18 种代币的价格平均下跌 28.8% ，对比同期 BTC 下跌 7.4% 。但即便被 SEC 首次起诉，BNB 市值占比甚至略有上升，显示其价格具有相对韧性；\n\n\n本次被 SEC 定义为证券的代币行业上公链居多，占比 13/18 ，娱乐、元宇宙其次，占比 4/18 ，后者的跌幅也更大；\n\n\n报告预测了 SEC 诉讼可能的未来情景，包括可能的法律影响和市场反应，还讨论了加密行业立法的进展；\n\n\n报告汇总了加密案件的先例，包括非法代币发行和未注册的投资理财案例。\n\n\n正文：\n\n\n美国证券交易委员会（SEC）在 6 月 5 日和 6 日分别针对加密货币交易平台 Binance 和 Coinbase 的诉讼中指控 19 种代币的本质是证券，这引发了全市场急剧抛售。\n\n\nSEC 的指控\n\n\nSEC 指控 Coinbase 经营未注册的证券交易平台、经纪商和清算代理，以及未注册其加密资产质押生息服务。但对 Binance 的指控大不相同，除了跟 CB 一样被指控经营未注册的证券交易平台、经纪商和清算代理，SEC 还指控它进行了更多类似 FTX 的活动：欺骗、跨实体混合资产以及与客户进行对手盘交易，SEC 没有对 Coinbase 提出类似指控。\n\n\nSEC 已经向金融市场发出警告：大部分加密数字资产是证券，这一立场可能会对数字资产交易平台施加严格的监管要求。\n\n\n自 2021 年 G…",
+          "description": "SEC对加密货币交易平台Binance和Coinbase提出了正式诉讼，这引发了市场的大规模抛售及涉及证券定义的代币被下架等一系列连锁事件。",
           "link": "https://www.theblockbeats.info/news/42809",
           "publishedOn": "2023-06-19T08:16:35.000Z",
           "wordCount": null,
@@ -566,7 +586,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42797",
           "author": null,
-          "description": "与传统金融市场一致的是，加密市场的衍生品交易的市场规模是长期大于现货交易的，但传统金融期货市场一直有个固有的局限，那就是它有结算日期且杠杆交易能力有限，不能适应这个 7x24 小时交易的加密市场。于是，BitMEX 在 2016 年 5 月 13 日推出了永续合约，采用了创新的资金费率调控现货与合约的价格尽可能保持一致，解锁了使用高达百倍杠杆的进行做多/做空的机会。它的横空出世永远的改变了加密货币及整个金融领域。\n\n\n\n此后随着加密市场的快速发展，永续合约等衍生品交易尝试从链下搬到了链上，从中心化逐步走向去中心化。将衍生品引入 DeFi 的早期尝试主要集中在重新创建由 CEX 普及的订单簿模型，然而高昂的 gas 成本、延迟问题和高复杂性等问题造成了一定的阻碍。后来 Layer2 的出现推动了更多 DeFi 创新的发展，这是由于二层的低 Gas 费用和交易速度所带来的优势，并且能够在一定程度上继承以太坊的安全性。这为 DeFi 革新创造了条件，于是在去中心化永续合约赛道上，走出了 GMX、Gains Network 等炙手可热的明星项目。\n\n\n\n与此同时，有一个名为 Vela Exchange 的项目正在崛起，它融合了 GMX、Gains Network 在机制上的优势和特点，在今年四月顺利结束了为期两个多月的 Beta 公测，根据公测数据和结果做出了调整，在迭代后即将推出最新版本，让我们一起来了解一下这个后起之秀。\n\n\nVela Exchange 介绍\n\n\n\n\nVela Exchange 的交易界面\n\n\n\nVela Exchange 是 Arbitrum 上的去中心化永续合约平台，旨在利用链下订单簿和链上结算的混合模式，提高 DeFi 衍生品的交易速度和安全性。根据官方文档，Vela 用户可以根据合成资产的表现建仓，存款人将资金存入后生成 VLP（类似于 GMX 的模式）…",
+          "description": "DEX Perp的叙事能否引领加密世界的发展？",
           "link": "https://www.theblockbeats.info/news/42797",
           "publishedOn": "2023-06-19T07:00:01.000Z",
           "wordCount": null,
@@ -576,17 +596,17 @@
         {
           "id": "https://www.theblockbeats.info/news/42806",
           "author": null,
-          "description": "BRC-20S（BRC-20 Staking）是 BRC-20 协议的拓展版本，由 OKX 提出，旨在为比特币网络引入一种针对 BRC-20 Token 或比特币的质押机制。\n\n\n\n通过 BRC-20S，用户能够抵押自己的 BRC-20 Token 或比特币，并获得相应的 BRC-20S Token 作为回报。与 BRC-20 一样，质押奖励的计算也会由一个索引来实现。OKX 将提供一个开源接口用于利润计算，任何用户的质押收益都会在后端和开源工具中一致地计算，确保所有计算的统一性。\n\n\n\n\nBRC-20S 交互流程\n\n\n\n目前，BRC-20S 的铺开还需要等待 OKX 的索引及 BRC-20S Token 交易市场等相关基建的完善。但我们可以预想一下，BRC-20S 可能为市场带来哪些新的变化呢？\n\n\n新的 BRC Token 发行方式\n\n\n\n目前，BRC-20 Token 的发行已经逐渐从原始的公布 Ticker（Token 名称）由大家自行刻录演变成了通过成熟的 BRC-20 Token 发行工具 Luminex 来完成。通过 Luminex 完成的原理是项目方在部署 BRC-20 Token 的时候将单张铭文可刻录的 Token 数量设置为与总量相同，先将所有 Token 刻录到自己手中，然后用户通过 Luminex 支付 Gas，最后再完成 Token 的发放。有了 Luminex 之后，白名单制度已经能够很好地运用到 BRC-20 Token 的发行中，对项目的冷启动提供了帮助。\n\n\n\n而 BRC-20S 对直接质押比特币来「挖」BRC-20S Token 收益的支持，很可能再一次引发 BRC Token 发行模式的新变化，之后的新项目有可能直接通过质押比特币来完成初始的 Token 分发，「比特币质押挖矿」的热潮可能会被掀起。同时，BRC-20S 也支持质押 BRC-20 Token 来「挖」BRC-20S Token 收益，这将使 BRC-20 Token 的玩法得到拓展，$ORDI 这样的 BRC-20 Token 龙头会不会变成「金铲子」呢？\n\n\n「母 Token」与「子 Token」\n\n\n\n在以太坊生态中，「双 Token 模型」已经屡见不鲜。而 BRC-20S 在技术上为比特币网络上实现「双 Token 模型」扫清了障碍，接下来的问题就是，我们可以怎么玩？\n\n\n\n对此我设想了一个以「双 Token 模型」的适配场景。最近的新概念「递归铭文」本质上是比特币链上铭文资源间的互相引用。如果有一个生成艺术的工作室出现，用一个 AI 模型以每日链上的所有现存铭文为素材训练出一幅生成艺术作品并拍卖，那么 BRC-20 Token 就可以作为「母 Token」发挥治理效用，比如决定每期艺术作品生成的主题（保留或去掉哪些铭文作为训练素材等）、决定每期上架的艺术作品到底是哪幅、工作室的外部合作决策等等。同时，质押这个「母 Token」得到的「子 Token」收益可以用作 Claim 这幅艺术作品的支付 Token 来发挥效用。\n\n\n\n「双 Token 模型」的适配场景还有很多，比如 GameFi 、SocialFi 等等。结合「递归铭文」，比特币网络上想必会有更多好玩的应用出现。\n\n\n展望：小图片的质押\n\n\n\n既然已经有 BRC-20S 实现了对 BRC-20 Token 的质押，那么实现直接对小图片的质押有没有可能呢？\n\n\n\n比如，在协议中增加两个关键词，一个指定 NFT 系列的名称，另一个指定该系列的有效铭文序号合集（如 Inscription #10000、Inscription #10001...）。通过链下索引来确认用户所刻录的 Deposit 铭文是否有效，对有效 Deposit 铭文的持有地址进行质押奖励计算，这样就实现了小图片的质押。\n\n\n结语\n\n\n\nBRC-20S 对比特币网络上质押功能的支持，拓宽了 BRC-20 Token 的想象空间，有望对比特币及 BRC-20 Token 的流动性带来更好的正面作用。一直在发展的 Ordinals 生态，你很难不爱。",
+          "description": "为比特币网络引入「质押挖矿」，BRC20-S将带来哪些可能性？",
           "link": "https://www.theblockbeats.info/news/42806",
           "publishedOn": "2023-06-19T06:10:37.000Z",
           "wordCount": null,
-          "title": "新的BRC-20S，能开启比特币上的「DeFi之夏」吗？",
+          "title": "新的BRC20-S，能开启比特币上的「DeFi之夏」吗？",
           "imageUrl": null
         },
         {
           "id": "https://www.theblockbeats.info/news/42798",
           "author": null,
-          "description": "据 BlockBeats 统计，上周的融资总数为 16 笔，数量较之前有小幅下降，总金额约 22631.5 万美元，平均融资金额为 708.22 万美元。其中，其他领域占据主体，数字资管/支付、社交/创作者经济领域融资相对较多，NFT/数字时尚和基础设施有所下降，DeFi 领域和元宇宙/GameFi 较少。下图为上周各板块融资占比：\n\n\n\n\n\n\nNFT/数字时尚\n\n\n\n在 NFT/数字时尚领域共计 3 笔融资，总金额 380 万美元，占上周融资总额的 1.85%。\n\n\nCollectibles.com\n\n\n\n\n\n\n\n6 月 13 日，Web3 收藏平台 Collectibles.com 宣布完成 500 万美元种子轮融资，Blockchange Ventures 领投，GFR Fund、Peter Thiel、Blockwall Capital 等参投。据悉，Collectibles.com 正在建立基于 Collectibles Protocol 的 Web3 收藏家社区和市场。\n\n\n\n作为定义类别的品牌领域，Collectibles.com 有望成为目前分散的收藏世界的主要目的地，通过提供实用的工具、技术和资源，将收藏家的需求和偏好放在首位和中心。与大多数严格的交易性现有应用程序、网站和传统市场不同，Collectibles.com 将拥有一个强大、互联的社区，通过他们共同的兴趣和激情将全球收藏家团结起来，\n\n\nMnemonic \n\n\n\n\n\n\n\n6 月 14 日，NFT 数据平台 Mnemonic 完成 600 万美元种子扩展轮融资，Salesforce Ventures 领投，Polygon Ventures、Orange DAO、FIN Capital 和 FJ Labs 参投，本轮融资资金将用于扩展 API 套件。\n\n\n\nMnemonic 正在通过构建数据和分析平…",
+          "description": "上周的融资总数为16笔，总金额约22631.5万美元，平均融资金额为708.22万美元。",
           "link": "https://www.theblockbeats.info/news/42798",
           "publishedOn": "2023-06-19T03:44:17.000Z",
           "wordCount": null,
@@ -596,7 +616,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42794",
           "author": null,
-          "description": "精选事件：\n\n1. 美众议院将于 6 月 22 日举行两场关于 SEC 监督听证会；\n2. 阿迪达斯将推出绑定限量版 NFT 的 Token 门控运动鞋；\n3. 日媒：Binance JAPAN 预计将于 6 月 23 日之后开放；\n4. 黑山地方法院将于 6 月 19 日对 Do Kwon 伪造护照案作出裁决；\n5. 巴西加密货币新规范法令将于 6 月 20 日生效；\n6. Crypto.com 将于 6 月 21 日起停止向美国机构客户提供服务，散户投资者业务不受影响；\n\n\n6 月 19 日\n\n\n黑山地方法院将于 6 月 19 日对 Do Kwon 伪造护照案作出裁决\n据韩联社报道，黑山地方法院审理的 Do Kwon 伪造护照案中，Terraform Labs 联合创始人 Do Kwon 表示其护照是通过朋友推荐的新加坡代理机构获得了哥斯达黎加护照，比利时护照是通过其他代理公司获得的。Do Kwon 称，在申请格拉纳达护照被拒后申请哥斯达黎加护照时被通过了。\n\n\n\nDo Kwon 称：「如果我怀疑那是假护照，我就不会去很多国家了」。检察官则表示：「这不是合法机构签发的护照，比利时护照上的名字不同，出生日期也不同，很明显，护照是恶意制作的，我们要求对他进行相应的惩罚」。双方辩论结束后，法官宣布将在 6 月 19 日下午 2 点作出裁决。\n\n\nMakerDAO「将 DAI 存款利率提高至 3.49%」提案预计将于 6 月 19 日执行\n\nMakerDAO 社区投票通过一项治理提案执行投票，提案内容包括：对 BlockTower RWA 金库债务上限进行更改、调整多个风险参数、将 DAI 存款利率提高到 3.49%、USDP PSM 债务上限降至 0 DAI 等内容。这些变化预计将于北京时间 6 月 19 日 22:00 执行。\n\n\n韩国检察机关将于 6 月 19 日就虚拟资…",
+          "description": "6月19日至6月23日要点事件前瞻",
           "link": "https://www.theblockbeats.info/news/42794",
           "publishedOn": "2023-06-18T13:17:21.000Z",
           "wordCount": null,
@@ -606,31 +626,11 @@
         {
           "id": "https://www.theblockbeats.info/news/42791",
           "author": null,
-          "description": "原文标题：《Asset Risk Assessment - Membrane Finance (EUROe)》\n原文作者：LLAMARISK、EVMKNOWS\n原文编译：Kxp，BlockBeats\n\n\nEUROe / Membrane Finance\n\n\nEUROe 是一种符合 MiCA 标准的托管稳定币，由区块链开发组织 Equilibrium Group 的子公司 Membrane Finance 发行。它于 2023 年 2 月 1 日正式在 Ethereum 主网上推出，并已部署到 Polygon、Arbitrum、Avalanche 和一些测试网。截至目前，共发行了约 164 万个 EUROe，分布在四个链上：Ethereum 主网（982,777 个 EUROe）、Arbitrum（96,873 个 EUROe）、Polygon（560,235 个 EUROe）和 Avalanche（25 个 EUROe）。\n\n\n\n\n\nEUROe 链上供应情况- 2023 年 5 月 26 日\nEUROe 是根据欧盟承认的标准监管框架下发行的电子货币。它受芬兰金融监管机构（FIN-FSA）监管，可以通过验证 Membrane Finance Oy 的状态来确认。此外，EUROe 已完全符合 MiCA 标准，以应对 2024 年夏季即将生效的新法规。\n\n\n目前，Membrane Finance 仅向机构提供直接发行和销毁 EUROe 的服务，但任何人都可以在二级市场上无需许可地获取和使用 EUROe。这些渠道包括 DeFi、经纪人、场外交易或中心化交易所。此决策旨在降低存储大量客户 KYC 数据的成本和安全风险，以及降低处理发行/赎回请求的成本。\n\n\n发行概览 \n\n\nMembrane 是 EUROe 的唯一发行方。Membrane 的「客户」是与 Membrane 有账户并经历…",
+          "description": "Membrane Finance在健全的监管框架下运营，遵守芬兰法律，并为即将到来的MiCA要求做好了准备。",
           "link": "https://www.theblockbeats.info/news/42791",
           "publishedOn": "2023-06-18T05:55:29.000Z",
           "wordCount": null,
           "title": "详解符合MiCA标准的托管稳定币EUROe及其发行商Membrane Finance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42788",
-          "author": null,
-          "description": "作者：Arthur Hayes\n编译：GaryMa, 吴说区块链（有所删改）\n\n\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和房地产市场。\n\n\n然后，我们谈到了加密市场的现状，David 问我：「那么，SEC 对 Coinbase 和 Binance 的调查是怎么回事?」\n我回答说，这只是法定金融体系试图限制资本离开赌场的又一个例子。有大量债务需要偿还，金融体系需要尽可能多的退出流动性。他点头表示同意。David 喜欢把脆弱的法定金融体系称为夏普世界。(这个名字源于夏普比率，大多数风险经理认为夏普比率是衡量投资组合「风险」程度的标准——而实际上，它完全是无稽之谈，因为它关注的是概率可能性，而不是投资决策的实际结果。)\n\n\n然后我补充说，我认为美国针对加密货币发生的事情实际上是无关紧要的，因为资本是可替代的。(我将稍微扩展一下这个想法。)\n\n\n最后，我们谈到了即将到来的人民币贬值。这一对话的背景是我们对新加坡当前住宅房地产市场的持续上涨感到怀疑。中国资本并不关心房产税有多大，因为人民币被高估了，新加坡元被低估了。因此，即使他们必须向新加坡政府缴纳 60% 的税，中国资本也将新加坡的房地产视为一个廉价的银行账户，可以安全地储存他们的财富。\n\n\nDavid 接着说，北京最终会让人民币对日元贬值，因为日本是中国真正的全球出口竞争对手。自从日本央行 BOJ 继续其印钞活动（称为收益率曲线控制 YCC）以来，日元对美元和人民币迅速贬值，而所有其他主要央行都在提高利率并缩减资产负债表。自疫情以来，中国人民银行和中国中央政府在印钞方面表现出相对克制，这就是为什么人民币对美元和日元如此「强势」的原因。…",
-          "link": "https://www.theblockbeats.info/news/42788",
-          "publishedOn": "2023-06-18T03:19:05.000Z",
-          "wordCount": null,
-          "title": "Arthur Hayes：美国监管加剧，香港拥抱加密，意味着什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42785",
-          "author": null,
-          "description": "BlockBeats 将在本文整理当周（6.11-6.17）行业重点新闻内容，并推荐深度佳文帮助读者更好了解市场，获悉行业趋势。\n\n\n本周重要新闻回顾 \n\n\nBinance 上线 Launchpool 新项目 Maverick Protocol（MAV）\n\n\n\n6 月 13 日，Binance 宣布上线 Launchpool 新项目 Maverick Protocol（MAV），用户可以在 2023 年 06 月 14 日 08:00 后在 Launchpad 网站将 BNB、TUSD 投入到 MAV 挖矿池中获得 MAV 奖励，MAV 共计可挖矿 25 天。一旦 MAV Token 流动性满足要求，Binance 将开通 MAV/BTC、MAV/USDT 和 MAV/TUSD 交易市场。确切的日期和时间将在确定后公布。\n\n\n中银国际在以太坊联盟链上发行价值 2 亿元的 Token 化票据\n\n\n\n6 月 12 日，瑞银集团表示，中银国际发行了由瑞银发起并向其香港客户配售的数字结构化票据，总价值 2 亿元人民币。瑞银集团称，该交易标志着亚太地区首个遵守香港和瑞士法律并在以太坊联盟链上进行 Token 化的此类产品。\n\nBlockBeats 注，中银国际是中国银行集团旗下境外投资银行机构，以太坊联盟链指以开源以太坊框架搭建的许可链。\n\n\n美国法官拒绝 SEC 冻结 Binance.US 资产的请求\n\n\n\n6 月 14 日，据 Coindesk 报道，负责监督美国证券交易委员会（SEC）对 Binance 和 Binance.US 案件的联邦法官拒绝下令冻结美国交易平台资产的临时限制令。这将使 Binance.US 能够继续开展业务，同时与监管机构讨论该限制令。如果双方能够就限制达成一致，哥伦比亚特区地区法院的艾米伯曼杰克逊法官表示，「绝对没有必要」发出限制令。同时，法官责令 B…",
-          "link": "https://www.theblockbeats.info/news/42785",
-          "publishedOn": "2023-06-18T02:40:24.000Z",
-          "wordCount": null,
-          "title": "本周热门回顾｜Binance上线Launchpool新项目；黄立成起诉链上分析师ZachXBT",
           "imageUrl": null
         }
       ]
