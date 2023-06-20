@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-20T11:10:50.161Z</id>
+    <id>urn:2023-06-20T12:27:10.409Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-20T11:10:50.161Z</updated>
+    <updated>2023-06-20T12:27:10.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-6.20）]]></title>
+        <id>https://www.web3sj.com/?p=75873</id>
+        <link href="https://www.web3sj.com/news/75873/"/>
+        <updated>2023-06-20T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[AAVE社区发起“调整风险参数以减少V2上对CRV的风险敞口”的ARFC提案。万事达卡提交新的商标申请，以引入用于加密货币和区块链交易的软件。Arbitrum DAO社区成员建议在One和Nova上激活对帐户抽象端点的支持。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Labs 投资门类梳理，DeFi、基建占比领先]]></title>
+        <id>https://www.web3sj.com/?p=75865</id>
+        <link href="https://www.web3sj.com/news/75865/"/>
+        <updated>2023-06-20T11:22:59.000Z</updated>
+        <summary type="html"><![CDATA[Binance Labs 由 Binance 创始人 CZ 于 2017 年创立，该公司是 Binance 的风险投资部门，旨在促进区块链和加密货币的发展。通过追踪其投资过的项目，或有可能获得惊人回报。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解析Cosmos流动性质押模组LSM：释放ATOM质押的潜力]]></title>
         <id>https://www.web3sj.com/?p=75862</id>
@@ -558,26 +578,6 @@ DeFiLlama GPT-4 插件教程及用法
         <link href="https://www.web3sj.com/news/75762/"/>
         <updated>2023-06-20T05:11:50.000Z</updated>
         <summary type="html"><![CDATA[Rollups 是依赖 Layer 2 区块链（如以太坊）进行数据可用性（DA）（广泛传播和临时存储交易数据批次的功能）的协议。一般来说，基于智能合约的 rollup，依靠以太坊的 DA 也依靠以太坊进行交易结算（验证）。这些 rollup 专门从以太坊等 DA 层读取数据，并执行有效的交易和智能合约代码。建立在以太坊之上的 rollup 依靠以太坊区块中包含的分批交易数据来实现交易的真实性。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密交易所「出逃」：美国SEC接连诉讼，中东和香港纷纷出手]]></title>
-        <id>https://www.web3sj.com/?p=75759</id>
-        <link href="https://www.web3sj.com/news/75759/"/>
-        <updated>2023-06-20T04:26:24.000Z</updated>
-        <summary type="html"><![CDATA[SEC 指定下架的加密资产种类的不断增加，仅仅是 SEC 针对 Coinbase 和币安提起的诉讼中点名提到的就有 19 种代币不合法，需要被下架。据链得得统计，至少有 50 种加密货币被 SEC 标注为非法，这也引起了加密行业流动性的波动。目前，已经有多家交易所将 SEC 指定为投资合约的 Cardano (ADA)、Solana (SOL) 和 Polygon (MATIC) 下架。Robinhood 随后也宣布将受 SEC 诉讼影响的加密货币下架。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币圈骗钱套路，ChatGpt都知道]]></title>
-        <id>https://www.web3sj.com/?p=75753</id>
-        <link href="https://www.web3sj.com/news/75753/"/>
-        <updated>2023-06-20T04:24:12.000Z</updated>
-        <summary type="html"><![CDATA[某些 ICO 项目可能捏造虚假的项目概念和技术，或者虚构团队成员的背景和经验。他们可能使用虚假的白皮书、宣传资料和网站来吸引投资者，并使其相信项目有巨大的潜力。这些项目往往缺乏真正的创新和价值，只是为了骗取投资者的钱财。]]></summary>
         <author>
             <name>Gao</name>
         </author>
