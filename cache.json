@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 675,
+          "wordCount": 667,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 914,
+          "wordCount": 904,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 443,
+          "wordCount": 447,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=75800",
+          "author": "Gao",
+          "description": "Ethscriptions 是由音乐网站 Genius.com 联合创始人 Tom Lehman 于 6 月 17 日正式推出的，灵感来自于比特币 Ordinals 协议。最早的 Ethscriptions 是 2016 年创建的，而 Tom Lehman 为该协议开发了搜寻引擎和网站。",
+          "link": "https://www.web3sj.com/news/75800/",
+          "publishedOn": "2023-06-20T06:12:24.000Z",
+          "wordCount": 745,
+          "title": "对标Ordinals的以太坊铭文协议Ethscriptions引关注，上线数日获超3万铸造量",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687241526295.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75784",
+          "author": "Gao",
+          "description": "Crypto 行业的知名人物 David Bailey 表示，资管巨头贝莱德（BlackRock）的 BTC ETF（Exchange-Traded Fund，交易所交易基金 ) 可能会很快获得 SEC 的批准，这是继其他公司多次尝试失败后的一次突破。",
+          "link": "https://www.web3sj.com/news/75784/",
+          "publishedOn": "2023-06-20T05:24:23.000Z",
+          "wordCount": 698,
+          "title": "比特币ETF市场迎来转机？资管巨头贝莱德或成首个获得SEC批准的公司",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/e2b570d114a6b41e0c162dec82bf066d.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75781",
+          "author": "Gao",
+          "description": "日本野村证券旗下的加密风险投资部门 Laser Digital 进行了一项调查，覆盖欧洲、中东、亚洲、南非和拉丁美洲 21 个国家，超过 300 名机构投资者，资金总量达 4.9 万亿美元，包括财富管理机构、养老基金、对冲基金、投资基金和保险资产管理机构。",
+          "link": "https://www.web3sj.com/news/75781/",
+          "publishedOn": "2023-06-20T05:18:34.000Z",
+          "wordCount": 726,
+          "title": "90%的机构投资者看好加密货币，可为啥就是不买？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687238303392.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=75762",
           "author": "Gao",
           "description": "Rollups 是依赖 Layer 2 区块链（如以太坊）进行数据可用性（DA）（广泛传播和临时存储交易数据批次的功能）的协议。一般来说，基于智能合约的 rollup，依靠以太坊的 DA 也依靠以太坊进行交易结算（验证）。这些 rollup 专门从以太坊等 DA 层读取数据，并执行有效的交易和智能合约代码。建立在以太坊之上的 rollup 依靠以太坊区块中包含的分批交易数据来实现交易的真实性。",
           "link": "https://www.web3sj.com/news/75762/",
           "publishedOn": "2023-06-20T05:11:50.000Z",
-          "wordCount": 1667,
+          "wordCount": 1706,
           "title": "Galaxy：Proto-danksharding基本介绍及其工作原理",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687237898809.png"
         },
@@ -128,7 +158,7 @@
           "description": "SEC 指定下架的加密资产种类的不断增加，仅仅是 SEC 针对 Coinbase 和币安提起的诉讼中点名提到的就有 19 种代币不合法，需要被下架。据链得得统计，至少有 50 种加密货币被 SEC 标注为非法，这也引起了加密行业流动性的波动。目前，已经有多家交易所将 SEC 指定为投资合约的 Cardano (ADA)、Solana (SOL) 和 Polygon (MATIC) 下架。Robinhood 随后也宣布将受 SEC 诉讼影响的加密货币下架。",
           "link": "https://www.web3sj.com/news/75759/",
           "publishedOn": "2023-06-20T04:26:24.000Z",
-          "wordCount": 739,
+          "wordCount": 731,
           "title": "加密交易所「出逃」：美国SEC接连诉讼，中东和香港纷纷出手",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687235174246.png"
         },
@@ -138,7 +168,7 @@
           "description": "某些 ICO 项目可能捏造虚假的项目概念和技术，或者虚构团队成员的背景和经验。他们可能使用虚假的白皮书、宣传资料和网站来吸引投资者，并使其相信项目有巨大的潜力。这些项目往往缺乏真正的创新和价值，只是为了骗取投资者的钱财。",
           "link": "https://www.web3sj.com/news/75753/",
           "publishedOn": "2023-06-20T04:24:12.000Z",
-          "wordCount": 786,
+          "wordCount": 788,
           "title": "币圈骗钱套路，ChatGpt都知道",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687235041915.png"
         },
@@ -158,7 +188,7 @@
           "description": "这些竞争对手专注于各种细分垂直赛道，例如高效的稳定币互换、永续合约交易、通用代币互换等等。本文将比较这三类常见的中心化交易功能，以将它们与去中心化的交易对手进行对比。",
           "link": "https://www.web3sj.com/news/75736/",
           "publishedOn": "2023-06-20T04:17:25.000Z",
-          "wordCount": 723,
+          "wordCount": 708,
           "title": "去中心化交易所能否取代币安和Coinbase？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687234633372.png"
         },
@@ -168,7 +198,7 @@
           "description": "序数是一种比特币的编号方案，允许跟踪和转移单个聪。这些数字被称作序号。比特币是按照它们被挖掘的顺序编号的，并从交易输入转移到交易输出（遵循先进先出原则）。编号方案和传输方案都依赖于顺序，编号方案依赖于比特币被挖掘的顺序，而传输方案依赖于交易输入和输出的顺序。因此得名，序数（Ordinals）。",
           "link": "https://www.web3sj.com/news/75733/",
           "publishedOn": "2023-06-20T04:09:43.000Z",
-          "wordCount": 1244,
+          "wordCount": 1233,
           "title": "了解稀有聪的价值与玩法",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687234172713.png"
         },
@@ -178,39 +208,9 @@
           "description": "opBNB 创新的底层组合，包括优化数据可访问性、缓存层和调整提交过程算法等以允许更多并行操作，使 opBNB 能够达到高达 100 M 的 Gas 限制。基于这些综合优化，opBNB 每秒可支持超过 4000 笔转账交易，平均转账交易成本低于 0.005 美元。",
           "link": "https://www.web3sj.com/news/75730/",
           "publishedOn": "2023-06-20T03:57:19.000Z",
-          "wordCount": 823,
+          "wordCount": 804,
           "title": "读懂BNB Chain新推出的Layer2网络opBNB",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687233377978.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75703",
-          "author": "Gao",
-          "description": "2022 年，许多 ZK rollup 网络陷入了激烈的竞争。目前许多这些网络已经推出了其主网，并正在积极开发其生态系统。2023 年 3 月 23 日，Arbitrum 的空投取得了成功，这导致用户迁移到 ZK rollup，希望从随后的空投中受益。这种转变尤其在 zkSync Era、StarkNet 和其他尚未发布自己代币的 ZK rollup 网络中表现得格外明显。",
-          "link": "https://www.web3sj.com/news/75703/",
-          "publishedOn": "2023-06-20T03:42:05.000Z",
-          "wordCount": 1516,
-          "title": "解析Polygon zkEVM生态图谱 ：缓慢却稳健",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687232512841.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75696",
-          "author": "Gao",
-          "description": "6 月 17 日，黄立成在发推文称其本人已在美国德克萨斯州西区地方法院对 ZachXBT 提起诽谤诉讼。随后，ZachXBT 回应称，黄立成对其提起的诉讼毫无根据，其将反击以捍卫言论自由。",
-          "link": "https://www.web3sj.com/news/75696/",
-          "publishedOn": "2023-06-20T03:07:08.000Z",
-          "wordCount": 731,
-          "title": "链上侦探ZachXBT被「麻吉大哥」起诉：获超百万美元捐款，CZ和孙宇晨等应援支持",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687230399782.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75661",
-          "author": "Gao",
-          "description": "这催生了 L2 ：OPRU 引入了排序器来捆绑一堆交易，然后提交到主网上。这不仅有助于 app 承接以太坊的安全性，同时也给予了用户更好的体验。用户可以更快地提交交易，手续费也更加便宜了。虽然操作变 得便宜了，但它仍然使用原生 EVM 作为执行层。",
-          "link": "https://www.web3sj.com/news/75661/",
-          "publishedOn": "2023-06-19T14:18:28.000Z",
-          "wordCount": 1076,
-          "title": "解放以太坊性能：超越EVM瓶颈的创新之路",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687184292171.png"
         }
       ]
     },
@@ -235,7 +235,7 @@
           "description": "PANews 6月20日消息，据派盾预警监测，名为“IPO”的项目（推特账号@IPO_web3）疑似发生Rug Pull，损失约10.2万枚BSC-USD，该项目代币下跌32%，被盗资金目前位于0x35fe开头的地址中。",
           "link": "https://panewslab.com/zh/articledetails/ts1pnbrq.html",
           "publishedOn": "2023-06-20T03:08:27.000Z",
-          "wordCount": 391,
+          "wordCount": 397,
           "title": "派盾：名为“IPO”的项目疑似发生Rug Pull，损失约10.2万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月20日消息，据Finbold报道，据美国商标许可律师Michael Kondoudis的推文，支付巨头万事达卡（Mastercard）于6月12日提交了一份新的商标申请，以引入用于加密货币和区块链交易的软件，并在虚拟资产服务提供商之间建立用于加密交易的链接。\n此前4月消息，万事达卡与Aptos、Solana等公链合作制定新的“加密凭证”标准。",
           "link": "https://panewslab.com/zh/articledetails/vla3x0zn.html",
           "publishedOn": "2023-06-20T02:55:28.000Z",
-          "wordCount": 381,
+          "wordCount": 378,
           "title": "万事达卡提交新的商标申请，以引入用于加密货币和区块链交易的软件",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 6月20日消息，Web3反诈骗平台Scam Sniffer在推特上发布提醒称，去中心化交易所Slingshot推特账号已被诈骗者Pink Drainer入侵，发布虚假网站链接并称用户可申领空投 代币。请用户注意风险，切勿点击相关链接。",
           "link": "https://panewslab.com/zh/articledetails/mjk4fqq3.html",
           "publishedOn": "2023-06-20T02:18:19.000Z",
-          "wordCount": 382,
+          "wordCount": 379,
           "title": "预警：Slingshot推特账号被黑，切勿点击可疑钓鱼链接",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 6月20日消息，慢雾首席信息安全官23pds发推提醒称，近期已出现新的加密货币盗窃软件Mystic Stealer，该软件可针对40款浏览器、70款浏览器扩展、加密货币钱包进行攻击，如MetaMask、Coinbase Wallet、Binance、Rabby Wallet、OKX Wallet、OneKey等知名钱包，是目前最流行的恶意软件，请用户注意风险。",
           "link": "https://panewslab.com/zh/articledetails/jgmq72ti.html",
           "publishedOn": "2023-06-20T02:09:12.000Z",
-          "wordCount": 388,
+          "wordCount": 394,
           "title": "预警：新盗币软件Mystic Stealer可针对40款浏览器及70款浏览器扩展进行攻击",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -534,6 +534,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42827",
+          "author": null,
+          "description": "撰文：Logicrw、Leo，BlockBeats\n\n\n\n\n近期，DeFiLlama 推出了其 ChatGPT-4 插件，上线插件商店后引来了很多人的关注、讨论和使用，有人预言这或许是加密领域最重要的 ChatGPT 插件，也可能会开启一股加密数据分析工具和 AI 结合的新热潮。\n\n\nDeFiLlama GPT-4 插件介绍\n\n\n\nDeFiLlama 大家都很熟悉，是我们常用的链上数据分析工具，通过该工具可以找到一些早期的加密 Alpha 项目，或者对一些项目做研究分析。但对于大多数人来说，目前的 DeFiLlama UI 是全英文界面，或许没有那么直观，有一些功能可能需要一些时间来搜索查询，但本次该应用 GPT-4 版本上线后，完全改善了这个问题，用户可以直接通过中文对话来查询到你想知道的一切数据，当然除了中文对话功能，还有一些对用户更友好的新用法，文中会为大家讲解该插件的教程和使用方法。\n\n\n\n该插件允许 GPT 语言模型与 DeFi 协议和区块链应用的外部 API 进行交互，由 DeFiLlama 贡献者Kofi 制作，该插件在刚上线插件商店时还处于不太成熟的阶段。比如，此前该插件的 Fee/revenue 功能出现了一些问题，目前已被修复。且用户在使用过程中出现的任何问题都可以点击「该链接」提交反馈和报告错误，Kofi 会在短时间内修复 bug。\n\n\n\nKofi 也发布了一个简短的「视频教程」，但涉及的内容较少且略微模糊，以下是 BlockBeats 为大家总结的 DeFiLlama ChatGPT-4 插件的详细教程：\n\n\n\nDeFiLlama GPT-4 插件教程及用法\n\n\n安装步骤\n\n\n\n要使用 DeFiLlama 的 GPT 插件，首先需要开通 ChatGPT Plus 帐号（$20/月）。开通之后，底部的设置里面就会出现一栏 Beta features（测…",
+          "link": "https://www.theblockbeats.info/news/42827",
+          "publishedOn": "2023-06-20T05:52:16.000Z",
+          "wordCount": null,
+          "title": "还挺好用，DeFiLlama新推出的ChatGPT-4插件怎么玩？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42821",
           "author": null,
           "description": "原文标题：《\n\n一文读懂 BNB Chain 新推出的 Layer 2 网络 opBNB\n\n》\n原文来源：\n\nOdaily 星球日报\n\n\n\nBNB Chain 宣布推出 opBNB 测试网，这是一种基于 Optimism OP Stack 的以太坊虚拟机（EVM）兼容的 L2 可扩展性解决方案。opBNB 大大提高了 L1 的可扩展性以降低网络拥堵及网络费用，同时保持与 L1 相似的安全级别。\n\n\nopBNB 创新的底层组合，包括优化数据可访问性、缓存层和调整提交过程算法等以允许更多并行操作，使 opBNB 能够达到高达 100 M 的 Gas 限制。基于这些综合优化，opBNB 每秒可支持超过 4000 笔转账交易，平均转账交易成本低于 0.005 美元。\n\n\n以下为 BNB Chain 官方博客关于 opBNB 测试网的介绍，由 Odaily 星球日报编译。 \n\n\n我们很高兴推出 opBNB，这是一种创新的可扩展性解决方案，现已在 BNB 智能链（BSC）上可用。opBNB 代表了我们的承诺——确保用户、开发人员和项目在 BSC 上获得无缝和高效的体验。这一发展是我们持续使命的一部分，即在拥抱和推动创新的同时，将区块链的力量带给每个人。\n\n\nopBNB 测试网将于 2023 年 6 月 19 日启动！我们呼吁测试网验证者和 dApp 构建者尝试测试网并提供反馈。\n\n\n什么是 opBNB？\n\n\nopBNB 是 BSC 对限制区块链技术大规模采用的可扩展性挑战交出的答卷。作为与以太坊虚拟机 (EVM) 兼容的 layer 2 网络，opBNB 解决方案基于 Optimism OP Stack 以进一步增强 BSC 的可扩展性，同时保持可负担性和安全性。\n\n\nOptimistic Rollups 的提出是为了通过在链下执行交易，并仅将交易数据作为调用数据发布到链上来减少主链上…",
@@ -596,7 +606,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42797",
           "author": null,
-          "description": "与传统金融市场一致的是，加密市场的衍生品交易的市场规模是长期大于现货交易的，但传统金融期货市场一直有个固有的局限，那就是它有结算日期且杠杆交易能力有限，不能适应这个 7x24 小时交易的加密市场。于是，BitMEX 在 2016 年 5 月 13 日推出了永续合约，采用了创新的资金费率调控现货与合约的价格尽可能保持一致，解锁了使用高达百倍杠杆的进行做多/做空的机会。它的横空出世永远的改变了加密货币及整个金融领域。\n\n\n\n此后随着加密市场的快速发展，永续合约等衍生品交易尝试从链下搬到了链上，从中心化逐步走向去中心化。将衍生品引入 DeFi 的早期尝试主要集中在重新创建由 CEX 普及的订单簿模型，然而高昂的 gas 成本、延迟问题和高复杂性等问题造成了一定的阻碍。后来 Layer2 的出现推动了更多 DeFi 创新的发展，这是由于二层的低 Gas 费用和交易速度所带来的优势，并且能够在一定程度上继承以太坊的安全性。这为 DeFi 革新创造了条件，于是在去中心化永续合约赛道上，走出了 GMX、Gains Network 等炙手可热的明星项目。\n\n\n\n与此同时，有一个名为 Vela Exchange 的项目正在崛起，它融合了 GMX、Gains Network 在机制上的优势和特点，在今年四月顺利结束了为期两个多月的 Beta 公测，根据公测数据和结果做出了调整，在迭代后即将推出最新版本，让我们一起来了解一下这个后起之秀。\n\n\nVela Exchange 介绍\n\n\n\n\nVela Exchange 的交易界面\n\n\n\nVela Exchange 是 Arbitrum 上的去中心化永续合约平台，旨在利用链下订单簿和链上结算的混合模式，提高 DeFi 衍生品的交易速度和安全性。根据官方文档，Vela 用户可以根据合成资产的表现建仓，存款人将资金存入后生成 VLP（类似于 GMX 的模式）…",
+          "description": "DEX Perp的叙事能否引领加密世界的发展？",
           "link": "https://www.theblockbeats.info/news/42797",
           "publishedOn": "2023-06-19T07:00:01.000Z",
           "wordCount": null,
@@ -621,16 +631,6 @@
           "publishedOn": "2023-06-19T03:44:17.000Z",
           "wordCount": null,
           "title": "2023年第26周融资精选，Polygon参投DID初创公司 Intuition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42794",
-          "author": null,
-          "description": "6月19日至6月23日要点事件前瞻",
-          "link": "https://www.theblockbeats.info/news/42794",
-          "publishedOn": "2023-06-18T13:17:21.000Z",
-          "wordCount": null,
-          "title": "一周前瞻：Binance JAPAN将于6月23日后开放；阿迪达斯将推出绑定NFT的Token门控运动鞋",
           "imageUrl": null
         }
       ]
