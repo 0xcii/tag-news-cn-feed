@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 681,
+          "wordCount": 675,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 895,
+          "wordCount": 905,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 455,
+          "wordCount": 445,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -219,6 +219,16 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/p41j0v9p.html",
+          "author": "PA一线",
+          "description": "PANews 6月20日消息，根据The Block的数据，FTX顾问6月15日提交的文件显示，FTX在2月1日至4月30日期间支付了1.218亿美元的法律、咨询和金融服务费用。其中Sullivan & Cromwell律师事务所在此期间收取了3,760万美元的费用，占总费用和支出的30.9%。投资银行杰富瑞收取的费用最低，占总费用和支出的0.6%。咨询公司Alvarez & Marsal的重组顾问收取了3700万美元的费用。",
+          "link": "https://panewslab.com/zh/articledetails/p41j0v9p.html",
+          "publishedOn": "2023-06-19T23:22:02.000Z",
+          "wordCount": 367,
+          "title": "数据：今年2至4月期间FTX支付了超过1.2亿美元的法律费用",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/y2h50bj1.html",
           "author": "PA一线",
@@ -396,7 +406,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42797",
           "author": null,
-          "description": "与传统金融市场一致的是，加密市场的衍生品交易的市场规模是长期大于现货交易的，但传统金融期货市场一直有个固有的局限，那就是它有结算日期且杠杆交易能力有限，不能适应这个 7x24 小时交易的加密市场。于是，BitMEX 在 2016 年 5 月 13 日推出了永续合约，采用了创新的资金费率调控现货与合约的价格尽可能保持一致，解锁了使用高达百倍杠杆的进行做多/做空的机会。它的横空出世永远的改变了加密货币及整个金融领域。\n\n\n\n此后随着加密市场的快速发展，永续合约等衍生品交易尝试从链下搬到了链上，从中心化逐步走向去中心化。将衍生品引入 DeFi 的早期尝试主要集中在重新创建由 CEX 普及的订单簿模型，然而高昂的 gas 成本、延迟问题和高复杂性等问题造成了一定的阻碍。后来 Layer2 的出现推动了更多 DeFi 创新的发展，这是由于二层的低 Gas 费用和交易速度所带来的优势，并且能够在一定程度上继承以太坊的安全性。这为 DeFi 革新创造了条件，于是在去中心化永续合约赛道上，走出了 GMX、Gains Network 等炙手可热的明星项目。\n\n\n\n与此同时，有一个名为 Vela Exchange 的项目正在崛起，它融合了 GMX、Gains Network 在机制上的优势和特点，在今年四月顺利结束了为期两个多月的 Beta 公测，根据公测数据和结果做出了调整，在迭代后即将推出最新版本，让我们一起来了解一下这个后起之秀。\n\n\nVela Exchange 介绍\n\n\n\n\nVela Exchange 的交易界面\n\n\n\nVela Exchange 是 Arbitrum 上的去中心化永续合约平台，旨在利用链下订单簿和链上结算的混合模式，提高 DeFi 衍生品的交易速度和安全性。根据官方文档，Vela 用户可以根据合成资产的表现建仓，存款人将资金存入后生成 VLP（类似于 GMX 的模式）…",
+          "description": "DEX Perp的叙事能否引领加密世界的发展？",
           "link": "https://www.theblockbeats.info/news/42797",
           "publishedOn": "2023-06-19T07:00:01.000Z",
           "wordCount": null,
