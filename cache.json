@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 662,
+          "wordCount": 670,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 911,
+          "wordCount": 902,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 451,
+          "wordCount": 441,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=75733",
+          "author": "Gao",
+          "description": "序数是一种比特币的编号方案，允许跟踪和转移单个聪。这些数字被称作序号。比特币是按照它们被挖掘的顺序编号的，并从交易输入转移到交易输出（遵循先进先出原则）。编号方案和传输方案都依赖于顺序，编号方案依赖于比特币被挖掘的顺序，而传输方案依赖于交易输入和输出的顺序。因此得名，序数（Ordinals）。",
+          "link": "https://www.web3sj.com/news/75733/",
+          "publishedOn": "2023-06-20T04:09:43.000Z",
+          "wordCount": 1241,
+          "title": "了解稀有聪的价值与玩法",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687234172713.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75730",
+          "author": "Gao",
+          "description": "opBNB 创新的底层组合，包括优化数据可访问性、缓存层和调整提交过程算法等以允许更多并行操作，使 opBNB 能够达到高达 100 M 的 Gas 限制。基于这些综合优化，opBNB 每秒可支持超过 4000 笔转账交易，平均转账交易成本低于 0.005 美元。",
+          "link": "https://www.web3sj.com/news/75730/",
+          "publishedOn": "2023-06-20T03:57:19.000Z",
+          "wordCount": 829,
+          "title": "读懂BNB Chain新推出的Layer2网络opBNB",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687233377978.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75703",
+          "author": "Gao",
+          "description": "2022 年，许多 ZK rollup 网络陷入了激烈的竞争。目前许多这些网络已经推出了其主网，并正在积极开发其生态系统。2023 年 3 月 23 日，Arbitrum 的空投取得了成功，这导致用户迁移到 ZK rollup，希望从随后的空投中受益。这种转变尤其在 zkSync Era、StarkNet 和其他尚未发布自己代币的 ZK rollup 网络中表现得格外明显。",
+          "link": "https://www.web3sj.com/news/75703/",
+          "publishedOn": "2023-06-20T03:42:05.000Z",
+          "wordCount": 1533,
+          "title": "解析Polygon zkEVM生态图谱 ：缓慢却稳健",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687232512841.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=75696",
           "author": "Gao",
           "description": "6 月 17 日，黄立成在发推文称其本人已在美国德克萨斯州西区地方法院对 ZachXBT 提起诽谤诉讼。随后，ZachXBT 回应称，黄立成对其提起的诉讼毫无根据，其将反击以捍卫言论自由。",
           "link": "https://www.web3sj.com/news/75696/",
           "publishedOn": "2023-06-20T03:07:08.000Z",
-          "wordCount": 746,
+          "wordCount": 737,
           "title": "链上侦探ZachXBT被「麻吉大哥」起诉：获超百万美元捐款，CZ和孙宇晨等应援支持",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687230399782.png"
         },
@@ -128,7 +158,7 @@
           "description": "这催生了 L2 ：OPRU 引入了排序器来捆绑一堆交易，然后提交到主网上。这不仅有助于 app 承接以太坊的安全性，同时也给予了用户更好的体验。用户可以更快地提交交易，手续费也更加便宜了。虽然操作变 得便宜了，但它仍然使用原生 EVM 作为执行层。",
           "link": "https://www.web3sj.com/news/75661/",
           "publishedOn": "2023-06-19T14:18:28.000Z",
-          "wordCount": 1079,
+          "wordCount": 1080,
           "title": "解放以太坊性能：超越EVM瓶颈的创新之路",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687184292171.png"
         },
@@ -138,7 +168,7 @@
           "description": "坎昆升级将如何为以太坊扩容提速，又将为 Layer2 带来哪些新的发展机遇？R3PO 认为，通过坎昆升级，Layer2 将更好地融入以太坊生态系统，为用户提供更快速、低成本的交易体验。无论是 Optimistic Rollup 还是 ZK Rollup，它们都将受益于此次升级，共同推动以太坊生态的发展。",
           "link": "https://www.web3sj.com/news/75650/",
           "publishedOn": "2023-06-19T14:13:21.000Z",
-          "wordCount": 940,
+          "wordCount": 957,
           "title": "坎昆升级能为L2带来哪些新机会？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687183973072.png"
         },
@@ -148,7 +178,7 @@
           "description": "加密市场中有哪些项目和英伟达有关联呢？英伟达有一个创业孵化计划——NVIDIA Inception，旨在支持和加速人工智能和数据科学领域的初创企业，为初创公司提供包括技术指导、深度学习培训、硬件和软件支持、市场推广和业务网络的资源和支持。下面 PANews 将盘点加入 NVIDIA Inception 计划的加密原生项目。",
           "link": "https://www.web3sj.com/news/75641/",
           "publishedOn": "2023-06-19T14:09:35.000Z",
-          "wordCount": 878,
+          "wordCount": 875,
           "title": "盘点6个加入英伟达NVIDIA Inception计划的加密项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687183763248.png"
         },
@@ -158,7 +188,7 @@
           "description": "经历过 2021 年链游狂潮的 Web3 用户或许会深知，如果《侠盗猎车手 6》真的要引入链游中缺一不可的 Play-to-Earn 机制，那么该游戏将会对目前良莠不齐的链游进行降维式打击，Rockstar Games 作为全球最会设计游戏的公司，Play-to-Earn 机制的可持续性将会有很大的想象空间。",
           "link": "https://www.web3sj.com/gamefinews/75630/",
           "publishedOn": "2023-06-19T14:04:10.000Z",
-          "wordCount": 820,
+          "wordCount": 824,
           "title": "侠盗猎车手6将引入加密货币？有，但不多！",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/156495254e9db434252c24156b2fba4f.png"
         },
@@ -168,7 +198,7 @@
           "description": "Nouns 是一个很特别的 DAO，有别于一般总量为 10K 的 NFT 项目，Nouns 每天拍卖一个 NFT，从开始拍卖至今，没有出现过间断或者流拍，在接近 2 年的时间里，国库仅通过拍卖积累了超过 62000 ETH，这是怎么做到的呢？",
           "link": "https://www.web3sj.com/daonews/75603/",
           "publishedOn": "2023-06-19T14:01:22.000Z",
-          "wordCount": 1723,
+          "wordCount": 1738,
           "title": "Nounish DAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/e1c52ffaf5eb37f7b95bf06b097aa638.png"
         },
@@ -178,39 +208,9 @@
           "description": "我们先来详细解释以下 RWA 通证化（代币化），指的是一种将现实世界的资产（如房地产、土地、机械设备等）与区块链技术相结合的金融工具。通过 RWA，实体资产可以在区块链上进行发行、交易和融资，实现资产的快速流通和价值发现。",
           "link": "https://www.web3sj.com/definews/75600/",
           "publishedOn": "2023-06-19T13:54:05.000Z",
-          "wordCount": 714,
+          "wordCount": 687,
           "title": "资产数字化之路上的碰撞，一文对比ABS和RWA的不同",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2c4806e2f59acad1aea41c3d086a421b.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75597",
-          "author": "Gao",
-          "description": "在 Web3 游戏中，玩家与游戏之间的交互是一种价值交互的双向行为，受益于 NFT 对游戏资产道具的封装，在 Web3 游戏的道具不仅仅可以根据在游戏中的效用进行定价，还可以因为市场交易行为进行定价，而在传统的 Web2 游戏中，游戏道具只能根据在游戏中的效用进行定价。",
-          "link": "https://www.web3sj.com/gamefinews/75597/",
-          "publishedOn": "2023-06-19T13:51:49.000Z",
-          "wordCount": 964,
-          "title": "Web3游戏项目方，如何最低成本构建链上交易流动性框架以及商业模型",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687182698018.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75587",
-          "author": "Gao",
-          "description": "随之而来的是 BTC 网络手续费飙升，网络堵塞。此外，BTC 网络不支持智能合约的特性限制了更复杂的生态业务发展。市场开始将注意力聚焦在 BTC 二层网络与应用，以期望捕获 BTC 生态增长的收益。",
-          "link": "https://www.web3sj.com/news/75587/",
-          "publishedOn": "2023-06-19T13:49:34.000Z",
-          "wordCount": 1163,
-          "title": "BTC二层网络Stacks可能面临哪些挑战？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/638f65baa6f6c7917ef10a246938dc43.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75584",
-          "author": "Gao",
-          "description": "那么，互联的 Web3 最终将呈现出怎样的局面呢？我们认为，跨链桥最终将演变为跨链消息传递或「任意消息传递」（AMP）协议，以解锁新的应用场景，让应用能够在源链和目标链之间传递任意消息。我们还将见证「信任机制格局」的出现，其中构建者将在可用性、复杂性和安全性之间做出各种权衡。",
-          "link": "https://www.web3sj.com/news/75584/",
-          "publishedOn": "2023-06-19T13:38:01.000Z",
-          "wordCount": 966,
-          "title": "破解互操作性信任难题：Web3和跨连桥最终将如何演变？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687181856707.png"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "PANews 6月20日消息，Github页面显示，Cardano开发团队Input Output已推出Cardano节点8.1.1版本，该版本已经准备好了主网，并且在epoch周期边界上有了显著的改进，并纠正了之前对P2P/DNS的担忧，强烈建议所有SPO进行更新。",
           "link": "https://panewslab.com/zh/articledetails/bywfr7ho.html",
           "publishedOn": "2023-06-20T01:22:54.000Z",
-          "wordCount": 345,
+          "wordCount": 363,
           "title": "Cardano节点8.1.1版本已发布，更新包括改善epoch周期边界的节点新能",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 6月20日消息，据Cointelegraph报道，根据Realtor.com网站的最新消息，与FTX联合创始人Sam Bankman-Fried（SBF）相关的、位于华盛顿特区的某房产被列为“待定”，这表明处理该交易的一方已经接受了报价，但交易尚未最终确定。该房产在Realtor.com网站上的报价为300万美元。\n据报道，这栋位于美国国会大厦附近的联排别墅系SBF的兄弟Gabriel Bankman-Fried成立的非营利组织Guarding Against Pandemics（防范流行病）所有。\n此前2月份华尔街日报报道称，该房产因系FTX挪用客户资金购买而被从市场上下架。FTX关联公司Alameda Research曾向上述的非营利组织捐赠了超过1200万美元。",
           "link": "https://panewslab.com/zh/articledetails/kqmxoarm.html",
           "publishedOn": "2023-06-20T01:12:53.000Z",
-          "wordCount": 368,
+          "wordCount": 389,
           "title": "与SBF有关的300万美元华盛顿特区房产或即将售出",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "1.Web3钱包平台Galaxy Finance完成3000万美元B轮融资，新加坡QCP Capital等参投\n2.Blur已支持用户在移动设备上架和购买NFT\n3.今年2至4月期间FTX支付了超过1.2亿美元的法律费用\n4.黄立成反驳ZachXBT的多项指控，称未挪用资金或参与价格操纵\n5.SPACE ID DAO正考虑以平台近三个月收入一半来购买和销毁ID代币\n6.Curve发起“以2亿crvUSD债务上限部署WETH市场”的提案投票\n7.BTC市场份额接近50%，创2021年5月以来新高",
           "link": "https://panewslab.com/zh/articledetails/9oz4n9h5.html",
           "publishedOn": "2023-06-20T01:03:03.000Z",
-          "wordCount": 409,
+          "wordCount": 427,
           "title": "昨夜今晨重要资讯",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月20日消息，Snapshot投票页面显示，去中心化身份协议SPACE ID的DAO正对“购买和销毁ID代币”的IDP3提案进行投票。目前该提案支持率达99.76%，投票将于6月26日截止。\n该提案提议将3月23日至6月23日期间SPACE ID平台产生的总收入的50%，用于购买和销毁ID代币；剩余50%分配给DAO金库，由所有符合条件的ID代币持有者管理。",
           "link": "https://panewslab.com/zh/articledetails/8d5pz0ay.html",
           "publishedOn": "2023-06-20T00:49:18.000Z",
-          "wordCount": 359,
+          "wordCount": 377,
           "title": "SPACE ID DAO正考虑以平台近三个月收入一半来购买和销毁ID代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 6月20日消息，据CertiK Alert监测，Cream Finance攻击者(0x70747开头地址) 已向0xdeCE开头的地址发送约230枚ETH（约39.7万美元）。该地址仍然持有3000枚ETH（约530万美元）和超过600万美元的其他资产。\n此前去年10月消息，DeFi协议Cream Finance遭闪电贷攻击，损失超1.3亿美元。",
           "link": "https://panewslab.com/zh/articledetails/l389gcn2.html",
           "publishedOn": "2023-06-20T00:33:15.000Z",
-          "wordCount": 374,
+          "wordCount": 392,
           "title": "安全公司：Cream Finance攻击者向匿名地址转移230枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 6月20日消息，据官方博客，韩国数字资产银行服务Sandbank表示，考虑到当前加密市场的各种问题导致系统性风险增加，在市场稳定之前，已暂停新的存款和投资功能，正在进行中的投资项目到期后不可续期，但可以取款，提现和资产管理功能可以正常使用。",
           "link": "https://panewslab.com/zh/articledetails/vr7h00pu.html",
           "publishedOn": "2023-06-20T00:28:15.000Z",
-          "wordCount": 340,
+          "wordCount": 361,
           "title": "韩国数字资产银行服务Sandbank暂停新的存款和投资功能",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 6月20日消息，TradingView数据显示，BTC市值的主导地位（市场份额）接近50%，目前为49.96%，创2021年5月以来新高。",
           "link": "https://panewslab.com/zh/articledetails/g1lvgns5.html",
           "publishedOn": "2023-06-20T00:18:24.000Z",
-          "wordCount": 357,
+          "wordCount": 375,
           "title": "数据：BTC市场份额接近50%，创2021年5月以来新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 6月20日消息，据相关投票页面信息，Curve发起“以2亿crvUSD债务上限部署WETH市场”的提案投票，根据该提案，稳定币新市场的安全参数与质押的ETH市场相同，投票将于6月26日结束。",
           "link": "https://panewslab.com/zh/articledetails/oxk7gawl.html",
           "publishedOn": "2023-06-20T00:05:56.000Z",
-          "wordCount": 337,
+          "wordCount": 355,
           "title": "Curve发起“以2亿crvUSD债务上限部署WETH市场”的提案投票",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 6月20日消息，据The Block报道，Cosmos生态系统中最大的去中心化交易所Osmosis对其代币经济学模型OSMO 2.0做出关键更新，将代币通货膨胀率降低了50%。Osmosis团队表示，这一调整使Osmosis能够在增长和稳定性之间取得平衡，确保随着时间推移，代币能够更顺畅地被分配。更新后的OSMO通胀率将在11%左右。该团队还表示，他们正在探索引入一种协议收入销毁机制，这可能会进一步降低通货膨胀，最终形成净通货紧缩模型。此外，Osmosis治理目前正在讨论实施流动性池的费用转换。该功能允许OSMO质押者直接分享由Osmosis流动性池活动产生的掉期费用。",
           "link": "https://panewslab.com/zh/articledetails/if1dsll0.html",
           "publishedOn": "2023-06-20T00:01:22.000Z",
-          "wordCount": 345,
+          "wordCount": 363,
           "title": "Osmosis将代币通胀率降低50％，计划允许质押者分享收益",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 6月20日消息，黄立成在推特发文反驳了链上侦探ZachXBT此前的系列指控。他表示，ZachXBT指控他挪用资金这一说法是错误和没有证据的。首先，他没有从Formosa Financial挪用22000枚ETH。他无法访问转移金库ETH的多重签名，并且没有任何接收地址属于他。Formosa Financial的多重签名人是首席执行官Ryan Terriblini和首席技术官Lorne Lantz。其次，在Cream Finance于2021年8月和10月两次遭到攻击之前，他已在2020年将Cream Finance交给了其它团队。他于2022年2月重新管理该协议，并为受攻击影响的用户追回了资金。此外，针对有关“Squid DAO”的指控，黄立成表示没有拉高抛售或任何不当行为。他参与了Squid DAO。2022年1月，他支持将DAO资金归还的提案，从而使超过12,000枚ETH返还给了Squid DAO的参与者。·",
           "link": "https://panewslab.com/zh/articledetails/z3qr39vt.html",
           "publishedOn": "2023-06-19T23:46:45.000Z",
-          "wordCount": 369,
+          "wordCount": 387,
           "title": "黄立成反驳ZachXBT的多项指控，称未挪用资金或参与价格操纵",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 6月20日消息，根据The Block的数据，FTX顾问6月15日提交的文件显示，FTX在2月1日至4月30日期间支付了1.218亿美元的法律、咨询和金融服务费用。其中Sullivan & Cromwell律师事务所在此期间收取了3,760万美元的费用，占总费用和支出的30.9%。投资银行杰富瑞收取的费用最低，占总费用和支出的0.6%。咨询公司Alvarez & Marsal的重组顾问收取了3700万美元的费用。",
           "link": "https://panewslab.com/zh/articledetails/p41j0v9p.html",
           "publishedOn": "2023-06-19T23:22:02.000Z",
-          "wordCount": 367,
+          "wordCount": 385,
           "title": "数据：今年2至4月期间FTX支付了超过1.2亿美元的法律费用",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 6月20日消息，据官方消息，NFT市场Blur已支持用户在移动设备上使用出价、上架、借贷、先买后付以及投资组合管理等功能。与此同时，用户无需登录便可在桌面和移动设备上浏览所有Blur收藏品。",
           "link": "https://panewslab.com/zh/articledetails/y2h50bj1.html",
           "publishedOn": "2023-06-19T21:16:06.000Z",
-          "wordCount": 346,
+          "wordCount": 364,
           "title": "Blur已支持用户在移动设备上架和购买NFT",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -486,7 +486,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42810",
           "author": null,
-          "description": "原文标题：《\n\n解读币安研究院 LSDfi 报告：当流动性质押与 DeFi 相遇\n\n》\n\n原文来源：TechFlow深潮\n\n\n\n导读\n\n\n近期，Binance 研究院发布了 LSDfi 研究报告，内容涵盖 LSDfi 赛道的总体格局、收益情况以及可能的风险。报告显示虽然 LSDfi 增势迅猛，但规模不到 LSD 本身的 3%，作为年轻赛道仍有后续提升空间。\n\n\n\n此外，在 BNB 链生态中，流动性质押和相关玩法同样也在发展。数据显示该链上的 LSD 项目在费率上相对更低，也存在着参与机会。\n\n\n同时，LSDfi 在最大化 ETH 质押收益的同时，由于赛道仍在早期，参与者们仍需要注意各类险，在收益和风险中寻找平衡，锁定确定性机会。\n\n\n深潮对该报告的核心观点进行了精选和提炼，内容如下：\n\n\n核心结论\n\n\n在过去几个月中，LSD 协议的 TVL 迅速增长，得益于 LSD 的采用。顶级 LSD 协议的累计 TVL 已突破 4 亿美元，自一个月前翻了一番以上。促进 LSD 增长的有利因素包括质押 ETH 的增长以及 LSD 的目前低渗透率。\n\n\n目前，LSD 协议的 TVL 仅占总可寻址市场的不到 3%。尽管 LSD 为 LSD 持有人提供了有吸引力的机会，用户应意识到相关风险，包括但不限于惩罚风险、LSD 价格风险、智能合约风险和第三方风险等。\n\n\n以太坊质押及 LSD 发展情况\n\n\nETH 质押市场快速发展。随着以太坊成功过渡到 PoS 共识机制，并在 Shapella 升级后允许质押 ETH 的提取，质押量迅猛增长。目前总质押 ETH 已超过 22.8M ETH。\n\n\n\n\n\nLSD 同步蓬勃发展。运行独立节点存在技术难题和资本需求较高，不适合每个人。因此，流动性质押协议降低了参与门槛，同时保持质押资产的流动性。数据也显示 LSD 玩法中质押的 ETH 占总体质押量的比例不断增…",
+          "description": "LSDfi 增势迅猛，规模不到 LSD 本身的3%，后续提升空间巨大。",
           "link": "https://www.theblockbeats.info/news/42810",
           "publishedOn": "2023-06-19T08:21:06.000Z",
           "wordCount": null,
@@ -506,7 +506,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42797",
           "author": null,
-          "description": "DEX Perp的叙事能否引领加密世界的发展？",
+          "description": "与传统金融市场一致的是，加密市场的衍生品交易的市场规模是长期大于现货交易的，但传统金融期货市场一直有个固有的局限，那就是它有结算日期且杠杆交易能力有限，不能适应这个 7x24 小时交易的加密市场。于是，BitMEX 在 2016 年 5 月 13 日推出了永续合约，采用了创新的资金费率调控现货与合约的价格尽可能保持一致，解锁了使用高达百倍杠杆的进行做多/做空的机会。它的横空出世永远的改变了加密货币及整个金融领域。\n\n\n\n此后随着加密市场的快速发展，永续合约等衍生品交易尝试从链下搬到了链上，从中心化逐步走向去中心化。将衍生品引入 DeFi 的早期尝试主要集中在重新创建由 CEX 普及的订单簿模型，然而高昂的 gas 成本、延迟问题和高复杂性等问题造成了一定的阻碍。后来 Layer2 的出现推动了更多 DeFi 创新的发展，这是由于二层的低 Gas 费用和交易速度所带来的优势，并且能够在一定程度上继承以太坊的安全性。这为 DeFi 革新创造了条件，于是在去中心化永续合约赛道上，走出了 GMX、Gains Network 等炙手可热的明星项目。\n\n\n\n与此同时，有一个名为 Vela Exchange 的项目正在崛起，它融合了 GMX、Gains Network 在机制上的优势和特点，在今年四月顺利结束了为期两个多月的 Beta 公测，根据公测数据和结果做出了调整，在迭代后即将推出最新版本，让我们一起来了解一下这个后起之秀。\n\n\nVela Exchange 介绍\n\n\n\n\nVela Exchange 的交易界面\n\n\n\nVela Exchange 是 Arbitrum 上的去中心化永续合约平台，旨在利用链下订单簿和链上结算的混合模式，提高 DeFi 衍生品的交易速度和安全性。根据官方文档，Vela 用户可以根据合成资产的表现建仓，存款人将资金存入后生成 VLP（类似于 GMX 的模式）…",
           "link": "https://www.theblockbeats.info/news/42797",
           "publishedOn": "2023-06-19T07:00:01.000Z",
           "wordCount": null,

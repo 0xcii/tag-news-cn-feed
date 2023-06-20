@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-20T03:13:43.208Z</id>
+    <id>urn:2023-06-20T04:15:30.749Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-20T03:13:43.208Z</updated>
+    <updated>2023-06-20T04:15:30.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[了解稀有聪的价值与玩法]]></title>
+        <id>https://www.web3sj.com/?p=75733</id>
+        <link href="https://www.web3sj.com/news/75733/"/>
+        <updated>2023-06-20T04:09:43.000Z</updated>
+        <summary type="html"><![CDATA[序数是一种比特币的编号方案，允许跟踪和转移单个聪。这些数字被称作序号。比特币是按照它们被挖掘的顺序编号的，并从交易输入转移到交易输出（遵循先进先出原则）。编号方案和传输方案都依赖于顺序，编号方案依赖于比特币被挖掘的顺序，而传输方案依赖于交易输入和输出的顺序。因此得名，序数（Ordinals）。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读懂BNB Chain新推出的Layer2网络opBNB]]></title>
+        <id>https://www.web3sj.com/?p=75730</id>
+        <link href="https://www.web3sj.com/news/75730/"/>
+        <updated>2023-06-20T03:57:19.000Z</updated>
+        <summary type="html"><![CDATA[opBNB 创新的底层组合，包括优化数据可访问性、缓存层和调整提交过程算法等以允许更多并行操作，使 opBNB 能够达到高达 100 M 的 Gas 限制。基于这些综合优化，opBNB 每秒可支持超过 4000 笔转账交易，平均转账交易成本低于 0.005 美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解析Polygon zkEVM生态图谱 ：缓慢却稳健]]></title>
+        <id>https://www.web3sj.com/?p=75703</id>
+        <link href="https://www.web3sj.com/news/75703/"/>
+        <updated>2023-06-20T03:42:05.000Z</updated>
+        <summary type="html"><![CDATA[2022 年，许多 ZK rollup 网络陷入了激烈的竞争。目前许多这些网络已经推出了其主网，并正在积极开发其生态系统。2023 年 3 月 23 日，Arbitrum 的空投取得了成功，这导致用户迁移到 ZK rollup，希望从随后的空投中受益。这种转变尤其在 zkSync Era、StarkNet 和其他尚未发布自己代币的 ZK rollup 网络中表现得格外明显。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[链上侦探ZachXBT被「麻吉大哥」起诉：获超百万美元捐款，CZ和孙宇晨等应援支持]]></title>
         <id>https://www.web3sj.com/?p=75696</id>
@@ -201,36 +231,6 @@
         <link href="https://www.web3sj.com/definews/75600/"/>
         <updated>2023-06-19T13:54:05.000Z</updated>
         <summary type="html"><![CDATA[我们先来详细解释以下 RWA 通证化（代币化），指的是一种将现实世界的资产（如房地产、土地、机械设备等）与区块链技术相结合的金融工具。通过 RWA，实体资产可以在区块链上进行发行、交易和融资，实现资产的快速流通和价值发现。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3游戏项目方，如何最低成本构建链上交易流动性框架以及商业模型]]></title>
-        <id>https://www.web3sj.com/?p=75597</id>
-        <link href="https://www.web3sj.com/gamefinews/75597/"/>
-        <updated>2023-06-19T13:51:49.000Z</updated>
-        <summary type="html"><![CDATA[在 Web3 游戏中，玩家与游戏之间的交互是一种价值交互的双向行为，受益于 NFT 对游戏资产道具的封装，在 Web3 游戏的道具不仅仅可以根据在游戏中的效用进行定价，还可以因为市场交易行为进行定价，而在传统的 Web2 游戏中，游戏道具只能根据在游戏中的效用进行定价。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC二层网络Stacks可能面临哪些挑战？]]></title>
-        <id>https://www.web3sj.com/?p=75587</id>
-        <link href="https://www.web3sj.com/news/75587/"/>
-        <updated>2023-06-19T13:49:34.000Z</updated>
-        <summary type="html"><![CDATA[随之而来的是 BTC 网络手续费飙升，网络堵塞。此外，BTC 网络不支持智能合约的特性限制了更复杂的生态业务发展。市场开始将注意力聚焦在 BTC 二层网络与应用，以期望捕获 BTC 生态增长的收益。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破解互操作性信任难题：Web3和跨连桥最终将如何演变？]]></title>
-        <id>https://www.web3sj.com/?p=75584</id>
-        <link href="https://www.web3sj.com/news/75584/"/>
-        <updated>2023-06-19T13:38:01.000Z</updated>
-        <summary type="html"><![CDATA[那么，互联的 Web3 最终将呈现出怎样的局面呢？我们认为，跨链桥最终将演变为跨链消息传递或「任意消息传递」（AMP）协议，以解锁新的应用场景，让应用能够在源链和目标链之间传递任意消息。我们还将见证「信任机制格局」的出现，其中构建者将在可用性、复杂性和安全性之间做出各种权衡。]]></summary>
         <author>
             <name>Gao</name>
         </author>
@@ -451,51 +451,7 @@ B…]]></summary>
         <id>https://www.theblockbeats.info/news/42810</id>
         <link href="https://www.theblockbeats.info/news/42810"/>
         <updated>2023-06-19T08:21:06.000Z</updated>
-        <summary type="html"><![CDATA[原文标题：《
-
-解读币安研究院 LSDfi 报告：当流动性质押与 DeFi 相遇
-
-》
-
-原文来源：TechFlow深潮
-
-
-
-导读
-
-
-近期，Binance 研究院发布了 LSDfi 研究报告，内容涵盖 LSDfi 赛道的总体格局、收益情况以及可能的风险。报告显示虽然 LSDfi 增势迅猛，但规模不到 LSD 本身的 3%，作为年轻赛道仍有后续提升空间。
-
-
-
-此外，在 BNB 链生态中，流动性质押和相关玩法同样也在发展。数据显示该链上的 LSD 项目在费率上相对更低，也存在着参与机会。
-
-
-同时，LSDfi 在最大化 ETH 质押收益的同时，由于赛道仍在早期，参与者们仍需要注意各类险，在收益和风险中寻找平衡，锁定确定性机会。
-
-
-深潮对该报告的核心观点进行了精选和提炼，内容如下：
-
-
-核心结论
-
-
-在过去几个月中，LSD 协议的 TVL 迅速增长，得益于 LSD 的采用。顶级 LSD 协议的累计 TVL 已突破 4 亿美元，自一个月前翻了一番以上。促进 LSD 增长的有利因素包括质押 ETH 的增长以及 LSD 的目前低渗透率。
-
-
-目前，LSD 协议的 TVL 仅占总可寻址市场的不到 3%。尽管 LSD 为 LSD 持有人提供了有吸引力的机会，用户应意识到相关风险，包括但不限于惩罚风险、LSD 价格风险、智能合约风险和第三方风险等。
-
-
-以太坊质押及 LSD 发展情况
-
-
-ETH 质押市场快速发展。随着以太坊成功过渡到 PoS 共识机制，并在 Shapella 升级后允许质押 ETH 的提取，质押量迅猛增长。目前总质押 ETH 已超过 22.8M ETH。
-
-
-
-
-
-LSD 同步蓬勃发展。运行独立节点存在技术难题和资本需求较高，不适合每个人。因此，流动性质押协议降低了参与门槛，同时保持质押资产的流动性。数据也显示 LSD 玩法中质押的 ETH 占总体质押量的比例不断增…]]></summary>
+        <summary type="html"><![CDATA[LSDfi 增势迅猛，规模不到 LSD 本身的3%，后续提升空间巨大。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -557,7 +513,27 @@ SEC 已经向金融市场发出警告：大部分加密数字资产是证券，
         <id>https://www.theblockbeats.info/news/42797</id>
         <link href="https://www.theblockbeats.info/news/42797"/>
         <updated>2023-06-19T07:00:01.000Z</updated>
-        <summary type="html"><![CDATA[DEX Perp的叙事能否引领加密世界的发展？]]></summary>
+        <summary type="html"><![CDATA[与传统金融市场一致的是，加密市场的衍生品交易的市场规模是长期大于现货交易的，但传统金融期货市场一直有个固有的局限，那就是它有结算日期且杠杆交易能力有限，不能适应这个 7x24 小时交易的加密市场。于是，BitMEX 在 2016 年 5 月 13 日推出了永续合约，采用了创新的资金费率调控现货与合约的价格尽可能保持一致，解锁了使用高达百倍杠杆的进行做多/做空的机会。它的横空出世永远的改变了加密货币及整个金融领域。
+
+
+
+此后随着加密市场的快速发展，永续合约等衍生品交易尝试从链下搬到了链上，从中心化逐步走向去中心化。将衍生品引入 DeFi 的早期尝试主要集中在重新创建由 CEX 普及的订单簿模型，然而高昂的 gas 成本、延迟问题和高复杂性等问题造成了一定的阻碍。后来 Layer2 的出现推动了更多 DeFi 创新的发展，这是由于二层的低 Gas 费用和交易速度所带来的优势，并且能够在一定程度上继承以太坊的安全性。这为 DeFi 革新创造了条件，于是在去中心化永续合约赛道上，走出了 GMX、Gains Network 等炙手可热的明星项目。
+
+
+
+与此同时，有一个名为 Vela Exchange 的项目正在崛起，它融合了 GMX、Gains Network 在机制上的优势和特点，在今年四月顺利结束了为期两个多月的 Beta 公测，根据公测数据和结果做出了调整，在迭代后即将推出最新版本，让我们一起来了解一下这个后起之秀。
+
+
+Vela Exchange 介绍
+
+
+
+
+Vela Exchange 的交易界面
+
+
+
+Vela Exchange 是 Arbitrum 上的去中心化永续合约平台，旨在利用链下订单簿和链上结算的混合模式，提高 DeFi 衍生品的交易速度和安全性。根据官方文档，Vela 用户可以根据合成资产的表现建仓，存款人将资金存入后生成 VLP（类似于 GMX 的模式）…]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
