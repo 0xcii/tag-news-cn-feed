@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 669,
+          "wordCount": 654,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 898,
+          "wordCount": 903,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 455,
+          "wordCount": 453,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -219,6 +219,56 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/a74vlc36.html",
+          "author": "PA一线",
+          "description": "PANews 6月21日消息，流动性质押协议Lido在官推宣布开启以太坊节点运营者申请，同时Lido提醒以太坊节点运营者的申请人必须在6月26日之前提交申请才有资格获得快速评估。如果不需要快速评估，申请将持续开放至北京时间7月14日7:59。\n此前消息，Lido于今年二月推出Staking Router功能，Staking Router是一种新的模块化架构，旨在允许任何人（包括独立质押人）成为节点运营商，同时为质押者提供轻松的质押/取消质押体验。",
+          "link": "https://panewslab.com/zh/articledetails/a74vlc36.html",
+          "publishedOn": "2023-06-21T15:53:28.000Z",
+          "wordCount": 353,
+          "title": "Lido开启以太坊节点运营者申请",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/tf3p5xcd.html",
+          "author": "PA一线",
+          "description": "PANews 6月21日消息，美联储主席鲍威尔在向众议院金融服务委员会发表讲话时表示，我们不会支持发行供个人使用的央行数字货币。如果我们确实拥有央行数字货币，它应当通过银行机构作为中介来进行受理。",
+          "link": "https://panewslab.com/zh/articledetails/tf3p5xcd.html",
+          "publishedOn": "2023-06-21T15:43:22.000Z",
+          "wordCount": 330,
+          "title": "鲍威尔：不会支持发行供个人使用的央行数字货币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/x3e58pqx.html",
+          "author": "PA一线",
+          "description": "PANews 6月21日消息，OKX行情显示，BTC突破3万USDT，24小时涨幅11%。",
+          "link": "https://panewslab.com/zh/articledetails/x3e58pqx.html",
+          "publishedOn": "2023-06-21T15:38:33.000Z",
+          "wordCount": 332,
+          "title": "行情：BTC突破3万USDT，24h涨幅超10%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/mmlqa12c.html",
+          "author": "PA一线",
+          "description": "PANews 6月21日消息，以太坊扩展解决方案 Polygon 推出人工智能驱动的界面 Polygon Copilot，只需“询问”即可解锁交互世界。名为 Polygon Copilot 的人工智能界面由 GPT-4 大语言模型提供支持，并根据有关 Polygon 区块链的文档进行了培训。Polygon Copilot 还具有三个不同的级别（初级、高级和高级），这将根据用户使用界面的舒适度为用户提供帮助。",
+          "link": "https://panewslab.com/zh/articledetails/mmlqa12c.html",
+          "publishedOn": "2023-06-21T15:33:18.000Z",
+          "wordCount": 409,
+          "title": "Polygon推出由ChatGPT提供支持的AI界面Polygon Copilot",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/4zjt5dz6.html",
+          "author": "PA一线",
+          "description": "PANews 6月21日消息，据NFT市场Nifty Gateway信息显示，星巴克Web3计划Starbucks Odyssey将推出首个开放版邮票系列 “Starbucks Odyssey Avatar Collection”，该系列提供三款独特的设计，灵感源自其原始头像：熊、老虎和蜂鸟。据悉，该NFT系列将于北京时间6月23日凌晨三点上线销售，且仅持续48小时，每张NFT邮票售价为25美元，每用户限购3份邮票。",
+          "link": "https://panewslab.com/zh/articledetails/4zjt5dz6.html",
+          "publishedOn": "2023-06-21T15:29:23.000Z",
+          "wordCount": 379,
+          "title": "星巴克Web3计划Starbucks Odyssey推出首个开放版NFT邮票系列，将提供三款独立设计",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/9omxg7mr.html",
           "author": "PA一线",
@@ -367,56 +417,6 @@
           "publishedOn": "2023-06-21T12:10:05.000Z",
           "wordCount": 395,
           "title": "Cobo推出机构级DeFi投资平台Cobo Argus V2版本",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/pfyawya6.html",
-          "author": "PA一线",
-          "description": "PANews 6月21日消息，据华尔街日报报道，谷歌云（Google Cloud）周三宣布推出基于人工智能的反洗钱产品。该公司的产品不是专注于提供交易警报，而是利用一系列数据来识别高风险零售和商业客户的实例和群体。Anti Money Laundering AI是一款应用程序编程接口，其用户包括汇丰银行、Banco Bradesco和数字银行Lunar。",
-          "link": "https://panewslab.com/zh/articledetails/pfyawya6.html",
-          "publishedOn": "2023-06-21T11:18:32.000Z",
-          "wordCount": 354,
-          "title": "外媒：谷歌云推出基于人工智能的反洗钱产品",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/hnb38ine.html",
-          "author": "PA一线",
-          "description": "PANews 6月21日消息，据Chainwire报道，社区驱动的流动性投资市场Earn Network宣布完成270万美元种子轮融资，Shima Capital 领投，DFG、Jsquare、LD Capital、Cronos Labs、GTS Ventures、Bixin Ventures、ViaBTC Capital、Mars DAO 和 Mirana Ventures 等参投。新资金将用于进一步开发新产品类别、聘请更多专业人士加入其专家团队，发展社区并与更多基础层和项目建立新的关系。\nEarn Network 于 2022 年第二季度成立，其通过提供“无代码”解决方案，任何人都可以利用经过审计的模板来创建自己的定制金融产品，例如质押或借贷池等。",
-          "link": "https://panewslab.com/zh/articledetails/hnb38ine.html",
-          "publishedOn": "2023-06-21T11:15:51.000Z",
-          "wordCount": 433,
-          "title": "流动性投资市场Earn Network完成270万美元种子轮融资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/92a2g0h6.html",
-          "author": "PA一线",
-          "description": "PANews 6月21日消息，数据显示，今天早些时候，比特币在加密货币交易所Binance.US上的价格曾暂时飙升至 138,000 美元，几秒钟后，价格恢复至正常水平。据悉，该现象是由于 Binance.US 上 btc/tether 的流动性较低的情况下出现的。本月早些时候 Kaiko 的报告显示，与 5 月份相比， Binance.US的市场深度下降了 76%，市场深度不够极易出现价格的剧烈波动。此外，Binance.US的美国市场份额已降至1.5%。",
-          "link": "https://panewslab.com/zh/articledetails/92a2g0h6.html",
-          "publishedOn": "2023-06-21T10:49:38.000Z",
-          "wordCount": 394,
-          "title": "Binance.US上的比特币价格今日曾短暂飙升至13.8万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/fs3jm92y.html",
-          "author": "PA一线",
-          "description": "PANews 6月21日消息，基于ETH的稳定资产协议Mori Finance的测试网已上线，预计持续三周。Mori将发起OG活动，以奖励参与测试并提出反馈的用户。",
-          "link": "https://panewslab.com/zh/articledetails/fs3jm92y.html",
-          "publishedOn": "2023-06-21T10:33:28.000Z",
-          "wordCount": 361,
-          "title": "基于ETH的稳定资产协议Mori Finance已上线测试网",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/y2he3nvt.html",
-          "author": "PA一线",
-          "description": "PANews 6月21日消息，据CoinDesk报道，经过两个月的测试网运行，去中心化计算协议 Arpa Network 周三在以太坊主网上上线。此次发布允许以太坊开发人员使用 Arpa 构建和部署去中心化应用程序(dapps)，例如彩票、游戏、去中心化投票系统和身份管理系统等。该网络现在正在完成为期六个月的社区池质押计划，计划分配 150 万个代币作为每月奖励。\nArpa Network 将于6月22日开始铸造剩余的 5 亿个 arpa (ARPA) 代币，这些代币已预留用于质押奖励。这些代币还将作为储备金，为 Arpa 生态系统的发展提供资金。",
-          "link": "https://panewslab.com/zh/articledetails/y2he3nvt.html",
-          "publishedOn": "2023-06-21T10:26:33.000Z",
-          "wordCount": 419,
-          "title": "去中心化计算协议Arpa Network在以太坊主网上上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
