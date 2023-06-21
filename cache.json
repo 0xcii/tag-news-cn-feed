@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 670,
+          "wordCount": 683,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 905,
+          "wordCount": 903,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 457,
+          "wordCount": 461,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=75999",
+          "author": "Gao",
+          "description": "稳定币是一种与法定货币、黄金等储备资产挂钩的数字货币，也是一种自由流通、延展上链、与储备资产挂钩的加密货币。稳定币的设计初衷是用来减少价格波动的。稳定币和包括比特币在内的其他加密货币形成了鲜明的对比，因为它们没有内在机制来减少波动性。而稳定币通过模仿诸如美元、欧元、人民币和瑞士法郎来抵抗剧烈波动。",
+          "link": "https://www.web3sj.com/news/75999/",
+          "publishedOn": "2023-06-21T03:58:42.000Z",
+          "wordCount": 2401,
+          "title": "深度解析全球稳定币2023现状与监管",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687319904614.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75988",
+          "author": "Gao",
+          "description": "MetaMask 的开发商 ConsenSys 在 3 月份宣布了其以太坊 Layer2 网络 ConsenSys zkEVM 更名为 Linea，并开放其测试网，吸引了不少的关注。本文我们就将讨论什么是 Linea，以及 Linea 的技术架构和优势。",
+          "link": "https://www.web3sj.com/news/75988/",
+          "publishedOn": "2023-06-21T03:26:32.000Z",
+          "wordCount": 915,
+          "title": "详解Linea：一款由ConsenSys提供支持的zkEVM",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687317976398.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75975",
+          "author": "Gao",
+          "description": "美国政府正在补充其银行账户（TGA）以支付账单，同时通过 QT（量化紧缩）减少美联储的资产负债表。如果随后的储备减少过于严重，美联储可能会在最关键的融资市场中遇到一个意外的惊喜...",
+          "link": "https://www.web3sj.com/news/75975/",
+          "publishedOn": "2023-06-21T03:23:15.000Z",
+          "wordCount": 766,
+          "title": "为什么说风险资产的进一步走强不必依赖于美联储降息？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687317783025.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=75972",
+          "author": "Gao",
+          "description": "一家由 Citadel Securities、富达投资（Fidelity Investments）和嘉信理财（Charles Schwab）等华尔街势力支持的新锐加密货币交易平台 EDX Markets 最近几周已开始执行交易，预计将于当地时间周二晚些时候宣布上线。它还获得了红杉资本、Paradigm 和 Virtu Financial 的融资，专为机构投资者服务，将提供比特币、以太坊、莱特币和比特币现金四种加密货币的交易，目前这些资产未被美国 SEC 认定为证券。",
+          "link": "https://www.web3sj.com/definews/75972/",
+          "publishedOn": "2023-06-21T03:16:56.000Z",
+          "wordCount": 745,
+          "title": "背靠华尔街财团，加密交易平台EDX Markets究竟是何方神圣？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687317391345.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=75966",
           "author": "Gao",
           "description": "为了能更好地理解 Maverick 的创新点，我们首先要搞明白的问题是，当下 DEX 还有哪些地方做的不够好？笔者认为，基于 AMM 上研发的 DEX 当前在提高 LP 收益率和资金利用效率上仍有可以提高的空间。首先，为什么强调流动性提供者（LP）收益率而非无常损失？本质是因为流动性提供者作为用户和套利者的对手方，出现亏损几乎是必然的。",
           "link": "https://www.web3sj.com/definews/75966/",
           "publishedOn": "2023-06-21T03:11:41.000Z",
-          "wordCount": 953,
+          "wordCount": 938,
           "title": "对话Maverick：两年的厚积薄发，带来的不仅仅是DEX",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687317086442.png"
         },
@@ -128,7 +168,7 @@
           "description": "银行业巨头德意志银行周二表示，已在德国申请数字资产托管牌照。 Charles Schwab 嘉信理财、Citadel Securities 和 Fidelity Digital Assets 等金融巨头为加密货币交易所 EDX Markets 注资，该交易所已经开放了 BTC 、以太坊、莱特币和比特币现金 (BCH) 交易。",
           "link": "https://www.web3sj.com/news/75961/",
           "publishedOn": "2023-06-21T03:06:46.000Z",
-          "wordCount": 765,
+          "wordCount": 753,
           "title": "多家机构布局加密业务，比特币自5月末以来首次突破2.8万美元",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687316795715.png"
         },
@@ -138,7 +178,7 @@
           "description": "在 Coinbase、ConsenSys 等加密巨头纷纷布局 Layer2 之际，opBNB 成为币安在 Layer2 赛道的应对性举措？事实上，去年 9 月，BNB Chain 已经推出了 zkBNB 测试网，但是众所周知，zk 技术虽潜力巨大，但因开发难度大和很难做到完全与 EVM 兼容，zkBNB 生态进度也较为缓慢。",
           "link": "https://www.web3sj.com/news/75956/",
           "publishedOn": "2023-06-21T03:02:08.000Z",
-          "wordCount": 966,
+          "wordCount": 962,
           "title": "为什么BNB Chain会推出新的Layer2网络opBNB？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687316504353.png"
         },
@@ -148,7 +188,7 @@
           "description": "根据 6 月 15 日 FTX 顾问提交的文件显示，FTX 在 2 月 1 日至 4 月 30 日期间的费用总计 1.218 亿美元，包括法律、咨询和金融服务费用等各项支出。",
           "link": "https://www.web3sj.com/news/75952/",
           "publishedOn": "2023-06-21T02:57:42.000Z",
-          "wordCount": 912,
+          "wordCount": 893,
           "title": "三个月花了1.2亿美元，FTX是怎么被律所「坑钱」的？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687316249438.png"
         },
@@ -158,7 +198,7 @@
           "description": "BracketX 是一款由 Bracket Labs 推出的基于 Arbitrum 网络的 DeFi 项目，该项目可帮助用户在链上构建杠杆头寸。BracketX 算是个颇具创新的 DeFi 项目，其产品将较为复杂的杠杆产品包装为了一个个简洁明了的「Bracket（中括号）」资产，用户只需要购买 Bracket，即可参与杠杆投资。",
           "link": "https://www.web3sj.com/news/75941/",
           "publishedOn": "2023-06-21T02:54:36.000Z",
-          "wordCount": 954,
+          "wordCount": 934,
           "title": "速览Binance Labs第五季孵化计划投资项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687316050528.png"
         },
@@ -168,49 +208,9 @@
           "description": "除了链上资金之外，链上的活跃数据同样印证了这一点，自去年 10 月 L2 的实际 TPS 有效超过以太坊之后，今年该数据进一步迅速上升，目前 L2 网络的实际 TPS 已经是以太坊的 3 倍左右，未来这个数据显然还会继续攀升。",
           "link": "https://www.web3sj.com/definews/75887/",
           "publishedOn": "2023-06-20T14:04:57.000Z",
-          "wordCount": 1734,
+          "wordCount": 1721,
           "title": "zkSync头部DEX对决：SyncSwap vs iZiSwap",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687269882468.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75884",
-          "author": "Gao",
-          "description": "我的观点是，L1 代币是唯一可以被投资的代币，而且 DeFi 协议几乎不应该启动它们的代币。拥有治理功能的协议是最糟糕的协议，而最小化治理功能的协议在大部分情况下都更好。你可能会持不同意见，比如对合约不可变性、风险参数的变化或管理预言机的担忧。",
-          "link": "https://www.web3sj.com/definews/75884/",
-          "publishedOn": "2023-06-20T13:55:21.000Z",
-          "wordCount": 757,
-          "title": "当L1成为完整的生态系统，DeFi协议还需要原生代币吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687269283933.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75873",
-          "author": "Gao",
-          "description": "AAVE社区发起“调整风险参数以减少V2上对CRV的风险敞口”的ARFC提案。万事达卡提交新的商标申请，以引入用于加密货币和区块链交易的软件。Arbitrum DAO社区成员建议在One和Nova上激活对帐户抽象端点的支持。",
-          "link": "https://www.web3sj.com/news/75873/",
-          "publishedOn": "2023-06-20T11:50:00.000Z",
-          "wordCount": 668,
-          "title": "Web3世界日报（2023-6.20）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023062011483391.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75865",
-          "author": "Gao",
-          "description": "Binance Labs 由 Binance 创始人 CZ 于 2017 年创立，该公司是 Binance 的风险投资部门，旨在促进区块链和加密货币的发展。通过追踪其投资过的项目，或有可能获得惊人回报。",
-          "link": "https://www.web3sj.com/news/75865/",
-          "publishedOn": "2023-06-20T11:22:59.000Z",
-          "wordCount": 897,
-          "title": "Binance Labs 投资门类梳理，DeFi、基建占比领先",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2b1506611a1d8e9a90565d6c5dbc6bf76ac9168b.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=75862",
-          "author": "Gao",
-          "description": "Cosmos DeFi 正在快速增长，而且似乎没有放缓的迹象。重要的是要理解，在越来越多的链进入主网的情况下，对 $ATOM 作为 Cosmos DeFi 首选质押代币的需求将会增加。在过去几个月中，我们看到流动性质押（例如 Stride 的 stATOM）在 Cosmos DeFi 的发展和扩张中发挥了重要作用。",
-          "link": "https://www.web3sj.com/news/75862/",
-          "publishedOn": "2023-06-20T10:37:04.000Z",
-          "wordCount": 747,
-          "title": "解析Cosmos流动性质押模组LSM：释放ATOM质押的潜力",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687257411478.png"
         }
       ]
     },
@@ -245,7 +245,7 @@
           "description": "PANews 6月21日消息，加密风投机构Paradigm首席技术官Georgios Konstantopoulos在推特上宣布，Paradigm已推出以太坊客户端Reth v0.1.0 alpha版本。Reth是基于Rust编写的新的以太坊执行节点，由 Paradigm资助的8人核心团队以及90多个其他贡献者共同构建，具有模块化、对贡献者友好、速度快等特性。它在50小时内将链从创世同步到区块高度17,400,000以上，数据库约为1.92 TB。此外，Reth还提供用于构建以EVM为中心的基础架构的新SDK。\nReth的alpha版本中包含一个新的以太坊执行层以及一个用于构建以EVM为中心的基础架构的新SDK。目前支持基于以太坊的链，如以太坊主网、Goerli、Sepolia、以太坊基金会的测试网等。目前仍处于早期测试阶段，尚未经过审计。",
           "link": "https://panewslab.com/zh/articledetails/zyq4trff.html",
           "publishedOn": "2023-06-21T02:14:23.000Z",
-          "wordCount": 411,
+          "wordCount": 413,
           "title": "Paradigm推出以太坊客户端Reth v0.1.0 alpha版本",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月21日消息，Deribit亚太地区负责人Lin在推特上透露，渣打银行已经给香港的某家加密交易所开户成功了，可以直接在银行里进行客户出入金和交易清结算。",
           "link": "https://panewslab.com/zh/articledetails/81hh67ho.html",
           "publishedOn": "2023-06-21T02:09:01.000Z",
-          "wordCount": 354,
+          "wordCount": 357,
           "title": "知情人士：渣打银行已给香港某家加密交易所开户",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +365,7 @@
           "description": "PANews 6月21日消息，据Decrypt报道，Avalanche开发公司Ava Labs宣布推出人工智能聊天机器人AvaGPT，这是OpenAI的ChatGPT技术在区块链公司中部署的最新进展。AvaGPT系与ChatGPT服务提供商Kapa AI合作创建，并集成到Ava Labs Core平台中。\nAva Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche用户的一般问题，同时让他们仍然可以访问其支持团队，这是为了帮助更快地回答问题，并立即获得原始材料；AvaGPT经过专门培训，且仅针对Avalanche文档进行培训。",
           "link": "https://panewslab.com/zh/articledetails/c47gkzd9.html",
           "publishedOn": "2023-06-21T00:31:20.000Z",
-          "wordCount": 387,
+          "wordCount": 390,
           "title": "Ava Labs推出AI聊天机器人AvaGPT，并集成至Core平台",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +375,7 @@
           "description": "PANews 6月21日消息，NFT借贷平台Astaria在推特上表示：“北京时间6月20日12:42，Astaria意识到BeaconProxy.sol的基本执行存在一个问题，允许攻击者操纵beacon加载恶意执行，从而让攻击者调用自毁功能。所有资金和NFT都是安全的，此时无需采取任何行动，Astaria已处于暂停状态，无法发起新的贷款。暂停状态是为了保护协议中的所有资产，我们可以确认没有资金丢失。刚刚Astaria成功执行了白帽恢复脚本，挽救了所有LP和借款人的所有ERC20和ERC721资产。Astaria自5月25日以来一直处于公开测试阶段。恢复脚本使用更新的合约实施和恢复代码，将所有资金和NFT提取到Astaria多重签名地址。我们正在为后续步骤起草计划，并将尽快跟进。”",
           "link": "https://panewslab.com/zh/articledetails/nloje3b5.html",
           "publishedOn": "2023-06-21T00:17:27.000Z",
-          "wordCount": 367,
+          "wordCount": 363,
           "title": "Astaria：因发现严重问题已处于暂停状态，确认没有资金丢失",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
