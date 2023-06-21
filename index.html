@@ -59,11 +59,82 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-21 datetime="2023-06-21T00:40:21.000Z">2023-06-21</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-21 datetime="2023-06-21T00:40:21.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-06-21 datetime="2023-06-21T01:00:01.000Z">2023-06-21</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-06-21 datetime="2023-06-21T01:00:01.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >TheBlockBeats - undefined</button>
+                  <a class="source-heading__link" href="https://www.theblockbeats.info">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.theblockbeats.info/news/42855"
+                        open
+                      >
+                        <summary class="article-expander__title">以太坊铭文：比特币序数的延续还是历史的倒退？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42855">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>原文标题：《
+
+以太坊铭文：比特币序数的延续 or 历史的倒退？
+
+》
+
+原文来源：Yinan以南
+
+
+以太铭文简介
+
+
+Ethscriptions 是一种在以太坊上创建和分享数字艺术品的新方式，它使用交易 calldata。这种方式比 NFTs 更便宜，也更去中心化。相比之下，NFTs 通常依赖存储在特定合约中的数据，这些合约可能由一个人控制。
+
+
+
+而以太坊铭文从 Bitcoin Inscriptions 中获得了重要的灵感，但它同样受到了这个交易中著名的 proto-Ethscription 的启发。和 Ordinals 一开始不一样的是，不需要去跑全节点同步数据，能够更加快速的上手操作，而且对于比特币钱包来说，大众对以太坊钱包更熟悉。
+
+
+
+
+任何成功的以太坊交易，其输入数据（解释为 UTF-8 时）是有效的数据 URI，都会创建一个 Ethscription，前提是数据 URI 是唯一的。所有有效的 mimetypes 都被支持。
+对于 URI 来说，唯一的意思是，没有来自之前的区块或者区块中更早的交易可以有相同的内容。
+任何以太坊交易，其输入数据是有效 Ethscription 的交易哈希，都是有效的 Ethscription 转移，前提是交易发送者是 Ethscription 的所有者。 
+
+
+ 创建铭文方式
+
+
+1、直接通过官网创建页面上传图片，一键铸造，图片大小最大为 96kb    
+
+
+
+
+2. 若是想一步一步操作，可按照下面操作进行
+
+
+使用 base64-image.de data:image/png;base64,... 等服务将图像（最大大小：~90KB）转换为 Base 64 编码数据 URI ( ) 。Ethscriptions 协议支持所有数据 URI，但图像效果最好。 
+
+
+使用 hexhero等在线工具将数据 URI 转换为十六进制。…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -605,7 +676,73 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
                         <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42833">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>关于 Ethscriptions 是昙花一现的泡沫，还是一个令人兴奋的新趋势众说纷纭，而这最终的决定权取决于社区的共识。</span>
+                              <span>原文作者： Pedro Solimano
+原文编译：深潮 TechFlow
+
+
+
+
+
+周末，一种在以太坊上刻写图像的新协议引起了人们的浓厚兴趣，它允许使用调用数据在以太坊上创建和共享数字对象——被称为 Ethscriptions，显然是对 Inscriptions 的致敬。
+
+
+该项目由 Genius.com 的联合创始人兼前 CEO Tom Lehman 开发，一推出就引起了爆炸性的关注。据 Lehman 称，在不到 18 小时内就创建了近 30, 000 个 Ethscriptions，并在推特上表示该发布是一个“巨大的成功”。
+
+
+Ethscriptions 是如何工作？
+
+
+任何成功的以太坊交易，其输入数据（解释为 UTF-8 时）是有效的数据 URI 时，将创建一个 Ethscription，前提是数据 URI 是唯一的。重复的内容将被忽略。所有有效的 MIME 类型都受支持。
+
+
+对于 URI 要想保持唯一，必须满足前一个块或同一块中较早的交易中没有任何具有相同内容的 Ethscription。
+
+
+任何输入数据是有效 Ethscription 的交易哈希的以太坊交易都是有效的 Ethscription 传输，前提是交易发送者是 Ethscription 的所有者。
+
+
+Ethscriptions 使得非金融和任意数据可以被写入以太坊区块链，只要文件大小不超过 96 千字节，用户可以刻录任何类型的文件。据其创建者称，虽然目前它只允许图片——但将来会有所改变。
+
+
+这些刻录利用了所谓的以太坊“调用数据（Calldata）”，它指的是在对智能合约的调用中提供的数据。Lehman 表示，这比使用合约存储更便宜且更去中心化。 这个协议“保证所有有效的 Ethscriptions 内容的唯一的”，创建者在推特上写道。
+
+
+于 Ordinals 不同的是，以太坊社区明显对这次创新和实验持开放态度。
+
+
+“对我来说，Ethscriptions 的令人兴奋之处，就像 Ordinals 一样，是开发人员再次使用区块链技术，”自称 NFT 考古学家 Adam McBride 说。“正是这种实验推动了创新和采用。”与 Ordinal 的热潮一样，Eths 也吸引了大量用户的关注，甚至导致 Ethscriptions 出现了数次停机。
+
+
+下面以 ETHS 为例，简单介绍关于 Ethscriptions 的铭刻方法：
+
+
+复制代码，data:，{&quot;p&quot;:&quot;erc-20&quot;，&quot;op&quot;:&quot;mint&quot;，&quot;tick&quot;:&quot;eths&quot;，&quot;id&quot;:&quot;21000 以内的任意数字&quot;，&quot;amt&quot;:&quot;1000&quot;}，进行转码网站转为 16 进制；
+
+
+打开钱包，向自己的地址转入 0 ETH，并将转码获得的 16 进制复制填写；
+
+
+确认付款即可。
+
+
+同样，有 Fomo 就有 Fud，有不少社区认为 Ethscriptions 是在“开倒车”。加密 KOL Chainleft 也认为 Ethscriptions 并没有什么创新。首先，虽然该协议于周末首次亮相，但早在 2016 年，人们一直在调用数据中存储自定义数据 / 艺术，这项技术已经存在多年。他们主要是通过突破当时工具 / 技术的界限来做到这一点的，这也不是存储艺术品的理想方式。虽然可以进行访问，但它没有被分配给代币，这就是为什么 Ethscriptions 试图通过链外共识（公平）来解决这个问题。
+
+
+其次，在功能上，状态数据有着更完善的功能，比如运行时的动态性或艺术的可编程性。再于 Inscriptions（IS）进行比较，IS 比 ES 被修剪的可能性要小得多。IS 的存储节点也比 ES 多，ES 可以被 ETH 原生合约调用，而 IS 不能，两者都不能执行运行时函数。
+
+
+
+
+
+总的来说，关于 Ethscriptions 是昙花一现的泡沫，还是一个令人兴奋的新趋势众说纷纭，而这最终的决定权取决于社区的共识。
+
+
+参考内容：
+https://twitter.com/ChainLeftist/status/1670071115064942599 
+https://twitter.com/dumbnamenumbers/status/1669822912579223552
+
+
+原文链接</span>
                             </span>
                           </div>
                         </a>
@@ -639,7 +776,52 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
                         <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42848">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>「回购市场」将成为流动性的防线</span>
+                              <span>原文来源：@concodanomics，货币政策分析师
+原文编译：BlockBeats
+
+
+
+
+
+
+
+
+
+全球市场的流动性减少已经开始，数千亿的储备将离开系统。但这种减少不仅可能无法抑制风险资产，还可能导致隐蔽市场的紧缩，使得美联储再次实施宽松政策而不需要转向，此处回购市场的流动性将发挥重要作用。
+
+
+最近，我们目睹了「暂时性政策」的影响，即美联储在收紧政策方面的沉默和不作为导致金融机器推动风险资产飙升。「TGA 补充」未能结束历史上最令人讨厌的上涨行情——市场需要更多的紧缩政策。
+
+
+美国政府正在补充其银行账户（TGA）以支付账单，同时通过 QT（量化紧缩）减少美联储的资产负债表。如果随后的储备减少过于严重，美联储可能会在最关键的融资市场中遇到一个意外的惊喜...
+
+
+
+
+
+回购市场是美国帝国金融引擎的润滑剂。没有它，美元流动性将变得乏味。通过套利交易（如期货基差）将国债现金市场和期货市场捆绑在一起仅仅是其众多功能之一。
+
+
+
+
+
+但最重要的是，回购市场使得「有抵押」的美元贷款在全球范围内繁荣发展。它看起来很复杂，但实际上只是一个将现金贷款方（如必须投资普通美元的货币基金）与现金借款方（如必须为杠杆头寸提供资金的对冲基金）进行匹配的市场。
+
+
+
+
+
+
+
+
+
+当 Conk 的回购市场康加舞（Repo Conga）揭示出来时，一切变得清晰起来。回购市场是一个由市场参与者组成的链条，他们希望通过在融资成本之上收取利差来获利。现金贷款方通过经销商向「复杂」的借款方提供贷款，经销商收取利差进行中介。
+
+
+在典型的「康加舞」中，货币市场基金（MMFs）向美联储的主要交易商提供贷款，然后主要交易商再向较小的证券交易商提供贷款，最后证券交易商向对冲基金等杠杆投资者提供贷款。回购市场的目标是提供源源不断的流动性，而且它以惊人的方式取得了成功。
+
+
+回购市场包含多个部分，每个部分在提供流动性…</span>
                             </span>
                           </div>
                         </a>
@@ -656,7 +838,41 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
                         <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42845">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>通过坎昆升级，Layer2将更好地融入以太坊生态系统，为用户提供更快速、低成本的交易体验。</span>
+                              <span>原文标题：《
+
+V 神提出没有 L2 以太坊将走向失败 坎昆升级能为 L2 带来哪些新机会？
+
+》
+原文来源： R3PO
+
+
+
+2023 年迎来了以太坊历史上两次重要的升级。首先是 4 月 13 日完成的上海升级。上海升级后，开放了信标链质押提款功能，使以太坊正式从 PoW 机制转变为 PoS 机制，这一升级成为以太坊升级路线图中的重要里程碑事件。现在，以太坊即将迎来坎昆升级，旨在增加更多的数据存储为 L2 降本增效，预计在现有基础上将 L2 的速度提高 10～100 倍同时降低成本。根据最新的以太坊核心开发人员会议，预计坎昆升级将在今年年底上线。
+
+
+
+
+坎昆升级将如何为以太坊扩容提速，又将为 Layer2 带来哪些新的发展机遇？R3PO 认为，通过坎昆升级，Layer2 将更好地融入以太坊生态系统，为用户提供更快速、低成本的交易体验。无论是 Optimistic Rollup 还是 ZK Rollup，它们都将受益于此次升级，共同推动以太坊生态的发展。
+
+
+一、确定性的未来——Layer2
+
+
+在以太坊联合创始人 Vitalik 最新的文章《The Three Transitions》中提出以太坊需要经历的三个主要技术过渡：向 L2 扩展过渡，每个人都转向 Rollup；向钱包安全过渡，每个人都使用智能合约钱包；向隐私过渡，确保保护隐私的资金转移可行。
+
+
+
+
+
+文章阐明了 L2 与 Rollup 的重要性，Vitalik 指出没有 L2 的发展，以太坊将因为高额的交易成本走向失败。与世界著名的交易系统 VISA 每秒可以处理几万笔交易的性能相比，每秒只能处理 15 笔交易的以太坊的性能实在是难以满足正常的交易需求。每笔交易$3.75 的成本门槛，也使大量普通用户望而却步。
+
+
+
+
+
+
+
+以太坊每天支持着大量的交易活动，随着生态的不断发展由于区块空间的限制，为了争夺有限…</span>
                             </span>
                           </div>
                         </a>
@@ -690,7 +906,120 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
                         <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42837">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>管理总资产达75亿美元，都花去了哪儿？</span>
+                              <span>原文作者：defizard(@belizardd)
+原文编译：Noc，BlockBeats
+
+
+
+本文梳理自 Lucid Finance 首席营销官 defizard 在个人社交媒体平台上的观点，BlockBeats 对其整理如下：
+
+
+
+Binance Labs 由 Binance 创始人 CZ 于 2017 年创立，该公司是 Binance 的风险投资部门，旨在促进区块链和加密货币的发展。通过追踪其投资过的项目，或有可能获得惊人回报。
+
+
+
+
+
+
+Binance Labs战略重点涵盖多个关键领域：
+
+
+• 基础设施
+• 去中心化金融（DeFi）
+• 游戏与元宇宙（Gaming &amp; Metaverse）
+• 社交金融（SocialFi）
+• 加密金融科技
+• 开发者应用与工具
+
+
+
+
+
+Binance Labs大额投资门类：
+
+
+• 16 亿美元投资 DeFi
+• 15.5 亿美元投资区块链基础设施
+• 15 亿美元投资区块链服务领域
+• 14.8 亿美元投资 GameFi
+
+
+Binance Labs共同投资者：
+
+
+• Animoca Brands
+• HashKey Capital
+• Coinbase Ventures
+• NGC Ventures
+• Hashed Fund
+
+
+
+
+
+Binance Labs已投回报率最高的项目：
+
+
+• Polygon - 237 倍
+• The Sandbox - 78.6 倍
+• Axie Infinity - 62.2 倍
+• MultiversX - 61.7 倍
+• STEPN - 40.2 倍
+• Injective - 35.5 倍
+
+
+
+
+
+当前链上地址最大持仓Token：
+
+
+• Perpetual Protocol（PERP）- 149 万美元
+• ETH - 19.71 美元
+
+
+
+
+
+推荐3个由Binance Labs支持的顶级明星项目：
+
+
+
+链游 Fusionist
+
+
+
+2023 年 6 月 1 日，Binance Labs 宣布于 2022 年 5 月与 Web2 游戏巨头 FunPlus 共同领投对 Web3 游戏公司 Fusionist 的 660 万美元种子轮投资，融资资金用于继续加快游戏的开发，并建立 2023 年 1 月推出的 Endurance 主网生态系统。
+
+
+
+Fusionist 同时充当游戏和游戏基础设施层，其目标是打造一个支持多个游戏的生态系统，并通过区块链技术确保游戏中的资产真实、可交易和可持续。该项目基于区块链的智能合约，为玩家提供独特的数字资产和游戏机制。近期，Fusionist 的测试版已结束，参与测试的玩家已获得 ACE 空投奖励。
+
+
+
+Layer2 跨链协议 Zecrey
+
+
+
+2022 年 5 月 17 日，Binance Labs 宣布对 Layer2 跨链协议 Zecrey 进行 600 万美元战略投资。本轮融资资金将用于扩充 Zecrey 的开发团队，推进营销、品牌推广及合作。
+
+Zecrey 是一个基于 ZK Rollup 的 Layer2 隐私跨链协议，可实现不同公链（以太坊、NEAR、Solana、BNBChain 等）的数字资产的跨链聚合和管理。具备隐私和可扩展性特性，同时提供用户友好型钱包，包含 L1 和 Zecrey 本地 L2。
+
+
+
+ZK 基础设施初创公司 Polyhedra Network
+
+
+
+2023 年 2 月 21 日，Polyhedra Network 完成 1000 万美元融资，Binance Labs 和 Polychain Capital 领投，Animoca Brands 和 Dao5 等参投。2023 年 4 月 4 日，Polyhedra Network 完成 1500 万美元 Pre-A 轮融资，Polychain Capital 领投，ABCDE、Sparkle Ventures、HashKey Capital、Foresight Ventures、Kucoin Ventures、NGC Ventures 和 Arcane Group 等参投。
+
+
+
+Polyhedra Network 是一家提供由零知识 (ZK) 证明支持的 Web3 基础设施的初创公司，正在构建一套专注于区块链互操作性、可扩展性和隐私的系统。这些系统包括 zkBridge，以促进跨链资产和数据传输。
+
+
+原文链接</span>
                             </span>
                           </div>
                         </a>
@@ -707,7 +1036,63 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
                         <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42835">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>未来zkSync上会诞生更多的原生项目，这些项目会选择在哪个平台部署初始流动性？是业务更为领先的zkSync，还是机制玩法更为丰富的iZiswap，这也给后续的竞争留下了一定的悬念。</span>
+                              <span>原文作者：Alex Xu，Mint Ventures 研究合伙人
+
+
+本期项目速览关注新兴的 L2 生态 zkSync 的头部 Dex 之争，尝试回答以下问题： 
+
+
+- 为什么有必要关注 zkSync 和它的 Dex 赛道？ 
+
+- 目前 zkSync 的交易赛道项目情况如何？ 
+
+- 众多竞争项目的成色如何，各有什么优势，谁更有可能胜出？ 
+
+
+以下文章内容为笔者截至发表时的阶段性看法，可能存在事实、观点的错误和偏见，仅作为讨论之用，也期待来自其他投研同业的指正。
+
+
+
+为什么要关注 zkSync 和它的 Dexs
+
+
+
+zkSync：L2 大年，头部 L2 的有力竞争者
+
+
+
+2023 年是 L2 大年。
+
+
+业务数据方面，在以太坊为代表的各条公链的 TVL 仍然保持低位的同时，L2 的 TVL 在今年快速增长，连破新高。
+
+
+
+来源：https://defillama.com/chain/Ethereum?tvl
+
+
+
+来源：https://l2beat.com/scaling/tvl
+
+
+
+除了链上资金之外，链上的活跃数据同样印证了这一点，自去年 10 月 L2 的实际 TPS 有效超过以太坊之后，今年该数据进一步迅速上升，目前 L2 网络的实际 TPS 已经是以太坊的 3 倍左右，未来这个数据显然还会继续攀升。
+
+
+下图：L2 实际 TPS 与以太坊的对比
+
+
+
+来源：https://l2beat.com/scaling/activity
+
+
+除了业务数据之外，今年 10 月来临的坎昆升级还将大幅降低 L2 的费用成本，推动用户和应用进一步向 L2 迁移。
+
+
+就竞争格局来说，L2 与 L1 类似，由用户、开发者和资金构建而成的网络效应之强大，在 Web3 世界仅次于稳定币，先发优势非常明显。
+
+
+OP Rollup 领域，Arbitrum 和 OP 两强格局初…</span>
                             </span>
                           </div>
                         </a>
@@ -724,7 +1109,22 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
                         <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42830">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>OKX已经为VASP制度下预期的监管要求进行了长达一年多的准备</span>
+                              <span>原文来源：欧易 OKX
+
+
+6 月 19 日，欧易 OKX 全球首席商务官 Lennix Lai 受邀参加由香港金融管理局（HKMA）与香港证券及期货事务监察委员会（SFC）为讨论虚拟资产服务提供商（VASP）开立银行账户所合办的第二次圆桌会议。
+
+
+第二次圆桌会议是香港政府就香港虚拟资产行业的监管和发展发出的一个积极信号。自 4 月份举行的第一次圆桌会议以来，香港在监管方面取得了良好进展，因为香港金融管理局和各银行均投放了专责资源来处理 VASP 的银行账户申请，并促进 VASP 了解更多关于银行开户过程所需的要求。
+
+
+此次，香港金融管理局则在圆桌会议上提供了更多监管指引，并强调虽然银行对账户申请人进行客户尽职调查以进行反洗钱（AML）内控很重要，但银行不应对合法企业的账户开立程序施加过度负担。
+
+
+对此，欧易 OKX 全球首席商务官 Lennix Lai 表示：「根据香港新的 VASP 发牌制度，任何牌照申请人必须先完成由合资格第三方顾问进行的全面外部评估，包括全面审查申请人的 AML、KYC 和程序是否符合政府 VASP 制度的要求。因此，我们认为已经向 SFC 提交牌照申请的 VASPs 应该有资格立即启动银行开户流程，因为他们已经通过完成评估证明了他们对高标准合规性和内部控制的承诺。我们已经为 VASP 制度下预期的监管要求准备了一年多，包括实施银行级合规性和控制流程和程序，我们对自己充满信心，更鼓舞人心的是，此次会议上监管方面释放了非常积极的信号。」
+
+
+自香港监管方面表示积极拥抱 Web3 以来，行业建设者们一直在与监管方面共同努力，助力香港成为全球数字资产中心。欧易 OKX 作为其中一份子，希望能与 SFC、香港金融管理局和银行业共同为 Web3 行业的合规发展做出贡献，给投资者和用户创造出一个更安全、更合规的市场环境。</span>
                             </span>
                           </div>
                         </a>
@@ -741,24 +1141,74 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
                         <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42824">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>当前市场情绪中性偏谨慎，活跃程度一般，略增积极信号，多头动能有限。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.theblockbeats.info/news/42827"
-                        open
-                      >
-                        <summary class="article-expander__title">还挺好用，DeFiLlama新推出的ChatGPT-4插件怎么玩？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.theblockbeats.info/news/42827">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>「快来体验DeFiLlama推出的新插件」</span>
+                              <span>原文标题：《窗窥伤鹤，仰头见春｜WTR 6.19》
+原文来源： WatchToweR 研究院
+
+
+
+本周回顾
+
+
+ 本周从 6 月 12 日到 6 月 19 日，冰糖橙最高附近$26839，最低接近$24800，震荡幅度达到 8.14% 左右。
+
+
+观察筹码分布图，在约 26000 附近有大量筹码成交，将有一定的支撑或压力。
+
+
+
+分析：
+
+
+1. 24000 - 29000 约 323 万枚；
+2. 18500 - 23500 约 205 万枚。
+
+
+- 短期内跌不破在 18000~22000 概率为 65 %；
+- 其中短期内涨不破 26500～29000 的概率为 70 %。
+
+
+长期洞察：用于观察我们长期境遇；牛市/熊市/结构性改变/中性状态
+中期探查：用于分析我们目前处于什么阶段，在此阶段会持续多久，会面临什么情况
+短期观测：用于分析短期市场状况；以及出现一些方向和在某前提下发生某种事件的可能性
+
+
+ 长期洞察
+
+
+- 潜在利润冲压百分比
+- 长期通胀率
+- 现货抛压
+- 高权重抛压
+
+
+本周主要去研究和探讨市场对于整体利润的冲击和现货利润冲击的承受情况。
+（下图 潜在利润冲压百分比）
+
+
+
+ 
+在 2019 年年中的小型牛市当中，潜在的利润抛压远超现在的程度，所以暂且不论。
+
+
+深入到 2016 年重要的市场时刻；但随机表现的是相比同一时期，当时 2016 年正处于震荡上行。
+
+
+现在情况则是相对萎靡。
+
+
+如果按照大部分人的看法，本次是类似于 2019 年的小型牛市，那么从利润冲压状态来看，仅仅相当于当时的 40% 左右程度。
+
+
+今年整体的上行相比于之前的一些周期更多的透漏着一种疲态。
+
+
+为了进一步验证，引入了通胀率（长期投资者对于市场的抛售）这个概念。
+
+
+（下图 长期通胀率）
+
+ 
+当时的长期投资者抛售状况远比现在要高，现今市场与数据对应表示，当前力度…</span>
                             </span>
                           </div>
                         </a>
@@ -1348,8 +1798,8 @@ Ava Labs技术产品经理Kieran McShan表示，AvaGPT可快速回答Avalanche�
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/0xcii/tag-news-cn-feed/actions/runs/5328976719">
-        <time id="build-timestamp" datetime="2023-06-21T01:14:27.215Z">2023-06-21T01:14:27.215Z</time>
+      <a class="footer-link" href="https://github.com/0xcii/tag-news-cn-feed/actions/runs/5329481076">
+        <time id="build-timestamp" datetime="2023-06-21T02:35:32.017Z">2023-06-21T02:35:32.017Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
