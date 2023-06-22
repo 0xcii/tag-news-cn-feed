@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 670,
+          "wordCount": 668,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 909,
+          "wordCount": 907,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 461,
+          "wordCount": 449,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -546,7 +546,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42899",
           "author": null,
-          "description": "从搬运 BRC-20 Token 发行模式到 ETH 的 $FERC、到直接把图片转 Base64 字符串插入到 ETH 交易的 Hex Data 字段实现 比特币 NFT 刻录方式的 ETHscriptions，比特币 NFT 的「刻录」方式在近期被频繁地搬运到 ETH 上，吸引到了不少玩家的关注。\n\n\n\n似乎，比特币 NFT「不可更改、公平、去中心化」等理想主义美感，通过复刻比特币因其特点而形成的略显笨拙的 NFT 生成方式，传递到了 ETH 上。然而，这真的是理想主义的回归吗？\n\n\nETH 的「全链上」NFT\n\n\n\nETH NFT 生态发展到今天，作为玩家的我们也许对许多问题感到无奈，比如基于白名单机制的 PUA、公售时吃走大量份额的「科学家」、新叙事的缺乏、项目本身食之无味明知是资金操盘但又不得不冲的「土狗」泛滥等等。但是作为一个久经考验 NFT 生态，ETH NFT 同样也在许多问题上进行过深刻的讨论，并且已经由市场给出了答案。\n\n\n\n「不可更改」或「全链上存储」，看似是一个「技术问题」，实则是一个「市场问题」。ETH 上对于这个问题很早就有过讨论。\n\n\n\n\n\n\n\n这是我找到的一篇发表于 2 年前的推文，@dhof 根据不同的「全链上 NFT」实现方式，对 ETH「全链上 NFT」进行了分级。一星级的是将数据存储在 ETH 交易的数据存储字段 calldata 中，二星级的是通过 EVM 操作码 sstore 来存储数据并通过外部脚本渲染数据，最高的三星级是通过 EVM 操作码 sstore 来存储数据并通过智能合约内置的渲染器完成渲染以输出 svg 图像或其它类似的 data URI。\n\n\n\n如果我们按照这个标准来给 Ethscription 评分，Ethscription 只能获得一星评级。正如其官网开头就提到的，Ethscription 是通过将数据存储在 …",
+          "description": "在「赚钱」的路上，我们已经走了太远，我们何时能回去，又真的想回去吗？",
           "link": "https://www.theblockbeats.info/news/42899",
           "publishedOn": "2023-06-22T03:20:04.000Z",
           "wordCount": null,
@@ -576,7 +576,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42896",
           "author": null,
-          "description": "原文来源：Maverick Protocol\n\n\n\n时隔多年，Paypal 创始人、ChatGPT 和 Facebook 的天使投资人 Peter Thiel 旗下的 Founders Fund 重返加密货币市场，领投 DeFi 龙头基础设施供应商 Maverick Protocol 的 900 万美元战略轮，将 Maverick 作为其回归的第一个项目。\n \n\n\n2023 年 6 月 21 日，DeFi 龙头 AMM 供应商 Maverick Protocol 完成了价值 900 万美元的战略轮融资，用以建立更高效的 DeFi 基础设施。该轮融资由 Founders Fund 领投，Pantera Capital、Binance Labs、Coinbase Ventures 和 Apollo Crypto 也参与了本轮。\n\n\n什么是 Maverick Protocol？\n\n\n\nMaverick Protocol 是一个去中心化金融（DeFi）基础设施，目标为整个 DeFi 行业带来更高的市场效率。\n\n\n2023 年 3 月，Maverick Protocol 于以太坊主网上线了其 DEX 产品，以其首创的动态分布 AMM 为技术核心，为流动性提供者（LP）提供了实现更高资本效率的工具。自上线以来，据 DeFillama 的数据，该协议一度以交易量位列以太坊前 3、以及 zkSync Era 的第 1 名 DEX，实现了高达 374% 的活跃资本或 \"资本效率\"。同时，Maverick 还与 Lido、Frax、Liquity、cbETH、Rocket Pool 和 Swell 等头部 LST 项目进行了整合，并以超过整个 LST 市场交易量 35% 的市场份额，快速统领 LST 的 AMM 市场。\n \n\n\n上线短短两月后，该平台迅速推出了'Boosted Position…",
+          "description": "本轮融资将帮助Maverick Protocol建立更高效的DeFi基础设施，也是Peter Thiel旗下的Founders Fund重返加密货币市场打响的第一枪。",
           "link": "https://www.theblockbeats.info/news/42896",
           "publishedOn": "2023-06-21T13:09:07.000Z",
           "wordCount": null,
@@ -596,7 +596,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42869",
           "author": null,
-          "description": "原文标题：《\n\nSignalPlus 宏观研报 (20230621)\n\n》\n原文来源：SignalPlus 華語\n\n\n\n\n\n各位朋友，欢迎来到 SignalPlus 宏观研报。SignalPlus 宏观研报每天为各位更新宏观市场信息，并分享我们对宏观趋势的观察和看法。欢迎追踪订阅，与我们一起关注最新的市场动态。\n\n\n\n\n\n\nBTC 的隐含波动率已经基本等于历史波动率了，波动率溢价都没了。期权的价格现在其实很合算，适合买。\n\n\n\n\n\n\n\n\n\n\n\n\n\n强劲的新屋开工数据迎接美国市场从假期中回归，5 月份新屋开工数飙升 21.7% 至 163.1 万户，远高于市场预期，且是 2016 年以来最大的月增幅度，单户住宅增长 18.5%，而多户住宅则激增 27.1%；虽然我们在之前的评论中已经提过美国消费者和住宅市场的强劲，但考虑到 30 年期抵押贷款利率仍在 7% 左右的 20 年高点徘徊，当前房地产市场的活跃仍然令人难以置信。\n\n\n\n\n\n\n另一方面，追踪一些在美国上市、较受欢迎的中国企业股票的 Nasdaq「金龙指数 (Golden Dragon Index)」昨天下跌了 4.9%，创下今年以来第二大单日跌幅，这要归咎于中国 5 年期贷款市场报价利率 (LPR) 的降幅小于市场预期，打击了人们对中国人民银行即将出台「全面」宽松政策的期望；自 2021 年以来，中国相关股票的表现相对于 SPX 500 指数一直落后，希望从 Blinken 国务卿访问北京开始两国关系能进一步解冻，双方在会谈顺利结束后都释出了善意。\n\n\n\n\n\n\n\n\n\n\n在美国方面，股票市场延续上周五 OpEX 的走势下跌了 0.5%，基于近期股市异常热烈的情况，华尔街开始警告可能会出现季末的股票抛售活动，摩根大通的 Nikos 估计，「平衡基金、美国确定给付制养老金和挪威央行/日本 GPIF/瑞士央行在月底/季末潜在出售的股票可能高达 1,500 亿美元」，而高盛也基于以下因素主张应该采取更具防御性的策略：\n\n\nSPX 期权看跌/看涨比例偏斜情况显著下降指数反弹行情中的市场宽度异常狭窄大多数指标都显示股票估值过于昂贵即使在这些负面背景下，投资者情绪转向两年来最正面的水平\n\n\n\n\n\n\n在加密货币方面，主流兴趣突然升温，受 Citdael、Fidelity 和 Charles Schwab 等支持的受监管加密货币交易所 EDX 宣布上线，除了现货交易之外，该交易所还计划引入 EDX 清算服务作为集中清算的解决方案，其他知名投资人还包括 Paradigm、Sequoia、Virtu、GSR 和 Hudson River Trading；另外，在采取不同行动表明其更深入参与数字资产领域的意图后，Fidelity 据传也可能在近期提交自己的现货 ETF 申请。\n\n\n\n\n\n\n作为回应，加密货币价格在过去几个交易日中反弹了约 7–10%，收复了自币安 FUD 以来的大部分跌幅，由于这波涨势主要由 TradFi 巨头重新点燃主流兴趣的市场期待来推动，由 BTC 领涨，得益于此，BTC 的主导地位已回升至 51%，是 2021 年以来的最高水平。\n\n\n\n\n\n\n由 OKX 和 SignalPlus 联合举办的「期权之王争夺战」开赛啦！现在就报名参战，不要错过赢取高达 115, 000 USDT 奖金的机会！\n报名链接：https://t.signalplus.com/competition-okx? locale=zh-CN\n\n\n原文链接",
+          "description": "这波涨势主要由 TradFi 巨头重新点燃主流兴趣的市场期待来推动，由 BTC 领涨。",
           "link": "https://www.theblockbeats.info/news/42869",
           "publishedOn": "2023-06-21T10:00:01.000Z",
           "wordCount": null,
