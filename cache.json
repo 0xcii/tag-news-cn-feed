@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 666,
+          "wordCount": 676,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 911,
+          "wordCount": 912,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 443,
+          "wordCount": 463,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=76583",
+          "author": "Gao",
+          "description": "作为一个 ZK Rollup 去中心化交易所（DEX），DeGate 提供类似于热门中心化交易所（CEX）如币安或 Bybit 的交易体验。该协议支持多种功能，包括现货交易和网格交易，并将不断添加更多功能以确保交易体验的流畅性。DeGate 的设计目的是使得交易快速的同时费用低廉，为用户获取各种资产代币时提供更高效和便捷的交易。",
+          "link": "https://www.web3sj.com/news/76583/",
+          "publishedOn": "2023-06-25T06:45:14.000Z",
+          "wordCount": 1025,
+          "title": "解析DeGate采用的零知识证明技术Groth16",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687675502624.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=76573",
+          "author": "Gao",
+          "description": "我想不出 18 个月前有任何宏观评论员认为美联储可以在不完全炸毁情况的情况下加息到如此高的水平，但矛盾的是，经济似乎在蓬勃发展（至少到目前为止）。",
+          "link": "https://www.web3sj.com/news/76573/",
+          "publishedOn": "2023-06-25T06:39:15.000Z",
+          "wordCount": 765,
+          "title": "我们正走向经济崩溃吗？关于宏观与加密的十个想法",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687675144150.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=76567",
           "author": "Gao",
           "description": "美国商品期货交易委员会（CFTC）在最近一起案件中首次涉足到「浪漫诈骗」（Romance Scam）领域。据报道，CFTC 在周五起诉了 Justby International Auctions 及其 CEO Cunwen Zhu，指称这家公司挪用了客户资金，涉案金额高达 130 万美元，而这些资金原本应该用于数字资产交易。",
           "link": "https://www.web3sj.com/news/76567/",
           "publishedOn": "2023-06-25T05:58:49.000Z",
-          "wordCount": 669,
+          "wordCount": 667,
           "title": "揭秘CFTC起诉的首桩数字资产「杀猪盘」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687672714559.png"
         },
@@ -128,7 +148,7 @@
           "description": "稳定币的设计初衷是用来减少价格波动的。稳定币和包括比特币在内的其他加密货币形成了鲜明的对比，因为它们没有内在机制来减少波动性。而稳定币通过模仿诸如美元、欧元、人民币和瑞士法郎来抵抗剧烈波动。",
           "link": "https://www.web3sj.com/news/76522/",
           "publishedOn": "2023-06-25T05:36:04.000Z",
-          "wordCount": 2381,
+          "wordCount": 2387,
           "title": "读懂：深度解析全球稳定币2023现状与监管",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687671221280.png"
         },
@@ -138,7 +158,7 @@
           "description": "在 2021 年上半年，牛市昂扬的情绪中，狗狗币带动了一堆疯狂动物城的山寨币，无聊猿带动了一堆头像、图片乃至一个 twitter 的 NFT 的热炒与投机，那时候 BTC 超过五万，超过六万，以太坊也站在历史高位。",
           "link": "https://www.web3sj.com/news/76519/",
           "publishedOn": "2023-06-25T04:18:33.000Z",
-          "wordCount": 714,
+          "wordCount": 721,
           "title": "从「以太坊的三个转型」谈起：Vitalik的攻与守",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/6ae6addc5e02e65.png"
         },
@@ -148,7 +168,7 @@
           "description": "USDC占DAI抵押品的份额已降至8%。Volatility Shares将于下周二推出首只杠杆比特币期货ETF。VanEck修改比特币现货ETF申请内容，将在Cboe上市交易。",
           "link": "https://www.web3sj.com/news/76489/",
           "publishedOn": "2023-06-24T12:30:10.000Z",
-          "wordCount": 715,
+          "wordCount": 700,
           "title": "Web3世界日报（2023-6.24）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023062412273438.jpg"
         },
@@ -158,7 +178,7 @@
           "description": "TrueUSD，简称 TUSD，因币安将 BUSD 此前的零手续费挂单活动转移到了 TUSD，目前是币安上比特币最大的交易对，也是目前稳定币在加密世界的金融系统中重要的组成部分。近日，TrueUSD 因自动证明暂停和币安大额铸造等事件频频出现在加密媒体的头条当中。",
           "link": "https://www.web3sj.com/definews/76441/",
           "publishedOn": "2023-06-23T15:25:31.000Z",
-          "wordCount": 836,
+          "wordCount": 855,
           "title": "读懂币安新宠TUSD：机遇与风险",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687533905168.png"
         },
@@ -168,7 +188,7 @@
           "description": "Reth由Paradigm资助的8人核心团队以及其他90多名贡献者共同构建。在构建Reth时，我们使用与构建Foundry相同的原则和经验教训，专注于性能和测试。与此同时，我们文化的核心原则之一是使我们的代码库对新开发者具有可访问性和包容性，因此我们非常关注我们的抽象（编程）和文档。",
           "link": "https://www.web3sj.com/news/76437/",
           "publishedOn": "2023-06-23T15:23:37.000Z",
-          "wordCount": 773,
+          "wordCount": 754,
           "title": "Paradigm：以太坊执行节点「Reth 」alpha版本引介",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687533799895.png"
         },
@@ -178,7 +198,7 @@
           "description": "通过 AA，以往的签名验证、Gas 支付和重放保护等功能都将发生改变。智能合约账户可以无需 EOA 发起请求，减少了对运营商的依赖。简单来说，通过账户抽象，用户可以享受极简的账户使用流程，减少对底层流程的认知要求，就像使用邮箱账户一样简单。EIP-4337 的实施不仅可以改善用户体验，还为以太坊带来了更多的定制性和功能，例如自定义签名选项和不同支付方式。",
           "link": "https://www.web3sj.com/news/76429/",
           "publishedOn": "2023-06-23T15:15:23.000Z",
-          "wordCount": 846,
+          "wordCount": 839,
           "title": "DODO Research ：Account Abstraction生态起底",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687533305464.png"
         },
@@ -188,29 +208,9 @@
           "description": "我们之前分析过不少 Web3 对于大品牌（星巴克、阿迪达斯）的赋能，因为其有能力也有动力通过新科技升级用户体验，无论是 Web3 还是 AI。同时大品牌也最有能力和平台议价，就算不使用Web3, 其也有方法和用户建立直接联系。而且其本身就是一个小平台，在其上亿的数据库里，用户只是一个冷冰冰的ID。",
           "link": "https://www.web3sj.com/news/76423/",
           "publishedOn": "2023-06-23T15:09:19.000Z",
-          "wordCount": 768,
+          "wordCount": 771,
           "title": "Web3餐饮忠诚度平台BlackBird如何为行业赋能？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687532913743.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76403",
-          "author": "Gao",
-          "description": "Maverick 提供定向流动性供应、高资本效率、滑点几乎为零，以及对 LP 的一些 QOL 改进。接下来，本文将探讨为什么 Maverick 不仅仅是另一个 DEX；它可能会对 Uniswap v3 的龙头地位造成极大挑战。",
-          "link": "https://www.web3sj.com/definews/76403/",
-          "publishedOn": "2023-06-23T15:05:49.000Z",
-          "wordCount": 1177,
-          "title": "Maverick AMM设计、市场表现与竞争优势",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687532731059.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76392",
-          "author": "Gao",
-          "description": "美国SEC放弃对BlockFi的3000万美元罚款，直到投资者得到偿还为止。a16z创建新基金并注册新的咨询公司。萨尔瓦多正在为其比特币城建设机场。",
-          "link": "https://www.web3sj.com/news/76392/",
-          "publishedOn": "2023-06-23T12:32:27.000Z",
-          "wordCount": 691,
-          "title": "Web3世界日报（2023-6.23）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023062312320117.jpg"
         }
       ]
     },
@@ -245,7 +245,7 @@
           "description": "PANews 6月25日消息，Azuki在推特上发布其创始团队成员STEAMBOY文章，文中谈到了有关Elementals系列NFT的创作想法。STEAMBOY称，Elementals的想法建立在Azuki根源之上，并基于该基础创造一些新的、令人惊叹的东西。Elementals涵盖土、火、闪电和水4个元素域，每个领域都有其独特之处。此外，在过去的六个月里，Azuki还招募了Tenn、Tomugi和Skycrow等数字艺术家来扩大团队规模。\n此前昨日消息，Azuki将于6月27日推出Azuki SBT系列NFT Elementals，预售将在北京时间6月28日0点开始。Azuki和BEANZ持有者均可获得1枚Soulbound Token（SBT）空投。",
           "link": "https://panewslab.com/zh/articledetails/howmm40k.html",
           "publishedOn": "2023-06-25T05:16:38.000Z",
-          "wordCount": 400,
+          "wordCount": 401,
           "title": "Azuki：Elementals涵盖土、火、闪电和水4个元素域",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +365,7 @@
           "description": "PANews 6月25日消息，NFTGo.io数据显示，Azuki地板价现报14.6 ETH，24小时跌幅达13.35%。此外，24小时成交额超2660枚ETH，增幅达132.32%。\n此前昨日消息，Azuki将于6月27日推出Azuki SBT系列NFT Elementals，预售将在北京时间6月28日0点开始。Azuki和BEANZ持有者均可获得1枚Soulbound Token（SBT）空投。",
           "link": "https://panewslab.com/zh/articledetails/h630p953.html",
           "publishedOn": "2023-06-25T01:37:14.000Z",
-          "wordCount": 411,
+          "wordCount": 412,
           "title": "数据：Azuki地板价现报14.6 ETH，24小时跌幅达13.35%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
