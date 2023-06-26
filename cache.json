@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 674,
+          "wordCount": 677,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 896,
+          "wordCount": 933,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 453,
+          "wordCount": 441,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=76795",
+          "author": "Gao",
+          "description": "经济模型：英文为 Tokenomic，由 Token 和 Economics 两个单词组合而成，顾名思义，就是指代区块链生态内，不同项目所发行加密货币的经济运作方式。主要作用是主导项目代币的供应、用途、分发、激励、效用、治理、货币政策等等。",
+          "link": "https://www.web3sj.com/gamefinews/76795/",
+          "publishedOn": "2023-06-26T09:05:18.000Z",
+          "wordCount": 935,
+          "title": "如何判断一个X to Earn项目经济模型的好坏？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687770300319.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=76759",
+          "author": "Gao",
+          "description": "2014 年，被称为安卓之父的安迪·鲁宾从谷歌离职，并领走了高达 9000 万美元的巨额离职补偿金，而他传奇的一生，迎来了一个有点糟糕的转折点。2017 年，安迪推出了首款手机 Essential Phone，时至今日，这台永远和「安卓之父」绑定的手机仍然被垃圾佬追捧，但 Essential 糟糕的产品设计和并不合理的官方售价，并未能让足够多的安卓用户为信仰而充值，Essential 公司也很快宣告倒闭。",
+          "link": "https://www.web3sj.com/news/76759/",
+          "publishedOn": "2023-06-26T08:55:54.000Z",
+          "wordCount": 1069,
+          "title": "Saga国内首测 | 一台半成品旗舰手机，一场大胆的Web3试验",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687769742067.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=76742",
+          "author": "Gao",
+          "description": "来自 Chainalysis 的这份报告提供了深入的数据分析和独特的观察，揭示了所有与交易所相关的用户的行为模式，展示了他们如何影响整个加密市场的发展。报告深入研究了钱包的类型、活跃度、流入流出交易所的总价值以及用户流失率等多个维度，并以盛极一时的 FTX 为例，细分了资金流入 FTX 的各类用户群体，并对他们的行为进行了深入剖析。",
+          "link": "https://www.web3sj.com/news/76742/",
+          "publishedOn": "2023-06-26T08:47:39.000Z",
+          "wordCount": 811,
+          "title": "Chainalysis研究报告：散户、老手和机构们，如何给交易所贡献价值？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687769235787.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=76732",
           "author": "Gao",
           "description": "web3 任务类平台主要业务是提供关注项目方社交账号、答题、链上操作以及任务悬赏等任务，用户完成后可获得积分、NFT 以及 token 奖励。Web3 任务平台起到了 Web3 入门教育，以及链接用户与项目方的作用。",
           "link": "https://www.web3sj.com/news/76732/",
           "publishedOn": "2023-06-26T08:19:06.000Z",
-          "wordCount": 920,
+          "wordCount": 932,
           "title": "Web3任务平台工具介绍",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687767526641.png"
         },
@@ -128,7 +158,7 @@
           "description": "想象一下，将 ChatGPT 和 Web3 相结合，在聊天的时候轻松访问各种代币、NFT 和 DeFi 的信息，该是怎样畅快的体验！在本文中，我们将介绍全网最实用的 Web3 AI 十大插件，帮助你通过 ChatGPT 一键获取任何你想要的内容。",
           "link": "https://www.web3sj.com/news/76712/",
           "publishedOn": "2023-06-26T05:56:37.000Z",
-          "wordCount": 744,
+          "wordCount": 751,
           "title": "智者当借力而行：一览Web3任务平台工具",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687758968606.png"
         },
@@ -138,7 +168,7 @@
           "description": "作为加密货币爱好者，我们经常只能在 Twitter 上看到关于加密货币的积极一面，而且老实说，目前大多数加密货币都是金融代币，这也吸引了诈骗者。因此，可悲的事实是，很多人并不像我们一样喜欢加密货币，相反他们认为「加密货币是一个骗局」。",
           "link": "https://www.web3sj.com/news/76699/",
           "publishedOn": "2023-06-26T05:42:35.000Z",
-          "wordCount": 950,
+          "wordCount": 948,
           "title": "加密货币是史上最大骗局？爱好者和批评者的十年恩怨史",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687758141711.png"
         },
@@ -148,7 +178,7 @@
           "description": "我们将解释为什么 Optimistic Rollup ( 尽管它们很受欢迎 ) 仍然容易被利用，探索零知识解决方案来减轻所有这些问题，并回到 DAO 黑客来解释为什么以太坊可能不会简单地摆脱困境。另一个主要漏洞。",
           "link": "https://www.web3sj.com/news/76677/",
           "publishedOn": "2023-06-26T03:46:06.000Z",
-          "wordCount": 918,
+          "wordCount": 908,
           "title": "Bankless：Optimistic Rollup的繁荣与困境",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687751153623.png"
         },
@@ -158,7 +188,7 @@
           "description": "越来越多的团队在区块链基础设施和 dApp 中采用零知识证明技术。但是，大部分项目都是基于以太坊进行的开发。然而，比特币与零知识证明实际上具有天然的结合基因，这一领域目前缺乏应有的关注。零知识证明技术与比特币的结合将可能为比特币网络带来哪些赋能？",
           "link": "https://www.web3sj.com/news/76666/",
           "publishedOn": "2023-06-26T03:36:34.000Z",
-          "wordCount": 869,
+          "wordCount": 872,
           "title": "零知识证明和比特币结合会带来什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687750578565.png"
         },
@@ -168,7 +198,7 @@
           "description": "通过其创新 ETF 和下一代互联网 ETF，方舟在过去一周里抛售了价值近 1600 万美元的特斯拉股票。即使该公司仍然是特斯拉的重要投资者，但方舟从电动汽车制造商部分剥离的举动反映了其对科技股的看法趋于冷淡。",
           "link": "https://www.web3sj.com/news/76662/",
           "publishedOn": "2023-06-26T03:25:23.000Z",
-          "wordCount": 721,
+          "wordCount": 722,
           "title": "特斯拉失宠？方舟投资转战Crypto市场，押注Coinbase和Robinhood",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/e370064facd0ffe470bbefe2d56e0ce8.png"
         },
@@ -178,39 +208,9 @@
           "description": "Do Kwon 律师 Goran Rodic 透露，这位曾经在加密行业里叱咤风云的 Terraform Labs 联合创始人兼首席执行官如今被单独关押在黑山一座破旧监狱的审前拘留区，并没有和其他囚犯集体关押在一起。",
           "link": "https://www.web3sj.com/news/76657/",
           "publishedOn": "2023-06-26T03:14:01.000Z",
-          "wordCount": 787,
+          "wordCount": 793,
           "title": "探秘Do Kwon的「新家」：人满为患的巴尔干斯普兹监狱",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1687739994190.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76639",
-          "author": "Gao",
-          "description": "通常而言，代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。",
-          "link": "https://www.web3sj.com/news/76639/",
-          "publishedOn": "2023-06-26T03:02:12.000Z",
-          "wordCount": 822,
-          "title": "代币解锁周报｜OP核心贡献者与投资人份额将于本周一次性解锁逾3000万美元",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1677469926587.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76629",
-          "author": "Gao",
-          "description": "RWA 借贷协议累计借款量达到 44 亿美元，高峰时期为 2022 年 5 月达到 14 亿美元，当前 RWA 借贷协议借款额不足 5 亿美元（不包含 MakerDAO）。尤其是在 2022 年去杠杆阶段机构连环撤资，部分借贷协议出现了坏账。尽管市场对 RWA 板块关注度增加，但借款量仍然没有很大起色。近一年来，RWA 板块资金增长主要是针对美债认购业务。",
-          "link": "https://www.web3sj.com/definews/76629/",
-          "publishedOn": "2023-06-26T02:58:57.000Z",
-          "wordCount": 1154,
-          "title": "盘点RWA借贷协议",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687748292164.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76626",
-          "author": "Gao",
-          "description": "Lido 协议的收入来自于收取用户 10％的质押奖励作为费用，该费用分配给 Lido DAO、节点运营商和保险基金。在 Lido V2 版本推出之后，由于用户能够灵活将 stETH 换回 ETH，其质押数据继续上涨，5 月份的收入激增了 22％，是收入增长最快的 DeFi 协议。",
-          "link": "https://www.web3sj.com/definews/76626/",
-          "publishedOn": "2023-06-26T02:49:35.000Z",
-          "wordCount": 928,
-          "title": "揭开Lido崛起的面纱：它如何巩固其在以太坊质押市场的龙头地位",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687747757253.png"
         }
       ]
     },
@@ -385,7 +385,7 @@
           "description": "PANews 6月26日消息，韩国加密金融公司Delio在官方电报群中发布公告称，将于当地时间6月28日12:00（北京时间11:00）恢复部分加密货币的存取款服务，包括：Cardano (ADA)、Solana (SOL)、Tezos (XTZ)、Polkadot (DOT)、Kusama (KSM)、Near (NEAR)。\n此前消息，Delio于6月14日以受Haru Invest影响为由宣布暂停取款，6月17日其表示将分阶段恢复提款；昨日消息，韩国检方已禁止Delio主要高管出境。",
           "link": "https://panewslab.com/zh/articledetails/ubshsjyz.html",
           "publishedOn": "2023-06-26T02:28:00.000Z",
-          "wordCount": 434,
+          "wordCount": 437,
           "title": "韩国加密金融公司Delio将于6月28日恢复部分加密货币存取款服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -534,6 +534,16 @@
       "siteUrl": "https://www.theblockbeats.info",
       "articles": [
         {
+          "id": "https://www.theblockbeats.info/news/42977",
+          "author": null,
+          "description": "据 BlockBeats 统计，上周的融资总数为 15 笔，数量较之前持平，总金额有所下降约 10002 万美元，平均融资金额为 666.8 万美元。其中，基础设施领域占据主体，元宇宙/GameFi 和数字资管/支付领域融资相对较多，DeFi 领域有所增加，其他领域有所下降，NFT/数字时尚和社交/创作者经济领域较少。下图为上周各板块融资占比：\n\n\n\n\n\n\n元宇宙/GameFi\n\n\n\n在元宇宙/GameFi 领域共计 3 笔融资，总金额 2057 万美元，占上周融资总额的 20.57%。\n\n\nDREST\n\n\n\n\n\n\n6 月 22 日，时尚元宇宙游戏公司 DREST 宣布完成 1500 万英镑融资，投资方暂未披露。截至目前，DREST 总融资额达 3000 万英镑。\n\n据悉，DREST 将奢侈时尚、美容和生活方式品牌与元宇宙技术进行整合，玩家可以在元宇宙 Avatar 上设计品牌数字服装并参与游戏，旗下用户生成内容平台则能将游戏化和品牌营销相结合，使品牌商可以接触到高参与度的受众群。目前，DREST 合作的时尚品牌商包括 Breitling、Cartier、Fendi、Gucci、Prada 和 Valentino 等。DREST 正在探索开发 Web3 和生活方式领域的游戏，预计将在未来 18 个月内进入研发阶段。\n\n\n\nDREST 首席执行官 Lisa Bridgett 表示：「我们很高兴能够获得投资来帮助我们扩大 DREST，尤其是在如此艰难的市场中。这证明了我们产品交付和创意渠道的实力。我们现在已准备好将业务提升到一个新的水平，并在保持游戏核心元素的同时为用户提供独一无二的全新体验。不可否认，奢侈时尚和生活方式行业对游戏的兴趣，我们非常有能力满足这种不断增长的需求。我们非常期待下一章的到来。\n\n\n\n这笔资金将使 DREST 在游戏、媒体、数据和电子商务方面的发展成为可…",
+          "link": "https://www.theblockbeats.info/news/42977",
+          "publishedOn": "2023-06-26T06:43:58.000Z",
+          "wordCount": null,
+          "title": "2023年第27周融资精选，Founders Fund领投Maverick Protocol",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.theblockbeats.info/news/42973",
           "author": null,
           "description": "原文来源：ETHGlobal\n原文编译：深潮 TechFlow\n\n\n1.AquaNet\n\n\nAquaNet 利用非同质化 Token 绑定账户（ERC-6551）来实现 NFT 在基于人工智能驱动的社交媒体网络中的创建和记录活动。每个符合条件的 NFT 都可以在「myPuddle」网络上创建自己的账户，使 NFT 能够建立和发展独特的 AI 身份——主要由其现有特征生成。它们将自主地发布消息到自己的账户、列出自己的兴趣，并分享关于自己的信息。\n\n\n\n2.Smarter Contract\n\n\n你是否曾经想过如何优化智能合约的效率，无缝地利用各种区块链的独特优势，简化跨链操作的复杂性？现在不必再思考了。欢迎使用 Smarter Contract 进入未来。该协议的解决方案由跨链协议 Hyperlane 支持，将智能合约推向一个新的高度。这不仅仅是让它们更加智能，而是让它们变得更加聪明。以下 Smarter Contract 是工作原理：\n\n\n\nSmarter Contract 的核心组件包括：\n\n\n\nGasEstimator：将其视为合约的策略师。它在各个链上模拟合约的功能，确定任何时刻每个功能的最节省成本的区块链。\n\n\n\nFunction Dispatcher：一旦 GasEstimator 选择了最有效的链，调度程序就像快递服务一样，使用 Hyperlane 将这些功能准确地传送到它们最佳的链上。\n\n\n\nResult Aggregator：当函数在各自的链上运行完毕后，Result Aggregator 就出现了。这就像一场表演的压轴戏，将结果汇集在一起并以统一的视图呈现。\n\n\n\n用户可以连接他们的钱包，选择要执行的功能并输入数据。他们可以实时监控功能的运行情况，并直接看到他们节省的 Gas 费。\n\n\n\nSmarter Contract 的目标是重新定义智能合约的执行和维护…",
@@ -576,7 +586,7 @@
         {
           "id": "https://www.theblockbeats.info/news/42957",
           "author": null,
-          "description": "原文来源：\n\n\n\nOKX Ventures\n\n\n\n\n\n在过去的一个月内，加密行业在快速发展，OKX Ventures 见证了行业的快速发展：\n\n\nBTC 生态继续快速发展，OKX 引入 BRC-30 的概念。BRC-30 采用了 BRC-20 的设计原则，并引入存款、铸造和提取等质押相关的操作功能。BRC-20 在 5 月迎来一波快速增长，目前 Total Market Cap 达到了 $475millon and 24k+ BRC-20 tokens。BRC-30 推高对区块空间的需求可以让矿工获得更高的收入，而且可以为比特币带来新的社区，增强比特币社区的生命力，OKX Ventures 会坚定看好并且持续关注比特币生态的发展，与 Unisat 等合作方一起，引领行业，持续探索。\n\n\nZK Layer2 生态快速发展。为首的 zkSync Era TVL 已超$440million，上涨趋势显著，在整个 Layer 2 生态中稳列第三。短短三个月内，累计存款人数已从 10k 跃升至 770k，实现了近 80 倍的用户扩张。其中约 20k 个账号在三个月内贡献了超 27million 的交易。尽管相比较 Arbitrum 和 Optimism 的 TVL 仍然有很大差距，但 zkSync 单日用户付费已经逐渐超过前两者。\n\n\n多链生 LayerZero 的头部项目 Stargate 从 3 月以来增长超过 300%，活跃用户增长 30 倍，用户量保持在 150k 左右，为用户提供更便捷的交易方式、更便宜的转移手续费和更安全的跨链方式。MEV 领域也保持良好势头，MEV TAM 当前已经累计到 450million 左右，Flashbots 也推出 SUAVE 等新功能。\n\n\nOKX Ventures 在过去的 5 月份持续保持对行业的关注，持续看好 ZK 生态、基础设施、D…",
+          "description": "OKX Ventures出手投资了Prisma、Rage Trade、Shutter Network",
           "link": "https://www.theblockbeats.info/news/42957",
           "publishedOn": "2023-06-26T03:08:52.000Z",
           "wordCount": null,
@@ -621,16 +631,6 @@
           "publishedOn": "2023-06-25T08:34:35.000Z",
           "wordCount": null,
           "title": "本周热门回顾｜加密交易平台EDX Markets上线，Volatility Shares下周推出杠杆比特币期货ETF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theblockbeats.info/news/42938",
-          "author": null,
-          "description": "作为以太坊上最经典的 NFT 人物形象之一，加密朋克形象代表了一种精神，拥有它是一种身份的象征，并成为永远具有吸引力的叙事。似乎每一条新链的崛起，加密朋克形象都成为第一个被移植的对象，由此我们看到了各种链上朋克，和众多的朋克衍生品和合成人物形象。\n\n\n随着比特币生态 NFT 叙事的兴起，BTC 网络中也开始出现各种各样的加密朋克，并受到加密藏家们的热捧。作为首个使用 Ordinals 免费铸造的 10K 集合 Bitcoin Punks，不到一天的时间内便被一抢而空，其地板价一度突破 4 BTC。\n\n\n在 Ordinals 之后，BTC 生态的 NFT 基建继续生长，其中值得一提的就是递归铭文「Recursive Inscriptions」。\n\n\n作为 BTC 生态中的新生事物，Recursive Inscriptions 上线后就迎来了首个递归朋克（Recursive Punks）的启动，在社区热捧下，1 万枚递归朋克被迅速刻录完毕，后又迅速上线 MagicEden 市场，并在该平台上日内总交易额达到 8.15 个比特币，成为平台上交易总额排名第一的系列，其最高价格曾一度涨至 0.002 比特币，相对刻录成本涨幅最高达 30 倍。此外，有多个具有稀有属性的 punk 以 0.05 比特币的价格成交，其持有人数也在一夜之间增长 2000 多位。\n\n\n戏剧性的是，用户发现自己刻录的递归朋克显示为空白，检查代码后发现，这是因为递归朋克官方开发者使用了错误的递归铭文语法，将\"/content/\"错误地写成了\"/-/content/:\"，从而导致早前使用官方 SVG 文件刻录的用户打到的铭文为无图版。于是社区发起了一个正确的修复版本，即将原来 SVG 文件中的\"/-/content/:\"替换成\"/content/\"，由此引发了真假递归朋克之争。\n\n\n真假朋克之争\n\n\n6 月 13 …",
-          "link": "https://www.theblockbeats.info/news/42938",
-          "publishedOn": "2023-06-25T08:19:31.000Z",
-          "wordCount": null,
-          "title": "全链比特币 NFT 却存在 Github 上，「递归朋克」的真假之争",
           "imageUrl": null
         }
       ]
