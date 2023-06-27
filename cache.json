@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 675,
+          "wordCount": 661,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 897,
+          "wordCount": 898,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 461,
+          "wordCount": 447,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=76981",
+          "author": "Gao",
+          "description": "从我个人的角度来看，当下 LSD 产品结构已经相当成熟，包括以 Coinbase、Binance 为代表的中心化质押和以 Lido 为代表的去中心化质押。这个逻辑简单清晰，生息来源稳定，后来竞品的打法基本上都是在围绕着去中心化（即使是链上协议，Lido 仍然饱受过于集中化的诟病）、低门槛和收益率来做。",
+          "link": "https://www.web3sj.com/news/76981/",
+          "publishedOn": "2023-06-27T03:29:42.000Z",
+          "wordCount": 772,
+          "title": "再读Stader：ETH质押产品拆解，SD如何释放增长潜力？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687836561463.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=76942",
+          "author": "Gao",
+          "description": "在过去几年里，加密货币行业中有两个领域经历了快速发展。一个是去中心化金融（DeFi），在 2020 年经历了「DeFi 夏季」。另一个是 2021 年的 NFT 热潮。以太坊上 NFT 的整体市场规模，从 2021 年初的约 6100 万美元增长到在两年多的时间内达到约 320 亿美元的峰值。虽然市场经历了重大调整，但市场规模仍然约为 75 亿美元，增长了 120 多倍。",
+          "link": "https://www.web3sj.com/nftnews/76942/",
+          "publishedOn": "2023-06-27T03:25:05.000Z",
+          "wordCount": 1893,
+          "title": "NFT借贷：市场动态、风险格局和未来前景的深度分析",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687836295290.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=76939",
+          "author": "Gao",
+          "description": "Terra Allies 是一个意图复苏 Terra 区块链的非正式的组织。以「六武士」自称的开发者试图为 Terra Classic 区块链带来价值，以便将这条链推动到应有的水平。六武士均来自 LUNC 社区，他们均认为自己是「充满激情的 LUNC Holders 和社区成员，致力于复兴和去中心化区块链。」",
+          "link": "https://www.web3sj.com/news/76939/",
+          "publishedOn": "2023-06-27T03:20:36.000Z",
+          "wordCount": 864,
+          "title": "要复兴Terra的新晋团体「六武士」是谁？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687836026307.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=76928",
+          "author": "Gao",
+          "description": "中国李宁在于在线下推出无聊快闪店。该快闪店主理人是一只不存在的猴子——来自 Bored Ape Yacht Club 的 4102 号无聊猿。根据链上数据显示，中国李宁于 2022 年 4 月 11 日，以 120ETH（当时价值为 36 万美元）购入了编号为 #4102 的 BAYC「无聊猿」NFT。",
+          "link": "https://www.web3sj.com/nftnews/76928/",
+          "publishedOn": "2023-06-27T03:17:38.000Z",
+          "wordCount": 997,
+          "title": "李宁和绿地去年买的猴子小图片，现在亏了多少？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/d04d1422dccb945bbe70535a2a097686139c0290.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=76924",
+          "author": "Gao",
+          "description": "相比其他产品，游戏的研发成本是高昂的。传统游戏行业中，游戏研发商常见融资方式有：向发行商融资，向 VC 出售股权, 向天使投资人融资。Web3 让游戏制作者们有了众筹平台以外向普罗大众融资的方式：出售 token/NFT。",
+          "link": "https://www.web3sj.com/gamefinews/76924/",
+          "publishedOn": "2023-06-27T03:04:00.000Z",
+          "wordCount": 1068,
+          "title": "IOSG：Web3游戏如何在SEC的刀尖下起舞",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687835028776.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=76914",
           "author": "Gao",
           "description": "五月份出现的大幅上涨主要是由 Solana 活跃钱包驱动的，这似乎是在一个下降趋势中的异常值。Solana 使用量在五月达到了顶峰，但六月份的数据目前来看大幅下降，这表明五月份的上涨可能是不可持续的。",
           "link": "https://www.web3sj.com/news/76914/",
           "publishedOn": "2023-06-27T02:57:08.000Z",
-          "wordCount": 706,
+          "wordCount": 689,
           "title": "深挖a16z「活跃地址」言论：用户和使用量增长停滞，短期并不乐观",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687834602924.png"
         },
@@ -128,7 +178,7 @@
           "description": "目前超 97% 的衍生品交易量在 CEX 上执行。而衍生品 DEX 仅占总交易量的 2.72%，因而衍生品 DEX 的增长空间巨大，或将主导下一轮牛市。本文是有关衍生品 DEX 赛道的相关信息。",
           "link": "https://www.web3sj.com/definews/76866/",
           "publishedOn": "2023-06-26T12:57:57.000Z",
-          "wordCount": 989,
+          "wordCount": 992,
           "title": "衍生品DEX将主导下轮牛市？对比分析六种协议的费用结构、指标、增长潜力",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687784246688.png"
         },
@@ -138,7 +188,7 @@
           "description": "我们相信，我们正处于一个重大社会转变的边缘：AI 伴侣很快将变得普遍。曾经是科幻作品的领域，如《机器人总动员》、R2-D2 或者《海绵宝宝》中的 Karen，正在迅速成为现实。而在 a16z，我们对此感到兴奋。",
           "link": "https://www.web3sj.com/news/76854/",
           "publishedOn": "2023-06-26T12:16:50.000Z",
-          "wordCount": 901,
+          "wordCount": 922,
           "title": "a16z：它不是AI，而是伴侣",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1be50cab9573c10559872d940c13b140.png"
         },
@@ -148,7 +198,7 @@
           "description": "本届黑客松最终筛选出了 11 家决赛入围项目，涉及了 AI、NFT、游戏、支付、DAO、基础设施等多个领域。这些项目将共同分享 ETHGlobal 联合 Polygon、Worldcoin、Filecoin、The Graph 等 24 家项目提供的 225000 美元奖金。接下来，就带大家一起来了解下这 11 家入围项目。",
           "link": "https://www.web3sj.com/news/76850/",
           "publishedOn": "2023-06-26T11:55:23.000Z",
-          "wordCount": 897,
+          "wordCount": 909,
           "title": "盘点11家ETHGlobal Waterloo黑客松决赛项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687780496957.png"
         },
@@ -158,59 +208,9 @@
           "description": "AAVE社区在ARFC投票中初步支持“调整V2上TUSD风险参数以开始下架TUSD”。本周五将有68亿美元的比特币和以太坊期权到期。NEAR基金会与阿里云合作以加速Web3在亚洲和中东的发展。",
           "link": "https://www.web3sj.com/news/76847/",
           "publishedOn": "2023-06-26T11:34:42.000Z",
-          "wordCount": 703,
+          "wordCount": 725,
           "title": "Web3世界日报（2023-6.26）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023062611330955.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76813",
-          "author": "Gao",
-          "description": "为了开始创业，他找到了黑石集团（Blackstone Group）的同事，获得了 500 万美元的信贷额度。于是，黑石金融管理公司（Blackstone Financial Management）诞生了，20 年后经历了大量并购的它，变成了如今拥有约 9 万亿美元资产管理规模的贝莱德，也是世界上最大的资产管理公司。",
-          "link": "https://www.web3sj.com/news/76813/",
-          "publishedOn": "2023-06-26T09:22:09.000Z",
-          "wordCount": 814,
-          "title": "「垂涎者」贝莱德，比特币现货ETF背后有哪些思量？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/7-1687757488719.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76800",
-          "author": "Gao",
-          "description": "LSD 赛道已经形成初步格局。若以层级划分，SSV Network，Obol Labs 等 DVT 技术服务商可视为 L0。DVT 技术可以使验证器更稳定、更安全行使签名责任。作为层级首个发行代币的项目，SSV Network 在品牌知名度方面占据先发优势。Lido、Ankr、Coinbase 等 LST 发行商则可视为 L1。L1 主要是佣金模式，用户主要获益点来自 ETH 的 POS 收入。",
-          "link": "https://www.web3sj.com/definews/76800/",
-          "publishedOn": "2023-06-26T09:16:39.000Z",
-          "wordCount": 1287,
-          "title": "LSD MAP 2.0：格局、数据、趋势、收益、用户等因素分析",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687770987724.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76795",
-          "author": "Gao",
-          "description": "经济模型：英文为 Tokenomic，由 Token 和 Economics 两个单词组合而成，顾名思义，就是指代区块链生态内，不同项目所发行加密货币的经济运作方式。主要作用是主导项目代币的供应、用途、分发、激励、效用、治理、货币政策等等。",
-          "link": "https://www.web3sj.com/gamefinews/76795/",
-          "publishedOn": "2023-06-26T09:05:18.000Z",
-          "wordCount": 927,
-          "title": "如何判断一个X to Earn项目经济模型的好坏？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687770300319.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76759",
-          "author": "Gao",
-          "description": "2014 年，被称为安卓之父的安迪·鲁宾从谷歌离职，并领走了高达 9000 万美元的巨额离职补偿金，而他传奇的一生，迎来了一个有点糟糕的转折点。2017 年，安迪推出了首款手机 Essential Phone，时至今日，这台永远和「安卓之父」绑定的手机仍然被垃圾佬追捧，但 Essential 糟糕的产品设计和并不合理的官方售价，并未能让足够多的安卓用户为信仰而充值，Essential 公司也很快宣告倒闭。",
-          "link": "https://www.web3sj.com/news/76759/",
-          "publishedOn": "2023-06-26T08:55:54.000Z",
-          "wordCount": 1050,
-          "title": "Saga国内首测 | 一台半成品旗舰手机，一场大胆的Web3试验",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687769742067.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=76742",
-          "author": "Gao",
-          "description": "来自 Chainalysis 的这份报告提供了深入的数据分析和独特的观察，揭示了所有与交易所相关的用户的行为模式，展示了他们如何影响整个加密市场的发展。报告深入研究了钱包的类型、活跃度、流入流出交易所的总价值以及用户流失率等多个维度，并以盛极一时的 FTX 为例，细分了资金流入 FTX 的各类用户群体，并对他们的行为进行了深入剖析。",
-          "link": "https://www.web3sj.com/news/76742/",
-          "publishedOn": "2023-06-26T08:47:39.000Z",
-          "wordCount": 821,
-          "title": "Chainalysis研究报告：散户、老手和机构们，如何给交易所贡献价值？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687769235787.png"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "PANews 6月27日消息，据官方推特，NFT项目CyberKongz推出了ERC-721x标准，这是一个让ERC721标准更安全实施的版本，该技术为用户提供了热钱包的便利，同时增加了冷钱包的安全性。\nERC-721x引入了2个核心安全功能：锁定和防护。锁定功能系可在不失去所有权的情况下抵押资产。通过“锁定”，将禁止资产在未经锁定注册表许可的情​​况下被转移；只要资产被锁定，就无法将其从持有的钱包中移出。保护功能这与锁定功能类似，但有一些重要的区别：持有有价值资产的钱包1可以将钱包2指定为“监护人”，从而使钱包2能够锁定钱包1中的资产，这可视为链上双重身份验证。",
           "link": "https://panewslab.com/zh/articledetails/ezrj1350.html",
           "publishedOn": "2023-06-27T01:42:13.000Z",
-          "wordCount": 369,
+          "wordCount": 360,
           "title": "NFT项目CyberKongz推出ERC-721x标准，引入锁定和防护两个安全功能",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 6月27日消息，在韩国运营的数字资产管理平台Haru Invest在官网上发布更新称，仍在努力确定B&S的损失程度，目前仍不知道B&S剩余资产的确切数量，委托给内部资产管理团队和其他资产管理合作伙伴的资产正在被返还，尚未发现他们管理的资产出现损失。待其归还所有管理资产并且最终确定债权和债务，才能提供损失的大致百分比。\n关于剩余资产的分配计划和时间，Haru Invest表示：“我们首先需要依次归还各个管理团队管理的资产，以分配剩余的资产。由于资产的返还需要时间，所以很难预测什么时候我们能够将剩余资产分配给客户，我们正在考虑多轮分配。随着法律程序的进展，我们将提供更详细的分配计划。 ”\n关于是否有接管和出售的计划，Haru Invest表示，正在努力追回并返还用户的资产。出售公司资产以弥补损失也在考虑之中，也在采取措施降低运营成本，以防止进一步的资产损失和外流。\n此前消息，Haru Invest已于6月14日暂停存提款请求。",
           "link": "https://panewslab.com/zh/articledetails/502194x1.html",
           "publishedOn": "2023-06-27T01:29:23.000Z",
-          "wordCount": 393,
+          "wordCount": 384,
           "title": "Haru Invest：之后将提供剩余资产分配计划，有考虑出售公司资产以弥补损失",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 6月27日消息，据The Block报道，美国众议院金融服务委员会主席、民主党人Maxine Waters致信该国财政部长Janet Yellen和证券交易委员会（SEC）主席Gary Gensler，寻求对可能在未来几周内进行投票的《数字资产市场结构法案》发表评论。Waters询问Gensler，这项立法将如何影响SEC目前的权力。\nWaters还要求Yellen和Gensler在提交对这封信的书面答复后，准备好向众议院金融服务委员会成员通报他们的观点和建议，答复截止日期为6月30日。\n众议院金融服务委员会Patrick McHenry表示，他希望在7月的第二周举行一次会议，对该法案进行投票。",
           "link": "https://panewslab.com/zh/articledetails/15qydlpa.html",
           "publishedOn": "2023-06-27T01:17:11.000Z",
-          "wordCount": 376,
+          "wordCount": 367,
           "title": "美财政部长和SEC主席被询问他们对《数字资产市场结构法案》的看法",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 6月27日，据CNBC报道，资产管理公司WisdomTree全球首席投资官Jeremy Schwartz在接受最新采访时表示，现货比特币ETF申请被拒有一个共同点，就是美国证券交易委员会试图要求申请方在交易所之间达成数据共享监控协议，以帮助美国证券交易委员会应对价格操纵问题。Jeremy Schwartz指出，美国证券交易委员会此前批准比特币期货ETF的部分原因是期货市场愿意与该监管机构共享信息，他补充称数据共享监控协议“可能是美国证券交易委员会批准现货比特币 ETF 申请时考虑的关键点之一”。\n此前消息，资管公司WisdomTree和Invesco已于上周再次提交现货比特币ETF申请。",
           "link": "https://panewslab.com/zh/articledetails/3b833x2m.html",
           "publishedOn": "2023-06-27T01:12:43.000Z",
-          "wordCount": 383,
+          "wordCount": 374,
           "title": "WisdomTree CIO：现货比特币ETF被拒系因未满足“数据共享监控协议”的要求",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 6月27日消息，ZK Rollup订单簿DEX协议ZigZag在推特上表示：“我们的Discord已被黑客入侵，请注意，ZigZag目前没有空投活动，请勿点击网络钓鱼链接。我们正在努力解决这个问题，当重新获得控制权时将提供更新。”",
           "link": "https://panewslab.com/zh/articledetails/hx9pejcv.html",
           "publishedOn": "2023-06-27T01:01:29.000Z",
-          "wordCount": 381,
+          "wordCount": 372,
           "title": "ZigZag：Discord已被黑客入侵，请勿点击网络钓鱼链接",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 6月27日消息，加密KOL AP_Abacus发推文称，消息人士透露币安本周将在迪拜召开“全体人员”紧急会议，但并未分享具体日期和主题。AP_Abacus表示，SEC/CFTC的行动显然在这里发挥了作用，但更重要的是几个国家同时发布了禁令。\n此前消息，币安已退出或将退出英国、荷兰、塞浦路斯以及奥地利市场，比利时监管机构要求币安立即停止在该国提供服务。",
           "link": "https://panewslab.com/zh/articledetails/rdi784zh.html",
           "publishedOn": "2023-06-27T00:53:28.000Z",
-          "wordCount": 383,
+          "wordCount": 374,
           "title": "加密KOL：币安本周将在迪拜召开“全体人员”紧急会议",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 6月27日消息，据Coinpost报道，OKX的全球版本疑似将停止向居住在日本的用户提供服务。该应用程序中有一条消息称：“由于当地法律法规，OKX交易所的产品在日本无法获得。用户仍然可以注册/登录，并访问OKX钱包。如果用户不在日本居住，可以继续使用OKX交易所产品与有效的政府签发的身份。”",
           "link": "https://panewslab.com/zh/articledetails/ao95mw62.html",
           "publishedOn": "2023-06-27T00:28:35.000Z",
-          "wordCount": 367,
+          "wordCount": 358,
           "title": "外媒：OKX疑似将停止向居住在日本的用户提供服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 6月27日消息，据Decrypt报道，两个休眠13年的比特币地址分别将50枚BTC转移至不同的地址，这些BTC于2010年开采，此后一直处于休眠状态。目前尚不清楚这两个地址的所有者是谁，但他们是今年第6和第7个转移大量比特币的巨鲸。",
           "link": "https://panewslab.com/zh/articledetails/eeomnfvq.html",
           "publishedOn": "2023-06-27T00:16:01.000Z",
-          "wordCount": 348,
+          "wordCount": 339,
           "title": "数据：两个休眠13年的地址分别转移了50枚BTC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 6月27日消息，Coinbase首席执行官Brian Armstrong推特发文称，美国正在浪费早期的领先优势，部分原因是SBF让一些政客和监管机构感到尴尬，他们现在希望对加密货币采取强硬态度。然而，其他人几乎都已经向前看，英国、阿联酋等国并没有再讨论FTX。解决这个问题的方法就是制定合理的法规，这样消费者就能得到保护，这些问题就不会再发生了。",
           "link": "https://panewslab.com/zh/articledetails/ddfkddbr.html",
           "publishedOn": "2023-06-27T00:12:20.000Z",
-          "wordCount": 364,
+          "wordCount": 355,
           "title": "Coinbase CEO：美国正浪费早期的领先优势，应制定合理的加密法规",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 6月27日消息，Nostr协议的开放社交应用Damus创始人William Casarin在推特发文称，苹果App Store将于周二下架Damus，原因是其违反了苹果的应用内购买规则。他表示，即使我们已更新了应用程序，并明确表示用户付费后不会解锁任何数字内容，但还是会被从App Store中下架。我们将提出上诉，因为该规则显然被滥用和误用了。Damus今年初在App Store上线，但却在6月13日因为“zaps”功能被苹果要求下架(一种特殊的Damus功能，允许用户通过闪电网络向内容创作者发送少量比特币，类似于推特的“小费”功能)。苹果公司表示不允许在其平台上出现zaps功能，因为zaps“可能”会被内容创作者用来销售数字内容。随后苹果公司表示，它与Damus进行了交谈，并就Damus的zaps功能如何在该平台上生存达成了共识。",
           "link": "https://panewslab.com/zh/articledetails/cjg2w4uf.html",
           "publishedOn": "2023-06-27T00:07:16.000Z",
-          "wordCount": 375,
+          "wordCount": 366,
           "title": "Damus创始人：苹果App Store将下架Damus，将继续提出上诉",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 6月27日消息，据官方消息，加密交易所火必Huobi表示，将于北京时间6月29日16点下架ADA/USDD、APE/USDD、ARPA/BTC、ETC/USDD、 FIL/USDD、GAS/BTC、MATIC/USDD、QTUM/BTC、SOL/USDD、ZKS/BTC。据悉，这些代币中的大多数被美国证券交易委员会(SEC)标记为未注册证券。根据CoinGecko的数据，USDD是第八大稳定币，由TRON DAO Reserve发行，市值约为7.5亿美元。",
           "link": "https://panewslab.com/zh/articledetails/pgjv8x61.html",
           "publishedOn": "2023-06-26T23:52:41.000Z",
-          "wordCount": 363,
+          "wordCount": 354,
           "title": "火必将于6月29日下架ADA/USDD等10个交易对",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 6月27日消息，据CoinDesk报道，一位美国联邦法官驳回了币安对美国证券交易委员会（SEC）新闻稿措辞的诉讼。币安认为SEC的措辞可能会在庭审中对其不利。华盛顿特区地区法院法官Amy Berman Jackson驳回了这些要求，认为法院的任务不是对案件双方的公开声明进行“文字修饰”，并表示“目前看来，法院干预是不需要的。法院介入修改双方新闻稿的措辞不必要也不适当”。据此前消息，BAM Trading的律师周五就SEC的新闻稿提出申诉，对SEC“误导性的法外声明”表示担忧。币安的律师表示：“SEC的新闻稿似乎是为了给市场带来不必要的混乱，这将损害而不是保护BAM的客户。”该公司的律师还坚持认为，“没有证据表明BAM的客户资产以任何方式被挥霍、混合或滥用”。",
           "link": "https://panewslab.com/zh/articledetails/31s6sc1q.html",
           "publishedOn": "2023-06-26T23:42:29.000Z",
-          "wordCount": 365,
+          "wordCount": 356,
           "title": "美国法官驳回Binance.US对美国SEC新闻稿的诉讼",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "PANews 6月27日消息，据The Block及彭博社报道，FTX债务人周一发布了第二份调查报告，详细介绍了该交易所混合和滥用客户存款的情况。首席执行官兼首席重组官John J. Ray III在一份声明中表示：“从FTX交易所成立之初，FTX集团就将客户存款和公司资金混在一起，并在前任高管的指导和设计下肆意滥用。”报告中称，FTX欠客户约87亿美元。预计第三份调查报告将于2023年8月发布。\n此外，FTX新管理团队表示，其在保护资产方面已经取得了实质性进展，到目前为止已经收回了约70亿美元的流动资产。报告还表示，绝大多数赤字（超过64亿美元）都是被挪用的法定货币和稳定币。",
           "link": "https://panewslab.com/zh/articledetails/o197w7ct.html",
           "publishedOn": "2023-06-26T23:28:07.000Z",
-          "wordCount": 374,
+          "wordCount": 365,
           "title": "FTX债务人：已收回约70亿美元流动资产，FTX仍欠客户约87亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -355,7 +355,7 @@
           "description": "PANews 6月27日消息，据The Block报道，币安已撤回向奥地利金融市场管理局提交的许可证申请。币安发言人对此表示：“我们无法分享与监管机构对话的细节，但我们仍然致力于在币安运营的任何地方履行义务。我们目前在欧洲的重点是确保在明年年底MiCA实施时完全合规”。据FinanceFWD援引知情人士的话称，由于奥地利监管机构在幕后施加了压力，币安不久前撤回了奥地利的申请。据悉，币安去年在奥地利成立了子公司Binance Austria GmbH，并计划为这家子公司申请牌照。据此前消息，币安已退出荷兰、塞浦路斯和英国市场。上周，比利时金融监管机构已下令币安停止在该国的所有服务。该公司目前在意大利、西班牙和法国等欧盟国家注册。",
           "link": "https://panewslab.com/zh/articledetails/n8zb7pfj.html",
           "publishedOn": "2023-06-26T23:20:56.000Z",
-          "wordCount": 372,
+          "wordCount": 363,
           "title": "币安已撤回在奥地利的许可证申请",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +365,7 @@
           "description": "PANews 6月27日消息，据官方消息，Tezos已激活其第14次核心协议升级“内罗毕（Nairobi）”。升级完成后，Tezos每秒可处理的交易数量（TPS）增加8倍，可更快达成共识，L2扩展解决方案Smart Rollups将和L1协议升级同步。",
           "link": "https://panewslab.com/zh/articledetails/rgx57ux2.html",
           "publishedOn": "2023-06-26T22:45:56.000Z",
-          "wordCount": 369,
+          "wordCount": 360,
           "title": "Tezos已激活“内罗毕”升级，TPS增加8倍",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +375,7 @@
           "description": "PANews 6月27日消息，Meta Platforms(META.O)推出名为META QUEST+的新的虚拟现实订阅服务，该服务价格为每月7.99美元或每年59.99美元。该订阅目前可用于 Quest 2 和 Pro。今年秋季推出 Quest 3 时，还将支持 Quest 3 。首批推出的两款游戏是动作节奏游戏 FPS Pistol Whip 和街机冒险游戏 Pixel Ripped 1995。",
           "link": "https://panewslab.com/zh/articledetails/edkd67ba.html",
           "publishedOn": "2023-06-26T16:06:48.000Z",
-          "wordCount": 462,
+          "wordCount": 453,
           "title": "Meta推出名为META QUEST+的虚拟现实订阅服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
