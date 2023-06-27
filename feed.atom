@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-27T13:22:49.329Z</id>
+    <id>urn:2023-06-27T14:12:59.402Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-27T13:22:49.329Z</updated>
+    <updated>2023-06-27T14:12:59.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -36,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Web3日报｜Wintermute Trading将1000万枚BLUR转入Kraken；zkSync Era用户地址数量突破100万]]></title>
+        <id>https://www.theblockbeats.info/news/43028</id>
+        <link href="https://www.theblockbeats.info/news/43028"/>
+        <updated>2023-06-27T11:28:44.000Z</updated>
+        <summary type="html"><![CDATA[6月27日加密行业重要资讯一览]]></summary>
+        <author>
+            <name>TheBlockBeats - undefined</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grayscale收取的ETHE和GBTC月度管理费用创2022年5月以来新高，约4400万美元]]></title>
         <id>https://panewslab.com/zh/articledetails/konieobx.html</id>
         <link href="https://panewslab.com/zh/articledetails/konieobx.html"/>
@@ -61,58 +71,7 @@
         <id>https://www.theblockbeats.info/news/43025</id>
         <link href="https://www.theblockbeats.info/news/43025"/>
         <updated>2023-06-27T10:12:53.000Z</updated>
-        <summary type="html"><![CDATA[原文作者：@poopmandefi
-原文编译：BlockBeats
-
-
-6 月 13 日，Uniswap 发布 Uniswap V4 代码草稿。Uniswap V4 的愿景是允许任何人通过引入「挂钩」（hooks）来做出这些权衡决定。hooks 是在池操作生命周期的各个点运行的合约，池可以做出与 v3 相同的权衡，或者可以添加全新的功能。针对该版本，DeFi 研究员 Poopman 在其社交平台发文进行深入分析，BlockBeats 编译如下。
-
-
-
-
-2 年前，Uniswap V3 引入集中流动性以提高资金效率。今天，Uniswap V4 正在为 AMM 领域带来定制和优化。如果你关心 DeFi 及其未来，你应该阅读本文以深入了解 Uniswap V4。
-
-
-
-
-
-自 DeFi 诞生以来，Uniswap 一直走在 AMM 创新的前沿。在其 5 年的历史中，Uniswap 一共经历了 3 次变化。
-
-
-1. V1 = 创新的 ERC20 对 ETH 流动性池和 AMM；
-
-
-2. V2 = 启用 ERC20/ERC20 流动性池和闪兑；
-
-
-3. V3 = 集中流动性。
-
-
-
-
-
-随着 Uniswap V4 的推出，Uniswap 将通过 3 个新概念彻底改变 DeFi 领域，包括：
-
-
-1.「挂钩」（Hooks）
-
-
-2.「单例模式」（The Singleton）
-
-
-3.「闪电记账系统」（Flash Accounting）
-
-
-
-
-
-首先，我们需要了解 Uniswap V4 的必要性。在 V2/V3 版本中，可定制性的缺失一直是个问题。由于技术复杂性，第三方开发人员始终无法实现在 V2/V3 中添加波动率预言机和限价订单等。
-
-
-什么是 Hooks？  
-
-
-而在 V4 中，Uniswap 试图通过一个新的功能调用 Hooks 来解决这个问题。Hooks 是一种外部智能…]]></summary>
+        <summary type="html"><![CDATA[Uniswap V4提供了一个更具定制性、灵活性和高效性的AMM。预计更多的DApp将利用V4的灵活性，并设计优化策略来使流动性提供者受益或提高资本效率。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
@@ -488,16 +447,6 @@ Fireblocks已通过提供基础设施支持将50多家主要金融机构带入�
         <link href="https://www.theblockbeats.info/news/42998"/>
         <updated>2023-06-27T03:00:15.000Z</updated>
         <summary type="html"><![CDATA[欧易OKX携手CertiK加强安全合作，致力于构建真正去中心化的自由市场的使命。]]></summary>
-        <author>
-            <name>TheBlockBeats - undefined</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何判断一个X to Earn项目经济模型的好坏？]]></title>
-        <id>https://www.theblockbeats.info/news/42982</id>
-        <link href="https://www.theblockbeats.info/news/42982"/>
-        <updated>2023-06-26T12:00:01.000Z</updated>
-        <summary type="html"><![CDATA[一个好的经济模型应该具备以下特质：通胀率低、激励高、卖压低、使用场景丰富、流动性充足、治理主要群体来自B端等。]]></summary>
         <author>
             <name>TheBlockBeats - undefined</name>
         </author>
