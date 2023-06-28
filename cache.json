@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 655,
+          "wordCount": 675,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 449,
+          "wordCount": 453,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=77235",
+          "author": "Gao",
+          "description": "当前 OP Mainnet 也在进行更宏大的叙事和布局，2023.6.6 日完成了 Bedrock 升级，奠定了后续快速发展的基础。下次升级将会对完成下一代 Fault Proof-Cannon，6 月的以太坊开发者会议确定了以 EIP-4844 为核心的坎昆升级，将在下半年完成。宏观环境也在快速变化，先是 SEC 起诉 Binance 与 Coinbase 使市场恐慌情绪蔓延，而后华尔街顶尖传统金融机构下场投资美国的新加密交易所，这些变化来临时，OP 是否可以重新「乐观」，本文将对其展开研究。",
+          "link": "https://www.web3sj.com/news/77235/",
+          "publishedOn": "2023-06-28T06:12:11.000Z",
+          "wordCount": 1703,
+          "title": "展望坎昆升级，OP是否值得「乐观」",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687932712238.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=77228",
           "author": "Gao",
           "description": "自以太坊转为 PoS 以来，对 Staking ETH 的需求急剧增长，导致了流动性质押协议的发展。目前，包括以太坊、Near、BNB Chain、Avalanche、Cosmos、Sui、Aptos 等在内的大量区块链平台都使用 PoS 共识机制。因此，我们认为流动性质押市场的潜力巨大。",
           "link": "https://www.web3sj.com/definews/77228/",
           "publishedOn": "2023-06-28T04:58:24.000Z",
-          "wordCount": 939,
+          "wordCount": 973,
           "title": "解读再质押赛道：工作原理、优缺点，有哪些潜力项目？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687928293226.png"
         },
@@ -128,7 +138,7 @@
           "description": "Pinnako 是一个建立在 Zksync 和 Mantle 上的去中心化永续交易平台，同时也拥有基础的 swap 功能，支持 BTC-USDT 和 ETH-USDT 两个交易对。而杠杆交易（最高 100 倍杠杆）会支持 token、外汇、股票、指数和 NFT 等多种资产。在基本的产品逻辑上，协议会向 trader 收取手续费用和动态费率。",
           "link": "https://www.web3sj.com/definews/77225/",
           "publishedOn": "2023-06-28T04:52:50.000Z",
-          "wordCount": 767,
+          "wordCount": 782,
           "title": "Perp Dex项目Pinnako Dex的基本面和关注点分析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687927954234.png"
         },
@@ -138,7 +148,7 @@
           "description": "2 年前，Uniswap V3 引入集中流动性以提高资金效率。今天，Uniswap V4 正在为 AMM 领域带来定制和优化。如果你关心 DeFi 及其未来，你应该阅读本文以深入了解 Uniswap V4。",
           "link": "https://www.web3sj.com/definews/77213/",
           "publishedOn": "2023-06-28T04:50:15.000Z",
-          "wordCount": 872,
+          "wordCount": 902,
           "title": "梳理Uniswap v4三大创新点",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687927803597.png"
         },
@@ -148,7 +158,7 @@
           "description": "许多区块链项目是技术先行，结果最后发现缺乏应用场景，也就是拿着锤子找钉子，硬套上区块链技术却没有解决真正痛点。近来网路上不乏流传着这种评论：「区块链仔们，看看 ChatGPT，这才是真正有用的技术。」脸一直被打得很红，但也无法反驳。",
           "link": "https://www.web3sj.com/news/77203/",
           "publishedOn": "2023-06-28T04:47:05.000Z",
-          "wordCount": 1139,
+          "wordCount": 1167,
           "title": "详解区块链在支付领域中的作用及难点",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687927614370.png"
         },
@@ -158,7 +168,7 @@
           "description": "在 DeFi 交易中，用户的「交易对手」通常是智能合约，因此很难确定法律关系并确定可以防御「贷款人」权利的各方。因此，为这些关系建立传统的法律框架变得复杂和不那么简单，因为没有具有法人资格的「对应方」;",
           "link": "https://www.web3sj.com/definews/77200/",
           "publishedOn": "2023-06-28T04:10:21.000Z",
-          "wordCount": 2077,
+          "wordCount": 2094,
           "title": "Uniswap旗下机构回复英国税务部门：如何看待对DeFi征税",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687925316636.png"
         },
@@ -168,7 +178,7 @@
           "description": "该 Thread 对于 Sui 将原本锁定的 SUI 进行抛售的观点没有实际交易作证，但对于 Sui 基金会将质押奖励不断向市场抛售却有明确的链上信息。",
           "link": "https://www.web3sj.com/news/77185/",
           "publishedOn": "2023-06-28T04:04:20.000Z",
-          "wordCount": 783,
+          "wordCount": 798,
           "title": "Sui基金会正在悄悄出货？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687925047276.png"
         },
@@ -178,7 +188,7 @@
           "description": "Berachain 是一个使用 Cosmos SDK 构建的 EVM 兼容链，它采用了一种独特的「流动性证明」共识机制和三代币模型。Berachain 希望以一种更可持续的方式来激励生态系统，流动性证明共识促进 Berachain 的流动性、资产利用率与市值的同步增长。",
           "link": "https://www.web3sj.com/news/77179/",
           "publishedOn": "2023-06-28T04:00:48.000Z",
-          "wordCount": 851,
+          "wordCount": 840,
           "title": "流动性在PoS中的应用：以Berachain、Tenet、Mangate为例",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687924828811.png"
         },
@@ -188,7 +198,7 @@
           "description": "在一篇讨论这一特定空投计划的博客文章中，Arbitrum 团队阐明了代币分配的根本目标是「社区治理的本土化」。将代币直接分配给 Arbitrum 协议的金库旨在使他们能够在生态系统内承担起治理责任和决参与策过程。这种方法使协议能够利用此次空投来支持其运营并推动平台或产品向前发展，确保协议以及背后的 Arbitrum 生态拥有更美好的未来。",
           "link": "https://www.web3sj.com/daonews/77167/",
           "publishedOn": "2023-06-28T03:54:01.000Z",
-          "wordCount": 1101,
+          "wordCount": 1100,
           "title": "获得ARB空投的137个DAO，都用这笔钱干了什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687924414640.png"
         },
@@ -198,19 +208,9 @@
           "description": "Grayscale收取的ETHE和GBTC月度管理费用创2022年5月以来新高，约4400万美元。Circle CEO：随着监管机构“过去的担忧”得到解决，新一波比特币ETF或会获得批准。以太坊基金会推出Devconnect学者计划。",
           "link": "https://www.web3sj.com/news/77114/",
           "publishedOn": "2023-06-27T11:44:29.000Z",
-          "wordCount": 702,
+          "wordCount": 726,
           "title": "Web3世界日报（2023-6.27）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023062711422360.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77101",
-          "author": "Gao",
-          "description": "见到 OKX 香港负责人 Lennix，是在 4 月 OKX 举办的一场酒会上，他说着一口香港普通话，招呼着来客，酒会的地点是在铜锣湾的登龙街，许多大型加密货币机构都愿意来此举办活动，这条街上挂着大约三米长的比特币巨幅海报，而在街道拐角处的商铺，摆放着几个加密货币柜台机，在那里，人们可以自由的将比特币兑换成港币。",
-          "link": "https://www.web3sj.com/news/77101/",
-          "publishedOn": "2023-06-27T08:40:58.000Z",
-          "wordCount": 1170,
-          "title": "香港Web3：1年、1张牌、1个新的行业",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687855246746.png"
         }
       ]
     },
@@ -219,6 +219,116 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/f2lzk34v.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据官方消息，波卡生态隐私保护项目Manta Network的推特帐户之前被盗用并发布虚假空投信息，目前已恢复。",
+          "link": "https://panewslab.com/zh/articledetails/f2lzk34v.html",
+          "publishedOn": "2023-06-28T04:50:44.000Z",
+          "wordCount": 355,
+          "title": "Manta Network曾被盗用并发布虚假空投信息，目前已恢复",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ah4u48ye.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据官方博客，Horizen社区最近已经批准ZenIP 42204，以弃用Horizen主链屏蔽池（shielded pool），弃用后所有隐私功能都将在共识级别从Horizen主链中删除。这意味着此次变更后ZEN将不再被视为隐私币。不过Horizen表示，在主链层面支持隐私功能并不是为Horizen生态系统提供隐私功能的唯一方法，此次变更并不意味着Horizen将不再支持隐私。\nHorizen表示，弃用Horizen主链屏蔽池的目的是确保Horizen以正确且可持续的方式使用隐私技术，以减轻监管威胁。当前的监管环境对隐私加密货币的可访问性和采用提出了挑战。Horizen主链屏蔽池的弃用将作为即将推出的ZEN 4.1强制软件升级的一部分实施，测试网将在今年8月弃用，主网将在9月弃用。",
+          "link": "https://panewslab.com/zh/articledetails/ah4u48ye.html",
+          "publishedOn": "2023-06-28T04:09:54.000Z",
+          "wordCount": 368,
+          "title": "Horizen：计划在主链层面删除所有隐私功能，ZEN将不再被视为隐私币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vs1x5dz0.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日，据NFT聚合交易市场Blur在官推宣布，Azuki Elemental Beans和Azuki Elemental均已于今日凌晨在Blur上架。",
+          "link": "https://panewslab.com/zh/articledetails/vs1x5dz0.html",
+          "publishedOn": "2023-06-28T04:02:57.000Z",
+          "wordCount": 365,
+          "title": "Azuki Elemental已于今日凌晨在Blur上架",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2pwy2fug.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，欧易OKX正式发布第8次储备金证明（PoR），22个公示币种的储备金率均超过100%，其中BTC、ETH、USDT的储备金率均为103%，总计价值达113亿美元。\n据悉，欧易OKX致力于提升POR透明度至传统金融审计标准，从而持续引领行业安全透明，是行业为数不多的按月发布储备金证明的主流加密交易所。当前已通过zk-STARK等创新技术升级POR系统，用户随时可以独立验证欧易OKX的偿付能力。",
+          "link": "https://panewslab.com/zh/articledetails/2pwy2fug.html",
+          "publishedOn": "2023-06-28T03:58:36.000Z",
+          "wordCount": 379,
+          "title": "欧易 OKX 发布第8次储备金证明：22个公示币种的储备金率均超过100%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/l0g03kxn.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据IT之家报道，在上个月的谷歌I/O开发者大会上，谷歌公司首次透露了其正在开发的大型语言模型Gemini。DeepMind联合创始人兼 Google DeepMind首席执行官Demis Hassabis最近在采访中进一步透露了Gemini的细节：该系统将AlphaGo背后的技术与大语言模型相结合，目标是让系统具有新的能力，如规划或解决问题，比OpenAI的GPT-4能力更强。\n目前Gemini还在开发中，这个过程预计需要几个月的时间，可能花费数千万或数亿美元。OpenAI首席执行官Sam Altman在4月份表示，创建GPT-4的成本超过1亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/l0g03kxn.html",
+          "publishedOn": "2023-06-28T03:58:30.000Z",
+          "wordCount": 355,
+          "title": "谷歌DeepMind披露其正开发新型AI模型Gemini，号称“比GPT-4强”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/00lvv2tc.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，加密基金NDV联合创始人Christian在推特上表示：“Azuki为了获取3800万美元的利润（指Azuki Elementals预售）而毁掉价值10亿美元的项目（以及地球上最忠诚的社区）是不明智的。我愿意出价4000万美元买下整个公司。”\n有网友称愿意出更高价格收购该项目，Christian对此表示：“可以将项目拆分并使其成为真正的DAO。”",
+          "link": "https://panewslab.com/zh/articledetails/00lvv2tc.html",
+          "publishedOn": "2023-06-28T03:48:21.000Z",
+          "wordCount": 367,
+          "title": "Christian：Azuki为区区利润毁掉项目的做法不明智，愿以4000万美元买下整个公司",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/al9y1eai.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，近日，中国人民银行上海总部发布《防范非法集资宣传月|对虚拟货币交易炒作相关非法金融活动说“不”》的提示。风险提示指出，近年来，一些不法分子打着“NFT”、“数字藏品”、“元宇宙”的旗号开展非法金融活动存在炒作、洗钱、非法发行代币等风险隐患。\n文章中发布了几个相关风险案例，包括“谨防利用NFT等新名词为传统诈骗披上新外衣”、“数字藏品被炒至天价后，无人接手甚至血本无归”、“利用虚假网站和链接入侵用户钱包窃取资产”“数字平台跑路，公众号被封，哭诉无门”、“私下交易，给钱不给‘货’”。文章给出防范建议：1.树立正确消费投资观念。2.不参与NFT相关代币发行和投机炒作活动。",
+          "link": "https://panewslab.com/zh/articledetails/al9y1eai.html",
+          "publishedOn": "2023-06-28T03:35:19.000Z",
+          "wordCount": 346,
+          "title": "央行上海总部：对虚拟货币交易炒作相关非法金融活动说“不”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/clwob0f3.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据Lookonchain监测，11小时前，某巨鲸地址从币安提取了1.93万亿枚PEPE（约合303万美元）。\n该巨鲸地址似乎已售出97,735枚LINK（59.2万美元）和9,883枚BNB（301万美元），亏损约34.2万美元，将所有头寸交换为1.93万亿枚PEPE（约合303万美元）和227枚ETH（42.4万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/clwob0f3.html",
+          "publishedOn": "2023-06-28T03:14:25.000Z",
+          "wordCount": 353,
+          "title": "数据：某巨鲸11小时前从币安提出1.93万亿枚PEPE，约合303万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xpf9o2h8.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据官方博客，波卡Polkadot宣布将推出“Polkadot开发者英雄计划”，旨在为Polkadot开发者提供更多权力，并建立一个强大的Polkadot开发者协作社区。\n波卡表示，Heroes计划在Polkadot的未来中发挥着关键作用，不仅有助于传播技术主题知识，还为开发人员提供了个人和职业发展机会。目前该计划已接收候选人报名表注册，启动时间未定。",
+          "link": "https://panewslab.com/zh/articledetails/xpf9o2h8.html",
+          "publishedOn": "2023-06-28T03:09:22.000Z",
+          "wordCount": 355,
+          "title": "波卡将推出“开发者英雄计划”，已接收注册",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/po0dxo3u.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据链上分析师余烬监测，一个UNI团队/投资者/顾问地址在6小时前将2,502,684枚UNI(约合1296万美元) 转入了Coinbase Prime。\n这个地址是在2021年3月5日接收到790万枚UNI分配，目前还持有888,476枚UNI。\n据悉，Coinbase Prime系Coinbase旗下大宗经纪平台，为机构客户提供加密货币大宗经纪服务。",
+          "link": "https://panewslab.com/zh/articledetails/po0dxo3u.html",
+          "publishedOn": "2023-06-28T02:58:28.000Z",
+          "wordCount": 388,
+          "title": "数据：某地址凌晨将约250万枚UNI转入Coinbase Prime，约合1296万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/kfvrwgww.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据官方推特，Opside自 5 月底Pre-Alpha激励测试网上线以来，社区用户、PoS节点、PoW 矿工、项目方及开发者们对 Opside 的关注热情持续增温。在一个月内，PoS 节点数量已经突破10,000，超过10万独立用户参与测试，40多个大矿工提供算力。\n目前，所有PoS节点和PoW矿工均为社区自主运行，分布在全球 40 多个国家和地区，实现完全去中心化。当前社区参与Opside测试网的PoS和PoW的硬件投入总成本在2500万美元左右。此外，官方表示，ZK-RaaS方面进展也十分顺利。项目方可一键在各L1公链上拥有自己的zkEVM应用链。现已有30多个优质项目正陆续部署到 Opside 生态网络中来，其中Era7、Cryptoblades、XThrill等已开放体验。更多项目方专属的 zkEVM 也将陆续上线。",
+          "link": "https://panewslab.com/zh/articledetails/kfvrwgww.html",
+          "publishedOn": "2023-06-28T02:48:12.000Z",
+          "wordCount": 427,
+          "title": "Opside测试网 PoS节点数量突破 10,000，提前2个月达到目标",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/7ql4aiks.html",
           "author": "PA一线",
@@ -305,118 +415,8 @@
           "description": "PANews 6月28日消息，据0xScope监控，Azuki团队已于今日00:16:35将Azuki Elementals预售中获得的2万枚ETH（约3750万美元）分多笔全部转至0x2ae6开头多签地址。据悉，Azuki Elementals预售于北京时间今日0点开始，并在15分钟内售罄。",
           "link": "https://panewslab.com/zh/articledetails/hpev708r.html",
           "publishedOn": "2023-06-28T01:48:42.000Z",
-          "wordCount": 362,
-          "title": "数据：Azuki团队已将Elementals预售获得的2万枚ETH转至多签地址，约3750万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2xs1hi2c.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，KuCoin首席执行官Johnny Lyu在推特上表示：“如果你看到我们钱包之间的转账，请不要惊讶。我们只是把一些资金从我们的冷钱包转移到热钱包用于运营目的。”",
-          "link": "https://panewslab.com/zh/articledetails/2xs1hi2c.html",
-          "publishedOn": "2023-06-28T01:44:08.000Z",
-          "wordCount": 369,
-          "title": "KuCoin CEO：冷钱包至热钱包的部分资金转账系出于运营目的",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/fr7achbg.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据The Block报道，上周，Bored Ape Yacht Club（BAYC）NFT的地板价自2021年11月以来首次跌破34 ETH，部分社区成员将BAYC价格下跌归咎于黄立成的大量抛售，但加密风投公司Eden Block创始人兼执行合伙人、Yuga Labs支持者Lior Messika认为，普遍的投机行为是BAYC价格下跌的更大推动因素。\nMessika表示：“现在NFT市场奖励的是交易者和投机者，而不是以创造性和有价值的方式利用基础知识产权的建设者。NFT是高风险资产，在波动的市场中往往首当其冲。有些人会责怪Blur，有些人会责怪特许权使用费的缺乏，但情况很简单：交易者的市场正在重新定价BAYC的文化和功利价值，而且这种情况不会改变。直到新资本进入NFT领域是出于正确的原因。”",
-          "link": "https://panewslab.com/zh/articledetails/fr7achbg.html",
-          "publishedOn": "2023-06-28T01:35:54.000Z",
-          "wordCount": 388,
-          "title": "Eden Block创始人：普遍的投机行为是BAYC价格下跌的主要推动因素",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cetp7c4s.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，NFTGo.io数据显示，Azuki地板价跌破10 ETH，目前为9.87 ETH，24小时跌幅达26.51%。此外，Azuki NFT系列24小时成交额约11400枚ETH，增幅达310.69%。",
-          "link": "https://panewslab.com/zh/articledetails/cetp7c4s.html",
-          "publishedOn": "2023-06-28T01:25:19.000Z",
-          "wordCount": 376,
-          "title": "数据：Azuki地板价跌破10 ETH，24小时跌幅达26.51%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/oj0wgl4o.html",
-          "author": "PA一线",
-          "description": "1.消息人士：富达准备提交比特币现货ETF申请\n2.Sui基金会：未在币安出售非流通SUI产生的质押奖励，将很快发布代币释放详细计划\n3.Prime Trust已于2021年失去旧钱包控制权，并挪用客户资产回购加密货币\n4.美国内华达州监管机构已申请接管Prime Trust\n5.FTX暂停出售人工智能公司Anthropic的5亿美元股份\n6.NFT市场Magic Eden即将添加对比特币BRC-20代币的支持\n7.Azuki Elementals在15分钟内售罄，地板价已跌至1.64 ETH\n8.欧盟官员怀疑币安在爱尔兰和马耳他伪造账户\n9.Maverick生态系统激励计划季前将空投3000万枚MAV，今日16时开启申领\nPANews APP积分——PT（葡萄）正式上线，立即下载，一起参与Read to Earn🍇\nPANews Telegram社群，立即加入\nPANews Telegram频道，立即订阅",
-          "link": "https://panewslab.com/zh/articledetails/oj0wgl4o.html",
-          "publishedOn": "2023-06-28T01:09:49.000Z",
-          "wordCount": 475,
-          "title": "昨夜今晨重要资讯（6月27日-6月28日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/06/28/images/Wcc99G5q95.png"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0mwc20xo.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，NFT项目Azuki联合创始人location tba在推特上表示：“Azuki Elementals铸造体验没有达到Azuki的标准，想要澄清预售期间发生的事情以及一些想法。我们低估了Azuki和BEANZ持有者预售第一阶段和第二阶段所需的时间，我们应该将持续时间延长到10分钟以上，以便在出现任何问题（确实存在问题）时有足够的缓冲。接下来，我们的网站仍由Vercel托管，以确保我们能够处理预期的负载。我们的估计是错误的，我对所发生的事情承担个人责任，预售窗口本应延长。”",
-          "link": "https://panewslab.com/zh/articledetails/0mwc20xo.html",
-          "publishedOn": "2023-06-28T00:57:26.000Z",
-          "wordCount": 354,
-          "title": "Azuki联创：Elementals铸造体验因估计失误未达标准，预售窗口本应延长",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/kfhm3vsc.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据官方博客，DeFi基础设施提供商Maverick Protocol宣布Maverick生态系统季前激励计划的全部细节，申领将于北京时间6月28日16:00上线。MAV代币空投领取将在以太坊和zkSync Era链上进行。veMAV代币将在以太坊和zkSync Era链上可用。用户可以在申领工作流程中抵押MAV并获得veMAV。\n关于Maverick生态系统激励计划季前总分配详情，本次空投分配了3000万枚MAV，占MAV供应总量的1.5%，占流动性挖矿和空投分配总量的4.9%。共有26,155个以太坊钱包地址和 96,075个zkSync Era钱包地址有资格在首次空投中领取MAV。参加Maverick生态系统季前赛的钱包地址快照拍摄于北京时间6月23日04:00完成。\n此外，30天内还将针对所有veMAV持有者推出治理激励计划，veMAV持有者将可获得治理奖金激励。如果质押MAV以获得veMAV，将有资格获得通过治理激励计划提供的进一步投票激励。治理激励计划的快照将于北京时间7月28日04:00拍摄。快照时的所有veMAV持有者将根据veMAV余额按比例分配1000万枚MAV，这将自动质押4年，并为他们提供更多veMAV。",
-          "link": "https://panewslab.com/zh/articledetails/kfhm3vsc.html",
-          "publishedOn": "2023-06-28T00:45:15.000Z",
-          "wordCount": 389,
-          "title": "Maverick生态系统激励计划季前将空投3000万枚MAV，今日16时开启申领",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/wgio364s.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据CertiK Alert监测，加密借贷协议Themis遭到预言机操纵攻击，攻击者已窃取约37万美元。\n据Themis官方推特，Themis在暂停借贷功能后，表示“已确认该协议已被利用，将尝试与黑客合作取回资金，如果没有回应或不愿意合作，将只能与当局合作纠正这个问题。目前正在制定补偿计划，等事情结束后将发布相关报告”。",
-          "link": "https://panewslab.com/zh/articledetails/wgio364s.html",
-          "publishedOn": "2023-06-28T00:22:17.000Z",
-          "wordCount": 377,
-          "title": "Themis遭到预言机操纵攻击，攻击者已窃取约37万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2o6hjru6.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据Protos报道，该媒体从欧盟当局获悉，币安在爱尔兰和马耳他的公司已发出各种危险信号，表明其正在混淆、洗钱和逃税等非法活动。\n欧洲调查人员告诉Protos，他们担心币安可能在多个欧盟司法管辖区伪造其账户和业务，并将来自不同国家收入流的资金混合在一起，以避免引起监管机构和税务机关的注意。据他们称，之所以引起这些担忧，是因为尽管该公司声称雇用了数十名员工，但其在爱尔兰和马耳他境内的业务特别难以追踪。根据官方记录，收入来源无法解释，而且这些公司除了与其他公司共享的注册地址外，没有活跃的运营空间。官员们认为币安将注册员工人数与兼职员工的合同服务混为一谈，从而夸大了注册员工人数，而兼职员工的工作主要是促销性质的。\n该媒体还指出，币安没有在爱尔兰或马耳他作为加密交易所的许可证。Binance Holdings (Ireland)中有多个子公司，其中包括另一家位于爱尔兰、名为Binance (Services) Holdings的公司，该公司拥有在马耳他注册的币安公司。币安在爱尔兰注册的公司似乎完全由赵长鹏拥有。",
-          "link": "https://panewslab.com/zh/articledetails/2o6hjru6.html",
-          "publishedOn": "2023-06-28T00:10:34.000Z",
-          "wordCount": 361,
-          "title": "外媒：欧盟官员怀疑币安在爱尔兰和马耳他伪造账户",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/81acvf0d.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据官方推特，NFT市场Magic Eden将添加对比特币BRC-20代币的支持，让用户可以交易代币，同时使创建者能够通过其启动板投放新代币。\n根据Decrypt的说法，Magic Eden发言人表示，该平台将于北京时间今日早上8:00添加支持BRC-20代币，市场将对BRC-20交易收取少量交易费。对于通过启动板提供的新登记BRC-20代币，Magic Eden将向Ordinals协议团队捐赠一半的相关费用。",
-          "link": "https://panewslab.com/zh/articledetails/81acvf0d.html",
-          "publishedOn": "2023-06-27T23:59:19.000Z",
-          "wordCount": 360,
-          "title": "NFT市场Magic Eden即将添加对比特币BRC-20代币的支持",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/x60te6re.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据官方消息，Azuki Elementals预售于北京时间6月28日0点开始，整个系列在15分钟内售罄，销售额为3800万美元，无需公开拍卖。在预售期间售出的10000枚NFT中，有7600个是由Azuki持有者铸造的，其余则是由BEANZ持有者铸造的。随后Azuki公布了这些NFT收藏品，并启动了二级市场交易。Opensea数据显示，Azuki Elementals地板价已跌至1.64 ETH，已跌破发行价2 ETH。",
-          "link": "https://panewslab.com/zh/articledetails/x60te6re.html",
-          "publishedOn": "2023-06-27T23:45:52.000Z",
           "wordCount": 371,
-          "title": "Azuki Elementals在15分钟内售罄，地板价已跌至1.64 ETH",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5ytb42tz.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，Paradigm联合创始人Matt Huang推特发文称，Paradigm从未如此专注于加密货币。我们对加密货币从未如此兴奋过，我们将继续在各个阶段进行投资、发表原创研究、发布开源项目(Foundry, Reth)以及倡导开明的政策等等。人工智能的发展太有趣了，不容忽视。加密货币与人工智能都很有趣，而且会有很多重合之处。我们很高兴能继续探索。据此前消息，加密风投公司Paradigm的关注领域已超越区块链，将重点关注包括人工智能在内的更广泛“前沿技术”。该公司网站简介也已改为“研究驱动的技术投资公司”，而不是专门投资“颠覆性加密/Web3公司和协议”的公司。",
-          "link": "https://panewslab.com/zh/articledetails/5ytb42tz.html",
-          "publishedOn": "2023-06-27T23:31:05.000Z",
-          "wordCount": 353,
-          "title": "Paradigm联创：从未如此专注于加密货币，将继续在各个阶段进行投资",
+          "title": "数据：Azuki团队已将Elementals预售获得的2万枚ETH转至多签地址，约3750万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
