@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 675,
+          "wordCount": 655,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 920,
+          "wordCount": 905,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 453,
+          "wordCount": 449,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=77228",
+          "author": "Gao",
+          "description": "自以太坊转为 PoS 以来，对 Staking ETH 的需求急剧增长，导致了流动性质押协议的发展。目前，包括以太坊、Near、BNB Chain、Avalanche、Cosmos、Sui、Aptos 等在内的大量区块链平台都使用 PoS 共识机制。因此，我们认为流动性质押市场的潜力巨大。",
+          "link": "https://www.web3sj.com/definews/77228/",
+          "publishedOn": "2023-06-28T04:58:24.000Z",
+          "wordCount": 939,
+          "title": "解读再质押赛道：工作原理、优缺点，有哪些潜力项目？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687928293226.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=77225",
+          "author": "Gao",
+          "description": "Pinnako 是一个建立在 Zksync 和 Mantle 上的去中心化永续交易平台，同时也拥有基础的 swap 功能，支持 BTC-USDT 和 ETH-USDT 两个交易对。而杠杆交易（最高 100 倍杠杆）会支持 token、外汇、股票、指数和 NFT 等多种资产。在基本的产品逻辑上，协议会向 trader 收取手续费用和动态费率。",
+          "link": "https://www.web3sj.com/definews/77225/",
+          "publishedOn": "2023-06-28T04:52:50.000Z",
+          "wordCount": 767,
+          "title": "Perp Dex项目Pinnako Dex的基本面和关注点分析",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687927954234.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=77213",
+          "author": "Gao",
+          "description": "2 年前，Uniswap V3 引入集中流动性以提高资金效率。今天，Uniswap V4 正在为 AMM 领域带来定制和优化。如果你关心 DeFi 及其未来，你应该阅读本文以深入了解 Uniswap V4。",
+          "link": "https://www.web3sj.com/definews/77213/",
+          "publishedOn": "2023-06-28T04:50:15.000Z",
+          "wordCount": 872,
+          "title": "梳理Uniswap v4三大创新点",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687927803597.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=77203",
+          "author": "Gao",
+          "description": "许多区块链项目是技术先行，结果最后发现缺乏应用场景，也就是拿着锤子找钉子，硬套上区块链技术却没有解决真正痛点。近来网路上不乏流传着这种评论：「区块链仔们，看看 ChatGPT，这才是真正有用的技术。」脸一直被打得很红，但也无法反驳。",
+          "link": "https://www.web3sj.com/news/77203/",
+          "publishedOn": "2023-06-28T04:47:05.000Z",
+          "wordCount": 1139,
+          "title": "详解区块链在支付领域中的作用及难点",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687927614370.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=77200",
           "author": "Gao",
           "description": "在 DeFi 交易中，用户的「交易对手」通常是智能合约，因此很难确定法律关系并确定可以防御「贷款人」权利的各方。因此，为这些关系建立传统的法律框架变得复杂和不那么简单，因为没有具有法人资格的「对应方」;",
           "link": "https://www.web3sj.com/definews/77200/",
           "publishedOn": "2023-06-28T04:10:21.000Z",
-          "wordCount": 2076,
+          "wordCount": 2077,
           "title": "Uniswap旗下机构回复英国税务部门：如何看待对DeFi征税",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687925316636.png"
         },
@@ -128,7 +168,7 @@
           "description": "该 Thread 对于 Sui 将原本锁定的 SUI 进行抛售的观点没有实际交易作证，但对于 Sui 基金会将质押奖励不断向市场抛售却有明确的链上信息。",
           "link": "https://www.web3sj.com/news/77185/",
           "publishedOn": "2023-06-28T04:04:20.000Z",
-          "wordCount": 723,
+          "wordCount": 783,
           "title": "Sui基金会正在悄悄出货？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687925047276.png"
         },
@@ -138,7 +178,7 @@
           "description": "Berachain 是一个使用 Cosmos SDK 构建的 EVM 兼容链，它采用了一种独特的「流动性证明」共识机制和三代币模型。Berachain 希望以一种更可持续的方式来激励生态系统，流动性证明共识促进 Berachain 的流动性、资产利用率与市值的同步增长。",
           "link": "https://www.web3sj.com/news/77179/",
           "publishedOn": "2023-06-28T04:00:48.000Z",
-          "wordCount": 821,
+          "wordCount": 851,
           "title": "流动性在PoS中的应用：以Berachain、Tenet、Mangate为例",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687924828811.png"
         },
@@ -148,7 +188,7 @@
           "description": "在一篇讨论这一特定空投计划的博客文章中，Arbitrum 团队阐明了代币分配的根本目标是「社区治理的本土化」。将代币直接分配给 Arbitrum 协议的金库旨在使他们能够在生态系统内承担起治理责任和决参与策过程。这种方法使协议能够利用此次空投来支持其运营并推动平台或产品向前发展，确保协议以及背后的 Arbitrum 生态拥有更美好的未来。",
           "link": "https://www.web3sj.com/daonews/77167/",
           "publishedOn": "2023-06-28T03:54:01.000Z",
-          "wordCount": 1083,
+          "wordCount": 1101,
           "title": "获得ARB空投的137个DAO，都用这笔钱干了什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687924414640.png"
         },
@@ -158,7 +198,7 @@
           "description": "Grayscale收取的ETHE和GBTC月度管理费用创2022年5月以来新高，约4400万美元。Circle CEO：随着监管机构“过去的担忧”得到解决，新一波比特币ETF或会获得批准。以太坊基金会推出Devconnect学者计划。",
           "link": "https://www.web3sj.com/news/77114/",
           "publishedOn": "2023-06-27T11:44:29.000Z",
-          "wordCount": 692,
+          "wordCount": 702,
           "title": "Web3世界日报（2023-6.27）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023062711422360.jpg"
         },
@@ -168,49 +208,9 @@
           "description": "见到 OKX 香港负责人 Lennix，是在 4 月 OKX 举办的一场酒会上，他说着一口香港普通话，招呼着来客，酒会的地点是在铜锣湾的登龙街，许多大型加密货币机构都愿意来此举办活动，这条街上挂着大约三米长的比特币巨幅海报，而在街道拐角处的商铺，摆放着几个加密货币柜台机，在那里，人们可以自由的将比特币兑换成港币。",
           "link": "https://www.web3sj.com/news/77101/",
           "publishedOn": "2023-06-27T08:40:58.000Z",
-          "wordCount": 1180,
+          "wordCount": 1170,
           "title": "香港Web3：1年、1张牌、1个新的行业",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687855246746.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77092",
-          "author": "Gao",
-          "description": "面向 Web3 的未来，开发者对待 ZK-Rollup 技术或许更应保持辩证思考的态度，才能把握 ZK 赛道的机遇，挖掘链上应用开发的潜力。如果你也对 ZK-Rollup 技术充满兴趣，不妨来听听这一期 TinTinWeekly 的嘉宾们围绕 ZK-Rollup 技术分享的经验心得。",
-          "link": "https://www.web3sj.com/news/77092/",
-          "publishedOn": "2023-06-27T08:27:49.000Z",
-          "wordCount": 867,
-          "title": "加密世界新宠，ZK Rollup技术的应用和前景",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687854451513.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77074",
-          "author": "Gao",
-          "description": "如果你想成为 DeFi 中有竞争力的 L1，速度至关重要。用户不想交换代币后，还得设置提醒检查 20 分钟后他们的交易是否已经完成。当谈到区块链的速度时，有几种衡量方式。你可能已经听说过每秒交易量（TPS）。可以将其视为链每秒钟可以完成多少任务（如交换、NFT 铸造、转账）。",
-          "link": "https://www.web3sj.com/news/77074/",
-          "publishedOn": "2023-06-27T07:49:23.000Z",
-          "wordCount": 1005,
-          "title": "重新审视Cardano：悄然构建有竞争力的L1",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687852104237.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77061",
-          "author": "Gao",
-          "description": "2023 年 6 月 5 日及 6 月 6 日，美国证监会（SEC）对 Binance 与 Coinbase 两家虚拟资产交易平台提起诉讼，认为某些加密货币因满足豪威测试而认定其为「证券」，须受 SEC 监管。回溯今年三月，美国商品期货交易委员会（CFTC）认为虚拟资产属于「商品」，由此认为其具有管辖权，并控诉 Binance 在美国进行非许可交易。在通过两党都能接受的草案之前，SEC 与 CFTC 对于加密货币的管辖权争议仍将持续。",
-          "link": "https://www.web3sj.com/definews/77061/",
-          "publishedOn": "2023-06-27T06:51:16.000Z",
-          "wordCount": 854,
-          "title": "支付型稳定币争议：货币、证券还是「其他」？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1b421dff7d21315f53f016fc107986c2.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77049",
-          "author": "Gao",
-          "description": "我们知道，今年 2 月，MakerDAO 投票批准了一项提案，允许其投资不超过 12.8 亿美元的美国国债。那么问题来了，作为最大的 DeFi 协议之一，它为何如此热衷于投资美国国债？这个动作意味着什么？MakerDAO 是否拥有了主权国家的造币能力？",
-          "link": "https://www.web3sj.com/definews/77049/",
-          "publishedOn": "2023-06-27T06:46:18.000Z",
-          "wordCount": 1120,
-          "title": "买下12亿美债，MakerDAO大手笔引入RWA现实资产意欲何为？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1687848366505.png"
         }
       ]
     },
@@ -305,7 +305,7 @@
           "description": "PANews 6月28日消息，据0xScope监控，Azuki团队已于今日00:16:35将Azuki Elementals预售中获得的2万枚ETH（约3750万美元）分多笔全部转至0x2ae6开头多签地址。据悉，Azuki Elementals预售于北京时间今日0点开始，并在15分钟内售罄。",
           "link": "https://panewslab.com/zh/articledetails/hpev708r.html",
           "publishedOn": "2023-06-28T01:48:42.000Z",
-          "wordCount": 365,
+          "wordCount": 362,
           "title": "数据：Azuki团队已将Elementals预售获得的2万枚ETH转至多签地址，约3750万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
