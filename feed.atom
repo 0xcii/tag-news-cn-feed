@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-29T04:17:36.673Z</id>
+    <id>urn:2023-06-29T05:14:06.307Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-29T04:17:36.673Z</updated>
+    <updated>2023-06-29T05:14:06.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[详解MakerDAO最近动态]]></title>
+        <id>https://www.web3sj.com/?p=77476</id>
+        <link href="https://www.web3sj.com/definews/77476/"/>
+        <updated>2023-06-29T05:10:37.000Z</updated>
+        <summary type="html"><![CDATA[MakerDAO 的通用借贷协议 Spark Protocol 于 5 月 9 日正式启动，该协议主要用于借贷以 DAI 为重点的加密资产，其上第一个产品为 Spark Lend，允许用户以设定的 Dai 储蓄率（DSR）借入 DAI，目前利率为 3.49%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compound创始人创立新公司「Superstate」：在以太坊上将美国国债代币化]]></title>
         <id>https://www.web3sj.com/?p=77466</id>
@@ -43,6 +53,36 @@
         <summary type="html"><![CDATA[PANews 6月29日消息，据Lookonchain监测，10小时前，0x73b4开头巨鲸地址将9天前从The Sandbox Genesis收到的1000万枚SAND (约400万美元)转入0x733D开头的地址，随后在1小时前，0x733D开头地址将500万枚SAND (约200万美元) 转入币安。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：FTX 已开始征求感兴趣的各方重启FTX.com交易所]]></title>
+        <id>https://www.hellobtc.com/news/202306/20837.html</id>
+        <link href="https://www.hellobtc.com/news/202306/20837.html"/>
+        <updated>2023-06-29T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[1.FTX CEO：该公司已开始征求感兴趣的各方重启FTX.com交易所。
+
+2.Vitalik Buterin：基于MPC的EOA钱包有根本缺陷，智能合约钱包是唯一选择。
+
+3.Azuki昨日销售Elementals获得的2万枚ETH于7小时前转进Coinbase Prime。
+
+4.Jayson Hobby将担任Compound Labs的首席执行官。
+
+5.Compound CEO创立以区块链为记录工具的债券基金公司Superstate。
+
+6.dYdX Chain 公共测试网将于 7 月 6 日正式启动，将推出比特币与以太坊市场。
+
+7.Yuga Labs发布HV-MTL Forge官方游戏指南，总计包含6个赛季。
+
+8.FTX债权人委员会：客户需在2023年9月29日前提交索赔证明。
+
+9.前FTX合规官因涉嫌收买潜在举报人而被起诉。
+
+10.数据：2022 年全球加密传销和庞氏骗局总共造成 78 亿美元损失。
+
+11.Azuki将推出新NFT系列GreenBean，或空投给Azuki持有者。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -324,16 +364,6 @@ PANews Telegram频道，立即订阅]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[骗局早已被精心策划：详解Chibi Finance盗取100万美元随后跑路过程]]></title>
-        <id>https://www.web3sj.com/?p=77323</id>
-        <link href="https://www.web3sj.com/news/77323/"/>
-        <updated>2023-06-28T07:38:57.000Z</updated>
-        <summary type="html"><![CDATA[虽然 Chibi Finance 退出骗局发生在 6 月 27 日，但该骗局很可能已​于数日前甚至更早时被精心策划。6 月 15 日，外部地址（0xa3F1）从 Tornado Cash 提取了 10 枚 ETH。其中 2 枚 ETH 通过跨链桥转移到以太坊网络。4 天后于 6 月 19 日，再次转移 7.8 枚 ETH。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：美总统候选人肯尼迪，若当选总统将确保比特币的使用和持有权不受侵犯]]></title>
         <id>https://www.hellobtc.com/news/202306/20835.html</id>
         <link href="https://www.hellobtc.com/news/202306/20835.html"/>
@@ -506,16 +536,6 @@ PANews Telegram频道，立即订阅]]></summary>
         <link href="https://www.hellobtc.com/news/202306/20827.html"/>
         <updated>2023-06-22T11:10:00.000Z</updated>
         <summary type="html"><![CDATA[Binance创始人CZ在社交平台分享将于哈萨克斯坦推出数字资产平台签字仪式合影并表示，从左至右是：我，哈萨克斯坦总统托卡耶夫以及哈萨克斯坦数字发展、创新和航空航天工业部部长Bagdat Mussin。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop与Elixir Games达成战略合作将为旗下Web3游戏分发平台“GameStop Playr”提供支持]]></title>
-        <id>https://www.hellobtc.com/news/202306/20826.html</id>
-        <link href="https://www.hellobtc.com/news/202306/20826.html"/>
-        <updated>2023-06-22T11:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Web3游戏分发平台Elixir Games已宣布与“游戏驿站”GameStop达成战略合作，并将为GameStop旗下 Web3 游戏分发平台“GameStop Playr”提供支持，包括游戏托管、游戏竞赛管理、游戏社交、Web3游戏Launchpad等，旨在进一步提升Web3游戏可玩性和可发现性。Elixir Games此前也和《最终幻想》开发商Square Enix达成战略合作，旨在传统游戏玩家中提高 Web3游戏的知名度和采用率。（prnewswire）]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
