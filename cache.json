@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 669,
+          "wordCount": 653,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 898,
+          "wordCount": 903,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 473,
+          "wordCount": 457,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=77647",
+          "author": "Gao",
+          "description": "根据 DAppRadar 数据显示，近 7 天 Lens Protocol 日均活跃用户数为 2.9K 左右。而当前 Lens Protocol 已注册的 Profile NFT 有 11.8 万个，参与的钱包地址数已超过 10 万个，日活地址数占比不足 3%。这与动辄日活用户上亿的 Web2 社交应用如推特、微博等平台差距甚远。",
+          "link": "https://www.web3sj.com/news/77647/",
+          "publishedOn": "2023-06-29T13:01:19.000Z",
+          "wordCount": 995,
+          "title": "用户增长停滞、日活降低，Lens Protocol离Web3社交王国梦还有多远？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688043636365.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=77629",
+          "author": "Gao",
+          "description": "去中心化资产管理是一种使用区块链技术的智能合约，通过不可篡改、无需信任和不可审查的方式提供资产管理服务。这种资产管理方法可以让投资者将投资决策委托给外部第三方，而不必失去信任和控制权。在这个领域中，产品主要包括链上主动式管理基金、链上被动式管理指数和各种结构化产品。",
+          "link": "https://www.web3sj.com/definews/77629/",
+          "publishedOn": "2023-06-29T12:56:40.000Z",
+          "wordCount": 1122,
+          "title": "深度研究：从DeBank看资产管理工具的演变",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688043346336.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=77623",
+          "author": "Gao",
+          "description": "Autofarm 是个老牌 DeFi 项目，功能类似于 Yearn Finance 的 Yield Aggregator（收益聚合），旨在优化 DeFi 用户在与 DeFi 空间中的其他 DApp 交互时的收益。Autofarm 最初建立在 BSC 上，后逐渐拓展至 Polygon、Avalanche、Fantom、Celo 等链。",
+          "link": "https://www.web3sj.com/definews/77623/",
+          "publishedOn": "2023-06-29T12:45:20.000Z",
+          "wordCount": 843,
+          "title": "Autofarm被「野蛮人敲门」后被迫关闭，恶意收购方或多次买币安壳项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688042707314.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=77616",
+          "author": "Gao",
+          "description": "先回顾一下 Grayscale 去年对 SEC 的起诉，Grayscale 称 SEC 不让他们将 GBTC 转换为现货 ETF。法院的判决将在未来几周或几个月内的某个时间做出，这可能为潜在的现货 ETF 成功铺平道路。可见，贝莱德现在提交现货 ETF 申请并不是巧合。",
+          "link": "https://www.web3sj.com/news/77616/",
+          "publishedOn": "2023-06-29T12:41:51.000Z",
+          "wordCount": 765,
+          "title": "贝莱德比特币ETF有哪些关键日期？有何交易机会？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688042499967.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=77613",
+          "author": "Gao",
+          "description": "那么除了比特币，巨鲸们在山寨币上还有哪些操作呢？在 0xScope 的数据帮助下，BlockBeats 找到了在 6 月 15 日至 6 月 27 日期间（也就是比特币 25000-31000 的期间）以太坊链上单笔 swap 交易额超过 30 万美元的巨鲸持仓买卖动向（以交易次数为准），来看看巨鲸们近期都买 / 卖了哪些 token。",
+          "link": "https://www.web3sj.com/news/77613/",
+          "publishedOn": "2023-06-29T12:39:21.000Z",
+          "wordCount": 1083,
+          "title": "比特币上涨的这几天，巨鲸们都买了什么币？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688042342890.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=77608",
           "author": "Gao",
           "description": "Vitalik：基于MPC的EOA存在根本缺陷，智能合约钱包是唯一的选择。万事达卡将推出代币化银行存款测试平台。美SEC委员认为美国加密法不能假设一切都是“金融资产”。",
           "link": "https://www.web3sj.com/news/77608/",
           "publishedOn": "2023-06-29T11:43:42.000Z",
-          "wordCount": 738,
+          "wordCount": 661,
           "title": "Web3世界日报（2023-6.29）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023062911432574.jpg"
         },
@@ -128,7 +178,7 @@
           "description": "向创始人解释 SEC 的立场变得越来越让人感到压力。每次有新的诉讼案件出现，创始人都会联系他们的律师，后者不得不重新调整建议，以适应 SEC 的最新指控。律师们分析了主席 Gensler 在演讲和电视节目中的发表的评论，但随后 SEC 在法庭上辩称「这些评论不是也不能构成行政行为」。",
           "link": "https://www.web3sj.com/news/77588/",
           "publishedOn": "2023-06-29T08:27:57.000Z",
-          "wordCount": 907,
+          "wordCount": 914,
           "title": "Alliance DAO总法律顾问：SEC的政治迷宫",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/5-1688017231877.png"
         },
@@ -138,7 +188,7 @@
           "description": "这些来自 intent 项目（@anoma & Suave）和 DA 层（@ethereum， @AvailProject & @CelestiaOrg）的改进将提高新应用程序相对于基于旧基础设施构建的应用程序的质量。",
           "link": "https://www.web3sj.com/news/77585/",
           "publishedOn": "2023-06-29T08:24:42.000Z",
-          "wordCount": 685,
+          "wordCount": 674,
           "title": "基础设施层创新是大规模采用的前提",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688027019812.png"
         },
@@ -148,7 +198,7 @@
           "description": "Consensys 和 YouGov 一起做了一项关于加密和 Web3 的全球调查，旨在了解全球不同地区对加密和 Web3 的看法和见解。该调查除了人们对加密资产投资的典型问题，还探讨了数据隐私、数字所有权和最近的加密新闻周期等主题。本报告采访了北美和南美，欧洲，非洲和亚洲 15 个国家的 15158 名 18 至 65 岁的人，以形成调查结果。",
           "link": "https://www.web3sj.com/news/77564/",
           "publishedOn": "2023-06-29T07:33:47.000Z",
-          "wordCount": 933,
+          "wordCount": 965,
           "title": "ConsenSys调查：各国人对Web3认知度如何？对Crypto后市还有信心吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688024016568.png"
         },
@@ -158,59 +208,9 @@
           "description": "直到今夜凌晨的 Elements 发售，却让社区破了大防。除了对白名单 Mint 窗口期只有短短十分钟，导致短时间内网站流量超载而直接崩溃。发售结束后，项目方将 2 万枚 ETH 直接转走。社区讨论最多的就是 Elements 与 Azuki 一代的各种特征重复度高，这对 Azuki 一代的价值可能造成直接的稀释。",
           "link": "https://www.web3sj.com/nftnews/77553/",
           "publishedOn": "2023-06-29T06:49:41.000Z",
-          "wordCount": 923,
+          "wordCount": 895,
           "title": "Azuki发售的Elementals为什么会撞图？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688021364942.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77535",
-          "author": "Gao",
-          "description": "2023 年第二季度即将结束，加密市场大部分时间都相当悲观。哪些叙事表现最出色？链上分析师 Crypto Kroyo 将 20 个叙事绘制成仪表盘，并对数据进行了分析。",
-          "link": "https://www.web3sj.com/news/77535/",
-          "publishedOn": "2023-06-29T05:49:26.000Z",
-          "wordCount": 739,
-          "title": "即将过去的第二季度，哪些加密叙事表现最出色？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688017083442.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77505",
-          "author": "Gao",
-          "description": "自 2022 年 5 月以来加密市场陆续遭遇宏观紧缩环境，大型机构暴雷等重大事项，已经经历一年多的行业低谷。但随着宏观政策逐渐稳定，以及比特币减半周期的临近，大家普遍开始预测 2024-2025 年或许市场会迎来新一波周期。于是，开发者和创业者们需要在低谷中把握机会，提前布局可能的牛市主题。",
-          "link": "https://www.web3sj.com/news/77505/",
-          "publishedOn": "2023-06-29T05:38:37.000Z",
-          "wordCount": 2004,
-          "title": "Future3 Campus：Web3大规模采用之路",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688017100744.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77496",
-          "author": "Gao",
-          "description": "zkSync 是一条以太坊 Layer 2 Rollup 区块链，也可看作是一个在以太坊上提供可扩展、低成本支付的 Layer2 去信任协议。zkSync 使用 ZK Rollup 技术来解决目前以太坊拥堵的问题，即可扩展性。zkSync 是 ZK Rollup 的一种，也是零知识证明技术的首批应用之一。",
-          "link": "https://www.web3sj.com/project/77496/",
-          "publishedOn": "2023-06-29T05:29:02.000Z",
-          "wordCount": 1037,
-          "title": "zkSync Era链上数据激增，是泡沫还是真生态",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688016531609.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77488",
-          "author": "Gao",
-          "description": "在新功能 Hooks（钩子）的加持下，开发者无需开发 xxSwap ,只需在 Hooks 中定制流动性并加上前端页面和符合自身需要的元素，即可开设「制定场所」，与此同时也无需担心「制定场所」流动性不足的问题的问题。让我们一探究竟 Uni V4 是如何引领 DeFi 从「乐高时代」迈入「万钩演义」。",
-          "link": "https://www.web3sj.com/definews/77488/",
-          "publishedOn": "2023-06-29T05:19:57.000Z",
-          "wordCount": 1100,
-          "title": "告别Fork Swap，Uniswap v4正迈入「万钩演义」时代",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/13530-1687944342557.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77484",
-          "author": "Gao",
-          "description": "21Shares 联合创始人兼总裁 Ophelia Snyder 表示：「这些协议将为市场提供更高的透明度，并使加密货币市场与美国市场的监管方式更加一致。」在考虑拟议的比特币 ETF 时，美国证券交易委员会（SEC）权衡拟上市交易所（纳斯达克、纽约证券交易所或其他实体）是否能够履行《交易法》规定的某些义务，以防止欺诈和操纵。",
-          "link": "https://www.web3sj.com/news/77484/",
-          "publishedOn": "2023-06-29T05:16:11.000Z",
-          "wordCount": 745,
-          "title": "贝莱德的「监督共享协议」怎样预防比特币ETF操纵？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/1688015760241.png"
         }
       ]
     },
@@ -355,7 +355,7 @@
           "description": "PANews 6月29日消息，据Bitcoin.com报道，符合伊斯兰教法的加密项目Islamic Coin宣布从数字资产投资公司ABO Digital获得2亿美元投资，这使得该项目已获得的总资金达到4亿美元。\nIslamic Coin还宣布与英国公司DDCAP Group达成合作，以为伊斯兰金融开发若干Web3解决方案，Islamic Coin称其正“建立一个改变游戏规则的金融平台，将伊斯兰金融的道德和传统结合在一起”。\n据悉，Islamic Coin建立在其自己的Haqq区块链之上，旨在严格遵守伊斯兰金融规则和传统。此前去年8月消息， Islamic Coin完成2亿美元私募融资，并称加密项目已经获得了法特瓦（伊斯兰教法判例）批准。",
           "link": "https://panewslab.com/zh/articledetails/44ibj3w0.html",
           "publishedOn": "2023-06-29T07:27:34.000Z",
-          "wordCount": 369,
+          "wordCount": 366,
           "title": "伊斯兰加密项目Islamic Coin完成2亿美元新一轮融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +375,7 @@
           "description": "PANews 6月29日消息，NFT基础设施协议Cardinal在推特上表示：“我们决定开始逐步结束我们的协议。这是经过深思熟虑决定的，自18个月前开始建设以来，我们已尽最大努力应对这个极其困难的宏观经济环境，适合市场的产品仍然很难找到，而现实情况是，我们团队的成员渴望探索其他追求。虽然我们已经看到了我们的质押、租赁和身份产品的一些实际用途，但我们仍然觉得它们被困在加密货币最大化社区的背景下。我们曾希望，全球其他行业将开始更大规模地采用区块链技术，但到目前为止这仍然感觉很遥远。”\n此前去年7月消息，Cardinal完成440万美元种子轮融资，Protagonist和Solana Ventures共同领投，Animoca Brands、Alameda Research、Delphi Digital和CMS Holdings参投。",
           "link": "https://panewslab.com/zh/articledetails/cpvjko5m.html",
           "publishedOn": "2023-06-29T06:51:25.000Z",
-          "wordCount": 360,
+          "wordCount": 356,
           "title": "NFT基础设施协议Cardinal宣布将逐步关停，因“宏观经济环境极其困难”",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -415,7 +415,7 @@
           "description": "PANews 6月29日消息，据科创板日报报道，人工智能加速器公司Celestial AI宣布完成1亿美 B轮融资，由 IAG Capital Partners、Koch Disruptive Technologies和淡马锡Xora创新基金领投。该公司首席执行官Lazovsky称，这笔资金使Celestial AI的融资总额超过1.65亿美元，将用于通过扩大公司的工程、销售和技术营销部门来支持Celestial光子平台的生产。",
           "link": "https://panewslab.com/zh/articledetails/0nx7ojr7.html",
           "publishedOn": "2023-06-29T06:11:33.000Z",
-          "wordCount": 382,
+          "wordCount": 379,
           "title": "人工智能加速器公司Celestial AI完成1亿美元B轮融资，淡马锡等领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -427,12 +427,52 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202306/20841.html",
+          "author": null,
+          "description": "6月29日消息，总部位于美国的大西洋理事会智库发布报告称，占全球经济 98% 的 130 个国家和地区央行目前正在探索数字货币，其中近一半正处于进阶开发、试点或启动阶段，除阿根廷以外的所有 G20 国家都已进入进阶阶段。 报告表示，过去六个月各国央行的数字货币探索尤为积极，包括加勒比海地区和尼日利亚在内的 11 个国家已经推出了央行数字货币（CBDC），而中国的数字人民币试点测试现已覆盖 2.6 亿人口，涵盖从电子商务到政府消费补贴的约 200 种支付场景。另外两个大型新兴经济体印度和巴西也计划明年推出数字货币。欧洲央行则有望在 2028 年启动数字欧元试点，其他 20 多个国家也将在今年采取重大举措进行试点。",
+          "link": "https://www.hellobtc.com/news/202306/20841.html",
+          "publishedOn": "2023-06-29T13:01:00.000Z",
+          "wordCount": 319,
+          "title": "报告：占全球经济98%的130家央行正探索数字货币",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202306/20840.html",
+          "author": null,
+          "description": "美国银行(BAC)周四在一份研究报告中表示，代币化只是区块链技术的一种应用，但它是在未来5到15年内可以改变金融和非金融基础设施以及金融市场的一种应用。 美国银行指出，像广播、电视和电子邮件这样的颠覆性技术花了30年才达到主流应用。它预计数字资产的滞后期要短得多。随着  未获得的效率的机会成本增加 ，区块链技术的实施将在金融机构和企业中加速。",
+          "link": "https://www.hellobtc.com/news/202306/20840.html",
+          "publishedOn": "2023-06-29T13:01:00.000Z",
+          "wordCount": 305,
+          "title": "美国银行：代币化可能会改变基础设施和金融市场",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202306/20839.html",
+          "author": null,
+          "description": "数据显示，ETH 2.0总质押数已超2500万，为25044705个，按当前市场价格，价值约469.60亿美元。此外，目前ETH 2.0质押总地址数已超82.96万，为829615个。",
+          "link": "https://www.hellobtc.com/news/202306/20839.html",
+          "publishedOn": "2023-06-29T13:00:00.000Z",
+          "wordCount": 314,
+          "title": "ETH 2.0总质押数已超2500万",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202306/20838.html",
+          "author": null,
+          "description": "一群匿名人士在一项集体诉讼中声称，ChatGPT的开发商OpenAI公司正在窃取“大量”个人信息，以训练其人工智能模型不顾一切地追逐利润。在这份长达157页的诉状中，这些匿名人士指责OpenAI从互联网上秘密抓取3000亿字，窃听了“书籍、文章、网站和帖子，包括未经同意获得的个人信息”，违反了隐私法。克拉克森律师事务所(Clarkson Law Firm)在周三向美国旧金山联邦法院提交的诉状中表示，原告的姓名都是用职业或兴趣来描述的，但由于担心遭到反对，只能用首字母来标识。他们根据受伤害的个人类别估计有数百万人，提出了30亿美元的潜在损失。 (华盛顿邮报)",
+          "link": "https://www.hellobtc.com/news/202306/20838.html",
+          "publishedOn": "2023-06-29T13:00:00.000Z",
+          "wordCount": 315,
+          "title": "OpenAI遭集体诉讼 被控“窃取私人数据”",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202306/20837.html",
           "author": null,
           "description": "1.FTX CEO：该公司已开始征求感兴趣的各方重启FTX.com交易所。\n\n2.Vitalik Buterin：基于MPC的EOA钱包有根本缺陷，智能合约钱包是唯一选择。\n\n3.Azuki昨日销售Elementals获得的2万枚ETH于7小时前转进Coinbase Prime。\n\n4.Jayson Hobby将担任Compound Labs的首席执行官。\n\n5.Compound CEO创立以区块链为记录工具的债券基金公司Superstate。\n\n6.dYdX Chain 公共测试网将于 7 月 6 日正式启动，将推出比特币与以太坊市场。\n\n7.Yuga Labs发布HV-MTL Forge官方游戏指南，总计包含6个赛季。\n\n8.FTX债权人委员会：客户需在2023年9月29日前提交索赔证明。\n\n9.前FTX合规官因涉嫌收买潜在举报人而被起诉。\n\n10.数据：2022 年全球加密传销和庞氏骗局总共造成 78 亿美元损失。\n\n11.Azuki将推出新NFT系列GreenBean，或空投给Azuki持有者。",
           "link": "https://www.hellobtc.com/news/202306/20837.html",
           "publishedOn": "2023-06-29T03:08:00.000Z",
-          "wordCount": 336,
+          "wordCount": 335,
           "title": "白话区块链早报：FTX 已开始征求感兴趣的各方重启FTX.com交易所",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -484,46 +524,6 @@
           "publishedOn": "2023-06-26T08:10:00.000Z",
           "wordCount": 309,
           "title": "NEAR基金会与阿里云合作以加速Web3在亚洲和中东的发展",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202306/20830.html",
-          "author": null,
-          "description": "1.加密货币领域作者Francisco Memoria观点：贝莱德进军加密领域的举动可能会开启15万亿美元的加密热潮。\n\n2.Ki Young Ju：由于赎回问题数十亿美元的TUSD已经被注入BTC和ETH。\n\n3.外媒：纳斯达克、Ripple、贝莱德等公司或对FTX 2.0重启有意向。\n\n4.Andre Cronje：Fantom链上费用销毁的FTM已超1000万枚。\n\n5.DWF Labs承诺将50万枚WAVES投入质押和投票。\n\n6.OPNX推出首个Launchpad项目Raiser，10%的代币将分配给OX质押者。\n\n7.韩国检方禁止Delio、Haru Invest高管以及B&S Holdings大股东出境。",
-          "link": "https://www.hellobtc.com/news/202306/20830.html",
-          "publishedOn": "2023-06-25T03:17:00.000Z",
-          "wordCount": 322,
-          "title": "白话区块链早报：贝莱德进军加密领域的举动可能会开启15万亿美元的加密热潮",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202306/20829.html",
-          "author": null,
-          "description": "1.比特币涨至近一年来新高，今年迄今涨幅超80%。\n\n2.Volatility Shares推出的2X比特币策略ETF将于下周二开始交易。\n\n3.报告：贝莱德比特币ETF即便获批也不会在2023年内推出。\n\n4.Optimism链更名为OP Mainnet。\n\n5.Wintermute被控通过虚假交易抬高Celsius Token价格，帮助前Celsius首席执行官Alex Mashinsky欺骗投资者。\n\n6.年初以来，稳定币DAI持有的USDC储备从24亿美元降至5.2亿美元。\n\n7.Velodrome发布V2版本，VELO和veVELO持有者可迁移至V2。\n\n8.Coinbase在ETH质押中的份额降至9.7%。\n\n9.OPNX将很快公布首个Launchpad项目，并即将推出信用稳定币oUSD。\n\n10.黄立成过去5小时内抛售多枚BAYC、MAYC和Azuki NFT。",
-          "link": "https://www.hellobtc.com/news/202306/20829.html",
-          "publishedOn": "2023-06-24T03:06:00.000Z",
-          "wordCount": 318,
-          "title": "白话区块链早报：比特币涨至近一年来新高，今年迄今涨幅超80%",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202306/20828.html",
-          "author": null,
-          "description": "1.数据：以太坊相对于比特币的价值呈下降趋势，目前已触及0.0615。\n\n2.Coinbase CEO：Coinbase将看起来更像微信，而不是简单的加密货币交易界面。\n\n3.PEPE周涨幅超70%，表现优于其他Meme币。\n\n4.贝莱德高管：重点关注代币化及其与Circle的合作关系。\n\n5.三菱日联金融集团探索在旗下区块链平台发行稳定币。\n\n6.哈萨克斯坦总统托卡耶夫出席Binance哈萨克斯坦签字仪式。\n\n7.Animoca Brands宣布成为Celo网络验证者。\n\n8.TikTok 首席运营官在任职 5 年后辞职，并指出 AI 和区块链等可以改变未来。\n\n9.C罗与币安合作的第二个NFT系列将于7月3日推出。",
-          "link": "https://www.hellobtc.com/news/202306/20828.html",
-          "publishedOn": "2023-06-23T04:00:00.000Z",
-          "wordCount": 320,
-          "title": "白话区块链早报：以太坊相对于比特币的价值呈下降趋势，目前已触及0.0615",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202306/20827.html",
-          "author": null,
-          "description": "Binance创始人CZ在社交平台分享将于哈萨克斯坦推出数字资产平台签字仪式合影并表示，从左至右是：我，哈萨克斯坦总统托卡耶夫以及哈萨克斯坦数字发展、创新和航空航天工业部部长Bagdat Mussin。",
-          "link": "https://www.hellobtc.com/news/202306/20827.html",
-          "publishedOn": "2023-06-22T11:10:00.000Z",
-          "wordCount": 303,
-          "title": "哈萨克斯坦总统托卡耶夫出席Binance哈萨克斯坦签字仪式",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
