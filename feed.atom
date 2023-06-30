@@ -1,10 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-30T07:13:00.467Z</id>
+    <id>urn:2023-06-30T08:17:31.760Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-30T07:13:00.467Z</updated>
+    <updated>2023-06-30T08:17:31.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[解析MPC和智能合约两种钱包方案：Vitalik说错了吗？]]></title>
+        <id>https://www.web3sj.com/?p=77782</id>
+        <link href="https://www.web3sj.com/news/77782/"/>
+        <updated>2023-06-30T08:16:21.000Z</updated>
+        <summary type="html"><![CDATA[MPC 战队的人炮轰 V 神对 MPC 技术有偏见怀有敌意，而 SC 战队的人则趾高气昂收获 V 神这样的扛旗兵。在我看来，MPC 和 SC 服务不同客群和应用场景，技术和业务逻辑本就大相径庭，没必要混淆撕逼。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了扩容，零知识证明在Web3还有哪些创新用例？]]></title>
+        <id>https://www.web3sj.com/?p=77773</id>
+        <link href="https://www.web3sj.com/news/77773/"/>
+        <updated>2023-06-30T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[随机性: ZK 可以与 VDFs (Verifiable Delay Functions) 结合，以在区块链上实现完全安全的随机性。尽管在以太坊上有许多随机性原语，但它们存在微妙的缺陷，如可偏性，活性，昂贵性，额外的信任假设。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NDV联创Christian称其在NFT上的投资已浮亏超1000枚ETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/rye548f6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rye548f6.html"/>
+        <updated>2023-06-30T08:08:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，加密基金NDV联合创始人Christian在推特上表示：“我个人投资的NFT目前已浮亏超1000枚ETH，但不会出售持有的所有Azuki，也不会出售任何一枚（相关系列）NFT。我不知道NFT时代是否已经终结了，坏事已经发生，有人犯了错，所有的情绪都应被理解。我们需要直面困难，给予我们所珍视事物更多的宽容和信心。每当我恐惧或想卖出时都会安慰自己，至少我离共同富裕的目标又近了一步。黎明将会到来。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析GMX、DYDX、SNX代币供应与需求]]></title>
+        <id>https://www.web3sj.com/?p=77753</id>
+        <link href="https://www.web3sj.com/definews/77753/"/>
+        <updated>2023-06-30T08:05:50.000Z</updated>
+        <summary type="html"><![CDATA[在基本面水平相当的情况下，代币供应和需求对代币价格走势有较大影响。本文将对比三个主要衍生品 DEX 协议 GMX、DYDX、SNX 的代币供应及需求，更深入地了解协议的代币经济模型，辅助投资决策。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司：虚假Archway代币被部署者移除7万美元的流动性]]></title>
+        <id>https://panewslab.com/zh/articledetails/dqq5k1ds.html</id>
+        <link href="https://panewslab.com/zh/articledetails/dqq5k1ds.html"/>
+        <updated>2023-06-30T08:03:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，据CertiK Alert监测，虚假Archway代币被移除大量流动性，部署者从LP中移除了约7万美元的代币。
+该合约地址为BSC: 0xE6Eff43ca45b23470e36c9148F1BEB24cA38D572。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3项目融资：如何选择融资方式与法律文件？]]></title>
+        <id>https://www.web3sj.com/?p=77750</id>
+        <link href="https://www.web3sj.com/news/77750/"/>
+        <updated>2023-06-30T07:59:05.000Z</updated>
+        <summary type="html"><![CDATA[这种交易模式尤其适用于早期项目，即尚未注册 Token SPV（Token Special Purpose Vehicle，负责初始 Token 的发行和分配，通常在立法允许 Token 发行并为 Token 销售和交易征税提供明确规则的司法管辖区注册），且还没建立完善的 Tokenomics（基于区块链和加密货币技术的经济模型和理论，以实现经济激励、价值交换和社区治理）的项目。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安：将销毁一些闲置币安挂钩代币，并释放等量在本地网络上用作抵押品的代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/1ld4gtxg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1ld4gtxg.html"/>
+        <updated>2023-06-30T07:55:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，币安在推特上发布公告称：“今天，币安将销毁一些闲置的币安挂钩代币，然后将释放等量的在本地网络上用作抵押品的代币。包括TRXOLD (BSC)、PAX (BSC)、DAI (BSC)、USDP (BSC)、PAXG (BSC)、PAXG (BNB)、BUSD (BSC)、USDC (BSC)。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nostr：走出社交图谱的数字困境]]></title>
+        <id>https://www.web3sj.com/?p=77747</id>
+        <link href="https://www.web3sj.com/news/77747/"/>
+        <updated>2023-06-30T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，Nostr 的 NIP 04 直接消息会泄漏元数据。这似乎是一个明显的缺陷，并且已经多次被指出。毕竟，如果任何人都能看到你发消息的对象、频率、时间、消息大小、提到的其他人，并将多个不同的对话相互关联，那么你的通讯到底有多私密呢？]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打破围绕开源LLM的6大迷思]]></title>
+        <id>https://www.web3sj.com/?p=77726</id>
+        <link href="https://www.web3sj.com/news/77726/"/>
+        <updated>2023-06-30T07:45:44.000Z</updated>
+        <summary type="html"><![CDATA[在团队出发前硅谷的前一天晚上，我在 YouTube 上刷到 OpenAI 元老 John Schulman 在伯克利有关 RLHF 和 Hallucination 的讲座，他一阵见血地指出这类开源模型的做法只是「形似」，实际上降低了模型的 Truthfulness。之后的硅谷之旅我集齐了这个生态的不同视角，对开源社区的现状有了更加清醒的认知 —— 尽管 Stability AI 也非常积极地入场了 LLM，但是这里的 Stable Diffusion 时刻可能仍未到来。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币资管公司Samara Asset Group向子公司Samara Alpha注资1000万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/0g3a5hfd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0g3a5hfd.html"/>
+        <updated>2023-06-30T07:44:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，据EQS News报道，专注于比特币的另类资产管理公司Samara Asset Group（原Cryptology Asset Group）宣布已向其子公司Samara Alpha Management新推出的旗舰市场中性多策略基金投资1000万美元。
+据悉，Samara Alpha 已于今年早些时候启动运营，其市场中性策略旨在利用新兴数字资产领域的潜在市场机会。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国金融服务委员会：将准备为虚拟资产进行第二阶段立法]]></title>
+        <id>https://panewslab.com/zh/articledetails/0j5jaj70.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0j5jaj70.html"/>
+        <updated>2023-06-30T07:41:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，据Etoday报道，韩国金融服务委员会就国会全体会议通过《虚拟资产用户保护法》一事发布新闻稿称：“我们将准备为虚拟资产进行第二阶段立法，在法律实施之前，将积极与战略财政部、科技部、法务部、行政安全部、检察机关、警察厅、韩国银行和金融监督院等相关机构协商，推进确立市场纪律体系的多方面措施。”报道称，韩国《虚拟资产用户保护法》将在政府颁布程序一年后实施，即预计明年7月份实施。
+今日早些时候消息，韩国《虚拟资产用户保护法》在该国国会全体会议上获得通过。据悉，根据该国的立法计划，第一阶段立法的核心是引入保护客户资产、杜绝不公平交易等保护用户的法律规则；第二阶段立法将推进虚拟资产发行和披露等市场秩序的补充规定。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊扩展解决方案的演变：OP Stack、Arbitrum Orbit、Polygon 2.0…]]></title>
+        <id>https://www.web3sj.com/?p=77716</id>
+        <link href="https://www.web3sj.com/news/77716/"/>
+        <updated>2023-06-30T07:36:30.000Z</updated>
+        <summary type="html"><![CDATA[事实证明，我们使用跨链桥应对这一挑战的努力是脆弱的，并且一直受到恶意行为者的攻击。新的挑战需要创新的解决方案。新的挑战需要创新的解决方案。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik回答一切：AI 灾难、Zuzalu 实验、比特币文化……]]></title>
+        <id>https://www.web3sj.com/?p=77713</id>
+        <link href="https://www.web3sj.com/news/77713/"/>
+        <updated>2023-06-30T07:32:57.000Z</updated>
+        <summary type="html"><![CDATA[我不确定非技术本身是否是问题；更重要的是 (i) 非技术、(ii) 过度自信、(iii) 好斗这三种特质的交织。 我认为后两个特质更加重要。无论如何，我们都应该谨慎对待！]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谎报、抛售、下跌……Sui到底怎么了？]]></title>
+        <id>https://www.web3sj.com/?p=77699</id>
+        <link href="https://www.web3sj.com/news/77699/"/>
+        <updated>2023-06-30T07:29:08.000Z</updated>
+        <summary type="html"><![CDATA[加密货币交易员 DeFi^2 发推称，Sui 团队故意谎报释放量，并且正通过币安抛售通过「锁定」和「非流通」的质押 SUI 获得的奖励。Sui 基金会并未公布真实 Token 释放量，SUI 持有者持币份额每月或被稀释 20%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hash Global Labs收购NFT项目Maodao，重组升级为综合性文娱社区]]></title>
+        <id>https://panewslab.com/zh/articledetails/eh93rmxu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/eh93rmxu.html"/>
+        <updated>2023-06-30T07:02:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，据官方消息，Hash Global Labs完成对NFT项目Maodao的收购，将Maodao重组升级为综合性文娱社区，现有的国库资金将全部用于社区建设。
+此外，Maodao将成立一个全新的社区理事会，原创始人小毛哥将留任首届理事会以继续帮助 Maodao与HG Labs发展，第一届的理事会成员包括：唯一艺术创始人Geoffrey Tong、大象点映创始人Felix Wu、Shanghai Insight创始人Erik Zhang、Starrise Medie合伙人兼制片人FG、Hash Global创始人KK等。
+Hash Global Labs创始人KK表示，未来该项目将落地香港和新加坡，实践Web3的各种商业模式：社区共建IP、粉丝俱乐部、私域流量管理和分发，以及创作者生态等。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：某巨鲸从币安提取7000枚ETH，约合1314万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/khbfjal8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/khbfjal8.html"/>
+        <updated>2023-06-30T06:58:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，据Lookonchain监测，今日14:06，0x882E开头巨鲸地址从币安提取7000枚ETH（约合1314万美元）。
+自6月8日以来，该巨鲸已从币安提取41,600枚ETH（约合7800万美元），并质押了34,560枚ETH。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美SEC诉Coinbase一案将于7月13日开庭]]></title>
+        <id>https://panewslab.com/zh/articledetails/6o3li86t.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6o3li86t.html"/>
+        <updated>2023-06-30T06:55:13.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，据CoinDesk报道，根据周四的法庭命令，美国证券交易委员会 (SEC) 将于7月13日对Coinbase (COIN) 的首次法律辩护作出回应。在7月13日出庭期间，法官Katherine Polk Failla将决定是否允许Coinbase继续推进其昨日提出的驳回动议。
+据悉，由于Coinbase采用的“创造性”辩护策略，听证会的日期现在比预期早得多，该交易所在8月7日截止日期前40天提交了首次回应。因此法院将审前会议改为动议前会议，并将其从8月24日提前至7月13日。事前动议会议是检察官或辩护律师提出的请求，要求法院在审判前就某一问题作出决定。
+此前昨日消息，Coinbase向法院回应SEC针对其的诉讼称，美SEC系滥用执法程序，其对平台上代币无管辖权。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链协会：Gary Gensler必须回避数字资产执法决策，才能让美SEC遵守联邦法律]]></title>
+        <id>https://panewslab.com/zh/articledetails/n333rju0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/n333rju0.html"/>
+        <updated>2023-06-30T06:41:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月30日消息，加密行业倡导机构区块链协会（Blockchain Association）在公开信中表示，美国证券交易委员会（SEC）主席Gary Gensler必须回避数字资产执法决策。该协会称，四年多来，SEC一直拒绝就此问题等采取任何规则或发布任何指导，而选择仅通过执法行动来监管数字资产，自上任以来，Gensler明确表示，他持有不同的观点：在他看来，除比特币之外的所有数字资产都构成证券。Gensler拒绝了解每个案件的事实和情况，破坏了威尔斯程序，并剥夺了执法目标应有的正当程序权利。为了让SEC继续采取任何看似合法的措施并遵守联邦法律，主席Gensler必须回避涉及数字资产的执法决定。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韩国《虚拟资产用户保护法》在该国国会全体会议上获得通过]]></title>
         <id>https://panewslab.com/zh/articledetails/bq1lpzlb.html</id>
@@ -126,70 +314,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：MDT联创将2500万枚MDT转给DWF Labs，约合120万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/wjd4yw76.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wjd4yw76.html"/>
-        <updated>2023-06-30T03:35:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，据Lookonchain监测，在币安宣布上线MDT永续合约后，Measurable Data Token联合创始人heatherm.eth（于12个多小时前）将2500万枚MDT（120万美元）转移给DWF Labs。
-据悉，币安将于今日20时上线MDT 1-20倍U本位永续合约。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：BCH减半时间预计为2024年4月5日，剩余280天]]></title>
-        <id>https://panewslab.com/zh/articledetails/imwpfs78.html</id>
-        <link href="https://panewslab.com/zh/articledetails/imwpfs78.html"/>
-        <updated>2023-06-30T03:29:10.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，据欧科云链OKLink减半倒计时专题页显示，当前区块高度距离BCH减半时间剩余280天，减半时间预计为2024年4月5日，届时区块奖励将从6.25 BCH降至3.125 BCH。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：某巨鲸再次购入32万枚ARB，现持有189万枚ARB]]></title>
-        <id>https://panewslab.com/zh/articledetails/dj67qs17.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dj67qs17.html"/>
-        <updated>2023-06-30T03:23:52.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，据Lookonchain监测，0x3737开头巨鲸地址1小时内将200枚ETH存入Arbitrum，并以1.16美元的价格购买了321,910枚ARB。该地址目前持有189万枚ARB（218万美元），购买成本为1139枚ETH（约合205万美元），平均购买价格为1.09美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能初创公司Inflection AI完成13亿美元融资，微软、英伟达等领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/7agdakp1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7agdakp1.html"/>
-        <updated>2023-06-30T03:10:19.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，据官网消息，人工智能初创公司Inflection AI宣布完成13亿美元融资，微软、LinkedIn联合创始人Reid Hoffman、比尔盖茨、谷歌前CEO Eric Schmidt和新投资者NVIDIA（英伟达）领投。目前，该公司的融资总额达到15.25亿美元。新资金将支持该公司继续开展工作，建立和设计Inflection在5月推出的第一个产品Pi。Pi是一款AI聊天机器人，旨在成为一个亲切和支持性的伴侣，以自然、流畅的风格提供文字和语音对话。
-此前，Inflection AI总部位于加利福尼亚州帕洛阿尔托，是一家专注于创建个人人工智能的“人工智能工作室”，在2022年初的第一轮融资中从Greylock、微软、Reid Hoffman、Bill Gates、Eric Schmidt、Mike Schroepfer、Demis Hassabis、Will.i.am、Horizons Ventures和Dragoneer筹集了2.25亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏巨头育碧将在Oasys区块链上推出链游Champions Tactics]]></title>
-        <id>https://panewslab.com/zh/articledetails/r4654cwd.html</id>
-        <link href="https://panewslab.com/zh/articledetails/r4654cwd.html"/>
-        <updated>2023-06-30T03:03:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，据NFTGators报道，游戏巨头Ubisoft（育碧）即将在Oasys区块链上推出链游《Champions Tactics: Grimoria Chronicles》。据悉，育碧是Oasys区块链网络的节点运营商之一。该游戏是一款玩家对玩家的战术游戏，目前该游戏仅发布了一段预告片，但没有展示太多有关游戏玩法的信息。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azuki：拟更新Elemental背景以作区别，将为Azuki持有者推出积分制度]]></title>
-        <id>https://panewslab.com/zh/articledetails/zw87mh12.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zw87mh12.html"/>
-        <updated>2023-06-30T02:55:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，推特用户@lasertheend对今日早间Azuki团队在Discord的“holders only AMA”内容做了总结。针对为什么Elemental那么像Azuki，团队表示因为希望延续目前已经证实成功的PFP，但没有预料到稀释的问题，也低估了这个问题的影响。团队给出的解决方案为：团队重申OG holder的优先级，已经宣布了推出社区之路，用来投票决定更新Elemental的背景以区别开。Azuki联合创始人ZAGABOND.ETH表示，很快将推出一个新产品，讲通过“积分”决定Azuki持有人分配。并且强调了OG的Azuki将始终比Elemental更有价值，即使艺术风格相似，这是因为代币本身是不同的。
-团队还描述了关于BEANZ的进展，称BEANZ现在被归类为Azuki生态系统中的第3层，在Elemental之下，BEANZ将被设计为一个独特的IP，针对年轻受众和主流市场。它有一个独立的路线图，并且更加专注于发展IP。
-此外，Green Bean是早已准备好的NFT，不是一个新的PTP，而是与动漫有关，它在短期内不会支持交易。Azuki正在致力于开发一种新型的动漫内容，Azuki计划从制作短篇动画开始，作为他们动漫作品的一部分。Azuki旨在为观众打造互动的动漫体验。在观看节目后，观众将能够与非玩家角色Azuki进行互动。此外，有暗示有代币奖励。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：韩国Upbit上BCH韩元交易对的24小时交易量约为BTC的4倍]]></title>
         <id>https://www.hellobtc.com/news/202306/20846.html</id>
         <link href="https://www.hellobtc.com/news/202306/20846.html"/>
@@ -219,37 +343,6 @@
 11.Sui开发公司向早期用户空投NFT Generation 0 Bullsharks。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：Upbit上BCH韩元交易对的24小时交易量约是BTC的三倍]]></title>
-        <id>https://panewslab.com/zh/articledetails/ug8z9a50.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ug8z9a50.html"/>
-        <updated>2023-06-30T02:42:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，Coingecko数据显示，BCH在韩国加密交易所Upbit上的韩元对24小时交易量超过BTC。BCH/KRW在Upbit上的24小时交易量达3.54亿美元，约是BTC/KRW 24小时交易量（1.13亿美元）的三倍。此外，SOL/KRW 24小时交易量也略超BTC/KRW，现约1.44亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去中心化交易平台PancakeSwap已扩展至Polygon zkEVM网络]]></title>
-        <id>https://panewslab.com/zh/articledetails/9ukglsn0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9ukglsn0.html"/>
-        <updated>2023-06-30T02:27:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，据官方消息，去中心化交易平台PancakeSwap宣布其已在Polygon 的zkEVM第2层网络上推出，旨在为zkEVM网络上进行交易的用户降低费用和提供效率。PancakeSwap的v3互换和流动性供应功能将在Polygon zkEVM上提供。结合Polygon zkEVM部署，PancakeSwap在Galxe上启动奖励参与者NFT的“穿越金银岛”活动。
-据悉，PancakeSwap此前已部署至以太坊、BNB链和Aptos。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum新提案提议未来6个月内向Camelot DAO授予共计1200万枚ARB]]></title>
-        <id>https://panewslab.com/zh/articledetails/nba1fwww.html</id>
-        <link href="https://panewslab.com/zh/articledetails/nba1fwww.html"/>
-        <updated>2023-06-30T02:18:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月30日消息，Arbitrum生态DEX Camelot在Arbitrum社区发起新提案，提议在未来6个月内每月向Camelot DAO授予200万枚ARB，即共计1200万枚ARB，为Camelot上以Arbitrum为重点的项目提供流动性激励，包括引入新的多链协议进入生态系统。Camelot将在下周初为该提案发布完整的AIP投票。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -342,96 +435,6 @@
         <summary type="html"><![CDATA[一群匿名人士在一项集体诉讼中声称，ChatGPT的开发商OpenAI公司正在窃取“大量”个人信息，以训练其人工智能模型不顾一切地追逐利润。在这份长达157页的诉状中，这些匿名人士指责OpenAI从互联网上秘密抓取3000亿字，窃听了“书籍、文章、网站和帖子，包括未经同意获得的个人信息”，违反了隐私法。克拉克森律师事务所(Clarkson Law Firm)在周三向美国旧金山联邦法院提交的诉状中表示，原告的姓名都是用职业或兴趣来描述的，但由于担心遭到反对，只能用首字母来标识。他们根据受伤害的个人类别估计有数百万人，提出了30亿美元的潜在损失。 (华盛顿邮报)]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度研究：从DeBank看资产管理工具的演变]]></title>
-        <id>https://www.web3sj.com/?p=77629</id>
-        <link href="https://www.web3sj.com/definews/77629/"/>
-        <updated>2023-06-29T12:56:40.000Z</updated>
-        <summary type="html"><![CDATA[去中心化资产管理是一种使用区块链技术的智能合约，通过不可篡改、无需信任和不可审查的方式提供资产管理服务。这种资产管理方法可以让投资者将投资决策委托给外部第三方，而不必失去信任和控制权。在这个领域中，产品主要包括链上主动式管理基金、链上被动式管理指数和各种结构化产品。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autofarm被「野蛮人敲门」后被迫关闭，恶意收购方或多次买币安壳项目]]></title>
-        <id>https://www.web3sj.com/?p=77623</id>
-        <link href="https://www.web3sj.com/definews/77623/"/>
-        <updated>2023-06-29T12:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Autofarm 是个老牌 DeFi 项目，功能类似于 Yearn Finance 的 Yield Aggregator（收益聚合），旨在优化 DeFi 用户在与 DeFi 空间中的其他 DApp 交互时的收益。Autofarm 最初建立在 BSC 上，后逐渐拓展至 Polygon、Avalanche、Fantom、Celo 等链。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝莱德比特币ETF有哪些关键日期？有何交易机会？]]></title>
-        <id>https://www.web3sj.com/?p=77616</id>
-        <link href="https://www.web3sj.com/news/77616/"/>
-        <updated>2023-06-29T12:41:51.000Z</updated>
-        <summary type="html"><![CDATA[先回顾一下 Grayscale 去年对 SEC 的起诉，Grayscale 称 SEC 不让他们将 GBTC 转换为现货 ETF。法院的判决将在未来几周或几个月内的某个时间做出，这可能为潜在的现货 ETF 成功铺平道路。可见，贝莱德现在提交现货 ETF 申请并不是巧合。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币上涨的这几天，巨鲸们都买了什么币？]]></title>
-        <id>https://www.web3sj.com/?p=77613</id>
-        <link href="https://www.web3sj.com/news/77613/"/>
-        <updated>2023-06-29T12:39:21.000Z</updated>
-        <summary type="html"><![CDATA[那么除了比特币，巨鲸们在山寨币上还有哪些操作呢？在 0xScope 的数据帮助下，BlockBeats 找到了在 6 月 15 日至 6 月 27 日期间（也就是比特币 25000-31000 的期间）以太坊链上单笔 swap 交易额超过 30 万美元的巨鲸持仓买卖动向（以交易次数为准），来看看巨鲸们近期都买 / 卖了哪些 token。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-6.29）]]></title>
-        <id>https://www.web3sj.com/?p=77608</id>
-        <link href="https://www.web3sj.com/news/77608/"/>
-        <updated>2023-06-29T11:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik：基于MPC的EOA存在根本缺陷，智能合约钱包是唯一的选择。万事达卡将推出代币化银行存款测试平台。美SEC委员认为美国加密法不能假设一切都是“金融资产”。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alliance DAO总法律顾问：SEC的政治迷宫]]></title>
-        <id>https://www.web3sj.com/?p=77588</id>
-        <link href="https://www.web3sj.com/news/77588/"/>
-        <updated>2023-06-29T08:27:57.000Z</updated>
-        <summary type="html"><![CDATA[向创始人解释 SEC 的立场变得越来越让人感到压力。每次有新的诉讼案件出现，创始人都会联系他们的律师，后者不得不重新调整建议，以适应 SEC 的最新指控。律师们分析了主席 Gensler 在演讲和电视节目中的发表的评论，但随后 SEC 在法庭上辩称「这些评论不是也不能构成行政行为」。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基础设施层创新是大规模采用的前提]]></title>
-        <id>https://www.web3sj.com/?p=77585</id>
-        <link href="https://www.web3sj.com/news/77585/"/>
-        <updated>2023-06-29T08:24:42.000Z</updated>
-        <summary type="html"><![CDATA[这些来自 intent 项目（@anoma & Suave）和 DA 层（@ethereum， @AvailProject & @CelestiaOrg）的改进将提高新应用程序相对于基于旧基础设施构建的应用程序的质量。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConsenSys调查：各国人对Web3认知度如何？对Crypto后市还有信心吗？]]></title>
-        <id>https://www.web3sj.com/?p=77564</id>
-        <link href="https://www.web3sj.com/news/77564/"/>
-        <updated>2023-06-29T07:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Consensys 和 YouGov 一起做了一项关于加密和 Web3 的全球调查，旨在了解全球不同地区对加密和 Web3 的看法和见解。该调查除了人们对加密资产投资的典型问题，还探讨了数据隐私、数字所有权和最近的加密新闻周期等主题。本报告采访了北美和南美，欧洲，非洲和亚洲 15 个国家的 15158 名 18 至 65 岁的人，以形成调查结果。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azuki发售的Elementals为什么会撞图？]]></title>
-        <id>https://www.web3sj.com/?p=77553</id>
-        <link href="https://www.web3sj.com/nftnews/77553/"/>
-        <updated>2023-06-29T06:49:41.000Z</updated>
-        <summary type="html"><![CDATA[直到今夜凌晨的 Elements 发售，却让社区破了大防。除了对白名单 Mint 窗口期只有短短十分钟，导致短时间内网站流量超载而直接崩溃。发售结束后，项目方将 2 万枚 ETH 直接转走。社区讨论最多的就是 Elements 与 Azuki 一代的各种特征重复度高，这对 Azuki 一代的价值可能造成直接的稀释。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
