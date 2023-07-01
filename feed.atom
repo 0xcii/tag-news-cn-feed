@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T15:13:16.710Z</id>
+    <id>urn:2023-07-01T16:17:12.328Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T15:13:16.710Z</updated>
+    <updated>2023-07-01T16:17:12.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[香港政府成立Web3.0发展专责小组，财政司司长陈茂波担任主席]]></title>
+        <id>https://panewslab.com/zh/articledetails/7gqwt512.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7gqwt512.html"/>
+        <updated>2023-07-01T14:39:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月1日消息，香港政府宣布成立第三代互联网（Web3.0）发展专责小组。专责小组由财政司司长陈茂波担任主席，成员包括15名来自相关业界的非官方成员，以及相关主要政府官员和金融监管机构的代表。非官方成员任期由2023年7月1日起生效，为期两年。
+财政司司长陈茂波表示：“Web3.0背后的区块链技术，具备去中介化、安全、透明和低成本的特点，能够解决许多金融、交易、商业运作以至生活上的难点和痛点。作为国际金融中心和重视创新科技的大都会，香港拥抱 Web3.0 发展的大趋势，在平衡‘适当监管’和‘推动发展’的前提下，积极引领和驱动相关的创新探索与发展，创造更多新的应用模式，并努力汇聚这个领域的顶尖企业和人才，构建蓬勃的生态圈。专责小组汇聚相关业界的翘楚和专业人士，我相信他们的宝贵意见，将会助力香港发展成为Web3.0枢纽。”
+根据名单，专责小组的成员包括主席陈茂波财政司司长，非官方成员区伟志、陈德霖、邱达根、诸承誉、顾荣辉（安全审计公司CertiK联合创始人）、孔剑平、林惠贞、刘富荣、林晨、吕志宏、潘释正、葛帆，官方成员包括财经事务及库务局局长、财经事务及库务局常任秘书长（财经事务）、创新科技及工业局常任秘书长、财经事务及库务局副局长、政府资讯科技总监、投资推广署署长、香港数码港管理有限公司行政总裁、香港金融管理局总裁、证券及期货事务监察委员会行政总裁、保险业监管局行政总监、香港交易及结算所有限公司集团行政总裁。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司：BiSwap LP迁移池攻击事件已造成约71万美元的损失]]></title>
+        <id>https://panewslab.com/zh/articledetails/1kq3xx3q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1kq3xx3q.html"/>
+        <updated>2023-07-01T14:03:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月1日消息，根据安全公司Fairyproof发布的BiSwap LP迁移池攻击事件简析，BISwap的迁移合约少了两个验证：1.未验证迁移者就是交易发起者，导致任意⼈都可以替别⼈进⾏迁移。2.未验证参数中的两种代币和Pair为真实的，导致攻击者可以伪造token0、token1及Pair的⽅式进⾏攻击。攻击者⾸先通过真实的pair和假的token0,token1，调⽤迁移合约的迁移函数，将⽤户的LP燃烧后的资产留在合约中,⽤户添加的只是两种假代币组成LP池。然后攻击者再通过真实的token0,token1及假的LP，调⽤迁移合约的迁移函数，将第⼀步留在合约中的资产添加为自己的LP。这样通过狸猫换太⼦的方式将⽤户的资产替换成假的LP资产，⽽真实的LP资产添加到了攻击的的LP中。Fairyproof还表示，此次攻击造成约710251美元的损失。
+此前今日早些时候消息，BiSwap表示，已检测并解决Migrator合约漏洞，请勿与访问该合约，用户资金安全。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido社区通过“质押财库中2万枚ETH”提案，预计每年将创收200万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/4dke6jeh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4dke6jeh.html"/>
+        <updated>2023-07-01T13:52:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月1日消息，据投票页面显示，Lido社区关于“将协议财库中的2万枚ETH质押在Lido”提案已获得投票通过。据悉，该提案旨在创造生产性资产，从而抵消运营成本。根据目前的收益率（每年约4%-6%），预计如果Lido协议质押当前2万枚ETH持仓，每年将额外赚取200万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-7.1）]]></title>
         <id>https://www.web3sj.com/?p=77977</id>
@@ -343,26 +376,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[互联网架构SCION创始人加入Mysten Labs研发团队]]></title>
-        <id>https://panewslab.com/zh/articledetails/czh39gs0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/czh39gs0.html"/>
-        <updated>2023-07-01T02:36:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月1日消息，据官方消息，苏黎世联邦理工学院教授Adrian Perrig已加入Mysten Labs担任顾问。此外，Markus Legner、Jean-Pierre Smith和 Giacomo Giuliari等具有网络或系统安全背景的研究人员和工程师也将加入Mysten Labs研发团队。之前曾在CISPA Helmholtz Center担任教职的Karl Wüst也加入该团队，担任研究科学家。他们将在Mysten Labs研究Sui基础设施的一个未命名项目。Adrian Perrig和他的团队是SCION的发起者和设计者。SCION是一种新的互联网架构，解决了当前互联网的许多安全性和可扩展性问题。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鲍威尔：美联储或在7月和9月连续加息]]></title>
-        <id>https://panewslab.com/zh/articledetails/6n3lpnnv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6n3lpnnv.html"/>
-        <updated>2023-07-01T02:28:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月1日消息，据新浪财经报道，美联储主席鲍威尔表示，有可能在7月和9月连续加息，以遏制持续的物价压力，并为意外强劲的美国劳动力市场降温。鲍威尔在欧洲央行于葡萄牙辛特拉举办的年度论坛上表示，“尽管目前政策是限制性的，但可能限制性还不够，而且限制的时间还不够长”。当被问及是否认为风险仍然是做得太少时，鲍威尔回答称：“是的。”他表示，美联储可能最早在下个月再次加息，因为就业市场确实在拉动经济，工资的强劲增长推动了支出和需求。在本月早些时候的政策会议上，美联储宣布将联邦基金利率维持在5%-5.25%区间不变，以便有更多时间评估次轮快速加息以及近期银行业压力对经济的影响。在此之前，美联储已经连续加息10次。但鲍威尔和大多数决策者表示，最终仍需采取更多紧缩政策，以控制通胀。最新发布的利率路径点阵图显示，美联储官员预计今年还将加息两次，每次25个基点。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：富达、景顺和VanEck等公司已重新申请现货比特币ETF]]></title>
         <id>https://www.hellobtc.com/news/202307/20848.html</id>
         <link href="https://www.hellobtc.com/news/202307/20848.html"/>
@@ -392,16 +405,6 @@
 12.Justin Sun：波场TRON将上线RWA赛道项目stUSDT，定位加密领域的余额宝。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：Coinbase将为Valkyrie和Bitwise的比特币现货ETF提供服务]]></title>
-        <id>https://panewslab.com/zh/articledetails/9h5nwvfi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9h5nwvfi.html"/>
-        <updated>2023-07-01T02:19:25.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月1日消息，据彭博社报道，据知情人士透露，Coinbase还将为Valkyrie和Bitwise的比特币现货ETF提供服务。在最近的一份文件中，21Shares表示Coinbase也将提供托管服务。据此前消息，Coinbase将成为Invesco Galaxy Bitcoin ETF、VanEck Bitcoin Trust、WisdomTree Bitcoin Trust、富达Wise Origin Bitcoin Trust和ARK 21Shares Bitcoin ETF的监管共享协议合作伙伴。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
