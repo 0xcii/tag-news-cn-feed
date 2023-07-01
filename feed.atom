@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T11:11:16.014Z</id>
+    <id>urn:2023-07-01T12:26:29.731Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T11:11:16.014Z</updated>
+    <updated>2023-07-01T12:26:29.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-7.1）]]></title>
+        <id>https://www.web3sj.com/?p=77977</id>
+        <link href="https://www.web3sj.com/news/77977/"/>
+        <updated>2023-07-01T11:51:26.000Z</updated>
+        <summary type="html"><![CDATA[互联网架构SCION创始人加入Mysten Labs研发团队。以太坊会议：即将推出EIP-4844专用测试网Devnet #7，拟9月推出新测试网Holesky。Aave社区正对“减少V2对CRV的风险敞口”提案进行链上投票。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aave社区正对“冻结V2以太坊池上的TUSD储备”提案进行链上投票]]></title>
         <id>https://panewslab.com/zh/articledetails/fz2s008x.html</id>
@@ -277,16 +287,6 @@
         <link href="https://www.web3sj.com/news/77877/"/>
         <updated>2023-07-01T04:46:37.000Z</updated>
         <summary type="html"><![CDATA[有意思的是，这个名为「opBNB」的应用链基于 OP Stack 构建，（确切地说是基于 OP Stack 的第一个正式版本 Bedrock 构建），要知道 OP Stack 是以太坊生态的二层扩容框架，而 BNB Chain 则是由 Binance 推出的智能合约公链，某种程度上两者属于竞争关系，那么，是什么原因促使 BNB Chain 积极采用以太坊的开发框架 OP Stack 打造自己的链呢？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonbeam：或将发展成为多链时代的资源流转枢纽？]]></title>
-        <id>https://www.web3sj.com/?p=77863</id>
-        <link href="https://www.web3sj.com/project/77863/"/>
-        <updated>2023-07-01T04:41:34.000Z</updated>
-        <summary type="html"><![CDATA[以太坊图灵完备的虚拟机、去中心化基础架构、成熟的开发工具以及庞大的 Solidity 开发者社区，为其带来了生态聚集；而大量智能合约部署在以太坊这一共同执行环境，且协议间开源、无许可、可组合、互操作，为以太坊创建了不断增长的网络效应。]]></summary>
         <author>
             <name>Gao</name>
         </author>
