@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 666,
+          "wordCount": 675,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 896,
+          "wordCount": 910,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 452,
+          "wordCount": 458,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=77947",
+          "author": "Gao",
+          "description": "近期，MakerDAO 的各项数据表现优异。根据 makerburn.com 的数据，截至 6 月 29 日，Maker 每年产生的利润预计为 7367 万美元，创下了过去一年多时间来的最高值。当前的市盈率为 8.43，也创下了历史最低值，在 DeFi 项目中具备较强的竞争力。",
+          "link": "https://www.web3sj.com/definews/77947/",
+          "publishedOn": "2023-07-01T05:13:03.000Z",
+          "wordCount": 1201,
+          "title": "MakerDAO发展现状：预期利润大增，回购规则可能调整为协议捕获价值",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688188373220.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=77939",
           "author": "Gao",
           "description": "6 月 27 日（本周二），美国 ETF 发行商 Volatility Shares 发行的「 2 x Bitcoin Strategy ETF」（2 倍杠杆比特币策略 ETF）正式登陆 CBOE 旗下 BZX 交易所并开启交易。",
           "link": "https://www.web3sj.com/news/77939/",
           "publishedOn": "2023-07-01T05:10:30.000Z",
-          "wordCount": 882,
+          "wordCount": 894,
           "title": "高开低走，美国首个杠杆BTC ETF辜负了市场期待？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688188201981.png"
         },
@@ -128,7 +138,7 @@
           "description": "BIP125，也被称为 Opt-in Full Replace-by-Fee（Opt-in Full RBF），是一个比特币改进提案，它为交易引入了一个信号政策，表明它们可以在 mempool 中被替换。允许发送者调整之前发送的声明过可替换的交易，以应对确认延迟或进行其他有用的替换操作。",
           "link": "https://www.web3sj.com/news/77936/",
           "publishedOn": "2023-07-01T05:07:52.000Z",
-          "wordCount": 814,
+          "wordCount": 783,
           "title": "浅析比特币改进方案Full RBF：允许发送者替换一切交易",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688188059446.png"
         },
@@ -138,7 +148,7 @@
           "description": "先是 Arbitrum 开发团队 Offchain Labs 宣布了 Layer3 区块链 Arbitrum Orbit 的发链工具。随后，zkSync 开发团队 Matter Labs 紧锣密鼓推出了开源工具包 ZK Stack，除了支持构建 Layer2 外，也支持 Layer3。",
           "link": "https://www.web3sj.com/news/77933/",
           "publishedOn": "2023-07-01T05:05:38.000Z",
-          "wordCount": 1097,
+          "wordCount": 1114,
           "title": "Arbitrum与zkSync的Layer3愿景和多链未来",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688187926171.png"
         },
@@ -148,7 +158,7 @@
           "description": "多元化质押证明（DiPoS）允许通过抵押一篮子资产的验证者达成网络共识。这样可以避免网络被一个控制单一资产的大型实体统治，网络攻击可能性会大大降低。目前的质押列表是分配给 ETH、ATOM、BNB、MATIC、ADA、DOT 及 TENET。",
           "link": "https://www.web3sj.com/definews/77926/",
           "publishedOn": "2023-07-01T05:02:44.000Z",
-          "wordCount": 765,
+          "wordCount": 750,
           "title": "再质押公链Tenet ：如何为LSD带来流动性和收益率机会？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023063015424143251763.jpg"
         },
@@ -158,7 +168,7 @@
           "description": "ZeroLiquid 目前处于测试网阶段，允许用户以最大 50% 的 LTV 抵押 LST 铸造 zETH（当用户存入 ETH 时，ZeroLiquid 会将其转换为 LST）。zETH 是价格锚定 ETH 的借款凭证，由于其具备与 ETH 同向的价格波动，故在不考虑底层 LST 资产来自 LSD 协议的风险（黑客攻击、大量的资金罚没等）的情况下，ZeroLiquid 可以做到无清算，对冲借款部分价格波动风险，做多 ETH 质押的利率敞口。",
           "link": "https://www.web3sj.com/definews/77919/",
           "publishedOn": "2023-07-01T04:59:24.000Z",
-          "wordCount": 964,
+          "wordCount": 963,
           "title": "ZeroLiquid ： 以LST为抵押品的无清算0息借贷协议",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688187550192.png"
         },
@@ -168,7 +178,7 @@
           "description": "同时，我们还将介绍 Bonding Curve 作为自动化做市商（AMMs）的核心机制，并探讨一级自动化做市商 Primary Automated Market Makers（以下简称「PAMMs」）和二级自动化做市商 Secondary Automated Market Makers（以下简称「SAMMs」）的基本概念，以及它们之间的区别。本文的目标是更清晰地定义 Bonding Curve 的设计空间，以便能够更负责任地应用这些关键的 DEFI 工具。",
           "link": "https://www.web3sj.com/definews/77910/",
           "publishedOn": "2023-07-01T04:56:23.000Z",
-          "wordCount": 925,
+          "wordCount": 936,
           "title": "探索Bonding Curve：PAMMs和SAMMs在代币经济中的应用比较",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688187371655.png"
         },
@@ -178,7 +188,7 @@
           "description": "在 Uniswap V4 中引入了 hooks，可以由池创建者进行定制化的功能；同时放弃了原来的通过工厂合约建立流动性池的方式，所有池都在一个合约中；使用 Flash accounting 方式节省 Gas；支持原生的 ETH；同时还有一些其他的新特性。",
           "link": "https://www.web3sj.com/definews/77887/",
           "publishedOn": "2023-07-01T04:51:12.000Z",
-          "wordCount": 1299,
+          "wordCount": 1302,
           "title": "技术角度简要分析Uniswap v4新特性",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688187059687.png"
         },
@@ -188,7 +198,7 @@
           "description": "有意思的是，这个名为「opBNB」的应用链基于 OP Stack 构建，（确切地说是基于 OP Stack 的第一个正式版本 Bedrock 构建），要知道 OP Stack 是以太坊生态的二层扩容框架，而 BNB Chain 则是由 Binance 推出的智能合约公链，某种程度上两者属于竞争关系，那么，是什么原因促使 BNB Chain 积极采用以太坊的开发框架 OP Stack 打造自己的链呢？",
           "link": "https://www.web3sj.com/news/77877/",
           "publishedOn": "2023-07-01T04:46:37.000Z",
-          "wordCount": 1532,
+          "wordCount": 1536,
           "title": "前景乐观？一文梳理采用OP Stack的项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688186785268.png"
         },
@@ -198,19 +208,9 @@
           "description": "以太坊图灵完备的虚拟机、去中心化基础架构、成熟的开发工具以及庞大的 Solidity 开发者社区，为其带来了生态聚集；而大量智能合约部署在以太坊这一共同执行环境，且协议间开源、无许可、可组合、互操作，为以太坊创建了不断增长的网络效应。",
           "link": "https://www.web3sj.com/project/77863/",
           "publishedOn": "2023-07-01T04:41:34.000Z",
-          "wordCount": 1266,
+          "wordCount": 1305,
           "title": "Moonbeam：或将发展成为多链时代的资源流转枢纽？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688186480616.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=77841",
-          "author": "Gao",
-          "description": "Base计划上线主网，已完成一系列安全审计。Polygon 2.0将引入再质押和公共桥机制来统一其ZK链。Vitalik：美政策打压其他项目对于以太坊不是一种胜利。",
-          "link": "https://www.web3sj.com/news/77841/",
-          "publishedOn": "2023-06-30T12:10:35.000Z",
-          "wordCount": 714,
-          "title": "Web3世界日报（2023-6.30）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/06/2023063012085563.jpg"
         }
       ]
     },
@@ -219,6 +219,46 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/190qlz02.html",
+          "author": "PA一线",
+          "description": "PANews 7月1日消息， 据官方消息，Coinbase表示，截至2023年6月，已创建了超过500万个消费者MPC钱包。Coinbase表示，正在为开发者和用户构建和交付产品。将为dapp开发者构建一个用于本地应用程序连接Coinbase钱包的新SDK。此外，Coinbase还发布了一个开放的dapp市场，不需要Coinbase账户便可使用。",
+          "link": "https://panewslab.com/zh/articledetails/190qlz02.html",
+          "publishedOn": "2023-07-01T04:00:36.000Z",
+          "wordCount": 340,
+          "title": "Coinbase：已创建超过500万个消费者MPC钱包",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/yzdsn77l.html",
+          "author": "PA一线",
+          "description": "PANews 7月1日消息，ParaSpace推特发文称，其6月份ERC-20供应存款总额从4520万美元增至6220万美元，环比增长37%。",
+          "link": "https://panewslab.com/zh/articledetails/yzdsn77l.html",
+          "publishedOn": "2023-07-01T03:38:10.000Z",
+          "wordCount": 338,
+          "title": "ParaSpace：6月份ERC-20存款环比增长37%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/n0j1sd5w.html",
+          "author": "PA一线",
+          "description": "PANews 7月1日消息，据Lookonchain监测，5小时前，0x882E开头的巨鲸地址再次从币安提取8500枚ETH（约合1630万美元）。昨日14:06，该地址已从币安提取7000枚ETH（约合1314万美元）。自6月8日以来，该巨鲸已从币安提取50100枚ETH（约合9120万美元），并质押了34,560枚ETH（6500万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/n0j1sd5w.html",
+          "publishedOn": "2023-07-01T03:21:27.000Z",
+          "wordCount": 338,
+          "title": "数据：某巨鲸从币安提取8500枚ETH，24小时内已提取15500枚ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/r83c24xo.html",
+          "author": "PA一线",
+          "description": "PANews 7月1日消息，据Decrypt报道，法国时尚品牌迪奥推出新的男鞋系列，配备基于NFC芯片的加密在线认证系统和“digital twin”NFT。这款名为B33的运动鞋由迪奥男装艺术总监Kim Jones设计，是迪奥2023年秋季男装系列的一部分。七款运动鞋中的第一款将于7月6日在网上独家发售，限量470双。每双鞋都将配备一个“digital twin”，即在以太坊区块链上铸造的与鞋子匹配的NFT。每双鞋售价1350美元。鞋中的NFC芯片将与一个加密密钥相关联，可提供数字真伪证书以及其他专用服务。",
+          "link": "https://panewslab.com/zh/articledetails/r83c24xo.html",
+          "publishedOn": "2023-07-01T03:01:36.000Z",
+          "wordCount": 355,
+          "title": "迪奥推出配备“digital twin”NFT的新男鞋系列",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/czh39gs0.html",
           "author": "PA一线",
@@ -312,7 +352,7 @@
           "description": "1.Vitalik Buterin：没有质押所有的以太坊，而只是质押了「相当小的一部分」，因为在网络上安全质押需要多重签名。\n\n2.Vitalik：以太坊真正的竞争不是其他链，而是快速扩张的中心化世界。\n\n3.Cboe已为富达、ARK Invest等发行方重新提交比特币现货ETF申请，指定Coinbase为监督共享协议合作方。\n\n4.Binance研究院报告：超六成机构投资者对未来12个月的加密资产前景持乐观态度。\n\n5.美国SEC要求比特币现货ETF申请方明确与其签订数据共享协议的现货交易平台信息。\n\n6.数据：6月比特币链上NFT销售额超1亿美元，较上月缩水44%。\n\n7.Curve CEO在AAVE上抵押了占流通量39%的CRV，并借出8160万美元的稳定币。\n\n8.BCH短时突破310美元，自EDXMarkets宣布提供BCH交易服务以来涨幅已达208%。\n\n9.ENS计划扩展到Layer 2生态系统。\n\n10.UniSat Wallet发布更新，将支持从UTXO中分离铭文。\n\n11.Filecoin VM已部署总计2500个智能合约，已创建9.1万个钱包。\n\n12.Justin Sun：波场TRON将上线RWA赛道项目stUSDT，定位加密领域的余额宝。",
           "link": "https://www.hellobtc.com/news/202307/20848.html",
           "publishedOn": "2023-07-01T02:23:00.000Z",
-          "wordCount": 329,
+          "wordCount": 330,
           "title": "白话区块链早报：富达、景顺和VanEck等公司已重新申请现货比特币ETF",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
