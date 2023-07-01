@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-01T04:16:44.500Z</id>
+    <id>urn:2023-07-01T05:13:16.665Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-01T04:16:44.500Z</updated>
+    <updated>2023-07-01T05:13:16.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[高开低走，美国首个杠杆BTC ETF辜负了市场期待？]]></title>
+        <id>https://www.web3sj.com/?p=77939</id>
+        <link href="https://www.web3sj.com/news/77939/"/>
+        <updated>2023-07-01T05:10:30.000Z</updated>
+        <summary type="html"><![CDATA[6 月 27 日（本周二），美国 ETF 发行商 Volatility Shares 发行的「 2 x Bitcoin Strategy ETF」（2 倍杠杆比特币策略 ETF）正式登陆 CBOE 旗下 BZX 交易所并开启交易。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅析比特币改进方案Full RBF：允许发送者替换一切交易]]></title>
+        <id>https://www.web3sj.com/?p=77936</id>
+        <link href="https://www.web3sj.com/news/77936/"/>
+        <updated>2023-07-01T05:07:52.000Z</updated>
+        <summary type="html"><![CDATA[BIP125，也被称为 Opt-in Full Replace-by-Fee（Opt-in Full RBF），是一个比特币改进提案，它为交易引入了一个信号政策，表明它们可以在 mempool 中被替换。允许发送者调整之前发送的声明过可替换的交易，以应对确认延迟或进行其他有用的替换操作。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum与zkSync的Layer3愿景和多链未来]]></title>
+        <id>https://www.web3sj.com/?p=77933</id>
+        <link href="https://www.web3sj.com/news/77933/"/>
+        <updated>2023-07-01T05:05:38.000Z</updated>
+        <summary type="html"><![CDATA[先是 Arbitrum 开发团队 Offchain Labs 宣布了 Layer3 区块链 Arbitrum Orbit 的发链工具。随后，zkSync 开发团队 Matter Labs 紧锣密鼓推出了开源工具包 ZK Stack，除了支持构建 Layer2 外，也支持 Layer3。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再质押公链Tenet ：如何为LSD带来流动性和收益率机会？]]></title>
+        <id>https://www.web3sj.com/?p=77926</id>
+        <link href="https://www.web3sj.com/definews/77926/"/>
+        <updated>2023-07-01T05:02:44.000Z</updated>
+        <summary type="html"><![CDATA[多元化质押证明（DiPoS）允许通过抵押一篮子资产的验证者达成网络共识。这样可以避免网络被一个控制单一资产的大型实体统治，网络攻击可能性会大大降低。目前的质押列表是分配给 ETH、ATOM、BNB、MATIC、ADA、DOT 及 TENET。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZeroLiquid ： 以LST为抵押品的无清算0息借贷协议]]></title>
+        <id>https://www.web3sj.com/?p=77919</id>
+        <link href="https://www.web3sj.com/definews/77919/"/>
+        <updated>2023-07-01T04:59:24.000Z</updated>
+        <summary type="html"><![CDATA[ZeroLiquid 目前处于测试网阶段，允许用户以最大 50% 的 LTV 抵押 LST 铸造 zETH（当用户存入 ETH 时，ZeroLiquid 会将其转换为 LST）。zETH 是价格锚定 ETH 的借款凭证，由于其具备与 ETH 同向的价格波动，故在不考虑底层 LST 资产来自 LSD 协议的风险（黑客攻击、大量的资金罚没等）的情况下，ZeroLiquid 可以做到无清算，对冲借款部分价格波动风险，做多 ETH 质押的利率敞口。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索Bonding Curve：PAMMs和SAMMs在代币经济中的应用比较]]></title>
+        <id>https://www.web3sj.com/?p=77910</id>
+        <link href="https://www.web3sj.com/definews/77910/"/>
+        <updated>2023-07-01T04:56:23.000Z</updated>
+        <summary type="html"><![CDATA[同时，我们还将介绍 Bonding Curve 作为自动化做市商（AMMs）的核心机制，并探讨一级自动化做市商 Primary Automated Market Makers（以下简称「PAMMs」）和二级自动化做市商 Secondary Automated Market Makers（以下简称「SAMMs」）的基本概念，以及它们之间的区别。本文的目标是更清晰地定义 Bonding Curve 的设计空间，以便能够更负责任地应用这些关键的 DEFI 工具。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术角度简要分析Uniswap v4新特性]]></title>
+        <id>https://www.web3sj.com/?p=77887</id>
+        <link href="https://www.web3sj.com/definews/77887/"/>
+        <updated>2023-07-01T04:51:12.000Z</updated>
+        <summary type="html"><![CDATA[在 Uniswap V4 中引入了 hooks，可以由池创建者进行定制化的功能；同时放弃了原来的通过工厂合约建立流动性池的方式，所有池都在一个合约中；使用 Flash accounting 方式节省 Gas；支持原生的 ETH；同时还有一些其他的新特性。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前景乐观？一文梳理采用OP Stack的项目]]></title>
+        <id>https://www.web3sj.com/?p=77877</id>
+        <link href="https://www.web3sj.com/news/77877/"/>
+        <updated>2023-07-01T04:46:37.000Z</updated>
+        <summary type="html"><![CDATA[有意思的是，这个名为「opBNB」的应用链基于 OP Stack 构建，（确切地说是基于 OP Stack 的第一个正式版本 Bedrock 构建），要知道 OP Stack 是以太坊生态的二层扩容框架，而 BNB Chain 则是由 Binance 推出的智能合约公链，某种程度上两者属于竞争关系，那么，是什么原因促使 BNB Chain 积极采用以太坊的开发框架 OP Stack 打造自己的链呢？]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moonbeam：或将发展成为多链时代的资源流转枢纽？]]></title>
+        <id>https://www.web3sj.com/?p=77863</id>
+        <link href="https://www.web3sj.com/project/77863/"/>
+        <updated>2023-07-01T04:41:34.000Z</updated>
+        <summary type="html"><![CDATA[以太坊图灵完备的虚拟机、去中心化基础架构、成熟的开发工具以及庞大的 Solidity 开发者社区，为其带来了生态聚集；而大量智能合约部署在以太坊这一共同执行环境，且协议间开源、无许可、可组合、互操作，为以太坊创建了不断增长的网络效应。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[互联网架构SCION创始人加入Mysten Labs研发团队]]></title>
         <id>https://panewslab.com/zh/articledetails/czh39gs0.html</id>
@@ -23,6 +113,38 @@
         <summary type="html"><![CDATA[PANews 7月1日消息，据新浪财经报道，美联储主席鲍威尔表示，有可能在7月和9月连续加息，以遏制持续的物价压力，并为意外强劲的美国劳动力市场降温。鲍威尔在欧洲央行于葡萄牙辛特拉举办的年度论坛上表示，“尽管目前政策是限制性的，但可能限制性还不够，而且限制的时间还不够长”。当被问及是否认为风险仍然是做得太少时，鲍威尔回答称：“是的。”他表示，美联储可能最早在下个月再次加息，因为就业市场确实在拉动经济，工资的强劲增长推动了支出和需求。在本月早些时候的政策会议上，美联储宣布将联邦基金利率维持在5%-5.25%区间不变，以便有更多时间评估次轮快速加息以及近期银行业压力对经济的影响。在此之前，美联储已经连续加息10次。但鲍威尔和大多数决策者表示，最终仍需采取更多紧缩政策，以控制通胀。最新发布的利率路径点阵图显示，美联储官员预计今年还将加息两次，每次25个基点。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：富达、景顺和VanEck等公司已重新申请现货比特币ETF]]></title>
+        <id>https://www.hellobtc.com/news/202307/20848.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20848.html"/>
+        <updated>2023-07-01T02:23:00.000Z</updated>
+        <summary type="html"><![CDATA[1.Vitalik Buterin：没有质押所有的以太坊，而只是质押了「相当小的一部分」，因为在网络上安全质押需要多重签名。
+
+2.Vitalik：以太坊真正的竞争不是其他链，而是快速扩张的中心化世界。
+
+3.Cboe已为富达、ARK Invest等发行方重新提交比特币现货ETF申请，指定Coinbase为监督共享协议合作方。
+
+4.Binance研究院报告：超六成机构投资者对未来12个月的加密资产前景持乐观态度。
+
+5.美国SEC要求比特币现货ETF申请方明确与其签订数据共享协议的现货交易平台信息。
+
+6.数据：6月比特币链上NFT销售额超1亿美元，较上月缩水44%。
+
+7.Curve CEO在AAVE上抵押了占流通量39%的CRV，并借出8160万美元的稳定币。
+
+8.BCH短时突破310美元，自EDXMarkets宣布提供BCH交易服务以来涨幅已达208%。
+
+9.ENS计划扩展到Layer 2生态系统。
+
+10.UniSat Wallet发布更新，将支持从UTXO中分离铭文。
+
+11.Filecoin VM已部署总计2500个智能合约，已创建9.1万个钱包。
+
+12.Justin Sun：波场TRON将上线RWA赛道项目stUSDT，定位加密领域的余额宝。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -103,96 +225,6 @@
         <summary type="html"><![CDATA[币安根据2023年3月至5月进行的一项调查发现，其机构客户对明年及以后的加密货币前景持乐观态度。这项研究由币安研究院和币安VIP及机构团队于今年3月31日至5月15日期间调查了208名客户。受访者中，52%的基金管理的加密资产(AUM)低于2500万美元，22.6%的基金管理的加密资产超过1亿美元。报告显示，63.5%的受访者表示他们对明年加密货币的前景持乐观态度，88%的受访者表示他们对未来十年持乐观态度。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azuki翻车、BAYC上新，NFT项目发展方向在哪里？]]></title>
-        <id>https://www.web3sj.com/?p=77829</id>
-        <link href="https://www.web3sj.com/nftnews/77829/"/>
-        <updated>2023-06-30T10:20:10.000Z</updated>
-        <summary type="html"><![CDATA[如果仅是 PFP 上的创新，以及品牌引起的价格加成，那么后继无力也是必然。归根结底，除了品牌效应，无任何创新点以及落地点。这里，另一个问题也浮出水面——NFT 项目如何持续发展？很显然，单纯靠 PFP 已经无法带动整个市场的向上发展。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果贝莱德的比特币ETF获批，哪些项目会是背后赢家？]]></title>
-        <id>https://www.web3sj.com/?p=77806</id>
-        <link href="https://www.web3sj.com/news/77806/"/>
-        <updated>2023-06-30T09:57:48.000Z</updated>
-        <summary type="html"><![CDATA[如果贝莱德的比特币现货 ETF 申请获得批准，可能会引发新一轮的加密货币热潮，数万亿美元的机构资金将涌入市场，使 BTC 和山寨币的价格大幅上涨。本文将介绍一些可能直接受益于贝莱德的比特币现货 ETF 的项目。注：本文仅作为信息分享，作者与所提及项目无任何利益关系，不做任何背书。DYOR为什么贝莱德能够发挥如此巨大的能量？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z创始人：AI 是「终极媒体」]]></title>
-        <id>https://www.web3sj.com/?p=77800</id>
-        <link href="https://www.web3sj.com/news/77800/"/>
-        <updated>2023-06-30T09:52:24.000Z</updated>
-        <summary type="html"><![CDATA[人工智能的想法实际上是在上世纪 30 年代和 40 年代已经被提出了。人们在思考人工智能方面，已经有了大约 80 年的历程。它似乎一直伴随着计算机产业和互联网，人们不断地找到一些方法，但它从来没有成为行业的主要事物。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月十大最佳数据看板盘点]]></title>
-        <id>https://www.web3sj.com/?p=77787</id>
-        <link href="https://www.web3sj.com/news/77787/"/>
-        <updated>2023-06-30T08:28:27.000Z</updated>
-        <summary type="html"><![CDATA[最近一段时间的市场行情跌跌涨涨，其中涌现出了一批有意思的项目。通常想要了解这个项目运行得怎么样，数据看板是一个非常有用的工具。这篇文章将通过 Dune 这个工具，带你一览六月非常值得关注的几个数据。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析MPC和智能合约两种钱包方案：Vitalik说错了吗？]]></title>
-        <id>https://www.web3sj.com/?p=77782</id>
-        <link href="https://www.web3sj.com/news/77782/"/>
-        <updated>2023-06-30T08:16:21.000Z</updated>
-        <summary type="html"><![CDATA[MPC 战队的人炮轰 V 神对 MPC 技术有偏见怀有敌意，而 SC 战队的人则趾高气昂收获 V 神这样的扛旗兵。在我看来，MPC 和 SC 服务不同客群和应用场景，技术和业务逻辑本就大相径庭，没必要混淆撕逼。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除了扩容，零知识证明在Web3还有哪些创新用例？]]></title>
-        <id>https://www.web3sj.com/?p=77773</id>
-        <link href="https://www.web3sj.com/news/77773/"/>
-        <updated>2023-06-30T08:13:00.000Z</updated>
-        <summary type="html"><![CDATA[随机性: ZK 可以与 VDFs (Verifiable Delay Functions) 结合，以在区块链上实现完全安全的随机性。尽管在以太坊上有许多随机性原语，但它们存在微妙的缺陷，如可偏性，活性，昂贵性，额外的信任假设。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析GMX、DYDX、SNX代币供应与需求]]></title>
-        <id>https://www.web3sj.com/?p=77753</id>
-        <link href="https://www.web3sj.com/definews/77753/"/>
-        <updated>2023-06-30T08:05:50.000Z</updated>
-        <summary type="html"><![CDATA[在基本面水平相当的情况下，代币供应和需求对代币价格走势有较大影响。本文将对比三个主要衍生品 DEX 协议 GMX、DYDX、SNX 的代币供应及需求，更深入地了解协议的代币经济模型，辅助投资决策。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3项目融资：如何选择融资方式与法律文件？]]></title>
-        <id>https://www.web3sj.com/?p=77750</id>
-        <link href="https://www.web3sj.com/news/77750/"/>
-        <updated>2023-06-30T07:59:05.000Z</updated>
-        <summary type="html"><![CDATA[这种交易模式尤其适用于早期项目，即尚未注册 Token SPV（Token Special Purpose Vehicle，负责初始 Token 的发行和分配，通常在立法允许 Token 发行并为 Token 销售和交易征税提供明确规则的司法管辖区注册），且还没建立完善的 Tokenomics（基于区块链和加密货币技术的经济模型和理论，以实现经济激励、价值交换和社区治理）的项目。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostr：走出社交图谱的数字困境]]></title>
-        <id>https://www.web3sj.com/?p=77747</id>
-        <link href="https://www.web3sj.com/news/77747/"/>
-        <updated>2023-06-30T07:50:00.000Z</updated>
-        <summary type="html"><![CDATA[众所周知，Nostr 的 NIP 04 直接消息会泄漏元数据。这似乎是一个明显的缺陷，并且已经多次被指出。毕竟，如果任何人都能看到你发消息的对象、频率、时间、消息大小、提到的其他人，并将多个不同的对话相互关联，那么你的通讯到底有多私密呢？]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -295,16 +327,6 @@
         <link href="https://www.hellobtc.com/news/202306/20839.html"/>
         <updated>2023-06-29T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[数据显示，ETH 2.0总质押数已超2500万，为25044705个，按当前市场价格，价值约469.60亿美元。此外，目前ETH 2.0质押总地址数已超82.96万，为829615个。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI遭集体诉讼 被控“窃取私人数据”]]></title>
-        <id>https://www.hellobtc.com/news/202306/20838.html</id>
-        <link href="https://www.hellobtc.com/news/202306/20838.html"/>
-        <updated>2023-06-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一群匿名人士在一项集体诉讼中声称，ChatGPT的开发商OpenAI公司正在窃取“大量”个人信息，以训练其人工智能模型不顾一切地追逐利润。在这份长达157页的诉状中，这些匿名人士指责OpenAI从互联网上秘密抓取3000亿字，窃听了“书籍、文章、网站和帖子，包括未经同意获得的个人信息”，违反了隐私法。克拉克森律师事务所(Clarkson Law Firm)在周三向美国旧金山联邦法院提交的诉状中表示，原告的姓名都是用职业或兴趣来描述的，但由于担心遭到反对，只能用首字母来标识。他们根据受伤害的个人类别估计有数百万人，提出了30亿美元的潜在损失。 (华盛顿邮报)]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
