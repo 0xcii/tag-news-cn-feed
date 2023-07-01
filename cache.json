@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 653,
+          "wordCount": 672,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 454,
+          "wordCount": 442,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -220,12 +220,42 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/fz2s008x.html",
+          "author": "PA一线",
+          "description": "PANews 7月1日消息，治理页面显示，Aave社区正对“冻结V2以太坊池上的TUSD储备”AIP提案进行链上投票。距离投票结束还有17个小时，目前支持率为83.76%。\n根据该提案，继最近发生的TUSD资产事件之后，提议冻结Aave V2以太坊池的TUSD储备，这将防止用户在Aave V2以太坊池上存款或借款TUSD。这不会影响目前的头寸，用户仍然可以从Aave V2以太坊池中偿还和提取TUSD。该AIP旨在对TUSD情况采取保守的方法。它将允许社区后退一步，在做出任何进一步决定之前评估情况。",
+          "link": "https://panewslab.com/zh/articledetails/fz2s008x.html",
+          "publishedOn": "2023-07-01T11:06:16.000Z",
+          "wordCount": 351,
+          "title": "Aave社区正对“冻结V2以太坊池上的TUSD储备”提案进行链上投票",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7nt6l2gf.html",
+          "author": "PA一线",
+          "description": "PANews 7月1日消息，BSC跨链交易平台BiSwap今日凌晨在推特上表示：“团队检测并解决了Migrator合约漏洞。Biswap V2和V3 AMM协议上的资产是安全的。团队阻止通过网站访问迁移过程，因为Migrator合约已被利用，不要试图直接访问本合约，如尚未这样做，请撤销对这些合约的批准。正在更详细地审查此漏洞的结果，后续将发布报告。用户资金是安全的，上述漏洞与AMM V2和V3资金无关。”",
+          "link": "https://panewslab.com/zh/articledetails/7nt6l2gf.html",
+          "publishedOn": "2023-07-01T10:20:57.000Z",
+          "wordCount": 378,
+          "title": "BiSwap：已检测并解决Migrator合约漏洞，请勿与访问该合约，用户资金安全",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/34xf7w3z.html",
+          "author": "PA一线",
+          "description": "PANews 7月1日消息，据韩国经济日报报道，昨日，韩国检方在全面调查WEMIX发行商、该国上市游戏公司WeMade的同时，也在扣押并搜查该国数字资产管理公司Hyperithm，因该公司是WEMIX代币的做市商。\n此前昨日消息，韩国检方对WeMade及其WEMIX代币的做市商进行扣押和搜查。",
+          "link": "https://panewslab.com/zh/articledetails/34xf7w3z.html",
+          "publishedOn": "2023-07-01T09:15:44.000Z",
+          "wordCount": 339,
+          "title": "韩国检方扣押并搜查与WeMade相关的数字资产管理公司Hyperithm",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/u2yxudu8.html",
           "author": "PA一线",
           "description": "PANews 7月1日消息，据常州日报报道，近日，常州市政府印发《常州市数字人民币试点工作方案》，在全市扎实推进数字人民币试点工作，深化拓展试点领域和场景，完善数字人民币支付生态，建立数字人民币应用生态圈。根据《方案》，2023年，全市力争实现数字人民币钱包数量突破100万个、对公钱包超8万个，至少新增6万个商户（门店）受理数字人民币，以数字人民币发放工资的单位至少500个，以数字人民币发放财政资金至少3亿元，以数字人民币发放小微企业贷款至少15亿元。力争到2025年底基本形成服务便捷高效、应用覆盖面广、生态较为完善的数字人民币运营管理体系。",
           "link": "https://panewslab.com/zh/articledetails/u2yxudu8.html",
           "publishedOn": "2023-07-01T08:59:16.000Z",
-          "wordCount": 344,
+          "wordCount": 335,
           "title": "常州市政府印发数字人民币试点工作方案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +265,7 @@
           "description": "PANews 7月1日消息，The Block Research数据显示，比特币矿工6月份收入约7.83亿美元，较5月的9.19亿美元减少14.79%，其中7.45亿美元来自奖励补贴。",
           "link": "https://panewslab.com/zh/articledetails/nfw8l18j.html",
           "publishedOn": "2023-07-01T08:39:10.000Z",
-          "wordCount": 379,
+          "wordCount": 370,
           "title": "数据：比特币矿工6月份收入约7.83亿美元，环比减少14.79%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +275,7 @@
           "description": "PANews 7月1日消息，以太坊Layer 2网络Starknet在推特上表示，下周将在测试网上启动Starknet V0.12.0。\n根据此前消息，即将推出的Starknet v0.12.0版本专注于提高网络的吞吐量，以改善规模和交易延迟。为实现这一点，将为Sequencer（排序器）引入一个新的Rust实现。该Sequencer包含更高效的本地存储和关键路径逻辑，旨在显着减少交易确认的等待时间并解决网络拥塞问题。在测试网期间结束后，该升级将通过投票流程后部署在主网。",
           "link": "https://panewslab.com/zh/articledetails/l9mh9mxj.html",
           "publishedOn": "2023-07-01T08:27:36.000Z",
-          "wordCount": 394,
+          "wordCount": 389,
           "title": "Starknet V0.12.0将于下周在测试网上启动，旨在提高网络吞吐量并降低交易延迟",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +285,7 @@
           "description": "PANews 7月1日消息，据彭博社报道，知情人士表示，花旗集团正在审查与加密托管公司Metaco的合作关系，并已开始与其他几家托管提供商进行谈判。\n目前尚不清楚此次审查是否与Ripple收购Metaco有关。Ripple在宣布这项交易时表示，Metaco将作为一个独立品牌运营，并由其首席执行官Adrien Treccani负责运营。\n此前去年6月消息，花旗银行已选择Metaco进行数字资产托管。今年5月消息，Ripple以2.5亿美元收购加密托管公司Metaco。",
           "link": "https://panewslab.com/zh/articledetails/9cm406jq.html",
           "publishedOn": "2023-07-01T07:13:30.000Z",
-          "wordCount": 366,
+          "wordCount": 357,
           "title": "彭博社：花旗集团正审查与加密托管公司Metaco的合作关系",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +295,7 @@
           "description": "PANews 7月1日消息，据官方博客，Mask Network公布入选其第二轮Web3社交生态系统赠款的34个项目，其中16个项目为社交赛道，18个项目为公共产品赛道。每个项目的赠款金额从1万美元到2万美元不等。\n入选社交赛道赠款计划的16个项目，包括Chirper.ai、D3NS Protocol、Pond、AsMatch、Mercurius Club、WIW Profile、Quidli、Lumi、Protico、Misskey、Metopia、Web3Privacy、Little Atlas、Sakaba、KudasaiJP、Call the Banners。\n入选公共产品赛道的项目包括Dojo、Guidly、df0、Muddy Forest、Miaocraft、DF Archon、NetherScape、Network States、AW House、DegenReborn、Open Asset Standards、Honey Badger Cooperation Lab、VPN3、BuidlerDAO、LXDAO、FixDAO和Starknet Astro。",
           "link": "https://panewslab.com/zh/articledetails/vrff5a27.html",
           "publishedOn": "2023-07-01T06:54:10.000Z",
-          "wordCount": 417,
+          "wordCount": 408,
           "title": "Mask Network：34个项目获得第二轮Web3社交生态系统赠款",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +305,7 @@
           "description": "PANews 7月1日，币安旗下研究部门Binance Research发布了2023年6月研究报告，针对200多家全球机构投资者进行了调研分析，报告数据显示63.5%的受访者表示对未来12个月的加密货币前景持乐观态度，绝大多数（88.0%）表示对未来十年的展望持积极态度。47.1%的机构投资者确认在过去一年中维持了加密货币配置，超过三分之一 (35.6%) 同期增加了配置，大多数机构投资者 (比例超50%) 预计会在未来12个月增持加密货币，只有4.3%的机构投资者表示会减持。\n此外，基础设施、L1和L2是机构投资者关注的领域53.9%的投资者认为基础设施是对他们或他们的基金最重要的行业。紧随其后的是L1和L2行业，分别为48.1%和43.8%，同时机构投资者认为更多现实用例和提高监管清晰度将有助于推动加密货币采用。",
           "link": "https://panewslab.com/zh/articledetails/r4e1k6og.html",
           "publishedOn": "2023-07-01T06:40:26.000Z",
-          "wordCount": 369,
+          "wordCount": 360,
           "title": "Binance Research：超1/3机构投资者过去一年增加了加密货币配置",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +315,7 @@
           "description": "PANews 7月1日消息，在韩国运营的数字资产管理平台Haru Invest在官网上发布更新称，该公司已对B&S Holdings提起诉讼，并通过媒体获悉，作为调查的一部分，B&S Holdings已被扣押和搜查。\n关于剩余资产分配的详细计划是否已制定，Haru Invest表示，已经开始准备追回和分配资产，但由于虚拟资产的性质，管理资产的回收和分配预计需要时间，此外，公司被指控的事实将影响有关分配的决定和程序，这可能需要更多时间。关于是否计划进入破产管理或出售公司，Haru Invest表示，尽管存在考虑法院管理和出售的可能性，但鉴于目前的情况，最谨慎的做法是采取最大限度的法律行动并收回现有资产。为主动降低黑客攻击、盗窃或丢失等潜在风险，已采取必要措施，将账户和钱包委托给加密货币托管机构托管。\n此前消息，Haru Invest已于6月14日暂停存提款请求。",
           "link": "https://panewslab.com/zh/articledetails/qf80zp51.html",
           "publishedOn": "2023-07-01T05:58:12.000Z",
-          "wordCount": 381,
+          "wordCount": 372,
           "title": "Haru Invest：已起诉B&S Holdings以追回资产，公司账户和钱包已委托给托管机构",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +325,7 @@
           "description": "PANews 7月1日消息，Galaxy研究副总裁Christine Kim发文总结第112次以太坊核心开发者共识(ACDC) 会议，本周开发人员讨论了在Engine API中包含builder override flag，将目标blob限制从2上调到3，将最大blob限制从4上调到6，以及围绕更改验证器最大有效余额的持续研究。\n以太坊基金会DevOps团队的开发者表示，所有EL和CL客户端团队都通过了Devnet #7的相关Hive测试，计划最早在6月30日或7月3日推出Devnet #7。Devnet #7是EIP-4844的专用短期测试网络，不会测试其他代码更改。\n另外，开发人员正准备在今年年底前弃用公共Goerli测试网络。为了取代Goerli，以太坊客户团队正在启动一个名为Holesky的新测试网，测试网将托管一个大于Goerli和以太坊主网的活动验证器集。目标是在7月底之前完成测试，以确保CL客户端软件能够处理大型活跃验证者集大小，并在9月份推出Holesky。",
           "link": "https://panewslab.com/zh/articledetails/4mqw6ij9.html",
           "publishedOn": "2023-07-01T05:23:07.000Z",
-          "wordCount": 390,
+          "wordCount": 381,
           "title": "以太坊会议：即将推出EIP-4844专用测试网Devnet #7，拟9月推出新测试网Holesky",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +335,7 @@
           "description": "PANews 7月1日消息，据官方消息，慢雾注意到近日有白帽子公开了此前一个Huobi已经处理完毕的过往漏洞信息。经慢雾与Huobi官方确认，Huobi表示：本次事件是小范围内（4000人）的用户联络信息泄露，信息种类不涉及敏感信息，不涉及用户账户与资金安全。事件发生于2021年6月22日日本站测试环境S3桶相关人员不规范操作导致，相关用户信息于2022年10月8日已经完全隔离，日本站与Huobi Global无关。本次事件由白帽团队发现后，Huobi安全团队2023年6月21日（10天前）已进行处理，立即关闭相关文件访问权限，当前漏洞已修复，所有相关用户信息已经删除。",
           "link": "https://panewslab.com/zh/articledetails/i6fe83iq.html",
           "publishedOn": "2023-07-01T05:14:39.000Z",
-          "wordCount": 344,
+          "wordCount": 335,
           "title": "慢雾：Huobi已于10天前修复一项信息泄漏相关漏洞，不涉及用户账户与资金安全",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +345,7 @@
           "description": "PANews 7月1日消息， 据官方消息，Coinbase表示，截至2023年6月，已创建了超过500万个消费者MPC钱包。Coinbase表示，正在为开发者和用户构建和交付产品。将为dapp开发者构建一个用于本地应用程序连接Coinbase钱包的新SDK。此外，Coinbase还发布了一个开放的dapp市场，不需要Coinbase账户便可使用。",
           "link": "https://panewslab.com/zh/articledetails/190qlz02.html",
           "publishedOn": "2023-07-01T04:00:36.000Z",
-          "wordCount": 347,
+          "wordCount": 338,
           "title": "Coinbase：已创建超过500万个消费者MPC钱包",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +355,7 @@
           "description": "PANews 7月1日消息，ParaSpace推特发文称，其6月份ERC-20供应存款总额从4520万美元增至6220万美元，环比增长37%。",
           "link": "https://panewslab.com/zh/articledetails/yzdsn77l.html",
           "publishedOn": "2023-07-01T03:38:10.000Z",
-          "wordCount": 345,
+          "wordCount": 336,
           "title": "ParaSpace：6月份ERC-20存款环比增长37%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +365,7 @@
           "description": "PANews 7月1日消息，据Lookonchain监测，5小时前，0x882E开头的巨鲸地址再次从币安提取8500枚ETH（约合1630万美元）。昨日14:06，该地址已从币安提取7000枚ETH（约合1314万美元）。自6月8日以来，该巨鲸已从币安提取50100枚ETH（约合9120万美元），并质押了34,560枚ETH（6500万美元）。",
           "link": "https://panewslab.com/zh/articledetails/n0j1sd5w.html",
           "publishedOn": "2023-07-01T03:21:27.000Z",
-          "wordCount": 345,
+          "wordCount": 336,
           "title": "数据：某巨鲸从币安提取8500枚ETH，24小时内已提取15500枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +375,7 @@
           "description": "PANews 7月1日消息，据Decrypt报道，法国时尚品牌迪奥推出新的男鞋系列，配备基于NFC芯片的加密在线认证系统和“digital twin”NFT。这款名为B33的运动鞋由迪奥男装艺术总监Kim Jones设计，是迪奥2023年秋季男装系列的一部分。七款运动鞋中的第一款将于7月6日在网上独家发售，限量470双。每双鞋都将配备一个“digital twin”，即在以太坊区块链上铸造的与鞋子匹配的NFT。每双鞋售价1350美元。鞋中的NFC芯片将与一个加密密钥相关联，可提供数字真伪证书以及其他专用服务。",
           "link": "https://panewslab.com/zh/articledetails/r83c24xo.html",
           "publishedOn": "2023-07-01T03:01:36.000Z",
-          "wordCount": 362,
+          "wordCount": 353,
           "title": "迪奥推出配备“digital twin”NFT的新男鞋系列",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -355,7 +385,7 @@
           "description": "PANews 7月1日消息，据官方消息，苏黎世联邦理工学院教授Adrian Perrig已加入Mysten Labs担任顾问。此外，Markus Legner、Jean-Pierre Smith和 Giacomo Giuliari等具有网络或系统安全背景的研究人员和工程师也将加入Mysten Labs研发团队。之前曾在CISPA Helmholtz Center担任教职的Karl Wüst也加入该团队，担任研究科学家。他们将在Mysten Labs研究Sui基础设施的一个未命名项目。Adrian Perrig和他的团队是SCION的发起者和设计者。SCION是一种新的互联网架构，解决了当前互联网的许多安全性和可扩展性问题。",
           "link": "https://panewslab.com/zh/articledetails/czh39gs0.html",
           "publishedOn": "2023-07-01T02:36:54.000Z",
-          "wordCount": 396,
+          "wordCount": 387,
           "title": "互联网架构SCION创始人加入Mysten Labs研发团队",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +395,7 @@
           "description": "PANews 7月1日消息，据新浪财经报道，美联储主席鲍威尔表示，有可能在7月和9月连续加息，以遏制持续的物价压力，并为意外强劲的美国劳动力市场降温。鲍威尔在欧洲央行于葡萄牙辛特拉举办的年度论坛上表示，“尽管目前政策是限制性的，但可能限制性还不够，而且限制的时间还不够长”。当被问及是否认为风险仍然是做得太少时，鲍威尔回答称：“是的。”他表示，美联储可能最早在下个月再次加息，因为就业市场确实在拉动经济，工资的强劲增长推动了支出和需求。在本月早些时候的政策会议上，美联储宣布将联邦基金利率维持在5%-5.25%区间不变，以便有更多时间评估次轮快速加息以及近期银行业压力对经济的影响。在此之前，美联储已经连续加息10次。但鲍威尔和大多数决策者表示，最终仍需采取更多紧缩政策，以控制通胀。最新发布的利率路径点阵图显示，美联储官员预计今年还将加息两次，每次25个基点。",
           "link": "https://panewslab.com/zh/articledetails/6n3lpnnv.html",
           "publishedOn": "2023-07-01T02:28:29.000Z",
-          "wordCount": 339,
+          "wordCount": 330,
           "title": "鲍威尔：美联储或在7月和9月连续加息",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +405,7 @@
           "description": "PANews 7月1日消息，据彭博社报道，据知情人士透露，Coinbase还将为Valkyrie和Bitwise的比特币现货ETF提供服务。在最近的一份文件中，21Shares表示Coinbase也将提供托管服务。据此前消息，Coinbase将成为Invesco Galaxy Bitcoin ETF、VanEck Bitcoin Trust、WisdomTree Bitcoin Trust、富达Wise Origin Bitcoin Trust和ARK 21Shares Bitcoin ETF的监管共享协议合作伙伴。",
           "link": "https://panewslab.com/zh/articledetails/9h5nwvfi.html",
           "publishedOn": "2023-07-01T02:19:25.000Z",
-          "wordCount": 388,
+          "wordCount": 379,
           "title": "彭博社：Coinbase将为Valkyrie和Bitwise的比特币现货ETF提供服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -385,38 +415,8 @@
           "description": "PANews 7月1日消息，据Cointelegraph报道，美国最大的加密货币ATM公司之一Bitcoin Depot宣布完成一项合并交易，将允许该公司上市。金融科技公司GSR II Meteora Acquisition Corporation在6月30发布的公告中表示，其股东已经批准了该公司作为Bitcoin Depot的特殊目的收购公司（SPAC），预计Bitcoin Depot将于7月3日在纳斯达克上市。该交易于2022年8月首次报道，双方计划以8.85亿美元的估值在纳斯达克合并上市。Bitcoin Depot创始人兼首席执行官Brandon Mintz表示，此次合并交易旨在抓住增长机遇，并促进比特币的采用。Bitcoin Depot网站显示，该公司成立于2016年，是北美最大的加密货币ATM公司之一，拥有9130多家网点。",
           "link": "https://panewslab.com/zh/articledetails/7rq838tl.html",
           "publishedOn": "2023-07-01T01:52:00.000Z",
-          "wordCount": 388,
+          "wordCount": 379,
           "title": "加密ATM公司Bitcoin Depot将于7月3日在纳斯达克上市",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ejsrbyg1.html",
-          "author": "PA一线",
-          "description": "PANews 7月1日，据CryptoSlam链上NFT销售数据显示，6月比特币链上NFT销售额达到110,161,309.36美元，交易量为195,725笔。不过该指标较5月份出现了大幅下滑，5月比特币链上NFT销售额为195,975,372美元，这意味着6月跌幅达到44%。",
-          "link": "https://panewslab.com/zh/articledetails/ejsrbyg1.html",
-          "publishedOn": "2023-07-01T01:43:40.000Z",
-          "wordCount": 339,
-          "title": "数据：6月比特币链上NFT销售额超1亿美元，较上月缩水44%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zc0gl96y.html",
-          "author": "PA一线",
-          "description": "PANews 7月1日消息，据The Block报道，芝加哥期权交易所(Cboe)网站显示，该公司周五重新提交了19b-4比特币现货ETF申请。最新提交的文件覆盖了Invesco Galaxy Bitcoin ETF、VanEck Bitcoin Trust、WisdomTree Bitcoin Trust和Wise Origin Bitcoin Trust等几只基金。在为富达Wise Origin Bitcoin Trust提交的申请文件中，Cboe表示，预计将与Coinbase, Inc.达成一项监管共享协议。景顺(Invesco)和WisdomTree的文件中也包含了类似措辞。Cboe还修改了ARK 21Shares Bitcoin ETF的申请文件，将Coinbase列为监管共享协议的合作伙伴。据《华尔街日报》此前报道，周五美国证券交易委员会（SEC）告诉纳斯达克和Cboe，贝莱德和富达等机构最近提交的比特币现货ETF申请“不清晰、不全面”，因为它们没有指明在监管共享协议中与哪个市场合作。",
-          "link": "https://panewslab.com/zh/articledetails/zc0gl96y.html",
-          "publishedOn": "2023-07-01T01:29:40.000Z",
-          "wordCount": 415,
-          "title": "Cboe更新比特币现货ETF申请，Coinbase将成为监管合作伙伴",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/70yiy88j.html",
-          "author": "PA一线",
-          "description": "PANews 7月1日消息，据The Block报道，根据美国商品期货交易委员会(CFTC)周五的一份公告，纽约梅隆银行(BNY Mellon)数字资产全球主管Caroline Butler将与富兰克林邓普顿(Franklin Templeton)高级副总裁Sandy Kaul共同担任CFTC数字资产小组委员会的联合主席。其他成员包括Coinfund、Crypto.com和Uniswap等加密公司的高管以及来自贝莱德、DRW和高盛等华尔街传统金融机构的代表。",
-          "link": "https://panewslab.com/zh/articledetails/70yiy88j.html",
-          "publishedOn": "2023-07-01T00:25:48.000Z",
-          "wordCount": 366,
-          "title": "纽约梅隆银行及富兰克林邓普顿高管将担任CFTC数字资产小组联席主席",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
