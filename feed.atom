@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-02T05:12:58.879Z</id>
+    <id>urn:2023-07-02T06:19:11.000Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-02T05:12:58.879Z</updated>
+    <updated>2023-07-02T06:19:11.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3社交图谱协议Lens Protocol发布新提案，提议引入安全层以防范网络钓鱼骗局]]></title>
+        <id>https://panewslab.com/zh/articledetails/f1837y8w.html</id>
+        <link href="https://panewslab.com/zh/articledetails/f1837y8w.html"/>
+        <updated>2023-07-02T05:17:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月2日消息，Web3社交图谱协议Lens Protocol发布LIP-4提案，提议引入Profile Guardian安全层，为Lens Protocol配置文件提供额外的安全性，帮助用户防范网络钓鱼骗局。
+Profile Guardian将禁用Lens Profile的批准、转移等关键操作。个人资料监护人默认处于启用状态，如果个人资料所有者希望将其移至新地址，则可以选择退出。用户可以选择关闭Profile Guardian，此举将为EOA钱包启动为期7天的安全冷却期。在此期间，Lens API等生态服务可以跟踪并提供数据给客户端，以通知用户其Profile处于不安全状态，并推荐采取措施确保Profile安全。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poly Network黑客已出售SHIB、COOK、RFuel等部分代币，并转移资产到多个新钱包]]></title>
+        <id>https://panewslab.com/zh/articledetails/gg1c5kq2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gg1c5kq2.html"/>
+        <updated>2023-07-02T04:33:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月2日消息，据Lookonchain监测，Poly Network黑客已经出售940亿枚SHIB换取360枚ETH，出售4.95亿枚COOK换取16枚ETH，出售1500万枚RFuel换取27枚ETH。黑客正在将资产和1枚ETH转移到多个新钱包中，很可能用于出售。
+此前，Metis发推称，已经注意到PolyBridge目前的情况，正在与Poly Network团队取得联系，以尽量减少Poly攻击事件的影响并进一步评估情况。此外，Metis表示，关于在Metis上新铸造的BNB和BUSD，目前没有可用的卖出流动性。Metis Andromeda上的所有资金都是安全的。
+另据此前消息，黑客通过Poly Network在数条链上增发十多种资产，价值340亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metis：已经注意到PolyBridge问题，黑客新铸造巨额BNB但没有流动性实现出售]]></title>
+        <id>https://panewslab.com/zh/articledetails/0g1n7at9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0g1n7at9.html"/>
+        <updated>2023-07-02T03:49:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月2日消息，以太坊 Layer 2 网络 Metis 发布公告称，已经注意到 PolyBridge 正在发生的问题，并正在与 Poly Network 团队取得联系，以尽量减少攻击的影响并进一步评估情况。 此外，Metis 表示关于在 Metis 上新铸造的 BNB，没有可用的卖出流动性。Metis Andromeda 上的所有资金都是安全的。
+此前消息，黑客通过Poly Network在数条链上增发十多种资产，价值340亿美元。其中在 Metis 上增发了 99,999,184 BNB 和 100 亿 BUSD。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报： 马斯克宣布推特对用户读取推文实施频率限制]]></title>
+        <id>https://www.hellobtc.com/news/202307/20856.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20856.html"/>
+        <updated>2023-07-02T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[1.马斯克宣布推特对用户读取推文实施频率限制。
+
+2.财联社：上半年比特币在全球主要资产标的中表现最好，涨幅为 83.81%。
+
+3.Paradigm官网首页重新添加「加密」相关表述，联创称此前的删除是个错误。
+
+4.数据：DeFi TVL约为450亿美元，Lido位列第一。
+
+5.Poly Network攻击黑客在多条链上铸造超340亿美元资产。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[巴基斯坦或考虑禁止加密货币交易]]></title>
         <id>https://panewslab.com/zh/articledetails/9rf4y3r9.html</id>
@@ -311,38 +363,6 @@ PANews查询Paradigm官网发现，目前官网的顶部和底部边框都循环
         <link href="https://www.hellobtc.com/news/202306/20847.html"/>
         <updated>2023-06-30T11:37:00.000Z</updated>
         <summary type="html"><![CDATA[币安根据2023年3月至5月进行的一项调查发现，其机构客户对明年及以后的加密货币前景持乐观态度。这项研究由币安研究院和币安VIP及机构团队于今年3月31日至5月15日期间调查了208名客户。受访者中，52%的基金管理的加密资产(AUM)低于2500万美元，22.6%的基金管理的加密资产超过1亿美元。报告显示，63.5%的受访者表示他们对明年加密货币的前景持乐观态度，88%的受访者表示他们对未来十年持乐观态度。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：韩国Upbit上BCH韩元交易对的24小时交易量约为BTC的4倍]]></title>
-        <id>https://www.hellobtc.com/news/202306/20846.html</id>
-        <link href="https://www.hellobtc.com/news/202306/20846.html"/>
-        <updated>2023-06-30T02:51:00.000Z</updated>
-        <summary type="html"><![CDATA[1.数据：Upbit上BCH韩元交易对的24小时交易量约为BTC的4倍。
-
-2.育碧即将在 Oasys 区块链上推出链游 Champions Tactics。
-
-3.Coinbase首席法务官：美国人想要一只现货比特币ETF。
-
-3.灰度GBTC负溢价率收窄至31.61%。
-
-4.Polygon 提出 Polygon 2.0 架构，四个协议层包括质押层、互操作层、执行层和证明层。
-
-5.报告：最近比特币价格上涨和交易活动主要集中在美国市场时段。
-
-6.Nansen：Elemental下跌后，长期Azuki持有者的抛售增至817%。
-
-7.Coinbase：所有USDC余额均可赚取4%奖励。
-
-8.「幸运巨鲸」再次凭借投资PEPE2.0获利百倍，累计获利近千倍。
-
-9.FTX系列TokenFTT，SOL，SRM ，RAY普涨。
-
-10.Coinbase L2 网络 Base：已完成内部和外部审计，主网启动标准仅剩验证测试网稳定性。
-
-11.Sui开发公司向早期用户空投NFT Generation 0 Bullsharks。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
