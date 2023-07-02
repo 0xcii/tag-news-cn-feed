@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 667,
+          "wordCount": 660,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 912,
+          "wordCount": 888,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 436,
+          "wordCount": 458,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -219,6 +219,26 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/wp68u8u3.html",
+          "author": "PA一线",
+          "description": "PANews 7月2日消息，据慢雾分析，Poly Network主要黑客获利地址为 0xe0af…a599。根据 MistTrack 团队追踪溯源分析，ETH 链第一笔手续费为 Tornado Cash: 1 ETH，BSC 链手续费来源为 Kucoin 和 ChangeNOW，Polygon 链手续费来源为 FixedFloat。黑客的使用平台痕迹有 Kucoin、FixedFloat、ChangeNOW、Tornado Cash、Uniswap、PancakeSwap、OpenOcean、Wing 等。\n截止目前，部分被盗 Token （sUSD、RFuel、COOK 等）被黑客通过 Uniswap 和 PancakeSwap 兑换成价值 122 万美元的主流资产，剩余被盗资金被分散到多条链 60 多个地址中，暂未进一步转移，全部黑客地址已被录入慢雾 AML 恶意地址库。被攻击的具体原因尚待分析。",
+          "link": "https://panewslab.com/zh/articledetails/wp68u8u3.html",
+          "publishedOn": "2023-07-02T08:53:36.000Z",
+          "wordCount": 517,
+          "title": "慢雾：Poly Network黑客已获利价值超439万美元的主流资产",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/v7j9nppc.html",
+          "author": "PA一线",
+          "description": "PANews 7月2日消息，Aave关于“减少V2对CRV的风险敞口”提案已获通过，支持率为100%。据悉，该提案旨在减少Aave在V2以太坊上的CRV风险敞口，建议按照社区先前批准的风险规避框架，通过一系列增量减少来达到预期的设置，在任何给定的AIP中减少最多3%。\n此前消息，Aave社区正对“减少V2对CRV的风险敞口”提案进行链上投票",
+          "link": "https://panewslab.com/zh/articledetails/v7j9nppc.html",
+          "publishedOn": "2023-07-02T08:08:22.000Z",
+          "wordCount": 334,
+          "title": "Aave关于“减少V2对CRV的风险敞口”提案已获通过，支持率为100%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/615735cm.html",
           "author": "PA一线",
