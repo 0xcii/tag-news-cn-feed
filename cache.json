@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 663,
+          "wordCount": 660,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 904,
+          "wordCount": 895,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 464,
+          "wordCount": 462,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=78229",
+          "author": "Gao",
+          "description": "Web3 创业的最重要成果是什么？我们认为是数字资产。如同 BTC 之于中本聪、ETH 之于 Vitalik 一样，每个 Web3 项目的创意、团队、技术、募资、开发、运营、网络、应用、用户和社区等最终都将体现在数字资产中。",
+          "link": "https://www.web3sj.com/news/78229/",
+          "publishedOn": "2023-07-03T15:07:45.000Z",
+          "wordCount": 880,
+          "title": "从代币化理论看三代币模型的合理性",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688396846392.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78220",
+          "author": "Gao",
+          "description": "Defi 的出现打开了一条直通 Asgard 的彩虹桥，在那里流动性得到了充分的释放。以提高 NFT 流动性为目的设计创新交易模型，也是所有 NFT 交易平台的努力方向。虽然当前 NFT 市场还未出现成熟统一的定价模型，但是从蓝筹 NFT 的交易量数据中可以看到，「撮合买卖盘」（Order Book）模型的交易市场（Marketplace）占据了 95% 以上的交易量；",
+          "link": "https://www.web3sj.com/definews/78220/",
+          "publishedOn": "2023-07-03T14:59:01.000Z",
+          "wordCount": 1021,
+          "title": "通往Asgard，NFT AMM能否架起一道新的彩虹桥？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688396326480.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78217",
+          "author": "Gao",
+          "description": "当前的区块链生态系统面临着几个挑战。建立在以太坊上的协议需要引导自己的验证器集，这既耗时又昂贵。此外，这些协议受纳入以太坊的基本规则集的约束，限制了它们可以实现的创新程度。最后，协议的安全性仅与它所依赖的最弱组件的安全性一样好，这带来了重大的安全风险。",
+          "link": "https://www.web3sj.com/news/78217/",
+          "publishedOn": "2023-07-03T14:56:34.000Z",
+          "wordCount": 715,
+          "title": "浅析再质押的优势、用例与潜在风险",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688396180790.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78214",
+          "author": "Gao",
+          "description": "ERC-6551 是 Future Primitive 团队于 5 月 23 日发布的新代币标准，它将支持 NFT 创建代币绑定账户（Token Bound Account，TBA），即 NFT 可以作为钱包地址或链上账户，真正做到 NFT 即钱包。",
+          "link": "https://www.web3sj.com/nftnews/78214/",
+          "publishedOn": "2023-07-03T14:53:28.000Z",
+          "wordCount": 970,
+          "title": "ERC-6551：让NFT成为钱包账户，将会产生哪些新叙事？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688395988844.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=78204",
           "author": "Gao",
           "description": "伯恩斯坦报告：美国批准现货比特币ETF的可能性相当高。Poly Network：10个区块链的57种资产受到攻击影响，将暂停服务，已联系执法机构。Aave社区已通过“冻结V2以太坊池上的TUSD储备”提案链上投票。",
           "link": "https://www.web3sj.com/news/78204/",
           "publishedOn": "2023-07-03T12:17:17.000Z",
-          "wordCount": 725,
+          "wordCount": 693,
           "title": "Web3世界日报（2023-7.3）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023070312152749.jpg"
         },
@@ -128,7 +168,7 @@
           "description": "加密货币的叙事波动起伏，但稳定币作为链上金融基础设施的核心组成部分，已经稳定地存在于市场之中。目前市面上有 150 多种稳定币，且似乎每周都有新的稳定币发布。用户该如何在所有不同的选项中做出选择呢？",
           "link": "https://www.web3sj.com/definews/78195/",
           "publishedOn": "2023-07-03T12:04:51.000Z",
-          "wordCount": 821,
+          "wordCount": 829,
           "title": "稳定币：当前的市场前景",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/9989fe12557d7420c39c17fddfe60ad2.png"
         },
@@ -148,7 +188,7 @@
           "description": "荷兰提供欧洲最优惠的税收制度之一。荷兰在 2022 年国际税收竞争力指数中排名第 14 位，表明荷兰税收框架结构合理，易于企业遵守税收法规，促进经济发展。荷兰税务和海关管理局负责实施税务法规、检查和征税，并为税收居民和非居民实施各种税收减免和计划。",
           "link": "https://www.web3sj.com/news/78155/",
           "publishedOn": "2023-07-03T07:46:36.000Z",
-          "wordCount": 736,
+          "wordCount": 739,
           "title": "荷兰加密货币税收制度及参与国际税收规定进展",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688370375178.png"
         },
@@ -158,7 +198,7 @@
           "description": "这与我们判断一致：我们认为在 Web3 原生应用市场时代正在到来之际，必然需要调动更多的现实世界资产 / 资本（RWA）融入加密市场提供资本助力；尤其是在合规语境下，我们认为 RWA 是这一轮周期最有价值的财富密码。",
           "link": "https://www.web3sj.com/definews/78151/",
           "publishedOn": "2023-07-03T07:37:02.000Z",
-          "wordCount": 861,
+          "wordCount": 883,
           "title": "解码RWA：合规语境下最有价值的财富密码",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688369751311.png"
         },
@@ -168,49 +208,9 @@
           "description": "美国对冲基金 Coatue 一直以科技投资者的形象示人，多年来在应对不同周期的实际策略和对宏观的理解超过大多数同行。尤其在 2022 年美国大通胀、未盈利科技股大幅下跌的时刻，Coatue 提前谋划回撤、猛砍头寸，手里腾挪出将近 80% 的现金，被业内称道。我们也曾研究过 Coatue 在中国的投资策略。",
           "link": "https://www.web3sj.com/news/78115/",
           "publishedOn": "2023-07-03T05:46:56.000Z",
-          "wordCount": 1058,
+          "wordCount": 1065,
           "title": "Coatue详解2023：一半是海水，一半是火焰",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688363105610.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78111",
-          "author": "Gao",
-          "description": "在以太坊「合并」升级七个月后，以太坊于 4 月 12 日同时进行上海升级与 Capella 升级（使初始存款时没有提供提款凭证的质押者有了提供凭证的能力，从而实现提款），将质押提现功能带到了执行层，使质押者能够将他们从 2020 年以来锁定的 1800 万枚 ETH 从信标链提现到执行层，实现可选择的全额提现或者质押收益提现，释放了质押代币的流动性，从而增强投资者对以太坊这一「互联网债券」的信心，也提高了以太坊网络的安全性。",
-          "link": "https://www.web3sj.com/news/78111/",
-          "publishedOn": "2023-07-03T05:31:41.000Z",
-          "wordCount": 1337,
-          "title": "2023年上半年加密市场十大事件",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/image-2.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78099",
-          "author": "Gao",
-          "description": "Alkimiya 于去年 11 月完成 720 万美元融资，1kx 和 Castle Island Ventures 领投，Dragonfly、Circle Ventures 和 Coinbase Ventures 等参投，这笔资金将主要用于扩大其团队，因为准备在今年第一季度推出完整的产品套件，包括 Vault 产品和以太坊主网上的 ETH 质押合约。",
-          "link": "https://www.web3sj.com/news/78099/",
-          "publishedOn": "2023-07-03T02:56:03.000Z",
-          "wordCount": 894,
-          "title": "盘点风投近期投资的10大潜力项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/5-1688349814764.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78072",
-          "author": "Gao",
-          "description": "代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。",
-          "link": "https://www.web3sj.com/news/78072/",
-          "publishedOn": "2023-07-03T02:53:04.000Z",
-          "wordCount": 899,
-          "title": "代币解锁周报｜V4上线在即，dYdX价值1300万美元代币将于本周解锁",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/02/1677469926587.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78069",
-          "author": "Gao",
-          "description": "Coinbase 坚称 SEC 的指控缺乏合理性，并强调其在上市前接受了 SEC 对其业务实践的详尽审查。Coinbase 的首席法律官 Paul Grewal 表示，公司从不上市证券，而且他们对代币上市所使用的流程与 SEC 在 2021 年初的审查完全一致。这份答辩文件标志着 Coinbase 对这场法律纠纷的正式回应，预示着一场漫长的法律战将展开。",
-          "link": "https://www.web3sj.com/news/78069/",
-          "publishedOn": "2023-07-03T02:44:55.000Z",
-          "wordCount": 1078,
-          "title": "181页Coinbase法律文件全梳理：强势回应SEC诉讼，寻求驳回立案",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688352256099.png"
         }
       ]
     },
@@ -219,6 +219,116 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/fa88ice0.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，Paraspace官网数据显示，NFT借贷协议ParaSpace目前已暂停12枚Azuki相关抵押借贷的清算，团队表示这一举措旨在给予用户更多时间来补充流动性、偿还贷款并提高健康度，后续将恢复清算。",
+          "link": "https://panewslab.com/zh/articledetails/fa88ice0.html",
+          "publishedOn": "2023-07-03T15:07:39.000Z",
+          "wordCount": 343,
+          "title": "NFT借贷协议ParaSpace暂停Azuki抵押清算，旨在给予用户时间补充流动性",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6r548sgf.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，去中心化社交网络、Twitter 的德国竞争对手 Mastodon 的创始人兼首席执行官 Eugen Rochko 发文称，Mastodon 的活跃用户群在过去一天内增加了 11 万。\n昨日消息称，推特出现大范围使用故障，马斯克宣布临时进行限制访问，已认证帐户每日可查看6000条推特，未经认证的帐户为每天600条，未经认证的新帐户为每天300条。 马斯克表示，这只是“临时限制措施”，此举旨在解决堪称“极端程度”的数据抓取(Data Scraping)和系统操纵问题。",
+          "link": "https://panewslab.com/zh/articledetails/6r548sgf.html",
+          "publishedOn": "2023-07-03T14:48:45.000Z",
+          "wordCount": 411,
+          "title": "去中心化社交网络Mastodon的活跃用户在过去一天内增加11万",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d0onkmyo.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，币安NFT市场将推出“ForeverCR7: The GOAT”NFT系列 — 这是葡萄牙足球传奇人物克里斯蒂亚诺·罗纳尔多（C罗）推出的第二个NFT系列。该NFT系列将在币安NFT平台独家发售。该NFT系列包括四个不同稀有级别的NFT：极度稀有（SSR）、超级稀有（SR）、稀有 (R) 和普通（N）。\n用户可以在2023年07月03日22:00至2023年07月05日22:00（东八区时间）举行的拍卖会上，购买最稀有的“ForeverCR7: The GOAT”NFT。拍卖中共有六个“踩单车”极度稀有（SSR）NFT，竞标价格将从15,000 USDT起。",
+          "link": "https://panewslab.com/zh/articledetails/d0onkmyo.html",
+          "publishedOn": "2023-07-03T14:09:53.000Z",
+          "wordCount": 382,
+          "title": "币安NFT市场推出与C罗合作的“ForeverCR7: The GOAT”NFT系列",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/f9bn3xro.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，据CoinDesk报道，加密货币 ATM 运营商 Bitcoin Depot 通过与 SPAC 公司 GSR II Meteora 的合并在纳斯达克上市，交易代码为“BTM”。BTM 股价在盘前交易中一度上涨至 6.60 美元，后回落至 3.4 美元附近。\nCoin ATM Radar数据显示，Bitcoin Depot 运营着 6,000 多台此类机器，占美国 ATM 市场份额的 20%，占全球市场份额为 17.6% 。",
+          "link": "https://panewslab.com/zh/articledetails/f9bn3xro.html",
+          "publishedOn": "2023-07-03T13:59:31.000Z",
+          "wordCount": 441,
+          "title": "SPAC合并后，加密ATM运营商Bitcoin Depot在纳斯达克上市",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/iyw4rpsb.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，Huobi宣布与 Justlend DAO达成战略合作，支持stUSDT质押服务。此次合作旨在推动双方在加密货币领域的合作，深化RWA赛道布局，并为虚拟资产的发展和创新提供更加安全、可信的路径。\n据了解，stUSDT 平台在 Tron（波场） 上为用户提供质押 USDT 获取 RWA (Real World Assets)奖励的质押服务。作为 Tron（波场）推出的RWA赛道首个项目，stUSDT或将成为首个预期收益率相对较高的稳定质押产品。\nHuobi为支持 RWA 生态发展，将在平台内对 stUSDT 资产提供等同链上的赚取能力，Huobi将以stUSDT为入口，支持stUSDT项目质押，为火币用户打通接入，以赚取稳定的RWA奖励。即火币用户持有 stUSDT 即可在Huobi平台获取质押收益。",
+          "link": "https://panewslab.com/zh/articledetails/iyw4rpsb.html",
+          "publishedOn": "2023-07-03T13:28:29.000Z",
+          "wordCount": 406,
+          "title": "Huobi宣布与Justlend DAO达成战略合作，支持stUSDT",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/i2t4hl1w.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，基于Cosmos的激励性智能合约平台Archway已上线主网。该网络计划将Archway的部分代币发行直接分配给去中心化应用程序，25%的代币将分配给应用开发者，剩下的75%分配给验证者。Archway联合创始人Griffin Anderson表示，在Archway上开发应用的开发者将在底层协议中拥有主要权益，类似于验证者和矿工因验证网络而获得奖励的方式。\n此前6月16日，CoinList曾开启Archway(ARCH)代币销售。去年，Archway开发商Phi Labs曾完成2100万美元种子轮融资，CoinFund与Hashed领投。\n相关阅读：一文速览即将在Coinlist公售的价值捕获链Archway。",
+          "link": "https://panewslab.com/zh/articledetails/i2t4hl1w.html",
+          "publishedOn": "2023-07-03T13:27:21.000Z",
+          "wordCount": 366,
+          "title": "激励性智能合约平台Archway上线Cosmos主网",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wk87677l.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，币安宣布任命前业务开发主管 Min Lin 为拉丁美洲地区负责人，领导该地区的团队增强币安的产品和服务，优化市场的用户体验。Min Lin 于 2021 年加入币安，担任业务开发主管，在加入币安之前，他曾担任高盛驻香港全球市场部门的执行董事。\n根据万事达卡 2022 年进行的一项研究，51% 的拉丁美洲消费者已经使用加密资产进行过交易。币安研究显示，在拉丁美洲，加密货币作为支付方式最常用于日常购物，其中以服装店、超市、餐馆和租车服务为主。",
+          "link": "https://panewslab.com/zh/articledetails/wk87677l.html",
+          "publishedOn": "2023-07-03T12:31:16.000Z",
+          "wordCount": 396,
+          "title": "币安任命前业务开发主管Min Lin为其拉丁美洲负责人",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2akuof9b.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，比特币矿企Bitfarms公布2023年6月生产和挖矿业务更新，其 6 月份的产量为 385 BTC，比 5 月份的 459 BTC 产量下降了 16.1%。其中 346 枚已售出，总收益达 950 万美元。截至 2023 年 6 月 30 日，其未偿债务总额减少了 180 万美元，余额为 1,550 万美元。持有现金及现金等价物3000万美元。",
+          "link": "https://panewslab.com/zh/articledetails/2akuof9b.html",
+          "publishedOn": "2023-07-03T12:25:49.000Z",
+          "wordCount": 466,
+          "title": "数据：矿企Bitfarms 6月份共产出385枚BTC，出售346枚",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vihqn130.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，据CoinDesk报道，华尔街投资银行伯恩斯坦（Bernstein）周一在一份研究报告中表示，美国证券交易委员会 (SEC) 对现货比特币 (BTC) 交易所交易基金 (ETF) 的立场很难坚持，而且获得批准的可能性相当高。Bernstein 指出，美国证券交易委员会已经允许基于期货的比特币 ETF，并且最近批准了基于杠杆的期货 ETF，前提是期货定价来自 CME 等受监管的交易所。报告称：“SEC 宁愿引入由更多主流华尔街参与者主导并受到现有受监管交易所监督的受监管比特币 ETF，也不愿处理填补机构空白的灰度场外交易产品。”",
+          "link": "https://panewslab.com/zh/articledetails/vihqn130.html",
+          "publishedOn": "2023-07-03T11:21:14.000Z",
+          "wordCount": 388,
+          "title": "伯恩斯坦报告：美国批准现货比特币ETF的可能性相当高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/tl885hry.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，据CoinShares周报数据，上周数字资产投资产品净流入 1.25 亿美元，过去两周的流入额达到 3.34 亿美元，占管理资产总额 (AuM) 的近 1%。其中，比特币投资产品净流入 1.23 亿美元，过去两周比特币投资产品资金流入量占资金总流入量的 98%。以太坊投资产品流入 270 万美元。做空比特币的投资产品净流出 90 万美元，已连续第 10 周流出。",
+          "link": "https://panewslab.com/zh/articledetails/tl885hry.html",
+          "publishedOn": "2023-07-03T10:59:40.000Z",
+          "wordCount": 421,
+          "title": "CoinShares：上周数字资产投资产品净流入1.25亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a9wbqry1.html",
+          "author": "PA一线",
+          "description": "PANews 7月3日消息，据吴说援引MetaSleuth等报道，AzukiDao 的治理代币合约（bean）由于合约漏洞而被攻击。截至目前，两名攻击者利用该漏洞获利 35 ETH。主要原因是合约中的变量signatureClaimed未得到正确检查，从而导致了重放攻击，该合约现在已被暂停。",
+          "link": "https://panewslab.com/zh/articledetails/a9wbqry1.html",
+          "publishedOn": "2023-07-03T10:47:25.000Z",
+          "wordCount": 361,
+          "title": "AzukiDao的代币合约因漏洞而被攻击，攻击者获利35 ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/5xu04d4d.html",
           "author": "PA一线",
@@ -307,116 +417,6 @@
           "publishedOn": "2023-07-03T08:29:11.000Z",
           "wordCount": 345,
           "title": "币安将移除POWR、STEEM等4组BUSD相关现货交易对",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/gaplvarr.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，据Beosin Alert监测，Poly Network攻击者已于以太坊网络上总共兑换5196枚 ETH（约1010万美元）。其他代币（约2.6亿美元）由于流动性低，攻击者可能无法兑现。",
-          "link": "https://panewslab.com/zh/articledetails/gaplvarr.html",
-          "publishedOn": "2023-07-03T08:25:02.000Z",
-          "wordCount": 365,
-          "title": "安全公司：Poly Network攻击者已在以太坊上兑现约1010万美元，其他代币或难以兑现",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/trz947bx.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，据彭博社报道，新加坡金融管理局要求加密货币交易所在年底前将客户资产托管在信托中。此外，新加坡还将推进一项禁止散户投资者借贷和质押的提议。新加坡金管局表示，鉴于代币交易的极高风险和投机性质，仅靠监管无法保护消费者免受所有损失。新加坡此举是在寻求加强数字资产监管制度的磋商之后采取的。",
-          "link": "https://panewslab.com/zh/articledetails/trz947bx.html",
-          "publishedOn": "2023-07-03T08:21:26.000Z",
-          "wordCount": 328,
-          "title": "新加坡金管局要求加密交易所将客户资金存放于信托，并考虑禁止散户借贷和质押",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0z5bcijv.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，据Lookonchain监测，大约30分钟前，0x8288开头的巨鲸地址再次从币安提取了4000枚ETH（约合787万美元） ，并将800万枚USDC存入币安。Lookonchain表示，该巨鲸地址擅长低价买入ETH并在高价卖出，并且曾在FTX暂停提款之前从该交易所提款。",
-          "link": "https://panewslab.com/zh/articledetails/0z5bcijv.html",
-          "publishedOn": "2023-07-03T08:17:10.000Z",
-          "wordCount": 354,
-          "title": "数据：某巨鲸从币安提取4000枚ETH并存入800万枚USDC",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1c44joq8.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，据大公文汇报道，香港科技大学副校长兼香港web3.0协会首席科学顾问汪扬、天使投资人蔡文胜、区块城Web3.0科技公司创始人雷志斌、香港科技大学博士生文一舟在该报刊上发布政策建议，提议香港发行以外汇储备背书的港元稳定币。\n文章称，特区政府目前的计划仅限于允许和鼓励私营机构发行港元稳定币。在我们看来，这个措施过于保守，无法与特区政府推动数字资产和数字经济的大型计划相配合。由私营机构发行的港元稳定币，很难取得重要的市场地位，最终可能成为一个边缘化的产品。因此，我们强烈呼吁特区政府发行以香港外汇储备为背书的港元稳定币。政府背书的港元稳定币将有双重保障：一方面，受益于政府的监管；另一方面，受益于区块链合约带来的资讯透明度和不可篡改性。这种创新的政策方向将为香港在数字金融领域中的领导地位提供强大支持。",
-          "link": "https://panewslab.com/zh/articledetails/1c44joq8.html",
-          "publishedOn": "2023-07-03T08:12:27.000Z",
-          "wordCount": 329,
-          "title": "香港科技大学副校长等人发布政策建议：提议香港发行以外汇储备背书的港元稳定币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ogog4i9d.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，泰国证券交易委员会（SEC）今日在官网上发布有关加密货币交易风险和服务禁令的警告披露规则，主要内容如下：1.加密货币交易风险提示的披露将于2023年7月31日生效，要求加密货币交易中心运营商、加密货币经纪商以及加密货币交易者必须披露有关与加密货币交易相关的潜在风险的警告。2.禁止数字资产业务经营者提供或支持向储户提供回报和借贷（存款和贷款）的数字资产托管服务，将于2023年8月30日生效。",
-          "link": "https://panewslab.com/zh/articledetails/ogog4i9d.html",
-          "publishedOn": "2023-07-03T08:04:09.000Z",
-          "wordCount": 328,
-          "title": "泰国SEC：加密交易风险披露规则将于7月31日生效，8月30日起禁止提供加密存贷款业务",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qzb7z0g3.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，P2P数字资产交易协议NFT Trader在推特上表示，网站已被攻击，请用户监控账户，谨防网络钓鱼攻击。NFT Trader网站将被关闭，直至另行通知。目前，团队仍然调查，该平台已下线，以避免任何其他问题。\nNFT Trader表示，这并非协议的问题，疑似团队之外的人在前端插入一个恶意代码。团队仍将继续进行调查。",
-          "link": "https://panewslab.com/zh/articledetails/qzb7z0g3.html",
-          "publishedOn": "2023-07-03T07:27:43.000Z",
-          "wordCount": 377,
-          "title": "NFT Trader因遭遇攻击关闭网站，疑似前端被插入恶意代码",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/uz4l2yb3.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，币安发布关于XIRTAM追回资产开放申请返回的公告，称2023年05月初，一个名为XIRTAM的项目涉嫌跑路，并将部分资产转移至Binance.com，平台陆续接到多名用户举报。币安安全团队协助用户对此事件展开调查，并对涉嫌诈骗的账户地址资产进行了冻结。后续一个多月的时间中，币安安全团队一直在努力沟通并持续解决与XIRTAM项目相关的问题，并已于近期完成了资产返回的测试。现阶段，我们已完成与资产返回相关的所有准备工作。\n因此，从即日起，受到XIRTAM事件影响的币安用户可在2023年08月02日23:59前，通过表单提交具体信息，以申请XIRTAM资产返回。受影响的币安账户通过验证后，币安安全团队会通过智能合约地址为符合资格的用户返回相应的ETH资产。",
-          "link": "https://panewslab.com/zh/articledetails/uz4l2yb3.html",
-          "publishedOn": "2023-07-03T07:24:13.000Z",
-          "wordCount": 346,
-          "title": "币安已对受XIRTAM事件影响的用户开放资产返回申请，将于8月2日晚截止",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/od257rn4.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，据0xScope监测，在币安发布公告将上线PENDLE的20秒内，一聪明钱地址以163枚ETH的价格购买了29.6万枚PENDLE，并以195.5枚ETH的价格将其全部出售，10分钟内利润为6.3万美元 (约20%)。",
-          "link": "https://panewslab.com/zh/articledetails/od257rn4.html",
-          "publishedOn": "2023-07-03T07:19:36.000Z",
-          "wordCount": 354,
-          "title": "数据：某地址快速买入29.6万枚PENDLE后卖出，10分钟获利6.3万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/hxar5ngr.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，据派盾预警监测，截止今天，Uranium Finance攻击者已将8513枚ETH（约合1660万美元）转至Tornado Cash，并且将6枚ETH转至Aztec。攻击者还与CEX进行了交互，例如币安和OKX。\n此前2021年4月Uranium Finance出现漏洞导致5000万美元资金被盗，目前价值2190万美元的WBNB (22190枚) 和BUSD (1640万枚) 仍保留在攻击者0x59d7开头地址，此外，80枚BTC（约250万美元）已通过bc1q3a开头地址桥接至比特币网络。",
-          "link": "https://panewslab.com/zh/articledetails/hxar5ngr.html",
-          "publishedOn": "2023-07-03T07:13:10.000Z",
-          "wordCount": 395,
-          "title": "数据：Uranium Finance攻击已将8513枚ETH转至Tornado Cash",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/bk47iog2.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，Web3域名和身份平台SPACE ID推称，ID回购与销毁（IDP3）已成功执行，使用1,031,115.4枚稳定币回购与销毁3,107,377.8枚ID。另一半平台收入（从2023年3月23日至2023年6月23日）将转入SPACE ID DAO财库在不同链上的多签地址，包括以太坊、BNB Chain与Arbitrum。此外，SPACE ID还完成了20万美元赠款计划资金的交易（IDP2）。",
-          "link": "https://panewslab.com/zh/articledetails/bk47iog2.html",
-          "publishedOn": "2023-07-03T06:52:37.000Z",
-          "wordCount": 376,
-          "title": "SPACE ID已使用约103万枚稳定币回购与销毁约311万枚ID",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/8bb021tc.html",
-          "author": "PA一线",
-          "description": "PANews 7月3日消息，Snapshot投票页面显示，AzukiDAO关于“聘请律师协助社区从Zagabond收回2万枚ETH”的提案以88.35%的支持率获得投票通过。\n该提案建议聘请律师对Azuki创始人Zagabond提起诉讼，指控其Rug多个项目；从团队处收回发行Elementals的2万枚ETH，并将其分配给DAO，以促进整个Azuki社区的成长，并为艺术家、内容创作者和建设者提供奖励和激励；Azuki DAO为20000E Dao提供财政支持，20000E Dao将成立一个研究小组进行诉讼。\n据悉，AzukiDAO和20000E DAO由前Azuki社区成员和持有者建立，非Azuki官方团队。此前今日早些时候消息，Not Larva Labs创始人Jeremy Cahen表示，其有Azuki联创Zagabond诈骗的证据，愿意出庭作证。",
-          "link": "https://panewslab.com/zh/articledetails/8bb021tc.html",
-          "publishedOn": "2023-07-03T06:39:49.000Z",
-          "wordCount": 370,
-          "title": "AzukiDAO已通过“聘请律师协助社区从Zagabond收回2万枚ETH”提案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
