@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-04T12:30:52.042Z</id>
+    <id>urn:2023-07-04T13:24:15.043Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-04T12:30:52.042Z</updated>
+    <updated>2023-07-04T13:24:15.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PeckShield：OpenSea上4个Invisible Friends NFT被盗]]></title>
+        <id>https://panewslab.com/zh/articledetails/nr9zs0ot.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nr9zs0ot.html"/>
+        <updated>2023-07-04T12:31:35.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月4日消息，区块链安全机构 PeckShield 监测显示，4 个 Invisible Friends NFT（分别为 #3966、#4432、#608、#609）在 OpenSea 上被钓鱼地址“Fake_Phishing182232”窃取。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-7.4）]]></title>
         <id>https://www.web3sj.com/?p=78371</id>
@@ -13,6 +23,27 @@
         <summary type="html"><![CDATA[贝莱德重新提交比特币现货ETF申请，指定Coinbase为监督合作伙伴。Gemini联创再次发布致DCG创始人的公开信，控诉其滥用调解程序拖延时间。南非将要求加密货币交易所在年底前获得许可证。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊社区成员提出ERC-7265标准，以减轻DeFi黑客攻击]]></title>
+        <id>https://panewslab.com/zh/articledetails/i9xdrkee.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i9xdrkee.html"/>
+        <updated>2023-07-04T11:18:06.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月4日消息，据The Block报道，以太坊社区成员提出了一项新标准，以提高去中心化金融（DeFi）协议的安全性。该提议的标准被称为 ERC-7265，它将启用“熔断器”，允许 DeFi 协议轻松地在其智能合约中添加后备方案，在发生黑客攻击时在代币离开合约之前进行阻止。该标准制定者为@tcb_00、@Diyahir 和@real_philogy。
+鉴于 ERC-7265 标准是一个拟议标准，以太坊核心团队是否接受并实施它作为最终标准还有待观察。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安将于7月5日20:00上线 XVG U本位永续合约]]></title>
+        <id>https://panewslab.com/zh/articledetails/rn37tej0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rn37tej0.html"/>
+        <updated>2023-07-04T11:03:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月4日消息，币安合约交易平台将于2023年7月5日20:00（北京时间）上线USDⓈ-M XVG永续合约，最高杠杆为20倍。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -70,7 +101,7 @@
         <id>https://panewslab.com/zh/articledetails/mm7h7rt3.html</id>
         <link href="https://panewslab.com/zh/articledetails/mm7h7rt3.html"/>
         <updated>2023-07-04T09:28:23.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，据金十报道，南非将要求加密货币交易所在年底前获得许可证。
+        <summary type="html"><![CDATA[PANews 7月4日消息，据彭博社报道，南非监管机构金融行业行为监管局（Financial Sector Conduct Authority，简称FSCA）称，南非将要求该国的加密货币交易所在今年年底前获得许可证运营。FSCA 专员 Unathi Kamlana 在接受采访时表示，自几周前开放牌照以来，金融部门行为监管局已收到约 20 份申请，预计在 11 月 30 日截止日期之前还会收到更多申请。监管机构计划采取“执法行动”，如果这些公司在截止日期后继续无证经营，可能会被关闭或罚款。
 去年，南非金融监管机构曾表示，加密平台必须在2023年获得运营许可。南非的加密货币金融公司需要在2023年6月1日至11月20日期间申请许可证，才能合法经营。]]></summary>
         <author>
             <name>PA一线</name>
@@ -305,16 +336,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：某“聪明钱”将3000枚ETH转至Binance，此前交易ETH获利约450万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/he5suvcx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/he5suvcx.html"/>
-        <updated>2023-07-04T03:51:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，据Spot On Chain监测，某“聪明钱”在3小时前将3000枚ETH （价值约587万美元）转移到Binance 。 据悉，到目前为止，该地址通过在Binance上交易ETH赚取了449万美元（投资回报率为46.0​​7%) 。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[从LLAMMA到Band，关于crvUSD的最全知识梳理]]></title>
         <id>https://www.web3sj.com/?p=78291</id>
         <link href="https://www.web3sj.com/definews/78291/"/>
@@ -325,16 +346,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：价值3100余万美元的999枚BTC转至交易所Bybit]]></title>
-        <id>https://panewslab.com/zh/articledetails/ieyp282w.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ieyp282w.html"/>
-        <updated>2023-07-04T03:37:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，据Whale Alert监测，999枚BTC（价值约31,204,553美元）从未知钱包转移到加密交易所Bybit。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gavin Wood：波卡应该如何从以链为中心，转变到以应用为中心？]]></title>
         <id>https://www.web3sj.com/?p=78283</id>
         <link href="https://www.web3sj.com/news/78283/"/>
@@ -342,16 +353,6 @@
         <summary type="html"><![CDATA[这导致了碎片化的用户体验。用户可能在一条链上使用某应用，但他在另一条链上也想使用这个应用，也就是用多链的方式来使用应用。但如果我们拥有以链为中心的范式，那么也会拥有以链为中心的用户体验。而如果某个应用不是以链为中心，那么所有事情都会变得很难。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance将于今日14:00开始现货交易系统升级，历史成交展示或有几分钟延迟]]></title>
-        <id>https://panewslab.com/zh/articledetails/mkoa8f91.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mkoa8f91.html"/>
-        <updated>2023-07-04T03:25:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，Binance宣布将于今日14:00开始现货交易系统升级，升级时长预计1小时。升级内容为提升系统性能和稳定性。 升级期间，用户可以正常使用所有功能，仅历史成交展示可能有几分钟延迟。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
