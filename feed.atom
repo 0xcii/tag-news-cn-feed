@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-04T15:15:11.322Z</id>
+    <id>urn:2023-07-04T16:19:34.283Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-04T15:15:11.322Z</updated>
+    <updated>2023-07-04T16:19:34.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[深入探讨以太坊可能会失败的三个原因]]></title>
+        <id>https://www.web3sj.com/?p=78405</id>
+        <link href="https://www.web3sj.com/news/78405/"/>
+        <updated>2023-07-04T15:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Layer2 扩展的转变。随着区块链能力的扩展和需求的增长，以太坊需要提供一个可扩展的解决方案，以保持其去中心化的理念。这是一个平衡问题——如果不能解决这个问题，用户可能因高交易成本而感到沮丧，并转向中心化的变通方法，从而削弱了以太坊的核心卖点。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CertiK：分析Poly Network千万美元损失攻击事件]]></title>
+        <id>https://www.web3sj.com/?p=78394</id>
+        <link href="https://www.web3sj.com/news/78394/"/>
+        <updated>2023-07-04T15:16:56.000Z</updated>
+        <summary type="html"><![CDATA[这是今年发生的第一起跨链桥攻击事件，也是针对 Poly Network 发起的第二次攻击。去年攻击事件的总损失金额达 37 亿美元，其中跨链桥攻击损失占 35%。虽然本次事件看似是有史以来涉案金额最大的漏洞攻击事件，但黑客的实际收益要低很多。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爆发式增长，公链叙事和机遇已转移到Layer2]]></title>
         <id>https://www.web3sj.com/?p=78384</id>
@@ -23,6 +43,60 @@
         <summary type="html"><![CDATA[但加密区块链上的硬分叉和软分叉之间存在很大差异，比特币分叉也不例外。虽然硬分叉通常会产生全新版本的区块链，但软分叉的意图和执行方式有所不同。 在这里，我们将阐述软分叉如何旨在改进区块链网络（在本例中为主要的比特币网络），并且我们将列出一些已得到比特币社区批准的软分叉示例。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loopring L3上线Taiko的alpha-3 zkEVM测试网]]></title>
+        <id>https://panewslab.com/zh/articledetails/d2i98xmu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/d2i98xmu.html"/>
+        <updated>2023-07-04T14:52:01.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月4日消息，Loopring L3 上线基于 zkRollup 的以太坊 Layer 2 网络 Taiko 的 alpha-3 zkEVM 测试网，此次 L3 智能合约钱包发布将支持兑换和转账功能，用户现可以在 iOS 和 Android 平台上使用。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loopring L3 上线 Taiko alpha-3 zkEVM 测试网]]></title>
+        <id>https://www.hellobtc.com/news/202307/20868.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20868.html"/>
+        <updated>2023-07-04T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[7月4日消息，Loopring L3 上线基于 zkRollup 的以太坊二层网络 Taiko 的 alpha-3 zkEVM 测试网，此次 L3 智能合约钱包发布将支持兑换和转账功能，已经在 iOS 和 Android 平台上推出。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3输入法TypeIt公布TCOIN兑换规则，TCOIN 2小时内上涨40%]]></title>
+        <id>https://panewslab.com/zh/articledetails/cti05ch9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cti05ch9.html"/>
+        <updated>2023-07-04T14:42:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月4日消息，Web3输入法TypeIt宣布将于7月5日开启TCOIN自动兑换，TCOIN将按照1:17兑换为TYPE。受消息影响，根据TypeIt内部C2C市场显示，TCOIN当前价格为1.2USDT，2小时内上涨40%。
+TCOIN为TypeIt的在公测期间的奖励积分，由用户通过盲盒Type to Earn产出，可以用于键盘皮肤的升级和维修。根据官方数据，头矿期间每天消耗约80000枚TCOIN，折算136万枚TYPE，占当前流通量的14%。
+TYPE为TypeIt的治理代币，将于7月5日完成Bitget Launchpad并正式上线，初始流通市值约45万美元。详情参见原文。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：前十大稳定币的月均日交易量从3月的530亿美元下降至5月的280亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/iukgdvgy.html</id>
+        <link href="https://panewslab.com/zh/articledetails/iukgdvgy.html"/>
+        <updated>2023-07-04T14:02:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月4日消息，The Block数据仪表板显示，稳定币总供应量已从年初的 1380 亿美元下降至 7 月 3 日的 1240 亿美元。自 3 月份 USDC 脱钩事件以来，Tether 的 USDT 逆势而上，从竞争对手手中夺取了市场份额。尽管如此，前十大稳定币的月均日交易量仍从 2023 年 3 月的 530 亿美元下降至 5 月的 280 亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国首相苏纳克希望通过召集国际安全峰会来共同面对人工智能的挑战]]></title>
+        <id>https://panewslab.com/zh/articledetails/x5bxq0mz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/x5bxq0mz.html"/>
+        <updated>2023-07-04T13:29:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月4日消息，英国首相苏纳克引用了普华永道最近的一份报告，预计未来十年AI将对英国国内生产总值（GDP）带来10%的益处。苏纳克表示，在公共服务领域，特别是医疗和教育领域，AI的应用具有巨大潜力。在医疗方面，加快诊断速度以及改善皮肤癌等疾病的诊断准确性。在教育方面，减轻教师的工作负担，提供个性化的教学。
+英国首相苏纳克称，AI风险之一是滥用风险，无论是开源模型还是其他方式，它们都可能被用作生成虚假信息的工具，或者暴露于其他有害内容或评论的风险。AI的另一风险是工具使用风险，即基础模型可以在现实世界中激活各种能力。AI的最后一个风险是人们所称的“能力过剩”，这更多地涉及到潜在的存在风险，因为目前还没有人完全理解这些模型的潜力。
+英国首相苏纳克希望通过召集国际安全峰会来共同面对人工智能的挑战，因为人工智能不受国界限制，需要全球合作来确保其安全和可靠性。苏纳克认为在制定（AI）相关法规之前，应该首先明确人工智能的安全特性和规范，例如数字水印、信息分享、训练数据集的透明度等，并可以通过成立专门的研究机构来加强研究和安全评估的能力。苏纳克强调与基金会模型公司的对话合作和透明非常重要，这些公司呼吁政府制定相关法规来确保人工智能的安全性，并主动提供访问其数据库进行安全评估。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -295,26 +369,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国加密交易所Upbit开放基于以太坊的NFT存取款与交易功能]]></title>
-        <id>https://panewslab.com/zh/articledetails/g0n2b83i.html</id>
-        <link href="https://panewslab.com/zh/articledetails/g0n2b83i.html"/>
-        <updated>2023-07-04T05:31:45.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，官方公告显示，韩国加密交易所Upbit开放基于以太坊网络的NFT存取款与交易功能。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：多只巨鲸地址将GRT转至交易所，合计价值约170万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/3w1t85qu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3w1t85qu.html"/>
-        <updated>2023-07-04T05:14:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，据Lookonchain监测，地址开头为“0xde32”的某鲸鱼在过去7小时内向Binance存入600万枚GRT（约77.6万美元)，并通过另一个钱包在DEX上抛售75万枚GRT（约10万美元）。质押了2530万GRT （约325万美元）。此前，另外2只鲸鱼也在10小时前向KuCoin存入680万枚GRT （约88.6万美元）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[马斯克禁令的影响？11万用户涌入推特竞争对手Mastodon]]></title>
         <id>https://www.web3sj.com/?p=78324</id>
         <link href="https://www.web3sj.com/news/78324/"/>
@@ -325,52 +379,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：Azuki地板价回升，24小时涨幅22%]]></title>
-        <id>https://panewslab.com/zh/articledetails/rx30b65j.html</id>
-        <link href="https://panewslab.com/zh/articledetails/rx30b65j.html"/>
-        <updated>2023-07-04T04:16:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，OpenSea数据显示，Azuki系列NFT价格有所回升，Azuki地板价暂报6.89 ETH，24小时涨幅为22%；Azuki Elementals地板价暂报1.0799 ETH，24小时涨幅为37%；Beanz地板价暂报0.426 ETH，24小时涨幅为20%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2023上半年区块链安全与反洗钱报告]]></title>
         <id>https://www.web3sj.com/?p=78309</id>
         <link href="https://www.web3sj.com/news/78309/"/>
         <updated>2023-07-04T04:01:45.000Z</updated>
         <summary type="html"><![CDATA[慢雾科技发布《2023 上半年区块链安全与反洗钱报告》（下称「报告」），本报告着眼于区块链生态安全，梳理 2023 上半年区块链主要的安全事件及资金追回情况，还将通过分析典型事件帮助读者识别可疑交易模式和行为，一同探讨区块链生态的反洗钱情况。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波场TRON首个RWA产品stUSDT首日质押总量已超过2200万USDT]]></title>
-        <id>https://panewslab.com/zh/articledetails/21r5ljzx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/21r5ljzx.html"/>
-        <updated>2023-07-04T03:56:19.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月4日消息，据官网数据显示，stUSDT上线首日，总质押量已超过2200万USDT。
-据悉，stUSDT是波场TRON生态中首个RWA（真实世界资产）赛道产品，于昨日21时正式上线，现已通过去中心化平台JustLend运行。stUSDT平台致力于通过智能合约在个人与机构投资者、加密世界与现实世界之间架设桥梁，提供面向所有人的更公平的 RWA 投资渠道。stUSDT平台计划于7月10日至8月10日举办首场福利活动，届时将推出补贴后年化预期收益高达10%的福利。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育碧入局链游，传统游戏巨头能打好这张牌吗？]]></title>
-        <id>https://www.web3sj.com/?p=78304</id>
-        <link href="https://www.web3sj.com/gamefinews/78304/"/>
-        <updated>2023-07-04T03:52:06.000Z</updated>
-        <summary type="html"><![CDATA[育碧是一家来自法国的游戏巨头，其于 1986 年成立至今已推出众多脍炙人口的优质游戏，包括《刺客信条》系列 (Assassin's Creed)、《孤岛惊魂》系列（Far Cry）、《雷曼》(Rayman)、《彩虹六号：围攻》、《Brawlhalla》和《For Honor》等。育碧在全球员工拥有近 2 万名员工，并有 20 多个游戏工作室的制作团队负责开发、发布和运营，其技术研发团队 La Forge 涵盖渲染、动画、人工智能、音频等多个领域。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从LLAMMA到Band，关于crvUSD的最全知识梳理]]></title>
-        <id>https://www.web3sj.com/?p=78291</id>
-        <link href="https://www.web3sj.com/definews/78291/"/>
-        <updated>2023-07-04T03:46:04.000Z</updated>
-        <summary type="html"><![CDATA[crvUSD 稳定币大约在一个半月前推出。在目前的所有抵押品中，sfrxETH 是第一个被接受用于铸造 crvUSD 的抵押品，紧随其后的是 wstETH 和 WBTC。迄今为止，crvUSD 已吸引了超过 6790 万美元的 TVL，且很明显用户对稳定币的兴趣在持续增长。]]></summary>
         <author>
             <name>Gao</name>
         </author>
@@ -422,16 +435,6 @@
         <link href="https://www.hellobtc.com/news/202307/20859.html"/>
         <updated>2023-07-03T08:28:00.000Z</updated>
         <summary type="html"><![CDATA[7月3日消息，据彭博社报道，新加坡金融管理局要求加密货币交易所在年底前将客户资产托管在信托中。此外，新加坡还将推进一项禁止散户投资者借贷和质押的提议。新加坡金管局表示，鉴于代币交易的极高风险和投机性质，仅靠监管无法保护消费者免受所有损失。新加坡此举是在寻求加强数字资产监管制度的磋商之后采取的。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰国SEC：加密交易风险披露规则将于7月31日生效，8月30日起禁止提供加密存贷款业务]]></title>
-        <id>https://www.hellobtc.com/news/202307/20858.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20858.html"/>
-        <updated>2023-07-03T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[7月3日消息，泰国证券交易委员会（SEC）今日在官网上发布有关加密货币交易风险和服务禁令的警告披露规则，主要内容如下：1.加密货币交易风险提示的披露将于2023年7月31日生效，要求加密货币交易中心运营商、加密货币经纪商以及加密货币交易者必须披露有关与加密货币交易相关的潜在风险的警告。2.禁止数字资产业务经营者提供或支持向储户提供回报和借贷（存款和贷款）的数字资产托管服务，将于2023年8月30日生效。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>

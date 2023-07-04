@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 681,
+          "wordCount": 652,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 918,
+          "wordCount": 889,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 452,
+          "wordCount": 446,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=78405",
+          "author": "Gao",
+          "description": "Layer2 扩展的转变。随着区块链能力的扩展和需求的增长，以太坊需要提供一个可扩展的解决方案，以保持其去中心化的理念。这是一个平衡问题——如果不能解决这个问题，用户可能因高交易成本而感到沮丧，并转向中心化的变通方法，从而削弱了以太坊的核心卖点。",
+          "link": "https://www.web3sj.com/news/78405/",
+          "publishedOn": "2023-07-04T15:20:06.000Z",
+          "wordCount": 698,
+          "title": "深入探讨以太坊可能会失败的三个原因",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688483971511.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78394",
+          "author": "Gao",
+          "description": "这是今年发生的第一起跨链桥攻击事件，也是针对 Poly Network 发起的第二次攻击。去年攻击事件的总损失金额达 37 亿美元，其中跨链桥攻击损失占 35%。虽然本次事件看似是有史以来涉案金额最大的漏洞攻击事件，但黑客的实际收益要低很多。",
+          "link": "https://www.web3sj.com/news/78394/",
+          "publishedOn": "2023-07-04T15:16:56.000Z",
+          "wordCount": 803,
+          "title": "CertiK：分析Poly Network千万美元损失攻击事件",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688483804974.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=78384",
           "author": "Gao",
           "description": "Layer2 赛道的兴起源自 Layer1 公链的「不可能三角」，即公链的可扩展性、安全性和去中心化无法同时兼顾，以太坊作为公链赛道的超级龙头，为了解决自身的可扩展性问题，率先开启侧链、Rollup、validium 等扩容方案。",
           "link": "https://www.web3sj.com/news/78384/",
           "publishedOn": "2023-07-04T15:13:27.000Z",
-          "wordCount": 1089,
+          "wordCount": 1105,
           "title": "爆发式增长，公链叙事和机遇已转移到Layer2",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688483592858.png"
         },
@@ -138,7 +158,7 @@
           "description": "贝莱德重新提交比特币现货ETF申请，指定Coinbase为监督合作伙伴。Gemini联创再次发布致DCG创始人的公开信，控诉其滥用调解程序拖延时间。南非将要求加密货币交易所在年底前获得许可证。",
           "link": "https://www.web3sj.com/news/78371/",
           "publishedOn": "2023-07-04T12:17:09.000Z",
-          "wordCount": 728,
+          "wordCount": 737,
           "title": "Web3世界日报（2023-7.4）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023070412153670.jpg"
         },
@@ -148,7 +168,7 @@
           "description": "从上周的有趣数据来看，我们可以看到 Azuki 的地板价下跌、dYdX 交易量的激增、火热的借贷市场以及 Blur 在 NFT 抛售中所能提供的流动性。",
           "link": "https://www.web3sj.com/definews/78353/",
           "publishedOn": "2023-07-04T06:37:09.000Z",
-          "wordCount": 936,
+          "wordCount": 950,
           "title": "dYdX交易量激增，AAVE TVL重回第一",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688452616014.png"
         },
@@ -158,7 +178,7 @@
           "description": "Maker 最近收入的激增主要是因为稳定费（即向 DAI 借款人收取的费用）的增加以及资产负债表中资产更有效地分配到国债和投资级债券等方面。",
           "link": "https://www.web3sj.com/definews/78339/",
           "publishedOn": "2023-07-04T05:45:12.000Z",
-          "wordCount": 703,
+          "wordCount": 705,
           "title": "老牌DeFi MakerDAO因何焕发新生？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688449498966.png"
         },
@@ -168,7 +188,7 @@
           "description": "链上游戏和引擎还处于早期阶段。像 MUD 和 Dojo 这样的游戏引擎虽然已经能够用于产品研发，生态系统中已经有开发者正在在使用，但还有很长的路要走。游戏引擎通常会经历巨大的网络效应，因为许多游戏都基于它们的框架并向框架添加功能。",
           "link": "https://www.web3sj.com/gamefinews/78328/",
           "publishedOn": "2023-07-04T05:40:39.000Z",
-          "wordCount": 1030,
+          "wordCount": 1033,
           "title": "IOSG：Web3游戏引擎的网络效应",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688449209306.png"
         },
@@ -178,7 +198,7 @@
           "description": "Mastodon 是一个运行在数千台计算机而不是集中式服务器上的 Web3 社交媒体应用。但是，根据 TechCrunch 的说法，管理员对注册在他们机器上的用户仍有一定的控制权。如果服务器出现故障，用户也可能会被锁定。",
           "link": "https://www.web3sj.com/news/78324/",
           "publishedOn": "2023-07-04T04:36:54.000Z",
-          "wordCount": 700,
+          "wordCount": 688,
           "title": "马斯克禁令的影响？11万用户涌入推特竞争对手Mastodon",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/091cf61d2d4675d25b8ffb90a2265cc7.png"
         },
@@ -188,29 +208,9 @@
           "description": "慢雾科技发布《2023 上半年区块链安全与反洗钱报告》（下称「报告」），本报告着眼于区块链生态安全，梳理 2023 上半年区块链主要的安全事件及资金追回情况，还将通过分析典型事件帮助读者识别可疑交易模式和行为，一同探讨区块链生态的反洗钱情况。",
           "link": "https://www.web3sj.com/news/78309/",
           "publishedOn": "2023-07-04T04:01:45.000Z",
-          "wordCount": 823,
+          "wordCount": 791,
           "title": "2023上半年区块链安全与反洗钱报告",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688443292512.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78304",
-          "author": "Gao",
-          "description": "育碧是一家来自法国的游戏巨头，其于 1986 年成立至今已推出众多脍炙人口的优质游戏，包括《刺客信条》系列 (Assassin's Creed)、《孤岛惊魂》系列（Far Cry）、《雷曼》(Rayman)、《彩虹六号：围攻》、《Brawlhalla》和《For Honor》等。育碧在全球员工拥有近 2 万名员工，并有 20 多个游戏工作室的制作团队负责开发、发布和运营，其技术研发团队 La Forge 涵盖渲染、动画、人工智能、音频等多个领域。",
-          "link": "https://www.web3sj.com/gamefinews/78304/",
-          "publishedOn": "2023-07-04T03:52:06.000Z",
-          "wordCount": 776,
-          "title": "育碧入局链游，传统游戏巨头能打好这张牌吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/7Zm9k4Ou3n.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78291",
-          "author": "Gao",
-          "description": "crvUSD 稳定币大约在一个半月前推出。在目前的所有抵押品中，sfrxETH 是第一个被接受用于铸造 crvUSD 的抵押品，紧随其后的是 wstETH 和 WBTC。迄今为止，crvUSD 已吸引了超过 6790 万美元的 TVL，且很明显用户对稳定币的兴趣在持续增长。",
-          "link": "https://www.web3sj.com/definews/78291/",
-          "publishedOn": "2023-07-04T03:46:04.000Z",
-          "wordCount": 936,
-          "title": "从LLAMMA到Band，关于crvUSD的最全知识梳理",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688442349023.png"
         }
       ]
     },
@@ -219,6 +219,46 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/d2i98xmu.html",
+          "author": "PA一线",
+          "description": "PANews 7月4日消息，Loopring L3 上线基于 zkRollup 的以太坊 Layer 2 网络 Taiko 的 alpha-3 zkEVM 测试网，此次 L3 智能合约钱包发布将支持兑换和转账功能，用户现可以在 iOS 和 Android 平台上使用。",
+          "link": "https://panewslab.com/zh/articledetails/d2i98xmu.html",
+          "publishedOn": "2023-07-04T14:52:01.000Z",
+          "wordCount": 454,
+          "title": "Loopring L3上线Taiko的alpha-3 zkEVM测试网",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cti05ch9.html",
+          "author": "PA一线",
+          "description": "PANews 7月4日消息，Web3输入法TypeIt宣布将于7月5日开启TCOIN自动兑换，TCOIN将按照1:17兑换为TYPE。受消息影响，根据TypeIt内部C2C市场显示，TCOIN当前价格为1.2USDT，2小时内上涨40%。\nTCOIN为TypeIt的在公测期间的奖励积分，由用户通过盲盒Type to Earn产出，可以用于键盘皮肤的升级和维修。根据官方数据，头矿期间每天消耗约80000枚TCOIN，折算136万枚TYPE，占当前流通量的14%。\nTYPE为TypeIt的治理代币，将于7月5日完成Bitget Launchpad并正式上线，初始流通市值约45万美元。详情参见原文。",
+          "link": "https://panewslab.com/zh/articledetails/cti05ch9.html",
+          "publishedOn": "2023-07-04T14:42:53.000Z",
+          "wordCount": 341,
+          "title": "Web3输入法TypeIt公布TCOIN兑换规则，TCOIN 2小时内上涨40%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/iukgdvgy.html",
+          "author": "PA一线",
+          "description": "PANews 7月4日消息，The Block数据仪表板显示，稳定币总供应量已从年初的 1380 亿美元下降至 7 月 3 日的 1240 亿美元。自 3 月份 USDC 脱钩事件以来，Tether 的 USDT 逆势而上，从竞争对手手中夺取了市场份额。尽管如此，前十大稳定币的月均日交易量仍从 2023 年 3 月的 530 亿美元下降至 5 月的 280 亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/iukgdvgy.html",
+          "publishedOn": "2023-07-04T14:02:16.000Z",
+          "wordCount": 437,
+          "title": "数据：前十大稳定币的月均日交易量从3月的530亿美元下降至5月的280亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/x5bxq0mz.html",
+          "author": "PA一线",
+          "description": "PANews 7月4日消息，英国首相苏纳克引用了普华永道最近的一份报告，预计未来十年AI将对英国国内生产总值（GDP）带来10%的益处。苏纳克表示，在公共服务领域，特别是医疗和教育领域，AI的应用具有巨大潜力。在医疗方面，加快诊断速度以及改善皮肤癌等疾病的诊断准确性。在教育方面，减轻教师的工作负担，提供个性化的教学。\n英国首相苏纳克称，AI风险之一是滥用风险，无论是开源模型还是其他方式，它们都可能被用作生成虚假信息的工具，或者暴露于其他有害内容或评论的风险。AI的另一风险是工具使用风险，即基础模型可以在现实世界中激活各种能力。AI的最后一个风险是人们所称的“能力过剩”，这更多地涉及到潜在的存在风险，因为目前还没有人完全理解这些模型的潜力。\n英国首相苏纳克希望通过召集国际安全峰会来共同面对人工智能的挑战，因为人工智能不受国界限制，需要全球合作来确保其安全和可靠性。苏纳克认为在制定（AI）相关法规之前，应该首先明确人工智能的安全特性和规范，例如数字水印、信息分享、训练数据集的透明度等，并可以通过成立专门的研究机构来加强研究和安全评估的能力。苏纳克强调与基金会模型公司的对话合作和透明非常重要，这些公司呼吁政府制定相关法规来确保人工智能的安全性，并主动提供访问其数据库进行安全评估。",
+          "link": "https://panewslab.com/zh/articledetails/x5bxq0mz.html",
+          "publishedOn": "2023-07-04T13:29:12.000Z",
+          "wordCount": 324,
+          "title": "英国首相苏纳克希望通过召集国际安全峰会来共同面对人工智能的挑战",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/nr9zs0ot.html",
           "author": "PA一线",
@@ -378,46 +418,6 @@
           "wordCount": 375,
           "title": "律师事务所向Voyager债权人收取3至5月合计510万美元的法律费用",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/g0n2b83i.html",
-          "author": "PA一线",
-          "description": "PANews 7月4日消息，官方公告显示，韩国加密交易所Upbit开放基于以太坊网络的NFT存取款与交易功能。",
-          "link": "https://panewslab.com/zh/articledetails/g0n2b83i.html",
-          "publishedOn": "2023-07-04T05:31:45.000Z",
-          "wordCount": 307,
-          "title": "韩国加密交易所Upbit开放基于以太坊的NFT存取款与交易功能",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3w1t85qu.html",
-          "author": "PA一线",
-          "description": "PANews 7月4日消息，据Lookonchain监测，地址开头为“0xde32”的某鲸鱼在过去7小时内向Binance存入600万枚GRT（约77.6万美元)，并通过另一个钱包在DEX上抛售75万枚GRT（约10万美元）。质押了2530万GRT （约325万美元）。此前，另外2只鲸鱼也在10小时前向KuCoin存入680万枚GRT （约88.6万美元）。",
-          "link": "https://panewslab.com/zh/articledetails/3w1t85qu.html",
-          "publishedOn": "2023-07-04T05:14:54.000Z",
-          "wordCount": 333,
-          "title": "数据：多只巨鲸地址将GRT转至交易所，合计价值约170万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/rx30b65j.html",
-          "author": "PA一线",
-          "description": "PANews 7月4日消息，OpenSea数据显示，Azuki系列NFT价格有所回升，Azuki地板价暂报6.89 ETH，24小时涨幅为22%；Azuki Elementals地板价暂报1.0799 ETH，24小时涨幅为37%；Beanz地板价暂报0.426 ETH，24小时涨幅为20%。",
-          "link": "https://panewslab.com/zh/articledetails/rx30b65j.html",
-          "publishedOn": "2023-07-04T04:16:49.000Z",
-          "wordCount": 327,
-          "title": "数据：Azuki地板价回升，24小时涨幅22%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/21r5ljzx.html",
-          "author": "PA一线",
-          "description": "PANews 7月4日消息，据官网数据显示，stUSDT上线首日，总质押量已超过2200万USDT。\n据悉，stUSDT是波场TRON生态中首个RWA（真实世界资产）赛道产品，于昨日21时正式上线，现已通过去中心化平台JustLend运行。stUSDT平台致力于通过智能合约在个人与机构投资者、加密世界与现实世界之间架设桥梁，提供面向所有人的更公平的 RWA 投资渠道。stUSDT平台计划于7月10日至8月10日举办首场福利活动，届时将推出补贴后年化预期收益高达10%的福利。",
-          "link": "https://panewslab.com/zh/articledetails/21r5ljzx.html",
-          "publishedOn": "2023-07-04T03:56:19.000Z",
-          "wordCount": 335,
-          "title": "波场TRON首个RWA产品stUSDT首日质押总量已超过2200万USDT",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -426,6 +426,16 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202307/20868.html",
+          "author": null,
+          "description": "7月4日消息，Loopring L3 上线基于 zkRollup 的以太坊二层网络 Taiko 的 alpha-3 zkEVM 测试网，此次 L3 智能合约钱包发布将支持兑换和转账功能，已经在 iOS 和 Android 平台上推出。",
+          "link": "https://www.hellobtc.com/news/202307/20868.html",
+          "publishedOn": "2023-07-04T14:45:00.000Z",
+          "wordCount": 344,
+          "title": "Loopring L3 上线 Taiko alpha-3 zkEVM 测试网",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202307/20867.html",
           "author": null,
@@ -514,16 +524,6 @@
           "publishedOn": "2023-07-03T08:28:00.000Z",
           "wordCount": 309,
           "title": "新加坡金管局要求加密交易所将客户资金存放于信托，并考虑禁止散户借贷和质押",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20858.html",
-          "author": null,
-          "description": "7月3日消息，泰国证券交易委员会（SEC）今日在官网上发布有关加密货币交易风险和服务禁令的警告披露规则，主要内容如下：1.加密货币交易风险提示的披露将于2023年7月31日生效，要求加密货币交易中心运营商、加密货币经纪商以及加密货币交易者必须披露有关与加密货币交易相关的潜在风险的警告。2.禁止数字资产业务经营者提供或支持向储户提供回报和借贷（存款和贷款）的数字资产托管服务，将于2023年8月30日生效。",
-          "link": "https://www.hellobtc.com/news/202307/20858.html",
-          "publishedOn": "2023-07-03T08:28:00.000Z",
-          "wordCount": 313,
-          "title": "泰国SEC：加密交易风险披露规则将于7月31日生效，8月30日起禁止提供加密存贷款业务",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
