@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 688,
+          "wordCount": 669,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 900,
+          "wordCount": 916,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -101,7 +101,7 @@
           "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
           "link": "https://www.defidaonews.com/article/6822232",
           "publishedOn": "2023-06-14T09:22:08.000Z",
-          "wordCount": 456,
+          "wordCount": 458,
           "title": "深度：Web3游戏权威指南",
           "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
@@ -113,12 +113,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=78550",
+          "author": "Gao",
+          "description": "欧盟的重要加密货币规则手册刚刚通过了最后的立法障碍。欧洲理事会的成员国代表以一致的投票批准了加密资产市场法规。这些被称为 MiCA 的规则预计将在 6 月开始实施，新的法律将涉及消费者保护、市场诚信和金融稳定。",
+          "link": "https://www.web3sj.com/news/78550/",
+          "publishedOn": "2023-07-05T07:33:02.000Z",
+          "wordCount": 736,
+          "title": "除MiCA外，还需要关注的9个欧洲重要加密法规",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688542371355.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78539",
+          "author": "Gao",
+          "description": "RWA 是将传统市场中的资产通过代币的形式映射上链，供 web3.0 用户买卖交易。RWA 的代币拥有资产的收益权。几年前的 STO，范围主要集中在企业的债券融资，现在的 RWA 范围则更为广阔：不局限于传统资产的一级市场，任何在一二级市场中流通的资产都可以通过代币化的方式上链，让 web3.0 的用户参与投资。因此，RWA 的叙事中，包含的资产种类丰富，所涵盖的收益率范围也较为宽泛。",
+          "link": "https://www.web3sj.com/definews/78539/",
+          "publishedOn": "2023-07-05T07:22:06.000Z",
+          "wordCount": 913,
+          "title": "RWA漫谈：底层资产、业务结构和发展路径",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688541714987.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=78529",
           "author": "Gao",
           "description": "两者难分高下，因为两者本来走的是完全不同的路子。比特币走向数字时代最有价值存储的位置，是最具原生性的数字资产，也是未来数字时代最原始的 OG 资产，具有不可替代的共识位置。以太坊走的是数字资产生态的路子，通过以太坊生发出 defi、nft、游戏等应用场景的探索，推动加密领域走向大规模应用的道路。",
           "link": "https://www.web3sj.com/news/78529/",
           "publishedOn": "2023-07-05T06:55:18.000Z",
-          "wordCount": 673,
+          "wordCount": 683,
           "title": "比特币与以太坊的铁王座之争",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688540094176.png"
         },
@@ -128,7 +148,7 @@
           "description": "随着 Ordinals 协议的推广，越来越多的用户将数据刻写到比特币上的非同质化 Ordinals 集合中。这种增加的使用量导致对比特币区块空间的需求增加，进而导致比特币网络费用上涨。为了继续鼓励创作者在比特币区块链上发布创新想法，在继12 种「新生代协议」之后，BTC 生态 Launchpad Luminex 于 GitHub 上发布了 BRC 69 标准，该标准利用递归铭文来优化铭刻的成本。就将围绕其原理、特点以及铸造和部署操作展开分析，旨在帮助读者全面了解这一新协议。",
           "link": "https://www.web3sj.com/news/78523/",
           "publishedOn": "2023-07-05T06:15:01.000Z",
-          "wordCount": 720,
+          "wordCount": 721,
           "title": "详解BRC-69：如何将铭文成本降低90%以上？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688537518562.png"
         },
@@ -138,7 +158,7 @@
           "description": "不要只为特定的函数写 require 语句；为你的协议写 require 语句。函数遵循检查 (requirements)- 生效 (Effects)- 交互 (INteractions)+ 协议不变性 (Invariants) 或 FREI-PI 模式可以帮助你的合约更加安全，因为它迫使开发人员除了关注函数级别的安全之外，还要关注协议级别的不变性。",
           "link": "https://www.web3sj.com/definews/78513/",
           "publishedOn": "2023-07-05T06:00:16.000Z",
-          "wordCount": 956,
+          "wordCount": 929,
           "title": "DeFi合约安全的新模式：关注协议不变性",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688536796578.png"
         },
@@ -148,7 +168,7 @@
           "description": "Pendle Finance 是部署在 Ethereum 和 Arbitrum 上的收益策略协议，在 2022 年底上线 v2 版本并更改经济模型，随后支持 LST 资产并上线 Arbitrum。如需了解更多基本面信息，可查看 LD Pendle 历史报告。",
           "link": "https://www.web3sj.com/definews/78496/",
           "publishedOn": "2023-07-05T05:30:49.000Z",
-          "wordCount": 1046,
+          "wordCount": 1033,
           "title": "解析Pendle战争：高收益能否持续？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688534967782.png"
         },
@@ -158,7 +178,7 @@
           "description": "这 3 款游戏属于不同的类型，一个以奖励为驱动，一个与普通游戏竞争，一个是自治世界的序章。",
           "link": "https://www.web3sj.com/gamefinews/78490/",
           "publishedOn": "2023-07-05T05:16:48.000Z",
-          "wordCount": 669,
+          "wordCount": 673,
           "title": "GameFi即将复苏？浅析3款不同类别的区块链游戏",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688534127154.png"
         },
@@ -168,7 +188,7 @@
           "description": "P2O 游戏通常采用免费模式，强调通过游戏玩法而非直接购买获取游戏内资产。这些资产在区块链上以 NFT 的形式呈现，赋予玩家完全的所有权。如果玩家并不想使用这些资产，其可在各类市场进行交易。",
           "link": "https://www.web3sj.com/gamefinews/78482/",
           "publishedOn": "2023-07-05T04:36:35.000Z",
-          "wordCount": 841,
+          "wordCount": 852,
           "title": "如何创造可持续的Web3游戏经济模式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688458532325441.jpg"
         },
@@ -178,7 +198,7 @@
           "description": "这只加密鲸鱼在各种项目上拿到了大量空投，截至目前该地址已经申领过超 20 个项目空投的代币。他的狩猎名单上的下一个目标是什么？让我们来看看他最近在买哪些币、交互哪些协议。",
           "link": "https://www.web3sj.com/news/78477/",
           "publishedOn": "2023-07-05T04:23:31.000Z",
-          "wordCount": 778,
+          "wordCount": 767,
           "title": "空投猎人最近都在交互哪些协议？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688530998529.png"
         },
@@ -188,29 +208,9 @@
           "description": "首先，ChatGPT 的加密领域相关数据太少且严重缺乏时效性，这使得它在处理加密货币市场的问题时，往往无法提供准确、及时的答案。其次，ChatGPT 本身对日期和时间戳的支持很弱，导致很难做时间序列分析。最后，同一个对话只能使用 3 个插件，而大多数插件功能太少太单一，拼凑多个插件也不能解决所有加密领域的问题。",
           "link": "https://www.web3sj.com/news/78469/",
           "publishedOn": "2023-07-05T04:13:35.000Z",
-          "wordCount": 668,
+          "wordCount": 682,
           "title": "ChatGPT上线新插件，增强Web3服务",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688530354642.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78447",
-          "author": "Gao",
-          "description": "在牛市中，人们常以 Google 对「NFT」一词的搜索趋势作为其普及和受欢迎程度的代理指标。但具有讽刺意味的是，当这个术语完全从我们的词汇库中淡出，可能才是真正的大规模采用信号。当 NFT 的应用如此广泛和普遍，以至于该术语本身不再有用，因为它可以指代任何事物时，我们就知道已经取得了实质性的进步。",
-          "link": "https://www.web3sj.com/nftnews/78447/",
-          "publishedOn": "2023-07-05T03:50:04.000Z",
-          "wordCount": 1074,
-          "title": "超越721和1155：重新审视NFT设计空间",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688528992343.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78441",
-          "author": "Gao",
-          "description": "就在昨日，Binance 宣布上线 Launchpool 新项目 Pendle (PENDLE)，受其影响，PENDLE 5 分钟内突破 1.7 美元，涨幅一度高达 76.83%。Pendle 生态或很快会迎来 PENDLE 大战，以下是 Pendle 生态值得关注的三个项目，按照 TVL 排名来分类，分别是 Penpie、Equilibria、Stake DAO。",
-          "link": "https://www.web3sj.com/definews/78441/",
-          "publishedOn": "2023-07-05T03:46:06.000Z",
-          "wordCount": 970,
-          "title": "了解Pendle生态中值得关注的三个项目：Penpie、Equilibria、StakeDAO",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688528751546.png"
         }
       ]
     },
@@ -295,7 +295,7 @@
           "description": "PANews 7月5日消息，据腾讯新闻《潜望》报道，过去这几个月中，大多数华人背景的加密头部公司都有找人来香港对接监管部门，其中包括神鱼毛世行旗下的钱包公司Cobo以及赵长鹏的币安集团等。\n报道称，在香港递交加密货币交易平台申请牌照之前需要的成本至少在1亿港币左右，这其中除了管理人员的成本外，绝大部分成本都属于系统技术上。但这只是一张在港申请交易平台牌照的入门券。此外，不久的未来，香港还将对外推出有关稳定币牌照的事宜，甚至还在探讨有关多元化虚拟货币衍生品，比如现货比特币ETF等。\n此外，报道称，香港本地现有的合规交易所之一OSL已经决定退出，并于今年春节后在市场上四处寻找买家收购，但至今都无人接盘。截至发稿，该消息暂未能获得OSL置评。该交易所隶属于港股上市公司BC科技集团。该公司2022年的财报显示，公司亏损持续加大，其中OSL于2022年的加密货币收入为7148万港元，仅为前一年2.7亿港元的约三分之一不到。",
           "link": "https://panewslab.com/zh/articledetails/0ixs8m31.html",
           "publishedOn": "2023-07-05T05:09:36.000Z",
-          "wordCount": 336,
+          "wordCount": 333,
           "title": "腾讯新闻《潜望》：币安近几月曾对接香港监管部门；牌照申请“入门券”至少1亿港币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 7月5日消息，据金十报道，京东集团CEO许冉在今日2023全球数字经济大会主论坛上表示，唯有技术才能创造核心竞争优势，7月13日，京东全球科技探索者大会将发布京东大模型。京东将在人工智能、大数据、云计算等领域，不断探索和拓宽科技新边界。",
           "link": "https://panewslab.com/zh/articledetails/8ddcg65p.html",
           "publishedOn": "2023-07-05T03:47:51.000Z",
-          "wordCount": 330,
+          "wordCount": 345,
           "title": "京东集团CEO：将于7月13日推出大模型",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
