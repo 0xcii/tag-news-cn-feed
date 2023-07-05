@@ -6,22 +6,12 @@
       "siteUrl": "https://www.defidaonews.com",
       "articles": [
         {
-          "id": "https://www.defidaonews.com/article/6824826",
-          "author": "元宇宙日爆",
-          "description": "大学“学以致用”的典型案例。",
-          "link": "https://www.defidaonews.com/article/6824826",
-          "publishedOn": "2023-07-05T03:27:56.000Z",
-          "wordCount": 122,
-          "title": "对话：我在二本院校学VR",
-          "imageUrl": "https://appserversrc.8btc.cn/FjtLaQW9zS0QACKclkImSFetjcQ8.png?imageView2/1/w/500/h/300"
-        },
-        {
           "id": "https://www.defidaonews.com/article/6822626",
           "author": "吴说",
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 670,
+          "wordCount": 666,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 903,
+          "wordCount": 895,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -104,6 +94,16 @@
           "wordCount": 242,
           "title": "解密排序器：保障交易真实性的关键",
           "imageUrl": "https://appserversrc.8btc.cn/Fsbg7SIVHL6NSV0426wdId3UbJjO.png?imageView2/1/w/500/h/300"
+        },
+        {
+          "id": "https://www.defidaonews.com/article/6822232",
+          "author": "wesely",
+          "description": "很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。",
+          "link": "https://www.defidaonews.com/article/6822232",
+          "publishedOn": "2023-06-14T09:22:08.000Z",
+          "wordCount": 444,
+          "title": "深度：Web3游戏权威指南",
+          "imageUrl": "https://appserversrc.8btc.cn/Fo7jaUfFN8FY1TWZUv64QuyhRCZu.png?imageView2/1/w/500/h/300"
         }
       ]
     },
@@ -113,12 +113,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=78523",
+          "author": "Gao",
+          "description": "随着 Ordinals 协议的推广，越来越多的用户将数据刻写到比特币上的非同质化 Ordinals 集合中。这种增加的使用量导致对比特币区块空间的需求增加，进而导致比特币网络费用上涨。为了继续鼓励创作者在比特币区块链上发布创新想法，在继12 种「新生代协议」之后，BTC 生态 Launchpad Luminex 于 GitHub 上发布了 BRC 69 标准，该标准利用递归铭文来优化铭刻的成本。就将围绕其原理、特点以及铸造和部署操作展开分析，旨在帮助读者全面了解这一新协议。",
+          "link": "https://www.web3sj.com/news/78523/",
+          "publishedOn": "2023-07-05T06:15:01.000Z",
+          "wordCount": 712,
+          "title": "详解BRC-69：如何将铭文成本降低90%以上？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688537518562.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78513",
+          "author": "Gao",
+          "description": "不要只为特定的函数写 require 语句；为你的协议写 require 语句。函数遵循检查 (requirements)- 生效 (Effects)- 交互 (INteractions)+ 协议不变性 (Invariants) 或 FREI-PI 模式可以帮助你的合约更加安全，因为它迫使开发人员除了关注函数级别的安全之外，还要关注协议级别的不变性。",
+          "link": "https://www.web3sj.com/definews/78513/",
+          "publishedOn": "2023-07-05T06:00:16.000Z",
+          "wordCount": 930,
+          "title": "DeFi合约安全的新模式：关注协议不变性",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688536796578.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78496",
+          "author": "Gao",
+          "description": "Pendle Finance 是部署在 Ethereum 和 Arbitrum 上的收益策略协议，在 2022 年底上线 v2 版本并更改经济模型，随后支持 LST 资产并上线 Arbitrum。如需了解更多基本面信息，可查看 LD Pendle 历史报告。",
+          "link": "https://www.web3sj.com/definews/78496/",
+          "publishedOn": "2023-07-05T05:30:49.000Z",
+          "wordCount": 1032,
+          "title": "解析Pendle战争：高收益能否持续？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688534967782.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=78490",
+          "author": "Gao",
+          "description": "这 3 款游戏属于不同的类型，一个以奖励为驱动，一个与普通游戏竞争，一个是自治世界的序章。",
+          "link": "https://www.web3sj.com/gamefinews/78490/",
+          "publishedOn": "2023-07-05T05:16:48.000Z",
+          "wordCount": 658,
+          "title": "GameFi即将复苏？浅析3款不同类别的区块链游戏",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688534127154.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=78482",
           "author": "Gao",
           "description": "P2O 游戏通常采用免费模式，强调通过游戏玩法而非直接购买获取游戏内资产。这些资产在区块链上以 NFT 的形式呈现，赋予玩家完全的所有权。如果玩家并不想使用这些资产，其可在各类市场进行交易。",
           "link": "https://www.web3sj.com/gamefinews/78482/",
           "publishedOn": "2023-07-05T04:36:35.000Z",
-          "wordCount": 849,
+          "wordCount": 840,
           "title": "如何创造可持续的Web3游戏经济模式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688458532325441.jpg"
         },
@@ -128,7 +168,7 @@
           "description": "这只加密鲸鱼在各种项目上拿到了大量空投，截至目前该地址已经申领过超 20 个项目空投的代币。他的狩猎名单上的下一个目标是什么？让我们来看看他最近在买哪些币、交互哪些协议。",
           "link": "https://www.web3sj.com/news/78477/",
           "publishedOn": "2023-07-05T04:23:31.000Z",
-          "wordCount": 770,
+          "wordCount": 768,
           "title": "空投猎人最近都在交互哪些协议？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688530998529.png"
         },
@@ -138,7 +178,7 @@
           "description": "首先，ChatGPT 的加密领域相关数据太少且严重缺乏时效性，这使得它在处理加密货币市场的问题时，往往无法提供准确、及时的答案。其次，ChatGPT 本身对日期和时间戳的支持很弱，导致很难做时间序列分析。最后，同一个对话只能使用 3 个插件，而大多数插件功能太少太单一，拼凑多个插件也不能解决所有加密领域的问题。",
           "link": "https://www.web3sj.com/news/78469/",
           "publishedOn": "2023-07-05T04:13:35.000Z",
-          "wordCount": 685,
+          "wordCount": 680,
           "title": "ChatGPT上线新插件，增强Web3服务",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688530354642.png"
         },
@@ -148,7 +188,7 @@
           "description": "在牛市中，人们常以 Google 对「NFT」一词的搜索趋势作为其普及和受欢迎程度的代理指标。但具有讽刺意味的是，当这个术语完全从我们的词汇库中淡出，可能才是真正的大规模采用信号。当 NFT 的应用如此广泛和普遍，以至于该术语本身不再有用，因为它可以指代任何事物时，我们就知道已经取得了实质性的进步。",
           "link": "https://www.web3sj.com/nftnews/78447/",
           "publishedOn": "2023-07-05T03:50:04.000Z",
-          "wordCount": 1066,
+          "wordCount": 1063,
           "title": "超越721和1155：重新审视NFT设计空间",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688528992343.png"
         },
@@ -158,7 +198,7 @@
           "description": "就在昨日，Binance 宣布上线 Launchpool 新项目 Pendle (PENDLE)，受其影响，PENDLE 5 分钟内突破 1.7 美元，涨幅一度高达 76.83%。Pendle 生态或很快会迎来 PENDLE 大战，以下是 Pendle 生态值得关注的三个项目，按照 TVL 排名来分类，分别是 Penpie、Equilibria、Stake DAO。",
           "link": "https://www.web3sj.com/definews/78441/",
           "publishedOn": "2023-07-05T03:46:06.000Z",
-          "wordCount": 941,
+          "wordCount": 996,
           "title": "了解Pendle生态中值得关注的三个项目：Penpie、Equilibria、StakeDAO",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688528751546.png"
         },
@@ -168,49 +208,9 @@
           "description": "行业内越来越多的声音认为，贝莱德可能会结束美国对比特币现货交易所交易产品，长达十年的管控。在此之前，美国证券交易委员会（SEC）曾一再拒绝这些申请，理由是在不受监管的交易所进行的「现货」比特币市场存在欺诈和操纵风险。相反，它只愿意批准基于比特币期货合约的 ETF，这些合约在受监管的芝加哥商品交易所上市。它甚至批准了 6 月 27 日推出的两倍杠杆期货 ETF。",
           "link": "https://www.web3sj.com/news/78433/",
           "publishedOn": "2023-07-05T03:42:37.000Z",
-          "wordCount": 989,
+          "wordCount": 990,
           "title": "华尔街巨头进军加密货币，这一次Bitcoin ETF是来真的？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688528539062.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78405",
-          "author": "Gao",
-          "description": "Layer2 扩展的转变。随着区块链能力的扩展和需求的增长，以太坊需要提供一个可扩展的解决方案，以保持其去中心化的理念。这是一个平衡问题——如果不能解决这个问题，用户可能因高交易成本而感到沮丧，并转向中心化的变通方法，从而削弱了以太坊的核心卖点。",
-          "link": "https://www.web3sj.com/news/78405/",
-          "publishedOn": "2023-07-04T15:20:06.000Z",
-          "wordCount": 721,
-          "title": "深入探讨以太坊可能会失败的三个原因",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688483971511.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78394",
-          "author": "Gao",
-          "description": "这是今年发生的第一起跨链桥攻击事件，也是针对 Poly Network 发起的第二次攻击。去年攻击事件的总损失金额达 37 亿美元，其中跨链桥攻击损失占 35%。虽然本次事件看似是有史以来涉案金额最大的漏洞攻击事件，但黑客的实际收益要低很多。",
-          "link": "https://www.web3sj.com/news/78394/",
-          "publishedOn": "2023-07-04T15:16:56.000Z",
-          "wordCount": 836,
-          "title": "CertiK：分析Poly Network千万美元损失攻击事件",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688483804974.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78384",
-          "author": "Gao",
-          "description": "Layer2 赛道的兴起源自 Layer1 公链的「不可能三角」，即公链的可扩展性、安全性和去中心化无法同时兼顾，以太坊作为公链赛道的超级龙头，为了解决自身的可扩展性问题，率先开启侧链、Rollup、validium 等扩容方案。",
-          "link": "https://www.web3sj.com/news/78384/",
-          "publishedOn": "2023-07-04T15:13:27.000Z",
-          "wordCount": 1099,
-          "title": "爆发式增长，公链叙事和机遇已转移到Layer2",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1688483592858.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=78379",
-          "author": "Gao",
-          "description": "但加密区块链上的硬分叉和软分叉之间存在很大差异，比特币分叉也不例外。虽然硬分叉通常会产生全新版本的区块链，但软分叉的意图和执行方式有所不同。 在这里，我们将阐述软分叉如何旨在改进区块链网络（在本例中为主要的比特币网络），并且我们将列出一些已得到比特币社区批准的软分叉示例。",
-          "link": "https://www.web3sj.com/news/78379/",
-          "publishedOn": "2023-07-04T15:08:05.000Z",
-          "wordCount": 703,
-          "title": "软分叉是如何影响比特币生态系统发展的？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/q2fHOsB6v8rlAxcOW2ArOjD4LPUUyW8hF3Qs4nzi.png"
         }
       ]
     },
@@ -219,6 +219,66 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/k4kjek7i.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，NFT借贷协议ParaSpace发推称，Azuki持有者现在可以通过ParaSpace Flash Claim功能申领Elementals空投，无需赎回Azuki。如果用户有资格申领，将在借贷页面顶部看到一个相关banner。\n此前昨日消息，ParaSpace宣布暂停Azuki矿池，包括充值、提取、强平等功能。",
+          "link": "https://panewslab.com/zh/articledetails/k4kjek7i.html",
+          "publishedOn": "2023-07-05T04:00:31.000Z",
+          "wordCount": 370,
+          "title": "ParaSpace支持Azuki持有者通过该平台直接申领Elementals空投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/hslhpi61.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日，据香港经济日报报道，南华金融集团宣布旗下南华证券成为虚拟资产服务提供者制度生效后首批获香港证监会发牌金融机构之一。据悉南华证券于今年3月17日获香港证监会核准成为虚拟资产交易平台的介绍代理人，本次获批后专业投资者客户可通过南华证券转介至虚拟资产交易平台进行虚拟资产交易。",
+          "link": "https://panewslab.com/zh/articledetails/hslhpi61.html",
+          "publishedOn": "2023-07-05T03:51:11.000Z",
+          "wordCount": 332,
+          "title": "南华证券：已成为首批香港持牌虚拟资产金融机构之一",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8ddcg65p.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，据金十报道，京东集团CEO许冉在今日2023全球数字经济大会主论坛上表示，唯有技术才能创造核心竞争优势，7月13日，京东全球科技探索者大会将发布京东大模型。京东将在人工智能、大数据、云计算等领域，不断探索和拓宽科技新边界。",
+          "link": "https://panewslab.com/zh/articledetails/8ddcg65p.html",
+          "publishedOn": "2023-07-05T03:47:51.000Z",
+          "wordCount": 333,
+          "title": "京东集团CEO：将于7月13日推出大模型",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/81k10eop.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，据Lookonchain监测，在去中心化存储项目Storj团队在STORJ代币上涨之后，即9小时前将250万枚STORJ（约合122万美元）转入币安，当前，该地址持有1160万枚STORJ（约合570万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/81k10eop.html",
+          "publishedOn": "2023-07-05T03:33:11.000Z",
+          "wordCount": 355,
+          "title": "数据：Storj团队凌晨将250万枚STORJ转入币安，约合122万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5oablsbw.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，据Digital Asset报道，链上数据显示，北京时间7月3日10:19，Terraform Labs首席执行官Do Kwon持有的加密钱包，即Luna Foundation Guard（LFG）的币安钱包将5292枚BTC（约合1.63亿美元）全部转至新的匿名钱包，该匿名钱包之前未被发现过其与Do Kwon的联系。此前该钱包于5月8日提取了351枚BTC。",
+          "link": "https://panewslab.com/zh/articledetails/5oablsbw.html",
+          "publishedOn": "2023-07-05T03:28:44.000Z",
+          "wordCount": 372,
+          "title": "韩媒：Do Kwon所持LFG钱包于7月3日将5292枚BTC转至新地址，约合1.63亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/294f44x1.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，Nansen数据显示，目前以太坊上BAYC的链上版税收入已超5800万美元，Otherdeed for Otherside超5200万美元，Azuki超过4300万美元，Pudgy Penguins超过720万美元。",
+          "link": "https://panewslab.com/zh/articledetails/294f44x1.html",
+          "publishedOn": "2023-07-05T03:13:25.000Z",
+          "wordCount": 376,
+          "title": "数据：BAYC、Otherdeed for Otherside链上版税收入均超5000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/1opztcrd.html",
           "author": "PA一线",
@@ -245,7 +305,7 @@
           "description": "PANews 7月5日消息，NFT项目Moonbirds联合创始人Kevin Rose在推特上更新项目进展，称连接创作者和收藏者的奖励系统即将推出，奖励代币TALONS将包含以下用例：1.参加PROOF策划的展览和合作的资格；2.限量周边商品的购买权；3.独家活动的访问权，如私人晚宴、播客录制等；4.PROOF原创藏品实验的访问权；5.未来项目、铸造资格的白名单；6.其他实验性体验的资格，如Moonbirds定制等。\n此外，Moonbirds将推出在洛杉矶的实验性实体空间The Foundry，此外还即将推出新NFT系列 Mythics。Kevin Rose称：“我们从未动摇过对每件产品的需求，以实现我们为创作者和收藏者提供体验的愿景，这包括Talons和Mythics。但PROOF的核心产品应该是一个更加统一的产品。”\nNFTGo.io数据显示，Moonbirds NFT系列地板价目前为1.67 ETH，24小时涨幅达20.24%。\n此前4月消息，Moonbirds将推出奖励代币TALONS，NFT持有者每天可积累该代币。",
           "link": "https://panewslab.com/zh/articledetails/6m1l2t8c.html",
           "publishedOn": "2023-07-05T02:36:01.000Z",
-          "wordCount": 372,
+          "wordCount": 366,
           "title": "Moonbirds联创：奖励系统即将推出，奖励代币TALONS将包含多种用例",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +315,7 @@
           "description": "PANews 7月5日消息，币安首席执行官赵长鹏在推特上发文称，持有最稀有款ForeverCR7: The GOAT NFT将有机会与C罗见面及一起训练，币安将承担机票与住宿费用。\n此前昨日消息，币安NFT市场将推出与C罗合作的“ForeverCR7: The GOAT”NFT系列。",
           "link": "https://panewslab.com/zh/articledetails/9bkh9jn5.html",
           "publishedOn": "2023-07-05T02:11:36.000Z",
-          "wordCount": 377,
+          "wordCount": 371,
           "title": "赵长鹏：持最稀有款ForeverCR7: The GOAT NFT将有机会与C罗见面及一起训练",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +335,7 @@
           "description": "PANews 7月5日消息，据Globe Newswire报道，非托管数字资产管理解决方案Bequest Finance宣布完成275万美元融资，Nyca Partners领投，NBA达拉斯独行侠队老板Mark Cuban和其他金融科技公司参投。\n据悉，Bequest Finance通过创建非托管数字资产管理解决方案，以支持合规的数字资产信托和法律法律程序，旨在简化信托和遗产中的比特币等数字资产转移流程。",
           "link": "https://panewslab.com/zh/articledetails/fz3w71ws.html",
           "publishedOn": "2023-07-05T01:59:36.000Z",
-          "wordCount": 363,
+          "wordCount": 351,
           "title": "非托管数字资产管理解决方案Bequest Finance融资275万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +365,7 @@
           "description": "PANews 7月5日消息，据Cointelegraph报道，英国金融行为监管局（FCA）宣布，所有向该国用户进行营销的加密资产公司必须在2023年10月8日起遵守其金融推广（promotions）制度。届时，在英国运营的公司将只有四种合法进行加密资产推广的途径，以遵守FCA的制度。这些法律途径包括让授权方批准或传达推广活动、由在FCA注册的企业创建推广活动，或者根据英国《金融服务和市场法案》获得豁免资格的推广活动。\n推广活动包括“网站、移动应用程序、社交媒体帖子和在线广告”，这些活动“能够在英国产生影响”，而且不仅限于总部位于英国的公司。FCA加密金融推广主管Jayson Probin表示，不遵守规定的公司可能会受到刑事指控。\n此前消息，FCA将于10月8日起对加密广告商实施更严格的监管规则，其中包括禁止诸如“推荐好友”或“新加入者奖金”等投资激励措施，并禁止将加密空投等激励措施与引导用户投资相结合。",
           "link": "https://panewslab.com/zh/articledetails/239ihi39.html",
           "publishedOn": "2023-07-05T01:37:11.000Z",
-          "wordCount": 347,
+          "wordCount": 350,
           "title": "英国金融行为监管局提醒加密公司须在10月8日起遵守营销合规制度",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +375,7 @@
           "description": "PANews 7月5日消息，MakerDAO在推特上宣布，其旗下DeFi借贷协议Spark Protocol将扩展至多链，并公布了有兴趣在特定域（各区块链网络）中部署Spark Protocol的步骤与流程。\n在新域中部署Spark Protocol，需要先于SubDAO TWO类别下的Maker论坛上创建一个帖子（需提供背景资料、技术信息、抵押品信息、流动性信息等）。Phoenix Labs将对提交的提案进行评估，并向MakerDAO提供有关要包含的新域和抵押品信息的建议。Block Analitica将执行抵押品评估并为新域中Spark中的抵押品建议风险参数。",
           "link": "https://panewslab.com/zh/articledetails/hlf5qgom.html",
           "publishedOn": "2023-07-05T01:25:43.000Z",
-          "wordCount": 354,
+          "wordCount": 358,
           "title": "MakerDAO旗下DeFi借贷协议Spark Protocol将扩展至多链",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +385,7 @@
           "description": "PANews 7月5日消息，以太坊质押基础设施SSV.Network发布主网启动计划，主网启动将于今年第二季度初至第四季度分四个阶段进行，分别是预启动、有限启动、启动、无需许可的启动。\n“预启动”阶段：部署主网验证器进行内部测试，目前正处于这个阶段，验证器位于主网上。“有限启动”阶段：引入外部运营商，其中包括行业领先的质押和基础设施提供商，以测试主网上的外部运营商的扩展。“启动”阶段：将允许更多构建者（质押提供商和应用程序）加入验证器，即外部TVL和运营商，如质押池、服务、机构级别的质押者。“无需许可的启动”阶段：SSV.Network通过智能合约完全开放且无需许可。",
           "link": "https://panewslab.com/zh/articledetails/trtzrskn.html",
           "publishedOn": "2023-07-05T01:22:37.000Z",
-          "wordCount": 335,
+          "wordCount": 332,
           "title": "SSV.Network：主网启动将于Q2至Q4分四个阶段进行",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -358,26 +418,6 @@
           "wordCount": 369,
           "title": "LayerZero CEO推特账号被盗，请勿点击可疑链接",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/jhfikhyo.html",
-          "author": "PA一线",
-          "description": "PANews 7月5日消息，据Bitcoin.com报道，LBank Labs宣布设立1000万美元的MEME专项基金，旨在鼓励高质量的早期创新MEME项目。资金分配将根据项目质量和影响力，直接捐赠给符合条件的项目团队。将设立排行榜，定期公布获奖名单，突出项目的成就和贡献。预计明年内完成资金发放，首批捐款名单将于7月初公布。",
-          "link": "https://panewslab.com/zh/articledetails/jhfikhyo.html",
-          "publishedOn": "2023-07-05T00:04:51.000Z",
-          "wordCount": 341,
-          "title": "LBank Labs设立1000万美元的MEME专项基金",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9kgxzy2r.html",
-          "author": "PA一线",
-          "description": "PANews 7月5日消息，据CoinDesk报道，英国上议院已于周二通过《经济犯罪和企业透明度法案》(Economic Crime and Corporate Transparency Bill)，该法案将帮助执法机构扣押和冻结用于犯罪的加密货币。今年3月，英国政府表示，打击涉及加密货币的犯罪行为是其三年经济犯罪议程的一部分。英国在全国警察部门中加入加密战略顾问，以帮助识别和没收与犯罪有关的数字资产。在上议院获得批准意味着该法案将返回下议院进行最后阶段的审议。一旦两院同意该法案，国王将需要将其签署成为法律。",
-          "link": "https://panewslab.com/zh/articledetails/9kgxzy2r.html",
-          "publishedOn": "2023-07-04T21:53:21.000Z",
-          "wordCount": 362,
-          "title": "英国上议院通过《经济犯罪和企业透明度法案》，将帮助执法机构扣押犯罪相关加密货币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -386,6 +426,56 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202307/20874.html",
+          "author": null,
+          "description": "富兰克林邓普顿(FranklinTempleton)表示，BTC ETF将为传统投资组合开辟新的接入点。",
+          "link": "https://www.hellobtc.com/news/202307/20874.html",
+          "publishedOn": "2023-07-05T04:01:00.000Z",
+          "wordCount": 311,
+          "title": "富兰克林邓普顿：BTC ETF将为传统投资组合开辟新的接入点",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20873.html",
+          "author": null,
+          "description": "加密货币税务报告软件CoinLedger联合创始人兼首席执行官David Kemmerer发文表示，多年来，加密货币和NFT投资者利用清洗销售来节省数千美元的税收。然而，这个税收漏洞可能会在不久的将来结束。目前，拜登政府的预算方案包含一项条款，将清洗销售规则扩大到加密货币和NFTs，并限制加密货币投资者要求资本损失的能力。",
+          "link": "https://www.hellobtc.com/news/202307/20873.html",
+          "publishedOn": "2023-07-05T04:01:00.000Z",
+          "wordCount": 304,
+          "title": "观点：加密货币和NFT的税收漏洞可能很快结束",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20872.html",
+          "author": null,
+          "description": "7月5日，据香港经济日报报道，南华金融集团宣布旗下南华证券成为虚拟资产服务提供者制度生效后首批获香港证监会发牌金融机构之一。据悉南华证券于今年3月17日获香港证监会核准成为虚拟资产交易平台的介绍代理人，本次获批后专业投资者客户可通过南华证券转介至虚拟资产交易平台进行虚拟资产交易。",
+          "link": "https://www.hellobtc.com/news/202307/20872.html",
+          "publishedOn": "2023-07-05T04:00:00.000Z",
+          "wordCount": 300,
+          "title": "南华证券：已成为首批香港持牌虚拟资产金融机构之一",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20871.html",
+          "author": null,
+          "description": "7月5日消息，据金十报道，京东集团CEO许冉在今日2023全球数字经济大会主论坛上表示，唯有技术才能创造核心竞争优势，7月13日，京东全球科技探索者大会将发布京东大模型。京东将在人工智能、大数据、云计算等领域，不断探索和拓宽科技新边界。",
+          "link": "https://www.hellobtc.com/news/202307/20871.html",
+          "publishedOn": "2023-07-05T04:00:00.000Z",
+          "wordCount": 300,
+          "title": "京东集团CEO：将于7月13日推出大模型",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20870.html",
+          "author": null,
+          "description": "7月5日消息，以太坊客户端Lighthouse开发团队Sigma?Prime在推特上表示，新的Lighthouse版本v4.3.0已发布，支持Gnosis Capella升级，Gnosis用户必须在8月1日之前升级至v4.3.0。该版本对于主网、Goerli和Sepolia用户来说是低优先级版本。对于所有网络，此版本包含新功能、错误修复和优化。\n此前6月26日消息，Gnosis Chain计划于北京时间8月1日19:34左右启动主网Shapella升级。",
+          "link": "https://www.hellobtc.com/news/202307/20870.html",
+          "publishedOn": "2023-07-05T04:00:00.000Z",
+          "wordCount": 308,
+          "title": "以太坊客户端Lighthouse发布v4.3.0版本，支持Gnosis Capella升级",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202307/20869.html",
           "author": null,
@@ -434,56 +524,6 @@
           "publishedOn": "2023-07-04T09:52:00.000Z",
           "wordCount": 304,
           "title": "南非将要求加密货币交易所在年底前获得许可证",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20864.html",
-          "author": null,
-          "description": "据L2BEAT数据显示，以太坊Layer2总锁仓量为99.7亿美元，7日涨幅2.03%。锁仓量前五分别为：Arbitrum One（59.8亿美元，7日涨幅0.52%）；OP Mainnet（22.6亿美元，7日涨幅2.72%）；zkSync Era（7.37亿美元，7日涨幅16.43%）；dYdX（3.45亿美元，7日跌幅1.46%）；Immutable X（1.03亿美元，7日涨幅1.91%）。",
-          "link": "https://www.hellobtc.com/news/202307/20864.html",
-          "publishedOn": "2023-07-04T08:56:00.000Z",
-          "wordCount": 314,
-          "title": "以太坊Layer2总锁仓量近100亿美元，7日涨幅2.03%",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20863.html",
-          "author": null,
-          "description": "7月4日消息，据 Dappradar 近期发布的报告显示，自 2023 年年初至 6 月底，元宇宙项目融资总额约为 7.07 亿美元，该数字虽然占据 2023 年加密项目融资总额的 43.68%，但仍不及 2022 年元宇宙项目全年融资总额（约 76 亿美元）的 10%。 此外，Dappradar 在报告中将亚洲（包括中国和日本等地区）描述为虚拟宇宙将蓬勃发展的地区，因为该地区各国官方和企业正在对该行业及其发展进行大力支持和投资。中国是少数几个制定了虚拟宇宙计划的国家之一，其中包括在教育和旅游领域实施的举措。字节跳动、阿里巴巴、百度和腾讯等中国公司也正在投资开发元宇宙硬件和软件。",
-          "link": "https://www.hellobtc.com/news/202307/20863.html",
-          "publishedOn": "2023-07-04T08:56:00.000Z",
-          "wordCount": 322,
-          "title": "2023年元宇宙项目H1融资总额约7.07亿美元，不及2022年全年融资总额的10%",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20862.html",
-          "author": null,
-          "description": "7月4日消息，据澎湃新闻报道，联合国安理会将于7月18日在英国举行首次关于人工智能对国际和平与安全的潜在威胁的会议。安理会认为，如在自主武器或控制核武器的应用上，人工智能的巨大潜力和重大风险并存。\n据美联社7月4日报道，英国常驻联合国代表芭芭拉·伍德沃德（Barbara Woodward）于7月3日宣布，该会议将是英国担任7月安理会轮值主席国的核心内容。会议将包含国际人工智能专家和联合国秘书长安东尼奥·古特雷斯(Antonio Guterres)的简报。古特雷斯表示：“这些科学家和专家呼吁世界采取行动，告知大众人工智能对人类的生存威胁与核战争的风险相当”。他计划于今年9月在联合国设立人工智能咨询委员会，为联合国提出可采取的措施。他还表示，他将积极响应会议，设立一个新的联合国人工智能机构，模式与国际原子能机构相同，以知识为基础并具有一些监管权。",
-          "link": "https://www.hellobtc.com/news/202307/20862.html",
-          "publishedOn": "2023-07-04T08:55:00.000Z",
-          "wordCount": 307,
-          "title": "联合国安理会将就人工智能对世界和平的潜在威胁举行首次会议",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20861.html",
-          "author": null,
-          "description": "1.加密基础设施已取代NFT和游戏，成为最受加密风投欢迎的投资类别。\n\n2.数据：6月比特币矿工收入和以太坊质押收入出现普跌。\n\n3.Kaiko：币安的现货交易量在第二季度下降了近70%。\n\n4.受与多家ETF发行商建立合作消息影响，Coinbase股价收涨逾11%。\n\n5.Gemini联创再次发布致DCG创始人Barry Silbert的公开信。\n\n6.币安与C罗最新联名NFT GOAT系列SSR款暂无人高于起拍价15000 USDT出价。\n\n7.MakerDAO拟将金库上限设为5000万枚DAI，超出部分买入MKR并添加流动性。\n\n8.Meta计划周四推出对标Twitter的应用Threads。\n\n9.三箭资本创始人将向债权人捐赠OPNX「未来收益」。\n\n10.波场TRON首个RWA产品stUSDT上线。\n\n11.币安创新区上线Pendle(PENDLE)。",
-          "link": "https://www.hellobtc.com/news/202307/20861.html",
-          "publishedOn": "2023-07-04T02:36:00.000Z",
-          "wordCount": 318,
-          "title": "白话区块链早报：加密基础设施已取代NFT和游戏，成为最受加密风投欢迎的投资类别",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20860.html",
-          "author": null,
-          "description": "7月3日消息，据大公文汇报道，香港科技大学副校长兼香港web3.0协会首席科学顾问汪扬、天使投资人蔡文胜、区块城Web3.0科技公司创始人雷志斌、香港科技大学博士生文一舟在该报刊上发布政策建议，提议香港发行以外汇储备背书的港元稳定币。\n文章称，特区政府目前的计划仅限于允许和鼓励私营机构发行港元稳定币。在我们看来，这个措施过于保守，无法与特区政府推动数字资产和数字经济的大型计划相配合。由私营机构发行的港元稳定币，很难取得重要的市场地位，最终可能成为一个边缘化的产品。因此，我们强烈呼吁特区政府发行以香港外汇储备为背书的港元稳定币。政府背书的港元稳定币将有双重保障：一方面，受益于政府的监管；另一方面，受益于区块链合约带来的资讯透明度和不可篡改性。这种创新的政策方向将为香港在数字金融领域中的领导地位提供强大支持。",
-          "link": "https://www.hellobtc.com/news/202307/20860.html",
-          "publishedOn": "2023-07-03T08:28:00.000Z",
-          "wordCount": 303,
-          "title": "香港科技大学副校长等人发布政策建议：提议香港发行以外汇储备背书的港元稳定币",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]

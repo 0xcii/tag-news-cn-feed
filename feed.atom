@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T05:14:57.269Z</id>
+    <id>urn:2023-07-05T06:19:53.097Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-05T05:14:57.269Z</updated>
+    <updated>2023-07-05T06:19:53.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[详解BRC-69：如何将铭文成本降低90%以上？]]></title>
+        <id>https://www.web3sj.com/?p=78523</id>
+        <link href="https://www.web3sj.com/news/78523/"/>
+        <updated>2023-07-05T06:15:01.000Z</updated>
+        <summary type="html"><![CDATA[随着 Ordinals 协议的推广，越来越多的用户将数据刻写到比特币上的非同质化 Ordinals 集合中。这种增加的使用量导致对比特币区块空间的需求增加，进而导致比特币网络费用上涨。为了继续鼓励创作者在比特币区块链上发布创新想法，在继12 种「新生代协议」之后，BTC 生态 Launchpad Luminex 于 GitHub 上发布了 BRC 69 标准，该标准利用递归铭文来优化铭刻的成本。就将围绕其原理、特点以及铸造和部署操作展开分析，旨在帮助读者全面了解这一新协议。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi合约安全的新模式：关注协议不变性]]></title>
+        <id>https://www.web3sj.com/?p=78513</id>
+        <link href="https://www.web3sj.com/definews/78513/"/>
+        <updated>2023-07-05T06:00:16.000Z</updated>
+        <summary type="html"><![CDATA[不要只为特定的函数写 require 语句；为你的协议写 require 语句。函数遵循检查 (requirements)- 生效 (Effects)- 交互 (INteractions)+ 协议不变性 (Invariants) 或 FREI-PI 模式可以帮助你的合约更加安全，因为它迫使开发人员除了关注函数级别的安全之外，还要关注协议级别的不变性。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解析Pendle战争：高收益能否持续？]]></title>
+        <id>https://www.web3sj.com/?p=78496</id>
+        <link href="https://www.web3sj.com/definews/78496/"/>
+        <updated>2023-07-05T05:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Pendle Finance 是部署在 Ethereum 和 Arbitrum 上的收益策略协议，在 2022 年底上线 v2 版本并更改经济模型，随后支持 LST 资产并上线 Arbitrum。如需了解更多基本面信息，可查看 LD Pendle 历史报告。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameFi即将复苏？浅析3款不同类别的区块链游戏]]></title>
+        <id>https://www.web3sj.com/?p=78490</id>
+        <link href="https://www.web3sj.com/gamefinews/78490/"/>
+        <updated>2023-07-05T05:16:48.000Z</updated>
+        <summary type="html"><![CDATA[这 3 款游戏属于不同的类型，一个以奖励为驱动，一个与普通游戏竞争，一个是自治世界的序章。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何创造可持续的Web3游戏经济模式]]></title>
         <id>https://www.web3sj.com/?p=78482</id>
@@ -36,6 +76,78 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[富兰克林邓普顿：BTC ETF将为传统投资组合开辟新的接入点]]></title>
+        <id>https://www.hellobtc.com/news/202307/20874.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20874.html"/>
+        <updated>2023-07-05T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[富兰克林邓普顿(FranklinTempleton)表示，BTC ETF将为传统投资组合开辟新的接入点。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观点：加密货币和NFT的税收漏洞可能很快结束]]></title>
+        <id>https://www.hellobtc.com/news/202307/20873.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20873.html"/>
+        <updated>2023-07-05T04:01:00.000Z</updated>
+        <summary type="html"><![CDATA[加密货币税务报告软件CoinLedger联合创始人兼首席执行官David Kemmerer发文表示，多年来，加密货币和NFT投资者利用清洗销售来节省数千美元的税收。然而，这个税收漏洞可能会在不久的将来结束。目前，拜登政府的预算方案包含一项条款，将清洗销售规则扩大到加密货币和NFTs，并限制加密货币投资者要求资本损失的能力。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ParaSpace支持Azuki持有者通过该平台直接申领Elementals空投]]></title>
+        <id>https://panewslab.com/zh/articledetails/k4kjek7i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/k4kjek7i.html"/>
+        <updated>2023-07-05T04:00:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月5日消息，NFT借贷协议ParaSpace发推称，Azuki持有者现在可以通过ParaSpace Flash Claim功能申领Elementals空投，无需赎回Azuki。如果用户有资格申领，将在借贷页面顶部看到一个相关banner。
+此前昨日消息，ParaSpace宣布暂停Azuki矿池，包括充值、提取、强平等功能。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南华证券：已成为首批香港持牌虚拟资产金融机构之一]]></title>
+        <id>https://www.hellobtc.com/news/202307/20872.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20872.html"/>
+        <updated>2023-07-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月5日，据香港经济日报报道，南华金融集团宣布旗下南华证券成为虚拟资产服务提供者制度生效后首批获香港证监会发牌金融机构之一。据悉南华证券于今年3月17日获香港证监会核准成为虚拟资产交易平台的介绍代理人，本次获批后专业投资者客户可通过南华证券转介至虚拟资产交易平台进行虚拟资产交易。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东集团CEO：将于7月13日推出大模型]]></title>
+        <id>https://www.hellobtc.com/news/202307/20871.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20871.html"/>
+        <updated>2023-07-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月5日消息，据金十报道，京东集团CEO许冉在今日2023全球数字经济大会主论坛上表示，唯有技术才能创造核心竞争优势，7月13日，京东全球科技探索者大会将发布京东大模型。京东将在人工智能、大数据、云计算等领域，不断探索和拓宽科技新边界。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊客户端Lighthouse发布v4.3.0版本，支持Gnosis Capella升级]]></title>
+        <id>https://www.hellobtc.com/news/202307/20870.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20870.html"/>
+        <updated>2023-07-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[7月5日消息，以太坊客户端Lighthouse开发团队Sigma?Prime在推特上表示，新的Lighthouse版本v4.3.0已发布，支持Gnosis Capella升级，Gnosis用户必须在8月1日之前升级至v4.3.0。该版本对于主网、Goerli和Sepolia用户来说是低优先级版本。对于所有网络，此版本包含新功能、错误修复和优化。
+此前6月26日消息，Gnosis Chain计划于北京时间8月1日19:34左右启动主网Shapella升级。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南华证券：已成为首批香港持牌虚拟资产金融机构之一]]></title>
+        <id>https://panewslab.com/zh/articledetails/hslhpi61.html</id>
+        <link href="https://panewslab.com/zh/articledetails/hslhpi61.html"/>
+        <updated>2023-07-05T03:51:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月5日，据香港经济日报报道，南华金融集团宣布旗下南华证券成为虚拟资产服务提供者制度生效后首批获香港证监会发牌金融机构之一。据悉南华证券于今年3月17日获香港证监会核准成为虚拟资产交易平台的介绍代理人，本次获批后专业投资者客户可通过南华证券转介至虚拟资产交易平台进行虚拟资产交易。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[超越721和1155：重新审视NFT设计空间]]></title>
         <id>https://www.web3sj.com/?p=78447</id>
         <link href="https://www.web3sj.com/nftnews/78447/"/>
@@ -43,6 +155,16 @@
         <summary type="html"><![CDATA[在牛市中，人们常以 Google 对「NFT」一词的搜索趋势作为其普及和受欢迎程度的代理指标。但具有讽刺意味的是，当这个术语完全从我们的词汇库中淡出，可能才是真正的大规模采用信号。当 NFT 的应用如此广泛和普遍，以至于该术语本身不再有用，因为它可以指代任何事物时，我们就知道已经取得了实质性的进步。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东集团CEO：将于7月13日推出大模型]]></title>
+        <id>https://panewslab.com/zh/articledetails/8ddcg65p.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8ddcg65p.html"/>
+        <updated>2023-07-05T03:47:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月5日消息，据金十报道，京东集团CEO许冉在今日2023全球数字经济大会主论坛上表示，唯有技术才能创造核心竞争优势，7月13日，京东全球科技探索者大会将发布京东大模型。京东将在人工智能、大数据、云计算等领域，不断探索和拓宽科技新边界。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -66,13 +188,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[对话：我在二本院校学VR]]></title>
-        <id>https://www.defidaonews.com/article/6824826</id>
-        <link href="https://www.defidaonews.com/article/6824826"/>
-        <updated>2023-07-05T03:27:56.000Z</updated>
-        <summary type="html"><![CDATA[大学“学以致用”的典型案例。]]></summary>
+        <title type="html"><![CDATA[数据：Storj团队凌晨将250万枚STORJ转入币安，约合122万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/81k10eop.html</id>
+        <link href="https://panewslab.com/zh/articledetails/81k10eop.html"/>
+        <updated>2023-07-05T03:33:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月5日消息，据Lookonchain监测，在去中心化存储项目Storj团队在STORJ代币上涨之后，即9小时前将250万枚STORJ（约合122万美元）转入币安，当前，该地址持有1160万枚STORJ（约合570万美元）。]]></summary>
         <author>
-            <name>元宇宙日爆</name>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩媒：Do Kwon所持LFG钱包于7月3日将5292枚BTC转至新地址，约合1.63亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/5oablsbw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5oablsbw.html"/>
+        <updated>2023-07-05T03:28:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月5日消息，据Digital Asset报道，链上数据显示，北京时间7月3日10:19，Terraform Labs首席执行官Do Kwon持有的加密钱包，即Luna Foundation Guard（LFG）的币安钱包将5292枚BTC（约合1.63亿美元）全部转至新的匿名钱包，该匿名钱包之前未被发现过其与Do Kwon的联系。此前该钱包于5月8日提取了351枚BTC。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -103,6 +235,16 @@
 11.Moonbirds创始人：项目代币将具备多种效用。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：BAYC、Otherdeed for Otherside链上版税收入均超5000万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/294f44x1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/294f44x1.html"/>
+        <updated>2023-07-05T03:13:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月5日消息，Nansen数据显示，目前以太坊上BAYC的链上版税收入已超5800万美元，Otherdeed for Otherside超5200万美元，Azuki超过4300万美元，Pudgy Penguins超过720万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -268,66 +410,6 @@ Rocket Pool拨款管理委员会成员Waq回应了这一指控，称该团队已
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LBank Labs设立1000万美元的MEME专项基金]]></title>
-        <id>https://panewslab.com/zh/articledetails/jhfikhyo.html</id>
-        <link href="https://panewslab.com/zh/articledetails/jhfikhyo.html"/>
-        <updated>2023-07-05T00:04:51.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月5日消息，据Bitcoin.com报道，LBank Labs宣布设立1000万美元的MEME专项基金，旨在鼓励高质量的早期创新MEME项目。资金分配将根据项目质量和影响力，直接捐赠给符合条件的项目团队。将设立排行榜，定期公布获奖名单，突出项目的成就和贡献。预计明年内完成资金发放，首批捐款名单将于7月初公布。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国上议院通过《经济犯罪和企业透明度法案》，将帮助执法机构扣押犯罪相关加密货币]]></title>
-        <id>https://panewslab.com/zh/articledetails/9kgxzy2r.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9kgxzy2r.html"/>
-        <updated>2023-07-04T21:53:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月5日消息，据CoinDesk报道，英国上议院已于周二通过《经济犯罪和企业透明度法案》(Economic Crime and Corporate Transparency Bill)，该法案将帮助执法机构扣押和冻结用于犯罪的加密货币。今年3月，英国政府表示，打击涉及加密货币的犯罪行为是其三年经济犯罪议程的一部分。英国在全国警察部门中加入加密战略顾问，以帮助识别和没收与犯罪有关的数字资产。在上议院获得批准意味着该法案将返回下议院进行最后阶段的审议。一旦两院同意该法案，国王将需要将其签署成为法律。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入探讨以太坊可能会失败的三个原因]]></title>
-        <id>https://www.web3sj.com/?p=78405</id>
-        <link href="https://www.web3sj.com/news/78405/"/>
-        <updated>2023-07-04T15:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Layer2 扩展的转变。随着区块链能力的扩展和需求的增长，以太坊需要提供一个可扩展的解决方案，以保持其去中心化的理念。这是一个平衡问题——如果不能解决这个问题，用户可能因高交易成本而感到沮丧，并转向中心化的变通方法，从而削弱了以太坊的核心卖点。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CertiK：分析Poly Network千万美元损失攻击事件]]></title>
-        <id>https://www.web3sj.com/?p=78394</id>
-        <link href="https://www.web3sj.com/news/78394/"/>
-        <updated>2023-07-04T15:16:56.000Z</updated>
-        <summary type="html"><![CDATA[这是今年发生的第一起跨链桥攻击事件，也是针对 Poly Network 发起的第二次攻击。去年攻击事件的总损失金额达 37 亿美元，其中跨链桥攻击损失占 35%。虽然本次事件看似是有史以来涉案金额最大的漏洞攻击事件，但黑客的实际收益要低很多。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爆发式增长，公链叙事和机遇已转移到Layer2]]></title>
-        <id>https://www.web3sj.com/?p=78384</id>
-        <link href="https://www.web3sj.com/news/78384/"/>
-        <updated>2023-07-04T15:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Layer2 赛道的兴起源自 Layer1 公链的「不可能三角」，即公链的可扩展性、安全性和去中心化无法同时兼顾，以太坊作为公链赛道的超级龙头，为了解决自身的可扩展性问题，率先开启侧链、Rollup、validium 等扩容方案。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[软分叉是如何影响比特币生态系统发展的？]]></title>
-        <id>https://www.web3sj.com/?p=78379</id>
-        <link href="https://www.web3sj.com/news/78379/"/>
-        <updated>2023-07-04T15:08:05.000Z</updated>
-        <summary type="html"><![CDATA[但加密区块链上的硬分叉和软分叉之间存在很大差异，比特币分叉也不例外。虽然硬分叉通常会产生全新版本的区块链，但软分叉的意图和执行方式有所不同。 在这里，我们将阐述软分叉如何旨在改进区块链网络（在本例中为主要的比特币网络），并且我们将列出一些已得到比特币社区批准的软分叉示例。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Loopring L3 上线 Taiko alpha-3 zkEVM 测试网]]></title>
         <id>https://www.hellobtc.com/news/202307/20868.html</id>
         <link href="https://www.hellobtc.com/news/202307/20868.html"/>
@@ -363,78 +445,6 @@ Rocket Pool拨款管理委员会成员Waq回应了这一指控，称该团队已
         <link href="https://www.hellobtc.com/news/202307/20865.html"/>
         <updated>2023-07-04T09:52:00.000Z</updated>
         <summary type="html"><![CDATA[南非将要求加密货币交易所在年底前获得许可证。 此前报道，未按时间登记并经营的加密公司将被南非政府处以51万美元罚款或监禁。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊Layer2总锁仓量近100亿美元，7日涨幅2.03%]]></title>
-        <id>https://www.hellobtc.com/news/202307/20864.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20864.html"/>
-        <updated>2023-07-04T08:56:00.000Z</updated>
-        <summary type="html"><![CDATA[据L2BEAT数据显示，以太坊Layer2总锁仓量为99.7亿美元，7日涨幅2.03%。锁仓量前五分别为：Arbitrum One（59.8亿美元，7日涨幅0.52%）；OP Mainnet（22.6亿美元，7日涨幅2.72%）；zkSync Era（7.37亿美元，7日涨幅16.43%）；dYdX（3.45亿美元，7日跌幅1.46%）；Immutable X（1.03亿美元，7日涨幅1.91%）。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年元宇宙项目H1融资总额约7.07亿美元，不及2022年全年融资总额的10%]]></title>
-        <id>https://www.hellobtc.com/news/202307/20863.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20863.html"/>
-        <updated>2023-07-04T08:56:00.000Z</updated>
-        <summary type="html"><![CDATA[7月4日消息，据 Dappradar 近期发布的报告显示，自 2023 年年初至 6 月底，元宇宙项目融资总额约为 7.07 亿美元，该数字虽然占据 2023 年加密项目融资总额的 43.68%，但仍不及 2022 年元宇宙项目全年融资总额（约 76 亿美元）的 10%。 此外，Dappradar 在报告中将亚洲（包括中国和日本等地区）描述为虚拟宇宙将蓬勃发展的地区，因为该地区各国官方和企业正在对该行业及其发展进行大力支持和投资。中国是少数几个制定了虚拟宇宙计划的国家之一，其中包括在教育和旅游领域实施的举措。字节跳动、阿里巴巴、百度和腾讯等中国公司也正在投资开发元宇宙硬件和软件。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国安理会将就人工智能对世界和平的潜在威胁举行首次会议]]></title>
-        <id>https://www.hellobtc.com/news/202307/20862.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20862.html"/>
-        <updated>2023-07-04T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[7月4日消息，据澎湃新闻报道，联合国安理会将于7月18日在英国举行首次关于人工智能对国际和平与安全的潜在威胁的会议。安理会认为，如在自主武器或控制核武器的应用上，人工智能的巨大潜力和重大风险并存。
-据美联社7月4日报道，英国常驻联合国代表芭芭拉·伍德沃德（Barbara Woodward）于7月3日宣布，该会议将是英国担任7月安理会轮值主席国的核心内容。会议将包含国际人工智能专家和联合国秘书长安东尼奥·古特雷斯(Antonio Guterres)的简报。古特雷斯表示：“这些科学家和专家呼吁世界采取行动，告知大众人工智能对人类的生存威胁与核战争的风险相当”。他计划于今年9月在联合国设立人工智能咨询委员会，为联合国提出可采取的措施。他还表示，他将积极响应会议，设立一个新的联合国人工智能机构，模式与国际原子能机构相同，以知识为基础并具有一些监管权。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：加密基础设施已取代NFT和游戏，成为最受加密风投欢迎的投资类别]]></title>
-        <id>https://www.hellobtc.com/news/202307/20861.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20861.html"/>
-        <updated>2023-07-04T02:36:00.000Z</updated>
-        <summary type="html"><![CDATA[1.加密基础设施已取代NFT和游戏，成为最受加密风投欢迎的投资类别。
-
-2.数据：6月比特币矿工收入和以太坊质押收入出现普跌。
-
-3.Kaiko：币安的现货交易量在第二季度下降了近70%。
-
-4.受与多家ETF发行商建立合作消息影响，Coinbase股价收涨逾11%。
-
-5.Gemini联创再次发布致DCG创始人Barry Silbert的公开信。
-
-6.币安与C罗最新联名NFT GOAT系列SSR款暂无人高于起拍价15000 USDT出价。
-
-7.MakerDAO拟将金库上限设为5000万枚DAI，超出部分买入MKR并添加流动性。
-
-8.Meta计划周四推出对标Twitter的应用Threads。
-
-9.三箭资本创始人将向债权人捐赠OPNX「未来收益」。
-
-10.波场TRON首个RWA产品stUSDT上线。
-
-11.币安创新区上线Pendle(PENDLE)。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港科技大学副校长等人发布政策建议：提议香港发行以外汇储备背书的港元稳定币]]></title>
-        <id>https://www.hellobtc.com/news/202307/20860.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20860.html"/>
-        <updated>2023-07-03T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[7月3日消息，据大公文汇报道，香港科技大学副校长兼香港web3.0协会首席科学顾问汪扬、天使投资人蔡文胜、区块城Web3.0科技公司创始人雷志斌、香港科技大学博士生文一舟在该报刊上发布政策建议，提议香港发行以外汇储备背书的港元稳定币。
-文章称，特区政府目前的计划仅限于允许和鼓励私营机构发行港元稳定币。在我们看来，这个措施过于保守，无法与特区政府推动数字资产和数字经济的大型计划相配合。由私营机构发行的港元稳定币，很难取得重要的市场地位，最终可能成为一个边缘化的产品。因此，我们强烈呼吁特区政府发行以香港外汇储备为背书的港元稳定币。政府背书的港元稳定币将有双重保障：一方面，受益于政府的监管；另一方面，受益于区块链合约带来的资讯透明度和不可篡改性。这种创新的政策方向将为香港在数字金融领域中的领导地位提供强大支持。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
@@ -530,6 +540,16 @@ Rocket Pool拨款管理委员会成员Waq回应了这一指控，称该团队已
         <summary type="html"><![CDATA[排序器（Sequencer）是加密货币领域中的关键技术，用于对交易进行排序并创建区块。]]></summary>
         <author>
             <name>WebX实验室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度：Web3游戏权威指南]]></title>
+        <id>https://www.defidaonews.com/article/6822232</id>
+        <link href="https://www.defidaonews.com/article/6822232"/>
+        <updated>2023-06-14T09:22:08.000Z</updated>
+        <summary type="html"><![CDATA[很多时候，人类的思想有时需要离开这个世界，才能真正蓬勃发展。]]></summary>
+        <author>
+            <name>wesely</name>
         </author>
     </entry>
 </feed>
