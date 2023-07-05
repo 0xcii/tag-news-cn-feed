@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-05T14:14:22.233Z</id>
+    <id>urn:2023-07-05T15:15:51.774Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-05T14:14:22.233Z</updated>
+    <updated>2023-07-05T15:15:51.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[详述DID身份系统：现状、概念与重要性]]></title>
+        <id>https://www.web3sj.com/?p=78590</id>
+        <link href="https://www.web3sj.com/news/78590/"/>
+        <updated>2023-07-05T15:02:22.000Z</updated>
+        <summary type="html"><![CDATA[在这样的背景下 Web3 意识到，可视化身份主体的信誉、建议基于身份的契约、以及引入合适的法规，对其长足发展是不可或缺的。基于这样一个基础意识，由「去中心化标识符（DID）+ 可验证凭证（VC）」构成的去中心化身份概念逐渐清晰，为 Web3 社会下身份系统的构建提供了一份解决方案。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：矿企Stronghold 6月份挖出约225枚比特币]]></title>
         <id>https://panewslab.com/zh/articledetails/z5q29ga4.html</id>
@@ -321,16 +331,6 @@ BIT的下一步工作包括为其立陶宛实体建立必要的运营基础。�
         <link href="https://www.web3sj.com/definews/78513/"/>
         <updated>2023-07-05T06:00:16.000Z</updated>
         <summary type="html"><![CDATA[不要只为特定的函数写 require 语句；为你的协议写 require 语句。函数遵循检查 (requirements)- 生效 (Effects)- 交互 (INteractions)+ 协议不变性 (Invariants) 或 FREI-PI 模式可以帮助你的合约更加安全，因为它迫使开发人员除了关注函数级别的安全之外，还要关注协议级别的不变性。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析Pendle战争：高收益能否持续？]]></title>
-        <id>https://www.web3sj.com/?p=78496</id>
-        <link href="https://www.web3sj.com/definews/78496/"/>
-        <updated>2023-07-05T05:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Pendle Finance 是部署在 Ethereum 和 Arbitrum 上的收益策略协议，在 2022 年底上线 v2 版本并更改经济模型，随后支持 LST 资产并上线 Arbitrum。如需了解更多基本面信息，可查看 LD Pendle 历史报告。]]></summary>
         <author>
             <name>Gao</name>
         </author>
