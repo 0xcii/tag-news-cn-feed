@@ -11,7 +11,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 653,
+          "wordCount": 659,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 897,
+          "wordCount": 893,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -220,12 +220,52 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/oufd4x14.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，据CoinDesk报道，高盛在周二的一份报告中援引链上数据表示，6月份比特币和以太坊在交易所的供应量下降，原因是监管力度加大和犯罪行为促使持有者更倾向于自我托管。报告称，交易所内的比特币的供应量下降了4%，接近2022年12月的水平，这也是2020年11月以来的最低水平，而且就在2021年牛市开始之前；以太坊供应量下滑5.8%，达到2018年5月以来的最低水平。\n高盛指出，6月份比特币矿工向交易所发送的BTC数量创历史新高，因为矿工利用了比特币的强劲表现。报告称，从矿工到交易所的比特币每月流入总额几乎比5月份翻了一番，达到9900万美元。随着5月份网络拥堵之后， 6月份交易费用恢复正常，比特币和以太坊的月度地址活动出现反弹，分别增长15.5%和37.5%。高盛指出，以太坊日均销毁量环比下降65.1%，日均手续费环比下降63.3%。该报告称，上个月新的链上活动也有所增加，比特币和以太坊的日均新地址数量较一个月前增加了9.8%和48.2%。",
+          "link": "https://panewslab.com/zh/articledetails/oufd4x14.html",
+          "publishedOn": "2023-07-05T00:53:17.000Z",
+          "wordCount": 329,
+          "title": "高盛报告：6月份交易所的比特币和以太坊供应量分别下降4%和5.8%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/zs2hs0g0.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，据Cointelegraph报道，流动性质押协议Lido的一名团队成员在7月4日的社交媒体帖子中指责竞争对手Rocket Pool过于中心化。Lido社区质押负责人Dmitry Gusakov在帖子中表示，Rocket Pool合约由Rocket Pool团队控制，允许团队更改任何参数并调用任何方法，这意味着Rocket Pool开发者可以将通货膨胀率提高到任意大的百分比，或者将费用提高到最高100%。Gusakov声称这个漏洞在Lido的合约中不存在，因为在Lido中，这些行为“完全由去中心化自治组织LidoDAO控制”。根据Gusakov的帖子，RocketStorage合约（0x1d8f开头的以太坊地址）包含一个名为“guardian”的参数，Rocket Pool合约中的许多函数也被标记为“onlyGuardian”，这意味着它们只能由该参数中列出的帐户调用，该参数当前设置为RocketPool部署者帐户。\nRocket Pool拨款管理委员会成员Waq回应了这一指控，称该团队已经知道了该漏洞，并将在未来进行修复。Waq指责Lido团队试图把发现一个已知问题的功劳占为己有。Rocket Pool社区倡导者 Jasper.lens表示：“社区已经意识到这个中心化问题，将在即将推出的Saturn升级中修复该问题，这个问题发生于DAO投票系统仍在设计和测试期间，团队决定在初始测试阶段不允许DAO进行链上投票，测试现已完成，即将到来的Saturn升级就是为了修补去中心化漏洞。”",
+          "link": "https://panewslab.com/zh/articledetails/zs2hs0g0.html",
+          "publishedOn": "2023-07-05T00:32:54.000Z",
+          "wordCount": 368,
+          "title": "Rocket Pool回应Lido成员“过于中心化”指责：该问题早已知晓，Saturn升级将解决相关漏洞",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ssy69vw4.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，跨链互操作性协议LayerZero官推表示，其首席执行官Bryan Pellegrino的推特账号（@PrimordialAA）被盗，提醒用户不要点击任何可疑链接或参与可疑活动。",
+          "link": "https://panewslab.com/zh/articledetails/ssy69vw4.html",
+          "publishedOn": "2023-07-05T00:12:13.000Z",
+          "wordCount": 366,
+          "title": "LayerZero CEO推特账号被盗，请勿点击可疑链接",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jhfikhyo.html",
+          "author": "PA一线",
+          "description": "PANews 7月5日消息，据Bitcoin.com报道，LBank Labs宣布设立1000万美元的MEME专项基金，旨在鼓励高质量的早期创新MEME项目。资金分配将根据项目质量和影响力，直接捐赠给符合条件的项目团队。将设立排行榜，定期公布获奖名单，突出项目的成就和贡献。预计明年内完成资金发放，首批捐款名单将于7月初公布。",
+          "link": "https://panewslab.com/zh/articledetails/jhfikhyo.html",
+          "publishedOn": "2023-07-05T00:04:51.000Z",
+          "wordCount": 338,
+          "title": "LBank Labs设立1000万美元的MEME专项基金",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/9kgxzy2r.html",
           "author": "PA一线",
           "description": "PANews 7月5日消息，据CoinDesk报道，英国上议院已于周二通过《经济犯罪和企业透明度法案》(Economic Crime and Corporate Transparency Bill)，该法案将帮助执法机构扣押和冻结用于犯罪的加密货币。今年3月，英国政府表示，打击涉及加密货币的犯罪行为是其三年经济犯罪议程的一部分。英国在全国警察部门中加入加密战略顾问，以帮助识别和没收与犯罪有关的数字资产。在上议院获得批准意味着该法案将返回下议院进行最后阶段的审议。一旦两院同意该法案，国王将需要将其签署成为法律。",
           "link": "https://panewslab.com/zh/articledetails/9kgxzy2r.html",
           "publishedOn": "2023-07-04T21:53:21.000Z",
-          "wordCount": 354,
+          "wordCount": 359,
           "title": "英国上议院通过《经济犯罪和企业透明度法案》，将帮助执法机构扣押犯罪相关加密货币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
