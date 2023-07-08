@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T11:10:51.301Z</id>
+    <id>urn:2023-07-08T12:27:08.347Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-08T11:10:51.301Z</updated>
+    <updated>2023-07-08T12:27:08.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Paradigm推出以太坊客户端Reth v0.1.0 alpha.2版本]]></title>
+        <id>https://panewslab.com/zh/articledetails/njdlm3jg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/njdlm3jg.html"/>
+        <updated>2023-07-08T11:17:57.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月8日消息，Paradigm首席技术官Georgios Konstantopoulos在推特上宣布，Paradigm发布了以太坊客户端Reth v0.1.0 alpha.2版本，此版本修复了内存不足、改进了API性能以及和修复了RPC 中的极端情况，尤其是跟踪。据悉，Reth是基于Rust编写的新的以太坊执行节点，由Paradigm资助的8人核心团队以及90多个其他贡献者共同构建，具有模块化、对贡献者友好、速度快等特性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-7.8）]]></title>
         <id>https://www.web3sj.com/?p=79069</id>
@@ -13,6 +23,16 @@
         <summary type="html"><![CDATA[美国SEC：Coinbase知道自己已违反证券法。Grayscale在DeFi基金中添加LDO，占比仅次于Uniswap。Tether冻结2个涉及Multichain地址，合计约253.5万枚USDT。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：价值约6200万美元的BTC转移至加密交易所Bitfinex]]></title>
+        <id>https://panewslab.com/zh/articledetails/g2gytq5c.html</id>
+        <link href="https://panewslab.com/zh/articledetails/g2gytq5c.html"/>
+        <updated>2023-07-08T10:05:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月8日消息，Whale Alert监测显示，2,049枚BTC （价值约61,992,127美元）从未知钱包转移到加密交易所Bitfinex。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -316,16 +336,6 @@
         <link href="https://panewslab.com/zh/articledetails/9ikoxya6.html"/>
         <updated>2023-07-07T23:31:49.000Z</updated>
         <summary type="html"><![CDATA[PANews 7月8日消息，据The Block报道，在针对Coinbase的最新执法诉讼文件中，美国证券交易委员会(SEC)的律师对该公司声称不知道自己违反证券法的说法持怀疑态度。SEC表示，Coinbase之前“采用了美国最高法院制定的非常合法的框架”，以确定某些加密货币是否符合联邦证券法的要求，同时“明确劝阻”加密货币发行人发表任何“传统上与证券相关”的声明。SEC还声称，批准Coinbase在2021年提交的首次公开募股（IPO）注册声明并不意味着它批准了该公司的所有商业行为。此前Coinbase针对SEC的诉讼辩称，美SEC系滥用执法程序，其对平台上的代币无管辖权。SEC将于7月13日对Coinbase的首次法律辩护作出回应。在7月13日出庭期间，法官Katherine Polk Failla将决定是否允许Coinbase继续推进其提出的驳回动议。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扎克伯格：Threads已拥有7000万注册用户，注册人数远远超出了我们的预期]]></title>
-        <id>https://panewslab.com/zh/articledetails/oxwq1quk.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oxwq1quk.html"/>
-        <updated>2023-07-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月7日消息，Meta CEO 扎克伯格表示，Threads已拥有7000万注册用户，Threads的注册人数远远超出了我们的预期。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
