@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T10:14:00.713Z</id>
+    <id>urn:2023-07-08T11:10:51.301Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-08T10:14:00.713Z</updated>
+    <updated>2023-07-08T11:10:51.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-7.8）]]></title>
+        <id>https://www.web3sj.com/?p=79069</id>
+        <link href="https://www.web3sj.com/news/79069/"/>
+        <updated>2023-07-08T10:25:08.000Z</updated>
+        <summary type="html"><![CDATA[美国SEC：Coinbase知道自己已违反证券法。Grayscale在DeFi基金中添加LDO，占比仅次于Uniswap。Tether冻结2个涉及Multichain地址，合计约253.5万枚USDT。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下一轮减半周期，哪些因素将决定比特币的天花板？]]></title>
         <id>https://www.web3sj.com/?p=79054</id>
@@ -226,16 +236,6 @@
         <link href="https://www.web3sj.com/news/78994/"/>
         <updated>2023-07-08T03:36:39.000Z</updated>
         <summary type="html"><![CDATA[毫无疑问，2022 年至 2023 年，标志着以太坊二层技术的崛起，期间各种 Rollup 网络蓬勃发展。在 Optimistic Rollup 领域，Arbitrum 和 Optimism 已牢固占据总锁定价值（TVL）前十的位置。与此同时，在 zk Rollup 领域，第二波二层技术即将到来，特别是随着 Polygon 的 zkEVM 引入和 zkSync Era 主网的发布。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[头部跨链桥接连出事，用户能做什么？]]></title>
-        <id>https://www.web3sj.com/?p=78989</id>
-        <link href="https://www.web3sj.com/news/78989/"/>
-        <updated>2023-07-08T02:19:38.000Z</updated>
-        <summary type="html"><![CDATA[对此，Multichain 发推称：其 MPC 地址上的锁定资产已异常移动到未知地址。团队不确定发生了什么，目前正在进行调查。建议所有用户暂停使用 Multichain 服务，并撤销所有与 Multichain 相关的合约授权。]]></summary>
         <author>
             <name>Gao</name>
         </author>
