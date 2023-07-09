@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T01:38:06.729Z</id>
+    <id>urn:2023-07-09T03:04:26.230Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-09T01:38:06.729Z</updated>
+    <updated>2023-07-09T03:04:26.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starknet生态的GameFi四天王]]></title>
+        <id>https://www.web3sj.com/?p=79101</id>
+        <link href="https://www.web3sj.com/gamefinews/79101/"/>
+        <updated>2023-07-09T02:53:13.000Z</updated>
+        <summary type="html"><![CDATA[随着 Starknet 主网升级日期的临近，Loot 生态游戏 Loot Realms 也将于今年 7 月底在 Starknet 主网上向玩家开放首个可玩版本 LootSurvivor。作为 Starknet 主网上启动的首个链游，Starknet 的 Quantum Leap 将会为玩家在体验上带来什么的改变，也将会在这款游戏上得到验证。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币十年发展史：发行，流通，消失与动荡]]></title>
+        <id>https://www.web3sj.com/?p=79092</id>
+        <link href="https://www.web3sj.com/news/79092/"/>
+        <updated>2023-07-09T02:48:23.000Z</updated>
+        <summary type="html"><![CDATA[在当时这些都是超时代的想法，多年来加密货币很少在自由市场「自由主义政策」圈子之外被讨论，但在 2009 年出现了拐点——Satoshi Nakotomo 中本聪于 2009 年开发了比特币，2010 年前后的加密市场迎来爆炸式增长。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小扎发布「Threads」硬刚马斯克，又一轮赛博之战打响，社交APP如蝗虫过境]]></title>
+        <id>https://www.web3sj.com/?p=79084</id>
+        <link href="https://www.web3sj.com/news/79084/"/>
+        <updated>2023-07-09T02:45:18.000Z</updated>
+        <summary type="html"><![CDATA[发布 Threads，正面宣战马斯克，小扎很激动，深夜 11 点还在「直播」Threads 战绩。截至发稿前上线 7 小时注册用户数量达 1000 万，—— 平均每小时有超过 140 万的全球各地用户涌入 Threads。小扎本人目前也斩获了超过 45 万的粉丝。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国涉虚拟货币高频刑事罪名大盘点]]></title>
+        <id>https://www.web3sj.com/?p=79081</id>
+        <link href="https://www.web3sj.com/news/79081/"/>
+        <updated>2023-07-09T02:42:17.000Z</updated>
+        <summary type="html"><![CDATA[此次检索，共找到 3714 篇文书。从案由分类上看，破坏社会主义市场经济秩序罪 989 篇，侵犯财产罪 1195 篇，妨害社会管理秩序罪 1395 篇（集中在开设赌场罪、帮信息网络犯罪活动罪等）。总体而言，涉币类犯罪多为经济犯罪，这也与其经济属性密不可分。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读懂Frax Finance：LSD与稳定币赛道的「双龙头」种子选手]]></title>
+        <id>https://www.web3sj.com/?p=79077</id>
+        <link href="https://www.web3sj.com/definews/79077/"/>
+        <updated>2023-07-09T02:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Frax Finance 于 2020 年上线，最初是一个基于部分抵押机制的算法稳定币系统，生态中分别包括非稳定费用代币 FXS 和稳定币 FRAX。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poly Network攻击者已将TRIBE和FEI转换为151.75枚ETH并转入其它地址]]></title>
         <id>https://panewslab.com/zh/articledetails/x77jz80h.html</id>
@@ -76,46 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rollup as a Service：区块链扩容新局面]]></title>
-        <id>https://www.web3sj.com/?p=79030</id>
-        <link href="https://www.web3sj.com/news/79030/"/>
-        <updated>2023-07-08T03:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Rollup 的本质是将执行层从单体区块链中分离出来的模块化扩容方案，它将运算转移到链下，再把链下的执行结果传输到链上验证，在继承以太坊安全性的情况下提高网络性能。在这个过程中，一个新的赛道 — — Rollup as a Service（RaaS）逐渐衍生出来。RaaS 把 Rollups 的部署作为一种服务，提供可定制的 Rollups，为开发者构建 Rollup 提供更加便捷和灵活的服务。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「清真链」Islamic Coin引发关注，伊斯兰金融有何奥秘？]]></title>
-        <id>https://www.web3sj.com/?p=79023</id>
-        <link href="https://www.web3sj.com/news/79023/"/>
-        <updated>2023-07-08T03:53:51.000Z</updated>
-        <summary type="html"><![CDATA[近日，符合伊斯兰教法的区块链项目 Islamic Coin 宣布获得 2 亿美元的高额投资，结合其在 2022 年获得的 2 亿美元融资，其总融资额度已经达到创纪录的 4 亿美元规模，而该项目也向阿联酋等伊斯兰地区积极推广，向推特用户投放大量广告。根据官网，该项目的顾问中有多位阿布扎比和迪拜的皇室成员，以及伊斯兰金融专家。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从估值逻辑和历史数据谈冲币安IEO的正确姿势]]></title>
-        <id>https://www.web3sj.com/?p=79012</id>
-        <link href="https://www.web3sj.com/news/79012/"/>
-        <updated>2023-07-08T03:51:24.000Z</updated>
-        <summary type="html"><![CDATA[如果不是「无意义的治理代币」或者 memecoin，理论上是可以通过给代币持有者的权益来比较大范围统一比较的，但毕竟加密货币是个注意力游戏，所谓基本面在叙事面前太过渺小，所以估值一般还是在同类项目里面进行对标为主。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点2023年九大满级「冷钱包」]]></title>
-        <id>https://www.web3sj.com/?p=79000</id>
-        <link href="https://www.web3sj.com/news/79000/"/>
-        <updated>2023-07-08T03:43:50.000Z</updated>
-        <summary type="html"><![CDATA[据悉，该功能是一种基于 ID 的「可订阅式」密钥恢复服务。该功能将钱包助记词（密钥）分成三个部分（加密分片技术），并分发给三个托管人：该冷钱包公司、加密资产托管公司和代码托管公司。如果有人丢失了密钥，三个分片中的两个可以结合起来以重新获得对锁定资金的访问权。订阅该服务的价格是 9.99 美元 / 月。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：币安市场交易份额创新低]]></title>
         <id>https://www.hellobtc.com/news/202307/20893.html</id>
         <link href="https://www.hellobtc.com/news/202307/20893.html"/>
@@ -143,16 +153,6 @@
 11.「去中心化Twitter」项目Bluesky下载量已达百万。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Based Rollup：解决L2排序中心化风险的新实践]]></title>
-        <id>https://www.web3sj.com/?p=78994</id>
-        <link href="https://www.web3sj.com/news/78994/"/>
-        <updated>2023-07-08T03:36:39.000Z</updated>
-        <summary type="html"><![CDATA[毫无疑问，2022 年至 2023 年，标志着以太坊二层技术的崛起，期间各种 Rollup 网络蓬勃发展。在 Optimistic Rollup 领域，Arbitrum 和 Optimism 已牢固占据总锁定价值（TVL）前十的位置。与此同时，在 zk Rollup 领域，第二波二层技术即将到来，特别是随着 Polygon 的 zkEVM 引入和 zkSync Era 主网的发布。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
