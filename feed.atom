@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T06:18:59.761Z</id>
+    <id>urn:2023-07-11T07:13:59.371Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-11T06:18:59.761Z</updated>
+    <updated>2023-07-11T07:13:59.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一览主流稳定币种类及其优劣势]]></title>
+        <id>https://www.web3sj.com/?p=79407</id>
+        <link href="https://www.web3sj.com/definews/79407/"/>
+        <updated>2023-07-11T06:37:39.000Z</updated>
+        <summary type="html"><![CDATA[事实上，稳定币只是加密货币的一种表现方式，其价值往往通过锚定现实货币或者算法调控的方式来让代币价值与锚定物（比如美元）维持在一个大致可控的兑换区间内。但并不意味着稳定币本身能够避免波动。当遇到巨大黑天鹅事件时，稳定币也会与挂钩货币出现脱钩现象。这意味着它们会偏离其挂钩价值。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超级链的进化之路：从Cosmos到OP Stack]]></title>
         <id>https://www.web3sj.com/?p=79396</id>
@@ -132,16 +142,6 @@
         <link href="https://www.web3sj.com/definews/79313/"/>
         <updated>2023-07-11T03:31:00.000Z</updated>
         <summary type="html"><![CDATA[1 inch Network 聚合和限价订单协议的用户基础在过去一年中一直在增长。第一季度报告聚合协议（Aggregation Protocol）的总用户数为 330 万，第二季度上升到 450 万。同样，限价订单协议（Limit Order Protocol）的用户基数从第一季度的 26.1 万增加到第二季度的 43.8 万，用户数环比增长了 68% 。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polkadot质押深度报告：DOT价格与质押率中度相关，大户地址活跃引起总质押波动]]></title>
-        <id>https://www.web3sj.com/?p=79296</id>
-        <link href="https://www.web3sj.com/news/79296/"/>
-        <updated>2023-07-11T03:26:39.000Z</updated>
-        <summary type="html"><![CDATA[为了降低质押参与门槛并进一步去中心化网络，Polkadot 在 2022 年 11 月引入了提名池。提名池允许持币者以最低 1 个 DOT 进行质押，并将提名管理委托给提名池运营者。因此，目前有四种方式可以进行 DOT 原生质押：运行验证人、直接提名、开设提名池和加入提名池。]]></summary>
         <author>
             <name>Gao</name>
         </author>
