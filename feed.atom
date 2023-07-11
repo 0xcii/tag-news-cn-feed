@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-11T03:19:20.994Z</id>
+    <id>urn:2023-07-11T04:17:38.598Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-11T03:19:20.994Z</updated>
+    <updated>2023-07-11T04:17:38.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3游戏的未来：游戏真的需要区块链吗？]]></title>
+        <id>https://www.web3sj.com/?p=79357</id>
+        <link href="https://www.web3sj.com/gamefinews/79357/"/>
+        <updated>2023-07-11T04:15:19.000Z</updated>
+        <summary type="html"><![CDATA[区块链的好处是否真的可以抵消它所带来的不便之处，比如糟糕的用户体验和缓慢的交易速度？这些都是我们这个行业目前仍在努力解决的问题，至今都没有一个清晰的模式能够很好地将游戏设计、商业模式、玩家动机协调起来。这也是为什么这个领域既让我们感到兴奋，同时又觉得困难重重。接下来，本文将分享为什么区块链能帮助游戏，以及关于此问题的一些反驳观点，最后也会附上个人的观点。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从互联网TCP/IP协议到闪电网络和比特币协议套件]]></title>
+        <id>https://www.web3sj.com/?p=79337</id>
+        <link href="https://www.web3sj.com/news/79337/"/>
+        <updated>2023-07-11T04:07:23.000Z</updated>
+        <summary type="html"><![CDATA[「抽象层」的概念显然在比特币之前就有。一般来说，从分「层」的角度思考有助于归类和理解那些由有序的子系统构成的复杂系统，每个子系统的建立都依赖于之前的子系统：想象一种垂直并置的结构，「上层」踩在「下层」的肩膀上，后者通常比前者更难移动、改变或全身而退（想象垒积木，越靠下面越难抽出）。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[混合ZK Rollup与Optimistic Rollup]]></title>
+        <id>https://www.web3sj.com/?p=79333</id>
+        <link href="https://www.web3sj.com/news/79333/"/>
+        <updated>2023-07-11T03:58:21.000Z</updated>
+        <summary type="html"><![CDATA[混合 ZK/Optimistic Rollup 以 Optimistic Rollup 的形式开始，这种 Rollup 与 Optimism 的 Bedrock 架构非常相似。Bedrock 旨在与以太坊（「EVM Equivalent」）达到最大程度的兼容，并通过运行几乎与普通以太坊客户端相同的执行客户端来实现这一目标。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链上情报沦为「人肉搜索」？币安新IEO项目Arkham口碑扑街]]></title>
+        <id>https://www.web3sj.com/?p=79327</id>
+        <link href="https://www.web3sj.com/news/79327/"/>
+        <updated>2023-07-11T03:45:55.000Z</updated>
+        <summary type="html"><![CDATA[然而社区并不买账。Arkham 一般通过用户推荐码进行引流，用户很快发现，他们可以从 Arkham 的推荐链接中获取附加数据，将信息插入 Base64 解码器，就能得到推荐者的完整电邮地址，这在以隐私为中心的加密社区中激起群愤。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Messari：速览1inch二季度生态关键进展]]></title>
+        <id>https://www.web3sj.com/?p=79313</id>
+        <link href="https://www.web3sj.com/definews/79313/"/>
+        <updated>2023-07-11T03:31:00.000Z</updated>
+        <summary type="html"><![CDATA[1 inch Network 聚合和限价订单协议的用户基础在过去一年中一直在增长。第一季度报告聚合协议（Aggregation Protocol）的总用户数为 330 万，第二季度上升到 450 万。同样，限价订单协议（Limit Order Protocol）的用户基数从第一季度的 26.1 万增加到第二季度的 43.8 万，用户数环比增长了 68% 。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polkadot质押深度报告：DOT价格与质押率中度相关，大户地址活跃引起总质押波动]]></title>
+        <id>https://www.web3sj.com/?p=79296</id>
+        <link href="https://www.web3sj.com/news/79296/"/>
+        <updated>2023-07-11T03:26:39.000Z</updated>
+        <summary type="html"><![CDATA[为了降低质押参与门槛并进一步去中心化网络，Polkadot 在 2022 年 11 月引入了提名池。提名池允许持币者以最低 1 个 DOT 进行质押，并将提名管理委托给提名池运营者。因此，目前有四种方式可以进行 DOT 原生质押：运行验证人、直接提名、开设提名池和加入提名池。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊账户构造考古与账户抽象的价值]]></title>
         <id>https://www.web3sj.com/?p=79290</id>
@@ -23,6 +83,57 @@
         <summary type="html"><![CDATA[合约为 $NOVA 添加了 9% 的售出税（购买税为 0%），其中，3% 将会自动购买 ETH，并分配给前 30 个蓝筹 NFT 的持有者。在传统世界中，救济金是为有需要的人准备的。而将售出税的 1/3 分配给这些前 30 个蓝筹 NFT 的持有者是 $NOVA 对于当下崩溃的 NFT 世界的一种关怀。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港虚拟银行Mox Bank疑冻结部分加密交易账户，香港金管局已督促处理]]></title>
+        <id>https://www.hellobtc.com/news/202307/20910.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20910.html"/>
+        <updated>2023-07-11T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[7月11日消息，香港虚拟银行Mox Bank多位用户反映旗下银行账户在短时间内被数度冻结，有用户分析此事或与近日Mox Bank系统更新有关，其系统对部分交易及客户较敏感，尤其是买卖加密货币的账户。对此香港金管局回应称已知悉该事件并要求Mox Bank做出适当跟进，确保客户关注得到妥善处理。（香港经济日报）]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾：苹果发布可导致任意代码执行的严重漏洞提醒，请及时更新]]></title>
+        <id>https://www.hellobtc.com/news/202307/20909.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20909.html"/>
+        <updated>2023-07-11T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[7月11日消息，慢雾首席信息安全官23pds发推称，近日苹果发布严重漏洞提醒，官方称漏洞CVE-2023-37450可以在用户访问恶意网页时导致在你的设备上任意代码执行，据信这个已经存在被利用的情况，任意代码危害严重，请及时更新。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太铭文创建者：应Yuga Labs要求，删除并下架Ethereum Punks]]></title>
+        <id>https://www.hellobtc.com/news/202307/20908.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20908.html"/>
+        <updated>2023-07-11T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[7月11日消息，Ethscriptions建立者Middlemarch发推称，应CryptoPunks所有者Yuga Labs的要求，将关闭以太坊朋克 (Ethereum Punks) 网站，从http://Ethscriptions.com中删除所有以太坊朋克 (Ethereum Punks) 图像，并删除引用以太坊朋克 (Ethereum Punks) 的推文，包括介绍Ethscriptions协议的推文。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全机构：上周Web3生态因安全问题损失近1.3亿美元]]></title>
+        <id>https://www.hellobtc.com/news/202307/20907.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20907.html"/>
+        <updated>2023-07-11T02:38:00.000Z</updated>
+        <summary type="html"><![CDATA[7月10日消息，慢雾发推称，自7月3日至7月7日，Web3生态因安全问题遭遇攻击损失128,419,000美元，包括Encryption AI、AzukiDao、NFT Trader、MIKE & SID、Bryan Pellegrino、Aptos Foundation、Multichain、CivFund。其中，Multichain被攻击损失1.26亿美元，Encryption AI损失了200万美元。AzukiDao合约漏洞被利用，攻击者获利6.8万美元。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国SEC前主席：如果监管保障措施到位，那么批准比特币ETF将“难以抗拒”]]></title>
+        <id>https://www.hellobtc.com/news/202307/20906.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20906.html"/>
+        <updated>2023-07-11T02:38:00.000Z</updated>
+        <summary type="html"><![CDATA[7月10日消息，美国SEC前主席Jay Clayton最近在接受CNBC采访时分享了他对比特币ETF不断变化的监管环境的看法，强调了自他上任以来他目睹的市场对加密货币态度的重大变化。“这是一个离岸零售市场，与我所说的我们金融市场的核心完全不同，”Clayton在谈到比特币的早期时说道。他指出，由于担心清洗交易和市场操纵等行为，他最初对比特币市场持怀疑态度。Clayton说：“事实上，我们的这些机构比任何人都更了解市场，并表示我们将把我们的声誉放在后面，我觉得这非常了不起。”
+关于比特币 ETF 的问题，Clayton表示，他认为如果监管保障措施到位，那么批准比特币 ETF 将“难以抗拒”，这与期货市场的监管保障措施相同。“机构认为这些区别已经消失，现在现货产品对投资者来说阻力更小，效率更高，”他解释道。然而，Clayton警告说，这些变化可能不会很快发生，并指出监管过程必须彻底。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -257,119 +368,6 @@ PANews Telegram频道，立即订阅]]></summary>
         <summary type="html"><![CDATA[香港财经事务及库务局局长许正宇在出席《信报》50周年未来香港高峰论坛时表示，香港担任东西方资本联通角色，作为国际金融中心能够持续发挥其独特优势，需要传统及新兴金融同步发展，例如政府当局一直吸纳家族办公室落户本港、同时亦拟推动稳定币监管、绿色科技金融等。许正宇补充称，传统金融业仍是中流砥柱，指发展虚拟资产、货币能助支撑香港金融业在万变的国际市场中发展，但并非抹杀、不重视传统金融。虚拟资产对全球金融演变带来重大改变，发展相关市场存在一定风险，所以香港政府要确保有效监管，保障投资者，同时提升投资者教育，才能助市场稳健发展。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港霍氏集团和Hedgue LLP达成战略合作，将探索RWA和数字资产管理]]></title>
-        <id>https://www.hellobtc.com/news/202307/20900.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20900.html"/>
-        <updated>2023-07-10T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[7月10日消息，香港霍氏集团和Hedgue LLP正式签署排他性行业战略合作协议，以进入加密货币领域。根据该战略合作内容条款，Hedgue将会为霍氏集团提供在去中心化金融领域及市场落地相应服务和规划建议，Hedgue crypto部门的William S.将出任霍氏集团的策略顾问，协助其在RWA和数字资产管理等方向进行探索。
-据悉，霍氏集团在霍氏家族的指导下经营房地产、建筑、电力、运输、金融、石油、酒店等公司。投行Hedgue LLP前身可追溯至1902年，于2021年正式建立crypto部门。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港证券及投资学会成立虚拟资产工作组，正制定与虚拟资产从业相关的考试与培训计划]]></title>
-        <id>https://www.hellobtc.com/news/202307/20899.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20899.html"/>
-        <updated>2023-07-10T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[7月10日消息，据BeInCrypto报道，香港证券及投资学会（HKSII）将在未来几个月内举办有关虚拟资产的培训计划和研讨会。将探讨“数字资产如何在传统金融的 IT 架构中共存”和“用于投资组合管理的数字资产”等主题。6月1日，HKSII在网站的最新动态中发文表示，正在与考试委员会和教育与发展委员会密切合作。此外，还成立了虚拟资产工作组，帮助制定相应的CPT计划和考试，以支持市场从业者的新许可制度。即将推出的考试和培训计划的详细信息将很快公布。
-据悉，HKSII 是香港金融服务业的主要发牌机构，与香港证券及期货事务监察委员会（HKSFC）有着密切联系，负责为香港的经纪商和资产管理人提供培训和执照考试，每年约有3万名考生参加考试。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Line旗下NFT子公司Line Next与世嘉合作，为区块链游戏平台Game Dosi制作一款Web3游戏]]></title>
-        <id>https://www.hellobtc.com/news/202307/20898.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20898.html"/>
-        <updated>2023-07-10T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[7月10日消息，据Venture Beat报道，日本通讯巨头Line旗下NFT子公司Line Next与日本电子游戏公司世嘉（Sega）合作，为区块链游戏平台Game Dosi制作一款Web3游戏。Line Next签署了一份谅解备忘录，通过IP许可将世嘉旗下一款热门视频游戏引入Game Dosi。Line Next将在Game Dosi平台上展示这款新游戏，并支持NFT制作、数字支付和营销活动，作为Line Next普及Web3游戏计划的一部分。
-此前消息，Line Next计划于2023年下半年在其Web3游戏平台Game Dosi上发布五款NFT游戏。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Messari：1inch第二季度总交易量超280亿美元，DAO金库环比下降10.8%]]></title>
-        <id>https://www.hellobtc.com/news/202307/20897.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20897.html"/>
-        <updated>2023-07-10T07:08:00.000Z</updated>
-        <summary type="html"><![CDATA[7月10日消息，Messari发布1inch Network 2023年第二季度报告，报告显示，1inch Network处理的总交易量超过280亿美元，较第一季度下降37%。下降并不仅仅归因于第二季度交易量的减少，而是由于2023年3月USDC脱钩事件导致第一季度交易量膨胀。以太坊在1inch Network中保持领先地位，占第二季度总聚合量的70%。1inch DAO金库环比下降10.8%，为1630万美元。1INCH V2吸引1.84亿枚1INCH质押，较上一季度增长超过20%。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V神：比特币若希望进一步发展，需测试更多扩展解决方案]]></title>
-        <id>https://www.hellobtc.com/news/202307/20896.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20896.html"/>
-        <updated>2023-07-10T07:08:00.000Z</updated>
-        <summary type="html"><![CDATA[7月10日消息，据Decrypt报道，以太坊创始人Vitalik Buterin本周在Twitter Space上表示，“如果我们希望比特币不仅仅作为支付方式，它需要像Plasma或ZK Rollup这样的扩展解决方案。而这两种方案都已经在以太坊上测试过”。他还表示，Optimism和Arbitrum是两个成功的Rollup，可以作为比特币的案例研究。Buterin还试图找出以太坊和比特币两个生态系统的共性。他指出，两个区块链都具有不变性，同时它们都存在L1隐私问题。多年来，以太坊一直在尝试多种扩展解决方案，最新提案为EIP-4844，它引入了blob，每秒可实现多达10万次交易。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊2023 Q2数据研究：毛利润7亿美元，ETH销毁速度从0.3％加快到了0.8％]]></title>
-        <id>https://www.web3sj.com/?p=79201</id>
-        <link href="https://www.web3sj.com/news/79201/"/>
-        <updated>2023-07-10T06:21:12.000Z</updated>
-        <summary type="html"><![CDATA[强大的网络效应之下，ETH 销毁速度从 0.3％加快到了 0.8％。随着 Shapella 升级成功实施，并没有导致 ETH 的抛售，以太坊生态系统（包括 L2）的指标正在全面增长。本文是以太坊非官方的 2023 年第二季度数据报告，主要分析和评论了以下内容，从数据层面带你全面了解以太坊的运营和财务情况。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frontier Research：以太坊区块空间的机遇和考量]]></title>
-        <id>https://www.web3sj.com/?p=79194</id>
-        <link href="https://www.web3sj.com/news/79194/"/>
-        <updated>2023-07-10T06:11:17.000Z</updated>
-        <summary type="html"><![CDATA[以太坊的商业模式围绕着销售区块空间展开。区块空间被各种参与者利用，与智能合约互动，为应用程序提供动力，支持额外的基础设施层，或直接结算交易。然而，与大多数资源一样，供应是有限的。为了确定谁或什么人消费这种供应，gas 创造出来。gas 是由利益相关者用来指定他们愿意为他们的交易支付多少钱，以使其被包括在内。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国首相Rishi Sunak：决心将本国打造成全球Crypto中心]]></title>
-        <id>https://www.web3sj.com/?p=79190</id>
-        <link href="https://www.web3sj.com/news/79190/"/>
-        <updated>2023-07-10T06:07:58.000Z</updated>
-        <summary type="html"><![CDATA[监管专家警告说，将 Crypto 监管与推动经济增长以及提升「脱欧」后的金融竞争力联系起来，可能会让消费者面临潜在的风险。有人担心，来自政治家和 Crypto 行业的政治压力可能会导致监管机构为了追求经济和竞争力的增长而放松规则。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三分钟速览Astarter：如何成为Cardano上DeFi生态的基础设施？]]></title>
-        <id>https://www.web3sj.com/?p=79173</id>
-        <link href="https://www.web3sj.com/definews/79173/"/>
-        <updated>2023-07-10T03:13:43.000Z</updated>
-        <summary type="html"><![CDATA[Astarter 是首批基于 Cardano 构建和启动的 DeFi 协议和去中心化应用，致力于打造 Cardano 上 DeFi 及其配套衍生服务，从而进一步驱动 Cardano 生态的 DeFi 应用发展，最终成为 Cardano 上 DeFi 生态的核心基础设施。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代币解锁周报｜价值超3000万美元APT将于本周迎来一次性解锁]]></title>
-        <id>https://www.web3sj.com/?p=79165</id>
-        <link href="https://www.web3sj.com/news/79165/"/>
-        <updated>2023-07-10T02:58:14.000Z</updated>
-        <summary type="html"><![CDATA[通常而言，代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内容发布平台Mirror的反思：两年来踩过哪些坑？]]></title>
-        <id>https://www.web3sj.com/?p=79161</id>
-        <link href="https://www.web3sj.com/news/79161/"/>
-        <updated>2023-07-10T02:42:56.000Z</updated>
-        <summary type="html"><![CDATA[随着 Mirror 联创 Graeme Boy 2022.11 出局 ，Rafa (DAO leader) 2023.1 正式离开，Mirror 核心团队内部的产品方向之争告一段落。2022 年上半年，各个大厂，还有不少创业团队都在找我聊，想做 Mirror 的竞品。可惜，一家都没跑出来。尽管 Mirror 历经波折，仍然是这个细分赛道上最能打的，全靠同行衬托。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
