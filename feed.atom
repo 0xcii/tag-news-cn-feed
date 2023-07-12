@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T01:22:20.666Z</id>
+    <id>urn:2023-07-12T02:54:50.251Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T01:22:20.666Z</updated>
+    <updated>2023-07-12T02:54:50.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[详解跨链DeFi借贷协议Radiant Capital]]></title>
+        <id>https://www.web3sj.com/?p=79501</id>
+        <link href="https://www.web3sj.com/definews/79501/"/>
+        <updated>2023-07-12T02:39:13.000Z</updated>
+        <summary type="html"><![CDATA[当下随着公链和二层赛道的不断发展，生态之间的流动性将不可避免的被进一步分割。头部借贷项目 Compound Finance 此前推出 Gateway 提供跨链借贷的测试网；Aave 在 V3 版本中也会支持跨链借贷，近期 Aave V3 的提案分别通过了 V3 Portals 将添加 Hashflow/Wormhole 和 Stargate 作为「白名单桥」的投票；Uniswap、Sushiswap 等主流 DEX 同时在多条链上部署。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aptos社区发起“将主网框架逐步升级到 v1.5.0”的提案]]></title>
         <id>https://panewslab.com/zh/articledetails/q43ks71j.html</id>
@@ -305,16 +315,6 @@ ConsenSys 表示，Linea 旨在为以太坊应用程序开发人员和用户等�
         <link href="https://www.web3sj.com/news/79333/"/>
         <updated>2023-07-11T03:58:21.000Z</updated>
         <summary type="html"><![CDATA[混合 ZK/Optimistic Rollup 以 Optimistic Rollup 的形式开始，这种 Rollup 与 Optimism 的 Bedrock 架构非常相似。Bedrock 旨在与以太坊（「EVM Equivalent」）达到最大程度的兼容，并通过运行几乎与普通以太坊客户端相同的执行客户端来实现这一目标。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链上情报沦为「人肉搜索」？币安新IEO项目Arkham口碑扑街]]></title>
-        <id>https://www.web3sj.com/?p=79327</id>
-        <link href="https://www.web3sj.com/news/79327/"/>
-        <updated>2023-07-11T03:45:55.000Z</updated>
-        <summary type="html"><![CDATA[然而社区并不买账。Arkham 一般通过用户推荐码进行引流，用户很快发现，他们可以从 Arkham 的推荐链接中获取附加数据，将信息插入 Base64 解码器，就能得到推荐者的完整电邮地址，这在以隐私为中心的加密社区中激起群愤。]]></summary>
         <author>
             <name>Gao</name>
         </author>
