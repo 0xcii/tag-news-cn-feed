@@ -21,7 +21,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 661,
+          "wordCount": 677,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 910,
+          "wordCount": 888,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -113,12 +113,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=79533",
+          "author": "Gao",
+          "description": "对于 zkRollup 而言，不变性和可升级性是安全性的两个不同纬度。Arbitrum, Optimism, Polygon zkEVM, Scroll, Starknet, zkSync 这些 Rollup 通常会有两类情况，一类拥有不变性，一类拥有可升级性，但都是出于安全性角度的不同取舍。",
+          "link": "https://www.web3sj.com/uncategorized/79533/",
+          "publishedOn": "2023-07-12T03:23:01.000Z",
+          "wordCount": 756,
+          "title": "ZK Rollup的不变性和可升级性",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/4e8118576d1cd296c449a74096c41433.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79530",
+          "author": "Gao",
+          "description": "我们讲单例模式首先要了解单例着重要解决什么问题。这个问题是网络手续费。不需要太深入到 opcode 计价表，区分 calldata 和 storage，我们只需要记住一个事实：跨合约调用是昂贵的，写数据是昂贵的。举个例子来说，如果我们观察一个 user->A->B->C 的 uniswap v2 的路由交易，我们需要访问几个合约呢？",
+          "link": "https://www.web3sj.com/definews/79530/",
+          "publishedOn": "2023-07-12T03:16:52.000Z",
+          "wordCount": 1028,
+          "title": "浅学Uniswap v4",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689131795275.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79525",
+          "author": "Gao",
+          "description": "如果你是 Bankless 的普通读者，我们希望你在某个时候购买了公共加密资产！然而，一般人无法接触到的是加密货币的私募市场。许多司法管辖区要求投资者在投资私募市场之前获得认证。在美国，合格投资者身份在很大程度上是取决于收入和净资产门槛，而具有某些专业资格的个人也可以获得资格。",
+          "link": "https://www.web3sj.com/definews/79525/",
+          "publishedOn": "2023-07-12T03:05:10.000Z",
+          "wordCount": 827,
+          "title": "Bankless：风投们还关心加密货币吗?",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689131089994.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=79501",
           "author": "Gao",
           "description": "当下随着公链和二层赛道的不断发展，生态之间的流动性将不可避免的被进一步分割。头部借贷项目 Compound Finance 此前推出 Gateway 提供跨链借贷的测试网；Aave 在 V3 版本中也会支持跨链借贷，近期 Aave V3 的提案分别通过了 V3 Portals 将添加 Hashflow/Wormhole 和 Stargate 作为「白名单桥」的投票；Uniswap、Sushiswap 等主流 DEX 同时在多条链上部署。",
           "link": "https://www.web3sj.com/definews/79501/",
           "publishedOn": "2023-07-12T02:39:13.000Z",
-          "wordCount": 2542,
+          "wordCount": 2620,
           "title": "详解跨链DeFi借贷协议Radiant Capital",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689129380569.png"
         },
@@ -128,7 +158,7 @@
           "description": "Aave社区发起“原生稳定币GHO上线主网”的正式治理提案。NEAR Q2透明度报告：财库总额为9亿美元，减少主要源于NEAR价格下跌。BAYC将于本月与SaaSy Labs合作推出知识产权工具Made by Apes。",
           "link": "https://www.web3sj.com/news/79460/",
           "publishedOn": "2023-07-11T12:14:30.000Z",
-          "wordCount": 811,
+          "wordCount": 793,
           "title": "Web3世界日报（2023-7.11）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023071112142427.jpg"
         },
@@ -138,7 +168,7 @@
           "description": "事实上，稳定币只是加密货币的一种表现方式，其价值往往通过锚定现实货币或者算法调控的方式来让代币价值与锚定物（比如美元）维持在一个大致可控的兑换区间内。但并不意味着稳定币本身能够避免波动。当遇到巨大黑天鹅事件时，稳定币也会与挂钩货币出现脱钩现象。这意味着它们会偏离其挂钩价值。",
           "link": "https://www.web3sj.com/definews/79407/",
           "publishedOn": "2023-07-11T06:37:39.000Z",
-          "wordCount": 936,
+          "wordCount": 941,
           "title": "一览主流稳定币种类及其优劣势",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689057446840.png"
         },
@@ -148,7 +178,7 @@
           "description": "从初始的 Cosmos IBC 到现代的 Polygon 2.0，文章聚焦于这场持续演变的区块链技术之旅。通过深入研究 Avax Subnets、OP Stack、Arbitrum Orbit、Op BNB、ZK Stack 等重要阶段，我们可以见证这些技术如何逐步成熟，并塑造出今天的超级链。",
           "link": "https://www.web3sj.com/news/79396/",
           "publishedOn": "2023-07-11T05:56:26.000Z",
-          "wordCount": 911,
+          "wordCount": 923,
           "title": "超级链的进化之路：从Cosmos到OP Stack",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/d4d2e024846a820f7da9e2bf7672cf06.jpg"
         },
@@ -158,7 +188,7 @@
           "description": "目前，去中心化交易所（DEX）与中心化交易所（CEX）期货交易量约为 2%。如果我们假设链上期权的市场份额将达到链上永续合约的类似水平，预计链上期权交易量应该约为 8 亿美元，这可能不足以激励做市商在链上进行做市。",
           "link": "https://www.web3sj.com/definews/79383/",
           "publishedOn": "2023-07-11T05:34:39.000Z",
-          "wordCount": 1404,
+          "wordCount": 1363,
           "title": "深入探索DeFi期权：市场概况、产品模型及高潜力协议分析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689053666534.png"
         },
@@ -168,7 +198,7 @@
           "description": "Arkham 是一个加密情报平台，旨在通过分析和链上交易数据，得出有价值的结论和见解。该平台使用 AI 算法将链上地址与现实世界的实体联系起来，为用户提供完整的行为图像。",
           "link": "https://www.web3sj.com/news/79374/",
           "publishedOn": "2023-07-11T04:29:24.000Z",
-          "wordCount": 765,
+          "wordCount": 769,
           "title": "读懂币安Launchpad新项目Arkham，Intel to Earn是什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689049726461.png"
         },
@@ -181,36 +211,6 @@
           "wordCount": 771,
           "title": "10张图解析4类经典Tokenomics模型",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689049566327.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79357",
-          "author": "Gao",
-          "description": "区块链的好处是否真的可以抵消它所带来的不便之处，比如糟糕的用户体验和缓慢的交易速度？这些都是我们这个行业目前仍在努力解决的问题，至今都没有一个清晰的模式能够很好地将游戏设计、商业模式、玩家动机协调起来。这也是为什么这个领域既让我们感到兴奋，同时又觉得困难重重。接下来，本文将分享为什么区块链能帮助游戏，以及关于此问题的一些反驳观点，最后也会附上个人的观点。",
-          "link": "https://www.web3sj.com/gamefinews/79357/",
-          "publishedOn": "2023-07-11T04:15:19.000Z",
-          "wordCount": 820,
-          "title": "Web3游戏的未来：游戏真的需要区块链吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689048905932.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79337",
-          "author": "Gao",
-          "description": "「抽象层」的概念显然在比特币之前就有。一般来说，从分「层」的角度思考有助于归类和理解那些由有序的子系统构成的复杂系统，每个子系统的建立都依赖于之前的子系统：想象一种垂直并置的结构，「上层」踩在「下层」的肩膀上，后者通常比前者更难移动、改变或全身而退（想象垒积木，越靠下面越难抽出）。",
-          "link": "https://www.web3sj.com/news/79337/",
-          "publishedOn": "2023-07-11T04:07:23.000Z",
-          "wordCount": 996,
-          "title": "从互联网TCP/IP协议到闪电网络和比特币协议套件",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689048431510.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79333",
-          "author": "Gao",
-          "description": "混合 ZK/Optimistic Rollup 以 Optimistic Rollup 的形式开始，这种 Rollup 与 Optimism 的 Bedrock 架构非常相似。Bedrock 旨在与以太坊（「EVM Equivalent」）达到最大程度的兼容，并通过运行几乎与普通以太坊客户端相同的执行客户端来实现这一目标。",
-          "link": "https://www.web3sj.com/news/79333/",
-          "publishedOn": "2023-07-11T03:58:21.000Z",
-          "wordCount": 918,
-          "title": "混合ZK Rollup与Optimistic Rollup",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689047889707.png"
         }
       ]
     },
@@ -219,6 +219,56 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/26ek29oy.html",
+          "author": "PA一线",
+          "description": "PANews 7月12日消息，Lookonchain监测显示，某巨鲸从Binance提取2000枚ETH（约376万美元），并向Binance存入400万枚USDC。据此前推文，该巨鲸于7月3日从Binance提取4000枚ETH，并向Binance存入800万枚USDC。",
+          "link": "https://panewslab.com/zh/articledetails/26ek29oy.html",
+          "publishedOn": "2023-07-12T03:01:20.000Z",
+          "wordCount": 317,
+          "title": "数据：某巨鲸从Binance提取2000枚ETH，并存入400万枚USDC",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/m713r0mq.html",
+          "author": "PA一线",
+          "description": "PANews 7月12日消息，据官方消息，OKX Web3钱包Learn to Earn工具Cryptopedia第三期已上线，为OKX任务专场。用户参与完成由OKX Web3钱包设定的交互任务，即有机会获得 Fusionist 147,000 ACE 奖励。\nCryptopedia 是一站式 DApp 探索和奖励交互平台，平台会定期推出以不同区块链网络为主题的活动，并与相应的合作伙伴一起，共同设置 DApp 交互任务。Cryptopedia 旨在挖掘和聚合潜力项目，降低进入 Web3 的门槛，减少用户搜索成本的同时，让用户即使是利用碎片化的时间也能精准交互。此外，参与交互的地址有可能获得对应网络和DApp的奖励资格，持有NFT的用户将有机会获得额外奖励。",
+          "link": "https://panewslab.com/zh/articledetails/m713r0mq.html",
+          "publishedOn": "2023-07-12T02:47:10.000Z",
+          "wordCount": 418,
+          "title": "OKX Web3钱包上线Cryptopedia第三期",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fi4dwh0z.html",
+          "author": "PA一线",
+          "description": "PANews 7月12日消息，以太铭文协议创建者Middlemarch发布ESIP-1，将于区块高度17672762上线（美东时间7月12日04:30），生效后合约能够实现以太铭文转移，前提是合约在事件发出时拥有 ethscription。 如果有多个有效传输，将首先处理 calldata，然后按日志索引的顺序处理事件。",
+          "link": "https://panewslab.com/zh/articledetails/fi4dwh0z.html",
+          "publishedOn": "2023-07-12T02:29:29.000Z",
+          "wordCount": 356,
+          "title": "以太铭文协议Ethscriptions将上线ESIP-1，生效后能实现以太铭文转移",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/i2tplesd.html",
+          "author": "PA一线",
+          "description": "PANews 7月12日消息，FTX官方发推表示，FTX 债务人正在为提交索赔的 FTX 客户敲定在线索赔门户网站https://claims.ftx.com，这是唯一的官方 FTX 客户索赔门户，FTX 债务人将宣布该门户何时启用。请注意来自其他渠道的钓鱼链接。此外，FTX 表示客户提出索赔的截止日期已定为 2023 年 9 月 29 日下午 4 点（美国东部时间）。根据提交索赔的时间，没有给予优先权，索赔必须在截止日期之前提交。\n此前消息，FTX索赔门户网站上线，FTT日内上涨16.2%。但随后FTX索赔门户网站显示不可用。",
+          "link": "https://panewslab.com/zh/articledetails/i2tplesd.html",
+          "publishedOn": "2023-07-12T01:40:38.000Z",
+          "wordCount": 447,
+          "title": "FTX：索赔网站何时启用另行通知，注意其他渠道的钓鱼链接",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xe1s6zkz.html",
+          "author": "PA一线",
+          "description": "1.FTX索赔门户网站上线，随后显示无法访问\n2.Binance.US：BCH取款暂停是由于技术问题，已恢复正常，客户资产安全\n3.Grayscale和Fir Tree就GBTC相关诉讼达成和解\n4.俄罗斯通过关于引入数字卢布的法律，待普京批准后将于今年8月1日生效\n5.《华尔街日报》：FTX前高管因涉嫌违反竞选财务法被调查\n6.ETH质押数达2390万枚，占流通量约20%\n7.BlockFi调查报告：管理层在向FTX提供贷款前已进行合理的尽职调查\nPANews APP积分——PT（葡萄）正式上线，立即下载，一起参与Read to Earn🍇\nPANews Telegram社群，立即加入\nPANews Telegram频道，立即订阅",
+          "link": "https://panewslab.com/zh/articledetails/xe1s6zkz.html",
+          "publishedOn": "2023-07-12T01:20:40.000Z",
+          "wordCount": 452,
+          "title": "昨夜今晨重要资讯（7月11日-7月12日）",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/07/12/images/8kxb61u9VJ.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/q43ks71j.html",
           "author": "PA一线",
@@ -347,12 +397,22 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202307/20921.html",
+          "author": null,
+          "description": "1.数据：代币化美国国债超6亿美元。\n\n2.ConsenSys Linea：Linea使用ETH作为原生货币，暂无推出代币计划。\n\n3.ERC-6551账户数已突破2000个。\n\n4.FTX客户索赔网站在短暂开放后下线，FTX回应：客户索赔门户重启时间将由债务人决定。\n\n5.淡马锡：当前监管环境下不会投资加密公司，仅考虑投资交易平台而从未考虑过投资某种代币。\n\n6.Memeland披露MEME代币销售细则，将为生态项目持有者空投。\n\n7.Coinbase将上线Helium(HNT)。\n\n8.NEAR基金会二季度透明度报告：财库总额为9亿美元。",
+          "link": "https://www.hellobtc.com/news/202307/20921.html",
+          "publishedOn": "2023-07-12T02:51:00.000Z",
+          "wordCount": 317,
+          "title": "白话区块链早报：代币化美国国债超6亿美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202307/20920.html",
           "author": null,
           "description": "7月11日消息，新加坡主权财富基金淡马锡首席投资官Rohit Sipahimalani表示，当前环境下存在很多监管不确定性。我确实认为，在监管不确定性的情况下，我们很难再进行（对加密公司的）投资和交易。 Sipahimalani补充表示，淡马锡从未寻求过投资加密货币，即使是对 FTX 的投资也是一样的，淡马锡会谈论对交易平台的投资，这使其能从平台费用收入中赚取收益，而无需考虑资产负债表风险或任何交易风险。",
           "link": "https://www.hellobtc.com/news/202307/20920.html",
           "publishedOn": "2023-07-11T12:46:00.000Z",
-          "wordCount": 318,
+          "wordCount": 312,
           "title": "淡马锡：当前监管环境下不会投资加密领域",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -434,16 +494,6 @@
           "publishedOn": "2023-07-11T07:57:00.000Z",
           "wordCount": 310,
           "title": "Circle首席执行官：稳定币比CBDC更有助于国际化",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20910.html",
-          "author": null,
-          "description": "7月11日消息，香港虚拟银行Mox Bank多位用户反映旗下银行账户在短时间内被数度冻结，有用户分析此事或与近日Mox Bank系统更新有关，其系统对部分交易及客户较敏感，尤其是买卖加密货币的账户。对此香港金管局回应称已知悉该事件并要求Mox Bank做出适当跟进，确保客户关注得到妥善处理。（香港经济日报）",
-          "link": "https://www.hellobtc.com/news/202307/20910.html",
-          "publishedOn": "2023-07-11T02:39:00.000Z",
-          "wordCount": 309,
-          "title": "香港虚拟银行Mox Bank疑冻结部分加密交易账户，香港金管局已督促处理",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
