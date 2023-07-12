@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-12T03:23:14.581Z</id>
+    <id>urn:2023-07-12T04:17:17.059Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-12T03:23:14.581Z</updated>
+    <updated>2023-07-12T04:17:17.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
+        <title type="html"><![CDATA[以太坊三个转变引发的新问题]]></title>
+        <id>https://www.web3sj.com/?p=79562</id>
+        <link href="https://www.web3sj.com/news/79562/"/>
+        <updated>2023-07-12T03:44:19.000Z</updated>
+        <summary type="html"><![CDATA[6 月份，以太坊的创始人 V 神在自己的博客中所指出的，以太坊目前面临着一些重要的挑战和问题，这些问题需要得到解决才能推动以太坊的进一步发展，否则以太坊将走向失败，这样三个转变的方向分别是：智能合约钱包、隐私保护和 Layer 2 扩容。成功转型后，以太坊将在性能、用户体验和隐私护等方面有所改善。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[走进Worldcoin：DID+Token+Wallet三者的组合]]></title>
+        <id>https://www.web3sj.com/?p=79555</id>
+        <link href="https://www.web3sj.com/project/79555/"/>
+        <updated>2023-07-12T03:38:32.000Z</updated>
+        <summary type="html"><![CDATA[事实上，Worldcoin 某种程度上已经具备了世界级 Web3 应用的潜质：与 OpenAI 的深度绑定，以及基于 OpenAI 所聚集的近 200 万的实际用户，以及 10 亿级别的潜在用户群体，都在向市场证明，Worldcoin 和其他 Web3 应用具有截然不同的天花板。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ZK Rollup的不变性和可升级性]]></title>
         <id>https://www.web3sj.com/?p=79533</id>
-        <link href="https://www.web3sj.com/uncategorized/79533/"/>
+        <link href="https://www.web3sj.com/news/79533/"/>
         <updated>2023-07-12T03:23:01.000Z</updated>
         <summary type="html"><![CDATA[对于 zkRollup 而言，不变性和可升级性是安全性的两个不同纬度。Arbitrum, Optimism, Polygon zkEVM, Scroll, Starknet, zkSync 这些 Rollup 通常会有两类情况，一类拥有不变性，一类拥有可升级性，但都是出于安全性角度的不同取舍。]]></summary>
         <author>
@@ -380,26 +400,6 @@ ConsenSys 表示，Linea 旨在为以太坊应用程序开发人员和用户等�
         <link href="https://www.web3sj.com/definews/79383/"/>
         <updated>2023-07-11T05:34:39.000Z</updated>
         <summary type="html"><![CDATA[目前，去中心化交易所（DEX）与中心化交易所（CEX）期货交易量约为 2%。如果我们假设链上期权的市场份额将达到链上永续合约的类似水平，预计链上期权交易量应该约为 8 亿美元，这可能不足以激励做市商在链上进行做市。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[读懂币安Launchpad新项目Arkham，Intel to Earn是什么？]]></title>
-        <id>https://www.web3sj.com/?p=79374</id>
-        <link href="https://www.web3sj.com/news/79374/"/>
-        <updated>2023-07-11T04:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Arkham 是一个加密情报平台，旨在通过分析和链上交易数据，得出有价值的结论和见解。该平台使用 AI 算法将链上地址与现实世界的实体联系起来，为用户提供完整的行为图像。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10张图解析4类经典Tokenomics模型]]></title>
-        <id>https://www.web3sj.com/?p=79360</id>
-        <link href="https://www.web3sj.com/news/79360/"/>
-        <updated>2023-07-11T04:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Tokenomics 是 #DeFi 项目的支柱。对用户来说，理解激励来源以及如何分配至关重要。此外，飞轮的存在也有助于延长代币经济的可持续性。]]></summary>
         <author>
             <name>Gao</name>
         </author>
