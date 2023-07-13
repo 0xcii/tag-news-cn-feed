@@ -11,7 +11,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 111,
+          "wordCount": 115,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 903,
+          "wordCount": 911,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -113,12 +113,72 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=79889",
+          "author": "Gao",
+          "description": "这篇文章，是我在过去 7 个月中进行的 500 多个小时分析后的最终成果。我会在文章中介绍一些我看好的项目，大概会有 15 个项目，我计划将他们作为未来牛市的项目购买清单。",
+          "link": "https://www.web3sj.com/news/79889/",
+          "publishedOn": "2023-07-13T05:48:23.000Z",
+          "wordCount": 1047,
+          "title": "未来牛市清单：15个潜力项目介绍",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689227291741.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79886",
+          "author": "Gao",
+          "description": "值得庆幸的是，在 Sound.xyz 等平台的引领下，web3 音乐领域出现了一场新的运动。Sound 致力于创造一个艺术家和歌迷可以从音乐创作和欣赏中获得回报的未来，所以我们很高兴地宣布，我们已经加倍投资 Sound.xyz，领投了他们的 A 轮融资。",
+          "link": "https://www.web3sj.com/news/79886/",
+          "publishedOn": "2023-07-13T05:44:11.000Z",
+          "wordCount": 681,
+          "title": "a16z：我们为什么投资Sound.xyz ？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689227039786.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79883",
+          "author": "Gao",
+          "description": "身为一家国际科技公司高级安全工程师的 Shakeeb Ahmed 利用他的专业知识，欺诈了在 Solana 上的去中心化交易所及其用户，盗取了约 900 万美元的加密货币。他在盗取从未合法获得的费用后，与该加密货币交易所进行了交涉，决定如果加密货币交易所同意不将此次攻击上报给执法机构，他将返还被盗资金，但要求保留 150 万美元。",
+          "link": "https://www.web3sj.com/definews/79883/",
+          "publishedOn": "2023-07-13T05:42:06.000Z",
+          "wordCount": 739,
+          "title": "美国宣布首例涉及攻击DEX智能合约的刑事案件",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689226915135.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79875",
+          "author": "Gao",
+          "description": "Remark:Relay 不把整个 Block 传给 Proposer 签名是为了避免 Proposer 把区块头偷走，也避免 Proposer 需要承担较大的网络开销。",
+          "link": "https://www.web3sj.com/definews/79875/",
+          "publishedOn": "2023-07-13T05:39:08.000Z",
+          "wordCount": 966,
+          "title": "Ultra Sound Relay为何成为MEV-Boost市场占有率最高的中继？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689226735247.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79872",
+          "author": "Gao",
+          "description": "那么，从技术视角该如何看待 Starknet 的这次升级呢？和 zkSync 相比，How it works？这会对 Starknet 的后续生态发展带来哪些影响？来，探讨下。",
+          "link": "https://www.web3sj.com/news/79872/",
+          "publishedOn": "2023-07-13T05:34:37.000Z",
+          "wordCount": 761,
+          "title": "Starknet升级：一次杀死pending的亲民化更新",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689226462124.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79854",
+          "author": "Gao",
+          "description": "Polkadot 是一个提名权益证明（NPoS）区块链网络，设计用来支持各种相互连接的，特定应用的 Layer 1 链，这些链被称为平行链。在 Polkadot 内建的每一条链都使用 Parity Technologies 开发的区块链开发框架 Substrate，该框架允许开发者选择最适合他们特定应用链的特定组件。",
+          "link": "https://www.web3sj.com/project/79854/",
+          "publishedOn": "2023-07-13T05:19:23.000Z",
+          "wordCount": 1245,
+          "title": "Messari：详解Polkadot二季度主要进展",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689225543658.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=79849",
           "author": "Gao",
           "description": "Prisma 的首篇 Mirror 文章引起了轰动，将自己定位为「流动性质押代币的终极游戏」，其目标是利用 Curve 的飞轮效应来推动其稳定币 (acUSD) 获得大量采用。 与 Gravita 和 Lybra 等项目类似，Prisma 使用 Liquity 的模型并对其进行了调整，使得 acUSD 可以针对任何排名前五的 LSD（Lido 的 stETH、Coinbase 的 cbETH、Rocket Pool 的 rETH、Frax 的 frxETH 和币安的 WBETH）进行铸造，权重和未来的整合目前待定。",
           "link": "https://www.web3sj.com/definews/79849/",
           "publishedOn": "2023-07-13T04:54:06.000Z",
-          "wordCount": 864,
+          "wordCount": 896,
           "title": "盘点LSD赛道五大搅局者，Lido扛得住吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689224036305.png"
         },
@@ -128,7 +188,7 @@
           "description": "带着这些问题，7 月 11 日 20 点，Techub News 邀请到香港金融科技行业协会会长、香港理工大学法律与合规实验室联席主任李国樑，香港数字金融协会联席会长、香港城市大学 EMBA 特约教授陈家豪和南方东英基金量化投资部门总监王毅，一起通过线上直播的方式，探讨香港虚拟资产期货 ETF 发行背后的故事、以及虚拟资产在香港发展的合规和创新问题。",
           "link": "https://www.web3sj.com/news/79846/",
           "publishedOn": "2023-07-13T04:49:10.000Z",
-          "wordCount": 742,
+          "wordCount": 707,
           "title": "虚拟资产在香港的合规与创新",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689223736331.png"
         },
@@ -138,7 +198,7 @@
           "description": "技术上，Sei 拥有一个内置的订单匹配引擎，亚秒级的结算速度，订单的并行化处理，单区块订单执行等。所有这些定制化的功能都是在基础层完成的。 Sei 通过 ABCI++ 实现了他们的一些优化，ABCI++ 是即将对 Cosmos 的 ABCI 进行的升级，使得共识的每个步骤都是可编程的。",
           "link": "https://www.web3sj.com/news/79837/",
           "publishedOn": "2023-07-13T04:12:49.000Z",
-          "wordCount": 1133,
+          "wordCount": 1139,
           "title": "ArkStream Capital 2023 Q2投资的6个项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689220997750.png"
         },
@@ -148,69 +208,9 @@
           "description": "有了 ERC-6551，你的 PFP 就是元宇宙中的你，因为它将你的 PFP（或任何其他 NFT 资产）变成了一个钱包 / 身份。ERC-6551 之前，如果我想了解你，只能翻阅你的钱包。但现在我可以只看你的 PFP 就能了解你。",
           "link": "https://www.web3sj.com/news/79828/",
           "publishedOn": "2023-07-13T03:56:24.000Z",
-          "wordCount": 741,
+          "wordCount": 736,
           "title": "ERC-6551创新应用场景探索",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689220527876.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79824",
-          "author": "Gao",
-          "description": "为了缩小问题范围，本文将采用已经部署在以太坊上的应用程序的框架，该应用程序希望在以太坊生态系统中进行扩展。因此，本文的重点将放在应用程序团队在决定是否启动自己的 Rollup 时面临的决策树、哪些类型的应用程序特别适合某类基础设施，以及我认为我们何时可能达到采用的临界点。",
-          "link": "https://www.web3sj.com/news/79824/",
-          "publishedOn": "2023-07-13T03:43:15.000Z",
-          "wordCount": 751,
-          "title": "Variant：模块化潮流下，应用程序要构建自己的链吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689219781663.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79812",
-          "author": "Gao",
-          "description": "2021 年 8 月 5 日，加密分析平台 Messari 宣布完成 2100 万美元 A 轮融资，由 Point72 Ventures 领投，Coinbase Ventures、Uncork Capital、Underscore VC、Alameda Capital、Blockchain Ventures、CMS Holdings、Gemini Frontier Fund 等参投。",
-          "link": "https://www.web3sj.com/news/79812/",
-          "publishedOn": "2023-07-13T03:37:57.000Z",
-          "wordCount": 1153,
-          "title": "Arkham后，还有哪些数据工具没有发币呢？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689219459639.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79799",
-          "author": "Gao",
-          "description": "星巴克自去年 12 月起至今共发行了 10 个系列的 NFT（邮票），其中有三款为付费购买，其余均可通过完成设定的任务获取邮票。NFT 的设计大多也与品牌文化息息相关，涵盖了第一家门店、咖啡豆的故事背景、标志上的海妖以及与艺术家的合作等方面。",
-          "link": "https://www.web3sj.com/nftnews/79799/",
-          "publishedOn": "2023-07-13T03:27:53.000Z",
-          "wordCount": 763,
-          "title": "过去半年里，星巴克奥德赛计划具体做了什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689218860655.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79793",
-          "author": "Gao",
-          "description": "信贷协议中的资产池中的基础有形资产（即借款人）代表了许多地区、行业、业务类型和成熟周期。例如，Goldfinch Senior Pool 代表了来自非洲、拉丁美洲和东南亚国家的链上贷款，涵盖了金融科技债务、消费者贷款和中小企业贷款。当投资者将资金分配到一个信贷协议中时，除了考虑资产池中的广泛风险类别外，他们还需要考虑 DeFi 和区块链相关的风险，如区块链停机风险、智能合约风险、治理风险和协议风险。",
-          "link": "https://www.web3sj.com/definews/79793/",
-          "publishedOn": "2023-07-13T03:21:52.000Z",
-          "wordCount": 784,
-          "title": "了解AlloyX：面向RWA的流动性质押协议",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689218500317.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79776",
-          "author": "Gao",
-          "description": "整体来看，订单簿交易所可以分为四种类型来理解，第一种拥有出色的交易速度和吞吐量等高性能，但高度中心化的 CEX，是目前市场上大部分人的交易选择，如 Binance/OKX。第二种为以太坊 L1 链上订单簿，例如 Gridex，实现了高度的去中心化。",
-          "link": "https://www.web3sj.com/definews/79776/",
-          "publishedOn": "2023-07-13T03:10:28.000Z",
-          "wordCount": 1566,
-          "title": "解析订单簿原生链先驱Injective",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689217811224.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79760",
-          "author": "Gao",
-          "description": "你可能听说过 BitTorrent 协议，俗称 BT 下载，这是一种基于 P2P 的文件共享协议，主要用于分发大量的数据到 Internet 上的用户。它利用了某种形式的经济激励，例如，「种子」（上传完整文件的用户）可以得到更快的下载速度，但这个 2001 年推出的早期去中心化系统仍然缺乏完善的经济激励设计。",
-          "link": "https://www.web3sj.com/definews/79760/",
-          "publishedOn": "2023-07-13T02:58:20.000Z",
-          "wordCount": 1690,
-          "title": "DeFi经济模型全解：从Value Flow看四种激励模式",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689217087898.png"
         }
       ]
     },
@@ -219,6 +219,56 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/re6e761b.html",
+          "author": "PA一线",
+          "description": "PANews 7月13日消息，据Coinmarketcap数据显示，去中心化预测市场协议Augur (REP)闪跌近50%，此前韩国数字资产交易所协会DAXA的成员计划终止对Augur (REP)的交易支持，因确认该项目运行不正常，Augur（REP）项目提供的服务几乎无法使用。Upbit将于当地时间7月13日14:00下架Augur (REP)。",
+          "link": "https://panewslab.com/zh/articledetails/re6e761b.html",
+          "publishedOn": "2023-07-13T03:42:23.000Z",
+          "wordCount": 380,
+          "title": "受Upbit下架影响，去中心化预测市场协议Augur （REP）闪跌近50%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0qyhpgkg.html",
+          "author": "PA一线",
+          "description": "PANews 7月13日消息，据韩国媒体hankyung报道，韩国金融委员会计划在本月向议会提交有关证券型代币制度化的《电子证券法》和《资本市场法》修正案，以将代币证券制度化。该法案预计将反映韩国金融委员会在 2 月份发布的证券型代币发行和流通规则体系整顿方案，包括修订资本市场法和电子证券法，允许发行证券型代币，并设立与发行和流通相关的账户管理机构和场外交易中介业务。",
+          "link": "https://panewslab.com/zh/articledetails/0qyhpgkg.html",
+          "publishedOn": "2023-07-13T03:25:18.000Z",
+          "wordCount": 344,
+          "title": "韩国金融委员会计划提交有关证券型代币制度化的《电子证券法》和《资本市场法》修正案",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ybojor14.html",
+          "author": "PA一线",
+          "description": "PANews 7月13日消息，Uniswap官方发推表示，Uniswap现已部署至Avalanche链上，用户可通过Uniswap的前端直接交易Avalanche链上的各种代币。",
+          "link": "https://panewslab.com/zh/articledetails/ybojor14.html",
+          "publishedOn": "2023-07-13T03:07:45.000Z",
+          "wordCount": 350,
+          "title": "Uniswap现已部署至Avalanche网络",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/31zw18ur.html",
+          "author": "PA一线",
+          "description": "PANews 7月13日消息，据官方公告，币安将于2023年07月14日16:00（北京时间）上线ARB/ETH、BCH/TRY、XVG/TRY、XVG/TUSD交易对。",
+          "link": "https://panewslab.com/zh/articledetails/31zw18ur.html",
+          "publishedOn": "2023-07-13T03:05:30.000Z",
+          "wordCount": 337,
+          "title": "币安新增ARB/ETH、BCH/TRY、XVG/TRY、XVG/TUSD交易对",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6bp4l5sl.html",
+          "author": "PA一线",
+          "description": "PANews 7月13日消息，Messari发布Solana 2023年第二季度报告，报告显示，Solana市值环比下降了 9.2%。验证者数量环比下降了 21.1%。收入（以 SOL 计）环比下降 15%。以美元计价的 TVL 环比增长 3.8%，以 SOL 计价的 TVL 环比增长 18.6%。以 SOL 计价的 NFT 销售额环比下降 43.3%，独立买家数量仍超过独立卖家，买家总数约为 53.9 万名，而卖家总数约为 52.4万名。此外，截至 6 月 1 日，开发人员总数从年初 2000 多名降至 1475 名。",
+          "link": "https://panewslab.com/zh/articledetails/6bp4l5sl.html",
+          "publishedOn": "2023-07-13T02:42:32.000Z",
+          "wordCount": 488,
+          "title": "Messari：Solana Q2收入环比下降15%，验证者数量环比下降21.1%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/or5ghqjp.html",
           "author": "PA一线",
@@ -367,16 +417,6 @@
           "publishedOn": "2023-07-12T22:19:30.000Z",
           "wordCount": 327,
           "title": "美国CFTC首起指控DeFi平台未注册的案件宣判，Digitex创始人被判支付1600万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ydhuk7gc.html",
-          "author": "PA一线",
-          "description": "PANews 7月13日消息，稳定币发行商Circle周三表示，该公司已少量裁员，以保持“强劲的资产负债表”。Circle一位发言人表示：“为了保持我们强劲的资产负债表，Circle正在加倍关注核心业务活动和执行。因此，我们已经减少或终止了对非核心业务的投资，并减少了运营费用，其中包括少量裁员。与此同时，我们已经确定了新的投资领域，并将继续在全球重点领域招聘人才”。今年早些时候，Circle的首席财务官Jeremy Fox-Geen向《华尔街日报》表示，该公司计划将员工人数增加25%，以扩大规模。",
-          "link": "https://panewslab.com/zh/articledetails/ydhuk7gc.html",
-          "publishedOn": "2023-07-12T22:07:35.000Z",
-          "wordCount": 331,
-          "title": "Circle已少量裁员并终止部分“非核心”业务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
