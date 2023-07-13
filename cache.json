@@ -11,7 +11,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 125,
+          "wordCount": 111,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 675,
+          "wordCount": 677,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 887,
+          "wordCount": 903,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -113,12 +113,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=79849",
+          "author": "Gao",
+          "description": "Prisma 的首篇 Mirror 文章引起了轰动，将自己定位为「流动性质押代币的终极游戏」，其目标是利用 Curve 的飞轮效应来推动其稳定币 (acUSD) 获得大量采用。 与 Gravita 和 Lybra 等项目类似，Prisma 使用 Liquity 的模型并对其进行了调整，使得 acUSD 可以针对任何排名前五的 LSD（Lido 的 stETH、Coinbase 的 cbETH、Rocket Pool 的 rETH、Frax 的 frxETH 和币安的 WBETH）进行铸造，权重和未来的整合目前待定。",
+          "link": "https://www.web3sj.com/definews/79849/",
+          "publishedOn": "2023-07-13T04:54:06.000Z",
+          "wordCount": 864,
+          "title": "盘点LSD赛道五大搅局者，Lido扛得住吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689224036305.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79846",
+          "author": "Gao",
+          "description": "带着这些问题，7 月 11 日 20 点，Techub News 邀请到香港金融科技行业协会会长、香港理工大学法律与合规实验室联席主任李国樑，香港数字金融协会联席会长、香港城市大学 EMBA 特约教授陈家豪和南方东英基金量化投资部门总监王毅，一起通过线上直播的方式，探讨香港虚拟资产期货 ETF 发行背后的故事、以及虚拟资产在香港发展的合规和创新问题。",
+          "link": "https://www.web3sj.com/news/79846/",
+          "publishedOn": "2023-07-13T04:49:10.000Z",
+          "wordCount": 742,
+          "title": "虚拟资产在香港的合规与创新",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689223736331.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=79837",
           "author": "Gao",
           "description": "技术上，Sei 拥有一个内置的订单匹配引擎，亚秒级的结算速度，订单的并行化处理，单区块订单执行等。所有这些定制化的功能都是在基础层完成的。 Sei 通过 ABCI++ 实现了他们的一些优化，ABCI++ 是即将对 Cosmos 的 ABCI 进行的升级，使得共识的每个步骤都是可编程的。",
           "link": "https://www.web3sj.com/news/79837/",
           "publishedOn": "2023-07-13T04:12:49.000Z",
-          "wordCount": 1127,
+          "wordCount": 1133,
           "title": "ArkStream Capital 2023 Q2投资的6个项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689220997750.png"
         },
@@ -128,7 +148,7 @@
           "description": "有了 ERC-6551，你的 PFP 就是元宇宙中的你，因为它将你的 PFP（或任何其他 NFT 资产）变成了一个钱包 / 身份。ERC-6551 之前，如果我想了解你，只能翻阅你的钱包。但现在我可以只看你的 PFP 就能了解你。",
           "link": "https://www.web3sj.com/news/79828/",
           "publishedOn": "2023-07-13T03:56:24.000Z",
-          "wordCount": 725,
+          "wordCount": 741,
           "title": "ERC-6551创新应用场景探索",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689220527876.png"
         },
@@ -138,7 +158,7 @@
           "description": "为了缩小问题范围，本文将采用已经部署在以太坊上的应用程序的框架，该应用程序希望在以太坊生态系统中进行扩展。因此，本文的重点将放在应用程序团队在决定是否启动自己的 Rollup 时面临的决策树、哪些类型的应用程序特别适合某类基础设施，以及我认为我们何时可能达到采用的临界点。",
           "link": "https://www.web3sj.com/news/79824/",
           "publishedOn": "2023-07-13T03:43:15.000Z",
-          "wordCount": 748,
+          "wordCount": 751,
           "title": "Variant：模块化潮流下，应用程序要构建自己的链吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689219781663.png"
         },
@@ -148,7 +168,7 @@
           "description": "2021 年 8 月 5 日，加密分析平台 Messari 宣布完成 2100 万美元 A 轮融资，由 Point72 Ventures 领投，Coinbase Ventures、Uncork Capital、Underscore VC、Alameda Capital、Blockchain Ventures、CMS Holdings、Gemini Frontier Fund 等参投。",
           "link": "https://www.web3sj.com/news/79812/",
           "publishedOn": "2023-07-13T03:37:57.000Z",
-          "wordCount": 1147,
+          "wordCount": 1153,
           "title": "Arkham后，还有哪些数据工具没有发币呢？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689219459639.png"
         },
@@ -158,7 +178,7 @@
           "description": "星巴克自去年 12 月起至今共发行了 10 个系列的 NFT（邮票），其中有三款为付费购买，其余均可通过完成设定的任务获取邮票。NFT 的设计大多也与品牌文化息息相关，涵盖了第一家门店、咖啡豆的故事背景、标志上的海妖以及与艺术家的合作等方面。",
           "link": "https://www.web3sj.com/nftnews/79799/",
           "publishedOn": "2023-07-13T03:27:53.000Z",
-          "wordCount": 743,
+          "wordCount": 763,
           "title": "过去半年里，星巴克奥德赛计划具体做了什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689218860655.png"
         },
@@ -168,7 +188,7 @@
           "description": "信贷协议中的资产池中的基础有形资产（即借款人）代表了许多地区、行业、业务类型和成熟周期。例如，Goldfinch Senior Pool 代表了来自非洲、拉丁美洲和东南亚国家的链上贷款，涵盖了金融科技债务、消费者贷款和中小企业贷款。当投资者将资金分配到一个信贷协议中时，除了考虑资产池中的广泛风险类别外，他们还需要考虑 DeFi 和区块链相关的风险，如区块链停机风险、智能合约风险、治理风险和协议风险。",
           "link": "https://www.web3sj.com/definews/79793/",
           "publishedOn": "2023-07-13T03:21:52.000Z",
-          "wordCount": 797,
+          "wordCount": 784,
           "title": "了解AlloyX：面向RWA的流动性质押协议",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689218500317.png"
         },
@@ -178,7 +198,7 @@
           "description": "整体来看，订单簿交易所可以分为四种类型来理解，第一种拥有出色的交易速度和吞吐量等高性能，但高度中心化的 CEX，是目前市场上大部分人的交易选择，如 Binance/OKX。第二种为以太坊 L1 链上订单簿，例如 Gridex，实现了高度的去中心化。",
           "link": "https://www.web3sj.com/definews/79776/",
           "publishedOn": "2023-07-13T03:10:28.000Z",
-          "wordCount": 1538,
+          "wordCount": 1566,
           "title": "解析订单簿原生链先驱Injective",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689217811224.png"
         },
@@ -188,29 +208,9 @@
           "description": "你可能听说过 BitTorrent 协议，俗称 BT 下载，这是一种基于 P2P 的文件共享协议，主要用于分发大量的数据到 Internet 上的用户。它利用了某种形式的经济激励，例如，「种子」（上传完整文件的用户）可以得到更快的下载速度，但这个 2001 年推出的早期去中心化系统仍然缺乏完善的经济激励设计。",
           "link": "https://www.web3sj.com/definews/79760/",
           "publishedOn": "2023-07-13T02:58:20.000Z",
-          "wordCount": 1668,
+          "wordCount": 1690,
           "title": "DeFi经济模型全解：从Value Flow看四种激励模式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689217087898.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79751",
-          "author": "Gao",
-          "description": "Sui 生态自托管钱包 Ethos 也基于 Move 语言与 Sui 区块链开发了一款 2048 类的数字益智游戏 Sui 8192，这是一款全链游戏，除了前端用户界面，所有逻辑与规则都基于智能合约代码而自动运行。比起 Dark Forest、Isaac、OPCraft 等大型全链游戏，Sui 8192 并未提出那么多的宏大构想与宏大叙事，这只是一个理想的小型实验，没有 MUD 引擎等复杂技术，没有专注于 Fi 的投机与炒作，但依靠极低的成本与游戏体验足以吸引大量活跃用户。",
-          "link": "https://www.web3sj.com/gamefinews/79751/",
-          "publishedOn": "2023-07-13T02:44:26.000Z",
-          "wordCount": 829,
-          "title": "Web3的2048，Sui 8192能否打开全链游戏的大门？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689216247106.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79747",
-          "author": "Gao",
-          "description": "回过头来看，当时我更多是从用户的角度分析，Web3毫无疑问增强了用户权益，为用户创造了新资产和新身份，满足了「主权个人」的「消费 + 资产 + 数字身份」三位一体需求。",
-          "link": "https://www.web3sj.com/nftnews/79747/",
-          "publishedOn": "2023-07-13T02:41:33.000Z",
-          "wordCount": 676,
-          "title": "Web3 Brand大规模采用必须要回答的3个问题",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689216081666.png"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "PANews 7月13日消息，NBA Top Shot 母公司 Dapper Labs 首席执行官 Roham Gharegozlou 发推表示，Dapper Labs 已裁员 51 人，包括全职员工以及 C1 承包商。在致员工的内部信中，强调了 Dapper Labs 和 Flow 都有充足的资金，通过这次重组，业务将更加精简，此外 Flow 也有一个单独的资金池提供资金，团队也有几年的现金储备，不需要出售代币来为短期运营提供资金。",
           "link": "https://panewslab.com/zh/articledetails/or5ghqjp.html",
           "publishedOn": "2023-07-13T02:18:29.000Z",
-          "wordCount": 443,
+          "wordCount": 445,
           "title": "Dapper Labs宣布裁员51人，并称团队资金充足不需要出售代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 7月13日消息，据官方消息，OKX Ventures宣布投资基于Arbitrum的链上衍生品DEX Aark Digital。Aark是下一代GMX风格的perp DEX，专为专业交易者打造，并引入了其他公司无法提供的功能。\nOKX Ventures的创始人Dora表示，“Aark团队对衍生品赛道充满热情，产品创新性和机制设计上可圈可点，一定程度上降低LP的风险并提高收益，致力于为专业的交易者打造全新体验的交易平台。”",
           "link": "https://panewslab.com/zh/articledetails/gez7j73f.html",
           "publishedOn": "2023-07-13T02:15:15.000Z",
-          "wordCount": 405,
+          "wordCount": 408,
           "title": "OKX Ventures宣布投资基于Arbitrum的链上衍生品DEX Aark Digital",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 7月13日消息，FTX索赔网站https://claims.ftx.com重新上线，个人客户可以访问他们的账户信息，然后提交申请，申请将被纳入FTX的第11章破产程序。\n此前消息，FTX官方发推表示，FTX 债务人正在为提交索赔的 FTX 客户敲定在线索赔门户网站https://claims.ftx.com，这是唯一的官方 FTX 客户索赔门户。",
           "link": "https://panewslab.com/zh/articledetails/t45720ln.html",
           "publishedOn": "2023-07-13T02:05:19.000Z",
-          "wordCount": 369,
+          "wordCount": 371,
           "title": "FTX索赔网站现已重新上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 7月13日消息，NFT 借贷协议 ParaSpace 宣布即将推出 2.0 版本。新版本的全新功能旨在让任何人都能获得资产的普遍流动性，以及提升去中心化，与社区一起创造下一代借贷形式。目前新功能已经在开发中。",
           "link": "https://panewslab.com/zh/articledetails/5xw5z24c.html",
           "publishedOn": "2023-07-13T02:01:22.000Z",
-          "wordCount": 357,
+          "wordCount": 359,
           "title": "NFT借贷协议ParaSpace宣布即将推出2.0版本",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "1.Google Play更新代币化数字资产政策，允许在应用程序和游戏中整合NFT\n2.Circle已少量裁员并终止部分“非核心”业务\n3.美国CFTC首起指控DeFi平台未注册的案件宣判，Digitex创始人被判支付1600万美元\n4.美参议员将推出综合加密监管法案修订版，以扩大CFTC监管权力\n5.Binance Labs宣布向Web3游戏发行商Xterio投资1500万美元\n6.Coinbase通过与XMTP合作在其钱包中推出加密消息传递功能\n7.区块链协会要求美国SEC调查Prometheum\nPANews APP积分——PT（葡萄）正式上线，立即下载，一起参与Read to Earn🍇\nPANews Telegram社群，立即加入\nPANews Telegram频道，立即订阅",
           "link": "https://panewslab.com/zh/articledetails/mm4253sr.html",
           "publishedOn": "2023-07-13T01:52:43.000Z",
-          "wordCount": 436,
+          "wordCount": 438,
           "title": "昨夜今晨重要资讯（7月12日-7月13日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/07/13/images/89XX7xfJ4w.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 7月13日消息，据官方公告，Binance Labs 宣布向 Xterio 投资 1500 万美元，以扩展其在 AI 和 Web3 领域的游戏开发能力。据悉，Xterio 是一家 Web3 游戏平台和发行商，将免费游戏和链上游戏与目前正在开发的内部和第三方游戏联系起来。该公司计划利用这笔投资进一步推动游戏和技术开发，包括人工智能的整合以及代币的推出。Xterio 的创始执行团队在 FunPlus、Ubisoft、Krafton、Jam City、网易等科技、Web2 游戏和娱乐公司拥有丰富的经验，在创建和维护 PC 上的高收入免费社交游戏方面提供了丰富的专业知识。",
           "link": "https://panewslab.com/zh/articledetails/0ulboe6b.html",
           "publishedOn": "2023-07-13T01:45:40.000Z",
-          "wordCount": 428,
+          "wordCount": 430,
           "title": "Binance Labs宣布向Web3游戏发行商Xterio投资1500万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 7月13日消息，据Crypto.news报道，区块链协会对美国 SEC 监察长提交了一封信，要求对批准 Prometheum 作为首个特殊目的经纪交易商的潜在不当行为展开调查。在信中，区块链协会强调了对 Prometheum 获得 SPBD 许可证的怀疑，因为美国证券法对加密货币公司的适用仍存在不确定性。此外，区块链协会还对 Prometheum 首席执行官 Aaron Kaplan 如何获得 6 月份在美国众议院金融服务委员会作证的席位表示怀疑。\n此前消息，美国共和党议员要求司法部和SEC调查Prometheum。",
           "link": "https://panewslab.com/zh/articledetails/jjum9vym.html",
           "publishedOn": "2023-07-13T01:40:13.000Z",
-          "wordCount": 420,
+          "wordCount": 423,
           "title": "区块链协会要求美国SEC调查Prometheum",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 7月13日消息，Kava Network在推特上宣布，Kava 14 主网现已上线。\n根据此前消息，新版本将成为连接Cosmos至以太坊dApp的内部跨链桥，届时原生Cosmos资产将解锁至KAVA EVM。",
           "link": "https://panewslab.com/zh/articledetails/5he1mxmr.html",
           "publishedOn": "2023-07-13T01:20:35.000Z",
-          "wordCount": 372,
+          "wordCount": 375,
           "title": "Kava 14主网已上线，新版本将成为连接Cosmos至以太坊dApp的内部跨链桥",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 7月13日消息，NFT 市场 Magic Eden 发推宣布重新上线 BRC20 交易市场，一个月内新上架物品交易费率降低至 0.1%，并改进了页面 UI 和验证检查。",
           "link": "https://panewslab.com/zh/articledetails/fm9046ws.html",
           "publishedOn": "2023-07-13T01:14:01.000Z",
-          "wordCount": 393,
+          "wordCount": 396,
           "title": "Magic Eden宣布重新上线BRC20交易市场，改进了页面UI和验证检查",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 7月13日消息，Messari发布NEAR 2023年第二季度报告，报告显示，NEAR 在 2023 年第二季度的流通市值为 12.5 亿美元，环比下降 25%。NEAR 的收入（以花费的总 Gas 费衡量）为 9.8万美元。NEAR网络日均活跃账户数为5.8万个，较 2022 年第二季度增长 4 倍，新账户数量环比下降 19%。第二季度 NEAR 网络内的交易活动环比保持稳定。平均每日处理35.8笔交易，较上一季度下降9%，交易费用仍低于 0.01 美元。",
           "link": "https://panewslab.com/zh/articledetails/2lzhs5z6.html",
           "publishedOn": "2023-07-13T00:52:45.000Z",
-          "wordCount": 429,
+          "wordCount": 432,
           "title": "Messari：NEAR Q2流通市值环比下降25%，日活账户数同比增长4倍",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 7月13日消息，据 The Block 报道，美国参议员 Cynthia Lummis和 Kirsten Gillibrand 将推出一项修订版的综合加密货币监管法案，修订后的法案保留了他们在上届国会提出的加密立法的大部分广泛范围，但进行了更新，以反映行业的重大发展，例如 FTX 的崩溃。此外修订版法案还将扩大美国商品期货交易委员会（CFTC）对现货市场和中心化加密资产交易所的权力，并将赋予加密资产公司按照自己的条件定义其创建的资产的权力。\n这些公司发行的数字资产即使网络不是去中心化的，如果不涉及公司的债务、股权或其他经济利益，也可以被推定为商品，使该资产受到商品法的管辖，但仍将被要求每年两次向美国证券交易委员会（SEC）披露有关该资产的信息。",
           "link": "https://panewslab.com/zh/articledetails/3ul2596l.html",
           "publishedOn": "2023-07-13T00:26:59.000Z",
-          "wordCount": 365,
+          "wordCount": 368,
           "title": "美参议员将推出综合加密监管法案修订版，以扩大CFTC监管权力",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 7月13日消息，据Finbold报道，区块链基础设施初创公司 Artela 已筹集超过 600 万美元的种子轮融资，Shima Capital 领投，A&T Capital、Big Brain Holdings、SevenX Ventures、Dispersion Capital、Amino Capital 等参投。Artela 有一个扩展层，允许添加名为 Aspect 的用户定义的本机扩展，这增强了可编程性，同时确保与现有智能合约的兼容性。Artela 计划在今年晚些时候发布 Aspect 白皮书并启动初始测试网。",
           "link": "https://panewslab.com/zh/articledetails/k4j8h6ij.html",
           "publishedOn": "2023-07-13T00:12:04.000Z",
-          "wordCount": 419,
+          "wordCount": 422,
           "title": "区块链基础设施初创公司Artela完成600万美元种子轮融资，Shima Capital领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "PANews 7月13日消息，Chainalysis的数据显示，与加密货币相关的犯罪显著下降。其在最新发布的报告中指出，从今年年初到6月，流入非法实体的加密货币价值28亿美元，比去年同期下降了65%。该公司表示，尽管加密货币价格下跌导致交易量全面下降，但合法服务的下降幅度要小得多，资金流入同比仅下降了28%。另一方面，今年上半年勒索软件攻击者获得的加密货币支付达到4.491亿美元，比去年同期增加了1.758亿美元。",
           "link": "https://panewslab.com/zh/articledetails/8qccmgk5.html",
           "publishedOn": "2023-07-12T23:30:27.000Z",
-          "wordCount": 319,
+          "wordCount": 322,
           "title": "Chainalysis：今年上半年流入非法实体的加密货币同比下降65%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -355,7 +355,7 @@
           "description": "PANews 7月13日消息，据CoinDesk报道，Google Play今天宣布了一项重大政策转变，允许开发者将NFT等数字资产整合到应用程序和游戏中。允许购买、出售或赚取代币化资产的公司需在Play Console中披露其应用程序中存在基于区块链的元素。Reddit是与谷歌合作制定新政策的合作伙伴之一。Reddit的高级工程管理Matt Williamson表示，新的指导方针“旨在创造一个公平的竞争环境，促进用户信任，并负责任地使用区块链技术”。Google Play的一位发言人表示，首次测试将会在夏末进行，新政策将在今年晚些时候全面推出。",
           "link": "https://panewslab.com/zh/articledetails/ggeews57.html",
           "publishedOn": "2023-07-12T23:18:14.000Z",
-          "wordCount": 339,
+          "wordCount": 342,
           "title": "Google Play更新代币化数字资产政策，允许在应用程序和游戏中整合NFT",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -365,7 +365,7 @@
           "description": "PANews 7月13日消息，据CoinDesk报道，美国商品期货交易委员会(CFTC)在周三的一份声明中表示，联邦法院已命令加密交易所Digitex的创始人Adam Todd支付近1600万美元，以解决有关他运营非法平台并试图操纵其原生代币DGTX的指控。这是CFTC首起指控去中心化金融(DeFi)平台未注册为交易所的案件。佛罗里达州南区地方法院的一名法官发现，Todd在经营位于佛罗里达州的Digitex期货交易所时违反了几项大宗商品法律，并下令禁止他进行交易。Todd将面临1200万美元的罚款和大约400万美元的非法所得追缴，不过目前尚不清楚其是否有能力偿还客户。",
           "link": "https://panewslab.com/zh/articledetails/t670yes8.html",
           "publishedOn": "2023-07-12T22:19:30.000Z",
-          "wordCount": 324,
+          "wordCount": 327,
           "title": "美国CFTC首起指控DeFi平台未注册的案件宣判，Digitex创始人被判支付1600万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -375,7 +375,7 @@
           "description": "PANews 7月13日消息，稳定币发行商Circle周三表示，该公司已少量裁员，以保持“强劲的资产负债表”。Circle一位发言人表示：“为了保持我们强劲的资产负债表，Circle正在加倍关注核心业务活动和执行。因此，我们已经减少或终止了对非核心业务的投资，并减少了运营费用，其中包括少量裁员。与此同时，我们已经确定了新的投资领域，并将继续在全球重点领域招聘人才”。今年早些时候，Circle的首席财务官Jeremy Fox-Geen向《华尔街日报》表示，该公司计划将员工人数增加25%，以扩大规模。",
           "link": "https://panewslab.com/zh/articledetails/ydhuk7gc.html",
           "publishedOn": "2023-07-12T22:07:35.000Z",
-          "wordCount": 328,
+          "wordCount": 331,
           "title": "Circle已少量裁员并终止部分“非核心”业务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
