@@ -11,7 +11,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 113,
+          "wordCount": 125,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "作者 | Arthur Hayes\n编译 | GaryMa 吴说区块链\n注：本文是原文的翻译版本，在翻译过程中进行了部分内容的删减和概括。由于篇幅限制或其他原因，可能有些细节或信息未被完整翻译或被删除。我们建议读者在阅读本文时同时参考原文，以获取更全面的信息。\n上周，我约见了我最喜欢的 OG 波动率基金经理 David Dredge 和他的几位同事，一起喝了杯咖啡。谈话一开始就讨论了日本金融市场的表现如何。那里的平民和企业现金充裕，通胀飙升正把他们从低收益甚至零收益的银行存款中拉出来，进入股市和...",
           "link": "https://www.defidaonews.com/article/6822626",
           "publishedOn": "2023-06-17T01:41:10.000Z",
-          "wordCount": 667,
+          "wordCount": 675,
           "title": "Arthur Hayes 博文: 美国监管加剧，香港欢迎加密货币 这意味着什么？",
           "imageUrl": "https://appserversrc.8btc.cn/Fsk_yNE6ycehgf1n35KiN-cDE1gX.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "Web3领域目前最成功的CC0实验，Nouns及其生态的全面概览",
           "link": "https://www.defidaonews.com/article/6822618",
           "publishedOn": "2023-06-17T00:14:06.000Z",
-          "wordCount": 909,
+          "wordCount": 887,
           "title": "NounishDAO：DAO、治理与文化符号的扩散",
           "imageUrl": "https://appserversrc.8btc.cn/Fs816nUIeISE_oYjTiMhnYBxtP5G.png?imageView2/1/w/500/h/300"
         },
@@ -113,12 +113,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=79837",
+          "author": "Gao",
+          "description": "技术上，Sei 拥有一个内置的订单匹配引擎，亚秒级的结算速度，订单的并行化处理，单区块订单执行等。所有这些定制化的功能都是在基础层完成的。 Sei 通过 ABCI++ 实现了他们的一些优化，ABCI++ 是即将对 Cosmos 的 ABCI 进行的升级，使得共识的每个步骤都是可编程的。",
+          "link": "https://www.web3sj.com/news/79837/",
+          "publishedOn": "2023-07-13T04:12:49.000Z",
+          "wordCount": 1127,
+          "title": "ArkStream Capital 2023 Q2投资的6个项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689220997750.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79828",
+          "author": "Gao",
+          "description": "有了 ERC-6551，你的 PFP 就是元宇宙中的你，因为它将你的 PFP（或任何其他 NFT 资产）变成了一个钱包 / 身份。ERC-6551 之前，如果我想了解你，只能翻阅你的钱包。但现在我可以只看你的 PFP 就能了解你。",
+          "link": "https://www.web3sj.com/news/79828/",
+          "publishedOn": "2023-07-13T03:56:24.000Z",
+          "wordCount": 725,
+          "title": "ERC-6551创新应用场景探索",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689220527876.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79824",
+          "author": "Gao",
+          "description": "为了缩小问题范围，本文将采用已经部署在以太坊上的应用程序的框架，该应用程序希望在以太坊生态系统中进行扩展。因此，本文的重点将放在应用程序团队在决定是否启动自己的 Rollup 时面临的决策树、哪些类型的应用程序特别适合某类基础设施，以及我认为我们何时可能达到采用的临界点。",
+          "link": "https://www.web3sj.com/news/79824/",
+          "publishedOn": "2023-07-13T03:43:15.000Z",
+          "wordCount": 748,
+          "title": "Variant：模块化潮流下，应用程序要构建自己的链吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689219781663.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=79812",
+          "author": "Gao",
+          "description": "2021 年 8 月 5 日，加密分析平台 Messari 宣布完成 2100 万美元 A 轮融资，由 Point72 Ventures 领投，Coinbase Ventures、Uncork Capital、Underscore VC、Alameda Capital、Blockchain Ventures、CMS Holdings、Gemini Frontier Fund 等参投。",
+          "link": "https://www.web3sj.com/news/79812/",
+          "publishedOn": "2023-07-13T03:37:57.000Z",
+          "wordCount": 1147,
+          "title": "Arkham后，还有哪些数据工具没有发币呢？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689219459639.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=79799",
           "author": "Gao",
           "description": "星巴克自去年 12 月起至今共发行了 10 个系列的 NFT（邮票），其中有三款为付费购买，其余均可通过完成设定的任务获取邮票。NFT 的设计大多也与品牌文化息息相关，涵盖了第一家门店、咖啡豆的故事背景、标志上的海妖以及与艺术家的合作等方面。",
           "link": "https://www.web3sj.com/nftnews/79799/",
           "publishedOn": "2023-07-13T03:27:53.000Z",
-          "wordCount": 755,
+          "wordCount": 743,
           "title": "过去半年里，星巴克奥德赛计划具体做了什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689218860655.png"
         },
@@ -128,7 +168,7 @@
           "description": "信贷协议中的资产池中的基础有形资产（即借款人）代表了许多地区、行业、业务类型和成熟周期。例如，Goldfinch Senior Pool 代表了来自非洲、拉丁美洲和东南亚国家的链上贷款，涵盖了金融科技债务、消费者贷款和中小企业贷款。当投资者将资金分配到一个信贷协议中时，除了考虑资产池中的广泛风险类别外，他们还需要考虑 DeFi 和区块链相关的风险，如区块链停机风险、智能合约风险、治理风险和协议风险。",
           "link": "https://www.web3sj.com/definews/79793/",
           "publishedOn": "2023-07-13T03:21:52.000Z",
-          "wordCount": 801,
+          "wordCount": 797,
           "title": "了解AlloyX：面向RWA的流动性质押协议",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689218500317.png"
         },
@@ -138,7 +178,7 @@
           "description": "整体来看，订单簿交易所可以分为四种类型来理解，第一种拥有出色的交易速度和吞吐量等高性能，但高度中心化的 CEX，是目前市场上大部分人的交易选择，如 Binance/OKX。第二种为以太坊 L1 链上订单簿，例如 Gridex，实现了高度的去中心化。",
           "link": "https://www.web3sj.com/definews/79776/",
           "publishedOn": "2023-07-13T03:10:28.000Z",
-          "wordCount": 1551,
+          "wordCount": 1538,
           "title": "解析订单簿原生链先驱Injective",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689217811224.png"
         },
@@ -148,7 +188,7 @@
           "description": "你可能听说过 BitTorrent 协议，俗称 BT 下载，这是一种基于 P2P 的文件共享协议，主要用于分发大量的数据到 Internet 上的用户。它利用了某种形式的经济激励，例如，「种子」（上传完整文件的用户）可以得到更快的下载速度，但这个 2001 年推出的早期去中心化系统仍然缺乏完善的经济激励设计。",
           "link": "https://www.web3sj.com/definews/79760/",
           "publishedOn": "2023-07-13T02:58:20.000Z",
-          "wordCount": 1684,
+          "wordCount": 1668,
           "title": "DeFi经济模型全解：从Value Flow看四种激励模式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689217087898.png"
         },
@@ -158,7 +198,7 @@
           "description": "Sui 生态自托管钱包 Ethos 也基于 Move 语言与 Sui 区块链开发了一款 2048 类的数字益智游戏 Sui 8192，这是一款全链游戏，除了前端用户界面，所有逻辑与规则都基于智能合约代码而自动运行。比起 Dark Forest、Isaac、OPCraft 等大型全链游戏，Sui 8192 并未提出那么多的宏大构想与宏大叙事，这只是一个理想的小型实验，没有 MUD 引擎等复杂技术，没有专注于 Fi 的投机与炒作，但依靠极低的成本与游戏体验足以吸引大量活跃用户。",
           "link": "https://www.web3sj.com/gamefinews/79751/",
           "publishedOn": "2023-07-13T02:44:26.000Z",
-          "wordCount": 822,
+          "wordCount": 829,
           "title": "Web3的2048，Sui 8192能否打开全链游戏的大门？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689216247106.png"
         },
@@ -168,49 +208,9 @@
           "description": "回过头来看，当时我更多是从用户的角度分析，Web3毫无疑问增强了用户权益，为用户创造了新资产和新身份，满足了「主权个人」的「消费 + 资产 + 数字身份」三位一体需求。",
           "link": "https://www.web3sj.com/nftnews/79747/",
           "publishedOn": "2023-07-13T02:41:33.000Z",
-          "wordCount": 693,
+          "wordCount": 676,
           "title": "Web3 Brand大规模采用必须要回答的3个问题",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689216081666.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79738",
-          "author": "Gao",
-          "description": "比特币区块浏览器是一种工具，可让您查看比特币区块链的实时数据。它允许您浏览、搜索和验证交易信息、区块高度以及比特币地址的余额。您可以通过区块浏览器轻松追踪您的交易记录，确保您的比特币安全。此外，您还可以通过区块浏览器了解全网的交易活动、矿工奖励和其他有关比特币网络的重要信息。",
-          "link": "https://www.web3sj.com/news/79738/",
-          "publishedOn": "2023-07-13T02:29:17.000Z",
-          "wordCount": 696,
-          "title": "如何使用比特币区块浏览器和比特币API？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689215279843.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79705",
-          "author": "Gao",
-          "description": "Web3 社交图谱协议 Lens Protocol 将在巴黎 EthCC 大会发布 V2 版本。Aave 关于「在主网启动去中心化稳定币 GHO 」的提案开启投票。ETH质押数达2390万枚，占流通量约20%。",
-          "link": "https://www.web3sj.com/news/79705/",
-          "publishedOn": "2023-07-12T11:22:08.000Z",
-          "wordCount": 846,
-          "title": "Web3世界日报（2023-7.12）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023071211204855.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79692",
-          "author": "Gao",
-          "description": "PGN 是 Public Goods Network 的缩写，它由 Gitcoin 发起，面向公共物品资助的实验计划，并获得了 Protocol Guild, Public Nouns, Clr.fund, Giveth, Hypercerts, Protocol Labs, Octant, Eco, Hedgey 等团体的支持。作为 Gitcoin Grants 二次融资的升级版，PGN 的目标是通过试行一种资助机制为公共产品提供可持续的资金来源。",
-          "link": "https://www.web3sj.com/news/79692/",
-          "publishedOn": "2023-07-12T11:13:40.000Z",
-          "wordCount": 903,
-          "title": "公共物品捐赠新范式，Gitcoin如何靠PGN自给自足？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689160408545.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=79688",
-          "author": "Gao",
-          "description": "7 月 10 日，一家贷方通过去中心化借贷平台 Arcade 向一名以百达翡丽 (Patek Philippe) 手表为抵押品的个人提供了 3.5 万美元贷款，该手表由 4K 协议 (4K Protocol) 进行验证和托管。",
-          "link": "https://www.web3sj.com/nftnews/79688/",
-          "publishedOn": "2023-07-12T11:07:43.000Z",
-          "wordCount": 698,
-          "title": "百达翡丽手表作为抵押品获得贷款：NFT和DeFi的完美结合",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/fe396ee9364b293d7aea953ec5f4bf23.png"
         }
       ]
     },
@@ -387,12 +387,22 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202307/20926.html",
+          "author": null,
+          "description": "1.马斯克领导的团队宣布成立X.AI的人工智能公司。\n\n2.Google Play允许在应用商店和游戏中集成NFT。\n\n3.FTX索赔门户网站现已重新上线。\n\n4.日本游戏巨头世嘉称会继续投资区块链游戏领域。\n\n5.Dapper Labs裁员51人，称团队资金充足无需出售代币。\n\n6.UniSat Wallet已上线NFT市场，平台服务费的25%将返还给创作者。\n\n7.Binance Labs向区块链游戏发行商Xterio投资1500万美元。\n\n8.数据：BUSD总市值跌破40亿美元，自2023年初以来缩水逾76%。",
+          "link": "https://www.hellobtc.com/news/202307/20926.html",
+          "publishedOn": "2023-07-13T03:33:00.000Z",
+          "wordCount": 317,
+          "title": "白话区块链早报：马斯克领导的团队宣布成立X.AI的人工智能公司",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202307/20925.html",
           "author": null,
           "description": "7月12日消息，欧盟委员会通过了一项关于 Web 4.0 和元宇宙的新战略，以引导下一次技术转型，并确保为欧盟公民、企业和公共管理部门提供开放、安全、值得信赖、公平和包容的数字环境。其称，下一代Web 4.0将允许数字与真实物体和环境之间的集成，并增强人与人之间的交互和机器。将带来无缝互联、智能和沉浸式的世界。全球虚拟世界市场规模预计将从 2022 年的 270 亿欧元增长到 2030 年的 8000 亿欧元以上。\n上周，文件称，明年初，它将推广“监管沙箱”，以在更宽松的制度下测试短期项目。",
           "link": "https://www.hellobtc.com/news/202307/20925.html",
           "publishedOn": "2023-07-12T14:21:00.000Z",
-          "wordCount": 323,
+          "wordCount": 327,
           "title": "欧盟委员会提出Web 4.0和元宇宙战略，以引导下一次技术转型",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -474,16 +484,6 @@
           "publishedOn": "2023-07-11T12:46:00.000Z",
           "wordCount": 349,
           "title": "Web3基金会公布第18批Grant资助名单，36个项目入围",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20916.html",
-          "author": null,
-          "description": "7月11日消息，据官方消息，欧易OKX全球首席商务官Lennix今日转发“近期有人用虚假的USDT高风险授权进行钓鱼行为，骗取用户GAS”相关内容推文并表示，华语区Web3钱包安全事故频发，警惕各种钓鱼行为和虚假授权是确保钱包资产安全的重要方面，如果用户有误操作的行为，可以使用OKX Web3钱包授权管理功能，可以一键管理授权，定期清理风险 。\n据悉，OKX Web3钱包始终将用户安全放在首位，已上线天眼KYT系统 、授权管理、DApp交互识别问题合约、交易转账时自动识别诈骗盘，拦截风险购买、貔貅/钓鱼NFT自动隐匿等多方位安全保护功能，7X24小时为Web3钱包用户保驾护航。",
-          "link": "https://www.hellobtc.com/news/202307/20916.html",
-          "publishedOn": "2023-07-11T12:45:00.000Z",
-          "wordCount": 322,
-          "title": "欧易OKX全球首席商务官Lennix：如用户遇到风险授权，可使用OKX Web3钱包授权功能进行管理",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
