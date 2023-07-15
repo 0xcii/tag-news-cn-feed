@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T07:12:36.136Z</id>
+    <id>urn:2023-07-15T08:16:32.159Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-15T07:12:36.136Z</updated>
+    <updated>2023-07-15T08:16:32.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Venus Protocol发布V4版白皮书，引入隔离池以增加可扩展性]]></title>
+        <id>https://panewslab.com/zh/articledetails/egl0gth7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/egl0gth7.html"/>
+        <updated>2023-07-15T06:09:35.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月15日消息，BNB Chain 上借贷协议 Venus Protocol 宣布已发布 Venus V4 白皮书，新版本改进了风险管理、去中心化和用户体验。其中，在风险管理方面，Venus V4 引入了隔离池（Isolated Pools），旨在解决使用单一流动性池构建协议的缺点，为 BNB Chain 上最大的流动性协议增加可扩展性。Venus 将资产的风险与协议的核心池隔离；为资产引入了一个隔离的环境，这些资产的波动性远低于传统的加密货币资产，而不是波动性太大；通过引入新的资金池，每个资金池的风险管理和功能可以针对任何给定的资产类别或概况进行主题定制。通过引入新的池，每个池的风险管理和功能可以针对任何给定的资产类别或配置文件进行主题定制。引入在Venus注册的池，如DeFi、Liquid Staking Tokens、GameFi等，代表了新可能性的第一阶段，即链上资产的抵押化和“债务化”对数字资产的每个部分进行更精细的调整。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CZ公开信披露：币安于20218年投资Terra 300万美元，至今从未曾出售]]></title>
         <id>https://panewslab.com/zh/articledetails/jeb8iaf4.html</id>
