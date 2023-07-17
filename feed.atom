@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-17T11:11:57.659Z</id>
+    <id>urn:2023-07-17T12:31:38.882Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-17T11:11:57.659Z</updated>
+    <updated>2023-07-17T12:31:38.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[深入Synthetix：当前生态情况及V3展望]]></title>
+        <id>https://www.web3sj.com/?p=80496</id>
+        <link href="https://www.web3sj.com/definews/80496/"/>
+        <updated>2023-07-17T12:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Synthetix 于 2017 年由 Kain Warwick 和 Justin Moses 推出。该项目最初被称为 Havven，提供了一种由加密资产超额抵押的稳定币（nUSD）。自从那时起，该协议已经取得了长足的发展，现在在以太坊主网和 Optimism 上提供了资产的合成形式。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lens V2特色最全整理：从可组合社交网络、货币化到Profile V2]]></title>
+        <id>https://www.web3sj.com/?p=80489</id>
+        <link href="https://www.web3sj.com/news/80489/"/>
+        <updated>2023-07-17T12:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Lens 称，「V2 保留了独特的开放式设计空间，使开发人员和集成商可以选择随心所欲地使用 Lens 协议，并有机会在这个共享的社交网络中进行协作，不仅仅局限于评论、Mirror、收集等活动，还支持第三方行动，比如在 OpenSea、Sound.xyz 上铸造、购买 NFT 票等。」]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-7.17）]]></title>
+        <id>https://www.web3sj.com/?p=80486</id>
+        <link href="https://www.web3sj.com/news/80486/"/>
+        <updated>2023-07-17T11:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Web3社交图谱协议Lens Protocol发布V2版本，集成“Open Actions”和 ERC-6551。MakerDAO关于引入“智能销毁引擎”的执行投票获得通过，DSR也将降低0.30%至3.19%。zkSync Era宣布推出证明系统Boojum。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OP Stack生态项目空投策略]]></title>
+        <id>https://www.web3sj.com/?p=80481</id>
+        <link href="https://www.web3sj.com/project/80481/"/>
+        <updated>2023-07-17T11:33:19.000Z</updated>
+        <summary type="html"><![CDATA[文章重点介绍了五个正在 OP Stack 上建设的明星项目，包括 Base, opBNB, Zora Network, Public Goods Network 和 Worldcoin，它们都在探索各自独特的创新途径。无论你是希望了解每个项目的基本信息，还是对它们的空投策略感兴趣，这篇文章都会提供详尽的信息。此外，文中还包含了各种有用的资源，包括项目文档、GitHub 链接，甚至如何将这些项目添加到你的钱包等。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lens已重新开放候补名单]]></title>
         <id>https://panewslab.com/zh/articledetails/teaag2j6.html</id>
@@ -274,46 +314,6 @@
         <link href="https://www.web3sj.com/nftnews/80399/"/>
         <updated>2023-07-17T04:01:32.000Z</updated>
         <summary type="html"><![CDATA[近年来，NFT 市场迅速发展，吸引了众多创作者、收藏家、投资者和消费者的关注。Statista 预计，2023 年 NFT 在不同领域的总交易额预计将达到 160 亿美元，较 2022 年增长了约 33%。根据 Influencer Marketing Hub 的数据，2023 年 NFT 在艺术领域的总交易额预计将达到 4.5 亿美元，较 2022 年增长了约 25%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknet 的EVM兼容之路：一文读懂Kakarot zkEVM]]></title>
-        <id>https://www.web3sj.com/?p=80387</id>
-        <link href="https://www.web3sj.com/news/80387/"/>
-        <updated>2023-07-17T03:30:59.000Z</updated>
-        <summary type="html"><![CDATA[要讲清楚什么是虚拟机，必须先讲当今主流的冯诺依曼架构下的计算机执行流程。运行在计算机上的种种程序，通常是由高级语言经过层层转化，最终生成机器可理解的机器码完成执行的。根据转化为机器码的方式不同，高级语言可以大致分为编译型语言与解释型语言。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[subDAO：Web3项目扩张的最佳实践]]></title>
-        <id>https://www.web3sj.com/?p=80371</id>
-        <link href="https://www.web3sj.com/news/80371/"/>
-        <updated>2023-07-17T03:19:54.000Z</updated>
-        <summary type="html"><![CDATA[subDAO + 执行力或许是这个问题的答案，从 Pendle 的 Penpie 到 Radiant 的 Radpie，Magpie 正在以 subDAO 模式快速扩张，本 Thread 将以此为例为你剖析 subDAO 的最佳实践。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代币解锁周报｜币安Launchpad项目ARKM将于本周一次性解锁1.5亿枚，占总供应量 15%]]></title>
-        <id>https://www.web3sj.com/?p=80360</id>
-        <link href="https://www.web3sj.com/news/80360/"/>
-        <updated>2023-07-17T03:05:46.000Z</updated>
-        <summary type="html"><![CDATA[通常而言，代币解锁可分为线性解锁（Linear Unlocks）和一次性解锁（Cliff Unlocks）。一次性解锁是指代币处于锁定状态，直到一个特定事件或日期发生时，锁定的代币将会一次性全部释放。一般情况下项目方空投的代币就是「一次性解锁」的一部分。线性解锁是指代币在一段时间内以稳定、固定的速度每日进行释放。流动性激励通常包含在线性解锁中。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[速览20个有机会在下轮牛市冲击一线的潜力项目]]></title>
-        <id>https://www.web3sj.com/?p=80337</id>
-        <link href="https://www.web3sj.com/news/80337/"/>
-        <updated>2023-07-17T02:53:32.000Z</updated>
-        <summary type="html"><![CDATA[对此，Crypto 研究员 MooMs 和 Salazar.eth 总结了 20 个值得在熊市中埋伏、可能在下一轮牛市中冲击一线的「潜力股」，白泽研究院梳理并且略有修改。]]></summary>
         <author>
             <name>Gao</name>
         </author>
