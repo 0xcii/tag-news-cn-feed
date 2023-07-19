@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-19T11:10:42.611Z</id>
+    <id>urn:2023-07-19T12:26:11.094Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-19T11:10:42.611Z</updated>
+    <updated>2023-07-19T12:26:11.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-7.19）]]></title>
+        <id>https://www.web3sj.com/?p=80826</id>
+        <link href="https://www.web3sj.com/news/80826/"/>
+        <updated>2023-07-19T11:38:26.000Z</updated>
+        <summary type="html"><![CDATA[美国SEC将于本周启动比特币现货ETF审核，审查期或长达240天。MakerDAO智能销毁引擎已开启，平均每27分钟回购约5000美元MKR。Cosmos生态流动性质押协议Stride将转向ATOM支持的安全模型。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[探究能源货币：RWA的尽头是PoW]]></title>
         <id>https://www.web3sj.com/?p=80815</id>
@@ -101,16 +111,6 @@
         <link href="https://www.web3sj.com/news/80746/"/>
         <updated>2023-07-19T08:14:05.000Z</updated>
         <summary type="html"><![CDATA[这主要是跟 EIP-7002 草案相关的问题，据了解，Danny Ryan 等多名研究开发者联名发布了 EIP-7002 草案，旨在允许验证者从其执行层（0x01）取款凭证触发退出到信标链。由于验证者有两个密钥，即活跃密钥和取款凭证，但目前，只有活跃密钥才能启动验证者退出，这意味着在任何非标准的托管关系中，取款凭证的持有人不能独立选择退出并开始取款过程。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观点：如果有人能获批比特币ETF，那就是贝莱德]]></title>
-        <id>https://www.web3sj.com/?p=80743</id>
-        <link href="https://www.web3sj.com/news/80743/"/>
-        <updated>2023-07-19T08:11:10.000Z</updated>
-        <summary type="html"><![CDATA[Bitwise Asset Management 首席投资官 Matt Hougan 告诉 CoinDesk TV：「当贝莱德集团进入市场时，你必须‘倾听’。」与贝莱德集团一样，Bitwise 也重新提交了比特币现货 ETF 的申请。而经纪公司伯恩斯坦也在提到 SEC 对现货比特币（BTC）ETF 的立场是很难坚持的，并且批准的概率相当高。]]></summary>
         <author>
             <name>Gao</name>
         </author>
