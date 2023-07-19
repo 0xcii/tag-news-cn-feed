@@ -11,7 +11,7 @@
           "description": "要论商业敏感度，我只服淘宝店家",
           "link": "https://www.defidaonews.com/article/6826416",
           "publishedOn": "2023-07-17T09:16:51.000Z",
-          "wordCount": 136,
+          "wordCount": 134,
           "title": "开眼界了，AI绘画商业化最强玩家是“淘宝商家”",
           "imageUrl": "https://appserversrc.8btc.cn/FhF4d_K7j6cvA35KWE0GkVLEavkO.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 127,
+          "wordCount": 123,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         }
@@ -33,12 +33,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=80746",
+          "author": "Gao",
+          "description": "这主要是跟 EIP-7002 草案相关的问题，据了解，Danny Ryan 等多名研究开发者联名发布了 EIP-7002 草案，旨在允许验证者从其执行层（0x01）取款凭证触发退出到信标链。由于验证者有两个密钥，即活跃密钥和取款凭证，但目前，只有活跃密钥才能启动验证者退出，这意味着在任何非标准的托管关系中，取款凭证的持有人不能独立选择退出并开始取款过程。",
+          "link": "https://www.web3sj.com/news/80746/",
+          "publishedOn": "2023-07-19T08:14:05.000Z",
+          "wordCount": 866,
+          "title": "以太坊基金会第10次AMA要点：验证者集、随机数、DVT、技术方向",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689754435706.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=80743",
+          "author": "Gao",
+          "description": "Bitwise Asset Management 首席投资官 Matt Hougan 告诉 CoinDesk TV：「当贝莱德集团进入市场时，你必须‘倾听’。」与贝莱德集团一样，Bitwise 也重新提交了比特币现货 ETF 的申请。而经纪公司伯恩斯坦也在提到 SEC 对现货比特币（BTC）ETF 的立场是很难坚持的，并且批准的概率相当高。",
+          "link": "https://www.web3sj.com/news/80743/",
+          "publishedOn": "2023-07-19T08:11:10.000Z",
+          "wordCount": 892,
+          "title": "观点：如果有人能获批比特币ETF，那就是贝莱德",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689754253996.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=80740",
+          "author": "Gao",
+          "description": "今年以来，Vitalik 频繁发声，表达对账户抽象的智能合约钱包的支持，比如在 6 月的推特 AMA 上，在回答如何看待基于 MPC（EOA）的钱包与智能合约钱包这一问题时，他认为基于 MPC 的 EOA 钱包存在根本缺陷，因为它们无法撤销密钥，智能合约钱包是唯一的选择。",
+          "link": "https://www.web3sj.com/news/80740/",
+          "publishedOn": "2023-07-19T08:04:15.000Z",
+          "wordCount": 725,
+          "title": "Vitalik EthCC演讲总结：账户抽象让加密钱包像电子邮件一样简单",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/5-1689728221921.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=80701",
           "author": "Gao",
           "description": "UniswapX 立志于在未来几个月内开创一种新的交易体验：它将聚合流动性来源以提升交易价值，有效防止 MEV，提供无 Gas 交易，让失败的交易无需承担成本，并进一步扩展以支持跨链无 Gas 交易，让用户的交易体验更优，更高效。",
           "link": "https://www.web3sj.com/definews/80701/",
           "publishedOn": "2023-07-18T15:56:58.000Z",
-          "wordCount": 887,
+          "wordCount": 875,
           "title": "褒贬相半，Uniswap究竟是不是「币圈腾讯」？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689695805380.png"
         },
@@ -48,7 +78,7 @@
           "description": "首先，Pendle 将生息类代币，如 cDAI，stETH 等，封装成 SY（标准化收益代币），例如 stETH 经过封装后→ 变成 SY-stETH。然后，SY 再被拆分为本金和收益两个组成部分，分别是 PT（本金代币）和 YT（收益代币）。这个过程被称为收益代币化，即将收益拆分为独立的代币。",
           "link": "https://www.web3sj.com/definews/80682/",
           "publishedOn": "2023-07-18T15:53:16.000Z",
-          "wordCount": 1264,
+          "wordCount": 1234,
           "title": "深入解读Pendle：LSDFi赛道的「收益飞轮」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689695584489.png"
         },
@@ -58,7 +88,7 @@
           "description": "海外各地区具有不同的法规和营商环境，良好的加密业务架构有利于商业活动、资金高效运转，增加整体业务的确定性，护航商业活动稳定开展。可根据加密业务特点合理安排人员、资产、商业活动的分布，制定合理高效的业务流、资金流、价值流。",
           "link": "https://www.web3sj.com/news/80678/",
           "publishedOn": "2023-07-18T15:45:22.000Z",
-          "wordCount": 707,
+          "wordCount": 693,
           "title": "以挖矿业务为例，谈海外业务和股权架构设计",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689695107833.png"
         },
@@ -68,7 +98,7 @@
           "description": "2023 年 3 月，基于 SNARK 的 zkSync Era 出世，利用了经过实战检验的电路框架，该框架已经在主网上为 zkSync Lite 提供了近三年的支持。然而，我们知道这不会是 zkSync Era 证明系统的最终版本，因此设计了这个系统，使我们能够在不进行重新生成的情况下对其进行根本性的更改。这意味着我们可以在不干扰开发者和用户的情况下部署重大的密码学升级。",
           "link": "https://www.web3sj.com/news/80674/",
           "publishedOn": "2023-07-18T15:41:09.000Z",
-          "wordCount": 887,
+          "wordCount": 879,
           "title": "zkSync Boojum升级详解：更安全更高效的zkEVM",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689694852666.png"
         },
@@ -78,7 +108,7 @@
           "description": "Coingecko Q2报告：前十大CEX现货交易量总计1.42万亿美元，较Q1下降43.2%，DEX下降30.8%。多链借贷协议Radiant Capital推出DEV UPDATES。Valkyrie现货比特币ETF申请已获SEC确认，选择的交易代码为“BRRR”。",
           "link": "https://www.web3sj.com/news/80660/",
           "publishedOn": "2023-07-18T11:54:41.000Z",
-          "wordCount": 876,
+          "wordCount": 836,
           "title": "Web3世界日报（2023-7.18）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023071811542278.jpg"
         },
@@ -88,7 +118,7 @@
           "description": "众议员 David Scott 表示，「它提出了一个繁琐的框架，其固有的结构性问题将削弱我们联邦金融监管机构正确监管和监督一个已经充满不稳定性和欺诈的行业的能力」。",
           "link": "https://www.web3sj.com/news/80637/",
           "publishedOn": "2023-07-18T09:01:52.000Z",
-          "wordCount": 713,
+          "wordCount": 693,
           "title": "美国稳定币法案推迟一周，会成为Crypto监管的转折点吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/85b35c893e3d9efc1fec2118f0ef8615.png"
         },
@@ -98,39 +128,9 @@
           "description": "编程语言只是一种与计算机进行友好、安全、高效和明确的交互工具，对于计算机来说，这一点尤为重要。我们不能用自然语言与计算机交流，因为自然语言的整个意义是具有丰富性和表达能力的。当你用稍微不同的语气或选择细微不同的方式来表达词汇时，你的句子或段落意思就会完全不同。",
           "link": "https://www.web3sj.com/news/80634/",
           "publishedOn": "2023-07-18T08:54:43.000Z",
-          "wordCount": 871,
+          "wordCount": 870,
           "title": "专访Move语言之父：带你领略Sui Move的不同风采",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689670471140.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=80629",
-          "author": "Gao",
-          "description": "Uniswap Labs 宣布推出一种无需许可、开源（GPL）、基于荷兰式拍卖的协议，用于跨 AMM 和其他流动性来源进行交易。Paradigm 合伙人 Dan Robinson 发推表示看好 UniswapX 和 Uniswap v4 改变去中心化交易所的潜力。",
-          "link": "https://www.web3sj.com/definews/80629/",
-          "publishedOn": "2023-07-18T08:29:18.000Z",
-          "wordCount": 715,
-          "title": "Paradigm合伙人：UniswapX将改变DEX、MEV和互操作性游戏规则",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689668946940.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=80625",
-          "author": "Gao",
-          "description": "现在普遍的观点是，新的计算平台都始于一个离散的基础设施阶段，然后再形成一套应用程序生态系统。然而，在现实中，新的计算平台通常是从杀手级应用程序开始的，这些应用程序再反过来告诉我们需要构建的基础设施类型，然后启动「应用程序  基础设施的周期」。",
-          "link": "https://www.web3sj.com/news/80625/",
-          "publishedOn": "2023-07-18T08:24:14.000Z",
-          "wordCount": 699,
-          "title": "Web3基础设施阶段的神话",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689668630748.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=80602",
-          "author": "Gao",
-          "description": "在 DeFi 领域中，Convex 是一个构建在 Curve.fi 之上的服务。在 NFT 领域中，Delegate.cash 作为一种增强安全性和提供替代收入 / 收益的方式，正逐渐得到认可。就连 Notion 也有大量人在销售其模板和课程。",
-          "link": "https://www.web3sj.com/news/80602/",
-          "publishedOn": "2023-07-18T05:18:02.000Z",
-          "wordCount": 1020,
-          "title": "社区即服务：新生加密世界玩家对战玩家合乎逻辑的下一步",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689657467921.png"
         }
       ]
     },
@@ -145,7 +145,7 @@
           "description": "PANews 7月18日消息，由Launch Factor和PANews共同发起的Web3合规解决方案KNOW YOUR RISK（KYR）于今日开启内测，并计划于7月31日全网上线。\nKnow Your Risk是一款简易且从多维度观察项目的风险自查工具，可从不同维度协助项目方或企业高管了解项目在当前发展阶段可能面对的风险。随着全球监管的加强，合规需求无法再被忽视，该项目的功能包括：发现风险点、分析风险点、解决方案、执行与复盘。\nKNOW YOUR RISK产品链接：https://kyr.panewslab.com/\nLaunch Factor团队来自头部交易所、四大会计师事务所和加密项目方，能为数字资产和金融领域的客户提供全面的定制解决方案。PANews是区块链和Web3.0领域领先的信息平台，为行业创业者、创新者提供国际视野的前沿资讯与研报。",
           "link": "https://panewslab.com/zh/articledetails/q2x11zjk.html",
           "publishedOn": "2023-07-18T09:13:52.000Z",
-          "wordCount": 402,
+          "wordCount": 396,
           "title": "Web3合规解决方案KNOW YOUR RISK于7月18日开启内测",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -156,6 +156,66 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202307/20943.html",
+          "author": null,
+          "description": "美国国会议员Rep. Ritchie Torres发推称，“法官Analisa Torres在Ripple案件中的判决确立了我所说的“Torres Doctrine”，拒绝了SEC主席Gary Genler对加密货币不分青红皂白的攻击。数字资产本身不是证券，但可以是投资合同的一部分，投资合同是证券。”",
+          "link": "https://www.hellobtc.com/news/202307/20943.html",
+          "publishedOn": "2023-07-19T06:11:00.000Z",
+          "wordCount": 316,
+          "title": "美议员：数字资产可以是投资合同的一部分，投资合同是证券",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20942.html",
+          "author": null,
+          "description": "Watcher.Guru发推称，美国总统候选人Robert F. Kennedy Jr.表示，他将免除BTC兑换美元的资本利得税。",
+          "link": "https://www.hellobtc.com/news/202307/20942.html",
+          "publishedOn": "2023-07-19T06:11:00.000Z",
+          "wordCount": 311,
+          "title": "美总统候选人Kennedy：将免除BTC兑换美元的资本利得税",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20941.html",
+          "author": null,
+          "description": "知情人士透露香港金管局已两度开会召见100名金融界高层，花旗银行、新加坡星展集团和中国建设银行的代表均有出席。金管局发言人回应指，银行不应仅仅因为公司经营的行业而拒绝开户，并指银行应尽力满足持牌公司的合法业务需求在更广泛的虚拟资产领域；声明还表示，香港的反洗黑钱制度与国际标准一致。此前《星岛日报》报道，至少有2家在港发展的跨国银行，拒绝任何与加密货币交易直接相关活动，亦有多家银行拒绝开设资金账户，意味「加密货币仍令港银感到紧张」。（雅虎新闻）",
+          "link": "https://www.hellobtc.com/news/202307/20941.html",
+          "publishedOn": "2023-07-19T06:11:00.000Z",
+          "wordCount": 307,
+          "title": "香港金管局二度召见金融界高管，强调应满足虚拟资产公司合法业务",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20940.html",
+          "author": null,
+          "description": "美国证券交易委员会(SEC)将于本周决定是否批准或拒绝六项现货比特币交易所交易基金(ETF)上市申请，申请者包括贝莱德、Bitwise、Fidelity、WisdomTree、VanEck、Invesco Galaxy。 媒体此前报道，美国现货比特币ETF审查流程在联邦登记册上公布后正式开始，该期限最初被设定为45天，但可以延长至长达240天。",
+          "link": "https://www.hellobtc.com/news/202307/20940.html",
+          "publishedOn": "2023-07-19T06:11:00.000Z",
+          "wordCount": 312,
+          "title": "美SEC将于本周决定是否批准贝莱德等六项现货比特币ETF上市申请",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20939.html",
+          "author": null,
+          "description": "7月18日消息，由Launch Factor和PANews共同发起的Web3合规解决方案KNOW YOUR RISK（KYR）于今日开启内测，并计划于7月31日全网上线。\nKnow Your Risk是一款简易且从多维度观察项目的风险自查工具，可从不同维度协助项目方或企业高管了解项目在当前发展阶段可能面对的风险。随着全球监管的加强，合规需求无法再被忽视，该项目的功能包括：发现风险点、分析风险点、解决方案、执行与复盘。\nKNOW YOUR RISK产品链接：https://kyr.panewslab.com/\nLaunch Factor团队来自头部交易所、四大会计师事务所和加密项目方，能为数字资产和金融领域的客户提供全面的定制解决方案。PANews是区块链和Web3.0领域领先的信息平台，为行业创业者、创新者提供国际视野的前沿资讯与研报。",
+          "link": "https://www.hellobtc.com/news/202307/20939.html",
+          "publishedOn": "2023-07-19T06:11:00.000Z",
+          "wordCount": 329,
+          "title": "Web3合规解决方案KNOW YOUR RISK于7月18日开启内测",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202307/20938.html",
+          "author": null,
+          "description": "7月19日消息，区块链Cronos宣布与视频游戏创作者和发行商Ubisoft建立新的合作伙伴关系。育碧通过作为节点验证者加入Cronos生态系统，育碧通过其战略创新实验室继续探索区块链技术，育碧正在加入开源 Cronos 区块链上由其他 27 个节点运营商组成的池，为网络的稳定性和安全性做出贡献。每个节点平均每五到六秒生成或确认新块，从而有助于网络上交易的去中心化验证。",
+          "link": "https://www.hellobtc.com/news/202307/20938.html",
+          "publishedOn": "2023-07-19T06:11:00.000Z",
+          "wordCount": 310,
+          "title": "Cronos与育碧建立合作伙伴关系，育碧成为Cronos节点验证者",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202307/20937.html",
           "author": null,
@@ -194,66 +254,6 @@
           "publishedOn": "2023-07-18T03:17:00.000Z",
           "wordCount": 345,
           "title": "白话区块链早报：Uniswap 推出跨 AMM 协议 UniswapX",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20933.html",
-          "author": null,
-          "description": "据香港财库局局长许正宇接受中国基金报采访透露，香港金管局正在拟订关于稳定币的规管框架，并计划于今年内进行第二轮公众咨询。我们期望在2023/2024年度落实监管安排。此外，许正宇还表示香港金融科技生态相关企业数目已超过800家，业务涵盖移动支付、跨境理财、虚拟资产、人工智能金融服务顾问、财富及投资管理、合规科技等，当中包括8家虚拟银行、4家虚拟保险公司和两家持牌虚拟资产交易平台。 证券市场方面，今年三月香港推出了广受市场支持的特专科技公司上市机制，为国内外从事云端服务、人工智能等特专科技公司，带来新的便利的融资渠道，同时助力国家的核心科技研发。",
-          "link": "https://www.hellobtc.com/news/202307/20933.html",
-          "publishedOn": "2023-07-18T02:27:00.000Z",
-          "wordCount": 302,
-          "title": "许正宇：香港金管局拟年内进行“稳定币”第二轮公众咨询",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20932.html",
-          "author": null,
-          "description": "美国证券交易委员会主席Gary Gensler表示，美国联邦法官上周对一个备受瞩目的执法案件做出决定后，美国SEC是否会起草更多针对加密货币的规则，现在还为时过早。美国SEC在其任期内已经提出了适用于数字资产的规则修改建议。关于证券交易所、经纪人和投资顾问的含义，书本上都有规定。我们还提出甚至通过了有关经纪商的规则，在这个领域被称为特殊目的经纪商，我们提出了有关资产保护的规则，所以我们已经做了一些，但我们会继续考虑。 此外，Gensler表示，加密领域实际上相当中心化，去中心化项目有时会有个人拥有首席执行官或首席技术官的头衔，而资产通常由不到100人持有，金融趋向于某种程度的集中化。 Gensler拒绝直接就Ripple案发表评论，理由是“诉讼仍在进行中”。",
-          "link": "https://www.hellobtc.com/news/202307/20932.html",
-          "publishedOn": "2023-07-18T02:27:00.000Z",
-          "wordCount": 303,
-          "title": "美SEC主席：加密领域实际上相当中心化",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20931.html",
-          "author": null,
-          "description": "7月18日消息，DefiLlama创始人0xngmi发推提醒MetaMask用户，禁用元掩码上的批量请求功能（batch account balance requests），该功能默认启用，并且会将所有地址泄露给在使用的任何RPC，从而将用户的所有地址关联起来。如要禁用，请转到设置＞安全与隐私＞批量帐户余额请求。",
-          "link": "https://www.hellobtc.com/news/202307/20931.html",
-          "publishedOn": "2023-07-18T02:26:00.000Z",
-          "wordCount": 304,
-          "title": "DefiLlama创始人：MetaMask用户可禁用“账户余额批量请求”功能，以防所有地址泄露",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20930.html",
-          "author": null,
-          "description": "7月18日消息，据官方消息，Chainlink跨链互操作协议(CCIP)已正式上线Avalanche、以太坊、Optimism和Polygon主网。CCIP目前处于“主网早期访问”阶段，已被Synthetix和Aave采用。7月20日，CCIP将在Arbitrum Goerli、Avalanche Fuji、Ethereum Sepolia、Optimism Goerli和Polygon Mumbai等五个测试网对所有开发人员开放。",
-          "link": "https://www.hellobtc.com/news/202307/20930.html",
-          "publishedOn": "2023-07-18T02:25:00.000Z",
-          "wordCount": 307,
-          "title": "Chainlink跨链互操作协议正式上线多个主网",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20929.html",
-          "author": null,
-          "description": "1.zkSync：将在未来几天和几周内重新启动LIBERTAS OMNIBUS NFT的发行。\n\n2.灰度GBTC日交易量在7月13日突破1.83亿美元，创今年最高，GBTC 负溢价率持续收窄至 27.39%。\n\n3.UniSat宣布推出Ordinals原生Swap平台brc20-swap。\n\n4.MakerDAO创始人5小时前将62万枚DAI兑换成MKR。\n\n5.Elon Musk：xAI将与微软、谷歌、OpenAI竞争;将使用公共数据进行AI模型训练。\n\n6.数据：Threads周活用户已达推特的20%，印度占全球下载量33%。\n\n7.以太坊铭文协议 Ethscriptions 遭遇攻击，约 123 个地址损失约 202 枚 Ethscriptions。\n\n8.Celo开发组织cLabs提议将Celo转变为基于OP Stack的以太坊L2。",
-          "link": "https://www.hellobtc.com/news/202307/20929.html",
-          "publishedOn": "2023-07-17T02:14:00.000Z",
-          "wordCount": 329,
-          "title": "白话区块链早报：zkSync将在未来几天和几周内重启 NFT 发行",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202307/20928.html",
-          "author": null,
-          "description": "1.贝莱德CEO：加密货币具有独特的价值，将超越任何一种货币。\n\n2.Synthetix宣布推出去中心化永续合约交易平台Infinex。\n\n3.Aave即将在以太坊主网启动去中心化稳定币GHO。\n\n4.Polkadot创始人提出Polkadot 2.0计划。\n\n5.Dune推出NFT系列Dune Airdump，或嘲讽发空投行为。\n\n6.美SEC确认收到贝莱德、景顺、富达等多个比特币ETF申请。\n\n7.Lido质押代币总价值突破150亿美元。\n\n8.opBNB最新进展：已与Truffle、Foundry、Hardhat、Remix开发者平台集成。\n\n9.第113次以太坊核心开发者共识会议：Dencun后以太坊下一个CL升级将以E开头命名。\n\n10.Messari：第二季度Filecoin活跃交易量环比增长64%。\n\n11.报告：加密货币和区块链行业Q2投资额为23.2亿美元，是2020年Q4以来新低。\n\n12.Coinbase将暂停加利福尼亚州、新泽西州、南卡罗来纳州和威斯康星州的加密质押服务。\n\n13.美SEC：批准上市并不是Coinbase的“护身符”。\n\n14.Multichain：团队资金与服务器均在 CEO Zhaojun 控制之下，团队被迫停止运营。\n\n15.华尔街日报：币安裁员超过1000名员工。\n\n16.CZ：此前媒体报道裁员人数与实际相去甚远。",
-          "link": "https://www.hellobtc.com/news/202307/20928.html",
-          "publishedOn": "2023-07-15T03:27:00.000Z",
-          "wordCount": 325,
-          "title": "白话区块链早报：贝莱德CEO认为加密货币具有独特的价值，将超越任何一种货币",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
