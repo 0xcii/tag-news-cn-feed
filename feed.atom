@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T02:31:23.443Z</id>
+    <id>urn:2023-07-20T03:13:17.417Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-20T02:31:23.443Z</updated>
+    <updated>2023-07-20T03:13:17.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LDO、RPL代币供需关系对比]]></title>
+        <id>https://www.web3sj.com/?p=80885</id>
+        <link href="https://www.web3sj.com/definews/80885/"/>
+        <updated>2023-07-20T03:08:58.000Z</updated>
+        <summary type="html"><![CDATA[LDO 发行总量 10 亿，目前流通量 8.79 亿；代币分配中，40.2% 归属团队与验证者、34.6% 归属投资人、25.2% 归属国库（目前的数据统计，来自 Tokenunlocks，并非初始代币分配）；LDO 下次代币大额解锁将发生在 2023 年 8 月 26 日，解锁份额：850 万枚 LDO，代币所属：Dragonfly，代币成本：2.43 美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让OpenSea官推都为之改名的Opepen，到底有什么魔力？]]></title>
+        <id>https://www.web3sj.com/?p=80862</id>
+        <link href="https://www.web3sj.com/nftnews/80862/"/>
+        <updated>2023-07-20T03:04:45.000Z</updated>
+        <summary type="html"><![CDATA[7 月 12 日，Opepen 的最大持有者（持有 725 个 Opepen）@BoredOpepen 向 NFT KOL @notthreadguy 发出了一份「Offer」——用其持有的一个 Opepen 001 系列交换 @notthreadguy 用作推特头像的 MAYC。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊编程语言Solidity发布0.8.21版本]]></title>
         <id>https://panewslab.com/zh/articledetails/qb2yapjr.html</id>
@@ -264,26 +284,6 @@ Rathi在听证会上表示：“在过去的18个月或两年里，我们拒绝�
         <link href="https://www.web3sj.com/news/80761/"/>
         <updated>2023-07-19T08:27:36.000Z</updated>
         <summary type="html"><![CDATA[它描述的是中国以太坊 Conflux。我将在本文中详细介绍这个项目，但首先，让我们更广泛地讨论一下中国概念币的故事。为了让你大致了解我正在谈论的代币，请先看看@doomsdart 今年早些时候在 Twitter 上发布的内容：「这是中国概念币叙事的代币清单。有些是中国团队的项目，有些并不是，只是中国的朋友们似乎很喜欢」。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[崩溃的RPC：内存安全区块链RPC节点新型漏洞解析]]></title>
-        <id>https://www.web3sj.com/?p=80749</id>
-        <link href="https://www.web3sj.com/news/80749/"/>
-        <updated>2023-07-19T08:18:33.000Z</updated>
-        <summary type="html"><![CDATA[采用内存安全语言（如 Rust）有助于 RPC 节点避免许多基于内存破坏漏洞的攻击。然而，通过最近的审计，我们发现即使是内存安全的 Rust 实现，如果没有经过精心设计和审查，也很容易受到某些安全威胁的影响，从而破坏 RPC 服务的可用性。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊基金会第10次AMA要点：验证者集、随机数、DVT、技术方向]]></title>
-        <id>https://www.web3sj.com/?p=80746</id>
-        <link href="https://www.web3sj.com/news/80746/"/>
-        <updated>2023-07-19T08:14:05.000Z</updated>
-        <summary type="html"><![CDATA[这主要是跟 EIP-7002 草案相关的问题，据了解，Danny Ryan 等多名研究开发者联名发布了 EIP-7002 草案，旨在允许验证者从其执行层（0x01）取款凭证触发退出到信标链。由于验证者有两个密钥，即活跃密钥和取款凭证，但目前，只有活跃密钥才能启动验证者退出，这意味着在任何非标准的托管关系中，取款凭证的持有人不能独立选择退出并开始取款过程。]]></summary>
         <author>
             <name>Gao</name>
         </author>
