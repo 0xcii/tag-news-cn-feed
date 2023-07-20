@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T04:15:20.679Z</id>
+    <id>urn:2023-07-20T05:12:28.911Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-20T04:15:20.679Z</updated>
+    <updated>2023-07-20T05:12:28.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pendle Earn是一个怎样的产品？]]></title>
+        <id>https://www.web3sj.com/?p=80947</id>
+        <link href="https://www.web3sj.com/definews/80947/"/>
+        <updated>2023-07-20T04:26:44.000Z</updated>
+        <summary type="html"><![CDATA[在 Pendle 此次的更新中，Pendle Earn 解决的主要是其准入门槛的问题。之前 Pendle 其实已经在用户门槛上做了调整，设置了简单模式和专业模式，通过区分 UI/UX 来满足不同用户的需求。这次的更新更进一步，将这两种模式改为了「Earn」和「Trade」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链的新视角：数据库、共识、Rollup与桥]]></title>
+        <id>https://www.web3sj.com/?p=80923</id>
+        <link href="https://www.web3sj.com/knowledge/80923/"/>
+        <updated>2023-07-20T04:22:56.000Z</updated>
+        <summary type="html"><![CDATA[本文分两部分，第一篇为《区块链作为数据库》（Blockchain as a Database），第二篇是《数据库跨链》（Bridging Databases）。Patrick 用第一性原理，将区块链抽象成共识协议 + 数据库的形式，并以此为基础，解释了 Layer1、Layer2 和跨链桥的工作原理，以及 Layer1 和 Layer2 的区别等。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ripple「救火」加密市场]]></title>
         <id>https://www.web3sj.com/?p=80920</id>
@@ -23,6 +43,17 @@
         <summary type="html"><![CDATA[ERC-4337 最近才在主网上线，因此围绕它的基础设施场景才刚刚开始蓬勃发展。像 Stackup这样的一些团队已经做得很好，让开发者更容易尽早开始使用 ERC-4337 进行开发，像 MetaMask 这样的巨头正在这方面进行探索，因此预计在未来几个月内，该标准将得到更多关注，甚至更多项目开始投入。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT铸造聚合器mint.fun已支持铸造Zora和Optimism网络NFT]]></title>
+        <id>https://panewslab.com/zh/articledetails/g1tioyo0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/g1tioyo0.html"/>
+        <updated>2023-07-20T03:59:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月20日消息，Web3钱包追踪工具Context推出的NFT铸造聚合器mint.fun发推表示，已支持用户在Zora Network和Optimism网络上铸造NFT。此外，mint.fun在Optimism主网上推出可免费铸造的NFT，用户在PT时间7月21日9:00之前可以铸造。
+此前消息，Web3钱包追踪应用Context推出NFT铸造聚合器mint.fun。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +77,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bankless报告：以太坊网络Q2收入下降33.3%，日活地址减少6%]]></title>
+        <id>https://panewslab.com/zh/articledetails/r9d6dh66.html</id>
+        <link href="https://panewslab.com/zh/articledetails/r9d6dh66.html"/>
+        <updated>2023-07-20T03:45:38.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月20日消息，根据Bankless发布的以太坊2023年第二季度报告显示，以太坊网络收入下降33.3%，从12.7亿美元降至8.47亿美元。销毁 ETH 的美元价值从10.9亿美元下降35%至7.13亿美元。平均每日活跃地址减少6%，从471,447个减少至444,419个。ETH 通胀率平均下降213% ，从 0.71% 降至 -0.8%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[和Coinbase、Lens合作的社交协议XMTP，究竟是何方神圣？]]></title>
         <id>https://www.web3sj.com/?p=80898</id>
         <link href="https://www.web3sj.com/news/80898/"/>
@@ -53,6 +94,17 @@
         <summary type="html"><![CDATA[在如今的 Web3 社交赛道，众多社交项目高举高打，以去中心化作为项目核心亮点，对标 Twitter ，可是大多数项目都是雷声大雨点小。而 XMTP 似乎正走出一条独特的道路：从存在真正需求的加密原生场景上探索，例如 NFT 市场、钱包、DeFi 等。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美参议员提出一项以加密货币为重点的修正案，要求财政部和SEC等建立反洗钱流程]]></title>
+        <id>https://panewslab.com/zh/articledetails/8n41gae8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8n41gae8.html"/>
+        <updated>2023-07-20T03:20:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月20日消息，ConsenSys高级法律顾问兼全球监管事务总监 Bill Hughes 发推表示，美国参议员 Warren、Marshall、Lummis 和 Gillibrand 刚刚提出了一项以加密货币为重点的修正案，要求美国财政部、SEC、CFTC 和 FinCEN（以及其他机构）在未来两年内建立一个流程，检查货币服务业务、经纪交易商、期货佣金商和其他受监管实体，以确保其反洗钱计划足够强大，可以解决加密资产活动带来的风险，包括报告义务。
+此外，还要求美国财政部在颁布后 120 天内发布关于稳定币发行人制裁合规责任的指南，以及稳定币发行人对违反制裁制度的用户交易的责任。 还要求 FinCEN 在一年内提交一份关于加密资产混合器和清洗协议的运营和使用的报告。 Bill Hughes 表示目前尚不清楚这项修正案（实际上是数百项修正案中的一项）是否最终会被必须通过的立法的处理者接受，因此是否有机会成为法律还有待观察。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -83,6 +135,59 @@
         <summary type="html"><![CDATA[7 月 12 日，Opepen 的最大持有者（持有 725 个 Opepen）@BoredOpepen 向 NFT KOL @notthreadguy 发出了一份「Offer」——用其持有的一个 Opepen 001 系列交换 @notthreadguy 用作推特头像的 MAYC。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链上追踪工具Interface融资140万美元，Mask Network和Polymorphic Capital领投]]></title>
+        <id>https://panewslab.com/zh/articledetails/0t0kzqub.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0t0kzqub.html"/>
+        <updated>2023-07-20T02:51:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月20日消息，链上追踪工具 Interface 宣布完成140万美元种子轮融资，Polymorphic Capital和Mask Network领投，Seed Club、Caballeros Capital、Safe Ecosystem Foundation以及Blake Gao、Anton Bukov、Sergej Kunz、Arthaud Mesnard、Andrey Scherbovich、Will Papper等天使投资人参投。
+此前 2022 年初，Interface 在 Mirror 上筹集了 50 ETH众筹资金，众多知名人士参与其中，包括 Patricio Worthalter、Anton Bukov、Andrew Kozik、Kirill Malev 和 Mask Network，]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港金管局：数字港元试点计划包含Web3结算、代币化资产和代币化存款等]]></title>
+        <id>https://panewslab.com/zh/articledetails/7yskmz0c.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7yskmz0c.html"/>
+        <updated>2023-07-20T02:45:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月20日消息，香港金融管理局发推表示，香港正在进行的数字港元（e-HKD）试点计划，探讨了六个使用案例类别，包括Web3结算、代币化资产和代币化存款。Mastercard正在探索e-HKD在促进跨不同链的Web3平台交易结算方面的潜力。在代币化资产结算方面，Ripple和富邦银行（Fubon Bank）的试点项目体现了e-HKD通过房地产资产代币化释放非流动资产价值的潜力。同时波士顿咨询集团、HKT Payment和Za Bank探索以e-HKD结算交易的代币化资产支持融资。在代币化存款安全方面，恒生银行，汇丰银行和VISA率先开展试点，利用代币化存款和e-HKD促进实时24/7银行间转账。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：Vitalik Buterin称账户抽象可为以太坊带来数十亿美元的收益]]></title>
+        <id>https://www.hellobtc.com/news/202307/20944.html</id>
+        <link href="https://www.hellobtc.com/news/202307/20944.html"/>
+        <updated>2023-07-20T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[1.Vitalik Buterin：账户抽象可为以太坊带来数十亿美元的收益。
+
+2.Curve原生稳定币crvUSD铸造数量突破1.1亿枚。
+
+3.Optimism发文全面概述治理机制及未来规划。
+
+4.Coinbase Protocols负责人：未来十年将有80亿人上链。
+
+5.香港金管局：电子港币试点计划包括Web3结算、代币化资产和代币化存款等。
+
+6.Starknet即将推出Starknet应用链。
+
+7.美总统候选人：若当选将使用比特币等资产支持美元，并免除加密货币资本利得税。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Curve原生稳定币crvUSD铸造量达1.1亿枚，其中wstETH铸造量为5766.73万枚]]></title>
+        <id>https://panewslab.com/zh/articledetails/6jh64749.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6jh64749.html"/>
+        <updated>2023-07-20T02:36:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月20日消息，Curve原生稳定币crvUSD铸造数量突破1.1亿枚。其中基于wstETH的铸造数量为5766.73万枚，基于WBTC的铸造数量约为2336.82万枚，基于sfrxETH的铸造数量为978.51万枚，基于ETH的铸造数量为343.42万枚。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -238,47 +343,6 @@ PANews Telegram频道，立即订阅]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英国FCA首席执行官：加密公司规模不会影响注册评估决定]]></title>
-        <id>https://panewslab.com/zh/articledetails/ei7bx55y.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ei7bx55y.html"/>
-        <updated>2023-07-19T18:42:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月20日消息，据CoinDesk报道，英国金融行为监管局(FCA)首席执行官Nikhil Rathi周三在财政部特别委员会听证会上表示，在批准注册申请时，FCA不会受到加密公司规模的影响。FCA负责注册和监督希望在现有反洗钱要求下在该国运营的加密公司。自两年前开放注册以来，FCA已经收到了来自加密公司的300多份申请，但到目前为止，只有42家公司成功完成注册。
-Rathi在听证会上表示：“在过去的18个月或两年里，我们拒绝了一些全球最大加密公司的申请。2021年，FCA拒绝了交易量最大加密交易所币安的申请。我们这样做不是因为反对创新，而是因为他们无法证明其符合反洗钱标准。”他还警告监管机构在评估注册申请时不应考虑公司的规模和市场份额。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[红杉资本进行高层改组，多名合伙人离职]]></title>
-        <id>https://panewslab.com/zh/articledetails/3kgwt8yc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3kgwt8yc.html"/>
-        <updated>2023-07-19T18:28:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月20日消息，据The Information报道，红杉资本(Sequoia Capital)对其高层进行了改组。该公司发言人证实，长期合伙人Michael Moritz将离开公司，专注于公司的独立财富管理业务Sequoia Heritage。与此同时，据一位知情人士透露，自2016年以来一直在该公司工作、专注于早期初创公司的合伙人Mike Vernal也将离职。而另一位合伙人Daniel Chen也在最近几个月离开了公司。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-7.19）]]></title>
-        <id>https://www.web3sj.com/?p=80826</id>
-        <link href="https://www.web3sj.com/news/80826/"/>
-        <updated>2023-07-19T11:38:26.000Z</updated>
-        <summary type="html"><![CDATA[美国SEC将于本周启动比特币现货ETF审核，审查期或长达240天。MakerDAO智能销毁引擎已开启，平均每27分钟回购约5000美元MKR。Cosmos生态流动性质押协议Stride将转向ATOM支持的安全模型。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探究能源货币：RWA的尽头是PoW]]></title>
-        <id>https://www.web3sj.com/?p=80815</id>
-        <link href="https://www.web3sj.com/news/80815/"/>
-        <updated>2023-07-19T10:06:25.000Z</updated>
-        <summary type="html"><![CDATA[回顾历史，早在 2017 年以太坊 ICO 代币首次发行热潮时，就有诸多的项目提出了 RWA（当时称为资产上链）。例如将房产的权益进行代币化，投资者可以购买相应的 RWA 代币实现投资分红。这类项目在当时颇受投资人喜爱，其主要原因在于，相比纯粹虚拟且没有实际应用的代币，更多人倾向认为能与实体挂钩的加密货币更有价值或者更加令人放心。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[巴比特 | 元宇宙每日必读：28家AI企业集体赴港IPO，业绩惨谈，经营亏损，这是AI下半场的起点，还是资本炒作到顶峰的标志？]]></title>
         <id>https://www.defidaonews.com/article/6826706</id>
         <link href="https://www.defidaonews.com/article/6826706"/>
@@ -397,34 +461,6 @@ Launch Factor团队来自头部交易所、四大会计师事务所和加密项�
         <link href="https://www.hellobtc.com/news/202307/20935.html"/>
         <updated>2023-07-18T10:21:00.000Z</updated>
         <summary type="html"><![CDATA[7月18日消息，据央视新闻报道，近日，山西省晋城市沁水县公安局成功破获一起利用虚拟货币USDT进行洗钱的诈骗案件。抓获犯罪嫌疑人21人，扣押手机40余部，查获现金20余万元，查获USDT价值人民币100余万元。2023年4月1日，沁水警方在核查线索时发现，沁水县龙港镇居民赵某月在某银行名下账户资金流异常，存在“跑分”洗钱重大嫌疑。经讯问，该21名犯罪嫌疑人对利用虚拟货币USDT为信息网络犯罪人员洗钱的犯罪行为供认不讳。经依法审查，该犯罪集团帮助利用信息网络犯罪人员支付结算5480余万USDT，折合人民币约3.8亿余元。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：Uniswap 推出跨 AMM 协议 UniswapX]]></title>
-        <id>https://www.hellobtc.com/news/202307/20934.html</id>
-        <link href="https://www.hellobtc.com/news/202307/20934.html"/>
-        <updated>2023-07-18T03:17:00.000Z</updated>
-        <summary type="html"><![CDATA[1.Uniswap 推出跨 AMM 协议 UniswapX。
-
-2.Compound在以太坊上的未偿债务逾10亿美元，创一年来新高。
-
-3.Solana EVM兼容方案Neon已上线Solana主网。
-
-4.Radiant Capital推出DEV UPDATES，即将上线以太坊主网。
-
-5.Chainlink在以太坊等网络上推出跨链互操作协议。
-
-6.Aave的美元稳定币GHO推出48小时内市值突破250万美元。
-
-7.Lens Protocol正式发布V2版本。
-
-8.自Ripple案判决以来，XRP交易量占所有加密交易量的21%。
-
-9.神鱼：数月前发现Argent插件钱包在某边缘条件下会上传用户助记词，已通知官方。
-
-10.SUI 24小时涨超13%，或受官方明确解锁时间影响。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
