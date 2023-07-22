@@ -11,7 +11,7 @@
           "description": "AI引发好莱坞罢工事件的反思",
           "link": "https://www.defidaonews.com/article/6826486",
           "publishedOn": "2023-07-20T08:33:07.000Z",
-          "wordCount": 154,
+          "wordCount": 134,
           "title": "AI 演员：好莱坞罢工后的下一件大事？",
           "imageUrl": "https://appserversrc.8btc.cn/Fr0g11sK4QOEgWsoduQJ8FFwXM-B.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "要论商业敏感度，我只服淘宝店家",
           "link": "https://www.defidaonews.com/article/6826416",
           "publishedOn": "2023-07-17T09:16:51.000Z",
-          "wordCount": 154,
+          "wordCount": 152,
           "title": "开眼界了，AI绘画商业化最强玩家是“淘宝商家”",
           "imageUrl": "https://appserversrc.8btc.cn/FhF4d_K7j6cvA35KWE0GkVLEavkO.png?imageView2/1/w/500/h/300"
         },
@@ -41,7 +41,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 111,
+          "wordCount": 113,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         }
@@ -53,12 +53,82 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=81218",
+          "author": "Gao",
+          "description": "比特币网络的区块大小设计为 1M，10 分钟产生 1 个区块，在交易代码量差不多的情况下，比特币网络一秒大概可以处理 7 笔交易。这无法满足大量的业务需求，尤其在链上交易活跃的牛市里。因此，2015 年比特币社区就已经出现了扩容的声音。",
+          "link": "https://www.web3sj.com/news/81218/",
+          "publishedOn": "2023-07-22T03:43:13.000Z",
+          "wordCount": 844,
+          "title": "比特币闪电网络+Nostr：去中心化社交支付新范式",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689997376833.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81215",
+          "author": "Gao",
+          "description": "多方计算（MPC）和智能合约钱包是可以解决这些问题的两种解决方案。它们允许钱包提供者在 EOA 之上构建诸如社交恢复、交易限制、双重身份验证等功能。在 Waymont，我们最初采用了 MPC。表面上，它似乎灵活高效。然而，随着我们深入研究，我们发现 MPC 固有的一些安全漏洞和攻击途径，我们无法否认这些问题的存在。",
+          "link": "https://www.web3sj.com/news/81215/",
+          "publishedOn": "2023-07-22T03:40:22.000Z",
+          "wordCount": 784,
+          "title": "解析MPC和智能合约两种钱包方案：我们为何选择后者？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689997208719.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81210",
+          "author": "Gao",
+          "description": "Liquid Collective 是一个去中心化流动性质押协议，其核心组件是智能合约，用户可将任意数量的 ETH 存入智能合约中，没有 32 枚 ETH 限制，当智能合约余额达到 32 枚 ETH 时，该合约中的 ETH 将以循环的方式质押给节点运营商。节点运营商包括 Coinbase Cloud 与 Figment 等，它们在 Liquid Collective 上运行验证节点基础设施，并获得网络奖励，Liquid Collective 本身不运行验证节点。",
+          "link": "https://www.web3sj.com/definews/81210/",
+          "publishedOn": "2023-07-22T03:30:55.000Z",
+          "wordCount": 997,
+          "title": "融资1200万美元，LSD新玩家Liquid Collective要构建流动性质押行业标准？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689996636471.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81206",
+          "author": "Gao",
+          "description": "Opensea 作为曾经的 NFT 交易平台霸主、今日的仅次于 Blur 的选手，在推出 Seaport 协议时，曾为大家点燃起「解决 NFT 流动性问题」的希望。如今，相关功能 Deals 终于上线。通过体验、介绍、分析，来验证下它的工作原理和实效性，顺便也将 NFT 市场竞争的一些想法分享如下。",
+          "link": "https://www.web3sj.com/nftnews/81206/",
+          "publishedOn": "2023-07-22T03:28:21.000Z",
+          "wordCount": 857,
+          "title": "详解Opensea新推出的Deals功能：NFT界的「以物易物」",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689996442667.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81195",
+          "author": "Gao",
+          "description": "StarkNet 的交易成功所需时间从升级前的 10-30min 大幅缩短至数秒级，社区用户直呼 StarkNet 从「老牛拉车时代」进入「飞行时代」；但另一方面，StarkNet 的 Gas 费相比大部分 layer2 依然要高出不少，甚至不少用户的 Gas 费昂贵到超出 1 U。",
+          "link": "https://www.web3sj.com/news/81195/",
+          "publishedOn": "2023-07-22T03:24:27.000Z",
+          "wordCount": 1387,
+          "title": "TVL破1亿美元大关，StarkNet「量子飞跃」升级后还有什么值得期待？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689996252297.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81182",
+          "author": "Gao",
+          "description": "本文参考目前 Solana 生态项目数据的绝对值和相对值，梳理下当前 SOL 生态中的数据比较亮眼的老项目，以及新涌现出的 Solana 2.0 项目，试图找出下一匹黑马。",
+          "link": "https://www.web3sj.com/news/81182/",
+          "publishedOn": "2023-07-22T03:20:53.000Z",
+          "wordCount": 1076,
+          "title": "寻找Solana生态新黑马",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689996036182.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81178",
+          "author": "Gao",
+          "description": "Mo Tzu 已在区块链行业打拼多年，3 年前和朋友一起创办了一家区块链公司，聚焦区块链基础设施和 NFT 平台等，由于赶上了 NFT 热潮，曾在三四个月内用户突破百万。家国情怀是不少 web3.0 创业者的「纠结」，多名行业人士向 Techub News 表示，正是因为家国情怀，新加坡、迪拜、欧美等地只是迫不得已的选项，而香港才是首选。",
+          "link": "https://www.web3sj.com/uncategorized/81178/",
+          "publishedOn": "2023-07-22T03:17:00.000Z",
+          "wordCount": 866,
+          "title": "香港抢人计划下Web3创业者的双城人生：白天属于香港，夜晚归于深圳",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689995802338.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=81163",
           "author": "Gao",
           "description": "Mysten Labs 的联合创始人兼 CTO Sam Blackshear在 Meta 的 Libra 项目中的 Diem 区块链开发了 Move。Move 基于 Rust 编程语言，旨在比现有的区块链语言更通用，而其他编程语言通常与特定的区块链绑定。Sam 的目标是创建 Web3 的 JavaScript，即一种跨平台语言，使开发人员能够在多个网络环境中应用他们的技能。",
           "link": "https://www.web3sj.com/news/81163/",
           "publishedOn": "2023-07-21T14:25:34.000Z",
-          "wordCount": 745,
+          "wordCount": 760,
           "title": "Sui Move与标准Move的有哪些区别？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689949509986.png"
         },
@@ -68,7 +138,7 @@
           "description": "美国众议院推出加密监管法案，将传统证券从“数字资产”的定义中删除。以太坊最新ACDE会议：4844、6780、5656测试均已就绪。以太坊Shapella升级以来，质押的ETH数量和验证者数量均增长超26%。",
           "link": "https://www.web3sj.com/news/81149/",
           "publishedOn": "2023-07-21T11:41:36.000Z",
-          "wordCount": 923,
+          "wordCount": 907,
           "title": "Web3世界日报（2023-7.21）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023072111413073.jpg"
         },
@@ -81,76 +151,6 @@
           "wordCount": 734,
           "title": "对话Compound创始人：Superstate如何将RWA带入加密世界？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023072113330002268142.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81118",
-          "author": "Gao",
-          "description": "巨大的涨幅带动了整个板块，从叙事角度来讲，这是一个未曾提及的赛道。从 Web3 角度来讲，新用户可以通过 Telegram Bots 很方便的进入链上购买代币，这些机器人解决了加密货币最核心的问题之一，为大众采用埋下了伏笔。那么市场上到底有哪些 Telegram Bots？本文将带你了解比较主流的几个项目。",
-          "link": "https://www.web3sj.com/news/81118/",
-          "publishedOn": "2023-07-21T09:52:41.000Z",
-          "wordCount": 1099,
-          "title": "Unibot爆火后，还有哪些主流Telegram Bots值得关注？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/2023072019554387237492.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81114",
-          "author": "Gao",
-          "description": "Ellison 心里有很多想法。她在另一份谷歌文件中写道，她认为自己不太适合管理 Alameda，特别是不适合作为决策者。她还与 Sam Bankman-Fried（SBF）经历了一段糟糕的感情，这位当时的亿万富翁企业家创立了 Alameda，后来又创立了全球最大的加密货币交易所之一 FTX。他们断断续续约会但最终分手，而这主要是 Ellison 担心「让工作方面的事情变得奇怪」或者「带来负面影响」。",
-          "link": "https://www.web3sj.com/news/81114/",
-          "publishedOn": "2023-07-21T08:10:30.000Z",
-          "wordCount": 931,
-          "title": "SBF前女友Caroline日记曝光：与SBF和Alameda的那些事",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689927020413.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81108",
-          "author": "Gao",
-          "description": "在文章中，Arthur 提到了一个很关键的问题，稳定币一直是加密世界和传统世界最重要的媒介，但也存在着很多漏洞和危机。首先，加密货币交易一定是绕不开法币的，尤其是美元，作为全球最重要的储备货币，美元与加密货币之间的交易非常之重要，行业需要一个托管加密货币和美元的交易平台，但去中心化金融的核心是不依靠银行体系的金融运作。",
-          "link": "https://www.web3sj.com/news/81108/",
-          "publishedOn": "2023-07-21T08:01:28.000Z",
-          "wordCount": 797,
-          "title": "了解Ethena：受Arthur Hayes启发的去中心化稳定币",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689926476899.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81096",
-          "author": "Gao",
-          "description": "今日凌晨，OpenSea 发布点对点 NFT 组合交易功能 Deals。Deals 主打以物换物、以 NFT 组合兑换 NFT 组合，并以 OpenSea 原生 NFT 协议 Seaport 1.5 提供支持，将点对点 NFT 交易灵活性和安全性推向一个新的高度。",
-          "link": "https://www.web3sj.com/nftnews/81096/",
-          "publishedOn": "2023-07-21T06:45:07.000Z",
-          "wordCount": 776,
-          "title": "全流程体验：OpenSea Deals有何功能又有何亮点",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689921820835.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81092",
-          "author": "Gao",
-          "description": "在回答这些问题时，理解信托的结构非常重要。GBTC 是一种封闭式基金（CEF），与近年来迅速流行的交易所交易基金（ETF）不同。两者实际上都是保管大量资产的金库，无论是股票，还是灰度信托（Grayscale trust）持有的价值数十亿美元的比特币。",
-          "link": "https://www.web3sj.com/news/81092/",
-          "publishedOn": "2023-07-21T06:07:39.000Z",
-          "wordCount": 784,
-          "title": "GBTC负溢价渐窄，原因和影响是什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689919646831.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81089",
-          "author": "Gao",
-          "description": "作为一家全球公司，Tether 泰达公司为履行反洗钱合规义务，建立了一套链上黑名单机制并和全球各地执法单位建立了亲密友好的合作关系，但凡执法部门有要求，认为资金涉嫌欺诈、洗钱、恐怖主义融资等活动，它就会把相关地址给限制。",
-          "link": "https://www.web3sj.com/news/81089/",
-          "publishedOn": "2023-07-21T06:04:13.000Z",
-          "wordCount": 958,
-          "title": "USDT会是币圈最大的雷吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689919440277.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81086",
-          "author": "Gao",
-          "description": "随着 DEX 的发展，流动性割裂问题越来越明显。现在的解决方案主要是通过整合流动性，使用聚合器通过路由将分散的流动性池连接在一起。这改善了流动性割裂情况下的交易环境，但并未改变流动性割裂本身。这就是为什么 UniswapX 的推出让人感到既符合预期，又没有什么新意。",
-          "link": "https://www.web3sj.com/definews/81086/",
-          "publishedOn": "2023-07-21T06:00:29.000Z",
-          "wordCount": 687,
-          "title": "Uniswap新产品「UniswapX」究竟如何？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1689919219513.png"
         }
       ]
     },
@@ -165,7 +165,7 @@
           "description": "PANews 7月22日消息，CertiK推特发布消息称，Conic Finance再次遭到闪电贷攻击。截至目前，0xB636开头的EOA地址以及0xd050开头的EOA地址已经获利至少22.3万美元。据此前消息，Conic Finance遭受攻击，损失约320万美元。",
           "link": "https://panewslab.com/zh/articledetails/7v16b94b.html",
           "publishedOn": "2023-07-22T02:12:31.000Z",
-          "wordCount": 354,
+          "wordCount": 346,
           "title": "安全机构：Conic Finance再遭闪电贷攻击",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +175,7 @@
           "description": "PANews 7月22日消息，据官方消息，OpenAI宣布下周将发布ChatGPT安卓App, 用户今天起可在Google Play商店预约下载。",
           "link": "https://panewslab.com/zh/articledetails/ee04sxbq.html",
           "publishedOn": "2023-07-22T01:12:47.000Z",
-          "wordCount": 350,
+          "wordCount": 342,
           "title": "OpenAI将于下周发布ChatGPT安卓APP",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +185,7 @@
           "description": "PANews 7月22日消息，据The Block报道，本周五，美国证券交易委员会(SEC)的律师在正在进行的Terra及Do Kwon执法案件中，暗示SEC或将针对Ripple一案进行上诉。SEC的律师在提交给纽约南区美国地方法院法官Jed Rakoff 的一份文件中辩称：“恕我直言，Ripple的部分裁决是错误的，本法院不应遵循它们。SEC工作人员正在考虑进一步审查的各种可行途径。”",
           "link": "https://panewslab.com/zh/articledetails/ik6lnch2.html",
           "publishedOn": "2023-07-22T00:29:34.000Z",
-          "wordCount": 360,
+          "wordCount": 352,
           "title": "美国SEC律师：SEC或将针对Ripple案进行上诉，正在考虑审查途径",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +195,7 @@
           "description": "PANews 7月22日消息，据Blockworks报道，谷歌云Web3负责人James Tromans表示，谷歌云正在策划更多以Web3为中心的产品。谷歌云最近推出了一项旨在支持Web3领域参与者的计划。Tromans表示，谷歌云将继续在BigQuery上提供以太坊等链上数据集，帮助客户“成为Web3生态系统中的转型参与者”现在是公司使命的核心部分。此外，谷歌云正在与金融服务和游戏企业合作，研究Web3如何简化他们的运营以及解锁其他商业模式和收入来源。",
           "link": "https://panewslab.com/zh/articledetails/oi2q01kz.html",
           "publishedOn": "2023-07-21T23:46:47.000Z",
-          "wordCount": 351,
+          "wordCount": 343,
           "title": "谷歌云正策划更多以Web3为中心的产品",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +205,7 @@
           "description": "PANews 7月22日消息，据官方消息，全链互操作协议LayerZero已上线Linea主网，应用程序可以通过LayerZero与新的zkEVM rollup集成。据此前消息，LayerZero已上线Base主网。",
           "link": "https://panewslab.com/zh/articledetails/dodbi7x2.html",
           "publishedOn": "2023-07-21T23:25:35.000Z",
-          "wordCount": 354,
+          "wordCount": 346,
           "title": "LayerZero已上线Linea主网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +215,7 @@
           "description": "PANews 7月22日消息，据《华尔街日报》援引法庭文件报道称，破产的加密贷款机构Celsius Network已达成关键和解，这或将为Celsius获得法院批准向客户返还资产并结束破产程序扫清道路。据悉总共30000项客户索赔达成和解，索赔金额为780亿美元。法院将在8月10日的听证会上批准和解协议。《华尔街日报》补充表示，关于Celsius重组计划的确认听证会定于10月举行，客户可能会在今年年底前开始收到加密货币和其他资产。虽然Celsius的律师辩称，Celsius对客户的欠款并没有超过他们的存款，但一些用户提出索赔，要求对前管理层所谓的不当行为进行赔偿。\n本月早些时候，美国证券交易委员会(SEC)在联邦法院对Celsius及其前首席执行官Alex Mashinsky提起诉讼，指控他们通过欺诈和未经注册的销售筹集了数十亿美元，欺骗投资者并操纵原生代币的价格。大约一年前，Celsius申请破产，而该机构一度持有300亿美元的资产。",
           "link": "https://panewslab.com/zh/articledetails/m66w2l6e.html",
           "publishedOn": "2023-07-21T23:05:54.000Z",
-          "wordCount": 366,
+          "wordCount": 358,
           "title": "Celsius Network达成关键和解，客户或将在今年年底获得赔偿",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -232,7 +232,7 @@
           "description": "1.CoinDesk以接近1.25亿美元与一投资者集团达成出售交易。\n\n2.数据：Polygon每日活跃用户总数超过以太坊、Solana。\n\n3.Messari：Avalanche Q2收入环比增长173.1%，TVL环比下降19.4%。\n\n4.CryptoQuant：美国政府于7月12日出售与丝绸之路相关的8,200枚比特币。\n\n5.Coinbase协议负责人：Base考虑同时采用OP Stack和zk-proofs。\n\n6.Worldcoin已完成OP主网迁移。\n\n7.Binance Labs向跨链借贷协议Radiant Capital投资1000万美元。\n\n8.Ark Invest发布Q2 ETF季报：GBTC表现最好，Coinbase是其最大的配置资产。\n\n9.XRP交易量多年来首次超越比特币。\n\n10.数据：上半年日本加密交易平台比特币交易份额升至80%。\n\n11.稳定币市值下跌触及2021年8月以来最低水平。\n\n12.比特大陆推出FIL矿机，售价38,888美元。\n\n13.特斯拉官网付款页面源代码出现“BITCOIN”字眼，暂无法确认是否为新增。\n\n14.Uniswap创始人Hayden Adams推特账户今日遭短暂攻击，目前已恢复控制。",
           "link": "https://www.hellobtc.com/news/202307/20954.html",
           "publishedOn": "2023-07-21T03:39:00.000Z",
-          "wordCount": 332,
+          "wordCount": 330,
           "title": "白话区块链早报：CoinDesk以接近1.25亿美元与一投资者集团达成出售交易",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
