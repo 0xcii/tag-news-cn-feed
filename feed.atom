@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T14:12:33.580Z</id>
+    <id>urn:2023-07-24T15:13:48.340Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-24T14:12:33.580Z</updated>
+    <updated>2023-07-24T15:13:48.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik：我是如何看待人格生物特征证明的？]]></title>
+        <id>https://www.web3sj.com/?p=81449</id>
+        <link href="https://www.web3sj.com/news/81449/"/>
+        <updated>2023-07-24T14:20:48.000Z</updated>
+        <summary type="html"><![CDATA[对于解决这个问题，已经有一些努力：Proof of Humanity、BrightID、Idena 和 Circles 等都是一些例子。其中一些解决方案配备了它们自己的应用程序（通常是 UBI 代币），有些已经在 Gitcoin Passport 中得到了应用，用于验证哪些账户可以进行二次投票。像 Sismo 这样的零知识技术为这些解决方案增加了隐私保护。最近，我们看到了一个更大、更有雄心的个人身份证明项目的崛起：Worldcoin。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：3500枚BTC从Bitfinex转移到未知钱包]]></title>
         <id>https://panewslab.com/zh/articledetails/t7h4b5zv.html</id>
@@ -368,16 +378,6 @@ Worldcoin 是一种新的全球加密货币，旨在通过免费向所有人提�
         <link href="https://www.web3sj.com/nftnews/81359/"/>
         <updated>2023-07-24T03:22:53.000Z</updated>
         <summary type="html"><![CDATA[Yuga IP Map 的崛起激励着其他生态系统，第 2 层和第 3 层故事讲述推动了新受众的采用。 越来越多的社区聚会让持有者联系更加紧密。体育和游戏正将 Yuga IP 带给全球粉丝！]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空投NFT之后，zkSync在发币前还有哪些工作要做？]]></title>
-        <id>https://www.web3sj.com/?p=81353</id>
-        <link href="https://www.web3sj.com/news/81353/"/>
-        <updated>2023-07-24T03:15:46.000Z</updated>
-        <summary type="html"><![CDATA[据 DefiLlama 数据显示，13 日交易量仅有 10730 ETH 的 zkSync 在 14 日空投预热和 15 号空投当日交易量增长到 16410 ETH，整整增加了 52%。同时，zkSync Era 过去 30 天交易笔数超过 Arbitrum，成为过去一个月内交易笔数最多的以太坊 Layer2。]]></summary>
         <author>
             <name>Gao</name>
         </author>
