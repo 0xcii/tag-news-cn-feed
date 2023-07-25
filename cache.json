@@ -11,7 +11,7 @@
           "description": "AI引发好莱坞罢工事件的反思",
           "link": "https://www.defidaonews.com/article/6826486",
           "publishedOn": "2023-07-20T08:33:07.000Z",
-          "wordCount": 154,
+          "wordCount": 151,
           "title": "AI 演员：好莱坞罢工后的下一件大事？",
           "imageUrl": "https://appserversrc.8btc.cn/Fr0g11sK4QOEgWsoduQJ8FFwXM-B.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "风口就是FOMO。",
           "link": "https://www.defidaonews.com/article/6826706",
           "publishedOn": "2023-07-19T09:28:12.000Z",
-          "wordCount": 416,
+          "wordCount": 418,
           "title": "巴比特 | 元宇宙每日必读：28家AI企业集体赴港IPO，业绩惨谈，经营亏损，这是AI下半场的起点，还是资本炒作到顶峰的标志？",
           "imageUrl": "https://appserversrc.8btc.cn/lkGWxO3dyH9NoA8gd6p3xsIJKsjp.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "要论商业敏感度，我只服淘宝店家",
           "link": "https://www.defidaonews.com/article/6826416",
           "publishedOn": "2023-07-17T09:16:51.000Z",
-          "wordCount": 134,
+          "wordCount": 154,
           "title": "开眼界了，AI绘画商业化最强玩家是“淘宝商家”",
           "imageUrl": "https://appserversrc.8btc.cn/FhF4d_K7j6cvA35KWE0GkVLEavkO.png?imageView2/1/w/500/h/300"
         },
@@ -41,7 +41,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 129,
+          "wordCount": 115,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         }
@@ -53,12 +53,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=81568",
+          "author": "Gao",
+          "description": "该合约实现了一个中心化的铸币机制 mintOnce，允许 owner 调用此函数一次性地对多个地址进行批量铸币。经查证，该函数已经被当前的 owner 调用过。",
+          "link": "https://www.web3sj.com/news/81568/",
+          "publishedOn": "2023-07-25T09:12:23.000Z",
+          "wordCount": 740,
+          "title": "被疯狂FOMO的Worldcoin代币，多签合约Owner竟只有一人？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690276304160.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81563",
+          "author": "Gao",
+          "description": "UniswapX 本质上是一个基于荷兰式拍卖的非托管交易协议。协议允许第三方 Filler 执行交易（做 taker），Filler 可以是链上链下的流动性提供者，比如做市商、MEV 搜索者、DEX 等。 Filler 间的竞争通过荷兰拍来实现，即一种参数化荷兰式订单起始价格的方式。荷兰拍的起始价格通过 RFQ，一个链下的询价系统，对一些 Filler 进行投票（为了将订单路由到链上流动性池，做市商将受到激励使用私人交易中继）。",
+          "link": "https://www.web3sj.com/definews/81563/",
+          "publishedOn": "2023-07-25T09:07:21.000Z",
+          "wordCount": 1149,
+          "title": "UniswapX：开启Uniswap V4 DeFi实验基地的门扉",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690276021330.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=81556",
+          "author": "Gao",
+          "description": "本文从 Coinbase Wallet 新上线的钱包内置聊天功能出发，进而分析其背后提供支持的 Web3 通信协议 XMTP 在商业上的潜力，而支撑这种去中心化商业可能性的根本是「只有 Web3 产品能提供、且对应的互联网产品无法提供的 Web3 原生体验」，对于 XMTP 用户来说，这种最为直观的「加密原生体验」就是「可以和朋友跨应用实时聊天」，相当于打通微信和支付宝账号的聊天 / 支付。",
+          "link": "https://www.web3sj.com/news/81556/",
+          "publishedOn": "2023-07-25T08:52:27.000Z",
+          "wordCount": 1067,
+          "title": "详解Coinbase Wallet新功能背后：XMTP的去中心化商业潜力",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690275107842.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=81534",
           "author": "Gao",
           "description": "Stacks 是一个建立在比特币之上的开源平台，它通过引入智能合约和去中心化应用（DApps）来增强比特币的功能。Stacks 是一个区块链解决方案，它利用比特币的安全性和共识机制，同时提供高吞吐量和低延迟的交易。Stacks 还实现了一个无需信任的双向比特币锚定机制，使得比特币可以在 Stacks 层上自由流通和使用。",
           "link": "https://www.web3sj.com/news/81534/",
           "publishedOn": "2023-07-25T03:32:55.000Z",
-          "wordCount": 851,
+          "wordCount": 887,
           "title": "详解比特币扩容解决方案Stacks：引入智能合约来增强比特币功能",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/4805441bece67a5e61b6178b0aafecbf.jpg"
         },
@@ -68,7 +98,7 @@
           "description": "想象一下，如果你可以根据自己的应用程序的独特需求定制一个区块链 — 这正是应用链所提供的功能。应用链是针对应用程序定制的区块链，它为开发者提供了灵活性，来微调链的各个方面以满足其应用程序的需求，例如选择不同的哈希函数或自定义共识算法。最棒的是，建立在强大的 L1 或 L2 上的应用链，并继承 L1 或 L2 的安全性，为开发者提供了两全其美的解决方案。",
           "link": "https://www.web3sj.com/news/81526/",
           "publishedOn": "2023-07-25T03:19:31.000Z",
-          "wordCount": 784,
+          "wordCount": 786,
           "title": "了解Starknet高性能定序器Madara",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690255156566.png"
         },
@@ -78,7 +108,7 @@
           "description": "7 月 12 日，基于 ZK 的 Layer1 公链 Manta Network 宣布基于 OP Stack 推出专为零知识证明（ZK）应用设计的 Layer2 网络 Manta Pacific，随后 7 月 19 日，其开发商 p0x labs 以 5 亿美元估值完成 2500 万美元 A 轮融资，由 Polychain Capital 和启明创投共同领投。",
           "link": "https://www.web3sj.com/news/81509/",
           "publishedOn": "2023-07-25T03:10:53.000Z",
-          "wordCount": 2148,
+          "wordCount": 2110,
           "title": "Layer2大战一触即发，系统梳理11大Layer2网络最新进展",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690254642645.png"
         },
@@ -88,7 +118,7 @@
           "description": "简而言之，Telegram Bot 是在 Telegram 上提供各种 DeFi 交易工具的机器人，在输入你的钱包助记词后可为你执行某些指令，例如代币交换、跟单交易、分析、自动刷空投交易、资产跨链等等。",
           "link": "https://www.web3sj.com/news/81503/",
           "publishedOn": "2023-07-25T03:03:42.000Z",
-          "wordCount": 879,
+          "wordCount": 883,
           "title": "突然爆红后的Unibot和Telegram Bot赛道，还值得入手吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690254206564.png"
         },
@@ -98,7 +128,7 @@
           "description": "当前加密市场有超过 2500 个代币。代币的类型已经远超出了原生 Layer 1 区块链代币的范围。BTC、ETH、SOL、AVAX 和 NEAR 是原生区块链代币的代表。在区块链上运行的协议和应用程序也可以有自己的代币。加密货币中的价值创造和增值变得越来越重要，并且在原生 Layer 1 区块链代币和应用成效代币之间出现了分水岭。",
           "link": "https://www.web3sj.com/news/81500/",
           "publishedOn": "2023-07-25T02:57:45.000Z",
-          "wordCount": 730,
+          "wordCount": 703,
           "title": "L1之外的代币没有价值？剖析代币价值来源",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690253854656.png"
         },
@@ -108,7 +138,7 @@
           "description": "为何 dappOS 能在众多协议中突出重围，获得 Binance Labs 和红杉等加密风投的青睐？那先看看它可以用来解决什么问题。在传统互联网发展进程中，操作系统「Windows 1.0」的发布使用户能通过图形化的用户界面与计算机进行交互，开启了「易用性」时代，为互联网的普及和蓬勃发展奠定了一定的技术和用户基础。那对于 Web3 的大规模采用而言，什么是解决该问题的关键？",
           "link": "https://www.web3sj.com/news/81495/",
           "publishedOn": "2023-07-25T02:50:53.000Z",
-          "wordCount": 822,
+          "wordCount": 774,
           "title": "红杉和IDG领投，dappOS将如何实现从账户抽象到链抽象",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/10-1690194401945.jpg"
         },
@@ -118,39 +148,9 @@
           "description": "Worldcoin（WLD）是以太坊主网上的 ERC-20 代币，个人可以在 Optimism 主网上获得他们的用户资助（grants）。因此，大多数 WLD 交易可能会在 Optimism 网络上进行。如果需要，代币可以通过 Optimism 桥接回以太坊。",
           "link": "https://www.web3sj.com/project/81487/",
           "publishedOn": "2023-07-25T02:46:11.000Z",
-          "wordCount": 917,
+          "wordCount": 910,
           "title": "Worldcoin白皮书披露：代币如何分配和释放？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690253145878.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81480",
-          "author": "Gao",
-          "description": "这几年我陆续读过不少撰写和采访 Bankless 的报道和播客；之所以现在写，主要是最近出炉的第 179 期 Bankless 播客 ，两位创始人罕见地成为被采访对象，向 Raoul Pal 爆料了整个创业历程。可以说是近期少有的，充满热情讲述能让我笑着看完的业内采访视频，同时也成为目前研究 Bankless，回答上面原因中第二、三个问题的最好材料。",
-          "link": "https://www.web3sj.com/news/81480/",
-          "publishedOn": "2023-07-25T02:42:01.000Z",
-          "wordCount": 944,
-          "title": "Bankless的起源故事：Web3媒体品牌如何穿越周期成长",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690252909631.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81476",
-          "author": "Gao",
-          "description": "我并不是第一个吃螃蟹的人。现在有超过 200 万人看过了 Orb–Worldcoin （世界币）的旗舰设备，Worldcoin 是由 Sam Altman（OpenAI 首席执行官）和 Alex Blania（现任母公司 Tools for Humanity 首席执行官）共同创立的加密与 AI 项目。",
-          "link": "https://www.web3sj.com/project/81476/",
-          "publishedOn": "2023-07-25T02:36:57.000Z",
-          "wordCount": 1036,
-          "title": "球体里面有什么？Worldcoin幕后不为人知的故事",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690252606644.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81473",
-          "author": "Gao",
-          "description": "在 Coinbase，我们正在努力通过构建可扩展加密货币实用性和采用率的可信产品来帮助更新金融体系，因为我们相信加密货币和区块链技术可以增加世界各地的经济自由和机会。Coinbase 选择在美国成为一家上市公司，因为我们相信接受这一根本性创新将最好地为美国服务，但我们也关注国际市场，其中许多市场正在推进成为「加密货币中心」的战略。",
-          "link": "https://www.web3sj.com/news/81473/",
-          "publishedOn": "2023-07-25T02:32:13.000Z",
-          "wordCount": 634,
-          "title": "Coinbase：去中心化社交媒体的潜力",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690252308611.png"
         }
       ]
     },
@@ -160,9 +160,69 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/9ar2hcn3.html",
+          "author": "PA一线",
+          "description": "PANews 7月25日消息，据路透社报道，英国数据监管机构表示将审查（examine） OpenAI 首席执行官 Sam Altman 的项目 Worldcoin，用户通过提供虹膜扫描来换取数字身份识别和免费加密货币。信息专员办公室发言人表示：“我们注意到 WorldCoin 在英国推出，并将进行进一步询问。”",
+          "link": "https://panewslab.com/zh/articledetails/9ar2hcn3.html",
+          "publishedOn": "2023-07-25T08:54:24.000Z",
+          "wordCount": 367,
+          "title": "路透社：英国数据监管机构将对Worldcoin进行审查",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/qko0tfwy.html",
+          "author": "PA一线",
+          "description": "PANews 7月25日消息，据The Block报道，加密货币交易所 Rain 已获得阿布扎比金融监管机构的许可，可以作为虚拟资产经纪和托管服务提供商运营。该经纪公司将为阿联酋的机构和零售客户提供购买、出售和存储虚拟资产的能力。该加密货币平台于 2022 年获得了阿布扎比全球市场的 FSP 原则上批准。Rain将自己定位为“在中东交易加密货币的最简单方式”。",
+          "link": "https://panewslab.com/zh/articledetails/qko0tfwy.html",
+          "publishedOn": "2023-07-25T08:33:42.000Z",
+          "wordCount": 360,
+          "title": "阿布扎比金融监管机构批准加密货币交易所Rain进行虚拟资产经纪业务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/j2u9k50s.html",
+          "author": "PA一线",
+          "description": "PANews 7月25日消息，链上分析师 ZachXBT 发推表示，在 Alphapo 热钱包被盗事件中，已找到因这次黑客攻击而在 TRON 和 BTC 上额外被盗的 3700 万美元。现在 Alphapo 被盗总额增加到 6000 万美元。此次黑客攻击很可能是由 Lazarus 完成。\n此前消息，据ZachXBT监测，Alphapo热钱包被盗，被盗金额达2300万美元。Alphapo客户HypeDrop已经禁用取款功能。被盗资金首先被跨链到以太坊上，然后跨链到Avalanche和BTC网络。",
+          "link": "https://panewslab.com/zh/articledetails/j2u9k50s.html",
+          "publishedOn": "2023-07-25T08:07:38.000Z",
+          "wordCount": 414,
+          "title": "链上分析师ZachXBT：Alphapo热钱包被盗损失增至6000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/j2vwowek.html",
+          "author": "PA一线",
+          "description": "PANews 7月25日消息，据 Snapshot 投票页面显示，链上结构化产品 Ribbon Finance 社区关于“并入Aevo并将Aevo定为新品牌名”的提案已通过，支持率为99.68%。\n此前消息，链上结构化产品 Ribbon Finance 发起新提案，计划并入 Aevo，并将 Aevo 定为唯一品牌名以及重组治理和代币经济学。具体内容包括：废除原有代币 RBN 并推出新代币 AEVO。未来 Ribbon 的产品将组合进 Aevo 的结构化产品套件中，原有的 RBN 代币也将以 1:1 的比例兑换为 AEVO。Aevo 将成为链上衍生品交易的最佳场所，包括交易所交易的期权和永续合约、场外衍生品合约以及包括被动（金库）和主动产品在内的结构性产品。",
+          "link": "https://panewslab.com/zh/articledetails/j2vwowek.html",
+          "publishedOn": "2023-07-25T07:39:52.000Z",
+          "wordCount": 420,
+          "title": "Ribbon Finance关于“并入Aevo并将Aevo定为新品牌名”的提案已通过",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/15ttcxe9.html",
+          "author": "PA一线",
+          "description": "PANews 7月25日消息，算法稳定币协议 Frax Finance 创始人 Sam Kazemian 在 Telegram 中表示，预计会在 30 天内上线 Frax V3 版本。据悉，Frax v3是Frax稳定币的更新，旨在降低风险并使其更能抵抗脱钩。",
+          "link": "https://panewslab.com/zh/articledetails/15ttcxe9.html",
+          "publishedOn": "2023-07-25T07:27:43.000Z",
+          "wordCount": 426,
+          "title": "Frax Finance创始人：Frax V3版本预计30天内上线",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/34ppfl1x.html",
+          "author": "PA一线",
+          "description": "PANews 7月25日消息，据 News1 报道，韩国目前已有11名议员自愿向国会伦理审查和咨询委员会报告虚拟资产持有和交易情况，包括统一部长官权永世以及权英世、金正宰、李良洙、刘庆俊、李宗成、独立议员黄宝承熙等6人（均为音译）。咨询委员会对虚拟资产累计交易次数、交易总额、交易项目和常任委员会进行分析后认为，包括金南国议员在内的11名议员中至少有一半存在利益冲突。咨询委员会计划最早在本周内披露11笔虚拟资产交易的细节。",
+          "link": "https://panewslab.com/zh/articledetails/34ppfl1x.html",
+          "publishedOn": "2023-07-25T07:17:48.000Z",
+          "wordCount": 324,
+          "title": "11名韩国议员自愿报告虚拟资产持有及交易情况，计划最早于本周内公开",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/zh6eaw1s.html",
           "author": "PA一线",
-          "description": "PANews 7月25日消息，据金十报道，币安 CEO 赵长鹏（CZ）表示，币安将于 8 月在日本新平台上开始提供全面服务。\n此前币安发布公告称，币安正在为日本居民创建一个新平台，以完全遵守当地法规。声明称，现有全球平台上的服务将于 11 月 30 日停止向日本居民提供服务，当前用户将能够通过 8 月 1 日后推出的新身份验证流程迁移到新的本地平台。",
+          "description": "PANews 7月25日消息，据金十报道，币安 CEO 赵长鹏（CZ）表示，币安将于 8 月在日本新平台上开始提供全面服务。\n此前币安发布公告称，币安正在为日本居民创建一个新平台，以完全遵守当地法规。声明称，现有全球平台上的服务将于 11 月 30 日停止向日本居民提供服务，当前用户将能够通过 8 月 1 日后推出的新身份验证流程迁移到新的本地平台。据悉，币安于2022年11月宣布收购在日本注册的加密货币交易服务提供商Sakura Exchange BitCoin (SEBC) 100%的股份。通过此次收购，币安作为日本金融厅 (JFSA) 监管的实体进入了日本市场。交易条款没有披露。官方称对SEBC的收购标志着币安在东亚地区获得了首个许可。",
           "link": "https://panewslab.com/zh/articledetails/zh6eaw1s.html",
           "publishedOn": "2023-07-25T06:52:05.000Z",
           "wordCount": 393,
@@ -297,66 +357,6 @@
           "publishedOn": "2023-07-25T02:10:38.000Z",
           "wordCount": 353,
           "title": "CoinList：已关闭骗局代币销售网站，正与Twitter官方合作，以重新获得Twitter账户控制权",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/kttv2fpc.html",
-          "author": "PA一线",
-          "description": "PANews 7月25日讯，“链上侦探”ZachXBT在社交媒体发文质疑Worldcoin，他表示该项目团队一直在吹嘘用户量，但其实一直在剥削发展中国家的人民。此外，Worldcoin目前似乎仅在注册级别强制执行验证用户是否为真人，结果导致出现账户黑市，相比之下Telegram上每个帐户费用只有1美元。另据Coindesk披露，WorldCoin将分配给内部人员和投资者的代币比例从20%增加到25%，然而WorldCoin在早期项目视频曾声称“WLD会比BTC更好，因为BTC只掌握在极少数富人手中”。ZachXBT表示，上述问题让他反对Worldcoin项目，但WLD叙事可能会因为代币表现而改变，毕竟“价格上涨=好项目，价格下跌=反乌托邦噩梦”。",
-          "link": "https://panewslab.com/zh/articledetails/kttv2fpc.html",
-          "publishedOn": "2023-07-25T01:58:21.000Z",
-          "wordCount": 344,
-          "title": "“链上侦探”ZachXBT发文质疑Worldcoin：一直在剥削发展中国家人民",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vptg35bg.html",
-          "author": "PA一线",
-          "description": "PANews 7月25日消息，据 Cointelegraph 报道，Arkham Intel Exchange 批准悬赏 5000 美元，以获取 Do Kwon 和 Terra 钱包的信息。在 7 月 24 日的公告中，Arkham Intel Exchange 表示，它已接受两名“链上侦探”提交的申请，最终支付了 9,519.2625 枚ARKM（约 5000 美元）的赏金。一位匿名用户和 Ergo（一位自称与 OXT Research 合作的“荣誉会计师”）向该平台发送了 Kwon 和 Terra 拥有的“钱包证据”。Ergo 表示，这一信息可能与 Terra 的公开声明相矛盾，该声明仅持有一个 Luna Foundation Guard 钱包，据报道，其中有 313 个比特币。这些信息将在 Arkham 获得批准后 90 天向公众发布。这表明有关 Kwon 和 Terra 钱包地址的所有信息可能会在 10 月底公开。\n此前消息，加密货币数据平台 Arkham 宣布推出链上情报交易平台 Arkham Intel Exchange，用户可通过智能合约匿名买卖任何区块链钱包地址所有者的信息：买家通过悬赏向社区索取情报，赏金猎人通过提交所要求的情报来获得奖励。此外，任何拥有钱包或其所有者的有价值信息的人都可以将这些信息以立即购买或通过拍卖的方式出售给其他用户。",
-          "link": "https://panewslab.com/zh/articledetails/vptg35bg.html",
-          "publishedOn": "2023-07-25T01:56:54.000Z",
-          "wordCount": 622,
-          "title": "Arkham Intel Exchange批准悬赏5000美元，以获取Do Kwon和Terra钱包信息",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/pdju9nbh.html",
-          "author": "PA一线",
-          "description": "PANews 7月25日消息，慢雾首席信息安全官 23pds 在推特发文表示，Apple store 出现恶意钓鱼程序，通过模仿正常应用程序盗取用户账号和密码，然后攻击者把自己的号码加入双重认证的信任号码，控制账号权限，用来绕过苹果的 2FA。23pds 提醒加密货币用户务必注意，因为目前有不少用户、钱包的备份方案是iCloud 备份，一旦被攻击，可能造成资产损失。",
-          "link": "https://panewslab.com/zh/articledetails/pdju9nbh.html",
-          "publishedOn": "2023-07-25T01:27:03.000Z",
-          "wordCount": 372,
-          "title": "慢雾：Apple Store出现恶意钓鱼程序，可模仿正常应用程序盗取账号密码",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/y976nqgc.html",
-          "author": "PA一线",
-          "description": "PANews 7月25日消息，据彭博社报道，马斯克下令将 Twitter 的产品名称更改为“X”，并取消蓝鸟标志和所有相关词语，包括“tweet”。据分析师和品牌机构称，马斯克的举动使公司价值损失了 40 亿至 200 亿美元。\nSiegel & Gale 品牌传播总监 Steve Susi 表示：“我们花了 15 年多的时间才在全球范围内赢得了如此多的追捧，因此失去 Twitter 这一品牌名称将带来重大的财务打击。”分析师和品牌机构称该产品的重命名是一个错误。品牌机构 Fazer 创始人 Todd Irwin 表示，Twitter 是最知名的社交媒体品牌之一。鸟类贴花与 Instagram 和 Facebook 徽标一起装饰着世界各地的小型企业和网站。Insider Intelligence 分析师Jasmine Enberg表示：“Twitter 的企业品牌已经与马斯克的个人品牌紧密相连，无论有没有 X 这个名字，Twitter 的大部分既定品牌资产已经在用户和广告商中流失。”",
-          "link": "https://panewslab.com/zh/articledetails/y976nqgc.html",
-          "publishedOn": "2023-07-25T01:23:18.000Z",
-          "wordCount": 445,
-          "title": "Twitter更改为X或将导致数十亿美元的品牌价值缩水",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3hqf32k9.html",
-          "author": "PA一线",
-          "description": "1.Worldcoin在Zora发布NFT收藏品，以纪念代币发行\n2.SBF已同意禁言令，将被禁止与媒体讨论可能干扰审判的事宜\n3.Connext推出代币标准xERC20，以降低流动性成本及提高桥接代币安全性\n4.币安和CZ向法院申请扩大法律备忘录页数限制，以发起动议驳回CFTC起诉\n5.Alchemy Pay宣布集成由SPACE ID提供支持的Web3域名服务\n6.普京正式签署在俄罗斯引入数字卢布的法律，新立法将于8月1日生效\n7.原Midas Investments创始人推出新的DeFi投资平台Locus Finance\nPANews APP积分——PT（葡萄）正式上线，立即下载，一起参与Read to Earn🍇\nPANews Telegram社群，立即加入\nPANews Telegram频道，立即订阅",
-          "link": "https://panewslab.com/zh/articledetails/3hqf32k9.html",
-          "publishedOn": "2023-07-25T01:16:11.000Z",
-          "wordCount": 445,
-          "title": "昨夜今晨重要资讯（7月24日-7月25日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/07/25/images/mJ5c96Q9ol.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/bqwsb66b.html",
-          "author": "PA一线",
-          "description": "PANews 7月25日消息，Bored Ape Yacht Club 宣布与 SaaSy Labs 合作推出链上许可申请平台 Made by Apes，会员可申请唯一链上许可、注册业务或产品（比如服装、食品、游戏、音乐等），该平台还可用于验证和区分 BAYC 和 MAYC 持有者的正品产品。目前已与 Ape Beverage、Applied Primate、Artin Motion、Bored Media Group 等合作，未来将推出更多社区产品。",
-          "link": "https://panewslab.com/zh/articledetails/bqwsb66b.html",
-          "publishedOn": "2023-07-25T01:11:17.000Z",
-          "wordCount": 452,
-          "title": "BAYC与SaaSy Labs合作推出链上许可申请平台Made by Apes，可验证和区分BAYC和MAYC是否为正品",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
