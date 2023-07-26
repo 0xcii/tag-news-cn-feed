@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T07:11:54.632Z</id>
+    <id>urn:2023-07-26T08:16:06.346Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-26T07:11:54.632Z</updated>
+    <updated>2023-07-26T08:16:06.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CertiK：Palmswap攻击事件分析]]></title>
+        <id>https://www.web3sj.com/?p=81725</id>
+        <link href="https://www.web3sj.com/news/81725/"/>
+        <updated>2023-07-26T07:16:27.000Z</updated>
+        <summary type="html"><![CDATA[在 2023 年 7 月 24 日，Palmswap 遭受了一次闪电贷攻击，导致损失约 901,000 美元。攻击最初是在区块 30248637 上由外部拥有的地址（EOA）0x5cf40 尝试发起的，但由于攻击者耗尽了 gas 费用而失败。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧易OKX策略跟单上线]]></title>
         <id>https://panewslab.com/zh/articledetails/wi1e9yvf.html</id>
@@ -179,16 +189,6 @@
         <link href="https://www.web3sj.com/news/81651/"/>
         <updated>2023-07-26T04:10:58.000Z</updated>
         <summary type="html"><![CDATA[顶着 OpenAI 的光环，不论是加密圈，还是科技圈都对 Worldcoin 的期待值拉满。但这次 Worldcoin 的代币上线，除了事发突然以外，与普通的代币发售没什么差别。唯一值得注意的是，整个代币上线的环节中，获取到大量代币的，只有五家做市商（MMs，market makers）。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代币经济学101：如何创造和积累真正的价值？]]></title>
-        <id>https://www.web3sj.com/?p=81648</id>
-        <link href="https://www.web3sj.com/news/81648/"/>
-        <updated>2023-07-26T04:03:45.000Z</updated>
-        <summary type="html"><![CDATA[目前有超过 2500 种代币。代币的类型已经超出了 L1 的范畴。区块链代币是用于保障区块链网络安全的代币。比特币（BTC）、以太坊（ETH）、SOL、AVAX 和 NEAR 是原生区块链代币的例子。在区块链上运行的协议和应用程序有自己的代币。在加密货币中，价值的创造和积累变得越来越重要。]]></summary>
         <author>
             <name>Gao</name>
         </author>
