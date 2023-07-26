@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T05:11:46.755Z</id>
+    <id>urn:2023-07-26T06:16:09.089Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-26T05:11:46.755Z</updated>
+    <updated>2023-07-26T06:16:09.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[深入探讨EigenLayer背后的投资逻辑]]></title>
+        <id>https://www.web3sj.com/?p=81700</id>
+        <link href="https://www.web3sj.com/news/81700/"/>
+        <updated>2023-07-26T06:10:43.000Z</updated>
+        <summary type="html"><![CDATA[EigenLayer 由 EigenLabs 开发，该实验室由首席执行官 Sreeram Kannan 领导。Sreeram 具有学术背景，是华盛顿大学的副教授。他们最近在测试网上启动，并在 Blockchain Capital 领投的 A 轮融资中筹集了 5000 万美元，Zonff Partners 很高兴作为参投方加入 EigenLayer 的本轮融资。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Messari：探索原生加密商业模式]]></title>
+        <id>https://www.web3sj.com/?p=81693</id>
+        <link href="https://www.web3sj.com/news/81693/"/>
+        <updated>2023-07-26T05:46:49.000Z</updated>
+        <summary type="html"><![CDATA[电子邮件是 Web1 中一个广泛使用的产品，但是却未能捕获价值的一个典型例子。SMTP（简单邮件传输协议）作为底层的开放、无需权限的协议，是电子邮件提供商所依赖的标准协议。然而，SMTP 的开放性在某种程度上起到了双刃剑的作用，导致公司构建了竞争激烈的产品，却几乎没有能力要求用户支付费用。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm发布英雄帖：重点关注链上游戏、加密原生社交、ZKP应用等十大赛道]]></title>
+        <id>https://www.web3sj.com/?p=81690</id>
+        <link href="https://www.web3sj.com/news/81690/"/>
+        <updated>2023-07-26T05:17:13.000Z</updated>
+        <summary type="html"><![CDATA[7 月 25 日，知名加密货币投资机构 Paradigm 在官网发布英雄帖《Collaborate with Paradigm》，阐述其如何帮助 Uniswap 、Flashbots 建设成长，并号召更多的创业者加入， Paradigm 还有能力承担 3 到 5 个深度合作项目的孵化，除了投资与研究，他们还承诺提供人才、法律 / 政策、设计、市场推广和数据等各方面支持。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫威之父斯坦·李NFT瞬间售罄，数字时代的超级英雄]]></title>
         <id>https://www.web3sj.com/?p=81686</id>
@@ -96,26 +126,6 @@
         <summary type="html"><![CDATA[PANews 7月26日消息，区块链分析公司 Chainalysis 宣布与四大会计师事务所德勤建立战略联盟，以帮助组织的共同客户应对数字资产生态系统合规挑战。通过该联盟，Chainalysis 和德勤的共同客户将能够利用 Chainalysis 的专有区块链数据集、行业领先的分析软件和培训计划以及德勤的服务，帮助客户管理取证、调查和合规计划。Chainalysis 将与德勤在加密货币和数字资产风险、分析、调查、反洗钱/了解你的客户 (AML/KYC) 和监管合规方面的区块链和数字资产实践合作。此外，德勤将扩大其在专注于区块链分析和调查的 Chainalysis 产品方面接受培训和认证的从业人员队伍。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除了Worldcoin，你必须了解的身份认证系统]]></title>
-        <id>https://www.web3sj.com/?p=81621</id>
-        <link href="https://www.web3sj.com/news/81621/"/>
-        <updated>2023-07-26T03:46:49.000Z</updated>
-        <summary type="html"><![CDATA[除此之外，前不久刚结束的 Linea 测试网活动，也针对女巫攻击引入了身份认证的环节。完成身份认证的用户，可以额外获得 2500 分。当下项目方对于女巫的态度已经可见一斑，做好账号认证已经成为每个项目交互人的必修课，今天这篇文章就给大家介绍几个热门的身份认证和防女巫的项目。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polyhedra Network如何通过zkBridge实现以太坊全节点ZK证明？]]></title>
-        <id>https://www.web3sj.com/?p=81617</id>
-        <link href="https://www.web3sj.com/news/81617/"/>
-        <updated>2023-07-26T03:37:33.000Z</updated>
-        <summary type="html"><![CDATA[Polyhedra Network 设计并实施了 zkBridge 系统，以证明以太坊 PoS 的全节点（当前总共质押的 ETH 的总价值约为 400 亿美元）。 Polyhedra Network 在 LayerZero 上的所有以太坊及其 rollups （例如 Arbitrum 、Linea 、Optimism 、zkSync 、Mantle 等）的 zk 客户端都将基于以太坊全节点的 ZK 证明。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -352,16 +362,6 @@ PSC 的昵称是 Kluk，可能是由于其鸟标志，是在 5 月份推出的 R
         <summary type="html"><![CDATA[PANews 7月26日消息，据CoinDesk报道，美国司法部 (DOJ)已向联邦法官申请6至8周时间来为针对Celsius及其前CEO Alex Mashinsky的案件整理证据。DOJ律师称，他们需要时间来整理Celsius的大量公司记录和通讯，其中包括Mashinsky和其他Celsius高管的1200个问答环节视频。据此前消息，美国证券交易委员会（SEC）在曼哈顿联邦法院对Celsius Network及其前CEO Alex Mashinsky提起诉讼。Mashinsky被指控涉嫌证券欺诈、商品欺诈、电信欺诈和操纵加密货币。Mashinsky被捕后对七项罪名表示不认罪，纽约南区地方法院法官John G. Koeltl将下次会议日期定在10月3日。审判日期仍有待确定。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-7.25）]]></title>
-        <id>https://www.web3sj.com/?p=81593</id>
-        <link href="https://www.web3sj.com/news/81593/"/>
-        <updated>2023-07-25T11:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Optimism更新OP Stack首个故障证明系统。ETF发行商Global X向美SEC申请比特币趋势策略ETF。Apple Store出现恶意钓鱼程序，可模仿正常应用程序盗取账号密码。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
