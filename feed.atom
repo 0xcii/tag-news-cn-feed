@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-26T03:12:50.780Z</id>
+    <id>urn:2023-07-26T04:14:38.489Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-26T03:12:50.780Z</updated>
+    <updated>2023-07-26T04:14:38.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[世界币，难谈公平？]]></title>
+        <id>https://www.web3sj.com/?p=81651</id>
+        <link href="https://www.web3sj.com/news/81651/"/>
+        <updated>2023-07-26T04:10:58.000Z</updated>
+        <summary type="html"><![CDATA[顶着 OpenAI 的光环，不论是加密圈，还是科技圈都对 Worldcoin 的期待值拉满。但这次 Worldcoin 的代币上线，除了事发突然以外，与普通的代币发售没什么差别。唯一值得注意的是，整个代币上线的环节中，获取到大量代币的，只有五家做市商（MMs，market makers）。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代币经济学101：如何创造和积累真正的价值？]]></title>
+        <id>https://www.web3sj.com/?p=81648</id>
+        <link href="https://www.web3sj.com/news/81648/"/>
+        <updated>2023-07-26T04:03:45.000Z</updated>
+        <summary type="html"><![CDATA[目前有超过 2500 种代币。代币的类型已经超出了 L1 的范畴。区块链代币是用于保障区块链网络安全的代币。比特币（BTC）、以太坊（ETH）、SOL、AVAX 和 NEAR 是原生区块链代币的例子。在区块链上运行的协议和应用程序有自己的代币。在加密货币中，价值的创造和积累变得越来越重要。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Bot代表项目盘点]]></title>
+        <id>https://www.web3sj.com/?p=81644</id>
+        <link href="https://www.web3sj.com/news/81644/"/>
+        <updated>2023-07-26T03:52:54.000Z</updated>
+        <summary type="html"><![CDATA[最近 Telegram Bot 赛道异军突起，成为加密行业备受关注的新兴赛道。在 Telegram 的庞大用户群体背景下，Telegram Bot 应运而生，旨在满足用户的交互需求、自动化客户服务和流程优化。针对加密金融领域的 Telegram Bot 让用户可在 Telegram 平台上体验转账支付等金融服务，无需离开 Telegram 即可享受一站式服务体验。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了Worldcoin，你必须了解的身份认证系统]]></title>
+        <id>https://www.web3sj.com/?p=81621</id>
+        <link href="https://www.web3sj.com/news/81621/"/>
+        <updated>2023-07-26T03:46:49.000Z</updated>
+        <summary type="html"><![CDATA[除此之外，前不久刚结束的 Linea 测试网活动，也针对女巫攻击引入了身份认证的环节。完成身份认证的用户，可以额外获得 2500 分。当下项目方对于女巫的态度已经可见一斑，做好账号认证已经成为每个项目交互人的必修课，今天这篇文章就给大家介绍几个热门的身份认证和防女巫的项目。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polyhedra Network如何通过zkBridge实现以太坊全节点ZK证明？]]></title>
+        <id>https://www.web3sj.com/?p=81617</id>
+        <link href="https://www.web3sj.com/news/81617/"/>
+        <updated>2023-07-26T03:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Polyhedra Network 设计并实施了 zkBridge 系统，以证明以太坊 PoS 的全节点（当前总共质押的 ETH 的总价值约为 400 亿美元）。 Polyhedra Network 在 LayerZero 上的所有以太坊及其 rollups （例如 Arbitrum 、Linea 、Optimism 、zkSync 、Mantle 等）的 zk 客户端都将基于以太坊全节点的 ZK 证明。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：某巨鲸一小时前抛售1598枚MKR]]></title>
         <id>https://panewslab.com/zh/articledetails/tmftctdj.html</id>
@@ -232,56 +282,6 @@ PSC 的昵称是 Kluk，可能是由于其鸟标志，是在 5 月份推出的 R
         <link href="https://www.web3sj.com/news/81556/"/>
         <updated>2023-07-25T08:52:27.000Z</updated>
         <summary type="html"><![CDATA[本文从 Coinbase Wallet 新上线的钱包内置聊天功能出发，进而分析其背后提供支持的 Web3 通信协议 XMTP 在商业上的潜力，而支撑这种去中心化商业可能性的根本是「只有 Web3 产品能提供、且对应的互联网产品无法提供的 Web3 原生体验」，对于 XMTP 用户来说，这种最为直观的「加密原生体验」就是「可以和朋友跨应用实时聊天」，相当于打通微信和支付宝账号的聊天 / 支付。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解比特币扩容解决方案Stacks：引入智能合约来增强比特币功能]]></title>
-        <id>https://www.web3sj.com/?p=81534</id>
-        <link href="https://www.web3sj.com/news/81534/"/>
-        <updated>2023-07-25T03:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Stacks 是一个建立在比特币之上的开源平台，它通过引入智能合约和去中心化应用（DApps）来增强比特币的功能。Stacks 是一个区块链解决方案，它利用比特币的安全性和共识机制，同时提供高吞吐量和低延迟的交易。Stacks 还实现了一个无需信任的双向比特币锚定机制，使得比特币可以在 Stacks 层上自由流通和使用。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解Starknet高性能定序器Madara]]></title>
-        <id>https://www.web3sj.com/?p=81526</id>
-        <link href="https://www.web3sj.com/news/81526/"/>
-        <updated>2023-07-25T03:19:31.000Z</updated>
-        <summary type="html"><![CDATA[想象一下，如果你可以根据自己的应用程序的独特需求定制一个区块链 — 这正是应用链所提供的功能。应用链是针对应用程序定制的区块链，它为开发者提供了灵活性，来微调链的各个方面以满足其应用程序的需求，例如选择不同的哈希函数或自定义共识算法。最棒的是，建立在强大的 L1 或 L2 上的应用链，并继承 L1 或 L2 的安全性，为开发者提供了两全其美的解决方案。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Layer2大战一触即发，系统梳理11大Layer2网络最新进展]]></title>
-        <id>https://www.web3sj.com/?p=81509</id>
-        <link href="https://www.web3sj.com/news/81509/"/>
-        <updated>2023-07-25T03:10:53.000Z</updated>
-        <summary type="html"><![CDATA[7 月 12 日，基于 ZK 的 Layer1 公链 Manta Network 宣布基于 OP Stack 推出专为零知识证明（ZK）应用设计的 Layer2 网络 Manta Pacific，随后 7 月 19 日，其开发商 p0x labs 以 5 亿美元估值完成 2500 万美元 A 轮融资，由 Polychain Capital 和启明创投共同领投。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突然爆红后的Unibot和Telegram Bot赛道，还值得入手吗？]]></title>
-        <id>https://www.web3sj.com/?p=81503</id>
-        <link href="https://www.web3sj.com/news/81503/"/>
-        <updated>2023-07-25T03:03:42.000Z</updated>
-        <summary type="html"><![CDATA[简而言之，Telegram Bot 是在 Telegram 上提供各种 DeFi 交易工具的机器人，在输入你的钱包助记词后可为你执行某些指令，例如代币交换、跟单交易、分析、自动刷空投交易、资产跨链等等。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L1之外的代币没有价值？剖析代币价值来源]]></title>
-        <id>https://www.web3sj.com/?p=81500</id>
-        <link href="https://www.web3sj.com/news/81500/"/>
-        <updated>2023-07-25T02:57:45.000Z</updated>
-        <summary type="html"><![CDATA[当前加密市场有超过 2500 个代币。代币的类型已经远超出了原生 Layer 1 区块链代币的范围。BTC、ETH、SOL、AVAX 和 NEAR 是原生区块链代币的代表。在区块链上运行的协议和应用程序也可以有自己的代币。加密货币中的价值创造和增值变得越来越重要，并且在原生 Layer 1 区块链代币和应用成效代币之间出现了分水岭。]]></summary>
         <author>
             <name>Gao</name>
         </author>
