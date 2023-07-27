@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T08:15:58.373Z</id>
+    <id>urn:2023-07-27T09:12:53.566Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-27T08:15:58.373Z</updated>
+    <updated>2023-07-27T09:12:53.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ConsenSys领军的Linea登场：突破ZK Rollup限制，实现EVM完全兼容]]></title>
+        <id>https://www.web3sj.com/?p=81899</id>
+        <link href="https://www.web3sj.com/news/81899/"/>
+        <updated>2023-07-27T08:15:47.000Z</updated>
+        <summary type="html"><![CDATA[因此，为解决 ZK Rollup 不兼容 EVM 的问题，ZK-EVM 应运而生，而本文的主角 Linea 则是 ZK-EVM Types 中能够等效 EVM 的 Type 2 ZK-EVM，它允许开发者构建可扩展的去中心化应用或直接迁移现有的 dapp 而无需更改代码或重写智能合约。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：约2万枚ETH从未知钱包转移到Coinbase]]></title>
         <id>https://panewslab.com/zh/articledetails/62flqnm9.html</id>
@@ -275,16 +285,6 @@
         <link href="https://www.web3sj.com/knowledge/81830/"/>
         <updated>2023-07-27T03:57:46.000Z</updated>
         <summary type="html"><![CDATA[侧链和 Rollups 在其扩展方法上根本不同，并且在设计决策和权衡上也有所不同。对于希望利用这两种解决方案构建可扩展的 dapp 的开发者来说，了解它们的区别非常重要。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双重叙事下Solana生态概览]]></title>
-        <id>https://www.web3sj.com/?p=81814</id>
-        <link href="https://www.web3sj.com/news/81814/"/>
-        <updated>2023-07-27T03:52:04.000Z</updated>
-        <summary type="html"><![CDATA[目前生态内流动性质押板块占主导地位，龙头 Marinade 占据 Solana 46% 的市场份额，其余流动性质押协议近一月 TVL 涨幅主要由 SOL 代币价格上涨带动。链上两大借贷协议的资金利用率分别约为 16% 和 21%，远低于以太坊。链上原生 DEX 运营也相对保守，无太大看点。]]></summary>
         <author>
             <name>Gao</name>
         </author>

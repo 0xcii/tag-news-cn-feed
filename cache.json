@@ -11,7 +11,7 @@
           "description": "AI引发好莱坞罢工事件的反思",
           "link": "https://www.defidaonews.com/article/6826486",
           "publishedOn": "2023-07-20T08:33:07.000Z",
-          "wordCount": 135,
+          "wordCount": 138,
           "title": "AI 演员：好莱坞罢工后的下一件大事？",
           "imageUrl": "https://appserversrc.8btc.cn/Fr0g11sK4QOEgWsoduQJ8FFwXM-B.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "风口就是FOMO。",
           "link": "https://www.defidaonews.com/article/6826706",
           "publishedOn": "2023-07-19T09:28:12.000Z",
-          "wordCount": 428,
+          "wordCount": 418,
           "title": "巴比特 | 元宇宙每日必读：28家AI企业集体赴港IPO，业绩惨谈，经营亏损，这是AI下半场的起点，还是资本炒作到顶峰的标志？",
           "imageUrl": "https://appserversrc.8btc.cn/lkGWxO3dyH9NoA8gd6p3xsIJKsjp.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "要论商业敏感度，我只服淘宝店家",
           "link": "https://www.defidaonews.com/article/6826416",
           "publishedOn": "2023-07-17T09:16:51.000Z",
-          "wordCount": 140,
+          "wordCount": 138,
           "title": "开眼界了，AI绘画商业化最强玩家是“淘宝商家”",
           "imageUrl": "https://appserversrc.8btc.cn/FhF4d_K7j6cvA35KWE0GkVLEavkO.png?imageView2/1/w/500/h/300"
         },
@@ -53,12 +53,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=81899",
+          "author": "Gao",
+          "description": "因此，为解决 ZK Rollup 不兼容 EVM 的问题，ZK-EVM 应运而生，而本文的主角 Linea 则是 ZK-EVM Types 中能够等效 EVM 的 Type 2 ZK-EVM，它允许开发者构建可扩展的去中心化应用或直接迁移现有的 dapp 而无需更改代码或重写智能合约。",
+          "link": "https://www.web3sj.com/news/81899/",
+          "publishedOn": "2023-07-27T08:15:47.000Z",
+          "wordCount": 2021,
+          "title": "ConsenSys领军的Linea登场：突破ZK Rollup限制，实现EVM完全兼容",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690445735888.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=81890",
           "author": "Gao",
           "description": "美国国债属于 RWA（Real World Assets）的一种，RWA 的代币化将链上和链下打通，是在监管制度日趋完善下，区块链技术大规模应用的一个方向。本文针对将美债收入引入链上的话题，从美债代币化和间接引入美债收入的案例，讨论美债与 Token 结合的方式，这也是 RWA 代币化的一种。",
           "link": "https://www.web3sj.com/news/81890/",
           "publishedOn": "2023-07-27T07:26:22.000Z",
-          "wordCount": 1126,
+          "wordCount": 1130,
           "title": "HashKey：以美国国债为例讨论RWA的代币化",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690442770445.png"
         },
@@ -68,7 +78,7 @@
           "description": "首先，要注意的是，现实世界资产代币化（RWA）是加密货币目前最重要的增长领域。世界上的每一种资产最终都将被代币化。这一领域已经开始进入其 S 曲线的垂直部分。在评估特定链的成功与否时，代币化资产的市值统计可能很快就会和 DeFi TVL 或稳定币市值一样重要，甚至更重要。",
           "link": "https://www.web3sj.com/definews/81875/",
           "publishedOn": "2023-07-27T06:39:52.000Z",
-          "wordCount": 707,
+          "wordCount": 725,
           "title": "为什么以太坊将是承载RWA最好的市场？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690439979493.png"
         },
@@ -78,7 +88,7 @@
           "description": "除了 Optimism 和 Arbitrum 这两个目前最大的 Layer 2，在这篇文章中，我将介绍一些其它值得密切关注的潜力 Layer2 项目。",
           "link": "https://www.web3sj.com/news/81871/",
           "publishedOn": "2023-07-27T05:43:19.000Z",
-          "wordCount": 770,
+          "wordCount": 795,
           "title": "L2时代来临，哪些L2项目值得关注?",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690436584947.png"
         },
@@ -88,7 +98,7 @@
           "description": "但相对的，坏人们的作恶手段也更加高明与隐蔽。近期，慢雾安全团队收到来自 PancakeSwap 社区用户的求助，其参与项目时观察到，在项目代币没有任何增发记录的情况下，恶意用户使用未被记录的大量增发代币卷走了池子中的资金。",
           "link": "https://www.web3sj.com/news/81856/",
           "publishedOn": "2023-07-27T05:34:15.000Z",
-          "wordCount": 781,
+          "wordCount": 795,
           "title": "警惕隐蔽的Rug Pull，合约存储引起的跑路盘",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690436025064.png"
         },
@@ -98,7 +108,7 @@
           "description": "ENS，全称是 Ethereum Name Service，即运行在以太坊网络上的域名服务，主域名可以充当用户跨平台 Web3 用户名和 Profile，还允许直接访问去中心化网站。ANS，全称是 Arweave Name Service，即运行在 Arweave 上的域名服务。在 ENS 模式取得成功之后，一条公链至少应该拥有钱包、DEX 和域名服务，这样才能形成公链的基础生态。",
           "link": "https://www.web3sj.com/news/81844/",
           "publishedOn": "2023-07-27T05:30:32.000Z",
-          "wordCount": 1152,
+          "wordCount": 1169,
           "title": "比较研究：ANS和ENS的异同之处",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/13266-1690254710964.png"
         },
@@ -108,7 +118,7 @@
           "description": "NFT（非同质化代币）的概念最早可以追溯到 2012 年，当时在比特币区块链上出现了一种叫做彩色硬币（Colored Coins）的资产。这些彩色硬币可以代表任何非货币的东西，比如股票、债券、收藏品。",
           "link": "https://www.web3sj.com/nftnews/81838/",
           "publishedOn": "2023-07-27T05:26:35.000Z",
-          "wordCount": 1087,
+          "wordCount": 1102,
           "title": "NFT生存思考：信任破裂后，Azuki路在何方？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690435583766.png"
         },
@@ -118,7 +128,7 @@
           "description": "而同此次中国香港同期部署设备的还有美国、日本、韩国、新加坡、法国、德国、英国等国家和地区。Worldcoin 此举的目标是将全球超过 35 个城市的可用 Orb 数量增加到 1500 个，从而进一步扩大在线隐私保护人格证明的规模。",
           "link": "https://www.web3sj.com/news/81836/",
           "publishedOn": "2023-07-27T05:20:39.000Z",
-          "wordCount": 893,
+          "wordCount": 873,
           "title": "Worldcoin入驻香港，如何线下参与？",
           "imageUrl": "https://www.web3sj.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png"
         },
@@ -128,7 +138,7 @@
           "description": "a16z 的 @NoahCitron 认为 Optimistic Rollup 可能更适合高吞吐量和低可组合性应用程序，链上游戏就是这类用例。他提到 ZK Rollup 可能会在 DeFi 等需要原子可组合性的应用程序中胜出。如果一个应用程序并不真正需要与其他应用程序组合，那么将它隔离在自己的执行环境中是合理的。",
           "link": "https://www.web3sj.com/news/81833/",
           "publishedOn": "2023-07-27T05:16:26.000Z",
-          "wordCount": 713,
+          "wordCount": 709,
           "title": "扩容终局之外，Optimistic Rollup相比ZK Rollup有哪些用例优势？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690434966599.png"
         },
@@ -138,19 +148,9 @@
           "description": "侧链和 Rollups 在其扩展方法上根本不同，并且在设计决策和权衡上也有所不同。对于希望利用这两种解决方案构建可扩展的 dapp 的开发者来说，了解它们的区别非常重要。",
           "link": "https://www.web3sj.com/knowledge/81830/",
           "publishedOn": "2023-07-27T03:57:46.000Z",
-          "wordCount": 922,
+          "wordCount": 912,
           "title": "侧链 vs Rollup: 可扩展解决方案的区别与选择",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690430216101.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=81814",
-          "author": "Gao",
-          "description": "目前生态内流动性质押板块占主导地位，龙头 Marinade 占据 Solana 46% 的市场份额，其余流动性质押协议近一月 TVL 涨幅主要由 SOL 代币价格上涨带动。链上两大借贷协议的资金利用率分别约为 16% 和 21%，远低于以太坊。链上原生 DEX 运营也相对保守，无太大看点。",
-          "link": "https://www.web3sj.com/news/81814/",
-          "publishedOn": "2023-07-27T03:52:04.000Z",
-          "wordCount": 1056,
-          "title": "双重叙事下Solana生态概览",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/07/1690429910629.png"
         }
       ]
     },
