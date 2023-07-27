@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-27T03:13:25.748Z</id>
+    <id>urn:2023-07-27T04:14:25.653Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-27T03:13:25.748Z</updated>
+    <updated>2023-07-27T04:14:25.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[侧链 vs Rollup: 可扩展解决方案的区别与选择]]></title>
+        <id>https://www.web3sj.com/?p=81830</id>
+        <link href="https://www.web3sj.com/knowledge/81830/"/>
+        <updated>2023-07-27T03:57:46.000Z</updated>
+        <summary type="html"><![CDATA[侧链和 Rollups 在其扩展方法上根本不同，并且在设计决策和权衡上也有所不同。对于希望利用这两种解决方案构建可扩展的 dapp 的开发者来说，了解它们的区别非常重要。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双重叙事下Solana生态概览]]></title>
+        <id>https://www.web3sj.com/?p=81814</id>
+        <link href="https://www.web3sj.com/news/81814/"/>
+        <updated>2023-07-27T03:52:04.000Z</updated>
+        <summary type="html"><![CDATA[目前生态内流动性质押板块占主导地位，龙头 Marinade 占据 Solana 46% 的市场份额，其余流动性质押协议近一月 TVL 涨幅主要由 SOL 代币价格上涨带动。链上两大借贷协议的资金利用率分别约为 16% 和 21%，远低于以太坊。链上原生 DEX 运营也相对保守，无太大看点。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[难评的Worldcoin，正在登月中]]></title>
+        <id>https://www.web3sj.com/?p=81806</id>
+        <link href="https://www.web3sj.com/news/81806/"/>
+        <updated>2023-07-27T03:45:26.000Z</updated>
+        <summary type="html"><![CDATA[7 月 24 日，Worldcoin 发布了 Sam Altman 的署名公开信，信件内容阐述了其愿景与挑战，随后宣布正式推出 Worldcoin token（WLD）和 World App。颇为耐人寻味的是，尽管该公开信中强调 Worldcoin 的目的地是最终展示一条通往人工智能资助的 UBI 潜在路径，但在整篇信中占据最大篇幅的仍是 World ID 与生物识别设备 Orb，描述重心逐渐从 UBI 转移至人格证明，即一种在兼顾私密性的前提下让用户对外证明自己是一个真实且独特的人的证明方法。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨链交易协议THORChain推出Streaming Swaps功能，可将大宗交易拆分为子交易]]></title>
+        <id>https://panewslab.com/zh/articledetails/j39ecwx3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j39ecwx3.html"/>
+        <updated>2023-07-27T03:44:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月27日消息，据官方公告，去中心化跨链交易协议THORChain推出Streaming Swaps功能，允许用户通过将大宗交易拆分为子交易（sub-swaps）以获得更好的执行价格，用户可以在时间优化swaps或价格优化swaps之间选择。Streaming Swaps类似于时间加权平均价格 (TWAP)交易，仅限于 24 小时。用户（或界面）可以指定两个附加参数来对跨时间维度发生的子交易进行调整。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3移动应用开发工具一览]]></title>
+        <id>https://www.web3sj.com/?p=81803</id>
+        <link href="https://www.web3sj.com/news/81803/"/>
+        <updated>2023-07-27T03:39:34.000Z</updated>
+        <summary type="html"><![CDATA[为了获得更多的应用，Web3 需要超越桌面并进入用户的口袋。超过一半的网站流量都是来自移动设备，而且这个数字还在继续增长。Web3 空间创造了优秀的应用程序，但它受到一些因素的限制。其中最大的是本地支持。虽然没有人可以自己解决问题，但请务必牢记这一点。低摩擦体验将会带来更多的用户。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国虚拟资产犯罪联合调查组对Delio、Haru Invest及WeMade的加密诈骗指控展开调查]]></title>
+        <id>https://panewslab.com/zh/articledetails/y7wnrduf.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y7wnrduf.html"/>
+        <updated>2023-07-27T03:11:38.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月27日消息，据 hankyung 报道，韩国虚拟资产犯罪联合调查组已对三项与虚拟资产（加密货币）相关的诈骗指控展开调查，包括 Delio 和 Haru Invest 高管涉嫌欺诈、Pica 发行方 Pica Project 高管涉嫌欺诈以及 Wemix 发行方 WeMade 高管涉嫌欺诈。
+昨日消息，韩国“虚拟资产犯罪联合调查组”正式成立，韩国检察长李元锡在“虚拟资产犯罪联合调查组”成立仪式上表示，通过消除不法行为等风险来提高透明度和可靠性，希望不仅能够为市场参与者的保护做出贡献，还能为国民经济的发展做出贡献。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安新增ARKM/RUB、WLD/RUB、WLD/TRY交易对]]></title>
+        <id>https://panewslab.com/zh/articledetails/wu4frwus.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wu4frwus.html"/>
+        <updated>2023-07-27T03:04:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月27日消息，据官方公告，币安将于7月28日16:00（北京时间）上线 ARKM/RUB、WLD/RUB、WLD/TRY交易对。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm将300余万美元的MKR转至OTC地址]]></title>
+        <id>https://panewslab.com/zh/articledetails/6ho12kbk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6ho12kbk.html"/>
+        <updated>2023-07-27T02:52:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月27日消息，加密 KOL Joe | 0xOsprey.eth发推表示，Paradigm 将 300 余万美元的 MKR 转移到 OTC 地址。此外据链上分析师余烬监测，最近 5 天有 5114 枚 MKR（价值约570万美元）从币安提出至 FalconX，均价 1115 美元；a16z 在 7月21日转出的 8050 枚 MKR 以五等均分，每天将五分之一转入 Coinbase。 最后一笔 (1610 枚 MKR) 已在 12 小时前转入 Coinbase。 a16z 目前还持有 14460 MKR（约1727万美元）。
+昨日消息，据Lookonchain监测，Paradigm地址取消了3000枚MKR（价值约337万美元）质押。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国检察官将撤销对SBF的非法竞选捐款指控]]></title>
+        <id>https://panewslab.com/zh/articledetails/1lfi49q3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1lfi49q3.html"/>
+        <updated>2023-07-27T02:45:36.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月27日消息，据彭博社报道，美国检察官 Damian Williams 表示将撤销对 FTX 创始人 SBF 非法竞选捐款的指控，称根据对巴哈马的条约义务，美国政府不打算就竞选捐款指控进行审判。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flipside等13家Web3公司联合推出加密数据平台LiveQuery]]></title>
+        <id>https://panewslab.com/zh/articledetails/ralrw2r4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ralrw2r4.html"/>
+        <updated>2023-07-27T02:06:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月27日消息，据PR Newswire报道，数据提供商 Flipside 与 QuickNode、Alchemy、Helius、Footprint、Playgrounds、StrangeLove、DappLooker、Credmark、Blockpour、BitQuery、SubQuery 和 Chainbase 联合推出加密数据平台 LiveQuery，任何人都可以与 SQL 并行实时查询理论上无限的链上和链下数据 API。分析师不需要在平台之间导航，从不同来源手动收集数据。此外，他们现在可以在单个查询中组合数据集，解锁以前不可能的用例。
+除了统一的加密数据，此外还包括股票、体育、美联储，甚至人工智能数据。Flipside 正在接受API 请求，这意味着任何 API 都可以添加到 LiveQuery 的市场中以方便访问。任何 API 都可以在平台内以编程方式进行查询。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arkham支持用户申领唯一用户名，用户名将用于即将发布的各种功能]]></title>
+        <id>https://panewslab.com/zh/articledetails/rkrtd9w2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rkrtd9w2.html"/>
+        <updated>2023-07-27T01:57:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月27日消息，加密数据分析平台 Arkham 发推表示已支持用户申领用户名，作为唯一用户名只能填写并申领一次，用户名将用于即将发布的各种功能。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国众议院金融服务委员会批准加密货币监管框架法案]]></title>
         <id>https://panewslab.com/zh/articledetails/dq06pmpu.html</id>
@@ -151,37 +264,6 @@ Meta 的财务主管 Susan Li 表示，Reality Labs 的收入下降是由于其 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[去中心化GPU基础设施开发商Aethir以1.5亿美元估值完成900万美元Pre-A轮融资，Hashkey等领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/yyjs9dha.html</id>
-        <link href="https://panewslab.com/zh/articledetails/yyjs9dha.html"/>
-        <updated>2023-07-26T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月27日消息，去中心化 GPU 基础设施开发商 Aethir 宣布以 1.5 亿美元估值完成 900 万美元 Pre-A 轮融资。据悉本轮融资是在 Framework Ventures 和 Infinity Ventures Crypto 领投的种子轮融资之后的又一轮融资，此轮由 Sanctor Capital、Hashkey、Merit Circle 和 CitizenX 等领投，并得到了 Mirana Ventures、Animoca Brands、Momentum6、Big Brain Holdings、Builder Capital、Tess Ventures、Maelstrom (Arthur Hayes) 等机构的大力支持。
-据悉，Aethir 是全球云计算行业的资深人士于2021年在新加坡成立的去中心化网络基础建设项目 ( Depin ) ，旨在用去中心化的方式，建立覆盖全球的超大规模的 GPU 云基础设施。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鲍威尔：未来加息将依赖数据，如有必要或将在9月加息]]></title>
-        <id>https://panewslab.com/zh/articledetails/9vlpind5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9vlpind5.html"/>
-        <updated>2023-07-26T18:41:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月27日消息，美联储主席鲍威尔在新闻发布会上表示，致力于实现双重使命，致力于让通胀回到2%。加息的全部影响还没显现，经济活动以温和的速度扩张。劳动力市场仍然非常紧张，就业增长依然强劲。通胀已经在一定程度上得到了缓解，通胀回落到2%还有很长的路要走。核心通胀仍然相当高，需要继续抗通胀。需要将利率保持在较高的水平“一段时间”。FOMC未来的加息将依赖数据，尚未就任何未来会议做出决定。如果数据显示有需要，美联储可能会在9月份加息。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储再次加息25个基点，为2001年以来最高水平]]></title>
-        <id>https://panewslab.com/zh/articledetails/14x17p40.html</id>
-        <link href="https://panewslab.com/zh/articledetails/14x17p40.html"/>
-        <updated>2023-07-26T18:02:28.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月27日消息，美联储将基准利率上调25个基点至5.25%-5.50%区间，达到2001年以来的最高水平，符合市场预期。美联储FOMC声明中称，委员们一致同意此次的利率决定，将继续评估更多信息。鉴于通胀上升，美联储将高度关注通胀风险，并考虑进一步收紧货币政策以抑制通胀。联邦基金利率期货显示，美联储9月加息的可能性为18%，11月加息的可能性为36.5%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-7.26）]]></title>
         <id>https://www.web3sj.com/?p=81769</id>
         <link href="https://www.web3sj.com/news/81769/"/>
@@ -291,46 +373,6 @@ Meta 的财务主管 Susan Li 表示，Reality Labs 的收入下降是由于其 
         <link href="https://www.web3sj.com/news/81693/"/>
         <updated>2023-07-26T05:46:49.000Z</updated>
         <summary type="html"><![CDATA[电子邮件是 Web1 中一个广泛使用的产品，但是却未能捕获价值的一个典型例子。SMTP（简单邮件传输协议）作为底层的开放、无需权限的协议，是电子邮件提供商所依赖的标准协议。然而，SMTP 的开放性在某种程度上起到了双刃剑的作用，导致公司构建了竞争激烈的产品，却几乎没有能力要求用户支付费用。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm发布英雄帖：重点关注链上游戏、加密原生社交、ZKP应用等十大赛道]]></title>
-        <id>https://www.web3sj.com/?p=81690</id>
-        <link href="https://www.web3sj.com/news/81690/"/>
-        <updated>2023-07-26T05:17:13.000Z</updated>
-        <summary type="html"><![CDATA[7 月 25 日，知名加密货币投资机构 Paradigm 在官网发布英雄帖《Collaborate with Paradigm》，阐述其如何帮助 Uniswap 、Flashbots 建设成长，并号召更多的创业者加入， Paradigm 还有能力承担 3 到 5 个深度合作项目的孵化，除了投资与研究，他们还承诺提供人才、法律 / 政策、设计、市场推广和数据等各方面支持。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫威之父斯坦·李NFT瞬间售罄，数字时代的超级英雄]]></title>
-        <id>https://www.web3sj.com/?p=81686</id>
-        <link href="https://www.web3sj.com/nftnews/81686/"/>
-        <updated>2023-07-26T05:10:49.000Z</updated>
-        <summary type="html"><![CDATA[纽约时间周一，Kartoon Studios Inc.宣布斯坦·李 NFT 一经推出便迅速售罄，这是斯坦·李收藏品宇宙的一个极其重要的时刻。这个系列是为了纪念这位传奇漫画家诞辰 100 周年而推出的。尽管整个 NFT 市场复苏乏力，但这些虚拟资产仍引起了巨大的需求，俘获了粉丝和收藏家们的心。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共识与非共识：熊市中的逆周期方向]]></title>
-        <id>https://www.web3sj.com/?p=81676</id>
-        <link href="https://www.web3sj.com/news/81676/"/>
-        <updated>2023-07-26T04:56:32.000Z</updated>
-        <summary type="html"><![CDATA[一级市场冷清太久了，已经很久没有看到新东西出现。但理论上，对于 VC 来说，熊市正是逆周期入场的时间点。基于这个判断，6 月我去了一趟新加坡，和很多老朋友与新朋友们讨论了在熊市里的方向，发现了很多行业里现存的共识与非共识，也沉淀了一些思考。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观点：熊市抄底，不要选择Meme]]></title>
-        <id>https://www.web3sj.com/?p=81671</id>
-        <link href="https://www.web3sj.com/news/81671/"/>
-        <updated>2023-07-26T04:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Meme（模因）是一种文化和信息自我繁衍、复制和传播的现象，Meme 代币则是具有模因属性的加密项目的代币。其特点之一是代币本身一般没有直接的价值捕获，而项目往往寄生或衍生自加密世界之外的模因 IP，比如 Doge 的柴犬，Pepe 的 Pepe 蛙，或是近期很火爆、代币名为 Bitcoin 的哈利波特、奥巴马和索尼克（叠了四层 Buff）。]]></summary>
         <author>
             <name>Gao</name>
         </author>
