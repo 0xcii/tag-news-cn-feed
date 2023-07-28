@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-28T05:12:15.153Z</id>
+    <id>urn:2023-07-28T06:16:11.741Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-28T05:12:15.153Z</updated>
+    <updated>2023-07-28T06:16:11.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana DeFi 2.0？ 盘点值得关注的生态项目]]></title>
+        <id>https://www.web3sj.com/?p=82042</id>
+        <link href="https://www.web3sj.com/definews/82042/"/>
+        <updated>2023-07-28T05:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Solana 基金会发布了许多更新，这对性能产生了明显影响。实际上 Solana 的表现超过了 Rollups。在 FTX 崩溃后，资本从链上撤离，这显然对 DeFi 造成了伤害。但新的 Solana DeFi 协议正在出现，并希望通过创新的奖励计划建立他们的社区。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[zkSync大退坡：空投NFT被质疑内幕，生态项目密集Rug，TVL骤降….]]></title>
         <id>https://www.web3sj.com/?p=82036</id>
@@ -334,16 +344,6 @@ Munter 继续说道，根据 1934 年《证券交易法》，会计师事务所�
         <link href="https://www.web3sj.com/news/81930/"/>
         <updated>2023-07-27T11:04:43.000Z</updated>
         <summary type="html"><![CDATA[美国众议院金融服务委员会主席：作为投资合同提供的加密货币不会成为“证券”。贝莱德：投资组合中84.9%的资金用于配置比特币可显著提高投资回报。美国众议院金融服务委员会通过《区块链监管确定法案》，确保加密开发商和非托管服务提供商不被视为货币转移者。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ConsenSys领军的Linea登场：突破ZK Rollup限制，实现EVM完全兼容]]></title>
-        <id>https://www.web3sj.com/?p=81899</id>
-        <link href="https://www.web3sj.com/news/81899/"/>
-        <updated>2023-07-27T08:15:47.000Z</updated>
-        <summary type="html"><![CDATA[因此，为解决 ZK Rollup 不兼容 EVM 的问题，ZK-EVM 应运而生，而本文的主角 Linea 则是 ZK-EVM Types 中能够等效 EVM 的 Type 2 ZK-EVM，它允许开发者构建可扩展的去中心化应用或直接迁移现有的 dapp 而无需更改代码或重写智能合约。]]></summary>
         <author>
             <name>Gao</name>
         </author>
