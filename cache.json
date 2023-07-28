@@ -11,9 +11,9 @@
           "description": "AI引发好莱坞罢工事件的反思",
           "link": "https://www.defidaonews.com/article/6826486",
           "publishedOn": "2023-07-20T08:33:07.000Z",
-          "wordCount": 152,
+          "wordCount": null,
           "title": "AI 演员：好莱坞罢工后的下一件大事？",
-          "imageUrl": "https://appserversrc.8btc.cn/Fr0g11sK4QOEgWsoduQJ8FFwXM-B.png?imageView2/1/w/500/h/300"
+          "imageUrl": null
         },
         {
           "id": "https://www.defidaonews.com/article/6826706",
@@ -21,7 +21,7 @@
           "description": "风口就是FOMO。",
           "link": "https://www.defidaonews.com/article/6826706",
           "publishedOn": "2023-07-19T09:28:12.000Z",
-          "wordCount": 412,
+          "wordCount": 432,
           "title": "巴比特 | 元宇宙每日必读：28家AI企业集体赴港IPO，业绩惨谈，经营亏损，这是AI下半场的起点，还是资本炒作到顶峰的标志？",
           "imageUrl": "https://appserversrc.8btc.cn/lkGWxO3dyH9NoA8gd6p3xsIJKsjp.png?imageView2/1/w/500/h/300"
         },
@@ -31,9 +31,9 @@
           "description": "要论商业敏感度，我只服淘宝店家",
           "link": "https://www.defidaonews.com/article/6826416",
           "publishedOn": "2023-07-17T09:16:51.000Z",
-          "wordCount": 150,
+          "wordCount": null,
           "title": "开眼界了，AI绘画商业化最强玩家是“淘宝商家”",
-          "imageUrl": "https://appserversrc.8btc.cn/FhF4d_K7j6cvA35KWE0GkVLEavkO.png?imageView2/1/w/500/h/300"
+          "imageUrl": null
         },
         {
           "id": "https://www.defidaonews.com/article/6825290",
@@ -41,7 +41,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 113,
+          "wordCount": 127,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         }
@@ -159,6 +159,16 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/8a9rym1s.html",
+          "author": "PA一线",
+          "description": "PANews 7月28日消息，据Blockworks报道，人权基金会发布了 10 项单独的赏金计划，每项价值 2 BTC，总计高达 20 BTC，旨在让比特币和闪电网络更容易、更私密地使用。 HRF 将在 2024 年 12 月 31 日之前接受赏金申请。任何无人认领的赏金都将返回到 HRF 比特币发展基金的金库中。\n人权基金会（HRF）在其网站上表示，未来可能会增加更多赏金。 HRF 表示，该基金会将与“外部行业专家”分享所有 10 项比特币挑战的提交内容，以验证其准确性和可操作性。",
+          "link": "https://panewslab.com/zh/articledetails/8a9rym1s.html",
+          "publishedOn": "2023-07-28T15:57:00.000Z",
+          "wordCount": 438,
+          "title": "人权基金会发布10项共20 BTC的赏金计划，以改善比特币网络",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/u352jwny.html",
           "author": "PA一线",
@@ -347,16 +357,6 @@
           "publishedOn": "2023-07-28T07:28:02.000Z",
           "wordCount": 374,
           "title": "SBF请求法院封存其前女友Caroline Ellison的私人日记",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/nn6bebu7.html",
-          "author": "PA一线",
-          "description": "PANews 7月28日消息，ZK 技术开发商 Nil Foundation 宣布 Proof Market 已集成以太坊 Sepolia 测试网，为所有 EVM 应用程序提供可证明计算的可组合性。Proof Market 测试版于 2023 年 1 月发布，起初主要用于以太坊 L1 之外的协议，其未来用例包括 zkML、zkOracles、zkBridges、欺诈证明等。 据悉，Proof Market EVM 端点使可证明计算与 EVM 应用程序兼容，这些应用程序不仅可以使用 zkLLVM 与 Proof Market 简化 zkProof 生成，还可以将证明排序原生集成到 Solidity 语言的应用程序代码中。通过该 EVM 端点，以太坊资产可以参与可证明计算，并将 Proof Market 集成到处理以太坊流动性的任何应用程序管道中。",
-          "link": "https://panewslab.com/zh/articledetails/nn6bebu7.html",
-          "publishedOn": "2023-07-28T07:16:16.000Z",
-          "wordCount": 533,
-          "title": "ZK技术开发商Nil Foundation宣布Proof Market已集成Sepolia测试网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
