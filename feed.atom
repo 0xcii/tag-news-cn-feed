@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-28T13:16:18.715Z</id>
+    <id>urn:2023-07-28T14:11:32.765Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-28T13:16:18.715Z</updated>
+    <updated>2023-07-28T14:11:32.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EIP-7377：从EOA迁移到智能合约钱包的铺路者]]></title>
+        <id>https://www.web3sj.com/?p=82100</id>
+        <link href="https://www.web3sj.com/news/82100/"/>
+        <updated>2023-07-28T14:10:37.000Z</updated>
+        <summary type="html"><![CDATA[随着以太坊生态的快速发展,实现统一和无缝的用户体验变得愈发重要。在以太坊 2.0 的路线图中,账户抽象与合并、分片被放在同等重要的位置。Vitalik Buterin 也曾发推表示智能合约钱包相比 EOA 钱包拥有更佳的用户体验。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度最高法院因加密规则延迟而谴责联邦政府]]></title>
         <id>https://panewslab.com/zh/articledetails/ghhq4ia1.html</id>
@@ -350,16 +360,6 @@
         <link href="https://www.web3sj.com/news/82004/"/>
         <updated>2023-07-28T04:16:20.000Z</updated>
         <summary type="html"><![CDATA[你在 EtherCC 大会上除了提及 L2，另一个重要的主题是「账户抽象」，让加密货币钱包更加智能。目前加密钱包领域已经涌入很多竞争选手，希望从 MetaMask 那里获得更多的市场份额。有些人一直在批评 MetaMask，认为它缺乏创新，并应努力超越目前的能力，以获取更多的市场份额。对于这些批评者认为 MetaMask 还有改进空间的观点，你有何回应？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安研报：RWA生态系统现状一览]]></title>
-        <id>https://www.web3sj.com/?p=81983</id>
-        <link href="https://www.web3sj.com/news/81983/"/>
-        <updated>2023-07-28T03:39:09.000Z</updated>
-        <summary type="html"><![CDATA[在深入探讨图表和最新市场数据之前，我们在本节中总结了有关真实世界资产（RWAs）的几个关键点。这涵盖了 RWAs 的基本概念，并作为该领域的快速介绍。什么是真实世界资产？正如名字所示，真实世界资产代表现实世界中的有形和无形资产（例如房地产、债券、商品等）。RWAs 的代币化使得我们可以将这些链下资产带到区块链上，从而在组合性和潜在用例方面开辟了新的可能性。]]></summary>
         <author>
             <name>Gao</name>
         </author>
