@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-29T05:11:27.921Z</id>
+    <id>urn:2023-07-29T06:14:47.304Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-29T05:11:27.921Z</updated>
+    <updated>2023-07-29T06:14:47.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[第114次以太坊核心开发者会议：预计将于下周推出Devnet #8，Electra升级将包含两个EIP]]></title>
+        <id>https://panewslab.com/zh/articledetails/02ud1hp5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/02ud1hp5.html"/>
+        <updated>2023-07-29T06:04:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月29日消息， Galaxy研究副总裁Christine Kim发文称，7月27日，以太坊核心开发人员聚集在 Zoom 上，召开第 114 次全核心开发人员共识 (ACDC) 电话会议。ACDC 电话会议由以太坊基金会研究员 Danny Ryan 主持，每两周举行一次系列会议，开发人员在会上讨论和协调对以太坊共识层(CL) 的更改。本周，开发人员讨论了 Deneb 测试工作的更新以及两个 EIP 的更新，这两个 EIP 可能会考虑包含在 Deneb 之后的下一个 CL 升级中，现在被称为 Electra。
+上周，开发人员对 Sepolia 测试网络进行了影子分叉，目前正在更新工具，为 Devnet #8 的推出做准备。Devnet #8 预计将于下周晚些时候或下周初推出。以太坊基金会研究员 Hsiao-Wei Wang 正在为 Devnet #8 准备新版本的 CL 代码规范，该规范将于 7 月 31 日星期一之前为客户团队准备好。
+下次更新中还包含两个EIP升级，分别为EIP 6914和EIP 6110。EIP 6914此代码更改创建了一种重用已完全退出信标链的验证器的验证器索引号的方法。通过确保节点处理提款和扫描验证器集时验证器索引中不存在大间隙，可以防止 CL 节点承受不必要的计算负担。EIP 6110更改将新的验证者存款附加到 EL 块，以便存款包含和验证的责任在 EL 而不是 CL 上完成。转移责任将带来一些好处，包括：降低以太坊客户端软件设计的复杂性；提高验证者存款的安全性；改进的验证器用户体验。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大英博物馆与Sandbox合作推出元宇宙互动空间和NFT藏品]]></title>
+        <id>https://panewslab.com/zh/articledetails/ghdzsmhm.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ghdzsmhm.html"/>
+        <updated>2023-07-29T05:21:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月29日消息，大英博物馆正在与基于以太坊的元宇宙游戏The Sandbox合作，与博物馆的授权合作伙伴、法国初创公司 LaCollection 一起，构建一个元宇宙互动空间，并创建一系列NFT数字收藏品。
+该博物馆此前曾与 LaCollection 合作推出了三件 NFT 藏品。最早在2021 年 9 月，当时拍卖了 200 张葛饰北斋作品的数字明信片，其中包括这位日本艺术家于1831 年创作的民粹主义木版画《波浪之下，神奈川》（又名《巨浪》）的效果图，2022 年春季拍卖了英国艺术家约瑟夫·马洛德·威廉·特纳 (Joseph Mallord William Turner) 的 20 幅作品的代币化版本，其中包括 1823 年的戏剧性水彩画《风暴（沉船）》。最近的一次拍卖以 NFT 艺术品为特色，描绘了大英博物馆收藏的 20 幅钢笔和粉笔画，由出生于威尼斯的绘图师 Giambattista Piranesi 创作。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LSDFi后，Logarithm和LPDFi会掀起下波DeFi叙事吗]]></title>
         <id>https://www.web3sj.com/?p=82164</id>
@@ -170,11 +193,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[律师：国内某个区块链DAO组织因涉刑被抓]]></title>
+        <title type="html"><![CDATA[律师称国内某个区块链DAO组织因涉刑被抓，或系传统传销组织]]></title>
         <id>https://panewslab.com/zh/articledetails/0zlh1751.html</id>
         <link href="https://panewslab.com/zh/articledetails/0zlh1751.html"/>
         <updated>2023-07-29T03:18:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月29日消息，据上海曼昆律师事务所创始人刘红林律师公众号，国内某知名DAO组织多名核心成员在国内多地同时被抓。因其在DAO组织内部发行代币，进行成员激励等行为而该被警方立案侦查，这可能是目前国内首个涉嫌刑事犯罪的DAO组织。目前曼昆律师团队已接受委托，开展刑事法律服务。律师提醒称，DAO组织作为区块链行业的一种特别现象，往往被区块链行业的从业者视为自由精神、无边界协同、按劳分配等理想社会的象征，甚至成为一个圈内的时尚潮流。但大家很容易忽略其潜在的法律风险，尤其是涉刑犯罪的风险。]]></summary>
+        <summary type="html"><![CDATA[PANews 7月29日消息，据上海曼昆律师事务所创始人刘红林律师公众号，国内某知名DAO组织多名核心成员在国内多地同时被抓。因其在DAO组织内部发行代币，进行成员激励等行为而该被警方立案侦查，这可能是目前国内首个涉嫌刑事犯罪的DAO组织。目前曼昆律师团队已接受委托，开展刑事法律服务。
+另据吴说区块链，此国内知名“DAO”实为某传统传销组织。该组织在西安、哈尔滨、郑州等各地进行大量线下活动，冠以 DAO 的名字，建设所谓的"骨干训练营"，并非知名的加密货币领域项目。
+律师提醒称，DAO组织作为区块链行业的一种特别现象，往往被区块链行业的从业者视为自由精神、无边界协同、按劳分配等理想社会的象征，甚至成为一个圈内的时尚潮流。但大家很容易忽略其潜在的法律风险，尤其是涉刑犯罪的风险。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
