@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-30T19:09:53.386Z</id>
+    <id>urn:2023-07-30T20:12:20.875Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-30T19:09:53.386Z</updated>
+    <updated>2023-07-30T20:12:20.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[安全机构：Curve Finance稳定币池攻击事件已造成2676万美元损失]]></title>
+        <id>https://panewslab.com/zh/articledetails/w4fjv13e.html</id>
+        <link href="https://panewslab.com/zh/articledetails/w4fjv13e.html"/>
+        <updated>2023-07-30T18:57:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，据安全机构PeckShield监测，受Curve Finance稳定币池alETH/msETH/pETH黑客攻击事件影响，Alchemix、JPEG'd、MetronomeDAO、deBridge和Ellipsis目前已累计损失2676万美元。据此前消息，Curve Finance推特发文称，由于递归锁出现故障，许多使用Vyper 0.2.15的稳定币池(alETH/msETH/pETH)遭到攻击。团队正在评估情况，crvUSD合约和其它资金池不受影响。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Finance：因Vyper递归锁故障，稳定币池alETH/msETH/pETH遭到攻击，crvUSD合约和其它资金池不受影响]]></title>
+        <id>https://panewslab.com/zh/articledetails/3c0xsf9j.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3c0xsf9j.html"/>
+        <updated>2023-07-30T18:40:36.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，Curve Finance推特发文称，由于递归锁出现故障，许多使用Vyper 0.2.15的稳定币池(alETH/msETH/pETH)遭到攻击。团队正在评估情况，并将随着事态发展向社区通报最新情况。crvUSD合约和其它资金池不受影响。此前以太坊编程语言Vyper发布公告称，Vyper 0.2.15、0.2.16和0.3.0版本的递归锁失效，目前正在进行调查。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为云上线Web3.0节点引擎服务公测]]></title>
         <id>https://www.hellobtc.com/news/202307/21013.html</id>
@@ -26,38 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：4个地址在BALD开始交易4分钟内买入5%供应量代币，已抛售部分获利超百万美金]]></title>
-        <id>https://panewslab.com/zh/articledetails/04q9wye0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/04q9wye0.html"/>
-        <updated>2023-07-30T14:40:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据Lookonchain监测，有4个地址在BALD开始交易后 4 分钟内花费 0.534枚ETH (1000美元) 购买 5000万枚BALD （占总供应量的 5%）。然后出售了3700万枚BALD换成554枚ETH（104 万美元）。这4个地址同时从Bybit提取0.5ETH ，跨链到Base网络，并在BALD开始交易后4分钟内购买BALD 。这很可能是同一个人，而且可能是项目的内部人士。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全机构：NFT借贷平台JPEG'd或遭黑客攻击，损失至少约1000万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/670e3s1g.html</id>
-        <link href="https://panewslab.com/zh/articledetails/670e3s1g.html"/>
-        <updated>2023-07-30T14:01:25.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据安全机构PeckShield消息，NFT借贷平台JPEG'd或遭黑客攻击，JPEG代币短时下跌40%。
-另据安全机构Beosin ，JPEG'd项目遭受攻击的损失至少约1000万美元。JPEG'd 项目遭遇攻击的根本原因在于重入，攻击者在调用remove_liquidity函数移除流动性时通过重入add_liquidity函数添加流动性，由于余额更新在重入进add_liquidity函数之前，导致价格计算出现错误。
-相关交易：https://etherscan.io/tx/0xa84aa065ce61dbb1eb50ab6ae67fc31a9da50dd2c74eefd561661bfce2f1620c]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve生态流动性平台Conic Finance拿到Curve创始人的100万美元融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/mu6mx381.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mu6mx381.html"/>
-        <updated>2023-07-30T13:46:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，Curve 生态流动性平台 Conic Finance宣布完成100 万美元融资，由Curve创始人Michael Egorov投资。本轮融资将用于支持 Conic 的开发工作，特别是支付即安全审计费用。Conic 表示未来几周内将分享有关 Conic v2 的更多细节。此前，Conic Finance曾遭到多次安全攻击。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-7.30）]]></title>
         <id>https://www.web3sj.com/?p=82261</id>
         <link href="https://www.web3sj.com/news/82261/"/>
@@ -65,89 +53,6 @@
         <summary type="html"><![CDATA[以太坊证明服务EAS已完成OP Stack原生集成。以太坊主网上线8周年，总交易量达到99.3亿ETH。Gucci推出Vault Material NFT实物兑换功能。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：以太坊主网上线8周年，总交易量达到99.3亿ETH]]></title>
-        <id>https://panewslab.com/zh/articledetails/gy50yh6d.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gy50yh6d.html"/>
-        <updated>2023-07-30T09:51:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，2015年7月30日，以太坊主网正式上线，并产生出创始区块，第一个区块包含8893次交易，提供了5ETH 的区块奖励，目前以太坊主网已运行8周年整。据OKLink数据，目前以太坊的总交易数已超20.5亿Txns，总地址数达2.96亿个，合约地址数达6161万个，总交易量达到99.3亿ETH。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：15000枚ETH从未知地址转入Gate]]></title>
-        <id>https://panewslab.com/zh/articledetails/ydw1l608.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ydw1l608.html"/>
-        <updated>2023-07-30T09:34:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据Whale Alert监测，15000枚ETH从未知地址转入Gate，价值2810万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港财库局局长：自去年10月以来已有90家虚拟资产相关企业有意落户香港]]></title>
-        <id>https://panewslab.com/zh/articledetails/wf2cf6ff.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wf2cf6ff.html"/>
-        <updated>2023-07-30T09:15:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据星岛日报，香港财经事务及库务局局长许正宇近日在陪同香港特首李家超出访东盟三国，接受媒体采访时提到，自去年10月发表《有关虚拟资产在港发展的政策宣言》，已有90家与虚拟资产相关的内地及海外企业表示有意落户香港。他表示深信政府今年年中为虚拟资产服务提供者订立完善的发牌制度，有助确保市场稳健有序发展，并保障投资者利益。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gucci推出Vault Material NFT实物兑换功能]]></title>
-        <id>https://panewslab.com/zh/articledetails/s154m0lz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s154m0lz.html"/>
-        <updated>2023-07-30T08:55:39.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，开云集团旗下品牌Gucci本周在合作伙伴平台 10KTF.shop 上推出了兑换功能。1 个 Gucci Vault Material NFT 可以兑换钱包，而兑换 Gucci x 10KTF 联名行李袋则需要 3 个NFT。在此之前，人们对 3 月份铸造的 2,896 个 NFT 背后的计划用途进行了数月的猜测。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opera GX浏览器引入“Fake My History”功能，在用户“死后”可伪造浏览历史]]></title>
-        <id>https://panewslab.com/zh/articledetails/6jxua3ni.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6jxua3ni.html"/>
-        <updated>2023-07-30T08:46:27.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，Opera旗下的Opera GX 浏览器近日宣布推出“Fake My History”功能，用户在死后（或者连续 2 周没有使用）不仅会清空所有访问历史，而且会伪造访问记录，确保搜索历史不被他人发现。
-选择加入这项功能后，用户可以在连续 14 天不活动后自动删除其浏览器历史记录，并替换为精心挑选的预定义的各种链接。此外，还可以选择“假装我已经死了”框，该功能将立即生效。
-自 2019 年推出以来，Opera GX 迅速成为数百万寻求更定制互联网体验的游戏玩家的首选浏览器。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sandbox将于7月31日起暂停Land跨链一周]]></title>
-        <id>https://panewslab.com/zh/articledetails/osfq3f8q.html</id>
-        <link href="https://panewslab.com/zh/articledetails/osfq3f8q.html"/>
-        <updated>2023-07-30T08:18:53.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，The Sandbox官方发消息称，将于7月31日起暂停Land跨链一周进行维护直至下周末，更多详情将在恢复上线后公布。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊证明服务EAS已完成OP Stack原生集成]]></title>
-        <id>https://panewslab.com/zh/articledetails/s85kh9e1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s85kh9e1.html"/>
-        <updated>2023-07-30T07:00:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，以太坊证明服务（Ethereum Attestation Service）已完成OP Stack原生集成。未来部署的所有OP Stack链都将自动包含创世EAS合约。
-EAS表示，集成至OP Stack将使信任证明成为超级链（Superchain）中的基本要素，不仅将促进超级链中证明实践的采用，还将设立信息验证和信任建立的新标准。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《华尔街日报》母公司News Corp探索使用区块链保护知识产权]]></title>
-        <id>https://panewslab.com/zh/articledetails/lt6c42m2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lt6c42m2.html"/>
-        <updated>2023-07-30T03:42:37.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据外媒报道，《华尔街日报》的母公司News Corp一直在评估其内容对人工智能培训的价值。此外，该公司还探索使用区块链技术来保护其知识产权，通过区块链技术对内容进行跟踪，并检测人工智能公司是否未经授权使用News Corp的内容，这可能会带来许可收入。此前美联社宣布与OpenAI签订合作协议，授权OpenAI使用部分美联社的文本档案，同时美联社也将利用OpenAI的技术和产品专业知识，据悉美联社是第一家与主要人工智能平台达成收费协议的主要媒体。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -172,16 +77,6 @@ EAS表示，集成至OP Stack将使信任证明成为超级链（Superchain）�
 8.持有WLD代币的Optimism链上钱包数量突破30万个。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：预计莱特币将于8月3日区块奖励减半]]></title>
-        <id>https://panewslab.com/zh/articledetails/ery4yzmq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ery4yzmq.html"/>
-        <updated>2023-07-30T03:25:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，Litecoinhalving数据显示，莱特币（LTC）区块奖励减半时间预计为北京时间2023年8月3日05:48:23，届时区块奖励将从12.5枚LTC降至6.25枚LTC。行情显示，LTC目前报价94.7美元，24小时涨幅为3.69%。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -212,66 +107,6 @@ EAS表示，集成至OP Stack将使信任证明成为超级链（Superchain）�
         <summary type="html"><![CDATA[Kering旗下品牌Gucci本周在合作伙伴平台10KTF上推出了兑换功能，一个Gucci Vault Material NFT可以兑换一个Gucci钱包，三个Gucci Vault Material NFT可兑换一个Gucci旅行包。 此前7月27日报道，Gucci准备向Gucci Vault Material NFT持有者赠送实物。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：某鲸鱼通过交易MKR实现37万美元收益，收益率达57%]]></title>
-        <id>https://panewslab.com/zh/articledetails/ohddgrnb.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ohddgrnb.html"/>
-        <updated>2023-07-30T02:19:53.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据链上数据分析师余烬监测，某鲸鱼于6月18日和7月14日从币安取出793枚MKR，均价818美元。其于7小时前将793枚MKR转入币安，价格为1287美元。该鲸鱼通过交易MKR实现37万美元收益，收益率达57%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：持有WLD的Optimism链上钱包突破30万个]]></title>
-        <id>https://panewslab.com/zh/articledetails/pn96aim3.html</id>
-        <link href="https://panewslab.com/zh/articledetails/pn96aim3.html"/>
-        <updated>2023-07-30T02:13:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据Dune Analytics数据显示，持有WLD代币的Optimism链上钱包数量已突破30万个，目前为326,178个。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为云Web3.0节点引擎服务NES上线公测]]></title>
-        <id>https://panewslab.com/zh/articledetails/8m05ihpx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8m05ihpx.html"/>
-        <updated>2023-07-30T02:06:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据官方消息，华为云Web3.0节点引擎服务NES上线国际站进行公测。目前Web3.0节点引擎服务提供完全托管能力的全节点服务，帮助DApp开发者和网络验证者实现快速、稳定和高效的网络连接。目前该服务支持以太坊和波场网络，未来计划支持Polygon、Arbitrum、Starknet、Optimism等。当前仅“亚太-新加坡”区域支持以太坊网络的节点引擎与质押。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：过去一周Circle USDC流通量减少4亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/489lnqet.html</id>
-        <link href="https://panewslab.com/zh/articledetails/489lnqet.html"/>
-        <updated>2023-07-30T00:53:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，据官方数据，过去7天Circle共发行10亿美元USDC，赎回14亿美元USDC，流通量减少4亿美元。截至7月27日，USDC总流通量为266亿美元，储备量为267亿美元，其中现金23亿美元，Circle Reserve Fund持有244亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Graph今年第二季度报告公布，需求端收入环比下降48%]]></title>
-        <id>https://panewslab.com/zh/articledetails/u4g1bxch.html</id>
-        <link href="https://panewslab.com/zh/articledetails/u4g1bxch.html"/>
-        <updated>2023-07-30T00:47:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，Messari发布了去中心化索引协议The Graph今年第二季度报告。报告显示，截至2023年第二季度，The Graph的托管服务向主网发布了1082个子图，环比增长39%。第二季度The Graph以美元计算的需求端收入环比下降 48%，这是由于DApp优化查询量以及治理活动和去中心化基础设施的使用量减少所致。索引奖励收入超过900万美元，环比增长 3%。在第二季度分配的总索引奖励中，委托人获得64%。在MIPs激励计划之后，The Graph的活跃索引器环比下降29%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克：X总部仍将留在旧金山]]></title>
-        <id>https://panewslab.com/zh/articledetails/fg7738qf.html</id>
-        <link href="https://panewslab.com/zh/articledetails/fg7738qf.html"/>
-        <updated>2023-07-30T00:29:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 7月30日消息，马斯克推特发文称，尽管许多人提供了丰厚的激励措施，希望X将总部迁出旧金山。但我们不会这样做。X仍将留在旧金山。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
