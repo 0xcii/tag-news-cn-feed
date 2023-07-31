@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T08:17:30.678Z</id>
+    <id>urn:2023-07-31T09:13:32.844Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-31T08:17:30.678Z</updated>
+    <updated>2023-07-31T09:13:32.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OP生态起风了？值得布局吗？]]></title>
+        <id>https://www.web3sj.com/?p=82426</id>
+        <link href="https://www.web3sj.com/project/82426/"/>
+        <updated>2023-07-31T08:48:56.000Z</updated>
+        <summary type="html"><![CDATA[截止到目前，从数据的角度来看，Arbitrum 依然是 Layer2 龙头，OP 在生态方面依旧处于劣势。但随着 OP Stack 的广受采用，OP 在最近获得了更多市场关注（Basechain、Worldcoin）——即使解锁不断，但 OP 的总体市值一直是在增长的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[所以说，Chainlink今天拯救了行业？]]></title>
+        <id>https://www.web3sj.com/?p=82419</id>
+        <link href="https://www.web3sj.com/news/82419/"/>
+        <updated>2023-07-31T08:44:30.000Z</updated>
+        <summary type="html"><![CDATA[根据 Curve 团队的解释，由于部分池子（alETH、msETH、pETH）使用了 Vyper 的 0.2.15 版本语言，重入锁功能失效致使攻击者可以在单次交易中多次执行某些功能，从而出现了一定的资金损失。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SignalPlus：如何确保收益？推荐使用“利润锁定工具”]]></title>
+        <id>https://www.web3sj.com/?p=82409</id>
+        <link href="https://www.web3sj.com/transaction/82409/"/>
+        <updated>2023-07-31T08:38:44.000Z</updated>
+        <summary type="html"><![CDATA[动态 Delta 对冲（简称 DDH）是为交易者开发，实现自动风险管理的工具。基本上，交易者可以通过使用 DDH，将账户的 Delta 敞口控制在设定范围内，从而控制投资组合的整体风险。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SignalPlus：如何利用期权做投资组合尾部风险管理？]]></title>
+        <id>https://www.web3sj.com/?p=82399</id>
+        <link href="https://www.web3sj.com/transaction/82399/"/>
+        <updated>2023-07-31T08:32:01.000Z</updated>
+        <summary type="html"><![CDATA[各类金融市场其肥尾风险都非常明显，想详细了解的看官可以看塔师的《肥尾效应》。其实期权卖方长期想要稳健收益需要解决的灵魂拷问就是遇到尾部风险怎么办？投资 portfolio 回撤会怎么样？是否有爆仓风险？]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StaFi：Curve上的rETH池不依赖于Vyper版本且未受影响，用户资金安全]]></title>
         <id>https://panewslab.com/zh/articledetails/rrxo1u88.html</id>
@@ -331,36 +371,6 @@ eric.eth进一步解释称，因Curve发生黑客攻击，一个机器人注意�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[读懂Kaspa：基于GHOSTDAG协议的PoW公链]]></title>
-        <id>https://www.web3sj.com/?p=82299</id>
-        <link href="https://www.web3sj.com/news/82299/"/>
-        <updated>2023-07-31T02:42:31.000Z</updated>
-        <summary type="html"><![CDATA[Kaspa 的团队有一定知名度，创始人 Yonatan Sompolinsky 现为哈佛大学博士后，研究方向为交易排序和 MEV。他早在 2013 年就和当时的博士导师一起构思了 GHOST 协议，相关的论文在以太坊的白皮书被引用。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BALD一夜千倍，Base生态除了Meme还有什么值得关注？]]></title>
-        <id>https://www.web3sj.com/?p=82290</id>
-        <link href="https://www.web3sj.com/news/82290/"/>
-        <updated>2023-07-31T02:34:19.000Z</updated>
-        <summary type="html"><![CDATA[查阅其官方推特，我们可发现 Base 已在进行密集宣发活动。最近也公布了多个将在 Base「做事」的生态合作伙伴。仅最近半个月内，包括 Blast API 、 QuickNode 、 Blockdaemon 、 thirdweb 、 Safe 、The Graph 等项目均宣布已在 Base 主网上线。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简明理解以太坊证明服务EAS]]></title>
-        <id>https://www.web3sj.com/?p=82285</id>
-        <link href="https://www.web3sj.com/news/82285/"/>
-        <updated>2023-07-31T02:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Attestation Service 就是一套对任意结构化数据，标准化签名，创建签名，公示签名，验证签名的工具。重点在显著改善签名的互操作性和标准。让签名可以和 ERC-20，721 这类标准一样容易落地和推广。在大模型爆发，各种 bot 和 AIGC 垃圾内容的背景下，数据的可验证性会逐渐从维他命变成止痛片（UGC vs AIGC）。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Curve Finance攻击事件可能造成约7000万美元损失]]></title>
         <id>https://www.hellobtc.com/news/202307/21014.html</id>
         <link href="https://www.hellobtc.com/news/202307/21014.html"/>
@@ -406,16 +416,6 @@ eric.eth进一步解释称，因Curve发生黑客攻击，一个机器人注意�
         <summary type="html"><![CDATA[7月30日消息，香港财经事务及库务局局长许正宇近日在陪同香港特首李家超出访东盟三国，接受媒体采访时提到，自去年10月发表《有关虚拟资产在港发展的政策宣言》，已有90家与虚拟资产相关的内地及海外企业表示有意落户香港。他表示深信政府今年年中为虚拟资产服务提供者订立完善的发牌制度，有助确保市场稳健有序发展，并保障投资者利益。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-7.30）]]></title>
-        <id>https://www.web3sj.com/?p=82261</id>
-        <link href="https://www.web3sj.com/news/82261/"/>
-        <updated>2023-07-30T11:42:27.000Z</updated>
-        <summary type="html"><![CDATA[以太坊证明服务EAS已完成OP Stack原生集成。以太坊主网上线8周年，总交易量达到99.3亿ETH。Gucci推出Vault Material NFT实物兑换功能。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
