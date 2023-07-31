@@ -1,10 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T01:08:37.604Z</id>
+    <id>urn:2023-07-31T02:30:26.362Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-31T01:08:37.604Z</updated>
+    <updated>2023-07-31T02:30:26.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[慢雾：Vyper官方文档推荐的系错误版本]]></title>
+        <id>https://panewslab.com/zh/articledetails/xm722qj9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xm722qj9.html"/>
+        <updated>2023-07-31T01:21:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，慢雾首席信息安全官23pds在推特上表示：“Vyper官方文档（安装界面）推荐的是一个错误版本。”
+此前今日早些时候消息，以太坊编程语言Vyper发布公告称，Vyper 0.2.15、0.2.16和0.3.0版本的递归锁失效。Curve Finance表示，因Vyper递归锁故障，稳定币池alETH/msETH/pETH遭到攻击。据安全机构监测，Curve Finance攻击事件已造成5200万美元损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upbit暂停Curve（CRV）充值与提币服务]]></title>
+        <id>https://panewslab.com/zh/articledetails/ie0i8hzm.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ie0i8hzm.html"/>
+        <updated>2023-07-31T01:10:09.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，韩国交易所Upbit发布公告称，由于Curve一些稳定币池中发现漏洞，导致CRV代币受到影响，波动性较大，请谨慎投资，现已暂停Curve（CRV）充值与提币服务。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：受攻击事件影响，Curve总锁仓量较昨日减少近43%]]></title>
+        <id>https://panewslab.com/zh/articledetails/21lw6z8p.html</id>
+        <link href="https://panewslab.com/zh/articledetails/21lw6z8p.html"/>
+        <updated>2023-07-31T01:01:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，DefiLlama数据显示，受攻击事件影响，Curve Finance总锁仓量（TVL）已由7月30日的32.66亿美元降至当前的18.69亿美元，24小时降幅为42.78%。
+此前今日早些时候消息，Curve Finance表示，因Vyper递归锁故障，稳定币池alETH/msETH/pETH遭到攻击。据安全机构监测，Curve Finance攻击事件已造成5200万美元损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ellipsis Finance：少数使用旧版Vyper编译器的BNB稳定池被攻击]]></title>
+        <id>https://panewslab.com/zh/articledetails/q6udxmlx.html</id>
+        <link href="https://panewslab.com/zh/articledetails/q6udxmlx.html"/>
+        <updated>2023-07-31T00:54:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，采用Curve机制的BNB Chain生态DEX Ellipsis Finance发推称，少数使用旧版Vyper编译器的BNB稳定池被攻击，目前正在评估情况。
+此前今日早些时候消息，Curve Finance表示，因Vyper递归锁故障，稳定币池alETH/msETH/pETH遭到攻击。据安全机构监测，Curve Finance攻击事件已造成5200万美元损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metronome针对Curve上msETH-ETH池被攻击事件已暂停主网功能作为预防措施]]></title>
+        <id>https://panewslab.com/zh/articledetails/cs199d64.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cs199d64.html"/>
+        <updated>2023-07-31T00:43:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，DeFi合成资产协议Metronome在推特上表示：“作为预防措施，已暂停Metronome主网功能，以将损害降至最低并调查下一步的最佳方案。一个涉及多个Curve池的漏洞已被利用，msETH-ETH池受到攻击，攻击者从msETH-ETH池中盗走流动资金。任何msUSD交易对的流动性提供者以及在Velodrome上使用msETH的Optimism用户应注意，其头寸不受影响。此外，Metronome所有存款与未平仓头寸不受此次事件影响。”
+此前今日早些时候消息，Curve Finance表示，因Vyper递归锁故障，稳定币池alETH/msETH/pETH遭到攻击。据安全机构监测，Curve Finance攻击事件已造成5200万美元损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派盾：c0ffeebabe.eth已向Curve部署者返还2879枚ETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/3ypimov0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3ypimov0.html"/>
+        <updated>2023-07-31T00:34:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，据派盾预警监测，白帽攻击者c0ffeebabe.eth已向Curve部署者返还2879枚ETH（约540万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alchemix：alETH/ETH Curve池遭攻击损失5000枚ETH，Alchemix金库资金安全]]></title>
+        <id>https://panewslab.com/zh/articledetails/zjngvm81.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zjngvm81.html"/>
+        <updated>2023-07-31T00:24:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，DeFi借贷协议Alchemix在推特上表示，在收到Curve Finance关于因Vyper错误导致alETH/ETH池被攻击的通知后，Alchemix迅速开始通过AMO合约从曲线池中移除AMO控制的流动性。该漏洞是在Curve池合约上执行的。Alchemix智能合约没有受到任何形式的损害，资金是安全的。合约上执行的。需要进行三项交易：从Convex取消质押LP代币、从Curve池中提取alETH、从Curve池中提取ETH。上述第一项交易已执行，第二笔交易执行后，从Curve池中移除8000枚ETH。这意味着Curve池中仍有AMO控制的约5000枚ETH流动性。在移除剩余流动性的过程中，alETH/ETH Curve池被攻击者耗尽。目前，alETH储备损失约5000枚ETH。
+Alchemix还表示，对用户来说，Alchemix金库中的资金是安全的，所有Alchemix合约不受影响。在alETH/ETH曲线池中提供流动性是不安全的。在其他地方为alETH提供流动性在技术上是安全的，但攻击者可能会利用这种流动性出售alETH以换取ETH。alETH的公平价格现在还不得而知，任何持有alETH或LP alETH 的用户都面临这种不确定性。Alchemix建议任何在去中心化交易平台Saddle Finance的alETH池与 Curve的frxETH池中提供流动性的LP尽快撤回流动性。
+此前今日早些时候消息，Curve Finance表示，因Vyper递归锁故障，稳定币池alETH/msETH/pETH遭到攻击。据安全机构监测，Curve Finance攻击事件已造成5200万美元损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：价值约1350万美元的DYDX和约975万美元的GAL将在本周解锁]]></title>
+        <id>https://panewslab.com/zh/articledetails/s3pihflm.html</id>
+        <link href="https://panewslab.com/zh/articledetails/s3pihflm.html"/>
+        <updated>2023-07-31T00:00:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，Token Unlocks数据显示，本周7个加密项目将进行代币解锁，总计释放价值约2690万美元。
+dYdX（DYDX）将于8月1日23时解锁652万枚代币，价值约1350万美元；
+Acala（ACA）将于8月1日15时解锁约2743万枚代币，价值约180万美元；
+Euler（EUL）将于8月2日19时42分解锁约15.6万枚代币，价值约42万美元；
+Nym（NYM）将于8月4日8时解锁约313万枚代币，价值约62万美元；
+Liquity（LQTY）将于8月5日8时解锁约65.7万枚代币，价值约73万美元；
+Tornado Cash（TORN）将于8月5日11时6分解锁约2.2万枚代币，价值约8万美元；
+Galxe（GAL）将于8月5日20时解锁约761万枚代币，价值约975万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Finance攻击事件已造成5200万美元损失，CRV日内跌幅超过15%]]></title>
+        <id>https://panewslab.com/zh/articledetails/wu339f1f.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wu339f1f.html"/>
+        <updated>2023-07-30T23:44:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月31日消息，据安全机构PeckShield监测，截至目前，Curve Finance稳定币池黑客攻击事件已造成Alchemix、JPEG'd、MetronomeDAO、deBridge、Ellipsis和CRV/ETH池累计损失5200万美元。行情显示，Curve DAO原生代币CRV目前报0.624647美元，24小时跌幅15.4%。
+CoinDesk分析称，受攻击事件影响，CRV价格下跌走势可能会迫使Curve创始人在Aave上的7000万美元借款头寸被清算。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全机构：Curve Finance稳定币池攻击事件已造成2676万美元损失]]></title>
         <id>https://panewslab.com/zh/articledetails/w4fjv13e.html</id>
