@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-31T23:12:18.206Z</id>
+    <id>urn:2023-08-01T01:12:23.869Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-31T23:12:18.206Z</updated>
+    <updated>2023-08-01T01:12:23.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[加密风投公司Coatue Management旗下基金完成3.31亿美元融资，比目标低34%]]></title>
+        <title type="html"><![CDATA[Nansen分析师：Bald部署者地址与Alameda存在密切关联]]></title>
+        <id>https://panewslab.com/zh/articledetails/pdx08tl9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/pdx08tl9.html"/>
+        <updated>2023-08-01T00:48:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，Nansen分析师Andrew T发推文称，在浏览了Bald部署者ETH地址后发现，其使用的 0x6663开头币安存款地址和0x000f开头活跃地址均与Andrew Keys及Alameda Research有过交互。Andrew T表示：“该地址与多个交易所有联系，但必然和Alameda有着密切关系。这些地址在每个大型交易所都进行过交互，因此在某个时候我们会知道这些可能犯了罪的部署者是谁。这些地址肯定与Alameda Research有密切联系，他们已经与USDT黑名单的地址进行了400笔交易，目前正尝试查找是哪些地址。经查找发现Bald部署者过去曾使用过Wintermute OTC。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve事件报告：4个池共造成约6170万美元的损失，下一步将停止向受影响池的Gauge排放]]></title>
+        <id>https://panewslab.com/zh/articledetails/esevklqg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/esevklqg.html"/>
+        <updated>2023-08-01T00:37:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，Curve Finance官方转发了加密风险评估集团LlamaRisk发布关于Curve池重入漏洞利用事后分析。LlamaRisk的报告表示，旧版本Vyper编译器中的错误导致有限的Curve池组使用的安全功能出现故障，结果让攻击者能够耗尽受影响池中的代币。尽管Curve正在尝试联系漏洞利用者并收回用户资金，但该漏洞的利用直接损害了这些受影响矿池的Curve流动性提供商的利益。多亏了白帽黑客，DAO才收回了受影响池中的部分代币。Curve eDAO无法暂停Curve池或以任何方式处理用户资金，但它可以停止CRV Gauge(Curve的专用名词,意为储蓄池子)向Curve池的排放，预计eDAO将消除所有受影响池的Gauge排放。
+此次事件中受影响的池和造成损失的金额分别为：1.pETH/ETH：6106.65枚WETH（约1100万美元）；2，msETH/ETH：866.55枚WETH（约160万美元）和959.71枚msETH（约180万美元）；3.alETH/ETH：7258.70枚WETH（约 1360万美元）和4821.55alETH（约900万美元）；4.CRV/ETH：7193,401.77枚CRV（利用时约510万美元）、7680.49枚WETH（约1420万美元）和2879.65枚ETH（约540万美元）。上述池共计损失约6170万美元。
+报告还表示，接下来的直接步骤是停止向受影响池的Gauge排放，并为alETH、msETH和pETH创建新的普通池。新的ETH池应该与ETH或ETH池实现配对。CRV已经有了一个与crvUSD和ETH配对的新Tricrypto池，该池不受重入错误的影响。Curve团队将继续探索回收用户资金的所有途径，并将在社交渠道上更新情况。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve呼吁取消对WETH+CRV和Arbitrum上USDT+WBTC+WETH池的投票]]></title>
+        <id>https://panewslab.com/zh/articledetails/mrxlwwxv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/mrxlwwxv.html"/>
+        <updated>2023-07-31T23:59:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，Curve Finance发推文称：“WETH+CRV、Arbitrum上USDT+WBTC+WETH投票的激励已从投票市场中删除。请取消对这些池的投票：第一个池已被利用，第二个池可能不安全。”
+此前今日早些时候消息，Curve Finance表示，因Vyper递归锁故障，稳定币池alETH/msETH/pETH遭到攻击。据安全机构监测，Curve Finance攻击事件已造成5200万美元损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volatility Shares计划推出以太坊期货ETF]]></title>
+        <id>https://panewslab.com/zh/articledetails/7hdl5h9m.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7hdl5h9m.html"/>
+        <updated>2023-07-31T23:47:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据Blockworks报道，Volatility Shares计划推出以太坊期货ETF。该公司在7月28日提交给美国证券交易委员会(SEC)的文件中详细介绍了其提议的“以太坊战略ETF”，该ETF将投资于在芝加哥商品交易所(CME)交易的现金结算以太坊期货合约。它不会直接投资于以太坊。今年5月，灰度Grayscale透露计划推出一只以太坊期货ETF。随后Bitwise Asset Management、Direxion 和Roundhill Investments也提交了申请。几天后，Grayscale修改了文件，表明它将放弃推出这款产品。其他公司也撤回了以太坊期货ETF申请。业内人士认为，潜在的原因是对以太坊期货流动性水平的担忧，以及关于以太坊属于证券还是大宗商品的不确定性。据此前消息，Volatility Shares于今年6月在美国推出了首只杠杆比特币期货ETF。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国联邦法官拒绝Terraform Labs要求驳回美国SEC指控的动议]]></title>
+        <id>https://panewslab.com/zh/articledetails/z25zbuas.html</id>
+        <link href="https://panewslab.com/zh/articledetails/z25zbuas.html"/>
+        <updated>2023-07-31T23:38:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据CoinDesk报道，纽约南区联邦法官Jed Rakoff周一拒绝了Terraform Labs提出的驳回美国证券交易委员会(SEC)指控的动议，称SEC充分论证了其管辖权，并“提出了一个合理的主张”，即TerraUSD (UST)和LUNA可能违反了证券法。此外Jed Rakoff也驳回了法官Analisa Torres的裁决，后者最近裁定Ripple Labs在二级市场向散户投资者提供XRP并未违反证券法。据此前消息，今年早些时候，SEC起诉了Terraform及其创始人Do Kwon，指控他们非法发行未注册证券并多次误导和欺骗投资者。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi协议Solv Protocol完成600万美元融资]]></title>
+        <id>https://panewslab.com/zh/articledetails/twrd343q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/twrd343q.html"/>
+        <updated>2023-07-31T23:27:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据CoinDesk报道，总部位于新加坡的DeFi协议Solv Protocol完成600万美元新一轮融资。日本银行巨头野村证券的子公司Laser Digital参与本轮融资。其它投资者包括大华创投、Mirana Ventures、Emirates Consortium、Matrix Partners、Apollo Capital、HashCIB、Geek Cartel和Bytetrade Labs。新资金将帮助该公司扩大团队，并继续致力于其平台的技术开发。根据DeFiLlama的数据，自今年第二季度推出以来，Solv Protocol总锁仓价值已增长至280万美元，为超过2.5万名用户提供服务，促成了超过1亿美元的交易量。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资公司Coatue Management旗下基金完成3.31亿美元融资，比目标低34%]]></title>
         <id>https://panewslab.com/zh/articledetails/srlcfp55.html</id>
         <link href="https://panewslab.com/zh/articledetails/srlcfp55.html"/>
         <updated>2023-07-31T22:07:50.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，据The Information报道，总部位于纽约的加密风投公司Coatue Management旗下最新基金完成3.31亿美元募资，比目标金额低34%。Coatue Management曾参与投资MoonPay、Chainalysis和Fireblocks等加密初创公司。去年，Coatue Management三位普通合伙人离职，其中包括Luca Schmid，他领导了该公司一些知名加密和金融科技投资。此外，根据K33 Research的数据，今年第一季度Web3公司获得的风险投资同比减少了80%。]]></summary>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据The Information报道，总部位于纽约的投资公司Coatue Management旗下最新基金完成3.31亿美元募资，比目标金额低34%。Coatue Management曾参与投资MoonPay、Chainalysis和Fireblocks等加密初创公司。去年，Coatue Management三位普通合伙人离职，其中包括Luca Schmid，他领导了该公司一些知名加密和金融科技投资。此外，根据K33 Research的数据，今年第一季度Web3公司获得的风险投资同比减少了80%。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
