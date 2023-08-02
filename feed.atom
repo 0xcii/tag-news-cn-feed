@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T11:10:25.278Z</id>
+    <id>urn:2023-08-02T12:25:28.113Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-02T11:10:25.278Z</updated>
+    <updated>2023-08-02T12:25:28.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bald秒变「跑路龙头」后，Base生态能否再造Meme热潮吗？]]></title>
+        <id>https://www.web3sj.com/?p=82885</id>
+        <link href="https://www.web3sj.com/news/82885/"/>
+        <updated>2023-08-02T12:09:46.000Z</updated>
+        <summary type="html"><![CDATA[仅在 7 分钟内，Bald 撤走了总计 8660 枚 ETH 和 1.79 亿枚 BALD 的流动性，而 BALD 的价格大幅下跌，最大跌幅曾达到 80%。而据 Geckoterminal 数据显示，目前 Bald 的流动性资金池内剩 0.0141 ETH。此外，Base TVL 也一落千丈。据 DefiLlama 数据显示，昨日 Base TVL 顶峰时段一度达到 4120 万美元，目前已降至 897 万美元，跌幅达 78.22%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-8.2）]]></title>
+        <id>https://www.web3sj.com/?p=82880</id>
+        <link href="https://www.web3sj.com/news/82880/"/>
+        <updated>2023-08-02T11:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Worldcoin表示将允许公司、政府使用其ID系统。Uniswap社区正对“将V3部署至ConsenSys zkEVM网络Linea”提案进行链上投票。Cosmos生态EVM兼容链Evmos 2.0已上线。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cosmos生态EVM兼容链Evmos 2.0已上线]]></title>
         <id>https://panewslab.com/zh/articledetails/hw5t5a0d.html</id>
@@ -160,7 +180,7 @@ Kithure Kindiki部长签署的声明称：“政府对一个自称为‘WORLD CO
     <entry>
         <title type="html"><![CDATA[Curve危机面前是否无计可施？从DeFi挖矿角度看应对策略]]></title>
         <id>https://www.web3sj.com/?p=82841</id>
-        <link href="https://www.web3sj.com/uncategorized/82841/"/>
+        <link href="https://www.web3sj.com/definews/82841/"/>
         <updated>2023-08-02T07:07:34.000Z</updated>
         <summary type="html"><![CDATA[由于 Curve 创始人将持有大量 CRV 在链上抵押借贷，一旦价格进一步下跌，就有可能导致大量 CRV 被清仓，形成连环暴仓，让 CRV 价格归零也不是没有可能。Curve 作为 DeFi 领域体量最大协议之一，其面临的最新危机对 DeFi 的安全性和可信度也再次形成了重大打击，这对 DeFi 未来发展也可能产生诸多不利影响。]]></summary>
         <author>
@@ -297,26 +317,6 @@ Kithure Kindiki部长签署的声明称：“政府对一个自称为‘WORLD CO
         <link href="https://www.web3sj.com/news/82788/"/>
         <updated>2023-08-02T04:28:24.000Z</updated>
         <summary type="html"><![CDATA[RWA 本质上是将现实资产引入区块链，使之成为链上资产，从而进一步将链下交易转为链上公开透明的交易。在交易过程中，链下数据需要传导至链上，在这过个过程中，预言机就必不可少。预言机（Oracle）本质上是一种将现实世界数据引入区块链的技术，用于在区块链上获取和验证外部数据的工具。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CertiK：Vyper漏洞导致5200万美元损失，详细拆解事件过程]]></title>
-        <id>https://www.web3sj.com/?p=82770</id>
-        <link href="https://www.web3sj.com/news/82770/"/>
-        <updated>2023-08-02T04:10:45.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 7 月 30 日，专为以太坊虚拟机（EVM）设计的面向合约的编程语言 Vyper 编译器 0.2.15、0.2.16 和 0.3.0 版本被宣布存在重入锁失效漏洞。多个 DeFi 项目受到该漏洞的影响，损失总额达 5,200 万美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap交易量揭秘：机器人撑起70%的交易活动]]></title>
-        <id>https://www.web3sj.com/?p=82764</id>
-        <link href="https://www.web3sj.com/definews/82764/"/>
-        <updated>2023-08-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[这里的机器人指的是自动程序，它们通过观察区块链来发现有利可图的交易并执行这些交易。这些机器人有多种类型，但在目前的讨论中，只有两种类型值得关注：套利（Arbitrage）和三明治（Sandwich）。]]></summary>
         <author>
             <name>Gao</name>
         </author>
