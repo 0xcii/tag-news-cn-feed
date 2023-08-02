@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T10:13:28.590Z</id>
+    <id>urn:2023-08-02T11:10:25.278Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-02T10:13:28.590Z</updated>
+    <updated>2023-08-02T11:10:25.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cosmos生态EVM兼容链Evmos 2.0已上线]]></title>
+        <id>https://panewslab.com/zh/articledetails/hw5t5a0d.html</id>
+        <link href="https://panewslab.com/zh/articledetails/hw5t5a0d.html"/>
+        <updated>2023-08-02T10:28:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，Cosmos 生态 EVM 兼容链 Evmos 发推表示 Evmos 2.0 已经到来。2.0版本更新包括通过 Evmos EVM 扩展启用 StakeFi 和 IBC 可组合性，可激励持续增长的 Evmos v2 代币经济模型、通过软件许可，以创造与未来 Evmos SDK 链的价值一致性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火币与 AICoin 达成合作，将全面打通 API 交易功能]]></title>
+        <id>https://panewslab.com/zh/articledetails/q2efv74d.html</id>
+        <link href="https://panewslab.com/zh/articledetails/q2efv74d.html"/>
+        <updated>2023-08-02T10:10:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，火币已正式与数据服务商 AICoin 达成深度合作，双方将全面打通 API 交易功能。据了解，随着双方接口的逐步打通，用户即可在AICoin各个端口自由使用火币全币种的现货与合约功能。火币用户将可通过 AICoin APP 以及 PC 端，对火币的全部币种进行搜索，实时获取市场行情、深度图标等信息，并添加自选；同时，火币用户还可以自定义交易策略、利用 AICoin 的数据分析工具进行交易决策，并快速执行交易操作。
+此外，针对此次合作，火币将联合AICoin于8月7日开始上线一系列限时优惠活动，通过AICoin链接注册火币的新用户，将有机会获得Prime4费率优惠等级、交易手续费全返、体验金等多种奖励。活动开放时间为8月7日至20日。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uwerx遭到闪电贷攻击，损失176枚ETH，约32.7万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/o5ad5j9p.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o5ad5j9p.html"/>
+        <updated>2023-08-02T09:59:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，据CertiK官方推特发布消息称，Uwerx (WERX) 遭到闪电贷攻击。攻击者从2笔交易中获利176枚ETH（约合32.7万美元）。行情显示，Uwerx代币价格近乎归零。
+据慢雾分析，被攻击的根本原因是当接收地址为 uniswapPoolAddress（0x01）时，将会多 burn 掉 from 地址的转账金额 1% 的代币，因此攻击者利用 uniswapv2 池的 skim 功能消耗大量 WERX 代币，然后调用 sync 函数恶意抬高代币价格，最后反向兑换手中剩余的 WERX 为 ETH 以获得利润。据 MistTrack 分析，黑客初始资金来自 Tornadocash 转入的 10 BNB，接着将 10 BNB 换成 1.3 ETH，并通过 Socket 跨链到以太坊。目前，被盗资金仍停留在黑客地址 0x605...Ce4。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Grayscale的GBTC和ETHE 7月份营收超4000万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/6ukg8wdj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6ukg8wdj.html"/>
+        <updated>2023-08-02T09:41:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，据 The Block 报道，Grayscale（灰度）的比特币和以太坊信托基金 GBTC 和 ETHE 在 7 月份的预计收入为 4192 万美元，使该公司两个最大基金产品的总收入达到 2.78 亿美元。ETHE 和 GBTC 预计第二季度收入为 1.262 亿美元。 但其母公司 Digital Currency Group 第二季度综合 EBITDA 亏损 7900 万美元，说明整个业务的现金流状况不佳。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：一FalconX存款地址近5日从币安取出超1.2万枚MKR，价值约1600万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/gd13ckv9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gd13ckv9.html"/>
+        <updated>2023-08-02T08:49:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，据链上分析师余烬监测，0x1157开头的FalconX存款地址近5日从币安取出超12791 枚MKR，价值约1600万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灰度研究董事总经理：加密市场的前景或将取决于美国经济是否能实现软着陆]]></title>
+        <id>https://panewslab.com/zh/articledetails/5kfgwr43.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5kfgwr43.html"/>
+        <updated>2023-08-02T08:47:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，据彭博社报道，加密资产管理公司Grayscale Investments新任研究董事总经理、前高盛策略师Zach Pandl认为，如果美国经济能够实现软着陆，今年加密货币市场的反弹可能还有空间。
+Pandl在一份报告中写道，低通胀和稳定增长的情况可能会通过允许美联储降低实际利率来帮助包括加密货币在内的风险资产。但他表示，“如果央行决定进一步提高实际利率，或者迄今为止的货币紧缩政策导致经济陷入衰退，那么加密货币复苏可能会在短期内暂停。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism推出支持声誉系统的测试网水龙头Superchain Faucet]]></title>
+        <id>https://panewslab.com/zh/articledetails/jrzb0lrj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jrzb0lrj.html"/>
+        <updated>2023-08-02T08:36:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，据官方推特，Optimism宣布推出Superchain Faucet，这是一个支持声誉系统的测试网水龙头，允许开发者利用链上声誉数据获取高达20倍于常规测试网ETH的数量。这将帮助Optimism生态系统中的开发者更有效地进行项目测试和迭代。Superchain Faucet不仅支持通过GitHub进行社交认证，还允许开发者通过链上身份进行认证。
+目前，Superchain Faucet支持OP Goerli，但设计上将扩展到Superchain的其他OP Chains，包括Base、ZORA NETWORK、PGN以及未来的Superchain合作伙伴。Superchain Faucet目前支持通过Optimist NFT行身份验证，并将在未来支持World ID。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：某巨鲸将价值约202万美元的PEPE转入币安并抛售]]></title>
+        <id>https://panewslab.com/zh/articledetails/3dthlcl3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3dthlcl3.html"/>
+        <updated>2023-08-02T08:26:18.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，据链上分析师余烬监测，7月25日从币安提出45923亿枚PEPE(约合651万美元) 的巨鲸地址，近1个小时前，将15923亿枚PEPE(约合202万美元) 转入币安并抛售。
+据悉，该鲸鱼的PEPE成本均价为0.00000142美元，转入币安出售的这15923亿枚PEPE，亏损24万美元。还持有的30000亿枚PEPE(约合380万美元) 目前浮亏45万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap已在其前端禁止HEX交易，或出于监管原因]]></title>
+        <id>https://panewslab.com/zh/articledetails/b1ok4r7h.html</id>
+        <link href="https://panewslab.com/zh/articledetails/b1ok4r7h.html"/>
+        <updated>2023-08-02T08:22:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月2日消息，相关页面显示，Uniswap已禁止从其前端进行HEX交易，标签为“Not available”。根据Uniswap支持中心的文件，该标签表明此类代币无法交易的原因为“由Uniswap Labs手动设置，以阻止侵犯商标的代币、已经被证明是骗局的代币、或者基于其他法律考虑的代币”。
+此前7月31日消息，美国SEC起诉Hex和Pulsechain的创始人涉嫌出售未注册证券。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[广州出台措施鼓励民营企业积极参与人工智能应用场景建设]]></title>
         <id>https://panewslab.com/zh/articledetails/nbj89yrv.html</id>
@@ -22,7 +118,7 @@
         <updated>2023-08-02T08:03:03.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月2日消息，据CoinDesk报道，肯尼亚内政部周三在其Facebook页面上发布的一份声明称，该部暂停了Worldcoin的运营，Worldcoin是由OpenAI首席执行官Sam Altman共同创立的身份加密协议。
 Kithure Kindiki部长签署的声明称：“政府对一个自称为‘WORLD COIN’的组织正在进行的活动感到担忧，该组织通过收集眼球/虹膜数据来进行公民登记。” 相关财务、安全和数据保护服务机构已开始调查，以确定该项目的合法性和数据保护。
-此外，该媒体报道称，一些欧洲监管机构也开始 Worldcoin进行调查，其中包括负责监管该公司的巴伐利亚数据保护办公室。]]></summary>
+此外，该媒体报道称，一些欧洲监管机构也开始对Worldcoin进行调查，其中包括负责监管该公司的巴伐利亚数据保护办公室。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -176,49 +272,6 @@ Kithure Kindiki部长签署的声明称：“政府对一个自称为‘WORLD CO
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[欧易OKX推出AA智能合约钱包，并开启免Gas活动]]></title>
-        <id>https://panewslab.com/zh/articledetails/l84e8i0e.html</id>
-        <link href="https://panewslab.com/zh/articledetails/l84e8i0e.html"/>
-        <updated>2023-08-02T05:21:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，据官方消息，欧易OKX宣布现已正式推出AA智能合约钱包，首期功能将支持用户在Ethereum、OKTC、Polygon、Arb、Op、BNB、Avalance7条热门公链上创建AA智能合约钱包，并使用稳定币USDT/USDC直接支付Gas，链上DEX、DeFi交互多步交互一键完成等多个功能，提高了钱包使用的便捷性。
-据悉，欧易OKX AA智能合约钱包还开启了交易免Gas活动，用户在转账或交易时可以每日享1次无感减免Gas，最高减免5U，并将在未来上线社交恢复等其他功能。用户需在欧易OKX App端拥有助记词钱包/无私钥钱包/硬件钱包后，即可马上体验AA智能合约钱包。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO社区新提案提议将Spark Protocol部署至Polygon zkEVM]]></title>
-        <id>https://panewslab.com/zh/articledetails/n1ngav1m.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n1ngav1m.html"/>
-        <updated>2023-08-02T05:21:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，Polygon Labs团队在MakerDao上发起新提案，提议将MakerDAO旗下借贷协议Spark Protocol部署至Polygon zkEVM。提案表示，Spark Protocol目前利用Chainlink Price Feeds来满足其预言机需求，目前Polygon Labs正在与Chainlink Labs团队讨论，后者将很快在8月份支持Polygon zkEVM，该时间表为Spark部署部署至Polygon zkEVM提供了充足的时间。
-最初上线的抵押品包括WETH、wstETH和DAI。Polygon Labs目前正在探索一些选项，以为Spark在zkEVM 上的发布提供初始DAI流动性。为了启动流动性，DAI 流动性的最低目标规模为50万美元。Polygon Labs 将确定额外的初始拨款规模，以引导Spark在Polygon zkEVM上的发展。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源软件安全解决方案Socket完成2000万美元A轮融资，a16z领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/pqutdy7z.html</id>
-        <link href="https://panewslab.com/zh/articledetails/pqutdy7z.html"/>
-        <updated>2023-08-02T05:17:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，据Techcrunch报道，开源软件安全解决方案Socket宣布完成2000万美元A轮融资，Andreessen Horowitz (a16z) 领投，Abstract Ventures、Wndrco、Unusual Ventures、以及包括Box 联合创始人Aaron Levie、Figma联合创始人Dylan Field、Okta联合创始人 Frederic Kerrest、Vercel CEO Guillermo Rauch和Eventbrite联合创始人Julia和Kevin Hartz等天使投资人参投。新资金将用于扩充团队，并支持和集成更多编程语言。
-据悉，加上此前460万美元种子轮募资，Socket融资总额达2460万美元。与传统的静态分析工具不同，Socket的开源代码安全漏洞检测服务可提供依赖风险相关的可操作反馈，而非数百个无意义的警报。此外，Socket近期推出了一款可总结出软件包中潜在问题的ChatGPT连接器，能够识别出其中“不常见”的代码模式。Socket目前客户包括Metamask、Brave、Magic Eden、Figma和Vercel等项目。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave社区将开启“禁止额外CRV抵押借贷”提案的链上投票]]></title>
-        <id>https://panewslab.com/zh/articledetails/508lpgnk.html</id>
-        <link href="https://panewslab.com/zh/articledetails/508lpgnk.html"/>
-        <updated>2023-08-02T05:12:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，DeFi风险管理器Gauntlet在Aave社区发起新提案，称由于近期CRV流动性下降，建议将以太坊上Aave V2的CRV LTV设置为0，以阻止现有CRV抵押品进行额外借贷。该提案的链上投票将于15小时内启动，并将于8月5日结束。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ConsenSys强势背书的Linea，能否在竞争激烈的L2突出重围？]]></title>
         <id>https://www.web3sj.com/?p=82798</id>
         <link href="https://www.web3sj.com/uncategorized/82798/"/>
@@ -226,38 +279,6 @@ Kithure Kindiki部长签署的声明称：“政府对一个自称为‘WORLD CO
         <summary type="html"><![CDATA[Linea 隶属 ConsenSys 公司旗下产品，ConsenSys 成立于 2014 年，总部位于纽约布鲁克林，其与政府组织机构（美洲开发银行、欧洲委员会、南非储备银行）和商业巨头（微软、摩根大通）都保持良好的关系，是以太坊联盟等加密行业委员会的领导成员。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abracadabra社区新提案提议对CRV cauldrons进行利率调整]]></title>
-        <id>https://panewslab.com/zh/articledetails/uw0yr482.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uw0yr482.html"/>
-        <updated>2023-08-02T05:06:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，算法稳定币MIM发行方Abracadabra社区发布AIP #13.5提案，提议对CRV cauldrons进行利率调整。提案指出，鉴于协议当前面临较大的CRV风险敞口，建议将抵押品基准（collateral-based）利率应用于两个CRV cauldrons。由此，CRV抵押品的利率将包含一个基准利率，该基准利率取决于两个CRV cauldrons未偿还本金之和。而实际利率将由基准利率和利率乘数结合产生。利率乘数则取决于cauldrons的抵押比率。
-该提案若获批，所有利息将直接从cauldrons的抵押品中扣除，并立即转移到协议的财库中，以增加DAO的储备系数，一旦进入财库，抵押品可以通过链上交易或通过Abracadabra链下合作伙伴之一转换为MIM。鉴于当前未偿本金为1800万美元，基准利率为200%。按这个利率，贷款6个月内就可全部还清。随着本金的偿还，基本利率将下降。如果抵押比率是40%，基本利率不会改变。如果抵押比率是45%，那么基本利率将乘以5。以目前未偿还的本金计算，这意味着贷款将在1.2个月内全部偿还。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase CEO：正研究添加闪电网络，愿支持比特币支付发展]]></title>
-        <id>https://panewslab.com/zh/articledetails/qlh23pw3.html</id>
-        <link href="https://panewslab.com/zh/articledetails/qlh23pw3.html"/>
-        <updated>2023-08-02T05:02:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，对于Jack Dorsey询问“Coinbase为何一直忽视比特币闪电网络支付方案”，Coinbase CEO Brian Armstrong回应称：“我们正在研究如何最好地添加闪电网络。这并不简单，但我们认为这么做是值得的，我完全支持比特币支付的发展。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3游戏参与平台开发商Conductive.ai完成种子轮融资，Animoca Brands领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/j0zhl4ik.html</id>
-        <link href="https://panewslab.com/zh/articledetails/j0zhl4ik.html"/>
-        <updated>2023-08-02T05:00:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，据Cointelegraph报道，Web3游戏参与平台开发商Conductive.ai已完成种子轮融资，Animoca Brands领投，其他参投方包括Kraken Ventures、Bixin Ventures、Sound Ventures、Rubik Ventures、Sfermion、Oyster Ventures、Blue Lion Global、Axia8 Ventures、Unanimous Capital和Everest Ventures等，融资金额暂未披露。
-据悉，Conductive.ai正以其专有平台解决游戏收入增长停滞的问题，其推出的解决方案为游戏增加了玩家参与度，为开发者提供了额外的工具，如玩家奖励分配系统和分析套件，从而共同制定鼓励玩家回流策略。Conductive.ai平台包括一个“Zero-Click”导入工具，该工具可以简化Web3帐户的创建和登录，消除了许多使用Web3技术的平台中普遍存在的摩擦。该平台可以支持在游戏中使用稳定币和数字收藏品向全球玩家分发奖励，且具有可扩展性，适用于任何玩家规模的游戏。其内置的分析仪表板可以创建用户细分市场，以进一步了解游戏玩家，让开发者清楚地了解最有价值的玩家和重要数据，从而帮助定义更好的游戏性。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -281,16 +302,6 @@ Kithure Kindiki部长签署的声明称：“政府对一个自称为‘WORLD CO
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：Base网络TVL已降至696万美元，较7月31日的峰值下降83%]]></title>
-        <id>https://panewslab.com/zh/articledetails/ue4cnlpz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ue4cnlpz.html"/>
-        <updated>2023-08-02T04:17:19.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，Defillama数据显示，或受meme代币BALD项目方撤回流动性和LeetSwap黑客攻击事件影响，Base网络TVL目前已降至696万美元，较7月31日4120万美元的峰值下降83%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CertiK：Vyper漏洞导致5200万美元损失，详细拆解事件过程]]></title>
         <id>https://www.web3sj.com/?p=82770</id>
         <link href="https://www.web3sj.com/news/82770/"/>
@@ -308,16 +319,6 @@ Kithure Kindiki部长签署的声明称：“政府对一个自称为‘WORLD CO
         <summary type="html"><![CDATA[这里的机器人指的是自动程序，它们通过观察区块链来发现有利可图的交易并执行这些交易。这些机器人有多种类型，但在目前的讨论中，只有两种类型值得关注：套利（Arbitrage）和三明治（Sandwich）。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos推出Move v1.4和v1.5版本，旨在为性能增强及生态系统做准备]]></title>
-        <id>https://panewslab.com/zh/articledetails/g97koi0b.html</id>
-        <link href="https://panewslab.com/zh/articledetails/g97koi0b.html"/>
-        <updated>2023-08-02T03:36:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月2日消息，据官方推特，Aptos推出Move Framework v1.4和v1.5版本，为性能增强、关键功能和生态系统发展做好准备。Aptos v1.4扩展了 Move标准库，更新包括添加了FixedPoint64、各种数学函数（exp、log、mul_div 等）、字符串格式和额外的内联函数；在v1.5中，Aptos将Quorum Store引入了主网，引入利用Move对象的新Aptos代币标准，对工具套件进行了改进，在每个节点中集成了对等监控服务等。这些增强功能提高了Move生态系统的功能，并使金融应用程序的开发更加高效和准确。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
