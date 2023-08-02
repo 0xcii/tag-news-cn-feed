@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-02T04:14:48.136Z</id>
+    <id>urn:2023-08-02T05:11:48.752Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-02T04:14:48.136Z</updated>
+    <updated>2023-08-02T05:11:48.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ConsenSys强势背书的Linea，能否在竞争激烈的L2突出重围？]]></title>
+        <id>https://www.web3sj.com/?p=82798</id>
+        <link href="https://www.web3sj.com/uncategorized/82798/"/>
+        <updated>2023-08-02T05:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Linea 隶属 ConsenSys 公司旗下产品，ConsenSys 成立于 2014 年，总部位于纽约布鲁克林，其与政府组织机构（美洲开发银行、欧洲委员会、南非储备银行）和商业巨头（微软、摩根大通）都保持良好的关系，是以太坊联盟等加密行业委员会的领导成员。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve引发危机：DeFi死了吗?]]></title>
+        <id>https://www.web3sj.com/?p=82794</id>
+        <link href="https://www.web3sj.com/definews/82794/"/>
+        <updated>2023-08-02T04:37:29.000Z</updated>
+        <summary type="html"><![CDATA[在昨天，DeFi 并未真正「死亡」。没有协议真的崩盘或代币归零——尽管这是一种明显的可能性。没有中介的借贷平台、交易所、交易工具的相互链接的经济体在技术层面上仍然在运转。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别只盯着RWA赛道，预言机赛道同样值得关注]]></title>
+        <id>https://www.web3sj.com/?p=82788</id>
+        <link href="https://www.web3sj.com/news/82788/"/>
+        <updated>2023-08-02T04:28:24.000Z</updated>
+        <summary type="html"><![CDATA[RWA 本质上是将现实资产引入区块链，使之成为链上资产，从而进一步将链下交易转为链上公开透明的交易。在交易过程中，链下数据需要传导至链上，在这过个过程中，预言机就必不可少。预言机（Oracle）本质上是一种将现实世界数据引入区块链的技术，用于在区块链上获取和验证外部数据的工具。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CertiK：Vyper漏洞导致5200万美元损失，详细拆解事件过程]]></title>
         <id>https://www.web3sj.com/?p=82770</id>
@@ -319,36 +349,6 @@ MicroStrategy创始人Michael Saylor在推特上表示，该公司在4月29日�
         <link href="https://www.web3sj.com/definews/82685/"/>
         <updated>2023-08-01T09:46:15.000Z</updated>
         <summary type="html"><![CDATA[Curve 生态中的 4 个资金池 CRV/ETH、alETH/ETH、msETH/ETH、pETH/ETH 被攻击，超过 4500 万美元的流动性已从借贷协议 Alchemix、合成资产 Metronome 、NFT 借贷平台 JPEG'd 的池中中流失，近 2500 万美元从 CRV/ETH 池中流出。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[岌岌可危？Curve创始人1.7亿美元的仓位现状]]></title>
-        <id>https://www.web3sj.com/?p=82673</id>
-        <link href="https://www.web3sj.com/definews/82673/"/>
-        <updated>2023-08-01T09:32:57.000Z</updated>
-        <summary type="html"><![CDATA[昨日，数个 Curve Finance 池子被利用，而 Curve 创始人 Michael Egorov 目前有着一笔约 1 亿美元的贷款，该贷款由 4.275 亿美元 CRV（约占整个 CRV 流通供应量的 47%）做担保。随着 CRV 在过去 24 小时下跌 10%，Curve 的健康状况岌岌可危。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base上发行一个meme，需要花多少钱？]]></title>
-        <id>https://www.web3sj.com/?p=82655</id>
-        <link href="https://www.web3sj.com/news/82655/"/>
-        <updated>2023-08-01T09:25:38.000Z</updated>
-        <summary type="html"><![CDATA[14 个小时左右的时间，2000 倍涨幅，昨天下午 5 点左右，仍有接近 5600 万美元的市值，池内有 8774 枚 WETH。考虑到在上涨过程中大家仍普遍认为 Base 暂时只能将资产跨入而无法跨出（注：其实是可以跨出的，推荐阅读：教程｜手把手教你从 Base 链取回 ETH），这么大的池子与这种容易将人吓跑的「只进不出」认知形成了巨大的反差，让玩家们感到非常不可思议。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一夜千倍几秒崩盘，BALD部署者与FTX和SBF有关联？]]></title>
-        <id>https://www.web3sj.com/?p=82644</id>
-        <link href="https://www.web3sj.com/news/82644/"/>
-        <updated>2023-08-01T09:12:01.000Z</updated>
-        <summary type="html"><![CDATA[昨晚 8 点半左右，BALD 部署者撤除 1 万枚 ETH 和 2.24 亿枚 BALD 流动性，一两分钟内 BALD 价格从 0.09 美元下跌至 0.02 美元附近，跌逾 85% 以上，目前已经下跌至 0.006 美元附近，较最高点跌去 93% 以上。]]></summary>
         <author>
             <name>Gao</name>
         </author>
