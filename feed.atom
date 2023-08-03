@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T01:06:29.832Z</id>
+    <id>urn:2023-08-03T02:26:14.474Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-03T01:06:29.832Z</updated>
+    <updated>2023-08-03T02:26:14.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curve危机后，借贷平台疯狂「打补丁」]]></title>
+        <id>https://www.web3sj.com/?p=82921</id>
+        <link href="https://www.web3sj.com/definews/82921/"/>
+        <updated>2023-08-03T02:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Egorov 已通过一些列操作来降低被清算的风险，例如 Curve 上线 crvUSD/fFRAX 池子，进而影响 Fraxlend 上的 CRV /FRAX 池子的债仓利率，并以 OTC 的方式大量出售手中锁仓 6 个月的 CRV 来还款。据链上分析师余烬监测，截至 8 月 2 日 22 点，Egorov 已累计出售 5950 万枚 CRV，换得 2380 万美元资金。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[预警：以太坊核心开发者Tim Beiko推特账号疑似被盗，请勿点击可疑链接]]></title>
         <id>https://panewslab.com/zh/articledetails/cfppi2h7.html</id>
@@ -256,16 +266,6 @@ Warren等参议员们指的是参议院2021年8月通过的1.2万亿美元基础
         <link href="https://www.web3sj.com/definews/82794/"/>
         <updated>2023-08-02T04:37:29.000Z</updated>
         <summary type="html"><![CDATA[在昨天，DeFi 并未真正「死亡」。没有协议真的崩盘或代币归零——尽管这是一种明显的可能性。没有中介的借贷平台、交易所、交易工具的相互链接的经济体在技术层面上仍然在运转。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别只盯着RWA赛道，预言机赛道同样值得关注]]></title>
-        <id>https://www.web3sj.com/?p=82788</id>
-        <link href="https://www.web3sj.com/news/82788/"/>
-        <updated>2023-08-02T04:28:24.000Z</updated>
-        <summary type="html"><![CDATA[RWA 本质上是将现实资产引入区块链，使之成为链上资产，从而进一步将链下交易转为链上公开透明的交易。在交易过程中，链下数据需要传导至链上，在这过个过程中，预言机就必不可少。预言机（Oracle）本质上是一种将现实世界数据引入区块链的技术，用于在区块链上获取和验证外部数据的工具。]]></summary>
         <author>
             <name>Gao</name>
         </author>
