@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T08:15:40.063Z</id>
+    <id>urn:2023-08-03T09:12:16.811Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-03T08:15:40.063Z</updated>
+    <updated>2023-08-03T09:12:16.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FTX希望将其迪拜子公司从美国破产程序中移除]]></title>
+        <id>https://panewslab.com/zh/articledetails/cm21vk4t.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cm21vk4t.html"/>
+        <updated>2023-08-03T08:44:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月3日消息，据CoinDesk报道，根据周四的法庭文件，FTX希望将其迪拜子公司FTX Dubai排除在美国的清算程序之外。文件称，FTX Dubai在向阿拉伯联合酋长国(UAE)申请破产之前没有开展任何业务，因此“没有恢复运营的合理可能性”；此外FTX Dubai的资产负债表有偿付能力，因此债务人认为，按照阿拉伯联合酋长国的法律采取有偿付能力的自愿清算程序，将能够在付清所有未偿债务和清算所有资产后及时分配现金余额。有关此事的听证会定于8月23日举行。
+据悉，去年11月，FTX在美国申请破产时，已经为全球102家关联实体启动了破产法第11章。FTX迪拜成立于2022年2月，由该公司的欧洲子公司所有，是参与诉讼的实体之一。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨链桥Orbiter Finance现已支持Base网络]]></title>
+        <id>https://panewslab.com/zh/articledetails/wq5x31xj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wq5x31xj.html"/>
+        <updated>2023-08-03T08:35:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月3日消息，据官方推特，Layer2跨链桥Orbiter Finance现已支持Base网络。目前用户能够以0手续费在以太坊主网、zkSync Lite、zkSync Era、Starknet、Arbitrum One、Arbitrum Nova、Optimism、Polygon、Polygon zkEVM、BNB Chian、Linea、Mantle以及Base网络间跨链转移最多5枚ETH。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui主网已升级至V1.6.3版本，包含流动性质押功能更新]]></title>
+        <id>https://panewslab.com/zh/articledetails/j7gl7s48.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j7gl7s48.html"/>
+        <updated>2023-08-03T08:30:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月3日消息，据官方消息，Sui主网现已升级至V1.6.3版本，此升级包含多项修复和优化。升级要点包括：增加linter警告、可选择忽略linter警告、警告不再阻止测试的运行、添加新的过滤器 TransactionKindIn、linter鼓励开发者从函数中返回对象。
+另外，此版本包含了SIP第6号改进提案的流动性质押功能更新，建议全节点尽快完成更新，以避免服务故障。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开发者如何在Base主网构建产品]]></title>
         <id>https://www.web3sj.com/?p=83034</id>
@@ -13,6 +45,18 @@
         <summary type="html"><![CDATA[现在 Base 主网已对开发者开放。主网的第一阶段使开发者能够在 Base 上部署他们的产品，为我们在 8 月初的主网做准备，届时将向十亿用户开放链上服务。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abracadabra社区正对“对CRV cauldrons进行利率调整”修订版提案进行投票]]></title>
+        <id>https://panewslab.com/zh/articledetails/cz8i77o6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cz8i77o6.html"/>
+        <updated>2023-08-03T07:56:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月3日消息，Snapshot投票页面显示，算法稳定币MIM发行方Abracadabra社区正对“利率进一步修订”AIP #13.6提案进行投票，该提案系“对CRV cauldrons进行利率调整”AIP #13.5提案的修订版本，旨在解决协议当前面临较大的CRV风险敞口问题。此次投票将于8月6日结束。
+AIP #13.6提案系Abracadabra大户masterofdisaster.eth提出，其此前投了100亿枚SPELL反对票，几乎以一己之力否决了AIP #13.5提案，他表示：“我认为，已完成的还款以及CRV流动性的潜在增加要求改变拟议的利息增加。因此，我对之前的提案投了反对票，并提出了新的条款。”相对于AIP #13.5提案，新提案对未偿还本金的范围和相对应的基本利率做了修改，拟议的基本利率较之前有所减少，利率乘数被利率变动范围和影响总体基本利率的能力所取代。
+此前昨日消息，Abracadabra社区已通过“紧急冻结CRV市场清算”的AIP 13.4提案。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -315,26 +359,6 @@ BlockFi在新闻稿中指出，通过公司的计划，BlockFi打算将钱包资
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国金融监管局警告虚拟资产相关投资诈骗，披露两个月内收到406份举报]]></title>
-        <id>https://panewslab.com/zh/articledetails/kzkac4ot.html</id>
-        <link href="https://panewslab.com/zh/articledetails/kzkac4ot.html"/>
-        <updated>2023-08-03T02:13:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月3日消息，据亚洲经济报道，韩国金融监管局今日表示，接到了多种虚拟资产相关投资诈骗的举报，因此发布金融消费者警报。随着虚拟资产用户保护法将于明年7月生效，韩国金融监管局自6月1日起开始运营与虚拟资产相关的投资欺诈举报中心，以应对监管真空期间的投资欺诈问题。截至上月底，该网站共收到举报406份。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：Wintermute Trading凌晨从币安提取850万枚ARKM]]></title>
-        <id>https://panewslab.com/zh/articledetails/wcnot9b1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wcnot9b1.html"/>
-        <updated>2023-08-03T01:50:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月3日消息，据Coindesk报道，Nansen数据显示，今日凌晨01:14至02:30期间，做市商Wintermute Trading通过5笔交易从币安共提取850万枚ARKM，使Wintermute的对该代币的持仓增加了超过731%。交易完成后，Wintemute成为ARKM第十大持有者。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：7月灰度GBTC和ETHE信托营收逾4000万美元]]></title>
         <id>https://www.hellobtc.com/news/202308/21037.html</id>
         <link href="https://www.hellobtc.com/news/202308/21037.html"/>
@@ -356,34 +380,6 @@ BlockFi在新闻稿中指出，通过公司的计划，BlockFi打算将钱包资
 8.Wintermute Trading从币安提取逾800万枚ARKM代币，成为ARKM第十大持有者。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨夜今晨重要资讯（8月2日-8月3日）]]></title>
-        <id>https://panewslab.com/zh/articledetails/dd0sclp0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dd0sclp0.html"/>
-        <updated>2023-08-03T01:37:10.000Z</updated>
-        <summary type="html"><![CDATA[1.知情人士：美国司法部考虑对币安提起欺诈指控，但担心造成挤兑
-据Semafor援引知情人士的话称，美国司法部官员正在考虑对币安提起欺诈指控，但担心如果他们起诉币安，可能会导致类似于FTX的挤兑，进而导致消费者损失资金并可能引发加密市场的恐慌。知情人士表示，检方正在考虑其他选择，比如罚款、暂缓起诉或不起诉协议。这样的结果将是一种妥协，让币安对所谓的违法行为负责同时减少对消费者的伤害。
-2.江苏省公安厅：多名群众从事“虚拟币”关联投资被骗损失极其惨重，请提高警惕
-江苏省公安厅近日发布的群发信息显示：“近期我省多名群众在相关网站或APP上从事‘虚拟币’关联投资被骗，损失极其惨重。请广大市民提高警惕，不要轻信非国家相关部门批准、监管或认可的投资理财渠道。”
-3.Calvin Ayre旗下Ayre Group以约5.7亿美元收购nChain多数股权
-BSV 支持者 Calvin Ayre 旗下 Ayre Group 已与 BSV 协议开发商 nChain 签订协议，以 5 亿瑞士法郎（约 5.7 亿美元）的价格获得该公司多数股权、信贷额度、以及知识产权许可等资产。nChain 是是 Bitcoin SV 节点软件开发商，也是 Teranode、LiteClient 等区块链软件的开发商，目前该公司拥有近 800 项技术专利，还有 3,000 多项正在等待批准。
-Ayre Group创始人Calvin Ayre 称：“在过去十年的大部分时间里，nChain 及其驻伦敦的首席科学家 Craig Wright 博士一直在悄悄积累范围无与伦比的专利组合，这实际上是企业区块链、人工智能和 Web3 的基本要素。我的目标是加快 nChain 的开发步伐并提高其广泛的 IP 库的商业采用率。没有一个区块链或 Web3 项目不是站在 nChain 专利库的肩膀上的——该专利库是该领域最早、最大、质…]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工学院数字货币计划支持基于ERC-20的大规模可编程CBDC平台PArSEC]]></title>
-        <id>https://panewslab.com/zh/articledetails/hxpoi578.html</id>
-        <link href="https://panewslab.com/zh/articledetails/hxpoi578.html"/>
-        <updated>2023-08-03T01:17:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月3日消息，据Cointelegraph报道，麻省理工学院 (MIT) 数字货币计划 (DCI) 推出了实验性PArSEC平台。PArSEC（“可扩展执行智能合约的并行架构”的缩写）是开源的，并在开发时考虑了央行数字货币（CBDC）。
-开发人员强调了该平台的速度。他们表示，它每秒在128台主机上执行118,000笔ERC-20交易，超过了公共无许可区块链。因此，该平台能够处理跨境承包，也可用于创新供应链和合规检查。PArSEC支持ERC-20代币，因此在该平台上推出的自动做市商可以与除CBDC之外的债券、代币化证券和回购协议等资产进行交易。由于它支持虚拟机，因此将简化央行和商业银行之间的交互。
-开发人员表示，他们需要持续对该平台进行大量研究，该平台的安全、密钥管理、数据迁移工具、隐私等方面需要改进。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
