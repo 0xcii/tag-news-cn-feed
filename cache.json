@@ -11,7 +11,7 @@
           "description": "AI引发好莱坞罢工事件的反思",
           "link": "https://www.defidaonews.com/article/6826486",
           "publishedOn": "2023-07-20T08:33:07.000Z",
-          "wordCount": 151,
+          "wordCount": 136,
           "title": "AI 演员：好莱坞罢工后的下一件大事？",
           "imageUrl": "https://appserversrc.8btc.cn/Fr0g11sK4QOEgWsoduQJ8FFwXM-B.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "风口就是FOMO。",
           "link": "https://www.defidaonews.com/article/6826706",
           "publishedOn": "2023-07-19T09:28:12.000Z",
-          "wordCount": 416,
+          "wordCount": 414,
           "title": "巴比特 | 元宇宙每日必读：28家AI企业集体赴港IPO，业绩惨谈，经营亏损，这是AI下半场的起点，还是资本炒作到顶峰的标志？",
           "imageUrl": "https://appserversrc.8btc.cn/lkGWxO3dyH9NoA8gd6p3xsIJKsjp.png?imageView2/1/w/500/h/300"
         },
@@ -41,7 +41,7 @@
           "description": "2024年，决战垂类大模型，AI应用大爆发！",
           "link": "https://www.defidaonews.com/article/6825290",
           "publishedOn": "2023-07-07T09:38:48.000Z",
-          "wordCount": 111,
+          "wordCount": 113,
           "title": "23年通用大模型引爆AI风暴，24年垂类模型重塑千行百业丨上海人工智能大会金句集锦",
           "imageUrl": "https://appserversrc.8btc.cn/lrbC1r1upmyOxzcTzYx34wNwMbD_.png?imageView2/1/w/500/h/300"
         }
@@ -53,12 +53,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=83034",
+          "author": "Gao",
+          "description": "现在 Base 主网已对开发者开放。主网的第一阶段使开发者能够在 Base 上部署他们的产品，为我们在 8 月初的主网做准备，届时将向十亿用户开放链上服务。",
+          "link": "https://www.web3sj.com/news/83034/",
+          "publishedOn": "2023-08-03T08:01:32.000Z",
+          "wordCount": 837,
+          "title": "开发者如何在Base主网构建产品",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691049682754.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=83022",
           "author": "Gao",
           "description": "SUAVE（Single Unified Auction for Value Expression）是旨在解决 MEV 相关挑战的基础设施。SUAVE 专注于将内存池和区块生成的角色从现有的区块链中分离出来，形成一个独立的网络（排序层），可作为任何区块链即插即用的内存池和去中心化区块构建者。SUAVE 的主要目的是为用户、区块构建者、验证者等与 MEV 相关的参与者提供一个更加去中心化和公平的生态系统。",
           "link": "https://www.web3sj.com/project/83022/",
           "publishedOn": "2023-08-03T05:44:36.000Z",
-          "wordCount": 808,
+          "wordCount": 796,
           "title": "SUAVE Centauri：重塑MEV供应链",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691041462384.png"
         },
@@ -68,7 +78,7 @@
           "description": "「根据最近的事件和新信息，Eric Balchunas 和我正式将现货 BTC ETF 的获批几率提高到 65%，」Seyffart 在推特上表示，「这比几周前的 50% 和几个月前的 1% 都要高。」",
           "link": "https://www.web3sj.com/news/83006/",
           "publishedOn": "2023-08-03T04:11:35.000Z",
-          "wordCount": 761,
+          "wordCount": 740,
           "title": "彭博分析师：现货比特币ETF获批几率从1%飙升到65%",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/0c20e08678c2a445f0b4b79cf1756289.png"
         },
@@ -78,7 +88,7 @@
           "description": "从流行热词到「狗不理」，很显然区块链的热度下去了、凉了。古语有云「天欲其亡，必令其狂」，在很长一段时间不少人甚至将区块链等价于「疯狂」的比特币。当下正值加密熊市，于是人们认为区块链是被「连累」了，把区块链的「凉」归咎于此似乎合情合理。当然区块链现在的「凉」，可能并不是人们认为的那种「凉」。",
           "link": "https://www.web3sj.com/news/83002/",
           "publishedOn": "2023-08-03T03:26:34.000Z",
-          "wordCount": 648,
+          "wordCount": 657,
           "title": "为什么现在没什么人谈「区块链」了？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691033179363.png"
         },
@@ -88,7 +98,7 @@
           "description": "Rollups 是 L2 解决方案，在返回到 L1 之前处理 L1 的事务。以太坊上的标准交易通常为 156 字节，其中签名是数据密度最高的部分。因此，Rollups 在 L2 执行环境中处理多个交易，然后将它们捆绑成一个交易，提交给 L1 进行常规状态验证。",
           "link": "https://www.web3sj.com/news/82985/",
           "publishedOn": "2023-08-03T03:12:07.000Z",
-          "wordCount": 1258,
+          "wordCount": 1267,
           "title": "算法视角解读L2交易定价：收入、费用和协议的影响",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691032304545.png"
         },
@@ -98,7 +108,7 @@
           "description": "根据 DUNE 的数据显示，自上个月来，使用 1inch 的唯一钱包数量已超过 100 万大关，超过了在 2021 年的高峰期。在近期 1INCH 上涨突破 0.5 美元，团队也推出了自己的开发者门户测试版本，该 Web3 SaaS（软件即服务）平台提供了用于开发新产品的 API，包括交易、现货价格、代币信息等。",
           "link": "https://www.web3sj.com/definews/82977/",
           "publishedOn": "2023-08-03T03:05:32.000Z",
-          "wordCount": 1463,
+          "wordCount": 1453,
           "title": "专访1inch：Uniswap垄断阴影下，如何在DEX领域创新？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691031915460.png"
         },
@@ -108,7 +118,7 @@
           "description": "同为 Layer2 双雄之一，OP Mainnet 在与 Arbitrum 的竞争中处于下风许久后实现部分数据的超车。从日交易笔数来看，在过去 6 个月时间里，OP Mainnet 的日交易数一直落后于 Arbitrum，而在近期 OP Mainnet 却首次实现反超。截至 8 月 2 日，OP Mainnet 的日交易数量为 61.4 万笔，Arbitrum 则为日 59.9 万笔。",
           "link": "https://www.web3sj.com/news/82967/",
           "publishedOn": "2023-08-03T02:57:25.000Z",
-          "wordCount": 1019,
+          "wordCount": 1027,
           "title": "数据解读OP Mainnet发展现状：整体仍不具备竞争优势，OP Stack的品牌合作打法反哺生态",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691031432843.png"
         },
@@ -118,7 +128,7 @@
           "description": "Vyper 0.2.15、0.2.16 和 0.3.0 版本的重入锁失效，Vyper 官方文档安装界面推荐的也是一个错误的版本。其他使用 Vyper 编译器的项目方也赶紧进行了自查，试图确保自己不会成为下一个受害者。随着漏洞利用事件的源头被逐渐揭露，市场逐渐认识到，这次的危机并不仅意味着一次普通的黑客漏洞利用事件，更是展露出整个底层堆栈对整个 DeFi 行业潜在的巨大风险。",
           "link": "https://www.web3sj.com/definews/82959/",
           "publishedOn": "2023-08-03T02:45:24.000Z",
-          "wordCount": 963,
+          "wordCount": 928,
           "title": "Curve这次遭遇的漏洞利用，或许为黑客们打开了新思路",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691030712879.png"
         },
@@ -128,7 +138,7 @@
           "description": "Worldcoin 项目是 UBI 经济学的一种具象化表现，UBI 经济学的宗旨是实现无条件的基本收入。2020 年，新冠疫情在全球蔓延，很多国家的政府选择了向国民派发消费券或者现金以稳定社会经济运行，这是 UBI 经济学的具体表现，但是这种措施带来的问题也是非常明显的，例如通货膨胀和劳动力工作意愿不足。",
           "link": "https://www.web3sj.com/news/82944/",
           "publishedOn": "2023-08-03T02:37:11.000Z",
-          "wordCount": 1523,
+          "wordCount": 1558,
           "title": "头等仓研报：UBI经济学Worldcoin",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691030217672.png"
         },
@@ -138,19 +148,9 @@
           "description": "提到新公链，Dfinity(ICP) 必然是绕不开的话题，凭借近 2 亿美元的巨额融资、华丽的密码学家团队和特立独行的技术，ICP 曾一度被无数人追捧；但自 2021 年高开上线后，ICP 便一路狂跌，从人们心中炙手可热的「天王项目」沦落为遭人唾弃的「天亡项目」，让无数人唏嘘不已。同时，单薄冷清的生态也使得 ICP 在 Solana 等竞品面前无地自容。",
           "link": "https://www.web3sj.com/news/82931/",
           "publishedOn": "2023-08-03T02:28:31.000Z",
-          "wordCount": 1118,
+          "wordCount": 1135,
           "title": "ICP没落的原因：特立独行的技术与冷清单薄的生态",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691029698129.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=82921",
-          "author": "Gao",
-          "description": "Egorov 已通过一些列操作来降低被清算的风险，例如 Curve 上线 crvUSD/fFRAX 池子，进而影响 Fraxlend 上的 CRV /FRAX 池子的债仓利率，并以 OTC 的方式大量出售手中锁仓 6 个月的 CRV 来还款。据链上分析师余烬监测，截至 8 月 2 日 22 点，Egorov 已累计出售 5950 万枚 CRV，换得 2380 万美元资金。",
-          "link": "https://www.web3sj.com/definews/82921/",
-          "publishedOn": "2023-08-03T02:24:35.000Z",
-          "wordCount": 894,
-          "title": "Curve危机后，借贷平台疯狂「打补丁」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1691028722746.png"
         }
       ]
     },
@@ -165,7 +165,7 @@
           "description": "PANews 8月3日消息，据彭博社报道，苹果(AAPL.US)和高盛(GS.US)在周三的一份声明中指出，它们合作推出的新的高收益储蓄账户的存款已突破100亿美元。\n据悉，苹果官方在今年4月17日时面向Apple Card用户，推出了Apple Card储蓄业务，年利率为4.15%，是美国平均水平的10倍以上。这个功能允许Apple Card用户在iPhone钱包应用中开设高盛的高收益储蓄账户（Savings Account），并开始从他们的Daily Cash余额中赚取利息。",
           "link": "https://panewslab.com/zh/articledetails/7o6mepmv.html",
           "publishedOn": "2023-08-03T06:55:22.000Z",
-          "wordCount": 375,
+          "wordCount": 369,
           "title": "苹果和高盛合作推出的Apple Card储蓄账户存款已突破100亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +175,7 @@
           "description": "PANews 8月3日消息，据福布斯报道，律师表示，如果加拿大的一项未决诉讼被认定为集体诉讼， 加拿大上市加密投资公司Galaxy Digital在纳斯达克上市的计划可能会面临新的延迟。该诉讼案与失败的加密货币Luna有关。拟议中的集体诉讼于去年12月在加拿大安大略省高等法院提起，要求该公司赔偿约20亿加元的损失，原告指控Galaxy未能遵守有关其持有Luna的报告要求，首席执行官Mike Novogratz在2022年5月代币崩溃之前就公司对加密货币的风险做出了虚假陈述。Galaxy计划对这些指控进行抗辩。Galaxy发言人Michael Wursthorn表示：“我们坚信这些指控是毫无根据的，我们打算积极地为此案辩护。”\nGalaxy Digital最初向美国证券交易委员会提交了上市申请，希望于2021年在纳斯达克上市。到目前为止，Galaxy选择不向其在多伦多证券交易所的股票持有人、在其向美国证券交易委员会提交的纳斯达克注册文件中正式承认这起诉讼。作为集体诉讼的证明意味着双方可以上法庭，或者Galaxy可以要求驳回诉讼。在这两个过程中都有可能出现新的证据。律所Scott & Scott的Sean Masson律师表示，这些披露肯定会引起美国证券交易委员会的注意，并可能阻碍Galaxy Digital在美国上市的任何努力。",
           "link": "https://panewslab.com/zh/articledetails/32z01g29.html",
           "publishedOn": "2023-08-03T06:40:28.000Z",
-          "wordCount": 388,
+          "wordCount": 382,
           "title": "福布斯：Galaxy Digital赴美上市计划因Luna相关诉讼再次面临延迟风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +185,7 @@
           "description": "PANews 8月3日消息，据Techcrunch报道，企业级区块链平台SettleMint最近在其平台上推出AI助手，以帮助Web3开发人员编写智能合约。SettleMint联合创始人兼首席技术官Roderik van der Veer表示，SettleMint创造人工智能助手并不是为了取代人类，人工智能可以帮助起草智能合约，但其真正的价值在于解释每一行代码的作用。SettleMint主要在OpenAI的GPT-4上对人工智能助手进行培训，并向其提供有关区块链开发的最新信息。\n此前去年10月消息，SettleMint完成1600万欧元A轮融资，Molten Ventures领投。",
           "link": "https://panewslab.com/zh/articledetails/5zdy2o7x.html",
           "publishedOn": "2023-08-03T06:16:14.000Z",
-          "wordCount": 378,
+          "wordCount": 372,
           "title": "企业级区块链平台SettleMint推出AI助手，以辅助Web3开发人员编写智能合约",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +195,7 @@
           "description": "PANews 8月3日消息，据官方公告，韩国加密交易所Upbit宣布其质押服务新增支持Solana（SOL）， 预计年化利率为7%。据悉，SOL系该交易所质押服务支持的第四种加密资产。",
           "link": "https://panewslab.com/zh/articledetails/3im5up6i.html",
           "publishedOn": "2023-08-03T05:48:48.000Z",
-          "wordCount": 355,
+          "wordCount": 349,
           "title": "Upbit的质押服务新增支持Solana（SOL）",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +205,7 @@
           "description": "PANews 8月3日消息，据官方公告，币安将于2023年8月4日16:00上线BTC/FDUSD、ETH/FDUSD交易对。\n自2023年8月4日16:00起，币安将更新BTC零手续费活动，将BTC/FDUSD交易对加入至该活动中。用户也可在ETH/FDUSD交易对享受零挂单手续费，直至另行通知。",
           "link": "https://panewslab.com/zh/articledetails/qwls9ihw.html",
           "publishedOn": "2023-08-03T05:25:23.000Z",
-          "wordCount": 348,
+          "wordCount": 342,
           "title": "币安新增BTC/FDUSD、ETH/FDUSD交易对，并更新BTC零手续费活动",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +215,7 @@
           "description": "PANews 8月3日消息，算法稳定币MIM发行方Abracadabra社区未通过“对CRV cauldrons进行利率调整”的AIP #13.5提案，最终支持率仅为27.74%。值得一提的是，Abracadabra大户masterofdisaster.eth几乎以一己之力扭转投票结果，其对AIP 13.5投了100亿枚SPELL反对票，几乎占所有反对票的100%。\n该提案指出，鉴于协议当前面临较大的CRV风险敞口，建议将抵押品基准（collateral-based）利率应用于两个CRV cauldrons。由此，CRV抵押品的利率将包含一个基准利率，该基准利率取决于两个CRV cauldrons未偿还本金之和。而实际利率将由基准利率和利率乘数结合产生。利率乘数则取决于cauldrons的抵押比率。\n此前昨日消息，Abracadabra社区已通过“紧急冻结CRV市场清算”的AIP 13.4提案。",
           "link": "https://panewslab.com/zh/articledetails/yzsd5bm1.html",
           "publishedOn": "2023-08-03T05:17:00.000Z",
-          "wordCount": 383,
+          "wordCount": 377,
           "title": "Abracadabra关于“对CRV cauldrons进行利率调整”提案未获投票通过",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -225,7 +225,7 @@
           "description": "PANews 8月3日消息，据The Block报道，OpenAI首席执行官Sam Altman共同创立的身份加密协议Worldcoin证实，该公司在昨天收到暂停通知后，已暂时暂停在肯尼亚的服务。\n据悉，肯尼亚一直是该项目的主要市场。Worldcoin基金会的一位发言人表示，在肯尼亚有大量对其验证服务的需求，成千上万的人在两天时间里排队等候获得World ID。\n此前昨日消息，肯尼亚政府以隐私和安全问题为由暂停Worldcoin的运营。",
           "link": "https://panewslab.com/zh/articledetails/30xrjki7.html",
           "publishedOn": "2023-08-03T05:13:06.000Z",
-          "wordCount": 373,
+          "wordCount": 367,
           "title": "Worldcoin证实其于昨日收到肯尼亚政府通知后已暂停该国服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 8月3日消息，Hashkey Group内部人士透露，香港证监会已批准HashKey Exchange的1号和7号牌照的升级，允许其向散户提供服务。\n根据官方的说法，在此次牌照升级后，HashKey Exchange成为香港首家面向零售用户展业的持牌交易平台，这将进一步拓展HashKey Exchange的业务范围，从仅面向专业投资者扩展至零售用户。此外，HashKey Exchange正式推出虚拟资产场外交易业务HashKey Brokerage，目前，HashKey Exchange 已经正式开放预注册。\n此前7月8日消息，HashKey Exchange Business已向香港证监会提交牌照申请，预计其申请将在未来几周内获得批准并计划在短期内推出虚拟资产交易平台的应用程序。HashKey披露其在申请牌照期间“获得积极反馈”。",
           "link": "https://panewslab.com/zh/articledetails/ud01h5sx.html",
           "publishedOn": "2023-08-03T05:09:51.000Z",
-          "wordCount": 399,
+          "wordCount": 393,
           "title": "独家：香港证监会已批准HashKey Exchange的牌照升级，允许其向散户提供服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 8月3日消息，据Beosin Alert监测，BNB Chain链上Apache NFT SalesRoom（ASN）发生Rug Pull，部署者获利约68万美元。部署者将大量代币转移到地址0xdc8开头地址，现在该地址已以68万美元的BSC-USD价格抛售了100万枚ASN。",
           "link": "https://panewslab.com/zh/articledetails/6d8pcl4z.html",
           "publishedOn": "2023-08-03T03:45:44.000Z",
-          "wordCount": 419,
+          "wordCount": 413,
           "title": "安全公司：Apache NFT SalesRoom发生Rug Pull，部署者获利68万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 8月3日消息，据Lookonchain报道，某巨鲸地址于12个小时前以1839美元的均价出售了2400枚ETH，并获得400万枚USDT用以偿还Aave债务。然后该地址在9小时前将3710枚ETH（680万美元）存入币安。",
           "link": "https://panewslab.com/zh/articledetails/gsm6doxh.html",
           "publishedOn": "2023-08-03T03:34:06.000Z",
-          "wordCount": 371,
+          "wordCount": 357,
           "title": "数据：某巨鲸出售2400枚ETH偿还Aave债务，并将3710枚ETH存入币安",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 8月3日消息，欲从NFT社交媒体平台转型为Web3创作者门户的Nifty's项目在推特上宣布，该项目将从今天开始逐步结束其业务。Nifty's表示：“今年早些时候，考虑到我们在困难的市场中资源有限，我们转向为Web3创作者开发一个平台。从那时起，我们一直致力于开发新产品，并寻找机会获得继续开发所需的资金。不幸的是，尽管我们尽了最大努力，我们正在努力的投资机会并没有成功，我们现在发现自己已经走到了尽头。”\n此外，Nifty's表示：“过去的几个星期里，团队尽最大努力确保Nifty's上发布的NFT项目能够继续下去，包括《The Matrix Avatars》《Looney Tunes: What’s Up, Block?》《Game of Thrones: Build Your Realm》和《Bullet Train》。团队已去中心化了所有NFT媒体，并在Polygon区块链上重新分配NFT，除非它们已经在以太坊上。”对于华纳兄弟品牌的NFT持有者，Nifty's制定了说明，让他们导出私钥以保存他们的收藏品。\n此前2021年3月，Nifty's完成pre-种子轮融资，MarkCuban、JosephLubin等参投。根据Decrypt的说法，Nifty's在这次融资中筹集了1000万美元。",
           "link": "https://panewslab.com/zh/articledetails/p7dm0j4c.html",
           "publishedOn": "2023-08-03T03:27:00.000Z",
-          "wordCount": 410,
+          "wordCount": 404,
           "title": "Web3项目Nifty's在转型失败中宣布关闭，因未能筹得开发资金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 8月3日消息，据官方消息，基于Solana的P2E游戏Nyan Heroes游戏设备品牌Razer（雷蛇）达成合作，目前暂不清楚合作细节。\n据悉，Razer于今年4月推出了新的 zVentures Web3 孵化器 (ZW3I)以资助Web3游戏项目，其区块链总监 Lawrence Lin 表示，该孵化器将专注于提供营销支持，将孵化多达 36 个项目。\nNyan Heroes 是一款免费的第三人称射击游戏，采用了虚幻引擎 5 和区块链技术，其在去年5月以1亿美元估值完成了750万美元战略融资，Kosmos Ventures、Sino Global Capital、Shima Capital和Petrock Capital领投，Crypto.com等参投。",
           "link": "https://panewslab.com/zh/articledetails/qt6y7uyb.html",
           "publishedOn": "2023-08-03T03:00:33.000Z",
-          "wordCount": 495,
+          "wordCount": 489,
           "title": "P2E游戏Nyan Heroes与游戏硬件设备公司Razer达成合作",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 8月3日消息，新火科技控股有限公司今日发布公告称，将本公司英文名称“New Huo Technology Holdings Limited”更改为“Sinohope Technology Holdings Limited”，公司中文名称维持不变。改名后的新火科技将更加专注于数字资产托管业务。\n根据公告，更改公司英文名称(于生效后) 将不会以任何方式影响股东的任何权利。于更改公司名称生效后，本公司已发行的所有现有股票(包括印有本公司现有名称的现有股票) 将继续有效并作为股份的所有权凭证，并就买卖、结算、登记及交付而言将仍然有效。\n此外，公告表示更改公司英文名称须待下列条件达成后方可生效：1. 股东于股东特别大会上通过批准更改公司名称的必要特别决议案；2.英属处女群岛公司事务注册处处长批准更改公司名称及于登记册录入本公司新名称。",
           "link": "https://panewslab.com/zh/articledetails/oqm81s63.html",
           "publishedOn": "2023-08-03T02:56:10.000Z",
-          "wordCount": 388,
+          "wordCount": 382,
           "title": "新火科技将英文品牌名变更为Sinohope，中文名维持不变",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 8月3日消息，据链上分析师余烬监测，截至8月3日10:00，Curve创始人累计向15个投资者/机构出售了7200万枚CRV，换得资金2880万美元。",
           "link": "https://panewslab.com/zh/articledetails/2utm77wh.html",
           "publishedOn": "2023-08-03T02:52:15.000Z",
-          "wordCount": 367,
+          "wordCount": 361,
           "title": "数据：Curve创始人累计出售7200万枚CRV，换得2880万美元资金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 8月3日消息，据Businesswire报道，已倒闭的加密货币贷款机构BlockFi宣布其披露声明已获得美国新区破产法院有条件批准，于2023年8月2日生效，建议所有有权投票的各方在2023年9月11日投票截止日期之前接受该BlockFi第11章计划。BlockFi强调，该计划将为这些第11章案件得出公平且价值最大化的结论，从而尽快返还客户资金。\nBlockFi在新闻稿中指出，通过公司的计划，BlockFi打算将钱包资产归还给债权人，随后结束公司的事务。如果该计划得到确认，公司将集中精力在针对Alameda、FTX、三箭资本、Emergent、Marex和Core Scientific的诉讼中寻求索赔和诉因，以最大限度地为客户争取赔偿，并抗辩第三方的索赔，因为这些索赔可能会大量稀释客户。BlockFi的合格债权人有机会投票赞成该计划，并将收到BlockFi的披露声明和计划、详细的投票说明以及其他重要信息。",
           "link": "https://panewslab.com/zh/articledetails/2lvxp2gu.html",
           "publishedOn": "2023-08-03T02:48:27.000Z",
-          "wordCount": 347,
+          "wordCount": 341,
           "title": "美国破产法院已有条件批准BlockFi的披露声明",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 8月3日消息，慢雾首席信息安全官23pds在推特上表示，注意到最近暗网出现针对macOS大规模攻击的软件macOS-HVNC，而Mac电脑和设备因其安全性和可用性比较好而被加密货币个人和中小企业广泛使用。\n23pds指出关于macOS-HVNC的特性：1.隐藏操作：HVNC 被设计为以隐身模式运行，使个人和中小企业难以检测到其系统上的存在,这种隐藏的操作允许网络犯罪分子在不引起怀疑的情况下保持访问权限。2.维持权限：HVNC 通常包括确保即使在系统重新启动或尝试将其删除后仍保持活动状态的机制。3.数据盗窃：HVNC 的主要目的是从个人、员工的计算机中窃取敏感信息，例如登录凭据、个人数据、虚拟资产、财务信息或其他有价值的数据。4.远程控制：HVNC允许网络犯罪分子远程控制计算机，使他们能够完全访问系统。\n此外，23pds提醒到：“尽管Mac历来较少成为网络犯罪分子的目标，但攻击者现在正在开发更多的macOS恶意软件，注意风险。”",
           "link": "https://panewslab.com/zh/articledetails/zsfmuq29.html",
           "publishedOn": "2023-08-03T02:41:05.000Z",
-          "wordCount": 370,
+          "wordCount": 364,
           "title": "慢雾：暗网中出现大规模macOS攻击软件macOS-HVNC，需注意风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 8月3日消息，据亚洲经济报道，韩国金融监管局今日表示，接到了多种虚拟资产相关投资诈骗的举报，因此发布金融消费者警报。随着虚拟资产用户保护法将于明年7月生效，韩国金融监管局自6月1日起开始运营与虚拟资产相关的投资欺诈举报中心，以应对监管真空期间的投资欺诈问题。截至上月底，该网站共收到举报406份。",
           "link": "https://panewslab.com/zh/articledetails/kzkac4ot.html",
           "publishedOn": "2023-08-03T02:13:58.000Z",
-          "wordCount": 350,
+          "wordCount": 344,
           "title": "韩国金融监管局警告虚拟资产相关投资诈骗，披露两个月内收到406份举报",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 8月3日消息，据Coindesk报道，Nansen数据显示，今日凌晨01:14至02:30期间，做市商Wintermute Trading通过5笔交易从币安共提取850万枚ARKM，使Wintermute的对该代币的持仓增加了超过731%。交易完成后，Wintemute成为ARKM第十大持有者。",
           "link": "https://panewslab.com/zh/articledetails/wcnot9b1.html",
           "publishedOn": "2023-08-03T01:50:54.000Z",
-          "wordCount": 373,
+          "wordCount": 367,
           "title": "数据：Wintermute Trading凌晨从币安提取850万枚ARKM",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "1.知情人士：美国司法部考虑对币安提起欺诈指控，但担心造成挤兑\n据Semafor援引知情人士的话称，美国司法部官员正在考虑对币安提起欺诈指控，但担心如果他们起诉币安，可能会导致类似于FTX的挤兑，进而导致消费者损失资金并可能引发加密市场的恐慌。知情人士表示，检方正在考虑其他选择，比如罚款、暂缓起诉或不起诉协议。这样的结果将是一种妥协，让币安对所谓的违法行为负责同时减少对消费者的伤害。\n2.江苏省公安厅：多名群众从事“虚拟币”关联投资被骗损失极其惨重，请提高警惕\n江苏省公安厅近日发布的群发信息显示：“近期我省多名群众在相关网站或APP上从事‘虚拟币’关联投资被骗，损失极其惨重。请广大市民提高警惕，不要轻信非国家相关部门批准、监管或认可的投资理财渠道。”\n3.Calvin Ayre旗下Ayre Group以约5.7亿美元收购nChain多数股权\nBSV 支持者 Calvin Ayre 旗下 Ayre Group 已与 BSV 协议开发商 nChain 签订协议，以 5 亿瑞士法郎（约 5.7 亿美元）的价格获得该公司多数股权、信贷额度、以及知识产权许可等资产。nChain 是是 Bitcoin SV 节点软件开发商，也是 Teranode、LiteClient 等区块链软件的开发商，目前该公司拥有近 800 项技术专利，还有 3,000 多项正在等待批准。\nAyre Group创始人Calvin Ayre 称：“在过去十年的大部分时间里，nChain 及其驻伦敦的首席科学家 Craig Wright 博士一直在悄悄积累范围无与伦比的专利组合，这实际上是企业区块链、人工智能和 Web3 的基本要素。我的目标是加快 nChain 的开发步伐并提高其广泛的 IP 库的商业采用率。没有一个区块链或 Web3 项目不是站在 nChain 专利库的肩膀上的——该专利库是该领域最早、最大、质…",
           "link": "https://panewslab.com/zh/articledetails/dd0sclp0.html",
           "publishedOn": "2023-08-03T01:37:10.000Z",
-          "wordCount": 779,
+          "wordCount": 773,
           "title": "昨夜今晨重要资讯（8月2日-8月3日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/08/03/images/Qzfls8Q766.jpg"
         },
@@ -355,7 +355,7 @@
           "description": "PANews 8月3日消息，据Cointelegraph报道，麻省理工学院 (MIT) 数字货币计划 (DCI) 推出了实验性PArSEC平台。PArSEC（“可扩展执行智能合约的并行架构”的缩写）是开源的，并在开发时考虑了央行数字货币（CBDC）。\n开发人员强调了该平台的速度。他们表示，它每秒在128台主机上执行118,000笔ERC-20交易，超过了公共无许可区块链。因此，该平台能够处理跨境承包，也可用于创新供应链和合规检查。PArSEC支持ERC-20代币，因此在该平台上推出的自动做市商可以与除CBDC之外的债券、代币化证券和回购协议等资产进行交易。由于它支持虚拟机，因此将简化央行和商业银行之间的交互。\n开发人员表示，他们需要持续对该平台进行大量研究，该平台的安全、密钥管理、数据迁移工具、隐私等方面需要改进。",
           "link": "https://panewslab.com/zh/articledetails/hxpoi578.html",
           "publishedOn": "2023-08-03T01:17:40.000Z",
-          "wordCount": 363,
+          "wordCount": 357,
           "title": "麻省理工学院数字货币计划支持基于ERC-20的大规模可编程CBDC平台PArSEC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }

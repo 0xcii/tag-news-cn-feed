@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-03T07:11:46.720Z</id>
+    <id>urn:2023-08-03T08:15:40.063Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-03T07:11:46.720Z</updated>
+    <updated>2023-08-03T08:15:40.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[开发者如何在Base主网构建产品]]></title>
+        <id>https://www.web3sj.com/?p=83034</id>
+        <link href="https://www.web3sj.com/news/83034/"/>
+        <updated>2023-08-03T08:01:32.000Z</updated>
+        <summary type="html"><![CDATA[现在 Base 主网已对开发者开放。主网的第一阶段使开发者能够在 Base 上部署他们的产品，为我们在 8 月初的主网做准备，届时将向十亿用户开放链上服务。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果和高盛合作推出的Apple Card储蓄账户存款已突破100亿美元]]></title>
         <id>https://panewslab.com/zh/articledetails/7o6mepmv.html</id>
@@ -300,16 +310,6 @@ BlockFi在新闻稿中指出，通过公司的计划，BlockFi打算将钱包资
         <link href="https://www.web3sj.com/news/82931/"/>
         <updated>2023-08-03T02:28:31.000Z</updated>
         <summary type="html"><![CDATA[提到新公链，Dfinity(ICP) 必然是绕不开的话题，凭借近 2 亿美元的巨额融资、华丽的密码学家团队和特立独行的技术，ICP 曾一度被无数人追捧；但自 2021 年高开上线后，ICP 便一路狂跌，从人们心中炙手可热的「天王项目」沦落为遭人唾弃的「天亡项目」，让无数人唏嘘不已。同时，单薄冷清的生态也使得 ICP 在 Solana 等竞品面前无地自容。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve危机后，借贷平台疯狂「打补丁」]]></title>
-        <id>https://www.web3sj.com/?p=82921</id>
-        <link href="https://www.web3sj.com/definews/82921/"/>
-        <updated>2023-08-03T02:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Egorov 已通过一些列操作来降低被清算的风险，例如 Curve 上线 crvUSD/fFRAX 池子，进而影响 Fraxlend 上的 CRV /FRAX 池子的债仓利率，并以 OTC 的方式大量出售手中锁仓 6 个月的 CRV 来还款。据链上分析师余烬监测，截至 8 月 2 日 22 点，Egorov 已累计出售 5950 万枚 CRV，换得 2380 万美元资金。]]></summary>
         <author>
             <name>Gao</name>
         </author>
