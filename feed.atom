@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-06T11:09:59.743Z</id>
+    <id>urn:2023-08-06T12:21:26.207Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-06T11:09:59.743Z</updated>
+    <updated>2023-08-06T12:21:26.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-8.6）]]></title>
+        <id>https://www.web3sj.com/?p=83407</id>
+        <link href="https://www.web3sj.com/news/83407/"/>
+        <updated>2023-08-06T11:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Tether推出比特币挖矿软件以加强对挖矿能力的有效管理。Curve Finance黑客已全部归还Alchemix在Curve池中的资金。以太坊编译器Vyper发布漏洞事件分析报告，漏洞已于v0.3.1修复并测试。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：波场链上4900万枚USDT从Bitfinex转至Kraken]]></title>
+        <id>https://panewslab.com/zh/articledetails/kn6vivhg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kn6vivhg.html"/>
+        <updated>2023-08-06T11:13:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据Whale Alert监测，波场链上 49,000,000 枚USDT（价值约 50,117,200 美元）从 Bitfinex 转至 Kraken。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊编译器Vyper发布漏洞事件分析报告，漏洞已于v0.3.1修复并测试]]></title>
+        <id>https://panewslab.com/zh/articledetails/0u1iiix7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0u1iiix7.html"/>
+        <updated>2023-08-06T10:24:08.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，以太坊编译器 Vyper 发布有关上周漏洞事件的分析报告：此前 7 月 30 日由于 Vyper 编译器中的潜在漏洞，多个 Curve 流动性池被利用。虽然已识别并修补了错误，但当时并未意识到对使用易受攻击的编译器的协议的影响，也没有明确通知他们。该漏洞本身是一个未正确实施的重入防护，受影响的 Vype 版本为 v0.2.15、v0.2.16、v0.3.0。
+漏洞已于 v0.3.1 修复并测试，v0.3.1 及更高版本是安全的。未来将采取措施来提高使用 Vyper 编译的智能合约的正确性，一是改进编译器的测试，包括继续提高覆盖率、将编译器输出与语言规范进行比较，以及利用形式验证 (FV) 工具进行编译器字节码验证。二是为开发人员提供工具，使他们能够更轻松地采用多方面的方法来测试其代码，包括源代码和字节码级别的测试。三是加强使用 Vyper 协议更严格的双向反馈。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海：全力布局新赛道 打造数字经济、元宇宙等创新策源高地]]></title>
         <id>https://www.hellobtc.com/news/202308/21060.html</id>
@@ -356,16 +387,6 @@ Ardoino 强调了他作为 Moria（矿场编排工具）架构的核心贡献者
         <link href="https://www.web3sj.com/news/83305/"/>
         <updated>2023-08-05T03:38:16.000Z</updated>
         <summary type="html"><![CDATA[据了解，MosaicML 以约 13 亿美元的价格被大数据巨头 Databricks 收购，其估值在本次交易中翻了六倍，成为了今年上半年最大的收购案。仅成立 2 年时间，拥有 60 多名员工，是什么撑起了 MosaicML 的高估值？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新近PoW项目速览：Dynex、Microvision Chain、Neurai]]></title>
-        <id>https://www.web3sj.com/?p=83290</id>
-        <link href="https://www.web3sj.com/news/83290/"/>
-        <updated>2023-08-05T03:35:50.000Z</updated>
-        <summary type="html"><![CDATA[不过，POW 模式也依然处于发展之中。典型代表如 KAS，提出了新的 POW 区块链模式。由于 KAS 的持续上涨，新的 POW 项目也逐渐引起资金和社区的注意。本文介绍几个近期市场表现尚可的 POW 项目。]]></summary>
         <author>
             <name>Gao</name>
         </author>
