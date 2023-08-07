@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-07T06:16:37.919Z</id>
+    <id>urn:2023-08-07T07:12:01.747Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-07T06:16:37.919Z</updated>
+    <updated>2023-08-07T07:12:01.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3究竟离90%的普通人还有多远？]]></title>
+        <id>https://www.web3sj.com/?p=83563</id>
+        <link href="https://www.web3sj.com/news/83563/"/>
+        <updated>2023-08-07T07:03:43.000Z</updated>
+        <summary type="html"><![CDATA[可能有人会说是「去中心化」的精神，也有人说是资本的新故事，但到目前为止除了媒体的大肆报道，其实 Web3 离 90% 的普通人都还很远，于是下一个问题又变成了：很远是多远？]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用OPStack构建全链游戏的时钟周期]]></title>
+        <id>https://www.web3sj.com/?p=83550</id>
+        <link href="https://www.web3sj.com/gamefinews/83550/"/>
+        <updated>2023-08-07T06:38:23.000Z</updated>
+        <summary type="html"><![CDATA[区块链是一个分布式的数据库，它通过网络中的节点共享和存储信息。当一个节点产生一个新的交易（如转账、合约调用等）时，这个交易会被推送到网络中，其他的节点收到这个交易后会验证它并将它添加到区块链中。这是一个被动的过程，节点不会主动去查找新的交易，而是等待网络中的其他节点发送新的交易。因此，区块链的架构被称为是基于推送的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave社区正对“结束DAO与Llama的合作关系”提案进行链上投票]]></title>
+        <id>https://panewslab.com/zh/articledetails/7tu014l8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7tu014l8.html"/>
+        <updated>2023-08-07T06:23:23.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月7日消息，治理页面显示，Aave社区正对“Aave DAO结束与DeFi管理平台Llama的合作关系”提案进行链上投票。该提案由Aave-Chan Initiative创始人Marc Zeller提出，他在提案中表示：“Llama历来是Aave DAO的服务提供商，并做出了众多贡献，但在他们任职期间，Llama的表现曾多次出现低于预期的情况。”
+Zeller举例称：“Llama对关键的CRV AIP的处理清楚地证明了他们无法及时提供急需的有效载荷。由于CRV的估值增加，执行延迟导致DAO的额外成本约为100万美元。这一事件凸显了对能够可靠地履行承诺的服务提供商的需求，也凸显了Llama不足以胜任手头的任务。尽管Llama从DAO获得了150万美元，Llama仍向第三方收取与Aave相关的咨询服务费用，包括寻求资产上线的团队。鉴于这些情况，我们认为对 Aave DAO 最有利的行动方针是结束我们与 Llama 的关系。这将使 DAO 能够重新评估新服务提供商的需求和预算。”他补充道：“我们认为对Aave DAO最有利的行动方针是结束我们与Llama的关系。这将使DAO能够重新评估新服务提供商的需求和预算。”
+根据该提案，在快照投票决定之后，Llama将来不会被视为Aave DAO的服务提供商，并将以减少的方式完成当前的参与。目前该投票支持率为100%，但尚未达到法定人数，投票将于8月8日下午结束。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMX V2与Perp DEX赛道的中年危机]]></title>
         <id>https://www.web3sj.com/?p=83539</id>
@@ -26,6 +58,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Aave社区通过“禁止额外CRV抵押借贷”提案链上投票，并已执行]]></title>
+        <id>https://panewslab.com/zh/articledetails/0d7dr0ho.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0d7dr0ho.html"/>
+        <updated>2023-08-07T05:58:23.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月7日消息，治理页面显示，Aave社区以100%的支持率通过了“禁止额外CRV抵押借贷”提案的链上投票，并于昨日执行。该提案由DeFi风险管理器Gauntlet提出，指出“由于近期CRV流动性下降，建议将以太坊上Aave V2的CRV LTV设置为0，以阻止现有CRV抵押品进行额外借贷”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[技术详解币安遭影子攻击全过程]]></title>
         <id>https://www.web3sj.com/?p=83518</id>
         <link href="https://www.web3sj.com/news/83518/"/>
@@ -33,6 +75,26 @@
         <summary type="html"><![CDATA[CZ 也对事件进行了解读。很显然，攻击者利用多数钱包显示地址仅仅显示开头结尾的特征，使用与受害人目标地址首尾相同的地址（0xa7B4…E90570）迷惑了受害人，最终让受害人将自己的资产转到了钓鱼地址。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abracadabra社区通过“对CRV cauldrons进行利率调整”修订版提案]]></title>
+        <id>https://panewslab.com/zh/articledetails/wytufcks.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wytufcks.html"/>
+        <updated>2023-08-07T05:31:58.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月7日消息，Snapshot投票页面显示，算法稳定币MIM发行方Abracadabra社区已投票通过“利率进一步修订”AIP #13.6提案，最终支持率为99.91%。该提案系“对CRV cauldrons进行利率调整”AIP #13.5提案的修订版本，旨在解决协议当前面临较大的CRV风险敞口问题。相对于AIP #13.5提案，新提案对未偿还本金的范围和相对应的基本利率做了修改，拟议的基本利率较之前有所减少，利率乘数被利率变动范围和影响总体基本利率的能力所取代。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司：某用户因ERC20许可网络钓鱼丢失价值277万美元的sfrxETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/ypvak2jr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ypvak2jr.html"/>
+        <updated>2023-08-07T05:14:06.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月7日消息，据Web3反诈骗平台Scam Sniffer监测，北京时间12:01，某用户因ERC20许可网络钓鱼丢失了价值约277万美元的sfrxETH。受害者于资金被盗前的3分钟签署了一条ERC20许可。这种类型的网络钓鱼签名通常以0x000开头并以000结尾，请注意风险。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -140,16 +202,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coretime能为波卡2.0带来多少收入？DOT的需求会增加吗？]]></title>
-        <id>https://www.web3sj.com/?p=83468</id>
-        <link href="https://www.web3sj.com/project/83468/"/>
-        <updated>2023-08-07T03:03:00.000Z</updated>
-        <summary type="html"><![CDATA[在波卡 1.0 中，Coretime 是通过插槽租赁来分配给平行链的。插槽租赁是一种拍卖机制，让平行链竞价获取一段固定的时间（6 到 24 个月），在这段时间内，平行链可以使用一个插槽，也就是一个固定的区块时间段。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数据：Wintermute Trading过去4天内已向交易所存入1110万枚YGG]]></title>
         <id>https://panewslab.com/zh/articledetails/ocor8p0g.html</id>
         <link href="https://panewslab.com/zh/articledetails/ocor8p0g.html"/>
@@ -157,16 +209,6 @@
         <summary type="html"><![CDATA[PANews 8月7日消息，据Lookonchain监测，Wintermute Trading的钱包在过去4天内已向交易所存入总计1110万枚YGG （约合670万美元），目前持有250万枚YGG（约合150万美元）。Lookonchain提及，YGG的价格在过去7天内上涨了近250%。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慢雾：被盗急救指南之链上留言]]></title>
-        <id>https://www.web3sj.com/?p=83444</id>
-        <link href="https://www.web3sj.com/news/83444/"/>
-        <updated>2023-08-07T02:59:49.000Z</updated>
-        <summary type="html"><![CDATA[2023 上半年，遭受攻击后仍能全部或部分收回损失资金的事件共有 10 起。这 10 起事件的被盗资金总计约 2.32 亿美元，其中的 2.19 亿美元被返还，占被盗资金的 94%。在这 10 起事件中，有 3 起事件的资金被全部退回。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -322,53 +364,6 @@ PANews 启动全球LEAP 之旅！
         <link href="https://panewslab.com/zh/articledetails/q4o9jy24.html"/>
         <updated>2023-08-07T01:10:40.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月7日消息，OpenAI首席执行官Sam Altman旗下的加密项目Worldcoin在官方博客中表示，在Worldcoin推出测试版一周内，每周全球World ID验证量已经增加了一倍多。World ID验证率在2023年已经翻了一番，从1月至7月，World ID注册人数从100万增加至200万，上周World ID每周注册量增长了2倍。此外，World App在发布7天内每周活跃用户增加了3倍，每周创建的账户数量增加了10倍以上。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某NFT交易者用计从复制其竞标的机器人中骗取150万美元，该行为引发合法性争议]]></title>
-        <id>https://panewslab.com/zh/articledetails/i74bvv3e.html</id>
-        <link href="https://panewslab.com/zh/articledetails/i74bvv3e.html"/>
-        <updated>2023-08-07T01:00:50.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月7日消息，据Decrypt报道，NFT市场Blur上的一系列交易引发关注，随后一位名叫Hanwe Chang的交易员欺骗复制其竞标的机器人，使该机器人高价购买某些Azuki NFT，从而赚取巨额溢价，这引发了其行为是否合法的争议。Chang在推特上称其“注意到某机器人正在复制我在Blur上的出价，所以决定欺骗他”，并补充说他通过该策略赚取了800枚ETH的利润，净赚近150万美元。
-周六，12个共享特定背景色“Off White A”的Azuki NFT同时售出，每个售价50枚ETH，价值91500美元。之前带有“Off White A”背景的Azuki NFT售价不到5枚ETH，即9000美元左右，这些NFT的巨大价格变动引人注目。链上数据显示，这12个NFT疑似由Chang收集在一个钱包，但交易完成后，很大一部分利润会使用ENS发送到一个标记为“hanwe.eth”的钱包。一个名为a Raving Ape的账户在推特上推测：“知道有机器人在模仿他的出价，Chang很可能欺骗这个对此毫无怀疑的交易员，通过对他自己的NFT出价，以更高的价格购买了Azuki NFT。”该机器人的所有者“elizab.eth”发推文声称资金从其机器人中被盗，并称想要与Chang讨论赏金的可能性，表示“如果Chang同意退还其余资金，Chang可以保留10%的资金”。
-加密KOL“Dave III”表示，Chang的伎俩是“非法市场活动”，并警告其他人不要“吹嘘自己欺诈”，“仅仅为了触发其他出价而提出你不希望被接受的出价是非法的”。虽然一些评论人士反驳了该行为非法的说法，并表示“elizab.eth”只是被智取了，但Delphi Labs总法律顾问Gabriel Shapiro表示：“如果聘请资深诉讼律师，‘elizab.eth’可能会有充分的法律主张。从机器人‘骗局’中拿回他们的ETH。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Eden支持BRC-20小数位铭刻和交易]]></title>
-        <id>https://panewslab.com/zh/articledetails/5g6em0pd.html</id>
-        <link href="https://panewslab.com/zh/articledetails/5g6em0pd.html"/>
-        <updated>2023-08-07T00:20:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月7日消息，据官方推特，NFT市场Magic Eden宣布支持BRC-20小数位铭刻和交易，不再局限于此前的整数功能，这有助于解锁更高价值BRC-20的细粒度收藏。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeetSwap：正重建并重新推出代币，将向持有者空投新版本代币]]></title>
-        <id>https://panewslab.com/zh/articledetails/8e0h6url.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8e0h6url.html"/>
-        <updated>2023-08-07T00:07:41.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月7日消息，Base链上DEXLeetSwap在推特上表示：“对于所有询问LEET的用户，我们正在努力重建并重新推出代币。将向持有者空投新版本代币。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：价值约3044万美元的APT、1331万美元的IMX将在本周解锁]]></title>
-        <id>https://panewslab.com/zh/articledetails/oa1hbxoa.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oa1hbxoa.html"/>
-        <updated>2023-08-06T23:58:52.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月7日消息，Token Unlocks数据显示，本周5个加密项目将进行代币解锁，总计释放价值约5423万美元。
-Nym（NYM）将于8月7日8时解锁约4563万枚代币，价值约864万美元。
-Hashflow（HFT）将于8月7日8时解锁约323万枚代币，价值约115万美元。
-Moonbeam（GLMR）将于8月9日8时解锁约304万枚代币，价值约69万美元。
-Aptos（APT）将于8月12日8时解锁约454万枚代币，价值约3044万美元。
-ImmutableX（IMX）将于8月12日6时解锁约1808万枚代币，价值约1331万美元。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
