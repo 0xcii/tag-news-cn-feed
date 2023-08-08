@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-08T02:26:59.330Z</id>
+    <id>urn:2023-08-08T03:12:40.150Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-08T02:26:59.330Z</updated>
+    <updated>2023-08-08T03:12:40.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AW基础设施盘点：从街机账户Arcade Accounts到高铁网络Trustless Relay，全链游戏准备好了吗？]]></title>
+        <id>https://www.web3sj.com/?p=83655</id>
+        <link href="https://www.web3sj.com/news/83655/"/>
+        <updated>2023-08-08T03:06:51.000Z</updated>
+        <summary type="html"><![CDATA[从游戏「远古时期」的 BitQuest 和 Huntercoin，再到短暂而繁荣的 Axie 与 Stepn 时代；从沙盒到 Play-to-earn, 受制于基础设施，WEB3 游戏赛道始终无法完成最后一跃，成为承接 Web2 用户 Mass adoption 的桥头堡。区块链行业的游戏开发者从自发到自觉，已经走过无意识的使用通证或仅仅资产上链的「金融竞技场」时期，而面对的是在区块链行业内「游戏何为」的深水区问题。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAI的8%超额「无风险利率」怎么来的？]]></title>
+        <id>https://www.web3sj.com/?p=83645</id>
+        <link href="https://www.web3sj.com/definews/83645/"/>
+        <updated>2023-08-08T03:03:32.000Z</updated>
+        <summary type="html"><![CDATA[简单来说，MakerDAO 引入 RWA 资产的目的是借助外部信用的能力使其背后支持的资产多元化，并且借助美国国债带来的长期额外收益可以帮助 DAI 稳定自身汇率，增加发行量的弹性，并且在资产负债表中掺入美国国债的成份可以降低 DAI 对 USDC 的依赖程度，减少单点风险。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance衍生品市场研报：6个值得关注的衍生品DEX]]></title>
+        <id>https://www.web3sj.com/?p=83633</id>
+        <link href="https://www.web3sj.com/definews/83633/"/>
+        <updated>2023-08-08T02:59:44.000Z</updated>
+        <summary type="html"><![CDATA[根据 Binance 的数据，目前加密衍生品市场在总交易量上占据了 74.2% 的市场份额。加密衍生品的月交易量达到 1.9 万亿美元，过去三年里增长了 3 倍。在此期间，衍生品市场呈现出多样化和增长的态势。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPal推出稳定币，4.3亿人的加密合规入口来了]]></title>
+        <id>https://www.web3sj.com/?p=83628</id>
+        <link href="https://www.web3sj.com/news/83628/"/>
+        <updated>2023-08-08T02:55:07.000Z</updated>
+        <summary type="html"><![CDATA[尽管 PayPal 过去几年涉足加密领域的业务不少，但其官方稳定币的推出仍旧能够算作加密发展进程中的重大事件。作为出入加密世界的便捷通道，稳定币通常被视为引导加密用户的重要工具。截至目前，这项工作主要由 USDC 和 USDT 来承担，但由于缺少传统金融和现实世界的应用场景，这两种稳定币的主要用户仍旧是加密行业的内部参与者。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解顶级加密风投Paradigm最新十大关注领域]]></title>
+        <id>https://www.web3sj.com/?p=83625</id>
+        <link href="https://www.web3sj.com/news/83625/"/>
+        <updated>2023-08-08T02:52:17.000Z</updated>
+        <summary type="html"><![CDATA[在最新的英雄贴中，Paradgim 表示其探索的重要领域包括：以「意图」为中心的协议和基础设施、构建在 Uniswap v4 上的 Hooks（尤其是专注于 LP 盈利能力和损失与再平衡）、面向以 Rollup 为中心的多链世界基础设施、共享排序器、全链游戏、加密原生社交应用、预测市场（创造具有真实的流动性市场）、稳定币支付 / 金融科技、链上国债和 ZKP apps。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lazarus Group利用虚假工作机会从CoinsPaid窃取3700万美元]]></title>
         <id>https://panewslab.com/zh/articledetails/e6ij92ad.html</id>
@@ -179,56 +229,6 @@ Steadefi在另一条推文中更新了此事件的简要概述，称：“我们
         <link href="https://www.web3sj.com/definews/83539/"/>
         <updated>2023-08-07T06:09:06.000Z</updated>
         <summary type="html"><![CDATA[Perp DEX 赛道整体上看，交易量 Volume 还有三月繁荣期的 6 成左右，但是费用收入和用户数下降更为明显，日活跃用户数 DAU 仅剩巅峰时期的 3 成左右，加起来跟巅峰 gmx 一家差不多。交易量数据也非常依赖代币激励，与此前 GMX/GNS 基于真实用户行为的增长不同，目前交易激励在该赛道的影响已不容忽视。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT交易机器人遭戏弄损失800ETH，Web3透明性是一把双刃剑？]]></title>
-        <id>https://www.web3sj.com/?p=83529</id>
-        <link href="https://www.web3sj.com/nftnews/83529/"/>
-        <updated>2023-08-07T06:01:16.000Z</updated>
-        <summary type="html"><![CDATA[推特上的 NFT 大佬 Hanwe (@HanweChang) ，发现在 Blur 上有机器人 bot 模仿跟随自己的报价策略，于是决定给这个机器人「上点强度」，戏耍了机器人一把，并公开发推表示盈利 800 ETH（约 146 万美金）。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技术详解币安遭影子攻击全过程]]></title>
-        <id>https://www.web3sj.com/?p=83518</id>
-        <link href="https://www.web3sj.com/news/83518/"/>
-        <updated>2023-08-07T05:48:24.000Z</updated>
-        <summary type="html"><![CDATA[CZ 也对事件进行了解读。很显然，攻击者利用多数钱包显示地址仅仅显示开头结尾的特征，使用与受害人目标地址首尾相同的地址（0xa7B4…E90570）迷惑了受害人，最终让受害人将自己的资产转到了钓鱼地址。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT是新时代创作者践行「1000 粉丝理论」的最佳介质——以音乐人为例]]></title>
-        <id>https://www.web3sj.com/?p=83509</id>
-        <link href="https://www.web3sj.com/nftnews/83509/"/>
-        <updated>2023-08-07T04:02:58.000Z</updated>
-        <summary type="html"><![CDATA[音乐人是 Web3 创作者的一个重要类别。这篇文章中，我以独立音乐人为例，先分析其在当下遇到的问题和原因，然后分享 Web3 时代的新实践，希望能够对你有启发。同时这也是一篇音乐介质发展史，Enjoy~]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读币安研究院Telegram Bots报告：移动端的另一种交易体验]]></title>
-        <id>https://www.web3sj.com/?p=83492</id>
-        <link href="https://www.web3sj.com/news/83492/"/>
-        <updated>2023-08-07T03:42:46.000Z</updated>
-        <summary type="html"><![CDATA[币安研究院发布了 Teleram Bots 的研究报告，指出 Telegram 机器人的累计交易量已超过 1.9 亿美元,单日最高交易量达 1000 万美元。机器人交易模式是怎样的，整个赛道未来发展如何，又有哪些可能存在的风险？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读Coinbase Q2财报：数据和电话会议都说了些什么？]]></title>
-        <id>https://www.web3sj.com/?p=83486</id>
-        <link href="https://www.web3sj.com/news/83486/"/>
-        <updated>2023-08-07T03:22:26.000Z</updated>
-        <summary type="html"><![CDATA[收入方面，Coinbase 的财务状况在今年第二季度发生了显著变化。订阅和服务收入（包括托管费用、利息收入和质押收入）达到了 3.35 亿美元，占总净收入的 51% ，这是公司历史上非交易收入首次超越交易收入。尽管如此，订阅和服务业务的一些重要部分，如利息收入在市值下降的情况下呈现下滑。其中，第二季度的利息收入中有 1.51 亿美元来自其持有的 USDC。]]></summary>
         <author>
             <name>Gao</name>
         </author>
