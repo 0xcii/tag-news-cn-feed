@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T03:12:50.609Z</id>
+    <id>urn:2023-08-09T04:15:18.461Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T03:12:50.609Z</updated>
+    <updated>2023-08-09T04:15:18.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer投研报告：基于以太坊的中间件协议]]></title>
+        <id>https://www.web3sj.com/?p=83838</id>
+        <link href="https://www.web3sj.com/project/83838/"/>
+        <updated>2023-08-09T03:41:30.000Z</updated>
+        <summary type="html"><![CDATA[EigenLayer 是一个具有创新性和潜力的区块链基础设施服务项目，它可以为以太坊生态系统中的各种软件模块提供安全性、可扩展性和互操作性等基础服务，从而促进区块链应用程序的创新和多样性。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ordinals之后，以太坊铭文协议Ethscriptions如何再塑NFT资产形态]]></title>
         <id>https://www.web3sj.com/?p=83830</id>
@@ -43,6 +53,34 @@
         <summary type="html"><![CDATA[Paxos 已经是稳定币行业内的「老熟人」了，成立于 2013 年的 Paxos 主要提供现金托管、加密货币服务、数字资产发行、证券和商品结算等服务。在 2018 年 9 月，Paxos 获得了纽约州金融服务部（NYDFS）发行的稳定币的许可，随即推出了 Pax Dollar（USDP）稳定币，USDP 发行之初，这款稳定币一度占据了以太坊上近 30% 的稳定币市场，但桎梏于有限的应用场景，之后市场份额持续下滑。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：Uniswap部署至Base一天内交易量已突破1万笔]]></title>
+        <id>https://www.hellobtc.com/news/202308/21067.html</id>
+        <link href="https://www.hellobtc.com/news/202308/21067.html"/>
+        <updated>2023-08-09T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[1.Uniswap部署至Base一天内交易量已突破1万笔。
+
+2.Coingecko报告：排名前15位的NFT交易商已获利2.99亿美元。
+
+3.MakerDAO创始人建议将增强型DAI储蓄率从8%改为5%。
+
+4.美国众议院金融服务委员会：稳定币有望彻底改变我们的支付系统。
+
+5.PayPal高级副总裁：稳定币目前是区块链的杀手级应用。
+
+6.Base主网TVL达1.27亿美元，超越Starknet跻身L2前五。
+
+7.Coin98宣布获DWF Labs七位数投资，以加速Web3在全球的采用。
+
+8.CSGO链游MATR1X FIRE开放Alpha测试游戏下载，昨晚18时开服将空投FIRE代币。
+
+9.OneKey Card 将从 9 月 30 日起停止接受中国大陆、俄罗斯等地的新用户申请。
+
+10.Reddit社区代币Moons和Bricks在Kraken上市后价格飙升。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -349,16 +387,6 @@ Christensen指出，EDSR推出以来的48小时内，Dai供应量增加了近5�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CoreWeave的奇幻漂流：以太坊挖矿起家，转型AI算力公司，估值超20亿美元]]></title>
-        <id>https://www.web3sj.com/?p=83677</id>
-        <link href="https://www.web3sj.com/news/83677/"/>
-        <updated>2023-08-08T03:47:06.000Z</updated>
-        <summary type="html"><![CDATA[该轮融资由磁星资本、黑石集团领衔，贝莱德集团（BlackRock)、太平洋投资管理（PIMCO)、凯雷集团（Carlyle)、Coatue、DigitalBridge 等也都参与其中。在此之前，CoreWeave 曾融资 4.21 亿美元，估值超过 20 亿美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Paypal推出美元稳定币PYUSD]]></title>
         <id>https://www.hellobtc.com/news/202308/21062.html</id>
         <link href="https://www.hellobtc.com/news/202308/21062.html"/>
@@ -450,16 +478,6 @@ Christensen指出，EDSR推出以来的48小时内，Dai供应量增加了近5�
         <link href="https://www.hellobtc.com/news/202308/21058.html"/>
         <updated>2023-08-05T06:23:00.000Z</updated>
         <summary type="html"><![CDATA[8月5日消息，彭博高级ETF分析师Eric Balchunas发推称，加密货币资产管理公司Valkyrie提交了一份文件，计划在10月3日将Valkyrie比特币策略ETF BTF转换为“比特币+以太坊期货ETF”，这将比其他13份ETF申请文件计划发布的时间提前两周。 注，Valkyrie比特币策略ETF是2021年推出的比特币期货ETF。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国纽约南区地方法院已驳回对Tether和Bitfinex的集体诉讼]]></title>
-        <id>https://www.hellobtc.com/news/202308/21057.html</id>
-        <link href="https://www.hellobtc.com/news/202308/21057.html"/>
-        <updated>2023-08-05T06:23:00.000Z</updated>
-        <summary type="html"><![CDATA[8月5日消息，Tether发文表示，美国纽约南区地方法院首席法官Laura Taylor Swain发布裁决，其中包括一项命令，驳回Matthew Anderson和Shawn Dolifka对Tether和Bitfinex提起的集体诉讼。 法院正确地认为，原告的申诉缺乏任何合理的伤害指控，因为它没有包含任何事实表明USDT的实际价值根本下降。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
