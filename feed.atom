@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T07:12:06.395Z</id>
+    <id>urn:2023-08-09T08:17:00.611Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T07:12:06.395Z</updated>
+    <updated>2023-08-09T08:17:00.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[币安储备证明数据泄密？CZ 似乎在硅谷银行爆雷后救了加密市场]]></title>
+        <id>https://www.web3sj.com/?p=83913</id>
+        <link href="https://www.web3sj.com/news/83913/"/>
+        <updated>2023-08-09T08:13:50.000Z</updated>
+        <summary type="html"><![CDATA[今年年初，币安内部将用户存入的所有 USDC 转换为 BUSD，同时保留了 USDC 储备，从 3 月 1 日的客户净资产比率中可以看出，币安净资产超出用户净资产的总额约有 35 亿美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10句话搞懂Circle可编程Web3钱包]]></title>
+        <id>https://www.web3sj.com/?p=83910</id>
+        <link href="https://www.web3sj.com/news/83910/"/>
+        <updated>2023-08-09T07:29:40.000Z</updated>
+        <summary type="html"><![CDATA[现阶段，已有超过 4,000 家企业已经在使用 USDC 进行建设，虽然钱包并不是一种万能的服务产品，但可编程钱包通过抽象化私钥安全、区块链节点操作、交易管理、跨区块链互操作性等复杂性，弥合了当今互联网和区块链网络之间的差距，使开发人员能够更快地迭代应用程序。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[方舟投资CEO大胆预测：SEC或将颠覆惯例，同时批准多个BTC ETF]]></title>
+        <id>https://www.web3sj.com/?p=83906</id>
+        <link href="https://www.web3sj.com/news/83906/"/>
+        <updated>2023-08-09T07:17:41.000Z</updated>
+        <summary type="html"><![CDATA[Wood 的这一前瞻性声明出现在申请激增之际，主要参与者如贝莱德（BlackRock Inc）、富达（Fidelity）、智慧树投资公司（WisdomTree）和景顺资产管理公司（Invesco）等都在争取获得与方舟投资类似的 ETF 批准。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3合规解决方案KNOW YOUR RISK今日正式全网上线]]></title>
         <id>https://panewslab.com/zh/articledetails/hagjt46w.html</id>
@@ -314,36 +344,6 @@ EOS网络基金会表示，该和解方案未能充分补偿社区成员因Block
 据悉，Parcha AI主要帮助包括加密公司在内的金融科技企业实现体力劳动自动化，利用大型语言模型处理欺诈检测、了解业务合规性、客户获取等操作，目前其客户包括加密支付公司Bridge和美国金融服务和技术公司Brex。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解MEV现状及未来展望]]></title>
-        <id>https://www.web3sj.com/?p=83749</id>
-        <link href="https://www.web3sj.com/definews/83749/"/>
-        <updated>2023-08-08T11:48:39.000Z</updated>
-        <summary type="html"><![CDATA[MEV 贯穿区块形成的整个进程，作为公链重要基础设施衍生的市场，OP Crypto 团队在 MEV 方向上关注了很多项目，而本文将详细介绍我们视角里 MEV 产业的发展以及潜在的机会。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-8.8）]]></title>
-        <id>https://www.web3sj.com/?p=83746</id>
-        <link href="https://www.web3sj.com/news/83746/"/>
-        <updated>2023-08-08T11:24:32.000Z</updated>
-        <summary type="html"><![CDATA[PayPal旗下稳定币PYUSD合约地址公布，已发行2690万枚。福布斯：Tether不公布Q2净利润系混淆视听，报告的运营利润明显低于上季度净利润。Curve创始人本月已通过OTC出售CRV获得5746万美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密交易所布局Layer2动作频出，承载着对未来市场的野望]]></title>
-        <id>https://www.web3sj.com/?p=83705</id>
-        <link href="https://www.web3sj.com/news/83705/"/>
-        <updated>2023-08-08T09:05:45.000Z</updated>
-        <summary type="html"><![CDATA[Layer2 在今年已成为最重要的赛道之一，它的发展将会使得 Web3 网络在保持新生产关系，智能合约等优势后，以更高的效率和更低的费用来服务用户，作为底层设施影响未来行业发展的速度。近来，除了专门聚焦在 L2 赛道的项目，交易所也在 L2 赛道动作频出。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
