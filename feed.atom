@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-10T03:12:55.543Z</id>
+    <id>urn:2023-08-10T04:15:22.028Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-10T03:12:55.543Z</updated>
+    <updated>2023-08-10T04:15:22.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[解读Lens V2：ERC-6551会带来Web3的iPhone时刻吗？]]></title>
+        <id>https://www.web3sj.com/?p=83991</id>
+        <link href="https://www.web3sj.com/nftnews/83991/"/>
+        <updated>2023-08-10T04:11:53.000Z</updated>
+        <summary type="html"><![CDATA[即将智能合约植入 Lens 的帖子中，增强可交互性。简单来说，Lens 不再仅仅是一个信息流平台，它可以直接集成各类 Dapp，用户可以在发布的帖子内直接操作外部的智能合约。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RWA上线在即，一览Frax未来产品规划与潜在影响]]></title>
+        <id>https://www.web3sj.com/?p=83983</id>
+        <link href="https://www.web3sj.com/definews/83983/"/>
+        <updated>2023-08-10T04:02:41.000Z</updated>
+        <summary type="html"><![CDATA[同时 Frax Protocol 创始人 Sam 在 8 月 4 日发起治理提案推进 RWA 业务也吸引了部分市场关注。本文旨在梳理 Frax 未来的产品规划（FRAX V3、frxETH V2 与 Fraxchain）以及分析其可能产生的影响。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delphi Digital联创：终结鬼城效应，展望Cosmos生态即将迎来的新项目]]></title>
+        <id>https://www.web3sj.com/?p=83976</id>
+        <link href="https://www.web3sj.com/definews/83976/"/>
+        <updated>2023-08-10T03:57:37.000Z</updated>
+        <summary type="html"><![CDATA[在 Terra 之后，对 Cosmos 链的信心受到了打击，用户和流动性纷纷离开，并不愿意回来。在此之前的一两年里，Terra 吸引了大部分的开发工作，但这些应用现在要么已经死亡，要么面临着在其他地方长时间重建的问题。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：谷歌搜索「defillama」的第一个广告链接为钓鱼链接]]></title>
+        <id>https://www.hellobtc.com/news/202308/21068.html</id>
+        <link href="https://www.hellobtc.com/news/202308/21068.html"/>
+        <updated>2023-08-10T02:05:00.000Z</updated>
+        <summary type="html"><![CDATA[1.谷歌搜索「defillama」的第一个广告链接为钓鱼链接，会骗取用户签名。
+
+2.拜登签署行政命令 限制在半导体、量子信息技术和AI三个领域对中国投资。
+
+3.数据：参与StarkNet桥接交易的用户量超越Arbitrum，达66万个。
+
+4.Base主网已上线。
+
+5.报告：Metamask以2200万下载量成为最受欢迎的加密钱包。
+
+6.微软与Aptos达成合作，将探索数字支付和代币化。
+
+7.币安旗下的Tokocrypto正在与投资者进行谈判以扩大业务。
+
+8.喜剧动画片Futurama将比特币和狗狗币纳入剧情。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[矿企Riot Platforms Q2亏损收窄至2770万美元，Q2共产出1775枚比特币]]></title>
         <id>https://panewslab.com/zh/articledetails/447kqp9v.html</id>
@@ -211,36 +265,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EigenLayer投研报告：基于以太坊的中间件协议]]></title>
-        <id>https://www.web3sj.com/?p=83838</id>
-        <link href="https://www.web3sj.com/project/83838/"/>
-        <updated>2023-08-09T03:41:30.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer 是一个具有创新性和潜力的区块链基础设施服务项目，它可以为以太坊生态系统中的各种软件模块提供安全性、可扩展性和互操作性等基础服务，从而促进区块链应用程序的创新和多样性。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ordinals之后，以太坊铭文协议Ethscriptions如何再塑NFT资产形态]]></title>
-        <id>https://www.web3sj.com/?p=83830</id>
-        <link href="https://www.web3sj.com/nftnews/83830/"/>
-        <updated>2023-08-09T02:55:46.000Z</updated>
-        <summary type="html"><![CDATA[回溯至今年年初，Casey Rodarmor 发布了 Bitcoin Ordinals 协议。该协议通过允许用户在聪（satoshis）上记录不同类型的元数据（图像、视频、PDF 等），其可以直接在比特币网络上创建和存储比特币 NFT，催生了第一个比特币网络的 NFT。目前据 Dune 数据显示，半年时间内使用 Ordinals 铸造的 Inscriptions 数量已突破 1,200 万枚。‍]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么有那么多Layer 2链？]]></title>
-        <id>https://www.web3sj.com/?p=83826</id>
-        <link href="https://www.web3sj.com/news/83826/"/>
-        <updated>2023-08-09T02:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Layer 2 解决方案旨在缓解近年来困扰以太坊的网络拥塞和高额交易费用。此次升级被称为以太坊改进提案 - EIP 1559，还将引入新的费用结构，该结构将燃烧一部分交易费用，从而随着时间的推移增加以太币的价值。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Uniswap部署至Base一天内交易量已突破1万笔]]></title>
         <id>https://www.hellobtc.com/news/202308/21067.html</id>
         <link href="https://www.hellobtc.com/news/202308/21067.html"/>
@@ -390,16 +414,6 @@
         <link href="https://www.hellobtc.com/news/202308/21059.html"/>
         <updated>2023-08-06T09:55:00.000Z</updated>
         <summary type="html"><![CDATA[中央政法委日前召开全体会议提出，要坚持系统治理、依法治理、源头治理，依法从重打击境外电信网络诈骗等违法犯罪活动，依法从重打击境内协同犯罪人员，坚决维护人民群众切身利益。近年来，境外电信网络诈骗集团打着“高薪招聘”的幌子，诱骗、恐吓普通人从事诈骗活动，并形成暴力拘禁、人口贩卖等一系列黑色产业链，损害人民群众生命财产安全。从诈骗手法看，诈骗集团利用区块链、元宇宙、虚拟货币、AI智能等新技术新业态，不断更新犯罪工具，更具隐蔽性和迷惑性。对境外网络电信诈骗必须依法从重打击，坚决维护人民群众切身利益，坚决维护社会公序良俗，坚决维护法治威严。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博分析师：Valkyrie计划将比特币策略ETF转换为“比特币+以太坊期货ETF”]]></title>
-        <id>https://www.hellobtc.com/news/202308/21058.html</id>
-        <link href="https://www.hellobtc.com/news/202308/21058.html"/>
-        <updated>2023-08-05T06:23:00.000Z</updated>
-        <summary type="html"><![CDATA[8月5日消息，彭博高级ETF分析师Eric Balchunas发推称，加密货币资产管理公司Valkyrie提交了一份文件，计划在10月3日将Valkyrie比特币策略ETF BTF转换为“比特币+以太坊期货ETF”，这将比其他13份ETF申请文件计划发布的时间提前两周。 注，Valkyrie比特币策略ETF是2021年推出的比特币期货ETF。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
