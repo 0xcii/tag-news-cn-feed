@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T00:54:22.525Z</id>
+    <id>urn:2023-08-11T01:42:25.293Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-11T00:54:22.525Z</updated>
+    <updated>2023-08-11T01:42:25.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊扩容方案Fuel：已通过升级增强FuelVM的性能和安全性]]></title>
+        <id>https://panewslab.com/zh/articledetails/lqu33y55.html</id>
+        <link href="https://panewslab.com/zh/articledetails/lqu33y55.html"/>
+        <updated>2023-08-11T00:57:13.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，以太坊扩容方案Fuel发推文称，已对虚拟机FuelVM进行了升级，显着增强了其性能和安全性。此次升级的更新功能包括：1.支持原生NFT和EIP-1155类型的多代币等功能；2.添加了对新加密签名类型secp256r1和ed25519的支持，并增加了新的加密签名曲线，这将使Fuel原生支持WebAuthn和Cosmos钱包；3.Fuel增加了对256位数字的本机支持，以使其更便宜地进行大型数学运算，并提高与EVM的互操作性；4.取消了嵌套调用数量的限制；5.可并行谓词验证，现在网络和内存池可以处理更多交易，从而提高网络TPS并利用所有核心；6.WASM Bindgen对Fuel-types和Fuel-asm类型的支持，从而能够统一Rust和TypeScript SDK代码库，实现快速的开发过程，并减少因不同实现而出现的错误。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentiment：V1因扩展架构不可行将于8月22日停用，V2正在开发中]]></title>
+        <id>https://panewslab.com/zh/articledetails/s5h2lmi6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/s5h2lmi6.html"/>
+        <updated>2023-08-11T00:37:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，DeFi借贷协议Sentiment在推特上宣布，经过深思熟虑，决定 Sentiment V1将于8月22日星期五停用。重要注意事项： 1. Sentiment V2目前正在开发中（很快会有更多消息） 2.即使在对UI的支持被弃用后，用户也可以退出。结束将分3个步骤进行。1.从8月15日开始，市场将不再接受新借款 ；2.借款人和贷款人可以偿还和取款；3. 8月22日之后，网络应用程序仍可访问，但核心贡献者将不再维护。
+对于此决定的原因，Sentiment表示：“虽然V1显示出鼓舞人心的需求迹象，但扩展架构是不可行的。这种认识促使Sentiment进行了广泛的研究，这些研究将出现在V2中。”
+此前4月消息，Sentiment在被盗100万美元后，追回超90万美元被盗资金。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：某地址凌晨将8052万枚SAND转入CEX，约合3244万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/d84pgvej.html</id>
+        <link href="https://panewslab.com/zh/articledetails/d84pgvej.html"/>
+        <updated>2023-08-11T00:27:36.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，据链上分析师余烬监测，6小时前，0x73b地址将8052万枚SAND(约合3244万美元) 转入CEX。其中7000万枚SAND转入币安，1000万枚SAND转入OKX，52.9万枚SAND转入Gemini。
+0x73b地址的SAND全部来源于The Sandbox: Genesis地址的解锁分配，最近一次是在7天前从Genesis接收到6000万枚SAND。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeGods：8月13日起可将DeGods更新到第三季，支持使用积分参与有奖游戏]]></title>
+        <id>https://panewslab.com/zh/articledetails/2el9t8j5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2el9t8j5.html"/>
+        <updated>2023-08-11T00:24:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，NFT项目DeGods在推特上表示，本周日（8月13日）起用户可花费333枚DUST将DeGods更新到第三季。第三季DeGods可以使用积分来玩游戏并赢得奖品。更新DeGods的价格会随着时间的推移而降低。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celestia：测试网计划Blockspace Race已结束，主网将于今年晚些时候推出]]></title>
+        <id>https://panewslab.com/zh/articledetails/y3oa7mb5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y3oa7mb5.html"/>
+        <updated>2023-08-11T00:14:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，据官方博客，模块化区块链Celestia宣布，激励测试网计划Blockspace Race已经结束，请继续关注我们即将在今年晚些时候推出的主网。
+据悉，该测试网于3月7日启动，全球1000名参与者加入，凭借700多个活跃的轻节点，参与者对测试和加强Celestia的数据可用性网络非常有帮助。在对所有1000名参与者进行统计后，Blockspace Race的前75名获胜者已经确定。Celestia在测试网期间，进行了许多更改和改进，包括测试网络上部署超800个主权节点、QGB由验证者集部署并激活、实现新的硬分叉机制。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sei Network：主网包括Sei空投和激励性测试网奖励]]></title>
+        <id>https://panewslab.com/zh/articledetails/1agnilzq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1agnilzq.html"/>
+        <updated>2023-08-11T00:04:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，Layer1公链Sei Network发推文称：“Sei基金会的任务是从一开始就支持Sei区块链的去中心化。主网包括Sei空投和激励性测试网奖励。首次主要代币分发旨在识别忠诚度，并增强Sei区块链作为Web3应用程序构建的最佳目的地的全球影响力。”
+此前消息，币安上线第36期新币挖矿，使用BNB、TUSD、FDUSD挖矿Sei（SEI），此外币安将于2023年8月15日20:00上市Sei（SEI）。Sei公布代币分配细节，SEI总量100亿枚，20%给投资者，20%给团队。Sei Network于8月4日宣布主网已准备就绪。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini现已支持XRP交易]]></title>
+        <id>https://panewslab.com/zh/articledetails/5uqmox1u.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5uqmox1u.html"/>
+        <updated>2023-08-10T23:43:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，据官方消息，加密交易所Gemini现已支持XRP交易。随着XRP Ledger的加入，Gemini目前共支持13个区块链网络，包括比特币、以太坊、Solana、莱特币、比特币现金、Polkadot、Avalanche、Cosmos、Zcash、Filecoin、Dogecoin和Tezos。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国报告：朝鲜黑客将继续瞄准加密货币和金融交易所]]></title>
+        <id>https://panewslab.com/zh/articledetails/7wfgb68f.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7wfgb68f.html"/>
+        <updated>2023-08-10T23:32:48.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，根据路透社周四看到的一份未公布的联合国报告，朝鲜在2023年继续发展核武器和生产核裂变材料，并逃避联合国制裁。独立制裁监察员在提交给联合国安理会委员会的报告中称，在2022年盗窃创纪录的17亿美元之后，朝鲜黑客将继续瞄准网络加密货币和其它金融交易所。加密货币、国防、能源和卫生领域的公司尤其受到了攻击。该报告将于未来几周发布。制裁监察员每年向联合国安理会提交两次报告，此前他们曾指责朝鲜利用网络攻击为其核项目和导弹项目提供资金。朝鲜否认了黑客或其他网络攻击的指控。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bittrex与美国SEC达成和解，将支付2400万美元罚款]]></title>
         <id>https://panewslab.com/zh/articledetails/esv2jfs5.html</id>
