@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T06:15:58.778Z</id>
+    <id>urn:2023-08-11T07:11:17.733Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-11T06:15:58.778Z</updated>
+    <updated>2023-08-11T07:11:17.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -23,6 +23,37 @@
         <summary type="html"><![CDATA[虽然我们认为最好的策略是投资者长期持有比特币——并且通常避免采用技术分析的策略——但我们探索动量信号作为投资者管理波动性的一种工具。对于那些为了风险管理而倾向于更积极地进行交易的人来说，这种方法可以为何时增加或减少加密货币分配提供指导。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alameda Research希望在针对灰度的诉讼案中召集更多共同原告]]></title>
+        <id>https://panewslab.com/zh/articledetails/876xipin.html</id>
+        <link href="https://panewslab.com/zh/articledetails/876xipin.html"/>
+        <updated>2023-08-11T05:08:06.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，据Blockworks报道，Alameda Research正在召集更多原告加入该公司针对灰度投资（Grayscale Investments）的诉讼。Alameda在向特拉华州衡平法院提交的动议中表示，包括个人、基金和家族办公室在内的超过45个当事人已经表示愿意作为额外原告参与其中。文件中没有提及这些个人和实体的名字。该动议补充称，Alameda需要更多时间“继续召集原告与它一起参与”。法院要求原告在9月15日之前对灰度的驳回动议做出回应。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊客户端Geth发布v1.12.1版本，为坎昆硬分叉做部分准备]]></title>
+        <id>https://panewslab.com/zh/articledetails/s7x64t29.html</id>
+        <link href="https://panewslab.com/zh/articledetails/s7x64t29.html"/>
+        <updated>2023-08-11T05:00:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，Go-Ethereum官方发布以太坊客户端Geth v1.12.1版本。Go Ethereum建议所有用户升级此版本，并称这可能是其有史以来最大的维护版本。
+Go Ethereum表示，即将到来的Cancun（坎昆）硬分叉的开发一直是本次发布周期的重点，虽然Geth v1.12.1尚未为Cancun做好准备，但该版本已针对EIP-4844“Shard Blob交易”包含基本类型定义和状态转换逻辑，还为EIP-4844交易实现了全新内存池blobpool。blobpool尚未被p2p网络使用，仍在坎昆开发网络中进行测试。此外，Geth 再支持Rinkeby测试网（#27406）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X放宽创作者广告收益分享资格：3个月内500万次以上展示]]></title>
+        <id>https://panewslab.com/zh/articledetails/o81sc4q2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o81sc4q2.html"/>
+        <updated>2023-08-11T04:52:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，X（原推特）官方宣布，已将创作者广告收益分享的资格门槛从过去3个月内的1500万次展示次数降低到500万次，还将最低支付门槛从50美元降低至10美元。马斯克补充道：“这实质上意味着X Premium（又名Twitter Blue）对于产生超过500万次浏览量的帐户是免费的。请注意，只有来自经过验证的账户的浏览量才算在内，否则诈骗者会使用机器人将浏览量无限放大。”]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -73,6 +104,18 @@
         <summary type="html"><![CDATA[Blockscan 目前处于 Beta 测试模式。用户能够参与钱包到钱包的即时聊天、从多个设备访问聊天、阻止垃圾邮件或不需要的地址，并在收到消息时在区块浏览器上收到通知。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：某巨鲸凌晨在Blur上抛售约200枚DeGods NFT]]></title>
+        <id>https://panewslab.com/zh/articledetails/73slxu19.html</id>
+        <link href="https://panewslab.com/zh/articledetails/73slxu19.html"/>
+        <updated>2023-08-11T03:20:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，NFTScan数据显示，0x88BD开头巨鲸地址今日凌晨在Blur上抛售约200枚DeGods NFT，获得1467.42 ETH，随后将其分成四笔分别转移至0xfa...17f3、0x54...607f、0x69...6f1d和0x7b...4a2e四个地址中。
+Blur数据显示，DeGods地板价目前为6.48 ETH，24小时跌幅达29.26%。
+此前今日早些时候消息，DeGods表示，8月13日起可将DeGods更新到第三季，支持使用积分参与有奖游戏。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -287,49 +330,6 @@
         <summary type="html"><![CDATA[PANews 8月11日消息，DeFi借贷协议Sentiment在推特上宣布，经过深思熟虑，决定 Sentiment V1将于8月22日星期五停用。重要注意事项： 1. Sentiment V2目前正在开发中（很快会有更多消息） 2.即使在对UI的支持被弃用后，用户也可以退出。结束将分3个步骤进行。1.从8月15日开始，市场将不再接受新借款 ；2.借款人和贷款人可以偿还和取款；3. 8月22日之后，网络应用程序仍可访问，但核心贡献者将不再维护。
 对于此决定的原因，Sentiment表示：“虽然V1显示出鼓舞人心的需求迹象，但扩展架构是不可行的。这种认识促使Sentiment进行了广泛的研究，这些研究将出现在V2中。”
 此前4月消息，Sentiment在被盗100万美元后，追回超90万美元被盗资金。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：某地址凌晨将8052万枚SAND转入CEX，约合3244万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/d84pgvej.html</id>
-        <link href="https://panewslab.com/zh/articledetails/d84pgvej.html"/>
-        <updated>2023-08-11T00:27:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，据链上分析师余烬监测，6小时前，0x73b地址将8052万枚SAND(约合3244万美元) 转入CEX。其中7000万枚SAND转入币安，1000万枚SAND转入OKX，52.9万枚SAND转入Gemini。
-0x73b地址的SAND全部来源于The Sandbox: Genesis地址的解锁分配，最近一次是在7天前从Genesis接收到6000万枚SAND。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeGods：8月13日起可将DeGods更新到第三季，支持使用积分参与有奖游戏]]></title>
-        <id>https://panewslab.com/zh/articledetails/2el9t8j5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2el9t8j5.html"/>
-        <updated>2023-08-11T00:24:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，NFT项目DeGods在推特上表示，本周日（8月13日）起用户可花费333枚DUST将DeGods更新到第三季。第三季DeGods可以使用积分来玩游戏并赢得奖品。更新DeGods的价格会随着时间的推移而降低。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia：测试网计划Blockspace Race已结束，主网将于今年晚些时候推出]]></title>
-        <id>https://panewslab.com/zh/articledetails/y3oa7mb5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/y3oa7mb5.html"/>
-        <updated>2023-08-11T00:14:50.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，据官方博客，模块化区块链Celestia宣布，激励测试网计划Blockspace Race已经结束，请继续关注我们即将在今年晚些时候推出的主网。
-据悉，该测试网于3月7日启动，全球1000名参与者加入，凭借700多个活跃的轻节点，参与者对测试和加强Celestia的数据可用性网络非常有帮助。在对所有1000名参与者进行统计后，Blockspace Race的前75名获胜者已经确定。Celestia在测试网期间，进行了许多更改和改进，包括测试网络上部署超800个主权节点、QGB由验证者集部署并激活、实现新的硬分叉机制。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sei Network：主网包括Sei空投和激励性测试网奖励]]></title>
-        <id>https://panewslab.com/zh/articledetails/1agnilzq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1agnilzq.html"/>
-        <updated>2023-08-11T00:04:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，Layer1公链Sei Network发推文称：“Sei基金会的任务是从一开始就支持Sei区块链的去中心化。主网包括Sei空投和激励性测试网奖励。首次主要代币分发旨在识别忠诚度，并增强Sei区块链作为Web3应用程序构建的最佳目的地的全球影响力。”
-此前消息，币安上线第36期新币挖矿，使用BNB、TUSD、FDUSD挖矿Sei（SEI），此外币安将于2023年8月15日20:00上市Sei（SEI）。Sei公布代币分配细节，SEI总量100亿枚，20%给投资者，20%给团队。Sei Network于8月4日宣布主网已准备就绪。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
