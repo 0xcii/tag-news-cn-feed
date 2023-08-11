@@ -1,28 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T07:11:17.733Z</id>
+    <id>urn:2023-08-11T08:15:42.100Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-11T07:11:17.733Z</updated>
+    <updated>2023-08-11T08:15:42.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[LSD的前世今生：演变路径、赛道全景和利率收益]]></title>
-        <id>https://www.web3sj.com/?p=84195</id>
-        <link href="https://www.web3sj.com/definews/84195/"/>
-        <updated>2023-08-11T05:32:05.000Z</updated>
-        <summary type="html"><![CDATA[中本聪的天才之处在于找到了一种让分布在不同地理位置的计算机独立地达成相同交易顺序的方法。其中「独立」这一点很重要，因为依赖其他节点意味着系统是基于信任的，与传统金融中已经发生的情况没有什么不同。使用区块作为构建模块使得节点能够得出「正确」的顺序。在核心上，区块链网络通常根据谁有权提出新的区块来进行区分。]]></summary>
+        <title type="html"><![CDATA[赵长鹏：Trust Wallet和币安钱包不使用Libbitcoin Explorer生成助记词]]></title>
+        <id>https://panewslab.com/zh/articledetails/s5ub9i8v.html</id>
+        <link href="https://panewslab.com/zh/articledetails/s5ub9i8v.html"/>
+        <updated>2023-08-11T06:56:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，针对昨日披露的一严重漏洞影响使用Libbitcoin Explorer 3.x版本的加密货币钱包，币安创始人赵长鹏在推特上表示：“自托管钱包并非没有风险。如果你了解操作，我支持自我监护。该漏洞是由于使用32位种子的随机数生成器造成的，该随机数生成器对于现代破解（例如GPU）来说不够随机。Trust Wallet和币安钱包不使用它来生成助记词。”]]></summary>
         <author>
-            <name>Gao</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[灰度：用动量信号管理比特币的波动性]]></title>
-        <id>https://www.web3sj.com/?p=84182</id>
-        <link href="https://www.web3sj.com/news/84182/"/>
-        <updated>2023-08-11T05:22:39.000Z</updated>
-        <summary type="html"><![CDATA[虽然我们认为最好的策略是投资者长期持有比特币——并且通常避免采用技术分析的策略——但我们探索动量信号作为投资者管理波动性的一种工具。对于那些为了风险管理而倾向于更积极地进行交易的人来说，这种方法可以为何时增加或减少加密货币分配提供指导。]]></summary>
+        <title type="html"><![CDATA[OpenAI将“自定义”功能扩展至免费用户，暂不支持欧盟和英国地区]]></title>
+        <id>https://panewslab.com/zh/articledetails/h11fum66.html</id>
+        <link href="https://panewslab.com/zh/articledetails/h11fum66.html"/>
+        <updated>2023-08-11T06:35:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，OpenAI在推特上宣布将“自定义”功能扩展至免费用户，暂不支持欧盟和英国地区。
+此前7月21日，OpenAI首次面向ChatGPT Plus付费用户推出了“自定义”测试功能，可以更好地控制ChatGPT的回复方式、偏好等，并在后续所有对话中记住这些设置。]]></summary>
         <author>
-            <name>Gao</name>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Certus One昨日晚间再次向币安存入100万枚LDO]]></title>
+        <id>https://panewslab.com/zh/articledetails/wvn6ws88.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wvn6ws88.html"/>
+        <updated>2023-08-11T06:31:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，据Spot On Chain监测，Certus One于10小时前再次向币安存入100万枚LDO。
+Certus One在过去三天里持续向币安存入LDO，共存入300万枚LDO，均价为1.86美元。目前仍持有148万枚LDO（约合270万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worldcoin推出预约功能，未验证用户可预订WLD代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/zk621ixn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zk621ixn.html"/>
+        <updated>2023-08-11T06:00:05.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，据官方推特，Worldcoin宣布推出预约功能，即使用户尚未验证World ID，也可立即开始预订WLD代币，只需在接下来的12个月内访问Orb即可进行兑换。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大央行报告：加拿大人使用CBDC的“动力较弱”]]></title>
+        <id>https://panewslab.com/zh/articledetails/uujga5nr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/uujga5nr.html"/>
+        <updated>2023-08-11T05:33:49.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，据Cointelegraph报道，加拿大央行的一份新论文称，加拿大人没有理由采用央行发行的数字货币，这可能会导致央行数字货币（CBDC）无法被广泛接受。在8月10日发布的工作人员讨论文件中，央行研究了一个假设的场景，即现金几乎被消除，以了解潜在的CBDC在帮助银行服务不足方面可以发挥什么作用。
+调查发现，大多数消费者使用央行数字货币的动机“很弱”，因为加拿大人在使用银行账户、借记卡和信用卡等金融服务方面没有明显的障碍。报告称，98%的加拿大成年人拥有银行账户，87%的成年人还拥有信用卡，90%的农村和城市家庭可以访问高质量的互联网。该报告发现，用数字货币取代现金也意味着厌恶科技的加拿大人的支付选择将会减少，而依赖现金的加拿大人将发现自己无法进行最常见的支付。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -57,56 +90,6 @@ Go Ethereum表示，即将到来的Cancun（坎昆）硬分叉的开发一直是
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[接二连三烧毁巨额资产，疯狂又神秘的nd4.eth幕后身份最全猜想]]></title>
-        <id>https://www.web3sj.com/?p=84175</id>
-        <link href="https://www.web3sj.com/news/84175/"/>
-        <updated>2023-08-11T04:41:54.000Z</updated>
-        <summary type="html"><![CDATA[这种石破天惊的烧钱艺术，不仅引发了一场全链乞讨秀，2 天内，近 300 个链上地址向其链上乞讨，还有十多个诈骗分子冒充 nd4.eth ID，以推特空投抽奖、链上发币注入流动性等骗取用户参与；]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saddle Finance之殇：从Curve的强有力竞争者走到清算关闭]]></title>
-        <id>https://www.web3sj.com/?p=84170</id>
-        <link href="https://www.web3sj.com/definews/84170/"/>
-        <updated>2023-08-11T04:21:35.000Z</updated>
-        <summary type="html"><![CDATA[Saddle 在项目启动时并未发行治理代币，但基本确定会发币。因为对于 DEX 而言，流动性至关重要，在 Curve 等项目发行治理代币时也给了流动性提供者价值不菲的治理代币奖励。顶级 VC+ 多家安全机构的审计 + 空投预期，使 Saddle 在上线时就受到了很高的关注。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OP Stack和它的朋友们之：Base]]></title>
-        <id>https://www.web3sj.com/?p=84158</id>
-        <link href="https://www.web3sj.com/project/84158/"/>
-        <updated>2023-08-11T03:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Base 是一个使用 Optimism 技术栈（OP Stack）构建的以太坊 Layer 2 扩展解决方案。它旨在用以太坊的一部分成本提供以太坊级别的安全性和可扩展性。Coinbase 将其描述为一个「为 Web3 带来下一个十亿用户」的产品。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7项关键法案：美国加密监管走向何方？]]></title>
-        <id>https://www.web3sj.com/?p=84154</id>
-        <link href="https://www.web3sj.com/news/84154/"/>
-        <updated>2023-08-11T03:34:13.000Z</updated>
-        <summary type="html"><![CDATA[该法案的关键内容是划定了证券监管和其他监管对象之间的边界。从广义上讲，不能给投资者带来经济利益的资产不应被视为证券，即使它们「受益于决定资产价值的创业和管理努力」。那些发行加密货币的公司将每年向 SEC 披露两次，但只要他们的代币不代表债务或股权，也不代表其他所有权，他们就不会受到 SEC 的影响——除非该机构在法案中概述的法庭挑战中获胜。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测评Blockscan Chat：是「强撩」V神失败的一天呢]]></title>
-        <id>https://www.web3sj.com/?p=84147</id>
-        <link href="https://www.web3sj.com/news/84147/"/>
-        <updated>2023-08-11T03:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Blockscan 目前处于 Beta 测试模式。用户能够参与钱包到钱包的即时聊天、从多个设备访问聊天、阻止垃圾邮件或不需要的地址，并在收到消息时在区块浏览器上收到通知。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数据：某巨鲸凌晨在Blur上抛售约200枚DeGods NFT]]></title>
         <id>https://panewslab.com/zh/articledetails/73slxu19.html</id>
         <link href="https://panewslab.com/zh/articledetails/73slxu19.html"/>
@@ -116,16 +99,6 @@ Blur数据显示，DeGods地板价目前为6.48 ETH，24小时跌幅达29.26%。
 此前今日早些时候消息，DeGods表示，8月13日起可将DeGods更新到第三季，支持使用积分参与有奖游戏。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bankless：为什么跨链桥如此脆弱？]]></title>
-        <id>https://www.web3sj.com/?p=84140</id>
-        <link href="https://www.web3sj.com/news/84140/"/>
-        <updated>2023-08-11T03:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Multichain Bridge 曾一度吹嘘拥有超过 100 亿美元的 TVL，但在一次神秘的攻击中，1.3 亿美元的用户资金被耗尽和丢失。这一事件使跨链桥上的 TVH( 被黑客攻击的总价值 ) 达到了惊人的 26.6 亿美元!]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -279,79 +252,6 @@ Blur数据显示，DeGods地板价目前为6.48 ETH，24小时跌幅达29.26%。
 此前昨日消息，Binance Labs宣布投资500万美元购买CRV，并支持Curve部署至BNB Chain。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊Holesky测试网预计于9月15日启动]]></title>
-        <id>https://panewslab.com/zh/articledetails/27fw5219.html</id>
-        <link href="https://panewslab.com/zh/articledetails/27fw5219.html"/>
-        <updated>2023-08-11T01:23:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，以太坊基金会工程师Parithosh Jayathi发推文称，预计在9月15日左右启动Holešovice（Holesky）测试网，已经进行了2次协调电话。该测试网旨在为客户端团队提供一个比主网更大规模的测试客户端的平台，并让Home stakers在没有风险的情况下测试其设置。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwise申请将其BITC从比特币期货ETF更新为“比特币和以太坊等权重策略ETF”]]></title>
-        <id>https://panewslab.com/zh/articledetails/mtdrl5gv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mtdrl5gv.html"/>
-        <updated>2023-08-11T01:16:50.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，彭博ETF分析师James Seyffart发推称，Bitwise提交了更新的申请文件，将其BITC从比特币期货ETF更新为“Bitwise Bitcoin and Ether Equal Weight Strategy ETF（比特币和以太坊等权重策略ETF）”，生效日期为2023年10月9日。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance Labs向Helio Protocol投资1000万美元，以支持其向流动性质押平台转型]]></title>
-        <id>https://panewslab.com/zh/articledetails/nywryoiz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/nywryoiz.html"/>
-        <updated>2023-08-11T01:15:15.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，据Decrypt报道，Binance Labs已向Helio Protocol投资1000万美元，以帮助扩大该协议向成为流动性质押平台的持续转型。尽管Helio目前建立在权益证明网络BNB Chain上，但这笔新资金预计将帮助该平台扩展到其他链。Binance Lab发言人表示：“Helio的目标是在以太坊上推出，随后在Arbitrum和Zksync等著名的L2网络上推出。”
-此前，Helio只提供稳定币铸造服务，可让用户铸造HAY，这是一种与美元挂钩的去中心化稳定币，由超额抵押的BNB提供支持。7月，Helio Protocol与质押提供商Synclub合并，同月，它宣布已将用于支持HAY的抵押品多元化。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊扩容方案Fuel：已通过升级增强FuelVM的性能和安全性]]></title>
-        <id>https://panewslab.com/zh/articledetails/lqu33y55.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lqu33y55.html"/>
-        <updated>2023-08-11T00:57:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，以太坊扩容方案Fuel发推文称，已对虚拟机FuelVM进行了升级，显着增强了其性能和安全性。此次升级的更新功能包括：1.支持原生NFT和EIP-1155类型的多代币等功能；2.添加了对新加密签名类型secp256r1和ed25519的支持，并增加了新的加密签名曲线，这将使Fuel原生支持WebAuthn和Cosmos钱包；3.Fuel增加了对256位数字的本机支持，以使其更便宜地进行大型数学运算，并提高与EVM的互操作性；4.取消了嵌套调用数量的限制；5.可并行谓词验证，现在网络和内存池可以处理更多交易，从而提高网络TPS并利用所有核心；6.WASM Bindgen对Fuel-types和Fuel-asm类型的支持，从而能够统一Rust和TypeScript SDK代码库，实现快速的开发过程，并减少因不同实现而出现的错误。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sentiment：V1因扩展架构不可行将于8月22日停用，V2正在开发中]]></title>
-        <id>https://panewslab.com/zh/articledetails/s5h2lmi6.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s5h2lmi6.html"/>
-        <updated>2023-08-11T00:37:37.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，DeFi借贷协议Sentiment在推特上宣布，经过深思熟虑，决定 Sentiment V1将于8月22日星期五停用。重要注意事项： 1. Sentiment V2目前正在开发中（很快会有更多消息） 2.即使在对UI的支持被弃用后，用户也可以退出。结束将分3个步骤进行。1.从8月15日开始，市场将不再接受新借款 ；2.借款人和贷款人可以偿还和取款；3. 8月22日之后，网络应用程序仍可访问，但核心贡献者将不再维护。
-对于此决定的原因，Sentiment表示：“虽然V1显示出鼓舞人心的需求迹象，但扩展架构是不可行的。这种认识促使Sentiment进行了广泛的研究，这些研究将出现在V2中。”
-此前4月消息，Sentiment在被盗100万美元后，追回超90万美元被盗资金。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-8.10）]]></title>
-        <id>https://www.web3sj.com/?p=84103</id>
-        <link href="https://www.web3sj.com/news/84103/"/>
-        <updated>2023-08-10T11:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Waves创始人：Wave L2白皮书已发布，支持独立启动多个互连的L2。MakerDAO创始人发起关于“SPK预挖空投和SubDAO挖矿经济模型概述”的社区提案。美国银行SoFi Bank持有约1.7亿美元加密货币，包括比特币、以太坊等。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curve惊险脱困，行业仍需反思]]></title>
-        <id>https://www.web3sj.com/?p=84088</id>
-        <link href="https://www.web3sj.com/definews/84088/"/>
-        <updated>2023-08-10T11:03:11.000Z</updated>
-        <summary type="html"><![CDATA[Curve 向攻击者提供 10% 的赏金，以换取返还的资金，该平台已成功恢复近 75% 的攻击损失资产。随着 Curve 创始人偿还了部分贷款，CRV 的价格在过去一周也出现了小幅反弹，这意味着他的大量 CRV 包被清算的风险比黑客入侵后的风险要低。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
