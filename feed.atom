@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T02:15:55.507Z</id>
+    <id>urn:2023-08-11T03:12:19.217Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-11T02:15:55.507Z</updated>
+    <updated>2023-08-11T03:12:19.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bankless：为什么跨链桥如此脆弱？]]></title>
+        <id>https://www.web3sj.com/?p=84140</id>
+        <link href="https://www.web3sj.com/news/84140/"/>
+        <updated>2023-08-11T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Multichain Bridge 曾一度吹嘘拥有超过 100 亿美元的 TVL，但在一次神秘的攻击中，1.3 亿美元的用户资金被耗尽和丢失。这一事件使跨链桥上的 TVH( 被黑客攻击的总价值 ) 达到了惊人的 26.6 亿美元!]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊扩容方案Fuel：已通过升级增强FuelVM的性能和安全性]]></title>
         <id>https://panewslab.com/zh/articledetails/lqu33y55.html</id>
@@ -228,16 +238,6 @@
         <link href="https://www.web3sj.com/news/84013/"/>
         <updated>2023-08-10T04:24:56.000Z</updated>
         <summary type="html"><![CDATA[zkEVM 是处理交易并将证明发回以太坊的第 2 层网络。他们使用零知识证明 (ZK) 和 EVM 兼容性来减少以太坊 (L1) 上的计算负载并提高可扩展性，而不牺牲安全性或去中心化。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梳理新项目，近期值得关注的10个项目]]></title>
-        <id>https://www.web3sj.com/?p=84000</id>
-        <link href="https://www.web3sj.com/news/84000/"/>
-        <updated>2023-08-10T04:19:45.000Z</updated>
-        <summary type="html"><![CDATA[DeFi 期权面临最大的一个问题就是流动性的碎片化，DeDeLend 的出现就是为了解决该问题。与 Deribit 这类期权平台不同，去中心化解决方案似乎无法为大型交易积累流动性，这正是 DeDeLend 所适合的。该团队给出的一个例子是「例如，你可以通过将 Hegic 的 Call 选项与 Lyra 的 Put 选项组合来创建 Strangle」。]]></summary>
         <author>
             <name>Gao</name>
         </author>
