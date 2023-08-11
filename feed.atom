@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T15:12:23.069Z</id>
+    <id>urn:2023-08-11T16:15:15.582Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-11T15:12:23.069Z</updated>
+    <updated>2023-08-11T16:15:15.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cosmos Hub将于区块16596000处进行v11升级，预计为8月16日]]></title>
+        <id>https://panewslab.com/zh/articledetails/8u533y81.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8u533y81.html"/>
+        <updated>2023-08-11T15:27:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，Cosmos Hub 发推称，第 804 号提案刚刚通过，将于区块 16596000 处进行 v11 升级，预计在 8 月 16 日进行。v11 升级包含诸多核心依赖的更新与修复，删除了流动性模块。升级期间，将存在短暂的停机时间，交易与转账可能会延迟，但团队预计停机时间是有限的。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：约5257万枚USDC在USDC Treasury铸造，随后将6800万枚转移至未知钱包]]></title>
+        <id>https://panewslab.com/zh/articledetails/fd745egh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/fd745egh.html"/>
+        <updated>2023-08-11T15:05:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，Whale Alert监测显示，北京时间22:43，52,572,125 枚 USDC 在 USDC Treasury 铸造，随后22:46，68,111,990 枚 USDC 从 USDC Treasury 转移至未知钱包。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美SEC推迟对ARK Invest申请比特币现货ETF做出决定]]></title>
+        <id>https://panewslab.com/zh/articledetails/h63eqavt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/h63eqavt.html"/>
+        <updated>2023-08-11T14:19:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，美国 SEC 推迟对 ARK Invest 申请比特币现货 ETF 做出决定，9 月 2 日是下一个 ETF 做出决定的截止日期。美国证券交易委员会（SEC）就上市 Ark 现货比特币 ETF 提案征求意见，邀请感兴趣的各方在 21 天内提交“书面数据、观点和论据”。SEC 继续审查贝莱德 (BlackRock) 和富达 (Fidelity) 等传统金融巨头的比特币现货 ETF 申请。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evmos：Safe的多重签名现已可用于Cosmos生态]]></title>
+        <id>https://panewslab.com/zh/articledetails/gxd8svtr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gxd8svtr.html"/>
+        <updated>2023-08-11T14:12:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月10日消息，Cosmos生态EVM兼容链Evmos发推表示，得益于 Evmos 的 EVM 扩展，Safe 的多重签名现已可用于Cosmos生态系统。EVM 扩展允许 Evmos 上的用户利用 Safe Multisig（以前称为 Gnosis Safe）和其他熟悉的以太坊工具。此前，Safe 的多重签名仅限于以太坊和 EVM。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve：正衡量每个受影响用户各自的份额，以实现适当分配的目标]]></title>
+        <id>https://panewslab.com/zh/articledetails/b364sfr5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/b364sfr5.html"/>
+        <updated>2023-08-11T13:57:58.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月11日消息，Curve Finance 在推特发文称，虽然上周受黑客攻击影响的资金有超 70% 已被追回，但对其余资金的积极调查正在进行中。同时，我们也在努力衡量每个受影响用户各自的份额，以实现适当分配的目标。
+黑客攻击后安全报告显示：由于 vyper 0.2.15-0.3.0 中的错误，aleth、peth、mseth、crveth 池被利用，arbitrum-tricrypto 池可能受到该漏洞的影响，但未发现利用的可能性（仍然，更好的是离开那个池），Curve 上的所有其他流动性池都是安全的。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特小鹿Q2总收入为9380万美元，净亏损为4040万美元]]></title>
         <id>https://panewslab.com/zh/articledetails/c60ywdb6.html</id>
@@ -182,63 +233,6 @@ Wintermute 在 2022 年 9 月遭受了 1.6 亿美元的攻击，攻击者向 Cur
         <updated>2023-08-11T09:03:41.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月11日消息，据Blockworks报道，支付巨头Visa周四表示，已完成用户使用信用卡或借记卡直接以法定货币支付链上Gas费用的测试。根据一份声明，该实验在以太坊Goerli测试网上进行，使用付款主合约代表用户支付Gas费用。这意味着用户可以发送区块链交易，而不必担心维持以太坊的余额。Visa相信该合约可以使更广泛的用户更容易进行交易。
 Visa的技术团队写道：“我们的实验旨在提供一种有前途的方法，以实质性地解决基于区块链交易的挑战。通过利用paymaster的创新概念，结合账户抽象和ERC-4337标准，我们探索了一个可以重新定义基于区块链的交易的过程的潜力。”该公司表示，商家或去中心化应用程序可以运行自己的paymaster解决方案，或者现有的钱包和paymaster服务提供商可以在其他paymaster产品之外提供基于卡的gas费支付选择。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：Immutable基金会解锁钱包收到超过2387万枚IMX]]></title>
-        <id>https://panewslab.com/zh/articledetails/u9i0krk8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/u9i0krk8.html"/>
-        <updated>2023-08-11T08:52:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，链上数据显示，今日13:41:11，标记为“Foundation Treasury: Unlocked”钱包地址收到解锁的23,872,177枚IMX（约合1707万美元）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave社区新提案提议将财政部部分稳定币投资至RWA，首期投资100万美元短期美债]]></title>
-        <id>https://panewslab.com/zh/articledetails/u3u0n2k1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/u3u0n2k1.html"/>
-        <updated>2023-08-11T08:47:08.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，Aave社区近日发起一份新临时检查提案，提议将Aave财政部持有的部分稳定币通过Centrifuge Prime分配给低风险现实世界资产（RWA）投资。提案称这将使Aave能够通过闲置稳定币赚取收益，为协议建立长期RWA基础设施，并允许Aave DAO开始建立对该市场的内部熟悉度和专业知识。
-根据该提案，Aave将加入Centrifuge Prime，为Aave财务部投资RWA建立法律和技术基础设施；让财政部将资金分配给RWA，初始投资100万枚USDC到短期美国国债，目标分配增加到稳定币持有量的20%，并可以选择扩展到其他收益率，但须经Aave治理批准。
-提案提及，Aave财政部所持资产大约65%的国债是USDC(约1500万美元)，Aave DAO忽略了美国国债资产隔夜融资无风险利率5%的可用利息。只需500万美元的投资（占当前USDC余额的约30%分配）即可每年提供25万美元的收入。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：Worldcoin TFH团队和投资者地址向8个新地址分发9000万枚WLD，价值1.52亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/gyjei4zw.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gyjei4zw.html"/>
-        <updated>2023-08-11T08:32:51.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，据Scopescan监测，在过去30分钟内，Worldcoin TFH团队（母公司 Tools for Humanity）和投资者钱包地址“0x0d4c”向8个新地址分发9000万枚WLD，价值1.52亿美元。
-此外，在过去5天里，该地址将总共将价值4.9亿美元的WLD代币转移到了26个投资者地址。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去中心化衍生品交易平台Holdstation获得200万美元种子轮投资]]></title>
-        <id>https://panewslab.com/zh/articledetails/frfeis4k.html</id>
-        <link href="https://panewslab.com/zh/articledetails/frfeis4k.html"/>
-        <updated>2023-08-11T08:25:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，据官方消息，去中心化衍生品交易平台Holdstation宣布获得K300 Ventures的200万美元种子轮投资，将加速发展用于链上期货交易的智能合约钱包，专注于Layer 2和隐私交易，推动Web3采用及更多领域发展。
-据悉，Holdstation于2022年4月推出，致力于通过自我托管方式简化用户与区块链的交互。其产品包括一款支持自我托管和隐私的多链Web3智能合约钱包，以及Holdstation DeFutures交易平台。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：8月10日Base主网日活用户超13.6万，Base TVL现已超1.7亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/v162fw2e.html</id>
-        <link href="https://panewslab.com/zh/articledetails/v162fw2e.html"/>
-        <updated>2023-08-11T08:09:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月11日消息，Dune数据显示，截至8月10日，Base主网日活跃用户突破10万，超过13.6万个，创历史新高。其中大约30%是Base的新用户，当日新用户数量约4.2万名。此外，Base TVL目前已达到约1.73亿美元。
-The Block分析称，活动激增可能归因于一个名为friend.tech的新社交网络项目。friend.tech应用程序可通过与Twitter（现更名为 X）强绑定的方式，让用户可以通过Base链的以太坊购买任意friend.tech上用户的份额，获取与其直接对话的权利，并且还有可以从中获利的可能性。
-此前昨日消息，Coinbase的Base主网正式向公众开放。
-相关阅读：“你的社交圈代表你的价值”，去中心化社交应用friend.tech如何诠释这句话？]]></summary>
         <author>
             <name>PA一线</name>
         </author>
