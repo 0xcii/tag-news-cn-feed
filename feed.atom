@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-12T11:09:10.510Z</id>
+    <id>urn:2023-08-12T12:21:00.823Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-12T11:09:10.510Z</updated>
+    <updated>2023-08-12T12:21:00.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-8.12）]]></title>
+        <id>https://www.web3sj.com/?p=84356</id>
+        <link href="https://www.web3sj.com/news/84356/"/>
+        <updated>2023-08-12T11:58:25.000Z</updated>
+        <summary type="html"><![CDATA[a16z和Paradigm已提交法庭之友陈述支持Coinbase。Celsius计划90天内关闭应用程序，并向债权人分配约20.3亿美元加密资产。美国法官撤销SBF的保释，SBF将于今日入狱。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现Twitter列表的加密诈骗一年内造成87万美元损失]]></title>
+        <id>https://panewslab.com/zh/articledetails/9512p3ke.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9512p3ke.html"/>
+        <updated>2023-08-12T11:57:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月12日消息，据The Block报道，圣地亚哥州立大学的研究人员开发了一种名为 GiveawayScamHunter 的全自动诈骗检测系统，该系统发现了 2022 年 6 月至 2023 年 6 月期间 X（以前称为 Twitter）上的 87,617 个账户创建的 95,111 个诈骗列表。根据 8 月 10 日发表的一份研究论文，“超过 365 名受害者受到免费加密货币赠品骗局的攻击，预计造成 87 万美元的经济损失”——而且问题尚未完全解决。该团队得出的结论是，尽管它向 X 报告了结果和帐户信息，但在撰写结果时，近 44% 的垃圾邮件帐户仍然处于活动状态。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全机构：Steadefi漏洞攻击相关EOA地址已将100枚ETH转至Tornado Cash]]></title>
+        <id>https://panewslab.com/zh/articledetails/bt4vn2wb.html</id>
+        <link href="https://panewslab.com/zh/articledetails/bt4vn2wb.html"/>
+        <updated>2023-08-12T11:50:46.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月12日消息，据CertiK官方推特发布消息称，EOA地址（0xe10d）已将100枚ETH（约合18.5万美元）转至Tornado Cash。该EOA地址与8月7日Steadefi漏洞攻击事件有关，目前其中仍有524枚ETH（约合96.9万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi收益率协议Affine完成700万美元融资，Coinbase Ventures等参投]]></title>
         <id>https://panewslab.com/zh/articledetails/w06qgd1h.html</id>
@@ -302,36 +332,6 @@ Web3本质上代表着平等和互助。因此，0xScope的研究团队找到了
         <summary type="html"><![CDATA[PANews 8月12日消息，据Inner City Press报道，在SBF被拘留不到一小时后，其律师团队就已提出还押上诉，并已支付了505美元的申请费。据此前消息，美国联邦法官Lewis Kaplan在纽约南区地方法院的听证会上决定撤销SBF的保释，称其至少两次试图干扰证人。随后Fox Business记者Eleanor Terrett推特发文称，Lewis Kaplan法官拒绝了辩方在上诉期间推迟拘留的请求，SBF将于今日入狱。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle CEO：今年秋天将公布路线图并推出智能合约开发平台]]></title>
-        <id>https://panewslab.com/zh/articledetails/7vk6r3fc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7vk6r3fc.html"/>
-        <updated>2023-08-11T23:24:42.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月12日消息，Circle首席执行官Jeremy Allaire推特发文称，今年秋天Circle将公布路线图，旨在实现无缝和跨链的稳定币支付，同时将引入一个智能合约开发平台，允许Web2开发者轻松访问。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三箭资本联创Kyle Davies因放弃美国国籍而免于支付与传票有关的罚款]]></title>
-        <id>https://panewslab.com/zh/articledetails/jzjmv6gq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/jzjmv6gq.html"/>
-        <updated>2023-08-11T23:19:43.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月12日消息，据彭博社报道，已破产加密对冲基金三箭资本（3AC）的联合创始人Kyle Davies因放弃了美国国籍而免于支付与传票有关的巨额罚款。法官Martin Glenn周五裁定，在纽约破产法院发出传票时，Kyle Davies不是美国公民，因此无需支付罚款。法官表示他无权通过推特发送传票。3AC的清算人曾希望法官判戴维斯藐视法庭，并对其处以每天1万美元的罚款，直到他回应传票或交出文件为止。清算人试图通过推特向Davies发送传票，因为他们不确定Davies现在的居住地。Davies的律师本月早些时候提交了文件，证明他在2020年底放弃了美国国籍并成为了新加坡公民。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-8.11）]]></title>
-        <id>https://www.web3sj.com/?p=84247</id>
-        <link href="https://www.web3sj.com/news/84247/"/>
-        <updated>2023-08-11T11:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Sei Network：主网包括Sei空投和激励性测试网奖励。以太坊客户端 Geth 发布 v1.12.1 版本，聚焦 Cancun 硬分叉，不再支持 Rinkeby 测试网。Visa测试支持信用卡或借记卡以法币支付链上Gas费的方法。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
