@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-13T03:12:14.616Z</id>
+    <id>urn:2023-08-13T04:14:29.730Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-13T03:12:14.616Z</updated>
+    <updated>2023-08-13T04:14:29.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[科技巨头纷纷押注，Web3钱包能否成为撬动行业的支点？]]></title>
+        <id>https://www.web3sj.com/?p=84403</id>
+        <link href="https://www.web3sj.com/news/84403/"/>
+        <updated>2023-08-13T03:19:20.000Z</updated>
+        <summary type="html"><![CDATA[对用户而言，使用 Web3 支付尤其是 Web3 自托管（Self-custody) 钱包（下文简称 Web3 钱包）就像将黄金或珠宝保管在自己家的保险箱一样踏实。无需通过银行等金融机构，也无需把自己的数据保存在第三方服务云平台或者第三方服务提供商的公司服务器。这是 Web3 背后的分布式技术赋予了这种魅力，用户通过使用 Web3 钱包可以实现自己保管私钥，而且私钥信息是被保存在本地服务器上的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解a16z crypto新推出的两款SNARK工具]]></title>
+        <id>https://www.web3sj.com/?p=84400</id>
+        <link href="https://www.web3sj.com/news/84400/"/>
+        <updated>2023-08-13T03:15:51.000Z</updated>
+        <summary type="html"><![CDATA[虽然许多 SNARK 对验证者来说保持有吸引力的成本，但 SNARK 通常仍会在证明者计算中引入约六个数量级的开销。证明者所承受的额外工作是高度并行化的，但数百万倍的开销严重限制了 SNARK 的应用范围。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3品牌追踪：一览星巴克奥德赛的最新进展]]></title>
         <id>https://www.web3sj.com/?p=84383</id>
@@ -161,26 +181,6 @@
         <link href="https://www.web3sj.com/news/84297/"/>
         <updated>2023-08-12T04:14:10.000Z</updated>
         <summary type="html"><![CDATA[在本文中，RootData 将基于其数据库对风投机构今年的出手次数与领投次数进行统计，以帮助读者更好地了解加密风投机构现状。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAI 8%的收益率很香，但马上就会是过去式了]]></title>
-        <id>https://www.web3sj.com/?p=84291</id>
-        <link href="https://www.web3sj.com/definews/84291/"/>
-        <updated>2023-08-12T03:58:02.000Z</updated>
-        <summary type="html"><![CDATA[至于为什么长线上会有另一种潜在的调整可能，是因为 8 月 9 日 MakerDAO 创始人  Rune Christensen 已发布提案（当前处于前期讨论阶段）称，希望更改原有的 EDSR 数值设计方案。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解CyberConnect现状]]></title>
-        <id>https://www.web3sj.com/?p=84282</id>
-        <link href="https://www.web3sj.com/project/84282/"/>
-        <updated>2023-08-12T03:46:46.000Z</updated>
-        <summary type="html"><![CDATA[CyberConnect 项目于 2021 年创建，旨在打造一个去中心化社交图谱。CyberConnect 的基础架构重点强调了数据自主权，通过基于 Ceramic 和 IPFS 的存储底层实现以用户为中心的数据流体系。]]></summary>
         <author>
             <name>Gao</name>
         </author>
