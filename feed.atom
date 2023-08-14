@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-14T14:11:28.404Z</id>
+    <id>urn:2023-08-14T15:11:30.743Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-14T14:11:28.404Z</updated>
+    <updated>2023-08-14T15:11:30.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rollup经济学2.0：解析成熟Rollup生态的多层经济关系]]></title>
+        <id>https://www.web3sj.com/?p=84567</id>
+        <link href="https://www.web3sj.com/news/84567/"/>
+        <updated>2023-08-14T14:17:28.000Z</updated>
+        <summary type="html"><![CDATA[我们提出了一个新的框架，将有助于理解 Rollup 准备扩展的新世界。目前仍在进行大量的实验，但已经出现了几种模式。我们将分析关键模式，并希望提供一个工具，帮助理解事物可能发展的方向，并解答当前的开放性问题。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask和Banxa合作推出通过Apple Pay进行“一键式”加密货币购买]]></title>
         <id>https://panewslab.com/zh/articledetails/ykxmizbe.html</id>
@@ -323,16 +333,6 @@
         <link href="https://www.web3sj.com/news/84468/"/>
         <updated>2023-08-14T03:43:26.000Z</updated>
         <summary type="html"><![CDATA[在 L2 扩容赛道中，具有极佳数据压缩性能的零知识证明扩容方案（ZK Rollups）已然被认为是以太坊的中长期核心方案。以太坊创始人 Vitalik 于 2022 年根据各家 ZK Rollups 与 EVM（Ethereum Virtual Machine）以太坊虚拟机的兼容性将其分为 4 种不同的类型，为 zkEVM 类型确立了基础标准。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SparkDAO空投规则解读：空投时间预计为明年，预计收益率仅个位数]]></title>
-        <id>https://www.web3sj.com/?p=84462</id>
-        <link href="https://www.web3sj.com/definews/84462/"/>
-        <updated>2023-08-14T03:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Spark Protocol 是 Maker Endgame（终局之战）转型阶段的第一个产品。随着 Maker 将 DSR（DAI 存款利率）提高到 8%，用户更有可能接触到 Spark 这一基于 Aave V3 代码建立的借贷协议（Spark 利润的 10% 也将分配给 Aave）。现在 MakerDAO 官网的「Use Dai」按钮已经转为跳转到 Spark 首页，从这里既可以存入抵押品借 DAI，也可以将 DAI 以 sDAi（SavingsDAI）的形式存入 DSR 合约，以获得 8% 的收益率。]]></summary>
         <author>
             <name>Gao</name>
         </author>
