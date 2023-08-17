@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T07:11:01.832Z</id>
+    <id>urn:2023-08-17T08:15:38.865Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-17T07:11:01.832Z</updated>
+    <updated>2023-08-17T08:15:38.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[区块链意图架构和相关项目进展]]></title>
+        <id>https://www.web3sj.com/?p=84934</id>
+        <link href="https://www.web3sj.com/news/84934/"/>
+        <updated>2023-08-17T07:58:45.000Z</updated>
+        <summary type="html"><![CDATA[交易是用户希望执行的高度具体操作，而意图则规定了用户在某些参数内希望实现的目标。通常，意图将手头的任务外包给用户，并能够访问多个环境，这样用户就不必手动操作零散的协议。通过不对每个交易的方方面面进行编码，可以实现更多的交易表现力和效率，并提高 UX。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3社交七年简史：越来越宏大的叙事与越来越小的格局]]></title>
+        <id>https://www.web3sj.com/?p=84930</id>
+        <link href="https://www.web3sj.com/news/84930/"/>
+        <updated>2023-08-17T07:35:59.000Z</updated>
+        <summary type="html"><![CDATA[初号机 Steamit：底层架构是基于石墨烯架构（没错，跟 EOS 一个架构）的区块链 Steam，用户核心交互逻辑（发、转、评、赞）和资产上链。在 Steam 链之上的应用层，是去中心化内容社区 Steamit，Steamit 由社区投票治理。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么样的项目，二级回报率更高？]]></title>
         <id>https://www.web3sj.com/?p=84924</id>
@@ -26,38 +46,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国国家情报院：朝鲜自2015年以来已非法窃取超15亿美元虚拟资产]]></title>
-        <id>https://panewslab.com/zh/articledetails/5hofbvp7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/5hofbvp7.html"/>
-        <updated>2023-08-17T06:26:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月17日消息，据《今日亚洲》报道，韩国国家情报院（NIS）估计，朝鲜自2015年以来已非法窃取了超过15亿美元的虚拟资产，仅今年上半年，朝鲜就参与了价值超过1.8亿美元的黑客事件。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外媒：Shibarium团队或难以恢复桥接资产，SHIB、BONE价格大幅下跌]]></title>
-        <id>https://panewslab.com/zh/articledetails/42pv6p19.html</id>
-        <link href="https://panewslab.com/zh/articledetails/42pv6p19.html"/>
-        <updated>2023-08-17T06:11:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月17日消息，据Cointelegraph报道，Shibarium开发人员之间的内部Telegram对话截图显示，首席开发者Shytoshi Kusama透露，该团队无法恢复桥接到Shibarium网络的资产。加密侦探ZachXBT表示，他尚未确认资产是否真正丢失，但指出RPC（运行关键区块链客户端软件的节点）已无法运作，并称区块浏览器Shibarium Scan非常“糟糕”。另一张屏幕截图显示，一名Shibarium用户遇到了区块浏览器的技术问题，称他们无法通过RPC查询桥接余额。
-经PANews查询Shibarium Scan区块浏览器，Shibarium网络在停止出块8个小时后，于50分钟前恢复出块，又于27分钟前停止出块。目前，Shibarium RPC网站无法打开。
-此外，Coingecko数据显示，目前Shiba Inu（SHIB）代币价格24小时跌幅达6.8%。Bone （BONE）代币价格24小时跌幅达17.5%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui流动性质押黑客松已开启报名，奖池包括2500万枚质押的SUI代币]]></title>
-        <id>https://panewslab.com/zh/articledetails/r9rioksh.html</id>
-        <link href="https://panewslab.com/zh/articledetails/r9rioksh.html"/>
-        <updated>2023-08-17T05:20:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月17日消息，据官方消息，Sui流动性质押黑客松已开启报名。本次黑客松已于8月16日正式开启注册，并于9月27-30日以Demo Day的形式竞争，结果将于10月2日公布。此次黑客松的奖池包括2500万枚质押的SUI代币和价值12.5万美元的SUI代币。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Delphi Digital联创：加密市场周期性或可预测，数据揭示牛市即将来临]]></title>
         <id>https://www.web3sj.com/?p=84897</id>
         <link href="https://www.web3sj.com/news/84897/"/>
@@ -65,17 +53,6 @@
         <summary type="html"><![CDATA[越来越多的证据表明我们正处于一个新周期的早期阶段，风险资产如股票和加密货币在整个年份中一直在隐约的证实这一点。在我看来，这不仅仅是另一个熊市的反弹。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scopescan：之前解锁的4900万枚BLUR或被转至VC或团队归属代币接收地址]]></title>
-        <id>https://panewslab.com/zh/articledetails/m04ijv2a.html</id>
-        <link href="https://panewslab.com/zh/articledetails/m04ijv2a.html"/>
-        <updated>2023-08-17T05:10:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月17日消息，Scopescan发推文分析称，4900万枚BLUR被提取到5个仅持有BLUR的地址。这些地址之前也两次从Coinbase收到大量BLUR，可能是VC或团队的归属代币接收地址。
-此前昨日消息，Scopescan监测数据显示，4900万枚已解锁的BLUR（约合1325万美元）转入Coinbase Prime。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -96,17 +73,6 @@
         <summary type="html"><![CDATA[FedNow 是美联储为确保美国支付系统能够与时俱进、满足现代经济中的即时支付需求而推出的一个公共支付基础设施。它可以对标中国的即时支付清算系统（CNAPS），是美国为满足现代化支付系统需求、提供即时支付服务并支持更快速、更有效的资金转移的一项新服务。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安全仓杠杆新增ATA、SEI资产，逐仓杠杆新增SEI资产]]></title>
-        <id>https://panewslab.com/zh/articledetails/6uwn6h4v.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6uwn6h4v.html"/>
-        <updated>2023-08-17T04:56:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月17日消息，据官方公告，币安全仓杠杆新增ATA、SEI可借资产，逐仓杠杆新增SEI资产。
-新全仓杠杆交易对：ATA/USDT、SEI/USDT；新逐仓杠杆交易对：SEI/USDT。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -301,16 +267,6 @@ Global Illumination是一家利用人工智能构建创意工具、基础设施�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maverick Crypto：网络效应欠佳，Lido估值或被高估]]></title>
-        <id>https://www.web3sj.com/?p=84821</id>
-        <link href="https://www.web3sj.com/definews/84821/"/>
-        <updated>2023-08-17T02:01:39.000Z</updated>
-        <summary type="html"><![CDATA[在额外质押的 860 万 ETH 中，绝大多数（67%）用于非流动性质押。Lido 的 stETH 仅占到了所有质押 ETH 增长的不到 25%。这意味着 Lido 在 4 月份占据的所有质押 ETH 市场份额从 35% 下降到了 8 月份的 31.5%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NFT市场LooksRare推出第三季激励计划，奖励池规模为100万枚LOOKS]]></title>
         <id>https://panewslab.com/zh/articledetails/mhrjspds.html</id>
         <link href="https://panewslab.com/zh/articledetails/mhrjspds.html"/>
@@ -353,13 +309,57 @@ Global Illumination是一家利用人工智能构建创意工具、基础设施�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-8.16）]]></title>
-        <id>https://www.web3sj.com/?p=84792</id>
-        <link href="https://www.web3sj.com/news/84792/"/>
-        <updated>2023-08-16T11:57:13.000Z</updated>
-        <summary type="html"><![CDATA[Volatility Shares计划在10月12日上线以太坊期货ETF交易。彭博分析师：美国监管机构或已推迟对灰度比特币ETF申请做出决策。V神：Community Notes可能是主流世界中最接近加密价值实例的东西。]]></summary>
+        <title type="html"><![CDATA[行情：以太坊跌破1800美元，24小时跌幅1.62%]]></title>
+        <id>https://panewslab.com/zh/articledetails/v0f0wpc6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/v0f0wpc6.html"/>
+        <updated>2023-08-17T01:12:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月17日消息，行情显示，以太坊跌破1800美元，现报1799.2美元，24小时跌幅1.62%。]]></summary>
         <author>
-            <name>Gao</name>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellar支付平台的开源版本已发布]]></title>
+        <id>https://panewslab.com/zh/articledetails/6qqi3ut7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6qqi3ut7.html"/>
+        <updated>2023-08-17T01:07:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月17日消息，公链Stellar发推文宣布，Stellar支付平台的开源版本已发布，任何人都可以通过这种公开的批量支付工具使用数字资产支持全球支付。该平台是一个交钥匙解决方案，支持基于Stellar的大规模支付或结算。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sei主网测试版Pacific-1现已发布，空投已开放领取]]></title>
+        <id>https://panewslab.com/zh/articledetails/b6jzup8q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/b6jzup8q.html"/>
+        <updated>2023-08-17T00:51:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月17日消息，公链Sei Network在推特上宣布，Sei主网测试版Pacific-1现已发布，空投已开放领取。用户可在空投申领页面检查资格并参与跨链空投以及Atlantic贡献者的奖励。需要注意的是，用户需将Compass钱包更新至最新版本0.7.9，0.7.8及以下版本将无法领取代币。
+此外，官方还发布将资金桥接至Sei的指南，并提醒称根据网络负载的不同，资金从以太坊转移到Sei可能需要一些时间。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司：Base链上已出现500多种诈骗代币，请警惕相关风险]]></title>
+        <id>https://panewslab.com/zh/articledetails/2lc9vdsh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2lc9vdsh.html"/>
+        <updated>2023-08-17T00:39:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月17日消息，据彭博社报道，区块链风险监测公司Solidus Labs表示，从7月中旬到8月，开发人员在Coinbase的Layer 2区块链BASE上部署了500多种诈骗代币，如BASEPEPE (BPEPE)和Baby Yoda (Yoda)。其中大约有300个代币可以让它们的创建者无限铸币，另有60种代币可阻止买家在交易所转售。这些诈骗代币在基于Base的去中心化交易所上产生了约370万美元的交易量，诈骗者获利约200万美元。
+Solidus还表示，除了数百种骗局币外，其他“欺骗性炒作和交易”的加密货币也进入了Base。Meme代币Bald的创建者在推特上大肆宣传这款代币，并在LeetSwap 上抬高其价格，获得了超过520万美元的收入。Solidus提醒道：“围绕Base网络的炒作也不例外，因此请谨慎对待该网络上的代币。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MakerDAO创始人发起新治理提案，提议建立“Spark Protocol-Aave收入分成系统”]]></title>
+        <id>https://panewslab.com/zh/articledetails/9nn54lns.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9nn54lns.html"/>
+        <updated>2023-08-17T00:23:38.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月17日消息，MakerDAO创始人Rune Christensen提出了一项Maker治理提案，将Spark Protocol-Aave收入分成系统正式化为Maker生态系统协议，并尝试修复其缺陷，使其符合预期的行为和期望。
+根据该提案，Spark Protocol必须支付其运营基于Aave代码库的协议借贷功能所产生收入的10%。SparkDAO服务商必须在每个季度末手动计算付款，并从SparkDAO盈余缓冲区以DAI的形式手动支付到Aave治理控制下的智能合约。付款必须在2年的收入分成期限内进行，从本修正案获得Maker治理批准之日起计算。如果在SubDAO代币推出后的任何时间点，Spark Protocol每年为SparkDAO产生的收入少于100万枚DAI，则收入分成付款的应计将暂停，收入分成期限的倒计时暂停。当Spark Protocol每年的收入再次超过100万枚DAI时，收入分成支付和剩余收入分成期限的倒计时将恢复。
+在SubDAO代币推出之前，Maker Governance暂时负责代表Spark Protocol支付“虚拟收入分成”。 它的计算方法是通过D3M或分配系统向Spark Protocol提供DAI的总供应量，然后假设“虚拟收入”相当于该供应量的1%，并计算出10%的收入份额。计算和付款必须由支持协调员在每个季度末手动完成。一旦SubDAO代币推出，虚拟收入分成系统就不再有效，取而代之的是Spark Protocol-Aave收入分成生态系统协议的标准规则。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
