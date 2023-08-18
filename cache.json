@@ -11,7 +11,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 166,
+          "wordCount": 174,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AI引发好莱坞罢工事件的反思",
           "link": "https://www.defidaonews.com/article/6826486",
           "publishedOn": "2023-07-20T08:33:07.000Z",
-          "wordCount": 138,
+          "wordCount": 152,
           "title": "AI 演员：好莱坞罢工后的下一件大事？",
           "imageUrl": "https://appserversrc.8btc.cn/Fr0g11sK4QOEgWsoduQJ8FFwXM-B.png?imageView2/1/w/500/h/300"
         }
@@ -139,6 +139,66 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/9fdc13d1.html",
+          "author": "PA一线",
+          "description": "PANews 8月18日消息，彭博 ETF 分析师 James Seyffart 发推称，美国上诉法院今日尚未就灰度与美国证券交易委员会（SEC）关于将 GBTC 转换为比特币 ETF 的案件做出决定。",
+          "link": "https://panewslab.com/zh/articledetails/9fdc13d1.html",
+          "publishedOn": "2023-08-18T15:43:35.000Z",
+          "wordCount": 370,
+          "title": "彭博分析师：灰度比特币ETF申请相关诉讼今日不会作出判决",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/603hb3h3.html",
+          "author": "PA一线",
+          "description": "PANews 8月18日消息，据Coinedition报道，Messari研究专家Kunal Goel表示，Maker预计未来12个月的利润为8000万美元，但已降至200万美元以下。Goel解释说，引入EDSR是为了增加DAI供应并提高DSR采用率。它在这方面取得了成功，DAI供应量增长了9亿美元，DSR存款增长了10亿美元。然而，Goel指出，尽管利润蒸发，但新提案将调整EDSR并恢复利润。",
+          "link": "https://panewslab.com/zh/articledetails/603hb3h3.html",
+          "publishedOn": "2023-08-18T15:41:17.000Z",
+          "wordCount": 338,
+          "title": "Messari：Maker在未来12个月的利润预期从8000万美元降至不到200万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bk0or99h.html",
+          "author": "PA一线",
+          "description": "PANews 8月18日消息，MakerDAO 治理页面显示，关于 EDSR 和稳定费等一系列调整提案已获得投票通过，将于北京时间 2023 年 8 月 20 日 22:24 执行。提案主要内容包括：DSR 将根据 EDSR 更新而降低，本次提案通过后 DSR 将由 8% 降低至 5%；提升 ETH、wstETH、rETH 等一系列稳定费；更新智能燃烧引擎参数等。",
+          "link": "https://panewslab.com/zh/articledetails/bk0or99h.html",
+          "publishedOn": "2023-08-18T15:35:59.000Z",
+          "wordCount": 400,
+          "title": "MakerDAO关于EDSR和稳定费调整的提案获得通过，DSR将由8%降低至5%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/i5ukr154.html",
+          "author": "PA一线",
+          "description": "PANews 8月18日消息，据The Block报道，由加密货币交易所 Coinbase 孵化的以太坊 Layer 2 网络 Base 本周在日均交易量方面超越了占主导地位的 Optimistic Rollup 扩展解决方案 Arbitrum 和 Optimism。8 月 15 日，Base 的 7 天移动平均日交易量达到 610,000 笔，而 Optimism 为 597,000 笔，Arbitrum 为 576,000 笔，然后有所回落。",
+          "link": "https://panewslab.com/zh/articledetails/i5ukr154.html",
+          "publishedOn": "2023-08-18T14:32:12.000Z",
+          "wordCount": 430,
+          "title": "Base日均交易量超过Arbitrum和Optimism",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c610lf28.html",
+          "author": "PA一线",
+          "description": "PANews 8月18日消息，据The Block报道，以 Nikolaos Panigirtzoglou 为首的摩根大通分析师在一份报告中写道，在即将到来的减半事件之前，加密货币矿工现在正在为快速发展的人工智能市场提供高性能计算服务，这可能为他们带来盈利。加密货币挖矿和人工智能开发，包括训练大型语言模型，都需要先进的计算机芯片。Applied Digital最近推出了人工智能云服务，并签署了一项价值4.6亿美元的协议，在其数据中心托管人工智能云计算。与此同时，随着人们对人工智能的兴趣日益浓厚，Iris Energy 最近恢复了托管 HPC 服务的战略。",
+          "link": "https://panewslab.com/zh/articledetails/c610lf28.html",
+          "publishedOn": "2023-08-18T14:17:33.000Z",
+          "wordCount": 361,
+          "title": "摩根大通表示比特币矿商在减半前正在多元化",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/v5hjvp3n.html",
+          "author": "PA一线",
+          "description": "PANews 8月18日消息，据Forbes报道，总部位于伦敦的支付处理商 Checkout.com 因洗钱与合规问题已于 8 月 17 日终止与币安的合同。在给币安的信中，Checkout CEO Guillaume Pousaz 对币安的反洗钱、制裁与合规控制提出了更多的担忧。去年，币安宣布与 PaySafe 和 Checkout 合作推出自己的支付平台 Bifinity。欧洲支付提供商 PaySafe 已于 6 月停止与币安的合作。\n作为回应，币安表示，它不同意 Checkout 终止合同的依据，并表示正在考虑采取法律行动。",
+          "link": "https://panewslab.com/zh/articledetails/v5hjvp3n.html",
+          "publishedOn": "2023-08-18T13:54:04.000Z",
+          "wordCount": 391,
+          "title": "支付处理商Checkout.com因洗钱和合规问题终止与币安的合同",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/5jr236mg.html",
           "author": "PA一线",
@@ -278,66 +338,6 @@
           "wordCount": 368,
           "title": "PeckShield：Exactly Protocol正在被攻击，强烈建议用户采取必要行动",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zg4lncao.html",
-          "author": "PA一线",
-          "description": "PANews 8月18日消息，Tether 首席技术官 Paolo Ardoino 发推称，Tether 预计将在今年年底前发布 3 款大型产品。",
-          "link": "https://panewslab.com/zh/articledetails/zg4lncao.html",
-          "publishedOn": "2023-08-18T09:33:00.000Z",
-          "wordCount": 365,
-          "title": "Tether CTO：Tether将于今年年底前发布3款大型产品",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/u5hl5r6b.html",
-          "author": "PA一线",
-          "description": "PANews 8月18日消息，ASIC芯片设计公司嘉楠科技（Canaan）近日正式发布参数量70亿的通用大语言模型Toucan-7B及INT4量化版本的Toucan-7B-4bit。其中，Toucan-7B基于LLaMA预训练权重进行指令微调，能够实现文案写作、代码解析、信息抽取等各种通用自然语言处理任务。Toucan-7B-4bit基于当前最新量化技术对Toucan-7B实现极低损失的INT4量化。此外，Toucan-7B是基于GTX-3090单卡GPU实现所有的实验流程，是真正方便每位开发者所使用的通用LLM模型。Toucan-7B的效果略微优于ChatGLM-6B，并且Toucan-7B-4bit模型的效果也能够达到与ChatGLM-6B持平的水准。ChatGLM(清华开源LLM模型)是国内首批开源的通用大语言模型，也是最优秀的中文大语言模型之一。",
-          "link": "https://panewslab.com/zh/articledetails/u5hl5r6b.html",
-          "publishedOn": "2023-08-18T09:25:51.000Z",
-          "wordCount": 340,
-          "title": "嘉楠科技已开源通用大语言模型Toucan，INT4量化效果媲美ChatGLM",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/dgdikgyg.html",
-          "author": "PA一线",
-          "description": "PANews 8月18日消息，BNB Chain上借贷协议Venus Protocol在X平台（原推特）上表示，BNB Bridge攻击者账户已按照BNB Chain之前的承诺，通过白名单清算回到健康状态，没有造成任何亏空，也没有对BNB造成进一步影响。\n今日早些时候消息，BNB Bridge攻击者已被清算560万枚vBNB，价值约合5230万美元。",
-          "link": "https://panewslab.com/zh/articledetails/dgdikgyg.html",
-          "publishedOn": "2023-08-18T09:11:11.000Z",
-          "wordCount": 373,
-          "title": "Venus Protocol：BNB Bridge攻击者被清算未造成亏空",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/fpd7mrvq.html",
-          "author": "PA一线",
-          "description": "PANews 8月18日消息，据Cointelegraph报道，IBM Watson（IBM 开发的问答超级计算机）开发团队的人工智能 (AI)研究人员已为其 AI 初创公司 Elemental Cognition 筹集了近 6000 万美元。文件显示，该公司已向 17 名投资者完成了价值 5995 万美元的股权出售，并计划额外获得 575 万美元的融资。\nElemental 总部位于纽约赫尔姆斯利大厦，旨在创建具有高级推理能力的人工智能。该公司提供两种企业聊天机器人解决方案Cogent和Cora，专为金融、交互式旅行规划和科研自动化等多种应用量身定制。",
-          "link": "https://panewslab.com/zh/articledetails/fpd7mrvq.html",
-          "publishedOn": "2023-08-18T09:06:45.000Z",
-          "wordCount": 377,
-          "title": "AI初创公司Elemental Cognition完成6000万美元融资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/q59yukh2.html",
-          "author": "PA一线",
-          "description": "PANews 8月18日消息，MakerDAO创始人Rune Christensen发布了一篇关于为MakerDAO和Sub DAO开发DAO治理人工智能工具的长篇文章更新，称其一直在研究如何重构Atlas（算法库），支持治理AI工具的综合运用，让治理参与变得尽可能简单。文章介绍了Atlas的基础知识、治理AI工具（GAIT），并提出了下一代Atlas的概念（即自适应系统数据集），以及如何将两者结合以优化MakerDAO，包括：1.监测生态系统参与者违反规则或错过交付成果的情况，DAO为项目提供产品或服务；2.将领域顾问提供的专业建议中的数据转换为格式正确且一致的建议；3.以所有语言提供DAO中的治理和社会参与；4.将上述所有相同的方法和工具应用于SubDao。\nChristensen称其已制定下一代Atlas的WIP草案，之后会分享相关部分内容，以给出一个示例。WIP包含来自治理范围的各种Atlas文档，主要围绕下一代Atlas的元结构信息。到目前为止，这个结构和数据已经运行得非常好，并且可以使用Chatgpt代码解释器非常有效地处理正确的提示，但仍然有很高的突然故障率，因此将在开发出更好方法后再做分享，这样社区就可以更容易地开始尝试各种可能性，并为必须放入Atlas的大量数据做出贡献，为《Endgame阶段1:测试版发布》做准备。此外，Atlas的基础设施和接口将是名为Powerhouse的开源工具包，用于组织和简化治理流程和数据，Powerhouse将成为核心利益相关者用来访问Atlas数据的前端，并在GAIT的帮助下与其流程进行交互。\n此前5月消息，MakerDAO公布“Endgame”新路线图，包括推出新品牌标识和引入治理AI工具。",
-          "link": "https://panewslab.com/zh/articledetails/q59yukh2.html",
-          "publishedOn": "2023-08-18T09:01:18.000Z",
-          "wordCount": 349,
-          "title": "MakerDAO创始人发文披露DAO治理人工智能工具开发进展",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/05t8299t.html",
-          "author": "PA一线",
-          "description": "PANews 8月18日消息，据Yuga Labs旗下元宇宙项目Otherside官方社交媒体披露信息显示，奢侈品牌Gucci已开始向“KodaPendant”NFT 持有者发放实物吊坠，部分持有者已确认收到。今年四月，Gucci宣布与Yuga Labs合作发行“KodaPendant”NFT 系列，总量3333枚，每枚NFT都对应一条实物项链。",
-          "link": "https://panewslab.com/zh/articledetails/05t8299t.html",
-          "publishedOn": "2023-08-18T08:14:48.000Z",
-          "wordCount": 352,
-          "title": "Gucci开始向“KodaPendant”NFT持有者发放实物吊坠",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -346,6 +346,36 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202308/21093.html",
+          "author": null,
+          "description": "SpaceX 8月18日发布的比特币减记报告引发了加密社区的混乱。《华尔街日报》发表的这篇报道让许多人感到困惑，他们质疑SpaceX是否持有价值3.73亿美元的比特币，并在2021年至2022年期间出售，或者他们是否仅减少持有的比特币。 多家社交媒体报道称，SpaceX已出售其持有的全部BTC，而一些媒体则表示不确定，称他们无法根据报告的措辞确认具体金额。马斯克(Elon Musk)在2021年透露，SpaceX在其资产负债表上持有比特币，特斯拉也是如此。虽然特斯拉的比特币持有量被公开，但SpaceX的比特币持有量却没有任何估计，这是造成持续混乱的关键。特斯拉曾持有牛市期间购买的价值15亿美元的BTC，但透露其已在2022年第二季度出售了72%的持仓。",
+          "link": "https://www.hellobtc.com/news/202308/21093.html",
+          "publishedOn": "2023-08-18T15:04:00.000Z",
+          "wordCount": 320,
+          "title": "SpaceX比特币减记引发加密社区混乱但马斯克名下公司持有比特币具体数量目前仍不清楚",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202308/21092.html",
+          "author": null,
+          "description": "8月18日消息，香港数码港行政总裁任景信在接受《Finance730》最新采访时表示，香港政府其实破例推动 Web3 和虚拟资产绝对看得到第三代互联网对长远科技带来颠覆性改变，因此颇有远见地去推动，香港数码港已成为香港 Web3 基地，其中大部分公司来自海外，已有超 200 家公司做 Web3 业务。任景信还称，金融机构可能需要时间调整政策和风控措施，但香港数码港内本身就有两家虚拟银行，而且已帮 Web3 公司都开到了银行户口。针对前香港金管局总裁任志刚称虚拟资产是赌场，任景信回应称，任志刚错误地将政府推动 Web3 等同鼓励去做虚拟货币炒作，但许多 Web3 应用不是加密货币更谈不上炒作。",
+          "link": "https://www.hellobtc.com/news/202308/21092.html",
+          "publishedOn": "2023-08-18T15:04:00.000Z",
+          "wordCount": 322,
+          "title": "香港数码港行政总裁任景信：香港数码港已成为香港Web3基地",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202308/21091.html",
+          "author": null,
+          "description": "根据Nansen的一份报告，Arbitrum桥接资产价值57.7亿美元，上季度继续增长。自三月份空投以来，基于“持续增加”的交易数量和“新参与者的涌入”，见证了强劲的网络活动。 自今年年初以来，首次在网络上进行交易的新钱包数量激增，Nansen分析师指出，随着新用户的不断增加，这“意味着更多的有机活动”，甚至“在第二季度的某些日子里超过了以太坊”。 相比之下，于2022年5月31日进行空投的Optimism空投后活动并未出现同样的增长。与Arbitrum一样，Optimism网络是以太坊流行的第2层扩展解决方案。在发布OP Stack后，许多构建者都建立了自己的网络，包括Coinbase孵化的Base网络。",
+          "link": "https://www.hellobtc.com/news/202308/21091.html",
+          "publishedOn": "2023-08-18T15:04:00.000Z",
+          "wordCount": 311,
+          "title": "Nansen：在ARB空投后Arbitrum新用户持续“涌入”",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202308/21090.html",
           "author": null,
@@ -414,36 +444,6 @@
           "publishedOn": "2023-08-15T04:28:00.000Z",
           "wordCount": 314,
           "title": "香港投资推广署：香港政府考虑做专为香港服务的公链",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21083.html",
-          "author": null,
-          "description": "香港特别行政区政府资讯科技总监黄志光昨日在上海出席香港政府资讯科技总监办公室联同上海市经济和信息化委员会联合举办的首届沪港合作开放数据竞赛颁奖典礼，期间还参观了包括商汤科技及上海万向区块链在内的当地区块链企业以加深对内地人工智能、区块链和数据应用生态圈及行业发展的了解，旨在深化香港与内地创科业界合作，更好融入国家发展大局。",
-          "link": "https://www.hellobtc.com/news/202308/21083.html",
-          "publishedOn": "2023-08-15T04:28:00.000Z",
-          "wordCount": 309,
-          "title": "港府资讯科技总监黄志光造访上海区块链企业，拟深化香港与内地创科业界合作",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21082.html",
-          "author": null,
-          "description": "香港虚拟银行近期出现普遍加息现象，汇立银行把12个月、9个月及7个月存期都加至4.3厘，6个月也有4.2厘；Mox Bank近期亦推出2年期4.2厘；富融也在最近把3个月存期加至4厘；众安新开户（获好友推荐）5万元定存最多有6.6厘。",
-          "link": "https://www.hellobtc.com/news/202308/21082.html",
-          "publishedOn": "2023-08-15T04:28:00.000Z",
-          "wordCount": 308,
-          "title": "香港虚拟银行近期出现普遍加息现象",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21081.html",
-          "author": null,
-          "description": "香港特区政府行政长官李家超在今日举办的创新科技与艺术发展高峰论坛2023发表致辞，表示本次论坛以Web3.0回归：建构黄金新起点为主题，紧扣香港在十四五规划下发展创新科技和文化艺术等新增长点的方向，Web3.0是互联网的全新发展方向，融合了近年广受关注的技术，有潜力成为推动金融和商贸未来发展的趋势。 李家超称特区政府重视金融科技和Web3.0的发展，并发表政策宣言，明确指出香港对全球从事虚拟资产业务的创新者，持开放和包容的态度。政府将与金融监管机构合作，营造有利环境，促进香港金融业的可持续和负责任发展。今年六月，香港已经就虚拟资产交易平台落实新的发牌制度，也正全力探讨稳定币的监管安排。政府同时密切留意国际发展，确保香港的监管要求稳妥，便利市场发展。",
-          "link": "https://www.hellobtc.com/news/202308/21081.html",
-          "publishedOn": "2023-08-15T04:28:00.000Z",
-          "wordCount": 308,
-          "title": "李家超：香港正全力探讨稳定币的监管安排",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
