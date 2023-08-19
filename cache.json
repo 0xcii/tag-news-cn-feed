@@ -11,7 +11,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 156,
+          "wordCount": 168,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -23,12 +23,72 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=85187",
+          "author": "Gao",
+          "description": "RWA，真实世界资产（RWA），是指可以代币化并在区块链上表示的实物资产。RWA 的例子包括房地产、贷款、合同和担保，以及将在交易中使用的任何高价值物品。RWA 可以更简单地理解为链上资产投资链外并赚取收益；或者将链下资产以某种形式放到链上，以获得链上经济利益。",
+          "link": "https://www.web3sj.com/news/85187/",
+          "publishedOn": "2023-08-19T04:12:11.000Z",
+          "wordCount": 1021,
+          "title": "机构争相追捧的RWA，炒作还是机会？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692418318117.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=85182",
+          "author": "Gao",
+          "description": "在此制裁事件之后，大量的 DeFi 协议封禁了与 Tornado Cash 有关的地址，创始团队成员的 Github 代码库也遭删除，甚至其联创 Alexey Pertsev 于 2022 年 8 月 12 日在荷兰被逮捕（已于 2023 年 4 月获释），罪名是「隐瞒犯罪资金流动，并为洗钱提供便利」。此外，Tornado Cash Discord 频道以及 DAO 治理论坛也在同日被关闭。",
+          "link": "https://www.web3sj.com/news/85182/",
+          "publishedOn": "2023-08-19T04:09:01.000Z",
+          "wordCount": 972,
+          "title": "出师未捷，Tornado Cash的「维权」之路并不容易",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692418128245.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=85169",
+          "author": "Gao",
+          "description": "从 2021 年 12 月官宣开发新链，到过去两年不断跳票主网一再推迟，Shibarium 最终顺利上线。不过昨日上线后，Shibarium 网络两次出现故障，停止出快时间最长达 8 个小时。Shibariumscan 数据显示，目前主网出快已恢复正常，上线两日总地址数超过 1000 ，达到 1083 个，出块总数 204742 ，总交易数只有 252 笔。",
+          "link": "https://www.web3sj.com/news/85169/",
+          "publishedOn": "2023-08-19T04:04:53.000Z",
+          "wordCount": 1198,
+          "title": "主网上线，Shibarium生态10个值得关注的项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692417881164.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=85166",
+          "author": "Gao",
+          "description": "大多数时候，市场并不关心精确的基本面计算，因为我们谈论的是一个几乎没有任何现有消费行为的新兴链上原生经济（以太坊）。大多数 ETH 上的项目存在的目的是通过投机活动燃烧 Gas，并且是以太坊的网络效应的衍生物，对其并没有真正的净增值。",
+          "link": "https://www.web3sj.com/news/85166/",
+          "publishedOn": "2023-08-19T03:58:07.000Z",
+          "wordCount": 936,
+          "title": "加密市场反思：回归常识，以理性眼光审视市场乱象",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692417474514.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=85163",
+          "author": "Gao",
+          "description": "POW 共识机制，全称 Proof of Work，是中本聪随着比特币一起建立的工作量证明。它的出现主要是为了解决共识问题，以保证数据的有效性和可靠性。POW 会要求节点主机解决一个复杂的数学计算，并在网络上发布该记录作为证据，如果解决方案成功满足了所有关于解决方案的期望，该节点就可以获得一些代币奖励，并且可以被网络所认可。",
+          "link": "https://www.web3sj.com/news/85163/",
+          "publishedOn": "2023-08-19T03:55:40.000Z",
+          "wordCount": 931,
+          "title": "剖析POW代币：加密世界中的算力与价值",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692417328111.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=85156",
+          "author": "Gao",
+          "description": "Sei 在 2022 年 8 月 开启了开启了激励性测试网，并公布 SEI 总供应量的 1% 将用于奖励测试网参与者。 当时 Sei 的撸毛交互教程就已遍布社区，大家无一感慨这测试网的交互步骤真是有够烦琐，不仅需要多次交互，做完五大任务，还需要多次填表，领取还需要 KYC ，但撸毛工作室本着「越麻烦越应该做」的原则，仍然前赴后继地参与了交互。",
+          "link": "https://www.web3sj.com/news/85156/",
+          "publishedOn": "2023-08-19T03:44:43.000Z",
+          "wordCount": 1085,
+          "title": "Sei的终极营销法则：后空投时代的卷王",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692416663848.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=85139",
           "author": "Gao",
           "description": "以太坊最新ACDE会议：Holesky测试网创世供应量预计16亿枚HETH，正修复Devnet 8在某些客户端中的错误。Celsius文件显示1.5万个个人加密钱包曾于去年4月份共持有30亿美元资产。Shibarium开发团队：网络已进入故障安全模式以确保资金安全，正进行扩展升级。",
           "link": "https://www.web3sj.com/news/85139/",
           "publishedOn": "2023-08-18T14:38:42.000Z",
-          "wordCount": 896,
+          "wordCount": 887,
           "title": "Web3世界日报（2023-8.18）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/2023081814354390.jpg"
         },
@@ -38,7 +98,7 @@
           "description": "Puffer 具备强大的团队与资金背景，同时得到 ETH 基金会的支持，首创 Secure-Signer 技术为用户资金提供更好的安全性，良好的安全性允许节点提供更少的保证金降低参与门槛与提高资金杠杆，有望在马太效应明显的 LSD 赛道占据一席之地。",
           "link": "https://www.web3sj.com/definews/85110/",
           "publishedOn": "2023-08-18T07:08:17.000Z",
-          "wordCount": 1038,
+          "wordCount": 1034,
           "title": "Puffer ：Secure Signer加持，LSD赛道黑马",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692342414661.png"
         },
@@ -48,7 +108,7 @@
           "description": "市场的短时暴跌也导致合约市场血流成河，Coinglass 数据显示，过去 12 小时全网爆仓 10.03 亿美元（比特币和以太坊占比近 8 成），远超硅谷银行危机期间的 3 亿美元爆仓金额，甚至超过 FTX 崩溃期间的 8 亿美元记录，仅次于「5.19」事件的 13 亿美元记录和「3.12」事件的约 30 亿美元记录。",
           "link": "https://www.web3sj.com/news/85097/",
           "publishedOn": "2023-08-18T03:50:45.000Z",
-          "wordCount": 1090,
+          "wordCount": 1069,
           "title": "爆仓金额直追3·12、5·19，市场狂泻的原因几何？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692330630016.png"
         },
@@ -58,69 +118,9 @@
           "description": "灰度投资公司（Grayscale Investments）周四透露，随着与 SEC 的诉讼接近尾声，其 ETF 团队正在扩大。灰度强调，它正在为其 ETF 团队招聘。新的招聘信息给人们发出了一个乐观的信号，即现货 BTC ETF 有可能登录美国市场。",
           "link": "https://www.web3sj.com/news/85091/",
           "publishedOn": "2023-08-18T03:44:24.000Z",
-          "wordCount": 905,
+          "wordCount": 897,
           "title": "灰度在诉讼接近尾声时开始招兵买马，暗示现比特币ETF即将登陆美国？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692330249916.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=85067",
-          "author": "Gao",
-          "description": "他明确指出，不采用 ETH 作 DA 层（数据可用性层）的模块化区块链不是 Rollup，同时也不是以太坊 Layer2。如果按照 Dankrad 的说法，Arbitrum Nova 和 Immutable X、Mantle 都要从 Layer2 名单里「除名」，因为它们只在 ETH 之外（自己构建了名为 DAC 的链下 DA 网络）披露交易数据。",
-          "link": "https://www.web3sj.com/news/85067/",
-          "publishedOn": "2023-08-18T03:39:22.000Z",
-          "wordCount": 1500,
-          "title": "开除Validium？从Danksharding提出者的视角重新理解Layer2",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692329945444.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=85050",
-          "author": "Gao",
-          "description": "微信最核心的功能就是收发消息，而人与人之间的聊天即通过 IM（即时通讯）协议来实现。通常 Web2 中 IM 协议大都由中心化服务器来运行，例如  Google  Talk 的 CMPP 等，但在 Web3 中，我们更期待协议层与应用层共同捕获价值。IM 作为底层协议，其与数据存储、身份等协议同等重要，领域内部尚未跑出龙头，多数代表项目并未发币，想象空间较大。",
-          "link": "https://www.web3sj.com/news/85050/",
-          "publishedOn": "2023-08-18T03:16:56.000Z",
-          "wordCount": 1166,
-          "title": "人人都在聊社交，但这个协议层远远被低估",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692328602552.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=85046",
-          "author": "Gao",
-          "description": "在以太坊中，有两种类型的账户：外部拥有账户（EOA）和合约账户（CA）。EOA 是由私钥控制的普通数字货币钱包，而合约账户是由代码智能合约控制的账户，可以执行各种自定义的逻辑。例如，各种 DeFi 协议都由智能合约帐户控制。EOA 为以太坊账户中的「一等公民」，其特点是简单、易于使用，能满足大部分的数字货币交易需求。",
-          "link": "https://www.web3sj.com/news/85046/",
-          "publishedOn": "2023-08-18T02:55:48.000Z",
-          "wordCount": 912,
-          "title": "EIP-7377：全面实现账户抽象（AA）的加速器？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692327329442.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=85031",
-          "author": "Gao",
-          "description": "Unibot 已经主导了市场，目前占有约 71% 的市场份额。我认为这只是这个领域的开始，因为电报机器人将帮助更多用户和投资者进入 web3 空间。自 2023 年 5 月推出以来，Unibot 的用户基数持续增长，现在的每日活跃用户已经稳定在 1500，累计用户刚刚突破 10000。",
-          "link": "https://www.web3sj.com/definews/85031/",
-          "publishedOn": "2023-08-18T02:47:21.000Z",
-          "wordCount": 1105,
-          "title": "寻找下一个加密投资革命：Unibot项目分析",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692326822679.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=85024",
-          "author": "Gao",
-          "description": "此前 Shiba Inu 宣称 Shibarium 经过数月的测试，有数百万用户参与并创建了 2100 万个钱包。Shibarium 建立在一种名为参与证明（PoP）的新共识机制之上，根据验证者持有的相关加密货币数量的比例来选择验证者。这样做是为了避免工作量证明方案的计算成本。新的 L2 区块链解决方案旨在与主要的以太坊 Layer1 区块链进行交互，提供更具可扩展性和成本效益的交易平台。",
-          "link": "https://www.web3sj.com/news/85024/",
-          "publishedOn": "2023-08-18T02:24:14.000Z",
-          "wordCount": 997,
-          "title": "上线就出Bug，Shiba Inu推出的Shibarium主网能走多远？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692325441314.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=85011",
-          "author": "Gao",
-          "description": "GMX V1 版本于 2021 年底推出，采用的 GLP 模式，提供了一种简洁而有效的交易模型，创造了「真实收益」的叙事概念，在衍生品 DEX 协议中具有重要的地位。不少项目都 fork 了 GMX V1 的模型。",
-          "link": "https://www.web3sj.com/definews/85011/",
-          "publishedOn": "2023-08-18T02:16:42.000Z",
-          "wordCount": 1243,
-          "title": "回顾GMX V1发展情况，简述GMX V2的改动与影响",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/08/1692324988041.png"
         }
       ]
     },
@@ -130,9 +130,49 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/i0atfczy.html",
+          "author": "PA一线",
+          "description": "PANews 8月19日消息，据链上分析师余烬监测，某0xa22开头鲸鱼地址10小时前自Cumberland收到2.5万枚ETH，价值4154万美元。Cumberland昨天从Coinbase和Binance提取了这些ETH。三月份市场下跌后该鲸鱼以同一方式收到2.7万枚ETH，其目前持有52330枚ETH，单位成本为1550美元。这可能是鲸鱼在通过Cumberland抄底。",
+          "link": "https://panewslab.com/zh/articledetails/i0atfczy.html",
+          "publishedOn": "2023-08-19T03:22:00.000Z",
+          "wordCount": 339,
+          "title": "某鲸鱼自Cumberland收到2.5万枚ETH，或通过Cumberland抄底",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fl6g5g3h.html",
+          "author": "PA一线",
+          "description": "PANews 8月19日消息，Sui基金会公布第四轮捐赠的16个获奖项目名单，涵盖了DeFi、支付、基础设施、游戏、预言机等领域的生态系统项目。获奖项目从2023年7月1日之前提交的申请中选出，捐赠金额共90万美元。获奖项目名单如下：\n1. 链上衍生品和互换协议 - Abex Finance2. 去中心化支付解决方案 - Blockbolt3. 适用于Sui的Go编程语言SDK - BlockVision4. 抵押债务仓位（CDP）协议 - Bucket Protocol5. 区块链互操作性协议 - Celer Network6. “边玩边赚”游戏 - Cosmocadia7. 去中心化协议签名平台 - DAOsign8. 迷你游戏 - DeSuiLabs9. 数据平台 - Footprint Analytics10. Web3开发者工具包 - Hamster11. 去中心化跨链交易和借贷平台 - OmniBTC12. Python Sui客户端SDK - PySui13. 自定义社交网络协议 - Releap14. Sui生态系统开发工具 - Sui Base15. 下一代预言机解决方案 - Supra Oracles16. 收益基础设施 - Typus Finance",
+          "link": "https://panewslab.com/zh/articledetails/fl6g5g3h.html",
+          "publishedOn": "2023-08-19T03:01:52.000Z",
+          "wordCount": 468,
+          "title": "Sui基金会公布第四轮捐赠16个获奖项目",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/npqyaqy6.html",
+          "author": "PA一线",
+          "description": "PANews 8月19日消息，Cool Cats首席执行官Stephen Teglas推特宣布辞职，该项目创始人兼创意负责人Clon接任，将负责总体战略和日常运营。",
+          "link": "https://panewslab.com/zh/articledetails/npqyaqy6.html",
+          "publishedOn": "2023-08-19T02:54:27.000Z",
+          "wordCount": 354,
+          "title": "Cool Cats首席执行官Stephen Teglas辞职",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7rtvyn17.html",
+          "author": "PA一线",
+          "description": "PANews 8月19日消息，据官方消息，链游公会Merit Circle宣布其游戏区块链Beam网络现已对首批游戏开发者开放。经过测试网阶段，Beam网络现正向主网过渡，允许部分开发者开始在区块链上部署。完整版本将在初始阶段后上线，包括网络的无需许可验证和公共可用性。 在此初始阶段，Beam网络将将在授权证明(PoA)共识方法下运行。",
+          "link": "https://panewslab.com/zh/articledetails/7rtvyn17.html",
+          "publishedOn": "2023-08-19T02:20:49.000Z",
+          "wordCount": 341,
+          "title": "游戏区块链Beam主网现已对首批游戏开发者开放",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/1dwad43s.html",
           "author": "PA一线",
-          "description": "PANews 8月19日消息，friend.tech推特发文称已完成种子轮投资，Paradigm参投。今年早些时候，friend.tech还与Paradigm合作构建了新的在线社交互动工具。",
+          "description": "PANews 8月19日消息，friend.tech推特发文称已完成种子轮投资，Paradigm参投。今年早些时候，friend.tech还与Paradigm合作构建了新的在线社交互动工具。此外，friend.tech表示已向4.4万名用户发放首次星期五积分空投，还将在为期六个月的测试阶段分发1亿积分，每次空投将在周五进行，积分于链下记录，并将在测试阶段结束后有特殊用途。friend.tech表示，空投会参考用户每周四之前活动情况，标准将每周更新。不建议用户使用任何特定方法来赚取积分。如果出现问题，friend.tech保留修改先前积分发放情况的权利。",
           "link": "https://panewslab.com/zh/articledetails/1dwad43s.html",
           "publishedOn": "2023-08-19T02:03:17.000Z",
           "wordCount": 341,
@@ -217,6 +257,56 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202308/21098.html",
+          "author": null,
+          "description": "8月19日消息，Blur数据显示，蓝筹NFT地板价持续下跌，其中：BAYC降至26.2ETH，7日跌幅16.69%；MAYC降至5.06ETH，7日跌幅13.68%；Azuki降至4.08ETH，7日跌幅16.89%；DeGods降至4.14ETH，7日跌幅41.19%；PudgyPenguins降至3.75ETH，7日跌幅8.27%。",
+          "link": "https://www.hellobtc.com/news/202308/21098.html",
+          "publishedOn": "2023-08-19T03:10:00.000Z",
+          "wordCount": 304,
+          "title": "蓝筹NFT地板价持续下跌，平均7日跌幅超10%",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202308/21097.html",
+          "author": null,
+          "description": "X用户Maartunn发帖表示，MicroStrategy目前持有152,800枚BTC，平均买入价格为29672美元。比特币当前价格为25830美元，未实现亏损为620,876,000美元。",
+          "link": "https://www.hellobtc.com/news/202308/21097.html",
+          "publishedOn": "2023-08-19T03:10:00.000Z",
+          "wordCount": 304,
+          "title": "MicroStrategy持有的比特币目前未实现亏损超6.2亿美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202308/21096.html",
+          "author": null,
+          "description": "彭博分析师Eric Balchunas发布推文称，两周后的今天（9月1日），SEC必须对BlackRock和Bitwise ETF做出回应，可能会延迟，但这是下一个重要的日期（除了周二和周五，但可能是与灰度有关的决策）。",
+          "link": "https://www.hellobtc.com/news/202308/21096.html",
+          "publishedOn": "2023-08-19T03:09:00.000Z",
+          "wordCount": 313,
+          "title": "彭博分析师：SEC将于9月1日对贝莱德和Bitwise ETF做出回应",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202308/21095.html",
+          "author": null,
+          "description": "特斯拉首席执行官埃隆·马斯克(Elon Musk)对加密友好的共和党总统候选人Vivek Ramaswamy表示支持。Vivek在Tucker Carlson的采访视频在社交媒体上被分享，标题是：“Vivek Ramaswamy是有史以来最年轻的共和党总统候选人”，马斯克转发该视频并评论称：他是一位非常有前途的候选人。 据悉，Ramaswamy以对加密货币和数字金融的直言不讳的观点而闻名，他积极倡导在美国建立更强大的加密生态系统。在迈阿密举行的比特币2023会议上，他宣布其竞选团队接受比特币捐款，成为2024年美国总统竞选中第二位这样做的候选人。",
+          "link": "https://www.hellobtc.com/news/202308/21095.html",
+          "publishedOn": "2023-08-19T03:08:00.000Z",
+          "wordCount": 316,
+          "title": "马斯克支持加密友好的共和党总统候选人Vivek Ramaswamy",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202308/21094.html",
+          "author": null,
+          "description": "1.friend.tech宣布完成种子轮投资，Paradigm参投。\n\n2.CoinGecko：比特币挖矿最有利可图的前10个国家主要位于亚洲和非洲。\n\n3.自5月份以来，比特币Ordinals协议的交易量下降了97%以上。\n\n4.SBF希望每周出狱5天以准备辩护案件。\n\n5.NFT项目Cool Cats CEO宣布辞职。\n\n6.Messari：Maker的利润预期从8000万美元降至200万美元以下。\n\n7.Nansen：过去24小时内，约540万美元的BNB桥接至opBNB。\n\n8.friend.tech：已向4.4万名用户发放首批星期五积分空投，将在为期六个月的测试阶段分发1亿积分。\n\n9.Tether CTO：Tether将在今年年底前发布3款大型产品。\n\n10.Yuga Labs将取消对OpenSea SeaPort所有可升级合约和新系列的支持。\n\n11.MicroStrategy持有的比特币目前未实现亏损超6.2亿美元。\n\n12.SEC：Ripple裁决可能会对其他法庭案件产生“重大影响”。",
+          "link": "https://www.hellobtc.com/news/202308/21094.html",
+          "publishedOn": "2023-08-19T02:25:00.000Z",
+          "wordCount": 324,
+          "title": "白话区块链早报：friend.tech宣布完成种子轮投资，Paradigm参投",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202308/21093.html",
           "author": null,
           "description": "SpaceX 8月18日发布的比特币减记报告引发了加密社区的混乱。《华尔街日报》发表的这篇报道让许多人感到困惑，他们质疑SpaceX是否持有价值3.73亿美元的比特币，并在2021年至2022年期间出售，或者他们是否仅减少持有的比特币。 多家社交媒体报道称，SpaceX已出售其持有的全部BTC，而一些媒体则表示不确定，称他们无法根据报告的措辞确认具体金额。马斯克(Elon Musk)在2021年透露，SpaceX在其资产负债表上持有比特币，特斯拉也是如此。虽然特斯拉的比特币持有量被公开，但SpaceX的比特币持有量却没有任何估计，这是造成持续混乱的关键。特斯拉曾持有牛市期间购买的价值15亿美元的BTC，但透露其已在2022年第二季度出售了72%的持仓。",
@@ -264,56 +354,6 @@
           "publishedOn": "2023-08-17T03:04:00.000Z",
           "wordCount": 341,
           "title": "白话区块链早报：比特币30天波动率逼近五年新低",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21088.html",
-          "author": null,
-          "description": "1.Delphi Digital联创：一些链上指标和图表显示的信号可能暗示新的加密货币牛市周期的开始。\n\n2.数据：灰度GBTC负溢价率收窄为23.90%。\n\n3.Paradigm：去中心化的虚拟世界可以容纳数万亿资产。\n\n4.Vitalik Buterin取得中国台湾就业金卡资格。\n\n5.特朗普拥有近500万美元的以太坊，NFT许可费收入近490万美元。\n\n6.欧易OKX将于今日15:00上线Lybra Finance(LBR)交易。\n\n7.Starknet TVL突破两亿美元，7日涨幅达82.76%。\n\n8.dYdX 上线 dYdX Chain 公共测试网 2。",
-          "link": "https://www.hellobtc.com/news/202308/21088.html",
-          "publishedOn": "2023-08-16T02:37:00.000Z",
-          "wordCount": 329,
-          "title": "白话区块链早报：一些链上指标和图表显示的信号可能暗示新的加密货币牛市周期的开始",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21087.html",
-          "author": null,
-          "description": "稳定币发行商Circle宣布生态系统资助计划现已启动。",
-          "link": "https://www.hellobtc.com/news/202308/21087.html",
-          "publishedOn": "2023-08-15T13:27:00.000Z",
-          "wordCount": 308,
-          "title": "Circle宣布生态系统资助计划现已启动",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21086.html",
-          "author": null,
-          "description": "彭博分析师James Seyffart发推文称，欧洲已经有很多现货比特币ETP。称其为 首个欧洲现货比特币ETF 略有误导性，实际上只是监管套利的一种技术手段。",
-          "link": "https://www.hellobtc.com/news/202308/21086.html",
-          "publishedOn": "2023-08-15T13:27:00.000Z",
-          "wordCount": 313,
-          "title": "彭博分析师：欧洲已经有很多现货比特币ETP",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21085.html",
-          "author": null,
-          "description": "SkyBridge创始人Anthony Scaramucci在社交媒体发文表示，我们相信比特币 ETF 早就该推出了。我们致信美国证券交易委员会，与coinbase签署的监控共享协议已经充分解决了市场操纵的问题。",
-          "link": "https://www.hellobtc.com/news/202308/21085.html",
-          "publishedOn": "2023-08-15T13:27:00.000Z",
-          "wordCount": 314,
-          "title": "天桥资本创始人：比特币ETF早就该推出了",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202308/21084.html",
-          "author": null,
-          "description": "8月15日消息，香港投资推广署高级经理Terry表示，香港政府正在考虑做一条专为香港服务的公链，并表示如果该计划实现全球参与者都将可以使用这条公链。",
-          "link": "https://www.hellobtc.com/news/202308/21084.html",
-          "publishedOn": "2023-08-15T04:28:00.000Z",
-          "wordCount": 314,
-          "title": "香港投资推广署：香港政府考虑做专为香港服务的公链",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
