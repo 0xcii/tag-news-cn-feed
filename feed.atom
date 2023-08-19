@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-19T14:09:54.066Z</id>
+    <id>urn:2023-08-19T15:10:51.575Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-19T14:09:54.066Z</updated>
+    <updated>2023-08-19T15:10:51.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,17 @@
         <summary type="html"><![CDATA[OpenSea停止支持BNB智能链，用户将无法新上架BSC NFT。美国SEC就Ripple案裁决提交中间上诉动议。Tether首席技术官：正测试移动端应用Keet，可实现P2P语音通话等功能。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beosin：Harbor Protocol攻击者获取42,261枚LUNA等代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/0uo9j3ds.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0uo9j3ds.html"/>
+        <updated>2023-08-19T12:58:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月19日消息，Beosin Alert监测，Harbor Protocol在攻击中损失了42,261枚LUNA、1,533枚CMDX、1,571枚stOSMO和18,600万亿枚WMATIC。
+此前消息，Cosmos 生态跨链稳定币协议 Harbor Protocol 发推表示，过去几个小时内Harbor Protocol被利用，导致稳定币铸造和 stOSMO、LUNA 和 WMATIC 金库中的部分资金被耗尽。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -380,16 +391,6 @@
         <link href="https://panewslab.com/zh/articledetails/69s152xz.html"/>
         <updated>2023-08-19T00:11:21.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月19日消息，赵长鹏推特发文称，X在删除“屏蔽”功能之前，应先解决机器人和垃圾邮件问题。据此前消息，马斯克在推特宣布，X的“Block（屏蔽）”功能将被删除，但“DM（私信）”除外。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetronomeDAO发布Curve攻击事后分析报告，将继续谈判追回剩余资金]]></title>
-        <id>https://panewslab.com/zh/articledetails/yhhht6aq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/yhhht6aq.html"/>
-        <updated>2023-08-19T00:00:25.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月19日消息，MetronomeDAO发布了Curve攻击事件事后分析报告，称名为"c0ffeebabe"的MEV bot已收回大部分被盗资金并归还给了Metronome。回收的资金被注入新的Curve msETH-WETH池中，该池将完全分配给受影响的流动性提供者。有关如何重新分配这些资金的具体说明将很快公布。Metronome将继续谈判追回剩余的资金。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
