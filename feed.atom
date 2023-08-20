@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-20T04:14:22.081Z</id>
+    <id>urn:2023-08-20T05:10:38.023Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-20T04:14:22.081Z</updated>
+    <updated>2023-08-20T05:10:38.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Shibarium网络计划将于下周一重新向公众开放]]></title>
+        <id>https://panewslab.com/zh/articledetails/xik6qyka.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xik6qyka.html"/>
+        <updated>2023-08-20T04:17:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月20日消息，据官方消息，Shibarium发布最新进展，称目前正在加强安全措施并进行深度测试。Shibarium目前于内测模式下已经能正常生成区块。团队将继续进行扩展和测试，Shibarium网络计划将于下周一重新向公众开放。据此前消息，由于Shibarium上线后流量超出预期，导致网络进入故障安全模式，并停止运行以确保资金安全。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衍生品市场Thales：BNB Chain核心开发者钱包被盗，导致2.5万美元损失，用户资金未受影响]]></title>
+        <id>https://panewslab.com/zh/articledetails/o2w3sv9h.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o2w3sv9h.html"/>
+        <updated>2023-08-20T04:11:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月20日消息，衍生品市场Thales在推特发布公告，称其BNB Chain（BSC）核心开发者钱包被盗，许多管理员机器人或用于临时部署程序的热钱包可能遭受攻击。本次攻击导致协议损失2.5万美元，用户资金未受影响。由于这次攻击，将正式停止对BSC的支持。提醒用户勿与BNB Chain上任何Thalesmarket合约交互，并撤销相应授权。Optimism、Arbitrum、Polygon和Base等链上的所有资金安全。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾创始人余弦：BNB Chain存在0x751开头恶意合约地址，提醒用户做异常授权检查及取消]]></title>
+        <id>https://panewslab.com/zh/articledetails/hvqqhs6i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/hvqqhs6i.html"/>
+        <updated>2023-08-20T03:31:09.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月20日消息，慢雾创始人余弦推特发文，称近期有用户资产被莫名盗走。用户可检查是否在BNB Chain上向0x751开头的恶意合约地址授权资产，用Revoke.cash与Rabby Wallet 都可以快速做异常授权检查及取消。该恶意合约没开源验证，但反编译可以很容易分析出存在针对授权资产的任意转移后门，这种后门会导致资产被盗。
+该恶意合约地址为：0x75117c9158f53998ce8689B64509EFf4FA10AD80，与恶意合约有关的相关黑地址为：0xE2A178C2C5C4920C1b2B947A35edDb4f8EcBb7dD、0xB88457b62491CBcEc42203672cFcb4269bd64c7e。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PayPal新任总裁兼CEO将领导PayPal推出的稳定币]]></title>
         <id>https://www.hellobtc.com/news/202308/21102.html</id>

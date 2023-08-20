@@ -11,7 +11,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 177,
+          "wordCount": 175,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 158,
+          "wordCount": 174,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -139,6 +139,36 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/xik6qyka.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，据官方消息，Shibarium发布最新进展，称目前正在加强安全措施并进行深度测试。Shibarium目前于内测模式下已经能正常生成区块。团队将继续进行扩展和测试，Shibarium网络计划将于下周一重新向公众开放。据此前消息，由于Shibarium上线后流量超出预期，导致网络进入故障安全模式，并停止运行以确保资金安全。",
+          "link": "https://panewslab.com/zh/articledetails/xik6qyka.html",
+          "publishedOn": "2023-08-20T04:17:19.000Z",
+          "wordCount": 346,
+          "title": "Shibarium网络计划将于下周一重新向公众开放",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/o2w3sv9h.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，衍生品市场Thales在推特发布公告，称其BNB Chain（BSC）核心开发者钱包被盗，许多管理员机器人或用于临时部署程序的热钱包可能遭受攻击。本次攻击导致协议损失2.5万美元，用户资金未受影响。由于这次攻击，将正式停止对BSC的支持。提醒用户勿与BNB Chain上任何Thalesmarket合约交互，并撤销相应授权。Optimism、Arbitrum、Polygon和Base等链上的所有资金安全。",
+          "link": "https://panewslab.com/zh/articledetails/o2w3sv9h.html",
+          "publishedOn": "2023-08-20T04:11:43.000Z",
+          "wordCount": 356,
+          "title": "衍生品市场Thales：BNB Chain核心开发者钱包被盗，导致2.5万美元损失，用户资金未受影响",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/hvqqhs6i.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，慢雾创始人余弦推特发文，称近期有用户资产被莫名盗走。用户可检查是否在BNB Chain上向0x751开头的恶意合约地址授权资产，用Revoke.cash与Rabby Wallet 都可以快速做异常授权检查及取消。该恶意合约没开源验证，但反编译可以很容易分析出存在针对授权资产的任意转移后门，这种后门会导致资产被盗。\n该恶意合约地址为：0x75117c9158f53998ce8689B64509EFf4FA10AD80，与恶意合约有关的相关黑地址为：0xE2A178C2C5C4920C1b2B947A35edDb4f8EcBb7dD、0xB88457b62491CBcEc42203672cFcb4269bd64c7e。",
+          "link": "https://panewslab.com/zh/articledetails/hvqqhs6i.html",
+          "publishedOn": "2023-08-20T03:31:09.000Z",
+          "wordCount": 359,
+          "title": "慢雾创始人余弦：BNB Chain存在0x751开头恶意合约地址，提醒用户做异常授权检查及取消",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/cin2egmz.html",
           "author": "PA一线",
