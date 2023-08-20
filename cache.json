@@ -11,7 +11,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 157,
+          "wordCount": 174,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 174,
+          "wordCount": 162,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -139,6 +139,46 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/xtnpakql.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，安全机构慢雾在推特发文提醒：请用户检查是否已将资产授权到BNB Chain上的一恶意合约地址：0x75117c9158f53998ce8689B64509EFf4FA10AD80。\n该恶意合约尚未通过开源进行验证，但反编译显示其存在针对授权资产的任意转账后门。这种类型的后门让用户钱包在很长一段时间内保持正常使用，但当某天转移一笔金额稍大的资产时，它会突然被盗，而链上不会显示任何最近的异常授权。\n用户可使用Revoke.cash和Rabby Wallet进行快速验证并撤销异常授权。\n以下是与上述合约相关的恶意地址：\n0xE2A178C2C5C4920C1b2B947A35edDb4f8EcBb7dD\n0xB88457b62491CBcEc42203672cFcb4269d64c7e",
+          "link": "https://panewslab.com/zh/articledetails/xtnpakql.html",
+          "publishedOn": "2023-08-20T08:38:52.000Z",
+          "wordCount": 373,
+          "title": "安全机构：发现BNB Chain上一恶意合约地址，用户应撤销异常授权",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/99vr0k8z.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，币安公告称，将于2023年8月21日20:00（东八区时间）上线CYBER 1-20倍 U本位永续合约。",
+          "link": "https://panewslab.com/zh/articledetails/99vr0k8z.html",
+          "publishedOn": "2023-08-20T08:00:07.000Z",
+          "wordCount": 371,
+          "title": "币安将上线CYBER 1-20倍 U本位永续合约",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/72o3qjlq.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，区块链情报公司 TRM Labs 周五发布的一份报告显示，尽管今年尚未结束，但与朝鲜有关的黑客在 2023 年已经窃取了超过 2 亿美元的加密货币，占 2023 年所有被盗加密货币的 20% 以上。在过去的五年中，网络犯罪分子窃取了超过20亿美元的资金。\nTRM Labs表示，朝鲜黑客使用多种技术来洗白被盗资金，主要为跨链后使用混币器，然后通过交易所账户快速套现，这些交易所通常具有较低的KYC或反洗钱标准。在OFAC制裁Tornado Cash后，通常使用Sinbad进行混币。",
+          "link": "https://panewslab.com/zh/articledetails/72o3qjlq.html",
+          "publishedOn": "2023-08-20T07:52:44.000Z",
+          "wordCount": 403,
+          "title": "TRM Labs：朝鲜有关的黑客在今年已经窃取了超过2亿美元的加密货币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wtzf0f79.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，据彭博社援引知情人士透露，香港金管局前总裁任志刚已成为下一任香港证券交易所主席的主要候选人。知情人士称，此次讨论是在内部进行的，任志刚将在明年 4 月股东周年大会接替史美伦担任港交所及结算所有限公司主席。但下一任主席人选尚未最终确定。\n任志刚现年 74 岁，他一直是加密货币的批评者，公开反对政府对加密友好的政策议程，并表示不会购买任何”甚至没有资产负债表“的数字资产，他将加密货币交易比作在赌场赌博。",
+          "link": "https://panewslab.com/zh/articledetails/wtzf0f79.html",
+          "publishedOn": "2023-08-20T07:39:07.000Z",
+          "wordCount": 367,
+          "title": "香港金管局前总裁任志刚或接任港交所主席，曾公开反对港府加密友好政策",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/zos631z3.html",
           "author": "PA一线",
