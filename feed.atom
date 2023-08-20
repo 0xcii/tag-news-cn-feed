@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-20T15:10:52.619Z</id>
+    <id>urn:2023-08-20T16:14:20.393Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-20T15:10:52.619Z</updated>
+    <updated>2023-08-20T16:14:20.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[黄立成地址花费38枚WETH买入BAYC #9770]]></title>
+        <id>https://panewslab.com/zh/articledetails/zbygfoqn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zbygfoqn.html"/>
+        <updated>2023-08-20T13:25:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月20日消息，OpenSea数据显示，1小时前，黄立成地址花费38枚WETH买入BAYC #9770。此外BAYC的地板价今日一度跌破24ETH，创下今年来的新低点。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海普陀区发布“元十条”，“人财物”一体化专项政策精准服务元宇宙企业]]></title>
         <id>https://www.hellobtc.com/news/202308/21104.html</id>
@@ -263,17 +273,6 @@ TRM Labs表示，朝鲜黑客使用多种技术来洗白被盗资金，主要为
         <link href="https://panewslab.com/zh/articledetails/ixul5yht.html"/>
         <updated>2023-08-19T23:45:13.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月20日消息，Curve发布禁用crvUSD价格预言机Chainlink限制的提案。提案称，目前Chainlink对所有crvUSD价格预言机都实施+/- 1.5% 的“安全限制”。这意味着，如果Chainlink价格与内部预言机价格 (EMA) 偏差太大（1.5%），它将使用 Chainlink的来源。当市场波动很大时，Chainlink价格会造成不必要的损失。如果波动足够高，使用Chainlink限制的价格预言机仍然可能会出现偏差。 因此建议在所有市场的价格预言机合约中禁用Chainlink限制，旧的frxeth市场除外（很快就会被新的市场取代）。具体做法是在ControllerFactory 所有者（所有权 DAO）的所有价格预言机合约中调用set_use_chainlink(False)。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知情人士：美国SEC或将同时批准多项以太坊期货ETF申请]]></title>
-        <id>https://panewslab.com/zh/articledetails/c94m3wuw.html</id>
-        <link href="https://panewslab.com/zh/articledetails/c94m3wuw.html"/>
-        <updated>2023-08-19T23:35:09.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月20日消息，据华尔街日报援引知情人士消息称，美国证券交易委员会（SEC）可能会同时批准多项以太坊期货ETF申请。 自7月以来，SEC已收到多家投资公司的申请，其中包括将比特币 (BTC) 和以太坊策略结合的申请。 截至目前，SEC尚未指示这些公司撤回申请，这不同于2021年各公司被指示撤回类似申请。消息人士称，这表明SEC不会在几周内阻止此类基金的推出。
-此前，彭博社报道称，SEC计划批准以太坊期货ETF，或将于10月前上市。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
