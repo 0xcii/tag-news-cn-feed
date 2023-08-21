@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-21T11:10:15.884Z</id>
+    <id>urn:2023-08-21T12:24:17.098Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-21T11:10:15.884Z</updated>
+    <updated>2023-08-21T12:24:17.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[派盾：BNB Bridge黑客的头寸已被清算约689万枚vBNB]]></title>
+        <id>https://panewslab.com/zh/articledetails/90gqlmsw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/90gqlmsw.html"/>
+        <updated>2023-08-21T12:14:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月21日消息，据派盾监测，BNB Bridge 黑客的头寸已被清算约 689 万枚 vBNB 。清算人已偿还 3000 万枚 USDT 。
+此前消息，随着 BNB 价格跌破 210 美元，BNB Bridge 黑客在 Venus 上的借贷健康系数为 0.99。Venus社区已通过一项治理提案，将之前BNB Bridge黑客的仓位清算列入白名单。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肯尼亚成立议会委员会调查Worldcoin]]></title>
+        <id>https://panewslab.com/zh/articledetails/l9l49b08.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l9l49b08.html"/>
+        <updated>2023-08-21T11:57:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月21日消息，据肯尼亚当地媒体报道，肯尼亚政府成立了一个由 15 名成员组成的议会委员会，由 Narok West 议员 Gabriel Tongoyo 领导，以调查加密项目 Worldcoin。议会委员会有42天的时间调查该项目并向众议院委员会提交报告。此前，肯尼亚因 Worldcoin 未能遵守政府停止扫描用户虹膜的命令而暂停了 Worldcoin 的运营。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spot on Chain：friend.tech存在API数据泄露，以及无邀请码即可从合约交易份额的问题]]></title>
+        <id>https://panewslab.com/zh/articledetails/hm36y0wz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/hm36y0wz.html"/>
+        <updated>2023-08-21T11:41:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月21日消息，据 Spot on Chain 监测，friend.tech 存在 API 数据泄露，以及在无邀请码的情况下，即可从合约交易份额的问题。用户可以通过链接元掩码直接在 etherscan 上进行买卖。此外，可以通过该 API 查看 FriendTech 生成的钱包：https://prod-api.kosetto.com/users/0x317931c6b64f6058f688c7d62e84e1491a319dff… 只需将“0x317931c6b64f6058f688c7d62e84e1491a319dff”替换为在合约上看到的地址即可。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派盾：BNB Bridge黑客在Venus上的借贷健康系数为0.99]]></title>
+        <id>https://panewslab.com/zh/articledetails/zx71lvg2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zx71lvg2.html"/>
+        <updated>2023-08-21T11:12:01.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月21日消息，据派盾预警监测，随着 BNB 价格跌破 210 美元，BNB Bridge 黑客在 Venus 上的借贷健康系数为 0.99。Venus社区已通过一项治理提案，将之前BNB Bridge黑客的仓位清算列入白名单。
+此前消息，Arkham在推特发文称，BNB Chain最近开始清算BNB Bridge黑客的账户。去年，BNB Bridge黑客利用漏洞从BNB Chain的Token Hub盗取了200万枚BNB代币。黑客没有出售资产，而是向Venus Protocol存入了90万BNB，借出近1.5亿美元的稳定币。 自2022年10月以来，该黑客将这一头寸保留了近一年，并未与Venus合约交互。在清算之前，他们的账户在Venus仍持有2.041亿美元的BNB。因此，BNB Chain核心团队向Venus管理部门提议，由他们接管黑客的债务。Arkham表示，BNB Chain团队此前向BNB Bridge黑客清算账户转入6000万美元，由于周四BNB价格首次跌破220美元，导致该仓位进入清算状态。团队通过三笔单独交易清算了3000万美元债务，从而获得了14.615万枚被盗BNB。当前清算账户余额3000万美元，用于清偿更多债务，债务总额仍超过1.24亿美元。BNB价格降至211美元时团队将再次进行清算。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mandala Capital从Radiant Capital中提取360万枚ARB并全部转入OKX]]></title>
         <id>https://panewslab.com/zh/articledetails/ph61foys.html</id>
@@ -22,17 +64,6 @@
         <link href="https://panewslab.com/zh/articledetails/4ul90a4a.html"/>
         <updated>2023-08-21T10:04:53.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月21日消息，0xScope Protocol 监测，过去一个月里，与 Huobi 相关的地址通过 Abyss Finance 质押了 2.68 亿美元的 ETH，其中主要来自 Huobi 用户和孙宇晨，占同期以太坊质押总额的 7.8%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：约6854万枚USDT从已宣告停运的Hotbit转至Deepcoin]]></title>
-        <id>https://panewslab.com/zh/articledetails/df2f0m5n.html</id>
-        <link href="https://panewslab.com/zh/articledetails/df2f0m5n.html"/>
-        <updated>2023-08-21T09:54:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月21日消息，Whale Alert监测，68,540,472枚USDT从Hotbit转至Deepcoin。
-此前消息，加密交易平台Hotbit发公告称，该平台于北京时间5月22日12:00开始停止所有CEX操作，所有用户需在6月21日12:00之前提取剩余资产。Hotbit称上述决定基于经营状况恶化、加密行业趋势的变化、以及发现支持多元化资产的运营模式是不可持续的。此前去年8月消息，Hotbit发公告称，自7月底以来Hotbit多位高级管理人员已被执法部门传唤，并宣布暂停充提及交易功能。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -276,39 +307,6 @@ Dune Analytics数据支持了这一趋势，显示8月20日有超过400,000个Or
         <updated>2023-08-21T05:15:02.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月21日消息，据派盾监测，标记为Cream Finance闪电贷攻击者的地址在过去的两日内将约100万枚DAI兑换成596.34枚ETH，并将其中594.75枚ETH转移到交易所TradeOgre。
 该地址目前持有价值758万美元的加密货币，其中包括4,163.8枚ETH和大约60.42万枚DAI。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empowered Funds申请推出三只比特币期货ETF，名称中将使用Ark与21Shares品牌]]></title>
-        <id>https://panewslab.com/zh/articledetails/98t62dop.html</id>
-        <link href="https://panewslab.com/zh/articledetails/98t62dop.html"/>
-        <updated>2023-08-21T05:09:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月21日消息，据英国《金融时报》报道，Empowered Funds已申请推出三只比特币期货ETF，基金名称将使用Ark Invest和21Shares品牌，分别是Ark 21Shares活跃比特币期货ETF、Ark 21Shares活跃链上比特币策略ETF以及Ark 21Shares数字资产与区块链策略ETF。其中Ark 21Shares活跃比特币期货ETF将主要投资于在芝加哥商品交易所交易的比特币期货，并将作为另外两只比特币相关ETF的基础ETF。
-Ark 21Shares活跃链上比特币策略ETF将把至少25%的资产投资于数字资产和区块链策略ETF。链上ETF将使用专有的趋势指标模型来调整其配置策略，具体取决于比特币市场涨跌趋势。在看涨条件下，ETF可将其100%的资产投资于相关ETF。在看跌情况下，该基金将把最多75%的资产投资于美国国债、货币市场工具和回购协议。根据模型的趋势评估，ETF的投资团队将调整基金对比特币期货的投资。Ark 21Shares数字资产与区块链策略ETF将投资于基础 ETF，以及“提供数字资产投资以及从事区块链、数字资产、技术和金融科技行业的公司的投资”。该ETF最多可将80%的资产分配给比特币期货ETF或其他资产，并可将最多20%的资产投资于现金或现金等价物（例如国债）以及房地产投资信托。
-Empowered是Alpha Architect的子公司，以EA Advisers的名义开展业务，将担任该基金的顾问，Ark Invest和21Shares则分别担任副顾问和副副顾问，21Shares联合创始人兼总裁Ophelia Snyder将担任这些基金的投资组合经理。根据Morningstar Direct的数据，截至7月31日，Empowered Funds的母公司Alpha Architect提供了15只ETF，总资产达19亿美元。截至该日期的一年内，投资者已向这些基金投入了7.17亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安发布关于进行旧代币KNCL、ANTOLD和XDATA置换的公告]]></title>
-        <id>https://panewslab.com/zh/articledetails/uvj4x1pk.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uvj4x1pk.html"/>
-        <updated>2023-08-21T04:58:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月21日消息，据官方公告，币安将为在现货钱包中仍持有以下旧代币且符合资格的用户，进行置换。这些经过主网置换、重新命名或币种合并的旧代币，已不再适用于在币安交易。KNCL将与KNC、ANTOLD将与ANT、XDATA将与DATA分别以1:1的比例进行置换。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta计划最早于本周推出开源AI编程软件Code Llama]]></title>
-        <id>https://panewslab.com/zh/articledetails/0z9lzlnu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0z9lzlnu.html"/>
-        <updated>2023-08-21T04:02:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月21日消息，据CNBC报道，Meta计划于最早于本周推出开源AI软件Code Llama，旨在帮助开发人员自动生成编程代码。这款开创性的产品将挑战OpenAI和Google等科技巨头的专有软件。
-此外，Meta还在开发名为CodeCompose的AI辅助代码编写工具。该工具已经扩展到Meta的数万名开发人员，涵盖多种编程语言和编码界面。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
