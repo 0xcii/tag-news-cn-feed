@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-24T12:24:06.897Z</id>
+    <id>urn:2023-08-24T13:15:28.786Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-24T12:24:06.897Z</updated>
+    <updated>2023-08-24T13:15:28.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Adam Cochran：为什么 Coinbase的L2不会违反美国法律]]></title>
+        <id>https://www.web3sj.com/?p=85837</id>
+        <link href="https://www.web3sj.com/news/85837/"/>
+        <updated>2023-08-24T13:12:35.000Z</updated>
+        <summary type="html"><![CDATA[ChainArgos 的这一观点是一种不诚实的法律论据，而且技术知识匮乏，试图向 L2 出售更多它们根本不需要的链上风险监控 / 报告软件。归根结底，ChainArgos 要么是恶意解释，要么是对区块链中「托管」的含义或 L2 的实际含义缺乏技术理解。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于friend.tech的创业思考：看好Web3粉丝经济出现破圈应用]]></title>
         <id>https://www.web3sj.com/?p=85834</id>
@@ -337,16 +347,6 @@ FTX 希望其加密货币储备的利息能够增加其可以分发给仍在等�
         <link href="https://www.web3sj.com/project/85738/"/>
         <updated>2023-08-24T05:07:32.000Z</updated>
         <summary type="html"><![CDATA[邀请机制是个很有意思的东西，在不同的情况下发挥不同程度的作用；如果产品处在爆发阶段前夕，邀请机制是最好的助推剂。因为每一个问「家人们有 xxx 的邀请码吗？」的发言，都相当于免费帮项目在一个 500 人微信群 /5000 人电报群 /50000 粉 KOL 等免费曝光一次。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点以太坊L2赛道的五大领跑者]]></title>
-        <id>https://www.web3sj.com/?p=85730</id>
-        <link href="https://www.web3sj.com/news/85730/"/>
-        <updated>2023-08-24T05:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik（V 神）提供了一个非常优秀的框架来帮助 rollup 用户了解他们对中心化参与者或透明代码的信任程度。rollup 安全性的最终目标是达到第 2 阶段（Stage 2）里程碑，也就是需要完全摆脱 Vitalik 文献中提到的「辅助轮」（training wheels）–下面的 L2Beat 图很好地概括了这一点。]]></summary>
         <author>
             <name>Gao</name>
         </author>
