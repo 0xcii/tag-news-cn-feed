@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T06:16:04.860Z</id>
+    <id>urn:2023-08-25T07:11:41.910Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-25T06:16:04.860Z</updated>
+    <updated>2023-08-25T07:11:41.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ripple登《人物》杂志榜单，跻身关爱员工百强企业行列]]></title>
+        <id>https://www.web3sj.com/?p=85953</id>
+        <link href="https://www.web3sj.com/news/85953/"/>
+        <updated>2023-08-25T06:51:37.000Z</updated>
+        <summary type="html"><![CDATA[8 月 23 日，该公司与其关注者分享了这一令人兴奋的消息，并感谢其员工通过 Ripple Impact 项目为社会提供的无尽帮助。这些项目旨在帮助更多的人获得金融服务、开展研究和保护环境。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从Bullish和Bearish两个方面分析分析THORChain协议]]></title>
+        <id>https://www.web3sj.com/?p=85948</id>
+        <link href="https://www.web3sj.com/definews/85948/"/>
+        <updated>2023-08-25T06:49:23.000Z</updated>
+        <summary type="html"><![CDATA[第一个更新是「流式交换 Streaming Swap」，简单理解就是通过将大订单分割为小订单的方式来执行跨链，用户的交换体验（价格）更友好——滑点小。这个功能其实对币价的影响并不直接，中间会有一个数据上升带来的传导过程。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密做市商到底有没有「操纵市场」？]]></title>
+        <id>https://www.web3sj.com/?p=85945</id>
+        <link href="https://www.web3sj.com/news/85945/"/>
+        <updated>2023-08-25T06:26:29.000Z</updated>
+        <summary type="html"><![CDATA[想理解做市商，需要先了解流动性的概念。如果一项资产可以被全额快速出售，我们就可以说它的流动性好。相反，如果一项资产只能折价，或者需要花费大量的时间才能出售，就是缺乏流动性。它描述了市场中买家和卖家能够以相对容易、迅速、低成本地进行买卖的程度。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币8月暴跌背后：杠杆清算导致多头压力]]></title>
         <id>https://www.web3sj.com/?p=85935</id>
@@ -13,6 +43,40 @@
         <summary type="html"><![CDATA[根据 Coinbase 的数据，比特币的价格从 8 月 17 日的开盘价下跌了 8.8%，最低触及 $25,244。此次下跌导致 BTCUSD 跌破 200 天和 200 周移动均线。在该事件发生期间及之后，永续期货市场的未平仓合约减少了约 27.5 亿美元，这是自 2022 年 11 月初 FTX 崩溃以来最大的一次比特币去杠杆事件。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta已开源文本生成代码AI编程模型Code Llama]]></title>
+        <id>https://panewslab.com/zh/articledetails/411z4pjn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/411z4pjn.html"/>
+        <updated>2023-08-25T06:14:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，Meta在官网正式开源了文本生成代码AI编程模型Code Llama。Code Llama模型通过特定代码数据预训练、微调而成，支持文本或代码生成、调试和完成任务。
+据悉，Code Llama是基于Meta最强开源大语言模型Llama2开发而成，提供了70亿、130亿、340亿三种参数模型，支持Python、C++、Java、PHP、Typescript（JavaScript）、C#和Bash等主流编程语言。Code Llama在代码任务上的表现优于目前所有开源代码模型，并支持商业化使用。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李开复成立AI公司“零一万物” ，注册资本为1亿元]]></title>
+        <id>https://panewslab.com/zh/articledetails/n1xum3nk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/n1xum3nk.html"/>
+        <updated>2023-08-25T06:10:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据金十报道，企查查App显示，近日，北京零一万物信息技术有限公司成立，法定代表人为李开复，注册资本1亿元人民币，经营范围包含：人工智能双创服务平台、人工智能理论与算法软件开发、人工智能硬件销售等。企查查股权穿透显示该公司由零一万物（香港）有限公司100% 持股。
+此前3月消息，创新工场董事长兼首席执行官李开复披露，其正在筹办全球化AI新公司Project AI 2.0，目标“不仅仅要做中文版ChatGPT”，希望在全球范围内“招贤纳士”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除FTX外，BlockFi索赔人数据亦在Kroll攻击事件中遭到泄露]]></title>
+        <id>https://panewslab.com/zh/articledetails/7ama91ef.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7ama91ef.html"/>
+        <updated>2023-08-25T05:58:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，BlockFi今日在X平台上发布一份声明，已了解到其第三方供应商、索赔管理平台Skroll发生了数据事件，Kroll证实一未经授权的第三方获得了Kroll平台上的某些BlockFi客户数据，BlockFi的内部系统和客户资金没有受到影响，还可以确认BlockFi帐户密码从未存储在Kroll的平台上。
+BlockFi还表示：“类似的事件最近也影响了其他破产的加密平台。在接下来的几个星期里，你应该会看到网络钓鱼和垃圾电话的增加。BlockFi和Kroll永远不会打电话、发电子邮件或发短信问你的个人信息。你应该直接访问我们的网站，不要点击电子邮件中的链接来登录。我们正在迅速对事实进行全面审查，更多信息将通过电子邮件发送给所有受影响的客户。”
+今日早些时候消息，FTX的破产索赔代理Kroll被攻击，部分索赔人的非敏感客户数据遭泄露。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -26,6 +90,63 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Magnate Finance通过预言机操纵进行Rug Pull，损失约650万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/8anopg2b.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8anopg2b.html"/>
+        <updated>2023-08-25T05:49:13.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，派盾发布Magnate Finance事件更新，称Magnate Finance通过直接操纵价格预言机进行了Rug Pull，损失约650万美元。
+此前消息，链上侦探ZachXBT表示，Magnate Finance部署者地址与退出骗局Solfire、Kokomo Finance均有关联。Magnate Finance的网站和社交平台目前无法正常访问，其Telegram群组已被删除。
+更新：Magnate Finance诈骗者已将超过134万DAI转移到0x0664开头新地址。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派盾：Magnate Finance部署者已修改预言机提供者并移除所有资产]]></title>
+        <id>https://panewslab.com/zh/articledetails/8ckmw33x.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8ckmw33x.html"/>
+        <updated>2023-08-25T05:41:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据派盾预警监测，Base链上退出骗局Magnate Finance的TVL已下降约640万美元，部署者修改了价格预言机的提供者并移除了所有资产。
+此前消息，链上侦探ZachXBT表示，Magnate Finance部署者地址与退出骗局Solfire、Kokomo Finance均有关联。Magnate Finance的网站和社交平台目前无法正常访问，其Telegram群组已被删除。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线存储平台Dropbox取消无限存储计划，因发现其服务被用于加密挖矿等目的]]></title>
+        <id>https://panewslab.com/zh/articledetails/se1bb39p.html</id>
+        <link href="https://panewslab.com/zh/articledetails/se1bb39p.html"/>
+        <updated>2023-08-25T05:29:00.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据Cointelegraph报道，在线存储平台Dropbox在发现一些用户将该服务用于加密挖矿等资源密集型目的后，取消了其无限存储计划，并将其改为计量存储计划。
+在8月24日的一篇博客文章中，Dropbox表示，最近几个月它发现一些用户消耗的存储空间“比真正商业客户多数千倍”，越来越多的客户购买高级存储，但不是为了经营企业或组织，而是为了加密货币挖矿等目的。其他高资源用途包括转售其存储空间或多人共享存储空间供个人使用。该公司表示，它理解此举“令人失望”，但补充说，执行一系列不可接受的用例是不可持续的，也很困难。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnate Finance网站无法访问，Telegram群组已被删除]]></title>
+        <id>https://panewslab.com/zh/articledetails/jtgwa14a.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jtgwa14a.html"/>
+        <updated>2023-08-25T05:16:49.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，链上侦探ZachXBT在X平台表示，Base生态借贷协议Magnate Finance的网站和社交平台目前无法正常访问。其Telegram群组已被删除。ZachXBT还表示，部署者链上地址也与Kokomo Finance退出骗局有联系。
+DeFiLlama数据显示，Magnate Finance当前TVL为537万美元。
+此前消息，Magnate Finance部署者地址与Solfire退出骗局有关联。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Num Finance在Polygon链上推出哥伦比亚比索稳定币nCOP]]></title>
+        <id>https://panewslab.com/zh/articledetails/7fjpc9w7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7fjpc9w7.html"/>
+        <updated>2023-08-25T05:12:52.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据CoinDesk报道，稳定币发行商Num Finance在Polygon网络上推出与哥伦比亚比索挂钩的稳定币nCOP。nCOP由储备资产超额抵押，允许个人和企业进行链上转账、支付等。
+Num Finance首席执行官Agustín Liserra表示，目前哥伦比亚是拉丁美洲的主要汇款接收国之一，流入该国的资金接近100亿美元，Num Finance让人们以汇款方式发送和接收nCOP并从中获得收益。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一文解读加密世界的「任天堂」TreasureDAO]]></title>
         <id>https://www.web3sj.com/?p=85917</id>
         <link href="https://www.web3sj.com/gamefinews/85917/"/>
@@ -33,6 +154,18 @@
         <summary type="html"><![CDATA[Treasure DAO（简称 Treasure）是 Arbitrum 上原生的元宇宙游戏生态系统，旨在通过其生态通证 MAGIC 将游戏和玩家聚集在一起。Treasure 最开始是 Loot 生态上的一个 NFT 项目，后独立成为一个共享资源、社区和基础设施的去中心化游戏生态系统。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件压缩软件WinRAR修复一针对股票和加密货币交易者的零日漏洞]]></title>
+        <id>https://panewslab.com/zh/articledetails/f87ow76m.html</id>
+        <link href="https://panewslab.com/zh/articledetails/f87ow76m.html"/>
+        <updated>2023-08-25T05:07:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据Cointelegraph报道，文件压缩软件WinRAR的开发人员已经修复了一个零日漏洞“CVE-2023-38831”，并且已被利用大约四个月，该漏洞允许黑客将恶意软件安装到受害者的计算机上，从而使侵入他们的加密货币和股票交易账户。
+利用该漏洞，攻击者能够创建恶意RAR和ZIP存档，例如JPG图像或PDF文本文档。然后，含病毒的ZIP存档被分发到针对加密交易者的交易论坛上，提供诸如“比特币交易的最佳个人策略”之类的策略。执行时，该脚本会启动一个自解压 (SFX) 存档，该存档会用各种恶意软件病毒（例如DarkMe、GuLoader和Remcos RAT）感染目标计算机。该报告证实，恶意档案已进入至少8个公共交易论坛，感染至少130台设备，但受害者的经济损失未知。
+此前8月22日消息，慢雾表示，WinRAR存在远程代码执行漏洞CVE-2023-40477，加密用户需注意升级。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -221,149 +354,11 @@ PAULY曾帮助PEPE团队与币安上币团队和Sushi团队成员取得联系。
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：一PEPE早期买家抛售9320亿枚PEPE，获得524枚ETH]]></title>
-        <id>https://panewslab.com/zh/articledetails/8awmt15e.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8awmt15e.html"/>
-        <updated>2023-08-25T02:01:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据Lookonchain监测，在PEPE团队向交易所存入16万枚亿枚PEPE后，另一位PEPE早期买家也抛售了9320亿枚PEPE，获得524枚ETH（约合87万美元）。
-此前今日早些时候消息，在PEPE团队将PEPE转入CEX后，一个PEPE极早期买入地址也随即清仓1.88万亿枚PEPE。
-相关阅读：PEPE大跌16%，背后“创始人”遭曝光：97年摄影师，用卖币的钱购买了兰博基尼]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国缉毒局意外将约5万美元扣押的加密货币转给诈骗者]]></title>
-        <id>https://panewslab.com/zh/articledetails/ctxb1dxt.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ctxb1dxt.html"/>
-        <updated>2023-08-25T01:55:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据福布斯报道，今年早些时候，美国缉毒局被一起常见的加密货币骗局所欺骗，导致该机构在对使用数字货币洗钱的可疑毒品收益进行为期三年的调查期间，损失了超过5万美元的数字货币。
-《福布斯》查阅的搜查令显示，今年5月，美国缉毒局从两个涉嫌转移非法毒品收益的币安账户中查获了价值50多万美元的USDT，并将其存放在放置于安全设施中的Trezor硬件钱包。与此同时，一名骗子注意到缉毒局向法警局发送了45.36美元的USDT测试金额，作为标准没收处理的一部分。骗子迅速设置了一个加密货币地址，该地址与Marshals账户的前五个和最后四个字符相匹配。骗子把假地址“空投”到缉毒局的账户里，在DEA的账户里放了一个代币，这样看起来就像给法警的测试付款一样。缉毒局通过复制粘贴加密地址将超5万美元的数字货币发送到了假地址，事后缉毒局联系Tether运营商冻结虚假账户，但Tether表示这笔钱已被花光。目前调查人员尚未确定该诈骗钱包的用户身份。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitfinex在土耳其通过与当地银行巨头Vakıfbank合作提供零成本存款]]></title>
-        <id>https://panewslab.com/zh/articledetails/a4uwchf1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/a4uwchf1.html"/>
-        <updated>2023-08-25T01:33:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据The Block报道，加密交易所Bitfinex宣布，由于与土耳其第二大银行Vakıfbank合作，土耳其用户可以免费将土耳其里拉直接存入他们的账户。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：某PEPE早期买入地址于3小时前清仓1.88万亿枚PEPE，约合167万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/j3n0q1pr.html</id>
-        <link href="https://panewslab.com/zh/articledetails/j3n0q1pr.html"/>
-        <updated>2023-08-25T01:26:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据链上分析师余烬监测，在PEPE团队将PEPE转入CEX后，一个PEPE极早期买入地址也随即清仓1.88万亿枚PEPE。
-该地址曾于4月15日以0.03 ETH(约60美元) 买入2.43万亿枚PEPE，5至7月，分批卖出5547亿 枚PEPE(约67万美元)，3小时前，卖出剩余的1.88万亿枚PEPE(约合167万美元)。
-相关阅读：PEPE大跌16%，背后“创始人”遭曝光：97年摄影师，用卖币的钱购买了兰博基尼]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[friend.tech：现支持用户向其Key持有者发送照片]]></title>
-        <id>https://panewslab.com/zh/articledetails/3p38wxxi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3p38wxxi.html"/>
-        <updated>2023-08-25T01:22:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，去中心化社交协议friend.tech在C平台上表示，现支持用户向其Key持有者发送照片。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨夜今晨重要资讯（8月24日-8月25日）]]></title>
-        <id>https://panewslab.com/zh/articledetails/gjc9fn5q.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gjc9fn5q.html"/>
-        <updated>2023-08-25T01:18:31.000Z</updated>
-        <summary type="html"><![CDATA[1.Coinbase将PayPal USD (PYUSD)列入上币路线图
-Coinbase Assets发推表示，已PayPal USD (PYUSD)列入上币路线图，PayPal USD (PYUSD) 的以太坊网络（ERC-20代币）合约地址为 0x6c3ea9036406852006290770bedfcaba0e23a0e8。
-2.Visa停止在欧洲发行新的币安卡，万事达卡将终止与币安在四个国家的加密卡合作
-PANews 8月25日消息，据彭博社报道，币安发言人表示，Visa自7月起停止在欧洲发行与币安的新联名卡。与此同时，万事达卡将于9月份完全终止与币安的信用卡合作关系。万事达卡拒绝透露此举的原因。Visa没有回应置评请求。
-对于今天早些时候“万事达卡和加密交易所币安将于9月22日结束在阿根廷、巴西、哥伦比亚和巴林的四个加密卡项目”的报道。币安在X平台上发帖表示，拉丁美洲和中东地区不到1%的用户会受到这一决定的影响，全球币安账户不受影响。万事达卡表示，这对任何其他加密卡计划都没有影响。该公司表示，缓冲期将允许持卡人转换其币安钱包中的任何资产。
-3.港股上市公司胜利证券推出虚拟资产交易应用程序“VICSEC”
-PANews 8月25日消息，据信报报道，港股上市公司胜利证券(08540.HK)推出虚拟资产交易应用程序(App:VICSEC)，现已正式上线并可于Google Play商店及APK下载。该公司表示，该APP首阶段可让专业投资者率先体验由持牌机构提供的虚拟资产交易平台所带来的安全和便利，未来将会有更多功能以及证券交易一体化的可能性。
-执行董事陈沛泉表示，公司推出第一款虚拟资产交易App，让比特币等多种主流的加密货币交易不受时间或地域限制。期望在不久的将来还能为零售投资者推出合规的虚拟资产交易，并将在虚拟资产领域中发挥应有作用。
-此前3月份消息，胜利证券获香港…]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港金管局：未来将不时发行代币化绿债，短期不面向零售用户]]></title>
-        <id>https://panewslab.com/zh/articledetails/n4mtdoq9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n4mtdoq9.html"/>
-        <updated>2023-08-25T01:18:08.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据信报报道，香港金管局助理总裁(外事)许怀志表示，未来将会不时发行代币化绿债，由于发行额较小，令部分投资者造成不便，因此会调整发行额，至于零售则是终极目标，但由于个人投资者难以接入区块链技术，加上是否有足够需求等考虑，所以短期内难以发行。
-对于上一次代币化绿债发行，交收时间为T+1，较传统发行的T+5快，许怀志解释称，因为所有系统都认可区块链内的细节，事实上交收时间可更快，但由于技术仍新，暂时发行会维持T+1，为潜在出错风险，提供24小时的缓冲。未来研究方向上，许怀志称，会检视是否可用相同技术，发行在交易所公开上市的债券，亦会研究在公共和私营平台的代币化债券，跨平台交易的可行性。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash联创Roman Storm已获保释]]></title>
-        <id>https://panewslab.com/zh/articledetails/jta0wdt1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/jta0wdt1.html"/>
-        <updated>2023-08-25T00:59:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，Tornado Cash联合创始人Roman Storm的律师Brian Klein在X平台上表示：“我的客户Roman Storm已经获得保释，尽管我仍然对检察官因他帮助开发软件而指控他感到非常失望。他们新颖的法律理论对所有软件开发人员都有危险的影响。”
-此前昨日消息，美国司法部指控Tornado Cash创始人Roman Storm和Roman Semenov串谋洗钱、违反制裁规定并经营无牌汇款业务。Roman Storm已在华盛顿州被捕，Roman Semenov已被列入美国财政部OFAC特别调查名单。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEPE多签钱包阈值降为2/8且16万枚亿枚PEPE被转至CEX，PEPE 24小时跌幅达16%]]></title>
-        <id>https://panewslab.com/zh/articledetails/q888w780.html</id>
-        <link href="https://panewslab.com/zh/articledetails/q888w780.html"/>
-        <updated>2023-08-25T00:53:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据链上分析师余烬监测，PEPE团队多签地址在3小时前将16万枚亿枚PEPE(约合1508万美元) 转入4个CEX，其中8.5万亿枚PEPE(约合799万美元)转入OKX；6.7万亿枚PEPE(约合629万美元)转入Binance；4451亿枚PEPE(约合41万美元)转入Bybit；4000亿枚PEPE(约合37万美元)转入Kcoin。
-此外，链上侦探CryptoNoddy发现，PEPE多重签名钱包将阈值从5/8更改为仅2/8，这意味着它不再要求8个钱包中的5个来签署交易，而是改为只需要8个钱包中的2个。
-Coingecko数据显示，PEPE价格24小时跌幅已扩大至16%。
-相关阅读：PEPE大跌16%，背后“创始人”遭曝光：97年摄影师，用卖币的钱购买了兰博基尼]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adam Cochran：为什么 Coinbase的L2不会违反美国法律]]></title>
         <id>https://www.web3sj.com/?p=85837</id>
         <link href="https://www.web3sj.com/news/85837/"/>
         <updated>2023-08-24T13:12:35.000Z</updated>
         <summary type="html"><![CDATA[ChainArgos 的这一观点是一种不诚实的法律论据，而且技术知识匮乏，试图向 L2 出售更多它们根本不需要的链上风险监控 / 报告软件。归根结底，ChainArgos 要么是恶意解释，要么是对区块链中「托管」的含义或 L2 的实际含义缺乏技术理解。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于friend.tech的创业思考：看好Web3粉丝经济出现破圈应用]]></title>
-        <id>https://www.web3sj.com/?p=85834</id>
-        <link href="https://www.web3sj.com/news/85834/"/>
-        <updated>2023-08-24T12:23:20.000Z</updated>
-        <summary type="html"><![CDATA[首先，Friend.tech 是社交行业里面非常适合加密市场的赛道：粉丝经济。虽然它的 slogan 是「Your network is your net worth」，看起来更像是面向普通用户，但是无论是其商业模式还是推广方式，粉丝经济都是它起来的立足点，因此我更愿意说他是一个粉丝经济平台。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-8.24）]]></title>
-        <id>https://www.web3sj.com/?p=85827</id>
-        <link href="https://www.web3sj.com/news/85827/"/>
-        <updated>2023-08-24T11:29:01.000Z</updated>
-        <summary type="html"><![CDATA[英伟达二季度收入环比增长88%超预期，AI相关代币普涨。BNB Greenfield测试网将于8月31日升级至v0.2.4，并发起针对Greenfield需求建议书。MakerDAO增加5000万美元RWA资产，目前RWA资产总计25.37亿美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人人都可当数据科学家，解读Dune的崛起之路]]></title>
-        <id>https://www.web3sj.com/?p=85797</id>
-        <link href="https://www.web3sj.com/project/85797/"/>
-        <updated>2023-08-24T10:04:20.000Z</updated>
-        <summary type="html"><![CDATA[Dune 并没有花钱雇人来构建这些仪表板，但每天都有无数新的可视化内容出现，并由制作这些仪表盘的人进行推广（我稍后会解释他们这样做的原因）。在我看来，他们比许多其他提供数据可视化的品牌（如Nansen ）更受人关注。]]></summary>
         <author>
             <name>Gao</name>
         </author>
