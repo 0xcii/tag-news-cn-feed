@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T14:11:22.758Z</id>
+    <id>urn:2023-08-25T15:12:21.014Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-25T14:11:22.758Z</updated>
+    <updated>2023-08-25T15:12:21.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[美联储利率掉期显示美联储将在明年7月首次降息25个基点]]></title>
+        <id>https://panewslab.com/zh/articledetails/ee0tugkn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ee0tugkn.html"/>
+        <updated>2023-08-25T15:03:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据金十报道，美联储利率掉期显示美联储将在明年7月首次降息25个基点。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密支付公司Ansible Labs的Beam产品推出即时支付功能]]></title>
+        <id>https://panewslab.com/zh/articledetails/o05k92po.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o05k92po.html"/>
+        <updated>2023-08-25T14:43:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，Visa前加密产品负责人Daniel Mottice组建的加密支付公司Ansible Labs的Beam产品推出即时支付功能，支持用户将加密货币从 Metamask 直接转移到借记卡。官网显示，加密货币每笔交易费用为 3%（1% 处理 + 2% 交易），稳定币每笔交易收取 1% 的费用。
+去年报道，加密支付平台Ansible Labs完成700万美元种子轮融资，Archetype领投。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius代币持有者提高CEL估值至0.8美元的提议遭拒绝]]></title>
+        <id>https://panewslab.com/zh/articledetails/9fvacj6n.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9fvacj6n.html"/>
+        <updated>2023-08-25T14:12:57.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据CoinDesk报道，纽约破产法院周四发布的一项判决显示，破产的加密贷方 Celsius 原生代币持有者认为 CEL 的估值应为 0.8 美元，即该机构在 2022 年 7 月申请破产当天的交易价格，但这一主张失败了。该公司在反对代币持有者时称，交易价格并不反映现实，因为 CEL 的市场受到了操纵，法院甚至可以以更低的价格或零价格对其进行估值，这与股东在破产中的预期是一致的。
+Santos Caceres 与 Otis Davis 作为代币持有者希望能够通过 CEL 持有者特别委员会参与破产谈判，但被 Martin Glenn 法官拒绝。Celsius 管理层建议将 CEL 估值定位 0.25 美元，因为他们希望结束公司事务，加快出售给加密货币财团 Fahrenheit 的进程，并将资金返还给债权人。这一估值本身就比之前的 0.20 美元有所提高。债权人有一个月的时间考虑出售计划并对其进行投票。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储主席鲍威尔：我们将谨慎地决定是否再次加息]]></title>
+        <id>https://panewslab.com/zh/articledetails/db0kx8t9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/db0kx8t9.html"/>
+        <updated>2023-08-25T14:04:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，美联储主席鲍威尔在杰克逊霍尔全球央行年会上表示：我们将谨慎地决定是否再次加息，在通胀持续放缓之前，将采取限制性政策。实际利率为正值，远高于大多数中性预期。持续的高于趋势的增长可能需要收紧货币政策。如果合适，美联储准备进一步提高利率。通胀仍然过高，美联储将根据数据决定未来的货币政策动向。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockstream的Core Lightning增加拼接功能，实现了统一的钱包余额]]></title>
+        <id>https://panewslab.com/zh/articledetails/oizmgjve.html</id>
+        <link href="https://panewslab.com/zh/articledetails/oizmgjve.html"/>
+        <updated>2023-08-25T13:37:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据The Block报道，比特币基础设施公司Blockstream的Core Lightning实施推出了拼接（Splicing）功能，为设置和使用比特币闪电钱包时提供更便宜且简化的用户体验铺平了道路。拼接技术使用户能够向单个通道添加或删除资金，从而消除了每个用户使用多个通道的需要，从而分散了流动性。它还使钱包提供商能够通过统一钱包抽象出用户链上比特币和闪电网络余额之间的区别，从而使这种区别在很大程度上变得无关紧要。
+Blockstream 首席执行官 Adam Back 表示 ，该功能是作为 Core Lightning 最新版本v23.08（代号为“Satoshi's Successor”）的实验性选项的一部分添加的，这标志着其第一个提供拼接支持的版本。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国财政部、国税局发布关于经纪商数字资产销售和交易的拟议法规]]></title>
+        <id>https://panewslab.com/zh/articledetails/3stl493b.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3stl493b.html"/>
+        <updated>2023-08-25T13:29:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，美国财政部（Treasury Department）和国税局（IRS）今天发布了关于经纪人出售和交易数字资产的拟议规定，以打击偷税漏税行为，同时帮助守法纳税人了解自己因出售或交换数字资产而欠下的税款。拟议的法规将于 10 月 30 日之前公开征求公众意见和反馈，其中要求数字资产经纪人报告某些销售和交易情况。拟议的法规将澄清和调整有关经纪人信息税务报告的规则，以便数字资产经纪人与证券和其他金融工具经纪人遵守相同的信息报告规则。
+根据现行法律，纳税人应对收益征税，并有权在出售数字资产时扣除损失，但对于许多纳税人来说，计算其收益既困难又昂贵。这些拟议规则要求经纪商提供新的 1099-DA 表格，以帮助纳税人确定他们是否欠税，并将帮助纳税人避免为提交纳税申报表而进行复杂的计算或支付数字资产报税服务。这些法规将数字资产的税务报告与其他资产的税务报告保持一致，从而避免了不同类型资产之间的优惠待遇。
+根据拟议规则，经纪商将被要求第一年报告有关数字资产销售和交易的任何信息，时间是 2026 年，销售和交易信息的报告时间是 2025 年。 在通过时，无党派税务联合委员会 (JCT) 指出，使用可靠且客观的第三方收入核实可以减少逃税，并导致纳税申报表上的收入报告更加准确。JCT 估计 IIJA 的拨款将在 10 年内筹集近 280 亿美元。
+财政部和国税局表示欢迎受影响的纳税人、行业和其他利益相关方对拟议法规提出意见和反馈。书面意见的接受截止日期为 2023 年 10 月 30 日。公开听证会定于 2023 年 11 月 7 日举行，如果第一次听证会要求发言的人数超过规定数量，则第二次公开听证会日期为 2023 年 11 月 8 日可以在一天内容纳。财政部和国税局将在发布最终法规之前仔细考虑所有公众意见。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centrifuge代币化贷款违约使MakerDAO上的184万美元投资面临风险]]></title>
+        <id>https://panewslab.com/zh/articledetails/qgi9fjha.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qgi9fjha.html"/>
+        <updated>2023-08-25T13:11:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月25日消息，据CoinDesk报道，一篇治理论坛帖子称，基于区块链的信贷平台 Centrifuge 上的代币化贷款即将违约，这使得 MakerDAO 的 184 万美元投资面临损失风险。陷入困境的信贷池承销商 ControlFreight周五警告称，由于法律纠纷，270 万美元池的最大借款人正面临清算。
+ConsolFreight 在帖子中表示：“Hanhwa AUS Pty Ltd 和 Hanwha New Zealand Pty Ltd 欠我们的金额存在全部或部分资金损失的重大风险。”该帖子解释说，由于知识产权纠纷，澳大利亚最高法院任命了一名清算人来结束该公司的活动，冻结向债务人的所有付款。ControlFreight 已从Maker铸造了184 万美元的DAI，用于为贸易融资交易和货运代理发票提供资金。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：5140枚比特币从Bybit转移到未知钱包]]></title>
         <id>https://panewslab.com/zh/articledetails/07g6dna5.html</id>
@@ -151,72 +228,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：某巨鲸于3小时前花费320枚ETH买入6400亿枚PEPE]]></title>
-        <id>https://panewslab.com/zh/articledetails/1jluimnz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1jluimnz.html"/>
-        <updated>2023-08-25T07:58:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据Lookonchain监测，某巨鲸于3小时前花费320枚ETH买入6400亿枚 PEPE，价值约52.9万美元。
-该巨鲸曾于6月5日花费280枚ETH购买5000亿枚PEPE，于5月5日花费253枚ETH购买1640亿枚 PEPE，平均购入价格为0.000001163美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安推动低市值项目采取措施增加流动性以应对市场操纵担忧]]></title>
-        <id>https://panewslab.com/zh/articledetails/wc4s16fi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wc4s16fi.html"/>
-        <updated>2023-08-25T07:51:01.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据The Block报道，币安正在推动在其交易所进行低流动性代币交易的加密项目采取措施促进交易。该媒体获得的消息摘录显示，过去一周，币安的工作人员联系了多个项目，询问他们与做市商的关系细节，以及他们是否会考虑为交易所的储蓄产品提供资金。具体来说，币安询问这些项目是否会考虑将其流通代币的1-5%存入其储蓄账户以赚取利息。推特上也分享了类似活动的屏幕截图。消息显示，如果相关项目与做市商没有关系或不希望为其储蓄产品做出贡献，币安还要求做出解释。
-币安发言人表示，此次推广是“持续风险管理计划”的一部分，针对的是少数在交易所上市的加密货币机构，这些机构的交易对流动性较低，或者相对于更广泛的市场而言市值较小，此类情况可能会让用户面临风险，“包括潜在的市场操纵”；风险管理推广的主要目的是鼓励项目团队采取建议的步骤来加强流动性保护，吸引做市商的支持是加强这种保护的一种方式。“另一个可能的风险缓解措施是向储蓄池捐款，例如币安储蓄，用户可以通过保证金或贷款的方式借入代币，并更积极地进行交易，为当前市场注入流动性。”发言人补充道，并强调贡献是可选的。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：某巨鲸于16小时前向币安存入360万枚SAND，当时价值约116万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/wi5a5kto.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wi5a5kto.html"/>
-        <updated>2023-08-25T07:32:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据Spot On Chain监测，0x53e开头巨鲸地址（可能是SAND投资者）于16小时前向币安存入360万枚SAND，当时存入的均价为0.323美元，共计约116万美元。
-该巨鲸地址往往不会长期持有SAND，其已以0.841美元的均价向CEX存入3400万枚SAND，目前仍持有360万枚SAND（约合115万美元）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊最新ACDE会议：下次会议将确定Devnet 9等测试网升级时间]]></title>
-        <id>https://panewslab.com/zh/articledetails/y2se6i52.html</id>
-        <link href="https://panewslab.com/zh/articledetails/y2se6i52.html"/>
-        <updated>2023-08-25T07:24:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，Galaxy 研究副总裁 Christine Kim发文总结第116次以太坊核心开发者共识会议（ACDC），讨论了8月16日推出的Dencun测试网Devnet 8、Dencun升级各个部分的全面测试概述、转向Devnet 9的计划以及启动Holesky测试网的一些未解决的问题等。
-首先，开发者表示所有EL与CL客户端均已加入Devnet 8，尚未在测试网上运行验证器的两个 EL客户端是Besu和Erigon。其次，Jayanthi提交了Dencun测试概述文档，详细介绍了将在未来几周内开发的Dencun升级的特定测试领域，包括针对影响EVM的Dencun EIP的EVM相关测试、在EL与CL客户端之间同步测试区块与blob、用户评估不同混沌状况的混沌测试、对更多Devnets 与影子分叉等公开测试、MEV相关测试、回归测试、坏区块与blob测试、blob特定测试。此外，开发者介绍了Devnet 9的启动计划，Devnet 8与Devnet 9之间代码规范的唯一重大变化是EIP-4788的部署策略。开发者将在下一次ACD电话会议就Devnet 9与其他即将进行的测试网升级的大致时间达成一致。最后，开发者梳理了Holesky测试网启动过程中三个未解决的问题，包括开发者同意将Holesky上的Shapella升级的Epoch时间从10调整为256，以更准确地反映以太坊主网的环境等。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港金管局：正研究为数码港元或稳定币建立监管框架，推动银行存款代币化]]></title>
-        <id>https://panewslab.com/zh/articledetails/7cgjr67p.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7cgjr67p.html"/>
-        <updated>2023-08-25T07:07:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据金十引援香港电台网报道，香港金管局今日表示，正研究为数码港元或稳定币建立监管框架，以及推动业界应用分布式分类帐技术（DLT），将银行存款代币化，下季会与业界举行研讨会介绍DLT技术。
-金管局副总裁阮国恒表示，推动存款代币化没有时间表，亦不会强制要求所有银行跟随使用，有关进程不会同数码港元的研究挂钩，两者会平行同步进行。银行监理助理总裁陈景宏则表示，期望将来DLT技术能更广泛应用，例如将发行债券的交易时间缩减至T+1，他还承认，DLT平台仍面临技术是否足够成熟、稳定性是否足够等限制，未来要进一步研究，但当技术成熟后，未来有机会拓展至证券、楼宇、按揭产品代币化。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能初创公司Hugging Face完成2.35亿美元D轮融资，英伟达、英特尔和谷歌等参投]]></title>
-        <id>https://panewslab.com/zh/articledetails/yqcna14b.html</id>
-        <link href="https://panewslab.com/zh/articledetails/yqcna14b.html"/>
-        <updated>2023-08-25T06:58:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据The Information报道，人工智能初创公司Hugging Face宣布，该公司完成2.35亿美元D轮融资，投资方包括谷歌母公司Alphabet、亚马逊、英伟达、AMD、英特尔、高通创投、IBM、Salesforce风投以及风险投资机构Sound Ventures等知名机构，投后估值为45亿美元。Hugging Face将利用这笔资金加大招聘力度并投资该技术。
-据悉，Hugging Face成立于2016年，由法国企业家Julien Chaumond和Thomas Wolf创立，最初是一家开发面向青少年的聊天机器人应用程序的公司。在开源聊天机器人背后的模型后，该公司转变方向，专注于成为一个机器学习平台，托管用户共享的机器学习模型和数据集等。2021年3月，Hugging Face宣布完成4000万美元B轮融资，同年还发布了1760亿参数的多语言大模型BLOOM（最初称为BigScience，随后改名为BLOOM），旨在通过开源替代方案与OpenAI的GPT-3竞争。2023年2月，Hugging Face与亚马逊AWS云合作，并预计下一代BLOOM将在AWS创建的专有机器学习芯片Trainium上运行。加上此次D轮融资，Hugging Face总融资额达3.952亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ripple登《人物》杂志榜单，跻身关爱员工百强企业行列]]></title>
         <id>https://www.web3sj.com/?p=85953</id>
         <link href="https://www.web3sj.com/news/85953/"/>
@@ -234,17 +245,6 @@
         <summary type="html"><![CDATA[第一个更新是「流式交换 Streaming Swap」，简单理解就是通过将大订单分割为小订单的方式来执行跨链，用户的交换体验（价格）更友好——滑点小。这个功能其实对币价的影响并不直接，中间会有一个数据上升带来的传导过程。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap第二季度现货交易量达1100亿美元，连续两个季度超过Coinbase]]></title>
-        <id>https://panewslab.com/zh/articledetails/2h83ssm3.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2h83ssm3.html"/>
-        <updated>2023-08-25T06:46:01.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据The Defiant报道，加密资产管理公司Bitwise研究员Ryan Rasmussen分享的数据显示，Uniswap在今年第二季度处理了大约1100亿美元的交易，交易量再次超过Coinbase，Coinbase第二季度处理了约900亿美元的交易。此前，今年第一季度Uniswap现货交易量为1550亿美元，首次超过Coinbase的1450亿美元。
-Coinbase在熊市期间的现货交易活动明显下滑，从2021年第四季度的约5400亿美元下降了83%；同期Uniswap交易量从2350亿美元下降了一半。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
