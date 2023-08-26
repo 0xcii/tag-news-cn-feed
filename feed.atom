@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-26T11:09:15.714Z</id>
+    <id>urn:2023-08-26T12:21:16.678Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-26T11:09:15.714Z</updated>
+    <updated>2023-08-26T12:21:16.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[a16z：论「无状态区块链」的不可能性]]></title>
+        <id>https://www.web3sj.com/?p=86078</id>
+        <link href="https://www.web3sj.com/news/86078/"/>
+        <updated>2023-08-26T12:02:06.000Z</updated>
+        <summary type="html"><![CDATA[随着账户或 UTXO 足够支持人口中相当一部分真正日常交易的区块链增长，这种存储负担将变得难以控制，使得成为验证者变得困难，并对去中心化构成威胁。诱人的解决方案是转向密码学，其中诸如 Merkle 树和零知识证明等工具帮助我们实现了以前难以想象的事情。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读Base与Optimism的合作声明]]></title>
+        <id>https://www.web3sj.com/?p=86075</id>
+        <link href="https://www.web3sj.com/news/86075/"/>
+        <updated>2023-08-26T11:58:40.000Z</updated>
+        <summary type="html"><![CDATA[开篇，Base 就解释了和 OP Stack 合作的原因，和之前我解读的长文观点一致：OP 足够开放且吸引开发者。原话是「the more hands on the code，the more chances to spot and secure the foundation」，这其实给很多试图做开源生态的组织一个示范，要开源就大胆放开，大家齐心协力为 open source 做贡献，不要今天你吹自己技术牛逼，明天他起诉你抄袭，这样的噪音对整个赛道都不利。不得不说，在开源协作这方面，OP 可谓是格局拉满。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解密Gitcoin支持的新公链PGN]]></title>
+        <id>https://www.web3sj.com/?p=86071</id>
+        <link href="https://www.web3sj.com/news/86071/"/>
+        <updated>2023-08-26T11:56:16.000Z</updated>
+        <summary type="html"><![CDATA[7 月 7 日，Gitcoin 发文介绍了基于 OP Stack 开发的 Layer2 网络 Public Goods Network(PGN)，与此同时，在 8 月 18 日，Gitcoin 正式宣布其 18 轮支持 PGN 网络捐赠。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港证监会半年考：35场活动探讨虚拟资产，发放交易所新牌照]]></title>
+        <id>https://www.web3sj.com/?p=86068</id>
+        <link href="https://www.web3sj.com/news/86068/"/>
+        <updated>2023-08-26T11:52:44.000Z</updated>
+        <summary type="html"><![CDATA[香港证监会日前发布最新季度报告，把虚拟资产交易平台的新发牌制度列为监管优化措施头条，在沟通教育方面，证监会参加超过 35 场活动探讨虚拟资产等，并通过电视台、教育活动、刊物等形式对公众进行投资者教育。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-8.26）]]></title>
         <id>https://www.web3sj.com/?p=86065</id>
@@ -181,16 +221,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一览Lybra V2的产品拓展与机制更新]]></title>
-        <id>https://www.web3sj.com/?p=86000</id>
-        <link href="https://www.web3sj.com/definews/86000/"/>
-        <updated>2023-08-26T03:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Lybra V2 目前由 Cod4rena 和 Consensys 的代码审计已经完成，Halborn 的最后审计即将结束；确认将会于 8 月底上线。主要功能更新包括推出 peUSD 支持非 rebase 的 LST、上线 Abitrum、引入 LBR War 通过治理控制代币排放（类似 Curve War）、引入提前解锁罚金与 dLP 罚金，以此引入 LBR 燃烧与 eUSD 价格稳定基金等。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[梅赛德斯-奔驰NFT系列“奢华时代”将于9月6日开放铸造]]></title>
         <id>https://panewslab.com/zh/articledetails/80o6ggc1.html</id>
         <link href="https://panewslab.com/zh/articledetails/80o6ggc1.html"/>
@@ -346,36 +376,6 @@
         <summary type="html"><![CDATA[8月25日消息，为应对加密货币投资者逃税问题，美国财政部提出了新的税务规定。这些规定旨在简化复杂的税务问题，确保加密货币投资者遵守税法。根据提议，到 2026 年，诸如 Coinbase 这样的加密货币交易平台将需要向国税局（IRS）提交表格 1099s，报告交易的总收入。 此外，交易平台稍后还将开始报告客户购买资产的成本基础。这些新规定的目的是增加税务透明度，确保投资者正确报税。此外，这些规定还将适用于非同质化代币（NFT）和去中心化金融平台。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-8.25）]]></title>
-        <id>https://www.web3sj.com/?p=85982</id>
-        <link href="https://www.web3sj.com/news/85982/"/>
-        <updated>2023-08-25T11:13:34.000Z</updated>
-        <summary type="html"><![CDATA[砸盘惹众怒，PEPE 「创始人」遭曝光：97年摄影师，已购入兰博基尼。Tether储备报告：持有33亿美元流动性缓冲储备，储备金率超100%。Lido即将完成最终代币解锁。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ripple登《人物》杂志榜单，跻身关爱员工百强企业行列]]></title>
-        <id>https://www.web3sj.com/?p=85953</id>
-        <link href="https://www.web3sj.com/news/85953/"/>
-        <updated>2023-08-25T06:51:37.000Z</updated>
-        <summary type="html"><![CDATA[8 月 23 日，该公司与其关注者分享了这一令人兴奋的消息，并感谢其员工通过 Ripple Impact 项目为社会提供的无尽帮助。这些项目旨在帮助更多的人获得金融服务、开展研究和保护环境。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Bullish和Bearish两个方面分析分析THORChain协议]]></title>
-        <id>https://www.web3sj.com/?p=85948</id>
-        <link href="https://www.web3sj.com/definews/85948/"/>
-        <updated>2023-08-25T06:49:23.000Z</updated>
-        <summary type="html"><![CDATA[第一个更新是「流式交换 Streaming Swap」，简单理解就是通过将大订单分割为小订单的方式来执行跨链，用户的交换体验（价格）更友好——滑点小。这个功能其实对币价的影响并不直接，中间会有一个数据上升带来的传导过程。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
