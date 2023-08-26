@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-26T09:10:59.732Z</id>
+    <id>urn:2023-08-26T10:12:28.691Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-26T09:10:59.732Z</updated>
+    <updated>2023-08-26T10:12:28.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WPS For Windows部分版本疑似存在远程代码执行漏洞，多位用户私钥被盗]]></title>
+        <id>https://panewslab.com/zh/articledetails/8gindab7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8gindab7.html"/>
+        <updated>2023-08-26T08:21:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月26日消息，加密社区多位成员反映私钥被盗，有猜测称因使用比特指纹浏览器所致，对此，比特指纹浏览器官方在社群中表示，WPS For Windows 部分版本存在远程代码执行漏洞，攻击者可利用该漏洞在受害者目标主机上执行任意代码，控制主机等。影响版本包括WPS Office 2023 个人版 低于12.1.0.15120（含）、WPS Office机构版本（如专业版、专业增强版） 低于11.8.2.12055（含）。而且这个漏洞比较好触发，所以在点击不明链接之后可能就会被黑客攻击，即便私钥不存在wps里，使用其他的也是会中招。此外，向第三方授权密钥，也有被盗风险。
+与此同时，也有声音表示，被盗用户中也存在没有使用过WPS。具体被盗原因PANews将持续跟踪。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PAULY：PEPE团队至少在9个钱包持有1600万至1700万美元的PEPE]]></title>
         <id>https://panewslab.com/zh/articledetails/lbz8e5yj.html</id>
@@ -283,16 +294,6 @@
         <link href="https://panewslab.com/zh/articledetails/ydgmdoir.html"/>
         <updated>2023-08-25T23:56:42.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月26日消息，Alchemix推特发文发文称，针对Curve池攻击事件中受影响的alETH Bridger，AIP 96提案已执行，所有各方均已获得补偿，补偿中使用的ETH价格为1646美元，alETH价格为0.83美元。根据投票结果，Bridgers已根据选项4获得退款。此外，AIP 95a提案除了最后一步已完全执行，其中包括将POL存入RAMSES。L2上的alUSD现已完全得到支持。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hashdex申请在其比特币期货ETF中持有现货比特币]]></title>
-        <id>https://panewslab.com/zh/articledetails/c19kkpoa.html</id>
-        <link href="https://panewslab.com/zh/articledetails/c19kkpoa.html"/>
-        <updated>2023-08-25T23:47:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月26日消息，彭博ETF分析师James Seyffart推特发文称，加密资管公司Hashdex已申请在他们的比特币期货ETF中持有现货比特币。该申请并不依赖于Coinbase的监督共享协议（SSA）。Hashdex希望通过CME Market的Exchange for Physical（EFP）机制用部分期货合约来换取等价的现货比特币头寸，而不是用现金直接从交易所购买比特币。据此前消息，Hashdex在获美国证交会（SEC）许可后发行了新的比特币期货ETF，即Hashdex Bitcoin Futures ETF，将于9月16日以DEFI的名称上线NYSE Arca。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
