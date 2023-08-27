@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-27T14:10:01.325Z</id>
+    <id>urn:2023-08-27T15:11:17.009Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-27T14:10:01.325Z</updated>
+    <updated>2023-08-27T15:11:17.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Gearbox Protocol：协议安全，未出现任何损失]]></title>
+        <title type="html"><![CDATA[安全机构：Balancer遭多次闪电贷攻击，损失已达87万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/15rvl039.html</id>
+        <link href="https://panewslab.com/zh/articledetails/15rvl039.html"/>
+        <updated>2023-08-27T13:15:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月27日消息，据 Beosin Alert 监测，Balancer 遭受多次闪电贷攻击，总损失已达 87 万美元，建议用户尽快撤回受影响池的 LP。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gearbox Protocol：协议未遭攻击，也未出现任何损失]]></title>
         <id>https://panewslab.com/zh/articledetails/40r9p0e9.html</id>
         <link href="https://panewslab.com/zh/articledetails/40r9p0e9.html"/>
         <updated>2023-08-27T12:18:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月27日消息，针对Gearbox Protocol遭闪电贷攻击监测，Gearbox Protocol表示，警报是错误的，Gearbox协议很安全，感谢预警。但套利/黑客攻击仅与Balancer池相关，Gearbox合约和信用账户安全，未出现任何损失。
+        <summary type="html"><![CDATA[PANews 8月27日消息，针对Gearbox Protocol遭闪电贷攻击监测，Gearbox Protocol表示，套利/黑客攻击仅与Balancer池相关，和Gearbox协议无关，Gearbox未被攻击，也未出现任何损失。
 此前消息，据 Beosin Alert 监测，DeFi 可组合型杠杆协议 Gearbox Protocol 遭遇闪电贷攻击，损失约 40 万美元。]]></summary>
         <author>
             <name>PA一线</name>
@@ -231,16 +241,6 @@
         <link href="https://panewslab.com/zh/articledetails/gsr95zut.html"/>
         <updated>2023-08-27T00:51:04.000Z</updated>
         <summary type="html"><![CDATA[PANews 8月27日消息，PeopleDAO核心开发者0xAA在推特发文称，比特浏览器发布通知，承认服务器缓存数据可能遭到入侵，已经报案。开启了扩展数据同步的用户钱包有被盗风险，建议立即采取措施，转走钱包资产。 随后慢雾余弦推特发文称，比特浏览器用户私钥泄露事件目前造成至少41万美元的损失。昨日有多名加密社区成员反映其私钥被盗，有猜测该情况系因使用比特指纹浏览器所致。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安提醒用户警惕冒充币安员工的诈骗者]]></title>
-        <id>https://panewslab.com/zh/articledetails/o3az6m1c.html</id>
-        <link href="https://panewslab.com/zh/articledetails/o3az6m1c.html"/>
-        <updated>2023-08-27T00:45:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月27日消息，币安在推特发文称，诈骗者冒充币安员工获取用户信息和资金的情况很常见，提醒用户加强警惕，核实对方身份并报告可疑行为。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
