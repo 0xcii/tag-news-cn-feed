@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-30T16:16:30.206Z</id>
+    <id>urn:2023-08-30T17:11:24.085Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-30T16:16:30.206Z</updated>
+    <updated>2023-08-30T17:11:24.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Wombat Exchange将于9月6日推出跨链池Beta版]]></title>
-        <id>https://panewslab.com/zh/articledetails/lp109fot.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lp109fot.html"/>
-        <updated>2023-08-30T14:27:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，多链稳定币兑换协议Wombat Exchange宣布将于9月6日推出跨链资金池Beta版。在初始的Beta阶段，用户将能够在一个地方轻松交换不同网络（如BNB Chain、Arbitrum、以太坊）上的稳定币（如USDT和USDC）。]]></summary>
+        <title type="html"><![CDATA[Coinbase将添加对PYUSD的支持]]></title>
+        <id>https://panewslab.com/zh/articledetails/z45d73x4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/z45d73x4.html"/>
+        <updated>2023-08-30T16:02:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月31日消息，Coinbase 宣布将在以太坊网络（ERC-20 代币）上添加对 PayPal USD (PYUSD) 的支持。如果满足流动性条件，交易将于北京时间 2023 年 9 月 1 日 0 点或之后开始。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -36,103 +36,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aevo已通过Socket支持Arbitrum和Optimism上USDC存款]]></title>
-        <id>https://panewslab.com/zh/articledetails/mu3qydvv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mu3qydvv.html"/>
-        <updated>2023-08-30T14:00:27.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，期权交易平台已通过跨链基础设施 Socket 支持 Arbitrum 和 Optimism 上 USDC 存款。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[知情人士：VISA和MasterCard准备提高信用卡交易费用]]></title>
-        <id>https://panewslab.com/zh/articledetails/9c9rj0r9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9c9rj0r9.html"/>
-        <updated>2023-08-30T13:13:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，据华尔街日报援引知情人士报道，VISA和MasterCard准备提高信用卡交易费用，费用上调计划于 10 月和明年 4 月开始。其中许多增长来自网上购物。
-据与商家合作的咨询公司 CMSPI 称，这些变化可能导致商家每年额外支付 5.02 亿美元的费用。CMSPI 估计，网络费用的增加将占到收入的一半多一点。其余部分将来自交易费（也称为刷卡费）的增加。当购物者通过信用卡付款时，商家需要支付这些费用。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一巨鲸疑似在Compound和Aave上做多WBTC，存入3107枚WBTC并借出3600万枚美元稳定币]]></title>
-        <id>https://panewslab.com/zh/articledetails/1olfshi7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1olfshi7.html"/>
-        <updated>2023-08-30T12:47:43.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，Lookonchain 监测显示，0xdde0d 开头巨鲸地址在 Compound 和 Aave 上做多 WBTC。自 7 月 6 日以来，该巨鲸已从 Binance 和 Bitfinex 累计提出 3107 枚 WBTC（约合 9220 万美元）并存入 Compound 和 Aave，均价 29,672 美元，并借出约 3600 万美元的稳定币。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etherscan：用户在特定场景下复制代币转账地址时将收到弹窗提醒]]></title>
-        <id>https://panewslab.com/zh/articledetails/58t50tk8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/58t50tk8.html"/>
-        <updated>2023-08-30T12:40:23.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，以太坊区块链浏览器Etherscan发文表示，用户在特定场景下复制代币转账地址时会弹出提醒功能，在可能被利用的场景中，会提醒用户仔细检查是否复制了正确的地址。如果用户觉得弹出窗口很麻烦，可以将其隐藏 30 天。
-在某些情况下复制“发件人”或“收件人”地址时，在以下情况下会出现该弹出窗口： 1. 令牌传输页面 2. 地址页面中的令牌传输选项卡。场景 1：转移信誉不佳的代币；场景 2：源自与代币发送者不同的地址的交易；场景 3：转移未更新信息的代币。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灰度CEO：当GBTC转换为现货比特币ETF时会降低费用]]></title>
-        <id>https://panewslab.com/zh/articledetails/f0vz1kb1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/f0vz1kb1.html"/>
-        <updated>2023-08-30T12:31:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，加密货币基金Grayscale首席执行官表示，当灰度比特币信托(GBTC)转换为现货比特币ETF时，肯定会降低费用。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DWF Labs一周前增持17万枚CYBER，均价4.5美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/4caboc8x.html</id>
-        <link href="https://panewslab.com/zh/articledetails/4caboc8x.html"/>
-        <updated>2023-08-30T12:26:51.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，Spot On Chain 监测显示，DWF Labs 于一周前以 4.5 美元均价增持 17 万枚 CYBER（花费 76.5 万美元），目前仍继续持有（当前价值 126 万美元）。此外，近期 DWF Labs 交互过的代币，其往往价格会出现剧烈波动，例如：DODO、YGG、FET 和 CYBER。
-行情显示，CYBER代币价格今日涨幅超80%，现报7.14美元/枚。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国8月ADP就业人数增加17.7万人]]></title>
-        <id>https://panewslab.com/zh/articledetails/w6zrjj8u.html</id>
-        <link href="https://panewslab.com/zh/articledetails/w6zrjj8u.html"/>
-        <updated>2023-08-30T12:18:01.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，美国8月ADP就业人数增加17.7万人，预估为增加19.5万人，前值为增加32.4万人。
-ADP首席经济学家Nela Richardson表示：本月的数据与疫情前创造就业的速度一致。在经历了两年与经济复苏相关的特殊增长之后，随着疫情对经济的影响逐渐消退，薪资和就业朝着更可持续的增长发展。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胜利证券或将于Q4向散户开放虚拟资产买卖业务]]></title>
-        <id>https://panewslab.com/zh/articledetails/i4xhba1u.html</id>
-        <link href="https://panewslab.com/zh/articledetails/i4xhba1u.html"/>
-        <updated>2023-08-30T12:12:39.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月25日消息，据信报报道，港股上市公司胜利证券(08540.HK)执行董事陈沛泉表示，预计（香港）证监会今季会发布关于券商开放予散户买卖虚拟资产的指引，视乎申请进度，应用程式在第四季或可开放予散户买卖虚拟资产。
-此前胜利证券推出的虚拟资产交易应用程序“VICSEC”仅限专业投资者使用，客户能以美元投资比特币及以太币。
-陈沛泉透露，现时胜利证券接驳持牌交易所OSL，客户透过胜利证券可买卖的币种视乎交易所上架币种而定。未来传统金融及虚拟资产投资或可合并到同一个应用程式上，便利客户同时管理包含传统及虚拟资产的投资组合。其称，现时在其专业投资者客户中，约有5%投资虚拟资产，当中包括香港上市公司。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockFi向法院申请将仅限交易的资产转换为稳定币，以便于用户提取]]></title>
-        <id>https://panewslab.com/zh/articledetails/ti7k3kkp.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ti7k3kkp.html"/>
-        <updated>2023-08-30T11:57:08.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，据Cointelegraph报道，BlockFi 昨日向美国新泽西州破产法院提交申请，授权将所谓的“仅限交易”资产转换为稳定币。这些资产——Algorand、比特币现金和狗狗币——无法轻易提取，因此 BlockFi 建议将它们一次性兑换成 Gemini Dollar (GUSD) 或其他稳定币。根据该申请，仅限交易的资产数量不超过BlockFi用户所有美国钱包资产的0.5%。其他仅限交易的资产，如 Cardano、Solana、Avalanche 等均由 BlockFi International 单独持有。法院认可的 BlockFi 债权人委员会支持该公司的请求。
-本月早些时候，BlockFi已为符合条件的客户开放从钱包账户提取数字资产的功能。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-8.30）]]></title>
         <id>https://www.web3sj.com/?p=86635</id>
         <link href="https://www.web3sj.com/news/86635/"/>
@@ -143,93 +46,6 @@ ADP首席经济学家Nela Richardson表示：本月的数据与疫情前创造�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前Circle稳定币副总裁加入M^Zero担任首席战略官]]></title>
-        <id>https://panewslab.com/zh/articledetails/32u9hg7u.html</id>
-        <link href="https://panewslab.com/zh/articledetails/32u9hg7u.html"/>
-        <updated>2023-08-30T11:49:38.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，据The Block报道，曾领导了 USDC 建设的前 Circle 稳定币副总裁 João Reginatto 加入Web3 基础设施初创公司 M^Zero 并担任首席战略官。
-此前4月，DeFi 平台M^ZERO完成 2250 万美元种子轮融资，Pantera Capital 领投。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Smart Chain已完成网络升级与硬分叉，充提功能已恢复]]></title>
-        <id>https://panewslab.com/zh/articledetails/9qv6gm8x.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9qv6gm8x.html"/>
-        <updated>2023-08-30T11:29:39.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，币安宣布已经完成BNB Smart Chain(BEP20)网络升级和硬分叉，充值和提现功能已恢复在线。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泸州老窖与蚂蚁集团合作探索贸易数据“上链”]]></title>
-        <id>https://panewslab.com/zh/articledetails/4tp4618b.html</id>
-        <link href="https://panewslab.com/zh/articledetails/4tp4618b.html"/>
-        <updated>2023-08-30T10:55:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，据蚂蚁集团公众号，泸州老窖集团和蚂蚁集团已签署战略合作协议，双方将围绕产业数字金融、数字营销、元宇宙创新、终端销售洞察和绿色低碳公益等方向展开深入合作。根据协议，泸州老窖将借助蚂蚁链的智能合约、跨链等技术，通过数字人民币支付、贸易数据“上链”等方式，帮助产业链上下游提升数字化交易能力。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3游戏平台Iskra 2022年营收800万美元，利润约为90万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/1845f1l0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1845f1l0.html"/>
-        <updated>2023-08-30T10:50:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，根据跟踪新加坡监管文件的 VentureCap Insights 的数据，由 Line、Kakao 和 Netmarble 等移动巨头支持的新加坡注册但总部位于韩国的 Web3 游戏平台 Iskra 2022 年营收达 800 万美元，利润约为 90 万美元。根据该公司的审计报表，其收入来自“平台开发及相关服务的渲染”，但没有透露更多细节。
-LinkedIn 估计 Iskra 拥有 50 多名员工，运营着一个 Web3 游戏玩家和开发人员中心。它使玩家能够参与基于区块链的游戏，用户可以在其平台上交易代币和其他游戏内资产。其平台上的一些游戏包括《Norma in Metaland》和《Legend of Slime》等休闲游戏，以及《ClashMon》和《Three Kingdoms Multiverse》等角色扮演游戏。
-Iskra 的代币经济由三个要素驱动：治理代币 ISK、实用代币 Pioneer NFT 和稳定币 iUSD。用户花费 ISK 购买 Pioneer NFT，这赋予所有者成为平台上的节点运营商的权利。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伯恩斯坦预测：比特币现货ETF在两到三年内达到比特币市值的10%]]></title>
-        <id>https://panewslab.com/zh/articledetails/c3csekju.html</id>
-        <link href="https://panewslab.com/zh/articledetails/c3csekju.html"/>
-        <updated>2023-08-30T10:38:37.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，据CoinDesk报道，华尔街投资银行伯恩斯坦（Bernstein）在周二的一份研究报告中表示，继上个月Ripple 做出有利裁决后，灰度比特币信托基金 (GBTC) 的管理公司 Grayscale 在加密货币行业对美国证券交易委员会 (SEC) 的诉讼中取得了第二次具有里程碑意义的胜利。该说明称，首次审查的批准日期可能从下周开始，并持续到 2024 年初，以进行最终的 SEC 审查。
-Bernstein 此前表示，预计比特币 ETF 现货市场规模将相当大，在两到三年内达到比特币市值的 10%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCG与Genesis债权人达成的原则协议遭到Genesis相当多债权人的反对]]></title>
-        <id>https://panewslab.com/zh/articledetails/ljf9miz5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ljf9miz5.html"/>
-        <updated>2023-08-30T10:24:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，据CoinDesk报道，已解散的贷款机构 Genesis Global Capital (GGC) 与母公司 Digital Money Group (DCG) 达成的一项临时协议遭到了一群债权人的反对，债权人在周二提交的文件中称，对超过 10 亿美元未偿贷款的处理“完全不够”。此前由于母公司 DCG 的贷款纠纷，加密货币贷款机构 Genesis 的破产案已被搁置数月。
-昨日报道，DCG与Genesis债权人达成原则协议，预计债权人回收率达70%-90%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pando Trust Limited已获得香港TCSP和信托牌照]]></title>
-        <id>https://panewslab.com/zh/articledetails/t2zx7zec.html</id>
-        <link href="https://panewslab.com/zh/articledetails/t2zx7zec.html"/>
-        <updated>2023-08-30T10:09:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，Huobi前高管创立的香港资产管理公司Pando Trust Limited已于2023年8月29日获得香港TCSP以及Trustee(信託或公司服务提供商)牌照，将可开展更多的资金管理业务。
-去年报道，香港资管公司Pando Finance推出两支专注于虚拟资产的区块链ETF。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink Staking v0.2代码库开启为期18天的代码审计竞赛]]></title>
-        <id>https://panewslab.com/zh/articledetails/iy5oune8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/iy5oune8.html"/>
-        <updated>2023-08-30T09:52:30.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，Chainlink Staking v0.2的代码库于今天在Code4Rena平台上正式开启面向公众的代码审计竞赛。竞赛将为期18天，并设立了价值25万美元的奖金池。Chainlink Staking v0.2将分三个阶段展开：第一阶段：优先迁移（Priority Migration）；第二阶段：提前参与（Early Access）；第三阶段：公众参与（General Access）。
-此前报道，Chainlink计划将于今年第四季度推出Chainlink质押v0.2版本。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[其他国家如何看待加密货币？一窥不同国家的加密情绪]]></title>
         <id>https://www.web3sj.com/?p=86622</id>
         <link href="https://www.web3sj.com/news/86622/"/>
@@ -237,28 +53,6 @@ Bernstein 此前表示，预计比特币 ETF 现货市场规模将相当大，�
         <summary type="html"><![CDATA[加密货币情绪分析被认为是了解如何做出明智投资决策的绝佳方法。通过使用 NRC 情绪方法（Saif Mohammad，2011），作者研究了 Twitter 社交媒体中对比特币作为代表加密货币的关键词的情绪。大多数观察到的国家对加密货币持积极态度。这里选取部分国家作为样本进行分析：美国、印度、印度尼西亚和马来西亚]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：Binance Japan计划将上市代币数量增加至100种]]></title>
-        <id>https://panewslab.com/zh/articledetails/1wnncf81.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1wnncf81.html"/>
-        <updated>2023-08-30T09:30:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，据彭博社报道，本月早些时候推出全面服务的币安日本（Binance Japan）今天表示，其目标是短期内在其平台上提供至少 100 种代币，约为当前发行量的三倍。币安日本还计划与其他当地加密货币交易所合作，以确保更好的流动性。
-Binance 的日本分支机构目前列出了34 种代币，该公司此前曾表示，日本客户可以获得包括现货交易、Earn 产品及其 NFT 市场在内的服务。
-今日早些时候，BinanceJapan公布其市场战略，专注于“Web3广泛采用和稳定币业务”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧易OKX发布第10期储备金证明：22个公示币种的储备金率均超过100%]]></title>
-        <id>https://panewslab.com/zh/articledetails/9u3mz955.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9u3mz955.html"/>
-        <updated>2023-08-30T09:19:45.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月30日消息，欧易OKX正式发布第10期储备金证明（PoR），22个公示币种的储备金率均超过100%，其中BTC、ETH、USDT的储备金率分别为102%、102%和103%，三者总计价值达104亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
