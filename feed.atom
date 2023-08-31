@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-31T10:13:10.836Z</id>
+    <id>urn:2023-08-31T11:10:22.436Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-31T10:13:10.836Z</updated>
+    <updated>2023-08-31T11:10:22.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[以Safe为例，解码DAO国库管理]]></title>
+        <id>https://www.web3sj.com/?p=86780</id>
+        <link href="https://www.web3sj.com/definews/86780/"/>
+        <updated>2023-08-31T10:42:34.000Z</updated>
+        <summary type="html"><![CDATA[首要的挑战是资产安全。由于 DAO 结构的复杂性，漏洞可能从技术方面和内在设计方面产生。除了安全性，资产管理的可扩展性也至关重要。与各种生态系统应用程序的无缝集成决定了资产管理范 paradigms 可以执行的程度，直接影响到实现 DAO 组织功能的程度。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金融时报：PayPal发行稳定币会重蹈Facebook的覆辙吗？]]></title>
+        <id>https://www.web3sj.com/?p=86769</id>
+        <link href="https://www.web3sj.com/news/86769/"/>
+        <updated>2023-08-31T10:34:25.000Z</updated>
+        <summary type="html"><![CDATA[根据欧科云链研究院提供的数据，截止 2023 年 8 月 27 日，PayPal 稳定币 PYUSD 在链上的发行量已经突破 4200 万。而距离首次推出已经过去半个月，当前发行规模尚不足以充分证明稳定币正式被市场接纳。作为曾经 Facebook 战略合作方，发行稳定币失败的经验也为 PayPal 此次的战略调整蒙上了阴影。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[账户抽象：简化你的加密世界]]></title>
+        <id>https://www.web3sj.com/?p=86760</id>
+        <link href="https://www.web3sj.com/news/86760/"/>
+        <updated>2023-08-31T10:23:37.000Z</updated>
+        <summary type="html"><![CDATA[第一次听到账户抽象（Account Abstraction）这个概念，或许大家心中第一反应都在想究竟抽象了什么东西？其实在中文语境下这确实非常难以理解，但是我们从英文语境下理解，「Abstraction」也有提取的意思，「提取」顾名思义就是将一个或两个事物的精华单独拿出来，而抛弃其他累赘的东西。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧科云链OKLink Explorer上线StarkNet浏览器]]></title>
         <id>https://panewslab.com/zh/articledetails/0p6mfvch.html</id>
@@ -327,16 +357,6 @@ Sonnenshein还表示，确实不应该有任何SEC赖以继续阻止现货比特
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么需要「共识层ZK化」？]]></title>
-        <id>https://www.web3sj.com/?p=86669</id>
-        <link href="https://www.web3sj.com/news/86669/"/>
-        <updated>2023-08-31T03:21:46.000Z</updated>
-        <summary type="html"><![CDATA[利用 zk 来验证以太坊 L1 的共识层在两个大方向上有意义。首先，它可以弥补当前节点多样性的缺陷，增强以太坊本身的去中心化和安全性。其次，它为以太坊生态各层协议面对更多用户提供了可用性和安全性的基础，包括跨链安全、无需信任的数据访问、去中心化预言机、和扩容等方面。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Coinbase创始人公布看好的十大加密赛道，包括Flatcoin、链上声誉、RWA等]]></title>
         <id>https://www.hellobtc.com/news/202308/21145.html</id>
         <link href="https://www.hellobtc.com/news/202308/21145.html"/>
@@ -410,26 +430,6 @@ Sonnenshein还表示，确实不应该有任何SEC赖以继续阻止现货比特
         <summary type="html"><![CDATA[8月30日消息，以太坊区块链浏览器Etherscan在X发文表示，用户在特定场景下复制代币转账地址时将收到弹窗提醒，该功能会提醒用户仔细检查是否复制了正确的地址。如果用户不愿意被弹窗提醒，可以设置将其隐藏30天。 当用户复制“发送者”或“接收者”地址，在以下情况下会出现弹窗：1. Token Transfers页面，2. Address页面中的Token Transfers选项卡。新功能适用于以下3个场景：转移信誉不佳的代币，源自与代币发送者不同的地址的转账，转移代币时没有更新信息。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-8.30）]]></title>
-        <id>https://www.web3sj.com/?p=86635</id>
-        <link href="https://www.web3sj.com/news/86635/"/>
-        <updated>2023-08-30T11:54:10.000Z</updated>
-        <summary type="html"><![CDATA[灰度GBTC日交易量升至2022年6月加密市场崩盘以来最高水平。以太坊基金会正式推出以太坊执行层规范（EELS）。HashKey Exchange回应KYC审核拥堵：预计审核压力将在数日内缓解。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[其他国家如何看待加密货币？一窥不同国家的加密情绪]]></title>
-        <id>https://www.web3sj.com/?p=86622</id>
-        <link href="https://www.web3sj.com/news/86622/"/>
-        <updated>2023-08-30T09:35:53.000Z</updated>
-        <summary type="html"><![CDATA[加密货币情绪分析被认为是了解如何做出明智投资决策的绝佳方法。通过使用 NRC 情绪方法（Saif Mohammad，2011），作者研究了 Twitter 社交媒体中对比特币作为代表加密货币的关键词的情绪。大多数观察到的国家对加密货币持积极态度。这里选取部分国家作为样本进行分析：美国、印度、印度尼西亚和马来西亚]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
