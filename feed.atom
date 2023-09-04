@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T10:13:50.842Z</id>
+    <id>urn:2023-09-04T11:10:29.700Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-04T10:13:50.842Z</updated>
+    <updated>2023-09-04T11:10:29.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊第116次核心开发者执行会议总结：坎昆升级、Verkle Trie转换及SSZ序列化]]></title>
+        <id>https://www.web3sj.com/?p=87226</id>
+        <link href="https://www.web3sj.com/project/87226/"/>
+        <updated>2023-09-04T10:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Devnet #8 于两周前的8 月 16 日推出。以太坊基金会的 DevOps 工程师 Barnabas Busa 表示，以开发人员为中心的坎昆升级测试网看起来很运转良好。Busa 提到，运行 Nethermind (EL) 客户端软件的节点似乎存在一些问题。Nethermind 客户端的开发人员 Lukasz Rozmej 解释说，问题的本质是由于 Blob 事务池实现中的配置错误造成的。（译者注：Devnet 8是首个专用的测试网，其中包含了Cancun/Deneb升级的所有最终确定的EIPs）]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LD Capital：Livepeer（LPT）行情再次启动，能否突破前高？]]></title>
+        <id>https://www.web3sj.com/?p=87216</id>
+        <link href="https://www.web3sj.com/project/87216/"/>
+        <updated>2023-09-04T10:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Alice 是一位应用程序开发人员，她正在使用 Livepeer 将实时视频功能添加到其所在高中体育赛事直播 app 中。Bob 作为赛事协调员负责使用 Alice 的应用直播他高中的篮球比赛。当 Bob 打开应用程序并开始录像时，该应用程序会将实时视频以及直播费用发送到 Livepeer 网络中，同时 Livepeer 将视频转码为观众可以接收的形式。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获a16z和Tiger Global支持，要做逆向投资的Volt Capital投了哪些项目？]]></title>
+        <id>https://www.web3sj.com/?p=87210</id>
+        <link href="https://www.web3sj.com/news/87210/"/>
+        <updated>2023-09-04T10:48:40.000Z</updated>
+        <summary type="html"><![CDATA[去年 5 月，Volt Capital 宣布为其第二支加密基金筹集了 5000 万美元，并获得了 a16z 普通合伙人 Marc Andreessen 和 Chris Dixon 的支持，该基金的其他支持者包括 Tiger Global、天使投资人 Elad Gil 等。作为一家专注早期初创企业的风投，从 2020 年至今，Volt Capital 已对 Magic Eden、Nansen、LayerZero、Magic、Coinshift、Thirdweb 和 Sound 等早期加密公司和协议进行了 30 多项投资。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪家 VC 投资的项目最爱空投？]]></title>
+        <id>https://www.web3sj.com/?p=87204</id>
+        <link href="https://www.web3sj.com/news/87204/"/>
+        <updated>2023-09-04T10:43:48.000Z</updated>
+        <summary type="html"><![CDATA[在下文中，海外 KOL ardizor 梳理了业内较活跃的一批 VC，并整理了这些 VC 所投资的项目中哪些曾对社区进行过空投，最后还对比了各大 VC 的投资标的空投率，其结论对于热衷空投的用户或许具有一定的参考意义。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[去中心化社交协议Relation发布社交图谱数据引擎Relation Graph]]></title>
+        <id>https://www.hellobtc.com/news/202309/21165.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21165.html"/>
+        <updated>2023-09-04T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[9月4日，在韩国的KBW Builder House活动中，Relation发布其新产品Relation Graph。该产品旨在聚合Web2和Web3中庞大的社交数据资源，连接各种网络社交身份，构建统一、高效的图谱数据引擎。借由Relation Graph，开发者将更有效地访问社交图谱数据，优化应用产品的开发流程，实现泛社交产品创新。
+
+Relation将针对项目合作方陆续开放图谱数据引擎，并提供Grant和技术支持服务。在保护数据隐私的基础上，Relation计划在未来开放数据治理功能，以实现数据使用的透明度和安全性，并致力于推动社交基础设施的发展。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：1.5枚ETH从未知钱包转至Gate]]></title>
         <id>https://panewslab.com/zh/articledetails/84jfr1ot.html</id>
@@ -185,16 +237,6 @@ Gate Web3 Startup是Web3创新项目的代币发行平台，用户连接Gate Web
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arbitrum与Optimism之争：新一轮Layer3战略较量]]></title>
-        <id>https://www.web3sj.com/?p=87129</id>
-        <link href="https://www.web3sj.com/news/87129/"/>
-        <updated>2023-09-04T07:22:52.000Z</updated>
-        <summary type="html"><![CDATA[本文深入探讨了两者之间的竞争格局，特别是 Arbitrum 如何通过推出基于其独特技术栈的 L3 链 XAI，以战略性地对抗 Optimism 的市场主导地位。文章还详细分析了 Arbitrum 的技术优势，包括其模块化的 L3 堆栈 Arbitrum Orbit，以及创新的验证机制 BOLD 和多语言支持 SDK Stylus。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[币安全球产品与设计主管Mayur Kamat已辞职]]></title>
         <id>https://panewslab.com/zh/articledetails/3997gvi7.html</id>
         <link href="https://panewslab.com/zh/articledetails/3997gvi7.html"/>
@@ -354,16 +396,6 @@ Gluchowski认为这个链上法院系统需要强大的社会共识才能有效�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-9.3）]]></title>
-        <id>https://www.web3sj.com/?p=87111</id>
-        <link href="https://www.web3sj.com/news/87111/"/>
-        <updated>2023-09-03T10:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik Buterin：稳定币RAI的崛起可以解决Lido在LSD生态系统中的主导地位。萨尔瓦多Cuscatlan和Agricola两大银行接受比特币支付贷款。8月比特币矿工和以太坊质押收入出现普跌，灰度GBTC交易额逆势上涨4.1%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数据：8月加密市场融资额为6.62亿美元，同比下降57%]]></title>
         <id>https://www.hellobtc.com/news/202309/21160.html</id>
         <link href="https://www.hellobtc.com/news/202309/21160.html"/>
@@ -411,36 +443,6 @@ Gluchowski认为这个链上法院系统需要强大的社会共识才能有效�
         <summary type="html"><![CDATA[彭博分析师Olga Kharif和James Tarmy发布NFT市场报告，其中援引DappRadar数据显示，2022年1月至2023年7月期间，NFT月交易量下降了81%，Bored Ape Yacht Club和CryptoPunks等知名NFT地板价更是触两年多以来的低点。另因“不可预见的挑战”，NFT市场Recur正在逐步关闭，另一个平台Nifty也宣布停运，Blur六月底至八月初的NFT销售额暴跌96%。不过彭博社指出，虽然NFT市场整体情绪仍然严峻，但某些部分仍然具有价值，来自知名创作者的高端NFT艺术品和游戏中使用的低价值NFT需求持续增长。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慢雾：比特浏览器攻击者已将236.27枚ETH转入混币器eXch]]></title>
-        <id>https://www.hellobtc.com/news/202309/21155.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21155.html"/>
-        <updated>2023-09-03T07:38:00.000Z</updated>
-        <summary type="html"><![CDATA[9月3日消息，慢雾MistTrack监测显示，比特浏览器攻击者已将236.27枚ETH（约38.6万美元）转入混币器eXch，占被盗资金总额的70.6%。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速反弹=给交易者送钱？一文解析4个表现最好的波动性代币]]></title>
-        <id>https://www.web3sj.com/?p=87097</id>
-        <link href="https://www.web3sj.com/news/87097/"/>
-        <updated>2023-09-03T04:42:05.000Z</updated>
-        <summary type="html"><![CDATA[上榜的重要标准自然是波动性。与市场的其他部分一样，如果市场崩溃，那么代币也会下跌，只是比其他代币跌的少些。然而，让它们脱颖而出的是强力反弹，通常能够让交易者每天收益 10%+，为交易者提供了绝佳的机会。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币矿商转型人工智能，是炒作还是机遇？]]></title>
-        <id>https://www.web3sj.com/?p=87092</id>
-        <link href="https://www.web3sj.com/news/87092/"/>
-        <updated>2023-09-03T04:25:44.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT 和其他大型语言模型程序（通常被称为人工智能）今年在工作场所和网络世界中掀起了巨浪。因此，人工智能的参考文献自然而然会出现在加密货币的新闻中。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
