@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T12:24:43.887Z</id>
+    <id>urn:2023-09-04T13:15:54.327Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-04T12:24:43.887Z</updated>
+    <updated>2023-09-04T13:15:54.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[再谈交易所平台币估值逻辑]]></title>
+        <id>https://www.web3sj.com/?p=87238</id>
+        <link href="https://www.web3sj.com/transaction/87238/"/>
+        <updated>2023-09-04T12:28:35.000Z</updated>
+        <summary type="html"><![CDATA[但结果很显然是错的，原因就在于只看 PE 相当于用了一阶段估值模型，而实际上至少应该用二阶段模型，因为除了当前收入，未来增速也会发生决定性的作用。当然，加密货币市场存在典型的牛熊周期，所以实际的模型会更加复杂，但总的来说，增速会对估值和价值回归起到决定性的作用。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-9.4）]]></title>
         <id>https://www.web3sj.com/?p=87233</id>
@@ -298,16 +308,6 @@ Phaver提醒，根据规定，SwissBorg无法在所有国家/地区运营，不�
         <summary type="html"><![CDATA[PANews 9月4日消息，据Scopescan监测，0x4751开头巨鲸地址于2小时前从币安提取7400枚 MKR（约合800 美元）。该巨鲸今日还将155,934枚UNFI（约合140万美元）转入币安，实现了80%利润。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instadapp：DeFi中的终极聚合器]]></title>
-        <id>https://www.web3sj.com/?p=87142</id>
-        <link href="https://www.web3sj.com/definews/87142/"/>
-        <updated>2023-09-04T07:51:57.000Z</updated>
-        <summary type="html"><![CDATA[现在，我们正在见证价值数十亿美元的聚合器平台在互联网上解决重要问题的崛起。例如，亚马逊用于寻找物品，Facebook 用于寻找人，谷歌用于寻找内容，等等。为了推动区块链行业的发展，需要有关键的聚合平台来解决用户的发现难题。这正是 Instadapp 的用武之地。Instadapp 旨在通过聚合各种 DeFi 协议，成为 DeFi 中的终极聚合层。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
