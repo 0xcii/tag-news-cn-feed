@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T07:12:11.540Z</id>
+    <id>urn:2023-09-04T08:16:43.406Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-04T07:12:11.540Z</updated>
+    <updated>2023-09-04T08:16:43.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DeFi监管之殇，Uniswap在天堂，Tornado Cash在地狱]]></title>
+        <id>https://www.web3sj.com/?p=87174</id>
+        <link href="https://www.web3sj.com/definews/87174/"/>
+        <updated>2023-09-04T08:10:53.000Z</updated>
+        <summary type="html"><![CDATA[而在 Uniswap「胜利」之前，同样在 SDNY，美国司法部等监管机构（DOJ）对 Tornado Cash 创始人 Roman Storm 和 Roman Semenov 提出了刑事指控，控诉两人在 Tornado Cash 运营期间涉嫌串谋洗钱、违反制裁规定并经营无牌汇款业务，两人将面临起码 20 年的牢狱之灾。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从L2BEAT风险评级指标重新认识Layer2与Rollup]]></title>
+        <id>https://www.web3sj.com/?p=87154</id>
+        <link href="https://www.web3sj.com/news/87154/"/>
+        <updated>2023-09-04T07:59:45.000Z</updated>
+        <summary type="html"><![CDATA[从 97 年亚洲金融风暴到 07 年次贷危机，华尔街评级机构都扮演了举足轻重的角色，甚至成为了这些恶性事件的重要推手。而在 Web3 这个表面讲究「去信任化」实际依靠「社会共识」的圈子里，「风险评级」是始终绕不开的重要一环。无论是合约代码审计还是链上异动分析，它们的价值丝毫不逊于零知识证明与共识算法，甚至有过之无不及。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instadapp：DeFi中的终极聚合器]]></title>
+        <id>https://www.web3sj.com/?p=87142</id>
+        <link href="https://www.web3sj.com/definews/87142/"/>
+        <updated>2023-09-04T07:51:57.000Z</updated>
+        <summary type="html"><![CDATA[现在，我们正在见证价值数十亿美元的聚合器平台在互联网上解决重要问题的崛起。例如，亚马逊用于寻找物品，Facebook 用于寻找人，谷歌用于寻找内容，等等。为了推动区块链行业的发展，需要有关键的聚合平台来解决用户的发现难题。这正是 Instadapp 的用武之地。Instadapp 旨在通过聚合各种 DeFi 协议，成为 DeFi 中的终极聚合层。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V神卖出MKR背后，是龙头早晚「背刺」母体公链？]]></title>
+        <id>https://www.web3sj.com/?p=87139</id>
+        <link href="https://www.web3sj.com/definews/87139/"/>
+        <updated>2023-09-04T07:43:35.000Z</updated>
+        <summary type="html"><![CDATA[不可否认的是，MKR 在缺乏流动性的二级市场依旧有亮眼的表现，距离 6 月 10 日最低点至今已录得 124% 的涨幅，且币价并未完全走坏，V 神选择在这个时间点出售 MKR 原因何在？背后又有着怎么样的故事？]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum与Optimism之争：新一轮Layer3战略较量]]></title>
+        <id>https://www.web3sj.com/?p=87129</id>
+        <link href="https://www.web3sj.com/news/87129/"/>
+        <updated>2023-09-04T07:22:52.000Z</updated>
+        <summary type="html"><![CDATA[本文深入探讨了两者之间的竞争格局，特别是 Arbitrum 如何通过推出基于其独特技术栈的 L3 链 XAI，以战略性地对抗 Optimism 的市场主导地位。文章还详细分析了 Arbitrum 的技术优势，包括其模块化的 L3 堆栈 Arbitrum Orbit，以及创新的验证机制 BOLD 和多语言支持 SDK Stylus。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[众安银行：已有60至70家Web3公司开设营运账户，另有20至30家正在审批中]]></title>
         <id>https://panewslab.com/zh/articledetails/5uyz7s6y.html</id>
@@ -396,56 +446,6 @@ Tether首席技术官Paolo Ardoino在X平台上表示：“从比特币中获益
         <link href="https://www.web3sj.com/news/87074/"/>
         <updated>2023-09-03T04:18:18.000Z</updated>
         <summary type="html"><![CDATA[Farcaster 创始人 Dan Romero 在 9 月 1 日推出了 Farcaster waitlist 的申请表单，用户可以填写表单提前体验 Farcaster 生态。Farcaster 作为社交图谱的明星项目，早在 2022 年七月份，Farcaster 就公布完成了 A16z 领投的 3000 美元的种子轮融资。同类型大额融资的社交协议类项目包括 Lens Protocol 和前些天发币（cyber）的 Cyberconnect。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市场超跌反弹 , 次新不断逼空]]></title>
-        <id>https://www.web3sj.com/?p=87044</id>
-        <link href="https://www.web3sj.com/transaction/87044/"/>
-        <updated>2023-09-03T04:15:15.000Z</updated>
-        <summary type="html"><![CDATA[本周市场超跌反弹。消息面上灰度胜诉 SEC 官司，BTC 现货 ETF 通过概率增加，GBTC 折价从 25% 收敛到 17%。市场热点围绕次新股和 AI 板块。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-9.2）]]></title>
-        <id>https://www.web3sj.com/?p=87034</id>
-        <link href="https://www.web3sj.com/news/87034/"/>
-        <updated>2023-09-02T15:22:41.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik将500枚MKR兑换为350枚ETH，系两年来首次抛售。CyberConnect为优化CYBER流动性发布紧急提案。Arkham：灰度以太坊信托目前为全球第二大ETH实体，持有50亿美元ETH。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum会成为链上游戏的新乐园吗？]]></title>
-        <id>https://www.web3sj.com/?p=87018</id>
-        <link href="https://www.web3sj.com/news/87018/"/>
-        <updated>2023-09-02T04:35:10.000Z</updated>
-        <summary type="html"><![CDATA[简单来说，该网络使加密货币交易非常快速且廉价，并且与以太坊虚拟机（EVM）兼容，这意味着开发人员可以轻松地将他们的代码从以太坊迁移过来。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于SUI质押那些你或许不知道的硬核知识]]></title>
-        <id>https://www.web3sj.com/?p=87011</id>
-        <link href="https://www.web3sj.com/news/87011/"/>
-        <updated>2023-09-02T04:06:23.000Z</updated>
-        <summary type="html"><![CDATA[拥有 Sui 地址的任何人都可以通过将 SUI 质押到他们选择的一个或多个验证节点来进行质押，质押者包括质押 SUI 的验证节点或第三方 SUI 持有者。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宏观月报：全球避险情绪抬头，风险类资产走势或短期承压]]></title>
-        <id>https://www.web3sj.com/?p=87001</id>
-        <link href="https://www.web3sj.com/news/87001/"/>
-        <updated>2023-09-02T04:02:16.000Z</updated>
-        <summary type="html"><![CDATA[美国 7 月 CPI 同比上升 3.2%，结束此前连续 12 个月回落，预估为 3.3%，前值为 3.0%；美国 7 月核心 CPI 同比上升 4.7%，预估为 4.8%，前值为 4.8%。CPI 有所上升，但仍低于市场预期，美联储加息成效明显。]]></summary>
         <author>
             <name>Gao</name>
         </author>
