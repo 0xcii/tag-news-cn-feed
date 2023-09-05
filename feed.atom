@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T17:11:28.728Z</id>
+    <id>urn:2023-09-05T18:15:57.347Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-05T17:11:28.728Z</updated>
+    <updated>2023-09-05T18:15:57.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LayerZero上线Zora Network主网，用户可免费mint纪念NFT“LayerZero Zorb”]]></title>
+        <id>https://panewslab.com/zh/articledetails/nv4e6rap.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nv4e6rap.html"/>
+        <updated>2023-09-05T15:59:42.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，LayerZero Labs 发推称，LayerZero 已在 Zora Network 主网上线，用户可以免费铸造纪念版 NFT LayerZero Zorb。同时，在 LayerZero 上构建的应用程序可扩展至 Zora Network，Zora Network 开发者也可与 LayerZero 网络其他部分集成。
+据悉，Zora Network是一个基于OP Stack构建的Layer2区块链，重点支持NFT创建者、收集者和应用程序，其链上已mint超过400万枚NFT，且有超过90万收集者与Zora NFT互动。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3域名初创公司D3 Global完成500万美元种子轮融资，Shima Capital领投]]></title>
+        <id>https://panewslab.com/zh/articledetails/mskebtje.html</id>
+        <link href="https://panewslab.com/zh/articledetails/mskebtje.html"/>
+        <updated>2023-09-05T15:54:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，据The Block报道，Web3域名初创公司 D3 Global 完成 500 万美元种子轮融资，Shima Capital 领投，Arthur Hayes 的 Maelstrom、Lightshift、Dispersion Capital、VentureSouq 和 Infinite Capital 以及 Identity Digital 创始人 Paul Stahura 等参投。
+D3 Global 是一家致力于将 Web3 的实用性与现有互联网基础设施融合的初创公司，可以为 Web2 和 Web3 版本的互联网带来更多的互操作性，同时创造更多的实用性和安全性。D3 还表示，计划在 ICANN 即将到来的申请窗口期间申请并获取新的顶级域名，以提供所有浏览器和设备本身支持的安全身份。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾：没有资格领取NEXT代币空投的用户无法通过第二个资格检查]]></title>
+        <id>https://panewslab.com/zh/articledetails/y42fzup8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y42fzup8.html"/>
+        <updated>2023-09-05T15:46:22.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，据慢雾区情报，有部分账户的 NEXT 代币被 claim 到非预期的地址，慢雾安全团队跟进分析后分享简析如下：
+用户可以通过 NEXT Distributor 合约的 claimBySignature 函数领取 NEXT 代币。其中存在 recipient 与 beneficiary 角色，recipient 角色用于接收 claim 的 NEXT 代币，beneficiary 角色是有资格领取 NEXT 代币的地址，其在 Connext 协议公布空投资格时就已经确定。
+在用户进行 NEXT 代币 claim 时，合约会进行两次检查：一是检查 beneficiary 角色的签名，二是检查 beneficiary 角色是否有资格领取空投。在进行第一次检查时其会检查用户传入的 recipient 是否是由 beneficiary 角色进行签名，因此随意传入 recipient 地址在未经过 beneficiary 签名的情况下是无法通过检查的。如果指定一个 beneficiary 地址进行构造签名即使可以通过签名检查，但却无法通过第二个对空投领取资格的检查。空投领取资格检查是通过默克尔证明进行检查的，其证明应由 Connext 协议官方生成。因此没有资格领取空投的用户是无法绕过检查领取他人的空投的。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connext：因机器人活动导致服务提供商Tokensoft服务器超载，正努力解决问题]]></title>
+        <id>https://panewslab.com/zh/articledetails/yhfcema8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/yhfcema8.html"/>
+        <updated>2023-09-05T15:27:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，Layer2 互操作性协议 Connext 发推表示：“我们已意识到影响空投网站的问题，导致用户无法领取。我们检测到机器人活动导致我们的合作伙伴和服务提供商 Tokensoft 服务器超载。他们正在积极努力解决这个问题，以实现正常的索赔。有很多错误信息在流传：请务必参考我们的官方渠道以获取准确信息并随时关注更新 - 一切都应该很快就会恢复正常。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币矿企Marathon Digital 8月产出1072枚比特币，环比下降9%]]></title>
+        <id>https://panewslab.com/zh/articledetails/214psnql.html</id>
+        <link href="https://panewslab.com/zh/articledetails/214psnql.html"/>
+        <updated>2023-09-05T15:21:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，比特币矿企MarathonDigital发布未经审计的8月比特币产量与挖矿运营更新：8 月比特币产量为 1072 枚，较 7 月环比下降 9%，较去年 8 月同比增长 5 倍。年初至今生产了 7,368 枚比特币。8 月比特币减产主要是由于得克萨斯州的高温导致。8 月 Marathon 美国运营算力环比增加 2% 至 19.1 EH/s，安装算力环比增加 1% 至 23.1 EH/s，算力增长主要是由于矿机替换成 S19 XP。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yuga Labs将发布Moon Puzzle，首次解开谜题的用户可获得0.12枚BTC奖励]]></title>
+        <id>https://panewslab.com/zh/articledetails/fxdwr5hq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/fxdwr5hq.html"/>
+        <updated>2023-09-05T15:12:48.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，Yuga Labs 发推称，已推出密码难题，将在 12 周内每周发布一个“Moon Puzzle”，第一个解开谜题的用户将获得 0.12 枚 BTC 奖励，最后一个谜题“the Sun Puzzle”将在第 13 周发布，其奖品是一个 Yuga Twelvefold Ordinals。用户可通过将答案刻在 Statoshis 上的方式进行提交，用户无需持有 TwelveFold，只需一个 Ordinals 比特币钱包即可参与。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetaMask推出“Sell”功能，可将加密货币兑换为法币]]></title>
         <id>https://panewslab.com/zh/articledetails/883ebc6i.html</id>
@@ -154,27 +218,6 @@ Glenen 起先是向 web3 客户提供 Discord 聊天机器人，不过现在它�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polygon zkEVM主网Beta版将于明日19时进行更新，届时网络将暂不可用]]></title>
-        <id>https://panewslab.com/zh/articledetails/dk44x0r4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dk44x0r4.html"/>
-        <updated>2023-09-05T11:55:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，Polygon发布更新称，Polygon zkEVM 主网Beta版将于9 月 6 日 19 时（北京时间）进行更新，持续时间约 1 小时，本次更新期间，网络将暂时不可用。本次更新引入了 Node 和 Prover 组件的最新版本。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlienSwap NFT市场发布Space Voyage积分空投并支持多链0手续费交易]]></title>
-        <id>https://panewslab.com/zh/articledetails/nv1b714l.html</id>
-        <link href="https://panewslab.com/zh/articledetails/nv1b714l.html"/>
-        <updated>2023-09-05T11:42:55.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，AlienSwap NFT 交易市场发布 Multichain Space Voyage 计划，向多链 NFT 活跃玩家免费空投积分关怀盒子，用户可以在 14 天内前往 AlienSwap 免费领取积分盒子空投。Space Voyage 期间交易手续费为0，用户可以在 AlienSwap 支持的三条主网 Ethereum、Linea、Base 上零手续费交易、创作 NFT，每日赚取 5 倍积分奖励。
-AlienSwap是多链NFT交易市场和聚合器，致力于成为领先的NFT交易基础设施，核心团队来自OKX、Binance和头部互联网公司，已从OKX Ventures、C² Ventures等头部机构处获得1200万美金战略融资。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-9.5）]]></title>
         <id>https://www.web3sj.com/?p=87382</id>
         <link href="https://www.web3sj.com/news/87382/"/>
@@ -182,47 +225,6 @@ AlienSwap是多链NFT交易市场和聚合器，致力于成为领先的NFT交�
         <summary type="html"><![CDATA[Vitalik：以太坊急需提高可扩展性，节点中心化问题完美解决方案或需再等10-20年。ssv.network上线新测试网Jato-v2并向公众开放，Jato-v1将于9月18日关闭。《绝地求生》开发商将推出基于Cosmos的Settlus链，测试网将于2024年初启动。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BuidlerDAO通过BIP-003提案，将DAO内资源、治理权和代币池给予12个组织]]></title>
-        <id>https://panewslab.com/zh/articledetails/s4dkv2vs.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s4dkv2vs.html"/>
-        <updated>2023-09-05T11:17:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，Web3人才和项目网络 BuidlerDAO 通过 BIP-003 提案，正式将 DAO 内资源、治理权和代币池给予 12 个组织，成为节点守护者（Partner）。第一批组织 Partner 及委托人包括：Yale Venture Club（联席主席何竞飞）、复旦大学区块链协会（会长雪纯）、LegalDAO（发起人MasterLi）、THUBA DAO（Co-president Luna）、TokenDance（创始人 Luca）、3WW3（联合发起人zoroo.eth）、登链社区（发起人Tiny 熊）、Rebase 联合发起人 Shooter、ManesLAB/Weirdo Ghost Gang（联合创始人 kefan）、BuidlerDAO SG Community（主理人Jasmine）、Moledao（Co-builder Phoebe）、Blockchain Academy（联合创始人 Max）。
-BuidlerDAO 守护者由节点守护者、治理守护者、决议守护者构成，治理守护者（Governor）由 17 个核心贡献者构成，决议守护者（执剑人）为五个公会 Head 共同管理国库多签，至此守护者角色一共 29 名。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tezos基金会和Champ Medici宣布首批100万美元艺术基金受赠者]]></title>
-        <id>https://panewslab.com/zh/articledetails/4qedufw5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/4qedufw5.html"/>
-        <updated>2023-09-05T11:10:19.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据The Block报道，Snoop Dogg 的次子 Champ Medici 去年与 Tezos 合作成立了一个 100 万美元的艺术基金，以鼓励 web3 音乐和艺术创作。Tezos 基金会今天宣布了其 100 万美元艺术基金的第一批受资助者，囊括了各种各样的艺术人才，其中包括新兴歌手、音乐家和艺术家，如 Laurie Marqueton、Uzumaki Cepeda、Malachi Wright、Cory Anne Roberts 和 Reggie Couz。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微博发布关于防范和处置虚拟货币交易炒作的公告，关闭相关账号80个]]></title>
-        <id>https://panewslab.com/zh/articledetails/1rpiotx4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1rpiotx4.html"/>
-        <updated>2023-09-05T11:04:04.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，微博财经官方账号今日发布关于防范和处置虚拟货币交易炒作的公告，称为了落实企业主体责任，严格贯彻执行《中华人民共和国中国人民银行法》《中华人民共和国商业银行法》《中华人民共和国证券法》《中华人民共和国网络安全法》《中华人民共和国电信条例》《防范和处置非法集资条例》《国务院关于清理整顿各类交易场所切实防范金融风险的决定》《国务院办公厅关于清理整顿各类交易场所的实施意见》相关管理规定，站方主动排查及接用户投诉，对从事非法虚拟货币交易炒作的信息进行集中处理。根据相关规定，本次共关闭账号80个。违规账号见下图。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorare推出配备AR的3D数字足球运动员卡，将于9月13日开启拍卖]]></title>
-        <id>https://panewslab.com/zh/articledetails/c0viti5s.html</id>
-        <link href="https://panewslab.com/zh/articledetails/c0viti5s.html"/>
-        <updated>2023-09-05T10:58:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据Decrypt报道，Web3 梦幻体育平台Sorare宣布推出集成增强现实 (AR) 功能的 3D 数字足球运动员卡。这些卡片的首次拍卖将于 9 月 13 日在 Sorare 市场开始，首批阵容包括来自英超联赛的球员，包括Erling Haaland、Marcus Rashford 和 Bukayo Saka。这些 3D AR 卡将成为 Sorare 2023/24 赛季的标准配置。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
