@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T07:11:48.158Z</id>
+    <id>urn:2023-09-05T08:16:31.780Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-05T07:11:48.158Z</updated>
+    <updated>2023-09-05T08:16:31.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[重新审视EIP-1559：区块提议者和构建者的胜利？]]></title>
+        <id>https://www.web3sj.com/?p=87367</id>
+        <link href="https://www.web3sj.com/news/87367/"/>
+        <updated>2023-09-05T07:52:47.000Z</updated>
+        <summary type="html"><![CDATA[很久以前，在 EIP-1559 到来之前的加密世界，矿工通过简单的投票机制来决定区块大小。每个区块，矿工都可以将区块 Gas 限制向上或向下移动最多 1/1024。因此，当矿工生产区块时，Gas 限制将向矿工偏好的算力加权平均值移动。这种机制自以太坊诞生以来就已经存在。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一览7家上市公司投资比特币的盈亏现状]]></title>
+        <id>https://www.web3sj.com/?p=87360</id>
+        <link href="https://www.web3sj.com/news/87360/"/>
+        <updated>2023-09-05T07:42:36.000Z</updated>
+        <summary type="html"><![CDATA[在此汇总了 Microstrategy、Galaxy、特斯拉、Block Inc.、Hut 8、 Marathon Digital Holdings、美图这七家公司的业务概括、股价表现、最新进展与比特币持仓信息（当前数量、平均成本、盈亏情况），并友情提示大家，财报披露存在信息滞后性，不宜作为单一的投资参考指标。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OP Rollup开发者阵营为何完胜ZK Rollup？]]></title>
         <id>https://www.web3sj.com/?p=87349</id>
@@ -173,16 +193,6 @@ SPiCE VC创始人兼执行合伙人Tal Elyashiv表示，加密货币公司估值
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[「得罪」Vitalik？MakerDAO未来何去何从]]></title>
-        <id>https://www.web3sj.com/?p=87265</id>
-        <link href="https://www.web3sj.com/definews/87265/"/>
-        <updated>2023-09-05T04:22:12.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik 抛售 MKR 此举，引发了许多人的讨论和不解，毕竟目前，MakerDAO 是 TVL 在所有 DeFi 中的第二大协议。Tron Network 创始人 Justin Sun 也在社交媒体上发问「为什么 Vitalik 要放弃 MKR？」]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quantstamp联创：人工智能帮助黑客增强攻击能力，加密项目需保持警惕]]></title>
         <id>https://panewslab.com/zh/articledetails/6mqj4rjr.html</id>
         <link href="https://panewslab.com/zh/articledetails/6mqj4rjr.html"/>
@@ -191,16 +201,6 @@ SPiCE VC创始人兼执行合伙人Tal Elyashiv表示，加密货币公司估值
 Richard Ma分享了一位Quantstamp客户的经历，该客户曾遭遇一名冒充首席技术官的攻击者，该攻击者向公司其他工程师发送紧急消息，并在此前进行了一系列对话。Richard Ma表示，这些步骤增加了攻击的复杂性，使得有人更有可能交出重要信息，复杂的人工智能带来的最严重的威胁是执行此类攻击的规模之大，加密领域有很多数据库，其中包含每个项目关键人员的所有联系信息，一旦黑客能够访问该信息，他们就可以用人工智能以不同的方式向所有这些人发送消息。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[投资Web3的最佳时机来临，我们需要什么样的DApp应用？]]></title>
-        <id>https://www.web3sj.com/?p=87257</id>
-        <link href="https://www.web3sj.com/news/87257/"/>
-        <updated>2023-09-05T04:09:38.000Z</updated>
-        <summary type="html"><![CDATA[可扩展性来说 - 我们有 Solana，正统性上 - 有 ETH L2 Rollups 和很快上线的 几大 zkEVMs；追求去中心化的可以用以太坊主链；可组合性 - Cosmos 或 Polkadot 都是不错的选择。我们拥有创建 DAp 所需的必备要件，还有最近火热的几十种 Raas 或 AppChain 服务，你想做应用还是做链，难道你的绝对不是基础设施不够用，或者因为缺少开发工具。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
