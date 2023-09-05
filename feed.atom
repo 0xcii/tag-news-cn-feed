@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T12:24:28.797Z</id>
+    <id>urn:2023-09-05T13:16:05.720Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-05T12:24:28.797Z</updated>
+    <updated>2023-09-05T13:16:05.720Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starknet v0.12.2 已部署至主网]]></title>
+        <id>https://panewslab.com/zh/articledetails/bhzse6jx.html</id>
+        <link href="https://panewslab.com/zh/articledetails/bhzse6jx.html"/>
+        <updated>2023-09-05T12:54:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，以太坊Layer2扩容解决方案Starknet发推称，已于今日将 Starknet v0.12.2 部署到主网。该版本包括一些关键升级：通过一个新的端点启用了 P2P 身份验证，该端点可对状态差异进行签名；解决了待处理区块与待处理状态更新之间可能出现的一些不匹配的问题；将单笔交易的最大步数从 100 万步增加至 300 万步；提高最大吞吐量与 TPS。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik：未来的以太坊升级可能允许完整节点在手机上运行]]></title>
+        <id>https://panewslab.com/zh/articledetails/efdjxi8j.html</id>
+        <link href="https://panewslab.com/zh/articledetails/efdjxi8j.html"/>
+        <updated>2023-09-05T12:45:42.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，以太坊联合创始人 Vitalk Buterin 在韩国区块链周期间表示：“从长远来看，我们有计划维护完全验证的以太坊节点，你可以在手机上运行它。”
+今日早些时候报道，Vitalk表示，以太坊急需提高可扩展性，节点中心化问题完美解决方案或需再等10-20年。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visa利用Solana区块链向商户收单机构扩展其稳定币结算能力]]></title>
+        <id>https://panewslab.com/zh/articledetails/j59x0fsb.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j59x0fsb.html"/>
+        <updated>2023-09-05T12:38:09.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，在 Crypto.com 发行人试点之后，Visa 正在将其稳定币结算功能扩展到 Solana 区块链，并与商家收单机构 Worldpay 和 Nuvei 合作。通过与发行人和收单机构的现场试点，Visa 已经通过 Solana 和以太坊区块链网络在其合作伙伴之间转移了数百万美元的 USDC，以结算通过 VisaNet 授权的法定计价支付。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原生USDC现已在OP主网上本地可用]]></title>
+        <id>https://panewslab.com/zh/articledetails/yx1l5snt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/yx1l5snt.html"/>
+        <updated>2023-09-05T12:28:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，据Circle官方博客，原生 USDC 现已在 OP 主网上本地可用，所有开发人员和用户都可以访问 – 无需桥接。Circle 账号和 Circle API 现在完全支持 OP 主网 USDC。原生 USDC 由 Circle 官方发行，始终可 1:1 兑换美元。
+原生USDC代币地址为：0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[原生USDC现已在Base网络上本地可用]]></title>
+        <id>https://panewslab.com/zh/articledetails/66k5yj8n.html</id>
+        <link href="https://panewslab.com/zh/articledetails/66k5yj8n.html"/>
+        <updated>2023-09-05T12:19:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，据Circle官方博客，原生 USDC 现已在 Base 网络上本地可用，可供开发人员和用户访问 - 无需桥接。Circle 账户和 Circle API 现在完全支持 Base USDC。原生 USDC 由 Circle 官方发行，始终可 1:1 兑换美元。
+代币地址为：0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon zkEVM主网Beta版将于明日19时进行更新，届时网络将暂不可用]]></title>
+        <id>https://panewslab.com/zh/articledetails/dk44x0r4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/dk44x0r4.html"/>
+        <updated>2023-09-05T11:55:13.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，Polygon发布更新称，Polygon zkEVM 主网Beta版将于9 月 6 日 19 时（北京时间）进行更新，持续时间约 1 小时，本次更新期间，网络将暂时不可用。本次更新引入了 Node 和 Prover 组件的最新版本。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlienSwap NFT市场发布Space Voyage积分空投并支持多链0手续费交易]]></title>
+        <id>https://panewslab.com/zh/articledetails/nv1b714l.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nv1b714l.html"/>
+        <updated>2023-09-05T11:42:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，AlienSwap NFT 交易市场发布 Multichain Space Voyage 计划，向多链 NFT 活跃玩家免费空投积分关怀盒子，用户可以在 14 天内前往 AlienSwap 免费领取积分盒子空投。Space Voyage 期间交易手续费为0，用户可以在 AlienSwap 支持的三条主网 Ethereum、Linea、Base 上零手续费交易、创作 NFT，每日赚取 5 倍积分奖励。
+AlienSwap是多链NFT交易市场和聚合器，致力于成为领先的NFT交易基础设施，核心团队来自OKX、Binance和头部互联网公司，已从OKX Ventures、C² Ventures等头部机构处获得1200万美金战略融资。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-9.5）]]></title>
         <id>https://www.web3sj.com/?p=87382</id>
@@ -13,6 +87,47 @@
         <summary type="html"><![CDATA[Vitalik：以太坊急需提高可扩展性，节点中心化问题完美解决方案或需再等10-20年。ssv.network上线新测试网Jato-v2并向公众开放，Jato-v1将于9月18日关闭。《绝地求生》开发商将推出基于Cosmos的Settlus链，测试网将于2024年初启动。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuidlerDAO通过BIP-003提案，将DAO内资源、治理权和代币池给予12个组织]]></title>
+        <id>https://panewslab.com/zh/articledetails/s4dkv2vs.html</id>
+        <link href="https://panewslab.com/zh/articledetails/s4dkv2vs.html"/>
+        <updated>2023-09-05T11:17:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，Web3人才和项目网络 BuidlerDAO 通过 BIP-003 提案，正式将 DAO 内资源、治理权和代币池给予 12 个组织，成为节点守护者（Partner）。第一批组织 Partner 及委托人包括：Yale Venture Club（联席主席何竞飞）、复旦大学区块链协会（会长雪纯）、LegalDAO（发起人MasterLi）、THUBA DAO（Co-president Luna）、TokenDance（创始人 Luca）、3WW3（联合发起人zoroo.eth）、登链社区（发起人Tiny 熊）、Rebase 联合发起人 Shooter、ManesLAB/Weirdo Ghost Gang（联合创始人 kefan）、BuidlerDAO SG Community（主理人Jasmine）、Moledao（Co-builder Phoebe）、Blockchain Academy（联合创始人 Max）。
+BuidlerDAO 守护者由节点守护者、治理守护者、决议守护者构成，治理守护者（Governor）由 17 个核心贡献者构成，决议守护者（执剑人）为五个公会 Head 共同管理国库多签，至此守护者角色一共 29 名。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tezos基金会和Champ Medici宣布首批100万美元艺术基金受赠者]]></title>
+        <id>https://panewslab.com/zh/articledetails/4qedufw5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4qedufw5.html"/>
+        <updated>2023-09-05T11:10:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，据The Block报道，Snoop Dogg 的次子 Champ Medici 去年与 Tezos 合作成立了一个 100 万美元的艺术基金，以鼓励 web3 音乐和艺术创作。Tezos 基金会今天宣布了其 100 万美元艺术基金的第一批受资助者，囊括了各种各样的艺术人才，其中包括新兴歌手、音乐家和艺术家，如 Laurie Marqueton、Uzumaki Cepeda、Malachi Wright、Cory Anne Roberts 和 Reggie Couz。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微博发布关于防范和处置虚拟货币交易炒作的公告，关闭相关账号80个]]></title>
+        <id>https://panewslab.com/zh/articledetails/1rpiotx4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1rpiotx4.html"/>
+        <updated>2023-09-05T11:04:04.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，微博财经官方账号今日发布关于防范和处置虚拟货币交易炒作的公告，称为了落实企业主体责任，严格贯彻执行《中华人民共和国中国人民银行法》《中华人民共和国商业银行法》《中华人民共和国证券法》《中华人民共和国网络安全法》《中华人民共和国电信条例》《防范和处置非法集资条例》《国务院关于清理整顿各类交易场所切实防范金融风险的决定》《国务院办公厅关于清理整顿各类交易场所的实施意见》相关管理规定，站方主动排查及接用户投诉，对从事非法虚拟货币交易炒作的信息进行集中处理。根据相关规定，本次共关闭账号80个。违规账号见下图。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorare推出配备AR的3D数字足球运动员卡，将于9月13日开启拍卖]]></title>
+        <id>https://panewslab.com/zh/articledetails/c0viti5s.html</id>
+        <link href="https://panewslab.com/zh/articledetails/c0viti5s.html"/>
+        <updated>2023-09-05T10:58:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月5日消息，据Decrypt报道，Web3 梦幻体育平台Sorare宣布推出集成增强现实 (AR) 功能的 3D 数字足球运动员卡。这些卡片的首次拍卖将于 9 月 13 日在 Sorare 市场开始，首批阵容包括来自英超联赛的球员，包括Erling Haaland、Marcus Rashford 和 Bukayo Saka。这些 3D AR 卡将成为 Sorare 2023/24 赛季的标准配置。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -109,81 +224,6 @@ Deribit 首席商务官 Luuk Strijers 称，这种弹性可归因于我们期权
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[瑞士金融科技平台GenTwo完成1500万美元融资，Point72 Ventures领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/s5s4a60j.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s5s4a60j.html"/>
-        <updated>2023-09-05T09:12:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据CoinDesk报道，专门从事证券化的瑞士金融科技平台 GenTwo 在由对冲基金名人 Steve Cohen 的 Point72 Ventures 领投的 A 轮融资中筹集了 1500 万美元。这家总部位于苏黎世的公司计划利用这笔资金进行国际扩张并开发其金融工程平台。该公司的 PRO 平台允许投资者将任何资产或投资策略以可银行担保的形式证券化并推向市场。它允许所有投资者接触非银行资产，包括房地产、艺术品或数字资产。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：加密市场做市商利润率在FTX破产后下降20%至30%]]></title>
-        <id>https://panewslab.com/zh/articledetails/v9rwc4oh.html</id>
-        <link href="https://panewslab.com/zh/articledetails/v9rwc4oh.html"/>
-        <updated>2023-09-05T08:53:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据彭博社报道，加密货币价格暴跌导致FTX等公司破产，大量代币资产滞留在倒闭破产的交易平台上，做市商已努力采取措施以减轻市场未来动荡的风险，他们表示这种转变会侵蚀利润。
-加密流动性提供商Auros、GSR Markets和Wintermute Trading强调未来将在更多交易平台开展多元化交易。并且还将数字资产不直接存储在中心化交易平台，将其用作抵押品来借币再转入交易平台上，抵押品保存在托管人或主要经纪人处。如果交易所倒闭，抵押品将由托管人或主经纪商保管。Auros表示，对于整个做市行业来说，与直接在交易平台上存款并杠杆交易相比，使用中介机构会导致利润率下降20%至30%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[胜利证券虚拟资产交易APP已上架Apple Store]]></title>
-        <id>https://panewslab.com/zh/articledetails/gylp3e4t.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gylp3e4t.html"/>
-        <updated>2023-09-05T08:41:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据东网报道，港股上市公司胜利证券(08540.HK)，继早前推出的虚拟资产交易应用程序VICSEC在安卓系统上架，现亦已在Apple Store上架。换言之，投资者现均可通过App Store、Google Play或APK下载。值得注意的是，该行目前虚拟资产交易服务仅面向专业投资者。
-此前8月30日消息，胜利证券或将于今年第四季度向散户开放虚拟资产买卖业务。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三菱UFJ金融集团和瑞穗金融集团将合作开发用于公司间支付的数字货币]]></title>
-        <id>https://panewslab.com/zh/articledetails/95f1tjdy.html</id>
-        <link href="https://panewslab.com/zh/articledetails/95f1tjdy.html"/>
-        <updated>2023-09-05T08:30:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据日经新闻报道，三菱UFJ金融集团（MUFG）和瑞穗金融集团(FG)将合作开发用于公司间支付的数字货币。在三菱UFJ金融集团旗下的三菱UFJ信托银行的共同基础设施中，瑞穗将参加2024年发行的数字货币框架，以实现实用化，这将使复杂、高成本的贸易结算通过数字货币变得更加高效，且成本几乎为零。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arthur Hayes：比特币自今年3月硅谷银行被接管以来一直处于牛市]]></title>
-        <id>https://panewslab.com/zh/articledetails/oid14tbc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oid14tbc.html"/>
-        <updated>2023-09-05T08:21:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据Cointelegraph报道，BitMEX联合创始人Arthur Hayes在2023年韩国区块链周上表示，比特币在过去6个月左右一直处于牛市，但市场还没有做出反应，据他估计会在6个月到12个月内作出反应。
-Hayes认为，比特币的牛市始于3月10日，即硅谷银行（SVB）被美国联邦存款保险公司接管的那一天。为了阻止可能出现的进一步崩溃，美联储制定了银行定期融资计划（BTFP），提供最长一年的银行贷款，以换取他们提交“合格资产”作为抵押品。他表示，从那以后，比特币的价格一直在上涨，目前涨幅约为26%，这就是他声称牛市从那天开始的原因。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nima Capital于9小时前抛售900万枚SYN，约合369万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/uy1gj2id.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uy1gj2id.html"/>
-        <updated>2023-09-05T08:11:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据Scopescan监测，9小时前，疑似Nima Capital地址0x4df9抛售900万枚SYN（约369万美元），此后SYN价格下跌25%。
-此前今日早些时候消息，Synapse回应系LP出售代币并撤回流动性所致。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金融稳定委员会和国际货币基金组织将于本周末提交全球加密政策路线图]]></title>
-        <id>https://panewslab.com/zh/articledetails/8u48jcpz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8u48jcpz.html"/>
-        <updated>2023-09-05T08:07:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据CoinDesk报道，金融稳定委员会主席Klaas Knot在周二的信中写道，金融稳定委员会（FSB）和国际货币基金组织（IMF）将在本周末的G20峰会上联合提交一份关于全球加密政策的文件，内容包括实施加密货币政策框架的路线图，如全球协调、合作和信息共享等措施。
-该文件是应印度要求提交的，该国担任G20主席国直至12月。信中称，加密交易所FTX破产和 terraUSD稳定币崩溃等事件凸显了加密货币面临的“脆弱性”，鉴于加密货币与更广泛的金融体系之间的联系日益紧密，需要密切监控。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[重新审视EIP-1559：区块提议者和构建者的胜利？]]></title>
         <id>https://www.web3sj.com/?p=87367</id>
         <link href="https://www.web3sj.com/news/87367/"/>
@@ -204,37 +244,6 @@ Hayes认为，比特币的牛市始于3月10日，即硅谷银行（SVB）被美
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ssv.network上线新测试网Jato-v2并向公众开放，Jato-v1将于9月18日关闭]]></title>
-        <id>https://panewslab.com/zh/articledetails/0fm9fb8z.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0fm9fb8z.html"/>
-        <updated>2023-09-05T07:33:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据官方博客，以太坊质押基础设施ssv.network宣布，全新测试网Jato-v2已上线并正式向公众开放。该测试网与主网上当前运行的版本相同，并开放了类似主网的测试环境。自9月4日起，Jato-v2将无需许可，这意味着任何人都可以测试ssv.network协议。在测试人员熟悉新版本的协议的同时，将有2周的迁移期，在此期间所有Jato-v1用户都需要转移到v2。Jato-v1将于9月18日关闭。
-Jato-v2通过优化SSV节点和规范提高了性能和安全性，新的更新和功能包括：新合约架构（已更改为ERC-2535 Diamond Standard以扩展合约功能）、完全支持MEV、改进运营商元数据、改进节点性能（优化P2P层和签名验证，激励任务执行量提升30%）、由社区启动节点。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sui亚太区合作伙伴主管：将通过ZK登录功能提高区块链的通用性]]></title>
-        <id>https://panewslab.com/zh/articledetails/q9kkf9p7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/q9kkf9p7.html"/>
-        <updated>2023-09-05T07:20:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据Coinness报道，公链Sui亚太区合作伙伴主管Derik Han在2023年韩国区块链周（KBW 2023）上表示：“将通过ZK登录功能提高区块链的通用性，为了将Web3应用到现实生活中，必须降低使用该技术的门槛。如果引进社交登录系统的话，这一门槛将会降低。我们将把韩国游戏玩家喜欢的功能引入链上。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tether CTO：Tether持有的美国国债达725亿美元，系全球第22大持有者]]></title>
-        <id>https://panewslab.com/zh/articledetails/dxa891a1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dxa891a1.html"/>
-        <updated>2023-09-05T07:12:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，Tether首席技术官Paolo Ardoino在X平台上表示，Tether目前持有的美国国债达725亿美元，超过了阿联酋、墨西哥、澳大利亚和西班牙等国，成为全球第22大持有者。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OP Rollup开发者阵营为何完胜ZK Rollup？]]></title>
         <id>https://www.web3sj.com/?p=87349</id>
         <link href="https://www.web3sj.com/news/87349/"/>
@@ -252,18 +261,6 @@ Jato-v2通过优化SSV节点和规范提高了性能和安全性，新的更新�
         <summary type="html"><![CDATA[这标志着 Elon Musk 计划将 X 打造成具有多种功能的「全能 App（The Everything App）」的目标又迈出了关键一步。本文 veDAO 将分析这一消息的意义以及或将对 X 和加密行业带来的影响。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakerDAO创始人：NewChain尚未选择基于何种代码库，只是进行了调查]]></title>
-        <id>https://panewslab.com/zh/articledetails/c12mk7f7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/c12mk7f7.html"/>
-        <updated>2023-09-05T06:58:39.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月5日消息，据Coinness报道，MakerDAO创始人Rune Christensen在接受采访时表示：“NewChain尚未选择采用Solana或Cosmos代码库，只是进行了调查；Maker Dao结构被分为SubDAO，这时需要有效运营多种代币的方向。关于Endgame的第二阶段SubDAO，Web3文化社区、RWA等各个领域的SubDAO将会有各种各样的商业模式，我们的目标是让DAO本身成为一个可持续的生态系统。”
-此前消息，MakerDAO创始人发文称，Solana堆栈是“Endgame”最后阶段NewChain最有可能采用的代码库。
-相关阅读：MakerDAO选择Solana作为应用链？定论为时尚早，至少需要3年才能实现]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
