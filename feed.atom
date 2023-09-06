@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-06T15:14:36.169Z</id>
+    <id>urn:2023-09-06T16:17:05.312Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-06T15:14:36.169Z</updated>
+    <updated>2023-09-06T16:17:05.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Starknet代码核心堆栈现已开源]]></title>
+        <id>https://panewslab.com/zh/articledetails/pg650gzt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/pg650gzt.html"/>
+        <updated>2023-09-06T15:22:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，以太坊Layer2扩容解决方案Starknet发推表示，整个 Starknet 代码核心堆栈现已开源。包括 Full Node、Execution Engine、Sequencer 和 Prover。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港数码港回应网络安全事件：涉及未经授权的第三方入侵部分的电脑系统，目前已采取行动]]></title>
+        <id>https://panewslab.com/zh/articledetails/60xaaco8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/60xaaco8.html"/>
+        <updated>2023-09-06T15:16:48.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，香港数码港针对疑遭黑客入侵的网络安全事件回应称，数码港发现一宗网络安全事件，涉及未经授权的第三方入侵数码港部分的电脑系统。数码港非常关注事件，已立刻采取行动控制，包括报警处理和关闭受影响的电脑设备，并在独立的网络安全专家的协助下迅速展开详细调查。数码港亦已向有关当局及香港个人资料私隐专员公署通报。
+数码港在今日较早前的资讯科技安全检测过程中，注意到网上流出怀疑与该事件有关的资料。数码港对于任何形式的网络犯罪行为予以严厉谴责，并会全力配合执法部门的工作。并为事件设立专属电邮( infose curity.cs@cyberport.hk ) 处理和跟进。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankr将为Sei区块链提供RPC服务]]></title>
+        <id>https://panewslab.com/zh/articledetails/kcre8xs6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kcre8xs6.html"/>
+        <updated>2023-09-06T15:06:26.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，Web3基础设施提供商 Ankr 宣布将为 Sei 区块链提供 RPC 服务，用户将能够访问 Sei 公共和高级 RPC、发出请求调用并接收与他们自己运行 Sei 全节点所获得的结果相同的信息返回。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法院已下令冻结Celsius前CEO Alex Mashinsky的资产]]></title>
+        <id>https://panewslab.com/zh/articledetails/4d44gage.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4d44gage.html"/>
+        <updated>2023-09-06T14:56:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，据CoinDesk报道，法院文件显示。前 Celsius 首席执行官 Alex Mashinsky 的银行存款和房地产已被法院下令冻结。由于担心账户在被冻结之前可能被耗尽，该命令最初被保密，现在已被解封。
+此前 7 月，美国SEC、司法部、商品期货交易委员会和联邦贸易委员会均对 Celsius Network 和 Alex Mashinsky 提起诉讼。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik等人发表“区块链隐私和监管合规：迈向实际平衡”的论文]]></title>
+        <id>https://panewslab.com/zh/articledetails/mwbr646y.html</id>
+        <link href="https://panewslab.com/zh/articledetails/mwbr646y.html"/>
+        <updated>2023-09-06T14:48:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，Vitalik Buterin今日同Chainalysis、巴塞尔大学等机构的研究人员联合发表名为“Blockchain Privacy and Regulatory Compliance: Towards a Practical Equilibrium（区块链隐私和监管合规：迈向实际平衡）”的论文。文章研究了隐私池（Privacy Pools），这是一种基于智能合约的新型隐私增强协议。文章讨论了该协议的优缺点，并展示了如何利用它来在诚实和不诚实的用户之间创建分离平衡。该提案的核心思想是允许用户发布零知识证明，证明他们的资金（不）来自已知的（不）合法来源，而无需公开透露他们的整个交易交易图。这是通过证明满足法规或社会共识要求的某些属性的自定义关联集的成员资格来实现的。该提案可能是迈向未来的第一步，人们可以在无需透露整个交易历史的情况下证明监管合规性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港数码港疑被黑客入侵，有初创公司被盗近400GB公司数据]]></title>
+        <id>https://panewslab.com/zh/articledetails/8usior7n.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8usior7n.html"/>
+        <updated>2023-09-06T14:35:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，据XFastest报道，网上有消息称，香港数码港被黑客入侵，有初创公司的资料、公司文件、身份证明文件等资料都被黑客所取得，合共约400 GB 的公司数据。而在X ( 前称Twitter ) 一关注网路安全的帐号的贴文中可以看到，在黑客的网站中，该被偷取的资料索价约30 万美元（约港币235 万）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX：一直在将各种代币桥接回其原链，将SOL等代币转移至托管机构BitGo]]></title>
+        <id>https://panewslab.com/zh/articledetails/kc8u6too.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kc8u6too.html"/>
+        <updated>2023-09-06T14:01:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，FTX在X平台上发文表示，FTX 一直在将各种代币跨链桥接回其原链，此外，FTX还一直在将SOL和其他代币从现有钱包迁移到FTX的合格托管机构BitGo。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安回应CYBER活期赚币事件：因流动性问题实行提现限额，不存在内部砸盘套利行为]]></title>
+        <id>https://panewslab.com/zh/articledetails/jvgrj85x.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jvgrj85x.html"/>
+        <updated>2023-09-06T13:55:26.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月6日消息，针对近期有用户称 CYBER 活期赚币赎回中断事件，币安发布“关于CYBER活期赚币事件的说明”回应称，不稳定的市场行情引发CYBER出现了期现价差，期货资金费率升高，进一步导致借贷客户对CYBER的需求量急剧增加，同时大量提款用户希望取出CYBER售出，而此时市场流动性较差，借贷用户又无法短时间内买回CYBER进行还款。多个情况的叠加，最终导致了平台短期内出现无法赎回的情况，为了保障绝大多数用户的提款权益，与其他遇到类似问题的平台一样，币安也对CYBER实行了提现限额。币安绝不会使用用户的资金去做任何的交易或投资进行获利。这是纯粹的用户借贷行为，没有发生任何币安内部业务部门的“互借”行为，也没有对做市商或项目方进行恶意借贷。目前，不存在任何项目方从币安借到CYBER的情况。
+同时，系统通过自动提高借贷利率，来促使借贷用户尽快还款；系统根据市场流动性自动提高活期赚币年利率( APR)，吸引储户存款；及时调整CYBER活期赚币个人提款限额，以保障绝大多数客户提款权益。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bitget董事总经理：Web3发展的核心价值是建立公平有序的良性环境，恶意竞争将阻碍行业的进程]]></title>
         <id>https://panewslab.com/zh/articledetails/3bb71v9i.html</id>
@@ -136,92 +219,6 @@
         <link href="https://panewslab.com/zh/articledetails/55sukb33.html"/>
         <updated>2023-09-06T10:57:20.000Z</updated>
         <summary type="html"><![CDATA[PANews 9月6日消息，Vitalik Buterin 在回答 ABCDE Capital 联合创始人 BMAN 提出的有关 ZK 安全验证的问题时表示，短期内，保证ZK系统的安全需要依赖至少两个验证系统，再加上一个治理机制。如果这些系统不一致，可以采用治理机制来确定哪个系统是正确的。展望中期，可以引入 Optimism 等多种验证系统。从长远来看，可以探索将验证纳入协议中。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐私中间件项目Automata Network新增支持Injective]]></title>
-        <id>https://panewslab.com/zh/articledetails/14bth0zu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/14bth0zu.html"/>
-        <updated>2023-09-06T10:44:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，跨链隐私中间件项目 Automata Network的 Web3 隐私 RPC 中继 1RPC 新增支持 Injective，该中继可以改善元数据的暴露和泄漏问题。目前 1RPC 支持的区块链总数已达 33 条。Injective 是一个专为金融而构建的 Layer-1，可满足 Web3 中的开发人员、用户和机构的需求。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：8月份各L1区块链市值、DeFi协议TVL、DEX交易量和各网络的交易费用均显著下降]]></title>
-        <id>https://panewslab.com/zh/articledetails/y5q3vwmv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/y5q3vwmv.html"/>
-        <updated>2023-09-06T10:24:59.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，The Block数据显示， Layer 1 区块链 8 月份的估值逐月下降，仅以太坊市值就在 8 月 1 日至 9 月期间下跌 254 亿美元，损失 11.4%。8 月份，L1 中 DeFi 协议锁定的总价值（TVL）也几乎普遍下降，其中以太坊和 Tron 生态系统分别下降 12 亿美元和 5.62 亿美元。DEX 交易量与 L1 网络上的用户活动一致，创 2022 年 12 月以来新低，约 568 亿美元。由于以太坊用户 8 月份使用该网络支付的费用比 7 月份减少了 4100 万美元，整个 L1 的总交易费用大幅下降。BNB Chain 和 Avalanche 的环比跌幅分别为 28% 和 41%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anoma基金会计划为注重隐私的Namada协议开发原生区块链]]></title>
-        <id>https://panewslab.com/zh/articledetails/um3btnlu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/um3btnlu.html"/>
-        <updated>2023-09-06T09:22:42.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，据CoinDesk报道，区块链非营利组织 Anoma 基金会联合创始人 Awa Sun Yin 今日在韩国区块链周 (KBW) 上表示，计划为注重隐私的 Namada 协议创建一个独立的区块链，将其私密交易功能扩展到该网络上构建的任何应用程序。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PeckShield：Stake.com黑客已将7.9万枚MATIC兑换为BTC.b并转移至BTC网络]]></title>
-        <id>https://panewslab.com/zh/articledetails/gp1o1m1x.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gp1o1m1x.html"/>
-        <updated>2023-09-06T09:07:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，PeckShieldAlert监测显示，Stake.com 黑客已将 7.9 万枚 MATIC（约合 4.4 万美元）转移至 AVAX 网络，随后兑换为 BTC.b 并再次转移至 BTC 网络。
-PeckShieldAlert随后补充称，Stake.com 黑客已将12.64万枚MATIC（约7万美元）转移到中间地址 0x22bc…563f，并将其兑换为约 2.7 枚 BTC。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dYdX将在Cosmos上推出去中心化订单簿交易所，以太坊上dYdX将在几个月内关闭]]></title>
-        <id>https://panewslab.com/zh/articledetails/rmsc54lt.html</id>
-        <link href="https://panewslab.com/zh/articledetails/rmsc54lt.html"/>
-        <updated>2023-09-06T08:43:55.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，据Cointelegraph报道，dYdX基金会首席执行官Charles d'Haussy在2023年韩国区块链周上表示，dYdX计划在将其生态系统从以太坊网络迁移到跨链网络Cosmos时，提供“纯粹去中心化”的订单簿交易所。
-d'Haussy称，去中心化交易所面临的问题之一是链上订单簿的性能缓慢；由于这个问题，DEX的订单簿必须移至链外，以满足交易平台用户的需求；dYdX通过使订单簿去中心化，在去中心化方面迈出了“新的一步”；订单簿仍不会位于dYdX链上，因为它仍然很慢，但会托管在验证器中。在提及迁移计划时， d'Haussy表示，dYdX不是在扩张，而只是在迁移，以太坊上dYdX交易平台将在几个月内关闭。
-此前6月22日消息，dYdX计划使用Cosmos SDK启动其专属应用链，新链预计将在未来几个月内推出。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frax核心团队提议引入Staked FRAX (sFRAX)，以提供类似DSR的被动收益机会]]></title>
-        <id>https://panewslab.com/zh/articledetails/0n5kig1f.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0n5kig1f.html"/>
-        <updated>2023-09-06T08:24:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，稳定币协议Frax Finance社区发起“FIP - 2XX” sFRAX治理提案，该提案由Frax核心团队提出，计划将Staked FRAX (sFRAX)引入Frax生态系统，允许用户将FRAX稳定币存入智能合约（标准ERC-4626）并赚取利息（以FRAX稳定币计价）。
-提案表示，与Dai储蓄率（DSR）概念类似，sFRAX专注于解决FRAX近乎于零的久期收益率曲线，为用户提供赚取FRAX稳定币的机会，同时为 FRAX 供应量的增长做出贡献。除存入和赚取的 FRAX 稳定币外，sFRAX不保证链上或链下资产的任何收益或任何赎回权。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOMA Finance将发行面向散户投资者的数字证券，并将推出SOMA代币]]></title>
-        <id>https://panewslab.com/zh/articledetails/2f3g5l7s.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2f3g5l7s.html"/>
-        <updated>2023-09-06T08:17:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，据CoinDesk报道，MANTRA和Tritaurian Capital的合资企业SOMA Finance表示，该公司计划于本月晚些时候向全球和美国散户投资者推出首个合法发行且结构合规的数字证券。该公司计划分一批或多批出售价值500万美元的代币，第一批的价格为每个代币2.50美元。该代币持有者有权获得SOMA利润10%的股息。SOMA Finance计划在本月底或10月初发行SOMA代币。
-据悉，SOMA Finance是一个多资产去中心化交易所(DEX) ，也是代币化股票、数字资产和NFT的发行平台。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha Protocol Ventures设立2000万美元Web3基金]]></title>
-        <id>https://panewslab.com/zh/articledetails/32euwnhg.html</id>
-        <link href="https://panewslab.com/zh/articledetails/32euwnhg.html"/>
-        <updated>2023-09-06T08:10:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月6日消息，据Cointelegraph报道，Alpha Protocol Ventures首席执行官兼创始人Vagelis Diamantis表示，该风投机构已设立了一支价值2000万美元的Web3基金，将用于投资“被低估的”Web3项目以及链游和数字藏品相关公司。
-据悉，Alpha Protocol Ventures已从Diamantis、Ethernity首席执行官Nick Rose以及Web3投资公司 Morningstar Ventures和一群Web3天使投资者那里获得了资金。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
