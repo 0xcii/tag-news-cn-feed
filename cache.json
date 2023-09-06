@@ -150,9 +150,99 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/j9qbj4ux.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，据Ali Charts监测显示，巨鲸群体似乎在过去的24小时内购买了约 26万枚ETH，价值近4.25亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/j9qbj4ux.html",
+          "publishedOn": "2023-09-06T01:09:20.000Z",
+          "wordCount": 341,
+          "title": "巨鲸群体昨日疑似购入约26万枚ETH，价值近4.25亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1v2tyit2.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，据链上分析师余烬监测，8小时前，两个GMX巨鲸地址(可能属于同一人/机构)将54607枚GMX(约合178万美元)存入GMX质押。其中0x856地址存入并质押了28385枚GMX(约合92万美元)；0xacc地址地址存入并质押了26221枚GMX(约合85约合)。\n这两个地址目前共计质押210493枚GMX(约合688万美元)，成本约58美元。目前浮亏534万美元(-43%)。",
+          "link": "https://panewslab.com/zh/articledetails/1v2tyit2.html",
+          "publishedOn": "2023-09-06T01:07:29.000Z",
+          "wordCount": 335,
+          "title": "数据：疑似从属于同一人的两地址凌晨将超5万枚GMX存入GMX质押，约合178万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/adgpgt9p.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，Arbitrum生态去中心化交易所GMBL.COMPUTER在X平台解释了今日签名密钥泄露事件的经过：“有人能够伪造“调用”并从我们的服务器获取签名，然后将该签名传递给合约，并从合约中提取了价值近500 ETH（按当前价格约合81.5万美元）的GMBL。”\nGMBL.COMPUTER表示：“这不是合约漏洞。已找到了问题的根源，它是发生在链下的。我们已经掌握了他们的所有信息，并将开始追回资金。我们提供漏洞赏金，如果资金得以返还，则不会采取法律行动。”",
+          "link": "https://panewslab.com/zh/articledetails/adgpgt9p.html",
+          "publishedOn": "2023-09-06T01:02:14.000Z",
+          "wordCount": 350,
+          "title": "GMBL.COMPUTER：在签名密钥泄露事件中损失约80万美元，已掌握黑客所有信息",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6of5wjgx.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，据The Block报道，Sam Bankman-Fried(SBF)可能会因FTX破产和超级碗广告而面临美国检察官的审查，双方律师正在争论下个月的审判中可以使用哪些证据。\n美国司法部在周五晚些时候提交的一份文件中表示，SBF希望“排除任何有关FTX和Alameda破产以及被告辞去FTX首席执行官职务的证据”,他认为这些证据无关紧要，因为‘企业出于各种原因寻求破产保护’，而被告是‘被迫’辞职的。而检察官认为，有关FTX和Alameda破产的证据应在审判中接受，因为该破产与挪用客户资金有关，并与SBF涉嫌犯罪的“故事完整”有关。\nSBF的律师还拒绝了检察官提出的要求，即播放某些FTX相关超级碗广告的视频，这些广告中有 Tom Brady、Gisele Bündchen、Larry David等名人。SBF的律师表示，这些证据会让陪审团感到困惑，因为这会给人留下这样的印象：FTX的客户被指控欺诈FTX.US的美国客户。 SBF的律师称：“当指控涉及FTX（一家不向美国客户开放的业务）的客户时，暗示美国客户受到欺诈，这是煽动性的，并且会带来不可避免的不公平偏见风险。”检察官表示，FTX暗示FTX和FTX.US之间存在“明显的公开区别”，但内部文件显示FTX和FTX.US的广告之间没有区别。",
+          "link": "https://panewslab.com/zh/articledetails/6of5wjgx.html",
+          "publishedOn": "2023-09-06T00:50:52.000Z",
+          "wordCount": 355,
+          "title": "SBF或会因FTX破产和超级碗广告在下月初审判中面临美国检查官的审查",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a6wzt4wk.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，据Watcher.Guru报道，X（原推特）今天已获得美国密西西比州支付服务汇款许可证。据悉，X一直在寻求进入美国支付行业的监管许可，该社交媒体巨头正在开发软件，目标是最终在其平台上实现支付。\n自此X公司已在美国获得八个州的支付监管许可，除密西西比州外，还有亚利桑那州、格鲁吉亚、马里兰州、密歇根州、新罕布什尔州、密苏里州和罗德岛州。",
+          "link": "https://panewslab.com/zh/articledetails/a6wzt4wk.html",
+          "publishedOn": "2023-09-06T00:23:47.000Z",
+          "wordCount": 339,
+          "title": "X（原推特）已获得美国密西西比州支付服务汇款许可证",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/q5g9r8yw.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，币安创始人赵长鹏在X平台上澄清了一张社区流传的图片，称这张图片是P的，请不要相信。该图像系CNBC主持人Jim Cramer在2022年9月一段讲话的视频截图，图片字幕标注着Jim Cramer称“赵长鹏看起来是个好人，我很看好，购买他们的代币。”据悉，Jim Cramer被广泛称为著名“反指”。",
+          "link": "https://panewslab.com/zh/articledetails/q5g9r8yw.html",
+          "publishedOn": "2023-09-06T00:11:49.000Z",
+          "wordCount": 362,
+          "title": "赵长鹏澄清CNBC著名“反指”Jim Cramer对币安好评的截图系P图",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/q3my27xf.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，据CoinDesk报道，美国司法部(DOJ)周二在一封信中表示，被监禁的FTX前首席执行官SBF每周七天都可以使用一台笔记本电脑和三个存有辩护材料的硬盘。SBF的辩护团队此前辩称，SBF“需要”出狱准备辩护工作，并告知负责此案的法官Lewis Kaplan，糟糕的网速和电池寿命限制了SBF在下个月刑事审判之前所能进行的辩护准备工作。但司法部在周二的信中表示，辩护团队提供了“大约8小时电池寿命”的新电池，一天的互联网速度从每秒7.5 mbps到每秒34 mbps不等，这对于大多数上网查阅资料活动来说已经足够了。许多网站表示，5mbps已经足够流媒体播放视频。",
+          "link": "https://panewslab.com/zh/articledetails/q3my27xf.html",
+          "publishedOn": "2023-09-05T23:45:16.000Z",
+          "wordCount": 348,
+          "title": "SBF被允许每周七天使用笔记本电脑和三个硬盘",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7cx9b26l.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，据CoinDesk报道，Grayscale Investments向美国证券交易委员会（SEC）表示，它“没有理由”拒绝将Grayscale比特币信托(GBTC)转换为ETF。上周，华盛顿特区巡回上诉法院要求SEC重新审查其先前拒绝Grayscale申请的决定。巡回法官Neomi Rao同意Grayscale的立场，即其拟议的产品与已经在美国交易的比特币期货ETP没有实质性区别。Grayscale的律师周二在致SEC的一封信中表示：“在SEC充分分析法院的意见，包括所提出的驳回理由之后，我们认为SEC应该得出这样的结论，即没有理由将GBTC与投资比特币期货合约的ETP区别对待。目前最好的资源利用方式是SEC发布命令，批准纽交所Arca的19b-4规则申请，并授权员工与Grayscale和纽交所Arca合作，最终确定GBTC的及时上市。”",
+          "link": "https://panewslab.com/zh/articledetails/7cx9b26l.html",
+          "publishedOn": "2023-09-05T23:34:55.000Z",
+          "wordCount": 360,
+          "title": "Grayscale律师敦促SEC批准比特币ETF转换",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/v2blc7yf.html",
+          "author": "PA一线",
+          "description": "PANews 9月6日消息，据CoinDesk报道，Coinbase在美国面向机构客户推出了一项新的加密贷款服务，帮助填补了Genesis和BlockFi等公司破产后留下的空白。根据美国证券交易委员会（SEC）的一份文件，截至9月1日，Coinbase已为该平台筹集了5700万美元。据一位知情人士透露，客户可以将资金(主要是加密资产)借给Coinbase，并获得超过贷款价值的抵押品。Coinbase随后可以向机构交易客户提供担保贷款，类似于银行在传统金融领域提供的大宗经纪服务。Genesis和BlockFi此前在美国提供类似的贷款服务，但去年遭受了巨额亏损，导致它们全部或部分进入破产程序。这项新服务不同于Coinbase在2021年取消的Lend项目。Lend针对零售客户，遭到了SEC官员反对。而这项最新的贷款服务面向的是机构客户，监管相对宽松。",
+          "link": "https://panewslab.com/zh/articledetails/v2blc7yf.html",
+          "publishedOn": "2023-09-05T23:23:15.000Z",
+          "wordCount": 346,
+          "title": "Coinbase面向机构客户推出加密贷款平台，目前已筹集5700万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/805i291f.html",
           "author": "PA一线",
-          "description": "PANews 9月6日消息，据官方消息，Base此前发生停止出块故障。Base团队立即展开调查，并于随后部署了修复程序，出块开始恢复。目前团队确认网络运行和RPC API已恢复正常，之后将继续监测。",
+          "description": "PANews 9月6日消息，据官方消息，Base此前发生停止出块故障。Base团队立即展开调查，并于随后部署了修复程序，出块开始恢复。目前团队确认网络运行和RPC API已恢复正常，之后将继续监测。Base随后推特发文称，故障已被修复，没有资金处于风险之中。",
           "link": "https://panewslab.com/zh/articledetails/805i291f.html",
           "publishedOn": "2023-09-05T23:11:34.000Z",
           "wordCount": 349,
@@ -192,7 +282,7 @@
           "description": "1.超五名高管离职，过去24小时币安出现约4.1亿美元的小幅流出。\n\n2.数据：过去24小时，Coinbase净流出5.12亿美元。\n\n3.Vitalik KBW2023演讲：相比无状态存储解决方案，状态过期是低优先级选择。\n\n4.Offchain Labs联创：更低成本、更快确定性等将推动Layer3发展。\n\n5.MistTrack：Stake.com被盗总资产约9615.29枚ETH，目前停留在4个地址上。\n\n6.马斯克新传记或将证实其一直在秘密资助狗狗币的开发。\n\n7.数据：zkSync桥接TVL突破150万枚ETH，价值约合25亿美元。\n\n8.数据：1.5万ETH从未知钱包转移到Gate交易所。",
           "link": "https://www.hellobtc.com/news/202309/21169.html",
           "publishedOn": "2023-09-05T02:58:00.000Z",
-          "wordCount": 319,
+          "wordCount": 311,
           "title": "白话区块链早报：短期交易所净流出增加",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -202,7 +292,7 @@
           "description": "9月5日消息，以太坊开发工具Remix已推出Starknet插件，可帮助开发者编译代码、部署合约、测试合约、导入项目、验证交易，开发者可以在一个开发环境中完成合约开发的所有阶段。",
           "link": "https://www.hellobtc.com/news/202309/21168.html",
           "publishedOn": "2023-09-05T00:37:00.000Z",
-          "wordCount": 302,
+          "wordCount": 300,
           "title": "以太坊开发工具Remix已推出Starknet开发插件",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
