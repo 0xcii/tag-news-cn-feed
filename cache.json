@@ -21,7 +21,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 158,
+          "wordCount": 156,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 155,
+          "wordCount": 165,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=87621",
+          "author": "Gao",
+          "description": "今天，我们发布了 Arbitrum Stylus 的代码和公共测试网，使开发者能够使用传统的 EVM 工具和与 WASM 兼容的语言（如 Rust、C 和 C++）在 Arbitrum Nitro 链上构建应用程序。此外，通过提高计算、存储和内存效率，Stylus 大大降低了 gas 费，并使得先前不切实际的资源密集型区块链用例，如替代签名方案、更大的生成艺术库、基于 C++ 的游戏和计算密集型 AI 模型成为可能。开源 SDK 现已可用，我们将在 ETHGlobal NY 举办一个 Stylus Hackathon，奖励总额为 20,000 美元。",
+          "link": "https://www.web3sj.com/news/87621/",
+          "publishedOn": "2023-09-07T07:09:19.000Z",
+          "wordCount": 1184,
+          "title": "Arbitrum最新发布的开发环境Stylus到底是什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694070536135.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=87612",
           "author": "Gao",
           "description": "Vitalik 的思考和文章往往左右着新叙事和技术的发展方向，此外其他区块链领域的知名专家学者，对区块链技术和发展趋势有着独到的见解。此外，论文探讨的区块链隐私和合规问题，事关加密行业未来发展方向和合规路径选择。在保护用户隐私和符合监管要求之间找到平衡,是加密行业亟待解决的难题。",
           "link": "https://www.web3sj.com/news/87612/",
           "publishedOn": "2023-09-07T05:51:50.000Z",
-          "wordCount": 1070,
+          "wordCount": 1045,
           "title": "解读Vitalik最新论文：Privacy Pools，让合规不再以牺牲隐私和中心化为代价",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694065894872.png"
         },
@@ -58,7 +68,7 @@
           "description": "通过创建一个融合互联网开放和协作原则的知识产权框架，Story Protocol 旨在成为互联网的原生 IP 基础设施。除了支持无摩擦许可和 IP 重新混合的模块之外，该协议还将提供中立的出处来源，以跟踪 IP 跨媒介和平台演变的生命周期。",
           "link": "https://www.web3sj.com/news/87607/",
           "publishedOn": "2023-09-07T05:38:57.000Z",
-          "wordCount": 1066,
+          "wordCount": 1078,
           "title": "a16z加持、融资5400万美元的Story Protocol，究竟要做什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694061054063.png"
         },
@@ -68,7 +78,7 @@
           "description": "这个计划于七月宣布扩展计划，是该公司努力将生物识别数据整合到支付系统中的一部分，也是对苹果和谷歌在数字钱包领域不断增长的竞争的直接回应。但是像 Whole Foods 这样的购物应用程序低估了亚马逊更大的雄心：通过生物识别进行身份验证。从长远来看，Amazon One 希望成为所有身份需求的一站式服务，包括零售支付和年龄验证，未来可能还包括医疗记录等敏感数据。",
           "link": "https://www.web3sj.com/news/87602/",
           "publishedOn": "2023-09-07T05:29:14.000Z",
-          "wordCount": 846,
+          "wordCount": 889,
           "title": "Coinbase：去中心化身份DID的巨大潜力",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694052494628.jpg"
         },
@@ -78,7 +88,7 @@
           "description": "我认为，加密货币支持的稳定币的固有限制并没有得到足够的讨论。正如我们将在本文中讨论的那样，目前的项目未能吸引用户，因为与法币支持的稳定币相比，加密货币支持的稳定币在资本效率、清算风险、有限的使用案例和流动性等方面存在局限。",
           "link": "https://www.web3sj.com/news/87597/",
           "publishedOn": "2023-09-07T05:16:53.000Z",
-          "wordCount": 1251,
+          "wordCount": 1241,
           "title": "穿透当前稳定币格局：USDT和USDC之外，后来者们的机遇与挑战",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694063801509.png"
         },
@@ -88,7 +98,7 @@
           "description": "Mantle Network 是一个兼容以太坊虚拟机（EVM）的模块化 Layer 2 网络,由 BitDAO 孵化,利用 roll-up 技术和去中心化的数据可用性层（Mantle DA）提供高吞吐量、低费用和快速确定性的服务，同时保证了以太坊级别的安全性。同时还使用了多方计算和去中心化的排序器来增强网络的安全性和去中心化程度。Mantle Network 的目标是为以太坊生态系统提供一个高性能、低费用、易于使用的平台，以促进去中心化应用的大规模采用。",
           "link": "https://www.web3sj.com/news/87569/",
           "publishedOn": "2023-09-07T04:52:16.000Z",
-          "wordCount": 3766,
+          "wordCount": 3768,
           "title": "Mantle Network投研报告：兼容EVM的模块化Layer2网络",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694062234843.png"
         },
@@ -98,7 +108,7 @@
           "description": "对于一些人来说，自动做市商（AMM）是对去中心化交易所（DEX）唯一感兴趣的地方。由于低流动性和对传统做市商的依赖等因素，中心化交易所通常会排除这些资产。无论是 Uniswap、Curve、Balancer，还是像 MetaMask 和 1inch 这样的聚合器，自几年前问世以来，AMM 已经促进了数万亿美元的价值交易。DEX 的无需许可设计使其成为交易低流动性或长尾资产的理想平台，因为任何人都可以为新资产创建市场。",
           "link": "https://www.web3sj.com/definews/87557/",
           "publishedOn": "2023-09-07T03:36:12.000Z",
-          "wordCount": 1279,
+          "wordCount": 1277,
           "title": "基于AMM的永续合约、期权和波动率交易产品，未来还有多大的发展空间？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090614241699875410.jpg"
         },
@@ -108,7 +118,7 @@
           "description": "我们与 Animoca Brands 的研究团队合作，对 Web3 游戏中的网络效应进行了研究。旨在提出 Web3 产品网络效应的更具体假设，并以我们之前的文章中所发现的产品和代币经济学之间的紧密关系为出发点。",
           "link": "https://www.web3sj.com/gamefinews/87549/",
           "publishedOn": "2023-09-07T03:31:31.000Z",
-          "wordCount": 1136,
+          "wordCount": 1131,
           "title": "Web3游戏中的网络效应：游戏平台如何通过代币激励增强网络效应？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694057474718.png"
         },
@@ -118,7 +128,7 @@
           "description": "X（原推特）已获得美国密西西比州支付服务汇款许可证。Grayscale律师敦促SEC批准比特币ETF转换。Connect Ventures第四支基金完成8000万美元募资，拟持续投资Web3和金融科技等领域。",
           "link": "https://www.web3sj.com/news/87527/",
           "publishedOn": "2023-09-06T12:16:02.000Z",
-          "wordCount": 871,
+          "wordCount": 853,
           "title": "Web3世界日报（2023-9.6）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090612144225.jpg"
         },
@@ -128,19 +138,9 @@
           "description": "作为公链基础设施，理想发展线路是长出很多应用，且它们都围着公链底层转，任何想逃出公链控制的出逃都不受待见。然而，碍于以太坊链底层性能的 Bottleneck，应用的「出逃」似乎又是必然的，如何出逃呢？",
           "link": "https://www.web3sj.com/definews/87514/",
           "publishedOn": "2023-09-06T07:12:58.000Z",
-          "wordCount": 996,
+          "wordCount": 986,
           "title": "观点：MakerDAO为何要脱离以太坊？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1693984366845.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87509",
-          "author": "Gao",
-          "description": "几年前的公链大战中，各条 L1 吸引开发者、促进生态繁荣的一项要务便是研发新的技术方案，以降低开发门槛，同时让生态应用间互联互通、形成网络效应。 而今，我们正围观以以太坊和 EVM...",
-          "link": "https://www.web3sj.com/news/87509/",
-          "publishedOn": "2023-09-06T07:07:16.000Z",
-          "wordCount": 1007,
-          "title": "L2之战正酣，Polygon祭出CDK意味着什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1693984022306.png"
         }
       ]
     },
@@ -215,7 +215,7 @@
           "description": "PANews 9月7日消息，比特币铭文钱包UniSat Wallet在X平台上宣布，其已向公共开发人员以及现有的20个业务合作伙伴开放完整的开发者API支持。",
           "link": "https://panewslab.com/zh/articledetails/gyasd1pm.html",
           "publishedOn": "2023-09-07T05:12:12.000Z",
-          "wordCount": 365,
+          "wordCount": 355,
           "title": "UniSat Wallet向公共开发人员和合作伙伴开放完整的开发者API",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 9月7日消息，据Coinpost报道，日本自民党Web3项目组（web3PT）发布了关于Web3公司加密资产会计审计的新指南，以降低企业进入Web3业务的审计门槛，帮助发行代币的web3运营商进行会计审计。\n发布指南的页面包含来自日本加密资产商业协会（JCBA）和日本注册会计师协会（JICPA）一份题为《加密资产发行人会计时应考虑的事项》报告，该报告着眼于IEO相关制度。旨在“考虑与加密资产发行相关的会计处理时明确需要理解的交易形式，并考虑到日本的监管环境”。JCBA和JICPA写道，他们将努力改善审计环境，并继续要求澄清发行加密资产时的会计审计问题。",
           "link": "https://panewslab.com/zh/articledetails/d091crpp.html",
           "publishedOn": "2023-09-07T03:56:57.000Z",
-          "wordCount": 350,
+          "wordCount": 348,
           "title": "日本自民党Web3项目组发布加密资产会计审计指南",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -357,12 +357,22 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202309/21172.html",
+          "author": null,
+          "description": "香港虚拟银行ZA Bank（众安银行）已向香港证监会申请1号牌（证券交易）虚拟资产升级（uplift），希望未来可以接入持牌平台，允许客户在该行应用程式上买卖虚拟资产。ZA Bank表示，现阶段仍处于“入纸申请”，会向监管机构积极争取，暂未有获批的具体时间表。",
+          "link": "https://www.hellobtc.com/news/202309/21172.html",
+          "publishedOn": "2023-09-07T06:58:00.000Z",
+          "wordCount": 312,
+          "title": "香港虚拟银行ZA Bank已向香港证监会提交申请1号牌（证券交易）虚拟资产升级",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202309/21171.html",
           "author": null,
           "description": "1.谷歌更新广告政策，将允许NFT游戏广告投放。\n\n2.Visa区块链主管：Visa支付将扩展至多个区块链和稳定币。\n\n3.Ripple联合创始人：拜登政府已将区块链行业推向海外。\n\n4.Unibot现已集成OKX Web3钱包DEX。\n\n5.Arkham：GBTC是全球第二大BTC实体，持有超过160亿美元的BTC。\n\n6.数据：一WLD做市商1小时前将450万枚WLD转入3家CEX。\n\n7.调查：超过一半的韩国人认为加密货币是一种赌博形式。\n\n8.Consensys战略主管：MetaMask Snaps类似苹果应用商店，未来将是无需许可的。\n\n9.Vitalik联合发表《区块链隐私和监管合规：迈向实际平衡》论文。\n\n10.Ripple与SpaceX合伙人合作，参与毛伊岛应急基金的加密货币捐赠项目。\n\n11.Binance称XIRTAM追回资产已开放领取。\n\n12.币安回应CYBER活期赚币事件：因期现价差导致借贷需求飙升且无法短时回款。\n\n13.WSJ：Binance全球法币业务负责人Helen Hai已离职。",
           "link": "https://www.hellobtc.com/news/202309/21171.html",
           "publishedOn": "2023-09-07T03:10:00.000Z",
-          "wordCount": 321,
+          "wordCount": 319,
           "title": "白话区块链早报：谷歌更新广告政策，将允许NFT游戏广告投放",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -444,16 +454,6 @@
           "publishedOn": "2023-09-04T00:57:00.000Z",
           "wordCount": 313,
           "title": "调查：尼日利亚为全球加密认知度最高国家",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21162.html",
-          "author": null,
-          "description": "1ML数据显示，当前比特币闪电网络节点为16,240个，过去30天增加0.77%；通道数量为68,113个，较一个月前减少了1.2%；网络容量为4,698.62BTC，月减少0.1%。",
-          "link": "https://www.hellobtc.com/news/202309/21162.html",
-          "publishedOn": "2023-09-04T00:57:00.000Z",
-          "wordCount": 304,
-          "title": "比特币闪电网络节点数量为16,240个",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]

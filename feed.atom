@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-07T06:16:21.109Z</id>
+    <id>urn:2023-09-07T07:11:59.296Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-07T06:16:21.109Z</updated>
+    <updated>2023-09-07T07:11:59.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum最新发布的开发环境Stylus到底是什么？]]></title>
+        <id>https://www.web3sj.com/?p=87621</id>
+        <link href="https://www.web3sj.com/news/87621/"/>
+        <updated>2023-09-07T07:09:19.000Z</updated>
+        <summary type="html"><![CDATA[今天，我们发布了 Arbitrum Stylus 的代码和公共测试网，使开发者能够使用传统的 EVM 工具和与 WASM 兼容的语言（如 Rust、C 和 C++）在 Arbitrum Nitro 链上构建应用程序。此外，通过提高计算、存储和内存效率，Stylus 大大降低了 gas 费，并使得先前不切实际的资源密集型区块链用例，如替代签名方案、更大的生成艺术库、基于 C++ 的游戏和计算密集型 AI 模型成为可能。开源 SDK 现已可用，我们将在 ETHGlobal NY 举办一个 Stylus Hackathon，奖励总额为 20,000 美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港虚拟银行ZA Bank已向香港证监会提交申请1号牌（证券交易）虚拟资产升级]]></title>
+        <id>https://www.hellobtc.com/news/202309/21172.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21172.html"/>
+        <updated>2023-09-07T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[香港虚拟银行ZA Bank（众安银行）已向香港证监会申请1号牌（证券交易）虚拟资产升级（uplift），希望未来可以接入持牌平台，允许客户在该行应用程式上买卖虚拟资产。ZA Bank表示，现阶段仍处于“入纸申请”，会向监管机构积极争取，暂未有获批的具体时间表。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSea前产品主管撤回保释申请并等待上诉]]></title>
         <id>https://panewslab.com/zh/articledetails/2e0i4op9.html</id>
@@ -342,16 +362,6 @@ Coingecko数据显示，Worldcoin（WLD）代币价格现报1.35美元，24小�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L2之战正酣，Polygon祭出CDK意味着什么？]]></title>
-        <id>https://www.web3sj.com/?p=87509</id>
-        <link href="https://www.web3sj.com/news/87509/"/>
-        <updated>2023-09-06T07:07:16.000Z</updated>
-        <summary type="html"><![CDATA[几年前的公链大战中，各条 L1 吸引开发者、促进生态繁荣的一项要务便是研发新的技术方案，以降低开发门槛，同时让生态应用间互联互通、形成网络效应。 而今，我们正围观以以太坊和 EVM...]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：V神认为以太坊目前最紧迫需解决的问题是实现更高水平的可扩展性]]></title>
         <id>https://www.hellobtc.com/news/202309/21170.html</id>
         <link href="https://www.hellobtc.com/news/202309/21170.html"/>
@@ -485,16 +495,6 @@ Relation将针对项目合作方陆续开放图谱数据引擎，并提供Grant�
         <link href="https://www.hellobtc.com/news/202309/21163.html"/>
         <updated>2023-09-04T00:57:00.000Z</updated>
         <summary type="html"><![CDATA[9月4日消息，以太坊基础设施开发公司 ConsenSys 在其官网发布调查报告表示，尼日利亚是全球加密认知度最高国家。在一项民意调查中，99% 的受访者表示他们对加密货币有认知度，70% 的受访者清楚了解区块链技术的基本概念。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币闪电网络节点数量为16,240个]]></title>
-        <id>https://www.hellobtc.com/news/202309/21162.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21162.html"/>
-        <updated>2023-09-04T00:57:00.000Z</updated>
-        <summary type="html"><![CDATA[1ML数据显示，当前比特币闪电网络节点为16,240个，过去30天增加0.77%；通道数量为68,113个，较一个月前减少了1.2%；网络容量为4,698.62BTC，月减少0.1%。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
