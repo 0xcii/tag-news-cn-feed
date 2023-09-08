@@ -21,7 +21,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 158,
+          "wordCount": 155,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 165,
+          "wordCount": 167,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=87736",
+          "author": "Gao",
+          "description": "在加密领域，「链上」有两种不同的含义。一般来说，是指用一种更宽泛的方式使用区块链。比如把音乐放在链上（在 sound.xyz 等上将你的歌曲铸造成 NFT），这是一种常规操作。但请注意，你是在以太坊上铸造 NFT ，同时仍然将该 NFT 的媒体文件或其他资源存储在链下，比如中心化服务器或星际文件系统（IPFS）上。",
+          "link": "https://www.web3sj.com/gamefinews/87736/",
+          "publishedOn": "2023-09-08T03:47:24.000Z",
+          "wordCount": 906,
+          "title": "自主世界与全链上游戏",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694144827145.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87726",
+          "author": "Gao",
+          "description": "FT 是一个允许用户买卖创作者 shares（股票）的社交平台。持有这些 shares，你就可以访问创作者的内容并与创作者进行互动。在当前的版本中，FT 或许可以被理解为 OnlyFans，但目前还仅限于文本功能。",
+          "link": "https://www.web3sj.com/news/87726/",
+          "publishedOn": "2023-09-08T03:44:40.000Z",
+          "wordCount": 1066,
+          "title": "火不过半个月，friend.tech是又一个SocialFi泡沫？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694144662728.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87721",
+          "author": "Gao",
+          "description": "美国企业目前没有针对加密资产的具体会计或披露规则，将加密资产归类为无限期无形资产，类似于版权等知识产权。公司必须每年至少审查一次此类资产的价值，如果价值低于购买价格，则将其减记。如果价值上涨，公司只有在出售该资产时才能记录收益，而如果继续持有该资产则无法记录收益。",
+          "link": "https://www.web3sj.com/news/87721/",
+          "publishedOn": "2023-09-08T03:22:27.000Z",
+          "wordCount": 897,
+          "title": "公允计价来临，美国新的加密会计准则将于年底生效",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694143268440.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87711",
+          "author": "Gao",
+          "description": "Cosmos 软件开发工具包（简称 SDK）是一个能让开发人员构建自定义区块链应用的框架。利用 Cosmos SDK，开发者可以轻松启动自己的 Layer 1 区块链，不用操心从共识层到应用层的设计和实现。Cosmos SDK 提供了任何链都可直接导入和使用的标准核心模块，如 staking、auth、gov 和 mint 模块。",
+          "link": "https://www.web3sj.com/news/87711/",
+          "publishedOn": "2023-09-08T03:15:21.000Z",
+          "wordCount": 1077,
+          "title": "技术详解 | 如何对Cosmos SDK标准模块进行形式化验证",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694142908038.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=87663",
           "author": "Gao",
           "description": "Flashbots 是一个研究和开发组织，旨在减轻 Maximal Extractable Value（MEV）对区块链的负面影响，特别是以太坊。他们的主要目标是通过 MEV-Boost 等产品为 MEV 打造一个无需许可、透明和可持续的生态系统。未来的 MEV 发展应专注于跨链 MEV 捕获、最小化价值流失、最小化对协议真实用户的潜在负面影响，并确保参与者公平分配等方向。",
           "link": "https://www.web3sj.com/project/87663/",
           "publishedOn": "2023-09-07T13:48:06.000Z",
-          "wordCount": 2391,
+          "wordCount": 2402,
           "title": "深度解读Flashbots投资逻辑、技术框架、市场规模和主要风险",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694094461744.png"
         },
@@ -58,7 +98,7 @@
           "description": "ARK Invest和21Shares已向SEC提交以太坊现货ETF申请。Visa高管：Visa支付将涉及多个区块链网络、稳定币、CBDC和代币化存款。美国财政部和国税局发布关于加密货币经纪商报告要求的提案。",
           "link": "https://www.web3sj.com/news/87654/",
           "publishedOn": "2023-09-07T11:21:58.000Z",
-          "wordCount": 911,
+          "wordCount": 952,
           "title": "Web3世界日报（2023-9.7）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090711215624.jpg"
         },
@@ -68,7 +108,7 @@
           "description": "其实 Worldcoin 风起的背后，本质上是 DID 赛道日渐受到重视的映照——DID 被广泛认为是 Web3 的核心基建，可以把个人的隐私权、数据权交还给每一个人自由掌控。",
           "link": "https://www.web3sj.com/news/87646/",
           "publishedOn": "2023-09-07T09:55:19.000Z",
-          "wordCount": 1168,
+          "wordCount": 1183,
           "title": "Worldcoin之外，风起的DID可能为Web3带来什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694080475331.png"
         },
@@ -78,7 +118,7 @@
           "description": "Metalabel 是一个服务于创作者作品创造和推广发行的项目，每一个人都可以在其中创建一个「metalabel」，组成一个小队或小团体。组成小队的成员们有着相同的愿景和文化，协商一致共同创造、发布和维护一个项目或作品。",
           "link": "https://www.web3sj.com/news/87634/",
           "publishedOn": "2023-09-07T08:11:15.000Z",
-          "wordCount": 1095,
+          "wordCount": 1101,
           "title": "metalabel：逃离孤独和压榨，创作者得重新组队回到社区",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694074261691.png"
         },
@@ -88,7 +128,7 @@
           "description": "经历了近一年的「厮杀」，质押赛道在较长的一段时间内已形成了相对稳固的格局， Lido 凭借着流动性和组合性优势逐步确立了赛道领跑位置。截至发文，Lido 在质押赛道内的市占率约为 32.43% ，纵观过去近一年的赛道发展状况，几乎没有任何一家其他质押服务商能够望其项背。",
           "link": "https://www.web3sj.com/definews/87626/",
           "publishedOn": "2023-09-07T08:00:48.000Z",
-          "wordCount": 1105,
+          "wordCount": 1092,
           "title": "Lido遭遇「屠龙」之围，LSD赛道迎来变局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694073628060.png"
         },
@@ -98,49 +138,9 @@
           "description": "今天，我们发布了 Arbitrum Stylus 的代码和公共测试网，使开发者能够使用传统的 EVM 工具和与 WASM 兼容的语言（如 Rust、C 和 C++）在 Arbitrum Nitro 链上构建应用程序。此外，通过提高计算、存储和内存效率，Stylus 大大降低了 gas 费，并使得先前不切实际的资源密集型区块链用例，如替代签名方案、更大的生成艺术库、基于 C++ 的游戏和计算密集型 AI 模型成为可能。开源 SDK 现已可用，我们将在 ETHGlobal NY 举办一个 Stylus Hackathon，奖励总额为 20,000 美元。",
           "link": "https://www.web3sj.com/news/87621/",
           "publishedOn": "2023-09-07T07:09:19.000Z",
-          "wordCount": 1164,
+          "wordCount": 1166,
           "title": "Arbitrum最新发布的开发环境Stylus到底是什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694070536135.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87612",
-          "author": "Gao",
-          "description": "Vitalik 的思考和文章往往左右着新叙事和技术的发展方向，此外其他区块链领域的知名专家学者，对区块链技术和发展趋势有着独到的见解。此外，论文探讨的区块链隐私和合规问题，事关加密行业未来发展方向和合规路径选择。在保护用户隐私和符合监管要求之间找到平衡,是加密行业亟待解决的难题。",
-          "link": "https://www.web3sj.com/news/87612/",
-          "publishedOn": "2023-09-07T05:51:50.000Z",
-          "wordCount": 1052,
-          "title": "解读Vitalik最新论文：Privacy Pools，让合规不再以牺牲隐私和中心化为代价",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694065894872.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87607",
-          "author": "Gao",
-          "description": "通过创建一个融合互联网开放和协作原则的知识产权框架，Story Protocol 旨在成为互联网的原生 IP 基础设施。除了支持无摩擦许可和 IP 重新混合的模块之外，该协议还将提供中立的出处来源，以跟踪 IP 跨媒介和平台演变的生命周期。",
-          "link": "https://www.web3sj.com/news/87607/",
-          "publishedOn": "2023-09-07T05:38:57.000Z",
-          "wordCount": 1058,
-          "title": "a16z加持、融资5400万美元的Story Protocol，究竟要做什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694061054063.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87602",
-          "author": "Gao",
-          "description": "这个计划于七月宣布扩展计划，是该公司努力将生物识别数据整合到支付系统中的一部分，也是对苹果和谷歌在数字钱包领域不断增长的竞争的直接回应。但是像 Whole Foods 这样的购物应用程序低估了亚马逊更大的雄心：通过生物识别进行身份验证。从长远来看，Amazon One 希望成为所有身份需求的一站式服务，包括零售支付和年龄验证，未来可能还包括医疗记录等敏感数据。",
-          "link": "https://www.web3sj.com/news/87602/",
-          "publishedOn": "2023-09-07T05:29:14.000Z",
-          "wordCount": 863,
-          "title": "Coinbase：去中心化身份DID的巨大潜力",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694052494628.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87597",
-          "author": "Gao",
-          "description": "我认为，加密货币支持的稳定币的固有限制并没有得到足够的讨论。正如我们将在本文中讨论的那样，目前的项目未能吸引用户，因为与法币支持的稳定币相比，加密货币支持的稳定币在资本效率、清算风险、有限的使用案例和流动性等方面存在局限。",
-          "link": "https://www.web3sj.com/news/87597/",
-          "publishedOn": "2023-09-07T05:16:53.000Z",
-          "wordCount": 1246,
-          "title": "穿透当前稳定币格局：USDT和USDC之外，后来者们的机遇与挑战",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694063801509.png"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "1.FTX前高管Ryan Salame已认罪，将被没收超过15亿美元资产\n据CoinDesk报道，FTX前高管Ryan Salame已于周四承认与FTX破产有关的刑事指控并以100万美元保释金获释。他将被没收超过15亿美元资产。他承认串谋进行非法政治捐款和欺骗联邦选举委员会，以及串谋经营无牌汇款业务。Salame在认罪时对法官Lewis Kaplan表示，他以个人名义进行了政治捐款，资金来自Alameda一家子公司的转账。作为他与政府达成的认罪协议的一部分，Salame已被要求交出超过15亿美元资产。他同意在明年3月宣判前缴纳600万美元。为了支付这笔款项，Salame已经同意向政府提供一辆“2021年保时捷汽车”和多处房产，包括马萨诸塞州的两处住宅，以及其拥有的East Rood Farm公司的所有权。此外，Salame还被要求向FTX债务人支付550多万美元的赔偿金。\n2.美CFTC指控Opyn、ZeroEx和Deridex违反商品交易法和CFTC法规，已达成和解协议\n据官方消息，美国商品期货交易委员会（CFTC）公布近期对DeFi领域的执法行动，对Opyn, Inc.、ZeroEx, Inc.和Deridex, Inc.三家公司提出指控。这些公司被控违反商品交易法（CEA）和CFTC法规，包括未能注册为掉期执行设施（SEF）或指定合同市场（DCM）、未能注册为期货佣金商（FCM），以及未能采纳客户身份识别计划等。\n根据CFTC的说法，Opyn提供了数字资产衍生代币的交易，而 Deridex提供了永续合同的交易，这些都被认定为掉期和杠杆或保证金零售商品交易，但它们未在注册交易所上提供这些服务，也未采纳所需的合规措施。ZeroEx提供了杠杆代币的交易，同样未在注册交易所上提供这些服务。\nCFTC命令这三家公司分别支付民事处罚金，分别为：Opyn 25万美元、ZeroEx …",
           "link": "https://panewslab.com/zh/articledetails/ow1zww28.html",
           "publishedOn": "2023-09-08T01:48:39.000Z",
-          "wordCount": 692,
+          "wordCount": 690,
           "title": "昨夜今晨重要资讯（9月7日-9月8日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/09/08/images/k8BFjz2O3o.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 9月8日消息，据官网消息，东南亚多功能在线服务平台Grab在其应用的“财务”页面新增Web3钱包功能，允许用户存储和管理数字资产，包括SG Pitstop Pack优惠券和数字收藏品。使用Grab Web3钱包，用户可以执行区块链交易，访问有关区块链的教育文章，查看交易历史并与其数字资产进行交互。该钱包目前只支持Polygon区块链，Grab限时为发送和接收交易相关的费用提供赞助。不过Web3钱包尚未提及是否支持打车等场景支付。\n据悉，Grab是东南亚地区最大的多功能在线平台之一，总部位于新加坡。它最初是一家出租车预订应用，后来扩展到食品送货、货运、支付、金融服务等多个领域。Grab的服务在东南亚的许多国家和地区都非常流行，包括新加坡、马来西亚、印度尼西亚、菲律宾、越南、泰国等。",
           "link": "https://panewslab.com/zh/articledetails/75wpeno5.html",
           "publishedOn": "2023-09-08T01:09:24.000Z",
-          "wordCount": 349,
+          "wordCount": 351,
           "title": "东南亚多功能在线服务平台Grab新增Web3钱包功能，尚不支持打车等场景支付",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -357,6 +357,46 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202309/21177.html",
+          "author": null,
+          "description": "基于Solana（SOL）的NFT项目Astral的投资者已对NBA球星沙奎尔·奥尼尔（ShaquilleO’Neal）和项目方提起集体诉讼。原告律师Adam Moskowitz称，沙奎尔·奥尼尔深入参与了Astral项目。他每周都与Astral团队联系。该项目完全归功于沙奎尔·奥尼尔的名气。然而，随着去年11月他支持的加密货币交易所FTX破产，奥尼尔就从Astral社区消失了。 此外，Astral DAO的治理代币GLXY也具有未注册证券的性质，并与与Astral的合作关系。交易GLXY代币的迪拜风险投资公司Cipher Capital和伦敦的MH Ventures也对此表示怀疑。与此同时，7月，沙奎尔·奥尼尔的律师申请驳回集体诉讼，称诉状中提到的GLXY代币和NFT是为游戏玩家设计的。",
+          "link": "https://www.hellobtc.com/news/202309/21177.html",
+          "publishedOn": "2023-09-08T01:07:00.000Z",
+          "wordCount": 314,
+          "title": "Solana NFT项目Astral投资者对项目和NBA球星沙奎尔·奥尼尔提起诉讼",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21176.html",
+          "author": null,
+          "description": "Ledger首席执行官Pascal Gauthier在首尔中区新罗酒店举行的“韩国区块链周2023”上接受了采访时表示，对于韩国的虚拟资产（加密货币）监管，太严格了，行业很难朝这个方向发展。过度监管可能会扼杀该行业。当然，我们确实需要制定法律来保护投资者。但这不应该阻止该行业的发展。 Gutier分析称，韩国的监管环境之所以围绕投资者保护构建，是因为Terra Luna危机和FTX破产引发了人们对虚拟资产行业安全性的怀疑。监管之所以变强，是因为资金流失和黑客攻击的影响。我们可以解决这部分问题。为此，我们希望在韩国开展各种活动，并希望可以与监管机构会面。 Gutier补充称，目前正准备推出新产品Ledger Stax，并将在未来几周内推出。",
+          "link": "https://www.hellobtc.com/news/202309/21176.html",
+          "publishedOn": "2023-09-08T01:07:00.000Z",
+          "wordCount": 314,
+          "title": "Ledger首席执行官：准备推出新产品Ledger Stax",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21175.html",
+          "author": null,
+          "description": "国际货币基金组织（IMF）和金融稳定委员会（FSB）联合发布的一份报告表示，加密货币尚未证明自己像支持者声称的那样有用，并且可能对世界金融体系构成危险，但它们的使用应该受到控制而不是禁止。该报告就加密监管提出了以下五项提案： 1、加密资产不应被授予官方货币或法定货币地位，而且由于存在对国际货币体系造成不稳定影响的风险和担忧，央行应避免将加密资产作为其官方储备资产； 2、税收政策应确保对加密资产的明确处理，当局应在跨境信息共享和金融监管方面进行合作，以实现有效的税收合规； 3、当局应根据加密资产活动带来的风险并符合国际标准来运用其权力。还建议司法管辖区在必要时更新或澄清适用于加密资产处理的法律。 4、应该有收集、存储、保护和及时准确报告加密资产数据的系统和流程，并且当局应该有权酌情访问这些数据。 5、全球稳定币发行机构和相关方应向市场参与者提供全面、透明的信息，以了解每种代币的功能。当局应要求稳定币向所有用户针对发行人和/或基础抵押品提供强有力的法律主张，并保证及时赎回。",
+          "link": "https://www.hellobtc.com/news/202309/21175.html",
+          "publishedOn": "2023-09-08T01:07:00.000Z",
+          "wordCount": 316,
+          "title": "金融稳定委员会和IMF报告：加密货币的使用应该受到控制而不是禁止",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21174.html",
+          "author": null,
+          "description": "彭博社援引知情人士消息，摩根大通公司正处于探索基于区块链的数字存款代币的早期阶段，以加速跨境支付和结算。知情人士表示，按资产计算，这家美国最大的银行已经开发了运行新支付方式所需的大部分底层基础设施，但除非该项目获得美国监管机构的批准，否则无法推出代币。 据称，拟议的数字代币支付和结算系统可以加快交易速度，同时降低成本，存款代币代表客户存款的数字版本。它可用于向不同银行的用户发送资金或结算代币化证券。 消息人士表示，获得批准后，摩根大通可以在一年内为企业客户启动该项目。",
+          "link": "https://www.hellobtc.com/news/202309/21174.html",
+          "publishedOn": "2023-09-08T01:06:00.000Z",
+          "wordCount": 307,
+          "title": "摩根大通正在探索基于区块链的存款代币用于支付和结算",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202309/21173.html",
           "author": null,
           "description": "全球新闻服务提供商美通社公布了亚太地区新合作伙伴信息，在区块链和新兴技术领域的内容网络新增合作伙伴为亚洲区块链协会（Association of Blockchain Asia）和 Blockchain News，在加密货币、元宇宙和虚拟现实（VR）、去中心化金融（DeFi）领域的新合作伙伴包括 Blockhead、DigFin和Association Blockchain Asia，以及 6 个加密货币网站。截至目前，美通社在亚太地区的加密货币网站合作伙伴数量达到 30 个。（prnewswire）",
@@ -414,46 +454,6 @@
           "publishedOn": "2023-09-05T00:37:00.000Z",
           "wordCount": 300,
           "title": "以太坊开发工具Remix已推出Starknet开发插件",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21167.html",
-          "author": null,
-          "description": "康涅狄格大学的研究人员发表了一篇题为“测量加密素养”的新研究论文。他们的目标是创建并验证一个衡量个人在研究人员所谓的加密经济学方面的知识的量表。他们对 300 名接触过加密货币的学生进行了校园调查。结果显示，10-15% 的人由于诈骗或私钥管理不善等原因丢失了加密货币。 他们认为，“如果加密货币要成为主流，这些数字是不可接受的”，并强调了对加密货币素养规模的需求。 加密知识对于帮助应对加密货币的监管环境至关重要，政策制定者需要认真对待此类技术。",
-          "link": "https://www.hellobtc.com/news/202309/21167.html",
-          "publishedOn": "2023-09-05T00:37:00.000Z",
-          "wordCount": 307,
-          "title": "研究人员：加密货币可以成为提高金融素养的门户",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21166.html",
-          "author": null,
-          "description": "哈佛大学法律学者、叶史瓦大学法学教授 Christine Kim 最近发表了一篇研究论文，详细阐述了不仅对虚拟宇宙征税，而且将其视为“试验尖端政策的实验室”的论据。 在这篇被简称为“对元宇宙征税”的论文中，Kim认为元宇宙允许参与者完全在其生态系统内创造和积累财富。该论文继续解释说，虚拟世界具有“记录所有数字活动并跟踪个人财富”的能力，这意味着政府可以在收到收入后立即对其进行跟踪和征税，这可能会改变美国税法的现状。",
-          "link": "https://www.hellobtc.com/news/202309/21166.html",
-          "publishedOn": "2023-09-05T00:36:00.000Z",
-          "wordCount": 310,
-          "title": "哈佛大学法律专家：未能对虚拟宇宙征税“将创造一个避税天堂”",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21165.html",
-          "author": null,
-          "description": "9月4日，在韩国的KBW Builder House活动中，Relation发布其新产品Relation Graph。该产品旨在聚合Web2和Web3中庞大的社交数据资源，连接各种网络社交身份，构建统一、高效的图谱数据引擎。借由Relation Graph，开发者将更有效地访问社交图谱数据，优化应用产品的开发流程，实现泛社交产品创新。\n\nRelation将针对项目合作方陆续开放图谱数据引擎，并提供Grant和技术支持服务。在保护数据隐私的基础上，Relation计划在未来开放数据治理功能，以实现数据使用的透明度和安全性，并致力于推动社交基础设施的发展。",
-          "link": "https://www.hellobtc.com/news/202309/21165.html",
-          "publishedOn": "2023-09-04T09:33:00.000Z",
-          "wordCount": 317,
-          "title": "去中心化社交协议Relation发布社交图谱数据引擎Relation Graph",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21164.html",
-          "author": null,
-          "description": "1.IntoTheBlock：GBTC价格在2023年增长125%。\n\n2.ETH 2.0总质押数已达2867.51万。\n\n3.基于RAI的稳定币协议Reflexer代币24小时涨超80%。\n\n4.Vitalik Buterin：稳定币RAI的崛起可以解决Lido在LSD生态系统中的主导地位。\n\n5.CZ：下一次牛市DeFi规模很可能会超过CeFi。\n\n6.zkSync联创提出新的治理解决方案L1 Fork，以应对智能合约实施过程中的风险。\n\n7.Ripple CTO：正积极与银行和大型金融机构进行讨论，以鼓励推出优质稳定币。\n\n8.Ripple CTO：正在研究将DEX服务整合至ODL，以便与AMM进行交易。\n\n9.Gala Game两位联创相互提起诉讼，公司面临内部冲突。\n\n10.Arbitrum社区提议向生态活跃协议分配7500万枚ARB奖励。\n\n11.Consensys调查：尼日利亚为全球加密认知度最高国家。",
-          "link": "https://www.hellobtc.com/news/202309/21164.html",
-          "publishedOn": "2023-09-04T01:55:00.000Z",
-          "wordCount": 320,
-          "title": "白话区块链早报：GBTC价格在2023年增长125%",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
