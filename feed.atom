@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-09T15:11:18.547Z</id>
+    <id>urn:2023-09-09T16:14:35.597Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-09T15:11:18.547Z</updated>
+    <updated>2023-09-09T16:14:35.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Ripple首席法务称SEC的最新文件为“虚伪的转变”。Arbitrum DAO已开启Grants Domain分配者投票。PEPE：Telegram旧账号已被黑客攻击，将暂时通过推特发布官方信息。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linea负责人：以太坊EIP-4844预计使rollup成本降低10倍]]></title>
+        <id>https://panewslab.com/zh/articledetails/qnzbhqjg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qnzbhqjg.html"/>
+        <updated>2023-09-09T12:50:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月9日消息，据Cointelegraph报道，Consensys 的 zkEVM Linea 负责人 Nicolas Liochon 表示，danksharding（EIP-4844）预计可以进一步将 Rollup 成本降低 10 倍。Proto-danksharding也称为以太坊改进提案 (EIP) 标识符EIP-4844，旨在降低Rollup成本，Rollup通常会批量处理链下交易和数据，并向以太坊区块链提交计算证明。以太坊基金会尚未确定原型 danksharding 的预计发布日期，但开发和测试仍在进行中。正如 Liochon 解释的那样，与以太坊第 1 层上进行的交易相比，Linea 提供的交易便宜 15 倍，但Rollup仍然受到交易在以太坊区块中的调用数据中发布这一事实的限制。EIP-4844将引入可以发送并附加到块的数据块。存储在区块中的数据无法被以太坊虚拟机访问，并且会在一段时间后被删除，这被认为可以大大降低交易成本。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -293,16 +303,6 @@
         <link href="https://panewslab.com/zh/articledetails/2i2v3mi8.html"/>
         <updated>2023-09-08T23:47:56.000Z</updated>
         <summary type="html"><![CDATA[PANews 9月9日消息，NFT视频初创公司Glass Protocol联合创始人Sam Sends和Varun Iyer在推特发文称，由于对数字可交易视频NFT的需求太低，他们将“终止积极开发”Glass Protocol。通过Glass创建的NFT将与网站和协议一起继续存在，但他们不会再继续开发该协议。Glass去年9月从TCG Crypto和1kx等投资者那里筹集了500万美元。目前尚不清楚该协议的资本是否已经耗尽。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ParaSpace发布ParaX白皮书]]></title>
-        <id>https://panewslab.com/zh/articledetails/rdlqkn22.html</id>
-        <link href="https://panewslab.com/zh/articledetails/rdlqkn22.html"/>
-        <updated>2023-09-08T23:38:41.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月9日消息，据官方消息，NFT借贷协议ParaSpace发布了ParaX白皮书。ParaX生态系统构建在现有ParaSpace和Parallel产品之上，涵盖帐户抽象、元用户界面、zkVM和基于跨域意图的LLM等。ParaX旨在通过引入自动化的智能执行层来简化用户与Web3应用程序的交互。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
