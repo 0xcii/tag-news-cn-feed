@@ -11,7 +11,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 129,
+          "wordCount": 127,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         },
@@ -43,12 +43,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=87913",
+          "author": "Gao",
+          "description": "插件是定制账户行为的智能合约。我们认识到无法预测用户对智能合约账户的需求，因为在使用账户的过程中，他们将与许多不同的 DApp 进行交互。因此，唯一的解决方案是使账户具有可扩展性，以便用户可以随着时间的推移为其账户添加新功能。",
+          "link": "https://www.web3sj.com/news/87913/",
+          "publishedOn": "2023-09-10T05:48:29.000Z",
+          "wordCount": 1299,
+          "title": "ERC-4337用例大盘点： 18个获以太坊基金会资助的项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090715124929656171.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87908",
+          "author": "Gao",
+          "description": "关于 zk-SNARKs 的简短描述为，我们需要在 zk 电路中编写一段代码，这段代码的输入是一些公开的数据，输出是一些私有的数据。zk-SNARKs 的验证算法可以验证这段代码的输出是否正确，但是验证算法不会泄露任何私有数据。而 Solidity 合约的主要目的是验证 zk-SNARKs 的验证算法的结果，如果验证算法的结果正确，那么合约会执行一些操作。",
+          "link": "https://www.web3sj.com/news/87908/",
+          "publishedOn": "2023-09-10T05:45:15.000Z",
+          "wordCount": 1502,
+          "title": "zk-SNARKs在Solidity中的使用",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324701544.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87905",
+          "author": "Gao",
+          "description": "在本期播客中，Chainalysis 邀请到了美国康涅狄格州的一线警探 Matthew Hogan，谈论了加密货币诈骗的演变过程、执法部门在调查这些案件时面临的挑战，以及该州最近关于加密货币 ATM 机（Crypto Kiosks）的数字资产立法等相关内容。",
+          "link": "https://www.web3sj.com/news/87905/",
+          "publishedOn": "2023-09-10T05:40:26.000Z",
+          "wordCount": 935,
+          "title": "对话美国一线警探：深入杀猪盘和加密骗局",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694153049371.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87902",
+          "author": "Gao",
+          "description": "会计方面，要求加密货币采用公允价值计量，意味着会计处理上更加统一和透明。尽管新准则会给大量投资加密货币的公司的收益带来较大波动，但对于大部分为了获得资产升值而持有加密资产的公司，通过公允价值准则的信息披露以及要求财报附注里对企业持有的加密资产披露详细的信息，可以更适当反映这些资产对持有人财务状况的影响，反映数字资产的经济实质，为企业管理者和投资人做出更好的决策。",
+          "link": "https://www.web3sj.com/news/87902/",
+          "publishedOn": "2023-09-10T05:38:04.000Z",
+          "wordCount": 901,
+          "title": "详解美国加密货币会计核算规则新变化, 对MicroStrategy、Coinbase等有何影响",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324271936.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87894",
+          "author": "Gao",
+          "description": "在多次延期后，以太坊终于完成了上海升级，以太坊的质押系统真正开始运作，而以太坊的下一步也就此来到了坎昆时代，在本次升级的众多 EIP 中，EIP-4844 无疑最受关注，其将引导以太坊迈入 DankSharding 的第一步 Proto-DankSharding ，为随后的全面革新做好准备。",
+          "link": "https://www.web3sj.com/news/87894/",
+          "publishedOn": "2023-09-10T05:35:44.000Z",
+          "wordCount": 1216,
+          "title": "Layer2分类，通用化之路仍旧漫长",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324122938.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=87884",
           "author": "Gao",
           "description": "Ripple首席法务称SEC的最新文件为“虚伪的转变”。Arbitrum DAO已开启Grants Domain分配者投票。PEPE：Telegram旧账号已被黑客攻击，将暂时通过推特发布官方信息。",
           "link": "https://www.web3sj.com/news/87884/",
           "publishedOn": "2023-09-09T13:05:25.000Z",
-          "wordCount": 877,
+          "wordCount": 850,
           "title": "Web3世界日报（2023-9.9）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090913035574.jpg"
         },
@@ -58,7 +108,7 @@
           "description": "从整个商业模型来看，EigenLayer 的主要客户群体是有节点验证需求的中小型区块链网络。它主要实现的事情是利用以太坊的节点运营商给非 EVM 兼容的区块链网络提供验证服务。而整个业务链中，无论是质押者、AVS 还是 EigenLayer 的收入都是由这些中小型应用链提供的。因此，如果我们要判断 EigenLayer 的商业模型能否盈利，首先需要讨论的问题就是到底会不会有应用链来使用 EigenLayer。",
           "link": "https://www.web3sj.com/project/87870/",
           "publishedOn": "2023-09-09T06:09:22.000Z",
-          "wordCount": 1084,
+          "wordCount": 1091,
           "title": "Restaking之王：EigenLayer的商业模型是金点子还是糟粕？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694239749046.png"
         },
@@ -68,7 +118,7 @@
           "description": "让我们公平对待另一方：某种投资者可能会问，这种消极情绪是否意味着应用程序已经见底？也许一个应用程序论已经走到了尽头，另一个将崛起？当然，这是建立在一个假设上，即应用程序周期确实是一个周期，而不仅仅是 2010 年代 Web2 十年的一个昙花一现。",
           "link": "https://www.web3sj.com/news/87864/",
           "publishedOn": "2023-09-09T04:01:34.000Z",
-          "wordCount": 1091,
+          "wordCount": 1085,
           "title": "当所有应用看起来都像协议：原型应用在Web3中兴起",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694232081123.png"
         },
@@ -78,7 +128,7 @@
           "description": "我们在 2014 年发布了以太坊白皮书，它基本上描述了我们对以太坊最初的愿景。但白皮书中并没有详细解释其中一些理论背后的基本思想。以太坊是一个去中心化系统，类似于比特币。它是一个区块链，但与以前那些试图仅支持一个应用程序的系统不同，以太坊允许用户构建自己的应用程序。这意味着用户可以编写自己的应用程序代码，然后将代码上传到区块链，然后该应用程序可以在区块链上运行。",
           "link": "https://www.web3sj.com/news/87859/",
           "publishedOn": "2023-09-09T03:57:43.000Z",
-          "wordCount": 1065,
+          "wordCount": 1068,
           "title": "Vitalik南洋理工大学演讲实录：「以太坊的过去与现在」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694231850893.png"
         },
@@ -88,59 +138,9 @@
           "description": "在交易加密货币时，选择中心化交易所（CEX ）和去中心化交易所（DEX）各有利弊，CEX 体验更好但像 FTX 类的事件让用户对其中心化存疑，而 DEX 虽然透明度更高，面临的问题更多，流动性低、交易对有限、Gas 费高、交易速度慢以及用户体验差等。",
           "link": "https://www.web3sj.com/definews/87853/",
           "publishedOn": "2023-09-09T03:55:12.000Z",
-          "wordCount": 984,
+          "wordCount": 981,
           "title": "融资1650万美元，StarkWare站台的隐私DEX Brine要做什么事",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694231696917.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87850",
-          "author": "Gao",
-          "description": "随着加密市场走向低迷，RWA（Real World Assets，真实世界资产）概念也随之升温，成为这个行业里为数不多各方都承认的宏大叙述，甚至还吸引了高盛、花旗等传统机构的兴趣。",
-          "link": "https://www.web3sj.com/news/87850/",
-          "publishedOn": "2023-09-09T03:52:18.000Z",
-          "wordCount": 1097,
-          "title": "金融史、法制体系与技术周期：RWA的万亿叙事经不起推敲",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/fee935fd200d60fe2bce34f94d543f4b.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87843",
-          "author": "Gao",
-          "description": "2021 年底到 2022 年初，GameFi 达到了高潮，随后便一直处于下行趋势。如今，整个 GameFi 的市值已经跌去了 95% 以上。目前来看，包括公链，NFT 在内的一系列赛道都有极大的概率在市场回暖时重振旗鼓，但对于 GameFi 项目来说，重启的机会并不多，它自身的生命力似乎早被野蛮生长的打金狂潮给消磨掉了。",
-          "link": "https://www.web3sj.com/gamefinews/87843/",
-          "publishedOn": "2023-09-09T03:49:52.000Z",
-          "wordCount": 1046,
-          "title": "GameFi深陷争议之中：究竟是终将破灭的泡沫，还是全新的游戏模式？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/ce181e9af3611ecad7081e4d53365820.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87831",
-          "author": "Gao",
-          "description": "MakerDAO社区提议拨款最多1亿美元资金用于开发和试验代币化美国国债产品。Bitcoin Magazine CEO指责DCG创始人借用客户存款操纵GBTC价格，涉嫌犯罪。Base生态系统基金公布六项投资。",
-          "link": "https://www.web3sj.com/news/87831/",
-          "publishedOn": "2023-09-08T10:46:10.000Z",
-          "wordCount": 919,
-          "title": "Web3世界日报（2023-9.8）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090810442058.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87826",
-          "author": "Gao",
-          "description": "今年 3 月，Base 就表示生态基金将投资在 Base 上构建的早期（pre-seed 到种子）项目，涵括四大方向，包括可跟踪通货膨胀率的稳定币（flatcoins）；链上声誉平台；链上限价订单簿（LOB）交易平台；更安全的 DeFi，包括可以防止智能合约代码漏洞或协议逻辑错误的工具，以及最终的链上保险和保险协议，或任何其他在智能合约失败时可以为用户提供关键支持的产品。",
-          "link": "https://www.web3sj.com/news/87826/",
-          "publishedOn": "2023-09-08T10:11:13.000Z",
-          "wordCount": 1065,
-          "title": "速览Base生态基金首批6个投资项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694167856864.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87819",
-          "author": "Gao",
-          "description": "Debank 属于稳扎稳打的做事风格，在构建出 Hi 和 Stream 两大社交功能的之后，才着手做链，Debank Chain 作为先前搭建社交功能的加密资产层。可以见得团队目标十分清晰，将 SocialFi 依据功能拆分，先完善 Social（社交）功能，再考虑用区块链技术解决 Fi（金融）端的需求。",
-          "link": "https://www.web3sj.com/news/87819/",
-          "publishedOn": "2023-09-08T10:08:51.000Z",
-          "wordCount": 1141,
-          "title": "Web3创作者收益新风口？一窥DeBank社交版图",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694167720412.png"
         }
       ]
     },
@@ -150,12 +150,42 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/59kvlgca.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据Web3社区NounsDAO官网信息，NounsDAO推出分叉页面，支持分叉的社区成员可选择加入分叉并分割DAO财库。支持分叉的时间窗口为一周，窗口期结束后，若20%的Nouns NFT支持此次分叉，支持者将从NounsDAO主体中分离，并从该项目财库分割出相应比例的ETH。目前已有265枚Nouns加入分叉，距离窗口结束还剩5天16小时50分钟。",
+          "link": "https://panewslab.com/zh/articledetails/59kvlgca.html",
+          "publishedOn": "2023-09-10T04:36:35.000Z",
+          "wordCount": 346,
+          "title": "NounsDAO推出分叉页面，支持者可加入分叉并分割DAO财库",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7srz9b3n.html",
+          "author": "PA一线",
+          "description": "PANews 9月10日消息，据官方数据，过去7天Circle共发行9亿美元USDC，赎回11亿美元USDC，流通量减少2亿美元。截至9月7日，USDC总流通量为259亿美元，储备量为260亿美元，其中现金17亿美元，Circle Reserve Fund持有243亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/7srz9b3n.html",
+          "publishedOn": "2023-09-10T04:29:24.000Z",
+          "wordCount": 352,
+          "title": "数据：过去一周Circle USDC流通量减少2亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bwp399lv.html",
+          "author": "PA一线",
+          "description": "PANews 9月10日消息，据链上分析师余烬监测，某地址在最近两天内从Bithumb提出4700枚ETH（766万美元），然后换成WETH转至0x912开头多签地址。0x912开头多签地址使用WETH不断买入PERP，目前已使用4509枚WETH买入680万枚PERP（706万美元），均价1.08美元，买入量已占PERP流通量的10%。",
+          "link": "https://panewslab.com/zh/articledetails/bwp399lv.html",
+          "publishedOn": "2023-09-10T03:38:29.000Z",
+          "wordCount": 341,
+          "title": "数据：某多签地址买入680万枚PERP，占PERP流通量的10%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/pw4j5a0g.html",
           "author": "PA一线",
           "description": "PANews 9月10日消息，据Spot On Chain监测，0x171开头鲸鱼地址于10小时前向币安存入37728枚COMP，均价39.64美元，总价值150万美元。该巨鲸目前仍有5.8万枚COMP（259万美元）存放在Aura Finance平台，估计总亏损为132万美元。",
           "link": "https://panewslab.com/zh/articledetails/pw4j5a0g.html",
           "publishedOn": "2023-09-10T02:47:39.000Z",
-          "wordCount": 352,
+          "wordCount": 350,
           "title": "数据：某鲸鱼于10小时前向币安存入价值150万美元COMP",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +195,7 @@
           "description": "PANews 9月10日消息， FTX债权人@sunil_trades在社交媒体上称，FTX已对LayerZero提起追回诉讼。据悉，在FTX关闭并禁止提款之前，LayerZero利用内部消息从FTX非法提取了2100万美元。此外，FTX还寻求从LayerZero Labs前首席运营官Ari Litan及其旗下Skip & Goose分别追回约1307万美元和665万美元资金。",
           "link": "https://panewslab.com/zh/articledetails/lo9m4ev9.html",
           "publishedOn": "2023-09-10T02:39:02.000Z",
-          "wordCount": 356,
+          "wordCount": 354,
           "title": "FTX债权人：FTX已对LayerZero提起追回诉讼",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +205,7 @@
           "description": "PANews 9月10日消息，据PeckShield监测，以太坊联合创始人Vitalik Buterin推特账户疑似遭黑客攻击。PeckShield提醒用户不要点击钓鱼链接。目前含钓鱼链接的推文已被删除。",
           "link": "https://panewslab.com/zh/articledetails/3bsoqgc9.html",
           "publishedOn": "2023-09-09T23:58:42.000Z",
-          "wordCount": 348,
+          "wordCount": 346,
           "title": "V神推特账户疑似遭黑客攻击",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +215,7 @@
           "description": "PANews 9月10日消息，据官方消息，Cosmos Hub 821号社区提案已获通过。Cosmos Hub预计将于9月13日在区块高度16985500进行Gaia V12升级，预计在北京时间9月13日20:06。V12升级将启用Liquid Staking Module（LSM）模块。这将带来即时流动性质押，无需等待解绑期。用户将能够直接对他们已经质押的Atom进行流动性质押。在V12升级期间，预计网络会短暂停机，交易与转账可能会出现延迟。",
           "link": "https://panewslab.com/zh/articledetails/lgfnzn3l.html",
           "publishedOn": "2023-09-09T23:44:23.000Z",
-          "wordCount": 367,
+          "wordCount": 365,
           "title": "Cosmos Hub “V12升级”提案获得通过，将于9月13日进行V12升级",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +225,7 @@
           "description": "PANews 9月10日消息，据经济时报报道，G20成员国领导人于周六表示赞同金融稳定委员会(FSB)关于加密资产监管和监督以及全球稳定币安排的建议。《新德里领导人宣言》指出，G20将继续密切关注加密资产生态系统快速发展的风险，G20财长和央行行长将在2023年10月的会议上讨论推进路线图。下一届G20财长和央行行长会议将在摩洛哥马拉喀什举行。据此前消息，国际货币基金组织 (IMF)和金融稳定委员会(FSB)周四发布了联合政策路线图，称仅仅禁止加密货币并不能消除其风险。",
           "link": "https://panewslab.com/zh/articledetails/tk8g1ydg.html",
           "publishedOn": "2023-09-09T23:37:42.000Z",
-          "wordCount": 344,
+          "wordCount": 342,
           "title": "G20领导人赞同FSB的加密资产监管建议，将于10月讨论推进监管路线图",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +235,7 @@
           "description": "PANews 9月10日消息，加密分析师The DeFi Investor在推特发文称，下周或面临巨大的抛售压力。FTX可能会在9月13日获批清算资产。截至今年4月，FTX持有价值34亿美元的加密货币。拟议的计划是每周出售价值高达2亿美元的资产。据此前消息，在9月7日提交的法庭文件中，美国受托人（The U.S. Trustee）反对FTX的拟议计划。",
           "link": "https://panewslab.com/zh/articledetails/70ca6qp0.html",
           "publishedOn": "2023-09-09T23:00:39.000Z",
-          "wordCount": 351,
+          "wordCount": 349,
           "title": "FTX或将从下周开始出售加密资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +245,7 @@
           "description": "PANews 9月10日消息，据Forklog报道，乌兹别克斯坦总统签署了立法修正案，其中包括加密挖矿许可证。声明称，正在对法律进行补充和修改，以建立新的许可活动类型和子类型（加密交易所、矿池、加密货币存储和挖矿活动）。 国家开发计划署将负责与加密活动相关的许可，获得许可后，法人实体必须缴税。无证经营加密货币服务提供商和未经许可的采矿活动将会被罚款。",
           "link": "https://panewslab.com/zh/articledetails/1fbtyrus.html",
           "publishedOn": "2023-09-09T22:49:25.000Z",
-          "wordCount": 342,
+          "wordCount": 340,
           "title": "乌兹别克斯坦总统签署加密挖矿许可立法修正案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
