@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-10T06:15:05.752Z</id>
+    <id>urn:2023-09-10T07:10:32.075Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-10T06:15:05.752Z</updated>
+    <updated>2023-09-10T07:10:32.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[香港警方破获利用数万张预付卡洗钱1.05亿港元的犯罪集团并逮捕5人]]></title>
+        <id>https://panewslab.com/zh/articledetails/xg14ahvw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xg14ahvw.html"/>
+        <updated>2023-09-10T06:51:36.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，据南华早报报道，香港警方在打击利用数万张预付卡洗钱 1.05 亿港元（1,340 万美元）的犯罪集团中逮捕了 5 名男子。这五名男子年龄在 42 岁至 59 岁之间，因涉嫌串谋洗钱而被捕，据称与八家在香港使用预付卡和苹果 iTunes 卡的本地公司有联系。8 月被捕后，警方查获了 8 家使用同样手段洗钱的公司，并于 9 月 7 日又拘留了 4 名男子。警方查获了电脑、电话、大量收据、银行卡、银行文件、预付卡和现金。
+据警方称，2021年9月至2023年8月期间，两家葡萄酒贸易公司购买了4万多张预付卡，价值超过2000万港元。该预付卡用于在香港各超市和便利店购买同等价值的苹果iTunes卡。另外四家公司也参与了警方所谓的“U型”洗钱活动，通过涉嫌非法货币兑换商洗钱，这些兑换商在过去三年中从日本接收了大量不明原因的现金，这些资金随后被香港的空壳公司洗掉，并将资金转入预付卡，然后运回日本。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告：约四分之一的投资公司任命高级管理人员负责数字资产]]></title>
+        <id>https://panewslab.com/zh/articledetails/4ozhg56w.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4ozhg56w.html"/>
+        <updated>2023-09-10T06:42:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，据Cointelegraph报道，根据市场情报公司Amberdata最近的一份报告显示，美国和欧洲四分之一的资产管理公司和对冲基金已聘请高级管理人员来监督数字资产策略。24% 的资产管理公司已采用数字资产战略，另有 13% 的公司计划在未来两年内这样做。该报告调查了美国、英国和欧洲的 60 名投资专业人士。受访者包括资产管理公司、对冲基金和其他投资者。大约一半（48%）的研究参与者将数字资产纳入其公司的投资组合中。Amberdata 进一步预测，未来两年，管理者将优先考虑交易和投资策略，特别强调创造创新的投资产品。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ERC-4337用例大盘点： 18个获以太坊基金会资助的项目]]></title>
         <id>https://www.web3sj.com/?p=87913</id>
@@ -23,6 +44,18 @@
         <summary type="html"><![CDATA[关于 zk-SNARKs 的简短描述为，我们需要在 zk 电路中编写一段代码，这段代码的输入是一些公开的数据，输出是一些私有的数据。zk-SNARKs 的验证算法可以验证这段代码的输出是否正确，但是验证算法不会泄露任何私有数据。而 Solidity 合约的主要目的是验证 zk-SNARKs 的验证算法的结果，如果验证算法的结果正确，那么合约会执行一些操作。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3社交应用Tip Coin将于9月13日发行代币TIP]]></title>
+        <id>https://panewslab.com/zh/articledetails/g8f5d0wa.html</id>
+        <link href="https://panewslab.com/zh/articledetails/g8f5d0wa.html"/>
+        <updated>2023-09-10T05:44:05.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，Web3 社交应用 Tip Coin 在 X 平台上宣布将于下周三（9月13日）发行代币 TIP，在周二前将发布一篇文章介绍其代币经济学、流动性以及合约细节。
+据悉，Tip Coin 是一个依托于 X（前 Twitter）并结合加密货币的新型社交类项目，旨在通过发推挖矿让用户通过参与内容创作赚取积分（后续可能会变成项目代币）。
+相关阅读：Friend.tech潮退，Tip Coin势起]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -53,6 +86,26 @@
         <summary type="html"><![CDATA[在多次延期后，以太坊终于完成了上海升级，以太坊的质押系统真正开始运作，而以太坊的下一步也就此来到了坎昆时代，在本次升级的众多 EIP 中，EIP-4844 无疑最受关注，其将引导以太坊迈入 DankSharding 的第一步 Proto-DankSharding ，为随后的全面革新做好准备。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴国际站发布人工智能采购工具]]></title>
+        <id>https://panewslab.com/zh/articledetails/ueatn4k5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ueatn4k5.html"/>
+        <updated>2023-09-10T05:34:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，据新京报报道，阿里巴巴国际站面向全球发布了人工智能采购工具Smart Assistant（智能采购助手）。阿里巴巴国际站方面表示，这款率先发布的“智能采购助手”是从全球中小企业的采购需求出发，从智能图片搜索、智能需求发布、智能沟通、智能物流服务等方面进行升级，提升采购效率，尤其是采购中国商品的效率。目前人工智能在外贸领域的实际应用尚不多见，而阿里国际站发布的这两款产品，都站在行业前列，使新技术覆盖买家、卖家交易的所有环节。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Ordinals铭文铸造总量突破3000万枚]]></title>
+        <id>https://panewslab.com/zh/articledetails/w8wo79yr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/w8wo79yr.html"/>
+        <updated>2023-09-10T05:16:15.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，据 Dune 数据显示，比特币 NFT 协议 Ordinals 铭文铸造总量已突破 3000 万枚，目前达 30,329,662 枚，当前总交易费用为 1,998.1707 BTC（约 51,681,834 美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
