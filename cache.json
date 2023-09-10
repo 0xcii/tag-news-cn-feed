@@ -11,7 +11,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 123,
+          "wordCount": 127,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 162,
+          "wordCount": 154,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 171,
+          "wordCount": 173,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=87926",
+          "author": "Gao",
+          "description": "慢雾：LDO的Token合约存在潜在的“假充值”风险。FTX或将从下周开始出售加密资产。以太坊联合创始人Vitalik Buterin推特账户疑似遭黑客攻击。",
+          "link": "https://www.web3sj.com/news/87926/",
+          "publishedOn": "2023-09-10T11:14:21.000Z",
+          "wordCount": 858,
+          "title": "Web3世界日报（2023-9.10）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023091011123853.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=87913",
           "author": "Gao",
           "description": "插件是定制账户行为的智能合约。我们认识到无法预测用户对智能合约账户的需求，因为在使用账户的过程中，他们将与许多不同的 DApp 进行交互。因此，唯一的解决方案是使账户具有可扩展性，以便用户可以随着时间的推移为其账户添加新功能。",
           "link": "https://www.web3sj.com/news/87913/",
           "publishedOn": "2023-09-10T05:48:29.000Z",
-          "wordCount": 1318,
+          "wordCount": 1317,
           "title": "ERC-4337用例大盘点： 18个获以太坊基金会资助的项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090715124929656171.jpg"
         },
@@ -58,7 +68,7 @@
           "description": "关于 zk-SNARKs 的简短描述为，我们需要在 zk 电路中编写一段代码，这段代码的输入是一些公开的数据，输出是一些私有的数据。zk-SNARKs 的验证算法可以验证这段代码的输出是否正确，但是验证算法不会泄露任何私有数据。而 Solidity 合约的主要目的是验证 zk-SNARKs 的验证算法的结果，如果验证算法的结果正确，那么合约会执行一些操作。",
           "link": "https://www.web3sj.com/news/87908/",
           "publishedOn": "2023-09-10T05:45:15.000Z",
-          "wordCount": 1477,
+          "wordCount": 1478,
           "title": "zk-SNARKs在Solidity中的使用",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324701544.png"
         },
@@ -68,7 +78,7 @@
           "description": "在本期播客中，Chainalysis 邀请到了美国康涅狄格州的一线警探 Matthew Hogan，谈论了加密货币诈骗的演变过程、执法部门在调查这些案件时面临的挑战，以及该州最近关于加密货币 ATM 机（Crypto Kiosks）的数字资产立法等相关内容。",
           "link": "https://www.web3sj.com/news/87905/",
           "publishedOn": "2023-09-10T05:40:26.000Z",
-          "wordCount": 933,
+          "wordCount": 929,
           "title": "对话美国一线警探：深入杀猪盘和加密骗局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694153049371.jpg"
         },
@@ -78,7 +88,7 @@
           "description": "会计方面，要求加密货币采用公允价值计量，意味着会计处理上更加统一和透明。尽管新准则会给大量投资加密货币的公司的收益带来较大波动，但对于大部分为了获得资产升值而持有加密资产的公司，通过公允价值准则的信息披露以及要求财报附注里对企业持有的加密资产披露详细的信息，可以更适当反映这些资产对持有人财务状况的影响，反映数字资产的经济实质，为企业管理者和投资人做出更好的决策。",
           "link": "https://www.web3sj.com/news/87902/",
           "publishedOn": "2023-09-10T05:38:04.000Z",
-          "wordCount": 922,
+          "wordCount": 913,
           "title": "详解美国加密货币会计核算规则新变化, 对MicroStrategy、Coinbase等有何影响",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324271936.png"
         },
@@ -88,7 +98,7 @@
           "description": "在多次延期后，以太坊终于完成了上海升级，以太坊的质押系统真正开始运作，而以太坊的下一步也就此来到了坎昆时代，在本次升级的众多 EIP 中，EIP-4844 无疑最受关注，其将引导以太坊迈入 DankSharding 的第一步 Proto-DankSharding ，为随后的全面革新做好准备。",
           "link": "https://www.web3sj.com/news/87894/",
           "publishedOn": "2023-09-10T05:35:44.000Z",
-          "wordCount": 1243,
+          "wordCount": 1227,
           "title": "Layer2分类，通用化之路仍旧漫长",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324122938.png"
         },
@@ -98,7 +108,7 @@
           "description": "Ripple首席法务称SEC的最新文件为“虚伪的转变”。Arbitrum DAO已开启Grants Domain分配者投票。PEPE：Telegram旧账号已被黑客攻击，将暂时通过推特发布官方信息。",
           "link": "https://www.web3sj.com/news/87884/",
           "publishedOn": "2023-09-09T13:05:25.000Z",
-          "wordCount": 858,
+          "wordCount": 851,
           "title": "Web3世界日报（2023-9.9）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090913035574.jpg"
         },
@@ -108,7 +118,7 @@
           "description": "从整个商业模型来看，EigenLayer 的主要客户群体是有节点验证需求的中小型区块链网络。它主要实现的事情是利用以太坊的节点运营商给非 EVM 兼容的区块链网络提供验证服务。而整个业务链中，无论是质押者、AVS 还是 EigenLayer 的收入都是由这些中小型应用链提供的。因此，如果我们要判断 EigenLayer 的商业模型能否盈利，首先需要讨论的问题就是到底会不会有应用链来使用 EigenLayer。",
           "link": "https://www.web3sj.com/project/87870/",
           "publishedOn": "2023-09-09T06:09:22.000Z",
-          "wordCount": 1093,
+          "wordCount": 1102,
           "title": "Restaking之王：EigenLayer的商业模型是金点子还是糟粕？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694239749046.png"
         },
@@ -118,7 +128,7 @@
           "description": "让我们公平对待另一方：某种投资者可能会问，这种消极情绪是否意味着应用程序已经见底？也许一个应用程序论已经走到了尽头，另一个将崛起？当然，这是建立在一个假设上，即应用程序周期确实是一个周期，而不仅仅是 2010 年代 Web2 十年的一个昙花一现。",
           "link": "https://www.web3sj.com/news/87864/",
           "publishedOn": "2023-09-09T04:01:34.000Z",
-          "wordCount": 1071,
+          "wordCount": 1094,
           "title": "当所有应用看起来都像协议：原型应用在Web3中兴起",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694232081123.png"
         },
@@ -128,19 +138,9 @@
           "description": "我们在 2014 年发布了以太坊白皮书，它基本上描述了我们对以太坊最初的愿景。但白皮书中并没有详细解释其中一些理论背后的基本思想。以太坊是一个去中心化系统，类似于比特币。它是一个区块链，但与以前那些试图仅支持一个应用程序的系统不同，以太坊允许用户构建自己的应用程序。这意味着用户可以编写自己的应用程序代码，然后将代码上传到区块链，然后该应用程序可以在区块链上运行。",
           "link": "https://www.web3sj.com/news/87859/",
           "publishedOn": "2023-09-09T03:57:43.000Z",
-          "wordCount": 1063,
+          "wordCount": 1069,
           "title": "Vitalik南洋理工大学演讲实录：「以太坊的过去与现在」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694231850893.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87853",
-          "author": "Gao",
-          "description": "在交易加密货币时，选择中心化交易所（CEX ）和去中心化交易所（DEX）各有利弊，CEX 体验更好但像 FTX 类的事件让用户对其中心化存疑，而 DEX 虽然透明度更高，面临的问题更多，流动性低、交易对有限、Gas 费高、交易速度慢以及用户体验差等。",
-          "link": "https://www.web3sj.com/definews/87853/",
-          "publishedOn": "2023-09-09T03:55:12.000Z",
-          "wordCount": 1002,
-          "title": "融资1650万美元，StarkWare站台的隐私DEX Brine要做什么事",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694231696917.png"
         }
       ]
     },
@@ -149,6 +149,36 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/yr89co91.html",
+          "author": "PA一线",
+          "description": "PANews 9月10日消息，PlutusDAO 在 Arbitrum 论坛发起征求意见的提案，建议激活 ARB 质押，将代币通胀分配给代币锁定用户，PlutusDAO认为这不仅会激励代币持有者，而且有助于成为未来更多代币效用提案的基本组成部分（例如排序器收入）。Arbitrum DAO 有权每年铸造 ARB 总供应量的 2% 作为通货膨胀，该功能已存在于 ARB 代币合约中。然而，第一次铸造代币的机会是 2024 年 3 月 15 日，因为铸造函数每年只能调用一次。\nPlutusDAO 建议铸造 1.75% 的代币供应量并在一年内进行分配。然而，由于铸币功能尚不可用。PlutusDAO 建议使用来自 Arbitrum DAO 金库的等量资金以及在 ARB 锁定者之间分配资金的机制。国库使用的资金将在 2024 年 3 月 15 日年度铸币功能启用时通过铸币得到补充。PlutusDAO认为这不仅有利于 ARB 锁定者，而且还可以作为未来行动的先例和垫脚石，例如在适用的情况下分配 DAO 收入。最后，添加在 ARB 中生成本机收益的锁定机制将成功地将 ARB 代币与竞争的 L2 区分开来，并在集成 ARB 代币的任何应用程序中提供新级别的可组合性。",
+          "link": "https://panewslab.com/zh/articledetails/yr89co91.html",
+          "publishedOn": "2023-09-10T10:45:55.000Z",
+          "wordCount": 450,
+          "title": "PlutusDAO发起征求意见提案，提议激活ARB质押",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/j55e9hen.html",
+          "author": "PA一线",
+          "description": "PANews 9月10日消息，据Bitcoinist报道，美国德克萨斯州参议员Ted Cruz在接受《福布斯》采访时表示支持比特币挖矿，并确认挖矿业务有利于德克萨斯州经济和电网。Ted Cruz钦佩加密货币技术的去中心化性质，并谈到通过比特币的不可控性质实现的财务自由。这位参议员在讲话中强调了德克萨斯州的独特品质，强调了该州居民对自由的深厚感情。他通过提请人们关注比特币的作用来强调这一独特属性。\nTed Cruz表示，比特币网络是开源代码。世界各地的任何人都可以参与并赚钱。这种方法作为网络利用世界计算机的计算能力发行新比特币的公平机制。尽管比特币挖矿因其能源消耗而受到广泛批评，但泰德相信它可能被证明是能源行业的宝贵资产。值得注意的是，在以其负担得起的能源价格而闻名的德克萨斯州，建立自己的比特币挖矿公司的数量大幅增加。这位参议员解释说，该州的矿工可以在电力需求响应计划中发挥至关重要的作用。作为能源储存库，德克萨斯州的矿工可以承受产生的过量电力的负载。他补充说，每当该国出现电力短缺时，向矿业公司提供的电力都可以轻松地按时转移。 他还强调，采矿可以避免西德克萨斯州浪费天然气的痛苦，因为该州缺乏适当的基础设施来使用天然气，因此“美国燃烧的天然气有一半被烧掉了”。允许矿工消耗这种“废气”对经济和环境都有好处。",
+          "link": "https://panewslab.com/zh/articledetails/j55e9hen.html",
+          "publishedOn": "2023-09-10T10:26:47.000Z",
+          "wordCount": 349,
+          "title": "美国参议员赞扬比特币挖矿在促进经济和电网方面的作用",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6norka45.html",
+          "author": "PA一线",
+          "description": "PANews 9月10日消息，CZ在X平台上（原Twitter）表示，Vitalik的Twitter账号遭到黑客攻击，用户在阅读社交媒体上内容（甚至来自知名 KOL 的内容）时保持警惕。Twitter 的账户安全并不是作为金融平台而设计的。它需要更多的功能，如启用双因素身份认证（2FA）、登录ID应该不同于用户名或电子邮件等。CZ表示在过去其Twitter账号曾因黑客试图暴力破解（反复尝试不同的密码）而被锁定过几次，这些事情发生在马斯克收购推特之前。 此外，CZ建议用户在所有加密平台上使用双因素认证（如Yubikey）。",
+          "link": "https://panewslab.com/zh/articledetails/6norka45.html",
+          "publishedOn": "2023-09-10T09:07:32.000Z",
+          "wordCount": 356,
+          "title": "CZ：建议用户在所有加密平台上使用双因素认证",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/t9wwmxjq.html",
           "author": "PA一线",
@@ -317,16 +347,6 @@
           "publishedOn": "2023-09-09T23:00:39.000Z",
           "wordCount": 349,
           "title": "FTX或将从下周开始出售加密资产",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1fbtyrus.html",
-          "author": "PA一线",
-          "description": "PANews 9月10日消息，据Forklog报道，乌兹别克斯坦总统签署了立法修正案，其中包括加密挖矿许可证。声明称，正在对法律进行补充和修改，以建立新的许可活动类型和子类型（加密交易所、矿池、加密货币存储和挖矿活动）。 国家开发计划署将负责与加密活动相关的许可，获得许可后，法人实体必须缴税。无证经营加密货币服务提供商和未经许可的采矿活动将会被罚款。",
-          "link": "https://panewslab.com/zh/articledetails/1fbtyrus.html",
-          "publishedOn": "2023-09-09T22:49:25.000Z",
-          "wordCount": 340,
-          "title": "乌兹别克斯坦总统签署加密挖矿许可立法修正案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
