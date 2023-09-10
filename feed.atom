@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-10T08:14:37.088Z</id>
+    <id>urn:2023-09-10T09:11:08.016Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-10T08:14:37.088Z</updated>
+    <updated>2023-09-10T09:11:08.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[慢雾：LDO的Token合约存在潜在的“假充值”风险]]></title>
+        <id>https://panewslab.com/zh/articledetails/t9wwmxjq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/t9wwmxjq.html"/>
+        <updated>2023-09-10T08:48:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，据慢雾安全团队链上情报，LDO的token合约在处理转账操作时，如果转账数量超过用户实际持有的数量，该操作并不会触发交易的回滚。相反，它会直接返回一个`false`作为处理结果。这种处理方式与许多常见的ERC20标准token合约不同。
+由于上述特性，存在一种潜在的“假充值”风险。恶意攻击者可能会尝试利用这一特性进行欺诈行为。慢雾建议如下：
+1. 在处理token到账的逻辑时，不仅仅依赖于交易的成功或失败，还需要根据token合约的实际返回值进行判断。
+2. 请注意，市场上存在许多非ERC20标准的token合约。在接入新的token之前，务必对其合约代码进行深入的理解和分析，确保实现正确的入账逻辑。
+3. 建议定期进行代码审计和安全检查，确保系统的健壮性和安全性。
+Token合约的实现和行为可能因项目而异。为了确保资金的安全和交易的准确性，强烈建议在接入任何新的token之前，深入理解其合约逻辑并进行充分的测试。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：PayPal美元稳定币PYUSD发布至今仅有一个非交易钱包持有量超过1万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/8h6s506m.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8h6s506m.html"/>
+        <updated>2023-09-10T08:35:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，据Dapprader最新发布的八月加密市场报告显示，PayPal美元稳定币PYUSD在推出后第一个月就遭遇市场冷遇，日均交易量基本无法超过10万美元，此外PYUSD的采用率也很低，截至目前只有一个非交易钱包持有超过10,000 美元的代币。报告还披露另一个美元稳定币USDC在九月初登陆Base链，但其市值却在过去14个月缩水了50%，不过Circle正计划在11月之前将USDC部署到Optimism和另外四个区块链。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase CEO：加密货币可能成为2024年美国总统竞选的“热门话题”]]></title>
+        <id>https://panewslab.com/zh/articledetails/rsp5cssj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rsp5cssj.html"/>
+        <updated>2023-09-10T07:58:58.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月10日消息，据雅虎财经报道，Coinbase 首席执行官Brian Armstrong表示加密行业面临的问题之一是缺乏明确的监管。行业可以通过多种方式获得明确性，例如通过法院、国会和美国商品期货交易委员会 (CFTC)。他还认为 2024 年可能会有一位新的 SEC 主席。如果Gary Gensler不再担任 SEC 主席，“肯定会帮助”该行业。谈到 2024 年的竞选，加密货币可能成为白宫竞选中的一个“热门话题”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港警方破获利用数万张预付卡洗钱1.05亿港元的犯罪集团并逮捕5人]]></title>
         <id>https://panewslab.com/zh/articledetails/xg14ahvw.html</id>
