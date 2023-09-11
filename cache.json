@@ -11,7 +11,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 127,
+          "wordCount": 129,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 157,
+          "wordCount": 163,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 167,
+          "wordCount": 161,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=87965",
+          "author": "Gao",
+          "description": "EVM 是否等效容易理解，决定了开发者低门槛的生态转移；本文基于科普视角来探讨下，Data Availability 到底是什么？为什么 DA 层是 layer2 的核心层？Celestia 和 Eigenlayer 等第三方 DA 做了哪些取舍？",
+          "link": "https://www.web3sj.com/news/87965/",
+          "publishedOn": "2023-09-11T02:58:37.000Z",
+          "wordCount": 1018,
+          "title": "以太坊作为数据可用性层有哪些优劣势？第三方模块化解决方案如何取舍？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694401103539.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87959",
+          "author": "Gao",
+          "description": "你能想象一个普通的阿根廷母亲，使用加密货币进行购物，为家庭成员购买生活必须品吗？Malaya Fetuccini 是阿根廷的一位普通的家庭主妇，从 2022 年开始，她使用 USDC 在 METRO 购物，并且十分熟练。",
+          "link": "https://www.web3sj.com/news/87959/",
+          "publishedOn": "2023-09-11T02:45:47.000Z",
+          "wordCount": 1065,
+          "title": "货币通胀的阿根廷，使得加密货币走进了商场",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694400335496.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87951",
+          "author": "Gao",
+          "description": "过去12个月，人们不断猜测美联储加息，以及加息是否会影响通胀、就业和其他经济指标。在连续几个季度加息之后，市场一直在等待加息是否达到了预期的放缓经济增长的效果。总体而言，8 月份的报告是积极的。",
+          "link": "https://www.web3sj.com/news/87951/",
+          "publishedOn": "2023-09-11T02:37:17.000Z",
+          "wordCount": 862,
+          "title": "海外Web3就业报告：远程工作受追捧，美国为主就业市场",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694399814541.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=87944",
+          "author": "Gao",
+          "description": "Consensys 与 YouGov 一起在各大洲的 15 个国家进行了一项全球 Web3 认知调查，这项多国研究旨在提供人们对加密货币、NFT、Web3、区块链和元宇宙的看法，了解人们对当前互联网的感受以及调查最近的中心化加密货币金融公司的破产是否影响了对 Web3 行业的认知。",
+          "link": "https://www.web3sj.com/news/87944/",
+          "publishedOn": "2023-09-11T02:21:39.000Z",
+          "wordCount": 992,
+          "title": "Consensys全球调查：世界各地对Web3认知几何？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694398877510.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=87926",
           "author": "Gao",
           "description": "慢雾：LDO的Token合约存在潜在的“假充值”风险。FTX或将从下周开始出售加密资产。以太坊联合创始人Vitalik Buterin推特账户疑似遭黑客攻击。",
           "link": "https://www.web3sj.com/news/87926/",
           "publishedOn": "2023-09-10T11:14:21.000Z",
-          "wordCount": 881,
+          "wordCount": 861,
           "title": "Web3世界日报（2023-9.10）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023091011123853.jpg"
         },
@@ -58,7 +98,7 @@
           "description": "插件是定制账户行为的智能合约。我们认识到无法预测用户对智能合约账户的需求，因为在使用账户的过程中，他们将与许多不同的 DApp 进行交互。因此，唯一的解决方案是使账户具有可扩展性，以便用户可以随着时间的推移为其账户添加新功能。",
           "link": "https://www.web3sj.com/news/87913/",
           "publishedOn": "2023-09-10T05:48:29.000Z",
-          "wordCount": 1334,
+          "wordCount": 1312,
           "title": "ERC-4337用例大盘点： 18个获以太坊基金会资助的项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090715124929656171.jpg"
         },
@@ -68,7 +108,7 @@
           "description": "关于 zk-SNARKs 的简短描述为，我们需要在 zk 电路中编写一段代码，这段代码的输入是一些公开的数据，输出是一些私有的数据。zk-SNARKs 的验证算法可以验证这段代码的输出是否正确，但是验证算法不会泄露任何私有数据。而 Solidity 合约的主要目的是验证 zk-SNARKs 的验证算法的结果，如果验证算法的结果正确，那么合约会执行一些操作。",
           "link": "https://www.web3sj.com/news/87908/",
           "publishedOn": "2023-09-10T05:45:15.000Z",
-          "wordCount": 1484,
+          "wordCount": 1488,
           "title": "zk-SNARKs在Solidity中的使用",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324701544.png"
         },
@@ -78,7 +118,7 @@
           "description": "在本期播客中，Chainalysis 邀请到了美国康涅狄格州的一线警探 Matthew Hogan，谈论了加密货币诈骗的演变过程、执法部门在调查这些案件时面临的挑战，以及该州最近关于加密货币 ATM 机（Crypto Kiosks）的数字资产立法等相关内容。",
           "link": "https://www.web3sj.com/news/87905/",
           "publishedOn": "2023-09-10T05:40:26.000Z",
-          "wordCount": 941,
+          "wordCount": 927,
           "title": "对话美国一线警探：深入杀猪盘和加密骗局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694153049371.jpg"
         },
@@ -88,7 +128,7 @@
           "description": "会计方面，要求加密货币采用公允价值计量，意味着会计处理上更加统一和透明。尽管新准则会给大量投资加密货币的公司的收益带来较大波动，但对于大部分为了获得资产升值而持有加密资产的公司，通过公允价值准则的信息披露以及要求财报附注里对企业持有的加密资产披露详细的信息，可以更适当反映这些资产对持有人财务状况的影响，反映数字资产的经济实质，为企业管理者和投资人做出更好的决策。",
           "link": "https://www.web3sj.com/news/87902/",
           "publishedOn": "2023-09-10T05:38:04.000Z",
-          "wordCount": 890,
+          "wordCount": 918,
           "title": "详解美国加密货币会计核算规则新变化, 对MicroStrategy、Coinbase等有何影响",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324271936.png"
         },
@@ -98,49 +138,9 @@
           "description": "在多次延期后，以太坊终于完成了上海升级，以太坊的质押系统真正开始运作，而以太坊的下一步也就此来到了坎昆时代，在本次升级的众多 EIP 中，EIP-4844 无疑最受关注，其将引导以太坊迈入 DankSharding 的第一步 Proto-DankSharding ，为随后的全面革新做好准备。",
           "link": "https://www.web3sj.com/news/87894/",
           "publishedOn": "2023-09-10T05:35:44.000Z",
-          "wordCount": 1222,
+          "wordCount": 1229,
           "title": "Layer2分类，通用化之路仍旧漫长",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694324122938.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87884",
-          "author": "Gao",
-          "description": "Ripple首席法务称SEC的最新文件为“虚伪的转变”。Arbitrum DAO已开启Grants Domain分配者投票。PEPE：Telegram旧账号已被黑客攻击，将暂时通过推特发布官方信息。",
-          "link": "https://www.web3sj.com/news/87884/",
-          "publishedOn": "2023-09-09T13:05:25.000Z",
-          "wordCount": 873,
-          "title": "Web3世界日报（2023-9.9）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023090913035574.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87870",
-          "author": "Gao",
-          "description": "从整个商业模型来看，EigenLayer 的主要客户群体是有节点验证需求的中小型区块链网络。它主要实现的事情是利用以太坊的节点运营商给非 EVM 兼容的区块链网络提供验证服务。而整个业务链中，无论是质押者、AVS 还是 EigenLayer 的收入都是由这些中小型应用链提供的。因此，如果我们要判断 EigenLayer 的商业模型能否盈利，首先需要讨论的问题就是到底会不会有应用链来使用 EigenLayer。",
-          "link": "https://www.web3sj.com/project/87870/",
-          "publishedOn": "2023-09-09T06:09:22.000Z",
-          "wordCount": 1067,
-          "title": "Restaking之王：EigenLayer的商业模型是金点子还是糟粕？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694239749046.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87864",
-          "author": "Gao",
-          "description": "让我们公平对待另一方：某种投资者可能会问，这种消极情绪是否意味着应用程序已经见底？也许一个应用程序论已经走到了尽头，另一个将崛起？当然，这是建立在一个假设上，即应用程序周期确实是一个周期，而不仅仅是 2010 年代 Web2 十年的一个昙花一现。",
-          "link": "https://www.web3sj.com/news/87864/",
-          "publishedOn": "2023-09-09T04:01:34.000Z",
-          "wordCount": 1104,
-          "title": "当所有应用看起来都像协议：原型应用在Web3中兴起",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694232081123.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=87859",
-          "author": "Gao",
-          "description": "我们在 2014 年发布了以太坊白皮书，它基本上描述了我们对以太坊最初的愿景。但白皮书中并没有详细解释其中一些理论背后的基本思想。以太坊是一个去中心化系统，类似于比特币。它是一个区块链，但与以前那些试图仅支持一个应用程序的系统不同，以太坊允许用户构建自己的应用程序。这意味着用户可以编写自己的应用程序代码，然后将代码上传到区块链，然后该应用程序可以在区块链上运行。",
-          "link": "https://www.web3sj.com/news/87859/",
-          "publishedOn": "2023-09-09T03:57:43.000Z",
-          "wordCount": 1056,
-          "title": "Vitalik南洋理工大学演讲实录：「以太坊的过去与现在」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694231850893.png"
         }
       ]
     },
@@ -165,7 +165,7 @@
           "description": "PANews 9月11日消息，据链上分析师余烬监测，前天使用1066万枚USDC在链上买入6541枚ETH的巨鲸，在4小时前，又将大部分ETH换成了BTC，该巨鲸通过0x012地址将5500枚ETH（889万美元）换成了344.1枚WBTC ，均价25845美元。\n该巨鲸目前持有：344.1枚WBTC（885万美元)；1041枚stETH（108万美元)。",
           "link": "https://panewslab.com/zh/articledetails/hqn09hjo.html",
           "publishedOn": "2023-09-11T01:55:12.000Z",
-          "wordCount": 356,
+          "wordCount": 364,
           "title": "数据：某巨鲸将5500枚ETH换成344.1枚WBTC，其前天曾购入6541枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +205,7 @@
           "description": "PANews 9月11日消息，据官方消息，Animoca Brands宣布获得新一轮具有约束力的融资承诺，以加速其NFT项目Mocaverse发展。Animoca Brands通过以每股4.50澳元的价格发行新普通股筹集了2000万美元。作为此次融资的一部分，该公司向投资者发放了基于1：1美元比例的免费附加实用型代币认股权证。此次融资由CMCC Global领投，其他投资者包括Kingsway Capital、Liberty City Ventures、GameFi Ventures、Aleksander Larsen（Sky Mavis创始人）、Gabby Dizon（Yield Guild Games创始人）以及Koda Capital的机构投资者等。Animoca Brands的执行主席兼联合创始人Yat Siu也参与了该轮融资。新资金将用于推进Mocaverse项目，包括产品开发、促进Web3采用以及确保合作伙伴关系，以扩大Animoca Brands对Web3公司和项目的约450家投资组合的游戏、文化和娱乐生态系统。\nMocaverse正在构建Web3原生工具，以增强游戏、文化和娱乐垂直领域产品的能力，允许用户创建自己的数字身份、积累声誉、赚取和消费忠诚点，并使用他们的数字身份访问由Animoca Brands的450多家投资组合公司和拥有超过700万可寻址用户的合作伙伴网络提供支持的Mocaverse生态系统。Mocaverse将很快推出NFT系列Moca ID，旨在让用户能够打造自己在链上的身份并参与Mocaverse生态系统。Moca ID持有者将获得对Mocaverse生态系统体验的独家访问权，并将有机会通过积极参与获得独特的忠诚积分。这些忠诚积分将为一个无需许可和可互操作的忠诚系统提供支持，该系统将逐步去中心化，以允许第三方采用和集成Moca ID，旨在推动Web3的可访问性和增长。\n相关阅读：香港加密投资机构CMCC Global：想做加密行业的“贝莱德”",
           "link": "https://panewslab.com/zh/articledetails/a5iffkdp.html",
           "publishedOn": "2023-09-11T00:39:42.000Z",
-          "wordCount": 429,
+          "wordCount": 426,
           "title": "Animoca Brands为其Mocaverse项目筹集2000万美元，CMCC Global领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 9月11日消息，Token Unlocks数据显示，本周7个加密项目将进行代币解锁，总计释放价值超8200万美元。\nMoonbeam（GLMR）将于9月11日8时解锁约968万枚代币，价值约172万美元；\nAptos（APT）将于9月12日8时解锁约454万枚代币，价值约2354万美元；\nSweatcoin（SWEAT）将于9月13日8时解锁约2.27亿枚代币，价值约168万美元；\nLido DAO（LDO）将于9月13日23 : 33解锁约150万枚代币，价值约222万美元；\nEuler（EUL）将于9月14日07 : 17解锁约15.5万枚代币，价值约40万美元；\nFlow（FLOW）将于9月16日8时解锁约729万枚代币，价值约304万美元；\nApeCoin（APE）将于9月17日8时解锁约4060万枚代币，价值约4994万美元。",
           "link": "https://panewslab.com/zh/articledetails/3qp4gzuj.html",
           "publishedOn": "2023-09-10T23:57:08.000Z",
-          "wordCount": 377,
+          "wordCount": 371,
           "title": "数据：价值约4994万美元的APE、2354万美元的APT将在本周解锁",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -267,12 +267,42 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202309/21182.html",
+          "author": null,
+          "description": "9月11日消息，据官方消息，LSD 稳定币协议 Prisma Finance 宣布推出 Prisma 积分系统，以在 Prisma 守护启动期间对用户贡献进行奖励。 Prisma 积分衡量并侧重 Prisma 早期用户的链上贡献，积分将主要奖励给开设金库与铸造 mkUSD 的用户，但对 Prisma 生态系统作出贡献的其他行为也将得到奖励。",
+          "link": "https://www.hellobtc.com/news/202309/21182.html",
+          "publishedOn": "2023-09-11T02:55:00.000Z",
+          "wordCount": 329,
+          "title": "LSD稳定币协议Prisma Finance推出积分系统，对早期用户链上贡献进行奖励",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21181.html",
+          "author": null,
+          "description": "游戏和开放元宇宙数字产权公司Animoca Brands Corporation Limited，宣布已收到一轮具有约束力的融资承诺，以加速Mocaverse的发展，Animoca Brands通过以每股4.50澳元的价格发行新普通股筹集了2000万美元（约3130万澳元），作为融资的一部分，公司已向本轮投资者授予按1:1美元的比例免费附加的实用型代币认股权证。本轮融资由CMCC Global领投，其他投资方包括Kingsway Capital、Liberty City Ventures、GameFi Ventures 、Aleksander Larsen（ Sky Mavis创始人）、Gabby Dizon（ Yield Guild Games创始人）、 Koda Capital机构投资者等。Animoca Brands执行主席兼联合创始人Yat Siu也参与了本轮融资。 新资金将用于推进Mocaverse项目，包括产品开发、促进Web3采用以及确保合作伙伴关系，以扩大Animoca Brands对Web3公司和项目的约450家投资组合的游戏、文化和娱乐生态系统。",
+          "link": "https://www.hellobtc.com/news/202309/21181.html",
+          "publishedOn": "2023-09-11T02:54:00.000Z",
+          "wordCount": 336,
+          "title": "Animoca Brands为旗下元宇宙项目Mocaverse筹集2000万美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21180.html",
+          "author": null,
+          "description": "9月11日消息，据Glassnode数据，以太坊网络平均gas价格（7日移动平均值）为19.567GWEI，已回落至今年年初水平，刷新8个月以来新低。",
+          "link": "https://www.hellobtc.com/news/202309/21180.html",
+          "publishedOn": "2023-09-11T02:54:00.000Z",
+          "wordCount": 307,
+          "title": "Glassnode：以太坊平均gas价格已回落至今年年初水平",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202309/21179.html",
           "author": null,
           "description": "1.Berenberg：自2020年8月以来，MicroStrategy已累计报告22.3亿美元减值损失。\n\n2.CFTC 同时发布了针对Opyn、ZeroEx和Deridex三个著名DeFi公司的惩罚和和解指控，Delphi Labs总法律顾问认为CFTC行动使DeFi在美国变得非法。\n\n3.新加坡金管局：没有所谓的“加密货币沙盒”，年底起将逐步对零售业使用加密货币实施监管。\n\n4.Bitcoin Magazine CEO：DCG CEO操纵GBTC价格存在犯罪行为。\n\n5.8月份Base TVL环比增长330%，独立用户数环比激增3,200%。\n\n6.协议贡献者提议MakerDAO分配最高1亿美元用于探索代币化国库券。\n\n7.泄露的聊天记录显示Celsius每周花费逾800万美元维持CEL价格。\n\n8.Santiment：9月份社交媒体对“熊市”的提及频率多过“牛市”。",
           "link": "https://www.hellobtc.com/news/202309/21179.html",
           "publishedOn": "2023-09-09T01:47:00.000Z",
-          "wordCount": 325,
+          "wordCount": 326,
           "title": "白话区块链早报：自2020年8月以来，MicroStrategy已累计报告22.3亿美元减值损失",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -334,36 +364,6 @@
           "publishedOn": "2023-09-07T06:58:00.000Z",
           "wordCount": 325,
           "title": "美通社宣布新增亚洲区块链协会、Blockhead和Association Blockchain Asia等亚太合作伙伴",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21172.html",
-          "author": null,
-          "description": "香港虚拟银行ZA Bank（众安银行）已向香港证监会申请1号牌（证券交易）虚拟资产升级（uplift），希望未来可以接入持牌平台，允许客户在该行应用程式上买卖虚拟资产。ZA Bank表示，现阶段仍处于“入纸申请”，会向监管机构积极争取，暂未有获批的具体时间表。",
-          "link": "https://www.hellobtc.com/news/202309/21172.html",
-          "publishedOn": "2023-09-07T06:58:00.000Z",
-          "wordCount": 312,
-          "title": "香港虚拟银行ZA Bank已向香港证监会提交申请1号牌（证券交易）虚拟资产升级",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21171.html",
-          "author": null,
-          "description": "1.谷歌更新广告政策，将允许NFT游戏广告投放。\n\n2.Visa区块链主管：Visa支付将扩展至多个区块链和稳定币。\n\n3.Ripple联合创始人：拜登政府已将区块链行业推向海外。\n\n4.Unibot现已集成OKX Web3钱包DEX。\n\n5.Arkham：GBTC是全球第二大BTC实体，持有超过160亿美元的BTC。\n\n6.数据：一WLD做市商1小时前将450万枚WLD转入3家CEX。\n\n7.调查：超过一半的韩国人认为加密货币是一种赌博形式。\n\n8.Consensys战略主管：MetaMask Snaps类似苹果应用商店，未来将是无需许可的。\n\n9.Vitalik联合发表《区块链隐私和监管合规：迈向实际平衡》论文。\n\n10.Ripple与SpaceX合伙人合作，参与毛伊岛应急基金的加密货币捐赠项目。\n\n11.Binance称XIRTAM追回资产已开放领取。\n\n12.币安回应CYBER活期赚币事件：因期现价差导致借贷需求飙升且无法短时回款。\n\n13.WSJ：Binance全球法币业务负责人Helen Hai已离职。",
-          "link": "https://www.hellobtc.com/news/202309/21171.html",
-          "publishedOn": "2023-09-07T03:10:00.000Z",
-          "wordCount": 319,
-          "title": "白话区块链早报：谷歌更新广告政策，将允许NFT游戏广告投放",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21170.html",
-          "author": null,
-          "description": "1.Vitalik Buterin：以太坊目前最紧迫需解决的问题是实现更高水平的可扩展性。\n\n2.ali charts：巨鲸群体昨日疑似购入约26万枚ETH，近4.25亿美元。\n\n3.MetaMask推出最新功能“Sell”，可将加密货币兑换成法币。\n\n4.Vitalik：未来的以太坊升级或可实现在手机上运行全节点。\n\n5.O(1) Labs宣布将SnarkyJS更名为o1js。\n\n6.Yuga Labs推出有奖解密系列Moon Puzzle，每期首个解密者将获得0.12 BTC奖励。\n\n7.数据：主要交易所的衍生品交易量是现货交易量的20倍。\n\n8.数据：Solana每日活跃地址数量跌至两年多以来最低。\n\n9.Arthur Hayes：Filecoin是人工智能与加密货币跨界的一大受益者。\n\n10.Coinbase将2031年10月到期债券回购金额从1.5亿美元提高至1.8亿美元。\n\n11.Justin Sun持有瑞幸咖啡股票或至少浮盈超1亿美元。\n\n12.美国司法部：SBF每周7天都可以使用笔记本电脑。",
-          "link": "https://www.hellobtc.com/news/202309/21170.html",
-          "publishedOn": "2023-09-06T01:25:00.000Z",
-          "wordCount": 335,
-          "title": "白话区块链早报：V神认为以太坊目前最紧迫需解决的问题是实现更高水平的可扩展性",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
