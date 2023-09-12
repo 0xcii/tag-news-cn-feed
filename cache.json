@@ -11,7 +11,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 125,
+          "wordCount": 129,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 162,
+          "wordCount": 157,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 155,
+          "wordCount": 153,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -150,12 +150,102 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/i5s40h0o.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，据Lookonchain监测，Vitalik Buterin相关地址于今日凌晨再次将2000枚ETH转入0x5567开头地址，价值约合312万美元。\n据悉，过去1个月时间内，Vitalik相关地址已经通过0x5567开头地址累计向Bitstamp转入2700枚ETH，价值约合477万美元。",
+          "link": "https://panewslab.com/zh/articledetails/i5s40h0o.html",
+          "publishedOn": "2023-09-12T00:42:47.000Z",
+          "wordCount": 353,
+          "title": "Vitalik相关地址凌晨再次将2000枚ETH转入0x5567开头地址",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/eu7t0qaj.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，据CNBC报道，渣打银行旗下加密托管商Zodia Custody于周二在新加坡开始运营，旨在利用该国迅速增长的数字资产市场。根据Zodia在新闻发布会上所述，这一发展使其成为第一家由银行拥有、并与银行合作的、为新加坡金融机构提供数字资产托管服务的实体。Zodia表示，希望将业务扩展到整个亚太地区，以满足机构对银行级数字资产托管不断增长的需求，以及该地区现有客户的需求。\nZodia首席执行官Julian Sawyer表示：“就加密资产形成规则和中央银行数字货币的发展而言，新加坡正在逐渐成熟，我们希望成为其中的一部分。我们认为，由银行拥有的托管机构正是市场所需要的。”\nZodia是英国渣打银行的子公司，该银行主要在亚洲、非洲和中东等新兴市场开展业务。渣打银行于 2021年与Northern Trust一起推出了Zodia，Zodia还由日本银行SBI的加密部门SBI Digital Asset Holdings持有部分股份。作为该交易的一部分，SBI还同意在日本开展托管业务。",
+          "link": "https://panewslab.com/zh/articledetails/eu7t0qaj.html",
+          "publishedOn": "2023-09-12T00:38:34.000Z",
+          "wordCount": 368,
+          "title": "渣打银行旗下加密托管商Zodia Custody在新加坡开始运营",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7kbupwyz.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，据The Block报道，加密交易所Coinbase的云部门Coinbase Cloud集成了一个名为Kiln的链上质押协议，以提供低于标准最低要求的原生ETH质押。在未来几周内，Coinbase的钱包将成为第一个实施这种质押解决方案的钱包。Coinbase Cloud确认此功能将扩展到dApp和其他自我托管钱包提供商。\n传统上，原生ETH质押至少需要32 ETH才能建立一个单独的网络验证器，这一条件对许多感兴趣的参与者望而却步。Coinbase Cloud与Kiln的集成将允许加密用户以非托管方式质押更小的金额，从而使他们能够直接从钱包中保持对资金的控制。Kiln利用专门的智能合约，提供了一种灵活的ETH质押方法。它允许集中质押总额达到32 ETH的最低限额，成为类似Lido和Rocket等流动性质押协议中灵活质押选项的替代方案。",
+          "link": "https://panewslab.com/zh/articledetails/7kbupwyz.html",
+          "publishedOn": "2023-09-12T00:23:07.000Z",
+          "wordCount": 368,
+          "title": "Coinbase Cloud集成链上质押协议Kiln，以提供低于32枚ETH的以太坊质押",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/an3p47dc.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，据Decrypt报道，游戏初创公司Pahdo Labs完成1500美元的A轮融资，Andreessen Horowitz（a16z）领投。Pahdo没有正式宣布其他A轮投资者，但Crunchbase提到BoxGroup、Long Journey Ventures、PearVC和2 Punks Capital等公司参与了这轮融资。\n据悉，Pahdo Labs是一家位于纽约的游戏开发公司，成立于2021年。该公司的核心目标是运用生成式人工智能(AI)技术，打造出独具特色的、能让玩家深度参与并持续影响游戏世界的游戏体验。Halcyon Zero是该公司开发的动画风格动作角色扮演游戏，Pahdo Labs计划利用AI技术为Halcyon Zero开启新的游戏模式。根据a16z普通合伙人Jon Lai的推文，Pahdo正“为玩家开放创造者工具，以制作自己的动画游戏，并通过AI/程序生成计划增强游戏功能”。",
+          "link": "https://panewslab.com/zh/articledetails/an3p47dc.html",
+          "publishedOn": "2023-09-12T00:10:04.000Z",
+          "wordCount": 392,
+          "title": "游戏初创公司Pahdo Labs完成1500美元的A轮融资，a16z领投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/hqq44cs4.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，根据一份公开的法庭文件，美国证券交易委员会（SEC）和币安提出申请联合保护令的动议，要求双方对诉讼中发现的证据材料保密，包括但不限于文件、质询答案以及证词笔录。",
+          "link": "https://panewslab.com/zh/articledetails/hqq44cs4.html",
+          "publishedOn": "2023-09-11T23:56:09.000Z",
+          "wordCount": 352,
+          "title": "美国SEC和币安提出联合保护令动议，要求对诉讼证据材料保密",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/y6fxu198.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，据The Block报道，美国证券交易委员会（SEC）主席Gary Gensler将于周二上午出席美国参议院银行委员会的听证会。他仍坚持认为，加密货币必须遵守与股票等其他证券相同的法律，许多加密货币属于SEC的管辖范围。他在周一公布的事先准备好的证词中表示，“鉴于该行业普遍不遵守证券法，我们在市场看到许多问题并不奇怪。这让人想起了上世纪20年代联邦证券法实施之前的情况。因此，我们采取了一系列执法行动，有些已达成和解，有些已提起诉讼。”",
+          "link": "https://panewslab.com/zh/articledetails/y6fxu198.html",
+          "publishedOn": "2023-09-11T23:46:30.000Z",
+          "wordCount": 352,
+          "title": "美国SEC主席：加密行业普遍不遵守证券法，许多加密货币属于SEC的管辖范围",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vuw6xwh4.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，波场创始人孙宇晨在推特发文称，考虑收购FTX持有的代币和资产，以减少其抛售对加密社区的影响。据此前消息，FTX或将于9月13日获批清算34亿美元代币。法庭文件显示，FTX共有约70亿美元的资产，其中加密货币34亿美元，包括11.6亿美元的Solana(SOL)和5.6亿美元的比特币 (BTC)。",
+          "link": "https://panewslab.com/zh/articledetails/vuw6xwh4.html",
+          "publishedOn": "2023-09-11T23:34:18.000Z",
+          "wordCount": 348,
+          "title": "孙宇晨：考虑收购FTX持有的代币和资产",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a44465to.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，据CoinDesk报道，加密交易所Luno的公共政策主管Nick Taylor在一份声明中表示，该公司计划禁止部分英国客户投资加密货币。一封来自Luno客户的电子邮件显示，从10月6日起，他们将无法购买或交易加密货币。Taylor表示，英国金融行为监管局（FCA）已经对加密公司实施了新规则。因此所有拥有英国客户的合规加密公司都在对其平台进行一些调整，以遵守新规定。受影响的Luno客户仍然可以出售加密货币和取款。据此前消息，FCA将于10月8日起对加密广告商实施更严格的监管规则，其中包括禁止诸如“推荐好友”或“新加入者奖金”等投资激励措施，并禁止将加密空投等激励措施与引导用户投资相结合。Luno并不是唯一暂停部分英国业务的公司。PayPal此前宣布将于10月1日起暂停在英国提供加密货币购买服务，预计于明年初恢复",
+          "link": "https://panewslab.com/zh/articledetails/a44465to.html",
+          "publishedOn": "2023-09-11T23:19:12.000Z",
+          "wordCount": 358,
+          "title": "加密交易所Luno将从10月6日起禁止部分英国客户投资加密货币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a4a9u74s.html",
+          "author": "PA一线",
+          "description": "PANews 9月12日消息，链上数据显示，周一随着市场抛售加剧，Jump Trading、Wintermute和Abraxas Capital等交易公司向加密交易所转入大量比特币、以太坊和ARB。区块链分析公司Arkham Intelligence在推特发文称，资产管理公司Abraxas Capital通过两笔交易向Bitfinex转入14130枚ETH，价值约2250万美元。主要做市商Jump Trading一次性向币安发送近236枚比特币，价值590万美元。此外，据Lookonchain监测，另一家大型做市商Wintermute在过去8小时内向币安存入超过330万美元的ARB。",
+          "link": "https://panewslab.com/zh/articledetails/a4a9u74s.html",
+          "publishedOn": "2023-09-11T22:45:24.000Z",
+          "wordCount": 365,
+          "title": "数据：Jump Trading等交易公司周一向交易所转入大量比特币、以太坊和ARB",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/4s8596fa.html",
           "author": "PA一线",
           "description": "PANews 9月12日消息，据The Block报道，PayPal新推出加密货币兑换美元服务，此前该公司已推出允许客户购买加密货币的服务。PayPal在一份声明中表示，美国加密钱包用户可以将他们的加密货币直接兑换成美元并计入他们的PayPal余额，然后可以使用美元购物或转账至银行卡上。该服务支持在钱包、 dApp、NFT市场以及MetaMask上使用。",
           "link": "https://panewslab.com/zh/articledetails/4s8596fa.html",
           "publishedOn": "2023-09-11T22:24:11.000Z",
-          "wordCount": 350,
+          "wordCount": 349,
           "title": "PayPal推出加密货币兑换美元服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +255,7 @@
           "description": "PANews 9月12日消息，Coinbase Cloud 集成了 Kiln 的链上质押协议，可提供低于 32 ETH 限制的原生 ETH 质押。此次集成将允许 Coinbase 钱包用户直接从其加密钱包中存入较小金额的 ETH。\n去年，质押平台Kiln完成1700万欧元融资，Kraken和ConsenSys等参投。",
           "link": "https://panewslab.com/zh/articledetails/vubqr6p6.html",
           "publishedOn": "2023-09-11T16:26:42.000Z",
-          "wordCount": 397,
+          "wordCount": 396,
           "title": "Coinbase Cloud集成质押平台Kiln，用于32ETH以下的原生ETH质押",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +265,7 @@
           "description": "PANews 9月12日消息，据《曼谷邮报》初步报道，泰国网络犯罪调查局 (CCIB) 逮捕了五名与欺诈性加密货币投资平台（bchgloballtd.com）有关的外国人，包括 4 名中国公民和 1 名老挝公民，罪名是策划一项欺诈性投资计划，欺骗了 3,200 多名当地人。CCIB 发言人 Kissana Phathanacharoen 表示，受害者从去年 11 月开始向警方报案，声称自己被骗投资黄金和 USDT 等加密货币。",
           "link": "https://panewslab.com/zh/articledetails/xrchhoi5.html",
           "publishedOn": "2023-09-11T16:20:27.000Z",
-          "wordCount": 390,
+          "wordCount": 389,
           "title": "泰国警方因加密投资骗局逮捕5名外国人，涉案约2700万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +275,7 @@
           "description": "PANews 9月12日消息，链上分析师余烬监测显示，Justin Sun 地址刚刚向 Huobi 转入约 1003 万枚 USDT。",
           "link": "https://panewslab.com/zh/articledetails/5da15did.html",
           "publishedOn": "2023-09-11T16:01:59.000Z",
-          "wordCount": 366,
+          "wordCount": 365,
           "title": "孙宇晨向Huobi转入1003万枚USDT",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
