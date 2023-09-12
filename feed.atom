@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-12T13:16:25.286Z</id>
+    <id>urn:2023-09-12T14:12:35.781Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-12T13:16:25.286Z</updated>
+    <updated>2023-09-12T14:12:35.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask推出Snaps功能，将能够兼容非EVM区块链]]></title>
+        <id>https://panewslab.com/zh/articledetails/l0r46x8f.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l0r46x8f.html"/>
+        <updated>2023-09-12T13:20:18.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月12日消息，据The Block报道，MetaMask 宣布推出 Snaps 新功能，旨在扩大其在与以太坊虚拟机（EVM）本身不兼容的区块链网络上的使用。Snap 是可以与 MetaMask 集成的软件模块，使钱包可以跨链使用，包括 Cosmos、Solana 和 Starknet 等。MetaMask 已与 150 多名开发人员合作，以扩大 Snap 的开发工作。
+最初，MetaMask 计划首先发布超过25 个 Snap，这些 Snap 已经过安全审核，随后已被团队列入白名单。该团队表示将允许第三方开发者独立发布和维护 Snap。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链基金Tioga Capital筹集2000万欧元，投资资本增至8500万欧元]]></title>
+        <id>https://panewslab.com/zh/articledetails/3rhmuz03.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3rhmuz03.html"/>
+        <updated>2023-09-12T13:01:58.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月12日消息，据Tijd报道，区块链基金 Tioga Capital 宣布为其机会基金（Opportunity Fund）额外筹集到 2000 万欧元，投资资本增至 8500 万欧元。Tioga Capital 主要投资于为 Crypto 和 Web3 创建加密基础设施的公司。
+Tioga Capital 于 2020 年在金融科技投资者 Jurgen Ingels 和加密货币研究员 Bart Preneel 的支持下成立。2020年，比利时主权财富基金SRIW曾投资Tioga Capital。Tioga Capital 投资组合包括比利时区块链技术提供商 Venly（原 Arkane Network）、比特币托管公司 Casa、Web3 社交协议 Lens Protocol 等。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[L1区块链LUKSO发布“通用配置文件”的测试版，旨在为用户提供完整的“链上身份”]]></title>
+        <id>https://panewslab.com/zh/articledetails/wgbm07p1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wgbm07p1.html"/>
+        <updated>2023-09-12T12:12:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月12日消息，据CoinDesk报道，由区块链资深人士 Fabian Vogelsteller 和 Marjorie Hernandez 共同创立的 Layer 1 区块链 Lukso 正在发布“通用配置文件”的测试版 - 该功能旨在为用户提供完整的“链上身份”，该功能带有可恢复的加密钱包以及用于与社交媒体应用程序交互的配置文件。通用配置文件可在区块链上用于各种应用程序（NFT、去中心化社交媒体、支付），因此将用户的活动集成到一个帐户下，而不仅仅是一个钱包地址。
+此前5月，Layer 1公链LUKSO主网已正式上线。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-9.12）]]></title>
         <id>https://www.web3sj.com/?p=88219</id>
@@ -23,6 +56,16 @@
         <summary type="html"><![CDATA[今年 Coinbase 股票上涨超 120%，涨幅归因于比特币年初以来的 65% 涨幅以及科技股的 35%。同时跟随美股市场和加密市场，这种双市场相关性在趋势向上时会带来超越两个市场的收益。Coinbase 主营业务为交易收入，受宏观和行业周期性影响，减半事件会引起市场投机导致交易量进一步增加，但接下来的 8–12 个月宏观违背适合加密成长的高通胀高利率环境的延续对 Coinbase 的主营业务依旧会有不良影响。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊客户端Geth发布v1.13版本，提供存储以太坊状态的新数据库模型]]></title>
+        <id>https://panewslab.com/zh/articledetails/3423zwah.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3423zwah.html"/>
+        <updated>2023-09-12T11:47:06.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月12日消息，据以太坊官方博客，Go Ethereum发布以太坊客户端 Geth v1.13 版本。Go Ethereum 表示，该版本主要功能已经开发了 6 年，提供了一个用于存储以太坊状态的新数据库模型，比以前的方案更快，并且还具有适当剪枝（pruning）实施。该模型支持对历史状态进行正确、全面的动态剪枝，这意味着不需要再次使节点离线来重新同步或手动剪枝。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -53,6 +96,16 @@
         <summary type="html"><![CDATA[当然以上并不能代表 Solana 已拥有与「以太坊为核心的多 L2 宇宙」掰手腕的能力，但或许大家对「公链之王」的耐心也更有限了。对以太坊和 Solana 都曾试点过的 Visa 近日发表关于 Solana 的研究报告，就 Solana 的高吞吐量、低成本、雄厚的节点基础进行解读。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国白宫：英伟达等八家公司自愿承诺管理AI风险 包括展开安全测试、添加数字水印等]]></title>
+        <id>https://panewslab.com/zh/articledetails/t313x1kz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/t313x1kz.html"/>
+        <updated>2023-09-12T11:33:46.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月12日消息，美国白宫今日在官网发布声明称，美国商务部长雷蒙多等政府高官将在白宫召集AI行业高管，宣布Adobe、Cohere、IBM、英伟达、Palantir、Salesforce、Scale AI和 Stability八家公司承诺采取自愿监管措施管理AI技术开发风险，包括在推出前展开安全测试、构建将安全放在首位的系统、为AI生成内容添加数字水印等。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -252,60 +305,6 @@ DeFi 教育基金在周一的一份声明中表示，True Return 拥有 2018 年
         <summary type="html"><![CDATA[PANews 9月12日消息，据香港金融管理局官网，香港金融管理局联同以色列银行及国际结算银行创新枢纽（BISIH）辖下香港中心发表题为《Project Sela项目——可供广泛使用及安全的零售层面央行数码货币生态系统》的报告，并参与了由以色列银行在特拉维夫主办的发布会。
 新闻稿称，Project Sela项目是金管局与以色列银行首个金融科技合作项目。 Project Sela项目通过零售层面央行数字货币的设计结构，展示了非银行支付中介机构直接连接央行数字货币帐本的技术可行性，从而促进数码支付领域的竞争和创新。项目以分布式分类帐技术（DLT）建立了概念验证原型，证明该设计结构在技术执行上能符合严格的网络安全、法律和政策要求。
 金管局副总裁李达志表示：“我们很高兴成功与以色列银行和BISIH辖下香港中心完成了Project Sela项目。项目在网络安全、技术和政策方面，都对落实零售层面央行数字货币提供了宝贵而实用的意见。虽然金管局未决定是否或何时在香港推出数字港元，但Project Sela项目的成果，对我们持续进行的研究具有参考价值。我们希望项目也能协助其他央行评估不同的零售层面央行数字货币设计结构。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zkSync Era区块浏览器上出块数据已恢复，此前问题或系浏览器故障]]></title>
-        <id>https://panewslab.com/zh/articledetails/e7efhu97.html</id>
-        <link href="https://panewslab.com/zh/articledetails/e7efhu97.html"/>
-        <updated>2023-09-12T07:52:53.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月12日消息，zkSync Era区块浏览器的出块数据现已恢复，目前zkSync Era网络的最新区块为#208622。
-该浏览器此前的数据卡在14:14时的区块#208455，经查看，#208456批次出块时间为14:14，#208457区块出块时间为14:15，且接下来的区块出块时间间隔约1分钟左右。因此数据不更新或系浏览器数据故障。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安合约全面上线跟单交易功能]]></title>
-        <id>https://panewslab.com/zh/articledetails/331i8m9a.html</id>
-        <link href="https://panewslab.com/zh/articledetails/331i8m9a.html"/>
-        <updated>2023-09-12T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月12日消息，币安合约平台将在网页版开放跟单交易的跟单功能，自2023年09月12日16:00（东八区时间）起，用户开启跟单功能即可自动跟随带单交易员的实时合约交易策略。同时，币安合约将推出“学习任务”活动，鼓励用户学习跟单知识并提供建议，以帮助币安合约完善和改进跟单交易产品。在2023年09月12日16:00至2023年09月26日07:59（东八区时间）期间，完成本次“学习任务”并提供建议，币安将根据币安链区块哈希值规则选出400位符合资格的用户瓜分奖池。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upbit将下架Dawn Protocol（DAWN）、Refereum（RFR）和Maro（MARO）]]></title>
-        <id>https://panewslab.com/zh/articledetails/42sv849x.html</id>
-        <link href="https://panewslab.com/zh/articledetails/42sv849x.html"/>
-        <updated>2023-09-12T07:27:46.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月12日消息，据官方公告，韩国加密交易所Upbit宣布将于北京时间9月26日15:00结束对Dawn Protocol（DAWN）、Refereum（RFR）、Maro（MARO）的交易支持。
-Upbit称Dawn Protocol、Refereum在内部评估中持续获得极差的评价，以及项目多次未能回应提交投资者保护信息的请求，在被列为警示项目后，Dawn Protocol未能就DAWN代币的用途和实际用例等信息提供充分的解释，Refereum也未对其项目作出适当的结束。此外Upbit称，Maro在内部评估中持续评价不佳、违反项目方分配方案、分配管理能力差，虽然违规程度并不严重，但Maro多次因违反分配计划而受到警告，并多次在没有合理原因或事先通知的情况下违反分配计划，暴露出其缺乏管理分配量的能力，且Mar在解释过程中提交的数据存在错误。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一网络公司老板偷卖他人虚拟币提现还债，被判有期徒刑九个月并处罚金]]></title>
-        <id>https://panewslab.com/zh/articledetails/b4jtw10t.html</id>
-        <link href="https://panewslab.com/zh/articledetails/b4jtw10t.html"/>
-        <updated>2023-09-12T07:13:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月12日消息，据检察日报报道，河北法院近日对一起偷卖他人虚拟币案犯罪嫌疑人周某判处有期徒刑九个月，缓刑一年，并处罚金2000元。
-因经营网络公司失败，周某欠下不少外债。周某伙同抢劫他人手机的李某（另案处理），破解了该手机密码以及手机上环保币（虚拟币）平台的账号、密码，通过网络技术利用该手机登录他人账号进行环保币挂售获利，提现了8442元用于偿还信用卡欠款。
-警方在侦办李某抢劫案中发现被害人在失踪期间新注册了一个支付宝账户，遂顺藤摸瓜找到了周某，于2021年11月24日将其抓获，并根据周某的交代找到了实施抢劫的李某。2022年11月15日，该案被移送至检察院审查起诉。鉴于周某自愿认罪认罚，退出所有赃款并获得对方谅解，检察院以涉嫌盗窃罪提起公诉。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港数字资产平台OSL与嘉实国际合作拓展STO业务]]></title>
-        <id>https://panewslab.com/zh/articledetails/ybia9lis.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ybia9lis.html"/>
-        <updated>2023-09-12T06:57:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月12日消息，据东网报道，主动型资产管理公司嘉实国际与BC科技集团旗下数字资产业务子公司OSL宣布，建立战略性合作伙伴关系，一起探索开拓香港代币化相关业务。双方希望通过合作，以证券型代币(STO)为资本市场提供一种独特和受监管的投资方式。同时强调，会以最严谨合规、安全和信息透明标准发展。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
