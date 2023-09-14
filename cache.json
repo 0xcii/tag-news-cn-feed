@@ -11,7 +11,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 123,
+          "wordCount": 125,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 154,
+          "wordCount": 162,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 171,
+          "wordCount": 159,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -150,203 +150,23 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
-          "id": "https://panewslab.com/zh/articledetails/0g04e9q9.html",
+          "id": "https://panewslab.com/zh/articledetails/y8md68bv.html",
           "author": "PA一线",
-          "description": "PANews 9月14日消息，据The Block报道，数字资产金融公司 Genesis 在给客户的一封电子邮件中表示，该公司将停止通过 GGC International 进行数字资产衍生品交易。Genesis 表示，此举意味着它将不再通过其任何业务实体提供交易服务。该公司表示，这一决定“是出于商业原因自愿做出的”。",
-          "link": "https://panewslab.com/zh/articledetails/0g04e9q9.html",
-          "publishedOn": "2023-09-14T15:10:37.000Z",
-          "wordCount": 360,
-          "title": "Genesis不再通过任何业务部门提供交易服务",
+          "description": "PANews 9月15日消息，Yearn 官方宣布已正式上线 yETH。yETH 可以理解为一款基于 stETH、rETH、cbETH 等流动性质押衍生代币（LST）的指数型代币，允许用户通过单一敞口将其 ETH 质押份额分散至多种不同的质押协议之中。",
+          "link": "https://panewslab.com/zh/articledetails/y8md68bv.html",
+          "publishedOn": "2023-09-14T16:23:07.000Z",
+          "wordCount": 363,
+          "title": "Yearn上线流动性质押衍生代币的指数型代币yETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
-          "id": "https://panewslab.com/zh/articledetails/86354kl2.html",
+          "id": "https://panewslab.com/zh/articledetails/skjtvza2.html",
           "author": "PA一线",
-          "description": "PANews 9月14日消息，Algorand 基金会宣布与 Metamask Snaps 框架的集成。这次集成是由Algorand的一位社区成员领导的，并决定将代码开源给社区。\n相关阅读：MetaMask Snaps出鞘，钱包江湖迈入大一统时代？",
-          "link": "https://panewslab.com/zh/articledetails/86354kl2.html",
-          "publishedOn": "2023-09-14T14:46:37.000Z",
-          "wordCount": 368,
-          "title": "Algorand基金会与Metamask Snaps框架集成",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2l20i5d4.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，原生 USDC 现已在 Near 主网上线，并可通过 Circle 账户和 Circle API 进行访问。\n原生USDC代币地址为：17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
-          "link": "https://panewslab.com/zh/articledetails/2l20i5d4.html",
-          "publishedOn": "2023-09-14T14:21:13.000Z",
-          "wordCount": 375,
-          "title": "原生USDC已在Near主网上线",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ddgpak46.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据The Block报道，去中心化以太坊质押基础设施 ssv.network 推出了专注于分布式验证器技术的主网，该主网通过将用户连接到共同管理以太坊验证器节点的运营商网络来实现去中心化质押。主网的发布有十多个发布合作伙伴，他们将其质押 DApp 与 SSV 集成，包括 Stader、Ankr、Stakestar、01node、Metapool、StakeTogether、XHash、Chainup、Coindelta 和 Claystack。\nSSV 的主网部署分多个阶段进行，从上个月的有限启动开始。当前阶段允许公众通过启动合作伙伴应用程序参与 SSV。在第四季度，当网络开始称为“无许可启动”的最后阶段时，用户将能够直接与 SSV 网络进行质押，并成为节点运营商。",
-          "link": "https://panewslab.com/zh/articledetails/ddgpak46.html",
-          "publishedOn": "2023-09-14T14:15:55.000Z",
-          "wordCount": 371,
-          "title": "ssv.network推出专注于分布式验证器技术的合作伙伴主网",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/oyp0wsto.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，美国证券交易委员会（SEC）专员Hester Peirce和Mark Uyeda再次声明反对SEC将Stoner Cats NFT销售视为证券的执法行动，并表示Howey测试在本案中的应用缺乏任何有意义的限制原则。它对各种创作者都有影响。如果像将证券法应用于 NFT 一样将其应用于实物收藏品，那么艺术家的创造力就会在法律模糊性的阴影下枯萎。不应该武断地对 NFT 项目采取执法行动，而应该为想要尝试 NFT 的艺术家和其他创作者制定一些明确的指导方针，以支持他们的创作努力和建立粉丝社区。\n昨日，美国SEC指控Stoner Cats系列NFT的创建者未经注册提供NFT。",
-          "link": "https://panewslab.com/zh/articledetails/oyp0wsto.html",
-          "publishedOn": "2023-09-14T13:48:34.000Z",
-          "wordCount": 384,
-          "title": "美国SEC专员Hester Peirce和Mark Uyeda反对SEC针对Stoner Cats的执法行动",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/b07rhk9x.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，Paradigm 联合创始人 Matt Huang 在接受 The Information 采访时表示，Paradigm 不会放弃加密领域投资，并将于年底或明年初募集一支 10 亿美元规模基金。",
-          "link": "https://panewslab.com/zh/articledetails/b07rhk9x.html",
-          "publishedOn": "2023-09-14T13:29:51.000Z",
-          "wordCount": 369,
-          "title": "Paradigm联创：不会放弃加密领域投资，并将募集一支10亿美元规模基金",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/z5ayy0br.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据TechCrunch报道，加密货币咨询公司Reverie正在推出一支 2000 万美元的旗舰基金，用于投资种子前和种子阶段的加密公司。该基金的重点放在去中心化社交媒体和安全上。该基金由两家美国机构投资者领投，具体名称未披露。",
-          "link": "https://panewslab.com/zh/articledetails/z5ayy0br.html",
-          "publishedOn": "2023-09-14T13:23:24.000Z",
-          "wordCount": 342,
-          "title": "加密咨询公司Reverie正在推出2000万美元的加密基金",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/uvi0mojf.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据The Block报道，以太坊联合创始人 Vitalik Buterin 今天在新加坡表示，寻求在香港开展业务的加密货币项目应该权衡政府对加密货币友好程度的稳定性。当谈到香港政府是否会继续支持加密货币时，Buterin 表示，这是一个关键变量，并认为理解它非常有价值。他“个人很难判断这个问题”。",
-          "link": "https://panewslab.com/zh/articledetails/uvi0mojf.html",
-          "publishedOn": "2023-09-14T13:08:55.000Z",
-          "wordCount": 357,
-          "title": "Vitalik：加密项目应该考虑香港的加密货币友好度能持续多久",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/z3c5gbsb.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据The Block报道，跨链智能合约平台 Neutron 和互操作协议 Axelar 已被流动性质押项目 Lido Finance 选择在 Cosmos 生态系统中推出其包装的流动性质押以太币 (wstETH) 代币。一旦 wstETH 在 Cosmos 上部署并建立跨链治理，Axelar 和 Neutron 预计会将跨链部署控制权移交给 Lido DAO。\n此前报道，Lido社区新提案提议“将wstETH引入Cosmos生态系统”",
-          "link": "https://panewslab.com/zh/articledetails/z3c5gbsb.html",
-          "publishedOn": "2023-09-14T13:03:56.000Z",
-          "wordCount": 405,
-          "title": "Lido Finance选择Axelar和Neutron在Cosmos上推出wstETH",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/448q2dz9.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据财联社报道，美国8月PPI同比上升1.6%，预估为1.3%，前值为0.8%；美国8月PPI环比上升0.7%，预估为0.4%，前值为0.3%。\n美国上周首次申领失业救济人数为22万人，预估为22.5万人，前值为21.6万人。",
-          "link": "https://panewslab.com/zh/articledetails/448q2dz9.html",
-          "publishedOn": "2023-09-14T12:33:15.000Z",
-          "wordCount": 337,
-          "title": "美国8月PPI同比上升1.6%，环比上升0.7%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/p6dnmqty.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据Cointelegraph报道，DeFi 基础设施提供商 Orderly Network 与 Google Cloud 合作开发 DeFi 基础设施的链下组件，专注于解决自我托管和透明度挑战。Orderly 将成为 DeFi 基础设施提供商，可在 Google Cloud Marketplace 上使用。",
-          "link": "https://panewslab.com/zh/articledetails/p6dnmqty.html",
-          "publishedOn": "2023-09-14T12:26:59.000Z",
-          "wordCount": 396,
-          "title": "Orderly Network与Google Cloud合作开发DeFi基础设施的链下组件",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vllz259w.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据CoinDesk报道，连接加密货币和传统金融的支付基础设施的初创公司 Ramp Network 添加巴西中央银行的 Pix 系统作为支付方式，此次集成将使 Ramp 能够为巴西用户提供一种快速便捷的加密货币购买方式。Ramp 于 7 月在该国开设了一家当地实体，以期在整个拉丁美洲进行更广泛的扩张。",
-          "link": "https://panewslab.com/zh/articledetails/vllz259w.html",
-          "publishedOn": "2023-09-14T12:24:02.000Z",
-          "wordCount": 376,
-          "title": "加密支付公司Ramp集成巴西央行的Pix系统作为支付方式",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/f5a2z1in.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据The Block报道，加密货币交易所Bybit首席执行官Ben Zhou表示，10月8日生效的新营销规则可能意味着Bybit退出英国。",
-          "link": "https://panewslab.com/zh/articledetails/f5a2z1in.html",
-          "publishedOn": "2023-09-14T12:19:04.000Z",
-          "wordCount": 346,
-          "title": "Bybit预计将在新的营销规则生效之前退出英国",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/akv1zn7a.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，零数科技宣布完成B2轮融资，此次投资方系国家信息中心旗下北京国信中数投资管理有限公司。本轮融资将主要用于推动产品创新、市场营销和团队扩充。\n据悉，上海零数科技有限公司成立于2016年，总部位于上海，在北京、海南、苏州、青岛等地设有分支机构。公司是全国领先的数据共享与资产流通基础设施提供商，依托领先的区块链及隐私计算技术，服务数字经济生态。\n零数科技创始人兼CEO林乐博士表示，此次融资是零数科技继B1轮浦东科创母基金投资之后的新一轮融资。",
-          "link": "https://panewslab.com/zh/articledetails/akv1zn7a.html",
-          "publishedOn": "2023-09-14T12:11:29.000Z",
-          "wordCount": 344,
-          "title": "零数科技获国家信息中心旗下国信中数B2轮战略投资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/g6gnbfpw.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据The Block报道，银行业巨头德意志银行已与瑞士加密基础设施公司 Taurus SA 签订全球合作伙伴协议，为其客户提供数字资产托管和代币化服务。\n此前，德意志银行参与了 Taurus 6500 万美元的 B 轮融资，并于今年早些时候向德国金融监管机构申请了数字资产许可证。",
-          "link": "https://panewslab.com/zh/articledetails/g6gnbfpw.html",
-          "publishedOn": "2023-09-14T12:06:20.000Z",
-          "wordCount": 378,
-          "title": "德意志银行与Taurus合作提供数字资产托管和代币化服务",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/6wx7c093.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，四大会计师事务所之一的安永 (EY) 今天宣布推出 EY.ai，这是一个汇集人类能力和人工智能 (AI) 的统一平台，可帮助客户通过自信和负责任地采用人工智能来实现业务转型。安永 14 亿美元的投资为 EY.ai 平台奠定了基础。这些投资支持将人工智能嵌入到 EY Fabric 等安永专有技术中，供 60,000 名安永客户和超过 150 万唯一客户用户使用，并通过支持云和自动化技术帮助确保一系列安永技术收购。",
-          "link": "https://panewslab.com/zh/articledetails/6wx7c093.html",
-          "publishedOn": "2023-09-14T11:51:20.000Z",
-          "wordCount": 376,
-          "title": "安永投资14亿美元宣布推出人工智能平台EY.ai",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/jvrzr9q2.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据CNBC报道，以太坊联合创始人兼 Consensys 首席执行官 Joseph Lubin 表示，美国监管机构将看到“去中心化协议、区块链、加密货币符合美国的理念”。监管机构通过声称大多数加密货币代币都是证券，加密货币公司在出售它们之前需要首先向监管机构注册。他还预计，凭借互联网、网络和密码学等先前技术，“头脑清醒的人将会占上风”。",
-          "link": "https://panewslab.com/zh/articledetails/jvrzr9q2.html",
-          "publishedOn": "2023-09-14T11:18:21.000Z",
-          "wordCount": 353,
-          "title": "ConsenSys创始人：去中心化协议、区块链、加密货币符合美国的理念",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/nn2sav6c.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据The Block报道，Polygon Labs 今日发布了三项 Polygon 改进提案 (PIP)，其中详细介绍了过渡的轮廓、升级后的Polygon 2.0架构的规范以及其原生代币的更新。\n三个提案中的 PIP-17 概述了 Polygon 2.0 的“第 0 阶段”。该提案的主要方面是确保升级期间最终用户和开发人员无需对现有 Polygon PoS 和Polygon zkEVM链采取任何操作。\n其次，PIP-18提出实施POL代币，旨在取代现有的MATIC代币，作为Polygon生态系统的原生gas和质押资产。\n第三，PIP-19 要求以确保最大向后兼容性的方式将 Polygon PoS 上的原生 Gas 代币从 MATIC 升级到 POL。这确保了新代币的升级不会改变 Polygon PoS 上的智能合约的兼容性。这里的目标是确保升级后的 POL 代币的代码属性保持不变。",
-          "link": "https://panewslab.com/zh/articledetails/nn2sav6c.html",
-          "publishedOn": "2023-09-14T11:03:46.000Z",
-          "wordCount": 428,
-          "title": "Polygon Labs发布2.0升级和POL代币迁移提案",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4sjo2j39.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，PeckShield 监测显示，加密货币交易所 CoinEx ARB 0x838c...9002上的Drainer已通过Stargate Finance将约 113 枚 ETH桥接至 Ethereum ，并将其转移至CEX，包括FixedFloat和Binance。",
-          "link": "https://panewslab.com/zh/articledetails/4sjo2j39.html",
-          "publishedOn": "2023-09-14T10:54:01.000Z",
-          "wordCount": 379,
-          "title": "PeckShield： CoinEx ARB上的113枚被盗ETH桥接至以太坊，并转移至CEX",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/gguhoqpi.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据Coingape报道，法庭文件显示，在美国证券交易委员会（SEC）对币安、Binance.US及其创始人CZ提起的诉讼中，地方法官Zia M. Faruqui周三签署并发布了一项临时命令。定于9月18日举行下一次听证会。届时，法官将听取被告就BAM Management US Holdings和BAM Trading Services（Binance.US）申请保护令的动议所做的陈述，同时也将听取SEC就反对保护令动议提出的论据。\n此举是因为币安及其子公司Binance.US向SEC提交了一份联合动议，要求发布保护令，并反对SEC的强制披露证据动议。",
-          "link": "https://panewslab.com/zh/articledetails/gguhoqpi.html",
-          "publishedOn": "2023-09-14T10:46:32.000Z",
-          "wordCount": 358,
-          "title": "SEC诉币安案件下次听证会定于9月18日举行",
+          "description": "PANews 9月14日消息，欧易 OKX 中文官推发文表示，9 月 13 日 下午 3:38 ~ 3:43 (UTC+8) 期间平台部分合约标的出现价格异常。经核查，该问题系平台限价服务异常导致部分合约无法正常发布委托，致使价格出现偏差导致部分用户触发爆仓或止损。\nOKX将对因为该问题触发爆仓或止损的用户进行该部分的损失补偿，具体补偿信息如下：\n1、补偿对象：\n9 月 13 日 下午 3:38:07 (UTC+8) 前已经完成开仓，且在下午 3:38:07 ~ 3:43:59 期间账户发生强制平仓、触发止损的用户，交易类型包括永续合约、交割合约、杠杆交易。\n2、补偿金额：\n爆仓用户补偿为下午 3:38:06 的标记价格和服务异常期间强平成交价之间的损失。 止损用户补偿为下午 3:38:06 的标记价格和系统异常期间止损成交价之间的损失。\n补偿包括用户本次交易产生的手续费。\n3、补偿形式：\n补偿将于 9 月 20 日前以 USDT 的形式直接发放至用户资金账户。",
+          "link": "https://panewslab.com/zh/articledetails/skjtvza2.html",
+          "publishedOn": "2023-09-14T16:05:34.000Z",
+          "wordCount": 417,
+          "title": "欧易OKX公布合约价格异常事件赔偿方案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
