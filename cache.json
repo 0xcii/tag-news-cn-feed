@@ -11,7 +11,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 125,
+          "wordCount": 133,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AI(人工智能)正在向AGI（通用人工智能）的目标加速发展，大模型与机器人的结合是必然趋势，机器人很快会迎来发展拐点。",
           "link": "https://www.defidaonews.com/article/6830144",
           "publishedOn": "2023-08-19T04:38:38.000Z",
-          "wordCount": 157,
+          "wordCount": 154,
           "title": "天才少年他来了，带着他的远征A1来了",
           "imageUrl": "https://appserversrc.8btc.cn/FkFiabQHfmlEluu9tKv5tB78n9P0.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这会是AI绘画最先引爆的超级场景？",
           "link": "https://www.defidaonews.com/article/6830020",
           "publishedOn": "2023-08-17T09:58:24.000Z",
-          "wordCount": 161,
+          "wordCount": 157,
           "title": "一台机器成本两万，借力AI绘画年回报率500%——风靡全球“大头贴拍照机”要复兴了？丨AIGC案例报告",
           "imageUrl": "https://appserversrc.8btc.cn/Fk3kp3hFAHb_IRIlok9vF8GDse_Y.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=88404",
+          "author": "Gao",
+          "description": "从游戏开发者大会 GDC 2023 宣布和 Immutable 合作，到在科隆国际游戏展（Gamescom）上共同发布首个游戏演示。以篮球为主题的 NFT 游戏 Infinite Victory，是其背后开发公司 Bit Fry Game Studios「十年磨一剑」后的背水之战。",
+          "link": "https://www.web3sj.com/gamefinews/88404/",
+          "publishedOn": "2023-09-14T08:13:55.000Z",
+          "wordCount": 1146,
+          "title": "与Immutable搭伙，NFT 篮球游戏Infinite Victory会如何？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/16946792421.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=88390",
+          "author": "Gao",
+          "description": "Pendle Earn 是 Pendle 的核心产品，由之前的 Buy with Discount 迭代而来，背后的逻辑依然是将用户存入的生息资产打包成本金代币（PT）和生息代币（YT），通过持有本金代币（PT），到期后 1:1 的赎回的方式来实现固定收益。",
+          "link": "https://www.web3sj.com/definews/88390/",
+          "publishedOn": "2023-09-14T08:06:51.000Z",
+          "wordCount": 1448,
+          "title": "Pendle新版图：连接万亿RWA市场和多链扩张",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/16946788211.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=88387",
+          "author": "Gao",
+          "description": "加密货币已经「不合规」了，尤其是其「商业模式」，至少美国证券交易委员会 (SEC) 主席 Gary Gensler 这样认为。 由于这种观点在美国负责证券监管的机构中普遍存在，因此...",
+          "link": "https://www.web3sj.com/uncategorized/88387/",
+          "publishedOn": "2023-09-14T08:01:12.000Z",
+          "wordCount": 923,
+          "title": "SEC执法行动的下一个目标：加密钱包？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1694650623058.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=88384",
+          "author": "Gao",
+          "description": "交易平台交易基金 (ETF) 是一种追踪一篮子基础资产的投资工具。ETF 股票像股票一样在交易平台进行交易。由于 ETF 简化了大宗商品、股票、债券和其他资产的投资，因此管理着数万亿美元。现在，比特币和其他加密货币也在寻求同样的模式。",
+          "link": "https://www.web3sj.com/news/88384/",
+          "publishedOn": "2023-09-14T07:57:43.000Z",
+          "wordCount": 1255,
+          "title": "比特币ETF全面解析：定义、进展、争议和潜在影响",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/16946782081.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=88381",
+          "author": "Gao",
+          "description": "Vitalik 在美国德克萨斯州首府奥斯汀的 Permissionless 大会上表示，放眼当今的应用领域，即使是最新的应用程序也「不够有想象力」。DeFi「很酷」，NFT 是一种新的原语，但有基于历史的延伸，使用加密货币进行支付很好，但似曾相识。这些都是为了适应与以前相同的生态系统而设计的单个部分。",
+          "link": "https://www.web3sj.com/news/88381/",
+          "publishedOn": "2023-09-14T07:52:47.000Z",
+          "wordCount": 899,
+          "title": "Vitalik：当前应用「不够有想象力」，独立开放的技术堆栈是以太坊梦想",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/739aa767b05c6a8435a1402cc167fc28.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=88365",
           "author": "Gao",
           "description": "Banana Gun 是一款基于 Telegram 的 Trading Bot ( 交易机器人），官方介绍能够为用户及时狙击即将推出的代币，或安全地购买已经上线的代币。",
           "link": "https://www.web3sj.com/news/88365/",
           "publishedOn": "2023-09-14T06:51:09.000Z",
-          "wordCount": 946,
+          "wordCount": 972,
           "title": "Banana Gun暴涨后因「合约漏洞」重启项目？智能合约审计为何如此重要",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694674253663.png"
         },
@@ -58,7 +108,7 @@
           "description": "作为 Web3 初创公司，实现产品与市场的契合对于持续成功至关重要。在新兴技术和市场需求的交叉中找到最佳的「点」既带来了独特的挑战，也带来了独特的机遇。产品与市场契合度本质上是指初创公司的产品与重要市场需求的契合点。",
           "link": "https://www.web3sj.com/news/88361/",
           "publishedOn": "2023-09-14T06:46:45.000Z",
-          "wordCount": 834,
+          "wordCount": 844,
           "title": "Binance Labs：五个关键点帮你实现产品与市场的契合",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694673984601.png"
         },
@@ -68,7 +118,7 @@
           "description": "9 月 11 日晚，Milady 创始人 Charlotte Fang 在 X 平台表示，一开发者挪用 Milady 官方项目 Bonkler 金库资金约 100 万美元，该开发者同时还夺取了代码库，要求团队交出更多的资金和 NFT 储备。目前 miladymaker 和 remilionaire 的 X 账号在该开发者控制之中。",
           "link": "https://www.web3sj.com/nftnews/88355/",
           "publishedOn": "2023-09-14T05:54:15.000Z",
-          "wordCount": 1068,
+          "wordCount": 1070,
           "title": "Milady内战迷雾，创始人或间接服务美国情报机构",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694670839034.png"
         },
@@ -78,7 +128,7 @@
           "description": "去中心化交易所 DEX 是一种基于区块链的数字资产交易平台，它不将用户资金和个人数据存储在服务器上，不依赖于第三方中介机构，而是直接通过智能合约和点对点网络，实现数字资产的交易和转移。在 DEX 上，用户可以直接使用自己的钱包进行交易，不需要将资金的控制权交给任何中介或托管人。这样，就可以避免中心化交易所的一些风险，如黑客攻击、平台跑路、资产冻结等。同时，DEX 也可以保护用户的隐私，因为它们不需要实施 KYC 和 AML 等监管要求。",
           "link": "https://www.web3sj.com/definews/88352/",
           "publishedOn": "2023-09-14T03:29:28.000Z",
-          "wordCount": 913,
+          "wordCount": 909,
           "title": "去中心化交易所DEX，在中国合法吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694662155465.png"
         },
@@ -88,59 +138,9 @@
           "description": "需要注意的是，这些「秘密」不仅限于加密 /Web3 场景；今天任何互联网用户都应该采纳这些或根据他们的需求量身定制的安全实践。尽管我们推荐尽可能采用最严格的安全措施，但实际情况是，对大多数人来说，购买硬件钱包、WebAuthn 密钥和配备 TEE 的设备并不是易事（至少目前还不是）。更何况，失去敏感信息有时甚至比泄露它们更危险，因为有些信息一旦丢失就无法恢复。",
           "link": "https://www.web3sj.com/news/88349/",
           "publishedOn": "2023-09-14T03:26:55.000Z",
-          "wordCount": 883,
+          "wordCount": 896,
           "title": "a16z：最基本且可行的密码安全配置方案",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694661989526.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=88321",
-          "author": "Gao",
-          "description": "21Shares母公司推出一系列封装代币，包括BTC、XRP和Solana等。美SEC对做市巨头Virtu Financial提起诉讼，指控其在信息安全方面误导客户。opBNB主网正式上线。",
-          "link": "https://www.web3sj.com/news/88321/",
-          "publishedOn": "2023-09-13T11:35:16.000Z",
-          "wordCount": 928,
-          "title": "Web3世界日报（2023-9.13）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023091311335420.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=88303",
-          "author": "Gao",
-          "description": "其实这是广大用户盼望了许久的功能，由于 MetaMask 只在支持 EVM 链通过 RPC 形式接入，很长一段时间内，用户交互其他生态都得下载一堆对应的钱包，比如： 用 Solflare、Phantom 接入 Solana 生态，用 Keplr、Cosmostation 接入 Cosmos 生态，用 Argent、Braavos 接入 Starknet 生态，Sui 和 Aptos 生态也各自有独立的钱包。",
-          "link": "https://www.web3sj.com/news/88303/",
-          "publishedOn": "2023-09-13T06:46:50.000Z",
-          "wordCount": 1015,
-          "title": "MetaMask Snaps会带来哪些潜在影响？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/image-4.jpeg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=88297",
-          "author": "Gao",
-          "description": "虽然美国在接受数字资产方面似乎落后于世界上许多地区，但许多国家采取了与加密货币相同甚至更严厉的措施。但美国的救赎之处在于，它拥有一个致力于程序正当程序的法院系统，确保当越界时有纠正的途径。",
-          "link": "https://www.web3sj.com/transaction/88297/",
-          "publishedOn": "2023-09-13T06:32:50.000Z",
-          "wordCount": 1053,
-          "title": "Pantera Capital投资方法论：如何通过基本面和宏观环境评估加密市场？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694586754086.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=88278",
-          "author": "Gao",
-          "description": "账户抽象（AA）最重要的优势之一是能够使用代码定制功能。然而，一个主要的工程挑战是 AA 功能的非互操作性，而这种碎片化阻碍了集成，并为供应商锁定打开了大门。此外，在同时升级和组合功能时确保安全性可能会很复杂。",
-          "link": "https://www.web3sj.com/news/88278/",
-          "publishedOn": "2023-09-13T06:14:11.000Z",
-          "wordCount": 1205,
-          "title": "模块化智能合约账户设计：解决落地技术难题",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694585637912.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=88268",
-          "author": "Gao",
-          "description": "美国市场参与者对我们积累更多金融财富的过程没有那么耐心。在我们永不停歇地寻找下一个牛市的过程中，我们经常发现自己在问:「我们到了吗？」特别是在加密市场，我们经常会问，我们钱包里的狗屎什么时候会再次在 2021 年 11 月的峰值附近交易。",
-          "link": "https://www.web3sj.com/news/88268/",
-          "publishedOn": "2023-09-13T05:34:32.000Z",
-          "wordCount": 1246,
-          "title": "Arthur Hayes：传统经济关系正在崩溃，比特币必将成为救赎",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1694583237097.png"
         }
       ]
     },
@@ -150,12 +150,92 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/2igvd48b.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，据The Block报道，Worldcoin联合创始人Sam Altman在新加坡Token 2049会议的小组讨论中表示，Worldcoin项目面临着巨大的运营挑战。制造这些“orbs”设备需要考虑很多因素，因此运营方面的挑战是巨大的。同时，生物识别方面的阻力也是一个需要克服的挑战，有些人可能会在第一次听说这个产品时感到不舒服。然而，Sam Altman认为这两种情况都在朝着好的方向发展。\nWorldcoin的联合创始人Alex Blania在同一小组中表示，项目上线后，与世界各地的监管机构和政策制定者交谈已成为他的主要工作。他说：“在项目发布后的几周内，我们的销量出现了非常疯狂的激增，对我们来说最疯狂的事情是，几乎到处都有人排着长长的队伍等待开业。这真的很难管理。” Blania补充说，该团队正在加速恢复和扩大规模，并与更多的政策制定者进行谈判。此外，关于数据隐私的担忧，Alex Blania重申，一旦完成虹膜扫描，Worldcoin不会存储数据。",
+          "link": "https://panewslab.com/zh/articledetails/2igvd48b.html",
+          "publishedOn": "2023-09-14T06:53:39.000Z",
+          "wordCount": 333,
+          "title": "Worldcoin联创：随着需求增长等因素，项目面临巨大运营挑战",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dn8l4q33.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，据Tech Funding News报道，法国金融科技公司Fipto完成1500万欧元（约合1612万美元）种子轮融资，Serena Capital和Motier Ventures领投。新融资将允许Fipto进一步开发其平台，提供一体化的支付和财库解决方案，使企业能够通过利用区块链的优势（速度、成本效率和透明度）来转换和发送任何货币。\n此外，Fipto致力于促进即时跨境支付，并拥有机构级托管和钱包安全性以及多方计算（MPC）钱包，为企业提供数字领域的安全和隐私。值得一提的是，Fipto已在法国金融市场管理局（AMF）注册为数字资产服务提供商（DASP）。",
+          "link": "https://panewslab.com/zh/articledetails/dn8l4q33.html",
+          "publishedOn": "2023-09-14T06:40:18.000Z",
+          "wordCount": 350,
+          "title": "数字资产服务提供商Fipto完成1500万欧元种子轮融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ciwi6ywi.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，据Cointelegraph报道，Yuga Labs首席执行官Daniel Alegre在新加坡的Token 2049会议上接受采访时说，大型科技公司Meta给元宇宙带来了不好的名声，因为它们将不佳的视觉体验推向了大众。但是幸运的是，开放式在线虚拟世界一直在不断发展。Alegre说：“Meta毁了元宇宙这个词，因为元宇宙是全新的东西。”\nAlegre表示，用户基数低是Meta旗下的Horizon Worlds的一个核心问题。但是与Horizon World不同的是，Yuga即将推出的Otherside元宇宙（至少从2022年3月开始开发，目前还没有正式发布日期）来自于NFT持有者社区对拥有一个可连接的数字空间的需求。",
+          "link": "https://panewslab.com/zh/articledetails/ciwi6ywi.html",
+          "publishedOn": "2023-09-14T06:31:01.000Z",
+          "wordCount": 374,
+          "title": "Yuga Labs CEO：Meta公司毁了“元宇宙”这个词，但庆幸该领域仍不断发展",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/auwnhqlx.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，据CryptoPotato报道，俄罗斯财政部金融政策司司长Ivan Chebeskov在2023年加密峰会上表示，俄罗斯正在研究如何使去中心化金融组织（DAO）合法化并对其进行监管，以便为当地数字金融资产市场带来更多流动性。\nChebeskov称：“我们积极倡导数字资产的发展，但我们也明白，仅靠数字资产无法‘起飞’；我们需要在数字资产和去中心化金融世界之间建立联系，以利用去中心化金融中现有的流动性。”",
+          "link": "https://panewslab.com/zh/articledetails/auwnhqlx.html",
+          "publishedOn": "2023-09-14T06:16:43.000Z",
+          "wordCount": 341,
+          "title": "俄罗斯财政部官员：俄罗斯正研究如何使DAO合法化并对其进行监管",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/71vbzd76.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，稳定币发行商Circle在官方博客中宣布，该公司与东南亚多功能在线服务平台Grab合作，在新加坡试行Web3客户体验，在Grab应用程序中整合Circle新的Web3服务平台。这个新的服务被命名为“Grab Web3 Wallet”，新加坡的用户可以设置一个区块链钱包，赚取奖励和收藏品，并使用NFT优惠券。\nCircle与Grab的合作是作为SG Pitstop Pack试点推出，旨在支持新加坡金融管理局（MAS）的Orchid计划，将其作为用途绑定货币的现实演示。\n此前9月8日消息，Grab新增Web3钱包功能，尚不支持打车等场景支付。\n相关阅读：“东南亚滴滴”Grab上线Web3钱包：基于Polygon区块链，可存储和转移NFT",
+          "link": "https://panewslab.com/zh/articledetails/71vbzd76.html",
+          "publishedOn": "2023-09-14T06:00:26.000Z",
+          "wordCount": 356,
+          "title": "Circle与东南亚多功能在线服务平台Grab合作，在新加坡试行Web3客户体验",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/gce31ecm.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，以太坊核心开发者、EIP-1559联合作者eric.eth在X平台上表示：“去中心化社交协议friend.tech永远不会超越传统社交媒体，因为普通人不会花2000美元来阅读你糟糕的内容。我们都身处一个加密泡沫中，对于friend.tech来说这没问题，但请别再假装它将成为下一个Twitter。”\n此外，Dune数据显示，friend.tech协议费用已达5063.104枚ETH，约合837.5万美元，累计交易笔数近460万笔。",
+          "link": "https://panewslab.com/zh/articledetails/gce31ecm.html",
+          "publishedOn": "2023-09-14T05:45:26.000Z",
+          "wordCount": 338,
+          "title": "以太坊核心开发者：friend.tech永远不会超越传统社交媒体",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/gn7vti0c.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，根据投资公司Arca首席信息官Jeff Dorman在X平台上分享的FTX清算加密货币流程的相关法庭文件截图，在每个日历周内，从周六中午12:00（ET时间）开始至周五晚上11:59（ET时间）结束，在获得投资顾问协议明确条款约束的情况下，FTX债务人获授权出售数字资产。对于这些销售，债务人可获得的变现金额不得超过该周限制额。关于出售的周限制额的规定如下：如果本命令于本周执行，本周限额为5000万美元，如果在本周三或之后执行，则本周三至下周五限额为5000万美元。对于此后的日历周，周限制额则为1亿美元。需要注意的是，债务人可以在获得委员会和特别委员会的事先书面批准且无需法院进一步命令的情况下，将周限制额临时增加一个日历周的金额。同时，债务人需要向美国受托人提供关于临时增加的通知。此外，债务人还可在法院进一步命令的情况下，将周限制额永久性增加至2亿美元。此外，周限制额是针对数字资产销售总金额而言的，不适用于以数字资产为参考的衍生交易。\n此外，据Be In Crypto报道，对于出售“内部人员关联”代币，有更严格的指导方针，要求提前10天通知债权人和美国受托人。此外，FTX计划深入研究加密货币对冲合约，最初重点关注比特币和以太坊。关于Solana的SOL代币，FTX清算方法为每月仅释放920万美元的SOL，尽量减少该资产的直接市场影响。\n此前9月11日消息，法庭文件显示，FTX共有约70亿美元的资产，其中加密货币34亿美元。其中包括 11.6 亿美元的SOL代币和5.6亿美元的BTC。今日早些时候消息，法官已批准FTX出售、质押和对冲其加密资产。",
+          "link": "https://panewslab.com/zh/articledetails/gn7vti0c.html",
+          "publishedOn": "2023-09-14T05:40:59.000Z",
+          "wordCount": 375,
+          "title": "FTX加密货币清算流程：首周出售上限为5000万美元，随后每周的出售上限为1亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3cg0kfcl.html",
+          "author": "PA一线",
+          "description": "PANews 9月14日消息，据最高人民检察院官网，近日，最高人民检察院、公安部联合挂牌督办第3批5起特大跨境电信网络诈骗犯罪案件，其中包括福建莆田“9.06”电信网络诈骗案。2022年9月，福建省莆田市公安机关在侦办一起组织他人偷越国（边）境案中发现，以唐某某为首的一境外诈骗集团在老挝设立所谓的科技公司，专门对国内民众实施电信网络诈骗活动。该犯罪集团层级结构清晰，分工明确，通过网络交友、诱导投资虚拟货币等实施诈骗，目前已查明涉案金额人民币3000余万元。团伙成员共有150余人，公安机关已抓获30余名。\n此外，最高检第四检察厅、公安部刑事侦查局有关负责同志在回答记者问题时表示，2022年以来，起诉电信网络诈骗犯罪5万余人，起诉前端为诈骗分子提供个人信息、技术支持、引流推广等帮助的犯罪22万余人，起诉后端利用“跑分平台”、虚拟货币等进行“洗钱”等犯罪15万余人。",
+          "link": "https://panewslab.com/zh/articledetails/3cg0kfcl.html",
+          "publishedOn": "2023-09-14T05:06:09.000Z",
+          "wordCount": 338,
+          "title": "最高检与公安部联合挂牌督办第3批5起特大跨境电信网络诈骗案",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/lrzyurts.html",
           "author": "PA一线",
           "description": "PANews 9月14日消息，Layer 1区块链运营商ZetaChain在官方博客中宣布，ZetaChain测试网已经完成了超过1500万次跨链交易，ZetaChain网络准备好进行主网上线。现已禁用ZetaLabs Swap应用程序，以促进和推动测试网上部署的ZetaChain生态系统项目的更大参与度，让合作伙伴在准备今年晚些时候在ZetaChain主网上发布应用程序时获得用户社区的更好认识和支持。\n此前8月16日消息，ZetaChain完成2700万美元股权融资，投资者包括Blockchain.com、Sky9 Capital、CMT Digital等。",
           "link": "https://panewslab.com/zh/articledetails/lrzyurts.html",
           "publishedOn": "2023-09-14T03:59:02.000Z",
-          "wordCount": 351,
+          "wordCount": 352,
           "title": "ZetaChain：已为主网上线做好准备，为促进测试网参与度已禁用Swap应用程序",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +245,7 @@
           "description": "PANews 9月14日消息，据官方博客，White Star Capital宣布推出并完成Structured Growth Capital Fund I（结构性成长资本基金I）的首次关闭，具体规模未透露。该基金是一项新的投资战略，由普通合伙人Hemal Fraser-Rawal和Bryan McLoughlin共同管理，是一种将信贷和股权能力结合在单一基金中的混合投资策略。这是一种全天候策略，允许投资者在利率较高的情况下从创收中受益，同时继续投资于长期资本增值。\n据悉，White Star Capital曾多次投资Web3领域，包括加密借贷平台Ledn、加密借贷平台Trident Digital Group、加密支付解决方案提供商BoomFi、去中心化金融公司Thala Labs、加密货币指数协议Index Coop等。其也曾推出几个加密或区块链基金。",
           "link": "https://panewslab.com/zh/articledetails/ki2pe93e.html",
           "publishedOn": "2023-09-14T03:38:26.000Z",
-          "wordCount": 418,
+          "wordCount": 417,
           "title": "White Star Capital推出新基金Structured Growth Capital Fund I",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +255,7 @@
           "description": "PANews 9月14日消息，MakerDAO联合创始人Rune Christensen在Token 2049上表示，MakerDAO将推出新的统一品牌，名称暂时未定。DAI和MKR用户不受影响，可以按1：12000重新计价，NewStable（新稳定币）可以挖NewGovToken（新治理代币）。Rune Christensen还表示，NewStable（新稳定币）和NewGovToken（新治理代币）将在2024年初将推出，准备subSAO挖矿，2024年第二季度发行subDAO代币，可以用新稳定币挖矿。\n据悉，Rune也曾在其Endgame路线图里提及此计划：第一阶段将在2024年初推出，到时将推出新的统一品牌标识和新治理网站，Dai和MKR不会被更改，用户可继续持有并保存，但可直接升级到NewStable（新稳定币）和NewGovToken（新治理代币），新的治理代币将支持SubDAO的锁仓挖矿，最终名称将与新品牌和网站一起公布。第五阶段为发布NewChain并达到最终的Endgame状态。\n相关阅读：SparkDAO空投规则解读：空投时间预计为明年，预计收益率仅个位数",
           "link": "https://panewslab.com/zh/articledetails/r1c6n59y.html",
           "publishedOn": "2023-09-14T03:26:39.000Z",
-          "wordCount": 352,
+          "wordCount": 351,
           "title": "MakerDAO联创重申2024年初将推出新稳定币和新治理代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +265,7 @@
           "description": "PANews 9月14日消息，据彭博社报道，新加坡金融监管机构周四发布声明称，该国央行已对因加密对冲基金三箭资本倒闭而受到谴责的Su Zhu和Kyle Davies实施了为期九年的禁令，禁止两人从事任何受监管的活动。两人也被禁止管理、担任或成为《证券和期货法》下的任何资本市场服务公司的董事或主要股东。\n新加坡金管局指责三箭资本提供虚假信息，并未能实施适当的框架风险管理系统。该机构负责政策、支付及金融犯罪的助理董事总经理Loo Siew Yee在声明中表示：“金管局严肃对待Su Zhu和Kyle Davies公然无视金管局的监管要求，并失职的行为。”",
           "link": "https://panewslab.com/zh/articledetails/0ui6bsv7.html",
           "publishedOn": "2023-09-14T03:07:39.000Z",
-          "wordCount": 359,
+          "wordCount": 358,
           "title": "新加坡金管局对三箭资本创始人Su Zhu和Kyle Davies实施9年禁令",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +275,7 @@
           "description": "PANews 9月14日消息，由 ScalingX 驱动的 “Transcend Beyond” 全球加速器联盟已于2023年9月13日在“Beyond Scaling” Token 2049 Afterparty 活动现场中正式亮相，ScalingX与Outlier Ventures创始人兼首席执行官Jamie Burke现场一同官宣了此项加速器联盟计划。\n该联盟计划致力于构筑一个强大的纽带，将有潜力的Web3初创企业、区域孵化器以及其全球加速器网络有机地连接在一起。全球加速器联盟汇聚了一众加速器和有远见的风险投资家，其中包括Outlier Ventures、LongHash Ventures、Door Labs、Sharding Capital等合作伙伴。\n此外，“Transcend Beyond” 全球加速器联盟还为Web3开发人员提供了全球范围的全面激励计划——‘Developer plus+’。这一激励计划的主要目标是优先支持初创企业建立本地孵化基础设施，为它们扩展至更广阔领域提供支持。",
           "link": "https://panewslab.com/zh/articledetails/wpg5jqty.html",
           "publishedOn": "2023-09-14T02:59:08.000Z",
-          "wordCount": 434,
+          "wordCount": 433,
           "title": "Web3 加速器 ScalingX 开启 “Transcend Beyond” 全球加速器联盟",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +285,7 @@
           "description": "PANews 9月14日消息，Telegram Bot项目Banana Gun在X平台上表示：正如先前公告所述，我们刚刚将ETH分发给了在快照之后购买代币的人，共计将740枚ETH分发到591个钱包。此前花费了一些时间来正确分析和验证所有的交易。\n此前9月12日消息，BANANA上线1个多小时后归零，项目方将部署新合约并承诺补偿受损者。",
           "link": "https://panewslab.com/zh/articledetails/px82upvk.html",
           "publishedOn": "2023-09-14T02:57:41.000Z",
-          "wordCount": 348,
+          "wordCount": 347,
           "title": "Banana Gun已向受漏洞影响的591个钱包退款740枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +295,7 @@
           "description": "法官已批准FTX出售、质押和对冲其加密资产\n据CoinDesk报道，美国特拉华州破产法院的一名法官周三裁定，已破产加密交易所FTX可以出售和投资其持有的加密货币以偿还债权人。在法庭听证会上，法官John Dorsey表示已批准了这项动议，并驳回了反对该计划的两项反对意见。这使得FTX可以出售、质押和对冲其加密资产，据称这些资产价值超过34亿美元。FTX在8月份提交了一份文件，要求法官允许其参与上述活动，因为对冲其加密资产将“允许债务人在出售比特币和以太坊之前限制潜在的下行风险”，而“质押某些数字资产将使原本闲置的数字资产产生低风险回报，进而有利于债权人”。FTX还要求聘请Galaxy Digital的Mike Novogratz担任顾问。FTX本周早些时候透露，其持有11.6亿美元的Solana (SOL)，约占该代币流通供应量的16%，以及约5.6亿美元的比特币(BTC)。\n美国SEC指控Stoner Cats系列NFT的创建者未经注册提供NFT\n美国证券交易委员会(SEC)今天指控 Stoner Cats 2 LLC (SC2) 以所谓的 NFT 的形式进行未经注册的加密资产证券发行，从投资者那里筹集了约 800 万美元，用于资助名为 Stoner 的动画网络系列猫。根据 SEC 的命令，SC2 通过未注册的发行方式向公众发行和出售这些加密资产证券，违反了 1933 年《证券法》，且未获豁免注册。\n根据 SEC 的命令，2021 年 7 月 27 日，SC2 以每张约 800 美元的价格向投资者发售并出售了超过 10,000 个 NFT，并在 35 分钟内售罄。该命令发现，在 Stoner Cats NFT 向公众出售之前和之后，SC2 的营销活动都强调了拥有它们的具体好处，包括所有者可以选择在二级市场上转售其 NFT。并暗示 Stoner Cats NFT 在二级市场…",
           "link": "https://panewslab.com/zh/articledetails/tvt1urw3.html",
           "publishedOn": "2023-09-14T02:44:24.000Z",
-          "wordCount": 641,
+          "wordCount": 644,
           "title": "昨夜今晨重要资讯（9月13日-9月14日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/09/14/images/3LBmt1O2pR.jpg"
         },
@@ -225,7 +305,7 @@
           "description": "PANews 9月14日消息，据官方博客，NFT项目Nakamigos公布新一季NFT发售信息，该系列的抢先铸造（符合快照要求的钱包）将于北京时间9月22日0:00至3:00进行，公开铸造将于北京时间9月22日4:00开始。Nakamigos-CLOAKS白名单和公售价格均为0.05 ETH。\nNFTGo.io数据显示，Nakamigos地板价跌目前为0.2297 ETH，24小时跌幅达42.43%。",
           "link": "https://panewslab.com/zh/articledetails/vbkwjt31.html",
           "publishedOn": "2023-09-14T02:26:24.000Z",
-          "wordCount": 346,
+          "wordCount": 341,
           "title": "NFT项目Nakamigos将于9月22日进行新一季公售，地板价24小时跌幅超42%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +315,7 @@
           "description": "PANews 9月14日消息，NFT市场Voice在X平台上宣布，将在未来几个月内逐步关闭其业务。Voice称：“我们现在很清楚，加密货币和NFT市场持续的不确定性将持续比我们想象的更长的时间。因此，我们认为使用剩余的资源来为用户优化平台结束流程符合Voice及其社区的最佳利益。”\nVoice表示，在接下来的几周内将推出一项服务，使NFT从Voice迁移到公链上的自我托管钱包：EOS、Polygon或以太坊。\n据悉，Block.one于2019年推出Voice，最初旨在是一个中心化社交平台，Block.one曾于2020年向Voice投入1.5亿美元并让其独立运营，截止2020年3月，Block.one已向其投入3亿美元。2021年Block.one决定将Voice升级为NFT平台。",
           "link": "https://panewslab.com/zh/articledetails/i36be52p.html",
           "publishedOn": "2023-09-14T02:17:18.000Z",
-          "wordCount": 342,
+          "wordCount": 337,
           "title": "Block.one曾投入3亿美元打造的NFT市场Voice宣布将结束运营",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +325,7 @@
           "description": "PANews 9月14日消息，据Spot On Chain监测，0x432开头巨鲸地址在过去2天内将1100枚ETH兑换成1535枚MKR，均价为1146美元（共约176万美元），浮动收益为2.78万美元。\n据悉，该巨鲸曾在2022年底至2023年初从LDO和MATIC赚取了402万美元，但仅在今年9月就从ARB、MAGIC和RDNT损失了198万美元。",
           "link": "https://panewslab.com/zh/articledetails/mqew5uqv.html",
           "publishedOn": "2023-09-14T02:03:02.000Z",
-          "wordCount": 339,
+          "wordCount": 338,
           "title": "数据：某巨鲸近两日将1100枚ETH兑换成1535枚MKR，浮盈2.78万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +335,7 @@
           "description": "PANews 9月14日消息，据链上分析师余烬监测，某地址于8/30至今，半个月里从币安和OKX净提出48.9万TRB(约合1565万美元)，占总量的19%。成为仅次于币安钱包的第二大地址。如果按提出时价格计算成本，均价为19.6美元。余烬表示，TRB在这半个月里从14美元上涨至32美元，TRB的上涨或与这个地址有关。\nCoingecko数据显示，TRB代币价格现报31.38美元，24小时涨幅达13.4%，14天涨幅达107.7%。",
           "link": "https://panewslab.com/zh/articledetails/4x7f5gco.html",
           "publishedOn": "2023-09-14T01:58:28.000Z",
-          "wordCount": 340,
+          "wordCount": 339,
           "title": "TRB代币14天涨幅超107%，或由近半月从CEX提出TRB总供应量19%的地址所推动",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,88 +345,8 @@
           "description": "PANews 9月14日消息，支付巨头Visa今日发布了一篇《深入探讨高性能区块链网络Solana》的研究报告，报告称，Solana独特的技术优势，包括并行处理的高吞吐量、本地化费用市场的低成本以及大量节点和多节点客户端的高弹性，共同创造了一个可扩展的区块链平台，具有引人注目的支付价值主张，这些是Visa决定扩大稳定币结算试点范围以纳入Solana网络上的交易的部分原因。当Visa在Solana上试用稳定币结算功能时，我们计划测试Solana是否有能力满足现代企业财务运营的需求。\n报告称，作为全球支付网络，Visa每秒能够执行超过65,000笔交易。虽然Solana尚未以Visa的规模执行交易，但Solana平均每秒处理400 TPS，并且在需求高峰期间通常会激增至2000多个用户生成的 TPS。吞吐量，使其可以测试和试点支付用例。相比之下，以太坊平均处理12 TPS，而比特币平均处理约7 TPS。其次，关于成本，Solana的交易费用不仅实惠（通常低于0.001美元），而且是可预测的。而比特币和以太坊的费用可能会根据网络上执行的交易需求而出现不可预测的波动。对于支付公司来说，交易成本不可预测的网络可能会更难以在其产品中进行管理，并可能导致令人困惑的消费者体验。此外，交易最终性衡量用户期望其行为在区块链网络上得到确认的速度，Solana的目标时隙时间为400毫秒，但实际上范围可以为500到600毫秒。而以太坊平均TPS约为12，由于拥塞期间的Gas限制和智能合约要求，用户在交易确认之前可能会经历几分钟的等待时间。\n此前9月5日消息，Visa利用Solana区块链向商户收单机构扩展其稳定币结算能力。",
           "link": "https://panewslab.com/zh/articledetails/231fwce4.html",
           "publishedOn": "2023-09-14T01:43:17.000Z",
-          "wordCount": 365,
+          "wordCount": 364,
           "title": "Visa：计划测试Solana上稳定币结算是否能满足现代企业财务运营的需求",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/w2ptu7sr.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，环球银行间金融电信协会管理的国际资金清算系统（SWIFT）在官网上宣布，三家央行已加入SWIFT的央行数字货币（CBDC）互操作性项目的测试阶段，并已进入沙盒测试的新阶段。这三家央行包括香港金融管理局（中国香港特区的的中央银行机构）、哈萨克斯坦央行和一家未透露名称的央行，它们已将其基础设施与SWIFT的“CBDC连接器解决方案”集成以进行直接测试。\n在第二阶段的沙盒测试中，商业银行、央行和金融市场基础设施正在探索更多用例，包括数字贸易平台的触发式支付、外汇模型、货到付款和流动性节省机制。",
-          "link": "https://panewslab.com/zh/articledetails/w2ptu7sr.html",
-          "publishedOn": "2023-09-14T01:13:50.000Z",
-          "wordCount": 343,
-          "title": "SWIFT邀请3家央行参与CBDC互操作性项目测试并扩大沙箱范围",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/l3b0x33z.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据Blockworks报道，以太坊联合创始人Vitalik Buterin在 Permissionless会议中表示，当今的应用程序格局中可以看到未来的发展趋势，但即使是最新的应用程序也不够具有想象力。Vitalik称：“DeFi和NFT旨在适应与以前相同的生态系统的独立部分，而让他兴奋的是去中心化的社交网络Farcaster，让我们看看我们能朝这个方向推动多远，让我们看看我们能朝这个方向推动多远。”\nVitalik还表示，基于加密的解决方案有可能比当前的Web2环境更加去中心化、保护隐私和安全。他引用了ENS和POAP等构建模块，并表示以太坊的伟大梦想是真正创建一个独立的开放技术堆栈，可以与谷歌和推特等公司竞争，而无需放弃封闭的中心化系统，例如中国与微信、支付宝和日益增长的CBDC的紧密集成。Vitalik设想了一个循序渐进的过程，让新的Web3用户创建一个以太坊地址，最初由Gmail等服务控制，但使用帐户抽象，让人们能够在准备使用更多加密原生方法时获得所有权。\nVitalik表示：“人们有机会从去中心化的梯子上走下来，然后最后真正进入这个完全独立的堆栈，里面所有不同部分实际上都可以协同工作。”",
-          "link": "https://panewslab.com/zh/articledetails/l3b0x33z.html",
-          "publishedOn": "2023-09-14T00:49:52.000Z",
-          "wordCount": 348,
-          "title": "Vitalik：以太坊的未来是创建一个独立的开放技术堆栈，可与谷歌和推特等公司竞争",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zyqa6hix.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据官方消息，Yuga Labs推出“Made By Apes”有效许可官方目录“Made By Apes Bodega”及其网站，该目录从链上“Made By Apes”许可中实时提取，截至目前已纳入194个品牌。\n此前7月消息，BAYC与SaaSy Labs合作推出链上许可申请平台Made by Apes，会员可申请唯一链上许可、注册业务或产品（比如服装、食品、游戏、音乐等），该平台还可用于验证和区分 BAYC 和 MAYC 持有者的正品产品。",
-          "link": "https://panewslab.com/zh/articledetails/zyqa6hix.html",
-          "publishedOn": "2023-09-14T00:37:15.000Z",
-          "wordCount": 418,
-          "title": "Yuga Labs发布“Made By Apes”许可官方目录，已纳入194个品牌",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/n28mrmng.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据Cointelegraph报道，稳定币发行商Paxos在一份声明中承认，于9月11日凌晨在单笔交易中支付近20枚BTC费用的账户属于该公司。Paxos声称最终用户没有受到影响，所有用户资金都是安全的。\n该声明发布之前，X平台上的用户猜测PayPal可能对此次交易负责，因为分析平台OXT已识别出属于PayPal的相关钱包账户。Paxos发言人表示：“PayPal对此不承担任何责任，因为这个错误是Paxos自己造成的。此笔交易影响了Paxos公司运营，Paxos客户和最终用户没有受到影响，所有客户资金都是安全的。这是由于单笔转账中的漏洞造成的，现已修复。Paxos正在与矿工联系以收回资金。”\n据悉，包含该交易的区块已由比特币矿池F2Pool确认。F2Pool联创曾表示，将暂时搁置异常交易中的近20枚BTC，若无人领取则重新分配给矿工。",
-          "link": "https://panewslab.com/zh/articledetails/n28mrmng.html",
-          "publishedOn": "2023-09-14T00:31:18.000Z",
-          "wordCount": 350,
-          "title": "Paxos：曾在单笔交易中支付近20枚BTC费用，相关漏洞已修复且用户资金未受影响",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7lt65pwv.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据CoinDesk报道，此前Fortress Trust首席执行官Scott Purcell披露该公司在第三方云工具供应商被攻击事件中损失了1200万至1500万美元的加密货币，该媒体已确认了该供应商是Retool，Retool也承认自己是网络钓鱼攻击的受害者。据悉，Retool是一家总部位于旧金山的公司，拥有财富500强客户，该公司为少数Fortress客户建立了获取资金的门户网站。Retool表示，攻击者针对“一组特定的客户”，他们都从事加密货币业务，按照该公司建议的方式配置其软件的客户并没有受到影响，并且绝大多数加密客户都以这种方式使用该产品。内部部署Retool的客户未受影响，retoolon-prem运行在一个‘零信任’的环境中，它不信任retool cloud。\nBitGo、Fireblocks和Swan Fortress使用了由Fireblocks和BitGo提供的钱包，这三家公司未受此次黑客攻击事件影响。Fireblocks表示，这次黑客攻击发生在Fireblocks平台之外，由于使用了多方计算工具，Fireblocks的关键管理系统、授权和策略引擎使客户资金受到的影响得到了极大的限制，客户资金也得到了迅速恢复。BitGo首席执行官Mike Belshe在一条推文中强调，此次黑客攻击与他的公司“毫无关系”。Swan Bitcoin在一条推文中表示，存储在该平台的代币“在Fortress报告的事件期间没有移动。这些代币受到视频验证和物理访问的保护，不会受到Fortress的任何事件的影响。”\n此前消息，The Block曾报道称，作为收购交易的一部分，Ripple已对遭遇安全事件的Fortress客户进行全额赔偿。Fortress在9月7日在X平台上发布的一份声明中表示，其客户受到了“云工具受到损害的第三方供应商”的影响，但没有造成资金损失。而9月8日，Ripple宣布了收购Fortress的交易，Ripple通过现金和股权的组合为此次收购提供了资金，但没有披露估值。",
-          "link": "https://panewslab.com/zh/articledetails/7lt65pwv.html",
-          "publishedOn": "2023-09-14T00:20:17.000Z",
-          "wordCount": 369,
-          "title": "云服务供应商Retool的网络攻击事件导致Fortress损失上千万美元加密货币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/f8a4gte8.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，NFT市场Magic Eden在X平台上宣布将于太平洋时间9月14日9:00（北京时间9月15日0:00）对ETH市场进行升级，期间将关闭该市场。Magic Eden称：“是时候对以太坊NFT采取新的方法了。支持这个生态系统的命脉的是‘创作者’。”",
-          "link": "https://panewslab.com/zh/articledetails/f8a4gte8.html",
-          "publishedOn": "2023-09-14T00:00:58.000Z",
-          "wordCount": 348,
-          "title": "Magic Eden将于9月15日凌晨暂停其ETH市场以进行升级",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/x5nngnta.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据Blockworks报道，Vitalik Buterin在Permissionless会议中表示，基于加密的解决方案有可能比当前的Web2环境更加去中心化、保护隐私和安全，他引用了ENS和POAP等构建模块。 他表示，以太坊梦想真正创建一个独立的开放技术堆栈，可以与谷歌和推特等公司竞争。他设想了一个循序渐进的过程，让新的Web3用户创建一个以太坊地址，最初由Gmail等服务控制，但使用帐户抽象，让人们能够在准备使用更多加密原生方法时获得所有权。他说：“人们有机会从去中心化的梯子上走下来，然后最后真正进入这个完全独立的堆栈，里面所有不同部分实际上都可以协同工作”。",
-          "link": "https://panewslab.com/zh/articledetails/x5nngnta.html",
-          "publishedOn": "2023-09-13T23:55:39.000Z",
-          "wordCount": 344,
-          "title": "V神：以太坊希望创建一个能够与谷歌和推特竞争的独立技术堆栈",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/pdt40764.html",
-          "author": "PA一线",
-          "description": "PANews 9月14日消息，据CoinDesk报道，尽管Bittrex已于今年5月申请了破产保护，但由于大量客户没有要求退款，Bittrex可能仍处于盈利状态。Bittrex的律师Patty Tomasco周三在特拉华州法庭上表示，随着提交索赔的截止日期已到，只有不到3.6万名客户提取了价值约1.43亿美元的加密货币。今年5月，在Bittrex美国和马耳他子公司提交破产申请后，有160万客户收到了要求其取款的电子邮件，而实际提款的客户只占其中的一小部分。此外，美国特勤局是该交易所的主要客户，持有620万美元的账户。Bittrex已与该机构合作，帮助他们成功取款。",
-          "link": "https://panewslab.com/zh/articledetails/pdt40764.html",
-          "publishedOn": "2023-09-13T23:40:40.000Z",
-          "wordCount": 341,
-          "title": "Bittrex可能仍处于盈利状态，美国特勤局是其最大客户之一",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
