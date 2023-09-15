@@ -1,38 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-15T11:10:26.176Z</id>
+    <id>urn:2023-09-15T12:24:30.594Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-15T11:10:26.176Z</updated>
+    <updated>2023-09-15T12:24:30.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[慢雾：加密行情软件Aicoin存在被Google搜索钓鱼的情况，请注意风险]]></title>
-        <id>https://panewslab.com/zh/articledetails/3znxh538.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3znxh538.html"/>
-        <updated>2023-09-15T08:04:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，慢雾首席信息安全官23pds在X平台上表示，加密货币行情软件Aicoin存在被Google搜索钓鱼的情况，请注意安全风险。]]></summary>
+        <title type="html"><![CDATA[梳理Cosmos、Polkadot与ETH L2s Stack技术方案]]></title>
+        <id>https://www.web3sj.com/?p=88563</id>
+        <link href="https://www.web3sj.com/news/88563/"/>
+        <updated>2023-09-15T12:20:10.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，当前的以太坊是出了名的低性能和高 Gas, OP, zkSync Era 等 Layer 2 的出现虽然解决了这些问题。但是不论是部署在 EVM 虚拟机上还是部署在 Layer 2 上，本质上都逃不过一个「兼容性」问题。这不仅是 Dapp 的底层代码要和 EVM 兼容，也是 Dapp 主权兼容。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-9.15）]]></title>
+        <id>https://www.web3sj.com/?p=88560</id>
+        <link href="https://www.web3sj.com/news/88560/"/>
+        <updated>2023-09-15T12:06:04.000Z</updated>
+        <summary type="html"><![CDATA[FTX要求法院驳回BlockFi的破产计划。报告：加密市场8月份资金流出达550亿美元。比特币挖矿清洁能源使用率已超50%，市场待马斯克兑现特斯拉恢复接受比特币支付承诺。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[致力于国防的欧洲AI公司完成2.09亿欧元的B轮融资，General Catalyst领投]]></title>
+        <id>https://panewslab.com/zh/articledetails/v9ddbrm8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/v9ddbrm8.html"/>
+        <updated>2023-09-15T12:03:13.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，欧洲人工智能（AI）国防公司 Helsing 已获得 2.23 亿美元（约合 2.09 亿欧元）的 B 轮融资，风险投资公司 General Catalyst 领投。瑞典航空航天和汽车制造商萨博也作为战略投资者参与其中。
+Helsing 成立于 2021 年，是一家新型国防公司，致力于开发基于人工智能的功能来保护民主国家。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MakerDAO再次增加1亿美元RWA资产，协议RWA总资产达27.13亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/g8yyk614.html</id>
-        <link href="https://panewslab.com/zh/articledetails/g8yyk614.html"/>
-        <updated>2023-09-15T07:38:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，makerburn.com数据显示，MakerDAO昨日至今再次通过BlockTower Andromeda增加1亿美元RWA资产，主要投资短期美国国债，年化利率为4.5%。此外，当前协议RWA总资产达到27.13亿美元。]]></summary>
+        <title type="html"><![CDATA[Nil基金会与Taceo合作在以太坊上进行机器学习模型验证]]></title>
+        <id>https://panewslab.com/zh/articledetails/6q3n1ut9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6q3n1ut9.html"/>
+        <updated>2023-09-15T11:24:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据The Block报道，Nil 基金会和研究公司 Taceo 正在合作创建一个软件管道，专注于使用零知识技术在以太坊第 1 层主网上验证机器学习模型。此次合作的主要目标是使机器学习模型在以太坊区块链上得到证明。这将使机器学习能够在智能合约中进行操作，而无需第三方信任。
+该合资企业的一个关键要素是 Nil 基金会的zkLLVM。该编译器工具专为利用 ZK 证明在不依赖信任的情况下验证软件系统内的数据而设计。该编译器可以验证LLVM支持的各种主流开发语言的机器学习计算，包括C++、Rust、JavaScript/TypeScript。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JPEX在台湾的“区块链大楼”全搬空，物业称其恶意搬离并欲索赔]]></title>
-        <id>https://panewslab.com/zh/articledetails/7nyq22j9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7nyq22j9.html"/>
-        <updated>2023-09-15T07:38:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据Blocktempo报道，号称单月斥资340万台币（约77万元人民币）租金的JPEX“亚洲区块链大楼”如今人去楼空，曾在这栋大楼中规划专属音乐创作基地的代言人陈零九，却迟迟尚未出面说明。这座13层楼每一层都规划详尽，包含咖啡厅、VIP贵宾室、共享办公室，甚至在9楼还打造了专属台湾区代言人-陈零九的音乐创作基地。自从JPEX“亚洲区块链大楼”今年6月曝光后，内部实际上一直处于施工未完工状态。
-经PANews查证，台湾禾丰国际物流股份有限公司已于昨日发布声明，因JPEX交易所向本公司承租忠孝东路四段7号2~6楼、10楼及大楼外墙广告，经查，该交易所于9月13日遭香港证监会认定为未领牌的虚拟资产平台，其所有人员皆恶意搬离本栋大楼，本公司与该交易所之行为没有关系，且亦因此受害，将与其他受害者共同向该交易所求偿。
-此前消息，香港警方已向该媒体证实，已接到证监会通知，商业罪案调查科正跟进及调查案件是否涉及刑事成分。]]></summary>
+        <title type="html"><![CDATA[荷兰银行通过Tokeny平台在Polygon上发行500万欧元绿色债券]]></title>
+        <id>https://panewslab.com/zh/articledetails/mvwuc7re.html</id>
+        <link href="https://panewslab.com/zh/articledetails/mvwuc7re.html"/>
+        <updated>2023-09-15T11:20:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据Cointelegraph报道，荷兰银行(ABN AMRO)通过与代币化解決方案提供商Tokeny合作利用Polygon区块链进行了数字绿色债券发行（以ERC-3643代币形式），为房地产投资者 Vesteda 筹集了 500 万欧元的资金。Vesteda 打算利用这笔资金为“绿色资产”再融资，作为该公司绿色金融框架的一部分。
+此前报道，Fireblocks与Tokenys将使用Polygon的ERC-3643标准提供企业级代币化解決方案。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本政府放宽融资规定，将允许初创企业以加密货币进行融资]]></title>
+        <id>https://panewslab.com/zh/articledetails/on3atbq2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/on3atbq2.html"/>
+        <updated>2023-09-15T11:03:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据日经新闻报道，日本政府将放宽对初创企业融资的规定，初创企业可获得 VC 的加密货币投资，新规定将涵盖被称为投资有限合伙企业（LPS）的基金。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FXS Protocol费用结构调整至20%的提案已开启投票]]></title>
+        <id>https://panewslab.com/zh/articledetails/82a47s6a.html</id>
+        <link href="https://panewslab.com/zh/articledetails/82a47s6a.html"/>
+        <updated>2023-09-15T10:58:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，Convex Finance 社区发起的将 FXS Protocol 财库费用从 17% 提高到 20% 的提案已开始投票，投票将于 2023 年 9 月 19 日 11:05 结束。目前超 99% 的投票率支持调整费用结构。该提案还建议将 vlCVX 份额从 7% 降低至 5%；剩余 5% 的boost费用归财政部所有；在 veFXS 费用收入的基础上向 Treasury 添加 5% 的费用。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX账号曾被锁定且至今还未提交索赔的用户现已可以在Kroll网站上提交索赔]]></title>
+        <id>https://panewslab.com/zh/articledetails/53bml141.html</id>
+        <link href="https://panewslab.com/zh/articledetails/53bml141.html"/>
+        <updated>2023-09-15T10:19:35.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，FTX债权人@sunil_trades发布推文表示，如果你的FTX账号曾被锁定冻结并且至今还没有提交索赔，你现在可以直接在Kroll网站上提交索赔。提交后，你应该会立即收到一个确认ID。请不要重复提交索赔，只需提交一次即可。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯混元大模型首批通过备案，将陆续对公众开放]]></title>
+        <id>https://panewslab.com/zh/articledetails/is558zw3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/is558zw3.html"/>
+        <updated>2023-09-15T10:11:15.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据金十报道，腾讯宣布旗下的腾讯混元大模型已首批通过《生成式人工智能服务管理暂行办法》备案，将正式上线，并陆续面向公众开放。
+相关阅读：腾讯推出混元大模型，已接入微信搜一搜、腾讯会议等 50 多个业务及产品]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius与Core Scientific达成4500万美元的临时协议，以解决长期存在的法律纠纷]]></title>
+        <id>https://panewslab.com/zh/articledetails/21rvw3nd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/21rvw3nd.html"/>
+        <updated>2023-09-15T10:04:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据CoinDesk报道，法庭文件显示，破产的加密贷方 Celsius 与比特币矿企 Core Scientific 达成一项价值 4500 万美元的临时协议，以解决长期存在的法律纠纷。在该笔协议中，Celsius 支付 1400 万美元现金，其余部分为调整后的债权，该交易必须获得德克萨斯州与纽约州法官批准，Core和Celsius已分别在这两个司法管辖区申请破产。根据该协议，Celsius 还收购德克萨斯州 Cedarvale 矿区，占地 85 英亩。
+此前，由于未缴纳会费而导致其采矿设备被关闭，Celsius公司曾索赔数亿美元的损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：6500万枚USDT从Kraken经未知地址转入Bitfinex]]></title>
+        <id>https://panewslab.com/zh/articledetails/fz8p2frl.html</id>
+        <link href="https://panewslab.com/zh/articledetails/fz8p2frl.html"/>
+        <updated>2023-09-15T09:56:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，Whale Alert监测显示，北京时间17:30，65,000,000 枚 USDT (64,997,605 USD) 从Kraken转移至未知钱包，随后从该未知钱包转移到 Bitfinex。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cobo与Google Cloud合作打造基于云的MPC WaaS解决方案]]></title>
+        <id>https://panewslab.com/zh/articledetails/p2y6zljg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/p2y6zljg.html"/>
+        <updated>2023-09-15T09:47:36.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，在云计算服务平台 Google Cloud 主办的 “Web3 Connect” 活动中，数字资产托管解决方案提供商 Cobo 的联合创始人兼 CTO 蒋长浩博士宣布与 Google Cloud 达成战略合作，双方将共同推出 MPC WaaS（钱包即服务）解决方案。这一合作旨在制定 MPC 钱包技术新标准，并加速其在全球的应用。Cobo 将与 Google Cloud 合力打造基于云的 MPC WaaS 解决方案，该方案注重安全性、去中心化、灵活性和可扩展性。将通过直接集成即插即用的钱包基础架构赋能企业和开发者，使他们能够在此基础上轻松构建自定义功能。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内多个基于AIGC技术的AI绘画网站疑因违规，突然关停]]></title>
+        <id>https://panewslab.com/zh/articledetails/zjv3oxwc.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zjv3oxwc.html"/>
+        <updated>2023-09-15T09:41:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据36kr报道，国内多个基于AIGC技术建立的AI绘画网站，突然都被下线了。目前，像广大网友熟知的四必三（4B3.com）、哩布哩布（liblibai.com）等纷纷在无预警情况下被关停，或转移到境外域名，并在国内无法正常访问。不少网友怀疑，是不是合规方面出现了问题。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港金管局发布《香港债券代币化》报告]]></title>
+        <id>https://www.hellobtc.com/news/202309/21233.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21233.html"/>
+        <updated>2023-09-15T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[近日，香港金融管理局（HKMA）发布了《Bond Tokenisationin Hong Kong》（《香港债券代币化》）的报告，以香港政府2月份发行的首个代币化债券Evergreen“绿债”为例，详细梳理了债券代币化的理论和实践。其中要点包含： 1.以香港金管局和国际清算银行（BIS）合作进行带来的经验，并介绍了他们协助香港特别行政区政府发行首个数位债券的专案（Evergreen专案）； 2.Evergreen展示了在现有的香港法律框架下，利用分散式帐本技术（DLT）进行真实资本市场交易的可能性，并展示了DLT在债券市场中提高效率、流动性和透明度的潜力； 3.报告还讨论了数位债券交易中的技术和平台设计方面需要注意的细节，并提供了对债券代币化感兴趣的发行人的指导和参考意见； 4.报告指出数位债券代币化的未来发展方向和行动计划，并强调了需要解决的挑战和调整现有法律和监管制度的重要性。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港在“全球最适合广泛采用加密货币的地区”评选中连续两年保持领先地位]]></title>
+        <id>https://www.hellobtc.com/news/202309/21232.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21232.html"/>
+        <updated>2023-09-15T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[，香港再次被评为2023年“全球最适合广泛采用加密货币”的地区，连续两年保持领先地位。 今日CRS得分情况公布，香港以8.36的CRS（crypto readiness score）得分占据榜首。美国的CRS得分下降了6.5%，从2022年的7.7降至7.25，跌至第三位。相反，瑞士的CRS得分跃升了9%以上，从7.5升至8.18，跃居全球第二。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深圳：发放5万个零门槛数字人民币红包]]></title>
+        <id>https://panewslab.com/zh/articledetails/2xseap4s.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2xseap4s.html"/>
+        <updated>2023-09-15T09:33:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，深圳市发展和改革委员会印发《深圳市关于促进消费的若干措施》，扩大文体消费规模，常态化开展文化惠民活动，发放1000万元“文惠券红包”和5万个零门槛数字人民币红包，鼓励读书、观影、赏演、看展、旅游等文体娱乐消费。
+《措施》还提出，完善跨境支付环境。支持港澳居民在深圳办理取现业务和开办内地银联卡，提升数字人民币账户与八达通等港澳第三方支付平台互联互通水平，扩大微信香港钱包、支付宝香港钱包、港澳版“云闪付”钱包、港澳本地“银联系”钱包等跨境电子钱包在深圳使用范围，支持开展面向港澳居民以及深港、深澳异地家庭和亲友的数字人民币红包跨境消费活动。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSV.Network已推出高达100万美元的漏洞赏金计划]]></title>
+        <id>https://panewslab.com/zh/articledetails/7mauc9pz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7mauc9pz.html"/>
+        <updated>2023-09-15T09:20:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，去中心化以太坊质押基础设施 ssv.network 发推称，已与漏洞赏金平台 Immunefi 合作推出漏洞赏金计划，最低奖励为 1500 美元，最高奖励为 100 万美元。
+昨日报道，ssv.network推出专注于分布式验证器技术的合作伙伴主网。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bakery Incubator已向Web3社交平台Topic.Market投资200万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/xak5iok8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xak5iok8.html"/>
+        <updated>2023-09-15T09:10:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，BNB Chain 上的 AMM 与 NFT 交易所 BakerySwap 的投资部门 Bakery Incubator 已向 Web3 社交平台 Topic.Market 战略投资 200 万美元。Topic.Market 是一个社交平台，又是一个“热门话题”交易平台，用户可以购买“支持”来表达对热门话题的看法，同时也可以通过交易来获利。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stake.com攻击者将价值约230万美元的BNB换称USDT后转至SWFT]]></title>
+        <id>https://panewslab.com/zh/articledetails/9h7h02yd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9h7h02yd.html"/>
+        <updated>2023-09-15T08:51:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据CertiK监测，在过去8小时内，Stake.com攻击者关联的EOA地址（0x95b开头）将11,000枚BNB（约230万美元）转移至0x2bb开头地址，然后将BNB转换为USDT后转移至SWFT Swap。目前，上述EOA地址仍持有12403枚BNB。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z发布访问量前五十AI产品榜单：ChatGPT、Character.AI、Bard位居前三]]></title>
+        <id>https://panewslab.com/zh/articledetails/f10gbj9e.html</id>
+        <link href="https://panewslab.com/zh/articledetails/f10gbj9e.html"/>
+        <updated>2023-09-15T08:42:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，风投公司a16z（Andreessen Horowitz）在官网上发布了一份报告，根据截至 2023年6月LikeWeb统计的网页端和移动端App的流量数据，对目前市面上的生成式AI产品进行了排名，并在报告中展示了前50名，榜单Top 5分别是OpenAI的聊天机器人ChatGPT、聊天机器人网站Character.AI、谷歌的聊天机器人Bard、问答网站Quora下的Poe、美国在线辅导网站Course Hero推出的写作工具QuillBot。
+报告还显示，ChatGPT的每月流量占整个前50名的榜单流量的60%，每月访问量高达约16亿次，在全球网站中访问量排名24。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国国税厅厅长：将加强打击利用虚拟资产等方式的逃税行为]]></title>
+        <id>https://panewslab.com/zh/articledetails/cu0jfj40.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cu0jfj40.html"/>
+        <updated>2023-09-15T08:35:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据《首尔经济日报》报道，韩国国税厅厅长金昌基在2023年国税管理论坛上致辞时表示：“我们将对恶意税收采取严厉行动，包括基于网络平台的新型逃税行为。为应对利用虚拟资产的逃税行为，我们必须加强科研基础。”
+论坛讨论了针对虚拟资产逃税的对策，韩国国税厅计划对讨论的意见进行审查，包括完善立法、建立国际信息交换体系等，并尽可能体现在政策中。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mempool：F2Pool已将多付的近20枚BTC费用退回给Paxos]]></title>
+        <id>https://panewslab.com/zh/articledetails/guhtwo03.html</id>
+        <link href="https://panewslab.com/zh/articledetails/guhtwo03.html"/>
+        <updated>2023-09-15T08:17:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，Mempool在X平台上表示，F2Pool已将多付的19.82108632 BTC费用退回给Paxos。
+此前昨日消息，F2Pool联创表示，Paxos认领近20枚BTC费用时已过截止时间，因时区差异所致。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司：朝鲜APT组织Konni利用WinRAR漏洞首次攻击加密行业]]></title>
+        <id>https://panewslab.com/zh/articledetails/ajew6934.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ajew6934.html"/>
+        <updated>2023-09-15T08:10:58.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，慢雾首席信息安全官23pds在X平台上表示，据创宇威胁情报团队反馈，朝鲜APT组织Konni利用WinRAR漏洞（CVE-2023-38831）首次攻击数字货币行业。
+朝鲜APT组织Lazarus早已将数字货币行业作为攻击目标，主要针对加密货币/金融相关行业的攻击。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美SEC同意解封币安诉讼案中部分机密文件]]></title>
+        <id>https://panewslab.com/zh/articledetails/uojsck19.html</id>
+        <link href="https://panewslab.com/zh/articledetails/uojsck19.html"/>
+        <updated>2023-09-15T08:07:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月15日消息，据CoinGape报道，美国证券交易委员会（SEC）已提交“解封动议”，以披露其上个月提交的机密文件的内容。SEC声称，Binance.US在应SEC先前要求向法院提交密封文件的过程中导致案件严重拖延。
+SEC以及币安和Binance.US均已同意启封SEC上个月提交的许多文件，其中包括与“强制和其他救济动议”和“反对Binance.US保护令动议”相关文件。根据文件，“如果被告BAM Trading Services Inc.和BAM Management US Holdings Inc.（统称为BAM）继续要求保密，SEC也不反对对其指定为机密的某些文件进行密封或部分密封。”
+据悉，Binance.US（BAM）已提交相关文件的修订版本；币安和SEC建议公开披露一些密封文件，有些则被归入争议文件类别。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -65,193 +286,6 @@
         <summary type="html"><![CDATA[MakerDAO的联合创始人Rune Christensen在新加坡举行的Token 2049大会上表达了他对Dai等去中心化稳定币未来的想法以及它们在更广泛的加密经济中的作用。 Christensen表示，生息稳定币可能会在两年内占据30%的市场份额，只要加密货币最终发挥其潜力，去中心化稳定币最终可能会主导稳定币市场。如果加密货币”兑现 并受到监管，那么中心化稳定币将成为主流。然而，真正的潜力在于去中心化的稳定币。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX地址从StarkNet提取2.1万枚ETH后经由中间地址重新存回OKX]]></title>
-        <id>https://panewslab.com/zh/articledetails/ce362qjh.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ce362qjh.html"/>
-        <updated>2023-09-15T07:22:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据Scopescan监测，50分钟前，标记为OKX地址从StarkNet提取21000枚ETH （3423万美元）到以太坊网络上的0x2Ce91地址，然后重新存回OKX。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber​​​​Connect：第1季社区奖励结束，超13万地址共领取近230万枚CYBER]]></title>
-        <id>https://panewslab.com/zh/articledetails/w46ppqra.html</id>
-        <link href="https://panewslab.com/zh/articledetails/w46ppqra.html"/>
-        <updated>2023-09-15T07:07:56.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，Web3社交图谱协议Cyber​​​​Connect在X平台宣布，第1季CYBER社区奖励已结束，在过去30天里，130,722个地址总共领取2,295,288枚CYBER代币，剩余未领取的97,243枚CYBER将转进入社区金库。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[持TRB总量18%的巨鲸再次将320万美元的TRB存入币安，预计已从TRB获利672万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/0k6zgl52.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0k6zgl52.html"/>
-        <updated>2023-09-15T07:04:45.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据Spot On Chain报道，0xCcE开头巨鲸（疑似TRB操纵者）于33分钟前以31.99 美元（共计320万美元）的价格向币安存入10万枚TRB 。
-值得注意的是，该巨鲸仍然在多个钱包中持有440,908枚TRB（占总供应量的18%），目前预计从TRB获得的总利润为672万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美SEC：Binance.US不配合调查，其使用Ceffu托管服务可能违反先前协议]]></title>
-        <id>https://panewslab.com/zh/articledetails/ornog53n.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ornog53n.html"/>
-        <updated>2023-09-15T07:00:15.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据CoinDesk报道，法庭文件显示，美SEC指控Binance.US不配合调查，并质疑Binance.US使用Ceffu提供的托管服务违反了旨在阻止资产流向海外的先前协议。
-SEC表示，在证据收集过程中，Binance.US的控股公司BAM仅提供了“大约220份文件，其中许多是难以理解的屏幕截图和没有日期或签名的文件”。
-Binance.US在提交的文件中回应称，监管机构对Ceffu的担忧“无事生非”，而其要求提供更多文件的要求是“徒劳的钓鱼取证行为”。Binance.US表示，仅仅通过Ceffu创建钱包并不意味着该公司的国际部门可以托管或访问客户资金。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic Eden新增对cNFT（可拆解NFT）的支持]]></title>
-        <id>https://panewslab.com/zh/articledetails/79psj5af.html</id>
-        <link href="https://panewslab.com/zh/articledetails/79psj5af.html"/>
-        <updated>2023-09-15T06:57:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，Magic Eden在X平台上表示，今日其新增了cNFT支持。据悉，cNFT是只能在Solana上实现的创新性NFT，c代表可拆解，这使得它们的生产成本仅为传统NFT的一小部分。
-据悉，ERC-998标准名为可拆解非同质化代币（Composable NFT，缩写为cNFT）。它的设计可以让任何一个NFT可以拥有其他NFT。转移cNFT时，就是转移cNFT所拥有的整个层级结构和所属关系。简单来说就是一个ERC-998的物品可以包含多个ERC-721和ERC-20形式的物品。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网民列出与JPEX合作的多位名人，包括香港肥妈、“币少爷”黄钲杰等]]></title>
-        <id>https://panewslab.com/zh/articledetails/lk1b2659.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lk1b2659.html"/>
-        <updated>2023-09-15T06:45:51.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据BossMind报道，除之前提到的张智霖、林作、庄思敏，有网民列出多位网红或名人曾与JPEX合作，其中包括肥妈、YouTuber陈怡、曾街头撒钱被捕的香港“币少爷”黄钲杰、东记、发达太太、香港玄学家陈定邦、Lotus、Kei Kei及中医师加健身教练Danie等等。此外，不少网红、艺人或机构亦已与JPEX划清界线，惟台湾区代言人陈零九则暂未作出说明。
-黄钲杰发声明称“本人以后不会再提及证监会指示所提及的交易所”；陈怡发声明称“收到证监会指示，以后不会再提及证监会所提及的交易所”；协同通信发声明称“旗下RadioWorld与JPEX、凤凰国际及JadePower订立认购及股东协议已失效，未曾且参与JPEX VATP的营运”；日本交易所JPX集团发声明称“与JPEX没有任何关系”；Visa发声明称“没与JPEX有任何合作计划”。
-此前消息，香港证监会警告称JPEX是不受监管的虚拟交易平台，香港警方正调查JPEX是否涉及刑事成分。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[张智霖回应：早通知JPEX在取得牌照前不要使用肖像，会保留追究JPEX的权利]]></title>
-        <id>https://panewslab.com/zh/articledetails/vtzlydcg.html</id>
-        <link href="https://panewslab.com/zh/articledetails/vtzlydcg.html"/>
-        <updated>2023-09-15T06:14:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据明报报道，对于张智霖曾代言JPEX的报道，张智霖经纪人回应称，才留意到张智霖的肖像被JPEX使用中，深感无奈，张智霖之前收到邀请拍摄广告，当时JPEX向他们称在海外有注册，亦提供证明，故他们安排去年3月拍摄，但去年5月得知JPEX“已受到证监会监管”，曾书面通知JPEX，在港取得牌照前不得使用张的肖像作任何广告宣传。他们表明会保留追究JPEX的权利。
-另外，自证监会前日发出警告声明后，陆续有网红及场外交易所与JPEX“割席”，其中“JPEX合伙人”林作在社交网页公布昨日起停止推广任何在港未领牌的交易所，其OTC亦暂停营业，他形容自己也损失惨重，“并没有好过”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三男子通过“奇亚·种草”APP平台以组织、传销虚拟币获刑]]></title>
-        <id>https://panewslab.com/zh/articledetails/a2al2dgo.html</id>
-        <link href="https://panewslab.com/zh/articledetails/a2al2dgo.html"/>
-        <updated>2023-09-15T05:51:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据“卫辉市人民法院”微信公众号，近日，河南省卫辉市人民法院宣判一起组织、领导传销活动案，被告人麻某、王某、潘某依托“奇亚·种草”APP平台，以推销“矿机”获得产币收益为名，以购买“矿机”获得会员资格，并按“邀请”人数分不同“层级”，间接以发展人员数量作为计酬和返利依据，引诱参加者继续发展他人参加，骗取财物，情节严重，分别被判处六年零十个月至四年零二个月不等的刑期，并处罚金。
-法院审理查明，该平台主要营销模式是拉人头，“会员”通过上线邀请码，在交易平台兑换泰达币或者直接在平台充值购买“矿机”，寿命为3年，合约到期不能提取本金，只能获取“矿机”产币收益。，在该平台注册会员10247(ID数)、矿机销售额(含线下购机)7261765泰达币，累计充值5133132.580661泰达币，累计提现324200.19389泰达币。静态收益465873.61泰达币(直推+间推奖)，动态收益1315.772173个奇亚币(直推奖+间推奖+平级奖+管理奖)，会员等级四级，分别为普通会员 6762人，节点3347人，运营商80人，运营中心58人。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多链诈骗服务提供商Inferno Drainer已盗取超4000万美元资产，受害者超8万名]]></title>
-        <id>https://panewslab.com/zh/articledetails/7mmrn75k.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7mmrn75k.html"/>
-        <updated>2023-09-15T05:33:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据Web3反诈骗平台Scam Sniffer的数据，多链诈骗服务提供商Inferno Drainer已窃取约4051.41万美元资金，受害者达8.5万名。诈骗金额较今年5月监测的590万美元已上升近6倍。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某巨鲸近半月向OKX转入260万枚APE，约327万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/gbcy143q.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gbcy143q.html"/>
-        <updated>2023-09-15T05:13:08.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据Scopescan监测，0xbaff开头巨鲸地址在过去16天内已经将总计260万枚APE（约327万美元）存入了OKX，这是该巨鲸自ApeCoin Treasury获得500万枚APE代币以来的首次销售。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NounsDAO中文社区发起人：“硬着陆分叉”旨在让账面价值低于拍卖价来防止攻击套利]]></title>
-        <id>https://panewslab.com/zh/articledetails/bk27icl8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/bk27icl8.html"/>
-        <updated>2023-09-15T05:09:45.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，关于NounsDAO硬着陆分叉，NounsDAO中文社区发起人Nic解释了此事件的来龙去脉。Nic表示，这次改革（分叉）的背景来自攻击者看到nouns拍卖价对于账面价值（国库/NFT个数）存在套利空间，于是裹挟目前不满国库开支效率的民意启动的一场分叉活动。分叉启动后，保守派（以nouns发起人为代表）认为nouns在于”网络价值”，即不断吸引优质建设者和持有人打造nouns网络才是长期价值的基石，快速行动清扫短期主义和套利者有利于在熊市坚守理念，因此设置20%的分叉低阈值。而分叉派（及套利派）则由认为DAO开支缺乏结构化回报者和套利者组成，他们认为DAO国库存在被耗尽的可能而套利者则看到剥削早期拍卖者的机会。
-他还表示：“若现行机制不作调整，攻击者永远可以透过获得20%控制权去阻止DAO合法支出，然后寻找拍卖价低于账面价的机会进行攻击套利。因此如何让账面价值低于拍卖价是改革后核心问题之一。利用被fork掉的nouns分发给真正的建设者代替销毁，降低账面价值且做大网络价值似乎是可行方式之一。我认同社区品牌打造网络价值：如果没有新血液，Nouns DAO难以破圈。而要高度去中心化，品牌发展的主导重任自然落到builder和持有人身上。缺乏网络价值且社区被短期主义主导，则持有人也难以进行多维度的NFT价值捕获，最终走向双输。”
-此前9月10日消息，NounsDAO推出分叉页面，支持者可加入分叉并分割DAO财库。数据显示，目前已有432枚Nouns加入分叉，距离窗口结束还剩16小时23分钟。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[循环做多ETH/BTC的某巨鲸已累计借出4549万美元的BTC并出售换成ETH]]></title>
-        <id>https://panewslab.com/zh/articledetails/rjy3asc8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/rjy3asc8.html"/>
-        <updated>2023-09-15T04:54:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据链上分析师余烬监测，自3月17日以来一直通过Aave平台循环做多ETH/BTC的某巨鲸汇率已在Aave累计借出1716枚BTC （约4549万美元）并出售换成ETH。 余烬表示，该巨鲸做多 ETH/BTC汇率对的操作方法为从Aave抵押ETH，借出BTC，将BTC以组流动方式或直接出售换成ETH，ETH 存入Aave继续借出BTC。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPEX地址遭受资金污染严重，某热钱包充值地址流入超1.9亿风险USDT]]></title>
-        <id>https://panewslab.com/zh/articledetails/0yx1ifz1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0yx1ifz1.html"/>
-        <updated>2023-09-15T04:51:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，区块链数据分析公司Bitrace在X平台上表示，JPEX地址遭受资金污染严重，某热钱包充值地址在过去20个月流入超过1.9亿风险USDT。
-Bitrace对五个PEX波场热钱包充值地址进行了资金审计，本文选择其中一个较具代表性的对象进行披露。审计对象：TLGiN6DevzwNNSWhT3KUtRLnrZx71qoQ2o；审计周期：2021/12/31 23:36:42 ～ 2023/9/14 10:29:33。
-TLGiN6在过去20个月，与30,585个用户发生交互189,133次，共流入USDT 687,002,533枚，其中151,415,358枚系风险资金，占比22.04%。向TLGiN6转账次数最多的两个地址，均为高风险地址。第一个地址转入969笔，共1,092,244USDT，风险类型为洗钱 ；第二个地址转入897笔， 共387,692USDT，风险类型为黑灰产、网赌、洗钱。两地址转入的资金占总流入资金的0.22%。在月度资金表中，不难看出流入TLGiN6的风险资金主要发生在2023年，这或许与JPEX业务量的增加有关。截至目前，已经公开的JPEX波场提币热钱包地址，均停止正常提币活动，这可能与网传的999 USDT高额提币手续费有关。
-此前消息，香港证监会警告称JPEX是不受监管的虚拟交易平台，香港警方正调查JPEX是否涉及刑事成分。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：英特尔支持的区块链公司R3已于上周裁员20%]]></title>
-        <id>https://panewslab.com/zh/articledetails/iz4cx5lb.html</id>
-        <link href="https://panewslab.com/zh/articledetails/iz4cx5lb.html"/>
-        <updated>2023-09-15T04:16:15.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据彭博社报道，知情人士透露，区块链初创公司R3上周裁员五分之一，以留存现金应对行业熊市，裁员涉及全球各个职能领域，但没有提供具体人数。据悉，R3曾获美国银行、英特尔等投资。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[港媒：香港警方正调查JPEX是否涉及刑事成分，且张智霖曾代言JPEX]]></title>
-        <id>https://panewslab.com/zh/articledetails/9nfjo4zl.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9nfjo4zl.html"/>
-        <updated>2023-09-15T04:11:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据港媒am730报道，此前被香港证监会警告的加密交易所JPEX去年曾经在香港是电视、户外广告位及公交车站灯箱等大卖广告，并宣布由张智霖担任品牌大使，JPEX不只是在港宣传，早前同MIRROR成员合作的台湾歌手陈零九作为代言人。有报道称，早前由保险行业转战加密货币行业的林作，7月在社交平台宣传“申请成为JPEX合伙人”，之后又在讲座中推广JPEX。在香港证监会要求网红停止宣传该平台后，林作也在社交平台表示“无一触犯任何监管规定，尊重证监会的要求。”另一艺人庄思敏也被指在7月拍youtube视频介绍JPEX，据说可以拿到高达16厘回报。目前视频已下架，但庄思敏表示视频系与JPEX有合作关系的加密货币兑换商做宣传。
-此外，香港警方已向该媒体证实，已接到证监会通知，商业罪案调查科正跟进及调查案件是否涉及刑事成分。该媒体还表示，有用户在网上反映，JPEX将提款额度被限制了最高1000 USDT美元稳定币、提币手续费改至999 USDT，意味着散户最多仅能出金1美元。网上有KOL网红公开展示成功提取金额的照片，据照片所见，该网红成功提取1美元。不过JPEX昨日晚间已发布调整USDT提币手续费的公告。另据网络作家“千颂C”指出，于新加坡加密峰会TOKEN 2049上，作为铂金赞助商之一的JPEX今日未有职员上班。
-此前消息，香港证监会发布警告，称JPEX是不受监管的虚拟交易平台。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迪拜和香港迪拜共同建立金融服务合作，涵盖虚拟资产等领域]]></title>
-        <id>https://panewslab.com/zh/articledetails/wgu36zy3.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wgu36zy3.html"/>
-        <updated>2023-09-15T03:42:25.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，据香港财经时报报道，迪拜经济和旅游局与中国香港特别行政区政府财经事务及库务局签署了一项谅解备忘录，旨在加强迪拜和香港之间的金融合作。这项备忘录在中国香港一带一路高峰论坛中，由杜拜经济和旅游局杜拜经济发展公司首席执行官哈迪· 巴德里和中华人民共和国香港特别行政区政府财经事务及库务局副局长陈浩濂签署。
-杜拜经济和旅游局杜拜经济发展公司首席执行官哈迪·巴德里表示：“这项具有里程碑意义的谅解备忘录符合双方政府以金融服务为先的方向，并为不同持分者之间的经济知识交流和合作提供了舞台。我们将坚定地致力于培育家族办公室中心，在资本市场、金融科技和虚拟资产领域加强合作。”香港特别行政区政府发言人表示：“该备忘录将有助于促进两地在金融服务行业关键领域的政策沟通、知识交流和合作机会，包括但不限于家族办公室、金融科技、虚拟资产、绿色和可持续金融等。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX CEO：平台将就9月13日的合约异动100%赔付]]></title>
-        <id>https://panewslab.com/zh/articledetails/avdc7d4h.html</id>
-        <link href="https://panewslab.com/zh/articledetails/avdc7d4h.html"/>
-        <updated>2023-09-15T03:28:08.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月15日消息，OKX CEO徐明星在X平台发文称，平台将就9月13日的合约异动，100%赔付所有受影响的客户，并表达了歉意。“我们完全理解交易系统的稳定性对我们的客户来说是非常重要的。在过去的10年里，我们的团队一直在不断改进SLA，但由于交易系统的复杂性，我们仍然每隔几个月就会出现一些小问题。我们对此感到非常抱歉，并将努力使我们的稳定性越来越好。”
-据了解，OKX已于9月14日晚正式公布了合约异动事件赔偿方案，将于9月20日前以USDT的形式直接发放至受影响用户资金账户，补偿包括用户本次交易产生的手续费。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -375,26 +409,6 @@ TLGiN6在过去20个月，与30,585个用户发生交互189,133次，共流入US
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[安永投资14亿美元推出人工智能平台EY.ai]]></title>
-        <id>https://www.hellobtc.com/news/202309/21223.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21223.html"/>
-        <updated>2023-09-14T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[9月14日消息，全球四大会计师事务所之一安永（EY）宣布推出人工智能平台EY.ai，安永称已为其新的EY.ai平台投资了14亿美元，该平台旨在帮助客户使用人工智能实现业务转型，基于安永自己的大语言模型（LLM）EY AI EYQ。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik Buterin：寻求在香港发展的项目方应考虑当地的政策持续性]]></title>
-        <id>https://www.hellobtc.com/news/202309/21222.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21222.html"/>
-        <updated>2023-09-14T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik Buterin在新加坡表示，自去年年底以来，香港已经转向对加密货币友好的立场，但加密项目在那里设立业务时应该考虑这种友好的稳定性。如果任何加密项目想要把香港作为他们的家，他们都希望有一些信心，而且当各种未知、监管、政治和其他类型的事件发生时，它是否将继续保持友好。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Visa：Solana有潜力成为主流支付网络]]></title>
         <id>https://www.web3sj.com/?p=88461</id>
         <link href="https://www.web3sj.com/news/88461/"/>
@@ -420,26 +434,6 @@ TLGiN6在过去20个月，与30,585个用户发生交互189,133次，共流入US
         <link href="https://www.web3sj.com/news/88451/"/>
         <updated>2023-09-14T12:03:27.000Z</updated>
         <summary type="html"><![CDATA[「我们认为使用剩余资源来为用户优化平台结束流程符合 Voice 及其社区的最佳利益」。由于加密货币和 NFT 市场持续的不确定性，Voice 将在未来几个月内逐步关闭业务，目前新用户注册和交易市场已被禁用。在接下来的几周时间内，Voice 将推出一项服务，可让 Voice 上的 NFT 资产迁移至 EOS、Polygon 与以太坊上，老用户的资产则保留至 2024 年 12 月 31 日。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-9.14）]]></title>
-        <id>https://www.web3sj.com/?p=88448</id>
-        <link href="https://www.web3sj.com/news/88448/"/>
-        <updated>2023-09-14T11:48:45.000Z</updated>
-        <summary type="html"><![CDATA[V神：以太坊希望创建一个能够与谷歌和推特竞争的独立技术堆栈。法官已批准FTX出售、质押和对冲其加密资产。SEC诉币安案件下次听证会定于9月18日举行。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拆解FTX的34亿美元持仓，前十币种抛压多大？]]></title>
-        <id>https://www.web3sj.com/?p=88438</id>
-        <link href="https://www.web3sj.com/news/88438/"/>
-        <updated>2023-09-14T08:43:30.000Z</updated>
-        <summary type="html"><![CDATA[FTX，曾经是一家知名的加密货币交易所，在其衰落之前拥有多样化的数字资产组合。它正在寻求监管机构的批准，以清算总价值为 34 亿美元的加密资产。以下是 FTX 在其破产财产中持有的前十大加密资产。]]></summary>
         <author>
             <name>Gao</name>
         </author>
