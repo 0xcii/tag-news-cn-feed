@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-16T04:15:13.470Z</id>
+    <id>urn:2023-09-16T05:11:17.030Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-16T04:15:13.470Z</updated>
+    <updated>2023-09-16T05:11:17.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,40 @@
         <summary type="html"><![CDATA[PANews 9月16日消息，币安发布公告称，币安合约将于北京时间2023年09月16日14点更新TRBUSDT U本位永续合约杠杆和保证金阶梯，用户当前仓位将受到影响，请用户参考更新后的杠杆和保证金阶梯调整保证金，以避免强行平仓。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：Base每秒交易量是ZkSync的两倍，是Arbitrum的四倍]]></title>
+        <id>https://www.hellobtc.com/news/202309/21236.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21236.html"/>
+        <updated>2023-09-16T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[1.数据：Base每秒交易量是ZkSync的两倍，是Arbitrum的四倍。
+
+2.数据：过去20天内，价值超10亿美元的ETH流入流动性质押衍生品平台。
+
+3.Unibot支持限时免费交易friend.tech key。
+
+4.dYdX创始人：不打算扩展到其他产品，dYdX将引领DeFi衍生品的下一个100倍增长。
+
+5.Vitalik Buterin：DeFi应少关心是否提供6%的年利率，而是确保用户不会获得负100%年利率。
+
+6.Polygon zkEVM唯一地址数突破100万。
+
+7.Yuga Labs推出CryptoPunks纪实纪录片。
+
+8.CZ：Binance.US近期管理层变动出于监管考虑，忽略FUD。
+
+9.波卡中文社区知名媒体PolkaWorld：已暂停运营半个月，波卡新治理框架OpenGov正迫使生态项目外流。
+
+10.麻吉大哥发布AIP-304提案投票，目前反对票超76.44%。
+
+11.friend.tech协议交易总量突破10万枚ETH。
+
+12.OP：Airdrop #1中无人认领的4800万枚OP将直接发放到合格的未领取地址。
+
+13.超半数NounsDAO成员在分叉完成后离开，并从财库提走价值超2700万美元的ETH。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -301,16 +335,6 @@
         <link href="https://www.hellobtc.com/news/202309/21227.html"/>
         <updated>2023-09-15T01:21:00.000Z</updated>
         <summary type="html"><![CDATA[香港立法会议员吴杰庄在社交媒体上表示，昨天就以太坊创始人Vitalik Buterin分享关于在香港发展虚拟资产项目（Cryptocurrencies Project）的观点，我尊重他的发言权利，但同时认为他不了解和不认识香港的情况。我有以下邀请和观点:  1.我现诚意邀请Vitalik先生来香港了解情况。我愿意协调相关机构和企业向其分享香港的情况。 2.香港是一个有完善程序制定政策及法律的特别行政区。在“一国两制”下，香港有立法权。身为香港特别行政区立法会议员，我想同大家分享，香港每一个政策或法例都要经历一段时间的讨论，包括政府起草政策、公众咨询、立法会多个委员会和大会讨论等，所以希望Vitalik了解实际情况。 3.国家与香港并没有Vitalik所说的复杂情况，中央政府一直表示支持香港“一国两制”发展，所以香港有空间制定虚拟资产的政策，欢迎全球合规企业到香港发展。  4.正如我上面所说，香港的政策和法律不会朝令夕改，所有相关的政策和条例都是经过社会重大辩论和完整的程序，所以我能够告诉Vitalik先生，香港的政策十分稳定。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊ACDE会议：EIP-7514确定为Dencun升级的一部分]]></title>
-        <id>https://www.hellobtc.com/news/202309/21226.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21226.html"/>
-        <updated>2023-09-15T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[9月15日消息，以太坊核心开发者Tim Beiko总结最新一次以太坊执行层会议，讨论内容包括 devnet-8 状态更新，以及将 EIP-7514 确定为 Dencun 升级的一部分等。EIP-7514 旨在通过 Epoch Churn Limit 限制，将最大验证者增长率从指数增长更新为线性增长。本次以太坊执行层会议讨论内容具体为： 关于 devnet-8 状态更新，网络正在最终确定，许多客户端已发布更新。已经开始使用 Kurtosis 测试 MEV/ 区块构建流程。 Nethermind 表示他们的 Blob 事务池现已准备就绪，在单个节点上测试几天后，已将其部署在所有 Dencun 测试节点上。 Geth 的 blob txn 池也即将完成。 Besu 正在对其交易池进行精细检查（以限制 Blob + 非 Blob 交易的大小），预计将在下一个版本中发布。 Prysm 注意到接收 blob sidecar 时存在一些延迟，称它们通常在区块后约 500 毫秒内出现（处理需要约 15 毫秒）。Prysm 正在调查这个问题，以及这是否可能是由 blob 和块导入之间的竞争条件引起的。 在分叉之前存在一个关于是否允许在内存池中支持 blob txn 的问题，团队同意不这样做。 会议还讨论了是否向验证器激活队列添加常量上限。此后该提案正式定名为 EIP-7514。EIP-7514 将成为 Dencun 升级的一部分，预计 EIP 和相关的 CL 规范 PR 将在未来几天更新以反映所有这些。开发者还达成共识，将 Max Epoch Churn Limit 限制在 8。 开发者还讨论了另一个提案：添加一个操作码以公开 EVM 中的 blob 基本费用。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
