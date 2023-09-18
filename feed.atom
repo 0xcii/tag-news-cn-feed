@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-18T02:18:50.492Z</id>
+    <id>urn:2023-09-18T03:12:59.567Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-18T02:18:50.492Z</updated>
+    <updated>2023-09-18T03:12:59.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik近期演讲频繁提到的「无状态」是什么？对以太坊去中心化有什么意义]]></title>
+        <id>https://www.web3sj.com/?p=88738</id>
+        <link href="https://www.web3sj.com/news/88738/"/>
+        <updated>2023-09-18T03:06:37.000Z</updated>
+        <summary type="html"><![CDATA[以太坊中的状态指的是一个包括所有外部拥有账户（EOAs）、它们的余额、智能合约部署以及相关存储的综合账本。这个状态不是静态的；它会随着新用户的增加和新智能合约的部署而不断扩展。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEX储备证明调查，哪家风险最高？]]></title>
+        <id>https://www.web3sj.com/?p=88732</id>
+        <link href="https://www.web3sj.com/news/88732/"/>
+        <updated>2023-09-18T03:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Binance、OKX、Bitget 以及 Kucoin 四家平台，自去年 11 月 FTX 之后每月按时发布 PoR 报告，并为用户提供默克尔树（Merkle Tree）进行开源验证。其中，Binance 今年 1 月升级系统——使用 zk-SNARK 技术升级其储备金证明系统，「断更」了一期；Bitget 也因平台整体升级在 2 月缺少一期报告。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剧情反转，抵制AI音乐的华纳签了位虚拟歌手]]></title>
+        <id>https://www.defidaonews.com/article/6833148</id>
+        <link href="https://www.defidaonews.com/article/6833148"/>
+        <updated>2023-09-18T02:26:58.000Z</updated>
+        <summary type="html"><![CDATA[AIGC正全面渗入人类的视听体验。]]></summary>
+        <author>
+            <name>元宇宙日爆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uniswap社区正对“创建UNI-ARB资助计划和协议代表计划”进行链上投票]]></title>
         <id>https://panewslab.com/zh/articledetails/zpzqmxxn.html</id>
@@ -255,26 +285,6 @@ SPACE ID（ID）将于9月22日8时解锁约1849万枚代币，价值约368万�
 13.超半数NounsDAO成员在分叉完成后离开，并从财库提走价值超2700万美元的ETH。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让Coinbase心心念念的Flatcoin会是稳定币的下一形态吗？]]></title>
-        <id>https://www.web3sj.com/?p=88635</id>
-        <link href="https://www.web3sj.com/news/88635/"/>
-        <updated>2023-09-15T16:43:05.000Z</updated>
-        <summary type="html"><![CDATA[Flatcoin 的目标是对抗通胀，确保持有者的价值不会因为法定货币的通胀而贬值。为了实现这一目标，Flatcoin 基于不同的数据（如 CPI 或生活成本指数）优化其价格的平稳性，以确保持有者的购买力能够与生活成本的变化相匹配。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熊市依然疯狂「吸金」的10大Web3应用]]></title>
-        <id>https://www.web3sj.com/?p=88616</id>
-        <link href="https://www.web3sj.com/news/88616/"/>
-        <updated>2023-09-15T16:40:33.000Z</updated>
-        <summary type="html"><![CDATA[什么是胖瘦协议和应用？这是因为早期的互联网就像是「瘦协议网络」，是由像 TCP、IP、HTTP 这些不太被人注意的东西构成互联网的基础，而这些协议的价值是被应用软件，即 APP 所捕获的。比如我们现在用的抖音、微信、美团等，是「瘦协议胖应用」。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
