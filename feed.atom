@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T07:12:51.924Z</id>
+    <id>urn:2023-09-20T08:16:33.470Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-20T07:12:51.924Z</updated>
+    <updated>2023-09-20T08:16:33.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bastion：a16z领投的「Web3 协调器」如何让企业无缝接加密世界？]]></title>
+        <id>https://www.web3sj.com/?p=89065</id>
+        <link href="https://www.web3sj.com/news/89065/"/>
+        <updated>2023-09-20T07:41:15.000Z</updated>
+        <summary type="html"><![CDATA[在 web3 开发的前十年中，安全性和可用性往往处于权衡范围的两端，因此开发人员或企业想要构建良好的用户体验极其困难。如何从 Web2 转入 Web3？技术堡垒该如何突破？面对大部分企业的迷茫，a16z 给出了答案——选择 Bastion。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LD Capital：Aave短期资金面分析]]></title>
+        <id>https://www.web3sj.com/?p=89057</id>
+        <link href="https://www.web3sj.com/definews/89057/"/>
+        <updated>2023-09-20T07:33:43.000Z</updated>
+        <summary type="html"><![CDATA[Aave 是以太坊上借贷龙头，现部署在 Polygon、Arbitrum、Optimism 等 9 条链上。该项目成立于 2017 年，初始版本为点对点借贷，后因借贷撮合效率低下而改版，借鉴 Compound 资金池借贷模型提供高流动性。Aave 当前为 V3 版本，该版本的目的是为提供更高的资本效率、更高的安全性和跨链借贷功能。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做Layer1还是Layer2?]]></title>
+        <id>https://www.web3sj.com/?p=89041</id>
+        <link href="https://www.web3sj.com/news/89041/"/>
+        <updated>2023-09-20T07:30:29.000Z</updated>
+        <summary type="html"><![CDATA[随着 CP 和 Layer 2 相继发展超链网络，其生态代币会在这其中发挥着什么样的作用，或者超链网络的发展给这些代币带来了哪些更多的可能性呢？为了讨论代币的未来发展趋势，本文先梳理了各自的代币模型，分析异同；再深入讨论各自的方案可能给代币带来的潜在影响，并挖掘出对应的投资价值等等。那么接下来，就让我们一起看看他们代币经济模型如何充分激发各自的潜能。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由ERC-20标准制定者联创的LUKSO入驻虚幻引擎，打破区块链游戏壁垒]]></title>
         <id>https://www.web3sj.com/?p=89037</id>
@@ -332,36 +362,6 @@ Arbitrum新奥德赛将包含以下13个项目：GMX、Aboard、tofuNFT、Uniswa
         <link href="https://www.web3sj.com/news/88975/"/>
         <updated>2023-09-19T11:55:15.000Z</updated>
         <summary type="html"><![CDATA[Optimism已开始第三轮空投，1900万枚OP将分发至超31000个地址。花旗集团推出代币服务，进军数字资产领域。渣打银行旗下加密托管商Zodia Custody将提供加密资产收益。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nouns分叉有感：为什么分叉是美妙的]]></title>
-        <id>https://www.web3sj.com/?p=88956</id>
-        <link href="https://www.web3sj.com/daonews/88956/"/>
-        <updated>2023-09-19T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[分叉，也称为硬分叉，是指创建现有事物的完整副本和另一个实例。分叉同时可以引进自己的新变化和改进。但在某些情况下，它们是完全相同的版本。一个重要的区别是，作为其中一部分的人和社区是不同的，分叉的原因通常是因为社区根本性的分歧。在加密货币领域，分叉更为普遍，因为协议和网络是完全公开的。加密货币分叉不仅更流行，而且比非加密货币开源代码库的风险要高得多。这是因为它们往往拥有加密协议的代币所有权和治理权，因此存在可交易的价值。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CowSwap，未来Intent的DEX形态？]]></title>
-        <id>https://www.web3sj.com/?p=88937</id>
-        <link href="https://www.web3sj.com/definews/88937/"/>
-        <updated>2023-09-19T08:33:44.000Z</updated>
-        <summary type="html"><![CDATA[CoWSwap 发图直指其 Intent Based Trading 先驱的地位。那么，CoWSwap 到底是什么？与 UniswapX 有什么区别？同走聚合器的 solver model 路线，为何市场声音指控 UniswapX「抄袭」CoWSwap 而不是 1inch fusion。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点加密圈十大链上Rug Pull项目，主要来自上个牛市]]></title>
-        <id>https://www.web3sj.com/?p=88927</id>
-        <link href="https://www.web3sj.com/definews/88927/"/>
-        <updated>2023-09-19T08:15:17.000Z</updated>
-        <summary type="html"><![CDATA[在 DeFi 的所有陷阱中，最让人刺痛的往往是 Rug Pulls。这些内部漏洞也被称为退出骗局，发生在项目内部人员利用用户信任窃取他们的资产时。它们通常通过潜入智能合约的恶意代码发生，允许开发人员耗尽这些合约或用户钱包。]]></summary>
         <author>
             <name>Gao</name>
         </author>
