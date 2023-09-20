@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T17:11:15.694Z</id>
+    <id>urn:2023-09-20T18:17:15.971Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-20T17:11:15.694Z</updated>
+    <updated>2023-09-20T18:17:15.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Balancer：确认前端目前安全并重新由Balancer DAO控制]]></title>
+        <id>https://panewslab.com/zh/articledetails/ke74qv1z.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ke74qv1z.html"/>
+        <updated>2023-09-20T18:15:52.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月21日消息，Balancer在推特就最新的DNS攻击发布更新称，可以确认该域现在是安全的并重新由Balancer DAO控制。app.balancer.fi和其他balancer.fi子域名可以安全使用。经过调查，很明显这是一次针对EuroDNS（用于 .fi顶级域名的域名注册商）的社会工程攻击，Balancer正在探索弃用 .fi TLD，以便转向更安全的注册商，并建议使用TLD的其他项目也这样做。据此前消息，Balancer遭遇BGP或DNS劫持攻击，已损失约23.8万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储维持利率不变]]></title>
+        <id>https://panewslab.com/zh/articledetails/xktf905i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xktf905i.html"/>
+        <updated>2023-09-20T18:06:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月21日消息，美联储将基准利率维持在5.25%-5.50%区间不变，符合市场预期。根据美联储FOMC声明，12位官员预计今年还会加息一次，7位官员预计维持不变。美联储点阵图显示，2026年利率预期中值为2.9%，高于2.5%的长期预期。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer 1网络Vara Network主网已上线]]></title>
+        <id>https://panewslab.com/zh/articledetails/z4ujimxp.html</id>
+        <link href="https://panewslab.com/zh/articledetails/z4ujimxp.html"/>
+        <updated>2023-09-20T16:31:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月21日消息，由 Gear Protocol 提供支持，亦获得波卡创始人 Gavin Wood 支持的去中心化 Layer-1 网络 Vara Network 的主网已上线。Vara Network 利用 Actor 模型和持久内存等概念来提高速度并缩短延迟，并为智能合约引入了并行处理和单独的内存空间，为游戏、金融等领域的开发提供了支持。
+相关阅读：对话 Gear｜波卡生态下一代 WASM 智能合约平台]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[混合加密交易所Ankex转向beta阶段，稍后将包括公开测试]]></title>
+        <id>https://panewslab.com/zh/articledetails/6jn3zdla.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6jn3zdla.html"/>
+        <updated>2023-09-20T16:12:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月21日消息，据The Block报道，由Qredo孵化的混合加密货币交易所Ankex正从 alpha 阶段转向 beta 阶段，在稍后全面公开测试版发布之前，将分阶段添加该技术的测试人员。据公告称，该平台专为高频交易者打造，最初提供以稳定币 USDC 结算交易的能力。
+Ankex首席执行官MichaelMoro表示，Ankex目前正在以种子阶段投资的形式寻求外部资本。他补充说，虽然最初用户需要打开 Qredo 钱包才能开始在 Ankex 上进行交易，但最终目标是它变得“与钱包无关”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase将上架Vara (VARA)]]></title>
         <id>https://panewslab.com/zh/articledetails/9qds2k2z.html</id>
