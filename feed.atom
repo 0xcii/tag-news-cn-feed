@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-21T13:16:37.618Z</id>
+    <id>urn:2023-09-21T14:12:31.844Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-21T13:16:37.618Z</updated>
+    <updated>2023-09-21T14:12:31.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Balancer攻击事件背后：安全团队裁员，以及中心化前端的隐忧]]></title>
+        <id>https://www.web3sj.com/?p=89227</id>
+        <link href="https://www.web3sj.com/news/89227/"/>
+        <updated>2023-09-21T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[BGPHijacking，也称为 BGP 路由劫持，这是一种前端攻击手段。在 BGPHijacking 攻击中，攻击者通过发送虚假的 BGP 路由更新信息，使其他路由器将流量引向错误的方向，从而实现流量的窃听、篡改或中断。简单地说，网站能够发送垃圾邮件批准交易，从而允许恶意合约转移用户的所有资金。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve 与 Uniswap，不值一提的简单数学巧合？]]></title>
+        <id>https://www.web3sj.com/?p=89209</id>
+        <link href="https://www.web3sj.com/definews/89209/"/>
+        <updated>2023-09-21T13:30:28.000Z</updated>
+        <summary type="html"><![CDATA[2019 年 Curve V1 在构造 AMM 公式时，推演过程中有一个中间形态的公式，而这个公式和一年多后 Uniswap V3 的基础公式恰恰有着相同的结构（前者是后者的一种特殊形态 )。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-9.21）]]></title>
         <id>https://www.web3sj.com/?p=89201</id>
@@ -81,16 +101,6 @@
         <link href="https://www.web3sj.com/news/89134/"/>
         <updated>2023-09-21T07:18:35.000Z</updated>
         <summary type="html"><![CDATA[9 月 6 日，Marathon Digital Holdings CEO Fred Thiel 参加了 Brave New Coin 的在线访谈节目，被问到作为矿工要如何度过减半时 Fred Thiel 说到：「我们没有无法控制比特币价格、无法控制全球挖矿算力，我们只能关注于自身的挖矿效率、收入支出情况。我们持有约 39000 枚比特币，100 万美元现金，如果减半后价格没有大的改善，我们会持续的抛售所获得的比特币，直到 2026 年。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析Cosmos LSM：重新定义ATOM质押与流动性策略]]></title>
-        <id>https://www.web3sj.com/?p=89130</id>
-        <link href="https://www.web3sj.com/news/89130/"/>
-        <updated>2023-09-21T07:05:34.000Z</updated>
-        <summary type="html"><![CDATA[LSM 是 Cosmos Hub 中的一种 ATOM 质押替代方案，它允许用户将质押的 ATOM 转化为流动性质押衍生品（LSD），旨在更加安全、高效地促进 ATOM 流动性质押的采用。也就是说，它既能促进 ATOM 流动性质押的发展，又是一种监管形式，制定了一个安全框架并通过治理来控制流动性质押的采用。]]></summary>
         <author>
             <name>Gao</name>
         </author>
@@ -305,16 +315,6 @@ ASIC重点指出Bit Trade在向澳大利亚客户提供产品之前，未按法�
         <summary type="html"><![CDATA[PANews 9月21日消息，据官方X账号，去中心化社交协议friend.tech已推出网页版，用户可在浏览器中使用friend.tech。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-9.20）]]></title>
-        <id>https://www.web3sj.com/?p=89102</id>
-        <link href="https://www.web3sj.com/news/89102/"/>
-        <updated>2023-09-20T11:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Aave社区正对“GHO流动性策略升级”ARFC提案进行投票。灰度已提交第二个以太坊期货ETF申请，追踪以太坊期货合约。Arbitrum奥德赛活动下周将重新上线，为其7周。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
