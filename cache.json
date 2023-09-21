@@ -11,7 +11,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 153,
+          "wordCount": 148,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 129,
+          "wordCount": 127,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         }
@@ -33,12 +33,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=89156",
+          "author": "Gao",
+          "description": "这颗新星球的历史已被投机和炒作的周期所标记，这使得许多人怀疑其未来的走向。今天的加密货币投机狂潮仅仅是一个自启动的过程。正如 1849 年的淘金热将旧金山从一个宁静的村庄变为一个主要的港口（最终成为技术创新的中心）一样，如今的加密货币热潮也正在吸引定居者，并促使基础设施的建设，使之从一个贫瘠的星球变成一个繁荣的加密文明。",
+          "link": "https://www.web3sj.com/news/89156/",
+          "publishedOn": "2023-09-21T08:08:38.000Z",
+          "wordCount": 917,
+          "title": "Paradigm联创新作：火星上的赌桌，加密货币拓荒与投机",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695283702239.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89152",
+          "author": "Gao",
+          "description": "主流媒体 CNBC 揭露了苹果推出股票交易应用的计划。这家科技巨头计划与美国互联网券商 Robinhood 以及其他类似公司竞争，这些公司都为客户提供 BTC 和 Crypto 资产。",
+          "link": "https://www.web3sj.com/news/89152/",
+          "publishedOn": "2023-09-21T07:59:07.000Z",
+          "wordCount": 875,
+          "title": "苹果计划推出支持比特币的股票交易应用，项目夭折了吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/e924067e91169a9e7f8e2580735fb61e.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89148",
+          "author": "Gao",
+          "description": "简单来说，layer2 链会把大量交易 Batch 给主网，主网确定 L2 的交易经过 Validation 验证阶段后才会变更状态，目前 OP-Rollup 的验证方式 fraud-proof 欺诈证明，即 L2 链的任何 validators 可以发起挑战提出质疑，7 天时间内，若挑战者成功，主网会拒绝上一次状态变更，L2 需重新打包提交新 state 声明，若挑战者失败，则其质押的资产会被罚没。",
+          "link": "https://www.web3sj.com/news/89148/",
+          "publishedOn": "2023-09-21T07:31:34.000Z",
+          "wordCount": 997,
+          "title": "为什么OP Rollup很少有挑战发生？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695281411059.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89134",
+          "author": "Gao",
+          "description": "9 月 6 日，Marathon Digital Holdings CEO Fred Thiel 参加了 Brave New Coin 的在线访谈节目，被问到作为矿工要如何度过减半时 Fred Thiel 说到：「我们没有无法控制比特币价格、无法控制全球挖矿算力，我们只能关注于自身的挖矿效率、收入支出情况。我们持有约 39000 枚比特币，100 万美元现金，如果减半后价格没有大的改善，我们会持续的抛售所获得的比特币，直到 2026 年。",
+          "link": "https://www.web3sj.com/news/89134/",
+          "publishedOn": "2023-09-21T07:18:35.000Z",
+          "wordCount": 1074,
+          "title": "Marathon Digital Holdings CEO：比特币减半叙事是幻想，但比特币是最好的Layer 1",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5f8f5f2ce0eff091356e7d6591d53c63.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=89130",
           "author": "Gao",
           "description": "LSM 是 Cosmos Hub 中的一种 ATOM 质押替代方案，它允许用户将质押的 ATOM 转化为流动性质押衍生品（LSD），旨在更加安全、高效地促进 ATOM 流动性质押的采用。也就是说，它既能促进 ATOM 流动性质押的发展，又是一种监管形式，制定了一个安全框架并通过治理来控制流动性质押的采用。",
           "link": "https://www.web3sj.com/news/89130/",
           "publishedOn": "2023-09-21T07:05:34.000Z",
-          "wordCount": 1065,
+          "wordCount": 1120,
           "title": "解析Cosmos LSM：重新定义ATOM质押与流动性策略",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695279918641.png"
         },
@@ -58,7 +98,7 @@
           "description": "在 Token 2049 活动中 Telegram CTO John Hyman 与 TON 基金会总裁 Steven Yun 一起出席演讲，Steven Yun 表示，未来建立在 TON 区块链上的项目有着优先参加 Telegram 的广告平台 Telegram Ads 的机会。Steven 甚至还说「Telegram 只会和 TON 区块链整合」。",
           "link": "https://www.web3sj.com/project/89090/",
           "publishedOn": "2023-09-20T09:19:51.000Z",
-          "wordCount": 1285,
+          "wordCount": 1290,
           "title": "TON的重生之路：与Telegram再续前缘，8亿用户或将实现Web3大规模应用",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695201576751.png"
         },
@@ -68,7 +108,7 @@
           "description": "在 2022 年的 ETH Seoul 大会上，以太坊的联合创始人 Vitalik Buterin 表达了他对 ZK-rollups 在 Layer 2 扩展竞争中获胜的信心。时至 2023 年，zkSync Era 已成为 ZK-rollups 领域的重要焦点之一。",
           "link": "https://www.web3sj.com/project/89079/",
           "publishedOn": "2023-09-20T09:10:26.000Z",
-          "wordCount": 1373,
+          "wordCount": 1363,
           "title": "解锁zkSync Era：开创全新的Layer2扩展时代？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/0b869b7c9c19adc6fdabfd1e93de7724.jpg"
         },
@@ -78,9 +118,9 @@
           "description": "早期许多协议採用了简单的挖矿和提供流动性的经济模型，将代币视为一种简单的激励手段，用于吸引用户参与和追求短期获利。然而，这种激励方式虽然直接，但缺乏有效的再分配机制。以去中心化交易所（DEX）为例，当代币发行和所有手续费直接分配给流动性提供者时，缺乏对流动性提供者的长期激励。",
           "link": "https://www.web3sj.com/definews/89073/",
           "publishedOn": "2023-09-20T08:41:58.000Z",
-          "wordCount": null,
+          "wordCount": 997,
           "title": "探讨DeFi经济模型：激励模式的设计与演进",
-          "imageUrl": null
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695199294783.png"
         },
         {
           "id": "https://www.web3sj.com/?p=89068",
@@ -88,49 +128,9 @@
           "description": "Atman，一个深受赛博朋克精神启发的竞技game-fi项目，已经在游戏界树立了独特的标志。这款游戏以“公平”为核心，利用去中心化赛事服务合约和NFT-Mod资产编辑，力争实现基于DAO的用户的自治生态社区，结合了social-fi与e-sports的特色。它的愿景是让每位用户都有机会共享收益，成为新世界秩序中的一名创造者。",
           "link": "https://www.web3sj.com/gamefinews/89068/",
           "publishedOn": "2023-09-20T08:37:38.000Z",
-          "wordCount": 845,
+          "wordCount": 867,
           "title": "自Alpha测试凯旋，卡牌链游Atman能否在熊市给出漂亮答卷？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/image-26.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89065",
-          "author": "Gao",
-          "description": "在 web3 开发的前十年中，安全性和可用性往往处于权衡范围的两端，因此开发人员或企业想要构建良好的用户体验极其困难。如何从 Web2 转入 Web3？技术堡垒该如何突破？面对大部分企业的迷茫，a16z 给出了答案——选择 Bastion。",
-          "link": "https://www.web3sj.com/news/89065/",
-          "publishedOn": "2023-09-20T07:41:15.000Z",
-          "wordCount": 1083,
-          "title": "Bastion：a16z领投的「Web3 协调器」如何让企业无缝接加密世界？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1695191498987.webp"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89057",
-          "author": "Gao",
-          "description": "Aave 是以太坊上借贷龙头，现部署在 Polygon、Arbitrum、Optimism 等 9 条链上。该项目成立于 2017 年，初始版本为点对点借贷，后因借贷撮合效率低下而改版，借鉴 Compound 资金池借贷模型提供高流动性。Aave 当前为 V3 版本，该版本的目的是为提供更高的资本效率、更高的安全性和跨链借贷功能。",
-          "link": "https://www.web3sj.com/definews/89057/",
-          "publishedOn": "2023-09-20T07:33:43.000Z",
-          "wordCount": 1053,
-          "title": "LD Capital：Aave短期资金面分析",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695195209609.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89041",
-          "author": "Gao",
-          "description": "随着 CP 和 Layer 2 相继发展超链网络，其生态代币会在这其中发挥着什么样的作用，或者超链网络的发展给这些代币带来了哪些更多的可能性呢？为了讨论代币的未来发展趋势，本文先梳理了各自的代币模型，分析异同；再深入讨论各自的方案可能给代币带来的潜在影响，并挖掘出对应的投资价值等等。那么接下来，就让我们一起看看他们代币经济模型如何充分激发各自的潜能。",
-          "link": "https://www.web3sj.com/news/89041/",
-          "publishedOn": "2023-09-20T07:30:29.000Z",
-          "wordCount": null,
-          "title": "做Layer1还是Layer2?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89037",
-          "author": "Gao",
-          "description": "LUKSO 表示，这种集成意味着用户将可以直接与通用配置文件和游戏中灵活的非同质化通证（NFT）进行交互。LUKSO 中的通用配置文件具有互操作性，代表着经过验证的数字身份，让用户可以控制自己的在线头像和数字资产。",
-          "link": "https://www.web3sj.com/gamefinews/89037/",
-          "publishedOn": "2023-09-20T06:46:50.000Z",
-          "wordCount": 919,
-          "title": "由ERC-20标准制定者联创的LUKSO入驻虚幻引擎，打破区块链游戏壁垒",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5cb85cd10c5eb0bb2e65646f123106a0.png"
         }
       ]
     },
@@ -155,7 +155,7 @@
           "description": "PANews 9月21日消息，据彭博社报道，美国证券交易委员会（SEC）主席Gary Gensler表示，美国政府停摆将影响到SEC对市场的监管。他说，由于联邦政府可能在本月底关门，SEC的监管活动将受到严重限制，可能无法履行一些基本职能。\nGensler说，SEC可能无法对那些想上市企业的申报文件进行评估，如果发生重大事件，该机构无法全面监管市场。不过，Gensler淡化了关门会造成重大市场混乱的说法。他表示：“国债市场仍将运转，股市将继续进行交易。只是缺少了市场监督者。”\n据悉，美国政府正面临关闭的危机，除非国会在本月底之前达成协议，通过一项支出法案。美SEC在Gary Gensler的领导下今年已对加密行业发起多起诉讼。",
           "link": "https://panewslab.com/zh/articledetails/y6flrv8z.html",
           "publishedOn": "2023-09-21T06:01:51.000Z",
-          "wordCount": 345,
+          "wordCount": 351,
           "title": "美SEC主席：美国政府或在本月底停摆，SEC的监管活动将严重受限",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -225,7 +225,7 @@
           "description": "PANews 9月21日消息，据blocktempo报道，台湾立法委员江永昌昨日召开记者会，宣布将于本会期提出当地第一部虚拟资产专法。草拟的法案包含12项，分别为：1.虚拟资产业为特许行业，进行分级管理；2.虚拟资产业者均应加入公会，遵守公会自律规范；3.虚拟资产业者得自行发行或为他人发行虚拟资产；4.虚拟资产业者得经营虚拟资产衍生之商品、服务以及虚拟资产衍生性金融商品；5.虚拟资产业者需制定虚拟资产上下架审查程序以及交易规则；6.虚拟资产业者与客户资产分离规定；7.虚拟资产业者与客户订定契约、广告行销相关规定；8.虚拟资产业者的资安规范；9.虚拟资产业者洗钱防制、内稽内控制度之规范；10.虚拟资产业遵守主管机关财务监理及配合主管机关查核；11.成立虚拟资产基金以落实客户权益保障；12.禁止虚拟资产不正当交易行为。",
           "link": "https://panewslab.com/zh/articledetails/sw6cn2q8.html",
           "publishedOn": "2023-09-21T03:56:53.000Z",
-          "wordCount": 338,
+          "wordCount": 344,
           "title": "台湾立法委员提出包含12项草拟法案的虚拟资产专法",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 9月21日消息，据Cointelegraph报道，澳大利亚证券和投资委员会（ASIC）已对Kraken在当地的服务提供商Bit Trade Pty Ltd提起民事罚款诉讼，指控Bit Trade未遵守其在Kraken交易平台为澳大利亚客户提供的保证金交易产品的设计和分销义务。\nASIC重点指出Bit Trade在向澳大利亚客户提供产品之前，未按法律要求为产品制定目标市场决策。自 2021年10月5日设计和分销义务生效以来，至少有1160名澳大利亚客户使用了保证金交易产品，总计损失约835万美元。",
           "link": "https://panewslab.com/zh/articledetails/mhjh43fu.html",
           "publishedOn": "2023-09-21T03:50:34.000Z",
-          "wordCount": 358,
+          "wordCount": 364,
           "title": "澳大利亚监管机构就保证金交易产品起诉Kraken的提供商Bit Trade",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 9月21日消息，据Web3反诈骗平台Scam Sniffer监测，今日凌晨5时左右，某地址将从Kraken 提取了约446万枚USDT到一个虚假Coinone加密挖矿交易所。\n根据MetaMask安全团队成员@tayvano发布的Dune数据仪表盘，此类USDT授权骗局已盗走了约3.37亿枚USDT。",
           "link": "https://panewslab.com/zh/articledetails/mr2h55ep.html",
           "publishedOn": "2023-09-21T03:24:14.000Z",
-          "wordCount": 342,
+          "wordCount": 344,
           "title": "某地址将446万枚USDT转至虚假交易所，此类USDT授权骗局已盗走超3亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 9月21日消息，据Businesswire报道，Web3创作者社区Afterparty完成500万美元战略增长轮融资，Blockchange Ventures领投，Acrew Capital、Act One Ventures 和 Tamarack Global、Wilson Sonsini和Vinny Lingham参投，此次融资使筹集的总资金达到1200万美元。新资金将用于开发产品和扩大业务范围。Afterparty还宣布推出新平台Afterparty AI，允许创作者扩展基于个性化的粉丝互动，并为粉丝生成独一无二的图像和视频，作为区块链上的NFT收藏品。\n据悉，Afterparty是一个为创作者提供工具和技术的平台，可扩展一对一的粉丝互动。Afterparty成立于 2021年，其创作者工具简化了内容货币化和所有权，利用区块链和人工智能等尖端技术帮助创作者加强粉丝关系。Afterparty曾于Afterparty2021年完成300万美元pre-seed融资，并于2022年完成400万美元主动融资。",
           "link": "https://panewslab.com/zh/articledetails/7aqmmphz.html",
           "publishedOn": "2023-09-21T02:37:06.000Z",
-          "wordCount": 392,
+          "wordCount": 398,
           "title": "Web3创作者社区Afterparty完成500万美元融资，Blockchange Ventures领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -346,6 +346,56 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202309/21257.html",
+          "author": null,
+          "description": "从公司处获悉，神州信息旗下神州方圆打造的吾卡预付式消费服务平台与邮储银行合作，正式上线了首个基于数字人民币智能合约的预付费产品。吾卡可实现向商户提供发卡、监管、营销、会员管理等多种经营赋能。本次合作把数字人民币智能合约引入了商户经营过程，推动了数字人民币在预付领域的推广和使用。（e公司）",
+          "link": "https://www.hellobtc.com/news/202309/21257.html",
+          "publishedOn": "2023-09-21T06:57:00.000Z",
+          "wordCount": 308,
+          "title": "神州信息携手邮储银行上线首个基于数字人民币智能合约的预付费产品",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21256.html",
+          "author": null,
+          "description": "CastleIsland Ventures合伙人、Coin Metrics联合创始人Nic Carter表示，如果稳定币是一个主权实体，那么它们将是美国国债的第16大持有者。",
+          "link": "https://www.hellobtc.com/news/202309/21256.html",
+          "publishedOn": "2023-09-21T06:57:00.000Z",
+          "wordCount": 313,
+          "title": "Coin Metrics联创：如果稳定币是主权实体，那么将是美国国债的第16大持有者",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21255.html",
+          "author": null,
+          "description": "9月20日，八位英国上议院议员和政治家通过元宇宙向全球领导人发表了关于Web3技术发展带来的机遇和挑战的演讲。英国议员兼区块链技术全党议会小组（APPG）主席Natalie Elphicke以独特的化身出现在元宇宙中，并强调，Web3代表了一种范式转变，重构了互联网的结构。 Elphicke在随后主题演讲中表示，英国有潜力成为一个支持区块链的“智能国家”，但该国在获得区块链相关就业机会方面落后于竞争对手。英国的首要任务是Web3行业增长和劳动力规划，其中一部分是为了让英国成为对Web3创始人、开发人员、程序员和公司来说有吸引力的工作中心。Elphicke呼吁制定更多国家区块链路线图以及各国之间的合作。 Elphicke还提到DeFi，称，它为监管机构和政策制定者带来了独特的挑战和机遇，确保这些生态系统的透明度、可审计性和问责制至关重要。",
+          "link": "https://www.hellobtc.com/news/202309/21255.html",
+          "publishedOn": "2023-09-21T06:57:00.000Z",
+          "wordCount": 315,
+          "title": "英国议员：Web3代表了一种范式转变，重构了互联网结构",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21254.html",
+          "author": null,
+          "description": "高盛将美联储首次降息预期从此前预计的2024年第二季度推迟至2024年第四季度。",
+          "link": "https://www.hellobtc.com/news/202309/21254.html",
+          "publishedOn": "2023-09-21T06:56:00.000Z",
+          "wordCount": 305,
+          "title": "高盛将美联储首次降息预期从此前预计的2024年第二季度推迟至2024年第四季度",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21253.html",
+          "author": null,
+          "description": "1.Optimism：已向7名购买者进行约1.16亿枚OP代币销售(锁仓2年)。\n\n2.MakerDAO再次增加1.91亿美元RWA资产，RWA总资产超29亿美元。\n\n3.新加坡最大洗钱案涉案资产总价值扩大至24亿新元，价值3800万新元的加密货币被扣押。\n\n4.Crypto Quant CEO：韩国人均加密资产持有量为570万美元。\n\n5.黄立成发起以1100万枚APE购买Yuga资产的提案以64.92%的赞成率获得通过。\n\n6.DefiLlama创始人：friend.tech及分叉版本均将用户密钥存储在前端，易导致资金被窃取。\n\n7.数据：比特币OTC交易量已降至历史低位水平，与2018年年底相当。\n\n8.矿池ViaBTC控制着超过51%的Zcash算力。\n\n9.报告：2032年全球加密货币挖矿硬件市场规模将超过50亿美元。\n\n10.交易所的比特币供应百分比降至年内低点。\n\n11.Discord交易机器人None Trading宣布停运，代币24小时暴跌逾70%。\n\n12.Uniswap基金会近一年资助72个项目，承诺资金达450万美元。",
+          "link": "https://www.hellobtc.com/news/202309/21253.html",
+          "publishedOn": "2023-09-21T03:31:00.000Z",
+          "wordCount": 325,
+          "title": "白话区块链早报：Optimism向7名购买者进行约1.16亿枚OP代币销售",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202309/21252.html",
           "author": null,
@@ -394,56 +444,6 @@
           "publishedOn": "2023-09-19T02:24:00.000Z",
           "wordCount": 315,
           "title": "香港电脑商会主席发起成立本地Web 3.0组织WebX产业联盟“WebXIA”",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21247.html",
-          "author": null,
-          "description": "9月19日消息，数据显示，一个休眠近6年的比特币巨鲸地址于06:12转出其持有的全部2099.99枚BTC（约5630.9万美元）。按照比特币当前价格计算，该巨鲸浮盈已超4451万美元。",
-          "link": "https://www.hellobtc.com/news/202309/21247.html",
-          "publishedOn": "2023-09-19T02:24:00.000Z",
-          "wordCount": 308,
-          "title": "休眠近6年巨鲸转移近2100枚BTC，浮盈超4450万美元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21246.html",
-          "author": null,
-          "description": "总部位于旧金山的风险投资公司Blockchain Capital为两只新的加密货币投资基金筹集了5.8亿美元。 该公司成立于2013年，今天宣布推出第六只早期风险基金和第一只机会基金，筹集资金总额达5.8亿美元。支付巨头Visa是支持方之一。 据悉，Visa和PayPal还投资了Blockchain Capital的第五支3亿美元基金，该基金于2021年关闭。",
-          "link": "https://www.hellobtc.com/news/202309/21246.html",
-          "publishedOn": "2023-09-18T15:39:00.000Z",
-          "wordCount": 319,
-          "title": "Blockchain Capital为两只新加密投资基金筹集5.8亿美元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21245.html",
-          "author": null,
-          "description": "香港立法会议员吴杰庄在社交媒体宣布，今日已在香港立法会大楼接待以太坊基金会研究员Justin Drake，向其介绍了香港的立法程序，参观了立法会部份设施。解释了由政府撰写政策以至广泛的公众咨询，到立法会三读立法的过程，也和他讨论了香港的Web3.0和稳定币政策并邀请Justin Drake给香港政府提相关意见。此外，吴杰庄表示已托Justin Drake转达诚意邀请包括Vitalik在内的以太坊基金会其他核心成员考察香港、了解香港情况。",
-          "link": "https://www.hellobtc.com/news/202309/21245.html",
-          "publishedOn": "2023-09-18T15:39:00.000Z",
-          "wordCount": 323,
-          "title": "吴杰庄：已接待以太坊基金会研究员Justin Drake，托其邀请Vitalik Buterin考察香港",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21244.html",
-          "author": null,
-          "description": "Andreessen Horowitz(a16z)两位前高管共同创立加密初创公司Bastion获得由a16z crypto领投的价值2500万美元种子轮融资。投资者还包括野村集团的Laser Digital Ventures、Robot Ventures和加密影响者Packy McCormick的Not Boring Capital等。 创始人Riyaz Faizullabhoy和Nassim Eddequiouaq分别是a16z风险投资公司加密部门的前首席技术官和首席安全官，他们正在寻求克服传统公司进入基于区块链的新去中心化互联网版本的障碍，即“web3”。他们计划按照全球法规处理加密货币托管和钱包，以及数字交易执行。",
-          "link": "https://www.hellobtc.com/news/202309/21244.html",
-          "publishedOn": "2023-09-18T15:38:00.000Z",
-          "wordCount": 318,
-          "title": "加密初创公司Bastion完成2500万美元融资，a16z领投",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21243.html",
-          "author": null,
-          "description": "9月18日消息，花旗集团（Citigroup Inc.）宣布推出代币服务“Citi Token Services”。新产品将客户存款转化为数字代币，可立即发送至全球任何地方。该服务由花旗的财务和贸易解决方案部门提供，迄今为止，该部门一直致力于使用该服务来提高现金管理和贸易融资能力。 声明称，对于花旗集团的新产品，该公司将依赖该银行拥有和管理的私人区块链。客户无需设置自己的数字钱包，而是可以通过银行现有的系统访问该服务。",
-          "link": "https://www.hellobtc.com/news/202309/21243.html",
-          "publishedOn": "2023-09-18T15:38:00.000Z",
-          "wordCount": 317,
-          "title": "花旗推出代币服务，可将客户存款转化为数字代币",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
