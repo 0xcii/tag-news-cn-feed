@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T11:10:39.877Z</id>
+    <id>urn:2023-09-22T12:24:46.017Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T11:10:39.877Z</updated>
+    <updated>2023-09-22T12:24:46.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nouns的2700万美元分叉：贪婪的交易者和区块链理想主义者的有害混合]]></title>
+        <id>https://www.web3sj.com/?p=89358</id>
+        <link href="https://www.web3sj.com/daonews/89358/"/>
+        <updated>2023-09-22T12:22:11.000Z</updated>
+        <summary type="html"><![CDATA[DAO 是加密运动中的公司版本，但具有更多的民主和（理论上的）无领导者。购买 DAO 的加密资产的任何人 - 在 Nouns DAO 的情况下，是 NFT - 都有权投票决定该团体如何使用其资金和做出决策。但是，这些团体的章程不断发展，可能会很快变得混乱。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-9.22）]]></title>
+        <id>https://www.web3sj.com/?p=89355</id>
+        <link href="https://www.web3sj.com/news/89355/"/>
+        <updated>2023-09-22T11:55:37.000Z</updated>
+        <summary type="html"><![CDATA[比特小鹿开始向B. Riley发行并出售1.5亿股A类普通股，此前贝莱德等机构增持其股票。以太坊最新会议：Dencun主网激活或不会在今年进行，因Holesky启动失败影响进程。数据：42540个地址尚未认领7060万枚ARB空投，约占空投总额的6%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：柳暗花明，Solana的过去、现在与未来]]></title>
+        <id>https://www.web3sj.com/?p=89345</id>
+        <link href="https://www.web3sj.com/news/89345/"/>
+        <updated>2023-09-22T11:31:56.000Z</updated>
+        <summary type="html"><![CDATA[围绕网络性能和宕机的叙述已经发生了转变。本地费用市场等解决方案帮助改善了网络运行的稳定性，还提高了 Solana 原生代币 SOL 的价值。状态压缩（state compression）与压缩 NFT（compressed NFT）等技术正在带来新的用例，而且赠款计划与 Solang、Neon EVM 和 AI 等新的催化剂也即将出现。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lens打造Layer 1社交链的雄心：社交老牌原生生态突围抗衡friend.tech和电报]]></title>
+        <id>https://www.web3sj.com/?p=89336</id>
+        <link href="https://www.web3sj.com/project/89336/"/>
+        <updated>2023-09-22T11:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Lens Protocol 已经在以太坊上确立了自己作为领先的 SocialFi 平台的地位。与竞争对手相比，Lens 在增长和用户参与方面表现出色。一个具有类似社交图谱概念的社交合约 Fracaster 目前拥有 17,286 个活跃帐户，而 Lens Protocol 则拥有惊人的 119,241 个活跃帐户，明显超过竞争对手。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether CTO：将于2024年全面实施Tether新全球战略]]></title>
         <id>https://panewslab.com/zh/articledetails/lqdeh4nz.html</id>
@@ -258,16 +298,6 @@ CVE-2023-41993，WebKit中的一个漏洞，在处理特制Web内容时可能导
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimism角逐Layer2之王的利器：不断增长的OP Stack生态系统]]></title>
-        <id>https://www.web3sj.com/?p=89276</id>
-        <link href="https://www.web3sj.com/project/89276/"/>
-        <updated>2023-09-22T07:19:42.000Z</updated>
-        <summary type="html"><![CDATA[最新一波 L2 发布中，许多都使用了 OP Stack，这是一个支持以太坊 L2、OP 主网以及新参与者如 Base 和 Zora Network 的开源软件开发 OP Stack。Optimism 设想未来将这些 Rollup 与众多 Rollup 结合，形成一个分散的 L2 连锁网络，即超级链。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[币安将上线FRONT 1-10倍 U本位永续合约]]></title>
         <id>https://panewslab.com/zh/articledetails/wcv5hb8u.html</id>
         <link href="https://panewslab.com/zh/articledetails/wcv5hb8u.html"/>
@@ -285,26 +315,6 @@ CVE-2023-41993，WebKit中的一个漏洞，在处理特制Web内容时可能导
         <summary type="html"><![CDATA[PANews 9月22日消息，在今日举行的2023年世界数字矿业峰会上，比特大陆发布能效比达1XJ/T的水冷矿机ANTMINER S21，共有两种配置：S21 Hyd，算力335 T，能效比16J/T，使用常温低于40°，极限温度40至45°；S21，算力200 T，能效比17.5J/T，耐温45度。新款矿机于10月7日前预定，售价14美元/T；10月8日以后售价19.6美元/T。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交代币化：Web3如何改变在线社交和商业模式？]]></title>
-        <id>https://www.web3sj.com/?p=89261</id>
-        <link href="https://www.web3sj.com/news/89261/"/>
-        <updated>2023-09-22T04:07:26.000Z</updated>
-        <summary type="html"><![CDATA[我一直认为社交媒体正在变得更加反社交化。TikTok 催生的短视频趋势，其核心并无社交性可言；一个算法获取用户生成的内容（UGC），并将其推荐给人们。这是算法和随机陌生人在优化注意力。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer重质押的新用例：MEV-Boost+]]></title>
-        <id>https://www.web3sj.com/?p=89257</id>
-        <link href="https://www.web3sj.com/news/89257/"/>
-        <updated>2023-09-22T04:02:46.000Z</updated>
-        <summary type="html"><![CDATA[90% 以上的以太坊区块由 MEV-Boost 生成，主要因为其 PBS 机制使验证者可以获得更多的利润。PBS 使得验证者从区块构建中分离出来，将构建排序交易的行为外包给构建者，由中继充当两者的交互通道，验证者只需向网络提议新区块，所以也称为提议者。提议者可以通过向区块构建者出售区块空间来获得更多的收入，提高了利润。这促使越来越多的验证者加入 MEV-Boost。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -327,16 +337,6 @@ CVE-2023-41993，WebKit中的一个漏洞，在处理特制Web内容时可能导
 7.美财长耶伦将于今晚主持金融稳定监督委员会会议。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RWA的火，终于「烧」起来了]]></title>
-        <id>https://www.web3sj.com/?p=89253</id>
-        <link href="https://www.web3sj.com/definews/89253/"/>
-        <updated>2023-09-22T02:32:36.000Z</updated>
-        <summary type="html"><![CDATA[真实世界资产（RWA）代币化已成为区块链技术在全球范围内最强大的用例之一，因为它有望在数字时代为金融市场带来更高的效率和安全性。为了更深入地了解 2023 年 RWA 的发展状况，kitco 编辑与 Matrixport 业务开发总监 Benjamin Stani 进行了交谈。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
