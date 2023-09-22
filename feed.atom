@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T14:11:42.101Z</id>
+    <id>urn:2023-09-22T15:13:07.584Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-22T14:11:42.101Z</updated>
+    <updated>2023-09-22T15:13:07.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[美国SEC指控Citadel Securities违反卖空法规的订单标记要求]]></title>
+        <id>https://panewslab.com/zh/articledetails/ig2sbqj1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ig2sbqj1.html"/>
+        <updated>2023-09-22T15:04:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月22日消息，美国证券交易委员会(SEC)今天宣布对经纪交易商 Citadel Securities LLC 提出和解指控，该命令指控 Citadel Securities 违反 Reg SHO 第 200(g) 条规则。该监管框架旨在解决滥用卖空行为，该框架要求经纪交易商将销售订单标记为多头、空头或短豁免。监管机构经常使用这些记录来监管禁止的卖空活动。为了和解 SEC 的指控，总部位于迈阿密的 Citadel Securities公司同意支付 700 万美元的罚款。
+根据 SEC 的命令，在五年期间，估计 Citadel Securities错误地标记了数百万份订单，不准确地表示某些卖空是多头销售，反之亦然。SEC 的命令发现，不准确的标记是由于 Citadel Securities自动交易系统中的编码错误造成的，并且该公司在此期间向包括 SEC 在内的监管机构提供了不准确的数据。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新]]></title>
+        <id>https://www.defidaonews.com/article/6833692</id>
+        <link href="https://www.defidaonews.com/article/6833692"/>
+        <updated>2023-09-22T14:58:12.000Z</updated>
+        <summary type="html"><![CDATA[用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临]]></summary>
+        <author>
+            <name>元宇宙与碳中和研究院</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linear Finance发起LUSD受攻击事件处理方案的投票]]></title>
+        <id>https://panewslab.com/zh/articledetails/n3t6s3v9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/n3t6s3v9.html"/>
+        <updated>2023-09-22T14:33:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月22日消息，Linear Finance发起LUSD受攻击事件处理方案投票，Linear Finance提供了四种处理方案：1. 永久禁用所有当前的流动资产并将所有抵押的LINA代币释放给社区（预计 5-7 天）；2. 利用可升级智能合同进行全面恢复（预计 3-5 周）；3. 重新部署代币（预计 3-5 周）；4. 与攻击者进行沟通（一周）。上述提案已发布至Snapshot。投票期为 48 小时。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polkadot未来将支持1000条平行链]]></title>
+        <id>https://panewslab.com/zh/articledetails/249pmf86.html</id>
+        <link href="https://panewslab.com/zh/articledetails/249pmf86.html"/>
+        <updated>2023-09-22T14:13:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月22日消息，据The Block报道，Polkadot 的核心开发人员正在寻求将生态系统当前的平行链限制扩大到 100 个，目标是在计划进行名为“异步支持”的软件更新后，最终在未来加入 1,000 个平行链。异步支持代表了 Polkadot 平行链共识协议的显著增强。此次更新旨在将平行链出块时间从 12 秒减半至 6 秒，并将每个区块的区块空间增加 5-10 倍。
+Polkadot 的主要贡献者 Parity Technologies 在里斯本的 sub0 开发者大会上表示，异步支持的版本将在大约两周内部署到 Polkadot 的 Rococo 测试网。主网发布的时间表仍然是暂定的。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniSat Wallet提交BRC-20模块化提案]]></title>
+        <id>https://panewslab.com/zh/articledetails/92wihg9b.html</id>
+        <link href="https://panewslab.com/zh/articledetails/92wihg9b.html"/>
+        <updated>2023-09-22T13:33:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月22日消息，比特币铭文钱包 UniSat Wallet 于 Layer1 Foundation 论坛提交模块化提案，该提案描述了 BRC-20 的模块化机制，该模块机制为现有的 BRC-20 框架提供了一种支持各种基于铭文的应用的新方法。各个模块之间独立运作，每个索引器只需解析与其关注的模块相关的数据，同时仍然保持与其他索引器的 BRC-20 余额一致性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国不同类型的机构如何看待加密货币？]]></title>
         <id>https://www.web3sj.com/?p=89371</id>
@@ -33,6 +85,16 @@
         <summary type="html"><![CDATA[在进一步深入探讨这个主题之前，重要的是要强调塑造 Web3 领域风险投资和创新格局与传统领域风投的差别。Web3 出现在金融危机之后，比特币最先奠定了行业发展的基础，在这基础之上以太坊于 2015 年推出，标志着 Web3 行业进入了早期阶段。2020 年以来行业相对取得较大进展，但前方的任务仍然艰巨，Web3 的新颖使其需要更广泛的验证，从而将 Web3 无需信任和去中心化的理念传播。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uniswap Wallet推出Swap保护功能，防止抢先交易和三明治攻击]]></title>
+        <id>https://panewslab.com/zh/articledetails/s48t6sbf.html</id>
+        <link href="https://panewslab.com/zh/articledetails/s48t6sbf.html"/>
+        <updated>2023-09-22T13:20:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月22日消息，Uniswap Wallet宣布推出"Swap保护"功能，Swap保护可保护用户的以太坊主网交易免受三明治攻击和抢先交易的影响。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -252,17 +314,6 @@ CoinShares 以其提供虚拟货币交易所交易产品（ETF）而闻名，管
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：42540个地址尚未认领7060万枚ARB空投，约占空投总额的6%]]></title>
-        <id>https://panewslab.com/zh/articledetails/6ge1c35k.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6ge1c35k.html"/>
-        <updated>2023-09-22T09:12:59.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月22日消息，Scopescan 发文表示，距离 ARB 空投认领截止日期仅剩 2 天。目前，42,540 个地址尚未认领，总计 7060 万枚 ARB（约 5840 万美元，占空投总额的 6%）。这些地址平均闲置时间为 384 天，大多数地址闲置时间超 1 年。42,540 个地址中有 37,338 个实体，最大的实体控制着 635 个地址，有资格认领 1,224,875 枚 ARB。2573 个地址从未在 Arbitrum 上执行过传出交易，其中大部分是协议合约或只使用过 Arbitrum Nova。大多数无人认领的地址有资格认领 1250 枚 ARB。
-今日早些时候报道，Arbitrum提醒：无人认领的ARB空投代币将于约2日后发送至DAO财库。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ERC-7521草案：将用户意图添加至账户抽象钱包]]></title>
         <id>https://www.web3sj.com/?p=89318</id>
         <link href="https://www.web3sj.com/news/89318/"/>
@@ -270,48 +321,6 @@ CoinShares 以其提供虚拟货币交易所交易产品（ETF）而闻名，管
         <summary type="html"><![CDATA[由于这个领域非常新，意图的定义目前有点模糊。 从总体概念来看，这个术语通常用于指用户对期望的链上结果或最终状态的表达。 就本规范而言，意图被定义为由用户设定的一组操作和期望。 这些操作和期望可以与其他意图的操作和期望相结合，以努力满足所有参与方的共同和最大利益。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一新建钱包从币安提取价值约160万美元的TRB]]></title>
-        <id>https://panewslab.com/zh/articledetails/0vynr62l.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0vynr62l.html"/>
-        <updated>2023-09-22T08:55:09.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月22日消息，据Lookonchain监测，刚刚创建的新钱包在过去20分钟内从币安提取了45,914枚TRB（约合160万美元）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nansen：部分用户数据泄露，因第三方供应商遭攻击所致]]></title>
-        <id>https://panewslab.com/zh/articledetails/396f2tm8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/396f2tm8.html"/>
-        <updated>2023-09-22T08:46:59.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月22日消息，Nansen在X平台表示，因一个第三方供应商漏洞遭攻击，致使部分Nansen用户数据泄露。据初步调查，6.8%的Nansen用户受到影响。这些用户的电子邮件地址被泄露，一小部分用户的密码哈希也被泄露，此外，部分群体的区块链地址被泄露。
-作为安全预防措施，Nansen已通过官方邮箱要求受影响的用户重置密码。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX起诉香港子公司前员工以寻求追约1.6亿美元，指控其在FTX申请破产前欺诈性提款]]></title>
-        <id>https://panewslab.com/zh/articledetails/15wb5fcz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/15wb5fcz.html"/>
-        <updated>2023-09-22T08:41:39.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月22日消息，据CoinDesk报道，根据周四晚间提交的一份法庭文件，FTX已起诉Salameda的前雇员，要求追回约1.573亿美元。Salameda是一家隶属于FTX的香港注册实体，据称由SBF控制。 文件称，Michael Burgess、Matthew Burgess、他们的母亲Lesley Burgess、Kevin Nguyen、Darren Wong和两家公司拥有或控制着几家在FTX.com和FTX US注册账户的公司，并在FTX破产前的几天里欺诈性地提取了资产。
-据称，在2022年11月11日FTX申请破产前的90天内，即所谓的“优先期”，被告获得了构成优先转让的提现利益，“根据破产法是可以避免的”。当时被告争相提取资产，并利用他们与FTX人员的关系，确保他们的提款请求优先于其他客户。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[81个上周五创建的新钱包自9月18日以来已从币安提取价值超3158万美元的LINK]]></title>
-        <id>https://panewslab.com/zh/articledetails/zgdsrn9r.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zgdsrn9r.html"/>
-        <updated>2023-09-22T08:33:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月22日消息，据Lookonchain监测，9月15日创建的总共81个新钱包，于9月18日开始从币安提取LINK。到目前为止，这些钱包已从币安提取总计470万枚LINK（约合3158万美元） 。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
