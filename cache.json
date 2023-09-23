@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 193,
+          "wordCount": 195,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 148,
+          "wordCount": 149,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -43,12 +43,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=89437",
+          "author": "Gao",
+          "description": "由于去中心化治理仍处于早期阶段，许多 Web3 协议和 DAO 仍在研究去中心化治理中出现的问题的解决方案。作为一个密切跟踪整个 Web3 的去中心化治理实践（包括如何影响去中心化以及如何将其纳入各种去中心化模式）的人，我认为，将马基雅维利的原则应用于 Web3 的去中心化治理可以解决当前的不足之处，因为马基雅维利的哲学是在当时对社会权力斗争形成的实用主义理解的基础上发展起来的。",
+          "link": "https://www.web3sj.com/daonews/89437/",
+          "publishedOn": "2023-09-23T16:05:46.000Z",
+          "wordCount": 1108,
+          "title": "a16z：「马基雅维利主义 DAO」的科学治理措施",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695485133353.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89432",
+          "author": "Gao",
+          "description": "很显然，币安就采用了第二种地址归集方案。站在交易所的业务逻辑下，无论选哪种方案，都存在大量的业务资金损耗，各家的管理资产策略可能会不同。",
+          "link": "https://www.web3sj.com/news/89432/",
+          "publishedOn": "2023-09-23T16:01:12.000Z",
+          "wordCount": 899,
+          "title": "币安钱包归集为何Gas狂涨？解析交易所业务逻辑",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695484846790.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=89426",
           "author": "Gao",
           "description": "Arkham：Coinbase持有价值250亿美元比特币储备，是最大比特币持币实体。30亿美元比特币期权合约将于本月底到期，市场波动或大幅上升。Binance.US提交动议寻求延长回应SEC强制动议的时间。",
           "link": "https://www.web3sj.com/news/89426/",
           "publishedOn": "2023-09-23T11:09:14.000Z",
-          "wordCount": 831,
+          "wordCount": 861,
           "title": "Web3世界日报（2023-9.23）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092311072373.jpg"
         },
@@ -58,7 +78,7 @@
           "description": "在这场由交易所引领的二层网络大战中，BNB Chain 必然不肯甘居人下。早在去年他们就曾上线 zkBNB 测试网，但因为 zkEVM 在性能上还无法满足大规模应用，采用 Optimistic Rollup 方案的 opBNB 成为了实现通用 Layer2 的更优方案。本文旨在对 opBNB 的工作原理与其商业意义进行简要概括，为大家梳理 BSC 公链在模块化区块链时代迈出的重要一步。",
           "link": "https://www.web3sj.com/news/89397/",
           "publishedOn": "2023-09-23T03:29:20.000Z",
-          "wordCount": 1700,
+          "wordCount": 1693,
           "title": "从opBNB和以太坊Layer2的性能差异来理解Rollup的瓶颈与优化方式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695439747588.png"
         },
@@ -68,7 +88,7 @@
           "description": "值得琢磨的是紧接着第二天，zkSync 也宣布推出为期 4-6 个月的 Fellowship 计划，希望通过个人和团队的技术贡献来推进 zkSync、ZK Stack 和 ZK Credo 的发展。而除了 Fellowship 计划，各大 L2 项目似乎在项目正统性、代码原创性，以及 RaaS 等方方面面都较起了劲。L2 赛道的竞争，似乎就要变成一场残酷的「肉搏战」了。",
           "link": "https://www.web3sj.com/news/89390/",
           "publishedOn": "2023-09-23T03:25:05.000Z",
-          "wordCount": 1193,
+          "wordCount": 1206,
           "title": "Consensys和zkSync相继推出Fellowship计划，L2的竞争进入「肉搏阶段」？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695439492233.png"
         },
@@ -78,7 +98,7 @@
           "description": "这意味着，如果你负责 Tether，有人来找你提议一个能带来更高回报的聪明投资，即使只有一点点风险，你也应该塞住耳朵大喊「不」，然后把他们赶出你的办公室。你可以在不冒风险的情况下赚取数十亿美元的纯利润！没有信用风险（购买国债）、没有期限风险（购买非常短期的国债）、没有流动性风险（如果有人提款可以轻松出售国债），没有任何风险， 5% 的利息。",
           "link": "https://www.web3sj.com/news/89387/",
           "publishedOn": "2023-09-23T03:21:54.000Z",
-          "wordCount": 930,
+          "wordCount": 897,
           "title": "为什么Tether继续发放USDT贷款是个危险信号？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695439291770.png"
         },
@@ -88,7 +108,7 @@
           "description": "目前正处于美国的加密会议季之中，因此预计正常的「机构即将到来」或「机构将采用什么技术或协议」将渗透到所有会议中。根本问题是，在美国，「机构」一词包含了太多内容，您必须非常细致地了解不同类型的机构与加密货币相关的情况。",
           "link": "https://www.web3sj.com/news/89371/",
           "publishedOn": "2023-09-22T13:32:15.000Z",
-          "wordCount": 842,
+          "wordCount": 853,
           "title": "美国不同类型的机构如何看待加密货币？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695389521255.png"
         },
@@ -98,7 +118,7 @@
           "description": "这篇主要是想聊聊从一级市场角度观察到的近两个月的一些市场现象，主要集中于衍生品，Ton，游戏与 ZK 这几个相对较火的赛道。相信大家应该看过不少 2049 小作文了，大多数文章整体中性略带一些悲观，比如 VC+ 项目方快要没钱了，破圈应用依旧缺乏……这些说的都对，最近两个月从一级市场角度我们也能清晰的感受到市场上的项目变少了，前几个月每周能聊差不多 20 个，最近跌倒了 10 个上下，出现一个好项目各个 VC 都在抢，颇有点「狼多肉少」即视感。至于二级市场么，就更不用说了……",
           "link": "https://www.web3sj.com/news/89368/",
           "publishedOn": "2023-09-22T13:26:10.000Z",
-          "wordCount": 1141,
+          "wordCount": 1128,
           "title": "TOKEN2049之后浅谈衍生品、Ton、游戏与ZK",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1695371141867.jpg"
         },
@@ -108,7 +128,7 @@
           "description": "在进一步深入探讨这个主题之前，重要的是要强调塑造 Web3 领域风险投资和创新格局与传统领域风投的差别。Web3 出现在金融危机之后，比特币最先奠定了行业发展的基础，在这基础之上以太坊于 2015 年推出，标志着 Web3 行业进入了早期阶段。2020 年以来行业相对取得较大进展，但前方的任务仍然艰巨，Web3 的新颖使其需要更广泛的验证，从而将 Web3 无需信任和去中心化的理念传播。",
           "link": "https://www.web3sj.com/news/89361/",
           "publishedOn": "2023-09-22T13:23:42.000Z",
-          "wordCount": 1005,
+          "wordCount": 990,
           "title": "孵化器和加速器如何深刻影响Web3的创业格局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695389009944.png"
         },
@@ -118,29 +138,9 @@
           "description": "DAO 是加密运动中的公司版本，但具有更多的民主和（理论上的）无领导者。购买 DAO 的加密资产的任何人 - 在 Nouns DAO 的情况下，是 NFT - 都有权投票决定该团体如何使用其资金和做出决策。但是，这些团体的章程不断发展，可能会很快变得混乱。",
           "link": "https://www.web3sj.com/daonews/89358/",
           "publishedOn": "2023-09-22T12:22:11.000Z",
-          "wordCount": 1230,
+          "wordCount": 1227,
           "title": "Nouns的2700万美元分叉：贪婪的交易者和区块链理想主义者的有害混合",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695385313709.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89355",
-          "author": "Gao",
-          "description": "比特小鹿开始向B. Riley发行并出售1.5亿股A类普通股，此前贝莱德等机构增持其股票。以太坊最新会议：Dencun主网激活或不会在今年进行，因Holesky启动失败影响进程。数据：42540个地址尚未认领7060万枚ARB空投，约占空投总额的6%。",
-          "link": "https://www.web3sj.com/news/89355/",
-          "publishedOn": "2023-09-22T11:55:37.000Z",
-          "wordCount": 937,
-          "title": "Web3世界日报（2023-9.22）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092211535171.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89345",
-          "author": "Gao",
-          "description": "围绕网络性能和宕机的叙述已经发生了转变。本地费用市场等解决方案帮助改善了网络运行的稳定性，还提高了 Solana 原生代币 SOL 的价值。状态压缩（state compression）与压缩 NFT（compressed NFT）等技术正在带来新的用例，而且赠款计划与 Solang、Neon EVM 和 AI 等新的催化剂也即将出现。",
-          "link": "https://www.web3sj.com/news/89345/",
-          "publishedOn": "2023-09-22T11:31:56.000Z",
-          "wordCount": 1097,
-          "title": "Bankless：柳暗花明，Solana的过去、现在与未来",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695382303867.png"
         }
       ]
     },
@@ -155,7 +155,7 @@
           "description": "PANews 9月23日消息，据CoinGape报道，美国证券交易委员会 (SEC) 就 Terra 诉讼提出动议，根据 9 月 22 日提交的法庭文件，美国SEC敦促法院准许提供被告 Do Kwon 的证词。此外，如果 Do Kwon 的证词难以取证，SEC 还建议采用替代方案。SEC敦促法院禁止在简易判决中使用 Do Kwon 的任何声明。与此同时，Do Kwon 因护照欺诈指控仍被关押在黑山监狱，直到今年年底，引渡程序尚未开始。\n被告 Terraform Labs 和 Do Kwon 计划于 9 月 26 日提交答复。SEC 已在备忘录中提交了更多详细信息以支持这项动议。SEC 早些时候提出的关于发出与 Chai Corporation 和 Terraform Labs 联合创始人Daniel Shin 相关的国际司法援助请求书的动议获得了法官的批准。被告传唤第三方索取文件的请求被法官拒绝。法官 Jed Rakoff 拒绝同意托雷斯法官在Ripple 诉 SEC 诉讼中的裁决。然而，法庭诉讼的最新进展对 SEC 不利，联邦法官称 SEC 的做法虚伪、武断且反复无常。",
           "link": "https://panewslab.com/zh/articledetails/xe762doz.html",
           "publishedOn": "2023-09-23T12:50:37.000Z",
-          "wordCount": 460,
+          "wordCount": 458,
           "title": "美SEC敦促法院准许提供Do Kwon证词，但禁止在简易判决中使用其任何声明",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +165,7 @@
           "description": "PANews 9月23日消息，GambleFi平台Rollbit在X平台宣布，由于监管不确定性和采用率低，决定暂时关闭其加密货币交易平台Degen Exchange。平台持有的任何资产都可以出售或提取，但购买第三方资产已被禁止。原生代币RLB不受影响，可正常买卖。其姊妹网站Rollbot.com即将停用，该网站现在仅支持提款，现有账户的功能有限。该决定是为了更好地定位和发展业务，核心产品Rollbit.com、RLB或NFT系列没有变化。",
           "link": "https://panewslab.com/zh/articledetails/mvh0timu.html",
           "publishedOn": "2023-09-23T12:06:41.000Z",
-          "wordCount": 337,
+          "wordCount": 335,
           "title": "Rollbot：将暂时关闭交易平台Degen EXchange，原生代币RLB不受影响",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +175,7 @@
           "description": "PANews 9月23日消息，Tether首席技术官PaoloArdoino在X平台表示，Tether、Bitfinex、Holepunch和Synomym的离职率非常低，每年不到1%。Tether的绝大多数职位都不使用招聘机构。员工在该公司工作多年，大多数离开的人都要求回来， 每个人都为公司的发展做出贡献。",
           "link": "https://panewslab.com/zh/articledetails/t5zm47rw.html",
           "publishedOn": "2023-09-23T11:41:23.000Z",
-          "wordCount": 334,
+          "wordCount": 332,
           "title": "Tether首席技术官：Tether、Bitfinex等公司的离职率每年不到1%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +185,7 @@
           "description": "PANews 9月23日消息，据Cointelegraph报道，区块链情报平台 Arkham 表示 Coinbase 目前总共持有947,755 枚 BTC，按当前 BTC 市场价格计算，这些代币的价值超过 250 亿美元。根据CoinGecko 数据，目前比特币的流通供应量约为 19,493,537 枚。 Coinbase所持有的比特币几乎占目前所有比特币的 5%。",
           "link": "https://panewslab.com/zh/articledetails/6fzi5qbn.html",
           "publishedOn": "2023-09-23T11:21:23.000Z",
-          "wordCount": 376,
+          "wordCount": 374,
           "title": "数据：Coinbase约持有现有比特币总量的5%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +195,7 @@
           "description": "PANews 9月23日消息，Web3支付基础设施公司MoonPay宣布收购NFT验证所有权工具ethpass，收购具体金额暂未披露。ethpass将会被集成至MoonPay产品和服务中，推动数字资产在钱包内无缝连接交互。",
           "link": "https://panewslab.com/zh/articledetails/3r2tahqq.html",
           "publishedOn": "2023-09-23T11:03:46.000Z",
-          "wordCount": 331,
+          "wordCount": 329,
           "title": "基础设施公司MoonPay收购NFT验证所有权工具ethpass",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +205,7 @@
           "description": "PANews 9月23日消息，据CoinGape报道，根据9月22日的一份法庭文件，BAM Management US Holdings和BAM Trading Services（Binance.US）提交了延长时间的动议。该动议是为了回应地方法官Zia M. Faruqui的命令，该命令要求被告出示理由，以密封或编辑与美国SEC支持强制动议答复有关的任何文件。该动议若获批，将允许Binance.US有更多时间对SEC的强制动议做出反应。\n此前消息，Binance.US代理律师要求美国华盛顿地区法院驳回美国证券交易委员会（SEC）提起的诉讼，称虚假交易的指控“没有事实依据”。",
           "link": "https://panewslab.com/zh/articledetails/s2ch39f4.html",
           "publishedOn": "2023-09-23T09:52:23.000Z",
-          "wordCount": 356,
+          "wordCount": 354,
           "title": "Binance.US提交动议寻求延长回应SEC强制动议的时间",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +215,7 @@
           "description": "PANews 9月23日消息，OpenSea 向 APl 用户发送的邮件表示，因其一位供应商遭遇安全事件，该事件可能泄露了有关 OpenSea APkey 的信息。该事件预计不会使开发者对平台的集成产生任何立即的影响，但密钥可能会被外部各方使用，建议开发者立即停止使用现有密钥，并用新生成的密钥替换，新生成的 APl 密钥将具有与过期密钥相同的权限。\n此前消息，Nansen在X平台表示，因一个第三方供应商漏洞遭攻击，致使部分Nansen用户数据泄露。据初步调查，6.8%的Nansen用户受到影响。这些用户的电子邮件地址被泄露，一小部分用户的密码哈希也被泄露，此外，部分群体的区块链地址被泄露。作为安全预防措施，Nansen已通过官方邮箱要求受影响的用户重置密码。",
           "link": "https://panewslab.com/zh/articledetails/ytrhpgmi.html",
           "publishedOn": "2023-09-23T08:58:27.000Z",
-          "wordCount": 368,
+          "wordCount": 366,
           "title": "OpenSea：因某供应商被攻击导致开发者的APl密钥可能被泄露，建议替换密钥",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -225,7 +225,7 @@
           "description": "PANews 9月23日消息，据Bitcoin.com报道，撒哈拉以南非洲地区的交易量占全球加密货币交易量的 2.3%，但仔细观察最新数据就会发现，“加密货币已经渗透到关键市场，并成为许多居民日常生活的重要组成部分”。 2022 年 7 月至 2023 年 6 月期间，尼日利亚的交易量接近 600 亿美元，是撒哈拉以南非洲地区最大的加密货币市场。总体而言，该地区同期的总成交量为 1,171 亿美元。数据显示，尼日利亚占该地区同期总交易量的近一半。南非的交易量同期超过 200 亿美元，是撒哈拉以南非洲地区第二大加密货币市场的所在地。肯尼亚、毛里求斯和加纳分别排名第三、第四和第五，跻身该地区前五名。\n与此同时，Chainaanalysis 数据表明，撒哈拉以南非洲地区的居民越来越多地将BTC视为另一种价值储存手段。撒哈拉以南非洲地区的比特币交易量份额为 9.3%，超过所有地区，包括北美（9.0%）和东欧（8.2%）。虽然比特币仍然是该地区排名第一的加密货币，但最新数据似乎表明，领先的加密资产正在转向稳定币。尼日利亚加密货币交易所 Busha 联合创始人 Moyo Sodipo 表示，比特币价格的下跌可能解释了为什么该地区的用户倾向于稳定币。“现在比特币已经失去了很多价值，人们渴望比特币和稳定币之间的多元化。然而，市场变化并没有抑制活动”。",
           "link": "https://panewslab.com/zh/articledetails/3764r41e.html",
           "publishedOn": "2023-09-23T07:51:10.000Z",
-          "wordCount": 393,
+          "wordCount": 391,
           "title": "数据：撒哈拉以南非洲地区的比特币交易量超过北美和东欧，居全球第一",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 9月23日消息，在今日由比特大陆主办的WDMS 2023活动上，比特大陆战略合作伙伴Antalpha宣布，其Antalpha Prime机构数字资产技术平台正式上线内测。Antalpha Prime平台连接机构客户与数字资产，超越风险管理，构筑信任之桥，为矿业生态客户和配置型机构提供机构化全新解决方案： 机构通过 Prime 平台MPC 私钥托管服务保障资产安全，可以选择全球优质底层资产服务商，完成整体资产配置，并可实时监控、审计和追溯资产细节数据，全面提升资产配置能力与安全。",
           "link": "https://panewslab.com/zh/articledetails/cg9x8e38.html",
           "publishedOn": "2023-09-23T07:39:56.000Z",
-          "wordCount": 355,
+          "wordCount": 353,
           "title": "全新Antalpha Prime机构B2B数字资产技术平台上线内测",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 9月23日消息，据Bitcoin.com报道，匈牙利国家税务和海关总署（NAV）周三宣布，从一个逃避缴纳30亿匈牙利福林（约820万美元）增值税（VAT）的犯罪组织手中查获了加密货币。NAV 突击队、Merkur 部署部队和西跨多瑙河刑事局的调查人员同时突袭了 28 个地点，逮捕了嫌疑人，并没收了他们非法获得的资产和加密货币，价值近 4.2 亿福林（115 万美元）。NAV 表示，扣押的加密货币已转移到其控制的专门创建的加密钱包中，但没有提供具体细节。除了加密货币之外，还查获了太阳能电池板、相关逆变器、汽车、现金、房地产和银行账户。该犯罪组织的三名成员已被拘留。",
           "link": "https://panewslab.com/zh/articledetails/znop4gft.html",
           "publishedOn": "2023-09-23T06:35:26.000Z",
-          "wordCount": 355,
+          "wordCount": 353,
           "title": "匈牙利当局在税务欺诈案中没收价值115万美元的加密货币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 9月23日消息，据金融界报道，香港金融管理局总裁余伟文在第五届外滩金融峰会上表示：“很快，我们将推出所谓的‘最简可行产品’，旨在为mBridge（多边央行数字货币桥项目）逐步商业化铺平道路。”余伟文介绍，香港金融管理局、国际清算银行与包括中国人民银行在内的多家中央银行合作开展的mBridge项目正稳步推进。最新试点测试表明，这个中央银行数字货币批发平台能够以更低成本和更高透明度提升跨境支付效率。“我们期待更多中央银行机构加入这一开放平台。希望这一平台能有助于解决跨境支付中长期存在的痛点，提高全球价值链效率”。",
           "link": "https://panewslab.com/zh/articledetails/ey9injl8.html",
           "publishedOn": "2023-09-23T06:26:58.000Z",
-          "wordCount": 331,
+          "wordCount": 329,
           "title": "香港金管局总裁：将推出“最简可行产品”，为多边央行数字货币桥项目逐步商业化铺平道路",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 9月23日消息，OpenSea 在 X 平台表示，昨天 BlockGames 铸币过程中，OpenSea 的许可名单逻辑出现问题，导致某些钱包的铸币量超出了预期限制。目前正在与 BlockGames 团队合作，支持下周全新发布。",
           "link": "https://panewslab.com/zh/articledetails/3i9oy2l2.html",
           "publishedOn": "2023-09-23T05:54:47.000Z",
-          "wordCount": 352,
+          "wordCount": 350,
           "title": "OpenSea：因平台许可名单逻辑出现问题，导致某些钱包BlockGames铸币量超出预期",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 9月23日消息，据Vogue Business报道，为配合奢侈品牌 Gucci 在新任创意总监 Sabato De Sarno 的领导下举办的首场时装秀，Gucci 的“Dream Big”团队（负责在虚拟宇宙和 Web3 中创建品牌项目)）将在超级QQ秀、Roblox和Zepeto三大平台上创建元宇宙秀场。\n此前消息，佳士得 (Christie's) 与奢华时尚品牌 Gucci 合作，推出数字艺术 NFT 系列。",
           "link": "https://panewslab.com/zh/articledetails/chmdvj69.html",
           "publishedOn": "2023-09-23T05:25:38.000Z",
-          "wordCount": 379,
+          "wordCount": 377,
           "title": "Gucci将在超级QQ秀、Roblox和Zepeto三大平台创建元宇宙秀场",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 9月23日消息，针对《华尔街日报》披露Tether再次启动稳定币贷款业务的报道，Tether首席技术官Paolo Ardoino在社交媒体进行回应称，《华尔街日报》在其文章中引述的消息人士既不是Tether发言人，也不是Tether工作人员，Tether当前拥有超过33亿美元的储备金，并且坚信任何年收入超过40亿美元的公司都可以轻松地从其储备中清除其担保债务，而且Tether仍致力于将担保贷款从储备金中去除以减少担保贷款风险。\nPaolo Ardoino补充称，Tether目前收取稳定币发行和赎回费用收入，也正在向其他业务领域扩张，包括通信、人工智能、能源生产和比特币挖矿等，并没有像大多数公司那样向股东提供巨额股息，而是投资于增长且仍然保持谨慎，一步一步做。",
           "link": "https://panewslab.com/zh/articledetails/cf85iwbt.html",
           "publishedOn": "2023-09-23T04:36:18.000Z",
-          "wordCount": 341,
+          "wordCount": 339,
           "title": "Tether CTO：《华尔街日报》报道失实，Tether仍致力于从储备金中去除担保贷款",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 9月23日消息，据Cointelegraph报道，由FTX.US前总裁Brett Harrison创立的加密货币软件公司Architect Financial Technologies旗下子公司Architect Financial Derivatives已获得美国期货协会（NFA）批准注册为独立介绍经纪商，将提供衍生品经纪服务。Harrison表示，该公司正在关注加密衍生品市场和传统市场。据此前消息，Architect于今年1月完成500万美元融资，Coinbase Ventures和Circle Ventures等参投。Harrison在2021年5月至2022年9月期间担任FTX.US总裁。",
           "link": "https://panewslab.com/zh/articledetails/455em0hm.html",
           "publishedOn": "2023-09-23T03:58:32.000Z",
-          "wordCount": 349,
+          "wordCount": 347,
           "title": "FTX.US前总裁旗下加密公司Architect在美国注册为独立介绍经纪商",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 9月23日消息，据CNN报道，美联储发言人在周五证实，美联储系统将在今年年底前裁员约300人。此次裁员是美联储自2010年来的首次裁员。美联储系统目前在12家地区储备银行共有约2.1万名员工。美联储发言人表示，此次裁员对象主要集中在支持性职位，包括不再需要的技术职位。",
           "link": "https://panewslab.com/zh/articledetails/4fgc3fs8.html",
           "publishedOn": "2023-09-23T03:48:25.000Z",
-          "wordCount": 330,
+          "wordCount": 328,
           "title": "美联储将在今年年底前裁员约300人，为2010年以来首次裁员",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 9月23日消息，The Block数据显示，Deribit上价值超过30亿美元的比特币期权和约18亿美元的以太坊期权将于9月29日到期。Deribit首席商务官Luuk Strijers表示，随着期权到期日临近，特别恰逢季度末，这“可能导致巨大的交易量和波动”。",
           "link": "https://panewslab.com/zh/articledetails/l76n2egy.html",
           "publishedOn": "2023-09-23T02:54:23.000Z",
-          "wordCount": 336,
+          "wordCount": 334,
           "title": "30亿美元比特币期权合约将于本月底到期，市场波动或大幅上升",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 9月23日消息，据香港明报报道，虚拟货币平台JPEX涉串谋诈骗案，香港警方截至昨日17点共接获2265名人报案，涉及金额增至约14亿港元。\n香港Web3.0协会会员及立法会议员吴杰庄引述5万多个与JPEX有密切联系的热钱包链上数据称，从上周三证监会发声明警告JPEX无牌后，JPEX平台截至9月22日累计有至少价值约1.67亿港元的虚拟货币被转出JPEX平台，包括价值约263万港元的BTC、价值约2080万港元的ETH、价值约1360万港元的USDT、价值逾1亿港元的USDC等，大部分集中在本周一或之后转出。\n有虚拟货币欺诈分析顾问认为，JPEX近一周大幅提高出金手续费，但仍有大量资金流出，相信转走资金非散户，资金流动不寻常，很大可能为“庄家”所为。据了解，警方会调查资金流向，与金融机构合作追踪犯罪得益，正查会否涉洗黑钱或其他罪行，亦会寻求海外执法机构协助。",
           "link": "https://panewslab.com/zh/articledetails/c2kfmjk1.html",
           "publishedOn": "2023-09-23T02:46:25.000Z",
-          "wordCount": 335,
+          "wordCount": 333,
           "title": "JPEX已有价值约1.67亿港元虚拟货币流出，警方将调查是否涉嫌洗钱",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 9月23日消息，据链上分析师余烬监测，一地址在ARB价格新低以来，可能通过FalconX买入228万枚ARB（约合186万美元）。这228万枚ARB是在9月14日和9月23日从币安提出至FalconX地址，然后从FalconX转入该地址。其成本均价可能为0.81美元。",
           "link": "https://panewslab.com/zh/articledetails/kirc01mg.html",
           "publishedOn": "2023-09-23T02:14:55.000Z",
-          "wordCount": 332,
+          "wordCount": 330,
           "title": "数据：某地址在ARB价格新低以来通过FalconX买入228万枚ARB",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "PANews 9月23日消息，据官方消息，Coinbase已在西班牙央行注册为加密货币交易所和托管钱包提供商。西班牙用户现可使用加密资产托管服务、以法币买卖加密货币以及进行币币交易。",
           "link": "https://panewslab.com/zh/articledetails/944lu5o9.html",
           "publishedOn": "2023-09-23T00:09:55.000Z",
-          "wordCount": 332,
+          "wordCount": 330,
           "title": "Coinbase已在西班牙注册为加密交易所和托管钱包提供商",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
