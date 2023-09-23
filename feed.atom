@@ -1,10 +1,156 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-23T03:12:38.388Z</id>
+    <id>urn:2023-09-23T04:14:23.633Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-23T03:12:38.388Z</updated>
+    <updated>2023-09-23T04:14:23.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[从opBNB和以太坊Layer2的性能差异来理解Rollup的瓶颈与优化方式]]></title>
+        <id>https://www.web3sj.com/?p=89397</id>
+        <link href="https://www.web3sj.com/news/89397/"/>
+        <updated>2023-09-23T03:29:20.000Z</updated>
+        <summary type="html"><![CDATA[在这场由交易所引领的二层网络大战中，BNB Chain 必然不肯甘居人下。早在去年他们就曾上线 zkBNB 测试网，但因为 zkEVM 在性能上还无法满足大规模应用，采用 Optimistic Rollup 方案的 opBNB 成为了实现通用 Layer2 的更优方案。本文旨在对 opBNB 的工作原理与其商业意义进行简要概括，为大家梳理 BSC 公链在模块化区块链时代迈出的重要一步。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联储将在2023年底前裁员约300人]]></title>
+        <id>https://www.hellobtc.com/news/202309/21267.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21267.html"/>
+        <updated>2023-09-23T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[据美国有线电视新闻网报道，美国联邦储备委员会发言人当地时间9月22日证实，美联储系统将在今年年底前裁员约300人。报道称，此次裁员是该机构自2010年来的首次裁员。美联储系统目前有约2.1万名员工。美联储发言人表示，此次裁员对象主要集中在支持性职位，包括不再需要的技术职位。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美SEC因高盛提交报告不合格向其处以600万美元罚款]]></title>
+        <id>https://www.hellobtc.com/news/202309/21266.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21266.html"/>
+        <updated>2023-09-23T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[根据美国证券交易委员会的一份声明，高盛提交的证券交易信息远远没有提供所有必要的交易数据。监管机构称，十年来，高盛提交了不少于22,000份有缺陷的蓝表。SEC在蓝表上发现了43种遗漏或其他错误。因此，总共1.63亿笔交易的提交未达到法律要求的适当披露。 此外，美国证券交易委员会指控高盛没有适当的内部审查流程。因此它无法验证它是否提交了完整且正确的信息。该投资银行并未对SEC的主张提出质疑。它已同意接受谴责和600万美元的罚款。 而有分析认为，高盛的此次罚款，可能是因其大胆进军加密货币市场激怒了监管机构。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港财库局长许正宇：证监会将公布加强资讯发放、加大对市场警示的详细安排]]></title>
+        <id>https://www.hellobtc.com/news/202309/21265.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21265.html"/>
+        <updated>2023-09-23T03:28:00.000Z</updated>
+        <summary type="html"><![CDATA[9月23日消息，香港财经事务及库务局局长许正宇表示，一直十分关注 JPEX 事件发展，并与局内同事和监管机构紧密沟通，从资讯发放、投资者教育、情报收集等各方面，强化和提升工作，稍后香港证监会就如何加强资讯发放、加大对市场警示作用的安排等方面，会有详细公布。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萨尔瓦多总统高级顾问：全世界的人们都在从美元等无担保纸币中撤资，购买比特币]]></title>
+        <id>https://www.hellobtc.com/news/202309/21264.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21264.html"/>
+        <updated>2023-09-23T03:28:00.000Z</updated>
+        <summary type="html"><![CDATA[萨尔瓦多总统Nayib Bukele的高级顾问Max Keiser表示，全世界的人们都在从美元等无担保纸币中撤资，购买比特币。对于数以百万计的人来说，比如在巴西这样的国家，很难获得银行服务，Tether就是一个  匝道 。对于数百万人来说，使用Tether比购买美元更容易，因此Tether已成为美元的替代品。 与我交谈过的华盛顿特区政府官员（人数还在不断增加）告诉我，他们认为Tether是美元的救星，他们正在努力让更多的华盛顿特区政府官员认识到，如果没有Tether，美元在全球经济的很大一部分中的前景将是多么暗淡。Tether正在为美元而战，只有骗子和憎恨自由的人才会有不同的看法。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VanEck主管：Tether是国际上美国国债的最大买家之一]]></title>
+        <id>https://www.hellobtc.com/news/202309/21263.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21263.html"/>
+        <updated>2023-09-23T03:28:00.000Z</updated>
+        <summary type="html"><![CDATA[全球资产管理公司VanEck数字资产策略主管Gabor Gurbacs在社交媒体X上表示，Tether为美元所做的贡献比美国任何一个大牌白骑士加密货币平台都多，Tether是国际上美国国债的最大买家之一。Tether向新兴市场有需要的人们提供USDT，Tether值得更多的信任。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensys和zkSync相继推出Fellowship计划，L2的竞争进入「肉搏阶段」？]]></title>
+        <id>https://www.web3sj.com/?p=89390</id>
+        <link href="https://www.web3sj.com/news/89390/"/>
+        <updated>2023-09-23T03:25:05.000Z</updated>
+        <summary type="html"><![CDATA[值得琢磨的是紧接着第二天，zkSync 也宣布推出为期 4-6 个月的 Fellowship 计划，希望通过个人和团队的技术贡献来推进 zkSync、ZK Stack 和 ZK Credo 的发展。而除了 Fellowship 计划，各大 L2 项目似乎在项目正统性、代码原创性，以及 RaaS 等方方面面都较起了劲。L2 赛道的竞争，似乎就要变成一场残酷的「肉搏战」了。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么Tether继续发放USDT贷款是个危险信号？]]></title>
+        <id>https://www.web3sj.com/?p=89387</id>
+        <link href="https://www.web3sj.com/news/89387/"/>
+        <updated>2023-09-23T03:21:54.000Z</updated>
+        <summary type="html"><![CDATA[这意味着，如果你负责 Tether，有人来找你提议一个能带来更高回报的聪明投资，即使只有一点点风险，你也应该塞住耳朵大喊「不」，然后把他们赶出你的办公室。你可以在不冒风险的情况下赚取数十亿美元的纯利润！没有信用风险（购买国债）、没有期限风险（购买非常短期的国债）、没有流动性风险（如果有人提款可以轻松出售国债），没有任何风险， 5% 的利息。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：Tether是国际上美国国债的最大买家之一]]></title>
+        <id>https://www.hellobtc.com/news/202309/21262.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21262.html"/>
+        <updated>2023-09-23T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[1.VanEck主管：Tether是国际上美国国债的最大买家之一。
+
+2.比特大陆CFO：16家上市公司已经掌控超过30%的比特币算力。
+
+3.CoinGecko：排名前12位的比特币ETF共持有102,619BTC。
+
+4.数据：6月份CEX的全球衍生品交易量增长了13.7%。
+
+5.数据：Base链上已创建合约总数突破2000万个。
+
+6.过去24小时Wintermute Trading在多个CEX之间转移8.3万亿PEPE，PEPE飙升15%。
+
+7.Vitalik Buterin：加密行业必须变得更加去中心化，而且最终须摆脱中心化实体。
+
+8.月初至今Upbit的现货交易量达到230亿美元，是Coinbase的1.6倍。
+
+9.Coinbase曾考虑收购FTX Europe以扩大海外衍生品业务。
+
+10.一巨鲸近期买入228万枚ARB，成本均价或为0.81美元。
+
+11.Tether首席技术官：将于2024年全面实施Tether新全球战略。
+
+12.IntoTheBlock研究主管：Layer 2网络的采用一定程度上导致ETH陷入通货膨胀。
+
+13.Banana Gun公布收入分成机制：至少持有50 BANANA才能产生收入。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30亿美元比特币期权合约将于本月底到期，市场波动或大幅上升]]></title>
+        <id>https://panewslab.com/zh/articledetails/l76n2egy.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l76n2egy.html"/>
+        <updated>2023-09-23T02:54:23.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月23日消息，The Block数据显示，Deribit上价值超过30亿美元的比特币期权和约18亿美元的以太坊期权将于9月29日到期。Deribit首席商务官Luuk Strijers表示，随着期权到期日临近，特别恰逢季度末，这“可能导致巨大的交易量和波动”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JPEX已有价值约1.67亿港元虚拟货币流出，警方将调查是否涉嫌洗钱]]></title>
+        <id>https://panewslab.com/zh/articledetails/c2kfmjk1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/c2kfmjk1.html"/>
+        <updated>2023-09-23T02:46:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月23日消息，据香港明报报道，虚拟货币平台JPEX涉串谋诈骗案，香港警方截至昨日17点共接获2265名人报案，涉及金额增至约14亿港元。
+香港Web3.0协会会员及立法会议员吴杰庄引述5万多个与JPEX有密切联系的热钱包链上数据称，从上周三证监会发声明警告JPEX无牌后，JPEX平台截至9月22日累计有至少价值约1.67亿港元的虚拟货币被转出JPEX平台，包括价值约263万港元的BTC、价值约2080万港元的ETH、价值约1360万港元的USDT、价值逾1亿港元的USDC等，大部分集中在本周一或之后转出。
+有虚拟货币欺诈分析顾问认为，JPEX近一周大幅提高出金手续费，但仍有大量资金流出，相信转走资金非散户，资金流动不寻常，很大可能为“庄家”所为。据了解，警方会调查资金流向，与金融机构合作追踪犯罪得益，正查会否涉洗黑钱或其他罪行，亦会寻求海外执法机构协助。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：某地址在ARB价格新低以来通过FalconX买入228万枚ARB]]></title>
+        <id>https://panewslab.com/zh/articledetails/kirc01mg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kirc01mg.html"/>
+        <updated>2023-09-23T02:14:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月23日消息，据链上分析师余烬监测，一地址在ARB价格新低以来，可能通过FalconX买入228万枚ARB（约合186万美元）。这228万枚ARB是在9月14日和9月23日从币安提出至FalconX地址，然后从FalconX转入该地址。其成本均价可能为0.81美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase已在西班牙注册为加密交易所和托管钱包提供商]]></title>
         <id>https://panewslab.com/zh/articledetails/944lu5o9.html</id>
@@ -186,36 +332,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ERC-7521草案：将用户意图添加至账户抽象钱包]]></title>
-        <id>https://www.web3sj.com/?p=89318</id>
-        <link href="https://www.web3sj.com/news/89318/"/>
-        <updated>2023-09-22T09:08:05.000Z</updated>
-        <summary type="html"><![CDATA[由于这个领域非常新，意图的定义目前有点模糊。 从总体概念来看，这个术语通常用于指用户对期望的链上结果或最终状态的表达。 就本规范而言，意图被定义为由用户设定的一组操作和期望。 这些操作和期望可以与其他意图的操作和期望相结合，以努力满足所有参与方的共同和最大利益。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊验证者激增！Dencun新提案EIP-7514要解决什么问题？]]></title>
-        <id>https://www.web3sj.com/?p=89310</id>
-        <link href="https://www.web3sj.com/news/89310/"/>
-        <updated>2023-09-22T08:28:52.000Z</updated>
-        <summary type="html"><![CDATA[根据来自 beaconcha.in 的数据显示，当前以太坊质押量达到 2584 万枚，相较一年前合并（2022 年 9 月 15 日）前的约 1350 万枚增加逾 90%，与此同时，活跃验证者数量从 49 万增加至目前的 80 万以上。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pantera合伙人：比特币Layer2 Stacks用例和生态系统]]></title>
-        <id>https://www.web3sj.com/?p=89307</id>
-        <link href="https://www.web3sj.com/news/89307/"/>
-        <updated>2023-09-22T07:58:51.000Z</updated>
-        <summary type="html"><![CDATA[在需要比特币区块空间的新活动和交易激增的情况下，其基本的一层协议在可扩展性方面面临着固有的障碍。比特币建立在确保安全的去中心化共识机制之上，其设计本身就对交易吞吐量施加了限制。在网络高度拥堵期间，当活动激增导致确认时间延迟和交易费用升高时，这些限制变得尤其明显。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：前a16z合伙人认为现在是投资加密货币的好时机]]></title>
         <id>https://www.hellobtc.com/news/202309/21259.html</id>
         <link href="https://www.hellobtc.com/news/202309/21259.html"/>
@@ -243,108 +359,6 @@
         <link href="https://www.hellobtc.com/news/202309/21258.html"/>
         <updated>2023-09-21T08:13:00.000Z</updated>
         <summary type="html"><![CDATA[法国巴黎圣日耳曼足球俱乐部正在与赞助商Crypto.com合作，推出由人工智能工具共同制作的比赛日海报，球迷可以将这些海报作为NFT收集起来。 艺术家Benjamin Benichou在创作过程中使用了生成式人工智能，他为PSG设计了这一系列海报。在总共1,970种化身中，最终只有7种被选中通过NFT系列发布。 巴黎圣日耳曼足球俱乐部将在新赛季的七场比赛中展示这些海报，从9月24日对阵马赛奥林匹克队的法甲联赛开始。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神州信息携手邮储银行上线首个基于数字人民币智能合约的预付费产品]]></title>
-        <id>https://www.hellobtc.com/news/202309/21257.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21257.html"/>
-        <updated>2023-09-21T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[从公司处获悉，神州信息旗下神州方圆打造的吾卡预付式消费服务平台与邮储银行合作，正式上线了首个基于数字人民币智能合约的预付费产品。吾卡可实现向商户提供发卡、监管、营销、会员管理等多种经营赋能。本次合作把数字人民币智能合约引入了商户经营过程，推动了数字人民币在预付领域的推广和使用。（e公司）]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coin Metrics联创：如果稳定币是主权实体，那么将是美国国债的第16大持有者]]></title>
-        <id>https://www.hellobtc.com/news/202309/21256.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21256.html"/>
-        <updated>2023-09-21T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[CastleIsland Ventures合伙人、Coin Metrics联合创始人Nic Carter表示，如果稳定币是一个主权实体，那么它们将是美国国债的第16大持有者。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国议员：Web3代表了一种范式转变，重构了互联网结构]]></title>
-        <id>https://www.hellobtc.com/news/202309/21255.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21255.html"/>
-        <updated>2023-09-21T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[9月20日，八位英国上议院议员和政治家通过元宇宙向全球领导人发表了关于Web3技术发展带来的机遇和挑战的演讲。英国议员兼区块链技术全党议会小组（APPG）主席Natalie Elphicke以独特的化身出现在元宇宙中，并强调，Web3代表了一种范式转变，重构了互联网的结构。 Elphicke在随后主题演讲中表示，英国有潜力成为一个支持区块链的“智能国家”，但该国在获得区块链相关就业机会方面落后于竞争对手。英国的首要任务是Web3行业增长和劳动力规划，其中一部分是为了让英国成为对Web3创始人、开发人员、程序员和公司来说有吸引力的工作中心。Elphicke呼吁制定更多国家区块链路线图以及各国之间的合作。 Elphicke还提到DeFi，称，它为监管机构和政策制定者带来了独特的挑战和机遇，确保这些生态系统的透明度、可审计性和问责制至关重要。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高盛将美联储首次降息预期从此前预计的2024年第二季度推迟至2024年第四季度]]></title>
-        <id>https://www.hellobtc.com/news/202309/21254.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21254.html"/>
-        <updated>2023-09-21T06:56:00.000Z</updated>
-        <summary type="html"><![CDATA[高盛将美联储首次降息预期从此前预计的2024年第二季度推迟至2024年第四季度。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：Optimism向7名购买者进行约1.16亿枚OP代币销售]]></title>
-        <id>https://www.hellobtc.com/news/202309/21253.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21253.html"/>
-        <updated>2023-09-21T03:31:00.000Z</updated>
-        <summary type="html"><![CDATA[1.Optimism：已向7名购买者进行约1.16亿枚OP代币销售(锁仓2年)。
-
-2.MakerDAO再次增加1.91亿美元RWA资产，RWA总资产超29亿美元。
-
-3.新加坡最大洗钱案涉案资产总价值扩大至24亿新元，价值3800万新元的加密货币被扣押。
-
-4.Crypto Quant CEO：韩国人均加密资产持有量为570万美元。
-
-5.黄立成发起以1100万枚APE购买Yuga资产的提案以64.92%的赞成率获得通过。
-
-6.DefiLlama创始人：friend.tech及分叉版本均将用户密钥存储在前端，易导致资金被窃取。
-
-7.数据：比特币OTC交易量已降至历史低位水平，与2018年年底相当。
-
-8.矿池ViaBTC控制着超过51%的Zcash算力。
-
-9.报告：2032年全球加密货币挖矿硬件市场规模将超过50亿美元。
-
-10.交易所的比特币供应百分比降至年内低点。
-
-11.Discord交易机器人None Trading宣布停运，代币24小时暴跌逾70%。
-
-12.Uniswap基金会近一年资助72个项目，承诺资金达450万美元。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：friend.tech“Keys”总市值突破1亿美元，接近Azuki总市值的两倍]]></title>
-        <id>https://www.hellobtc.com/news/202309/21252.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21252.html"/>
-        <updated>2023-09-20T03:02:00.000Z</updated>
-        <summary type="html"><![CDATA[1.friend.tech“Keys”总市值突破1亿美元，接近Azuki总市值的两倍。
-
-2.数据：Base网络TVL超越zkSync Era，已达5.38亿美元。
-
-3.Chainalysis：印度成为全球第二大加密市场，年交易额近2689亿美元。
-
-4.香港署理总督察：JPEX案中不排除更多人被捕，拟充公6700万港元可疑犯罪所得。
-
-5.Coinbase发起草根运动，推动美国立法。
-
-6.三部门印发加强反洗钱协作配合意见，全面推进打击治理洗钱犯罪。
-
-7.Arbitrum奥德赛将于下周重新上线，与Galxe合作并持续7周。
-
-8.数据：Base自上线以来已产生超过420万美元的排序器利润。
-
-9.Mark Cuban将其加密被盗事件归咎于谷歌搜索中的盗版MetaMask。
-
-10.ZachXBT：截止目前，Balancer被盗资金约23.8万美元。
-
-11.新加坡金管局第四次执法报告：2023年和24年将把解决数字资产生态系统中不当行为作为执法重点。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>

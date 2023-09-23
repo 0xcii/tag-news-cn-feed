@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 191,
+          "wordCount": 198,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 158,
+          "wordCount": 150,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 131,
+          "wordCount": 133,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=89397",
+          "author": "Gao",
+          "description": "在这场由交易所引领的二层网络大战中，BNB Chain 必然不肯甘居人下。早在去年他们就曾上线 zkBNB 测试网，但因为 zkEVM 在性能上还无法满足大规模应用，采用 Optimistic Rollup 方案的 opBNB 成为了实现通用 Layer2 的更优方案。本文旨在对 opBNB 的工作原理与其商业意义进行简要概括，为大家梳理 BSC 公链在模块化区块链时代迈出的重要一步。",
+          "link": "https://www.web3sj.com/news/89397/",
+          "publishedOn": "2023-09-23T03:29:20.000Z",
+          "wordCount": 1634,
+          "title": "从opBNB和以太坊Layer2的性能差异来理解Rollup的瓶颈与优化方式",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695439747588.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89390",
+          "author": "Gao",
+          "description": "值得琢磨的是紧接着第二天，zkSync 也宣布推出为期 4-6 个月的 Fellowship 计划，希望通过个人和团队的技术贡献来推进 zkSync、ZK Stack 和 ZK Credo 的发展。而除了 Fellowship 计划，各大 L2 项目似乎在项目正统性、代码原创性，以及 RaaS 等方方面面都较起了劲。L2 赛道的竞争，似乎就要变成一场残酷的「肉搏战」了。",
+          "link": "https://www.web3sj.com/news/89390/",
+          "publishedOn": "2023-09-23T03:25:05.000Z",
+          "wordCount": 1218,
+          "title": "Consensys和zkSync相继推出Fellowship计划，L2的竞争进入「肉搏阶段」？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695439492233.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89387",
+          "author": "Gao",
+          "description": "这意味着，如果你负责 Tether，有人来找你提议一个能带来更高回报的聪明投资，即使只有一点点风险，你也应该塞住耳朵大喊「不」，然后把他们赶出你的办公室。你可以在不冒风险的情况下赚取数十亿美元的纯利润！没有信用风险（购买国债）、没有期限风险（购买非常短期的国债）、没有流动性风险（如果有人提款可以轻松出售国债），没有任何风险， 5% 的利息。",
+          "link": "https://www.web3sj.com/news/89387/",
+          "publishedOn": "2023-09-23T03:21:54.000Z",
+          "wordCount": 907,
+          "title": "为什么Tether继续发放USDT贷款是个危险信号？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695439291770.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=89371",
           "author": "Gao",
           "description": "目前正处于美国的加密会议季之中，因此预计正常的「机构即将到来」或「机构将采用什么技术或协议」将渗透到所有会议中。根本问题是，在美国，「机构」一词包含了太多内容，您必须非常细致地了解不同类型的机构与加密货币相关的情况。",
           "link": "https://www.web3sj.com/news/89371/",
           "publishedOn": "2023-09-22T13:32:15.000Z",
-          "wordCount": 844,
+          "wordCount": 869,
           "title": "美国不同类型的机构如何看待加密货币？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695389521255.png"
         },
@@ -58,7 +88,7 @@
           "description": "这篇主要是想聊聊从一级市场角度观察到的近两个月的一些市场现象，主要集中于衍生品，Ton，游戏与 ZK 这几个相对较火的赛道。相信大家应该看过不少 2049 小作文了，大多数文章整体中性略带一些悲观，比如 VC+ 项目方快要没钱了，破圈应用依旧缺乏……这些说的都对，最近两个月从一级市场角度我们也能清晰的感受到市场上的项目变少了，前几个月每周能聊差不多 20 个，最近跌倒了 10 个上下，出现一个好项目各个 VC 都在抢，颇有点「狼多肉少」即视感。至于二级市场么，就更不用说了……",
           "link": "https://www.web3sj.com/news/89368/",
           "publishedOn": "2023-09-22T13:26:10.000Z",
-          "wordCount": 1137,
+          "wordCount": 1140,
           "title": "TOKEN2049之后浅谈衍生品、Ton、游戏与ZK",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1695371141867.jpg"
         },
@@ -68,7 +98,7 @@
           "description": "在进一步深入探讨这个主题之前，重要的是要强调塑造 Web3 领域风险投资和创新格局与传统领域风投的差别。Web3 出现在金融危机之后，比特币最先奠定了行业发展的基础，在这基础之上以太坊于 2015 年推出，标志着 Web3 行业进入了早期阶段。2020 年以来行业相对取得较大进展，但前方的任务仍然艰巨，Web3 的新颖使其需要更广泛的验证，从而将 Web3 无需信任和去中心化的理念传播。",
           "link": "https://www.web3sj.com/news/89361/",
           "publishedOn": "2023-09-22T13:23:42.000Z",
-          "wordCount": 1023,
+          "wordCount": 1030,
           "title": "孵化器和加速器如何深刻影响Web3的创业格局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695389009944.png"
         },
@@ -78,7 +108,7 @@
           "description": "DAO 是加密运动中的公司版本，但具有更多的民主和（理论上的）无领导者。购买 DAO 的加密资产的任何人 - 在 Nouns DAO 的情况下，是 NFT - 都有权投票决定该团体如何使用其资金和做出决策。但是，这些团体的章程不断发展，可能会很快变得混乱。",
           "link": "https://www.web3sj.com/daonews/89358/",
           "publishedOn": "2023-09-22T12:22:11.000Z",
-          "wordCount": 1227,
+          "wordCount": 1243,
           "title": "Nouns的2700万美元分叉：贪婪的交易者和区块链理想主义者的有害混合",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695385313709.png"
         },
@@ -88,7 +118,7 @@
           "description": "比特小鹿开始向B. Riley发行并出售1.5亿股A类普通股，此前贝莱德等机构增持其股票。以太坊最新会议：Dencun主网激活或不会在今年进行，因Holesky启动失败影响进程。数据：42540个地址尚未认领7060万枚ARB空投，约占空投总额的6%。",
           "link": "https://www.web3sj.com/news/89355/",
           "publishedOn": "2023-09-22T11:55:37.000Z",
-          "wordCount": 952,
+          "wordCount": 948,
           "title": "Web3世界日报（2023-9.22）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092211535171.jpg"
         },
@@ -98,7 +128,7 @@
           "description": "围绕网络性能和宕机的叙述已经发生了转变。本地费用市场等解决方案帮助改善了网络运行的稳定性，还提高了 Solana 原生代币 SOL 的价值。状态压缩（state compression）与压缩 NFT（compressed NFT）等技术正在带来新的用例，而且赠款计划与 Solang、Neon EVM 和 AI 等新的催化剂也即将出现。",
           "link": "https://www.web3sj.com/news/89345/",
           "publishedOn": "2023-09-22T11:31:56.000Z",
-          "wordCount": 1110,
+          "wordCount": 1135,
           "title": "Bankless：柳暗花明，Solana的过去、现在与未来",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695382303867.png"
         },
@@ -108,39 +138,9 @@
           "description": "Lens Protocol 已经在以太坊上确立了自己作为领先的 SocialFi 平台的地位。与竞争对手相比，Lens 在增长和用户参与方面表现出色。一个具有类似社交图谱概念的社交合约 Fracaster 目前拥有 17,286 个活跃帐户，而 Lens Protocol 则拥有惊人的 119,241 个活跃帐户，明显超过竞争对手。",
           "link": "https://www.web3sj.com/project/89336/",
           "publishedOn": "2023-09-22T11:28:54.000Z",
-          "wordCount": 1125,
+          "wordCount": 1093,
           "title": "Lens打造Layer 1社交链的雄心：社交老牌原生生态突围抗衡friend.tech和电报",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695382110561.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89318",
-          "author": "Gao",
-          "description": "由于这个领域非常新，意图的定义目前有点模糊。 从总体概念来看，这个术语通常用于指用户对期望的链上结果或最终状态的表达。 就本规范而言，意图被定义为由用户设定的一组操作和期望。 这些操作和期望可以与其他意图的操作和期望相结合，以努力满足所有参与方的共同和最大利益。",
-          "link": "https://www.web3sj.com/news/89318/",
-          "publishedOn": "2023-09-22T09:08:05.000Z",
-          "wordCount": 902,
-          "title": "ERC-7521草案：将用户意图添加至账户抽象钱包",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/5-1695278196022.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89310",
-          "author": "Gao",
-          "description": "根据来自 beaconcha.in 的数据显示，当前以太坊质押量达到 2584 万枚，相较一年前合并（2022 年 9 月 15 日）前的约 1350 万枚增加逾 90%，与此同时，活跃验证者数量从 49 万增加至目前的 80 万以上。",
-          "link": "https://www.web3sj.com/news/89310/",
-          "publishedOn": "2023-09-22T08:28:52.000Z",
-          "wordCount": 1053,
-          "title": "以太坊验证者激增！Dencun新提案EIP-7514要解决什么问题？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695371318901.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89307",
-          "author": "Gao",
-          "description": "在需要比特币区块空间的新活动和交易激增的情况下，其基本的一层协议在可扩展性方面面临着固有的障碍。比特币建立在确保安全的去中心化共识机制之上，其设计本身就对交易吞吐量施加了限制。在网络高度拥堵期间，当活动激增导致确认时间延迟和交易费用升高时，这些限制变得尤其明显。",
-          "link": "https://www.web3sj.com/news/89307/",
-          "publishedOn": "2023-09-22T07:58:51.000Z",
-          "wordCount": 1242,
-          "title": "Pantera合伙人：比特币Layer2 Stacks用例和生态系统",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695369516971.png"
         }
       ]
     },
@@ -149,6 +149,36 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/l76n2egy.html",
+          "author": "PA一线",
+          "description": "PANews 9月23日消息，The Block数据显示，Deribit上价值超过30亿美元的比特币期权和约18亿美元的以太坊期权将于9月29日到期。Deribit首席商务官Luuk Strijers表示，随着期权到期日临近，特别恰逢季度末，这“可能导致巨大的交易量和波动”。",
+          "link": "https://panewslab.com/zh/articledetails/l76n2egy.html",
+          "publishedOn": "2023-09-23T02:54:23.000Z",
+          "wordCount": 336,
+          "title": "30亿美元比特币期权合约将于本月底到期，市场波动或大幅上升",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c2kfmjk1.html",
+          "author": "PA一线",
+          "description": "PANews 9月23日消息，据香港明报报道，虚拟货币平台JPEX涉串谋诈骗案，香港警方截至昨日17点共接获2265名人报案，涉及金额增至约14亿港元。\n香港Web3.0协会会员及立法会议员吴杰庄引述5万多个与JPEX有密切联系的热钱包链上数据称，从上周三证监会发声明警告JPEX无牌后，JPEX平台截至9月22日累计有至少价值约1.67亿港元的虚拟货币被转出JPEX平台，包括价值约263万港元的BTC、价值约2080万港元的ETH、价值约1360万港元的USDT、价值逾1亿港元的USDC等，大部分集中在本周一或之后转出。\n有虚拟货币欺诈分析顾问认为，JPEX近一周大幅提高出金手续费，但仍有大量资金流出，相信转走资金非散户，资金流动不寻常，很大可能为“庄家”所为。据了解，警方会调查资金流向，与金融机构合作追踪犯罪得益，正查会否涉洗黑钱或其他罪行，亦会寻求海外执法机构协助。",
+          "link": "https://panewslab.com/zh/articledetails/c2kfmjk1.html",
+          "publishedOn": "2023-09-23T02:46:25.000Z",
+          "wordCount": 335,
+          "title": "JPEX已有价值约1.67亿港元虚拟货币流出，警方将调查是否涉嫌洗钱",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/kirc01mg.html",
+          "author": "PA一线",
+          "description": "PANews 9月23日消息，据链上分析师余烬监测，一地址在ARB价格新低以来，可能通过FalconX买入228万枚ARB（约合186万美元）。这228万枚ARB是在9月14日和9月23日从币安提出至FalconX地址，然后从FalconX转入该地址。其成本均价可能为0.81美元。",
+          "link": "https://panewslab.com/zh/articledetails/kirc01mg.html",
+          "publishedOn": "2023-09-23T02:14:55.000Z",
+          "wordCount": 332,
+          "title": "数据：某地址在ARB价格新低以来通过FalconX买入228万枚ARB",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/944lu5o9.html",
           "author": "PA一线",
@@ -237,12 +267,72 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202309/21267.html",
+          "author": null,
+          "description": "据美国有线电视新闻网报道，美国联邦储备委员会发言人当地时间9月22日证实，美联储系统将在今年年底前裁员约300人。报道称，此次裁员是该机构自2010年来的首次裁员。美联储系统目前有约2.1万名员工。美联储发言人表示，此次裁员对象主要集中在支持性职位，包括不再需要的技术职位。",
+          "link": "https://www.hellobtc.com/news/202309/21267.html",
+          "publishedOn": "2023-09-23T03:29:00.000Z",
+          "wordCount": 312,
+          "title": "美联储将在2023年底前裁员约300人",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21266.html",
+          "author": null,
+          "description": "根据美国证券交易委员会的一份声明，高盛提交的证券交易信息远远没有提供所有必要的交易数据。监管机构称，十年来，高盛提交了不少于22,000份有缺陷的蓝表。SEC在蓝表上发现了43种遗漏或其他错误。因此，总共1.63亿笔交易的提交未达到法律要求的适当披露。 此外，美国证券交易委员会指控高盛没有适当的内部审查流程。因此它无法验证它是否提交了完整且正确的信息。该投资银行并未对SEC的主张提出质疑。它已同意接受谴责和600万美元的罚款。 而有分析认为，高盛的此次罚款，可能是因其大胆进军加密货币市场激怒了监管机构。",
+          "link": "https://www.hellobtc.com/news/202309/21266.html",
+          "publishedOn": "2023-09-23T03:29:00.000Z",
+          "wordCount": 309,
+          "title": "美SEC因高盛提交报告不合格向其处以600万美元罚款",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21265.html",
+          "author": null,
+          "description": "9月23日消息，香港财经事务及库务局局长许正宇表示，一直十分关注 JPEX 事件发展，并与局内同事和监管机构紧密沟通，从资讯发放、投资者教育、情报收集等各方面，强化和提升工作，稍后香港证监会就如何加强资讯发放、加大对市场警示作用的安排等方面，会有详细公布。",
+          "link": "https://www.hellobtc.com/news/202309/21265.html",
+          "publishedOn": "2023-09-23T03:28:00.000Z",
+          "wordCount": 308,
+          "title": "香港财库局长许正宇：证监会将公布加强资讯发放、加大对市场警示的详细安排",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21264.html",
+          "author": null,
+          "description": "萨尔瓦多总统Nayib Bukele的高级顾问Max Keiser表示，全世界的人们都在从美元等无担保纸币中撤资，购买比特币。对于数以百万计的人来说，比如在巴西这样的国家，很难获得银行服务，Tether就是一个  匝道 。对于数百万人来说，使用Tether比购买美元更容易，因此Tether已成为美元的替代品。 与我交谈过的华盛顿特区政府官员（人数还在不断增加）告诉我，他们认为Tether是美元的救星，他们正在努力让更多的华盛顿特区政府官员认识到，如果没有Tether，美元在全球经济的很大一部分中的前景将是多么暗淡。Tether正在为美元而战，只有骗子和憎恨自由的人才会有不同的看法。",
+          "link": "https://www.hellobtc.com/news/202309/21264.html",
+          "publishedOn": "2023-09-23T03:28:00.000Z",
+          "wordCount": 312,
+          "title": "萨尔瓦多总统高级顾问：全世界的人们都在从美元等无担保纸币中撤资，购买比特币",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21263.html",
+          "author": null,
+          "description": "全球资产管理公司VanEck数字资产策略主管Gabor Gurbacs在社交媒体X上表示，Tether为美元所做的贡献比美国任何一个大牌白骑士加密货币平台都多，Tether是国际上美国国债的最大买家之一。Tether向新兴市场有需要的人们提供USDT，Tether值得更多的信任。",
+          "link": "https://www.hellobtc.com/news/202309/21263.html",
+          "publishedOn": "2023-09-23T03:28:00.000Z",
+          "wordCount": 307,
+          "title": "VanEck主管：Tether是国际上美国国债的最大买家之一",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202309/21262.html",
+          "author": null,
+          "description": "1.VanEck主管：Tether是国际上美国国债的最大买家之一。\n\n2.比特大陆CFO：16家上市公司已经掌控超过30%的比特币算力。\n\n3.CoinGecko：排名前12位的比特币ETF共持有102,619BTC。\n\n4.数据：6月份CEX的全球衍生品交易量增长了13.7%。\n\n5.数据：Base链上已创建合约总数突破2000万个。\n\n6.过去24小时Wintermute Trading在多个CEX之间转移8.3万亿PEPE，PEPE飙升15%。\n\n7.Vitalik Buterin：加密行业必须变得更加去中心化，而且最终须摆脱中心化实体。\n\n8.月初至今Upbit的现货交易量达到230亿美元，是Coinbase的1.6倍。\n\n9.Coinbase曾考虑收购FTX Europe以扩大海外衍生品业务。\n\n10.一巨鲸近期买入228万枚ARB，成本均价或为0.81美元。\n\n11.Tether首席技术官：将于2024年全面实施Tether新全球战略。\n\n12.IntoTheBlock研究主管：Layer 2网络的采用一定程度上导致ETH陷入通货膨胀。\n\n13.Banana Gun公布收入分成机制：至少持有50 BANANA才能产生收入。",
+          "link": "https://www.hellobtc.com/news/202309/21262.html",
+          "publishedOn": "2023-09-23T03:05:00.000Z",
+          "wordCount": 330,
+          "title": "白话区块链早报：Tether是国际上美国国债的最大买家之一",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202309/21261.html",
           "author": null,
           "description": "9月22日消息，Nansen在其社交平台表示，因一个第三方供应商漏洞遭攻击，致使部分Nansen用户数据泄露。 据初步调查，6.8%的Nansen用户受到影响。这些用户的电子邮件地址被泄露，一小部分用户的密码哈希也被泄露，此外，部分群体的区块链地址被泄露。作为安全预防措施，Nansen已通过support@nansen.ai邮箱在9月21日下午5点至9点（UTC时间）之间，要求受影响的用户重置密码。",
           "link": "https://www.hellobtc.com/news/202309/21261.html",
           "publishedOn": "2023-09-22T11:20:00.000Z",
-          "wordCount": 308,
+          "wordCount": 307,
           "title": "Nansen：第三方供应商遭攻击致使部分用户数据泄露",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -274,66 +364,6 @@
           "publishedOn": "2023-09-21T08:13:00.000Z",
           "wordCount": 318,
           "title": "巴黎圣日耳曼队免费赠送AI生成的NFT海报",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21257.html",
-          "author": null,
-          "description": "从公司处获悉，神州信息旗下神州方圆打造的吾卡预付式消费服务平台与邮储银行合作，正式上线了首个基于数字人民币智能合约的预付费产品。吾卡可实现向商户提供发卡、监管、营销、会员管理等多种经营赋能。本次合作把数字人民币智能合约引入了商户经营过程，推动了数字人民币在预付领域的推广和使用。（e公司）",
-          "link": "https://www.hellobtc.com/news/202309/21257.html",
-          "publishedOn": "2023-09-21T06:57:00.000Z",
-          "wordCount": 308,
-          "title": "神州信息携手邮储银行上线首个基于数字人民币智能合约的预付费产品",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21256.html",
-          "author": null,
-          "description": "CastleIsland Ventures合伙人、Coin Metrics联合创始人Nic Carter表示，如果稳定币是一个主权实体，那么它们将是美国国债的第16大持有者。",
-          "link": "https://www.hellobtc.com/news/202309/21256.html",
-          "publishedOn": "2023-09-21T06:57:00.000Z",
-          "wordCount": 313,
-          "title": "Coin Metrics联创：如果稳定币是主权实体，那么将是美国国债的第16大持有者",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21255.html",
-          "author": null,
-          "description": "9月20日，八位英国上议院议员和政治家通过元宇宙向全球领导人发表了关于Web3技术发展带来的机遇和挑战的演讲。英国议员兼区块链技术全党议会小组（APPG）主席Natalie Elphicke以独特的化身出现在元宇宙中，并强调，Web3代表了一种范式转变，重构了互联网的结构。 Elphicke在随后主题演讲中表示，英国有潜力成为一个支持区块链的“智能国家”，但该国在获得区块链相关就业机会方面落后于竞争对手。英国的首要任务是Web3行业增长和劳动力规划，其中一部分是为了让英国成为对Web3创始人、开发人员、程序员和公司来说有吸引力的工作中心。Elphicke呼吁制定更多国家区块链路线图以及各国之间的合作。 Elphicke还提到DeFi，称，它为监管机构和政策制定者带来了独特的挑战和机遇，确保这些生态系统的透明度、可审计性和问责制至关重要。",
-          "link": "https://www.hellobtc.com/news/202309/21255.html",
-          "publishedOn": "2023-09-21T06:57:00.000Z",
-          "wordCount": 315,
-          "title": "英国议员：Web3代表了一种范式转变，重构了互联网结构",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21254.html",
-          "author": null,
-          "description": "高盛将美联储首次降息预期从此前预计的2024年第二季度推迟至2024年第四季度。",
-          "link": "https://www.hellobtc.com/news/202309/21254.html",
-          "publishedOn": "2023-09-21T06:56:00.000Z",
-          "wordCount": 305,
-          "title": "高盛将美联储首次降息预期从此前预计的2024年第二季度推迟至2024年第四季度",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21253.html",
-          "author": null,
-          "description": "1.Optimism：已向7名购买者进行约1.16亿枚OP代币销售(锁仓2年)。\n\n2.MakerDAO再次增加1.91亿美元RWA资产，RWA总资产超29亿美元。\n\n3.新加坡最大洗钱案涉案资产总价值扩大至24亿新元，价值3800万新元的加密货币被扣押。\n\n4.Crypto Quant CEO：韩国人均加密资产持有量为570万美元。\n\n5.黄立成发起以1100万枚APE购买Yuga资产的提案以64.92%的赞成率获得通过。\n\n6.DefiLlama创始人：friend.tech及分叉版本均将用户密钥存储在前端，易导致资金被窃取。\n\n7.数据：比特币OTC交易量已降至历史低位水平，与2018年年底相当。\n\n8.矿池ViaBTC控制着超过51%的Zcash算力。\n\n9.报告：2032年全球加密货币挖矿硬件市场规模将超过50亿美元。\n\n10.交易所的比特币供应百分比降至年内低点。\n\n11.Discord交易机器人None Trading宣布停运，代币24小时暴跌逾70%。\n\n12.Uniswap基金会近一年资助72个项目，承诺资金达450万美元。",
-          "link": "https://www.hellobtc.com/news/202309/21253.html",
-          "publishedOn": "2023-09-21T03:31:00.000Z",
-          "wordCount": 325,
-          "title": "白话区块链早报：Optimism向7名购买者进行约1.16亿枚OP代币销售",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21252.html",
-          "author": null,
-          "description": "1.friend.tech“Keys”总市值突破1亿美元，接近Azuki总市值的两倍。\n\n2.数据：Base网络TVL超越zkSync Era，已达5.38亿美元。\n\n3.Chainalysis：印度成为全球第二大加密市场，年交易额近2689亿美元。\n\n4.香港署理总督察：JPEX案中不排除更多人被捕，拟充公6700万港元可疑犯罪所得。\n\n5.Coinbase发起草根运动，推动美国立法。\n\n6.三部门印发加强反洗钱协作配合意见，全面推进打击治理洗钱犯罪。\n\n7.Arbitrum奥德赛将于下周重新上线，与Galxe合作并持续7周。\n\n8.数据：Base自上线以来已产生超过420万美元的排序器利润。\n\n9.Mark Cuban将其加密被盗事件归咎于谷歌搜索中的盗版MetaMask。\n\n10.ZachXBT：截止目前，Balancer被盗资金约23.8万美元。\n\n11.新加坡金管局第四次执法报告：2023年和24年将把解决数字资产生态系统中不当行为作为执法重点。",
-          "link": "https://www.hellobtc.com/news/202309/21252.html",
-          "publishedOn": "2023-09-20T03:02:00.000Z",
-          "wordCount": 319,
-          "title": "白话区块链早报：friend.tech“Keys”总市值突破1亿美元，接近Azuki总市值的两倍",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
