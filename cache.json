@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 193,
+          "wordCount": 192,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 148,
+          "wordCount": 154,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 129,
+          "wordCount": 125,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         }
@@ -149,6 +149,16 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/jagmc2mb.html",
+          "author": "PA一线",
+          "description": "PANews 9月24日消息，据@Definalist 在X平台表示，有诈骗者将假 APT 代币存入韩国最大交易所 Upbit，在假币被存入大量用户账户后，有不少用户将其直接出售。有消息称Upbit客户中心一直在给出售存入假APT代币的用户打电话，要求退款。据悉，今日下午4点Upbit表示停止Aptos充值和提现，理由是钱包系统维护，但有多个韩国用户声称他们收到了APT代币。\n经@mingmingbbs分析认为，似乎是由于未检查类型参数，并且所有相同的功能转移都被识别为相同的 APT 原生代币。幸运的是，虚假的 APT 代币的小数点位数为 6，而不是真正 APT 小数点的 8 位数，所以导致用户收到的虚假 APT 价值仅为 250 美元，而不是 25,000 美元。如果诈骗代币的小数点为 8，则所有用户将收到 25,000 美元，而不是 250 美元，导致数千名用户倾销价值 25,000 美元的 APT，造成严重破坏。",
+          "link": "https://panewslab.com/zh/articledetails/jagmc2mb.html",
+          "publishedOn": "2023-09-24T13:30:36.000Z",
+          "wordCount": 394,
+          "title": "虚假APT在Upbit被出售，平台向用户紧急追回",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/n5r7jn2y.html",
           "author": "PA一线",
@@ -337,16 +347,6 @@
           "publishedOn": "2023-09-24T01:04:25.000Z",
           "wordCount": 346,
           "title": "赵长鹏：如果市场是可预测的，那么它就不再是市场，也不再有利润",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/tz49q7jz.html",
-          "author": "PA一线",
-          "description": "PANews 9月24日消息，Starknet在推特发文介绍Starkware探索团队新推出的合成平台Satoru Starknet。该项目旨在为Starknet建立一个基于Cairo语言编写的去中心化合成平台，灵感来自GMX V2的设计且不会受Solidity限制。其体系结构具有模块化特点，不同的模块相互作用。路由是用户的主要入口。据悉，该项目声称没有代币（no token），没有Discord，100%开源以供所有人构建产品；长期目标是像其他探索项目一样自治，由社区维护。首个支持端到端的最小可行产品（MVP）将于10月底发布。据悉，该项目声称没有代币，没有Discord，100%开源以供所有人构建产品。长期目标是像其他探索项目一样自治，由社区维护。",
-          "link": "https://panewslab.com/zh/articledetails/tz49q7jz.html",
-          "publishedOn": "2023-09-24T00:58:55.000Z",
-          "wordCount": 357,
-          "title": "Starkware推出新合成平台Satoru Starknet，无代币且完全开源",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
