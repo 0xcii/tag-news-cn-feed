@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 190,
+          "wordCount": 195,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 154,
+          "wordCount": 146,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 131,
+          "wordCount": 125,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=89609",
+          "author": "Gao",
+          "description": "Polkadot 在本次会议上宣布将计划在接下来的几周内开始试验一项全新的、具有变革性质的网络扩展方案——异步支持。所谓「异步支持」，指的便是「Asynchronous backin」，通常指一种允许系统组件（如验证者、节点或服务）在不需要实时或同步交互的情况下，进行操作的技术或机制。",
+          "link": "https://www.web3sj.com/news/89609/",
+          "publishedOn": "2023-09-26T04:07:15.000Z",
+          "wordCount": 1018,
+          "title": "「1000 条平行链和百万 TPS」，Polkadot欲寻求生态第二春？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695701224521.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89606",
+          "author": "Gao",
+          "description": "如果历史是前兆，那么以太坊将吞噬整个区块链领域，而不是以太坊的一部分最终会成为以太坊的第二层解决方案。我相信 CELO 利益相关者最近决定将其运营转为以太坊的第二层解决方案只是类似整合和转变的开始，最终将我们引向以太坊成为所有区块链的第一层解决方案的终点状态。",
+          "link": "https://www.web3sj.com/news/89606/",
+          "publishedOn": "2023-09-26T03:58:40.000Z",
+          "wordCount": 880,
+          "title": "以太坊正在吞噬所有的区块链",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695700665941.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89602",
+          "author": "Gao",
+          "description": "IOS 用户的 180 天 LTV(Life-Time Value) 是 5 刀，我们在北美 Facebook 上的 CAC( 获客成本 ) 是 4 刀，每日消耗是 80k，数学上这是一门可以跑「正 ROI」（Return of Investment）生意嘛？传统的移动应用买量更像是科学而非艺术，环节的每一步都是可量化的。营销人员和 UA 专家可以将以上的信息输入一张长期使用的表格中，然后预测 LTV-to-CAC 的关系，从而预测某款移动应用 / 游戏的商业模型是否是可盈利的。",
+          "link": "https://www.web3sj.com/news/89602/",
+          "publishedOn": "2023-09-26T03:38:23.000Z",
+          "wordCount": 1169,
+          "title": "Web3怎么科学地做用户获取？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695699484329.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=89570",
           "author": "Gao",
           "description": "GnosisChain 为何方神圣？官方解释为一条构建在 xDAI 上的独立公链，其实和 BSC、Avalanche 等目标做以太坊杀手的等效 EVM 链。Spark Protocol 在大家都议论 MakerDAO 要出逃以太坊的关键期，选择和以太坊的一条名不见经传的竞争链深度绑定，着实担心 Vitalik 再来一次 MKR 砸盘泄愤。",
           "link": "https://www.web3sj.com/definews/89570/",
           "publishedOn": "2023-09-25T12:42:41.000Z",
-          "wordCount": 1132,
+          "wordCount": 1110,
           "title": "MakerDAO为何选择牵手Gnosis？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695645740049.png"
         },
@@ -58,7 +88,7 @@
           "description": "V神：CBDC可能不会是私人数字资产，大多已成为传统银行体系的“前端”。Arbitrum空投认领已截止，近7000万枚无人认领的ARB已从空投合约转至DAO财库本。周五Deribit上将有48亿美元的比特币和以太坊期权到期。",
           "link": "https://www.web3sj.com/news/89567/",
           "publishedOn": "2023-09-25T11:30:25.000Z",
-          "wordCount": 900,
+          "wordCount": 911,
           "title": "Web3世界日报（2023-9.25）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092511283971.jpg"
         },
@@ -68,7 +98,7 @@
           "description": "本文将通过对几个知名 Defi 协议的代币设计进行评级和解析，探讨了一个好的代币经济模型应当具备的要素，包括捕捉价值、治理权、经济安全性等，这对于理解代币的内在价值至关重要。让我们来看看哪些代币设计得当，哪些代币还需改进，从中得到启发。",
           "link": "https://www.web3sj.com/definews/89562/",
           "publishedOn": "2023-09-25T11:23:03.000Z",
-          "wordCount": 966,
+          "wordCount": 969,
           "title": "代币设计评级：衡量DeFi协议价值的关键",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695640969989.png"
         },
@@ -78,7 +108,7 @@
           "description": "然而，做市商之间也存在着激烈的竞争和矛盾，尤其是在一个充满变化和不确定性的市场环境中。近期，一家名为 DWF Labs 的新晋做市商就引发了一场轩然大波，遭到了同行的排挤和攻击，甚至被质疑其合法性和诚信。",
           "link": "https://www.web3sj.com/news/89555/",
           "publishedOn": "2023-09-25T11:20:53.000Z",
-          "wordCount": 1028,
+          "wordCount": 1032,
           "title": "DWF Labs：加密货币做市商的黑马还是恶庄？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695640840036.png"
         },
@@ -88,7 +118,7 @@
           "description": "31 岁的 SBF 曾经是 Twitter 上高产的发帖者，他将帖子标记为「想法的草稿中的草稿」，并包含其他 29 个有关 FTX 文件的链接。一份名为「Inception V2」的文件是对该公司破产律师的长篇攻击，其中包含 2010 年克里斯托弗·诺兰 (Christopher Nolan) 电影的屏幕截图。通过一个单独的链接可以打开一个电子表格，其中列出了 SBF 2021 年以来的亚马逊订单。",
           "link": "https://www.web3sj.com/news/89544/",
           "publishedOn": "2023-09-25T07:49:28.000Z",
-          "wordCount": 1082,
+          "wordCount": 1090,
           "title": "揭秘SBF多达250页的辩护草稿：我做了我认为正确的事情",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695628156446.png"
         },
@@ -98,7 +128,7 @@
           "description": "加密货币极大地改变了当今的金融结构，并改变下一代货币和支付方式。然而，这些变化也伴随着人们对加密货币对市场、投资者、用户和环境的潜在负面影响的极大担忧。世界各国政府都在寻求制定法规来防止这些危害，同时鼓励加密货币的创新能力。",
           "link": "https://www.web3sj.com/news/89541/",
           "publishedOn": "2023-09-25T07:41:31.000Z",
-          "wordCount": 920,
+          "wordCount": 916,
           "title": "加密货币国际监管机构、监管要点汇总",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695627673044.png"
         },
@@ -108,39 +138,9 @@
           "description": "根据以太坊核心开发者蒂姆 - 贝科（Tim Beiko）提供的一份说明，坎昆会议包括五项关键的以太坊改进提案（EIP），旨在扩大数据存储和降低成本。",
           "link": "https://www.web3sj.com/news/89533/",
           "publishedOn": "2023-09-25T07:17:54.000Z",
-          "wordCount": 1045,
+          "wordCount": 1046,
           "title": "以太坊坎昆升级蕴藏哪些Aphla投资机会？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695626261595.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89528",
-          "author": "Gao",
-          "description": "即使零基础小白也知道，适用于加密货币市场的唯一规则就是没有规则。即使是世界上最聪明的人也无法超越数字资产世界的混乱。前一分钟，迈克尔·塞勒 (MichaelSaylor) 和 Microstrategy 可能会在 CNBC 上讨论他们最新的价值数十亿美元的比特币购买交易，而下一分钟，吉姆·克莱默 (Jim Cramer) 可能会告诉美国，他永远不会碰比特币，但就在几周前，他还称其为数字黄金，这听起来是不是很疯狂呢？",
-          "link": "https://www.web3sj.com/news/89528/",
-          "publishedOn": "2023-09-25T07:11:18.000Z",
-          "wordCount": 879,
-          "title": "Calaxy联合创始人：下一轮加密货币牛市或将是我们从未经历过的新世界？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695625860335.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89510",
-          "author": "Gao",
-          "description": "加密市场自今年二季度进入深熊以来，各大 VC 的投资策略和规模都在收缩。据 BlockBeats 不完全统计，过去几月，加密领域每周的融资数量都停留在 10 笔左右的水平，而在去年，这个数据还停留在每周 30 笔左右，最高甚至一周能有 60 笔融资。",
-          "link": "https://www.web3sj.com/news/89510/",
-          "publishedOn": "2023-09-25T03:10:21.000Z",
-          "wordCount": 1191,
-          "title": "一周领投4个项目，「a16z 们」开始抄底加密行业了？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/d53e49251ceb63c9653289d9f07a20f23ceacf74.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89506",
-          "author": "Gao",
-          "description": "随着 IBC 等区块链技术的发展，应用链作为一种具有技术主权的解决方案，吸引了越来越多的关注。应用链允许应用开发者掌控和定制区块链的各个层面，以满足特定需求并实现最佳集成。本期 Bing Ventures 文章将聚焦于一家引人注目的应用链项目 — — Osmosis，探讨其为什么值得关注以及其在 DeFi 领域的独立创新之路。",
-          "link": "https://www.web3sj.com/news/89506/",
-          "publishedOn": "2023-09-25T03:06:49.000Z",
-          "wordCount": 976,
-          "title": "Mesh Security可以盘活Osmosis生态吗?",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695611197941.png"
         }
       ]
     },
@@ -245,7 +245,7 @@
           "description": "PANews 9月26日消息，多链借贷协议 Radiant Capital 已向 Arbitrum DAO 的短期激励计划（STIP）提交了一份提案，寻求在 1 月 31 日之前获得 52126 枚至 3359302 枚 ARB 的赠款资助，以激励新用户和现有用户，针对尚未与 Arbitrum 接触过的 Arbitrum 和跨链白户来确保长期流动性；与现有协议（GMX、Camelot、Dopex 和 Plutus）合作开展协同计划，以丰富流动性池、增强借贷选择，并促进健全的期权市场；启动以太坊主网。其中 6-12 个月 dLP 锁定 + 增量借贷 TVL 的 ARB 空投计划（0至2,380,952枚ARB），战略生态系统计划（52,126 至 978,349 枚ARB）。",
           "link": "https://panewslab.com/zh/articledetails/kibq38d8.html",
           "publishedOn": "2023-09-26T00:56:53.000Z",
-          "wordCount": 442,
+          "wordCount": 436,
           "title": "Radiant向Arbitrum短期激励计划申请至多336万枚ARB的赠款资助",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -357,6 +357,16 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202309/21270.html",
+          "author": null,
+          "description": "1.借贷协议类别TVL 142.87亿美元，已超过DEX协议类别。\n\n2.MicroStrategy以约1.473亿美元购入5445枚比特币。\n\n3.friend.tech TVL突破4000万美元。\n\n4.Compass Mining分析师：比特币矿商正在探索多元化收入策略。\n\n5.BBC将于上线SBF纪录片。\n\n6.Mixin Network损失中有近1亿美元的ETH，DAI和BTC均超2300万美元。\n\n7.MakerDAO再次增加5000万美元RWA资产，协议RWA总资产超30亿美元。\n\n8.摩根大通CEO警告：世界还没有为美联储7%的利率做好准备。",
+          "link": "https://www.hellobtc.com/news/202309/21270.html",
+          "publishedOn": "2023-09-26T02:19:00.000Z",
+          "wordCount": 319,
+          "title": "白话区块链早报：借贷协议TVL 已超DEX协议",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202309/21269.html",
           "author": null,
           "description": "1.慢雾CISO：请加密货币用户尽快升级iOS系统、Chrome浏览器、Android等系统，以避免漏洞威胁。\n\n2.数据：价值逾3000万美元OP代币将于本周一次性解锁。\n\n3.已有超过20万人在智利验证了自己的World ID。\n\n4.南华早报：JPEX暴雷可能成为香港史上最大金融欺诈案。\n\n5.Vitalik Buterin：CBDC正在成为传统银行系统的「前端」。\n\n6.慢雾：Mixin Network云服务商数据库遭攻击，涉案金额约2亿美元。\n\n7.Curve创始人过去1小时累计向Silo存入2326万枚CRV。\n\n8.BRC20 sats铸造进度达100%，总铸造次数达21,107,258次。",
@@ -444,16 +454,6 @@
           "publishedOn": "2023-09-22T11:20:00.000Z",
           "wordCount": 307,
           "title": "Nansen：第三方供应商遭攻击致使部分用户数据泄露",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21260.html",
-          "author": null,
-          "description": "2023北外滩国际航运论坛今日开幕，交通运输部部长李小鹏在论坛开幕式上表示，要大力发展智慧港口、智慧航道、智能船舶，加快航运数字化转型，塑造航运发展新动能新优势。要推动大数据、人工智能、区块链等新技术在航运领域落地应用，为航运传统业务赋能升级，整体提升航运服务全要素全流程全链条数字化水平。",
-          "link": "https://www.hellobtc.com/news/202309/21260.html",
-          "publishedOn": "2023-09-22T11:19:00.000Z",
-          "wordCount": 307,
-          "title": "交通运输部部长：推动大数据、人工智能、区块链等新技术在航运领域落地应用",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
