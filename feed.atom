@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-26T10:13:54.301Z</id>
+    <id>urn:2023-09-26T11:10:36.436Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-26T10:13:54.301Z</updated>
+    <updated>2023-09-26T11:10:36.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-9.26）]]></title>
+        <id>https://www.web3sj.com/?p=89719</id>
+        <link href="https://www.web3sj.com/news/89719/"/>
+        <updated>2023-09-26T11:03:14.000Z</updated>
+        <summary type="html"><![CDATA[美国政府停摆或将导致SEC暂停诉讼以及加密法案被推迟。俄罗斯“加密女王”Valeria Fedyakina因涉嫌诈骗7200万美元被捕。Radiant向Arbitrum短期激励计划申请至多336万枚ARB的赠款资助。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入RaaS：Rollup服务模式和盈利方式一览]]></title>
+        <id>https://www.web3sj.com/?p=89716</id>
+        <link href="https://www.web3sj.com/news/89716/"/>
+        <updated>2023-09-26T10:35:06.000Z</updated>
+        <summary type="html"><![CDATA[虽然 RaaS 服务 / 产品提供仍处于初级阶段，但我们注意到大多数 RaaS 提供商销售类似的一揽子服务和产品。通过与 RaaS 创始人的交谈，我了解到这个一揽子服务大致如下。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极端费率生存手册：唯有滑头胜利]]></title>
+        <id>https://www.web3sj.com/?p=89703</id>
+        <link href="https://www.web3sj.com/transaction/89703/"/>
+        <updated>2023-09-26T10:23:40.000Z</updated>
+        <summary type="html"><![CDATA[2023 年以来币安上共有 376 次资金费率高于 -0.5% ，平均值 -1.209% 。其中各费率区间的频次情况如下，在 376 次高费率中，大于 -1.5% 达 113 次，占比 30.2% ，可见当费率开始转向高负费率后，有不小的概率极端化。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pendle投研报告：加密领域的利率交换市场]]></title>
         <id>https://www.web3sj.com/?p=89678</id>
@@ -184,26 +214,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[加密货币「双刃剑」即将迎来立法规制？稳定币监管现状与展望]]></title>
-        <id>https://www.web3sj.com/?p=89617</id>
-        <link href="https://www.web3sj.com/news/89617/"/>
-        <updated>2023-09-26T05:45:52.000Z</updated>
-        <summary type="html"><![CDATA[由于稳定币与主权货币挂钩，其对金融稳定、消费者保护、反洗钱、税收等方面都可能造成影响，甚至威胁到主权货币的地位。本文旨在探讨国际稳定币监管的现状和问题，分析稳定币监管的重要性，回顾各国对稳定币的监管态度和政策，探讨稳定币与法币、DeFi 之间的关系和影响，并提出对未来稳定币监管的建议和展望。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3企业如何从0到1入驻香港科学园？]]></title>
-        <id>https://www.web3sj.com/?p=89613</id>
-        <link href="https://www.web3sj.com/news/89613/"/>
-        <updated>2023-09-26T05:36:05.000Z</updated>
-        <summary type="html"><![CDATA[这种加密货币市场的监管，为金融和资本市场传递了重要信号：先前由于缺乏政府监管而无法进入加密货币市场的资金，现在可以借由香港金融集中地的优势进入该领域；那些以前无法与加密货币机构进行合作的传统金融机构现在有资格与之开展合作。目前，太平洋保险等在国资背景下的香港子公司已开始探索加密货币领域，这种趋势也在全球范围内乘势而上。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[俄罗斯“加密女王”Valeria Fedyakina因涉嫌诈骗7200万美元被捕]]></title>
         <id>https://panewslab.com/zh/articledetails/djymio9s.html</id>
         <link href="https://panewslab.com/zh/articledetails/djymio9s.html"/>
@@ -264,16 +274,6 @@
         <summary type="html"><![CDATA[PANews 9月26日消息，Scopescan监测显示，Curve 创始人 Michael Egorov 于 6 小时前将 1100 万枚 CRV（573 万美元）存入 Silo 并借出 180 万枚 crvUSD。 然后将 180 万 crvUSD 兑换为 USDT 和 DAI，其中 155 万 USDT 偿还 Aave 上的债务，25 万枚 DAI 发送到 xDAI 桥。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「1000 条平行链和百万 TPS」，Polkadot欲寻求生态第二春？]]></title>
-        <id>https://www.web3sj.com/?p=89609</id>
-        <link href="https://www.web3sj.com/news/89609/"/>
-        <updated>2023-09-26T04:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Polkadot 在本次会议上宣布将计划在接下来的几周内开始试验一项全新的、具有变革性质的网络扩展方案——异步支持。所谓「异步支持」，指的便是「Asynchronous backin」，通常指一种允许系统组件（如验证者、节点或服务）在不需要实时或同步交互的情况下，进行操作的技术或机制。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
