@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 193,
+          "wordCount": 198,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 148,
+          "wordCount": 147,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 127,
+          "wordCount": 133,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=89938",
+          "author": "Gao",
+          "description": "2018 年，Telegram 创始人 Durov 兄弟开始探索适用于 Telegram 的区块链解决方案。当时没有区块链能够支持 Telegram 的亿级用户群，因此他们决定设计自己的 Layer 1 链，起名 Telegram Open Network，简称 TON。",
+          "link": "https://www.web3sj.com/project/89938/",
+          "publishedOn": "2023-09-28T07:35:26.000Z",
+          "wordCount": 1255,
+          "title": "TON重生：Telegram Open Network的技术进阶与未来展望",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695886182098.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=89929",
           "author": "Gao",
           "description": "Namada 协议作为一个包含多个组件的第 1 层解决方案运行，但使模块化隐私成为可能的基石是两个关键功能：统一屏蔽集（USS）和屏蔽操作（SA）。这些要素远非仅仅是渐进式升级，而是代表了跨链和更广泛的加密领域对隐私实现的重新构想。",
           "link": "https://www.web3sj.com/project/89929/",
           "publishedOn": "2023-09-28T06:29:29.000Z",
-          "wordCount": 971,
+          "wordCount": 959,
           "title": "详解 Namada：服务于多链生态的模块化隐私方案",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092811302384256974.jpg"
         },
@@ -58,7 +68,7 @@
           "description": "Optimism 是基于 Optimism Rollup 技术的二层扩容方案，在能承载大规模处理交易的同时保有以太坊的安全性。同时 Optimism 实现了 EVM 等效性，以太坊上的 Solidity 智能合约可以在 Optimism 的 Layer2 上运行，且不需要构建额外的功能，开发者可以无缝转接到 Optimism 上开发应用。其主要特点是使以太坊应用程序上的交易变得非常便宜，通过将交易从区块链转移到另一个区块链，矿工费就大大降低了，吞吐量也增加了。",
           "link": "https://www.web3sj.com/project/89918/",
           "publishedOn": "2023-09-28T06:14:21.000Z",
-          "wordCount": 1639,
+          "wordCount": 1641,
           "title": "Optimism深度研究报告： 扎实的原生团队与Layer2超级朋友圈",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695881646220.png"
         },
@@ -68,7 +78,7 @@
           "description": "如果你在整个熊市中一直关注加密货币，你可能听说过以太坊的「基于 rollup 的」路线图。通过 EIP-4844，以太坊主网通过引入新概念 blobs 为这些扩展解决方案提供了帮助。",
           "link": "https://www.web3sj.com/news/89908/",
           "publishedOn": "2023-09-28T06:00:02.000Z",
-          "wordCount": 1044,
+          "wordCount": 1047,
           "title": "Bankless：坎昆升级EIP-4844的Blob到底是什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695880771035.png"
         },
@@ -78,7 +88,7 @@
           "description": "今年 8 月，Trusta Labs 曾发文详细介绍了其链上行为评分标准 MEDIA Score 。MEDIA Score 具有两层效用，一是为项目方提供一个客观、公正、可量化的指标，全面评估用户地址的参与程度和价值水平，进而精准定位那些真正为项目做出过贡献的用户；二是帮助用户自身更清晰地掌握自己的地址行为，评估自己获得潜在社区奖励（即空投）的机会，从而更合理、高效地进行链上交互。",
           "link": "https://www.web3sj.com/news/89903/",
           "publishedOn": "2023-09-28T05:42:00.000Z",
-          "wordCount": 1024,
+          "wordCount": 1028,
           "title": "Celestia空投背后的「裁判」，Trusta Labs是如何做女巫检测的？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695879698206.png"
         },
@@ -88,7 +98,7 @@
           "description": "前两天接到了朋友咨询，说自己将折合人民币约 4000 万的 USDT 转给了某 U 商，但对方没把钱转过来，目前已失联，询问我该怎么办。其实在笔者接触到的案件当中，此类情形是非常常见的高发类型，因此在这里做一个集中解答。",
           "link": "https://www.web3sj.com/news/89900/",
           "publishedOn": "2023-09-28T05:08:36.000Z",
-          "wordCount": 945,
+          "wordCount": 947,
           "title": "转USDT被骗4000万，该如何追回？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695877701330.png"
         },
@@ -98,7 +108,7 @@
           "description": "Celestia 作为首个强调模块化区块链概念的公链，其曾于 2022 年 10 月以高达 10 亿美元的估值完成 5500 万美元融资，并通过成立模块化研究计划 Celestia Modular Fellows 等方式，激励了该赛道多个项目的创新发展。",
           "link": "https://www.web3sj.com/news/89897/",
           "publishedOn": "2023-09-28T03:44:16.000Z",
-          "wordCount": 1516,
+          "wordCount": 1542,
           "title": "Celestia大规模空投、Eclipse发布Layer2新方案，模块化区块链还有哪些最新进展？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695872642085.png"
         },
@@ -108,7 +118,7 @@
           "description": "我在很大程度上仍然维持这些观点，因为在 X 上的大量追随者几乎可以保证从交易费中获得一些现金。我只是尝试这些 APP 就赚了超过 2 千美元。但 FT 让我大吃一惊的是，X 上那些看似默默无闻的人获得了不小的成绩。Levi 就是一个例子，其 Key 价格约为 8,000 美元。",
           "link": "https://www.web3sj.com/project/89885/",
           "publishedOn": "2023-09-28T03:30:04.000Z",
-          "wordCount": 1191,
+          "wordCount": 1170,
           "title": "如何在friend.tech的分叉项目中寻求价值？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695871788829.png"
         },
@@ -118,7 +128,7 @@
           "description": "EOA 账户这么难用，Vitalik 其实早就知道了，以太坊团队也在尝试解决这个问题，而账户抽象就是解决方案之一。但由于无法为账户抽象修改以太坊底层共识，一直等到 ERC-4337 这个基于应用层的智能合约钱包的方案的提出，账户抽象才真正得到关注，成为热点话题。",
           "link": "https://www.web3sj.com/news/89864/",
           "publishedOn": "2023-09-28T02:49:47.000Z",
-          "wordCount": 1951,
+          "wordCount": 1934,
           "title": "OP Research：账户抽象是On-Chain生态转入买方市场的标志",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695869361643.png"
         },
@@ -131,16 +141,6 @@
           "wordCount": 950,
           "title": "Web3世界日报（2023-9.27）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092713494771.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89813",
-          "author": "Gao",
-          "description": "相信主权自由和数学秩序在未来依然是行业的核心，但新事物想要大规模融入到已有的世界秩序中，在全球范围被快速推广和发展，与监管的博弈和融合是不可避免的必经之路。本文将从行业观察者的角度梳理 2023 年最重要趋势的当前进程。",
-          "link": "https://www.web3sj.com/news/89813/",
-          "publishedOn": "2023-09-27T06:52:13.000Z",
-          "wordCount": 1508,
-          "title": "LD Capital：一文速览虚拟资产全球主要监管发展格局",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695797521720.png"
         }
       ]
     },
@@ -295,7 +295,7 @@
           "description": "PANews 9月28日消息，FTX、FTX债权人委员会等多次发出提醒，关于FTX客户索赔的最后提交日期为美国东部时间2023年9月29日下午4点（北京时间9月30日凌晨4:00），PANews建议用户及时登录客户索赔门户网站（https://claims.ftx.com）开始索赔流程，索赔申请将被纳入FTX的第11章破产程序。索赔申请提交后，应该会立即收到一个确认ID。FTX要求客户在索赔过程中提供KYC信息，KYC的审核和验证流程将在截止日期后继续进行。",
           "link": "https://panewslab.com/zh/articledetails/j7e8f845.html",
           "publishedOn": "2023-09-28T02:10:52.000Z",
-          "wordCount": 334,
+          "wordCount": 336,
           "title": "重要提醒：美东时间9月29日是FTX客户提交索赔申请的最后期限",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 9月28日消息，彭博高级 ETF 分析师 Eric Balchunas 发文表示：“美国证券交易委员会希望加快推出以太坊期货 ETF（因为他们希望在政府关门后将其从他们的工作中解放出来），因此他们要求申报者在周五下午之前更新他们的文档（这不是一个小任务，要挤在 48 小时内，尤其是独立发行人），这样他们就可以在周一上班并在周二进行交易。”\n相关阅读：\n以太坊期货ETF扎堆申请，加密ETF命运的齿轮开始转动？\nSEC有望为以太坊期货ETF开绿灯：预计最快10月上市，共16个申请待审批",
           "link": "https://panewslab.com/zh/articledetails/43tss093.html",
           "publishedOn": "2023-09-28T01:46:55.000Z",
-          "wordCount": 357,
+          "wordCount": 359,
           "title": "彭博分析师：美SEC希望加快推出以太坊期货ETF",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
