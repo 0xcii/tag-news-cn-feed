@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 193,
+          "wordCount": 195,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 151,
+          "wordCount": 150,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 127,
+          "wordCount": 129,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=89918",
+          "author": "Gao",
+          "description": "Optimism 是基于 Optimism Rollup 技术的二层扩容方案，在能承载大规模处理交易的同时保有以太坊的安全性。同时 Optimism 实现了 EVM 等效性，以太坊上的 Solidity 智能合约可以在 Optimism 的 Layer2 上运行，且不需要构建额外的功能，开发者可以无缝转接到 Optimism 上开发应用。其主要特点是使以太坊应用程序上的交易变得非常便宜，通过将交易从区块链转移到另一个区块链，矿工费就大大降低了，吞吐量也增加了。",
+          "link": "https://www.web3sj.com/project/89918/",
+          "publishedOn": "2023-09-28T06:14:21.000Z",
+          "wordCount": 1622,
+          "title": "Optimism深度研究报告： 扎实的原生团队与Layer2超级朋友圈",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695881646220.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89908",
+          "author": "Gao",
+          "description": "如果你在整个熊市中一直关注加密货币，你可能听说过以太坊的「基于 rollup 的」路线图。通过 EIP-4844，以太坊主网通过引入新概念 blobs 为这些扩展解决方案提供了帮助。",
+          "link": "https://www.web3sj.com/news/89908/",
+          "publishedOn": "2023-09-28T06:00:02.000Z",
+          "wordCount": 1042,
+          "title": "Bankless：坎昆升级EIP-4844的Blob到底是什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695880771035.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=89903",
+          "author": "Gao",
+          "description": "今年 8 月，Trusta Labs 曾发文详细介绍了其链上行为评分标准 MEDIA Score 。MEDIA Score 具有两层效用，一是为项目方提供一个客观、公正、可量化的指标，全面评估用户地址的参与程度和价值水平，进而精准定位那些真正为项目做出过贡献的用户；二是帮助用户自身更清晰地掌握自己的地址行为，评估自己获得潜在社区奖励（即空投）的机会，从而更合理、高效地进行链上交互。",
+          "link": "https://www.web3sj.com/news/89903/",
+          "publishedOn": "2023-09-28T05:42:00.000Z",
+          "wordCount": 1032,
+          "title": "Celestia空投背后的「裁判」，Trusta Labs是如何做女巫检测的？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695879698206.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=89900",
           "author": "Gao",
           "description": "前两天接到了朋友咨询，说自己将折合人民币约 4000 万的 USDT 转给了某 U 商，但对方没把钱转过来，目前已失联，询问我该怎么办。其实在笔者接触到的案件当中，此类情形是非常常见的高发类型，因此在这里做一个集中解答。",
           "link": "https://www.web3sj.com/news/89900/",
           "publishedOn": "2023-09-28T05:08:36.000Z",
-          "wordCount": 941,
+          "wordCount": 957,
           "title": "转USDT被骗4000万，该如何追回？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695877701330.png"
         },
@@ -58,7 +88,7 @@
           "description": "Celestia 作为首个强调模块化区块链概念的公链，其曾于 2022 年 10 月以高达 10 亿美元的估值完成 5500 万美元融资，并通过成立模块化研究计划 Celestia Modular Fellows 等方式，激励了该赛道多个项目的创新发展。",
           "link": "https://www.web3sj.com/news/89897/",
           "publishedOn": "2023-09-28T03:44:16.000Z",
-          "wordCount": 1534,
+          "wordCount": 1524,
           "title": "Celestia大规模空投、Eclipse发布Layer2新方案，模块化区块链还有哪些最新进展？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695872642085.png"
         },
@@ -68,7 +98,7 @@
           "description": "我在很大程度上仍然维持这些观点，因为在 X 上的大量追随者几乎可以保证从交易费中获得一些现金。我只是尝试这些 APP 就赚了超过 2 千美元。但 FT 让我大吃一惊的是，X 上那些看似默默无闻的人获得了不小的成绩。Levi 就是一个例子，其 Key 价格约为 8,000 美元。",
           "link": "https://www.web3sj.com/project/89885/",
           "publishedOn": "2023-09-28T03:30:04.000Z",
-          "wordCount": 1179,
+          "wordCount": 1167,
           "title": "如何在friend.tech的分叉项目中寻求价值？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695871788829.png"
         },
@@ -78,7 +108,7 @@
           "description": "EOA 账户这么难用，Vitalik 其实早就知道了，以太坊团队也在尝试解决这个问题，而账户抽象就是解决方案之一。但由于无法为账户抽象修改以太坊底层共识，一直等到 ERC-4337 这个基于应用层的智能合约钱包的方案的提出，账户抽象才真正得到关注，成为热点话题。",
           "link": "https://www.web3sj.com/news/89864/",
           "publishedOn": "2023-09-28T02:49:47.000Z",
-          "wordCount": 1919,
+          "wordCount": 1932,
           "title": "OP Research：账户抽象是On-Chain生态转入买方市场的标志",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695869361643.png"
         },
@@ -88,7 +118,7 @@
           "description": "美国SEC推迟ARK 21Shares比特币现货ETF决议日期至明年1月。Curve创始人已偿还Aave上的所有债务，过去2天共向Silo存入6800万枚CRV借入1077万枚crvUSD。Arbitrum奥德赛活动已重启，首周任务在GMX进行。",
           "link": "https://www.web3sj.com/news/89846/",
           "publishedOn": "2023-09-27T13:51:37.000Z",
-          "wordCount": 928,
+          "wordCount": 946,
           "title": "Web3世界日报（2023-9.27）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092713494771.jpg"
         },
@@ -98,7 +128,7 @@
           "description": "相信主权自由和数学秩序在未来依然是行业的核心，但新事物想要大规模融入到已有的世界秩序中，在全球范围被快速推广和发展，与监管的博弈和融合是不可避免的必经之路。本文将从行业观察者的角度梳理 2023 年最重要趋势的当前进程。",
           "link": "https://www.web3sj.com/news/89813/",
           "publishedOn": "2023-09-27T06:52:13.000Z",
-          "wordCount": 1540,
+          "wordCount": 1509,
           "title": "LD Capital：一文速览虚拟资产全球主要监管发展格局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695797521720.png"
         },
@@ -108,39 +138,9 @@
           "description": "Paradigm 由 Coinbase 联合创始人 Fred Ehrsam 和前红杉资本合伙人 Matt Huang 共同创立。Paradigm 的出现恰逢其时，绝非偶然。Paradigm 的出现起源于 2017 年比特币狂热的顶峰时期，当时 Fred Ehrsam 决定辞去 Coinbase 总裁一职。",
           "link": "https://www.web3sj.com/news/89805/",
           "publishedOn": "2023-09-27T06:40:30.000Z",
-          "wordCount": 964,
+          "wordCount": 970,
           "title": "一分钟速览加密基金Paradigm成长史，所投项目最爱空投",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695796813994.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89802",
-          "author": "Gao",
-          "description": "在南非的风光旖旎之地，开普敦，Andre Cronje 的成长经历与众不同。出生在一个传统的家庭，他的父亲是自然科学教师，母亲是图书馆管理员。他的姐姐 Tanja 比他大五岁，对他的记忆是个喜爱动物和户外活动的「甜美的小弟弟」。尽管外界的评价不时地飘入家庭，让 Tanja 感到担忧，但这些似乎并未影响 Andre 的幼年生活。",
-          "link": "https://www.web3sj.com/news/89802/",
-          "publishedOn": "2023-09-27T05:56:58.000Z",
-          "wordCount": 1123,
-          "title": "Andre Cronje：独行侠的网络奥德赛",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695794204485.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89791",
-          "author": "Gao",
-          "description": "关于 DAOs，讨论颇多，人们对它们未来的潜能提出了许多设想，但对于如何实际创建一个 DAO 的详细指南却相对少见。这种情况的存在部分原因是该领域还处于发展阶段，同时很难在浓厚的市场炒作氛围中识别真实价值。鲜有人愿意公开他们的 DAO 失败之处，甚至是其无法正常运行的情况。我希望能引领一个新的方向。",
-          "link": "https://www.web3sj.com/daonews/89791/",
-          "publishedOn": "2023-09-27T03:55:17.000Z",
-          "wordCount": 1116,
-          "title": "从理论到实践：如何成功启动一个DAO",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695786902491.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89782",
-          "author": "Gao",
-          "description": "NFT 作为一种特殊的加密货币和数字艺术资产，为艺术品提供了新的数字载体，并拓展了区块链技术的应用场景。与传统的同质化代币不同，每个 NFT 都是独一无二的，并关联着特定的元数据，如艺术品、游戏道具、音乐等电子资料。因此，NFT 可以作为电子数据的所有权凭证，供人们收藏或交易。",
-          "link": "https://www.web3sj.com/nftnews/89782/",
-          "publishedOn": "2023-09-27T03:44:22.000Z",
-          "wordCount": 1423,
-          "title": "ERC-6551：当NFT碰上合约钱包",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695786250418.png"
         }
       ]
     },
@@ -205,7 +205,7 @@
           "description": "PANews 9月28日消息，据彭博社援引消息人士报道，2022 年 8 月，在 Genesis 冻结存款并最终申请破产前几个月，加密交易所 Gemini 从 Genesis 取出了约 2.82 亿美元的加密货币。一位知情人士表示，从 Genesis 提取的资金用于建立储备金，以确保 Gemini Earn 的客户能够立即赎回。",
           "link": "https://panewslab.com/zh/articledetails/7g39eagq.html",
           "publishedOn": "2023-09-28T03:10:13.000Z",
-          "wordCount": 386,
+          "wordCount": 392,
           "title": "知情人士：Gemini在Genesis破产前提取约2.82亿美元，或用于确保Gemini Earn赎回",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 9月28日消息，据Blockworks报道，在 Blocknative 周二决定停止其 MEV-boost 中继之后，以太坊网络上目前只有4个中继器保持活跃状态。超过 90% 的以太坊交易现在由四个区块构建者处理，引发了人们对中心化的担忧。中继器在以太坊交易结算中发挥着关键作用。它们确保及时有效的处理，通过批处理和广播交易来弥合用户和区块链之间的差距。随着 Blocknative 的退出，中继者的格局变得越来越集中。",
           "link": "https://panewslab.com/zh/articledetails/esb4a2a2.html",
           "publishedOn": "2023-09-28T00:25:25.000Z",
-          "wordCount": 345,
+          "wordCount": 351,
           "title": "以太坊中继器数量降至4，去中心化受到质疑",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -356,6 +356,16 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202309/21272.html",
+          "author": null,
+          "description": "1.以太坊信标链质押总量突破2700万枚ETH，上海升级后净流入逾752万枚ETH。\n\n2.MakerDAO再次增加逾1亿美元RWA资产，协议RWA总资产逾31亿美元。\n\n3.数据：2022年银行客户拥有960亿美元的加密货币头寸。\n\n4.Telegram联手TON基金会与腾讯合作，拟打造类似微信的「超级应用生态平台」。\n\n5.Chainlink CEO：大多数跨链桥“绝对不安全”。\n\n6.数据：用户已在Solana上铸造了超过5200万个压缩NFT。\n\n7.NFT项目Pudgy Penguins 24小时交易量突破1000 ETH。\n\n8.以太坊中继器数量降至4，引发中心化担忧。\n\n9.Tether CTO公布挖矿软件Moria平台预览版。\n\n10.数据：BCH巨鲸一直在囤积BCH。",
+          "link": "https://www.hellobtc.com/news/202309/21272.html",
+          "publishedOn": "2023-09-28T03:20:00.000Z",
+          "wordCount": 327,
+          "title": "白话区块链早报：以太坊信标链质押总量突破2700万枚ETH，上海升级后净流入逾752万枚ETH",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202309/21271.html",
           "author": null,
@@ -444,16 +454,6 @@
           "publishedOn": "2023-09-23T03:28:00.000Z",
           "wordCount": 307,
           "title": "VanEck主管：Tether是国际上美国国债的最大买家之一",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202309/21262.html",
-          "author": null,
-          "description": "1.VanEck主管：Tether是国际上美国国债的最大买家之一。\n\n2.比特大陆CFO：16家上市公司已经掌控超过30%的比特币算力。\n\n3.CoinGecko：排名前12位的比特币ETF共持有102,619BTC。\n\n4.数据：6月份CEX的全球衍生品交易量增长了13.7%。\n\n5.数据：Base链上已创建合约总数突破2000万个。\n\n6.过去24小时Wintermute Trading在多个CEX之间转移8.3万亿PEPE，PEPE飙升15%。\n\n7.Vitalik Buterin：加密行业必须变得更加去中心化，而且最终须摆脱中心化实体。\n\n8.月初至今Upbit的现货交易量达到230亿美元，是Coinbase的1.6倍。\n\n9.Coinbase曾考虑收购FTX Europe以扩大海外衍生品业务。\n\n10.一巨鲸近期买入228万枚ARB，成本均价或为0.81美元。\n\n11.Tether首席技术官：将于2024年全面实施Tether新全球战略。\n\n12.IntoTheBlock研究主管：Layer 2网络的采用一定程度上导致ETH陷入通货膨胀。\n\n13.Banana Gun公布收入分成机制：至少持有50 BANANA才能产生收入。",
-          "link": "https://www.hellobtc.com/news/202309/21262.html",
-          "publishedOn": "2023-09-23T03:05:00.000Z",
-          "wordCount": 330,
-          "title": "白话区块链早报：Tether是国际上美国国债的最大买家之一",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]

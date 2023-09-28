@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-28T05:12:09.369Z</id>
+    <id>urn:2023-09-28T06:17:41.946Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-28T05:12:09.369Z</updated>
+    <updated>2023-09-28T06:17:41.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Optimism深度研究报告： 扎实的原生团队与Layer2超级朋友圈]]></title>
+        <id>https://www.web3sj.com/?p=89918</id>
+        <link href="https://www.web3sj.com/project/89918/"/>
+        <updated>2023-09-28T06:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Optimism 是基于 Optimism Rollup 技术的二层扩容方案，在能承载大规模处理交易的同时保有以太坊的安全性。同时 Optimism 实现了 EVM 等效性，以太坊上的 Solidity 智能合约可以在 Optimism 的 Layer2 上运行，且不需要构建额外的功能，开发者可以无缝转接到 Optimism 上开发应用。其主要特点是使以太坊应用程序上的交易变得非常便宜，通过将交易从区块链转移到另一个区块链，矿工费就大大降低了，吞吐量也增加了。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：坎昆升级EIP-4844的Blob到底是什么？]]></title>
+        <id>https://www.web3sj.com/?p=89908</id>
+        <link href="https://www.web3sj.com/news/89908/"/>
+        <updated>2023-09-28T06:00:02.000Z</updated>
+        <summary type="html"><![CDATA[如果你在整个熊市中一直关注加密货币，你可能听说过以太坊的「基于 rollup 的」路线图。通过 EIP-4844，以太坊主网通过引入新概念 blobs 为这些扩展解决方案提供了帮助。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celestia空投背后的「裁判」，Trusta Labs是如何做女巫检测的？]]></title>
+        <id>https://www.web3sj.com/?p=89903</id>
+        <link href="https://www.web3sj.com/news/89903/"/>
+        <updated>2023-09-28T05:42:00.000Z</updated>
+        <summary type="html"><![CDATA[今年 8 月，Trusta Labs 曾发文详细介绍了其链上行为评分标准 MEDIA Score 。MEDIA Score 具有两层效用，一是为项目方提供一个客观、公正、可量化的指标，全面评估用户地址的参与程度和价值水平，进而精准定位那些真正为项目做出过贡献的用户；二是帮助用户自身更清晰地掌握自己的地址行为，评估自己获得潜在社区奖励（即空投）的机会，从而更合理、高效地进行链上交互。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[转USDT被骗4000万，该如何追回？]]></title>
         <id>https://www.web3sj.com/?p=89900</id>
@@ -77,6 +107,34 @@ Meta 的总体战略不是创建一个通用的聊天机器人，而是为不同
 币安已于9月25日暂停Paysafe用户的欧元存款；从9月28日12:00开始，用户将无法使用欧元余额买卖加密货币。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：以太坊信标链质押总量突破2700万枚ETH，上海升级后净流入逾752万枚ETH]]></title>
+        <id>https://www.hellobtc.com/news/202309/21272.html</id>
+        <link href="https://www.hellobtc.com/news/202309/21272.html"/>
+        <updated>2023-09-28T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[1.以太坊信标链质押总量突破2700万枚ETH，上海升级后净流入逾752万枚ETH。
+
+2.MakerDAO再次增加逾1亿美元RWA资产，协议RWA总资产逾31亿美元。
+
+3.数据：2022年银行客户拥有960亿美元的加密货币头寸。
+
+4.Telegram联手TON基金会与腾讯合作，拟打造类似微信的「超级应用生态平台」。
+
+5.Chainlink CEO：大多数跨链桥“绝对不安全”。
+
+6.数据：用户已在Solana上铸造了超过5200万个压缩NFT。
+
+7.NFT项目Pudgy Penguins 24小时交易量突破1000 ETH。
+
+8.以太坊中继器数量降至4，引发中心化担忧。
+
+9.Tether CTO公布挖矿软件Moria平台预览版。
+
+10.数据：BCH巨鲸一直在囤积BCH。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -294,36 +352,6 @@ Lybra DAO将于10月1日启动，esLBR和LBR持有者将可提交…]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andre Cronje：独行侠的网络奥德赛]]></title>
-        <id>https://www.web3sj.com/?p=89802</id>
-        <link href="https://www.web3sj.com/news/89802/"/>
-        <updated>2023-09-27T05:56:58.000Z</updated>
-        <summary type="html"><![CDATA[在南非的风光旖旎之地，开普敦，Andre Cronje 的成长经历与众不同。出生在一个传统的家庭，他的父亲是自然科学教师，母亲是图书馆管理员。他的姐姐 Tanja 比他大五岁，对他的记忆是个喜爱动物和户外活动的「甜美的小弟弟」。尽管外界的评价不时地飘入家庭，让 Tanja 感到担忧，但这些似乎并未影响 Andre 的幼年生活。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从理论到实践：如何成功启动一个DAO]]></title>
-        <id>https://www.web3sj.com/?p=89791</id>
-        <link href="https://www.web3sj.com/daonews/89791/"/>
-        <updated>2023-09-27T03:55:17.000Z</updated>
-        <summary type="html"><![CDATA[关于 DAOs，讨论颇多，人们对它们未来的潜能提出了许多设想，但对于如何实际创建一个 DAO 的详细指南却相对少见。这种情况的存在部分原因是该领域还处于发展阶段，同时很难在浓厚的市场炒作氛围中识别真实价值。鲜有人愿意公开他们的 DAO 失败之处，甚至是其无法正常运行的情况。我希望能引领一个新的方向。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERC-6551：当NFT碰上合约钱包]]></title>
-        <id>https://www.web3sj.com/?p=89782</id>
-        <link href="https://www.web3sj.com/nftnews/89782/"/>
-        <updated>2023-09-27T03:44:22.000Z</updated>
-        <summary type="html"><![CDATA[NFT 作为一种特殊的加密货币和数字艺术资产，为艺术品提供了新的数字载体，并拓展了区块链技术的应用场景。与传统的同质化代币不同，每个 NFT 都是独一无二的，并关联着特定的元数据，如艺术品、游戏道具、音乐等电子资料。因此，NFT 可以作为电子数据的所有权凭证，供人们收藏或交易。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Ordinals 创始人推出 BRC20 替代品 Runes]]></title>
         <id>https://www.hellobtc.com/news/202309/21271.html</id>
         <link href="https://www.hellobtc.com/news/202309/21271.html"/>
@@ -479,40 +507,6 @@ Lybra DAO将于10月1日启动，esLBR和LBR持有者将可提交…]]></summary
         <link href="https://www.hellobtc.com/news/202309/21263.html"/>
         <updated>2023-09-23T03:28:00.000Z</updated>
         <summary type="html"><![CDATA[全球资产管理公司VanEck数字资产策略主管Gabor Gurbacs在社交媒体X上表示，Tether为美元所做的贡献比美国任何一个大牌白骑士加密货币平台都多，Tether是国际上美国国债的最大买家之一。Tether向新兴市场有需要的人们提供USDT，Tether值得更多的信任。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：Tether是国际上美国国债的最大买家之一]]></title>
-        <id>https://www.hellobtc.com/news/202309/21262.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21262.html"/>
-        <updated>2023-09-23T03:05:00.000Z</updated>
-        <summary type="html"><![CDATA[1.VanEck主管：Tether是国际上美国国债的最大买家之一。
-
-2.比特大陆CFO：16家上市公司已经掌控超过30%的比特币算力。
-
-3.CoinGecko：排名前12位的比特币ETF共持有102,619BTC。
-
-4.数据：6月份CEX的全球衍生品交易量增长了13.7%。
-
-5.数据：Base链上已创建合约总数突破2000万个。
-
-6.过去24小时Wintermute Trading在多个CEX之间转移8.3万亿PEPE，PEPE飙升15%。
-
-7.Vitalik Buterin：加密行业必须变得更加去中心化，而且最终须摆脱中心化实体。
-
-8.月初至今Upbit的现货交易量达到230亿美元，是Coinbase的1.6倍。
-
-9.Coinbase曾考虑收购FTX Europe以扩大海外衍生品业务。
-
-10.一巨鲸近期买入228万枚ARB，成本均价或为0.81美元。
-
-11.Tether首席技术官：将于2024年全面实施Tether新全球战略。
-
-12.IntoTheBlock研究主管：Layer 2网络的采用一定程度上导致ETH陷入通货膨胀。
-
-13.Banana Gun公布收入分成机制：至少持有50 BANANA才能产生收入。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
