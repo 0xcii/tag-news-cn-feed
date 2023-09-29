@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-29T13:15:29.579Z</id>
+    <id>urn:2023-09-29T14:10:25.849Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-29T13:15:29.579Z</updated>
+    <updated>2023-09-29T14:10:25.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2023年Q3八大热点回顾]]></title>
+        <id>https://www.web3sj.com/?p=90041</id>
+        <link href="https://www.web3sj.com/news/90041/"/>
+        <updated>2023-09-29T14:06:58.000Z</updated>
+        <summary type="html"><![CDATA[7 月 13 日，美国纽约南区联邦地区法院对 SEC 关于 Ripple 的指控做出裁决，认为 XRP 作为一种数字代币，本身并不是体现 Howey 测试要求的「合同、交易或计划」，即 XRP 不是证券。使用 XRP 对进行投资、发放资助、向高管进行转账、交易所上的订单簿销售都不被视为证券。但通过机构销售、OTC、ICO、IEO 的是证券。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解Celestia空投和经济模型，未来项目空投方式会如何演变？]]></title>
+        <id>https://www.web3sj.com/?p=90029</id>
+        <link href="https://www.web3sj.com/project/90029/"/>
+        <updated>2023-09-29T13:19:41.000Z</updated>
+        <summary type="html"><![CDATA[回顾 Celestia 此前官宣的融资，金额和机构也属行业前列。2021 年荷兰加密货币投资公司 Maven 11 Capital 通过在其旗下 4000 万美元封闭式基金的投资组合中纳入 Celestia，2022 年 7 月，风险投资公司 NFX 的第二只基金追加 6261 万美元投资 Celestia 和 Ramp Network，2022 年 10 月，贝恩资本和 Polychain Capital 领投 Celestia 5500 万美元，投后估值达 10 亿美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chainalysis研究：印度、菲律宾与巴基斯坦的加密货币大规模应用]]></title>
         <id>https://www.web3sj.com/?p=90016</id>
@@ -16,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[币安俄罗斯业务买家CommEx：核心成员包括前币安员工，但不属于币安]]></title>
+        <id>https://panewslab.com/zh/articledetails/363910ll.html</id>
+        <link href="https://panewslab.com/zh/articledetails/363910ll.html"/>
+        <updated>2023-09-29T12:53:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月29日消息，据Cointelegraph报道，CommEx向社区发出公开信，重申该公司不属于币安所有，币安宣布通过将该公司出售给 CommEx 退出俄罗斯。CommEx 在其网站上写道：“虽然我们没有透露我们的最终受益人（UBO），但我们想明确表示我们不属于币安。” CommEx 在公告中表示：“我们是一支充满活力、高效的初创团队，由数十名来自不同背景、充满激情的个人组成。”并补充说，其一些核心成员是前币安退伍军人。CommEx 公告称，该公司已经开发其平台六个月了，在此期间，它雇用了一些前币安员工。“这使我们能够学习币安的产品和运营经验，与他们建立间接联系，”CommEx 补充道。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-9.29）]]></title>
         <id>https://www.web3sj.com/?p=90012</id>
         <link href="https://www.web3sj.com/news/90012/"/>
@@ -23,6 +53,27 @@
         <summary type="html"><![CDATA[美国SEC推迟对贝莱德等比特币现货ETF作出决议。Valkyrie以太坊期货ETF获得美国SEC批准。CoinDesk因报道SBF加密帝国崩塌新闻而获得商业新闻界最高奖。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CZ：BTCUSDT永续合约的行情显示问题已修复]]></title>
+        <id>https://panewslab.com/zh/articledetails/ce9exygu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ce9exygu.html"/>
+        <updated>2023-09-29T12:21:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月29日消息，CZ在X平台表示，币安平台上BTCUSDT永续合约的行情显示问题已修复。
+此前消息，币安BTCUSDT永续合约K线出现多次闪跌，BTC价格从2.7万美元跌至2706美元左右，并迅速恢复至正常价格水平。对此，CZ表示是由于一些新代码造成，需要恢复和修复数据，预计1-2小时即可修复，这只是显示问题，交易不受影响。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chainlink CCIP现已在BNB Chain主网上线]]></title>
+        <id>https://panewslab.com/zh/articledetails/2r57id32.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2r57id32.html"/>
+        <updated>2023-09-29T12:09:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 9月29日消息，Chainlink CCIP 现已在 BNB Chain 主网上线，使开发人员能够以简单且安全的方式跨链扩展其应用程序。这种集成使跨多链生态系统的开发人员能够安全地扩展到 BNB 链和其他 CCIP 连接的区块链并使用它们进行构建。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -227,36 +278,6 @@ Circle 的文件称，“支付稳定币本身不具备投资合约的基本特�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mercury Fund旗下第五只基金完成1.6亿美元募资]]></title>
-        <id>https://panewslab.com/zh/articledetails/e47iyxxv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/e47iyxxv.html"/>
-        <updated>2023-09-29T01:05:47.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月29日消息，据Bizjournals报道，风投公司Mercury Fund宣布旗下第五只基金Mercury Fund V已完成1.6亿美元募资，是该风投迄今为止完成的规模最大一轮融资。Mercury Fund表示该基金将延续现有投资策略，目前已经投资了为Web3新兴创新机构提供转账服务的Brassica Technologies等创企。Mercury Fund于2022年1月推出，其有限合伙人包括Galaxy Digital和Digital Currency Group等机构投资者以及a16z联合创始人Marc Andreessen和a16z合伙人Chris Dixon等个人投资者。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimism将启动建立安全理事会]]></title>
-        <id>https://panewslab.com/zh/articledetails/42o77tr8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/42o77tr8.html"/>
-        <updated>2023-09-29T00:58:38.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月29日消息，Optimism推特发文称，将进行启动建立安全理事会的进程，这将使其向更加去中心化的超级链网络迈进。Optimism称，将提出一项治理提案，旨在将安理会添加为控制OP主网协议升级的多签的签署者。完整的安理会将由至少8名成员组成，签署门槛为75%，并将通过一系列治理投票来实施。在初始阶段，安理会将成为多签的共同签署者。此后将提出后续治理提案，将多签专门移交给安理会。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博分析师：预计SEC将于明日对Fidelity等3个比特币ETF做出延迟决定]]></title>
-        <id>https://panewslab.com/zh/articledetails/b3xv1z44.html</id>
-        <link href="https://panewslab.com/zh/articledetails/b3xv1z44.html"/>
-        <updated>2023-09-29T00:38:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 9月28日消息，彭博ETF分析师James Seyffart在推特发文称，受美国政府或将停摆影响，预计美国SEC将于明日对Fidelity、VanEck和WidsomTree等3个比特币ETF做出延迟决定。国会两院目前尚未就为政府运营提供资金的各种融资法案达成一致。据此前消息，SEC已对贝莱德、Invesco、Bitwise和Valkyrie的比特币ETF做出推迟决定。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mixin被盗两亿：安全事件还是监守自盗？]]></title>
         <id>https://www.web3sj.com/?p=89984</id>
         <link href="https://www.web3sj.com/news/89984/"/>
@@ -312,26 +333,6 @@ Circle 的文件称，“支付稳定币本身不具备投资合约的基本特�
         <link href="https://www.web3sj.com/news/89949/"/>
         <updated>2023-09-28T10:36:44.000Z</updated>
         <summary type="html"><![CDATA[美国SEC推迟ARK 21Shares和VanEck以太坊ETF决议日期至今年12月。重要提醒：美东时间9月29日是FTX客户提交索赔申请的最后期限。GMX向Arbitrum DAO申请至多1400万枚ARB赠款资助。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TON重生：Telegram Open Network的技术进阶与未来展望]]></title>
-        <id>https://www.web3sj.com/?p=89938</id>
-        <link href="https://www.web3sj.com/project/89938/"/>
-        <updated>2023-09-28T07:35:26.000Z</updated>
-        <summary type="html"><![CDATA[2018 年，Telegram 创始人 Durov 兄弟开始探索适用于 Telegram 的区块链解决方案。当时没有区块链能够支持 Telegram 的亿级用户群，因此他们决定设计自己的 Layer 1 链，起名 Telegram Open Network，简称 TON。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解 Namada：服务于多链生态的模块化隐私方案]]></title>
-        <id>https://www.web3sj.com/?p=89929</id>
-        <link href="https://www.web3sj.com/project/89929/"/>
-        <updated>2023-09-28T06:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Namada 协议作为一个包含多个组件的第 1 层解决方案运行，但使模块化隐私成为可能的基石是两个关键功能：统一屏蔽集（USS）和屏蔽操作（SA）。这些要素远非仅仅是渐进式升级，而是代表了跨链和更广泛的加密领域对隐私实现的重新构想。]]></summary>
         <author>
             <name>Gao</name>
         </author>
