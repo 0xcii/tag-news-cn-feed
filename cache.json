@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 189,
+          "wordCount": 192,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 151,
+          "wordCount": 145,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "这只视频，你分得出是AI还是人做的，算我输。",
           "link": "https://www.defidaonews.com/article/6831550",
           "publishedOn": "2023-09-01T05:30:25.000Z",
-          "wordCount": 125,
+          "wordCount": 133,
           "title": "全流程AI制作的视频广告来了，成本接近传统手法的千分之一……",
           "imageUrl": "https://appserversrc.8btc.cn/DBE9D93AA7E674C9030F14534C053990/1693545485/Fke0RpyPV14Nm3vLi0IonxULAZxQ.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=90016",
+          "author": "Gao",
+          "description": "我们在全球加密货币采用指数中看到了这一点，排名前十的国家中有六个位于该地区： 印度（1）、越南（3）、菲律宾（6）、印度尼西亚（7）、巴基斯坦（8）和泰国（10）。此外，去年 DeFi 在 CSAO 中发挥了更重要的作用，估计在 2022 年 7 月至 2023 年 6 月期间，DeFi 占该地区交易量的 55.8%，而上一年同期为 35.2%。该地区的机构采用率似乎也有所上升，总交易量的 68.8% 来自价值 100 万美元或以上的转账，而前一时期为 57.6％。",
+          "link": "https://www.web3sj.com/news/90016/",
+          "publishedOn": "2023-09-29T13:15:00.000Z",
+          "wordCount": 1039,
+          "title": "Chainalysis研究：印度、菲律宾与巴基斯坦的加密货币大规模应用",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695993285915.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=90012",
+          "author": "Gao",
+          "description": "美国SEC推迟对贝莱德等比特币现货ETF作出决议。Valkyrie以太坊期货ETF获得美国SEC批准。CoinDesk因报道SBF加密帝国崩塌新闻而获得商业新闻界最高奖。",
+          "link": "https://www.web3sj.com/news/90012/",
+          "publishedOn": "2023-09-29T12:52:41.000Z",
+          "wordCount": 851,
+          "title": "Web3世界日报（2023-9.29）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092912512059.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=89984",
           "author": "Gao",
           "description": "对于慢雾的说法，Mixin Kernel 官方迅速作出了回应，其表示慢雾的说法的确属实。对此，经过所有节点的讨论，Mixin Network 决定暂停充值和提现服务。一旦漏洞得到确认并修复，服务将重新开放。在此期间，转账不受影响。目前，Mixin 团队已联系谷歌和慢雾团队协助调查。而他们也将在之后公布处理损失资产的解决方案。",
           "link": "https://www.web3sj.com/news/89984/",
           "publishedOn": "2023-09-28T16:51:54.000Z",
-          "wordCount": 1115,
+          "wordCount": 1105,
           "title": "Mixin被盗两亿：安全事件还是监守自盗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695919886624.png"
         },
@@ -58,7 +78,7 @@
           "description": "Satoru 由 StarkWare 探索团队 Keep StarkNet Strange 开发，该探索团队主要推动创新项目的推出并与社区合作。所有项目从第一天起就完全开源。基于 CairoVM 构建的模块化 zkEVM、高性能定序器 Madara 等就是 StarkWare 探索团队发起的项目。",
           "link": "https://www.web3sj.com/definews/89976/",
           "publishedOn": "2023-09-28T12:01:50.000Z",
-          "wordCount": 987,
+          "wordCount": 963,
           "title": "「Starknet 版 GMX」Satoru 立项，衍生品市场将再起波澜？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695902496008.png"
         },
@@ -68,7 +88,7 @@
           "description": "俄罗斯曾是币安最大的交易市场之一，其法币业务也是其重要业务之一。但俄乌战争后，币安在俄罗斯地区的业务变得尴尬。由于美国对俄罗斯金融业实施了广泛制裁。许多俄罗斯人无法将卢布电汇到国外的银行帐户或将钱兑换成其他货币，而加密货币成为俄罗斯人从此限制中脱困的方法之一。",
           "link": "https://www.web3sj.com/news/89967/",
           "publishedOn": "2023-09-28T11:49:17.000Z",
-          "wordCount": 975,
+          "wordCount": 955,
           "title": "币安为什么急于将俄罗斯业务出售给一家刚上线的交易所？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695901737330.png"
         },
@@ -78,7 +98,7 @@
           "description": "现实世界资产（Real World Assets，简称 RWA）指的是通过区块链技术进行代币化的传统资产，这一过程赋予了这些资产数字形态和可编程特性。在这个框架下，各种类型的资产—从房地产和基础设施到艺术品和私募股权—都可以被转化为数字代币。",
           "link": "https://www.web3sj.com/definews/89955/",
           "publishedOn": "2023-09-28T11:45:47.000Z",
-          "wordCount": 1905,
+          "wordCount": 1911,
           "title": "RWA潜力探讨: 继美元稳定币后下一个大规模应用赛道？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695901535653.png"
         },
@@ -88,7 +108,7 @@
           "description": "上一篇文章，系统科普过 Data Availability 数据可用性概念，简单来说，DA 层的价值在于确保区块链帐本系统的数据可追溯、可验证安全特性，至关重要。以时下大火的 Layer2 赛道为例，碍于以太坊主网的数据容量和可扩展性瓶颈，ZK-Rollup 和 Op-Rollup 在主网 DA 依赖程度上差异很大。",
           "link": "https://www.web3sj.com/news/89952/",
           "publishedOn": "2023-09-28T11:41:47.000Z",
-          "wordCount": 1004,
+          "wordCount": 963,
           "title": "Celestia为何会选择熊市推出代币？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695901293026.png"
         },
@@ -98,7 +118,7 @@
           "description": "美国SEC推迟ARK 21Shares和VanEck以太坊ETF决议日期至今年12月。重要提醒：美东时间9月29日是FTX客户提交索赔申请的最后期限。GMX向Arbitrum DAO申请至多1400万枚ARB赠款资助。",
           "link": "https://www.web3sj.com/news/89949/",
           "publishedOn": "2023-09-28T10:36:44.000Z",
-          "wordCount": 942,
+          "wordCount": 955,
           "title": "Web3世界日报（2023-9.28）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092810350213.jpg"
         },
@@ -108,7 +128,7 @@
           "description": "2018 年，Telegram 创始人 Durov 兄弟开始探索适用于 Telegram 的区块链解决方案。当时没有区块链能够支持 Telegram 的亿级用户群，因此他们决定设计自己的 Layer 1 链，起名 Telegram Open Network，简称 TON。",
           "link": "https://www.web3sj.com/project/89938/",
           "publishedOn": "2023-09-28T07:35:26.000Z",
-          "wordCount": 1277,
+          "wordCount": 1251,
           "title": "TON重生：Telegram Open Network的技术进阶与未来展望",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695886182098.png"
         },
@@ -118,29 +138,9 @@
           "description": "Namada 协议作为一个包含多个组件的第 1 层解决方案运行，但使模块化隐私成为可能的基石是两个关键功能：统一屏蔽集（USS）和屏蔽操作（SA）。这些要素远非仅仅是渐进式升级，而是代表了跨链和更广泛的加密领域对隐私实现的重新构想。",
           "link": "https://www.web3sj.com/project/89929/",
           "publishedOn": "2023-09-28T06:29:29.000Z",
-          "wordCount": 975,
+          "wordCount": 950,
           "title": "详解 Namada：服务于多链生态的模块化隐私方案",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/2023092811302384256974.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89918",
-          "author": "Gao",
-          "description": "Optimism 是基于 Optimism Rollup 技术的二层扩容方案，在能承载大规模处理交易的同时保有以太坊的安全性。同时 Optimism 实现了 EVM 等效性，以太坊上的 Solidity 智能合约可以在 Optimism 的 Layer2 上运行，且不需要构建额外的功能，开发者可以无缝转接到 Optimism 上开发应用。其主要特点是使以太坊应用程序上的交易变得非常便宜，通过将交易从区块链转移到另一个区块链，矿工费就大大降低了，吞吐量也增加了。",
-          "link": "https://www.web3sj.com/project/89918/",
-          "publishedOn": "2023-09-28T06:14:21.000Z",
-          "wordCount": 1590,
-          "title": "Optimism深度研究报告： 扎实的原生团队与Layer2超级朋友圈",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695881646220.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=89908",
-          "author": "Gao",
-          "description": "如果你在整个熊市中一直关注加密货币，你可能听说过以太坊的「基于 rollup 的」路线图。通过 EIP-4844，以太坊主网通过引入新概念 blobs 为这些扩展解决方案提供了帮助。",
-          "link": "https://www.web3sj.com/news/89908/",
-          "publishedOn": "2023-09-28T06:00:02.000Z",
-          "wordCount": 1041,
-          "title": "Bankless：坎昆升级EIP-4844的Blob到底是什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1695880771035.png"
         }
       ]
     },
