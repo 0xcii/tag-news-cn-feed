@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 195,
+          "wordCount": 189,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 152,
+          "wordCount": 149,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         }
@@ -33,12 +33,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=90239",
+          "author": "Gao",
+          "description": "加密初创公司 Bastion 完成 2500 万美元种子轮融资，a16z crypto 领投，野村集团旗下 Laser Digital Ventures、Robot Ventures 等参投。Bastion 提供加密货币托管等服务，首批员工包括来自 Kraken 等加密货币交易所的监管和合规高管。",
+          "link": "https://www.web3sj.com/news/90239/",
+          "publishedOn": "2023-10-03T13:55:17.000Z",
+          "wordCount": 1079,
+          "title": "一级市场极冷，9月融资金额再创新低",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16963413001.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=90235",
+          "author": "Gao",
+          "description": "在比特币上发行资产的想法由来已久。但比特币协议有自身的特性：其状态由且仅由比特币 UTXO（「未花费的交易输出」）来表达；一个 UTXO 仅携带两个数据：它自身的面额（比特币价值），以及一个「脚本公钥」（也称为「锁定脚本」），用于编程这笔资金的花费条件，例如：提供某个公钥的签名；允许用来编程锁定脚本的操作码由比特币的共识规则提供，它们不能用来实现任意的安全规则。",
+          "link": "https://www.web3sj.com/news/90235/",
+          "publishedOn": "2023-10-03T13:50:49.000Z",
+          "wordCount": 1093,
+          "title": "一文读懂资产发行协议RGB的真正潜能",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16963410331.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=90230",
+          "author": "Gao",
+          "description": "Telegram 拥有全球范围内庞大的用户基础，注册用户量 13 亿，其中许多用户来自俄罗斯、伊朗、印度和其他亚洲和欧洲国家。据 Telegram 创始人 7 月 18 在其个人频道中表示，Telegram 每天都有超过 250 万新用户注册，月活已超过 8 亿。",
+          "link": "https://www.web3sj.com/project/90230/",
+          "publishedOn": "2023-10-03T13:40:39.000Z",
+          "wordCount": 1172,
+          "title": "背靠8亿月活社交巨头，TON生态将昙花一现还是高歌猛进？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16963404111.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=90223",
+          "author": "Gao",
+          "description": "KYT 是 Know Your Transaction 的缩写，意思是了解你的交易。KYT 是一种金融机构用来监控和跟踪金融交易是否存在欺诈或可疑活动的过程，KYT 可以帮助金融机构识别每笔交易的来源和去向，评估交易风险，采取相应的措施，以及向监管部门报告可疑交易。",
+          "link": "https://www.web3sj.com/news/90223/",
+          "publishedOn": "2023-10-03T13:32:50.000Z",
+          "wordCount": 1044,
+          "title": "区块链创业反洗钱合规KYT，应该怎么做？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16963399431.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=90205",
+          "author": "Gao",
+          "description": "Rollup 赛道在两位巨人的引领下，整个赛道的 TVL 一度突破 100 亿美元，目前稳定在 100 亿美元上下。Rollup 作为以太坊“招牌”的扩容解决方案被津津乐道的背后，它们仍然存在非抗审查、中心化的属性。主流的 Rollup 链普遍由官方运行中心化的排序器，虽然 Arbitrum, Optimism, StarkNet 等 Rollup 项目把排序器的去中心化列入路线图中，但均处于规划中短期内尚未实现的状态。",
+          "link": "https://www.web3sj.com/news/90205/",
+          "publishedOn": "2023-10-03T13:29:12.000Z",
+          "wordCount": 1541,
+          "title": "Rollup 2.0：去中心化排序器之争",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696339734.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=90200",
           "author": "Gao",
           "description": "Volatility Shares撤回以太坊期货ETF申请。Arbitrum已启动第二周奥德赛活动，任务在TofuNFT和Aboard Exchange上进行。Starknet生态衍生品协议ZKX启动第一阶段空投。",
           "link": "https://www.web3sj.com/news/90200/",
           "publishedOn": "2023-10-03T12:14:20.000Z",
-          "wordCount": 836,
+          "wordCount": 874,
           "title": "Web3世界日报（2023-10.3）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023100312121181.jpg"
         },
@@ -48,7 +98,7 @@
           "description": "从8月初开始越来越多加密货币交易所获得、或是原则上获准监管批复的牌照，而他们面临的最大问题之一就是要在银行开户，毕竟这是加密货币交易所可以合法出金和入金的关键一环。本文将帮助大家厘清香港银行的账户类型，以及不同账户之间的差异，让加密货币交易所可以按需申请。",
           "link": "https://www.web3sj.com/news/90177/",
           "publishedOn": "2023-10-01T15:19:02.000Z",
-          "wordCount": 827,
+          "wordCount": 831,
           "title": "加密货币交易所在香港开户指南：如何识别两类银行账户",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/rbQ0ViB2TnKfFRvGvZtpj6jhr7m3fwXpe64GcUJ5.jpg"
         },
@@ -58,7 +108,7 @@
           "description": "以太坊区块链彻底改变了去中心化应用程序和智能合约，但每笔交易都会产生以太坊gas费。在本指南中，我们将揭开以太坊gas费的神秘面纱，了解其基本原理、计算方法、影响成本的因素以及在控制成本的同时优化交易的有效策略。",
           "link": "https://www.web3sj.com/news/90174/",
           "publishedOn": "2023-10-01T15:14:07.000Z",
-          "wordCount": 1034,
+          "wordCount": 1014,
           "title": "解读以太坊Gas费的计算：如何降低交易成本？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16961732201.png"
         },
@@ -68,7 +118,7 @@
           "description": "内容显示，Do Kwon 近乎直白的承认他们伪造了交易量。除此之外，更多劲爆的“瓜”也潜藏其中，既有对同行的炮轰，也有对散户的鄙夷。其中最令人震惊的，当属自曝预挖 10 亿稳定币。带你进入吃瓜时刻，速览  Do Kwon  说了什么。",
           "link": "https://www.web3sj.com/news/90167/",
           "publishedOn": "2023-10-01T15:10:44.000Z",
-          "wordCount": 1017,
+          "wordCount": 1063,
           "title": "Do Kwon聊天记录曝光：大瓜不断，远不止伪造交易",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696173029.png"
         },
@@ -78,59 +128,9 @@
           "description": "Friend.tech 是构建在 Base 区块链上的去中心化社交应用，用户需要通过绑定推特和钱包来使用 Friend.tech 并以此获利。Friend.tech 的定位是将用户的影响力代币化，用户可以购买其他用户的「Key」（原名为 Share）以获得和其他用户直接交流的权限。",
           "link": "https://www.web3sj.com/news/90154/",
           "publishedOn": "2023-10-01T15:00:16.000Z",
-          "wordCount": 1179,
+          "wordCount": 1197,
           "title": "Friend.tech有何潜在风险？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16961724031.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90149",
-          "author": "Gao",
-          "description": "在这样的背景下，日本区块链技术公司 Earlyworks（Nasdaq: ELWS）于 2023 年 7 月 25 日成功在美国纳斯达克上市，成为首家在美国主板上市的日本区块链公司，引起了业界的广泛关注。",
-          "link": "https://www.web3sj.com/news/90149/",
-          "publishedOn": "2023-10-01T14:34:35.000Z",
-          "wordCount": 936,
-          "title": "日本区块链技术公司Earlyworks成功登陆纳斯达克，探索区块链的无限可能",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16961708621.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90145",
-          "author": "Gao",
-          "description": "矿企Integrated Ventures 2023年已开采162枚BTC。Lybra Finance：LBR迁移阶段已正式结束，超过200万枚LBR未完成迁移。Worldcoin的5家做市商链上持有约3572万枚WLD。",
-          "link": "https://www.web3sj.com/news/90145/",
-          "publishedOn": "2023-10-01T10:28:39.000Z",
-          "wordCount": 964,
-          "title": "Web3世界日报（2023-10.1）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023100110265376.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90124",
-          "author": "Gao",
-          "description": "根据报道，由于 Su Zhu 故意不遵守法院命令——要求他配合清算人进行调查，并解释他在任职 3AC 期间的相关活动，作为 3AC 联合清算人的 Teneo 于 9 月 25 日向当地法院申请对 Su Zhu 的拘押令。法院最终批准了申请，于今日抓捕了 Su ZHu，并判处其四个月监禁。",
-          "link": "https://www.web3sj.com/news/90124/",
-          "publishedOn": "2023-09-30T13:49:14.000Z",
-          "wordCount": 963,
-          "title": "Su Zhu锒铛入狱，但这仅仅只是个开始",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/1696081765.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90117",
-          "author": "Gao",
-          "description": "书中作者认为，我们无法想象一个不受国家统治的世界，就像中世纪的人们无法想象一个不受罗马教会统治的世界一样。虽然他们没能预言教会作为一个机构的彻底垮台，但他们预测了国家作为人类活动中间人的终结。",
-          "link": "https://www.web3sj.com/news/90117/",
-          "publishedOn": "2023-09-30T13:45:55.000Z",
-          "wordCount": 886,
-          "title": "利维坦的最后阵痛：世界将如何去中心化？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/16960815721.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90114",
-          "author": "Gao",
-          "description": "区块链和智能合约应用大规模普及的一个主要障碍一直是相关法律和监管地位的缺失与层出不穷的争议问题。要想实现真正的创新，区块链系统必须具备一些独特的属性，使其有别于现有系统，从而证明有必要对其进行专门的监管处理。这种创新的基石是「充分的去中心化」——这一特性是为了保证可靠性和弹性，即使在敌对环境或其他挑战中能够维持。",
-          "link": "https://www.web3sj.com/news/90114/",
-          "publishedOn": "2023-09-30T13:41:30.000Z",
-          "wordCount": 821,
-          "title": "Placeholder：为什么说监管合规是区块链去中心化的最后一步？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/09/16960813151.png"
         }
       ]
     },
@@ -145,7 +145,7 @@
           "description": "PANews 10月3日消息，据Cointelegraph报道，巴西主要投资银行BTG Pactual正在收购加密货币友好经纪公司Orama，作为其扩展银行数字平台战略的一部分。BTG Pactual已签署协议，将以5亿巴西雷亚尔（9870万美元）购买Orama 100%的股份。此次收购尚需获得包括巴西央行在内的当局必要的监管批准。\n据悉，Orama成立于2011年，据称托管着近180亿雷亚尔（约合36亿美元）的资产，为约36万客户提供服务。Orama专注于投资基金和固定收益产品的分销，同时也一直在探索加密货币投资。",
           "link": "https://panewslab.com/zh/articledetails/t31uephf.html",
           "publishedOn": "2023-10-03T12:05:36.000Z",
-          "wordCount": 360,
+          "wordCount": 354,
           "title": "巴西投行BTG Pactual正以约9900万美元收购加密友好经纪公司Orama",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -155,7 +155,7 @@
           "description": "PANews 10月3日消息，据Cointelegraph报道，区块链安全公司Match Systems发现，一名Telegram用户正在通过点对点转账、以折价出售被盗的加密货币，这些加密货币与CoinEx和Stake最近的黑客攻击有关。调查人员成功识别并联系了Telegram上提供被盗资产的个人。该团队确认，该用户在从相应地址收到一笔小额交易后，控制了一个包含价值超过600万美元加密货币的地址。\n被盗资产的出售是通过专门创建的Telegram机器人进行的，该机器人以市场价格3%的折扣出售这些资产，最初提供的资产已被出售，新的代币将在大约三周后出售。匹配系统团队无法完全识别该人的身份，但根据他们收到的几张屏幕截图和对话时间，将他们的位置范围缩小到了欧洲时区。",
           "link": "https://panewslab.com/zh/articledetails/ftv7qegt.html",
           "publishedOn": "2023-10-03T12:02:27.000Z",
-          "wordCount": 345,
+          "wordCount": 339,
           "title": "安全公司：某Telegram用户正折价出售CoinEx和Stake相关被盗资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +165,7 @@
           "description": "PANews 10月3日消息，zkSync宣布其漏洞赏金计划现已开始，本次活动在Code4rena平台启动，总奖金池最高达110万美元。\n本次活动将在北京时间10月3日4时至10月24日4时进行，持续21天。审计范围涵盖L1和L2系统智能合约、电路和虚拟机（VM）实施。",
           "link": "https://panewslab.com/zh/articledetails/cgdm35o6.html",
           "publishedOn": "2023-10-03T11:37:22.000Z",
-          "wordCount": 368,
+          "wordCount": 362,
           "title": "zkSync启动最高110万美元的漏洞赏金计划",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +175,7 @@
           "description": "PANews 10月3日消息，据Blockworks报道，币安及其首席执行官赵长鹏遭到集体诉讼，原告Nir ​​Lahav发起的起诉书称，币安的行为旨在通过故意损害FTX实体运营的竞争交易平台来垄断加密货币市场。\n该诉讼称赵长鹏宣布清算FTT、欲收购FTX又撤回等行为导致FTX实体迅速崩溃和破产，为其客户造成数十亿美元的财务损失。Lahav声称其因FTX交易平台倒闭前进行的交易而蒙受损失。",
           "link": "https://panewslab.com/zh/articledetails/v9xl551m.html",
           "publishedOn": "2023-10-03T11:24:44.000Z",
-          "wordCount": 347,
+          "wordCount": 341,
           "title": "币安在一起集体诉讼中被控垄断加密市场并加速FTX破产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +185,7 @@
           "description": "PANews 10月3日消息，据Blockworks报道，原生USDC将于本月晚些时候上线Cosmos主网。稳定币USDC发行商Circle今天在Cosmoverse会议上宣布，该公司将与基于Cosmos的代币协议Noble一起实施其跨链传输协议（CCTP），这将是CCTP首次与非以太坊虚拟机（EVM）链集成。\n由于Noble本身与Cosmos区块链间通信协议（IBC）集成，CCTP的功能将扩展到所有连接到IBC的Cosmos链，从而在交易USDC时不再需要跨链桥。",
           "link": "https://panewslab.com/zh/articledetails/0do394gm.html",
           "publishedOn": "2023-10-03T10:23:35.000Z",
-          "wordCount": 360,
+          "wordCount": 354,
           "title": "原生USDC将于本月晚些时候上线Cosmos主网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +195,7 @@
           "description": "PANews 10月3日消息，据Lookonchain监测，AKRO的价格在过去1个月内下跌了55%。在过去两周内，某巨鲸（或做市商）将8月2日至8月4日期间从币安提取的8.609亿枚AKRO（约合585万美元）存入币安。",
           "link": "https://panewslab.com/zh/articledetails/dq784353.html",
           "publishedOn": "2023-10-03T10:17:50.000Z",
-          "wordCount": 357,
+          "wordCount": 351,
           "title": "某巨鲸近两周将价值约585万美元的AKRO存至币安",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +205,7 @@
           "description": "PANews 10月3日消息，据官方公告，Sui基金会宣布在第五轮资助中，有17个项目获得了105万美元的资助，用于建设项目以推动Sui的采用和发展。本次受资助的17个项目致力于在DeFi、支付、基础设施、预言机等核心领域提供产品和服务。\n其中包括多链平台Blockberry、构建于Unreal Engine 5的免费第三人称竞技射击游戏Bushi、多链AMM/DEX分析平台CoinBrain、链上解决方案Crumb Finance、DEX聚合器和启动平台FlowX Finance、多链索引解决方案Indexer.xyz、Kuna Labs开发的Sui Snap Wallet、DeFi协议Mole、基于Sui构建的本地流动性协议NAVI Protocol、CryptoCoders构建的社交活动与链上资产整合平台NFC's on Sui、UI工具Scallop Tools、Kuna Labs的智能合约SDK生成器、混合预言机Stork、Movebit开发的Sui Contract Source Verifier、Sui生态工具和社区平台SuiOwls、Payment 3.0解决方案Surf Wallet、k8s节点部署Zeus。",
           "link": "https://panewslab.com/zh/articledetails/3oeo26kp.html",
           "publishedOn": "2023-10-03T10:12:38.000Z",
-          "wordCount": 385,
+          "wordCount": 379,
           "title": "Sui第五轮资助：17个项目共获105万美元资助金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +215,7 @@
           "description": "PANews 10月3日消息，Arbitrum宣布第二周奥德赛活动已启动，本周互动任务在NFT市场TofuNFT以及订单簿永续DEX Aboard Exchange上进行，完成任务后，用户可领取Galxe徽章，申领将开放至北京时间10月8日00:00。",
           "link": "https://panewslab.com/zh/articledetails/86uolpcu.html",
           "publishedOn": "2023-10-03T10:04:05.000Z",
-          "wordCount": 363,
+          "wordCount": 357,
           "title": "Arbitrum已启动第二周奥德赛活动，任务在TofuNFT和Aboard Exchange上进行",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -225,7 +225,7 @@
           "description": "PANews 10月3日消息，据Lookonchain监测，DWF Labs 15分钟前将20万枚FET（约合4.5万美元）存入Bybit。目前DWF Labs仍持有780万枚FET（约合176万美元）。",
           "link": "https://panewslab.com/zh/articledetails/z1j48jvy.html",
           "publishedOn": "2023-10-03T10:02:14.000Z",
-          "wordCount": 365,
+          "wordCount": 359,
           "title": "DWF Labs将20万枚FET存入Bybit，仍持有780万枚FET",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 10月3日消息，AirDAO在官方博客中宣布从DWF Labs获得750万美元投资（为期一年的锁定期和解锁期36个月），以促进AirDAO生态系统的更广泛采用，这是继2022年9月获得DWF Labs 200万美元投资之后的合作伙伴关系的延续和扩展。\n据悉，AirDAO是一个管理AMB-Net（Ambrosus网络）公链的去中心化自治组织，AMB-Net是一个Layer1公链，目前AMB-Net已经建立了一系列生态功能，包括加密仪表板、跨链桥、Swap交易平台等。\n此前今日早些时候消息，DWF Labs转出750万USDT并收到约合1874万美元的AMB。",
           "link": "https://panewslab.com/zh/articledetails/ac5wvstm.html",
           "publishedOn": "2023-10-03T09:25:45.000Z",
-          "wordCount": 375,
+          "wordCount": 369,
           "title": "AirDAO宣布获得DWF Labs 750万美元投资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 10月3日消息，据Scand Asia报道，泰国税务局已根据《税务法》第41条第2款发出所得税缴纳令。新的税收政策规定，每年在该国居住超过180天的外籍人士将适用此征税条款。该政策将于2024年1月1日起实施。 新税则规定，当外籍人士的海外收入被转移到泰国时，则需在泰国缴纳个人所得税。但转移储蓄则不被计入其中。该收入包括任何收入来源，海外加密货币交易收入也将被计入其中。\n此前9月19日消息，泰国计划对加密货币交易者的海外收入征税 。",
           "link": "https://panewslab.com/zh/articledetails/a7hqe172.html",
           "publishedOn": "2023-10-03T09:19:56.000Z",
-          "wordCount": 357,
+          "wordCount": 351,
           "title": "泰国税务局出台新税收政策，海外加密货币交易收入需缴税",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 10月3日消息，据Cointelegraph报道，支付巨头Visa于10月2日宣布推出一项1亿美元的生成式人工智能新基金，投资于专注于开发与商业和支付相关的生成式人工智能技术和应用程序的公司。这项投资将由Visa的全球企业投资部门Visa Ventures负责策划。",
           "link": "https://panewslab.com/zh/articledetails/31qbmkyt.html",
           "publishedOn": "2023-10-03T09:14:14.000Z",
-          "wordCount": 356,
+          "wordCount": 350,
           "title": "支付巨头Visa推出价值1亿美元的生成式AI专项投资基金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 10月3日消息，据曾因证券欺诈被入狱4年左右的药业大亨Martin Shkreli在X平台上的帖子，《大空头》作者Michael Lewis表示，在FTX 90亿美元的欠款中，FTX前50大账户有40亿美元在该交易所。\n其中最大的账户是Jump Trading，有2.06亿美元在该交易所。排名第50的是新加坡的做市巨头Virtu Financial，有1000万美元在该交易所。加上的另一个账户，Jump Trading共计有2.8亿美元在该交易所。\n资金被锁在该交易所的账户中有很多都是FTX员工，其中包括前FTX首席运营官Constance的2500万美元被锁在该交易所。",
           "link": "https://panewslab.com/zh/articledetails/6kazcz79.html",
           "publishedOn": "2023-10-03T09:09:49.000Z",
-          "wordCount": 357,
+          "wordCount": 351,
           "title": "《大空头》作者：FTX欠前50大账户共40亿美元，其中包括Jump的2.8亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 10月3日消息，据Lookonchain监测，DWF Labs在过去1小时内转出750万USDT，并收到了15亿枚AMB（约合1874万美元）。",
           "link": "https://panewslab.com/zh/articledetails/9512iwn8.html",
           "publishedOn": "2023-10-03T08:50:43.000Z",
-          "wordCount": 359,
+          "wordCount": 353,
           "title": "DWF Labs转出750万USDT并收到约合1874万美元的AMB",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 10月3日消息，据彭博社报道，新加坡内政部第二部长Josephine Teo表示，当局在最大宗洗钱案调查中扣押或冻结了价值超过28亿新元（合20亿美元）的资产，包括152处房产、62辆汽车、数千瓶酒、加密货币、金条和珠宝。同时暗示政府可能收紧移民规定，以遏制非法资金流入。目前关于此案的调查仍在进行中。\n此前9月21日消息，新加坡最大宗洗钱案总涉案金额扩大至24亿新元。\n相关阅读：一览新加坡50亿洗钱案：国内支付产业要变天？",
           "link": "https://panewslab.com/zh/articledetails/k74o3muw.html",
           "publishedOn": "2023-10-03T08:34:54.000Z",
-          "wordCount": 359,
+          "wordCount": 353,
           "title": "新加坡当局已在该国最大宗洗钱案调查中查获28亿新元资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 10月3日消息，据官方消息，Moonbirds母公司PROOF宣布，为了确保长期生存，PROOF团队已进行了重组，将团队规模缩减至22人。PROOF表示：“尽管团队发生变化，但仍对未来的发展和承诺充满信心，财务状况依然强劲，缩减团队规模是一项积极主动的措施。”\nPROOF还表示，即将发布秋冬新品：Talons、Grails V和PROOF Collective艺术作品。",
           "link": "https://panewslab.com/zh/articledetails/x560rsri.html",
           "publishedOn": "2023-10-03T08:19:25.000Z",
-          "wordCount": 349,
+          "wordCount": 343,
           "title": "Moonbirds母公司PROOF在重组中将团队规模缩减至22人",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 10月3日消息，据官方公告，币安将支持Sei（SEI）、IOTA（IOTA）及Arweave（AR）网络升级及硬分叉，具体安排如下：\nSei（SEI）项目方将于区块高度29,772,820（预计2023年10月03日23:00）进行网络升级；币安预计将于2023年10月03日22:00暂停上述网络的代币充值、提现业务。\nIOTA（IOTA）项目方将于milestone 7,669,900（预计2023年10月04日14:00）进行网络升级及硬分叉。此次升级后，IOTA代币总供应量将更新为46亿。币安预计将于2023年10月04日13:00暂停上述网络的代币充值、提现业务。\nArweave（AR）项目方将于区块高度1,275,480（预计2023年10月05日15:00）进行网络升级及硬分叉；币安预计将于2023年10月05日14:00暂停上述网络的代币充值、提现业务。",
           "link": "https://panewslab.com/zh/articledetails/1rjucsj1.html",
           "publishedOn": "2023-10-03T08:14:09.000Z",
-          "wordCount": 343,
+          "wordCount": 337,
           "title": "币安将支持Sei、IOTA及Arweave网络升级及硬分叉",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 10月3日消息，BTC.com数据显示，比特币挖矿难度于今日15:58（区块高度810432处）迎来了挖矿难度调整，挖矿难度上调0.35%至57.32T，创历史新高。目前全网平均算力为417.73 EH/s。",
           "link": "https://panewslab.com/zh/articledetails/c5co7r25.html",
           "publishedOn": "2023-10-03T08:12:08.000Z",
-          "wordCount": 354,
+          "wordCount": 348,
           "title": "比特币挖矿难度上调0.35%至57.32T，创历史新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 10月3日消息，据Cointelegraph报道，瑞士加密货币银行Sygnum的子公司Sygnum Singapore宣布获得新加坡金融管理局 (MAS) 颁发的大型支付机构许可证 (MPIL)，这项额外的许可证使其能够扩展服务范围，为客户提供DPT交易服务。Sygnum新加坡发言人在接受采访时透露，该公司在四个月内从原则批准过渡到完全许可。\n另据透露，该公司计划将其受监管的产品扩展到香港等亚太地区 (APAC) 市场。发言人表示：“获得MPIL使我们能够为新加坡的客户提供更多Sygnum完全受监管的加密产品套件。”",
           "link": "https://panewslab.com/zh/articledetails/1u8mpoix.html",
           "publishedOn": "2023-10-03T08:03:30.000Z",
-          "wordCount": 364,
+          "wordCount": 358,
           "title": "新加坡向Sygnum银行子公司颁发大型支付机构牌照",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 10月3日消息，据金十报道，泰国总理表示，数字钱包政策旨在为2024年创造500亿美元或国内生产总值增长5%的涟漪效应。",
           "link": "https://panewslab.com/zh/articledetails/syci92p2.html",
           "publishedOn": "2023-10-03T07:13:35.000Z",
-          "wordCount": 340,
+          "wordCount": 334,
           "title": "泰国总理：计划通过数字钱包政策带动明年GDP增长5%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -352,7 +352,7 @@
           "description": "1.慢雾创始人：近几日陆续出现用户friend.tech账号被黑资产被盗情况。\n\n2.Solana联创：以太坊体现「资产阶级数字暴政」。\n\n3.币安及其首席执行官因涉嫌操纵市场、破坏FTX稳定面临集体诉讼。\n\n4.瑞银在以太坊上试点代币化货币市场基金。\n\n5.此前以1680美元的均价追涨买入1.1万枚ETH的巨鲸在凌晨以1674美元的均价抛售1万枚ETH。\n\n6.报告：东亚占全球加密市场交易总量的近8.8%。\n\n7.美国SEC和其他5个美国监管机构发布加密货币投资警告。\n\n8.肯尼亚调查委员会：Worldcoin的行为“构成间谍行为并对国家地位构成威胁”。\n\n9.TomoChain宣布获DWF Labs七位数投资。",
           "link": "https://www.hellobtc.com/news/202310/21281.html",
           "publishedOn": "2023-10-03T03:03:00.000Z",
-          "wordCount": 321,
+          "wordCount": 318,
           "title": "白话区块链早报：近几日陆续出现用户friend.tech账号被黑资产被盗情况",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },

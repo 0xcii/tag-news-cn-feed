@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T13:16:44.676Z</id>
+    <id>urn:2023-10-03T14:12:35.573Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T13:16:44.676Z</updated>
+    <updated>2023-10-03T14:12:35.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一级市场极冷，9月融资金额再创新低]]></title>
+        <id>https://www.web3sj.com/?p=90239</id>
+        <link href="https://www.web3sj.com/news/90239/"/>
+        <updated>2023-10-03T13:55:17.000Z</updated>
+        <summary type="html"><![CDATA[加密初创公司 Bastion 完成 2500 万美元种子轮融资，a16z crypto 领投，野村集团旗下 Laser Digital Ventures、Robot Ventures 等参投。Bastion 提供加密货币托管等服务，首批员工包括来自 Kraken 等加密货币交易所的监管和合规高管。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂资产发行协议RGB的真正潜能]]></title>
+        <id>https://www.web3sj.com/?p=90235</id>
+        <link href="https://www.web3sj.com/news/90235/"/>
+        <updated>2023-10-03T13:50:49.000Z</updated>
+        <summary type="html"><![CDATA[在比特币上发行资产的想法由来已久。但比特币协议有自身的特性：其状态由且仅由比特币 UTXO（「未花费的交易输出」）来表达；一个 UTXO 仅携带两个数据：它自身的面额（比特币价值），以及一个「脚本公钥」（也称为「锁定脚本」），用于编程这笔资金的花费条件，例如：提供某个公钥的签名；允许用来编程锁定脚本的操作码由比特币的共识规则提供，它们不能用来实现任意的安全规则。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[背靠8亿月活社交巨头，TON生态将昙花一现还是高歌猛进？]]></title>
+        <id>https://www.web3sj.com/?p=90230</id>
+        <link href="https://www.web3sj.com/project/90230/"/>
+        <updated>2023-10-03T13:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Telegram 拥有全球范围内庞大的用户基础，注册用户量 13 亿，其中许多用户来自俄罗斯、伊朗、印度和其他亚洲和欧洲国家。据 Telegram 创始人 7 月 18 在其个人频道中表示，Telegram 每天都有超过 250 万新用户注册，月活已超过 8 亿。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链创业反洗钱合规KYT，应该怎么做？]]></title>
+        <id>https://www.web3sj.com/?p=90223</id>
+        <link href="https://www.web3sj.com/news/90223/"/>
+        <updated>2023-10-03T13:32:50.000Z</updated>
+        <summary type="html"><![CDATA[KYT 是 Know Your Transaction 的缩写，意思是了解你的交易。KYT 是一种金融机构用来监控和跟踪金融交易是否存在欺诈或可疑活动的过程，KYT 可以帮助金融机构识别每笔交易的来源和去向，评估交易风险，采取相应的措施，以及向监管部门报告可疑交易。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollup 2.0：去中心化排序器之争]]></title>
+        <id>https://www.web3sj.com/?p=90205</id>
+        <link href="https://www.web3sj.com/news/90205/"/>
+        <updated>2023-10-03T13:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Rollup 赛道在两位巨人的引领下，整个赛道的 TVL 一度突破 100 亿美元，目前稳定在 100 亿美元上下。Rollup 作为以太坊“招牌”的扩容解决方案被津津乐道的背后，它们仍然存在非抗审查、中心化的属性。主流的 Rollup 链普遍由官方运行中心化的排序器，虽然 Arbitrum, Optimism, StarkNet 等 Rollup 项目把排序器的去中心化列入路线图中，但均处于规划中短期内尚未实现的状态。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-10.3）]]></title>
         <id>https://www.web3sj.com/?p=90200</id>
@@ -365,56 +415,6 @@ Arweave（AR）项目方将于区块高度1,275,480（预计2023年10月05日15:
         <link href="https://www.web3sj.com/news/90154/"/>
         <updated>2023-10-01T15:00:16.000Z</updated>
         <summary type="html"><![CDATA[Friend.tech 是构建在 Base 区块链上的去中心化社交应用，用户需要通过绑定推特和钱包来使用 Friend.tech 并以此获利。Friend.tech 的定位是将用户的影响力代币化，用户可以购买其他用户的「Key」（原名为 Share）以获得和其他用户直接交流的权限。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本区块链技术公司Earlyworks成功登陆纳斯达克，探索区块链的无限可能]]></title>
-        <id>https://www.web3sj.com/?p=90149</id>
-        <link href="https://www.web3sj.com/news/90149/"/>
-        <updated>2023-10-01T14:34:35.000Z</updated>
-        <summary type="html"><![CDATA[在这样的背景下，日本区块链技术公司 Earlyworks（Nasdaq: ELWS）于 2023 年 7 月 25 日成功在美国纳斯达克上市，成为首家在美国主板上市的日本区块链公司，引起了业界的广泛关注。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-10.1）]]></title>
-        <id>https://www.web3sj.com/?p=90145</id>
-        <link href="https://www.web3sj.com/news/90145/"/>
-        <updated>2023-10-01T10:28:39.000Z</updated>
-        <summary type="html"><![CDATA[矿企Integrated Ventures 2023年已开采162枚BTC。Lybra Finance：LBR迁移阶段已正式结束，超过200万枚LBR未完成迁移。Worldcoin的5家做市商链上持有约3572万枚WLD。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Su Zhu锒铛入狱，但这仅仅只是个开始]]></title>
-        <id>https://www.web3sj.com/?p=90124</id>
-        <link href="https://www.web3sj.com/news/90124/"/>
-        <updated>2023-09-30T13:49:14.000Z</updated>
-        <summary type="html"><![CDATA[根据报道，由于 Su Zhu 故意不遵守法院命令——要求他配合清算人进行调查，并解释他在任职 3AC 期间的相关活动，作为 3AC 联合清算人的 Teneo 于 9 月 25 日向当地法院申请对 Su Zhu 的拘押令。法院最终批准了申请，于今日抓捕了 Su ZHu，并判处其四个月监禁。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利维坦的最后阵痛：世界将如何去中心化？]]></title>
-        <id>https://www.web3sj.com/?p=90117</id>
-        <link href="https://www.web3sj.com/news/90117/"/>
-        <updated>2023-09-30T13:45:55.000Z</updated>
-        <summary type="html"><![CDATA[书中作者认为，我们无法想象一个不受国家统治的世界，就像中世纪的人们无法想象一个不受罗马教会统治的世界一样。虽然他们没能预言教会作为一个机构的彻底垮台，但他们预测了国家作为人类活动中间人的终结。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Placeholder：为什么说监管合规是区块链去中心化的最后一步？]]></title>
-        <id>https://www.web3sj.com/?p=90114</id>
-        <link href="https://www.web3sj.com/news/90114/"/>
-        <updated>2023-09-30T13:41:30.000Z</updated>
-        <summary type="html"><![CDATA[区块链和智能合约应用大规模普及的一个主要障碍一直是相关法律和监管地位的缺失与层出不穷的争议问题。要想实现真正的创新，区块链系统必须具备一些独特的属性，使其有别于现有系统，从而证明有必要对其进行专门的监管处理。这种创新的基石是「充分的去中心化」——这一特性是为了保证可靠性和弹性，即使在敌对环境或其他挑战中能够维持。]]></summary>
         <author>
             <name>Gao</name>
         </author>
