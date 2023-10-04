@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T03:13:25.277Z</id>
+    <id>urn:2023-10-04T04:15:08.412Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-04T03:13:25.277Z</updated>
+    <updated>2023-10-04T04:15:08.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -103,6 +103,46 @@
         <summary type="html"><![CDATA[在比特币上发行资产的想法由来已久。但比特币协议有自身的特性：其状态由且仅由比特币 UTXO（「未花费的交易输出」）来表达；一个 UTXO 仅携带两个数据：它自身的面额（比特币价值），以及一个「脚本公钥」（也称为「锁定脚本」），用于编程这笔资金的花费条件，例如：提供某个公钥的签名；允许用来编程锁定脚本的操作码由比特币的共识规则提供，它们不能用来实现任意的安全规则。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支付巨头Visa推出1亿美元生成式AI风险投资计划]]></title>
+        <id>https://www.hellobtc.com/news/202310/21285.html</id>
+        <link href="https://www.hellobtc.com/news/202310/21285.html"/>
+        <updated>2023-10-03T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[支付巨头Visa官方宣布推出1亿美元生成式AI风险投资计划，旨在投资于专注于开发将影响未来的生成式人工智能技术和商业及支付应用的下一代公司。Visa公司表示，推出该风险投资计划旨在推动支付创新，为合作伙伴和客户创造价值，并推动和增强全球商业应用，据悉该计划将由Visa旗下全球企业投资部门Visa Ventures牵头组建。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国30年期国债收益率升至4.856％，为2007年以来最高]]></title>
+        <id>https://www.hellobtc.com/news/202310/21284.html</id>
+        <link href="https://www.hellobtc.com/news/202310/21284.html"/>
+        <updated>2023-10-03T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[美国30年期国债收益率上升至4.856％，为2007年以来最高水平。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[葡萄牙央行行长：如果没有全球框架，国家监管加密货币的努力将无法正常运作]]></title>
+        <id>https://www.hellobtc.com/news/202310/21283.html</id>
+        <link href="https://www.hellobtc.com/news/202310/21283.html"/>
+        <updated>2023-10-03T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[葡萄牙央行行长Mário Centeno声称如果没有全球框架，国家监管加密货币的努力将无法正常运作。谈到加密资产和去中心化金融，Centeno提到了从长远来看它们存在“不可否认的风险”，这位官员对数字资产的民主化潜力甚至其最终生存能力表示怀疑。 Centeno对欧盟加密货币框架MiCA法规表示赞赏，坚持在“相同风险、相同监管”的原则下进一步加强国际监管工作。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰国将对数字游民征税，且应税额包括海外加密货币收入]]></title>
+        <id>https://www.hellobtc.com/news/202310/21282.html</id>
+        <link href="https://www.hellobtc.com/news/202310/21282.html"/>
+        <updated>2023-10-03T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[10月3日消息，泰国税务局已根据《税务法》第41条第2款发出所得税缴纳令。新的税收政策规定，每年在该国居住超过180天的外籍人士将适用此征税条款。该政策将于2024年1月1日起实施。 新税则规定，当外籍人士的海外收入被转移到泰国时，则需在泰国缴纳个人所得税。但转移储蓄则不被计入其中。该收入包括任何收入来源，海外加密货币交易收入也将被计入其中。 此前9月份消息，泰国政府正拟定新税收方法，计划对外籍人士征税。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -222,26 +262,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[白话区块链早报：​​​​​​​中国移动咪咕视频首款NFT Meelier 将以盲盒形式在OpenSea发售]]></title>
-        <id>https://www.hellobtc.com/news/202310/21275.html</id>
-        <link href="https://www.hellobtc.com/news/202310/21275.html"/>
-        <updated>2023-10-02T03:19:00.000Z</updated>
-        <summary type="html"><![CDATA[1.中国移动咪咕视频首款NFT「Meelier」将以盲盒形式在OpenSea发售。
-
-2.Vitalik：由于流动性质押池采用DAO方法对节点运营商进行治理，这可能会让他们面临潜在风险。
-
-3.Worldcoin做市商近期密集提币，链上已累积约3572万枚WLD。
-
-4.数据：Sui网络TVL创5月主网上线以来新高。
-
-5.社交协议friend.tech协议费用突破1万ETH。
-
-6.数据：9月OpenSea交易额不足7400万美元，创过去两年新低。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[加密货币交易所在香港开户指南：如何识别两类银行账户]]></title>
         <id>https://www.web3sj.com/?p=90177</id>
         <link href="https://www.web3sj.com/news/90177/"/>
@@ -279,88 +299,6 @@
         <summary type="html"><![CDATA[Friend.tech 是构建在 Base 区块链上的去中心化社交应用，用户需要通过绑定推特和钱包来使用 Friend.tech 并以此获利。Friend.tech 的定位是将用户的影响力代币化，用户可以购买其他用户的「Key」（原名为 Share）以获得和其他用户直接交流的权限。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：三箭联创Zhu Su在新加坡被捕，被判入狱四个月]]></title>
-        <id>https://www.hellobtc.com/news/202309/21274.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21274.html"/>
-        <updated>2023-09-30T02:01:00.000Z</updated>
-        <summary type="html"><![CDATA[1.三箭联创Zhu Su在新加坡被捕，被判入狱四个月。
-
-2.Ray Dalio：美国将面临债务危机，发生速度将取决于供需问题。
-
-3.Circle介入SEC指控币安的案件，称稳定币不是证券。
-
-4.香港证监会发布多份虚拟资产交易平台名单。
-
-5.X(原Twitter)CEO：平台已向创作者支付近2000万美元。
-
-6.Mixin TVL下跌至1.5亿美元，过去7天跌幅达61.02%。
-
-7.独立电影制作人发布CryptoPunks纪录片的预告片。
-
-8.Polygon Labs：Google Cloud成为Polygon PoS网络的验证器。
-
-9.Paradigm：美SEC正试图通过针对Binance的案件来改变法律。
-
-10.Galaxy Digital副总裁：以太坊上最紧迫的问题是验证者规模的增长。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：市值排名前40的游戏公司中，29家已不同程度地涉足Web3领域]]></title>
-        <id>https://www.hellobtc.com/news/202309/21273.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21273.html"/>
-        <updated>2023-09-29T03:11:00.000Z</updated>
-        <summary type="html"><![CDATA[1.市值排名前40的游戏公司中，29家已不同程度地涉足Web3领域。
-
-2.SEC推迟对贝莱德、Bitwise、Invesco和Valkyrie现货比特币ETF的决议。
-
-3.Blocknative因经济效益问题停止MEV-boost服务，引发以太坊中继集中化担忧。
-
-4.PayPal专利申请显示正在密切关注Layer2、NFT领域。
-
-5.Glassnode：若明年减半后比特币价格低于3万美元，矿工或难以盈利。
-
-6.Aptos Labs与环球影业合作推出《驱魔人：信徒》沉浸式数字体验。
-
-7.一巨鲸以平均1646美元的价格买入6000枚ETH。
-
-8.CoinDesk因报道SBF加密帝国倒塌的新闻而获得新闻界最高奖。
-
-9.美国众议院通过国务院拨款法案，更详细的支出法案正在等待通过。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：以太坊信标链质押总量突破2700万枚ETH，上海升级后净流入逾752万枚ETH]]></title>
-        <id>https://www.hellobtc.com/news/202309/21272.html</id>
-        <link href="https://www.hellobtc.com/news/202309/21272.html"/>
-        <updated>2023-09-28T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[1.以太坊信标链质押总量突破2700万枚ETH，上海升级后净流入逾752万枚ETH。
-
-2.MakerDAO再次增加逾1亿美元RWA资产，协议RWA总资产逾31亿美元。
-
-3.数据：2022年银行客户拥有960亿美元的加密货币头寸。
-
-4.Telegram联手TON基金会与腾讯合作，拟打造类似微信的「超级应用生态平台」。
-
-5.Chainlink CEO：大多数跨链桥“绝对不安全”。
-
-6.数据：用户已在Solana上铸造了超过5200万个压缩NFT。
-
-7.NFT项目Pudgy Penguins 24小时交易量突破1000 ETH。
-
-8.以太坊中继器数量降至4，引发中心化担忧。
-
-9.Tether CTO公布挖矿软件Moria平台预览版。
-
-10.数据：BCH巨鲸一直在囤积BCH。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
