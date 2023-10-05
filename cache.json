@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 190,
+          "wordCount": 194,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 149,
+          "wordCount": 151,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         }
@@ -140,12 +140,82 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/e0a2gio4.html",
+          "author": "PA一线",
+          "description": "PANews 10月5日消息，Rollup即服务（RaaS）项目Caldera在X上宣布已支持Arbitrum Stylus，开发人员可以使用WASM支持的任何语言编写智能合约，包括Rust、C和C++。",
+          "link": "https://panewslab.com/zh/articledetails/e0a2gio4.html",
+          "publishedOn": "2023-10-05T06:42:54.000Z",
+          "wordCount": 356,
+          "title": "Rollup即服务（RaaS）项目Caldera宣布已支持Arbitrum Stylus",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/q7nz53q7.html",
+          "author": "PA一线",
+          "description": "PANews 10月5日消息，据Scopescan监测，一个疑似是 Upbit 的鲸鱼钱包地址过去 4 小时内通过许多地址从 Binance、Gate 和 Bybit 积累了 7,939,740 枚 ARKM（约 320 万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/q7nz53q7.html",
+          "publishedOn": "2023-10-05T06:26:20.000Z",
+          "wordCount": 396,
+          "title": "Scopescan：疑似Upbit巨鲸地址从Binance、Gate 和 Bybit等CEX积累超793万枚ARKM，约320万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/slbyygyu.html",
+          "author": "PA一线",
+          "description": "PANews 10月5日消息，根据The Data Nerd监测，两只ARB巨鲸正在出售ARB持续购买MKR。14小时前，巨鲸0x509以906枚ETH的价格卖出了170万枚ARB，赚取了7.3万美元的利润；随后，该巨鲸以1422美元的价格购买了872枚MKR（124万美元）。\n巨鲸0x9e7在16小时前向Binance存入了34.96万枚ARB，过去1周内累计存入300万枚ARB；此外，他还以1107美元的价格从币安提取了1475枚MKR，目前未实现利润为49.4万美元（收益率30%）",
+          "link": "https://panewslab.com/zh/articledetails/slbyygyu.html",
+          "publishedOn": "2023-10-05T06:11:52.000Z",
+          "wordCount": 352,
+          "title": "数据：两只ARB巨鲸换仓至MKR，均实现浮盈",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/4b21el3d.html",
+          "author": "PA一线",
+          "description": "PANews 10月5日消息，链上信用风险管理公司 Cicada Partners 宣布完成 970 万美元 Pre-Seed 轮融资，Choppa Capital 领投，Bitscale、Bodhi Ventures、Shiliang Tang 参投，所筹资金将用于为多个新的非托管借贷池提供种子资金，并在新的区块链借贷应用案例上进行研发。",
+          "link": "https://panewslab.com/zh/articledetails/4b21el3d.html",
+          "publishedOn": "2023-10-05T06:08:58.000Z",
+          "wordCount": 391,
+          "title": "链上信用风险管理公司Cicada Partners完成970万美元Pre-Seed轮融资，Choppa Capital 领投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/z07ycwlz.html",
+          "author": "PA一线",
+          "description": "PANews 10月5日消息，Immutable发布主网启动路线图。11月计划对Immutable zkEVM测试网进行重建，将其首个EVM客户端从Polygon Edge升级到Geth，确保Immutable zKEVM尽可能接近以太坊，同时与整个以太坊工具生态系统完全兼容。12月至明年1月上线zkEVM主网，在向公众开放之前分组邀请开发者加入。2024年Immutable将提供专用的应用程序链，其技术堆栈和功能与Immutable zkEVM相同，但具有独特的定制级别。最后将引入zk-prover，并提供一个无需信任的以太坊与Immutable zkEVM跨链桥。",
+          "link": "https://panewslab.com/zh/articledetails/z07ycwlz.html",
+          "publishedOn": "2023-10-05T05:37:51.000Z",
+          "wordCount": 356,
+          "title": "Immutable发布Immutable zkEVM路线图，将于今年12月至明年1月上线主网",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1p2oz8na.html",
+          "author": "PA一线",
+          "description": "PANews 10月5日消息，根据Whale Alert监测，1小时前，多个钱包地址向Coinbase总计转入2,840.5枚BTC，价值约7866万美元。",
+          "link": "https://panewslab.com/zh/articledetails/1p2oz8na.html",
+          "publishedOn": "2023-10-05T05:15:33.000Z",
+          "wordCount": 342,
+          "title": "2840枚BTC从未知钱包转移到Coinbase，价值约7866万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vqvmme03.html",
+          "author": "PA一线",
+          "description": "PANews 10月5日消息，POL 代币合约将在 Goerli 测试网上启动。未来几周内，Polygon 将分享 Polygon 2.0 新提议治理的第一步，核心将是由思想领袖和技术专家组成的新生态系统委员会。Polygon Labs 发布关于 Polygon 2.0 升级和 POL 代币迁移的三项提案，包括升级过渡、升级后的 Polygon 2.0 架构规范以及其原生代币的更新。最终的 Polygon 2.0 升级预计将于明年进行。",
+          "link": "https://panewslab.com/zh/articledetails/vqvmme03.html",
+          "publishedOn": "2023-10-05T05:06:01.000Z",
+          "wordCount": 385,
+          "title": "POL代币合约将在Goerli测试网上启动，Polygon2.0新提议治理即将公布",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/3w1sz5bt.html",
           "author": "PA一线",
           "description": "PANews 10月5日消息，链上财富和资产管理协议 L1 Advisors 完成 160 万美元种子轮融资。其中包括来自 VanEck 的 100 万美元战略投资，Ironclad Financial、Ismail Jai Hokimi 等参投。\n该融资将用于构建链上财富和资产管理的操作系统，旨在让金融专业人士及其客户能够利用去中心化基础设施（例如协议和钱包）来管理、增长和保护他们的资产。",
           "link": "https://panewslab.com/zh/articledetails/3w1sz5bt.html",
           "publishedOn": "2023-10-05T05:00:43.000Z",
-          "wordCount": 392,
+          "wordCount": 394,
           "title": "L1 Advisors完成160万美元种子轮融资，其中包括来自VanEck的100万美元战略投资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -155,7 +225,7 @@
           "description": "PANews 10月5日消息，据Decenter报道，韩国数字资产交易所联合协商机构（DAXA）宣布，将从10月11日开始举办为期三天的《虚拟资产用户保护法》说明会。本次简报会将讨论虚拟资产用户保护法和不公平贸易法规的业务合规性。",
           "link": "https://panewslab.com/zh/articledetails/8hr05d2f.html",
           "publishedOn": "2023-10-05T04:17:38.000Z",
-          "wordCount": 339,
+          "wordCount": 341,
           "title": "韩国将举办《虚拟资产用户保护法》说明会",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +235,7 @@
           "description": "PANews 10月5日消息，据官方消息，Flare和Avascan将合作推出Flarescan，将支持探索交易、追踪代币和监控网络健康。Flarescan将于10月16日上线，完全支持C-Chain和P-Chain。",
           "link": "https://panewslab.com/zh/articledetails/frih5nit.html",
           "publishedOn": "2023-10-05T03:49:51.000Z",
-          "wordCount": 341,
+          "wordCount": 343,
           "title": "Flare和Avascan合作推出交易追踪工具Flarescan",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +245,7 @@
           "description": "PANews 10月6日消息，据官方消息，NFT市场Zora宣布推出创作者免费创建NFT功能，任何人都可以在Zora上免费创作，全部通过独立拥有的智能合约进行。首次铸造者在铸造第一版时支付部署智能合约的Gas成本。作为将作品上链的回报，他们获得协议奖励。",
           "link": "https://panewslab.com/zh/articledetails/6238ysgk.html",
           "publishedOn": "2023-10-05T03:42:35.000Z",
-          "wordCount": 341,
+          "wordCount": 343,
           "title": "Zora推出创作者免费创建NFT功能",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +255,7 @@
           "description": "PANews 10月6日消息，据官方消息，JPEX已公布“DAO持份者分红方案”，本次公投获得68%用户同意通过，平台将于2023年10月4日起，开始分阶段逐步执行DAO持份者分红方案。同意认购DAO持份者分红的用户，将会陆续从以下方面获得平台的不同分红，包括：（1）平台新代币的上架费用分红；（2）现货及衍生产品的手续费收益分红；（3）按照持份者分红所持有的比例，分发相应的平台币JPC；（4）JPC收益池余下的USDT将按持有者所拥有的分红比例，阶段性的分发至持有人。 JPC收益池的USDT每日收益将会于方案执行后停止派发，而12%的JPC年化收益将不受影响。平台将开始转为以DAO形式进行营运，所有拥有DAO持份者分红的持有者，都可以于未来获得投票权，并在平台的决策上，以公投的形式进行参与。现时团队正努力地与第三方做市商商继续进行谈判，并希望可以尽快释出资金，以用于平台的调整工作。",
           "link": "https://panewslab.com/zh/articledetails/68jkj39g.html",
           "publishedOn": "2023-10-05T03:38:26.000Z",
-          "wordCount": 346,
+          "wordCount": 348,
           "title": "JPEX公布DAO持份者分红方案，平台将开始转为以DAO形式运营",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +265,7 @@
           "description": "PANews 10月5日消息，据TechCrunch报道，SBF审判的12名陪审员已确定，另外还有6名候补陪审员。在接下来的六周内，他们将决定SBF是否有罪。12名陪审员包括9名女性和3名男性，年龄从33岁到69岁不等，背景如下：\n1、39岁女医师助理，怀孕10周，医学背景，丈夫做网络开发。\n2、33岁的女护士，独自住在纽约州韦斯特切斯特。\n3、40岁女性社会工作者，目前失业。\n4、53岁女性，杜克大学毕业生，离婚，全职在家，是两个孩子的母亲，此前曾在非营利组织管理筹款活动。\n5、59岁男性，已婚，有3个孩子，其中一个孩子在银行工作。\n6、50岁的Metro North女售票员，五个孩子的母亲，其中三个孩子住在家里，两个孩子在大学。\n7、47岁的女性高中图书管理员，单身，与她的猫、姐姐和生病的母亲住在一起。\n8、65岁女性退休狱警，三个孩子的母亲。\n9、61岁美国邮政局男性员工，无妻无子。\n10、43岁乌克兰女性，在彭博社从事IT工作，来美15年，已离婚，有两个孩子。\n11、55岁的女性特殊教育教师，原来自百慕大银行，曾在滑铁卢大学读本科，并在纽约大学和西顿霍尔大学获得硕士学位。\n12、69岁男性，香港退休投资银行家，曾就读于莱斯大学和斯坦福大学，有妻无子，确诊患有非霍奇金淋巴瘤。",
           "link": "https://panewslab.com/zh/articledetails/zg1qy17f.html",
           "publishedOn": "2023-10-05T03:32:42.000Z",
-          "wordCount": 362,
+          "wordCount": 364,
           "title": "SBF审判的陪审团已确定，由9名女性和3名男性组成",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +275,7 @@
           "description": "PANews 10月6日消息，Optimism在推特发文称，预计10月5日将有约2.3亿枚OP代币转移。这些代币属于核心贡献者，出于安全目的正在转移至机构托管人。",
           "link": "https://panewslab.com/zh/articledetails/twhu85a2.html",
           "publishedOn": "2023-10-05T03:05:59.000Z",
-          "wordCount": 347,
+          "wordCount": 349,
           "title": "Optimism：2.3亿枚OP代币将出于安全目的转移至机构托管人",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +285,7 @@
           "description": "PANews 10月5日消息，LSD稳定币协议Lybra Finance针对未在截止日期前迁移到V2的V1代币提出三种处理方法，包括：\n1. 允许将V1 LBR代币迁移到V2，迁移费用为3%，结束日期为3个月。建议将迁移费用（即61,979.01 LBR）兑换为USDC，并分配给V2 esLBR持有者；\n2. 允许将V1 LBR代币迁移到V2，迁移费用为20%，结束日期为3个月。迁移费用退出流通。\n3. 将2,065,967枚未在截止日期前从V1迁移到V2的LBR从流通供应中移除。\n该初步提案将在社区讨论3天，并在进行必要的修改后提交DAO进行投票。",
           "link": "https://panewslab.com/zh/articledetails/ei2macqo.html",
           "publishedOn": "2023-10-05T03:01:24.000Z",
-          "wordCount": 375,
+          "wordCount": 377,
           "title": "Lybra Finance针对未迁移V1 LBR代币提出三种处理方法",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -225,7 +295,7 @@
           "description": "PANews 10月5日消息，据Cointelegragh报道，去中心化区块链平台The Open Network (TON)从MEXC旗下风投公司MEXC Ventures获得千万美元级别投资，具体金额未披露。与此同时，MEXC和TON基金会建立了战略合作伙伴关系，旨在通过降低进入门槛来促进全球Web3的可访问性。MEXC Ventures还将继续资助基于TON的迷你应用程序。此外，MEXC和TON基金会也在讨论为Telegram上的加密钱包提供资金。",
           "link": "https://panewslab.com/zh/articledetails/ui03zqs7.html",
           "publishedOn": "2023-10-05T02:41:18.000Z",
-          "wordCount": 363,
+          "wordCount": 365,
           "title": "TON从MEXC Ventures获得千万美元级别投资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +305,7 @@
           "description": "PANews 10月5日消息，据链上分析师余烬监测，FTX黑客在昨晚继续转出1.5万枚ETH（2475万美元），然后通过THORChain跨链交换为BTC。FTX黑客自9月30日以来已通过4个地址共计转出6万枚ETH（9900万美元），其中5.6万枚ETH通过THORChain跨链交换为BTC，2500枚ETH兑换为153.4tBTC后通过ThresholdNetwork桥接回Bitcoin网络，1500枚ETH通过隐私网络RAILGUN转移。目前FTX黑客在以太坊网络上还通过9个地址共计持有125,735枚ETH（2.07亿美元）。",
           "link": "https://panewslab.com/zh/articledetails/ppk4ezvk.html",
           "publishedOn": "2023-10-05T01:40:05.000Z",
-          "wordCount": 343,
+          "wordCount": 345,
           "title": "数据：FTX黑客再转出1.5万枚ETH，目前在以太坊网络仍持有125,735枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +315,7 @@
           "description": "PANews 10月5日消息，据The Block报道，区块链社交应用Stars Arena推动Avalanche交易量大幅增加。这款受FriendTech启发的社交协议于9月底推出，在用户中迅速获得了吸引力。数据显示，在24小时内，超过1万个独立活跃钱包与Stars Arena进行了互动。该平台在推出两周内总锁仓价值已超过100万美元。与此同时，Avalanche上的交易量大幅上升，从9月20日Stars Arena推出时的15.8万笔跃升至10月3日的超过25万笔。此外，随着Avalanche交易量的增加，AVAX交易价格24小时上涨9.9%，目前为10.14美元。",
           "link": "https://panewslab.com/zh/articledetails/ujqz7olw.html",
           "publishedOn": "2023-10-05T01:36:12.000Z",
-          "wordCount": 357,
+          "wordCount": 359,
           "title": "Stars Arena推动Avalanche交易量大幅增加",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +325,7 @@
           "description": "PANews 10月5日消息，据The Block报道，Manifold Finance推出了一种新的MEV拍卖协议。它引入了一个新的拍卖系统，允许每个拍卖时段有多个获胜者，而不是以太坊生态系统中常见的“每个时段一个获胜者”模式。Manifold Finance证实，自8月以来，已有超过28000枚ETH质押于MEV协议的mevETH。它还公布了一个简化的流程，用户可以通过其平台直接存入ETH和铸造mevETH。该项目还邀请了以太坊社区的知名人士担任顾问，如Frax创始人Sam Kazemian和0xMaki。",
           "link": "https://panewslab.com/zh/articledetails/nllo8q6x.html",
           "publishedOn": "2023-10-05T01:23:00.000Z",
-          "wordCount": 357,
+          "wordCount": 359,
           "title": "Manifold Finance推出MEV拍卖协议，任命Frax创始人和0xMaki为顾问",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,38 +335,8 @@
           "description": "PANews 10月5日消息，据The Block报道，Virtu Financial发言人在回应Michael Lewis在《Going Infinite》中声称该公司在FTX亏损1000万美元的说法时表示，从未因FTX损失过任何资金。Lewis在一篇文章中写道，在FTX倒闭时，其拥有超过1000万账户持有者，它欠这些人87亿美元，其中近一半的损失，即40亿美元，集中在这50个账户中，接近顶部的是Jump Trading（206,160,600.00 美元），底部是Virtu Financial Singapore（10,095,336.83美元）。",
           "link": "https://panewslab.com/zh/articledetails/fs8632io.html",
           "publishedOn": "2023-10-05T00:55:42.000Z",
-          "wordCount": 364,
+          "wordCount": 366,
           "title": "Virtu Financial否认因FTX损失1000万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/f3khryqk.html",
-          "author": "PA一线",
-          "description": "PANews 10月5日消息，据CoinDesk报道，美国司法部（DOJ）在FTX创始人SBF审判的开庭陈述中表示，SBF的整个加密货币帝国是一座“建立在谎言之上”的“纸牌屋”。SBF的辩护团队反驳说，SBF的行为是出于善意，他的企业发展太快并急剧崩溃并非是他的过错。他们将部分责任归咎于Caroline Ellison，并表示她未能采取保障措施。Ellison已经认罪，并将在审判期间作证。SBF涉嫌欺诈和共谋的刑事审判于周三中午12:30在纽约开始。美国助理检察官Nathan Rehn告诉由12人组成的陪审团，政府将提供证据和专家证人，证明SBF“对客户撒了谎”，并用他们的资金为自己购买“金钱、权力和影响力”。",
-          "link": "https://panewslab.com/zh/articledetails/f3khryqk.html",
-          "publishedOn": "2023-10-05T00:39:49.000Z",
-          "wordCount": 343,
-          "title": "美国司法部：SBF的整个加密帝国是一座“建立在谎言之上”的“纸牌屋”",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/l5dmlj4s.html",
-          "author": "PA一线",
-          "description": "PANews 10月5日消息，Polygon联合创始人Jaynti Kanani推特发文称，大约6个月前，他决定退出公司日常工作。未来他将“专注于新的冒险，同时仍然在场外为Polygon做出贡献”。Kanani于2017年与Sandeep Nailwal和Anurag Arjun一起创立了Polygon。Polygon Labs在今年7月进行了高层改组，首席法务官Marc Boiron晋升为首席执行官，总裁Ryan Wyatt辞职并担任顾问。",
-          "link": "https://panewslab.com/zh/articledetails/l5dmlj4s.html",
-          "publishedOn": "2023-10-04T23:59:36.000Z",
-          "wordCount": 357,
-          "title": "Polygon联合创始人Jaynti Kanani离职",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0u6v4k8b.html",
-          "author": "PA一线",
-          "description": "PANews 10月5日消息，据The Block报道，Web3餐厅忠诚度应用程序Blackbird宣布完成2400万美元A轮融资，a16z Crypto领投，QED、Union Square Ventures、Shine、Variant和多家餐饮集团参投。本轮融资使Blackbird的融资总额达到3500万美元，该公司计划将这笔资金用于扩大业务规模。Blackbird专注于通过忠诚度和会员服务在餐厅和客人之间建立直接联系，除了收集顾客的用餐偏好，还使用加密货币奖励签到者。据此前消息，去年10月，Blackbird完成1100万美元种子轮融资，Union Square Ventures、Shine Capital和Multicoin Capital共同领投，Variant、Circle Ventures和IAC等参投。",
-          "link": "https://panewslab.com/zh/articledetails/0u6v4k8b.html",
-          "publishedOn": "2023-10-04T23:18:39.000Z",
-          "wordCount": 368,
-          "title": "Web3餐饮平台Blackbird完成2400万美元A轮融资，a16z领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
