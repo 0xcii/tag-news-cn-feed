@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T15:13:37.181Z</id>
+    <id>urn:2023-10-05T16:17:57.025Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-05T15:13:37.181Z</updated>
+    <updated>2023-10-05T16:17:57.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3社交应用Phaver已完成700万美元种子轮融资，估值约8000万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/hp6wq4cl.html</id>
+        <link href="https://panewslab.com/zh/articledetails/hp6wq4cl.html"/>
+        <updated>2023-10-05T14:36:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月5日消息，Web3社交应用Phaver宣布已完成700万美元种子轮融资，Polygon Ventures、Nomad Capital、Symbolic Capital、dao5、Foresight Ventures、Alphanonce、f.actor、Superhero Capital、SwissBorg等机构参投，迄今为止已筹集资金总额超过800万美元，估值约为 8000 万美元，此次所筹资金将用于扩大团队规模以及产品开发和其他合作伙伴关系。
+目前 Phaver 已将其社交图谱与 Lens Protocol 和 Cyber​​Connect 集成。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IP上链史：NFT、游戏和AI叙事三重奏]]></title>
         <id>https://www.web3sj.com/?p=90343</id>
@@ -26,6 +37,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sui基金会宣布将从外部做市商处收回1.17亿枚SUI]]></title>
+        <id>https://panewslab.com/zh/articledetails/6ns18r58.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6ns18r58.html"/>
+        <updated>2023-10-05T14:19:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月5日消息，Sui基金会今日宣布，将从外部做市商处收回1.17亿枚$SUI，并将其重新分配到支持Sui网络增长的各种渠道中。L1区块链Sui于今年5月推出主网，由于这些$SUI之前已经释放，它们的重新分配不会影响$SUI的流通供应。
+这些$SUI还包括近日宣布的为Sui流动性质押黑客松获奖者提供的2500万质押的$SUI。据PANews此前消息，Sui流动质押黑客松于日前结束Demo Day演示，其中有五个团队获奖、六个团队荣誉提名。此外，有两个团队赢得了Sui上DeFi协议提供的赏金。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从LayerZero和Google Cloud谈起跨链应依靠预言机还是ZK]]></title>
         <id>https://www.web3sj.com/?p=90336</id>
         <link href="https://www.web3sj.com/news/90336/"/>
@@ -33,6 +55,18 @@
         <summary type="html"><![CDATA[LayerZero 和 Google Cloud 已宣布将 Google Cloud 集成为 LayerZero 上的新跨链预言机选项。在 LayerZero 的跨链实施中，预言机的角色是验证消息是否已经由源链处理了跨链消息请求。现在，在 LayerZero 上构建的应用程序可以从四个不同的预言机选项中进行选择，包括 Chainlink、Polyhedra 的 zkLightClient 以及由 Polygon 和 Sequoia 管理的预言机。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社交协议Stars Arena存安全漏洞，或导致用户资金被盗取]]></title>
+        <id>https://panewslab.com/zh/articledetails/f552mid5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/f552mid5.html"/>
+        <updated>2023-10-05T14:15:23.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月15日消息，据TheBlock消息，近日，受Friend.Tech启发的社交协议Stars Arena关注度较高，该协议运行于AVAX网络。但有用户发现，该产品的合约可能由于一个错误的函数，而允许黑客调用合约并将资金转移。
+所幸的是，由于AVAX网络上目前较高的交易成本，因此这一操作似乎并不会产生可观的利润，这在一定程度上降低了黑客操作的意愿。
+Stars Arena 于 9 月推出，是一项受 FriendTech 启发的社交协议。上线仅两周内，Stars Arena 的 TVL 就突破了 100 万美元，导致Avalanche 网络上的链上交易大幅增长。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -240,36 +274,6 @@ AWS Startups 是亚马逊云服务提供的一项计划，旨在帮助初创公�
         <link href="https://panewslab.com/zh/articledetails/mpa1zf4d.html"/>
         <updated>2023-10-05T09:01:56.000Z</updated>
         <summary type="html"><![CDATA[PANews 10月5日消息，Uniswap Agora治理提案显示，关于将Uniswap V3部署于FVM网络的提案已经获得4166万枚投票，已经满足通过标准。目前该投票仍在开放之中，一天后投票将截止，预计将通过这一提案。（注：FVM是Filecoin推出的EVM网络）]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arthur Hayes：2026年比特币价格或将达到75万至100万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/y7518olh.html</id>
-        <link href="https://panewslab.com/zh/articledetails/y7518olh.html"/>
-        <updated>2023-10-05T08:57:38.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月5日消息，BitMEX的前联合创始人Arthur Hayes对比特币做出了大胆的预测。他认为，受到减半的影响，2024年底比特币的价值可能约为7万美元。而随着比特币ETF的通过，这一事件将开启比特币“真正的牛市”，到2026年，比特币可能会飙升至75万至100万美元。（coinpedia）]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave社区发起“将STG、KNC代币以隔离模式添加至Aave V3”的两项ARFC提案，明日投票将结束]]></title>
-        <id>https://panewslab.com/zh/articledetails/9y1480n1.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9y1480n1.html"/>
-        <updated>2023-10-05T08:33:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月5日消息，据 Snapshot 投票页面显示，Aave 社区已发起「将 Stargate 的 STG 代币以隔离模式添加到 Aave V3 以太坊市场中」、「将 Kyberswap 的 KNC 代币以隔离模式添加到 Aave V3 以太坊市场中」两项 ARFC 提案，投票均将于明日结束。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链游专用Layer2网络Paima获Cardano 140万美元拨款]]></title>
-        <id>https://panewslab.com/zh/articledetails/1ed8li83.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1ed8li83.html"/>
-        <updated>2023-10-05T08:16:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月5日消息，链游专用 L2 Paima 宣布获得来自 Cardano 的 140 万美元的拨款，Paima 的代码现已在 Github 上可用。Paima 团队除了构建核心基础设施外，还构建游戏。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
