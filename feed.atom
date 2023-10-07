@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-07T21:10:24.466Z</id>
+    <id>urn:2023-10-07T22:11:21.288Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-07T21:10:24.466Z</updated>
+    <updated>2023-10-07T22:11:21.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[外媒：a16z正讨论牵头为AI初创公司Ideogram进行新一轮股权融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/2d7m3462.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2d7m3462.html"/>
-        <updated>2023-10-07T15:54:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据The Information报道，知情人士称，投资公司Andreessen Horowitz（a16z）最近正在讨论牵头为Ideogram进行新一轮股权融资。这家初创公司已讨论在新一轮融资中筹集7500万至1亿美元，部分资金用于支付更多的云服务器。
-据悉，Ideogram是一家利用人工智能创建图像的初创公司，该公司一直在寻求5亿美元的融资前估值。去年，四名前谷歌人工智能研究人员成立了这家公司，该公司于8月推出了一款软件，可根据用户希望看到的文字描述生成图片。
-此前8月消息，Ideogram AI完成1650万美元种子轮融资，a16z和Index Ventures领投。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析师：某巨鲸通过OKX DEX进行10笔共约1400万枚稳定币兑换，滑点仅约1万美元小于1inch]]></title>
-        <id>https://panewslab.com/zh/articledetails/hxiblrtu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/hxiblrtu.html"/>
-        <updated>2023-10-07T15:18:27.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据链上分析师余烬监测，一个巨鲸地址在10月5日-10月6日通过OKX DEX进行了10笔大额稳定币兑换，共计将14,010,260 USDC兑换为13,999,426 USDT，兑换滑点仅为10,834美元。
-余烬对此笔交易评论称，OKX DEX的交易深度使其比1inch的交易滑点都要小。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stars Arena：已获得资源弥补被黑损失，全面审查后将重启合约]]></title>
-        <id>https://panewslab.com/zh/articledetails/34kqxqky.html</id>
-        <link href="https://panewslab.com/zh/articledetails/34kqxqky.html"/>
-        <updated>2023-10-07T14:51:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，基于AVAX网络的社交协议Stars Arena在X平台表示：“已获得资源弥补被黑损失，一个特殊的白帽团队将介入审查平台安全性，在全面审查后将重启合约，预计或在数小时内完成。”
-此前消息，派盾表示，社交协议Stars Arena已被攻击，损失约300万美元。]]></summary>
+        <title type="html"><![CDATA[HTX已向黑客发送250枚ETH的白帽赏金]]></title>
+        <id>https://panewslab.com/zh/articledetails/tw8e08mj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tw8e08mj.html"/>
+        <updated>2023-10-07T20:59:57.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月8日消息，据ZachXBT监测，HTX已向黑客发送了250枚ETH的白帽赏金，价值41万美元，并附言“你做了正确的决定，我们已支付白帽赏金。请提交安全漏洞分析报告，以便我们避免今后发生类似事件。您的隐私将会受到保护”。据此前消息，HTX热钱包于9月24日遭黑客攻击，5000枚ETH被盗。HTX当时表示，如果黑客在10月2日前归还资金，则将提供5%的白帽赏金。HTX攻击者已于昨日归还了4999枚ETH。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -50,79 +26,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[报告：流动性挖矿计划留存率与空投相似，不能有效改善矿池流动性和交易量]]></title>
-        <id>https://panewslab.com/zh/articledetails/1f7yv5tj.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1f7yv5tj.html"/>
-        <updated>2023-10-07T14:15:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，研究公司Six Degree今日发布了一篇关于报告，研究了Uniswap 2020年流动性挖矿计划，发现流动性挖矿（LM）计划并没有显着改善USDT-WETH、USDC-WETH、DAI-WETH和WBTC-WETH等主要AMM矿池的流动性和交易量，LM计划的留存率与空投相似，LM计划结束后LP流失率为82%。通过使用diff-in-diff模型评估流动性挖矿对Uniswap池的影响，发现采用LM策略后流动性确实有所改善，但交易量并没有增加，甚至略有下降。这表明流动性增加并不一定会促进交易量增加。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港财库局局长：NFT若构成“集体投资”或“证券”性质，须获证监会许可才能出售]]></title>
-        <id>https://panewslab.com/zh/articledetails/dt3uvd4x.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dt3uvd4x.html"/>
-        <updated>2023-10-07T13:52:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据东网报道，香港财经事务及库务局局长许正宇在出席香港投委会节目时透露，香港金融管理局正着手准备稳定币监管的公众咨询。另外，非同质代币(NFT)若只属以数码形式存在的收藏品，不受证监会规管，但构成“集体投资”或“证券”性质，则必须获证监会许可才能向市场出售。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTX攻击者归还4999枚ETH，约合820万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/te56tt6j.html</id>
-        <link href="https://panewslab.com/zh/articledetails/te56tt6j.html"/>
-        <updated>2023-10-07T13:47:38.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据Lookonchain监测，HTX攻击者刚刚归还了4999枚ETH（约合820万美元）的被盗资金。
-攻击者在链上留言附上其接收白帽奖金的地址，并称：“您的系统热钱包私钥泄漏，您应该改变系统热钱包地址，降低系统热钱包率。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stars Arena黑客创建新合约并向266个地址分别分发1000枚AVAX]]></title>
-        <id>https://panewslab.com/zh/articledetails/p94mo97i.html</id>
-        <link href="https://panewslab.com/zh/articledetails/p94mo97i.html"/>
-        <updated>2023-10-07T13:46:06.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，链上数据显示，Stars Arena黑客50多分钟前创建了一个合约并向266个地址分发AVAX，每个地址达1000枚。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX攻击者再次将1247枚ETH存入THORChain，约合205万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/z19bjd42.html</id>
-        <link href="https://panewslab.com/zh/articledetails/z19bjd42.html"/>
-        <updated>2023-10-07T13:15:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据Lookonchain监测，FTX攻击者20分钟前再次将1247枚ETH（约合205万美元）存入THORChain。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某巨鲸过去3天购入1750枚MKR，约合250万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/6dax0vit.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6dax0vit.html"/>
-        <updated>2023-10-07T13:12:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据Lookonchain监测，某巨鲸将80%的仓位换为MKR，20%为ETH。其在过去3天内购买了1750枚MKR（约合 250 万美元），均价为1429美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华尔街投行Jefferies：比特币应被视为通胀对冲工具和应对经济衰退的保险]]></title>
-        <id>https://panewslab.com/zh/articledetails/36k7a3m2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/36k7a3m2.html"/>
-        <updated>2023-10-07T12:48:25.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，华尔街投行Jefferies是最新一家认可比特币作为“关键对冲工具”的实体，以应对可能使法定货币贬值并导致通货膨胀死灰复燃的潜在货币政策。该公司在10月4日周三给投资者的一份报告中强调，比特币的特质使其与黄金处于同一水平，可作为抵御通货膨胀的可靠手段。
-Jefferies全球股票策略主管Christopher Wood警告称，以美联储为首的七国集团主要央行可能难以顺利退出非常规货币政策，如果未能退出这些货币政策，可能会导致美元贬值，从而使比特币持有者受益；投资者基本上已经消除了对美国经济衰退的担忧，但经济指标继续预示着经济衰退即将到来。
-此外，Jefferies指出，由于自2020年以来货币供应量的大幅扩张，收紧货币条件的努力将在本轮经济周期中经历更长的延迟。有鉴于此，Jefferies鼓励投资者将比特币和黄金投资视为保险，而不是短期交易。Jefferies还建议以美元为基础的全球长期投资者(包括养老基金)配置10%的比特币。过去几年，该公司已将比特币纳入其全球投资组合，此外还有实物黄金、未对冲的金矿股和亚洲股票。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-10.7）]]></title>
         <id>https://www.web3sj.com/?p=90482</id>
         <link href="https://www.web3sj.com/news/90482/"/>
@@ -130,113 +33,6 @@ Jefferies全球股票策略主管Christopher Wood警告称，以美联储为首�
         <summary type="html"><![CDATA[Yuga Labs宣布重组，部分员工被辞退。Galxe：网站现已完全恢复，1120名用户的约27万美元被盗。Vitalik相关地址今日将1000枚ETH转至0x5567开头地址。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave DAO购入约39万枚GHO以支持GHO锚定]]></title>
-        <id>https://panewslab.com/zh/articledetails/3ukl0c1k.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3ukl0c1k.html"/>
-        <updated>2023-10-07T12:10:59.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，Aave集成负责人Marc Zeller在X平台上表示，Aave DAO于几个小时前购入约39万枚GHO，并表示“第一个小提案是一个更大的GHO锚定计划的开始，包括修订利率，回购和创建GHO流动性委员会。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik相关地址今日将1000枚ETH转至0x5567开头地址]]></title>
-        <id>https://panewslab.com/zh/articledetails/1u527jvv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1u527jvv.html"/>
-        <updated>2023-10-07T11:26:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据Whale监测，与以太坊创始人Vitalik Buterin相关的钱包地址0xD0…8fd7，今日将1000枚ETH(约合164万美元)转移到0x5567开头地址。
-自 9 月份以来，0xD0...8fd7已转移4,000枚ETH，约合639万美元，目前持有36000枚ETH，价值5900万美元。从0x5567开头地址的历史交易记录来看，转入该地址的ETH大部分流向Bitstamp和Paxos。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stars Arena：网站正遭受DDOS攻击，正制定可让用户可收回资金的解决方案]]></title>
-        <id>https://panewslab.com/zh/articledetails/y5m5cfyv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/y5m5cfyv.html"/>
-        <updated>2023-10-07T10:58:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，基于AVAX网络的社交协议Stars Arena在X平台上表示：“我们的智能合约被利用，资金被耗尽。官方网站目前正遭受DDOS攻击。我们正在制定解决方案，以收回每个人的资金并让Stars Arena继续发展。”
-此前消息，派盾表示，社交协议Stars Arena已被攻击，损失约300万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTX相关地址从币安提取42999枚ETH并重新质押至Lido]]></title>
-        <id>https://panewslab.com/zh/articledetails/lg7lxbil.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lg7lxbil.html"/>
-        <updated>2023-10-07T10:50:52.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据Lookonchain监测，在孙宇晨将ETH存入币安数个小时后，一个与HTX相关的地址从币安提取了42999枚ETH将其重新质押到Lido上。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galxe：部分用户仍能看到钓鱼站点，DNS记录更新需要时间]]></title>
-        <id>https://panewslab.com/zh/articledetails/au49da0u.html</id>
-        <link href="https://panewslab.com/zh/articledetails/au49da0u.html"/>
-        <updated>2023-10-07T10:28:56.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，Web3凭证数据网络Galxe官方表示，由于DNS传播，部分用户在访问Galxe.com时仍然看到钓鱼网络站点，官方需要时间来更新用户本地服务器上的DNS记录，且时间在全球范围内因个体而异。
-此前今日早些时候消息，Galxe称网站现已完全恢复，1120名用户的约27万美元被盗。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某巨鲸7小时前从币安提取6000枚ETH，2周内共提取1.4万枚ETH并质押]]></title>
-        <id>https://panewslab.com/zh/articledetails/s2sm5ljg.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s2sm5ljg.html"/>
-        <updated>2023-10-07T09:50:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据The Data Nerd监测，7小时前，0x9fc开头巨鲸地址以1643美元的均价从币安提取了6000枚ETH（约合986万美元）。
-值得注意的是，他在过去两周内总共提取了14000枚ETH并将其质押在Lido Finance中。他目前持有18970枚STETH。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安报告：9月AA采用率攀升，L2链上活动增加，稳定币总市值连续18个月下降]]></title>
-        <id>https://panewslab.com/zh/articledetails/xw6wr91v.html</id>
-        <link href="https://panewslab.com/zh/articledetails/xw6wr91v.html"/>
-        <updated>2023-10-07T09:33:06.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，根据币安研究院发布的9月份加密市场报告，9月份加密货币市场基本保持平静，总市值波动微乎其微。FTX资产清算公告和FOMC会议等事件短暂扰乱了整体平静，但市场很快吸收了震荡并恢复稳定。本月的亮点是Telegram与TON钱包的整合推动了TON代币价值的显着上涨。
-此外，账户抽象（AA）即智能合约钱包的采用率继续攀升，交易量逐月增长。数据显示，已有超过87万个独立的AA账户，已完成超过230万次成功的智能合约交易。稳定币的总市值已经连续18个月下降，跌至1238亿美元，为2021年9月以来的最低水平。USDT和DAI市值逆势上扬，尽管这两种稳定币的市值均出现小幅增长。
-报告还指出，Uniswap对Gas的需求仍然无法满足，过去30天ETH Gas消耗量仍排名第一。由于人们对L2领域重新产生了兴趣，L2项目链上活动增加，zkSync Era主网30天交易量突破3058万笔，超越以太坊。Arbitrum Odyssey活动重启也推进了Arbitrum的链上活动。去中心化永续合约平台的格局已经发生了显著的变化。曾经，像dYdX、GMX和Gains Network这样的平台占据主要市场份额。然而，从9月份开始，新平台和已有玩家，特别是ApolloX，都取得了明显进步。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beosin：Stars Arena遭受黑客攻击原因疑似为重入攻击]]></title>
-        <id>https://panewslab.com/zh/articledetails/vk7q5qho.html</id>
-        <link href="https://panewslab.com/zh/articledetails/vk7q5qho.html"/>
-        <updated>2023-10-07T09:21:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，据Beosin旗下Beosin EagleEye安全风险监控、预警与阻断平台监测显示，Stars Arena遭受到黑客攻击，损失约300万美元。Beosin安全团队分析发现，由于合约没开源，疑似存在重入漏洞。攻击者在调用0xe9ccf3a3函数过程中，重入调用0x5632b2e4函数，设置了高度，而在sellShares函数中，使用了这些高度作为发送AVAX数量的计算参数，使得计算的数据异常大。最终攻击者获得大量收益。Beosin Trace正在对被盗资金进行追踪。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行情：BTC短时突破28000美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/9ilqh934.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9ilqh934.html"/>
-        <updated>2023-10-07T08:48:46.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，币安行情显示，BTC刚刚短时突破28000美元，现报27984.06美元，24小时涨幅1.25%。ETH现报1641.38美元，24小时涨幅0.41%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gate Web3 Startup开启MIGU MEELIER项目免费认购]]></title>
-        <id>https://panewslab.com/zh/articledetails/j44vppep.html</id>
-        <link href="https://panewslab.com/zh/articledetails/j44vppep.html"/>
-        <updated>2023-10-07T08:17:09.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月7日消息，根据官方公告，Gate Web3 Startup于北京时间2023年10月7日 14:00 - 11日 14:00上线MIGU MEELIER项目免费认购。Meelier NFT是中国移动咪咕公司旗下Web 3生态的首个合集。通过区块链技术与创新内容的完美融合，传统数字娱乐将彻底改变，打造新的数字体验和价值交流渠道。用户使用Gate Web3钱包，仅需EVM链资产大于1 USD等值金额，即可免费参与。
-Gate Web3 Startup 是Web3创新项目的代币发行平台，用户连接Gate Web3钱包即可轻松参与Startup，获得免费代币空投。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
