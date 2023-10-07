@@ -11,7 +11,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 192,
+          "wordCount": 190,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -33,12 +33,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=90436",
+          "author": "Gao",
+          "description": "Coinbase 最近经历了一次网络安全攻击，攻击针对其中一名员工。幸运的是，Coinbase 的网络安全控制措施阻止了攻击者直接访问系统，并防止了任何资金损失或客户信息泄露。仅有一部分来自我们的公司目录的数据被泄露。Coinbase 坚信透明度，我们希望我们的员工、客户和社区了解这次攻击的细节，并分享此攻击者使用的战术、技术和程序（TTP），以便每个人都可以更好地保护自己。",
+          "link": "https://www.web3sj.com/news/90436/",
+          "publishedOn": "2023-10-07T05:45:43.000Z",
+          "wordCount": 900,
+          "title": "Coinbase披露自身案例：黑客如何通过“社交工程”层层攻破",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696657528355.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=90431",
+          "author": "Gao",
+          "description": "在过去的十年里，我们目睹了 DSL 在数量和多样性方面都取得了显著增长。这一领域的活跃表现在多种电路语言的发展中，包括 Noir、Leo、Zinc 等。无论您需要通用性的选项，比如 Circom，还是为特定平台定制的解决方案，比如 Cairo，您都可以选择从众多语言和框架中挑选，以编写ZKP 电路。",
+          "link": "https://www.web3sj.com/news/90431/",
+          "publishedOn": "2023-10-07T05:42:07.000Z",
+          "wordCount": 1129,
+          "title": "探讨ZK编程语言",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696657217960.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=90410",
           "author": "Gao",
           "description": "在调查累计交易价值时，中心化交易所是最常用的平台类型，贡献了超一半的交易量。撒哈拉以南地区的加密货币市场也比大多数地区有更多的小额订单。与其他地区相比，交易价值低于 100 万美元的交易所占份额更大。",
           "link": "https://www.web3sj.com/news/90410/",
           "publishedOn": "2023-10-07T03:47:07.000Z",
-          "wordCount": 957,
+          "wordCount": 985,
           "title": "Chainalysis：撒哈拉以南非洲地区加密货币采用现状如何？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/54557aa3ee1928b2781f9d523b706931.png"
         },
@@ -48,7 +68,7 @@
           "description": "在流动性不足的熊市下，做市商成了不可或缺的角色，譬如提供项目流动性、增加市场深度、活络市场等。而身兼做市商和 VC 的 DWF Labs 虽然达到活络市场和增加流动性的目的，但暴拉、暴砸的风格也引发争议。",
           "link": "https://www.web3sj.com/transaction/90401/",
           "publishedOn": "2023-10-07T03:42:57.000Z",
-          "wordCount": 888,
+          "wordCount": 895,
           "title": "暴拉暴砸，DWF Labs的做市有何规律可循？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696650061530.png"
         },
@@ -58,7 +78,7 @@
           "description": "加密行业是一个和市场行情联系高度紧密的市场。裁员几乎是每一家加密企业的熊市标配。而 Yuga Labs 也和其他熊市中挣扎的一样，开始了如期而至的裁员。",
           "link": "https://www.web3sj.com/nftnews/90397/",
           "publishedOn": "2023-10-07T03:37:22.000Z",
-          "wordCount": 977,
+          "wordCount": 1013,
           "title": "裁员、业务重组、调整战略，Yuga Labs何去何从？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696649819409.png"
         },
@@ -68,7 +88,7 @@
           "description": "彭博社：美国CFTC正考虑对Voyager前CEO采取执法行动。贝莱德前高管：美国SEC可能会同时批准所有比特币现货ETF申请。Curve在Arbitrum社区发起提案投票，拟申请最多5000万枚ARB的激励预算。",
           "link": "https://www.web3sj.com/news/90385/",
           "publishedOn": "2023-10-06T14:50:08.000Z",
-          "wordCount": 843,
+          "wordCount": 861,
           "title": "Web3世界日报（2023-10.6）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023100614485082.jpg"
         },
@@ -78,7 +98,7 @@
           "description": "IP（Intellectual Property，知识产权）是指人们在创造性劳动中所产生的智力成果的法律保护对象。它包括了专利、商标、版权、工业设计等各种形式的知识产权。IP 的作用是保护创作者的权益，鼓励创新和创造，促进科技进步和经济发展。",
           "link": "https://www.web3sj.com/nftnews/90343/",
           "publishedOn": "2023-10-05T14:23:59.000Z",
-          "wordCount": 1446,
+          "wordCount": 1470,
           "title": "IP上链史：NFT、游戏和AI叙事三重奏",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16965158041.png"
         },
@@ -88,7 +108,7 @@
           "description": "虽然美国证券交易委员会（SEC）对加密货币不太友好，但不可否认的是，这家监管机构在维护金融市场和保护投资者方面发挥着至关重要的作用，而美国证券交易委员会主席的职位也对监管政策和执法行动具有重大影响。",
           "link": "https://www.web3sj.com/news/90339/",
           "publishedOn": "2023-10-05T14:19:38.000Z",
-          "wordCount": 817,
+          "wordCount": 831,
           "title": "2位人选出炉，他们最可能接任美国证监会主席",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/aIaPKW23Ydws3BL6SCxM6GhoeOeJ07V0QgTXfLld.jpg"
         },
@@ -98,7 +118,7 @@
           "description": "LayerZero 和 Google Cloud 已宣布将 Google Cloud 集成为 LayerZero 上的新跨链预言机选项。在 LayerZero 的跨链实施中，预言机的角色是验证消息是否已经由源链处理了跨链消息请求。现在，在 LayerZero 上构建的应用程序可以从四个不同的预言机选项中进行选择，包括 Chainlink、Polyhedra 的 zkLightClient 以及由 Polygon 和 Sequoia 管理的预言机。",
           "link": "https://www.web3sj.com/news/90336/",
           "publishedOn": "2023-10-05T14:17:31.000Z",
-          "wordCount": 1025,
+          "wordCount": 1037,
           "title": "从LayerZero和Google Cloud谈起跨链应依靠预言机还是ZK",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16965154341.png"
         },
@@ -108,29 +128,9 @@
           "description": "Web3 加速器成为帮助创业者应对挑战，并在熊市持续 Buidl 的工具。本文将探讨 Web3 加速器的崛起、目前优质的加速器的对比、特点以及创业者如何选择适合自己的加速器。特别地，我们将重点分析近期备受瞩目的 SpringX 加速器，并为您揭示其背后的策略和价值。",
           "link": "https://www.web3sj.com/news/90328/",
           "publishedOn": "2023-10-05T13:00:36.000Z",
-          "wordCount": 1041,
+          "wordCount": 1077,
           "title": "盘点国内外头部Web3创业加速器",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16965108181.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90316",
-          "author": "Gao",
-          "description": "如果把 Bitcoin 的正式部署作为行业诞生的元年，随着区块链行业长达 14 年的发展历程，从最初单纯的炒作和投机买卖，逐渐演变为具有实际应用场景的技术理念，特别是 Decentralized finance (DeFi) 理念被用户所认可和接受之后，使得价值回归到链上，链上的数据因此也逐渐成为投资者和开发者关注的焦点。",
-          "link": "https://www.web3sj.com/news/90316/",
-          "publishedOn": "2023-10-05T12:57:49.000Z",
-          "wordCount": 1069,
-          "title": "读懂区块链数据业务现状与未来发展方向",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/16965105391.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90313",
-          "author": "Gao",
-          "description": "Optimism：2.3亿枚OP代币将出于安全目的转移至机构托管人。Web3餐饮平台Blackbird完成2400万美元A轮融资，a16z领投。Immutable发布Immutable zkEVM路线图，将于今年12月至明年1月上线主网。",
-          "link": "https://www.web3sj.com/news/90313/",
-          "publishedOn": "2023-10-05T10:36:43.000Z",
-          "wordCount": 889,
-          "title": "Web3世界日报（2023-10.5）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023100510352050.jpg"
         }
       ]
     },
@@ -145,7 +145,7 @@
           "description": "PANews 10月7日消息，据Beosin旗下Beosin EagleEye监测显示，Galxe疑似遭遇DNS劫持攻击，大量用户资金被盗。目前统计到的被盗资金涉及多个币种，主要发送到了0x4103baBcFA68E97b4a29fa0b3C94D66afCF6163d地址，该地址共收集到超7万美元的虚拟货币，最终将几乎所有的资金兑换成ETH并发送到了0x1c0e96Ef2A82b573B826B4138DF9c126AA4d1825地址，还有一些资金发送到了0x412f10AAd96fD78da6736387e2C84931Ac20313f地址，部分资金进入了FixedFloat，图为0x4103baBcFA68E97b4a29fa0b3C94D66afCF6163d地址资金统计情况。\nGalxe已在北京时间10月7日0点收回了域名所有权，并与Dynadot一起确保了该账户的安全保护。初步评估表明，损失资金总额可能约为或低于20万美元。团队已经与相关执法当局进行了接触，将很快分享完整的报告和资金回收计划。",
           "link": "https://panewslab.com/zh/articledetails/b6x0kn4o.html",
           "publishedOn": "2023-10-07T04:05:42.000Z",
-          "wordCount": 353,
+          "wordCount": 361,
           "title": "Beosin：Galxe遭遇DNS劫持后，大部分用户资金被转移至0x4103黑客地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -155,7 +155,7 @@
           "description": "PANews 10月7日消息，BitMEX Research发推表示，FTX联合创始人Gary Wang在证词中称：“FTX 网站上公布的保险基金余额是通过一个随机数生成器产生的，保险基金中没有 FTT，只是美元的数字，列出的数字和数据库里的不匹配，实际上是单独计算的，且真实数字比假数字低”。",
           "link": "https://panewslab.com/zh/articledetails/0t7550iw.html",
           "publishedOn": "2023-10-07T03:56:55.000Z",
-          "wordCount": 367,
+          "wordCount": 371,
           "title": "Gary Wang：FTX公布的保险基金余额是通过随机数生成器产生的",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +165,7 @@
           "description": "PANews 10月7日消息，据韩联社报道，从去年7月到今年7月的一年期间，朝鲜黑客组织 Lazarus Group 通过跨链桥进行了超过 9 亿美元（约 1.2 万亿韩元）的加密货币洗钱，占过去一年通过跨链桥洗钱的总金额（70 亿美元）的约七分之一。",
           "link": "https://panewslab.com/zh/articledetails/izos0dt9.html",
           "publishedOn": "2023-10-07T03:40:32.000Z",
-          "wordCount": 370,
+          "wordCount": 368,
           "title": "过去一年，朝鲜黑客组织Lazarus Group通过跨链桥洗钱超9亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +175,7 @@
           "description": "PANews 10月7日消息，Lookonchain发推表示，今天STRAX的价格飙升超过 85%，约 82% 的交易量来自Upbit。还注意到一个钱包在过去 12 小时内累积了 180 万枚 STRAX （152 万美元，占总供应量的 1.2%）。",
           "link": "https://panewslab.com/zh/articledetails/kty7vwo0.html",
           "publishedOn": "2023-10-07T03:31:47.000Z",
-          "wordCount": 375,
+          "wordCount": 379,
           "title": "数据：一钱包在过去12小时内累积180万枚STRAX",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +185,7 @@
           "description": "PANews 10月7日消息，Web3 社交应用 Tip Coin 发推表示，Epoch 2 阶段申领已完全生效并具有适当的值。如果看到分数减少/增加，那只是因为用户看到的是 Epoch 3 而不是 Epoch 2。",
           "link": "https://panewslab.com/zh/articledetails/a91tjzon.html",
           "publishedOn": "2023-10-07T03:19:30.000Z",
-          "wordCount": 372,
+          "wordCount": 376,
           "title": "Tip Coin：Epoch 2阶段申领已开始",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +195,7 @@
           "description": "PANews 10月7日消息，Spot On Chain监测显示，曾在UNI赚取15.6万美元的“0x8d7”开头的交易者地址约1小时前从币安以均价1.653美元积累了468,279枚WLD（约77.4万美元）。\n值得注意的是，这是他的首次增持WLD，也是他自7月24日结束UNI交易以来2个半月内的首次重大活动。WLD价格在过去 24 小时内也上涨了超8%。",
           "link": "https://panewslab.com/zh/articledetails/n5ncxemp.html",
           "publishedOn": "2023-10-07T02:17:07.000Z",
-          "wordCount": 340,
+          "wordCount": 344,
           "title": "数据：“0x8d7”开头地址1小时前从币安积累超46万枚WLD",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +215,7 @@
           "description": "PANews 10月7日消息，Galaxy研究副总裁Christine Kim发文总结第119次以太坊核心开发者共识会议（ACDC），本次会议主要讨论Devnet-9 当前进展（当前网络参与率接近 90%，这是测试网健康状况的积极指标。MEV 相关工具的测试等）、Devnet-10 启动时间（若已知问题修复，最早可考虑下周尝试推出。这大概率是最后一个开发者测试网，后面将进入公共测试网阶段，主要用于测试 EIP-7514，即设置验证者激活队列上限 Max Epoch Churn Limit 为 8，放缓 ETH 质押率的增长，为设计更好的验证者奖励方案换取时间）、Dencun 测试时间线（上次会议已同意在 Holesky 之前在 Goerli 上测试 Dencun，多位开发者也赞成在今年 11 月中旬的伊斯坦布尔以太坊开发者大会 Devconnect 之前在公共测试网上发布 Dencun，目前开发者也不确定能够实现该时间线）。",
           "link": "https://panewslab.com/zh/articledetails/keagdwux.html",
           "publishedOn": "2023-10-07T02:05:01.000Z",
-          "wordCount": 403,
+          "wordCount": 413,
           "title": "以太坊最新会议：Devnet-9当前网络参与率接近90%，是测试网健康状况的积极指标",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -225,7 +225,7 @@
           "description": "PANews 10月7日消息，Lookonchain监测显示，鲸鱼“0x14cE”在过去3个月内累积了36,126 枚 MKR （5200万美元），成为MKR的第四大持有者。大部分MKR是通过FalconX从Binance积累的。FalconX在过去 3 个月中以 1,240 美元的平均价格从Binance提取了 32,793 枚 MKR（4066 万美元） 。",
           "link": "https://panewslab.com/zh/articledetails/3jrm3rbw.html",
           "publishedOn": "2023-10-07T01:47:32.000Z",
-          "wordCount": 364,
+          "wordCount": 368,
           "title": "“0x14cE”开头巨鲸地址在过去3个月内累积3.6万枚MKR，成为MKR的第四大持有者",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 10月7日消息，据信报报道，虚拟资产交易平台JPEX涉嫌串谋诈骗案被捕人数持续上升，警方再拘捕一名31岁男子，至今共有27人被捕。警方指出，27名被捕人士当中，7人现正被扣留调查，其余20人已获准保释候查，须于10月下旬至12月下旬向警方报到。\n同时，JPEX案受害人数目继续增加，截至周五下午5时，警方共接获2533名受害人报案，当中涉及金额约15.6亿港元。\n香港财经事务及库务局局长许正宇表示，JPEX案反映有效监管及投资者保障重要性，部分海外地区的监管重点与香港不一样，可能只涉及反洗钱或恐怖分子集资，但投资者保障相对少，所以就算交易平台有海外牌照都不一定有足够保障。",
           "link": "https://panewslab.com/zh/articledetails/hwe9cw23.html",
           "publishedOn": "2023-10-07T01:25:29.000Z",
-          "wordCount": 345,
+          "wordCount": 349,
           "title": "JPEX案已有27人被捕，涉案金额约15.6亿港元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "PANews 10月7日消息，据Lookonchain监测，0x73b4开头巨鲸地址3小时前向Binance和OKX存入了 2846 万枚 SAND （857 万美元）。\n该鲸鱼最后一次将大量SAND存入交易所是在 8 月 10 日（解锁前），此后SAND的价格下跌了约 30%。",
           "link": "https://panewslab.com/zh/articledetails/okxzivp4.html",
           "publishedOn": "2023-10-07T01:05:43.000Z",
-          "wordCount": 365,
+          "wordCount": 369,
           "title": "数据：0x73b4开头巨鲸地址3小时前向Binance和OKX存入2846万枚SAND",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 10月7日消息，据币安官方博客，币安为英国用户推出了一个符合新金融促销规则的新域名，并与 Rebuildingsociety.com Limited 合作，后者将批准币安的营销和传播材料。Rebuildingsociety.com 是一家受 FCA 监管的公司，被授权作为“S21 批准者”批准加密货币营销和传播材料。英国零售用户现在将被重定向到www.binance.com/en-GB，新域名只会显示可以提供的符合英国法规的币安产品和服务，某些产品将不再向英国零售用户提供。\n这些变更仅适用于 2023 年 10 月 8 日起的英国零售用户，不会影响根据新金融促销制度获得豁免的用户（例如某些机构和专业投资者）。\n此前英国金融行为监管局宣布，从10月8日起，加密服务广告商将在英国面临更严格的规定。加密货币公司必须从10月8日起为首次投资者引入“冷静期”。并禁止诸如“向朋友推荐”或“新加入者奖金”等投资激励措施。",
           "link": "https://panewslab.com/zh/articledetails/40l6w9bd.html",
           "publishedOn": "2023-10-07T00:49:27.000Z",
-          "wordCount": 370,
+          "wordCount": 375,
           "title": "币安为英国用户推出符合新金融促销规则的新域名",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 10月7日消息，据The Block报道，加密货币初创公司 Ostium Labs 筹集了 350 万美元资金，用于开发数字化商品永续互换协议。General Catalyst、LocalGlobe、SIG 和 Balaji Srinivasan 等多元化投资者提供支持。\n联合创始人 Kaledora Kiernan-Linn 表示，该协议将支持与石油、比特币和石油相关的永续合约交易。它还将支持澳元、英镑、欧元和日元的外汇对交易。",
           "link": "https://panewslab.com/zh/articledetails/ig7sx2nj.html",
           "publishedOn": "2023-10-07T00:38:22.000Z",
-          "wordCount": 369,
+          "wordCount": 373,
           "title": "加密初创公司Ostium Labs完成350万美元融资，用于开发数字化商品的永续合约交易",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 10月7日消息，比特币矿企 Iris Energy 宣布收购约 7,000 台最新一代比特大陆S21矿机1.4 EH/s，计划于 2024 年初发货，收购后其挖矿算力将从 5.6 EH/s 提高到 7.0 EH/s。此次收购预计将由现有资本来源提供资金，包括银行现金（约 6400 万美元，无债务）、运营现金流和其他最近披露的融资计划。该公司在 Childress 的 80MW 扩建仍在按计划进行，数据中心预计将从 2024 年初开始逐步交付。\n此前6月曾报道，矿企Iris Energy计划在明年初将其数据中心算力从5.6 EH/s提高到约9.1 EH/s。",
           "link": "https://panewslab.com/zh/articledetails/6dk3frdz.html",
           "publishedOn": "2023-10-07T00:29:43.000Z",
-          "wordCount": 416,
+          "wordCount": 422,
           "title": "矿企Iris Energy增置7000台比特大陆S21矿机，将其挖矿能力提高25%至7.0 EH/s",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 10月7日消息，据CoinDesk报道，去中心化NFT做市商 FloorDAO 本周“分叉”为两个独立的实体，以摆脱那些在该项目治理代币中积累了有影响力股份的激进投资者。\nFloorDAO 致力于为“NFT-Fi”打造产品，最近将超过 250 万美元的资金（以加密货币代币和 NFT 形式）发送给了一个名为 FloorkDAO 的分裂组织，该组织由激进投资者控制。投资者很快将这笔资金进行了赎回，每个 FLOOR 代币的价值接近 5 美元，高于年初的 1.89 美元。剩余的 FLOOR 代币目前的交易价格约为 3.88 美元，这对于那些没有选择退出 FloorDAO 而是保留其持有的投资者来说是有价值的。",
           "link": "https://panewslab.com/zh/articledetails/9e1aw90z.html",
           "publishedOn": "2023-10-07T00:19:05.000Z",
-          "wordCount": 391,
+          "wordCount": 399,
           "title": "FloorDAO“分叉”为两个独立的实体，分裂组织FloorkDAO收到超250万美元的资金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 10月7日消息，据The Information援引知情人士报道，微软计划在下个月的年度开发者大会上推出该公司首款为人工智能设计的芯片。此举是多年努力的成果，可能有助于微软减少对英伟达设计的人工智能芯片的依赖。随着需求激增，这些芯片一直供不应求。微软的这款芯片是为训练和运行大型语言模型（LLM）的数据中心服务器设计的。微软的数据中心服务器目前使用英伟达的GPU为云客户提供先进的LLM，包括OpenAI和Intuit，以及支持微软生产力应用程序中的人工智能功能。",
           "link": "https://panewslab.com/zh/articledetails/0duhlnq3.html",
           "publishedOn": "2023-10-06T23:59:12.000Z",
-          "wordCount": 343,
+          "wordCount": 345,
           "title": "外媒：微软将于下个月推出其首款人工智能芯片",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 10月7日消息，据彭博社报道，在FTX申请破产前几天，SBF推特发文向客户和投资者保证，称该交易所及其资产状况良好。FTX联合创始人Gary Wang周五在法庭作证，称这是一个谎言，并表示“FTX并不好，资产状况也不好。这笔资金属于客户，客户没有允许我们把它用于其他事情”。在证人席上的四个多小时里，Gary Wang讲述了FTX崩溃前最后几天的情况，并详细说明了他和SBF是如何实施一项数十亿美元的计划，进而导致FTX的崩溃不可避免。\n周五，在美国助理检察官Nicolas Roos的质询下，Gary Wang就允许资金从FTX流向Alameda的秘密机制作证。他表示，SBF要求为Alameda添加一个“允许负余额”功能的后端。尽管一些大客户也在FTX获得了信贷额度。但除了Alameda，没有人的信贷额度超过10亿美元，而且大多数客户的信贷额度要小得多，只有数百万美元。Alameda的额度是650亿美元。\n此外，SBF还指示Alameda不受适用于其他FTX账户的清算规则的约束。Gary Wang解释称，那些有可能出现亏损的账户在亏损发生之前就把头寸卖给了做市商。该功能的存在是为了保护交易所和其他客户。",
           "link": "https://panewslab.com/zh/articledetails/hyp6xj9u.html",
           "publishedOn": "2023-10-06T23:49:59.000Z",
-          "wordCount": 350,
+          "wordCount": 354,
           "title": "Gary Wang：SBF对FTX破产前资产状况向客户撒谎",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 10月7日消息，据CoinDesk报道，对冲基金Alameda Research前首席执行官Caroline Ellison很可能成为下一位在SBF审判中出庭作证的证人，她将接替前FTX高管Gary Wang出庭作证。周五早间庭审结束后，美国司法部表示，Gary Wang的证词将于周二结束，检察官预计下一个证人将是Ellison。与Gary Wang一样，Ellison去年12月也承认了多项欺诈指控。法院下周一因哥伦布日将不开庭，美国东部时间周二上午9点30分将恢复开庭。",
           "link": "https://panewslab.com/zh/articledetails/d3djt098.html",
           "publishedOn": "2023-10-06T23:36:19.000Z",
-          "wordCount": 349,
+          "wordCount": 353,
           "title": "Caroline Ellison或将于下周二SBF审判中出庭作证",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 10月7日消息，研究公司FundStrat周五的一份报告显示，第三季度加密项目获得的风险投资总额为14亿美元，比去年同期下降了近75%，该数字已经连续六个季度下降。与此同时，只有1%的交易超过5000万美元，62%的交易低于1000万美元。",
           "link": "https://panewslab.com/zh/articledetails/9jdtixnd.html",
           "publishedOn": "2023-10-06T23:28:45.000Z",
-          "wordCount": 330,
+          "wordCount": 334,
           "title": "数据：第三季度加密风险投资同比下降近75%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 10月7日消息，Galxe推特发文称，其网站已离线，将在正确的DNS记录在全球传播后重新上线网站。如果用户在北京时间10月6日21点之后没有批准Galxe链接钱包的任何交易，那么资金和信息都是安全的。Galxe使用Dynadot的域名注册服务。域名http://Galxe.com此前被泄露，未经授权的个人暂时控制了Dynadot账户。Galxe已在北京时间10月7日0点收回了域名所有权，并与Dynadot一起确保了该账户的安全保护。初步评估表明，损失资金总额可能约为或低于20万美元。团队已经与相关执法当局进行了接触，将很快分享完整的报告和资金回收计划。",
           "link": "https://panewslab.com/zh/articledetails/2kuoxjwc.html",
           "publishedOn": "2023-10-06T22:43:02.000Z",
-          "wordCount": 330,
+          "wordCount": 334,
           "title": "Galxe：预计损失资金在20万美元以内，已与执法当局进行接触",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
