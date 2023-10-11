@@ -11,7 +11,7 @@
           "description": "曾经火爆全网的剧集《鱿鱼游戏》这回真的变成游戏了，而且还是能身临其境去玩的那种。",
           "link": "https://www.defidaonews.com/article/6834852",
           "publishedOn": "2023-10-09T05:59:48.000Z",
-          "wordCount": 260,
+          "wordCount": 261,
           "title": "《鱿鱼游戏》杀入体验店，SandboxVR未能复制神话",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1696829815/FhTtFAlBSfxSqjWVpeQ4VxprwRur.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 151,
+          "wordCount": 148,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=90961",
+          "author": "Gao",
+          "description": "Cosmos SDK 给予了公链可定制化开发的能力，并且提供了包括 IBC 跨链在内的可扩展性解决方案，使得很多开发团队更加乐于使用已有的工具来实现更丰富的功能。XION 是今年 Cosmos 家族的新成员，相比于「师兄师姐」根植于 Web3，XION 更希望为「消费」这一传统领域添砖加瓦。",
+          "link": "https://www.web3sj.com/news/90961/",
+          "publishedOn": "2023-10-11T13:39:39.000Z",
+          "wordCount": 1003,
+          "title": "Cosmos家族新成员XION：「全链抽象化」，主打「消费」",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697031553004.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=90955",
           "author": "Gao",
           "description": "Galxe：将向所有受损用户进行全额补偿，并额外提供10%补偿。ssv.network创始人表示已被以色列征召入伍。dYdX创始人：向Cosmos的过渡计划于本月进行，届时平台将“完全去中心化”。",
           "link": "https://www.web3sj.com/news/90955/",
           "publishedOn": "2023-10-11T12:09:26.000Z",
-          "wordCount": 871,
+          "wordCount": 894,
           "title": "Web3世界日报（2023-10.11）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023101112073930.jpg"
         },
@@ -58,7 +68,7 @@
           "description": "Zuzalu 的实验包括建立一个可容纳 200 人的迷你城市，持续两个月的时间。这个实验的目标是融合不同文化，创造一种独特的社区感觉。文章提到了实验的一些成功之处，包括技术和社交方面的进展，以及社区的国际化。然而，文章也提出了一些问题和挑战，包括 Zuzalu 的规模和目标，以及如何在长期内保持其特殊性和吸引力。作者认为，Zuzalu 可能会发展成一个具有大学、修道院和数字游牧中心等特点的结构，但还需要不断探索和发展。",
           "link": "https://www.web3sj.com/news/90930/",
           "publishedOn": "2023-10-11T05:00:26.000Z",
-          "wordCount": 935,
+          "wordCount": 932,
           "title": "Vitalik：我为什么建造Zuzalu",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697000403774.png"
         },
@@ -68,7 +78,7 @@
           "description": "Sui 采用委托权益证明（DPoS）来确定哪些验证者参与网络操作和享有投票权。这个系统通过激励验证者来真诚参与，他们通过分享交易费用、质押奖励以及在不当行为的情况下削减质押和质押奖励来获得回报。",
           "link": "https://www.web3sj.com/news/90919/",
           "publishedOn": "2023-10-11T03:53:31.000Z",
-          "wordCount": 1241,
+          "wordCount": 1237,
           "title": "以安全视角，深度剖析Sui Staking与LSD",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696996399870.png"
         },
@@ -78,7 +88,7 @@
           "description": "在这篇由 Super Testnet 和 Sam Parker 审核的白皮书中可以看出，BitVM 是 Robin Linus 在 Zero Sync 设计的一种新型计算范例，融合了 Optimistic Roll Up、Fraud Proof 欺诈证明、Taproot Leaf 和 Bitcoin Script。",
           "link": "https://www.web3sj.com/news/90912/",
           "publishedOn": "2023-10-11T03:46:00.000Z",
-          "wordCount": 985,
+          "wordCount": 994,
           "title": "要在比特币上计算任何内容，资深开发者们怎么看BitVM？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696995917061.png"
         },
@@ -88,7 +98,7 @@
           "description": "区块链的三角悖论，去中心化程度、安全性与可拓展性（即性能）三者之间的矛盾。为了追求任意两者的提升，往往会让第三者做出牺牲。如 Polygon 为了保证去中心化程度采用了复杂的验证机制，为了追求性能提高出块的速度，结果导致了容易出现大规模的区块重组事件和全网宕机事故，牺牲了安全性。",
           "link": "https://www.web3sj.com/news/90900/",
           "publishedOn": "2023-10-11T03:31:18.000Z",
-          "wordCount": 1333,
+          "wordCount": 1351,
           "title": "Layer2赛道深度分析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696995065097.png"
         },
@@ -98,7 +108,7 @@
           "description": "自年初以来，Solana 的 TVL 几乎翻了一番，目前为 30.95M SOL。尽管过去面临诸如网络暂停和 FTX/Alameda 事件的挑战，但 Solana 到目前为止实现了 100% 的运行时间，展现了显著的改善和恢复力。",
           "link": "https://www.web3sj.com/project/90884/",
           "publishedOn": "2023-10-11T03:27:14.000Z",
-          "wordCount": 1708,
+          "wordCount": 1680,
           "title": "Nansen：Solana的过去、现在和未来",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023101021294005956936.jpg"
         },
@@ -108,7 +118,7 @@
           "description": "继去年 Terraform 及其原生稳定币 UST 崩溃之后，这些数字资产的整个市值已大幅下跌至少 35%。根据加密货币数据提供商 DeFiLlama 的数据，去年 5 月，市场达到 1890 亿美元的峰值，但 18 个月后，截至撰写本文时，市场仅 1240 亿美元。",
           "link": "https://www.web3sj.com/news/90879/",
           "publishedOn": "2023-10-11T03:07:17.000Z",
-          "wordCount": 930,
+          "wordCount": 955,
           "title": "稳定币市值连续18个月下降，但一切还有转机",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696993596605.png"
         },
@@ -118,7 +128,7 @@
           "description": "以太坊社区成员长期以来一直担心 Lido 的主导地位是网络中心化的根源，许多人理所当然地认为 Lido 持续积累的市场份额对以太坊的共识构成了系统性风险。由于有不到三分之一的 ETH 通过 Lido 进行质押，该协议违反了三个关键共识阈值中的第一个，这可能会产生一个令人担忧的中心化向量，因为 Lido 可以阻止以太坊最终确定，而无需与其他验证实体勾结！",
           "link": "https://www.web3sj.com/news/90874/",
           "publishedOn": "2023-10-11T03:02:01.000Z",
-          "wordCount": 916,
+          "wordCount": 915,
           "title": "以太坊如何化解Lido中心化风险？为时太晚且没有必要",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696993286717.png"
         },
@@ -128,19 +138,9 @@
           "description": "作为世界上公认的科技强国，以色列虽属弹丸之地，但其加密技术也已成为了不容小觑的力量。本文将盘点已发行代币的以色列 Web3 项目，覆盖 Layer2、DeFi 、Layer1、NFT 和游戏等诸多领域，其中 StarkWare 估值高达 80 亿美元。",
           "link": "https://www.web3sj.com/definews/90847/",
           "publishedOn": "2023-10-10T12:32:25.000Z",
-          "wordCount": 1572,
+          "wordCount": 1582,
           "title": "盘点16个值得关注的以色列概念币，基础设施和DeFi是主力军",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1696941131217.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=90844",
-          "author": "Gao",
-          "description": "Solana生态链游Star Atlas的日交易量超过Polygon网络的日交易总量。Yuga Labs的版税收入从Q1的870万美元降至Q3的250万美元。彭博：币安的10亿美元“行业复苏计划”仅部署了不到3000万美元。",
-          "link": "https://www.web3sj.com/news/90844/",
-          "publishedOn": "2023-10-10T12:10:48.000Z",
-          "wordCount": 1025,
-          "title": "Web3世界日报（2023-10.10）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023101012092498.jpg"
         }
       ]
     },
