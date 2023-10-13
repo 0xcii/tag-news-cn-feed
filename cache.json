@@ -11,7 +11,7 @@
           "description": "曾经火爆全网的剧集《鱿鱼游戏》这回真的变成游戏了，而且还是能身临其境去玩的那种。",
           "link": "https://www.defidaonews.com/article/6834852",
           "publishedOn": "2023-10-09T05:59:48.000Z",
-          "wordCount": 266,
+          "wordCount": 274,
           "title": "《鱿鱼游戏》杀入体验店，SandboxVR未能复制神话",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1696829815/FhTtFAlBSfxSqjWVpeQ4VxprwRur.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 150,
+          "wordCount": 148,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=91153",
+          "author": "Gao",
+          "description": "没有零知识证明，状态通道就没有太大意义。没有零知识证明，所有授权改变状态的签名（离链）后续都必须链上验证。与链上交易相比，这并没有带来显著的费用降低。零知识证明轻松解决了这个问题。状态通道参与者简单地生成一个证明（离链），证明他们的所有互动和签名都是有效的。这个证明链上便宜验证，大大节省了成本。",
+          "link": "https://www.web3sj.com/gamefinews/91153/",
+          "publishedOn": "2023-10-13T04:57:21.000Z",
+          "wordCount": 855,
+          "title": "Volt Capital合伙人：为何ZK状态通道是链上多人游戏的最佳扩展",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697173026800.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=91149",
+          "author": "Gao",
+          "description": "近期 Canto 官方推特公佈了关于项目最新路线图的变动，Canto 将迁移至以太坊生态与 Polygon Lab 合作，採用 Polygon CDK 的技术服务将 Canto 公链带入以太坊生态成为以太坊 ZK L2 公链之一，Canto 官方表示此更新是为了下一阶段的路线图 NeoFinance，Canto 将引入大量 RWA 资产至链上提供加密原生用户也能享受传统金融的收益，为了确保更高可扩展性、流动性与安全性， 才决定离开 Cosmos 生态转投以太坊生态的怀抱中。",
+          "link": "https://www.web3sj.com/news/91149/",
+          "publishedOn": "2023-10-13T04:52:12.000Z",
+          "wordCount": 974,
+          "title": "Canto的RWA之路",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/3c33474587efa55449c5d01df4167c7c.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=91136",
+          "author": "Gao",
+          "description": "自 Optimism 宣布推出构建 OP Rollup 链的 OP Stack 并提出「超级链」概念之后，Arbitrum 宣布推出了专注扩展 L3 市场的 Arbitrum Orbit，zkSync 创建了开发 ZK Rollup 链的 ZK Stack，Starknet 发布了用于搭建应用链（Appchains）的组件工具包 Starknet Stack，Polygon 上线了构建 zkEVM 的链开发套件产品 Polygon CDK 等。",
+          "link": "https://www.web3sj.com/news/91136/",
+          "publishedOn": "2023-10-13T04:21:16.000Z",
+          "wordCount": 2032,
+          "title": "Layer2扎堆推出Stacks抢占开发者资源，谁会是最后赢家？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697170814444.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=91121",
           "author": "Gao",
           "description": "全链游戏比如 Dark Forest 这个以《三体》中黑暗森林为名的策略游戏也是以随机性为玩点，主打 Fully On-Chain Games （全链上游戏）+MMORTS（大型多人在线即时战略游戏）+ 战争迷雾（fog of war）。",
           "link": "https://www.web3sj.com/gamefinews/91121/",
           "publishedOn": "2023-10-13T04:06:05.000Z",
-          "wordCount": 1099,
+          "wordCount": 1089,
           "title": "ZKP+全链游戏：公平竞技的基石",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697070809392831.jpg"
         },
@@ -58,7 +88,7 @@
           "description": "在 Bankless 播客的这一集中，主持人 Dacid 和 Ryan 与 Bloomberg Intelligence 的分析师 Eric Balchunas 探讨了最近在美国首次推出的多个以太坊期货 ETF（交易所交易基金）及其对加密货币市场的影响。",
           "link": "https://www.web3sj.com/news/91117/",
           "publishedOn": "2023-10-13T03:57:39.000Z",
-          "wordCount": 1074,
+          "wordCount": 1053,
           "title": "对话彭博分析师：加密货币ETF的机遇与市场响应",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/5-1697158070290.jpg"
         },
@@ -68,7 +98,7 @@
           "description": "前Alameda工程师：Alameda曾因安全事件损失1.9亿美元。ARK Invest提交更新版本的比特币现货ETF招股说明书。Tangible：USDR脱锚是由短时内DAI被赎回及房地产清算时间表带来的恐慌性抛售导致。",
           "link": "https://www.web3sj.com/news/91091/",
           "publishedOn": "2023-10-12T11:23:03.000Z",
-          "wordCount": 891,
+          "wordCount": 886,
           "title": "Web3世界日报（2023-10.12）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023101211195897.jpg"
         },
@@ -78,7 +108,7 @@
           "description": "Friend.Tech 可以说是最近加密圈最炙手可热的项目，在上线两周内交易额已超 25,633 ETH。之后更是获得了 Paradigm 的种子轮投资，其锁仓量（TVL）也呈现指数级增长。不过在 10 月 4 日，Friend.Tech 迎来了 2,100 ETH 的净流出，也是上线以来最大的每日提款额，单日 TVL 下跌 7.8%。",
           "link": "https://www.web3sj.com/project/91066/",
           "publishedOn": "2023-10-12T08:04:36.000Z",
-          "wordCount": 1285,
+          "wordCount": 1265,
           "title": "friend.tech的困局与仿盘崛起，谁能引领SocialFi新浪潮？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697097863627.png"
         },
@@ -88,7 +118,7 @@
           "description": "本周，韩国金融服务委员会金融情报分析院发布 2023 年上半年虚拟资产企业调查报告，报告长达 20 页，以 35 家虚拟资产企业（26 家交易所和 9 家钱包和托管商）为调查对象，来呈现韩国虚拟资产市场现状。",
           "link": "https://www.web3sj.com/news/91053/",
           "publishedOn": "2023-10-12T07:58:01.000Z",
-          "wordCount": 1197,
+          "wordCount": 1217,
           "title": "疯狂背后的真相｜揭秘韩国Crypto市场真实面貌",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697097440274.png"
         },
@@ -98,7 +128,7 @@
           "description": "Big Time成立于2021年4月，是一款面向PC端的多人动作角色扮演游戏，玩法类似魔兽世界与暗黑破坏神，它结合了快速动作战斗、NFT的收藏和装饰，以及穿越时空的冒险。Big Time也是最早一批主打3A概念的链游。",
           "link": "https://www.web3sj.com/gamefinews/91045/",
           "publishedOn": "2023-10-12T06:58:07.000Z",
-          "wordCount": 980,
+          "wordCount": 952,
           "title": "深度解析3A链游大作Big Time，打金狂潮或将重现？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697093859470.png"
         },
@@ -108,39 +138,9 @@
           "description": "这也是成立于 2020 年的 Parsec 获得的第二轮融资，此前在 2021 年 1 月 Parsec 正式推出时，其便获得了由 Polychain Capital 领投，Robot Ventures、Volt Capital、Free Company 以及 Eric Conner、Alex Pack 和 Will Price 跟投的 125 万美元种子轮融资。",
           "link": "https://www.web3sj.com/news/91039/",
           "publishedOn": "2023-10-12T06:31:02.000Z",
-          "wordCount": 1034,
+          "wordCount": 1030,
           "title": "Uniswap参投，Parsec能为链上分析赛道带来怎样的变革？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697092249172.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91027",
-          "author": "Gao",
-          "description": "KYC 即「Know Your Customer（了解你的客户）」,对于银行或金融机构而言，它们需要知道自己的客户是谁；更深入一点，还要做「Due Diligence（尽职调查）」，即调查客户的基本背景资料。举个例子，在传统金融体系中，一个用户到银行开户，柜台或基金经理会要求用户提供一些身份证明的文件，包括身份证、护照、Address Proof（地址证明，如果用户有的话）等，把这些资料填表登记、输入电脑，再由后台团队核实用户身份、进行风险评估，这一系列操作完成，用户才可以真正地开户。",
-          "link": "https://www.web3sj.com/news/91027/",
-          "publishedOn": "2023-10-12T06:25:39.000Z",
-          "wordCount": 1028,
-          "title": "虚拟资产交易狂潮中的AML和CTF风暴：KYC和eKYC是为了什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697091915343.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91023",
-          "author": "Gao",
-          "description": "据吴说区块链报道，多名比特大陆内部员工确认，比特大陆发布通知：9 月公司经营现金流仍未转正，尤其是部矿 ( 指矿机进驻矿场 ) 进度严重不达标，EMT 决定暂缓发放 9 月份全体员工部分工资，10 月 7 日假期之后视情况发放。多名员工透露，所有员工 9 月份的绩效工资被全部扣掉，基本工资也被扣了一半，被扣掉的工资不知道啥时候才能发。截至 10 月 8 日，员工们都还没收到未发的工资，2022 年的年终奖至今都没有发。",
-          "link": "https://www.web3sj.com/news/91023/",
-          "publishedOn": "2023-10-12T06:12:39.000Z",
-          "wordCount": 1094,
-          "title": "矿机生意难做，比特大陆停发工资",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697091148193.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91020",
-          "author": "Gao",
-          "description": "我们（Delphi Digital）刚参加了亚洲两大加密相关会议——韩国区块链周和 Token 2049，借此机会想重点介绍一下我们所关注的该地区一些最有前途的区块链游戏项目。",
-          "link": "https://www.web3sj.com/gamefinews/91020/",
-          "publishedOn": "2023-10-12T06:05:25.000Z",
-          "wordCount": 867,
-          "title": "Delphi Digital：值得关注的7个亚洲加密游戏生态",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697090711853.png"
         }
       ]
     },
@@ -155,7 +155,7 @@
           "description": "PANews 10月13日消息，Arbitrum 启动的5000万枚ARB短期激励计划（STIP）首轮投票已完成，提交的 97 项提案中按照 Arbitrum 规则将有 29 个项目能够参与本次激励计划，包括 Camelot、Jones、Dopex、GMX、Galxe、LODESTAR、Socket、Timeswap、RADIANT、Pendle、MUX、Frax、Tally、Rysk、Silo、Stella、Good、Gamma、Umami、Abracadabra、KyberSwap、OpenOcean、Angle、Trader、Dolomite、Premia、Vertex、Perennial 和 Balancer。\n此前，Arbitrum 启动了短期激励计划（STIP）首轮投票，将分配 5000 万枚 ARB 来推动网络发展，如果请求的赠款超过 5000 万枚，将根据以下原则分配：按照赞成提案的票数、提案发布到论坛的时间。",
           "link": "https://panewslab.com/zh/articledetails/e4bx11g8.html",
           "publishedOn": "2023-10-13T03:10:00.000Z",
-          "wordCount": 396,
+          "wordCount": 394,
           "title": "Arbitrum的短期激励首轮投票已结束，Jones、GMX等29个项目获胜",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -165,7 +165,7 @@
           "description": "PANews 10月13日消息，币安发布公告称，aelf（ELF）项目方将于区块高度 175,663,892（预计东八区时间2023年10月17日18:00）进行网络升级。币安预计将于东八区时间2023年10月17日17:00暂停上述网络的代币充值、提现业务。本次网络升级后，待网络稳定运行时重新开放相关代币的充值、提现业务，不再另行公告。",
           "link": "https://panewslab.com/zh/articledetails/8kwz9wfl.html",
           "publishedOn": "2023-10-13T03:02:08.000Z",
-          "wordCount": 343,
+          "wordCount": 341,
           "title": "币安将于10月17日17:00暂停aelf(ELF)网络的充提，以支持其网络升级",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +175,7 @@
           "description": "PANews 10月13日消息，据The Information援引知情人士报道，OpenAI 首席执行官 Sam Altman 本周告诉员工，OpenAI 年化营收达到 13 亿美元。这意味着该公司月收入超过 1 亿美元，比今年夏天年化 10 亿美元的收入增长了 30%。自该公司二月份推出付费版本 ChatGPT 以来，收入增长（主要来自其对话式聊天机器人的订阅）呈现显着增长。去年全年，该公司的收入仅为 2800 万美元。\n本周早些时候报道，ChatGPT移动应用的9月收入增至458万美元，9月下载量和收入均创记录。",
           "link": "https://panewslab.com/zh/articledetails/d7v769pp.html",
           "publishedOn": "2023-10-13T02:57:07.000Z",
-          "wordCount": 391,
+          "wordCount": 389,
           "title": "OpenAI年化营收达到13亿美元，较夏季时的年化增加30%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -185,7 +185,7 @@
           "description": "PANews 10月13日消息，全国信息安全标准化技术委员会在其官网发布《生成式人工智能服务安全基本要求》（征求意见稿），现正面向社会公开征求意见。意见/建议收集截止时间为2023年10月25日24:00。据悉，这是国内首个专门面向生成式AI安全领域的规范意见稿，也是对7月网信办等七部门推出的《生成式人工智能服务管理暂行办法》的支撑。\n征求意见稿首次提出生成式AI服务提供者需遵循的安全基本要求，涉及语料安全、模型安全、安全措施、安全评估等方面。\n1、在语料安全要求方面，征求意见稿从来源安全、内容安全、标注安全三方面提出了要求。提供者要建立语料来源黑名单，单一来源语料内容中含违法不良信息超过5%的就要“拉黑”。\n2、在模型安全要求方面，征求意见稿从基础模型使用、生成内容安全、服务透明度、内容生成准确性、内容生成可靠性五大方面做出了严格要求。不应使用未经主管部门备案的基础模型，应在网站首页等显著位置向社会公开第三方基础模型使用情况等信息。\n3、在安全措施要求方面，征求意见稿从模型适用人群、场合、用途，个人信息处理，手机使用者输入信息用于训练，图片、视频等内容标识，接受公众或使用者投诉举报，向使用者提供生成内容，模型更新、升级，这七大方面提出了要求。\n4、在安全评估要求方面，征求意见稿从评估方法、语料安全评估、生成内容安全评估、内容拒答评估四方面给出了十分具体的参考。比如：在语料安全评估方面，提供者对语料安全情况进行评估时，要采用人工抽检，从全部训练语料中随机抽样不少于4000条语料，合格率不应低于96%。\n5、此外，征求意见稿还提出了一些其他要求，涉及关键词库、分类模型、生成内容测试题库、拒答测试题库等方面。",
           "link": "https://panewslab.com/zh/articledetails/s89400s1.html",
           "publishedOn": "2023-10-13T02:49:50.000Z",
-          "wordCount": 339,
+          "wordCount": 337,
           "title": "全国信安标委发布生成式AI安全基本要求，现面向社会公开征求意见",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -195,7 +195,7 @@
           "description": "PANews 10月13日消息，PeckShield 监测，Arbitrum 网络上的多链稳定资产交易 AMM 协议 Beluga Protocol 遭遇攻击，损失已达 108.9 ETH（约16.8万美元）。\n值得注意的是，该攻击者最初从 OKX 筹集了 0.1 ETH。",
           "link": "https://panewslab.com/zh/articledetails/u08zxs41.html",
           "publishedOn": "2023-10-13T02:34:30.000Z",
-          "wordCount": 389,
+          "wordCount": 387,
           "title": "PeckShield：Arbitrum网络上的Beluga Protocol遭遇攻击，损失已达108.9 ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -205,7 +205,7 @@
           "description": "PANews 10月13日消息，博鳌亚洲论坛副理事长周小川在2023中国（北京）数字金融论坛上表示，在数字货币发展生态中，支付系统的数字化和货币的数字化是一个硬币的两面。其次，随着数字货币生态的发展，有一些概念会逐步理清，大家也在逐步摸索，实际上概念也在发生融合和升级。目前数字货币包括数字人民币的发展，主要还是以账户型数字货币为基础，当然，代币型数字货币也是一个可能有发展空间的路径，但是主流还是账户型的数字货币。第三，要深刻理解和坚持运用双层运营体系。同时，周小川还强调，要坚持安全、便捷、低成本、反滥用等原则。\n周小川补充道，跨境交易也是央行数字货币重要的探索方向之一，既涉及到技术、系统，也涉及到政策取向。",
           "link": "https://panewslab.com/zh/articledetails/8es4q0s9.html",
           "publishedOn": "2023-10-13T02:23:27.000Z",
-          "wordCount": 338,
+          "wordCount": 336,
           "title": "周小川：数字货币要坚持安全、便捷、低成本、反滥用等原则",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -215,7 +215,7 @@
           "description": "PANews 10月13日消息，据吴说报道，链游项目 AbyssWorld 在 Discord 发布通知表示“我们的早期主要投资人 Chain Hill Capital 出现了暴雷问题，对 AbyssWorld 以及其他游戏的投资款款均未到账，对于 Abyss World 已拖欠半年有余，我们如约扩张了团队却消耗了比计划更多的现金储备。”\n据深潮 TechFlow ，受 Chain Hill Capital 未打款而影响的游戏开发团队还有很多，累计承诺投资资金接近 2000 万美元。",
           "link": "https://panewslab.com/zh/articledetails/qxbg2n90.html",
           "publishedOn": "2023-10-13T02:11:04.000Z",
-          "wordCount": 403,
+          "wordCount": 402,
           "title": "Chain Hill Capital疑似出现暴雷，累计近2000万美元的投资未打款",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -225,7 +225,7 @@
           "description": "PANews 10月13日消息，Gate.io 近日发布一款大额活期理财产品。根据公布的信息，该产品在首次认购时设有7天的锁仓期。锁仓期结束后，资金将进入活期，维持锁仓期利率不变。\n此外，为提供更多资金安全保障，Gate.io 已每月持续更新其储备金证明，确保用户资金安全无忧。",
           "link": "https://panewslab.com/zh/articledetails/4p7lq4t3.html",
           "publishedOn": "2023-10-13T02:04:43.000Z",
-          "wordCount": 363,
+          "wordCount": 361,
           "title": "Gate.io 财富管理推出大额活期业务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -235,7 +235,7 @@
           "description": "PANews 10月13日消息，据CoinDesk报道，以太坊区块链上曾经拥挤的新验证者队列几乎已经完全清空。区块链数据显示，目前只有 57 名验证者等待进入网络，低于 6 月初超过 96,000 名的峰值。与此同时，将新验证器部署到以太坊网络的等待时间也已从 6 月初 45 天的峰值缩短至仅需 28 分钟。",
           "link": "https://panewslab.com/zh/articledetails/na5re0o6.html",
           "publishedOn": "2023-10-13T02:03:02.000Z",
-          "wordCount": 384,
+          "wordCount": 382,
           "title": "以太坊验证者排队状况已大幅减缓，新验证器部署的等待时间仅半小时",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -245,7 +245,7 @@
           "description": "美国CFTC起诉Voyager联合创始人实施欺诈\n据The Block报道，美国商品期货交易委员会（CFTC）指控Voyager Digital联合创始人Stephen Ehrlich实施欺诈。CFTC表示，Ehrlich和其公司对客户撒谎。当Voyager开始崩溃时，他们隐瞒了这家加密贷款机构的真实财务状况。CFTC执法主管Ian McGinley在周四的一份声明中表示：“虽然他们表示会安全负责地对待客户的数字资产商品，但他们在背后让客户资产承担了令人震惊的风险，导致了Voyager的破产和巨大的客户损失。”\nCFTC表示，Ehrlich向客户承诺高收益回报，有时高达12%。为了支付高额回报，Ehrlich和Voyager将“价值数十亿美元的客户数字资产作为‘贷款’转移给高风险的第三方”。\n与此同时，美国联邦贸易委员会周四宣布与Voyager达成和解，永久禁止其处理消费者资产。该委员会还指控Ehrlich在客户账户是否得到联邦存款保险公司保险的问题上撒谎。Ehrlich没有同意与联邦贸易委员会达成和解，因此针对他的案件将继续在联邦法院进行。\nUniswap推出安卓测试版钱包\n据官方消息，Uniswap宣布推出安卓测试版钱包应用。该应用程序此前只支持电脑和iOS移动设备。根据10月12日的公告，新的安卓测试版钱包允许用户在不切换网络的情况下选择不同链上的代币。它会自动检测代币所在的网络，并切换到该网络。目前已支持Polygon、Arbitrum、Optimism、Base和BNBChain，未来还会兼容更多区块链。\nCaroline Ellison：赵长鹏的推文“促成”FTX的崩溃，FTX和Alameda之间没有真正的“内控和隔离制度”\n据Cointelegraph报道，Alameda Research前首席执行官Caroline Ellison在法庭作证称，SBF于202…",
           "link": "https://panewslab.com/zh/articledetails/ewbnyh9z.html",
           "publishedOn": "2023-10-13T01:51:00.000Z",
-          "wordCount": 602,
+          "wordCount": 600,
           "title": "昨夜今晨重要资讯（10月12日-10月13日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/10/13/images/PJi9nQKY4Q.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "PANews 10月13日消息，据The Block报道，Coinbase 周四向美国国税局发出了一封长达 14 页的信函，详细说明了其所称的与数字资产交易总收益和基础报告相关的拟议税收法规的“性质和范围”的严重担忧。Coinbase 表示，这些要求将建立“一套难以理解且过于繁重的新报告要求”。它还认为，它们“过于宽泛，缺乏保证或无法实施”。 \n本周早些时候报道，美参议员敦促国税局加快打击加密税收欺诈的计划，11月7日将举行相关听证会。",
           "link": "https://panewslab.com/zh/articledetails/0nuuoumu.html",
           "publishedOn": "2023-10-13T01:36:00.000Z",
-          "wordCount": 355,
+          "wordCount": 353,
           "title": "Coinbase致信美国国税局，表达对拟议税收法规的“性质和范围”的严重担忧",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -265,7 +265,7 @@
           "description": "PANews 10月13日消息，以太坊模块化执行层 Fuel 宣布开放 Beta-4 测试网和以太坊 Sepolia 之间的原生桥。Fuel 原生桥可以在 L1 和 L2 之间转移资产，并利用消息门户处理 ERC-20 和 ERC-721 等代币标准。在 L2 上，代币有专门的合约用于在 Fuel 上进行消息处理和铸造。任何存入 Fuel 的资产最多可能需要 6 小时才能提取回以太坊。Fuel 原生桥仍处于测试阶段，会随着时间的推移迭代桥的外观和功能。\n2022年9月报道，以太坊扩容团队Fuel Labs完成8000万美元融资，Blockchain Capital等领投。\n相关阅读：FuelVM：一种基于UTXO的通用型执行引擎",
           "link": "https://panewslab.com/zh/articledetails/f7lw756l.html",
           "publishedOn": "2023-10-13T01:27:56.000Z",
-          "wordCount": 421,
+          "wordCount": 419,
           "title": "模块化执行层Fuel推出原生桥，支持在Beta-4和以太坊Sepolia之间跨链",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +275,7 @@
           "description": "PANews 10月13日消息，Galaxy研究副总裁Christine Kim发文总结第172次以太坊核心开发者执行（ACDE）电话会议。开发人员讨论了以下方面的进展：坎昆/Deneb (Dencun) 测试；以太坊虚拟机 (EVM) 对象格式开发。Devnet #9更新有：Devnet #9 现在的参与率为 93%，7% 未运行的验证器主要由 Geth (EL)/Teku (CL) 验证器节点组成。Devnet #10 本周不会准备好，但希望下周准备好。Devnet #10 将具有大型验证器集，包括 330,000 个活跃验证器。\n随后，开发人员讨论了 EVM 对象格式 (EOF) 的最新进展。EOF 是一组专注于 EVM 更改的 EIP。EOF 的倡导者之一 Danno Ferrin 对过去几个月为 EOF 所做的工作进行了高度总结。Ferrin 表示，目前有四个主要团队在致力于 EOF：Team Ipsilon；EL 客户团队；高级语言编译器团队和智能合约开发人员。Ferrin 演讲中提到的 EOF EIP 包括：EIP 3540：EVM 代码的新容器格式；EIP 4200：三个新的 EVM 跳转指令引入静态跳转；EIP 4750：两个新的操作码将消除需求并禁止动态跳转；EIP 663：两条新指令允许访问 256（而不是 16）的堆栈深度；EIP 7480：四个新指令，用于启用 EOF 容器数据部分的读取功能；EIP 7069：三个新的调用指令，用于简化有关 Gas 使用和费用的语义；EIP 5450：在合约执行时引入 EOF 格式的智能合约的验证；EIP 3670：在合同创建时引入 EOF 格式的智能合同的验证。\n以太坊基金会协议支持主管 Tim Beiko 同意开发人员应该在 Devconnect 上继续讨论 EOF、Verkle 和布拉格/Electra。Beiko 还强调，将于10 月 18 日星期三专门召集类似 EVM 的第 2 层协议，以鼓励这些团队之间的协作。同一天还将召开 EOF 实施者电话会议。最后，Beiko 提到了由 L2Beat在 Devconnect 组织的专门Layer-2 日活动。",
           "link": "https://panewslab.com/zh/articledetails/34lhbyrg.html",
           "publishedOn": "2023-10-13T01:18:55.000Z",
-          "wordCount": 518,
+          "wordCount": 516,
           "title": "第172次以太坊ACDE会议：主要讨论了坎昆/Deneb测试和以太坊EVM对象格式开发方面的进展",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +285,7 @@
           "description": "PANews 10月13日消息，Lookonchain监测显示，FalconX 今日再次从Binance提取了123万枚LDO(约186万美元)，FalconX 过去五天内已从Binance累积了总计648万枚LDO(约980万美元)。",
           "link": "https://panewslab.com/zh/articledetails/95nvyhvc.html",
           "publishedOn": "2023-10-13T00:59:53.000Z",
-          "wordCount": 346,
+          "wordCount": 344,
           "title": "数据：FalconX今日再次从Binance提取123万枚LDO",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -295,7 +295,7 @@
           "description": "PANews 10月13日消息，投资机构 Arca 发起有关 Blur 手续费开关讨论的改进提案（BIP），该提案建议为 Blur 市场协议增加 1% 的基本交易费，并建议将这些费用用于每天系统地回购和销毁 BLUR。Arca 还提出了分级费用结构，为持有 BLUR 的用户提供费用折扣。\n据悉，BLUR代币曾于2023年2月发布，支持/反对费用转换的治理投票的 180 天冻结期现已到期。",
           "link": "https://panewslab.com/zh/articledetails/7pkp64z0.html",
           "publishedOn": "2023-10-13T00:56:08.000Z",
-          "wordCount": 378,
+          "wordCount": 376,
           "title": "Arca发起Blur手续费开关讨论提案，拟用于回购和销毁BLUR",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +305,7 @@
           "description": "PANews 10月13日消息，万事达卡（Mastercard）参与澳大利亚储备银行 (RBA) 和数字金融合作研究中心 (DFCRC) 的中央银行数字货币 (CBDC) 试点项目，探索了 CBDC 在澳大利亚的潜在用例。并发布与 Cuscal 和 Mintable 合作开发的新解决方案，该解决方案使 CBDC 能够被代币化（或“包装”）到不同的区块链上。万事达卡在现场环境中演示了该解决方案如何使试点 CBDC 的持有者能够购买以太坊公共区块链上列出的 NFT。该过程在澳大利亚央行的试点 CBDC 平台上“锁定”了所需数量的试点 CBDC，并在以太坊上铸造了等量的包装试点 CBDC 代币。测试交易的先决条件是买方和卖方的以太坊钱包以及 NFT 市场智能合约均已在平台内“允许列出”。由于打包试点 CBDC 的所有其他传输均被阻止，它成功地证明了该平台实施控制的能力——即使在公共区块链上也是如此。\n该试点利用了万事达卡于 2023 年 6 月推出的多代币网络的两大支柱，万事达卡多代币（Multi-Token）网络目前处于测试阶段。",
           "link": "https://panewslab.com/zh/articledetails/ej9g4s3w.html",
           "publishedOn": "2023-10-13T00:37:27.000Z",
-          "wordCount": 411,
+          "wordCount": 409,
           "title": "万事达卡与Cuscal和Mintable合作展示可与以太坊等公共区块链互操作的CBDC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +315,7 @@
           "description": "PANews 10月13日消息，DappRadar 发布的《2023 年第三季度区块链游戏状况》报告显示，2023 年第三季度，Web3 游戏项目获得 6 亿美元资金，相比第二季度价值 9.73 亿美元的加密游戏投资下降了 38%。这使得今年迄今为止的融资总额约为 23 亿美元。尽管 2023 年尚未结束，但迄今为止这 23 亿美元的资金仅相当于去年全年筹集资金的 30%。\n2023 年第三季度的区块链游戏活动平均每日有 786,766 个独立活跃钱包，较上一季度增长 12%。就钱包与区块链交互而言，《Alien Worlds》保持了 2023 年第三季度最受欢迎的 Web3 游戏的地位，占据了 WAX 超过 60% 的活动。Axie Infinity 和 Gods Unchained 在 Web3 游戏交易额方面处于领先地位，分别为 9000 万美元和 5500 万美元。本季度虚拟世界 dapp 的交易量达到历史最高水平，总计 1300 万美元，土地销售量为 28,000 块。",
           "link": "https://panewslab.com/zh/articledetails/xmt564dh.html",
           "publishedOn": "2023-10-13T00:08:31.000Z",
-          "wordCount": 454,
+          "wordCount": 453,
           "title": "DappRadar报告：Web3游戏项目在2023年Q3吸引了6亿美元的投资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "PANews 10月13日消息，据Blockworks报道，Terraform Labs向法庭提交了一项动议，要求Citadel Securities“根据第三方传票提供某些数据”，并表示这对其在美国SEC提起的诉讼中进行辩护“至关重要”。该动议称，Terraform Labs针对“与2022年5月脱锚有关”的交易数据向Citadel Securities和Citadel Enterprise Americas发出了传票。Terraform指出，公开证据表明，Citadel实体的负责人Ken Griffin打算在2022年5月脱锚前后做空UST。Terraform表示，Nansen的数据帮助他们找到了“七个所谓的‘鲸鱼’，他们有能力和决心在一项资产或金融工具上做多或做空”。此外，数据还显示，“少数参与者在UST脱锚早期就发现了漏洞”。",
           "link": "https://panewslab.com/zh/articledetails/qtq7iiqh.html",
           "publishedOn": "2023-10-12T23:54:27.000Z",
-          "wordCount": 365,
+          "wordCount": 363,
           "title": "Terraform Labs声称Citadel Securities与UST脱锚有潜在联系",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +335,7 @@
           "description": "PANews 10月13日消息，据官方消息，Uniswap宣布推出安卓测试版钱包应用。该应用程序此前只支持电脑和iOS移动设备。根据10月12日的公告，新的安卓测试版钱包允许用户在不切换网络的情况下选择不同链上的代币。它会自动检测代币所在的网络，并切换到该网络。目前已支持Polygon、Arbitrum、Optimism、Base和BNBChain，未来还会兼容更多区块链。",
           "link": "https://panewslab.com/zh/articledetails/h3p1ra6e.html",
           "publishedOn": "2023-10-12T23:44:35.000Z",
-          "wordCount": 340,
+          "wordCount": 338,
           "title": "Uniswap推出安卓测试版钱包",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,7 +345,7 @@
           "description": "PANews 10月13日消息，据The Block报道，美国商品期货交易委员会（CFTC）指控Voyager Digital联合创始人Stephen Ehrlich实施欺诈。CFTC表示，Ehrlich和其公司对客户撒谎。当Voyager开始崩溃时，他们隐瞒了这家加密贷款机构的真实财务状况。CFTC执法主管Ian McGinley在周四的一份声明中表示：“虽然他们表示会安全负责地对待客户的数字资产商品，但他们在背后让客户资产承担了令人震惊的风险，导致了Voyager的破产和巨大的客户损失。”\nCFTC表示，Ehrlich向客户承诺高收益回报，有时高达12%。为了支付高额回报，Ehrlich和Voyager将“价值数十亿美元的客户数字资产作为‘贷款’转移给高风险的第三方”。\n与此同时，美国联邦贸易委员会周四宣布与Voyager达成和解，永久禁止其处理消费者资产。该委员会还指控Ehrlich在客户账户是否得到联邦存款保险公司保险的问题上撒谎。Ehrlich没有同意与联邦贸易委员会达成和解，因此针对他的案件将继续在联邦法院进行。",
           "link": "https://panewslab.com/zh/articledetails/1gtm4dc7.html",
           "publishedOn": "2023-10-12T23:35:36.000Z",
-          "wordCount": 353,
+          "wordCount": 351,
           "title": "美国CFTC起诉Voyager联合创始人实施欺诈",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }

@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T04:15:42.684Z</id>
+    <id>urn:2023-10-13T05:12:29.394Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T04:15:42.684Z</updated>
+    <updated>2023-10-13T05:12:29.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Volt Capital合伙人：为何ZK状态通道是链上多人游戏的最佳扩展]]></title>
+        <id>https://www.web3sj.com/?p=91153</id>
+        <link href="https://www.web3sj.com/gamefinews/91153/"/>
+        <updated>2023-10-13T04:57:21.000Z</updated>
+        <summary type="html"><![CDATA[没有零知识证明，状态通道就没有太大意义。没有零知识证明，所有授权改变状态的签名（离链）后续都必须链上验证。与链上交易相比，这并没有带来显著的费用降低。零知识证明轻松解决了这个问题。状态通道参与者简单地生成一个证明（离链），证明他们的所有互动和签名都是有效的。这个证明链上便宜验证，大大节省了成本。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canto的RWA之路]]></title>
+        <id>https://www.web3sj.com/?p=91149</id>
+        <link href="https://www.web3sj.com/news/91149/"/>
+        <updated>2023-10-13T04:52:12.000Z</updated>
+        <summary type="html"><![CDATA[近期 Canto 官方推特公佈了关于项目最新路线图的变动，Canto 将迁移至以太坊生态与 Polygon Lab 合作，採用 Polygon CDK 的技术服务将 Canto 公链带入以太坊生态成为以太坊 ZK L2 公链之一，Canto 官方表示此更新是为了下一阶段的路线图 NeoFinance，Canto 将引入大量 RWA 资产至链上提供加密原生用户也能享受传统金融的收益，为了确保更高可扩展性、流动性与安全性， 才决定离开 Cosmos 生态转投以太坊生态的怀抱中。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer2扎堆推出Stacks抢占开发者资源，谁会是最后赢家？]]></title>
+        <id>https://www.web3sj.com/?p=91136</id>
+        <link href="https://www.web3sj.com/news/91136/"/>
+        <updated>2023-10-13T04:21:16.000Z</updated>
+        <summary type="html"><![CDATA[自 Optimism 宣布推出构建 OP Rollup 链的 OP Stack 并提出「超级链」概念之后，Arbitrum 宣布推出了专注扩展 L3 市场的 Arbitrum Orbit，zkSync 创建了开发 ZK Rollup 链的 ZK Stack，Starknet 发布了用于搭建应用链（Appchains）的组件工具包 Starknet Stack，Polygon 上线了构建 zkEVM 的链开发套件产品 Polygon CDK 等。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZKP+全链游戏：公平竞技的基石]]></title>
         <id>https://www.web3sj.com/?p=91121</id>
@@ -300,36 +330,6 @@ CFTC表示，Ehrlich向客户承诺高收益回报，有时高达12%。为了支
         <link href="https://www.web3sj.com/news/91039/"/>
         <updated>2023-10-12T06:31:02.000Z</updated>
         <summary type="html"><![CDATA[这也是成立于 2020 年的 Parsec 获得的第二轮融资，此前在 2021 年 1 月 Parsec 正式推出时，其便获得了由 Polychain Capital 领投，Robot Ventures、Volt Capital、Free Company 以及 Eric Conner、Alex Pack 和 Will Price 跟投的 125 万美元种子轮融资。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虚拟资产交易狂潮中的AML和CTF风暴：KYC和eKYC是为了什么？]]></title>
-        <id>https://www.web3sj.com/?p=91027</id>
-        <link href="https://www.web3sj.com/news/91027/"/>
-        <updated>2023-10-12T06:25:39.000Z</updated>
-        <summary type="html"><![CDATA[KYC 即「Know Your Customer（了解你的客户）」,对于银行或金融机构而言，它们需要知道自己的客户是谁；更深入一点，还要做「Due Diligence（尽职调查）」，即调查客户的基本背景资料。举个例子，在传统金融体系中，一个用户到银行开户，柜台或基金经理会要求用户提供一些身份证明的文件，包括身份证、护照、Address Proof（地址证明，如果用户有的话）等，把这些资料填表登记、输入电脑，再由后台团队核实用户身份、进行风险评估，这一系列操作完成，用户才可以真正地开户。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[矿机生意难做，比特大陆停发工资]]></title>
-        <id>https://www.web3sj.com/?p=91023</id>
-        <link href="https://www.web3sj.com/news/91023/"/>
-        <updated>2023-10-12T06:12:39.000Z</updated>
-        <summary type="html"><![CDATA[据吴说区块链报道，多名比特大陆内部员工确认，比特大陆发布通知：9 月公司经营现金流仍未转正，尤其是部矿 ( 指矿机进驻矿场 ) 进度严重不达标，EMT 决定暂缓发放 9 月份全体员工部分工资，10 月 7 日假期之后视情况发放。多名员工透露，所有员工 9 月份的绩效工资被全部扣掉，基本工资也被扣了一半，被扣掉的工资不知道啥时候才能发。截至 10 月 8 日，员工们都还没收到未发的工资，2022 年的年终奖至今都没有发。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delphi Digital：值得关注的7个亚洲加密游戏生态]]></title>
-        <id>https://www.web3sj.com/?p=91020</id>
-        <link href="https://www.web3sj.com/gamefinews/91020/"/>
-        <updated>2023-10-12T06:05:25.000Z</updated>
-        <summary type="html"><![CDATA[我们（Delphi Digital）刚参加了亚洲两大加密相关会议——韩国区块链周和 Token 2049，借此机会想重点介绍一下我们所关注的该地区一些最有前途的区块链游戏项目。]]></summary>
         <author>
             <name>Gao</name>
         </author>
