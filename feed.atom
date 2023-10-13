@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-13T15:13:22.860Z</id>
+    <id>urn:2023-10-13T16:16:12.678Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-13T15:13:22.860Z</updated>
+    <updated>2023-10-13T16:16:12.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[1inch团队使用249万枚USDC购入1609枚stETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/23tou13w.html</id>
+        <link href="https://panewslab.com/zh/articledetails/23tou13w.html"/>
+        <updated>2023-10-13T15:24:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，据链上分析师余烬监测，1小时前，1inch团队地址 (标签：1inch: Team Investment Fund Collection) 使用249万枚USDC再次购入1609枚stETH，每枚均价1551美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊最新会议：Devnet 9还需大量测试，协议复杂性导致升级节奏减慢]]></title>
+        <id>https://panewslab.com/zh/articledetails/kxr8lozf.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kxr8lozf.html"/>
+        <updated>2023-10-13T15:14:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，Galaxy研究副总裁Christine Kim发文总结本周以太坊开发者电话会议，会上开发者们讨论了Devnet #9上正在出现的问题和错误，并就EOF的优点进行了长时间的辩论。
+会议指出，Devnet 9还需要进行大量测试。除了解决各种EL/CL组合的问题，开发人员还在加紧测试MEV-Boost。Devnet 9只有一个中继器和构建器，只能处理普通的交易，还不能处理blob交易；EF测试团队在启动Devnet 10之前需要注意的四点：更新EIP-4844KZG仪式的可信设置文件、提高blob交易的可见性、MEV管道、网络稳定性。Kim表示，Dencun是一个复杂的升级。此外，自从合并以来，以太坊的升级协议变得更加复杂。这意味着测试需要时间。开发人员甚至可能决定在Devnet 10之后再推出另一个开发网，然后再继续推出公共测试网。
+Christine Kim强调，其认为随着协议变得更加复杂，以太坊升级的节奏自然会减慢，这是应该预料到的，这样新代码和新功能带来的错误和技术故障的可能性就会减轻。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ParaFi Capital从Coinbase买入1227枚MKR，约合168万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/7wzyudx1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7wzyudx1.html"/>
+        <updated>2023-10-13T14:58:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，据CryptoPNZ监测，ParaFi Capital今日从Coinbase买入1227枚MKR（均价1362美元），约合168万美元。
+据悉，ParaFi Capital曾在一周前卖出1500枚MKR。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剖析Big Time经济模型：抛开代币不谈，游戏本身已经失败了一半]]></title>
         <id>https://www.web3sj.com/?p=91282</id>
@@ -36,6 +69,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[网络监控公司Sandvine放弃在美国销售追踪加密消息工具的计划]]></title>
+        <id>https://panewslab.com/zh/articledetails/l654811l.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l654811l.html"/>
+        <updated>2023-10-13T14:37:48.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，据彭博社报道，消息人士表示，网络监控公司Sandvine已经放弃了向美国执法机构出售一项有争议的互联网监控技术的计划，该技术可以追踪加密信息，该公司还解雇了参与该计划的大部分员工。目前尚不清楚Sandvine是否也停止了海外销售。
+据悉，Sandvine向欧洲、中东、亚洲和北美的政府和执法机构推销这一新产品“Digital Witness”。该公司称这一技术可暗中监控人们的互联网使用和Meta Platform旗下WhatsApp和Signal等流行应用发送的加密消息。Sandvine此前已向美国提供该技术的试用版，但整体经济恶化和对公司之前与独裁政府合作的持续担忧阻碍了该产品的成功。
+Digital Witness不会像间谍软件渗透手机那样破解设备或绕过加密，而是分析通过互联网网络传输的大量加密流量，收集并分析通信的元数据。Sandvine宣传Digital Witness是一种“革命性的解决方案，旨在帮助调查机构从网络数据中提取线索”，它可以帮助对加密流量、消息、语音呼叫、联系人、加密货币交易和有关个人生活方式的信息进行分类和关联。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链安全公司CertiK裁员约15%]]></title>
+        <id>https://panewslab.com/zh/articledetails/m45tjvsf.html</id>
+        <link href="https://panewslab.com/zh/articledetails/m45tjvsf.html"/>
+        <updated>2023-10-13T14:25:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，据CoinDesk报道，区块链安全公司CertiK基于“市场动态”进行了裁员，联合创始人兼首席执行官Ronghui Gu在一份电子邮件声明中表示：“为了应对不断变化的市场动态，CertiK今天进行了战略性的劳动力调整，影响到的同事不到15%。公司主要目标是重新调整团队结构更好地符合公司长期战略愿望。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[危机四伏：警惕SIM卡交换攻击]]></title>
         <id>https://www.web3sj.com/?p=91247</id>
         <link href="https://www.web3sj.com/news/91247/"/>
@@ -46,6 +101,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wintermute将1350万枚HFT转入CEX，约合407万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/pkb389q2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/pkb389q2.html"/>
+        <updated>2023-10-13T14:21:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，据链上分析师余烬监测，在过去的1小时里，Wintermute共计将1350万枚HFT(约合407万美元)转入CEX，占HFT现流通量的6%：其中，1050万枚HFT转入Kraken，300万枚HFT转入币安。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[解码Intents，如何彻底改变Web3用户体验与订单流模式]]></title>
         <id>https://www.web3sj.com/?p=91238</id>
         <link href="https://www.web3sj.com/news/91238/"/>
@@ -53,6 +118,36 @@
         <summary type="html"><![CDATA[随着 Web3 技术逐渐走向大众应用，确保用户能够自主应对 Web3 复杂性显得至关重要。与区块链初期不同，用户不再需要破解复杂的技术细节，未来的趋势是提供一种引导和赋能用户无缝与去中心化系统互动的用户体验。借鉴 Web2 的发展历程，用户需求通过搜索引擎和像 ChatGPT 这样的聊天机器人变得越来越丰富表达。Web3 必须提供一种易于使用但功能强大的用户体验。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neutron DAO提案提议将无人申领的NTRN空投代币转至Cosmos Hub]]></title>
+        <id>https://panewslab.com/zh/articledetails/961e1s2z.html</id>
+        <link href="https://panewslab.com/zh/articledetails/961e1s2z.html"/>
+        <updated>2023-10-13T14:12:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，跨链智能合约平台Neutron DAO社区发起“将无人申领的NTRN空投代币转移至 Cosmos Hub”提案，拟将约42,727,950枚未申领的NTRN代币转移到Cosmos Hub社区资金池，投票将于10月27日结束。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance.US将主动公布考虑上架的数字资产，目前正评估SUI]]></title>
+        <id>https://panewslab.com/zh/articledetails/c5cbxobd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/c5cbxobd.html"/>
+        <updated>2023-10-13T14:02:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，据官方公告，Binance.US宣布更新数字资产上架流程，将主动公布正在考虑上架的精选资产。目前，Binance.US正在评估Sui（SUI），可能很快在平台上架。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAI已脱锚至0.72美元，24小时跌幅超12%]]></title>
+        <id>https://panewslab.com/zh/articledetails/ufkttie1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ufkttie1.html"/>
+        <updated>2023-10-13T13:47:22.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月13日消息，CoinGecko数据显示，稳定币MAI（MIMATIC）自2023年5月起脱锚，现报0.7231美元，24小时跌幅达12.2%。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -202,29 +297,6 @@ Blockstream表示，为了促进非托管闪电解决方案的采用，它提供
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[币安将支持Klaytn（KLAY）网络升级及硬分叉]]></title>
-        <id>https://panewslab.com/zh/articledetails/ekk3up0m.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ekk3up0m.html"/>
-        <updated>2023-10-13T09:46:39.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，据官方公告，币安将支持Klaytn（KLAY）网络升级及硬分叉，具体安排如下：
-项目方将于区块高度135,456,000（预计2023年10月16日09:00）进行网络升级及硬分叉；币安预计将于2023年10月16日08:00暂停上述网络的代币充值、提现业务。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THORSwap恢复交易并在服务条款中新增“防护措施”，屏蔽受美制裁国家的用户]]></title>
-        <id>https://panewslab.com/zh/articledetails/4kjaxfbe.html</id>
-        <link href="https://panewslab.com/zh/articledetails/4kjaxfbe.html"/>
-        <updated>2023-10-13T09:44:27.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，据Decrypt报道，THORSwap已恢复其原生代币RUNE的交易并更新了“服务条款”，增加了“一些额外防护措施”，以防止非法资金流动并遵守法律规定，并屏蔽来自美国制裁国家的用户。
-一些用户很快对新规则表示担忧，称其违背了去中心化原则。加密货币研究员Matt Ahlborg在回复THORSwap时表示，全面禁令是不道德的，因为它们会对“数亿无辜人民”产生不利影响。而一位THORChain支持者回答说，来自受制裁国家的用户可以使用其他应用程序来代替THORSwap，因为它是由“美国团队”构建的，并且“必须合法遵守”。
-上周五，THORSwap称鉴于非法资金正使用THORChain，将暂时转变为维护模式。自THORSwap暂停交易以来，RUNE一直处于下跌趋势，7天跌幅达27%，从2.03美元跌至1.48美元低点。上述消息公布后，THOR也上涨了11.5%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arbitrum的赠款战争落幕：57个项目瓜分5000万ARB，或成DAO治理的经典案例？]]></title>
         <id>https://www.web3sj.com/?p=91212</id>
         <link href="https://www.web3sj.com/project/91212/"/>
@@ -232,78 +304,6 @@ Blockstream表示，为了促进非托管闪电解决方案的采用，它提供
         <summary type="html"><![CDATA[Arbitrum 社区数千万美元的赠款争夺战落下帷幕。10 月 13 日上午 10 点，Arbitrum 短期激励计划的 Snapshot 投票结束，97 个提案中，共有 57 个获得通过。Arbitrum 上的原生项目获得了最多的支持，未通过的提案主要是一些和 Arbitrum 生态相关度不高的项目，也有 Lido 这类争议较大的项目。但通过的提案申请的 ARB 数量为 7405 万 ARB，超过了 5000 万的限制，还需根据赞同票的数量筛选，最终获得赠款的项目可能少于 57 个。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DWF Labs向Bithumb存入5000万枚ORBS，约合130万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/zgqsgt2x.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zgqsgt2x.html"/>
-        <updated>2023-10-13T09:24:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，据Lookonchain监测，DWF Labs刚刚向Bithumb存入5000万枚ORBS，约合130万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flare Network将销毁21亿枚FLR以支持生态系统健康]]></title>
-        <id>https://panewslab.com/zh/articledetails/79jf1ncy.html</id>
-        <link href="https://panewslab.com/zh/articledetails/79jf1ncy.html"/>
-        <updated>2023-10-13T09:10:13.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，据CoinDesk报道，Flare Network开发团队表示，他们将销毁21亿枚FLR代币，即超总供应量的2%，以支持生态系统的发展和整体健康，防止社区代币持有量被稀释，并增加新用户加入网络的动力。
-计划销毁的部分代币已分配给Flare的早期支持者。在Flare与这些实体就第一个Flare改进提案FIP.01应如何影响向股东分配代币达成协议后，这些代币将不再分发。约1.98亿枚FLR将立即被销毁，另外每月销毁6600万枚FLR，直到2026年1月。截至撰写本文时，FLR的交易价格为0.0094美元，销毁的代币总数价值约为2000万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马德拉启动比特币商业中心以促进当地创新]]></title>
-        <id>https://panewslab.com/zh/articledetails/cimuqiku.html</id>
-        <link href="https://panewslab.com/zh/articledetails/cimuqiku.html"/>
-        <updated>2023-10-13T08:49:42.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，Bitcoin Magazine发推表示，马德拉总统宣布启动比特币商业中心以促进当地创新。
-据悉，马德拉（Madeira）是葡萄牙的两个自治区之一，位于非洲西海岸外，人口约25-30万。18世纪40年代以来一直是欧洲人，尤其是英国人旅游和度假地。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merit Circle已销毁占总供应量超35%的MC代币]]></title>
-        <id>https://panewslab.com/zh/articledetails/fz2s9mol.html</id>
-        <link href="https://panewslab.com/zh/articledetails/fz2s9mol.html"/>
-        <updated>2023-10-13T08:40:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，链游公会 Merit Circle 发推称，Merit Circle DAO 已销毁 368,707,273 枚 MC 代币，占总供应量 35% 以上。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获英国监管机构批准，微软正式完成对动视暴雪的收购]]></title>
-        <id>https://panewslab.com/zh/articledetails/kic5mo31.html</id>
-        <link href="https://panewslab.com/zh/articledetails/kic5mo31.html"/>
-        <updated>2023-10-13T08:37:31.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，英国反垄断监管机构（CMA）周五正式批准了微软对《使命召唤》开发商动视暴雪的收购，此前的交易变更基本上解决了该机构的担忧。根据这项新协议，微软将不会购买动视暴雪持有的云游戏版权，而是在交易完成之前将其出售给独立第三方育碧娱乐公司（育碧）。CMA 认为重组交易做出了重要改变，基本上解决了今年早些时候提出的与原始交易有关的担忧。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HKVAC公布其加密指数季度调整结果，将于10月20日起生效]]></title>
-        <id>https://panewslab.com/zh/articledetails/gyd9x78p.html</id>
-        <link href="https://panewslab.com/zh/articledetails/gyd9x78p.html"/>
-        <updated>2023-10-13T08:27:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，香港虚拟资产评级机构HKVAC今天公布了“HKVAC 核心指数”和“HKVAC 市场指数”的指数调整结果，相关变动自2023年10月20日（星期五）起生效。HKVAC核心指数新添加Hedera（HBAR）和Maker（MKR），移除Cryptonex（CNX）和Internet Computer（ICP）。HKVAC大型加密货币指数（除比特币、以太币和稳定币）继续维持30只不变，但新加入了Hedera（HBAR）、Maker（MKR）和Quant（QNT），移除Cryptonex（CNX）、Internet Computer（ICP）和HEX（HEX）。HKVAC 市场指数成分股将维持5只不变，但新加入XRP，移除USDC。HKVAC 全球大型加密货币前 10 名指数和前 10 名等权重指数没有任何变动。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疑似Upbit钱包目前已持有6.53亿枚LOOM，占总供应量的50%]]></title>
-        <id>https://panewslab.com/zh/articledetails/93451lx7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/93451lx7.html"/>
-        <updated>2023-10-13T07:46:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月13日消息，Lookonchain发推表示，今天LOOM的价格飙升了约 30%。疑似Upbit的钱包今天累积了 2142 万枚 LOOM（583 万美元）。该钱包目前持有 6.53 亿枚 LOOM（约1.81 亿美元），占总供应量的 50%。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
