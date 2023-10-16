@@ -1,10 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-16T05:12:33.041Z</id>
+    <id>urn:2023-10-16T06:18:05.773Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-16T05:12:33.041Z</updated>
+    <updated>2023-10-16T06:18:05.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI在其核心价值观更新中表明将全力打造通用人工智能]]></title>
+        <id>https://panewslab.com/zh/articledetails/cj9mqqi2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cj9mqqi2.html"/>
+        <updated>2023-10-16T05:43:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，据IT之家报道，近日OpenAI悄然更改了其“核心价值观”列表，将之前未明确列出的通用人工智能（AGI）纳入其中，并列在首位，显示出对AGI的强烈追求。此前OpenAI招聘页面列出了六个核心价值观供其员工遵循，分别是大胆、深思熟虑、谦逊、重视影响、团队合作和注重成长。但是，现在这些价值观已经被替换为五个新的价值观，其中“聚焦AGI（AGI focus）”排在第一位。OpenAI官网写道：我们致力于构建安全、有益的AGI，这将对人类未来产生巨大的积极影响。不符合这个目标的一切都不在我们的考虑范围内。剩下四个价值观分别为激烈而顽强、规模化、创造用户喜爱的东西和团队精神。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客使用“EtherHiding”技术在区块链中隐藏恶意代码]]></title>
+        <id>https://panewslab.com/zh/articledetails/tfuscd9e.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tfuscd9e.html"/>
+        <updated>2023-10-16T05:20:52.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，据Cointelegraph报道，网络犯罪分子发现了用户传播恶意软件的新方法，通过操纵BSC智能合约来隐藏恶意软件并传播恶意代码。安全研究人员在10月15日的一份报告中分享了这种被称为“EtherHiding”的技术，解释说攻击涉及通过注入从区块链合约中检索部分有效负载的代码来破坏WordPress网站。
+攻击者将有效载荷隐藏在BSC中，这些合约基本上充当了匿名免费托管平台。黑客可以随意更新代码、改变攻击方式。最近的攻击以虚假浏览器更新的形式出现，提示受害者使用虚假的登陆页面和链接更新浏览器。有效负载包含JavaScript，可从攻击者的域名中获取额外的代码。最终，这将导致网站被完全篡改，出现虚假的浏览器更新通知，并散播恶意软件。这种攻击方式让威胁行为者通过简单地交换每个新区块链交易中的恶意代码来修改攻击链。这使得缓解攻击的难度很大，一旦被感染的智能合约被部署，它们就会自主运行。币安所能做的就是依靠其开发人员社区在发现合同时标记恶意代码。
+使用WordPress的网站所有者需要对自己的安全实践保持高度警惕，因为WordPress占所有网站的约43%。Web3和区块链带来了恶意活动不受约束的新可能性。需要采取适应性防御措施来应对这些新兴威胁。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某巨鲸向Coinbase存入1262万枚LOOM，约482万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/dph34f9t.html</id>
+        <link href="https://panewslab.com/zh/articledetails/dph34f9t.html"/>
+        <updated>2023-10-16T05:11:00.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，据The Data Nerd监测，8小时前，0x313开头巨鲸地址以均价0.38美元向Coinbase存入1262万枚LOOM（482万美元）。
+该鲸鱼在7个月前LOOM价格下跌至0.057美元时囤积了这些代币。若现在出售，该鲸鱼将获利408万美元（+659%）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾：friend.tech自定义工具FrenTechPro系钓鱼骗局]]></title>
+        <id>https://panewslab.com/zh/articledetails/lodn7rrk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/lodn7rrk.html"/>
+        <updated>2023-10-16T05:08:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，X平台用户@iamyourchaos表示，针对friend.tech的一体化自定义工具FrenTechPro很可能是诈骗项目，并提供了几个可疑迹象，包括置顶推文不开放评论、存在买粉行为等。
+对此，慢雾创始人余弦确认其属于钓鱼骗局，网页上的ACTIVATE NOW点击后会不断尝试盗取钱包相关资产。其中一个钓鱼钱包地址为：0x0000d56b6e33cb711256ff3483ace599f17f0000。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aave社区新提案拟将GHO借款利率进一步提高至3%]]></title>
+        <id>https://panewslab.com/zh/articledetails/1wb4nhdk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1wb4nhdk.html"/>
+        <updated>2023-10-16T03:58:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，Snapshot页面显示，Aave社区正对“进一步提高GHO借款利率”的ARFC提案进行投票，并将于17:51结束，若通过将升级到AIP阶段。
+该提案建议将GHO借款利率进一步提高50个基点（bps），从2.5%提高至3%，以加强GHO锚定、增加GHO收入。StkAave持有者的折扣保持不变，仍为30%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“FTX破产”地址将4416枚ETH质押至Figment，约合685万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/j2jjiv10.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j2jjiv10.html"/>
+        <updated>2023-10-16T03:30:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，据派盾预警监测，链上标记为“FTX破产”地址将4416枚ETH（约685万美元）质押至Figment。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitrace：匿名市场风险加密资金占比更高，投资者应谨慎进行场外交易]]></title>
+        <id>https://panewslab.com/zh/articledetails/i5vf9rgn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i5vf9rgn.html"/>
+        <updated>2023-10-16T03:16:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，区块链数据分析公司币追Bitrace发文称其研究表明，匿名度更高的场外交易市场流入了较高比例的风险加密资金，与这类地址进行资金交互，会面临更大的地址风险。
+Bitrace针对中心化交易平台、合规加密货币承兑平台、大型洗钱水房等机构以外的，具备明显OTC业务特征的波场地址进行了资金分析，数据显示在过去24个月内，已经有超过34.39亿风险USDT流入这些地址。流入USDT资金中过半为中高风险资金，包括14.7%的网赌关联USDT，20.1%的灰黑产关联USDT，以及19.4%的洗钱关联USDT。这表明收取来自这类地址及其关联地址的USDT，将有很大概率导致地址被污染，使得地址资金更容易被中心化平台风控，甚至使投资者本人遭受执法部门的调查。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF的辩护律师试图扩大对控方下一轮证人的盘问范围]]></title>
+        <id>https://panewslab.com/zh/articledetails/o1iczvb0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o1iczvb0.html"/>
+        <updated>2023-10-16T03:03:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，据Decrypt报道，在美国检察官的证人、即FTX创始人Sam Bankman-Fried（SBF）核心圈子成员连续两周出庭作证之后，SBF及其律师团队正试图扩大对控方下一轮证人的盘问范围。SBF的律师团队表示，他们对盘问政府证人的可用渠道受到限制表示担忧，这些限制阻碍了他们为当事人辩护。为了纠正这一点，辩方要求有更多空间通过交叉询问来探讨辩方理论，并阻止检察官依赖外行证人提供专家证词。SBF的律师团队在文件中写道：“政府反对辩方向政府证人提出偏离政府观念的问题，但不应阻止辩方通过盘问‘充实’其理论。”
+前助理美国律师兼布查尔特律师事务所股东Daniel Silva表示，受害者的证词“让陪审团更加支持”政府一方，而SBF的律师团队可能正试图通过围绕它制造障碍来阻止这种情况发生。SBF确实在努力让这些具有破坏性的证据远离陪审团。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Cats将于10月19日推出Cool Cats Avatars]]></title>
+        <id>https://panewslab.com/zh/articledetails/m2m475ey.html</id>
+        <link href="https://panewslab.com/zh/articledetails/m2m475ey.html"/>
+        <updated>2023-10-16T02:54:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，NFT项目Cool Cats在X平台上表示，将于10月19日推出Cool Cats Avatars。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3个巨鲸地址24小时内共增持价值约316美元的MKR]]></title>
+        <id>https://panewslab.com/zh/articledetails/kzzwx04q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kzzwx04q.html"/>
+        <updated>2023-10-16T02:46:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，据Lookonchain报道，3个巨鲸地址正在积累MKR，近24小时内共增持了价值约315.7美元的MKR。0x9e开头地址19小时前从币安提取了869枚MKR（约127万美元），并持有3,549枚MKR（约合517万美元）。0x6b开头新钱包于20小时前从币安提取了1001枚MKR（约146万美元）。0xB4开头地址11小时前从OKX提取了300枚MKR（约合43.7 万美元），并持有800枚MKR（117万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[律师：中国区块链创业有三件事不能干，包括IC0、交易所和挖矿]]></title>
+        <id>https://panewslab.com/zh/articledetails/0ajh7e8w.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0ajh7e8w.html"/>
+        <updated>2023-10-16T02:41:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，上海曼昆律所刘红林律师最近在访谈中谈及从法律合规的角度看待在中国区块链创业中哪些事情不能干。第一件，打着虚拟货币名义进行非法集资，包括虚拟货币集资或者传统的法币集资，这个就是我们知道的禁掉IC0。第二件在中国不能做的是虚拟货币交易所业务，包括两种：一种方式是在中国是不能进行虚拟货币交易所创业，第二个是哪怕公司注册地或者说团队人员在海外，也是不能面向中国公民开展虚拟货币交易所业务。第三件在中国区块链创业的红线是虚拟货币挖矿，“双碳”是中国的国家战略，基于环保的考量。从法律的角度上来讲，这件事儿可能就是涉嫌违法，虚拟货币挖矿在中国内地不受监管层欢迎，是一个比较确定的情况。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密资产合成平台Noahswap获得300万美元投资]]></title>
+        <id>https://panewslab.com/zh/articledetails/w3331c6w.html</id>
+        <link href="https://panewslab.com/zh/articledetails/w3331c6w.html"/>
+        <updated>2023-10-16T02:30:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，加密资产合成平台Noahswap近日在官方博客中宣布从Coinstore旗下区块链创新实验室Coinstore Labs获得300万美元投资。
+据悉，Noahswap的核心机制是 “合成资产铸造”，通过让用户在平台上质押不良加密货币来 "对冲损失风险"。通过这种方法，投资者可以将不良加密货币重新配置为更有价值的其他数字资产，减少损失并提高收益。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白话区块链早报：比特币算力创历史新高]]></title>
         <id>https://www.hellobtc.com/news/202310/21315.html</id>
@@ -31,6 +159,59 @@
 10.艺术类NFT Winds of Yawanawa过去一周地板价涨幅超100%。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨夜今晨重要资讯（10月15日-10月16日）]]></title>
+        <id>https://panewslab.com/zh/articledetails/0jqx84m1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0jqx84m1.html"/>
+        <updated>2023-10-16T02:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Grayscale：已准备好在获得SEC批准后将GBTC转换为ETF
+Fox Business记者Eleanor Terrett推特发文称，灰度Grayscale针对美国SEC不寻求重审的决定发表声明称：“《联邦上诉程序规则》规定的寻求重审的45天期限已过。法院将在7天内发布最终授权。Grayscale团队已准备就绪，一旦获得SEC批准，就将GBTC转换为ETF"。据此前消息，SEC不计划就Grayscale裁决提出上诉，这与很多行业人士对局势的预测相符，这将增加GBTC转换为ETF的可能性。
+Stars Arena已重新开放，但交易尚未恢复
+PANews 10月16日消息，基于AVAX网络的社交协议Stars Arena在推特宣布已重新开放，但交易尚未恢复。Stars Arena此前表示，只有在公布完整的审计报告并开源合约供社区审查后，交易才会恢复。
+澳大利亚计划对加密交易所实施监管
+据彭博社报道，澳大利亚财政部在周一发布的题为“监管数字资产平台”的咨询文件中表示，持有超过500万澳元(合320万美元)的数字资产平台或持有超过1500澳元的个人，必须获得澳大利亚证券投资委员会(ASIC)颁发的许可。该咨询文件提议根据现有的金融服务法对加密交易所进行监管，而不是制定新的加密货币特定规则。加密公司的义务来自现有的金融服务法律，包括提交财务记录、监控市场不当行为、满足偿付能力和现金储备要求。此外，加密公司还需在交易、质押和代币创建等领域需要承担更多义务。澳大利亚政府将在12月1日之前就该提案进行磋商。预计立法草案将于明年出台，之后交易所将有12个月的时间确保合规。
+数据：价值约6459万美元的AXS、1660万美元的APE将在本周解锁
+Token Unlocks数据显示，本周4个项目将进行代币解锁，总计释放价值超过8780万美元。
+Flow(FLOW)将于10月16日上午8时解…]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莫斯科证券交易所将于2024年发行代币化房地产资产]]></title>
+        <id>https://panewslab.com/zh/articledetails/rce5m4ek.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rce5m4ek.html"/>
+        <updated>2023-10-16T02:03:38.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，据Cryptoslate报道，莫斯科证券交易所数字资产主管Sergei Kharinov表示，该交易所正准备在2024年推出针对房地产资产的数字金融资产 (DFA)，以使该行业的投资变得更容易。
+国家结算存管机构（NSD）将监督将在莫斯科证券交易所交易的 DFA 的发行。NSD是俄罗斯央行授权监督DFA发行的10家运营商之一。其他运营商包括俄罗斯储蓄银行、阿尔法银行、Lighthouse和圣彼得堡交易所等传统金融实体，以及Blockchain Hub等Web 3公司。
+与股票或债券等传统金融工具不同，DFA是基于区块链的数字权利，记录为分布式账本上的程序代码。本质上，它们是区块链上现实世界资产（在本例中为房地产）的代币化版本。尽管根据俄罗斯法律，DFA不能用作支付手段，但它们为投资者提供了独特的优势——包括将证券的价值划分为多个代币并执行可编程交易的能力。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄立成近两小时买入8枚Winds of Yawanawa，该NFT地板价24小时涨超70%]]></title>
+        <id>https://panewslab.com/zh/articledetails/rd7602xi.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rd7602xi.html"/>
+        <updated>2023-10-16T01:59:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，链上信息显示，黄立成地址近两小时共买入8枚艺术类NFT Winds of Yawanawa，共花费117.77枚ETH。
+Blur数据显示，该NFT地板价目前为14.49 ETH，24小时涨幅达70.67%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana：网传FTX开发人员可开启和关闭Solana系谣言，并推出漏洞赏金计划]]></title>
+        <id>https://panewslab.com/zh/articledetails/pjqbpm36.html</id>
+        <link href="https://panewslab.com/zh/articledetails/pjqbpm36.html"/>
+        <updated>2023-10-16T01:55:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月16日消息，此前曾有假冒KOL Inner City Press 的账号发布谣言称，上周在法庭上，前Alameda Research首席执行官Caroline Ellison告诉联邦检察官，FTX开发人员可以随意“开启和关闭”Solana区块链。随后，Solana基金会宣布推出漏洞赏金计划，针对那些能够找到可关闭该区块链的漏洞的人士。Solana基金会开发者关系负责人Jacob Creech表：“对于任何能够找到可以关闭Solana的代码的人，都有40万美元的奖励。请尽管去找吧。”
+目前尚不清楚单一开发人员如何能够切实关闭一个去中心化区块链，因为该区块链旨在防止任何实体对其加以控制。然而，赏金计划或许是必要的，以使社区确信该系统不受操纵——并进一步摆脱FTX和SBF的影响。
+Solana及其链上SOL代币曾是SBF的喜好，SBF是Solana开发的积极支持者。FTX崩溃前，FTX曾为Solana NFT提供交易平台，并投资了多个与Solana相关的项目。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -75,129 +256,6 @@
         <updated>2023-10-16T01:13:59.000Z</updated>
         <summary type="html"><![CDATA[PANews 10月16日消息，据Cointelegraph报道，韩国加密交易所Upbit的新加坡子公司今日表示，已获得新加坡大型支付机构牌照（MPI）的原则性批准，允许其继续为机构投资者提供数字支付代币服务，同时等待全面牌照的发放。
 Upbit Singapore创始人兼首席执行官Alex Kim在一份声明中表示，该公司成立于2018年，但最近的批准对于深化其在当地的业务具有战略意义。如果Upbit获得全面批准，它将加入15家拥有新加坡金融管理局（MAS）颁发的全面MPI数字支付代币服务许可证的加密公司行列。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF申请在受审期间加大药物剂量以保证其作证能力]]></title>
-        <id>https://panewslab.com/zh/articledetails/mryqbvqx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mryqbvqx.html"/>
-        <updated>2023-10-16T01:01:47.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，据Coinage报道，FTX创始人Sam Bankman-Fried（SBF）的代理律师在当地时间周日晚间向法庭提交申请，表示希望SBF可以获准在庭审期间加大阿得拉（Adderall）的药物剂量，并指出这可能会影响SBF作证的能力。
-据悉，阿德拉是一种神经兴奋类药物，因能够增加人的机敏性，暂时减轻疲劳感并增加攻击性，多用于治疗注意力缺陷与多动症障碍（ADHD）以及发作性嗜睡症。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Friend.tech仿盘Tomo和New Bitcoin City的TVL均突破100万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/bp91fsn8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/bp91fsn8.html"/>
-        <updated>2023-10-16T00:57:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，据The Block报道，Friend.tech仿盘、社交金融协议Tomo和New Bitcoin City目前在各自的智能合约中锁定了超过100万美元，其中Tomo TVL 已达146万美元，New Bitcoin City TVL已达107万美元。这两个协议都是基于社交媒体与金融相结合的新兴领域的先行者——基于社交媒体Friend.tech的类似项目。FriendTech普及了拥有封闭社区的想法，用户需要支付所谓的key才能访问群聊，每次购买key时，key的价格都会变得更加昂贵。
-与Friend.tech相比，Tomo在Linea平台上提供了一些不同的功能，比如能够直接给某人发信息。但使Tomo与众不同的主要方面是，它让用户可以对人们加入平台后的key价值进行押注，比如特斯拉首席执行官埃隆·马斯克的密钥，目前价值0.478 ETH（约合743美元），如果加入该平台，这就是他开始交易的价格。
-New Bitcoin City基于比特币二层网络NOS，与大多数社交金融平台略有不同，更倾向于成为一个社交层，允许来自Friend.tech等其他协议的用户在其应用程序上使用他们的key。New Bitcoin City增加了几个级别的定制化，包括设置群聊所有者购买他们的密钥的费用（0-8%）和访问他们的群聊所需的key数量，它支持用户间互相购买对方使用了一个月的key，这个过程被称为“(3,3)”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniswap V4的KYC hook引发社区争议，或可让DeFi被监管机构列入白名单]]></title>
-        <id>https://panewslab.com/zh/articledetails/zsat1wf9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zsat1wf9.html"/>
-        <updated>2023-10-16T00:45:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，据Cointelegraph报道，Uniswap V4 hook开源目录中提供的新hook（即“KYC hook”）在加密社区内引发了争议，该hook使用户在交易池之前可以进行KYC检查。某X平台用户批评了这个hook，指出它开启了去中心化金融（DeFi）协议被监管机构列入白名单的可能性。
-hook是允许开发人员在不更改程序主结构的情况下自定义代码的工具。在Uniswap V4中，这个hook将允许开发人员在去中心化金融协议中使用KYC验证。KYC hook是由Uniswap V4目录上的社区开发人员作为可选功能推出的，KYC验证由NFT执行。根据另一位X用户的说法，该NFT是专门针对流动性提供商的，可能对必须遵守某些司法管辖区监管要求的项目有用。
-据悉，Uniswap V4引入了可定制的hook功能，预计将于2024年初推出，并且仅限于经过治理批准的实体才能访问。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3社交应用Tip Coin将于10月23日启动TipChat]]></title>
-        <id>https://panewslab.com/zh/articledetails/lxpsl071.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lxpsl071.html"/>
-        <updated>2023-10-16T00:34:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，Web3社交应用Tip Coin在X平台上称，TipChat将于10月23日启动，启动前将接受全面审核。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币算力已升至455 EH/s创历史新高，有望在年底前达到半个ZettaHash]]></title>
-        <id>https://panewslab.com/zh/articledetails/z2mnjbv9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/z2mnjbv9.html"/>
-        <updated>2023-10-16T00:31:48.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，据Bitcoin.com报道，近日比特币的挖矿哈希率创历史新高，七日均线达每秒455 EH/s，2023初该数据仅261 EH，这意味着在9个月左右的时间里，哈希率增加了194 EH，接近半个Zettahash（即大约500 EH/s）。如果算力维持目前每天0.68 EH/s的增长率，七日均线在大约66天或9-10周内（即2023年12月20日左右）达到500 EH/s。
-今年早些时候，River Financial研究分析师Sam Wouters预计，到2025年底，比特币可能会进入ZettaHash（每秒1,000 EH）时代。如果哈希率保持目前每天0.68 EH/s的增长势头，这一里程碑可能会在2025年12月23日左右或可能在2026年初达到。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ether.fi将在EigenLayer上推出原生再质押代币eETH，拟明年3月实现DAO治理]]></title>
-        <id>https://panewslab.com/zh/articledetails/awaenx2e.html</id>
-        <link href="https://panewslab.com/zh/articledetails/awaenx2e.html"/>
-        <updated>2023-10-16T00:22:30.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，非托管流动性质押协议ether.fi在X平台公布其去中心化路线图并宣布将进行市场份额限制，其承诺将协议的验证者数量和ETH自我限制在共识层的25%以下。
-根据其去中心化路线图，ether.fi将在一个月内在EigenLayer上推出原生再质押代币eETH。此外，团队计划于今年12月将协议全部开源，并于明年3月实现DAO治理、分布式验证器技术 (DVT)集成第二阶段（无需许可的单独质押）以及合约僵化（Contracts ossification）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Negentropy Capital披露曾被推特大V BitRun教唆的Web3项目“维权团伙”敲诈]]></title>
-        <id>https://panewslab.com/zh/articledetails/bzuhkn4o.html</id>
-        <link href="https://panewslab.com/zh/articledetails/bzuhkn4o.html"/>
-        <updated>2023-10-16T00:09:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，Negentropy Capital创始人BillyWen在X平台上表示，去年其基金参与投资一个Web3项目被所谓的维权团伙敲诈，后向深圳龙岗警方报案并立案，嫌疑人伍某某年仅24岁涉嫌勒索敲诈五万usdt（合计三十余万元），律师跟龙岗区检察院确认案件补充侦查结束后已提交法院，嫌疑人已被逮捕并认罪，法院将于近期审理宣判该案。
-此案件侦查过程中，嫌疑人伍某某供出他是经由一名叫BitRun的推特大V教唆并由其提供炮制的虚假维权材料通过网络实施敲诈勒索，与此同时龙岗警方已将BitRun组织教唆伍某某诈骗犯罪作为另案侦办。由于嫌疑人BitRun已出境及长期在境外活动影响了警方取证调查的进展，现征集嫌疑人BitRun的生活及工作相关的详细信息包括银行账号、家庭住址、联系方式等，如提供的线索对警方的调查工作切实有效，我们将提供10万元人民币作为线索举报奖励。
-BillyWen称，经由此次案件深刻体会到国内投资或创业web3项目法律风险防范的重要性，并且跟律师讨论协商后，我们的基金计划将捐款50万元人民币成立web3 builders法律援助中心，为需要法律援助支持的web3从业同仁们提供一些力所能及的咨询和帮助，也期盼能为华人团队在全球从事web3创业提供法律方面的护卫能力。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：价值约6459万美元的AXS、1660万美元的APE将在本周解锁]]></title>
-        <id>https://panewslab.com/zh/articledetails/f9bvzb4l.html</id>
-        <link href="https://panewslab.com/zh/articledetails/f9bvzb4l.html"/>
-        <updated>2023-10-15T23:40:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，Token Unlocks数据显示，本周4个项目将进行代币解锁，总计释放价值超过8780万美元。
-Flow(FLOW)将于10月16日上午8时解锁约729万枚代币，价值约323万美元；
-ApeCoin(APE)将于10月17日上午8时解锁约1560万枚代币，价值约1660万美元；
-Axie Infinity(AXS)将于10月20日下午9点10分解锁约1513枚代币，价值约6459万美元；
-SPACE ID(ID)将于10月22日上午8时解锁约1849万枚代币，价值约341万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亚计划对加密交易所实施监管]]></title>
-        <id>https://panewslab.com/zh/articledetails/sc5t24le.html</id>
-        <link href="https://panewslab.com/zh/articledetails/sc5t24le.html"/>
-        <updated>2023-10-15T23:40:10.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，据彭博社报道，澳大利亚财政部在周一发布的题为“监管数字资产平台”的咨询文件中表示，持有超过500万澳元(合320万美元)的数字资产平台或持有超过1500澳元的个人，必须获得澳大利亚证券投资委员会(ASIC)颁发的许可。该咨询文件提议根据现有的金融服务法对加密交易所进行监管，而不是制定新的加密货币特定规则。加密公司的义务来自现有的金融服务法律，包括提交财务记录、监控市场不当行为、满足偿付能力和现金储备要求。此外，加密公司还需在交易、质押和代币创建等领域需要承担更多义务。澳大利亚政府将在12月1日之前就该提案进行磋商。预计立法草案将于明年出台，之后交易所将有12个月的时间确保合规。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stars Arena已重新开放，但交易尚未恢复]]></title>
-        <id>https://panewslab.com/zh/articledetails/a9tqn7d7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/a9tqn7d7.html"/>
-        <updated>2023-10-15T23:21:43.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，基于AVAX网络的社交协议Stars Arena在推特宣布已重新开放，但交易尚未恢复。Stars Arena此前表示，只有在公布完整的审计报告并开源合约供社区审查后，交易才会恢复。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale：已准备好在获得SEC批准后将GBTC转换为ETF]]></title>
-        <id>https://panewslab.com/zh/articledetails/np2ci6e6.html</id>
-        <link href="https://panewslab.com/zh/articledetails/np2ci6e6.html"/>
-        <updated>2023-10-15T20:28:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月16日消息，Fox Business记者Eleanor Terrett推特发文称，灰度Grayscale针对美国SEC不寻求重审的决定发表声明称：“《联邦上诉程序规则》规定的寻求重审的45天期限已过。法院将在7天内发布最终授权。Grayscale团队已准备就绪，一旦获得SEC批准，就将GBTC转换为ETF"。据此前消息，SEC不计划就Grayscale裁决提出上诉，这与很多行业人士对局势的预测相符，这将增加GBTC转换为ETF的可能性。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
