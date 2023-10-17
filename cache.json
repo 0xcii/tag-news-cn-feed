@@ -11,7 +11,7 @@
           "description": "曾经火爆全网的剧集《鱿鱼游戏》这回真的变成游戏了，而且还是能身临其境去玩的那种。",
           "link": "https://www.defidaonews.com/article/6834852",
           "publishedOn": "2023-10-09T05:59:48.000Z",
-          "wordCount": 264,
+          "wordCount": 255,
           "title": "《鱿鱼游戏》杀入体验店，SandboxVR未能复制神话",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1696829815/FhTtFAlBSfxSqjWVpeQ4VxprwRur.png?imageView2/1/w/500/h/300"
         },
@@ -21,7 +21,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 197,
+          "wordCount": 195,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "AIGC正全面渗入人类的视听体验。",
           "link": "https://www.defidaonews.com/article/6833148",
           "publishedOn": "2023-09-18T02:26:58.000Z",
-          "wordCount": 150,
+          "wordCount": 156,
           "title": "剧情反转，抵制AI音乐的华纳签了位虚拟歌手",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1695004009/FjNwmnjIBH-Z_QLW-NHoyixVzR_9.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=91539",
+          "author": "Gao",
+          "description": "本文讨论了共享排序器的概念，共享排序器可以使不同的应用链共享一组验证者来实现去中心化，并通过订单引擎和 Rollup 引擎来处理交易排序和执行。但共享排序器和  Polkadot  的多链设计架构具备高度相似性，可否将 Polkadot 现成的技术引入以太坊生态系统，从而提高以太坊多链的发展进程。",
+          "link": "https://www.web3sj.com/news/91539/",
+          "publishedOn": "2023-10-17T03:03:45.000Z",
+          "wordCount": 1058,
+          "title": "以太坊多链发展前路何方？论借鉴波卡多链架构的可行性",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697511789369.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=91533",
+          "author": "Gao",
+          "description": "10 月 10 日，Uniswap 创始人 Hayden（@haydenzadams）在社交媒体转发了一条社区的内容，说道：「距离发布 v4 仅几个月的时间，就已经有一个 hooks 目录站点和来自社区构建的 75 个不同的 hooks。作为一种富有表现力的原生功能，hooks 在公共建设上赢得了胜利。」",
+          "link": "https://www.web3sj.com/definews/91533/",
+          "publishedOn": "2023-10-17T02:58:21.000Z",
+          "wordCount": 922,
+          "title": "社区为Uniswap引入KYC Hook，会威胁到DeFi的去中心化主义吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697511372142.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=91529",
+          "author": "Gao",
+          "description": "如果应用特定的 Rollup 成本过高且没有提供必要的技术定制，大多数开发者会选择在共享的 Rollup 上进行发布。这让我开始思考 Ethereum Rollups 与 Cosmos 的应用链以及 Solana 之间的观点。",
+          "link": "https://www.web3sj.com/news/91529/",
+          "publishedOn": "2023-10-17T02:49:41.000Z",
+          "wordCount": 1034,
+          "title": "如何看待以太坊Rollup、Solana、Cosmos应用链之间的竞争格局？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697510966488.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=91523",
+          "author": "Gao",
+          "description": "贝莱德首席执行官 Larry Fink 周一在接受福克斯商业频道采访时表示，现货 ETF 获得批准的虚假消息引发的比特币价格上涨其实是加密兴趣」报复性反弹「的一个例子。Larry Fink 近几个月成为比特币的支持者，一再强调其作为一种「数字化黄金」的作用。",
+          "link": "https://www.web3sj.com/news/91523/",
+          "publishedOn": "2023-10-17T02:43:26.000Z",
+          "wordCount": 990,
+          "title": "比特币涨了个寂寞，贝莱德CEO高情商回应：这是对加密兴趣的「报复性反弹」",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697510592970.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=91520",
+          "author": "Gao",
+          "description": "据悉，法拉利将与加密货币支付平台 BitPay 合作，后者支持比特币、以太坊、USDC、瑞波币、柴犬币等加密资产作为支付方式。法拉利首席营销及商务官 Enrico Galliera 对外界说，公司将通过这项计划，吸引和触达「目前不一定属于我们、但具有购买法拉利能力的潜在客群」。",
+          "link": "https://www.web3sj.com/news/91520/",
+          "publishedOn": "2023-10-17T02:36:43.000Z",
+          "wordCount": 892,
+          "title": "盯上豪车「新贵」，法拉利接受加密货币支付",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697510177606.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=91481",
           "author": "Gao",
           "description": "自 2022 年以来，各种以 Drainer 为名的钓鱼团伙逐渐冒出头，比如通过社工获取 Discord Token 并进行钓鱼的 Pink Drainer；比如通过 Permit 或 Approve 获得用户批准并盗取资产的钓鱼服务提供商 Venom Drainer；比如通过虚假 KOL 推特账号、Discord 等发布虚假 NFT 相关的带有恶意 Mint 的诱饵网站进行钓鱼，窃取了数千万美元网络钓鱼组织 Monkey Drainer 等。",
           "link": "https://www.web3sj.com/news/91481/",
           "publishedOn": "2023-10-16T12:20:06.000Z",
-          "wordCount": 1284,
+          "wordCount": 1305,
           "title": "黑暗「天使」：Angel Drainer钓鱼团伙揭秘",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697458781984.png"
         },
@@ -58,7 +108,7 @@
           "description": "Grayscale：已准备好在获得SEC批准后将GBTC转换为ETF。Solana：网传FTX开发人员可开启和关闭Solana系谣言，并推出漏洞赏金计划。Coinbase报告：投资者对以太坊质押收益的需求已放缓。",
           "link": "https://www.web3sj.com/news/91473/",
           "publishedOn": "2023-10-16T11:26:03.000Z",
-          "wordCount": 857,
+          "wordCount": 841,
           "title": "Web3世界日报（2023-10.16）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023101611230748.jpg"
         },
@@ -68,7 +118,7 @@
           "description": "在过去的半年里，一种持续的不安在我的思绪中扎根，特别是与加密货币的未来有关。我沉浸在加密 Twitter 中，沉浸在乐观之中——由于工作性质或环境被迫保持对该行业忠诚的人。这种情况扭曲了我们的观感，并使我们每天消费的信息内在带有偏见。",
           "link": "https://www.web3sj.com/news/91456/",
           "publishedOn": "2023-10-16T11:00:09.000Z",
-          "wordCount": 990,
+          "wordCount": 955,
           "title": "加密货币的变革之海：未来十年行业趋势预判",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697453983007.png"
         },
@@ -78,7 +128,7 @@
           "description": "开发人员也无需任何第三方即可构建应用程序、注册用户并读取 / 写入 Hub 数据。去年融资 3000 万美元，获 a16z 领投的社交协议 Farcaster 与 Lens Protocol 有何差异？作者从 Web3 协议的三大组成部分：协议本身、项目生态以及社区三个角度，对 Farcaster 和 Lens Protocol 进行对比分析，解读两者的优劣势。",
           "link": "https://www.web3sj.com/project/91440/",
           "publishedOn": "2023-10-16T10:53:16.000Z",
-          "wordCount": 1332,
+          "wordCount": 1320,
           "title": "Farcaster开放注册，与Lens Protocol有何差异？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697453583398.png"
         },
@@ -88,59 +138,9 @@
           "description": "熊市阶段，可选 / 零版税可降低用户交易成本并提高利润，各大交易平台企图通过这种与交易者产生经济共鸣的手段来捕获更多的市场份额，而实际情况却是，这并无力扭转熊市格局，反而让项目方在熊市中生存更加艰难。",
           "link": "https://www.web3sj.com/nftnews/91435/",
           "publishedOn": "2023-10-16T10:42:52.000Z",
-          "wordCount": 1134,
+          "wordCount": 1088,
           "title": "NFT平台站队非强制版税后：熊市之下NFT项目与平台深陷两难处境",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697452954731.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91430",
-          "author": "Gao",
-          "description": "距离区块链技术被提出已过去 10 多年，国内从 2016 年开始被大量关注，如今也已过去 7 年多，但当我们回望主流媒体对区块链的报道后会发现，好像人们已经不再喜欢谈论区块链技术。",
-          "link": "https://www.web3sj.com/news/91430/",
-          "publishedOn": "2023-10-16T08:09:12.000Z",
-          "wordCount": 890,
-          "title": "为什么人们不再谈论区块链技术，这是好事吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697443740460.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91418",
-          "author": "Gao",
-          "description": "大多数 DeFi 借贷是超额抵押。如果用户提供的抵押品价值高于借贷的价值，则用户可以借入特定资产。与传统借贷不同，许多此类借贷没有定期还款或固定还款日期。从本质上讲，你可以借，永远不还。然而，有一个问题就是：抵押品的价值必须始终超过借贷价值预定的边界。",
-          "link": "https://www.web3sj.com/definews/91418/",
-          "publishedOn": "2023-10-16T07:56:57.000Z",
-          "wordCount": 1312,
-          "title": "以太坊上的借贷应用架构演变： 比较MakerDAO、Yield、Aave、Compound 和Euler",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697443002247.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91411",
-          "author": "Gao",
-          "description": "一方面，资产的 NFT 化长期是行业的热点话题，无论是早期的艺术 NFT 狂热，再到对 NFT 能发挥防伪、抗审查机制的期许，最终都跌入了失败的窘境，Blur 的出现证明了高效的炒作才是小图片的正确打开方式，Azuki 的“作恶”已经表明艺术价值并非是项目方的第一性原理。",
-          "link": "https://www.web3sj.com/news/91411/",
-          "publishedOn": "2023-10-16T07:53:40.000Z",
-          "wordCount": 1059,
-          "title": "自由市场：Arweave谋划的未来链上世界",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697442809989.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91406",
-          "author": "Gao",
-          "description": "传统 DEX（去中心化交易所）是一种基于区块链技术的交易平台，它允许用户在无需信任第三方的情况下进行资产交易。",
-          "link": "https://www.web3sj.com/definews/91406/",
-          "publishedOn": "2023-10-16T07:27:42.000Z",
-          "wordCount": 1138,
-          "title": "各类DEX的LP机制研究：主流、AMM与跨链",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697441253081.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91402",
-          "author": "Gao",
-          "description": "Ethena 有什么不同之处？这里的模式是通过持有 ETH 的多头头寸和 ETH 永续合约的空头头寸，试图消除底层加密货币抵押品的价格不稳定性。因此，ETH 的每次价格变动都会对冲。",
-          "link": "https://www.web3sj.com/news/91402/",
-          "publishedOn": "2023-10-16T07:17:31.000Z",
-          "wordCount": 922,
-          "title": "Ethena的USDe并非稳定币？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697440638047.png"
         }
       ]
     },
@@ -149,6 +149,76 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/u944xd4h.html",
+          "author": "PA一线",
+          "description": "PANews 10月17日消息，Scopescan监测显示，FTX清算人控制的地址在11小时前质押了1305万枚MATIC。这部分的每年奖励预计为599572.3771枚MATIC。",
+          "link": "https://panewslab.com/zh/articledetails/u944xd4h.html",
+          "publishedOn": "2023-10-17T02:45:51.000Z",
+          "wordCount": 335,
+          "title": "FTX清算人地址在11小时前质押了1305万枚MATIC",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/n0qtdg16.html",
+          "author": "PA一线",
+          "description": "PANews 10月17日消息，百度创始人、董事长兼首席执行官李彦宏宣布文心大模型4.0正式发布，开启邀请测试。他表示，这是迄今为止最强大的文心大模型，实现了基础模型的全面升级，在理解、生成、逻辑和记忆能力上都有着明显提升，综合水平“与GPT-4相比毫不逊色”。",
+          "link": "https://panewslab.com/zh/articledetails/n0qtdg16.html",
+          "publishedOn": "2023-10-17T02:19:22.000Z",
+          "wordCount": 330,
+          "title": "百度正式发布文心一言大模型4.0版本",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a7z0qlo7.html",
+          "author": "PA一线",
+          "description": "PANews 10月17日消息，Sui基金会在官方博客公布了获得106万美元赠款的15个项目，涵盖游戏、DeFi、商业、工具等核心领域的产品服务，用于建设促进 Sui 公链上的生态发展。获得资助的项目必须提交一份阐述书，详细说明他们正在建设的内容、项目预算、项目关键里程碑、团队经验以及对 Sui 社区的预期贡献。",
+          "link": "https://panewslab.com/zh/articledetails/a7z0qlo7.html",
+          "publishedOn": "2023-10-17T02:08:17.000Z",
+          "wordCount": 343,
+          "title": "Sui基金会公布获得106万美元赠款的15个项目",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/p5iuzu1n.html",
+          "author": "PA一线",
+          "description": "PANews 10月17日消息，PeckShield监测显示，Vitalik.eth 将 1500 万枚 USDC 转入 Gemini 交易所。",
+          "link": "https://panewslab.com/zh/articledetails/p5iuzu1n.html",
+          "publishedOn": "2023-10-17T01:58:25.000Z",
+          "wordCount": 368,
+          "title": "Vitalik将1500万枚USDC转入Gemini",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/nkczi6q0.html",
+          "author": "PA一线",
+          "description": "PANews 10月17日消息，今天早些时候，FTX 债务人提交了一份修订后的计划条款清单。FTX 无担保债权人委员会对此表示支持，并表示同意代表债权人和客户进行谈判。据推特用户@spreekaway解读，FTX 提出的新方案显示，如果在 FTX 申请第11章破产保护前的最后 9 天内提取的净额超过 25 万美元，可以偿还其中的 15%（或者让索赔减少 15%）FTX 将会同意不起诉；如果客户在破产前 9 天内的净提款少于 25 万美元，FTX 不会起诉客户；但仍会要求任何拥有内幕消息或修改其 KYC 以获得提款资格的人退回全部资金。",
+          "link": "https://panewslab.com/zh/articledetails/nkczi6q0.html",
+          "publishedOn": "2023-10-17T01:54:40.000Z",
+          "wordCount": 392,
+          "title": "FTX新和解方案要求在破产前9天内净提款额超25万美元的客户退还15%，或者让索赔减少15%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0gym1arz.html",
+          "author": "PA一线",
+          "description": "PANews 10月17日消息，币安合约交易平台将于2023 年 10 月 17 日 14:00（北京时间）推出 USDⓈ-M ORBS 永续合约，杠杆高达 20 倍。",
+          "link": "https://panewslab.com/zh/articledetails/0gym1arz.html",
+          "publishedOn": "2023-10-17T01:36:06.000Z",
+          "wordCount": 372,
+          "title": "币安将于今日14时上线ORBS U本位永续合约",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vcs360t3.html",
+          "author": "PA一线",
+          "description": "贝莱德的比特币现货ETF申请仍在审查中\nCointelegraph报道，美国SEC批准贝莱德的iShares比特币现货ETF，但随后遭到彭博分析师James Seyffart等的怀疑。不久后，Fox Business记者Eleanor Terrett发推称：“贝莱德刚刚向我证实这（媒体称通过ETF申请)是错误的消息。他们的（比特币现货ETF）申请仍在审查中。”\n与此同时，比特币价格突破3万美元，短时上涨超10%，比特币现货ETF获批的消息被证伪后，BTC再次跌回28000美元以下。在（昨晚21时-22时的）1小时内加密货币市场全网合约爆仓超1亿美元。\nCointelegraph随后删除“SEC批准比特币现货ETF”的推文，并发布致歉声明称正在进行内部调查。调查结果显示，虚假比特币现货ETF新闻线索源自一名X用户发布的未经证实的屏幕截图，该用户声称该屏幕截图来自彭博终端。Cointelegraph在 X 上错误发布此信息之前未验证消息来源。\nUniswap Labs将对ETH等代币互换收取0.15%的费用\n据CoinDesk报道，Uniswap Labs将从周二开始对包括ETH和USDC在内的某些代币互换收取0.15%的费用。只有通过Uniswap Labs前端执行的互换交易才需支付费用。受影响的代币包括ETH、USDC、WETH、USDT、DAI、WBTC、agEUR、GUSD、LUSD、EUROC和XSGD。稳定币之间以及以太坊和封装以太坊之间的互换交易不受影响。\nProShares空头以太坊期货ETF将于11月初正式推出\n彭博分析师James Seyffart在推特发文称，Proshares空头以太坊ETF（SETH）将于11月初推出。尽管该ETF已于10月15日生效，但几周后才会正式推出。James Seyffart此前曾表示，SETH交易将于10月16日开始。\n币安…",
+          "link": "https://panewslab.com/zh/articledetails/vcs360t3.html",
+          "publishedOn": "2023-10-17T01:30:16.000Z",
+          "wordCount": 622,
+          "title": "昨夜今晨重要资讯（10月16日-10月17日）",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/10/17/images/Q1ddc895A2.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/gh5v53b5.html",
           "author": "PA一线",
