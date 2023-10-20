@@ -21,7 +21,7 @@
           "description": "曾经火爆全网的剧集《鱿鱼游戏》这回真的变成游戏了，而且还是能身临其境去玩的那种。",
           "link": "https://www.defidaonews.com/article/6834852",
           "publishedOn": "2023-10-09T05:59:48.000Z",
-          "wordCount": 255,
+          "wordCount": 250,
           "title": "《鱿鱼游戏》杀入体验店，SandboxVR未能复制神话",
           "imageUrl": "https://appserversrc.8btc.cn/DBADA82E83F535A509DA39CCFDC9590F/1696829815/FhTtFAlBSfxSqjWVpeQ4VxprwRur.png?imageView2/1/w/500/h/300"
         },
@@ -31,7 +31,7 @@
           "description": "用不了多久，我们就可以在微软几乎所有的产品矩阵中都能看到Copilot的身影，全民AI，AI与AIGC的办公时代即将来临",
           "link": "https://www.defidaonews.com/article/6833692",
           "publishedOn": "2023-09-22T14:58:12.000Z",
-          "wordCount": 189,
+          "wordCount": 190,
           "title": "微软的大动作：Windows 11推出Copilot功能，DALL-E 3集成在Bing里，Surface产品上新",
           "imageUrl": "https://appserversrc.8btc.cn/E06AC051E4D08E2D8F8EC59876A9A7E8/1695376878/FpcTPUgfs9mVdT9_C69-V-q2KCAF.png?imageView2/1/w/500/h/300"
         }
@@ -43,12 +43,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=91965",
+          "author": "Gao",
+          "description": "Scroll 是以太坊的一个扩容解决方案：它是一个 Layer 2（L2）的通用零知识（zk）Rollup。听起来有很多高级词汇，让我们逐一解释一下。",
+          "link": "https://www.web3sj.com/news/91965/",
+          "publishedOn": "2023-10-20T04:21:42.000Z",
+          "wordCount": 1072,
+          "title": "Scroll正式推出主网：你需要知道的一切",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697775677285.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=91954",
+          "author": "Gao",
+          "description": "SharkTeam 对此事件第一时间进行了技术分析，并总结了安全防范手段，希望后续项目可以引以为戒，共筑区块链行业的安全防线。",
+          "link": "https://www.web3sj.com/news/91954/",
+          "publishedOn": "2023-10-20T04:17:08.000Z",
+          "wordCount": 1095,
+          "title": "SharkTeam：BH闪电贷攻击原理分析",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697775411991.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=91938",
           "author": "Gao",
           "description": "Bigtime 这两周有多火大家都看到了，我们团队也是很早期的游戏参与者，在今年 1 月份就参与了早期试玩以及社区建设，并且是官方公布的当时贡献流量最大的社区。市面上大多数文章都在管中窥豹，试图从某一个点（比如打金这一个点）出发解读整个游戏，或者讲的过于繁杂笼统，讲了一大堆和赚钱没什么关系。",
           "link": "https://www.web3sj.com/gamefinews/91938/",
           "publishedOn": "2023-10-20T04:14:35.000Z",
-          "wordCount": 1117,
+          "wordCount": 1050,
           "title": "Big Time挣钱指南，给投资者的入场须知",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697775259553.png"
         },
@@ -58,7 +78,7 @@
           "description": "近年来，印尼致力于改善其教育体系和数字基础设施。通过在基础方面的努力，结果开始显现：印尼现在在全球创业公司数量上排名第六（约 2500 家），成为东南亚唯一进入前十的国家。作为对比，其邻国新加坡有 1,142 家创业公司，而马来西亚则有 320 家。印尼创业公司的崛起得益于年轻、精通科技的人口和坚实的投资者兴趣。凭借像 GoTo 这样的杰出公司，印尼牢牢占据了全球创业舞台的一席之地。",
           "link": "https://www.web3sj.com/news/91926/",
           "publishedOn": "2023-10-20T03:45:28.000Z",
-          "wordCount": 1345,
+          "wordCount": 1329,
           "title": "超越印尼盾：印尼蓬勃发展的Web3景观",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697773509046.png"
         },
@@ -68,7 +88,7 @@
           "description": "在区块链领域，ECDSA 门限签名主要用于分布式场景下的数字资产托管，其核心功能需求为「高效」和「安全」。「高效」是指算法流程简单，交互次数和计算量较少；「安全」是指签名无法伪造，同时恶意节点偏离协议的行为并不会导致任何私钥信息的泄漏。通过对「高效」和「安全」两个概念的拆解，我们提出 ECDSA 门限签名算法的四个关键衡量指标，即门限最优、交互轮数、安全性和可审计性，而每个指标内部又可以进行进一步细化，具体见图 1。",
           "link": "https://www.web3sj.com/news/91920/",
           "publishedOn": "2023-10-20T03:38:07.000Z",
-          "wordCount": 991,
+          "wordCount": 996,
           "title": "Cobo密码知识讲堂：ECDSA门限签名算法分析与比较",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697773057116.png"
         },
@@ -78,7 +98,7 @@
           "description": "Gemini、DCG因涉嫌诈骗客户11亿美元而被纽约州起诉。摩根士丹利报告：有迹象表明加密熊市或已结束。Stargate DAO正对“在Scroll上部署Stargate”提案进行投票。",
           "link": "https://www.web3sj.com/news/91880/",
           "publishedOn": "2023-10-19T12:16:36.000Z",
-          "wordCount": 985,
+          "wordCount": 943,
           "title": "Web3世界日报（2023-10.19）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023101912143789.jpg"
         },
@@ -88,7 +108,7 @@
           "description": "Solana 是一个集成的开源区块链，其目标是以光速同步全球信息。Solana 针对延迟和吞吐量进行了优化，但牺牲了一些可验证性。它试图通过诸如新颖的时间戳机制（历史证明 PoH）、区块传播协议 Turbine 和并行交易处理等功能来实现这一目标。自 2020 年 3 月主网启动以来，Solana 通过多次网络升级不断提升网络性能和弹性，包括 QUIC、权益加权服务质量（QoS）和本地费用市场。",
           "link": "https://www.web3sj.com/project/91841/",
           "publishedOn": "2023-10-19T09:02:36.000Z",
-          "wordCount": 2436,
+          "wordCount": 2421,
           "title": "Solana熊市已结束？一览Messari三季度Solana生态报告",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697706143697.png"
         },
@@ -98,7 +118,7 @@
           "description": "Moonbeam 是一个与 EVM 兼容的智能合约平台，用于在 Polkadot 上构建跨链应用程序。作为 Polkadot 生态系统中的一个平行链，它利用 Polkadot 中继链的安全机制，并与其他平行链集成。",
           "link": "https://www.web3sj.com/project/91826/",
           "publishedOn": "2023-10-19T08:55:40.000Z",
-          "wordCount": 1173,
+          "wordCount": 1200,
           "title": "Messari：四大方面解读Moonbeam Q3表现",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697705716869.png"
         },
@@ -108,7 +128,7 @@
           "description": "如果没有政府认可相关的代币化计划，不能对房地产所有权或任何其他有产权的资产进行代币化。所以在实践中，第二类实际上等同于第一类，人们将一个实体的股份代币化并且该实体拥有该资产。对于私有无形财产，第二类可能有一些例外。例如创建一个 NFT，自动将一定的版权分配给该 NFT 的合法持有者，这是源于道德和合约的版权，而不是政府。",
           "link": "https://www.web3sj.com/definews/91815/",
           "publishedOn": "2023-10-19T08:20:49.000Z",
-          "wordCount": 872,
+          "wordCount": 865,
           "title": "Delphi Digital法务总监：为什么说RWA代币化大部分都无法实现？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697703637437.png"
         },
@@ -118,29 +138,9 @@
           "description": "Vitalik：我的动力来自于，我知道以太坊社区以及我们正在构建的事物在这个日益复杂的世界中存在着非常独特的意义，我们可以做一些真正有价值的事情。在这一过程中，积极结果并不会自然实现，因此我们有责任深思熟虑并将其变为现实。",
           "link": "https://www.web3sj.com/news/91810/",
           "publishedOn": "2023-10-19T07:58:45.000Z",
-          "wordCount": 931,
+          "wordCount": 926,
           "title": "Vitalik最新AMA：爱听张韶涵，想打乒乓球，忧心气候变化……",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697702314515.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91795",
-          "author": "Gao",
-          "description": "作为一家元宇宙数据分析和营销初创公司，GEEIQ 在 9 月份刚完成 660 万英镑（约合人民币 5925 万）A 轮融资。YFM Equity Partners（YFM）领导了这轮投资。",
-          "link": "https://www.web3sj.com/news/91795/",
-          "publishedOn": "2023-10-19T07:48:40.000Z",
-          "wordCount": 1108,
-          "title": "合作CUCCI、保时捷，GEEIQ融资6000万，看好元宇宙？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697701706694.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=91781",
-          "author": "Gao",
-          "description": "在讨论加密货币 ETF 之前，我们要先了解什么是 ETF，ETF 全称为 Exchange Traded Fund，翻译为交易所交易基金。ETF 本质上是开放式的证券投资基金，它具有以下显著的优势和特征。",
-          "link": "https://www.web3sj.com/news/91781/",
-          "publishedOn": "2023-10-19T07:34:41.000Z",
-          "wordCount": 1220,
-          "title": "加密市场各类ETF大盘点，明年BTC现货ETF会通过吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1697510592970.png"
         }
       ]
     },
@@ -150,122 +150,12 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
-          "id": "https://panewslab.com/zh/articledetails/etanyr9u.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，PeckShield发推表示，BNB Chain上的 Celestia $TIA已下跌 -100% 0xc8B9…4FfC 地址已将 1 千万亿 $TIA换成~763.8 枚 BNB（价值约162,837.11美元）。\n注：该Rug Pull代币与合法代币名称相同。",
-          "link": "https://panewslab.com/zh/articledetails/etanyr9u.html",
-          "publishedOn": "2023-10-20T04:01:13.000Z",
-          "wordCount": 384,
-          "title": "PeckShield：BNB Chain上的TIA发生Rug Pull，该代币与合法代币名称相同",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/li5o4uso.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，The Data Nerd监测显示，Wintermute 1小时向币安转入1亿枚GALA，价值128万美元。三日前，Wintermute曾从Gala处收到2亿枚GALA，价值275万美元。",
-          "link": "https://panewslab.com/zh/articledetails/li5o4uso.html",
-          "publishedOn": "2023-10-20T03:34:18.000Z",
-          "wordCount": 354,
-          "title": "数据：Wintermute 1小时向币安转入1亿枚GALA，价值128万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/62yh13ut.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，币安合约交易平台将于2023 年 10 月 20 日 20:30（北京时间）推出 USDⓈ-M BSV 永续合约，杠杆高达 50 倍。",
-          "link": "https://panewslab.com/zh/articledetails/62yh13ut.html",
-          "publishedOn": "2023-10-20T03:24:58.000Z",
-          "wordCount": 380,
-          "title": "币安将于10月20日20:30上线BSV U本位永续合约",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zktk08ze.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，官方status页显示，今日早间OpenAI官方API接口突发故障，部分用户的 ChatGPT 也受到此次中断的影响，OpenAI正在调查并修复。问题与其API验证堆栈的上游部分有关。\n更新：北京时间今日中午11:37，OpenAI已恢复服务，错误率已恢复正常。",
-          "link": "https://panewslab.com/zh/articledetails/zktk08ze.html",
-          "publishedOn": "2023-10-20T03:15:45.000Z",
-          "wordCount": 342,
-          "title": "OpenAI官方API接口突发故障，目前已修复",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/jesuek7q.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，Greeks.live数据显示，2.3 万张 BTC 期权将于今日到期，Put Call Ratio 为 0.82，最大痛点 28000 美元，名义价值 6.4 亿美元。 21 万张 ETH 期权也将于今日到期，Put Call Ratio 为 0.84，最大痛点 1600 美元，名义价值 3.2 亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/jesuek7q.html",
-          "publishedOn": "2023-10-20T03:00:33.000Z",
-          "wordCount": 404,
-          "title": "数据：名义价值6.4亿美元BTC和3.2亿美元ETH的期权合约将于今日到期",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/iinuzxq2.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，全球金融交易后市场基础设施 DTCC 宣布已签署收购机构级数字资产基础设施开发商 Securrency Inc.（“Securrency”）的最终协议。此次收购预计将在未来几周内完成，将使 DTCC 在将一流的行业实践与先进的数字技术相结合以鼓励数字资产的接受和采用方面发挥全球领导作用。Securrency 将成为 DTCC 的全资子公司，并以 DTCC Digital Assets 名义运营。Securrency 首席执行官 Nadine Chakar 将加入 DTCC，担任 DTCC 数字资产全球主管兼董事总经理，向 DTCC 董事总经理兼首席信息官 Lynn Bishop 汇报。Chakar 还将加入 DTCC 管理委员会。此外，Securrency CTO 兼创始人 Dan Doney、COO 兼联合创始人 John Hensel 以及 Securrency 领导团队的其他成员，以及大约 100 名 Securrency 全职员工或承包商人员将成为 DTCC 员工。",
-          "link": "https://panewslab.com/zh/articledetails/iinuzxq2.html",
-          "publishedOn": "2023-10-20T02:49:56.000Z",
-          "wordCount": 429,
-          "title": "结算巨头DTTC收购区块链基础设施开发商Securrency",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/116jlcst.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，行情显示，比特币价格短时突破29000美元，现报28935美元/枚。",
-          "link": "https://panewslab.com/zh/articledetails/116jlcst.html",
-          "publishedOn": "2023-10-20T02:48:11.000Z",
-          "wordCount": 337,
-          "title": "比特币价格短时突破29000美元，现报28935美元/枚",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/a8k7zviw.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，Lookonchain监测显示，Binance Labs（由 Nansen 标记）于 9 小时前向Gateio存入 9667 万枚 HOPR（370 万美元），并向 Binance存入 750 万枚 GTM（105 万美元） 。\n早在2020年，在该公司代币发售之前，Binance Labs 曾牵头对 HOPR 进行 100 万美元的战略投资。HOPR 是一个开放的激励性隐私和数据保护平台。",
-          "link": "https://panewslab.com/zh/articledetails/a8k7zviw.html",
-          "publishedOn": "2023-10-20T02:38:23.000Z",
-          "wordCount": 399,
-          "title": "数据：Binance Labs于9小时前向Gateio存入9667万枚HOPR，向Binance存入750万枚GTM",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5hua19w0.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息,欧科云链研究院在最新的研究报告中写道，加密资产正从全球金融服务业的边缘走向中心。据欧科云链研究院不完全统计，目前全球至少有超过70家银行从不同路径参与和探索加密资产市场（截至2023年10月），其中70%以上集中在欧洲和北美洲。世界银行排名前20的银行中至少有9家已经或计划布局加密市场。\n报告指出，随着MiCA法规生效，欧洲地区的银行在加密资产领域的领先性正在增强，而亚洲和中东地区地区随着监管及机构投资者对加密资产及区块链技术的兴趣激增，银行在加密资产市场也变得更有竞争力。",
-          "link": "https://panewslab.com/zh/articledetails/5hua19w0.html",
-          "publishedOn": "2023-10-20T02:37:12.000Z",
-          "wordCount": 341,
-          "title": "欧科云链研究院：探索加密业务的银行70%以上集中在欧洲和北美",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zad8h9g5.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，据彭博社报道，超 20 名 MetaMask 母公司 Consensys 前员工起诉 ConsenSys 创始人 Joseph Lubin（也是以太坊联合创始人）剥夺员工的股票奖励价值。这些前员工于 2014 年在 Consensys 的早期版本工作，他们接受了较低的薪酬，因为被允诺将获得公司的股权。Joseph Lubin 最终将该控股公司 30% 的股份分给了员工。提起诉讼的前员工持有约 9% 的股份。\n据悉，2020年，Lubin将公司资产（包括多款软件产品）转移到了一家新的美国公司，这让他的早期员工所持有的股票变得几乎一文不值。本次起诉，员工们要求Lubin对股权价值的损失进行赔偿。诉讼文件显示，当前版本的 Consensys 已从投资者那里筹集了至少 7.267 亿美元，估值超过 70 亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/zad8h9g5.html",
-          "publishedOn": "2023-10-20T02:33:55.000Z",
-          "wordCount": 409,
-          "title": "彭博社：超20名Consensys前员工起诉ConsenSys创始人通过转移资产剥夺员工的股票奖励",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/624cit9e.html",
-          "author": "PA一线",
-          "description": "PANews 10月20日消息，币安将于2023年10月24日15:00（东八区时间）对Ethereum网络（ERC20）进行钱包维护，预计需要 2 小时。币安将于2023年10月24日14:55（东八区时间）暂停Ethereum网络（ERC20）的充值和提现业务。",
-          "link": "https://panewslab.com/zh/articledetails/624cit9e.html",
-          "publishedOn": "2023-10-20T02:08:29.000Z",
-          "wordCount": 352,
-          "title": "币安将于10月24日15时对Ethereum网络进行约2小时的钱包维护",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
           "id": "https://panewslab.com/zh/articledetails/nx1voe20.html",
           "author": "PA一线",
           "description": "PANews 10月20日消息，比特币核心客户端Bitcoin Core在GitHub上发布了v25.1: Bitcoin Core 25.1 源代码。该版本包括显著改进包括#27622 费用估算（避免提供过时的费用估算）、#27727 rpc（修复无效的 bech32 地址处理）和一些错误修复等。",
           "link": "https://panewslab.com/zh/articledetails/nx1voe20.html",
           "publishedOn": "2023-10-20T01:41:35.000Z",
-          "wordCount": 363,
+          "wordCount": 367,
           "title": "比特币核心客户端发布v25.1版本的源代码",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -275,7 +165,7 @@
           "description": "PANews 10月20日消息，Aptos发布“10 月 18 日 Aptos 主网事件报告”称，Aptos 网络在北京时间上午 07:15 左右出现了交易延迟。交易负载不是本次事件的问题——没有提交的交易丢失，也没有发生分叉。非确定性代码导致了该问题，并部署了修复程序。该问题于北京时间中午 12:30 左右得到解决。\n事件源于：2023 年 8 月 22 日 Aptos 核心代码库的更改，2023 年 10 月 16 日费用表活动上线 – 细分交易的费用/退款。最初的代码更改引入了仅由 FeeStatement 揭示的非确定性。具体来说，验证者一致认为，交易的 Gas 预算不足以执行交易，并且由于 8 月份代码更改中引入的非确定性，他们无法就截至目前使用的 Gas 量达成一致。该团队发现了该问题并逆转了 8 月份的代码更改，从而解决了该问题。验证器操作员使用正确的软件快速部署了该软件。这是自主网启动以来 Aptos 网络第一次在区块链上出现明显的延迟，在任何测试场景（包括测试网）中都没有达到这种非确定性场景。",
           "link": "https://panewslab.com/zh/articledetails/0lh1cvmk.html",
           "publishedOn": "2023-10-20T01:33:03.000Z",
-          "wordCount": 414,
+          "wordCount": 418,
           "title": "Aptos发布主网事件报告：由于非确定性代码而遇到了问题，没有交易丢失",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -285,7 +175,7 @@
           "description": "美国联邦法院或将于本周五或下周一最终裁定灰度对SEC胜诉\n据CoinDesk报道，美国联邦法院准备正式裁定灰度Grayscale在与美国SEC的比特币现货ETF纠纷中胜诉。根据此类案件的处理程序，在SEC上周决定不就法院的裁决提出上诉后，华盛顿特区巡回上诉法院有七天的时间终结此案。截止日期为本周五，法院届时可以选择不发表评论便终止此案，也可以就下一步的行动向SEC发出进一步指示。据一位知情人士透露，法院的最终裁决可能会在周五当天或周一公布。业内普遍预计，SEC将批准新的ETF，但不确定是今年晚些时候还是2024年的某个时候。如果获得批准，Grayscale将把其比特币信托GBTC转换为ETF，并在纽约证券交易所Arca上市。\n美国SEC对Ripple CEO和执行董事长的指控被驳回\n据Businesswire报道，美国SEC对Ripple首席执行官Brad Garlinghouse和执行董事长Chris Larsen的指控被驳回，这意味着明年四月将不会进行审判。这也是Garlinghouse、Larsen和Ripple的连续第三次胜利。Ripple目前近90%的业务都在美国以外，招聘仍然集中在主要的国际市场。在2023年第三季度，近90%的Ripple员工位于美国之外。\nDCG及创始人Barry Silbert反驳纽约总检察长的指控，称“没有任何不当行为”\n针对纽约总检察长的起诉，Digital Currency Group（DCG）在推特发表声明反驳这些指控。DCG表示一直合法诚信经营，过去几个月一直以公开透明的方式配合纽约总检察长的调查。对这次起诉感到措手不及，没有证据表明DCG、Barry Silbert或DCG员工有任何不当行为。 DCG创始人兼CEO Barry Silbert也发表声明称，对纽约检察官的无端指控感到震惊，并计划在法庭上反击这些指控。他本人一直秉承…",
           "link": "https://panewslab.com/zh/articledetails/6t7wxbjg.html",
           "publishedOn": "2023-10-20T01:13:50.000Z",
-          "wordCount": 518,
+          "wordCount": 522,
           "title": "昨夜今晨重要资讯（10月19日-10月20日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/10/20/images/O0K5Di8d53.jpg"
         },
@@ -295,7 +185,7 @@
           "description": "PANews 10月20日消息，据The Block报道，链上分析师表示，在 Reddit 公开宣布结束其社区积分计划之前，至少两名与 Reddit 加密货币子板块（subreddit）相关的版主清算了大量 Moon。尽管 Reddit 子版块的版主声称他们并不知道 Reddit 即将做出的决定，但区块链数据表明了一个不同的故事。\n链上分析师Pledditor和Lookonchain首先指出，其中一个实例涉及用户名为 Mcgillby 的 Reddit 子版块管理员。链上数据显示，这位主持人通过 Arbitrum Nova 区块链上的两笔单独交易转移了超过 100,000 个 Moon，将其转换为超过 23,000 美元的 ETH 。该用户随后删除了之前所有的 Reddit 帖子。在 Reddit 公开声明前 17 分钟，另一位版主“ rider_of_the_storm ”将 345,422 个 Moon（当时价值超过 69,000 美元）转移到了一个交易地址。该 Reddit 帐户现已被删除。\n相关阅读：Reddit将关闭社区积分，社区欲继续独立开发",
           "link": "https://panewslab.com/zh/articledetails/9rdn35u9.html",
           "publishedOn": "2023-10-20T00:56:08.000Z",
-          "wordCount": 432,
+          "wordCount": 436,
           "title": "Reddit加密子版块版主疑似在Reddit关闭社区积分计划前清算大量Moon代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -305,7 +195,7 @@
           "description": "PANews 10月20日消息，Ripple首席法务官兼SEC诉Ripple Labs案总法律顾问Stuart Alderoty发推表示：“美国证券交易委员会在对Brad和Chris个人进行追捕时犯了一个严重的错误——现在，他们已经投降，驳回了对我们高管的所有指控。这不是和解。这是 SEC 的投降。”\nStuart Alderoty称，这是Ripple连续3次获胜，包括7月13日裁定XRP在法律上不是证券、10月3日驳回 SEC 中间上诉请求的裁决，以及现在的这一裁决。\n今日早间报道，美国SEC对Ripple CEO和执行董事长的指控被驳回，这意味着明年四月将不会进行审判。",
           "link": "https://panewslab.com/zh/articledetails/y2r3cmv3.html",
           "publishedOn": "2023-10-20T00:47:16.000Z",
-          "wordCount": 373,
+          "wordCount": 377,
           "title": "Ripple首席法务官：“SEC指控被驳回”不是和解，这是SEC的投降",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -315,7 +205,7 @@
           "description": "PANews 10月20日消息，基于区块链的文件共享网络 LBRY 宣布即将关闭。LBRY 网络不受影响。Odysee 和其他资产将通过法律程序来偿还债务。LBRY 公司称对 SEC、其法律团队和私人债务人负有无法偿还的债务。包括 Odysee 在内的其资产正在接受破产管理。所有 LBRY 高管、员工和董事会成员均已辞职。\n此前2021年3月份，SEC对LBRY提起诉讼，指控其出售其LBC代币违反证券法；2022年11月，美国法官在此案中裁定SEC胜诉；今年5月，SEC向法院申请将对LBRY的2200万美元罚金改为约11万美元。",
           "link": "https://panewslab.com/zh/articledetails/h1ozedy2.html",
           "publishedOn": "2023-10-20T00:31:58.000Z",
-          "wordCount": 388,
+          "wordCount": 390,
           "title": "LBRY公司宣布即将关闭，所有LBRY高管、员工和董事会成员均已辞职",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +215,7 @@
           "description": "PANews 10月20日消息，Coinbase 孵化的 Layer 2 网络 Base 开源了其GitHub代码存储库，以提高透明度并向公众开放该项目。开发人员现可以访问支持各种基本流程的底层代码，包括智能合约和其他部署。",
           "link": "https://panewslab.com/zh/articledetails/6ll097yc.html",
           "publishedOn": "2023-10-20T00:13:16.000Z",
-          "wordCount": 362,
+          "wordCount": 366,
           "title": "L2网络Base开源其智能合约和GitHub存储库",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -335,7 +225,7 @@
           "description": "PANews 10月20日消息，据Cointelegraph报道，币安在其第三季度“Market Pulse”报告中证实，对加密货币来说，这是一个充满挑战的季度。报告发现，尽管德意志银行、索尼和PayPal等机构参与者的进入在一定程度上提振了市场，但多个市场仍然呈现下跌。\n受“利率将持续升高”论调的影响，全球加密货币市值环比下降8.6%，融资处于2020年第四季度以来的最低水平，环比下降21.4%。DeFi的总锁仓价值（TVL）下降了13.1%，而流动性质押增长了10.5%。\nNFT的销量继续下滑。今年9月为2021年1月以来NFT销量最差的一个月，约为3亿美元。当月平均售价为38.17美元，远低于2021年8月791.84美元的高点。游戏代币在NFT销量中处于领先地位，但价格仍然环比下降44.9%。只有不到28%的Web3游戏上线。",
           "link": "https://panewslab.com/zh/articledetails/a9pliony.html",
           "publishedOn": "2023-10-20T00:01:57.000Z",
-          "wordCount": 347,
+          "wordCount": 351,
           "title": "币安第三季度报告：在高利率背景下，加密市场“具有挑战性”",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -345,8 +235,78 @@
           "description": "PANews 10月20日消息，据彭博社报道，FTX前总法律顾问Can Sun在庭审上作证称，在FTX倒闭前几个月的一封电子邮件中，该公司向包括对冲基金Sculptor Capital Management在内的机构客户虚假承诺，表示如果公司破产，他们的资产将是安全的。Sun表示“从未批准”FTX将客户资金借给关联公司Alameda Research。他不知道客户资金会被不当使用。他认为客户的资金得到充分保护，且与公司自有资金是分开的。Sun自称没有做错任何事，他已与政府签订了不起诉协议。\nSun还表示，资管巨头Apollo Global Management在得知数十亿美元的客户资金下落不明且FTX无法为资金短缺提供法律依据后，在最后一刻退出了FTX救援计划。几天后FTX崩溃。Sun证实，他和另一位FTX高管于2022年11月与Apollo通了电话，该公司要求在做出决定之前提供FTX的财务报表。Sun后来看到了一份提供给Apollo的电子表格。电子表格显示，客户资金存在数十亿美元的缺口，这意味着交易所无法满足客户的取款需求。\n此外，Third Point董事Robert Boroujerdi今日在SBF审判中出庭作证称，他的公司向FTX投资了6000万美元，这项投资价值已减计为0。",
           "link": "https://panewslab.com/zh/articledetails/0n2rpu0c.html",
           "publishedOn": "2023-10-19T23:49:45.000Z",
-          "wordCount": 366,
+          "wordCount": 370,
           "title": "FTX前总法律顾问：从未批准将客户资金借给Alameda Research，资管巨头Apollo在得知FTX资金缺口后退出救援计划",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3bia88s4.html",
+          "author": "PA一线",
+          "description": "PANews 10月20日消息，针对纽约总检察长的起诉，Digital Currency Group（DCG）在推特发表声明反驳这些指控。DCG表示一直合法诚信经营，过去几个月一直以公开透明的方式配合纽约总检察长的调查。对这次起诉感到措手不及，没有证据表明DCG、Barry Silbert或DCG员工有任何不当行为。 DCG创始人兼CEO Barry Silbert也发表声明称，对纽约检察官的无端指控感到震惊，并计划在法庭上反击这些指控。他本人一直秉承诚信原则。去年他和DCG的目标是帮助Genesis走出因三箭资本崩溃导致的困境，并为Genesis未来的成功做准备。本次诉讼忽略了这一基本事实。\n据彭博社此前报道，Gemini Trust Co.和Digital Currency Group（DCG）因涉嫌诈骗客户11亿美元而被纽约纽约总检察长Letitia James起诉。纽约州表示，希望禁止Gemini、Genesis和DCG进入纽约的金融投资行业，并寻求追缴两家公司的“不义之财”以对投资者进行赔偿。",
+          "link": "https://panewslab.com/zh/articledetails/3bia88s4.html",
+          "publishedOn": "2023-10-19T23:37:16.000Z",
+          "wordCount": 374,
+          "title": "DCG及创始人Barry Silbert反驳纽约总检察长的指控，称“没有任何不当行为”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/or7svr36.html",
+          "author": "PA一线",
+          "description": "PANews 10月20日消息，据Businesswire报道，美国SEC对Ripple首席执行官Brad Garlinghouse和执行董事长Chris Larsen的指控被驳回，这意味着明年四月将不会进行审判。这也是Garlinghouse、Larsen和Ripple的连续第三次胜利。今年7月，法官裁决“XRP本身不是证券”，随后SEC对Ripple案裁决提起上诉的动议于今年10月被驳回。由于监管的不确定性，Ripple目前近90%的业务都在美国以外，招聘仍然集中在主要的国际市场。在2023年第三季度，近90%的Ripple员工位于美国之外。",
+          "link": "https://panewslab.com/zh/articledetails/or7svr36.html",
+          "publishedOn": "2023-10-19T23:25:58.000Z",
+          "wordCount": 350,
+          "title": "美国SEC对Ripple CEO和执行董事长的指控被驳回",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/mbxq9vt7.html",
+          "author": "PA一线",
+          "description": "PANews 10月20日消息，据《华尔街日报》报道，美国财政部计划将国际加密货币混币器指定为洗钱中心，理由是哈马斯和其它恐怖组织都在利用它们。这种指定是一种制裁形式，将要求对所有金融交易进行特定报告。《华尔街日报》此前曾报道称，哈马斯和其他激进组织在本月早些时候对以色列发动袭击之前，使用加密货币作为融资工具。与此同时，包括马萨诸塞州民主党参议员Elizabeth Warren在内的100多名国会议员在周二致拜登政府的一封信中表示，他们对哈马斯通过加密货币筹集数百万美元感到担忧，并敦促政府迅速果断地采取行动，以遏制非法加密活动。",
+          "link": "https://panewslab.com/zh/articledetails/mbxq9vt7.html",
+          "publishedOn": "2023-10-19T23:13:58.000Z",
+          "wordCount": 341,
+          "title": "华尔街日报：美国财政部计划制裁国际加密货币混币器，要求报告所有金融交易",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6rwfnxv0.html",
+          "author": "PA一线",
+          "description": "PANews 10月20日消息，据The Block报道，根据周三提交给美国证券交易委员会（SEC）的一份文件，加密数据公司Coin Metrics已筹集约670万美元的资金。此次融资包括发行股票和期权以及其他类型的证券。投资者没有透露。Coin Metrics提供有关加密货币市场、网络和价格的数据。据此前消息，Coin Metrics去年完成3500万美元C轮融资，Acrew Capital和纽约梅隆银行领投，Cboe Global Markets、Brevan Howard Digital、高盛、Avon Ventures和富达投资等参投。",
+          "link": "https://panewslab.com/zh/articledetails/6rwfnxv0.html",
+          "publishedOn": "2023-10-19T23:05:47.000Z",
+          "wordCount": 378,
+          "title": "加密数据公司Coin Metrics完成670万美元融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6uoe41tl.html",
+          "author": "PA一线",
+          "description": "PANews 10月20日消息，据CoinDesk报道，美国联邦法院准备正式裁定灰度Grayscale在与美国SEC的比特币现货ETF纠纷中胜诉。根据此类案件的处理程序，在SEC上周决定不就法院的裁决提出上诉后，华盛顿特区巡回上诉法院有七天的时间终结此案。截止日期为本周五，法院届时可以选择不发表评论便终止此案，也可以就下一步的行动向SEC发出进一步指示。据一位知情人士透露，法院的最终裁决可能会在周五当天或周一公布。业内普遍预计，SEC将批准新的ETF，但不确定是今年晚些时候还是2024年的某个时候。如果获得批准，Grayscale将把其比特币信托GBTC转换为ETF，并在纽约证券交易所Arca上市。",
+          "link": "https://panewslab.com/zh/articledetails/6uoe41tl.html",
+          "publishedOn": "2023-10-19T22:58:56.000Z",
+          "wordCount": 337,
+          "title": "美国联邦法院或将于本周五或下周一最终裁定灰度对SEC胜诉",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xx1l0wou.html",
+          "author": "PA一线",
+          "description": "PANews 10月20日消息，据Businesswire报道，加密货币平台Beluga完成400万美元种子轮融资，Fin Capital领投，Anagram、UDHC、Dispersion Capital、Aptos Labs、2 Punks Capital、Borderless Capital、Kyber Capital、186 Ventures、W11 Capital和Rubik Ventures参投。 天使投资人包括莱特币创始人Charlie Lee、Coinbase前首席风险和法务官Mike Lempres、Kraken Ventures负责人Brandon Gath、MoonPay前首席技术官Akash Garg、Blockchain.com前董事会观察员Salil Pitroda、Stocktwits联合创始人Howard Lindzon、RRE Ventures联合创始人Jim Robinson等。据悉，Beluga的管理团队来自硅谷以及Robinhood Crypto、dYdX、CoinDesk和Coupa Software等公司的资深加密人士。",
+          "link": "https://panewslab.com/zh/articledetails/xx1l0wou.html",
+          "publishedOn": "2023-10-19T21:06:28.000Z",
+          "wordCount": 407,
+          "title": "加密货币平台Beluga完成400万美元种子轮融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jldprdi9.html",
+          "author": "PA一线",
+          "description": "PANews 10月19日消息，据金十报道，美联储主席鲍威尔表示，有额外证据显示经济强劲的话，可能值得加息。通胀下行路径可能会是“颠簸不平的”，需要时间。收益率已经显著推动了金融条件的收紧；FOMC坚决致力于实现2%的通胀目标。考虑到目前已有的加息和风险，FOMC正在“谨慎行事”。",
+          "link": "https://panewslab.com/zh/articledetails/jldprdi9.html",
+          "publishedOn": "2023-10-19T16:02:38.000Z",
+          "wordCount": 335,
+          "title": "美联储主席鲍威尔：若有额外证据显示经济强劲，可能值得加息",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
