@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-22T04:14:38.397Z</id>
+    <id>urn:2023-10-22T05:11:56.347Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-22T04:14:38.397Z</updated>
+    <updated>2023-10-22T05:11:56.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CME“美联储观察”：美联储11月维持利率不变的概率为99.9%]]></title>
+        <id>https://panewslab.com/zh/articledetails/q2g0575h.html</id>
+        <link href="https://panewslab.com/zh/articledetails/q2g0575h.html"/>
+        <updated>2023-10-22T04:20:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月22日，据CME“美联储观察”数据显示，美联储11月维持利率在5.25%-5.50%不变的概率为99.9%，降息25个基点至 5.00%-5.25%区间的概率为0.1%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告：截至2023年6月已有130个国家参与CBDC相关项目]]></title>
+        <id>https://panewslab.com/zh/articledetails/d067a32u.html</id>
+        <link href="https://panewslab.com/zh/articledetails/d067a32u.html"/>
+        <updated>2023-10-22T04:18:22.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月22日消息，根据美国智库大西洋理事会的调查，截至2023年6月，包括加勒比海多国和尼日利亚在内的世界11个国家已经引进CBDC，有130个国家参与了CBDC相关项目。以积极实施CBDC试运营的瑞典为首，G20成员国也取得了很大进展。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap已通过关于新增FDUSD Farm的提案]]></title>
+        <id>https://panewslab.com/zh/articledetails/gq5w6w4q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gq5w6w4q.html"/>
+        <updated>2023-10-22T04:14:08.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月22日消息，Snapshot页面显示，PancakeSwap关于新增FDUSD Farm的提案已通过。质押FDUSD-USDT v3 LP将可以赚取CAKE奖励。该提案获得87.5%的支持率。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾余弦：闪电网络的替换循环攻击类似MEV的三明治攻击，项目方应提高警惕]]></title>
+        <id>https://panewslab.com/zh/articledetails/46ppty51.html</id>
+        <link href="https://panewslab.com/zh/articledetails/46ppty51.html"/>
+        <updated>2023-10-22T03:56:43.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月22日消息，慢雾创始人余弦在推特发文表示，闪电网络出现了替换循环攻击，与MEV里的三明治攻击有些相似，利用前后夹击套出被夹目标的资金。 这一攻击方式的实施并不容易，需要满足以下条件：1) 在受害者身上打开两个通道。2)通过这两个通道中的其中一个路由付款。 3)成功将受害者的HTLC-timeouts循环替换为Δ blocks。 4)受害者不能发现HTLC预映像交易。这个风险在被修复之前，使用闪电网络的项目方在对接上下游建立通道前应提高警惕，最好和有信誉的对手方建立联系，降低被夹风险，具体情况还需要进一步的测试和验证。
+据此前消息，安全人员和比特币核心开发者Antoine Riard因安全问题和比特币生态系统面临的根本挑战而退出闪电网络的开发。Riard认为比特币社区面临着“艰难困境”，新型的替代循环攻击将闪电网络置于“危险的境地”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊核心开发者请求引入新版本以太坊点对点网络握手协议]]></title>
+        <id>https://panewslab.com/zh/articledetails/xjsu0fv5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xjsu0fv5.html"/>
+        <updated>2023-10-22T03:22:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月22日消息，以太坊核心开发smartprogrammer.eth推特发文，称提交了一个新的EIP请求，旨在引入新版本以太坊点对点网络握手协议（eth/69，当前协议版本为eth/68），允许以太坊节点通信其可用的区块范围，优化连接选项，这也可以算作是迈向EIP-4444（历史数据过期）的一步。据了解，该EIP归属Networking EIPs，这一类EIPs特定于优化以太坊点对点网络。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面临多重压力，SEC正在释放妥协的前奏]]></title>
         <id>https://www.web3sj.com/?p=92138</id>
