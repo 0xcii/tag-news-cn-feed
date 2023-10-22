@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-22T12:22:27.366Z</id>
+    <id>urn:2023-10-22T13:13:22.337Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-22T12:22:27.366Z</updated>
+    <updated>2023-10-22T13:13:22.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[数据：今日逾7亿枚USDT从钱包转至币安]]></title>
+        <id>https://panewslab.com/zh/articledetails/6qtqrc18.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6qtqrc18.html"/>
+        <updated>2023-10-22T12:53:46.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月22日消息，据Whale Alert监测，今日逾7亿枚（706,843,330）USDT从钱包转至币安。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celestia更新预创世文件，主网上线时间或为10月31日22时]]></title>
+        <id>https://panewslab.com/zh/articledetails/qp7ue790.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qp7ue790.html"/>
+        <updated>2023-10-22T11:41:11.000Z</updated>
+        <summary type="html"><![CDATA[.PANews 10月22日消息，加密KOL exploring.eth 在 X 平台表示，github 信息显示，Celestia更新了预创世文件（pre-genesis.json），创世时间（主网上线时间）为2023-10-31T14:00:00Z（北京时间10月31日22时）。有空投的地址也在这个文件中，主网上线后代币直接发送到钱包，不需要申领。
+此前消息，模块化区块链网络Celestia发推宣布，所有的6000万枚TIA均已重新分配给空投参与者。目前，最新的可领取创世空投数量可在官网查看，没有额外的申领流程，预计在未来几周内，空投申领者将在主网直接获得 TIA。Celestia空投申领已结束，创世空投共获得 191,391 次申领(claims)，约67%的符合条件地址未参与本次空投申领。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum生态DEX Camelot：获得309万枚ARB拨款，未来几周内开始分配]]></title>
+        <id>https://panewslab.com/zh/articledetails/8yng3rt5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8yng3rt5.html"/>
+        <updated>2023-10-22T11:07:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 10月22日消息，Arbitrum生态DEX平台Camelot在X平台表示，在成为唯一获得 2 亿张选票的协议之后，Camelot 获得了 309 万个 ARB 的拨款，并将在未来几周内开始分配这笔赠款，赠款将用于让新的构建者加入生态系统、支持本机协议以及进一步采用ARB 。
+此前消息，Arbitrum 启动的5000万枚ARB短期激励计划（STIP）首轮投票已完成，提交的 97 项提案中按照 Arbitrum 规则将有 29 个项目能够参与本次激励计划，包括 Camelot、Jones、Dopex、GMX、Galxe等29个项目获胜。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密交易应用程序Vibra疑在加纳、肯尼亚和尼日利亚被叫停，联创称只有尼日利亚用户受影响]]></title>
         <id>https://panewslab.com/zh/articledetails/v1rn5vhu.html</id>
@@ -199,38 +231,6 @@ The Block 研究员 Rebecca Stevens 指出，主导地位的增加反映出加�
         <link href="https://panewslab.com/zh/articledetails/nm4zmspi.html"/>
         <updated>2023-10-22T02:09:47.000Z</updated>
         <summary type="html"><![CDATA[PANews 10月22日消息，据Spot On Chain监测，0xe8f开头的巨鲸自币安转出1110万枚BLZ，价值206万美元。该地址目前持有6392万枚BLZ，占总供应量的12.8%，未实现盈利525万美元，是BLZ最大的散户持有者。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币核心开发者因安全问题退出闪电网络开发]]></title>
-        <id>https://panewslab.com/zh/articledetails/5qiq82g6.html</id>
-        <link href="https://panewslab.com/zh/articledetails/5qiq82g6.html"/>
-        <updated>2023-10-22T01:33:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月22日消息，据Cointelegraph报道，安全研究人员和比特币核心开发者Antoine Riard因安全问题和比特币生态系统面临的根本挑战而退出闪电网络的开发。根据Linux基金会公共邮件列表上的一条线索，Riard认为比特币社区面临着“艰难困境”，新型的替代循环攻击将闪电网络置于“危险的境地”。 
-替代循环攻击是一种新型攻击，攻击者可以利用各个内存池之间的不一致来窃取支付通道参与者的资金。 
-Riard表示，这种新型的替代循环攻击将闪电网络置于非常危险的境地，只有在基础层才能进行可持续的修复，例如添加所有可见交易的内存密集型历史记录或一些共识升级。已部署的缓解措施面对简单的攻击是有价值的，但很难阻止高级攻击者。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：过去一周Circle USDC流通量增加3亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/5ujjwyd8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/5ujjwyd8.html"/>
-        <updated>2023-10-21T21:27:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月22日消息，据官方数据，过去7天Circle共发行14亿美元USDC，赎回11亿美元USDC，流通量增加3亿美元。截至10月19日，USDC总流通量为254亿美元，储备量为255亿美元，其中现金17亿美元，Circle Reserve Fund持有239亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase Cloud将成为dYdX Chain验证者]]></title>
-        <id>https://panewslab.com/zh/articledetails/5rpl7ncj.html</id>
-        <link href="https://panewslab.com/zh/articledetails/5rpl7ncj.html"/>
-        <updated>2023-10-21T21:21:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 10月22日消息，Coinbase Cloud在推特宣布计划作为验证者支持即将推出的dYdX Chain。Coinbase Cloud表示，dYdX Chain正推动协议完全去中心化并加强对交易体验的控制。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
