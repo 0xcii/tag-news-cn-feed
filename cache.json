@@ -71,7 +71,7 @@
           "description": "近期，无论是比特币价格大幅增长，还是 Ordinals 生态频出新热点，围绕比特币的讨论和关注一直热闹不断。而相比之下，以太坊上的生态讨论则清冷一些，虽然 ETH 及相关合约代币均有增长，但更多可以看成是蹭了比特币大涨、社区情绪兴奋的光。",
           "link": "https://www.web3sj.com/news/92723/",
           "publishedOn": "2023-10-27T06:27:54.000Z",
-          "wordCount": 1011,
+          "wordCount": 1018,
           "title": "smlXL：a16z参投的EVM开发者入门工具",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698387839192.png"
         },
@@ -81,7 +81,7 @@
           "description": "从传统的软件开发定义来说，封装（Encapsulation）是指，一种将抽象性函数接口的实现细节部分包装、隐藏起来的方法。而对于以太坊的「封装」来说，是指在主链上能够直接执行更多的功能，且这些功能过去可能是依赖外部软件实现的，被封装的新功能将成为「协议功能」。",
           "link": "https://www.web3sj.com/news/92719/",
           "publishedOn": "2023-10-27T06:16:06.000Z",
-          "wordCount": 955,
+          "wordCount": 984,
           "title": "Vitalik的权衡艺术：以太坊协议应该封装哪些功能？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698387057776.png"
         },
@@ -113,9 +113,89 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/g5pd3wzy.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，据彭博社报道，在周五提起的破产法庭诉讼中，Gemini 要求联邦法官裁定 Genesis 无权获得承诺作为 Gemini Earn 产品用户抵押品的超过 6000 万股 GBTC 股票。该公司辩称，所涉及的股份（其中大部分仍由 Genesis 或其附属公司持有）不应用于偿还其他 Genesis 债权人。6000 万股 GBTC 股票目前价值近 16 亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/g5pd3wzy.html",
+          "publishedOn": "2023-10-27T15:13:55.000Z",
+          "wordCount": 393,
+          "title": "Gemini要求法官裁定Genesis无权获得价值16亿美元的GBTC股份",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/kintevdg.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，去中心化借贷平台 Liquity 已支持在 Starknet 区块链上铸造 LUSD，这是第一个支持原生铸造 LUSD 的 L2，该功能由 Nimbora 推出，但由于仍处于 alpha 阶段，故抵押的以太坊数量最高仅支持 0.2 ETH。随着时间的推移，上限将会提高或解除。\n相关阅读：去中心化稳定币龙头Liquity的业务现状、机遇与挑战",
+          "link": "https://panewslab.com/zh/articledetails/kintevdg.html",
+          "publishedOn": "2023-10-27T14:49:42.000Z",
+          "wordCount": 384,
+          "title": "Liquity现已支持在Starknet网络上铸造LUSD",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/nm0iizok.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，币安宣布推出 Binance Launchpool 上的第 39 个项目 - Memecoin (MEME)，Memeland 的原生生态系统代币。Memeland 是 meme 平台 9GAG 旗下的 Web3 风险工作室。该Launchpool网页预计在 Launchpool 启动前 4 小时内可用。用户将能够将其 BNB、TUSD 和 FDUSD 放入单独的池中，MEME 代币共计可挖矿 30 天，挖矿将从 2023 年 10 月 28 日 08:00（北京时间）开始。\n币安将于2023 年 11 月 3 日 16:00（北京时间）上线 MEME ，并开放MEME/BTC、MEME/USDT 和 MEME/BNB交易对。种子标签将应用于 MEME。\n相关阅读：坐拥2亿用户，“Meme工厂”9GAG入局NFT之作Memeland遭热捧",
+          "link": "https://panewslab.com/zh/articledetails/nm0iizok.html",
+          "publishedOn": "2023-10-27T14:12:57.000Z",
+          "wordCount": 480,
+          "title": "Binance Launchpool将上线Memecoin(MEME)",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/nc4fu5p1.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，FTX创始人SBF在欺诈审判中作证为自己辩护，他表示他没有欺骗任何人或拿走客户资金。他还称自己在现已倒下的加密巨头 FTX 上犯了“错误”，“很多人都受到了伤害”。",
+          "link": "https://panewslab.com/zh/articledetails/nc4fu5p1.html",
+          "publishedOn": "2023-10-27T13:59:47.000Z",
+          "wordCount": 343,
+          "title": "SBF表示他没有欺骗任何人或拿走客户资金",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/mqs5469b.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，据The Block报道，加密货币交易所 Kraken 任命金融科技企业家、Starling 银行前高管 Bivu Das 接替 Blair Halliday 任英国董事总经理。Das 在新职位上将负责监督 Kraken 在英国开展业务的工作，该公司在英国拥有 275 名员工和庞大的客户群。Bivu Das 此前运营过加密货币支付网关初创公司 Unblock 和一家名为 FIBR UK 的小型企业金融平台。他还在 Starling Bank 担任了一年的运营战略和扩张主管。",
+          "link": "https://panewslab.com/zh/articledetails/mqs5469b.html",
+          "publishedOn": "2023-10-27T13:57:07.000Z",
+          "wordCount": 403,
+          "title": "加密交易所Kraken任命Bivu Das为其英国业务负责人",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6ve53pbp.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，据The Block报道，Web3 投资公司 Animoca Brands 已加大力度向其庞大的投资组合中的初创企业推销内部做市服务。据四位知情人士透露，这家总部位于香港的公司近几个月向其支持的 400 多个项目中的一些项目展示了这些做市能力，显然是为了让更多项目使用该服务。 这使得 Animoca（迄今为止主要专注于 web3 项目的投资、建设和咨询）与 GSR、Wintermute 和 Keyrock 等专业做市商展开竞争。\nAnimoca 发言人表示，该公司通过内部数字资产团队提供做市服务，该团队成立于 2022 年初，目前由 10 名员工组成。他们将其描述为“本质上是一个财务团队”，还负责设置节点和对冲，帮助抵消 Animoca 大量不稳定代币的波动性。所有这些都被 Animoca 描述为“在公平基础上协商的可选附加组件”。",
+          "link": "https://panewslab.com/zh/articledetails/6ve53pbp.html",
+          "publishedOn": "2023-10-27T13:43:51.000Z",
+          "wordCount": 416,
+          "title": "Animoca Brands通过内部数字资产团队为初创企业提供做市服务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/4c694trc.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，元宇宙游戏平台 MOBOX 发推称，正在准备新的代币回购和销毁计划，旨在为社区提供额外的价值。",
+          "link": "https://panewslab.com/zh/articledetails/4c694trc.html",
+          "publishedOn": "2023-10-27T13:40:58.000Z",
+          "wordCount": 343,
+          "title": "链游MOBOX称正在准备新的代币回购和销毁计划",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vnstuqdn.html",
+          "author": "PA一线",
+          "description": "PANews 10月27日消息，美国财政部副部长 Wally Adeyemo 在英国伦敦皇家联合军种研究所发表讲话时表示，正在与全球合作伙伴和盟友合作，加强信息共享和协作，以应对恐怖主义融资问题。其最近制裁了一家位于加沙的虚拟货币交易所及其运营商，该交易所被包括哈马斯在内的多个恐怖组织用来转移资金。还采取措施解决虚拟货币混合带来的系统性非法金融风险，这种服务经常被非法行为者滥用。\n美国财政部致力于与金融机构、数字资产公司和其他机构合作，共同采取措施防止恐怖分子转移资金。Wally Adeyemo 称，数字资产领域的一些人希望不顾后果地进行创新，而不是负责任地进行创新，包括防止非法融资。期望金融机构和数字资产公司以及虚拟货币生态系统中的其他人将采取措施防止恐怖分子获取资源。如果他们不采取行动阻止非法资金流动，美国和我们的合作伙伴将会采取行动。",
+          "link": "https://panewslab.com/zh/articledetails/vnstuqdn.html",
+          "publishedOn": "2023-10-27T13:37:20.000Z",
+          "wordCount": 355,
+          "title": "美国财政部副部长：一些加密领域的人希望不顾后果地进行创新，而不是负责任地进行创新",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/a40wh867.html",
           "author": "PA一线",
-          "description": "PANews 10月27日消息，据彭博社报道，美联储理事巴尔在第十二届支付经济学会议上表示，官员们仍在研究潜在的数字美元，尚未决定是否建议美联储推出数字货币。巴尔周五重申，如果没有国会和美国政府行政部门的支持，美联储不会推进央行数字货币（CBDC）。他没有给出美联储决定是否建议采取这一举措的时间表。",
+          "description": "PANews 10月27日消息，据彭博社报道，美联储理事巴尔在第十二届支付经济学会议上表示，官员们仍在研究潜在的数字美元，尚未决定是否建议美联储推出数字货币。巴尔周五重申，如果没有国会和美国政府行政部门的支持，美联储不会推进央行数字货币（CBDC）。他没有给出美联储决定是否建议采取这一举措的时间表。\n其还称，稳定币需要受到监管。当一项资产与政府发行的货币挂钩时，它就是私人货币的一种形式。当该资产也被用作支付手段和价值储存手段时，它就借用了央行的信任。因此，美联储非常希望确保任何稳定币产品都在适当的联邦审慎监管框架内运作，这样它们就不会威胁到金融稳定或支付系统的完整性。我们还向我们监管的银行提供了指导，指导他们在考虑使用这些产品时应如何与监管机构合作。",
           "link": "https://panewslab.com/zh/articledetails/a40wh867.html",
           "publishedOn": "2023-10-27T13:14:05.000Z",
           "wordCount": 340,
@@ -125,7 +205,7 @@
         {
           "id": "https://panewslab.com/zh/articledetails/9w0dim1r.html",
           "author": "PA一线",
-          "description": "PANews 10月27日消息，据The Block报道，除了在V4版本平台上扩展 DYDX 代币的功能外，dYdX 链还将向其网络验证者和质押者分配所有应计费用，强调其在支持网络安全和治理方面的重要作用。该代币将被质押给网络验证者，所有协议费用（包括 USDC 交易费和 DYDX 计价的Gas费）都将转给这些验证者和质押者。\n今日早些时候，dYdX Chain正式在主网启动。",
+          "description": "PANews 10月27日消息，据The Block报道，除了在V4版本平台上扩展 DYDX 代币的功能外，dYdX 链还将向其网络验证者和质押者分配所有应计费用，强调其在支持网络安全和治理方面的重要作用。dYdX 代币将被质押给网络验证者，所有协议费用（包括 USDC 交易费和 DYDX 计价的Gas费）都将转给这些验证者和质押者。\ndYdX Chain 是一个使用 Cosmos SDK 构建的权益证明区块链网络，并利用 CometBFT 达成共识。dYdX 链上的交易无需 Gas（仅适用 USDC 的挂单者和吃单者交易费用）。\n今日早些时候，dYdX Chain正式在主网启动。",
           "link": "https://panewslab.com/zh/articledetails/9w0dim1r.html",
           "publishedOn": "2023-10-27T13:04:27.000Z",
           "wordCount": 408,
@@ -230,86 +310,6 @@
           "publishedOn": "2023-10-27T09:47:41.000Z",
           "wordCount": 376,
           "title": "数据：0x87C开头地址过去6天从Coinbase提出近5000万美元的ETH",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/krnjd9so.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，Token Terminal数据显示，L2 上的每周活跃钱包地址数突破400万个，创历史新高。",
-          "link": "https://panewslab.com/zh/articledetails/krnjd9so.html",
-          "publishedOn": "2023-10-27T09:39:10.000Z",
-          "wordCount": 349,
-          "title": "数据：L2上的每周活跃钱包地址数突破400万，创历史新高",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/6pfl5u6t.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，联合国秘书长António Guterres近日宣布成立一个由 39 名成员组成的咨询委员会，旨在解决与人工智能 ( AI)全球监管相关的问题。根据公告，39人名单包括科技行业领袖、从西班牙到沙特阿拉伯的政府代表，以及来自美国、俄罗斯和日本等国家的学者。来自知名科技公司的高管包括担任索尼首席技术官 (CTO) 的 Hiroaki Kitano、OpenAI 首席技术官 Mira Murati 和微软首席人工智能官 Natasha Crampton。此外，这些代表来自六大洲，拥有不同的背景，从美国人工智能专家维拉斯·达尔(Vilas Dhar)到中国的中科院类脑认知人工智能实验室主任曾毅教授，再到埃及律师穆罕默德·法拉哈特(Mohamed Farahat)。中国政法大学数据法研究所教授张凌瀚也在39人名单中。",
-          "link": "https://panewslab.com/zh/articledetails/6pfl5u6t.html",
-          "publishedOn": "2023-10-27T09:25:04.000Z",
-          "wordCount": 371,
-          "title": "联合国成立由39人组成的人工智能高级别咨询委员会",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/r9s3nmyu.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，据CoinDesk报道，由于当地国家法币的贬值和整体经济的不稳定，最近比特币价格的上涨，使得比特币在土耳其和尼日利亚达到了历史新高。截至周五上午，在土耳其市场比特币的价格达960万里拉，在尼日利亚市场比特币的价格达2740万奈拉。按当地货币计算，比特币的月涨幅高达30%。根据CoinGecko的数据，当地加密交易所在过去24小时内的比特币交易额达4000万美元，这一数字可能不包括在币安或Coinbase等全球交易所进行交易的本地用户。\n过去一个月奈拉兑美元下跌了0.45%，过去六个月下跌了45%；里拉兑美元在过去一个月下跌了2.9%，过去六个月下跌了31%。国际货币基金组织（IMF）的一项研究显示，与2022年相比，尼日利亚的通货膨胀率上升了25%，而土耳其的通货膨胀率飙升了51%，导致TRY和NGN的购买力大幅下滑。这可能提振了人们对比特币的需求。",
-          "link": "https://panewslab.com/zh/articledetails/r9s3nmyu.html",
-          "publishedOn": "2023-10-27T08:47:18.000Z",
-          "wordCount": 348,
-          "title": "土耳其和尼日利亚的比特币升至历史新高",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3agv3zmr.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，Avalanche链上的稳定币交易项目Platypus Finance在X平台上表示，团队正在计算每位用户应得的代币确切数量，其中包括来自聚合器的资金。他们正在与这些合作方密切合作，逐案处理退款。Platypus Finance称其目标是在下周分发退款，并将在有进一步消息时及时更新。\n此前10月12日消息，Platypus Finance在黑客攻击事件中损失已超200万美元。",
-          "link": "https://panewslab.com/zh/articledetails/3agv3zmr.html",
-          "publishedOn": "2023-10-27T08:31:46.000Z",
-          "wordCount": 353,
-          "title": "Platypus Finance计划下周向受损用户分发退款",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/c1gktw79.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，根据SEC官方文件披露，加密资产管理公司Grayscale旗下的Bitcoin Cash Trust (BCH) 计划在OTCQX交易所出售50,000股。此次销售的证券由DCG International Investments Ltd.持有，预计销售总市值为930,050.00美元。此次销售定于10月26日进行。\n值得注意的是，DCG International Investments Ltd.在过去三个月内已多次出售Grayscale Bitcoin Cash Trust的股票，总计销售量达到18万股，总售出额共计26万美元。",
-          "link": "https://panewslab.com/zh/articledetails/c1gktw79.html",
-          "publishedOn": "2023-10-27T08:26:14.000Z",
-          "wordCount": 373,
-          "title": "DCG过去3个月累计售出18万股灰度BCH信托，其计划于10月26日出售5万股",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/l4wl8r04.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，据官方消息，Fireblocks研究团队最近在智能合约钱包UniPass中发现了一个ERC-4337帐户抽象漏洞。Fireblocks与UniPass合作，全面缓解了白帽行动中数百个主网钱包中发现的漏洞。所有资金现已安全并入账。\n据悉，该漏洞允许攻击者对UniPass钱包进行完全帐户接管，通过替换钱包的可信入口点来激活帐户抽象模块。一旦帐户接管完成，攻击者就可以将钱包视为自己的钱包并耗尽其中的所有资金。钱包中激活了ERC-4337模块的数百名用户很容易受到这种攻击，区块链上的任何人都可以执行这种攻击。该漏洞由3个不同的问题组成，这些问题无法单独利用，但组合起来后，可被利用以获得对钱包的所有者级访问权限。",
-          "link": "https://panewslab.com/zh/articledetails/l4wl8r04.html",
-          "publishedOn": "2023-10-27T07:47:54.000Z",
-          "wordCount": 345,
-          "title": "Fireblocks发现UniPass中存在ERC-4337帐户抽象漏洞，现已采取缓解措施",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zr72iqyb.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，据Scopescan监测，Wintermute刚刚以0.375美元均价再次将400万枚ARKM（约合150万美元）转移到币安，今日已向币安转移800万枚ARKM。",
-          "link": "https://panewslab.com/zh/articledetails/zr72iqyb.html",
-          "publishedOn": "2023-10-27T07:18:45.000Z",
-          "wordCount": 345,
-          "title": "Wintermute再次将400万枚ARKM转入币安，今日已转入800万枚",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/nzvxeuri.html",
-          "author": "PA一线",
-          "description": "PANews 10月27日消息，据The Verge报道，Elon Musk在周四的全体员工电话会议中表示，他希望X成为用户金融生活的中心，处理生活中与金钱相关的所有事务，他预计这些功能将在2024年底前推出，并表示人们会“惊叹于它的强大程度”。X首席执行官Linda Yaccarino表示，该公司认为这将成为2024年的“充分机会”。\nMusk表示，X将不仅仅是提供简单的支付功能，而是全面的金融服务，使用户无需银行账户。该公司目前正致力于在美国各州获得汇款许可证，以便提供金融服务。\n此外，Musk表示X的转型与他的目标直接相关，即将其变成一个“万物应用”，类似于中国的微信，提供购物、交通等服务。",
-          "link": "https://panewslab.com/zh/articledetails/nzvxeuri.html",
-          "publishedOn": "2023-10-27T07:15:16.000Z",
-          "wordCount": 352,
-          "title": "马斯克计划2024年底前将X打造为全面的金融平台",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
