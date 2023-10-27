@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-27T05:11:44.109Z</id>
+    <id>urn:2023-10-27T06:16:57.292Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-27T05:11:44.109Z</updated>
+    <updated>2023-10-27T06:16:57.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik的权衡艺术：以太坊协议应该封装哪些功能？]]></title>
+        <id>https://www.web3sj.com/?p=92719</id>
+        <link href="https://www.web3sj.com/news/92719/"/>
+        <updated>2023-10-27T06:16:06.000Z</updated>
+        <summary type="html"><![CDATA[从传统的软件开发定义来说，封装（Encapsulation）是指，一种将抽象性函数接口的实现细节部分包装、隐藏起来的方法。而对于以太坊的「封装」来说，是指在主链上能够直接执行更多的功能，且这些功能过去可能是依赖外部软件实现的，被封装的新功能将成为「协议功能」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩根大通：SEC拒绝现货比特币ETF申请可能引发法律风暴]]></title>
+        <id>https://www.web3sj.com/?p=92715</id>
+        <link href="https://www.web3sj.com/news/92715/"/>
+        <updated>2023-10-27T06:02:51.000Z</updated>
+        <summary type="html"><![CDATA[以 Nikolaos Panigirtzoglou 为首的摩根大通分析师在最近的一份报告中强调，SEC 拒绝批准现货 BTC ETF 申请可能会导致申请者采取法律行动。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ether.fi将在Polygon zkEVM上推出原生ETH质押服务]]></title>
         <id>https://panewslab.com/zh/articledetails/34xir472.html</id>
@@ -25,6 +45,38 @@
 最近出售资产的8个FTX及Alameda地址目前仍持有约6.19亿美元的加密资产。包括：55,280枚ETH (9900万美元) 、6970万枚FTT (9155万美元) 、2500万枚WLD (4460万美元) 、5300万枚MATIC(3300 万美元) 等资产。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：马斯克要求X在一年内取代银行账户]]></title>
+        <id>https://www.hellobtc.com/news/202310/21331.html</id>
+        <link href="https://www.hellobtc.com/news/202310/21331.html"/>
+        <updated>2023-10-27T03:43:00.000Z</updated>
+        <summary type="html"><![CDATA[1.马斯克要求X在一年内取代银行账户。
+
+2.多家交易平台将上线Celestia(TIA)。
+
+3.dYdX Chain现已正式在主网上线。
+
+4.SEC主席Gensler：2023年执法行动涉及金额达50亿美元，加密市场「高度不合规」。
+
+5.SBF自称不记得与高管讨论过130亿美元的漏洞。
+
+6.Tether CEO：Tether已与美国、乌克兰和以色列在内的数十个执法机构达成合作。
+
+7.Google上“购买比特币”一词在英国的搜索量在7天内飙升826%。
+
+8.Floki推出资产代币化平台TokenFi，56%代币将分配给Floki质押者。
+
+9.闲鱼开放数字藏品交易。
+
+10.Injective：迄今已有超7000万美元INJ被销毁。
+
+11.GBTC今年涨幅达220%，超越英伟达。
+
+12.PEPE市值翻倍至5亿美元，超15万个个人钱包持有PEPE。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -309,26 +361,6 @@ Lookonchain监测数据显示，今日凌晨FTX/Alameda关联地址将253,862枚
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[加密研究机构揭开哈马斯加密货币筹款真相，实际微乎其微]]></title>
-        <id>https://www.web3sj.com/?p=92629</id>
-        <link href="https://www.web3sj.com/news/92629/"/>
-        <updated>2023-10-26T12:09:50.000Z</updated>
-        <summary type="html"><![CDATA[基于此事，以马萨诸塞州民主党参议员 Elizabeth Warren 和堪萨斯州共和党参议员 Roger Marshall 为首的立法者致信拜登政府，表达了他们的「严重关切」，并要求拜登政府「提供有关其防止使用加密货币资助恐怖主义计划的更多细节」。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRB价格过山车：乘势而上还是即将崩盘]]></title>
-        <id>https://www.web3sj.com/?p=92622</id>
-        <link href="https://www.web3sj.com/news/92622/"/>
-        <updated>2023-10-26T12:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Tellor 是一个去中心化预言机协议。其主要服务内容是为用户提供以太坊网络之外链下数据的访问权限（例如 API 或 Polygon 链的交易数据）。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Uniswap前端交易费用达42万美元]]></title>
         <id>https://www.hellobtc.com/news/202310/21330.html</id>
         <link href="https://www.hellobtc.com/news/202310/21330.html"/>
@@ -564,44 +596,6 @@ CoinTR首席执行官ALİ EŞELİOĞLU表示，“CoinTR是土耳其受监管的
 13.Unbroken Chain基金计划筹集500万美元以投资比特币Ordinals铭文。
 
 14.X进行测试，新的、未经验证的账户将需要付费以进行互动操作。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：Uniswap将对通过官方前端交易的11种代币收取0.15%的固定费用]]></title>
-        <id>https://www.hellobtc.com/news/202310/21321.html</id>
-        <link href="https://www.hellobtc.com/news/202310/21321.html"/>
-        <updated>2023-10-17T01:37:00.000Z</updated>
-        <summary type="html"><![CDATA[1.Uniswap将对通过官方前端交易的11种代币收取0.15%的固定费用。
-
-2.徐明星：新闻真假不重要，相信比特币发展潜力就坚定持有。
-
-3.美图高管：公司已不再重点关注及买入加密货币，或将在合适时间点卖出。
-
-4.美SEC：小心互联网上的信息，SEC官方才是最佳信息来源。
-
-5.Coinbase：投资者对以太坊质押收益的需求已放缓。
-
-6.贝莱德CEO回应假新闻：这是加密兴趣的报复性反弹，已听到来自世界各地的客户对加密货币的需求。
-
-7.以太坊Layer 2网络Mantle Network总锁仓量超越Starknet。
-
-8.Lido计划在未来几个月内逐步停止对Solana的支持。
-
-9.过去一周持有10万-100万枚LINK的钱包地址增持3850万美元的LINK代币。
-
-10.基于opBNB的AI平台MyShell以5700万美元估值完成560万美元融资。
-
-11.越南在2021年和2022年的加密货币采用率方面排名第一。
-
-12.Cointelegraph：比特币现货ETF消息源自未经证实的屏幕截图。
-
-13.5122万枚BLUR月度解锁已转入Coinbase Prime，约856万美元。
-
-14.opBNB上CUBISWAP代币24小时跌幅达64.3%。
-
-15.friend.tech创始人Racer共获得278枚ETH，已提现271枚ETH。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>

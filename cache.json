@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=92719",
+          "author": "Gao",
+          "description": "从传统的软件开发定义来说，封装（Encapsulation）是指，一种将抽象性函数接口的实现细节部分包装、隐藏起来的方法。而对于以太坊的「封装」来说，是指在主链上能够直接执行更多的功能，且这些功能过去可能是依赖外部软件实现的，被封装的新功能将成为「协议功能」。",
+          "link": "https://www.web3sj.com/news/92719/",
+          "publishedOn": "2023-10-27T06:16:06.000Z",
+          "wordCount": 972,
+          "title": "Vitalik的权衡艺术：以太坊协议应该封装哪些功能？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698387057776.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=92715",
+          "author": "Gao",
+          "description": "以 Nikolaos Panigirtzoglou 为首的摩根大通分析师在最近的一份报告中强调，SEC 拒绝批准现货 BTC ETF 申请可能会导致申请者采取法律行动。",
+          "link": "https://www.web3sj.com/news/92715/",
+          "publishedOn": "2023-10-27T06:02:51.000Z",
+          "wordCount": 902,
+          "title": "摩根大通：SEC拒绝现货比特币ETF申请可能引发法律风暴",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/0a37b4ca908e88ea742a4c4c5655ccdf.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=92696",
           "author": "Gao",
           "description": "本文选择了韩国的中心化交易所作为探索的主题。据韩国金融情报局（KoFIU）的一项调查显示，预计 2023 年上半年，韩国的加密货币投资者数量将达到约 600 万，这是一个惊人的数字，占到了韩国总人口的 10% 以上。这些投资者中的大多数主要参与的投资活动都围绕中心化交易所展开，这使得中心化交易所在韩国加密市场的影响力相当显著。",
           "link": "https://www.web3sj.com/news/92696/",
           "publishedOn": "2023-10-27T03:37:20.000Z",
-          "wordCount": 1124,
+          "wordCount": 1170,
           "title": "数据透视韩国CEX和投资者行为",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/5-1698376337973.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "在这波狂潮下，Cobo 作为全球领先的全能托管提供商（Omni Custody)，从中心化托管到 MPC（Multi-Party Computation，多方计算）协管、基于智能合约多签钱包的去中心化托管，再到基于 MPC 的自托管方式，并且从访问控制、风险管理、工作流程等方面不断优化、稳扎稳打，试图打造一个安全、易用且完整的数字资产托管生态，为机构、初创公司、高净值个人提供机构级的托管服务，让 Web3 和数字资产为更多人可用。",
           "link": "https://www.web3sj.com/news/92690/",
           "publishedOn": "2023-10-27T03:10:07.000Z",
-          "wordCount": 1147,
+          "wordCount": 1146,
           "title": "数字资产托管2.0时代，Cobo MPC托管如何引领潮流",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698376196644.png"
         },
@@ -31,7 +51,7 @@
           "description": "比特币价格已经达到了 17 个月来的最高点，这是自 2022 年 5 月以来的最高水平。这次涨势让很多人措手不及，随着这个「加密货币之王」的稳步上涨，给加密市场带来了牛市的氛围。那么推动涨势的原因有哪些？BTC 后续的发展又如何？",
           "link": "https://www.web3sj.com/news/92681/",
           "publishedOn": "2023-10-27T02:57:16.000Z",
-          "wordCount": 1070,
+          "wordCount": 1037,
           "title": "比特币暴涨的背后，牛市在即?",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698375422999.png"
         },
@@ -41,7 +61,7 @@
           "description": "以下的各种想法和概念的探索，与对改善 Rollup 节点时间来最初将其状态同步到汇总的最新 Rollup 的时间有关。在下文中，这个改进的过程可以被称为 Rollup 的「Snap Sync」，这是从类似命名 L1 的过程中汲取的灵感。本文档概述了 Snap Sync 如何用于 Rollup 的总体思路，并深入探讨了各种 Rollup 参与者的角色和需求。",
           "link": "https://www.web3sj.com/news/92677/",
           "publishedOn": "2023-10-27T02:52:19.000Z",
-          "wordCount": 1039,
+          "wordCount": 1066,
           "title": "ETH Research：详解Rollup的Snap Sync设想及机制",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698375120827.png"
         },
@@ -51,7 +71,7 @@
           "description": "随着比特币 ETF 的利好消息和 BTC 的上涨行情，压抑许久的市场又重新活跃了起来。短时间内，BRC100、STX、$ibtc 等与比特币及其生态相关的概念都纷纷起飞。不过，让许多人没想到的是，曾在几个月前火过一波的「抽象派 meme 币」也因此迎来了第二春。",
           "link": "https://www.web3sj.com/news/92662/",
           "publishedOn": "2023-10-27T02:49:04.000Z",
-          "wordCount": 1067,
+          "wordCount": 1079,
           "title": "SPX、Joe等meme币疯狂翻倍，「抽象派热潮」又回归了？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/88f3972caf78cccc6fe8a058e340410f8750775e.jpg"
         },
@@ -61,7 +81,7 @@
           "description": "万事达卡与加密支付提供商MoonPay合作推进Web3业务。受“FTX或将重启交易所”消息推动，FTX大型债权报价超过50%。灰度GBTC股价今年涨幅达220%，超越英伟达。",
           "link": "https://www.web3sj.com/news/92643/",
           "publishedOn": "2023-10-26T12:30:44.000Z",
-          "wordCount": 909,
+          "wordCount": 902,
           "title": "Web3世界日报（2023-10.26）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023102612281012.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "由于现货比特币 ETF 在美国可能获得批准的炒作，比特币连续两周反弹，同期以太坊涨幅较为温和，以太坊相对于比特币的价格（ETH/BTC 交易对）继续下跌。",
           "link": "https://www.web3sj.com/transaction/92638/",
           "publishedOn": "2023-10-26T12:17:15.000Z",
-          "wordCount": 978,
+          "wordCount": 1007,
           "title": "比特币涨幅「遥遥领先」，以太坊为何跟不上？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698322608179.png"
         },
@@ -81,29 +101,9 @@
           "description": "本周，Vitalik Buterin 参投以太坊上匿名账户抽象协议 Nocturne。在 Nocturne 完成的 600 万美元种子轮融资中，Bain Capital Crypto 与 Polychain Capital 共同领投，其他参投方还包括 Bankless Ventures、Hack VC、Robot Ventures 等。本轮融资带有代币认股权证的股票，估值尚未公布。",
           "link": "https://www.web3sj.com/project/92632/",
           "publishedOn": "2023-10-26T12:14:50.000Z",
-          "wordCount": 1005,
+          "wordCount": 997,
           "title": "获Vitalik投资，Nocturne的全新匿名交易构想",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/3-1698299194443.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92629",
-          "author": "Gao",
-          "description": "基于此事，以马萨诸塞州民主党参议员 Elizabeth Warren 和堪萨斯州共和党参议员 Roger Marshall 为首的立法者致信拜登政府，表达了他们的「严重关切」，并要求拜登政府「提供有关其防止使用加密货币资助恐怖主义计划的更多细节」。",
-          "link": "https://www.web3sj.com/news/92629/",
-          "publishedOn": "2023-10-26T12:09:50.000Z",
-          "wordCount": 978,
-          "title": "加密研究机构揭开哈马斯加密货币筹款真相，实际微乎其微",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698322175716.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92622",
-          "author": "Gao",
-          "description": "Tellor 是一个去中心化预言机协议。其主要服务内容是为用户提供以太坊网络之外链下数据的访问权限（例如 API 或 Polygon 链的交易数据）。",
-          "link": "https://www.web3sj.com/news/92622/",
-          "publishedOn": "2023-10-26T12:06:32.000Z",
-          "wordCount": 1142,
-          "title": "TRB价格过山车：乘势而上还是即将崩盘",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698321976107.png"
         }
       ]
     },
@@ -188,7 +188,7 @@
           "description": "美国SEC主席：SEC面前有8-10份关于可能推出比特币交易所交易产品的申请文件\n美国证券交易委员会 (SEC) 主席Gary Gensler表示，美国证交会面前有8-10份关于可能推出比特币交易所交易产品（ETF）的申请文件。\n美议员呼吁司法部考虑对币安提起诉讼，进一步调查Tether是否参与非法融资\n据The Block报道，美国共和党议员敦促美国司法部查明币安和Tether在以色列遭受袭击后，可能在多大程度上支持恐怖主义融资。怀俄明州共和党参议员Cynthia Lummis和阿肯色州共和党众议员French Hill在周四的一封信中要求司法部“认真评估币安和Tether通过违反适用制裁法律和《银行保密法》来为恐怖主义提供物质支持和资源。”\n议员们写道：“为此，我们强烈支持司法部对币安和Tether采取迅速行动，以切断目前针对以色列的恐怖分子的资金来源。议员们特别要求司法部长Merrick Garland“对币安作出指控决定，反映其罪责程度，并迅速结束对涉及Tether的持续非法活动的调查。Tether明知其产品被用于促进恐怖主义和其他非法活动，却没有进行充分的客户尽职调查和筛查，从而故意助长违反适用制裁法和《银行保密法》的行为。”\n此外，针对《华尔街日报》发文称Tether涉嫌协助使用加密货币协助恐怖分子进行非法融资的报道，Tether首席执行官Paolo Ardoino表示，Tether自成立以来已经与包括美国、乌克兰和以色列在内的数十个执法机构达成合作，恶意行为者使用的加密货币仅占传统金融行业非法活动的一小部分。\n以太坊核心开发人员确认不会在年底前实施Dencun升级\n据Blockworks报道，以太坊客户端开发人员周四确认，预期的Dencun升级不会在2023年底之前在网络硬分叉中实施。匿名Prysm开发者Potuz在今日的核心开发者电话会议上确认，不可能在20…",
           "link": "https://panewslab.com/zh/articledetails/xqrdzzfk.html",
           "publishedOn": "2023-10-27T02:30:15.000Z",
-          "wordCount": 707,
+          "wordCount": 701,
           "title": "昨夜今晨重要资讯（10月26日-10月27日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/10/27/images/AI98x6I7GS.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "PANews 10月26日消息，据吴说报道，针对社区反馈与HKD.com关系密切的ESG Panda NFT项目已跑路，HKD.com回应称：“贾俊东从未在HKD担任过任何职务，其利用在HKD的NFT板块上架、租用HKD会议场地等部分事实进行虚假宣传，且未能履行承诺兑现权益，欺骗了投资者，也严重违反了HKD上架协议。HKD对项目发行方海世界(深圳)产业控股集团有限公司以及其法人代表贾俊东的行径表示谴责，并已聘请律师起诉贾俊东及全力协助受害者。”\n此前消息，社区用户提供的ESG社群聊天记录，ESG人员称Panda NFT项目CEO Eason Jia（贾俊东）同时也自称HKD.com web3事业部总裁。此前其他报道也显示，Eason Jia出席并在ESG Panda NFT的线下活动中致辞。",
           "link": "https://panewslab.com/zh/articledetails/rt2ngeo7.html",
           "publishedOn": "2023-10-27T02:01:46.000Z",
-          "wordCount": 374,
+          "wordCount": 370,
           "title": "HKD.com回应：ESG Panda NFT的CEO未担任过HKD任何职务，系其虚假宣传",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 10月27日消息，据The Block报道，美国共和党议员敦促美国司法部查明币安和Tether在以色列遭受袭击后，可能在多大程度上支持恐怖主义融资。怀俄明州共和党参议员Cynthia Lummis和阿肯色州共和党众议员French Hill在周四的一封信中要求司法部“认真评估币安和Tether通过违反适用制裁法律和《银行保密法》来为恐怖主义提供物质支持和资源。”\n议员们写道：“为此，我们强烈支持司法部对币安和Tether采取迅速行动，以切断目前针对以色列的恐怖分子的资金来源。议员们特别要求司法部长Merrick Garland“对币安作出指控决定，反映其罪责程度，并迅速结束对涉及Tether的持续非法活动的调查。Tether明知其产品被用于促进恐怖主义和其他非法活动，却没有进行充分的客户尽职调查和筛查，从而故意助长违反适用制裁法和《银行保密法》的行为。”\n此外，针对《华尔街日报》发文称Tether涉嫌协助使用加密货币协助恐怖分子进行非法融资的报道，Tether首席执行官Paolo Ardoino表示，Tether自成立以来已经与包括美国、乌克兰和以色列在内的数十个执法机构达成合作，恶意行为者使用的加密货币仅占传统金融行业非法活动的一小部分。",
           "link": "https://panewslab.com/zh/articledetails/bz2gab6t.html",
           "publishedOn": "2023-10-27T01:14:46.000Z",
-          "wordCount": 351,
+          "wordCount": 349,
           "title": "美议员呼吁司法部考虑对币安提起诉讼，进一步调查Tether是否参与非法融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -319,6 +319,16 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202310/21331.html",
+          "author": null,
+          "description": "1.马斯克要求X在一年内取代银行账户。\n\n2.多家交易平台将上线Celestia(TIA)。\n\n3.dYdX Chain现已正式在主网上线。\n\n4.SEC主席Gensler：2023年执法行动涉及金额达50亿美元，加密市场「高度不合规」。\n\n5.SBF自称不记得与高管讨论过130亿美元的漏洞。\n\n6.Tether CEO：Tether已与美国、乌克兰和以色列在内的数十个执法机构达成合作。\n\n7.Google上“购买比特币”一词在英国的搜索量在7天内飙升826%。\n\n8.Floki推出资产代币化平台TokenFi，56%代币将分配给Floki质押者。\n\n9.闲鱼开放数字藏品交易。\n\n10.Injective：迄今已有超7000万美元INJ被销毁。\n\n11.GBTC今年涨幅达220%，超越英伟达。\n\n12.PEPE市值翻倍至5亿美元，超15万个个人钱包持有PEPE。",
+          "link": "https://www.hellobtc.com/news/202310/21331.html",
+          "publishedOn": "2023-10-27T03:43:00.000Z",
+          "wordCount": 313,
+          "title": "白话区块链早报：马斯克要求X在一年内取代银行账户",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202310/21330.html",
           "author": null,
@@ -407,16 +417,6 @@
           "publishedOn": "2023-10-18T01:44:00.000Z",
           "wordCount": 322,
           "title": "白话区块链早报：稳定币市场目前是美国国债第16大“主权持有者”",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202310/21321.html",
-          "author": null,
-          "description": "1.Uniswap将对通过官方前端交易的11种代币收取0.15%的固定费用。\n\n2.徐明星：新闻真假不重要，相信比特币发展潜力就坚定持有。\n\n3.美图高管：公司已不再重点关注及买入加密货币，或将在合适时间点卖出。\n\n4.美SEC：小心互联网上的信息，SEC官方才是最佳信息来源。\n\n5.Coinbase：投资者对以太坊质押收益的需求已放缓。\n\n6.贝莱德CEO回应假新闻：这是加密兴趣的报复性反弹，已听到来自世界各地的客户对加密货币的需求。\n\n7.以太坊Layer 2网络Mantle Network总锁仓量超越Starknet。\n\n8.Lido计划在未来几个月内逐步停止对Solana的支持。\n\n9.过去一周持有10万-100万枚LINK的钱包地址增持3850万美元的LINK代币。\n\n10.基于opBNB的AI平台MyShell以5700万美元估值完成560万美元融资。\n\n11.越南在2021年和2022年的加密货币采用率方面排名第一。\n\n12.Cointelegraph：比特币现货ETF消息源自未经证实的屏幕截图。\n\n13.5122万枚BLUR月度解锁已转入Coinbase Prime，约856万美元。\n\n14.opBNB上CUBISWAP代币24小时跌幅达64.3%。\n\n15.friend.tech创始人Racer共获得278枚ETH，已提现271枚ETH。",
-          "link": "https://www.hellobtc.com/news/202310/21321.html",
-          "publishedOn": "2023-10-17T01:37:00.000Z",
-          "wordCount": 321,
-          "title": "白话区块链早报：Uniswap将对通过官方前端交易的11种代币收取0.15%的固定费用",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
