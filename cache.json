@@ -1,315 +1,58 @@
 {
   "sources": [
     {
-      "title": "Web3世界",
-      "feedUrl": "https://www.web3sj.com/feed/",
-      "siteUrl": "https://www.web3sj.com",
-      "articles": [
-        {
-          "id": "https://www.web3sj.com/?p=92882",
-          "author": "Gao",
-          "description": "Uniswap社区投票通过“投资Ekubo Protocol”提案，将投资1200万美元的UNI。以太坊流动性再质押池Astrid遭攻击，智能合约已暂停，已对持有者全额补偿。Chiliz推出Chiliz Chain生态系统。",
-          "link": "https://www.web3sj.com/news/92882/",
-          "publishedOn": "2023-10-29T10:40:05.000Z",
-          "wordCount": 899,
-          "title": "Web3世界日报（2023-10.29）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023102910385561.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92866",
-          "author": "Gao",
-          "description": "「经过数月的开发、社区咨询和测试网启动，以太坊主网上已经启动了 POL 的升级。」Polygon Labs 发布公告称，POL 是下一代生产力极高的代币，将通过原生重新抵押协议为基于零知识技术的 Layer2 生态系统提供动力，该协议允许 POL 持有者验证多条链，并在每条链上执行多个角色 ( 测序、ZK 证明生成、参与数据可用性委员会等 )。",
-          "link": "https://www.web3sj.com/news/92866/",
-          "publishedOn": "2023-10-29T03:03:48.000Z",
-          "wordCount": 1211,
-          "title": "复盘Polygon的Layer2进展：推进2.0路线上线POL，CDK被多个头部项目采用",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698548615374.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92836",
-          "author": "Gao",
-          "description": "BTC 被喻为「数字黄金」，而交易员又常常将纳斯达克指数作为 BTC 价格变化的重要参考，黄金与纳指分别是避险资产和风险资产的典型代表，这看上去似乎是矛盾的。本文将通过探究 BTC 与黄金的价格影响因素揭开 BTC 是否属于避险资产的面纱。",
-          "link": "https://www.web3sj.com/news/92836/",
-          "publishedOn": "2023-10-29T02:56:19.000Z",
-          "wordCount": 1640,
-          "title": "LD Capital：黄金与BTC",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698548167168.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92829",
-          "author": "Gao",
-          "description": "Arbitrum Orbit 是今年早些时候启动的一项计划，区块链开发人员可以利用 Arbitrum 的技术来启动自己的 Layer 2 或 Layer 3 网络。Arbitrum 母公司 Offchain Labs 首席执行官 Steven Goldfeder 表示，此前这些新的 Layer 3 网络仅在 Arbitrum 测试网络上运行。",
-          "link": "https://www.web3sj.com/news/92829/",
-          "publishedOn": "2023-10-29T02:42:31.000Z",
-          "wordCount": 1240,
-          "title": "Arbitrum Orbit主网上线，Layer2 RaaS大战再起？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698547338207.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92826",
-          "author": "Gao",
-          "description": "dYdX Chain 于 10 月 27 日在主网启动，创世区块于凌晨 1 点创建。dYdX 基金会首席执行官 Charles d'Haussy 表示，「这标志着 dYdX 生态系统的巨大飞跃，代表着完全去中心化的新篇章。」近期，在近期的一次媒体专访中，Charles 对 dYdX Chain 的设计，dYdX 未来发展以及加密现状给出了解答，还透露 dYdX 自成立以来实现了 1 万亿美元的交易量。",
-          "link": "https://www.web3sj.com/definews/92826/",
-          "publishedOn": "2023-10-29T02:37:35.000Z",
-          "wordCount": 1085,
-          "title": "专访dYdX基金会CEO：dYdX Chain放弃链下订单簿，目标是成为公共基础设施",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698547041953.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92812",
-          "author": "Gao",
-          "description": "智能合约平台（SCP）的目的是托管应用程序，使用户能够参与高效、不受审查的经济活动，同时最大限度地减少第三方对这些经济活动的租金提取。",
-          "link": "https://www.web3sj.com/news/92812/",
-          "publishedOn": "2023-10-29T02:28:55.000Z",
-          "wordCount": 1487,
-          "title": "从估值角度看Solana：VanEck为何如此乐观？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698546516528.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92802",
-          "author": "Gao",
-          "description": "Galaxy Digital或正在Aave和Compound上做多BTC和ETH。dYdX基金会：未来几天将出现与dYdX Chain启动相关的大规模代币内部转移。a16z将2800万美元UNI从其UNI投票地址转至新地址。",
-          "link": "https://www.web3sj.com/news/92802/",
-          "publishedOn": "2023-10-28T10:19:53.000Z",
-          "wordCount": 881,
-          "title": "Web3世界日报（2023-10.28）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/2023102810193422.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92789",
-          "author": "Gao",
-          "description": "MEME 是 Memeland 的生态系统代币。Memeland 是风靡全球的迷因平台 9GAG 所成立的 Web3 创意工作室。Memeland 的重点是 SocialFi 和创作者经济，旨在通过 NFT、代币和产品将创作者和社区连接在一起。",
-          "link": "https://www.web3sj.com/news/92789/",
-          "publishedOn": "2023-10-28T03:04:22.000Z",
-          "wordCount": 969,
-          "title": "速读Memecoin代币模型：如何分配和释放？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698462248397.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92779",
-          "author": "Gao",
-          "description": "最近的重大执法行动和法院判决表明了美国政府的不同主体对于 Web3 监管的看法。在新的立法尚未出现之际，Web3 已然会遇到不同的监管。但这也告诉我们如何制定新立法来对 Web3 进行适当地监管，从而实现政策目标，并为 Web3 在美国的发展铺平道路。",
-          "link": "https://www.web3sj.com/news/92779/",
-          "publishedOn": "2023-10-27T14:21:50.000Z",
-          "wordCount": 1090,
-          "title": "a16z评美国Web3监管：美SEC、CFTC糟透了？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698416485992.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=92776",
-          "author": "Gao",
-          "description": "越来越多的传统金融机构涉足加密货币市场，给加密货币市场带来大变化。以贝宝为例，它于 2023 年 8 月推出了自己的稳定币，成为美国第一家推出稳定币的大型金融公司，这具有重要的里程碑意义。",
-          "link": "https://www.web3sj.com/news/92776/",
-          "publishedOn": "2023-10-27T13:30:02.000Z",
-          "wordCount": 849,
-          "title": "加密公司如何与华尔街巨头竞争？从资金管理开始",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/10/1698413389928.png"
-        }
-      ]
-    },
-    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
-          "id": "https://panewslab.com/zh/articledetails/m2vkcmpn.html",
+          "id": "https://panewslab.com/zh/articledetails/7p43z4xs.html",
           "author": "PA一线",
-          "description": "PANews 10月29日消息，据Venturebeat报道，Animoca Brands宣布已收购Web3流媒体平台Azarus，具体收购金额暂未公开披露。Azarus构建了一个去中心化流媒体平台，允许用户流式传输游戏并与观众互动，同时利用基于区块链的代币来促进奖励和激励。据悉，本次收购交易完成后Azarus的创新技术将会被整合到Animoca Brands旗下产品组合、正在开发和已发行的数字游戏中，以进一步增强Web3游戏的流媒体功能并进一步扩大元宇宙游戏体验。",
-          "link": "https://panewslab.com/zh/articledetails/m2vkcmpn.html",
-          "publishedOn": "2023-10-29T12:56:40.000Z",
-          "wordCount": 349,
-          "title": "Animoca Brands收购Web3流媒体平台Azarus",
+          "description": "PANews 10月30日消息，天风国际证券分析师郭明錤最新调查指出，Meta已下修Quest 3的4Q23出货量约5%-10%。因市场需求低于预期，故预期1Q24出货量将环比衰退约70–80%。郭明錤表示，苹果公司的Vision Pro在技术方面领先Meta的头戴装置至少约2-3年，故Vision Pro于明年初发售后，虽因售价明显较高故与Quest的目标客户不同，但Vison Pro显着的体验优势将影响消费者采购Quest的意愿。",
+          "link": "https://panewslab.com/zh/articledetails/7p43z4xs.html",
+          "publishedOn": "2023-10-30T00:49:25.000Z",
+          "wordCount": 359,
+          "title": "郭明錤：Meta已下修Quest 3四季度出货量约5%-10%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
-          "id": "https://panewslab.com/zh/articledetails/nduzg5sw.html",
+          "id": "https://panewslab.com/zh/articledetails/rw1i07ep.html",
           "author": "PA一线",
-          "description": "PANews 10月29日消息，据Coin Edition报道，DeFiLlama 数据显示，2023 年迄今为止，网络犯罪分子已从加密市场窃取了约 10 亿美元，同比下降了 60%。今年加密行业被盗金额最高的一次发生在 9 月份，当时黑客窃取了 3.0823 亿美元。7 月份，网络犯罪分子通过多次加密货币黑客攻击，损失了 2.3842 亿美元，3 月份，损失了 2.1358 亿美元。尽管被盗资金的价值有所下降，但 2023 年的加密货币黑客事件比 2022 年的记录还要多。",
-          "link": "https://panewslab.com/zh/articledetails/nduzg5sw.html",
-          "publishedOn": "2023-10-29T12:12:46.000Z",
-          "wordCount": 394,
-          "title": "2023年迄今为止黑客窃取了10亿美元加密货币，同比下降60%",
+          "description": "PANews 10月30日消息，据巴西税务服务机构的数据 ，巴西的加密货币使用量大幅增加。仅考虑 2023 年的部分数据，报告的加密货币变动的 80% 与 USDT 有关。自 2021 年以来，巴西的 USDT 交易量一直在增长，在 2022 年 7 月交易量首次超过比特币。",
+          "link": "https://panewslab.com/zh/articledetails/rw1i07ep.html",
+          "publishedOn": "2023-10-30T00:31:56.000Z",
+          "wordCount": 414,
+          "title": "巴西今年USDT的采用率飙升，占所有加密货币交易的80%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
-          "id": "https://panewslab.com/zh/articledetails/s1w7wee3.html",
+          "id": "https://panewslab.com/zh/articledetails/moq55g81.html",
           "author": "PA一线",
-          "description": "PANews 10月29日消息，据Lookonchain监测，Uniswap 基金会在过去 6 天内总共转出了 980 万枚 UNI （约 4066 万美元）。 340 万枚 UNI (约 1410 万美元) 存入OKX； 300 万枚 UNI (约 1245 万美元) 存入Kraken； 340 万枚 UNI (约 1410 万美元) 被转移到FalconX 。",
-          "link": "https://panewslab.com/zh/articledetails/s1w7wee3.html",
-          "publishedOn": "2023-10-29T11:08:08.000Z",
-          "wordCount": 429,
-          "title": "Uniswap基金会在过去6天总转出980万枚UNI",
+          "description": "PANews 10月30日消息，Token Unlocks数据显示，本周11个项目将进行代币解锁，总计释放价值超过8960万美元。\n其中，Optimism 代币 OP 将于 10 月 30 日 12:00 解锁 2416 枚（约3406万美元），占流通供应量的 2.74%；\nSui 代币 SUI 将于 10 月 31 日 08:00 解锁 3862 万枚（约1573万美元），占流通供应量的 4.49%；\n1inch 代币 1INCH 将于 10 月 31 日 08:00 解锁 18万枚（约5.35万美元），占流通供应量的 0.02%；\nCelestia 代币 TIA 将于 10 月 31 日 22:00 解锁 2.67 亿枚，其中公开分配 2 亿枚、研究发展与生态系统解锁 6700 万枚；\ndYdX 代币 DYDX 将于 10 月 31 日 23:00 解锁 216 万枚（约535万美元），占流通供应量的 1.21%；\nAcala 代币 ACA 将于 11 月 1 日 15:00 解锁 2743 万枚（约137万美元），占流通供应量的 3.31%；\nNym 代币 NYM 将于 11 月 2 日 08:00 解锁 5375 万枚（约685万美元），占流通供应量的 9.66 %；\nTornado Cash 代币 TORN 将于 11 月 3 日 11:06 解锁 17.5 万枚（约53.2万美元），占流通供应量的 4.62 %；\nImmutableX 代币 IMX 将于 11 月 4 日 18:00 解锁 1808 万枚（约1220万美元），占流通供应量的 1.5%；\nLiquity 代币 LQTY 将于 11 月 5 日 08:00 解锁 65.7 万枚（约 110 万美元），占流通供应量的 0.7%；\nGalxe 代币 GAL 将于 11 月 5 日 20:00 解锁 761 万枚（约 1058 万美元），占流通供应量的 16.36%。",
+          "link": "https://panewslab.com/zh/articledetails/moq55g81.html",
+          "publishedOn": "2023-10-30T00:20:59.000Z",
+          "wordCount": 663,
+          "title": "本周将有11个项目进行代币解锁，总释放价值近9000万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
-          "id": "https://panewslab.com/zh/articledetails/99r9lv7o.html",
+          "id": "https://panewslab.com/zh/articledetails/rjhirp27.html",
           "author": "PA一线",
-          "description": "PANews 10月29日消息，FLOKI在X平台上表示，FLOKI质押TVL突破4000万美元，达4135万美元，这些代币的质押期限至少为 3 个月，在许多情况下，质押期限长达 4 年。这意味着在可预见的未来，超过 12% 的代币将退出流通。\n此前消息，FLOKI宣布推出资产代币化平台TOKENFI，平台网站将于10月27日上线。",
-          "link": "https://panewslab.com/zh/articledetails/99r9lv7o.html",
-          "publishedOn": "2023-10-29T10:57:52.000Z",
-          "wordCount": 358,
-          "title": "FLOKI质押TVL超4000万美元，占代币总量12%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2tw8u4iv.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，据Whale Alert监测，1,649,058 枚 UNI（价值约6,913,162美元）从未知钱包转移到OKX。",
-          "link": "https://panewslab.com/zh/articledetails/2tw8u4iv.html",
-          "publishedOn": "2023-10-29T10:05:08.000Z",
+          "description": "PANews 10月30日消息，美国金融律师Scott Johnsson在推特发文称，VanEck更新的比特币现货ETF招股说明书中关于种子基金的措辞与贝莱德相似。鉴于二者都由高伟绅律师事务所的相同律师代理，这也许并不太令人惊讶。但是VanEck并没有像贝莱德iShares一样用现金作为种子基金，而是建议用比特币作为种子基金。\n据此前消息，贝莱德可能本月开始为比特币现货ETF准备种子基金（Seed Capital）。 种子基金是指银行和券商出资购买成分股（在本例中为比特币），以换取可在上市首日在公开市场交易的ETF份额。种子资金通常金额不大，只需让ETF运行即可。",
+          "link": "https://panewslab.com/zh/articledetails/rjhirp27.html",
+          "publishedOn": "2023-10-30T00:07:08.000Z",
           "wordCount": 347,
-          "title": "数据：约165万枚UNI转至OKX",
+          "title": "美国金融律师：VanEck比特币现货ETF或将使用比特币作为种子基金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
-          "id": "https://panewslab.com/zh/articledetails/9ytk4gai.html",
+          "id": "https://panewslab.com/zh/articledetails/84gahp6i.html",
           "author": "PA一线",
-          "description": "PANews 10月29日消息，据“北京门头沟”微信公众号，全国通用人工智能行业产教融合共同体成立大会暨人工智能产业人才培养论坛在北京市门头沟区京西智谷·智能文创园召开。\n据介绍，全国通用人工智能行业产教融合共同体由中关村科技园区门头沟园管理委员会、北京航空航天大学、中国电子技术标准化研究院、北京工业职业技术学院等单位联合发起成立，共有25个省份超过200个机构参加。全国通用人工智能行业产教融合共同体的成立，将围绕“一体、两翼、五重点”，汇聚产教资源，持续推进院校与产业深度融合，提升人才供需的匹配度，推动校企联合科研创新，为推动中国的人工智能产业发展提供强大动力。",
-          "link": "https://panewslab.com/zh/articledetails/9ytk4gai.html",
-          "publishedOn": "2023-10-29T09:35:40.000Z",
-          "wordCount": 339,
-          "title": "全国通用人工智能行业产教融合共同体在京成立",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/yfa35zqz.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，体育和娱乐区块链解决方案 Chiliz 表示推出 Chiliz Chain 生态系统，允许用户参与 SportFi。开发者可以创建以粉丝为中心的应用程序，不受限制地自由实验和创新，Chiliz Chain 黑名单保护用户与合作伙伴免受知识产权侵权、威胁与欺诈。",
-          "link": "https://panewslab.com/zh/articledetails/yfa35zqz.html",
-          "publishedOn": "2023-10-29T08:30:54.000Z",
-          "wordCount": 367,
-          "title": "Chiliz推出Chiliz Chain生态系统",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9vp9a13w.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，数据显示，ARK 方舟基金本周累计减持了 76139 股 Coinbase 股票，按当前价计算，价值约 539 万美元，COIN 周五收盘报 70.78 美元。",
-          "link": "https://panewslab.com/zh/articledetails/9vp9a13w.html",
-          "publishedOn": "2023-10-29T08:00:51.000Z",
-          "wordCount": 368,
-          "title": "ARK方舟基金本周出售约539万美元的Coinbase股票",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/p4j1l4t8.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，据Snapshot投票页面显示，Uniswap社区投票通过“投资Ekubo Protocol”的温度检查提案， 支持率为63.82%。Uniswap向Starknet生态AMM Ekubo Protocol投资价值1200万美元的UNI以换取Ekubo Protocol未来协议治理代币的20%份额。Ekubo Protocol采用 Cairo 语言编写，充分利用 Starknet 的架构，并承袭了与 Uniswap V4 大部分相同的设计理念。自推出以来，Ekubo Protocol 获得 Starknet 交易总量的约 75%。Ekubo Protocol的创始人MoodySalem曾是Uniswap团队的工程师主管，并贡献了大量Uniswap的早期代码。",
-          "link": "https://panewslab.com/zh/articledetails/p4j1l4t8.html",
-          "publishedOn": "2023-10-29T07:06:53.000Z",
-          "wordCount": 400,
-          "title": "Uniswap社区投票通过“投资Ekubo Protocol”提案，将投资1200万美元的UNI",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/i3urob0w.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，据Cointelegraph报道，资管公司 VanEck 战略顾问Gabor Gurbacs在 X 平台上表示，“”萨尔瓦多有潜力成为美洲的新加坡”。与新加坡在 1900 年代末取得的成就类似，Gabor Gurbacs预计，新的资本投资和移民将成为萨尔瓦多未来几年经济增长的主要推动力。",
-          "link": "https://panewslab.com/zh/articledetails/i3urob0w.html",
-          "publishedOn": "2023-10-29T05:52:54.000Z",
-          "wordCount": 365,
-          "title": "VanEck顾问：萨尔瓦多有望成为“美洲的新加坡”",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/sdjocbz8.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，公链 Flare Network 在 X 平台上表示，Flare 公共质押平台 FlareStake 已上线，最初只能使用 Ledger 硬件钱包访问。未来还将增加其他选项。最低质押额为 5 万枚 FLR。最短时间为 14 天。",
-          "link": "https://panewslab.com/zh/articledetails/sdjocbz8.html",
-          "publishedOn": "2023-10-29T05:37:48.000Z",
-          "wordCount": 389,
-          "title": "Flare Network上线公共质押平台FlareStake",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/jzz6j0qh.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，据解放日报报道，上海、浙江、江苏、安徽于10月25日起，实现区块链电子医疗票据互联互通，意味着商业保险理赔在长三角地区打通。市民在长三角三省一市任何一家医院看病就诊，在申请商业保险理赔时，经本人授权，便可自动获取三省一市全部医疗电子票据，大幅度简化了理赔申请流程。互联网保险代理平台蚂蚁保是首个试点机构。\n在过去，商业健康险理赔时，往往需要提交不同医疗材料及医疗票据，随着这一功能的打通，用户可以实现长三角地区跨省就医的票据免上传、免验真伪，不仅让市民提交理赔材料更方便，更让保险公司审核理赔时效更快。",
-          "link": "https://panewslab.com/zh/articledetails/jzz6j0qh.html",
-          "publishedOn": "2023-10-29T05:27:02.000Z",
-          "wordCount": 340,
-          "title": "长三角区块链电子医疗票据实现互通",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/isn6f90x.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，Sui Network推特宣布，Volo流动性质押服务已在Sui Network主网上线，通过Volo质押SUI的用户会收到vSUI质押代币。",
-          "link": "https://panewslab.com/zh/articledetails/isn6f90x.html",
-          "publishedOn": "2023-10-29T04:37:03.000Z",
-          "wordCount": 349,
-          "title": "Volo流动性质押服务已上线Sui Network主网",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/podqaevn.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，据链上分析师余烬监测，Uniswap基金会相关地址（0x16f开头）在过去13个小时再次将75万枚UNI（约合307万美元）转入OKX。至此Uniswap基金会托管地址于10月24日至25日转出的979万枚UNI已有814万枚转入交易平台。其中3,399,077枚UNI转至FalconX；3,000,000枚UNI转至Kraken；1,750,000枚UNI转至OKX。",
-          "link": "https://panewslab.com/zh/articledetails/podqaevn.html",
-          "publishedOn": "2023-10-29T04:33:52.000Z",
-          "wordCount": 338,
-          "title": "数据：Uniswap基金会相关地址再次将307万美元UNI转入OKX",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1i336pu0.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，Dune数据显示，自10月17日实施收费新政以来，Uniswap Labs交易费用收入目前已达539,053美元。",
-          "link": "https://panewslab.com/zh/articledetails/1i336pu0.html",
-          "publishedOn": "2023-10-29T04:30:16.000Z",
-          "wordCount": 346,
-          "title": "数据：Uniswap Labs交易费用已突破50万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/y3h08s0y.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，据官方消息，公民社区平台Baseflow母公司The Network State Company宣布完成250万美元融资，投资者包括 Coinbase前首席技术员Balaji Srinivasan、Tim Draper、Aragon DAO、Polygon Labs联合创始人Sandeep Nailwal、Audius 联合创始人Roneil Rumburg、Andrea Dusi、Max Merenti以及Alchemy Ventures的产品经理兼合伙人Enzo Coglitore。据悉，Baseflow总部设在瑞士，旨在追求主权、治理和个人自由最大化。",
-          "link": "https://panewslab.com/zh/articledetails/y3h08s0y.html",
-          "publishedOn": "2023-10-29T04:20:58.000Z",
-          "wordCount": 396,
-          "title": "公民社区平台Baseflow母公司完成250万美元融资，Balaji、Tim Draper等参投",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/m7gmb6b0.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，Web3金融平台Uphold计划在公开市场上购买XRP用于其ODL（现为Ripple Payments）交易，并承诺绝对不会动用客户存款资金。ODL是一种使用XRP实现实时跨境转账的支付解决方案。据悉，客户在Uphold平台上持有数量最多的加密货币是XRP，价值12.5亿美元。相比之下，客户在Uphold上仅持有价值1.68亿美元的比特币。",
-          "link": "https://panewslab.com/zh/articledetails/m7gmb6b0.html",
-          "publishedOn": "2023-10-29T04:12:59.000Z",
-          "wordCount": 340,
-          "title": "Web3金融平台Uphold计划在公开市场购买XRP",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/hna9uxoj.html",
-          "author": "PA一线",
-          "description": "PANews 10月19日消息，以太坊流动性再质押池Astrid在推特发文称，其智能合约遭攻击。Astrid已经暂停合约，已对所有持有者进行快照并提供全额补偿。流动性提供者以质押ETH代币的形式获得补偿。\n交易浏览器Phalcon分析表示，Astrid由于提现功能存在缺陷而遭受攻击。withdraw()函数的参数（即代币地址和代币数量）可被操控。",
-          "link": "https://panewslab.com/zh/articledetails/hna9uxoj.html",
-          "publishedOn": "2023-10-29T04:06:10.000Z",
-          "wordCount": 338,
-          "title": "以太坊流动性再质押池Astrid遭攻击，智能合约已暂停，已对持有者全额补偿",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1s54zd7m.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，据Business Insider援引知情人士报道，马斯克坚称X平台将在 2024年成为一个“成熟的”约会网站，同时也是一家数字银行。马斯克没有详细说明X究竟如何成为一款约会应用程序以及用户是否对此类功能有任何需求，但该想法符合马斯克推动付费功能的理念。",
-          "link": "https://panewslab.com/zh/articledetails/1s54zd7m.html",
-          "publishedOn": "2023-10-29T03:26:30.000Z",
-          "wordCount": 343,
-          "title": "马斯克计划在2024年将X平台打造成约会网站和数字银行",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/q6qe01ce.html",
-          "author": "PA一线",
-          "description": "PANews 10月29日消息，彭博ETF分析师James Seyffart在推特发文称，资管集团VanEck已向美国SEC提交更新版本的比特币现货ETF招股说明书。",
-          "link": "https://panewslab.com/zh/articledetails/q6qe01ce.html",
-          "publishedOn": "2023-10-29T01:12:54.000Z",
-          "wordCount": 340,
-          "title": "VanEck已提交更新版本的比特币现货ETF招股说明书",
+          "description": "PANews 10月30日消息，波卡生态DeFi协议Acala官方公布Acala 2.0路线图进展更新，主要包括：\n1、ACA质押功能已上线；\n2、222,280枚ACA被烧毁，下次代币销毁将在26天后；\n3、ACA-USDC矿池已上线；\n4、在流动性激励平台Euphrates推出单边DOT和LCDOT质押；\n5、目前已有420万枚DOT通过Euphrates平台完成质押。",
+          "link": "https://panewslab.com/zh/articledetails/84gahp6i.html",
+          "publishedOn": "2023-10-29T23:58:59.000Z",
+          "wordCount": 342,
+          "title": "Acala更新2.0路线图进展：222,280枚ACA被销毁，上线ACA-USDC矿池",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -325,7 +68,7 @@
           "description": "PANews 10月28日消息，据Cointelegraph报道，德国邮政服务公司德国邮政（Deutsche Post）将于11月2日发行首枚限量版NFT邮票。经典的自粘邮票将附带数字图像，即代表邮票所有权的NFT。该系列第一张邮票采用AI生成的勃兰登堡像素化图像，其他邮票也将包含其他标志性的德国地标。",
           "link": "https://www.hellobtc.com/news/202310/21337.html",
           "publishedOn": "2023-10-28T10:44:00.000Z",
-          "wordCount": 312,
+          "wordCount": 304,
           "title": "德国邮政将于11月2日发行首枚NFT邮票",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -375,9 +118,9 @@
           "description": "由Web3CN、Tiger VC DAO联合主办，BEVM独家冠名支持的BTC Eco-Summit会议上，BEVM Founder Guanghua分享到：BTC历史上的两次重大升级，给BTC生态的发展，尤其是BTC Layer2的发展提供了坚实的技术基础。2017年的隔离见证SegWit升级让BTC链上实现了扩容，可以基于BTC区块链发行资产，这让Ordinals协议、RGB协议等BTC资产发行协议可以成为现实。2021年的Taproot升级，引入了Schnorr、Musig2等技术，让BTC的去中心化跨链成为现实，这为BTC Layer2的繁荣提供了技术支撑。BTC早已不仅仅是数字黄金，BTC已经开始成长为一个具备高度可扩展性的区块链，未来会有更多的基于BTC的资产发行协议以及BTC Layer2出现，BEVM就是基于BTC的原生技术来实现的BTC Layer2。",
           "link": "https://www.hellobtc.com/news/202310/21332.html",
           "publishedOn": "2023-10-27T08:37:00.000Z",
-          "wordCount": 326,
+          "wordCount": null,
           "title": "BTC历史上的两次重大升级，让去中心化的BTC Layer2成为现实",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202310/21331.html",
@@ -385,9 +128,9 @@
           "description": "1.马斯克要求X在一年内取代银行账户。\n\n2.多家交易平台将上线Celestia(TIA)。\n\n3.dYdX Chain现已正式在主网上线。\n\n4.SEC主席Gensler：2023年执法行动涉及金额达50亿美元，加密市场「高度不合规」。\n\n5.SBF自称不记得与高管讨论过130亿美元的漏洞。\n\n6.Tether CEO：Tether已与美国、乌克兰和以色列在内的数十个执法机构达成合作。\n\n7.Google上“购买比特币”一词在英国的搜索量在7天内飙升826%。\n\n8.Floki推出资产代币化平台TokenFi，56%代币将分配给Floki质押者。\n\n9.闲鱼开放数字藏品交易。\n\n10.Injective：迄今已有超7000万美元INJ被销毁。\n\n11.GBTC今年涨幅达220%，超越英伟达。\n\n12.PEPE市值翻倍至5亿美元，超15万个个人钱包持有PEPE。",
           "link": "https://www.hellobtc.com/news/202310/21331.html",
           "publishedOn": "2023-10-27T03:43:00.000Z",
-          "wordCount": 314,
+          "wordCount": null,
           "title": "白话区块链早报：马斯克要求X在一年内取代银行账户",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202310/21330.html",
@@ -405,9 +148,9 @@
           "description": "1.DTCC多次添加和删除贝莱德比特币现货「IBTC」。\n\n2.沃尔玛和Outlier Ventures携手五家初创公司推出Web3加速器。\n\n3.dYdX宣布开源代码，启动v4升级。\n\n4.香港两支比特币期货ETF价格创上市新高，涨幅均超15%。\n\n5.FTX和Alameda资产接收钱包将价值超1000万美元代币转至CEX。\n\n6.Nym创新基金获得超3亿美元投资承诺，投资方包括Polychain、KR1等。\n\n7.CME：投资者为现货比特币ETF批准做好准备，机构等多元化参与者涌入市场。",
           "link": "https://www.hellobtc.com/news/202310/21329.html",
           "publishedOn": "2023-10-25T03:02:00.000Z",
-          "wordCount": 308,
+          "wordCount": null,
           "title": "白话区块链早报：DTCC多次添加和删除贝莱德比特币现货「IBTC」",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202310/21328.html",
