@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-04T14:12:00.157Z</id>
+    <id>urn:2023-11-04T15:11:49.173Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-04T14:12:00.157Z</updated>
+    <updated>2023-11-04T15:11:49.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[速览Coinbase Q3财报：营收额超预期却仍亏损，交易量和交易收入下滑]]></title>
+        <id>https://www.web3sj.com/?p=93586</id>
+        <link href="https://www.web3sj.com/news/93586/"/>
+        <updated>2023-11-04T14:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase 于当地时间 11 月 2 日公布第三季度财报, 调整后每股亏损 0.01 美元，而 FactSet 预计每股亏损 0.55 美元，连续第三次好于预期。自今年年初以来，Coinbase 股价已飙升近 150%，从 1 月份的 33 美元攀升至周四收盘时的 84 美元，而同期比特币价格上涨约 110%。虽然数据好于预期，但并非所有指标尽如人意，本文带你速览 Coinbase 财报中各项关键数据。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana「灾后」重建这一年：杀不死我的让我更强大]]></title>
+        <id>https://www.web3sj.com/?p=93578</id>
+        <link href="https://www.web3sj.com/news/93578/"/>
+        <updated>2023-11-04T14:27:38.000Z</updated>
+        <summary type="html"><![CDATA[虽然对此番大涨，不少加密用户戏谑 Solana 每逢 Breakpoint 必拉盘的操纵行为，DeFiance Capital 创始人 Arthur 甚至调侃到，「如果开 Breakpoint 对于 Sol 的上涨如此有效，Solana 可以每周都开。」但尽管如此，我们也不能否认，Solana 的回血离不开这一年辛苦的「灾后」重建。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SBF被定罪，作证的昔日密友们能否逃过法律制裁？]]></title>
+        <id>https://www.web3sj.com/?p=93575</id>
+        <link href="https://www.web3sj.com/news/93575/"/>
+        <updated>2023-11-04T14:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Alameda Research 首席执行官 Caroline Ellison、FTX 联合创始人 Gary Wang 和 FTX 工程主管 Nishad Singh 是 SBF 审判的明星证人。这三人都表示，Bankman-Fried 指示他们通过帮助将数十亿美元的 FTX 客户资金转移到 Bankman-Fried 拥有 90% 股份的附属对冲基金 Alameda 进行欺诈。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千人千面的账户抽象背后，如何走向统一的「用户本位」抽象？]]></title>
+        <id>https://www.web3sj.com/?p=93572</id>
+        <link href="https://www.web3sj.com/news/93572/"/>
+        <updated>2023-11-04T14:22:54.000Z</updated>
+        <summary type="html"><![CDATA[就技术层简单而言，账户抽象是用户把一系列意图塞给 UserOP 内存池中，并由 Bundler 打包发送给 Entrypoint 合约执行，当中可通过 Aggregator 进行签名聚合处理批量交易，并由 Paymaster 处理代付 Gas 费的细节。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何找出下次Upbit上币热潮的暴涨机会？]]></title>
+        <id>https://www.web3sj.com/?p=93566</id>
+        <link href="https://www.web3sj.com/news/93566/"/>
+        <updated>2023-11-04T14:16:30.000Z</updated>
+        <summary type="html"><![CDATA[韩国加密交易所 Upbit 的高机率暴涨大家都知道，但相信大家更关注的是，怎么筛选出会暴涨的交易对，以及最重要的，如何提前埋伏可能上币的项目。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-11.4）]]></title>
+        <id>https://www.web3sj.com/?p=93563</id>
+        <link href="https://www.web3sj.com/news/93563/"/>
+        <updated>2023-11-04T13:53:44.000Z</updated>
+        <summary type="html"><![CDATA[ARK方舟基金11月增持1283万美元的Coinbase股票，减持10717股GBTC。OpenSea裁员50%，将围绕“OpenSea 2.0”重新打造团队。MetaMask Portfolio更新Bridge功能，可支持几乎所有代币跨链桥接交易。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：超5000万枚USDT从未知钱包转移到Binance]]></title>
         <id>https://panewslab.com/zh/articledetails/jnpu7fos.html</id>
@@ -259,6 +319,46 @@ Alvarez & Marsal在一份法庭文件中表示，为了回应联邦调查局费�
 11.币安将上线TOKEN 1-50倍 U本位永续合约。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国CBDC遇阻「难产」，对USDT来说是好是坏？]]></title>
+        <id>https://www.web3sj.com/?p=93532</id>
+        <link href="https://www.web3sj.com/news/93532/"/>
+        <updated>2023-11-03T16:41:34.000Z</updated>
+        <summary type="html"><![CDATA[与此同时，伴随着全球稳定币的不断多元化发展，各国也都在积极研究、推出央行数字货币（CBDC），其中美国监管层面的动向更是牵动全球目光，不过前不久美国众议院金融服务委员会众议员 Tom Emmer 提出一项「CBDC 反监视国家法案」，旨在阻止美联储直接向个人发行央行数字货币（CBDC），并阻止美联储通过中介间接发行 CBDC。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上最大DAO平台Aragon解散委员会，给所有从业者的治理启示]]></title>
+        <id>https://www.web3sj.com/?p=93525</id>
+        <link href="https://www.web3sj.com/daonews/93525/"/>
+        <updated>2023-11-03T16:39:36.000Z</updated>
+        <summary type="html"><![CDATA[11 月 3 日，一些媒体称 DAO 管理平台 Aragon 和 Aragon DAO 已解散。但据 BlockBeats 报道发现，实际上 Aragon 是做出了重大更新，被解散的是负责管理网络代币销售中筹集资金的 Aragon Association 委员会，Aragon 未来将继续以产品为中心的使命建设。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3游戏的十字路口：传统IP还是另起炉灶？]]></title>
+        <id>https://www.web3sj.com/?p=93516</id>
+        <link href="https://www.web3sj.com/gamefinews/93516/"/>
+        <updated>2023-11-03T16:35:30.000Z</updated>
+        <summary type="html"><![CDATA[我所说的意思是，在接下来的两年内，游戏将吸引 1 千万到 1 亿以上的日活跃区块链用户。游戏有潜力实现这一点，因为（1）它们天生具有社交性——不仅是多人游戏，即使是像《Elden Ring》和《战神》这样的单机游戏也通过在线社区和内容变得社交化，而且（2）它们具有真正的传播倾向（还记得 Flappy Birds 吗？) 。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi应用纷纷推出定制链，「一应用一链」能否带来新玩法？]]></title>
+        <id>https://www.web3sj.com/?p=93507</id>
+        <link href="https://www.web3sj.com/definews/93507/"/>
+        <updated>2023-11-03T16:32:32.000Z</updated>
+        <summary type="html"><![CDATA[昨日，Frax 创始人 Sam 在社群中表示，Frax 的 Layer2 网络 FraxChain 将于 2024 年 1 月推出测试网；10 月 27 日,合约平台 dYdX 开发的 Layer1 网络 dYdX Chain 主网正式启动；而在 10 月 19 日，合成资产协议 Synthetix 创始人 Kain.eth 宣布将基于 OP Stack 部署应用链 SNX Chain 等等；在更早的 9 月，DeFi 管理面板协议 DeBank 宣布自己的 DeBank Chain 计划；还有 MakerDAO 的 NewChain 计划等等。]]></summary>
+        <author>
+            <name>Gao</name>
         </author>
     </entry>
     <entry>

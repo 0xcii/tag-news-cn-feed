@@ -1,6 +1,113 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=93586",
+          "author": "Gao",
+          "description": "Coinbase 于当地时间 11 月 2 日公布第三季度财报, 调整后每股亏损 0.01 美元，而 FactSet 预计每股亏损 0.55 美元，连续第三次好于预期。自今年年初以来，Coinbase 股价已飙升近 150%，从 1 月份的 33 美元攀升至周四收盘时的 84 美元，而同期比特币价格上涨约 110%。虽然数据好于预期，但并非所有指标尽如人意，本文带你速览 Coinbase 财报中各项关键数据。",
+          "link": "https://www.web3sj.com/news/93586/",
+          "publishedOn": "2023-11-04T14:33:58.000Z",
+          "wordCount": 1080,
+          "title": "速览Coinbase Q3财报：营收额超预期却仍亏损，交易量和交易收入下滑",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/16991084181.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93578",
+          "author": "Gao",
+          "description": "虽然对此番大涨，不少加密用户戏谑 Solana 每逢 Breakpoint 必拉盘的操纵行为，DeFiance Capital 创始人 Arthur 甚至调侃到，「如果开 Breakpoint 对于 Sol 的上涨如此有效，Solana 可以每周都开。」但尽管如此，我们也不能否认，Solana 的回血离不开这一年辛苦的「灾后」重建。",
+          "link": "https://www.web3sj.com/news/93578/",
+          "publishedOn": "2023-11-04T14:27:38.000Z",
+          "wordCount": 1442,
+          "title": "Solana「灾后」重建这一年：杀不死我的让我更强大",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/16991080341.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93575",
+          "author": "Gao",
+          "description": "Alameda Research 首席执行官 Caroline Ellison、FTX 联合创始人 Gary Wang 和 FTX 工程主管 Nishad Singh 是 SBF 审判的明星证人。这三人都表示，Bankman-Fried 指示他们通过帮助将数十亿美元的 FTX 客户资金转移到 Bankman-Fried 拥有 90% 股份的附属对冲基金 Alameda 进行欺诈。",
+          "link": "https://www.web3sj.com/news/93575/",
+          "publishedOn": "2023-11-04T14:25:02.000Z",
+          "wordCount": 954,
+          "title": "SBF被定罪，作证的昔日密友们能否逃过法律制裁？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/16991078891.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93572",
+          "author": "Gao",
+          "description": "就技术层简单而言，账户抽象是用户把一系列意图塞给 UserOP 内存池中，并由 Bundler 打包发送给 Entrypoint 合约执行，当中可通过 Aggregator 进行签名聚合处理批量交易，并由 Paymaster 处理代付 Gas 费的细节。",
+          "link": "https://www.web3sj.com/news/93572/",
+          "publishedOn": "2023-11-04T14:22:54.000Z",
+          "wordCount": 998,
+          "title": "千人千面的账户抽象背后，如何走向统一的「用户本位」抽象？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/16991077611.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93566",
+          "author": "Gao",
+          "description": "韩国加密交易所 Upbit 的高机率暴涨大家都知道，但相信大家更关注的是，怎么筛选出会暴涨的交易对，以及最重要的，如何提前埋伏可能上币的项目。",
+          "link": "https://www.web3sj.com/news/93566/",
+          "publishedOn": "2023-11-04T14:16:30.000Z",
+          "wordCount": 893,
+          "title": "如何找出下次Upbit上币热潮的暴涨机会？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/16991073621.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93563",
+          "author": "Gao",
+          "description": "ARK方舟基金11月增持1283万美元的Coinbase股票，减持10717股GBTC。OpenSea裁员50%，将围绕“OpenSea 2.0”重新打造团队。MetaMask Portfolio更新Bridge功能，可支持几乎所有代币跨链桥接交易。",
+          "link": "https://www.web3sj.com/news/93563/",
+          "publishedOn": "2023-11-04T13:53:44.000Z",
+          "wordCount": 872,
+          "title": "Web3世界日报（2023-11.4）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/2023110413503582.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93532",
+          "author": "Gao",
+          "description": "与此同时，伴随着全球稳定币的不断多元化发展，各国也都在积极研究、推出央行数字货币（CBDC），其中美国监管层面的动向更是牵动全球目光，不过前不久美国众议院金融服务委员会众议员 Tom Emmer 提出一项「CBDC 反监视国家法案」，旨在阻止美联储直接向个人发行央行数字货币（CBDC），并阻止美联储通过中介间接发行 CBDC。",
+          "link": "https://www.web3sj.com/news/93532/",
+          "publishedOn": "2023-11-03T16:41:34.000Z",
+          "wordCount": 989,
+          "title": "美国CBDC遇阻「难产」，对USDT来说是好是坏？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029682168.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93525",
+          "author": "Gao",
+          "description": "11 月 3 日，一些媒体称 DAO 管理平台 Aragon 和 Aragon DAO 已解散。但据 BlockBeats 报道发现，实际上 Aragon 是做出了重大更新，被解散的是负责管理网络代币销售中筹集资金的 Aragon Association 委员会，Aragon 未来将继续以产品为中心的使命建设。",
+          "link": "https://www.web3sj.com/daonews/93525/",
+          "publishedOn": "2023-11-03T16:39:36.000Z",
+          "wordCount": 1188,
+          "title": "史上最大DAO平台Aragon解散委员会，给所有从业者的治理启示",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029562397.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93516",
+          "author": "Gao",
+          "description": "我所说的意思是，在接下来的两年内，游戏将吸引 1 千万到 1 亿以上的日活跃区块链用户。游戏有潜力实现这一点，因为（1）它们天生具有社交性——不仅是多人游戏，即使是像《Elden Ring》和《战神》这样的单机游戏也通过在线社区和内容变得社交化，而且（2）它们具有真正的传播倾向（还记得 Flappy Birds 吗？) 。",
+          "link": "https://www.web3sj.com/gamefinews/93516/",
+          "publishedOn": "2023-11-03T16:35:30.000Z",
+          "wordCount": 1065,
+          "title": "Web3游戏的十字路口：传统IP还是另起炉灶？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029320108.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=93507",
+          "author": "Gao",
+          "description": "昨日，Frax 创始人 Sam 在社群中表示，Frax 的 Layer2 网络 FraxChain 将于 2024 年 1 月推出测试网；10 月 27 日,合约平台 dYdX 开发的 Layer1 网络 dYdX Chain 主网正式启动；而在 10 月 19 日，合成资产协议 Synthetix 创始人 Kain.eth 宣布将基于 OP Stack 部署应用链 SNX Chain 等等；在更早的 9 月，DeFi 管理面板协议 DeBank 宣布自己的 DeBank Chain 计划；还有 MakerDAO 的 NewChain 计划等等。",
+          "link": "https://www.web3sj.com/definews/93507/",
+          "publishedOn": "2023-11-03T16:32:32.000Z",
+          "wordCount": 1500,
+          "title": "DeFi应用纷纷推出定制链，「一应用一链」能否带来新玩法？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029132427.png"
+        }
+      ]
+    },
+    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
@@ -218,7 +325,7 @@
           "description": "据港媒《经济通》消息，新加坡金融管理局(MAS)拟建立数字资产中心来吸引外国资金。据悉，新加坡曾是虚拟货币产业中心，但在2022年遭遇Terraform Labs事件引发市场崩盘，但尽管如此，新加坡金融管理局仍然希望使用虚拟货币底层区块链技术来建立数字资产中心，据悉新加坡政府明年将有新政策出台，严格监管虚拟货币市场。",
           "link": "https://www.hellobtc.com/news/202311/21352.html",
           "publishedOn": "2023-11-04T03:47:00.000Z",
-          "wordCount": 308,
+          "wordCount": 302,
           "title": "新加坡金管局拟于2024年出台新政建立数字资产中心",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -258,9 +365,9 @@
           "description": "1.加密总市值升至1.36万亿美元。\n\n2.MicroStrategy再次买入155枚BTC，总持有量增至158,400枚。\n\n3.因SOL上涨，FTX持有的加密资产价值增长近10亿美元。\n\n4.Worldcoin：生态钱包World App下载量突破400万，成为全球第6大受欢迎热钱包。\n\n5.报告：阿联酋72%的受访者更喜欢比特币。\n\n6.美国财政部将再融资操作债券发行规模提高90亿美元至1120亿美元。\n\n7.PayPal：第三季度营收74亿美元，同比增长9%。\n\n8.重庆审结一起涉案金额高达22.5亿余元的虚拟货币洗钱案。\n\n9.中金发布10月全球大类资产表现：比特币以28.8%的收益位居首位。\n\n10.马斯克：X最晚明年年底推出付款功能。\n\n11.AAVE突破100美元。",
           "link": "https://www.hellobtc.com/news/202311/21348.html",
           "publishedOn": "2023-11-02T02:55:00.000Z",
-          "wordCount": null,
+          "wordCount": 315,
           "title": "白话区块链早报：加密总市值升至1.36万亿美元",
-          "imageUrl": null
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
         {
           "id": "https://www.hellobtc.com/news/202311/21347.html",
