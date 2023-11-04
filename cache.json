@@ -1,117 +1,20 @@
 {
   "sources": [
     {
-      "title": "Web3世界",
-      "feedUrl": "https://www.web3sj.com/feed/",
-      "siteUrl": "https://www.web3sj.com",
-      "articles": [
-        {
-          "id": "https://www.web3sj.com/?p=93532",
-          "author": "Gao",
-          "description": "与此同时，伴随着全球稳定币的不断多元化发展，各国也都在积极研究、推出央行数字货币（CBDC），其中美国监管层面的动向更是牵动全球目光，不过前不久美国众议院金融服务委员会众议员 Tom Emmer 提出一项「CBDC 反监视国家法案」，旨在阻止美联储直接向个人发行央行数字货币（CBDC），并阻止美联储通过中介间接发行 CBDC。",
-          "link": "https://www.web3sj.com/news/93532/",
-          "publishedOn": "2023-11-03T16:41:34.000Z",
-          "wordCount": 973,
-          "title": "美国CBDC遇阻「难产」，对USDT来说是好是坏？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029682168.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93525",
-          "author": "Gao",
-          "description": "11 月 3 日，一些媒体称 DAO 管理平台 Aragon 和 Aragon DAO 已解散。但据 BlockBeats 报道发现，实际上 Aragon 是做出了重大更新，被解散的是负责管理网络代币销售中筹集资金的 Aragon Association 委员会，Aragon 未来将继续以产品为中心的使命建设。",
-          "link": "https://www.web3sj.com/daonews/93525/",
-          "publishedOn": "2023-11-03T16:39:36.000Z",
-          "wordCount": 1190,
-          "title": "史上最大DAO平台Aragon解散委员会，给所有从业者的治理启示",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029562397.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93516",
-          "author": "Gao",
-          "description": "我所说的意思是，在接下来的两年内，游戏将吸引 1 千万到 1 亿以上的日活跃区块链用户。游戏有潜力实现这一点，因为（1）它们天生具有社交性——不仅是多人游戏，即使是像《Elden Ring》和《战神》这样的单机游戏也通过在线社区和内容变得社交化，而且（2）它们具有真正的传播倾向（还记得 Flappy Birds 吗？) 。",
-          "link": "https://www.web3sj.com/gamefinews/93516/",
-          "publishedOn": "2023-11-03T16:35:30.000Z",
-          "wordCount": 1073,
-          "title": "Web3游戏的十字路口：传统IP还是另起炉灶？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029320108.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93507",
-          "author": "Gao",
-          "description": "昨日，Frax 创始人 Sam 在社群中表示，Frax 的 Layer2 网络 FraxChain 将于 2024 年 1 月推出测试网；10 月 27 日,合约平台 dYdX 开发的 Layer1 网络 dYdX Chain 主网正式启动；而在 10 月 19 日，合成资产协议 Synthetix 创始人 Kain.eth 宣布将基于 OP Stack 部署应用链 SNX Chain 等等；在更早的 9 月，DeFi 管理面板协议 DeBank 宣布自己的 DeBank Chain 计划；还有 MakerDAO 的 NewChain 计划等等。",
-          "link": "https://www.web3sj.com/definews/93507/",
-          "publishedOn": "2023-11-03T16:32:32.000Z",
-          "wordCount": 1482,
-          "title": "DeFi应用纷纷推出定制链，「一应用一链」能否带来新玩法？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699029132427.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93494",
-          "author": "Gao",
-          "description": "2023 年 Q3 市场总融资额 16.94 亿美金，融资事件 170 起，平均融资规模略有上升（Ramp 与 BitGo 两个面向传统机构的基金基础设施完成了 4 亿融资额）。2023 年 10 月融资金额为 4.26 亿美元，更是持续创近 4 年来融资金额最低月份。融资金额和融资事件连续下降，市场上整体交投并不活跃，机构依旧以保守型策略为主，主要资金投向为基础设施与强基本面项目资金抱团，例如 Flashbot 等。",
-          "link": "https://www.web3sj.com/news/93494/",
-          "publishedOn": "2023-11-03T16:29:34.000Z",
-          "wordCount": 983,
-          "title": "2023第三季度Web3一级市场回顾与赛道分析：牛市渐进，如何布局？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699028959904.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93486",
-          "author": "Gao",
-          "description": "SBF被陪审团判定七项罪名成立，最高可面临115年刑期。SEC请求法院对Do Kwon和Terraform作出简易判决。Solana CEO：FTX崩溃重创Solana生态初创公司，20%的项目曾被FTX或Alameda投资。",
-          "link": "https://www.web3sj.com/news/93486/",
-          "publishedOn": "2023-11-03T12:46:39.000Z",
-          "wordCount": 917,
-          "title": "Web3世界日报（2023-11.3）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/2023110312452399.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93476",
-          "author": "Gao",
-          "description": "昨日，MicroStrategy 再次宣布购入 155 枚 BTC，总持仓达 158, 400 枚，当前总平均成本为 29586 USDT，若以市场价 34600 USDT 计算，浮盈达 7.9 亿美元。也是昨日，MicroStrategy 联创 Michael Saylor 参加了 CNBC 的一次访谈，对访谈内容整理编译如下。",
-          "link": "https://www.web3sj.com/news/93476/",
-          "publishedOn": "2023-11-03T07:47:02.000Z",
-          "wordCount": 943,
-          "title": "专访MicroStrategy CEO：强烈看好未来一年加密市场",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1698997595639.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93462",
-          "author": "Gao",
-          "description": "Unibot 承认在 10 月 31 日遭受了攻击，原因是在新路由器中出现了代币批准的漏洞。Unibot 官方发布公告称：「在新路由器中出现了代币批准的漏洞，Unibot 已暂停了新路由器以解决这个问题。由于新路由器的错误而造成的任何资金损失都将得到补偿；用户的密钥和钱包是安全的，将在调查结束后发布详细回应。」",
-          "link": "https://www.web3sj.com/news/93462/",
-          "publishedOn": "2023-11-03T06:57:35.000Z",
-          "wordCount": 1126,
-          "title": "Unibot遭遇黑客入侵，Telegram用户该如何保障资产安全？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1698994615092.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93457",
-          "author": "Gao",
-          "description": "支付巨头 PayPal 在其第三季度财务报告中披露，已收到美国证券交易委员会 (SEC) 发出的传票，要求其提供有关美元稳定币 PYUSD 的文件。PayPal 未提供更多细节，但表示：「我们正在就这一请求与 SEC 合作。」",
-          "link": "https://www.web3sj.com/news/93457/",
-          "publishedOn": "2023-11-03T06:43:31.000Z",
-          "wordCount": 982,
-          "title": "PayPal因PYUSD稳定币面临SEC传票，会步BUSD后尘吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1698988746115.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=93436",
-          "author": "Gao",
-          "description": "本文就「相关性」这一结论进一步拓展，研究二者的因果性，即「是因为技术升级促进了币价上涨，还是币价上涨拉动了技术升级」？从而帮助投资者与开发者更加明确「技术开发」这一基本面因子在币价涨跌盘中的位置。",
-          "link": "https://www.web3sj.com/news/93436/",
-          "publishedOn": "2023-11-03T06:36:10.000Z",
-          "wordCount": 1290,
-          "title": "到底是什么在驱动着Crytpo的牛市？是技术的升级吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1698993358439.png"
-        }
-      ]
-    },
-    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/jnpu7fos.html",
+          "author": "PA一线",
+          "description": "PANews 11月4日消息，据Whale Alert监测，50,348,861 枚 USDT （约 50,401,979 美元）从未知钱包转移到Binance。",
+          "link": "https://panewslab.com/zh/articledetails/jnpu7fos.html",
+          "publishedOn": "2023-11-04T12:16:11.000Z",
+          "wordCount": 355,
+          "title": "数据：超5000万枚USDT从未知钱包转移到Binance",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/nqpgk7b0.html",
           "author": "PA一线",
@@ -301,16 +204,6 @@
           "wordCount": 351,
           "title": "彭博社：FTX破产顾问向FBI提供客户账户信息及交易数据",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/01lp93or.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，据福布斯援引消息人士报道，X公司已开始出售废弃的用户句柄（Handles）。内部邮件显示，该公司内部一个名为“Handle Team”的团队已经开发了一个用户名市场，允许用户购买最初注册者未使用的帐户名称。X已经通过电子邮件向潜在买家发出邀请，要求他们支付5万美元的购买费用。有传言称，该计划从去年就开始酝酿，但最近才开始推出，并向潜在买家发送电子邮件征求意见。早在2022年11月，马斯克曾在社交媒体发文称，大量账号已被“机器人和喷子“夺走，他计划下个月开始“释放多达15亿个用户名”。今年5月，X公司开始从其网站上清除已停用的账户。",
-          "link": "https://panewslab.com/zh/articledetails/01lp93or.html",
-          "publishedOn": "2023-11-04T04:24:18.000Z",
-          "wordCount": 343,
-          "title": "福布斯：X公司已开始以5万美元价格出售废弃的用户名",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -365,9 +258,9 @@
           "description": "1.加密总市值升至1.36万亿美元。\n\n2.MicroStrategy再次买入155枚BTC，总持有量增至158,400枚。\n\n3.因SOL上涨，FTX持有的加密资产价值增长近10亿美元。\n\n4.Worldcoin：生态钱包World App下载量突破400万，成为全球第6大受欢迎热钱包。\n\n5.报告：阿联酋72%的受访者更喜欢比特币。\n\n6.美国财政部将再融资操作债券发行规模提高90亿美元至1120亿美元。\n\n7.PayPal：第三季度营收74亿美元，同比增长9%。\n\n8.重庆审结一起涉案金额高达22.5亿余元的虚拟货币洗钱案。\n\n9.中金发布10月全球大类资产表现：比特币以28.8%的收益位居首位。\n\n10.马斯克：X最晚明年年底推出付款功能。\n\n11.AAVE突破100美元。",
           "link": "https://www.hellobtc.com/news/202311/21348.html",
           "publishedOn": "2023-11-02T02:55:00.000Z",
-          "wordCount": 315,
+          "wordCount": null,
           "title": "白话区块链早报：加密总市值升至1.36万亿美元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202311/21347.html",
