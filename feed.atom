@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-05T07:11:02.320Z</id>
+    <id>urn:2023-11-05T10:12:29.248Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-05T07:11:02.320Z</updated>
+    <updated>2023-11-05T10:12:29.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[加密律师，2000万美元的和解对于Ripple来说是99.9%的胜利]]></title>
+        <id>https://panewslab.com/zh/articledetails/7bimdmeo.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7bimdmeo.html"/>
+        <updated>2023-11-05T08:42:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月5日消息，据Cointelegraph报道，加密货币律师 John E. Deaton 就 Ripple Labs XRP 针对美国证券交易委员会 (SEC) 的诉讼提供了见解。他认为，价值 2000 万美元或更少的和解协议将构成该公司在法律上的重大胜利。如果 Ripple 最终支付 2000 万美元或更少，则 99.9% 是合法胜利。
+在最近的 X 社交媒体帖子中，Deaton 强烈反驳了诉讼结果对 SEC 来说是平分秋色的观点。Deaton 的言论是由 Ripple 首席法律官斯图尔特·阿尔德罗蒂 (Stuart Alderoty) 的帖子引发的，该帖子强调了 SEC 的另一个法律挫折。
+Deaton 的观点与加密货币社区的情绪产生了共鸣，他们普遍认为 2000 万美元的和解建议对 Ripple 来说是一个积极的解决方案。该评估考虑了 XRP 诉讼的潜在后果以及更广泛的数字货币监管环境。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Abraxas Capital提取5081万枚USDC后借出25930枚ETH和2.81万枚stETH存入Aave]]></title>
+        <id>https://panewslab.com/zh/articledetails/okh89fy5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/okh89fy5.html"/>
+        <updated>2023-11-05T08:07:04.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月5日消息，据 The Data Nerd 监测，过去 24 小时，Abraxas Capital 总共提取了 5081 万枚 USDC 通过1inch 兑换为 DAI 。 然后，Abraxas Capital 存入这笔 DAI 来借出 25930 枚 ETH 和 2.81 万枚 stETH 。 不久之后，所有借来的ETH 都被存入 Aave。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：某巨鲸地址向币安转入1万枚ETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/qsvma5qa.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qsvma5qa.html"/>
+        <updated>2023-11-05T07:53:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月5日消息，据链上分析师余烬监测，曾在 2021年12月至2022年3月期间，从 OKX 和 Huobi 提出 9.8 万枚 ETH 的鲸鱼/机构地址，将 1 万枚 ETH（约1880万美元）转入 Binance。 该地址从7月26日以来已累计转入 Binance 6.73 万枚 ETH（约1.2365亿美元），转入均价为1837美元。 而2021年12月至2022年3月从 OKX 和 Huobi 提出均价则高达3693美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[门罗币黑客于9月1日窃取约2675枚XMR]]></title>
+        <id>https://panewslab.com/zh/articledetails/eo4zpi26.html</id>
+        <link href="https://panewslab.com/zh/articledetails/eo4zpi26.html"/>
+        <updated>2023-11-05T07:26:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月5日消息，开源隐私项目门罗币发通告称，社区众筹系统里的门罗币被盗，用于向贡献者付款的热钱包未受影响。9月1日攻击者在9笔交易中席卷了门罗币CCS钱包的余额，其中包含2675.73 XMR。慢雾创始人余弦表示，该事件不是门罗币隐私模型的漏洞（至少不是什么新风险）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前SEC执法总监：SBF被定罪仅是冰山一角，加密货币是一座纸牌屋]]></title>
         <id>https://panewslab.com/zh/articledetails/ma220tru.html</id>
@@ -188,36 +230,6 @@
         <updated>2023-11-04T23:49:02.000Z</updated>
         <summary type="html"><![CDATA[PANews 11月5日消息，据官方消息，LSD稳定币协议Prisma Finance宣布将推出追溯空投“Prisma Retroactive Airdrop”，以激励对PRISMA链上治理的参与。空头对象包括veCRV持有者和Prisma Point持有者。其中veCRV持有者将获得代币总供应量的1%，所有投票支持将Prisma列入Curve白名单的veCRV选民都将按比例获得空投。Prisma Point持有者将获得代币总供应量的2%，将根据每个用户获得的总积分占比分配。
 据悉，本次空投代币将会被锁定为vePRISMA，以激励参与Prisma DAO的参与，从而实现更大的社区所有权和去中心化决策，veCRV选民的vePRISMA锁定期为52周，Prisma Point持有者的vePRISMA锁定期为26周。此外，veCRV选民的空投计划于北京时间11月6日17点进行，而Prisma Point持有者的空投计划于北京时间11月9日17点进行。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haru Invest：已暂时关闭服务器，会员信息已安全备份]]></title>
-        <id>https://panewslab.com/zh/articledetails/7owasymu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7owasymu.html"/>
-        <updated>2023-11-04T23:37:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月5日消息，Haru Invest首席执行官Hugo Lee发文表示，已于11月4日完成了服务器的临时关闭。在采取此行动之前，已分几个阶段安全地备份了会员信息（电子邮件帐户、资产大小），以便能够为服务器重新启动时可能出现的任何意外情况做好准备。预计这一措施将每月节省大约5500美元的成本，这有助于Haru Invest的资产最大化，以便将来分配给会员。B&S Holdings剩余债券以外的资产正在不断被追回。团队正在尽一切努力追回资产，以免造成进一步的损失。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国前司法部检察官：预计SBF的刑期为20至25年]]></title>
-        <id>https://panewslab.com/zh/articledetails/q733io14.html</id>
-        <link href="https://panewslab.com/zh/articledetails/q733io14.html"/>
-        <updated>2023-11-04T23:29:41.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月5日消息，CNBC援引前美国政府检察官的声明称，FTX前首席执行官SBF可能不会被判处最高刑期。曾任美国司法部检察官的Renato Mariotti预测SBF将在监狱中度过20至25年，而不是最高刑期110至115年。Mariotti暗示，20年刑期仍然是一个严厉的判决，他指出，SBF通过FTX实施了“巨大”欺诈，还在证人席上撒谎。联邦量刑指南可能会很高，但法官需要考虑有关SBF及其罪行的所有情况。另一位前检察官Kevin J. O’Brien也给出了类似估计。他表示，SBF的刑期可能在“15至20年之间”，因为法官在量刑方面有自由裁量权。此外，SBF相对年轻这一事实可能会让Kaplan法官给他出狱后重获新生的机会。据此前消息，SBF将于2024年3月被判刑。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave：收到有关Aave协议某项功能的问题报告，已采取临时防范措施，所有资金均无风险]]></title>
-        <id>https://panewslab.com/zh/articledetails/1xt4z3ck.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1xt4z3ck.html"/>
-        <updated>2023-11-04T23:17:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月5日消息，去中心化借贷协议Aave在推特发文称，收到了有关Aave协议某项功能的问题报告。在经过与社区开发者验证后，已采取以下临时防范措施：1. 暂停Aave V2以太坊市场；2. 在Avalanche上暂停Aave V2上的某些资产；3. 在Polygon、Arbitrum、Optimism上冻结Aave V3上的某些资产。 团队表示，任何Aave市场上的资金均无风险。以太坊、Base和Metis上的Aave V3市场以及Polygon和Avalanche上的V2市场不受影响。恢复协议正常运行的治理提案将很快提交，将在问题完全解决后发布详细的事后分析。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
