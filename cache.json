@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=94553",
+          "author": "Gao",
+          "description": "CryptoPunks 是以太坊区块链上由 10000 个独特的像素艺术角色组成的 NFT 系列，在诞生后的几年里获得了广泛的赞誉和收藏者的热切关注。然而，在过去的几个月里，随着 NFT 市场的普遍低迷，人们对该系列的兴趣相对较低。",
+          "link": "https://www.web3sj.com/nftnews/94553/",
+          "publishedOn": "2023-11-13T07:42:11.000Z",
+          "wordCount": 908,
+          "title": "CryptoPunks一周内交易量激增 900%，NFT市场重现生机",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/f997fc4970acca3cf620695a47c212d9.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=94549",
+          "author": "Gao",
+          "description": "根据外媒报道，韩国四大交易所之一的 Bithumb 再次尝试 IPO，预计将于 2025 年下半年上市。早期 Bithumb 市场份额曾稳居第一，后被 Upbit 反超并拉大差距，目前位列第二。",
+          "link": "https://www.web3sj.com/news/94549/",
+          "publishedOn": "2023-11-13T07:12:56.000Z",
+          "wordCount": 906,
+          "title": "Bithumb再次尝试上市，试图夺回韩国市场第一王座",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699859563353.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=94546",
           "author": "Gao",
           "description": "代币合约的功能会更简单，只负责 Transaction 基础功能，而 Approve 授权、Allowance 分配等功能被剥离了，完全由用户的个人 AA 账户来控制，这样可以避免代币系统合约出现安全事件，大批已 Approve 的用户资产会莫名其妙被转走。这既是 AA 账户的功能特性，让用户资产有了更强掌控权，也削弱了代币合约出现安全漏洞可能造成的损失范围。",
           "link": "https://www.web3sj.com/news/94546/",
           "publishedOn": "2023-11-13T06:56:52.000Z",
-          "wordCount": 876,
+          "wordCount": 904,
           "title": "Starknet就要发币了？简析Starknet新代币范式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699858598722.png"
         },
@@ -21,7 +41,7 @@
           "description": "在之前关于 Starknet 链上游戏现状的文章中，我们介绍了正在以太坊 L2 Starknet 上开发的最具创新性的游戏项目 — Realms：Eternum、Loot Survivor 和 Influence。文中，我们还讨论了基于 STARK 证明、受 Rust 启发，用于在 Starknet 上编写智能合约的语言 — Cario，以及 Cario 如何支持首批真正的链上游戏。",
           "link": "https://www.web3sj.com/gamefinews/94539/",
           "publishedOn": "2023-11-13T06:42:54.000Z",
-          "wordCount": 1025,
+          "wordCount": 1018,
           "title": "Starknet：复杂链上游戏的发动机",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699857761065.png"
         },
@@ -31,7 +51,7 @@
           "description": "今年 Coinbase 股票上涨超 173%，涨幅归因于比特币年初以来的 122% 以及科技股的 40% 涨幅。同时跟随美股市场和加密市场，这种双市场相关性在趋势向上时会带来超越两个市场的收益。",
           "link": "https://www.web3sj.com/news/94526/",
           "publishedOn": "2023-11-13T06:17:04.000Z",
-          "wordCount": 1959,
+          "wordCount": 1944,
           "title": "LD Capital：探析Coinbase投资逻辑与增长潜力",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699856188197.png"
         },
@@ -41,7 +61,7 @@
           "description": "货币流动性趋松。美联储连续两次维持利率稳定，利率期货市场定价 24 年 5 月降息，比上周预计的提前一个月。国际油价创下三个月最低，有利通胀降温。美元指数下跌，推动美股等风险资产上涨。我们认为宏观环境支持未来金融市场宽松，这对加密货币市场有利。",
           "link": "https://www.web3sj.com/news/94493/",
           "publishedOn": "2023-11-13T04:43:38.000Z",
-          "wordCount": 1228,
+          "wordCount": 1245,
           "title": "Foresight Ventures周报：大盘持续突破反弹新高，MEME表现强势",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699850604750.png"
         },
@@ -51,7 +71,7 @@
           "description": "模块化链通常执行两个或多个相互依存的功能。例如，数据可用性层必须就数据排序达成共识，否则不可能知道哪些数据代表了历史记录的正确版本。",
           "link": "https://www.web3sj.com/news/94486/",
           "publishedOn": "2023-11-13T04:20:28.000Z",
-          "wordCount": 986,
+          "wordCount": 1025,
           "title": "以太坊区块链正在向模块化演变",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699849215588.png"
         },
@@ -61,7 +81,7 @@
           "description": "对于现货 ETF 的预期再次使得 BTC 从 $25000 的底部区间上涨，并创下了今年的新高。同时，BTC 生态在今年取得了巨大的进展，涌现出 Ordinals、Atomicals、PIPE 等多个原生协议。BTC 生态的创新不仅给比特币带来更多的可能性，也蕴藏着独特的投资机会。",
           "link": "https://www.web3sj.com/news/94458/",
           "publishedOn": "2023-11-13T04:13:46.000Z",
-          "wordCount": 1459,
+          "wordCount": 1455,
           "title": "比特币生态迎来爆发期，Ordinals领跑Web3创新",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699848764533.png"
         },
@@ -71,7 +91,7 @@
           "description": "0x Protocol 是基于以太坊构建的交易（Exchange）智能合约，该项目成立于 2016 年，其模型为链下订单簿链上结算，该种结算机制使得链下参与者中继方成为了 0x 协议的 B 端用户。目前集成 0x 协议的中继方达到 78 个，包括 DefiLlama、Metamask、Coinbase 等。",
           "link": "https://www.web3sj.com/news/94446/",
           "publishedOn": "2023-11-13T04:06:31.000Z",
-          "wordCount": 1030,
+          "wordCount": 1007,
           "title": "LD Capital：0x Protocol短期资金面分析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699848360196.png"
         },
@@ -81,29 +101,9 @@
           "description": "XRPL“fixReducedOffersV1”修正案获超80%验证者批准拟于两周后激活。华尔街日报：多名FTX前高管联手创建新加密交易所，计划向投资者出售10%股份。印度在全球加密货币采用率指数中处于领先地位。",
           "link": "https://www.web3sj.com/news/94424/",
           "publishedOn": "2023-11-12T12:21:55.000Z",
-          "wordCount": 874,
+          "wordCount": 890,
           "title": "Web3世界日报（2023-11.12）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/2023111212202761.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94396",
-          "author": "Gao",
-          "description": "译者注：Nocturne 是一个高度可组合的以太坊私人账户协议。通过使用帐户抽象和零知识证明的混合，Nocturne 构建了一个私人账户层，使用户能够发送、接收和交易他们的资金，而无需暴露他们的地址。它被设计为一个通用系统，可以轻松构建最终用户产品。鉴于这种灵活性，可以满足隐私极端主义者和传统用户的需求。",
-          "link": "https://www.web3sj.com/news/94396/",
-          "publishedOn": "2023-11-11T12:15:36.000Z",
-          "wordCount": 861,
-          "title": "一文了解Vitalik力推的隐私协议Nocturne",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699704922937.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94393",
-          "author": "Gao",
-          "description": "现货比特币交易平台交易基金（ETF）在加密资产和传统金融领域引起了极大关注。这些入场工具为持有者提供了独特的机会，让他们无需直接拥有标的资产，即可接触不稳定且快速发展的加密（尤其是比特币）世界。",
-          "link": "https://www.web3sj.com/news/94393/",
-          "publishedOn": "2023-11-11T12:09:40.000Z",
-          "wordCount": 914,
-          "title": "现货比特币ETF：企业家加密货币投资的门户",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5c16a549a18a67e6831694d23e51f9bf.png"
         }
       ]
     },
