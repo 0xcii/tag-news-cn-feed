@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=94704",
+          "author": "Gao",
+          "description": "鉴于这些失败的经验，许多人将应用程序发行代币视为一种错误的尝试，但我们并不这么认为。相反，我们认为正确的答案是不断迭代代币设计，以实现更加自下而上的所有权分配模型，我们称之为「渐进式所有权」。这种方法的重点是通过产品与市场的契合度来加深应用程序用户的忠诚度。",
+          "link": "https://www.web3sj.com/news/94704/",
+          "publishedOn": "2023-11-15T05:11:09.000Z",
+          "wordCount": 1027,
+          "title": "代币分配新时代：渐进式所有权比空投模式更好？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700025057371.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=94701",
+          "author": "Gao",
+          "description": "Plasma 相当于一种侧链解决方案，会定期向主网同步默克尔状态数据，是一种数据和计算依赖主网的扩容方案。这样的话，2 层可以用非常中心化的方式，且设计非常复杂的账本模型来高效扩展，还能复用主网 vailidator 这些系统能力。",
+          "link": "https://www.web3sj.com/news/94701/",
+          "publishedOn": "2023-11-15T05:07:18.000Z",
+          "wordCount": 1031,
+          "title": "解读Vitalik新作：ZK+Plasma改变Layer 2格局？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700024821939.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=94678",
           "author": "Gao",
           "description": "贝莱德：无计划推出XRP现货ETF，网上流传的监管文件系伪造。以太坊账户抽象倡导者：ERC-4337智能账户使用情况非常糟糕。比特小鹿今年Q3挖出1085枚比特币，总收入8730万美元。",
           "link": "https://www.web3sj.com/news/94678/",
           "publishedOn": "2023-11-14T11:26:22.000Z",
-          "wordCount": 923,
+          "wordCount": 916,
           "title": "Web3世界日报（2023-11.14）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/2023111411244559.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "随着区块链技术的不断演进，不同的项目都在探索适合自己的技术解决方案。Avail、Cardano 和 Starknet 是三个突出的例子，它们都选择了 Polkadot 技术栈来构建自己的系统。每个项目都有其独特的动因和目标，但共同点在于它们都看到了 Polkadot 技术的潜力。本文将分享这些项目为何选择 Polkadot 技术栈，并解析它们各自的技术特点和战略意图。",
           "link": "https://www.web3sj.com/news/94659/",
           "publishedOn": "2023-11-14T07:02:41.000Z",
-          "wordCount": 999,
+          "wordCount": 1025,
           "title": "Cardano、Starknet等为什么选择Polkadot技术栈？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699945348566.png"
         },
@@ -31,7 +51,7 @@
           "description": "今年 7 月份，LIdo 对 Rocket Pool 展开炮轰，指出其合约存在 sudo 权限，团队可以对关键参数做任意的修改，指责 Rokect Pool 不够去中心化。而紧接着在 8 月份，Rocket Pool 联合 StakeWise 等 5 家以太坊 LSD 协议，以维护以太坊去中心化的名义，发起倡议，各 LSD 协议的质押份额限制在 22% 以下，这项倡议的矛头直指行业老大 Lido，因为只有 Lido 的质押份额超过了 22% 。",
           "link": "https://www.web3sj.com/definews/94651/",
           "publishedOn": "2023-11-14T06:13:31.000Z",
-          "wordCount": 1225,
+          "wordCount": 1262,
           "title": "盘点LSD赛道的三大趋势：去中心化、DeFi增强、全链化",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699942399515.png"
         },
@@ -41,7 +61,7 @@
           "description": "人们开始将目光转向了现货以太坊 ETF，对现货比特币 ETF 批准的信心源于 SEC 在批准基于期货的产品，但拒绝批准基于现货的产品方面明显不一致。贝莱德 （Blackrock） 于 11 月 9 日申请以太币现货 ETF，进一步加剧了这种关注。",
           "link": "https://www.web3sj.com/news/94641/",
           "publishedOn": "2023-11-14T06:08:30.000Z",
-          "wordCount": 1143,
+          "wordCount": 1139,
           "title": "机构进场预期升温，以太坊质押赛道未来会走向何方？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699942099374.png"
         },
@@ -51,7 +71,7 @@
           "description": "在过去两个月的时间里，Solana Gas 代币 SOL 实现价格翻倍，从 9 月中旬的 17.74 美元低点大幅增长至 11 月初的 63 美元附近，复苏迹象打破了许多业界分析师的预期。",
           "link": "https://www.web3sj.com/news/94637/",
           "publishedOn": "2023-11-14T05:59:17.000Z",
-          "wordCount": 1150,
+          "wordCount": 1167,
           "title": "FTX余波下，Solana灾后重建的核心力量在哪？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699941546364.png"
         },
@@ -61,7 +81,7 @@
           "description": "领导力法则重点关注品牌塑造消费者认知、定义消费者需求以及为新市场类别铺平道路的能力。不是要做最好，而是要做消费者心目中的第一。营销是一场认知之战，谁率先在消费者心中留下自己的形象，谁就会超越那些客观上可能更胜一筹的人。",
           "link": "https://www.web3sj.com/news/94634/",
           "publishedOn": "2023-11-14T05:53:57.000Z",
-          "wordCount": 943,
+          "wordCount": 966,
           "title": "Web3品牌修炼手册：从以太坊和MetaMask等案例解密七大营销法则",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699941225870.png"
         },
@@ -81,29 +101,9 @@
           "description": "Polygon zkEVM 建立在 Chain Development Kit（CDK）之上，这是一个开源、模块化的组件集，用于在 Polygon 和 Ethereum 生态系统内启动自定义区块链。Polygon zkEVM（基于 CDK 构建）在活跃钱包、交易和 TVL 方面持续增长。",
           "link": "https://www.web3sj.com/news/94611/",
           "publishedOn": "2023-11-14T03:44:01.000Z",
-          "wordCount": 1301,
+          "wordCount": 1302,
           "title": "L2链上数据全对比：谁是生态活跃的受益者？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699933429476.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94602",
-          "author": "Gao",
-          "description": "数字货币方面，继上周媒体报出 BlockRock 注册 iShares Ethereum Trust 的消息并成功将 ETH 推上 2000 美元的关键点位后，由于缺乏新的叙事，近几天 BTC/ETH 价格维持在 37000/2050 附近整盘。然而，尽管实际波动有所降低，两者的 IV 却仍维稳在近期高点，其中 ETH 的 ATM Curve 相对较平，且整体高出 BTC 2～4%Vol 左右。",
-          "link": "https://www.web3sj.com/news/94602/",
-          "publishedOn": "2023-11-14T03:39:45.000Z",
-          "wordCount": 954,
-          "title": "SignalPlus波动率专栏：市场整盘，看涨价差遭到抛售",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699933173225.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94594",
-          "author": "Gao",
-          "description": "红杉资本合伙人 Alfred Lin 表示：「FTX 倒闭后，我们立即广泛审查了我们的尽职调查流程，并评估了我们与 Sam Bankman-Fried 长达 18 个月的合作关系。」 「我们得出的结论是，我们被故意误导和欺骗。」",
-          "link": "https://www.web3sj.com/news/94594/",
-          "publishedOn": "2023-11-14T03:31:11.000Z",
-          "wordCount": 1124,
-          "title": "重建还是撤退？FTX余波下加密行业面临艰难选择",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1699932654136.png"
         }
       ]
     },
@@ -112,6 +112,96 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/1l3vz19q.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，据彭博社报道，在 USDC 市场份额稳定之前，Circle 将很难进行首次公开​​募股 (IPO)。USDC 在加密货币市场的市场份额正在下降，已下降至不足 19%，远低于去年 12 月公司撤销公开上市时的水平，其市值近期已跌破 240 亿美元。另一方面，Tether 的 USDT 市值已突破 860 亿美元的历史新高，其市场份额也在不断下降。硅谷银行破产后，Circle的可靠性下降，USDC也从此走下坡路，与Tether收取高额赎回费用不同，Circle不收取USDC赎回费用，这也是USDC市值很难增加的原因。与此同时，Circle 已开始与顾问商谈，考虑明年初进行 IPO。Circle首席执行官Jeremy Allaire面临着一项尤为艰巨的任务。",
+          "link": "https://panewslab.com/zh/articledetails/1l3vz19q.html",
+          "publishedOn": "2023-11-15T04:01:31.000Z",
+          "wordCount": 380,
+          "title": "彭博社：在USDC市场份额稳定之前，Circle IPO将很困难",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/41gf3k8t.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，随着OKX宣布与Polygon Labs共同推出X1测试网，多链浏览器OKLink宣布已成为率先支持X1的官方浏览器。用户可用其便捷查询总交易量、大额交易、Gas均价等多维度数据。目前OKLink已提供包含Polygon zkEVM、Scroll、Base、Starknet等链在内的总计34条链查询，在全行业处于领先地位。\n在开发者社区方面，X1的初衷是希望任何人都可以在其链上生态系统上构建应用以推动Web3未来的发展，把OKX的5000万+ 用户与 Polygon乃至以太坊的社区连接起来。与此同时，OKLink同步推出API激励计划，邀请全球开发者使用并反馈，可凭实力获得不限次数的API调用奖励。详情可访问原文链接查看。",
+          "link": "https://panewslab.com/zh/articledetails/41gf3k8t.html",
+          "publishedOn": "2023-11-15T03:32:57.000Z",
+          "wordCount": 335,
+          "title": "OKLink浏览器提供X1多维数据查询和API支持，面向全球开发者提供API激励",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b93oiokn.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，据官方公告，opBNB 主网硬分叉Fermat计划在区块高度 9397477 激活，预计于北京时间11月28日14点（北京时间14点）激活。社区开发人员需要在硬分叉前升级至opNode V0.2.2和opGeth V0.2.1。此次硬分叉将通过添加新的预编译合约来为 opBNB 和 BNB Greenfield 之间的互操作性奠定基础，这些合约支持 BLS 签名验证和 cometBFT 轻客户端验证。此外，Fermat 将稳定 opBNB Layer2交易的 L1 数据成本的 L1 Gas 价格。",
+          "link": "https://panewslab.com/zh/articledetails/b93oiokn.html",
+          "publishedOn": "2023-11-15T03:32:52.000Z",
+          "wordCount": 391,
+          "title": "opBNB主网硬分叉Fermat预计11月28日激活，开发人员需在分叉前升级版本",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/zeun0tqg.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，据官方博客，Web3游戏平台Immutable（IMX）计划从11月20日起重建Immutable zkEVM测试网，为期三天。在重建期间，测试网及其服务不可用。团队将利用这段时间升级法币入口、DEX 集成、EVM 监控、交易中继器等，以确保新客户端的最佳功能。重建完成后开发者在测试网上的智能合约将需要重新部署，并且资产将需要重新铸造。\n此前消息，Immutable发布主网启动路线图。11月计划对Immutable zkEVM测试网进行重建，将其首个EVM客户端从Polygon Edge升级到Geth，确保Immutable zKEVM尽可能接近以太坊，同时与整个以太坊工具生态系统完全兼容。12月至明年1月上线zkEVM主网，在向公众开放之前分组邀请开发者加入。2024年Immutable将提供专用的应用程序链，其技术堆栈和功能与Immutable zkEVM相同，但具有独特的定制级别。最后将引入zk-prover，并提供一个无需信任的以太坊与Immutable zkEVM跨链桥。",
+          "link": "https://panewslab.com/zh/articledetails/zeun0tqg.html",
+          "publishedOn": "2023-11-15T03:24:08.000Z",
+          "wordCount": 353,
+          "title": "Immutable计划从11月20日起重建Immutable zkEVM测试网",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1h6jb308.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，据News.bitcoin报道，《富爸爸穷爸爸》作者罗伯特·清崎警告说，法定货币并不安全，并强调央行正在购买黄金来拯救自己。他敦促投资者保护自己免受央行的侵害，并重申了投资黄金、白银和比特币的建议。清崎一直对法定货币发出警告，称其为“假钱”。相比之下，他将黄金和白银称为“上帝的货币”，并将比特币视为“人民的货币”。\n此前10月份消息，《富爸爸穷爸爸》作者罗伯特·清崎推特发文称，黄金将很快突破2100美元并开始起飞。白银将从23美元上涨至68美元。比特币将测试30000美元，然后下一个目标为135000美元。",
+          "link": "https://panewslab.com/zh/articledetails/1h6jb308.html",
+          "publishedOn": "2023-11-15T03:13:54.000Z",
+          "wordCount": 326,
+          "title": "《富爸爸穷爸爸》作者：法定货币并不安全，投资者必须保护自己免受央行侵害",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1mewgk9p.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，据Whale Alert监测，1,009 枚 BTC （35,836,126 美元）从未知钱包转移到Binance。",
+          "link": "https://panewslab.com/zh/articledetails/1mewgk9p.html",
+          "publishedOn": "2023-11-15T03:03:55.000Z",
+          "wordCount": 340,
+          "title": "1009枚BTC从钱包转移到Binance",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8g918qug.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，据彭博社报道，摩根大通金融机构支付全球主管Umar Farooq表示，摩根大通的数字代币 JPM Coin 可能在未来一两年内处理高达 100 亿美元的日常交易。Farooq 表示，他希望在此期间交易量至少增长 5 倍到 10 倍。JPM Coin 目前每天处理约 10 亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/8g918qug.html",
+          "publishedOn": "2023-11-15T03:02:05.000Z",
+          "wordCount": 373,
+          "title": "摩根大通：JPM Coin交易量可能达到每日100亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u8ivslc9.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，区块链技术公司 Stratis 发公告表示，社区已投票通过“推出 EVM Layer1 网络”的提案，下一步将进行代币置换，原代币 STRAX 将按照 1:10 的比例置换为新代币 STRAT，后者将作为网络原生代币。目前正制定 6-8 周的代币置换开始时间表，但还无法确定开始日期。\nStratisEVM 是基于以太坊的 PoS（权益证明）区块链，其中 STRAT 是原生代币。StratisEVM将是一个 L1 区块链，并计划推出 L2（第 2 层）解决方案，专门专注于高吞吐量和低最终性，迎合游戏和 DeFi 解决方案。",
+          "link": "https://panewslab.com/zh/articledetails/u8ivslc9.html",
+          "publishedOn": "2023-11-15T02:39:15.000Z",
+          "wordCount": 385,
+          "title": "区块链技术公司Stratis将推出EVM L1网络，按1:10置换新代币STRAT",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/lmcoiy0l.html",
+          "author": "PA一线",
+          "description": "PANews 11月15日消息，彭博社 ETF 分析师 James Seyffart 在 X 平台上表示，Global X 提交了修订后的比特币现货 ETF 招股说明书。这意味着仅剩的 WisdomTreeFunds 和 Franklin 是尚未提交修订后的招股说明书的申请人（12 名申请者中）。\n此前8月份消息，总部位于纽约的ETF发行商Global X已向美国证券交易委员会（SEC）提交比特币现货ETF申请，并指定Coinbase作为其监控共享合作伙伴。投资者将可以通过该基金间接获得比特币敞口。这也是向SEC提交的第九份活跃的比特币现货申请。据此前消息，GlobalX还提交了比特币期货ETF申请，将追踪CoinDesk比特币趋势指标指数。",
+          "link": "https://panewslab.com/zh/articledetails/lmcoiy0l.html",
+          "publishedOn": "2023-11-15T02:20:06.000Z",
+          "wordCount": 378,
+          "title": "Global X提交了修订后的比特币现货ETF招股说明书",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/g0189kkl.html",
           "author": "PA一线",
@@ -220,96 +310,6 @@
           "publishedOn": "2023-11-15T00:39:33.000Z",
           "wordCount": 381,
           "title": "荷兰区块链公司Quantoz获准发行基于ALGO的数字欧元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ok3ts7b0.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，据The block报道，加密货币交易所 OKX 和 Polygon Labs 推出了名为“X1”的零知识二层网络的测试网，其中 OKX 的平台代币 OKB 预计将用作 X1 的原生代币来支付 Gas 费用。OKX 在一份声明中表示，基于以太坊的新 ZK 网络 X1 将使用Polygon Chain 开发套件（CDK）构建，OKX 将成为该套件的核心贡献者，并计划“投资大量工程技术”资源来增强以太坊扩展解决方案的技术堆栈。”该公司补充说，X1 将作为 OKX 的新原生网络，它利用 ZK 证明，“使其高度安全和可扩展，同时还降低了交易成本。”根据官方路线图显示，2023年第四季度进行 DApp 集成、性能压力测试、基于 EIP-4844 的扩展等，2024年一季度启动主网，推出 zkBridge、zkOracle 和 zkDEX，主要合作伙伴在 X1 主网上部署 DApp。",
-          "link": "https://panewslab.com/zh/articledetails/ok3ts7b0.html",
-          "publishedOn": "2023-11-15T00:28:46.000Z",
-          "wordCount": 451,
-          "title": "OKX使用Polygon CDK推出新的ZK Layer2网络X1",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/gm9xmxg4.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，据路透社报道，美国一家法院驳回了去中心化计算平台 Internet Computer（ICP）开发商 DFINITY 针对区块链分析平台 ARKM Intelligence 和《纽约时报》（NYT）提起的诽谤诉讼。Arkham和《纽约时报》发表了关于2021年ICP暴跌的报道，《纽约时报》根据内容报道了一篇文章。Dfinity 声称该报告不实。主审法官Lewis Kaplan表示，“Arkham 声称 Dfinity 内部人士通过在交易所倾销 ICP 诈骗了数十亿美元，这并不构成诽谤，出于同样的原因，《纽约时报》不需要承担责任。”",
-          "link": "https://panewslab.com/zh/articledetails/gm9xmxg4.html",
-          "publishedOn": "2023-11-15T00:21:29.000Z",
-          "wordCount": 367,
-          "title": "美国法院驳回Dfinity针对Arkham和《纽约时报》提起的诽谤诉讼",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/l5nf4vd7.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，据Blockster报道，3D生成式AI平台Atlas宣布完成两轮总计600万美元融资，分别是由6th Man Ventures (6MV) 领投的450万美元融资和由Collab+Currency领投的150万美元融资，其他参投方包括a16z Scouting Fund、Contango、Gaingels、GFR Fund、New Renaissance Ventures、Square Enix、Wagmi Ventures等。Atla的3D生成式人工智能平台主要与Square Enix、Consortium9和Shrapnel等Web3游戏工作室和品牌商合作创建虚拟世界体验，帮助企业在视频游戏、虚拟生态系统和XR体验中为内容创作者生成基于IP的定制化资产。",
-          "link": "https://panewslab.com/zh/articledetails/l5nf4vd7.html",
-          "publishedOn": "2023-11-15T00:12:14.000Z",
-          "wordCount": 360,
-          "title": "3D生成式AI平台Atlas完成两轮总计600万美元融资，拟与Web3工作室构建基于IP的游戏资产",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/mfh5on0w.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，ARK Invest首席执行官Cathie Wood在接受CNBC采访时表示，鉴于美国证券交易委员会 (SEC) 主席Gary Gensler对比特币非常了解，很难想出一个可以解释他反对比特币现货ETF的合理理由。在担任SEC主席之前，他曾在麻省理工学院 (MIT)教授加密货币和区块链课程。随后Wood提到了有关Gensler希望担任美国财政部长的“猜测”，而该职位“非常关注美元”，暗示Gary Gensler成为财政部长的野心可能是现货比特币ETF受阻的真正原因。Wood还预测现货ETF最终将获得批准，并表示到2030年，加密货币市值将从目前的1万亿美元提高到25万亿美元。目前SEC正在审查包括ARK Invest在内的12个比特币现货ETF申请。",
-          "link": "https://panewslab.com/zh/articledetails/mfh5on0w.html",
-          "publishedOn": "2023-11-15T00:08:12.000Z",
-          "wordCount": 354,
-          "title": "Cathie Wood：比特币现货ETF最终将获得批准，Gary Gensler的政治野心是现货比特币ETF受阻的原因",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ta728xn4.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，Arbitrum推特发文称，安全委员会选举结果已生效，SAFE多签已更新为6名当选安全委员会成员的地址。",
-          "link": "https://panewslab.com/zh/articledetails/ta728xn4.html",
-          "publishedOn": "2023-11-14T23:08:47.000Z",
-          "wordCount": 322,
-          "title": "Arbitrum：安全委员会选举结果已生效，Safe多签已更新",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9tyz4bg5.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，据CoinDesk报道，美国司法部（DOJ）称，MAYC仿盘Mutant Ape Planet系列NFT开发者Aurelien Michel在美国联邦法院认罪，并同意支付140万美元罚金。Michel是一位居住在阿联酋的法国公民，今年早些时候因涉嫌诈骗290万美元在纽约被捕。据纽约东区美国检察官称，他面临最高5年的监禁。Michel已同意支付140万美元的没收罚金。据悉，Aurelien Michel和其他被告向潜在买家推销Mutant Ape Planet NFT，并承诺了包括“奖励、抽奖、对其他加密货币资产的独家访问权，并由社区控制的钱包提供该NFT系列的营销资金”。项目开发商还隐晦承诺NFT持有者可获得“元宇宙土地”。然而上述承诺都没有兑现。当所有NFT都被出售后，Michel和其他被告据称将近300万美元的收益转移到其他钱包，包括Michel控制下的钱包。",
-          "link": "https://panewslab.com/zh/articledetails/9tyz4bg5.html",
-          "publishedOn": "2023-11-14T23:01:17.000Z",
-          "wordCount": 345,
-          "title": "Mutant Ape Planet开发者已在欺诈案中认罪，同意支付140万美元罚金",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7ty2rw1v.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，美国SEC公布了2023财年执法结果。报告显示，SEC共提起784项执法行动，比2022年增加3%。执法行动共产生49.49亿美元的罚款，仅次于2022年的64亿美元，为历史第二高。SEC表示，2023财年是执法工作富有成果的一年。其所重点调查的案件涉及加密货币、网络安全、上市公司虚假陈述以及市场操纵等领域。",
-          "link": "https://panewslab.com/zh/articledetails/7ty2rw1v.html",
-          "publishedOn": "2023-11-14T22:45:48.000Z",
-          "wordCount": 319,
-          "title": "2023财年美国SEC共提起784项执法行动，罚款近50亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9sgclckf.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，据The Block报道，特拉华州政府政策和通讯负责人Rony Baltazar-Lopez表示，伪造的贝莱德XRP Trust文件已提交给特拉华州司法部处理。据此前消息，昨日有人在特拉华州网站注册了一个名为“iShares XRP Trust”的实体，并登记了贝莱德资产管理公司及其董事总经理Daniel Schwieger的名字。该虚假文件导致瑞波币的价格短线上涨超过10%，但贝莱德发言人随后澄清该监管文件是伪造的，并表示贝莱德无计划推出XRP现货ETF。",
-          "link": "https://panewslab.com/zh/articledetails/9sgclckf.html",
-          "publishedOn": "2023-11-14T21:53:20.000Z",
-          "wordCount": 337,
-          "title": "贝莱德XRP现货ETF伪造文件已移交特拉华州司法部处理",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/n0ab40ff.html",
-          "author": "PA一线",
-          "description": "PANews 11月15日消息，据彭博社报道，加密交易所Blockchain.com完成1.1亿美元E轮战略融资，英国投资公司Kingsway Capital领投，Baillie Gifford、Lakestar、Lightspeed Venture Partners、Coinbase Ventures等公司参投。Blockchain.com新增两名董事会成员，分别来自Kingsway和Lakestar。据一位知情人士透露，本轮融资后，该公司的估值不到2022年春季140亿美元估值的一半。去年秋天，Blockchain.com完成由Kingsway Capital领投的战略融资，Kingsway Capital创始人Manny Stotz成为公司顾问。去年3月，Blockchain.com完成D轮融资，Lightspeed Venture Partners领投，投后估值达到140亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/n0ab40ff.html",
-          "publishedOn": "2023-11-14T20:33:34.000Z",
-          "wordCount": 354,
-          "title": "Blockchain.com完成1.1亿美元E轮战略融资，估值比去年3月缩水超一半",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
