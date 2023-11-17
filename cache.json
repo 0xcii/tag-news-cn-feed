@@ -6,12 +6,82 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=95093",
+          "author": "Gao",
+          "description": "Layer 1 是构成基础的区块链，在其中添加区块并最终确定交易。然而，Layer 1 面临区块链三难困境，它们无法兼顾可扩展性、去中心化或安全性。像比特币和以太坊这样的区块链优先考虑去中心化和安全性而不是可扩展性，随着网络用户的增加，这些网络的交易速度会变得很低。",
+          "link": "https://www.web3sj.com/news/95093/",
+          "publishedOn": "2023-11-17T07:50:03.000Z",
+          "wordCount": 1160,
+          "title": "一文了解Layer3的原理和当前市场格局",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700207387703.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95081",
+          "author": "Gao",
+          "description": "根据 Scrollscan 浏览器数据显示，截至 11 月 15 日，Scrol 主网上已完成了约 471 万笔交易，其中 11 月 9 日当日交易笔数超过 43.4 万，现日均交易数在 10 万上下，链上钱包地址数已突破 200 万个（约 206 万个），已生成的区块数为 80 万个。",
+          "link": "https://www.web3sj.com/news/95081/",
+          "publishedOn": "2023-11-17T07:39:11.000Z",
+          "wordCount": 1349,
+          "title": "TVL增至4000万美元，Layer2新秀Scroll生态有哪些参与机会？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700206736728.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95073",
+          "author": "Gao",
+          "description": "Avalanche 是一个专为可扩展性而设计的公链平台，具有由可扩展网络的子网组成的多链框架，主网包括 P 链、X 链和 C 链：P 链管理验证器和子网级功能；X 链管理 Avalanche 原生代币（现实世界资产的数字表示）；C 链是实现以太坊虚拟机（EVM）。",
+          "link": "https://www.web3sj.com/news/95073/",
+          "publishedOn": "2023-11-17T07:01:56.000Z",
+          "wordCount": 1383,
+          "title": "Avalanche Q3报告：战略合作涉及多个领域，生态系统充满活力",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700204501358.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95069",
+          "author": "Gao",
+          "description": "去中心化金融（DeFi）的世界就像站在巨大变革的悬崖边缘。就像美国商品期货交易委员会（CFTC）最近对 Opyn、ZeroEx 和 Deridex 等公司的处理所强调的，清晰的规则是极其重要的。同时，美国证券交易委员会、财政部和国内税收服务局等机构也在关注 DeFi，大家都在呼唤一个明确的法律框架。",
+          "link": "https://www.web3sj.com/definews/95069/",
+          "publishedOn": "2023-11-17T06:45:10.000Z",
+          "wordCount": 949,
+          "title": "关于DeFi监管的一些思考",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700203494384.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95059",
+          "author": "Gao",
+          "description": "pols mint 完毕的速度出乎社区的意料，「合约科学家」的入场也引起了许多 pols 持有者的反对。社区普遍认为部署智能合约会挤掉散户的持有机会，影响去中心化，从而破坏 pols 的叙事；也有声音表示通过合约 mint 铭文实则是来自项目团队的「通缩」举动。",
+          "link": "https://www.web3sj.com/news/95059/",
+          "publishedOn": "2023-11-17T06:29:44.000Z",
+          "wordCount": 985,
+          "title": "铭文的风都吹到Polygon上了，一键mint你参与了吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700202556790.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95051",
+          "author": "Gao",
+          "description": "想象一下，你在一个巨大的跳蚤市场，摊主们都在用各种奇特的代币交易——有的像金币，有的像彩色的扑克牌。这个市场就像 0x Protocol，一个允许人们用电子代币（就像那些奇特的代币）进行交易的地方。但这个市场是虚拟的，存在于网络世界，专门用于交易基于以太坊的资产——想象一下，那些代币是电子版的艺术作品、房产甚至是投票权。",
+          "link": "https://www.web3sj.com/definews/95051/",
+          "publishedOn": "2023-11-17T06:24:31.000Z",
+          "wordCount": 1492,
+          "title": "万字笔记：0x Protocol到底是什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700202237103.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95038",
+          "author": "Gao",
+          "description": "这不仅仅是以太坊与 Solana 的比较，而是我们如何扩展区块链以实现大规模采用。直接跳到结论，我相信一切都还未成定局，而且这些问题并不像看起来那么简单。这太好了，因为我们还处于早期。",
+          "link": "https://www.web3sj.com/news/95038/",
+          "publishedOn": "2023-11-17T06:10:08.000Z",
+          "wordCount": 1179,
+          "title": "以太坊还是Solana？大家都有美好的未来",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1700195276131.webp"
+        },
+        {
           "id": "https://www.web3sj.com/?p=95013",
           "author": "Gao",
           "description": "贝莱德提交其现货以太坊ETF的S-1申请。美国SEC推迟对Hashdex的比特币现货ETF申请做出决议。韩国国民年金已买入约2000万美元Coinbase股票。",
           "link": "https://www.web3sj.com/news/95013/",
           "publishedOn": "2023-11-16T11:46:13.000Z",
-          "wordCount": 895,
+          "wordCount": 889,
           "title": "Web3世界日报（2023-11.16）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/2023111611444271.jpg"
         },
@@ -21,7 +91,7 @@
           "description": "11 月 15 日，新加坡金管局（MAS）宣布与金融行业合作，以扩大资产代币化计划，并开发扩大代币化市场的基础能力。Project Guardian 由 17 家金融机构组成，启动五个行业试点，以测试有前景的资产代币化用例。参与者包括富达、花旗、纽约梅隆银行、华侨银行、蚂蚁集团、摩根大通等。",
           "link": "https://www.web3sj.com/news/95004/",
           "publishedOn": "2023-11-16T08:57:30.000Z",
-          "wordCount": 925,
+          "wordCount": 952,
           "title": "16万亿Web3蓝图落地新加坡，RWA指日可待？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700125034470.png"
         },
@@ -31,79 +101,9 @@
           "description": "除了大盘整体回暖外，促使 SOL 价格上涨的另一个重要因素是 Solana 上的 JupiterExchange 即将发布空投信息，而用户通过与 Solana 上的 marginfi、Kamino、DriftProtocol 和 Jito 等 Defi 协议和交易平台进行交互，可获得 Jupiter 上的代币积分，并且这些协议也有各自的积分计划。因此，Solana 吸引了大量来自社区的流动性。",
           "link": "https://www.web3sj.com/definews/94987/",
           "publishedOn": "2023-11-16T08:20:50.000Z",
-          "wordCount": 1198,
+          "wordCount": 1190,
           "title": "速览Solana生态潜力DeFi套娃收益策略",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700122839217.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94980",
-          "author": "Gao",
-          "description": "然而，前不久 Bankless 分析师 Jack 就发文表示人们对现货 ETF 的期望过高，指出比特币 ETF 的需求已经停滞不前。Bankless 的共同所有者 David 对比了过去几次牛市的引爆因素后也指出，现货 ETF 只是一种外源力量，要迎接真正的牛市也许需要新的原语、新的应用程序和引起新兴趣的内生催化剂。",
-          "link": "https://www.web3sj.com/news/94980/",
-          "publishedOn": "2023-11-16T07:30:11.000Z",
-          "wordCount": 934,
-          "title": "Bankless：2024年加密牛市缺乏内生催化剂",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700119796438.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94973",
-          "author": "Gao",
-          "description": "上一轮牛市是非以太坊 L1 的 Beta 阶段：Alt-L1 通过在 Aave 和 Uniswap V2 的分叉协议上提供流动性挖矿奖励来争夺渴望收益的 Degen。以太坊之外的应用层几乎没有创新。",
-          "link": "https://www.web3sj.com/news/94973/",
-          "publishedOn": "2023-11-16T07:22:53.000Z",
-          "wordCount": 968,
-          "title": "L2潮流之下，L1为何重获新生？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700119360140.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94954",
-          "author": "Gao",
-          "description": "V1 将 AMM 初始实践于加密领域，V2 减少 ETH 风险敞口，推出更难被操纵的价格预言机，V3 通过集中流动性解决资本效率低下问题，V4 实施可定制化 DEX，UniswapX 协议通过拍卖机制强化第三方聚合器的竞争性，从而实现对价格滑点的优化。",
-          "link": "https://www.web3sj.com/definews/94954/",
-          "publishedOn": "2023-11-16T04:07:17.000Z",
-          "wordCount": 1526,
-          "title": "DeFi评估方法：Uniswap迭代复盘",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700107610885.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94949",
-          "author": "Gao",
-          "description": "DePIN 是物理基础设施部署和维护的范式创新。DePIN 由世界各地的个人和公司以分布式的方式构建，供任何人使用。作为回报，这些物理基础设施节点的贡献者能获得他们正在构建的网络的经济补偿和 Token 激励。通过利用 Crypto、互联网、物联网和区块链技术，DePIN 可以实现更高效、去中心化和公平的基础设施部署方式。",
-          "link": "https://www.web3sj.com/news/94949/",
-          "publishedOn": "2023-11-16T03:57:12.000Z",
-          "wordCount": 1094,
-          "title": "DePIN是Web3必不可少的基础设施",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700107013956.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94946",
-          "author": "Gao",
-          "description": "Adam 提到导致全球金融混乱的地缘政治和宏观经济因素，例如 COVID-19、印钞、供应链中断和政治冲突。他强调，比特币正在逐渐获得传统金融界的接受和理解，美国主要金融机构对比特币相关金融产品的兴趣就证明了这一点。",
-          "link": "https://www.web3sj.com/news/94946/",
-          "publishedOn": "2023-11-16T03:39:41.000Z",
-          "wordCount": 894,
-          "title": "对话Blockstream联创：比特币的10万美元之路",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1700092229365.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94942",
-          "author": "Gao",
-          "description": "无论是最近很火的「大逃杀」，还是传统的抽卡片，开宝箱，幸运转盘之类的小游戏，其共通的地方都是概率类小游戏。能否在游戏中胜出，是一个由平台机制决定的不特定事件。",
-          "link": "https://www.web3sj.com/news/94942/",
-          "publishedOn": "2023-11-16T03:31:08.000Z",
-          "wordCount": 879,
-          "title": "「大逃杀」玩法类区块链游戏，如何避免成赌博？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700105455990.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=94935",
-          "author": "Gao",
-          "description": "根据 DeFiLlama 的数据，从交易量来看，DEX 迎来了自 3 月份以来表现最好的一周，锁仓总价值（TVL）达到了 6 月份以来的最高水平。整个 DeFi 的 TVL 已从 10 月 12 日的 358.83 亿美元上升至目前的 462.36 亿美元，增加了 103.53 亿美元。",
-          "link": "https://www.web3sj.com/definews/94935/",
-          "publishedOn": "2023-11-16T03:23:55.000Z",
-          "wordCount": 1053,
-          "title": "Aave v3贷款量飙升至创纪录水平，DeFi「回春」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700105021998.png"
         }
       ]
     },
@@ -113,12 +113,152 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/kljfix1c.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，据Adam@Greeks.live发布的11月17日期权交割数据显示，3.5万张BTC期权即将到期，Put Call Ratio为0.49，最大痛点36000美元，名义价值12.8亿美元。 27万张ETH期权即将到期，Put Call Ratio为0.41，最大痛点1900美元，名义价值5.3亿美元。\n其称，本周加密货币价格进入盘整，RV代表的波动水平有所回升，但IV代表的预期波动水平稳中有降，最终造成VRP波动率风险溢价有所回落。目前BTC Dvol仅55%，相较上周下降10%，ETH Dvol为56%，与上周持平，ETH有望接棒成为上涨主力。",
+          "link": "https://panewslab.com/zh/articledetails/kljfix1c.html",
+          "publishedOn": "2023-11-17T07:33:08.000Z",
+          "wordCount": 355,
+          "title": "3.5万张BTC期权和27万张ETH期权将于今日到期，总价值超18亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/01xavap7.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，Lookonchain监测显示，在过去 15 小时内，一鲸鱼已将全部 493 万枚 ARB（533 万美元）存入 Binance。4 月 26 日至 27 日，鲸鱼从Binance提取了 493 万枚 ARB（679 万美元），当时价格约为 1.38 美元。如果出售，这头鲸鱼将损失约 146 万美元。",
+          "link": "https://panewslab.com/zh/articledetails/01xavap7.html",
+          "publishedOn": "2023-11-17T07:20:45.000Z",
+          "wordCount": 395,
+          "title": "一鲸鱼在过去15小时内将全部493万枚ARB存入Binance",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/o6gcv370.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，币安合约交易平台将于2023年11月17日21:30（北京时间）上线USDⓈ-M BEAMX永续合约，杠杆高达50倍。",
+          "link": "https://panewslab.com/zh/articledetails/o6gcv370.html",
+          "publishedOn": "2023-11-17T06:51:58.000Z",
+          "wordCount": 341,
+          "title": "币安将于今晚21:30上线BEAMX U本位永续合约",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/z68m6nxs.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，基于ETH的稳定资产协议Mori Finance宣布已集成OKX Wallet。Mori是建立在ETH和LSD基础上的原生稳定资产协议，可以将抵押品分为低波动性的稳定资产ETHS（ETH Stable）和高波动性的衍生资产ETHC（ETH Coin），以满足不同风险偏好用户的需求。",
+          "link": "https://panewslab.com/zh/articledetails/z68m6nxs.html",
+          "publishedOn": "2023-11-17T06:48:29.000Z",
+          "wordCount": 361,
+          "title": "基于ETH的稳定资产协议Mori Finance已集成OKX Wallet",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c04qjapb.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，国际清算银行（BIS）近日在官网发布“Will the real stablecoin please stand up?”的稳定币研究文章，称共研究了 68 种稳定币，结果表明，没有一种稳定币能够始终保持与其挂钩的平价。这与它们的尺寸或背衬类型无关。此外，研究人员认为目前无法保证稳定币发行机构能够按需全额赎回用户的稳定币。出于这些原因，得出的结论是，目前流通的稳定币不符合作为安全价值储存手段和实体经济中值得信赖的支付手段的关键标准。本文还强调了一些重大的数据差距。如果没有有关稳定币用途和用户的进一步数据，就很难确定稳定币对支付系统平稳运行和更广泛的金融稳定的风险。",
+          "link": "https://panewslab.com/zh/articledetails/c04qjapb.html",
+          "publishedOn": "2023-11-17T06:37:20.000Z",
+          "wordCount": 339,
+          "title": "国际清算银行报告：目前流通的稳定币不符合安全价值储存和支付手段的关键标准",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/tfryb6b9.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，币安将自2023年11月20日11:00 (北京时间)删除并停止以下现货交易对的交易：ADA/RUB, ALGO/RUB, ARB/RUB, ARKM/RUB, ARPA/RUB, BNB/RUB, BUSD/RUB, DOT/RUB, ETH/RUB, LTC /RUB、MATIC/RUB、NEAR/RUB、SOL/RUB、WLD/RUB、XRP/RUB。",
+          "link": "https://panewslab.com/zh/articledetails/tfryb6b9.html",
+          "publishedOn": "2023-11-17T06:10:44.000Z",
+          "wordCount": 366,
+          "title": "币安将于11月20日停止ADA/RUB, ALGO/RUB等现货交易对的交易",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/kbycl98h.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，基于生成式AI的音乐创意资产开发公司CreateSAFE宣布完成460万美元种子轮融资，加密货币和区块链投资公司Polychain Capital领投，Crush Ventures、MoonPay、Chaac Ventures、Unified Music Group以及一批音乐行业企业高管参投。\nCreateSafe开发的生成式AI平台“TRINITI”可以利用语音、声音、文字和图像输入来生成艺术家活动所需的所有创意资产并管理音乐IP，旨在成为连接音乐和UGC两个领域的桥梁。",
+          "link": "https://panewslab.com/zh/articledetails/kbycl98h.html",
+          "publishedOn": "2023-11-17T05:31:26.000Z",
+          "wordCount": 358,
+          "title": "生成式AI公司CreateSAFE完成460万美元种子轮融资，Polychain Capital领投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fggy2bjf.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，Web3社交平台Friend.tech宣布推出friend.tech feed，允许用户通过投票控制帖子排名。投票权会每天在美国东部时间12:00（北京时间次日1:00）分发，Key价格更高的用户会分配到更多的选票。投票不可转让，且不会累积到第二天。全球friend.tech动态流中的帖子将按照一个算法进行排序，该算法考虑了帖子收到的投票数和发布时间等因素。",
+          "link": "https://panewslab.com/zh/articledetails/fggy2bjf.html",
+          "publishedOn": "2023-11-17T05:27:33.000Z",
+          "wordCount": 344,
+          "title": "Friend.tech推出friend.tech feed，根据用户投票决定帖子排名",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/g95prbkk.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，币安 Liquid Swap 将于2023 年 11 月 24 日 12:00 (北京时间)移除以下流动性池：ALICE/USDT、APE/USDT、APT/BTC、APT/USDT、ARB/USDT、ARPA/USDT、ATOM/USDT、AVA/BTC、AXS/BTC、BAKE/USDT、EDU/USDT、ETC/BTC、FTM/ BTC、HOOK/USDT、MAV/BTC、MAV/USDT、NEO/BTC、ONE/USDT、PHA/USDT、RDNT/BTC、RDNT/USDT、SXP/USDT、THETA/USDT、WOO/BNB、WOO/USDT。在上述流动性池中持有仓位的用户将于2023年11月24日12:00 (北京时间)自动收到其现货钱包中的存入资产。",
+          "link": "https://panewslab.com/zh/articledetails/g95prbkk.html",
+          "publishedOn": "2023-11-17T04:44:13.000Z",
+          "wordCount": 369,
+          "title": "币安将于11月24日移除ALICE/USDT、APE/USDT等流动性池",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jupgfruz.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，据金十报道，泰国证交会修改数字代币法规以保护投资者。",
+          "link": "https://panewslab.com/zh/articledetails/jupgfruz.html",
+          "publishedOn": "2023-11-17T04:40:01.000Z",
+          "wordCount": 337,
+          "title": "泰国证交会修改数字代币法规以保护投资者",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ey2t6oi3.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，Galaxy研究副总裁Christine Kim发文总结第122次以太坊核心开发者共识（ACDE）电话会议，开发人员同意在下周四的 ACDE 会议上开始讨论 Devnet #12 的启动，还讨论了 Geth 开发人员 Péter Szilágyi 提出的一项提案，以解决对执行层（EL）客户端多样性的担忧。共识层（CL）客户端团队正在对 Blob 传播（propagation）进行改进，这将显著降低过去 11 个 devnet 上观察到的与 Blob 传播相关的复杂性和问题。大多数 CL 客户端团队计划在本周或下周完成 Deneb 规范的更新实施。",
+          "link": "https://panewslab.com/zh/articledetails/ey2t6oi3.html",
+          "publishedOn": "2023-11-17T04:29:58.000Z",
+          "wordCount": 396,
+          "title": "以太坊核心开发者共识会议：拟于下周四讨论Devnet #12的启动",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2rv1d4sc.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，链上分析师余烬发推文称，Render Network 多签地址 (0xB6E) 在 1 天前转出 200 万枚RNDR($6.16M) 至 GSR Markets。 9 小时前，GSR Markets (0xB34) 将其中 48.5 万枚 RNDR($1.49M) 转入 6 个 CEX 。",
+          "link": "https://panewslab.com/zh/articledetails/2rv1d4sc.html",
+          "publishedOn": "2023-11-17T04:12:30.000Z",
+          "wordCount": 424,
+          "title": "GSR Markets 9小时前将48.5万枚RNDR转入6个CEX",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ujbyfc2x.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，香港证监会虚拟资产交易平台申请者名单显示，目前累计共有6家公司正申请虚拟资产交易平台牌照。最新一家为，猎豹交易（香港）有限公司（Panthertrade（Hong Kong）Limited）于本周三（15日）递交牌照申请，旗下虚拟资产交易平台名为“PantherTrade”。猎豹交易为富途控股（美：FUTU）全资子公司。\n资料显示，PantherTrade于9月14日委任陈志湖为董事，其曾任火币资产管理（香港）有限公司投资总监，火币其后易名为新火科技，陈志湖于新火资产管理的4号牌于2023年5月完结，另一董事为洪亿民。公司于今年3月7日递交法团成立表格，首名董事为方行陟，资料显示其于2019年9月至2020年7月曾任京东证券有限公司。\n《日经亚洲》上月曾报道，有两家虚拟资产平台正在排队申请牌照，包括Yax及PantherTrade，前者是由老虎证券（美：TIGR）员工孵化的平台。报道亦引述多个消息称，PantherTrade与富途控股有关。富途控股发言人亦证实PantherTrade为富途控股众多子公司之一。\n相关阅读：60多家香港券商，分食比特币红利",
+          "link": "https://panewslab.com/zh/articledetails/ujbyfc2x.html",
+          "publishedOn": "2023-11-17T04:06:45.000Z",
+          "wordCount": 342,
+          "title": "富途旗下PantherTrade已向香港证监会递交虚拟资产交易平台牌照申请",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5m47jfkl.html",
+          "author": "PA一线",
+          "description": "PANews 11月17日消息，MPC钱包 OpenBlock已推出OB Pass任务中心版块。该任务平台鼓励用户通过完成OpenBlock 钱包功能交互、链上项目交互等交互任务，深入连接Web 3.0并获得空投奖励。OB Pass首期任务现已上线，其提供任务包括短时间内熟悉MPC钱包、完成Scroll和zkSync链上交互等，参与用户将以空投形式抽取bigime白沙漏、bigtime蓝色空间、USDC、zks域名、Azuki等奖励。\n首期活动将于11月24日截止，届时官方将依据积分量为用户抽取兑奖券。此外，用户也可通过完成任务、邀请好友的方式获取积分。",
+          "link": "https://panewslab.com/zh/articledetails/5m47jfkl.html",
+          "publishedOn": "2023-11-17T04:00:29.000Z",
+          "wordCount": 349,
+          "title": "MPC钱包OpenBlock推出OB Pass任务中心版块",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/4khkj8jy.html",
           "author": "PA一线",
           "description": "PANews 11月17日消息，ConsenSys 的 Layer2 网络 Linea 宣布已部署 Linea Voyage XP 智能合约。\nVoyage XP 是不可转让的灵魂绑定代币，旨在表彰社区对 Linea 生态系统发展的贡献。Voyage XP 是 ERC-20 的定制版本，没有任何货币价值，不能购买、出售或交易，也不能通过从另一个钱包转移来积累。\n目前，“Linea Voyage: DeFi”活动正在进行中。",
           "link": "https://panewslab.com/zh/articledetails/4khkj8jy.html",
           "publishedOn": "2023-11-17T03:35:41.000Z",
-          "wordCount": 401,
+          "wordCount": 402,
           "title": "Linea已部署Linea Voyage XP智能合约",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +268,7 @@
           "description": "PANews 11月17日消息，币安将支持 Virtua (TVK) 代币置换并更名为 Vanar (VANRY)。2023年11月27日11:30（北京时间），TVK将暂停充提币。活动结束后，币安将另行公告，通知用户VANRY充值和提现时间。此后将不再支持TVK代币充值和提现。",
           "link": "https://panewslab.com/zh/articledetails/qwb96d0w.html",
           "publishedOn": "2023-11-17T03:33:23.000Z",
-          "wordCount": 352,
+          "wordCount": 353,
           "title": "币安将支持Virtua代币置换并更名为Vanar",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +278,7 @@
           "description": "PANews 11月17日消息，多链去中心化交易所Sushi与专注于互操作性的Layer 1公链ZetaChain宣布达成合作，推出首个支持原生比特币的Omnichain（全链）DEX。这将使得比特币能够与其他链上的资产进行原生且去中心化的交易，释放更大的BTC交易潜力，激活BTC的链上流动性，对于以往与DeFi生态系统相对隔离的比特币网络而言，具有划时代的意义。\n通过ZetaChain的Omnichain智能合约技术，开发者可以在一个平台上访问所有区块链的数据和资产。这使得Sushi能够在ZetaChain平台上，便捷地实现其以太坊智能合约的跨链应用，例如SushiXSwap功能，预计将支持在30个不同链上进行比特币交易。\nSushi的首席执行官Jared Grey表示：“Sushi与ZetaChain的合作代表了DeFi领域的一个重大进步。能够原生交换比特币，消除了封装或桥接的需要，这对整个行业来说是一个游戏规则改变者。这不仅关乎比特币带来的增加流动性；更是DeFi新篇章的开始，在这里我们看到了更多实用的互操作性和增强连接性的应用案例。”",
           "link": "https://panewslab.com/zh/articledetails/nz12k3ua.html",
           "publishedOn": "2023-11-17T03:00:54.000Z",
-          "wordCount": 349,
+          "wordCount": 346,
           "title": "Sushi与ZetaChain合作，推出首个支持原生比特币交易的全链DEX",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +288,7 @@
           "description": "PANews 11月17日消息，以太坊研究人员发起“RIP-7560 原生账户抽象”提案，旨在引入共识层协议更改，而非仅依赖于更高层次的基础设施。该提案将 EIP-2938 和 ERC-4337 合并为全面的原生账户抽象提案，建议将以太坊交易分为多个步骤，包括验证、执行和交易后逻辑。交易的有效性由交易的验证步骤的结果来决定。",
           "link": "https://panewslab.com/zh/articledetails/m9vqxldp.html",
           "publishedOn": "2023-11-17T02:53:19.000Z",
-          "wordCount": 347,
+          "wordCount": 348,
           "title": "以太坊开发者发起RIP-7560原生账户抽象提案，旨在引入共识层协议更改",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +298,7 @@
           "description": "PANews 11月17日消息，风险投资公司 Menlo Ventures 宣布已筹集 13.5 亿美元新资金，主要投资新一代人工智能初创公司。Menlo Ventures 消费和游戏合伙人 Amy Wu（前 FTX Ventures 负责人）表示，还将用这笔资金支持消费、游戏和区块链领域创始人。\nMenlo Ventures 成立于 1976 年，投资组合包括 70 多家上市公司和 100 多项并购，管理资产达 50 亿美元。",
           "link": "https://panewslab.com/zh/articledetails/vzvbvxfd.html",
           "publishedOn": "2023-11-17T02:49:15.000Z",
-          "wordCount": 398,
+          "wordCount": 399,
           "title": "风投公司Menlo Ventures已筹集13.5亿美元新资金，将主要投资于人工智能公司",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,148 +308,8 @@
           "description": "PANews 11月17日消息，PeckShield 监测显示，标记为 FTX/Alameda 的地址从 Polygon (Matic) ：PoS 质押合约收到约 1150 万枚 MATIC（价值约 980 万美元）。",
           "link": "https://panewslab.com/zh/articledetails/al9s5rk4.html",
           "publishedOn": "2023-11-17T02:34:41.000Z",
-          "wordCount": 383,
+          "wordCount": 388,
           "title": "FTX/Alameda地址从Polygon PoS质押合约中收到1150万枚MATIC",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/woy667rv.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，Terra 官方推特发文表示，为了支持 Terra 生态系统项目，Terraform Labs（TFL）已通过 OTC 购买 2240 万枚 ASTRO。ASTRO 暂报 0.06 美元。",
-          "link": "https://panewslab.com/zh/articledetails/woy667rv.html",
-          "publishedOn": "2023-11-17T02:22:22.000Z",
-          "wordCount": 377,
-          "title": "Terraform Labs已通过OTC购买2240万枚ASTRO",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/b2880wsh.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，据比特丛林分析发现，网络钓鱼者 Fake_Phishing193319、Fake_Phishing188246 已从受害者 0xc108…2575 盗走150万枚aUSDT及178万枚aEthUSDT，累计340万美元。\n比特丛林工程师分析称，此类钓鱼合约，通常采取游戏奖励等诱取用户签名授权、提额授权。该事件中，也是采用了离线授权签名的钓鱼代码（permit类型）来实现，意味着一旦用户同意授权，钓鱼者即可转走受害者全部资产。此外，比特丛林进一步监测发现，黑客盗取资金后，通过多个地址，继续转移藏匿，其监测到与被盗资产强相关的地址，也同步举报到了以太坊问题地址标签。",
-          "link": "https://panewslab.com/zh/articledetails/b2880wsh.html",
-          "publishedOn": "2023-11-17T02:19:39.000Z",
-          "wordCount": 341,
-          "title": "比特丛林：近日以太坊钓鱼合约猖狂，仅单笔盗取高达340万美元资产",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/k3vilf5h.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，币安新增全仓杠杆和逐仓杠杆交易对。\n新全仓保证金货币对：AMP/USDT；\n新增逐仓保证金货币对：ACA/USDT、GHST/USDT、GLM/USDT、VIDT/USDT。",
-          "link": "https://panewslab.com/zh/articledetails/k3vilf5h.html",
-          "publishedOn": "2023-11-17T02:16:51.000Z",
-          "wordCount": 329,
-          "title": "币安新增ACA、AMP、GHST等全仓保证金和逐仓保证金交易对",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/nvdu3qm3.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，以太坊再质押协议 EigenLayer 宣布推出 EigenLayer 和 EigenDA 的第二阶段测试网，Operator（运营者）可以注册到网络并开始验证 EigenDA；Restakers 可以将他们的质押委托给 Operator，并开始将共享安全性与 EigenDA 结合使用；作为 Rollups 开发人员，可以将 EigenDA 集成为数据可用性层。EigenLayer 预计第二阶段主网将于 2024 年上半年启动。第三阶段将引入 EigenDA 之外的 AVS（主动验证服务），预计第三阶段将于 2024 年进入测试网和主网。",
-          "link": "https://panewslab.com/zh/articledetails/nvdu3qm3.html",
-          "publishedOn": "2023-11-17T02:11:28.000Z",
-          "wordCount": 391,
-          "title": "EigenLayer推出EigenLayer和EigenDA的第二阶段测试网，预计明年上半年启动第二阶段主网",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/p1kwmugn.html",
-          "author": "PA一线",
-          "description": "WisdomTree提交修订后的比特币现货ETF招股说明书\n彭博分析师James Seyffart在推特发文称，WisdomTree已向美国SEC提交修订后的现货比特币ETF招股说明书（S-1文件）。 这意味着12名比特币现货ETF申请人中仅剩Franklin尚未提交修订后的招股说明书。\n美国CFTC专员：加密货币监管规则或将于未来几周内出台\n据The Block报道，美国商品期货交易委员会 (CFTC) 专员Christy Goldsmith Romero和Kristin Johnson敦促该机构发布规则或指南，以解决加密货币领域的利益冲突并保护消费者。Johnson在亚特兰大联邦储备银行的会议上表示，FTX、Celsius和Voyager的破产表明需要通过隔离客户存款来保护加密资产。CFTC应该“立即制定有关资产托管的监管”，管理加密货币的规则可能会在未来几周内出台。Romero也表示，CFTC应该严肃对待关于加密货币的警告，并与其它监管机构合作。\nStrike已支持美国以外国家用户直接购买比特币\n据CoinDesk报道，比特币支付应用Strike已支持美国以外36个国家的用户直接通过app购买比特币，未来该服务将推广至超过65个国家。与美国用户购买比特币免费不同，全球用户购买比特币需支付3.9%的费用。与此同时，Send Globally通道现已可供全球Strike用户使用，允许受支持国家/地区的客户将法币、USDT或比特币兑现为当地货币。此外，Strike还与加密支付公司Bitrefill合作，Strike用户现可通过闪电网络购买日常必需品。\n美国SEC要求马斯克在推特收购案调查中作证\n据路透社报道，美国证券交易委员会 (SEC) 在周四向旧金山联邦法院提交的一份文件中表示，马斯克应该在SEC对其以440亿美元收购推特的调查中作证。SEC上个月表示正在调查马斯克20…",
-          "link": "https://panewslab.com/zh/articledetails/p1kwmugn.html",
-          "publishedOn": "2023-11-17T01:55:29.000Z",
-          "wordCount": 508,
-          "title": "昨夜今晨重要资讯（11月16日-11月17日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/11/17/images/Qcl4Q1M83a.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/w319t5f6.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，据彭博社报道，负责币安反恐怖主义融资项目的詹妮弗·希克斯 (Jennifer Hicks) 已离开该公司。Jennifer Hicks 于 2021 年 12 月加入币安，先后担任情报和调查高级经理、制裁和恐怖主义融资风险高级调查员、高级反恐官员。在加入币安之前，Jennifer Hicks 曾在Chainalysis 担任高级网络犯罪调查员。",
-          "link": "https://panewslab.com/zh/articledetails/w319t5f6.html",
-          "publishedOn": "2023-11-17T01:43:00.000Z",
-          "wordCount": 375,
-          "title": "币安高级反恐专员Jennifer Hicks目前已离职",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5uneeocs.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，据韩国媒体报道，韩国加密交易所Bithumb前董事长李正勋（Lee Jeong-hoon）被控犯有价值1100亿韩元的欺诈案，在上诉法院被判处8年有期徒刑。\n相关阅读：韩国交易所Bithumb高层丑闻不断：实控人遭逮捕，前董事长被告诈骗，股东公司高管自杀",
-          "link": "https://panewslab.com/zh/articledetails/5uneeocs.html",
-          "publishedOn": "2023-11-17T01:28:27.000Z",
-          "wordCount": 340,
-          "title": "Bithumb前董事长李正勋被判处8年有期徒刑",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/69u0855i.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，游戏内用户档案和货币化平台Artifact Lab完成200万美元pre-seed轮融资，RW3 Ventures和IOSG Ventures领投，Raptor Group、Cypher Capital和Hercules DAO参投。目前 Artifact 的抢先体验注册现已开放。\nArtifact Lab成立于2023年，推出了一种创新方法，通过游戏和其他移动应用程序中的用户获利，此次资金注入将成为平台开发、团队扩张和加速增长的催化剂。",
-          "link": "https://panewslab.com/zh/articledetails/69u0855i.html",
-          "publishedOn": "2023-11-17T01:16:20.000Z",
-          "wordCount": 375,
-          "title": "Artifact Lab完成200万美元pre-seed轮融资，RW3 Ventures和IOSG Ventures领投",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/357ovr64.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，据美国司法部官网，检察官于周四逮捕了Zhong Shi Gao（31 岁）、Naifeng Xu（37 岁）和Fei Jiang（41 岁）三人，罪名是涉嫌从银行和金融机构窃取超过 1000 万美元，然后他们将这些资金转换为加密货币并转移到外国加密货币交易所。 并被指控一项串谋银行欺诈罪、一项串谋实施影响金融机构的电汇欺诈罪、一项串谋洗钱罪和一项串谋诈骗罪。根据纽约南区美国检察官办公室的说法，这是严重的身份盗窃罪。这些指控加在一起最高可判处 82 年徒刑。",
-          "link": "https://panewslab.com/zh/articledetails/357ovr64.html",
-          "publishedOn": "2023-11-17T01:10:52.000Z",
-          "wordCount": 369,
-          "title": "三名男子因银行欺诈和加密货币洗钱计划在美国被捕",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zhwq52tn.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，链上分析师余烬发推文称，8 小时前，Dragonfly Capital 其中一个地址 (0xCDF) 将 150 万 LDO($3.5M) 转入 Coinbase Prime。\n去年 8-9 月，Dragonfly Capital 通过 2 个地址以 $2.427 的价格从 Lido 国库购买了 1000 万枚 $LDO ，锁仓期 1 年。",
-          "link": "https://panewslab.com/zh/articledetails/zhwq52tn.html",
-          "publishedOn": "2023-11-17T00:58:10.000Z",
-          "wordCount": 426,
-          "title": "Dragonfly Capital 8小时前将150万LDO转入Coinbase Prime",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/o2rf1chn.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，据TechCrunch报道，Web3战术收藏卡牌游戏Shardbound开发商Bazooka Tango已完成500万美元融资，该轮融资由 Bitkraft Ventures 领投，RW3 Ventures、Sfermion、Foresight Ventures 和 Builder Capital 等公司参投。Bazooka Tango 将于今年晚些时候推出公开测试版。它将于 2024 年正式推出，并在 Steam、Epic、Apple Store 和 Google Play Store 上架。\n该公司由 Bo Daly 和 Stephan Sherman 于 2019 年创立，他们是 AAA 游戏行业的资深人士，也是多人在线竞技场游戏《Vainglory》的幕后主脑。《虚荣》是由 Daly 和 Sherman 之前的游戏公司 Super Evil Megacorp 开发和发行的。",
-          "link": "https://panewslab.com/zh/articledetails/o2rf1chn.html",
-          "publishedOn": "2023-11-17T00:55:42.000Z",
-          "wordCount": 432,
-          "title": "收藏卡牌游戏Shardbound开发商Bazooka Tango完成500万美元融资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/o0b22zd5.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，据官方博客，Coinbase 开发了一种新的开源链上支付协议来改进其 Coinbase Commerce。该协议提供即时结算、低费用和广泛的资产支持，以改善商家及其客户的支付体验。该协议会以有保证的汇率自动将客户选择的货币兑换为 USDC。该协议目前支持以太坊、Polygon 和 Base 网络。\n据悉，Coinbase Commerce 是 Coinbase 于 2018 年推出的一款针对在线商家的支付应用，可以让商家接受加密货币付款。",
-          "link": "https://panewslab.com/zh/articledetails/o0b22zd5.html",
-          "publishedOn": "2023-11-17T00:48:45.000Z",
-          "wordCount": 365,
-          "title": "Coinbase Commerce更新链上支付协议，以改进其服务",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7k06yowt.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，据The Block报道，总部位于亚洲、专门从事跨境支付的加密货币交易所 XREX 已在新加坡获得主要支付机构 (​​MPI) 许可证的原则批准。该许可最终将允许其在新加坡提供数字支付代币产品和服务。\n该许可证一旦完全获得，将允许该公司扩展 BitCheck，这是一种支持法定货币、稳定币和其他加密货币的支付工具。XREX 新加坡首席执行官 Christopher Chye 表示：“我们期待与 MAS 合作，在六个月内获得完整的许可证。”",
-          "link": "https://panewslab.com/zh/articledetails/7k06yowt.html",
-          "publishedOn": "2023-11-17T00:35:19.000Z",
-          "wordCount": 354,
-          "title": "XREX获得新加坡主要支付机构牌照的原则批准",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/uaj2n77m.html",
-          "author": "PA一线",
-          "description": "PANews 11月17日消息，德国联邦议院议员Joana Cotar在接受采访时表示支持让比特币成为德国的法定货币。她希望启动法律框架的“初步审查”，以正式承认比特币为该国的法定货币。该议员宣称她完全专注于比特币，她对市场上的其他加密货币不感兴趣。",
-          "link": "https://panewslab.com/zh/articledetails/uaj2n77m.html",
-          "publishedOn": "2023-11-17T00:16:00.000Z",
-          "wordCount": 338,
-          "title": "德国议员Joana Cotar支持让比特币成为德国的法定货币，并希望启动法律框架的“初步审查”",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
