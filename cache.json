@@ -118,7 +118,7 @@
           "description": "PANews 11月17日消息，ConsenSys 的 Layer2 网络 Linea 宣布已部署 Linea Voyage XP 智能合约。\nVoyage XP 是不可转让的灵魂绑定代币，旨在表彰社区对 Linea 生态系统发展的贡献。Voyage XP 是 ERC-20 的定制版本，没有任何货币价值，不能购买、出售或交易，也不能通过从另一个钱包转移来积累。\n目前，“Linea Voyage: DeFi”活动正在进行中。",
           "link": "https://panewslab.com/zh/articledetails/4khkj8jy.html",
           "publishedOn": "2023-11-17T03:35:41.000Z",
-          "wordCount": 399,
+          "wordCount": 401,
           "title": "Linea已部署Linea Voyage XP智能合约",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 11月17日消息，以太坊研究人员发起“RIP-7560 原生账户抽象”提案，旨在引入共识层协议更改，而非仅依赖于更高层次的基础设施。该提案将 EIP-2938 和 ERC-4337 合并为全面的原生账户抽象提案，建议将以太坊交易分为多个步骤，包括验证、执行和交易后逻辑。交易的有效性由交易的验证步骤的结果来决定。",
           "link": "https://panewslab.com/zh/articledetails/m9vqxldp.html",
           "publishedOn": "2023-11-17T02:53:19.000Z",
-          "wordCount": 345,
+          "wordCount": 347,
           "title": "以太坊开发者发起RIP-7560原生账户抽象提案，旨在引入共识层协议更改",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 11月17日消息，币安新增全仓杠杆和逐仓杠杆交易对。\n新全仓保证金货币对：AMP/USDT；\n新增逐仓保证金货币对：ACA/USDT、GHST/USDT、GLM/USDT、VIDT/USDT。",
           "link": "https://panewslab.com/zh/articledetails/k3vilf5h.html",
           "publishedOn": "2023-11-17T02:16:51.000Z",
-          "wordCount": 331,
+          "wordCount": 329,
           "title": "币安新增ACA、AMP、GHST等全仓保证金和逐仓保证金交易对",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 11月17日消息，以太坊再质押协议 EigenLayer 宣布推出 EigenLayer 和 EigenDA 的第二阶段测试网，Operator（运营者）可以注册到网络并开始验证 EigenDA；Restakers 可以将他们的质押委托给 Operator，并开始将共享安全性与 EigenDA 结合使用；作为 Rollups 开发人员，可以将 EigenDA 集成为数据可用性层。EigenLayer 预计第二阶段主网将于 2024 年上半年启动。第三阶段将引入 EigenDA 之外的 AVS（主动验证服务），预计第三阶段将于 2024 年进入测试网和主网。",
           "link": "https://panewslab.com/zh/articledetails/nvdu3qm3.html",
           "publishedOn": "2023-11-17T02:11:28.000Z",
-          "wordCount": 389,
+          "wordCount": 391,
           "title": "EigenLayer推出EigenLayer和EigenDA的第二阶段测试网，预计明年上半年启动第二阶段主网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -320,6 +320,16 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202311/21386.html",
+          "author": null,
+          "description": "1.昨日比特币全网手续费超317.4枚BTC，创近半年新高\n\n2.Tether计划未来6个月投资5亿美元用于比特币挖矿。\n\n3.Coinbase Commerce推出新的开源链上支付协议，现支持以太坊、Polygon和Base。\n\n4.ENS创始人抨击Unstoppable Domains没有创新，并抢占了ENS的专利。\n\n5.风投机构Menlo Ventures完成13.5亿美元融资，前FTX Ventures负责人Amy Wu或将负责投资区块链项目。\n\n6.Backpack Exchange宣布上线Pyth Network (PYTH)并推出质押空投活动。\n\n7.德国联邦议员希望使比特币成为法定货币。\n\n8.Nostr Assets Protocol正考虑向选定BRC20和Ordinal系列持有者发起空投。\n\n9.EigenLayer推出EigenLayer和EigenDA第二阶段测试网，明年上半年启动第二阶段主网。\n\n10.一巨鲸取消质押的216万枚SOL，并转出130万枚SOL。",
+          "link": "https://www.hellobtc.com/news/202311/21386.html",
+          "publishedOn": "2023-11-17T03:39:00.000Z",
+          "wordCount": 319,
+          "title": "白话区块链早报：昨日比特币全网手续费超317.4枚BTC，创近半年新高",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202311/21385.html",
           "author": null,
           "description": "加密货币交易所Coinext首席执行官、比特币极端主义者José Ribeiro表示，巴西的加密货币监管环境正在推动竞争力。Ribeiro表示，随着越来越多的全球加密货币交易所（例如Binance、OKX和Coinbase）在巴西开展业务，巴西的比特币交易量将在2023年达到创纪录水平。 José Ribeiro还表示，巴西监管机构愿意参与有关加密货币和支付的讨论。过去几年，巴西央行实施了Pix支付系统，允许个人和企业之间进行即时支付。",
@@ -407,16 +417,6 @@
           "publishedOn": "2023-11-14T12:51:00.000Z",
           "wordCount": 297,
           "title": "吴杰庄：特区政府的Web3政策相信能让香港成为全球合规虚拟资产Web3中心",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202311/21376.html",
-          "author": null,
-          "description": "近日，央行数字货币协作组织(CBDCCO)在德国慕尼黑正式宣布成立并举行了第一次闭门会议。据介绍，央行数字货币协作组织已有来自多国的约40多个重要代表参加理事会，并将进一步拓展邀请其他组织和政府共同参与，以创造全球具有可持续性和包容性的共同金融未来。",
-          "link": "https://www.hellobtc.com/news/202311/21376.html",
-          "publishedOn": "2023-11-14T12:51:00.000Z",
-          "wordCount": 300,
-          "title": "央行数字货币协作组织（CBDCCO）正式成立并达成行动计划",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
