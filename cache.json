@@ -1,6 +1,113 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=95133",
+          "author": "Gao",
+          "description": "在市场波动性较大的当前阶段，链上永续合约平台迎来了较大的交易量，平台币的表现也十分抢眼。截至 11 月 16 日，DYDX 代币价格为 4.02 美元，在过去 7 天上涨了 54.45%。根据 CoinGecko 提供的数据，dYdX 最近每日的交易量大约为 17 亿美元，这个数值超过了过去三个月中前两个月每日交易量的峰值。dYdX 是该赛道市值最大的项目，其市场表现也显示出投资者对 dYdX 的强烈兴趣和积极反应。",
+          "link": "https://www.web3sj.com/definews/95133/",
+          "publishedOn": "2023-11-17T13:22:55.000Z",
+          "wordCount": 1186,
+          "title": "dYdX进入Cosmos应用链时代：激励交易迁移与市场动态分析",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700227355024.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95124",
+          "author": "Gao",
+          "description": "而在 NFT 这个概念被越来越多的人熟知后，围绕其独特属性，衍生出了诸如用于证明音乐、视频、图片等数字资产以及艺术品、汽车或活动门票等非数字资产的所有权的用途。大量的机构发觉了 NFT 与众不同的特点，并选择早早布局。",
+          "link": "https://www.web3sj.com/nftnews/95124/",
+          "publishedOn": "2023-11-17T13:17:24.000Z",
+          "wordCount": 1738,
+          "title": "NFT与ERC-6551：新星再度闪耀",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700227021194.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95120",
+          "author": "Gao",
+          "description": "美国证券交易委员会（SEC）要求延长其批准或拒绝 BTC 和以太坊 ETF 的决定。目前，这两种 ETF 的候选者正在等待 2024 年的最终决定。该监管机构于 11 月 15 日申请延期，称其需要更多时间来适当审查申请问题及其关于 ETF 的决定。",
+          "link": "https://www.web3sj.com/news/95120/",
+          "publishedOn": "2023-11-17T13:08:19.000Z",
+          "wordCount": 971,
+          "title": "SEC拖延症发作，BTC和以太坊ETF的审批或到2024年才能有答案",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/784647a325b274d7faf5abbe5771bb5d.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95117",
+          "author": "Gao",
+          "description": "截止本周，各大上市公司的第三季度财报已经陆续发出，其中揭示了区块链领域的最新商业动态和财务趋势。这些报告不仅反映了各公司在这一领域的表现，也为我们提供了一个观察和分析区块链技术在全球经济中作用和影响的独特视角。",
+          "link": "https://www.web3sj.com/news/95117/",
+          "publishedOn": "2023-11-17T13:04:52.000Z",
+          "wordCount": 1122,
+          "title": "Coinbase外，这6家涉币上市公司Q3表现也值得关注",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700226277424.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95114",
+          "author": "Gao",
+          "description": "这是比特币的创始人中本聪在比特币网络创世区块里记录的一段文字，那一天是 2019 年 1 月 9 日，这段铭文见证了比特币的诞生，也记录了对金融危机的讽刺。",
+          "link": "https://www.web3sj.com/news/95114/",
+          "publishedOn": "2023-11-17T13:00:23.000Z",
+          "wordCount": 937,
+          "title": "比特币铭文：一场背离中本聪初衷的炒作？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700226008254.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95111",
+          "author": "Gao",
+          "description": "美国CFTC专员：加密货币监管规则或将于未来几周内出台。Aave更名为Avara，收购Web3初创公司Los Feliz Engineering。以太坊开发者发起RIP-7560原生账户抽象提案，旨在引入共识层协议更改。",
+          "link": "https://www.web3sj.com/news/95111/",
+          "publishedOn": "2023-11-17T12:44:23.000Z",
+          "wordCount": 891,
+          "title": "Web3世界日报（2023-11.17）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/2023111712422641.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95093",
+          "author": "Gao",
+          "description": "Layer 1 是构成基础的区块链，在其中添加区块并最终确定交易。然而，Layer 1 面临区块链三难困境，它们无法兼顾可扩展性、去中心化或安全性。像比特币和以太坊这样的区块链优先考虑去中心化和安全性而不是可扩展性，随着网络用户的增加，这些网络的交易速度会变得很低。",
+          "link": "https://www.web3sj.com/news/95093/",
+          "publishedOn": "2023-11-17T07:50:03.000Z",
+          "wordCount": 1160,
+          "title": "一文了解Layer3的原理和当前市场格局",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700207387703.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95081",
+          "author": "Gao",
+          "description": "根据 Scrollscan 浏览器数据显示，截至 11 月 15 日，Scrol 主网上已完成了约 471 万笔交易，其中 11 月 9 日当日交易笔数超过 43.4 万，现日均交易数在 10 万上下，链上钱包地址数已突破 200 万个（约 206 万个），已生成的区块数为 80 万个。",
+          "link": "https://www.web3sj.com/news/95081/",
+          "publishedOn": "2023-11-17T07:39:11.000Z",
+          "wordCount": 1314,
+          "title": "TVL增至4000万美元，Layer2新秀Scroll生态有哪些参与机会？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700206736728.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95073",
+          "author": "Gao",
+          "description": "Avalanche 是一个专为可扩展性而设计的公链平台，具有由可扩展网络的子网组成的多链框架，主网包括 P 链、X 链和 C 链：P 链管理验证器和子网级功能；X 链管理 Avalanche 原生代币（现实世界资产的数字表示）；C 链是实现以太坊虚拟机（EVM）。",
+          "link": "https://www.web3sj.com/news/95073/",
+          "publishedOn": "2023-11-17T07:01:56.000Z",
+          "wordCount": 1405,
+          "title": "Avalanche Q3报告：战略合作涉及多个领域，生态系统充满活力",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700204501358.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=95069",
+          "author": "Gao",
+          "description": "去中心化金融（DeFi）的世界就像站在巨大变革的悬崖边缘。就像美国商品期货交易委员会（CFTC）最近对 Opyn、ZeroEx 和 Deridex 等公司的处理所强调的，清晰的规则是极其重要的。同时，美国证券交易委员会、财政部和国内税收服务局等机构也在关注 DeFi，大家都在呼唤一个明确的法律框架。",
+          "link": "https://www.web3sj.com/definews/95069/",
+          "publishedOn": "2023-11-17T06:45:10.000Z",
+          "wordCount": 911,
+          "title": "关于DeFi监管的一些思考",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1700203494384.png"
+        }
+      ]
+    },
+    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
