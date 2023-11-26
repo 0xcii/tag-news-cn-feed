@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-26T12:22:53.011Z</id>
+    <id>urn:2023-11-26T15:12:04.889Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-26T12:22:53.011Z</updated>
+    <updated>2023-11-26T15:12:04.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZuConnect，思维方式改变的前奏]]></title>
+        <id>https://www.web3sj.com/?p=96102</id>
+        <link href="https://www.web3sj.com/news/96102/"/>
+        <updated>2023-11-26T12:44:01.000Z</updated>
+        <summary type="html"><![CDATA[ZuConnect 是在 DevConnect 大会之前发生的，为期两周的 pop-up city，是 Zuzalu 的延续活动。这次 pop-up city 的参与者画像可以概括为：国籍和行业多元、高素质的 300 人社区。把这样一群人聚在伊斯坦布尔这座美丽又复杂的城市，本身就会发生神奇的化学反应。参与者和选址本身就是极好的原材料，不需要过多雕琢。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从Blast到Layer2多签后门：技术与社会共识哪个更重要？]]></title>
+        <id>https://www.web3sj.com/?p=96082</id>
+        <link href="https://www.web3sj.com/news/96082/"/>
+        <updated>2023-11-26T12:37:59.000Z</updated>
+        <summary type="html"><![CDATA[诚然，Blast 靠 3/5 多签来控制充值地址一事被广泛诟病，但大多数 Layer2 也同样靠多签管理合约，此前 Optimism 甚至只用一个 EOA 地址控制合约升级权限。在主流 Layer2 几乎都存在多签等安全隐患的当下，抨击 Blast 不够安全，更像是技术精英们对一个打金项目的「看不起」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-11.26）]]></title>
         <id>https://www.web3sj.com/?p=96078</id>
@@ -348,26 +368,6 @@
         <link href="https://www.web3sj.com/news/95973/"/>
         <updated>2023-11-24T12:39:29.000Z</updated>
         <summary type="html"><![CDATA[比特币是第一个公共区块链。在早期，如果您想利用这一新的技术突破创建一个新的应用程序，您必须启动自己的区块链。例如一开始 Namecoin（点对点命名系统）是比特币网络的一个分支。这个公共区块链时代类似于互联网早期，你必须托管自己的服务器来构建网站。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana铭文狂热：一场落后就挨打的抢票游戏]]></title>
-        <id>https://www.web3sj.com/?p=95960</id>
-        <link href="https://www.web3sj.com/news/95960/"/>
-        <updated>2023-11-24T12:36:00.000Z</updated>
-        <summary type="html"><![CDATA[资金涌入比特币铭文市场这片处女地之后，也产生了明显的 FOMO 效应，流动性开始外溢到其他生态。如果新生态上没有铭文，市场总会如法炮制建个新的；随后便是一场争先恐后的打铭文游戏。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全方位数据对比：谁是L2赛道的明日之星？]]></title>
-        <id>https://www.web3sj.com/?p=95933</id>
-        <link href="https://www.web3sj.com/news/95933/"/>
-        <updated>2023-11-24T12:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Layer2 技术原本的愿景是解决以太坊的扩容需求，提高交易吞吐量，同时依赖以太坊保持去中心化和安全性，对用户来说是更好的用户体验，远低于主网的手续费和更小的延迟拥堵。]]></summary>
         <author>
             <name>Gao</name>
         </author>
