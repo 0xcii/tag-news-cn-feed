@@ -1,10 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T12:25:57.553Z</id>
+    <id>urn:2023-11-28T13:16:42.019Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-28T12:25:57.553Z</updated>
+    <updated>2023-11-28T13:16:42.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[浅析Equation：链上永续合约协议]]></title>
+        <id>https://www.web3sj.com/?p=96314</id>
+        <link href="https://www.web3sj.com/project/96314/"/>
+        <updated>2023-11-28T13:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Blur 在 Opensea 拥有绝对市场领导地位的情况下，依靠独特的代币激励机制迎头赶上，甚至有稳坐赛道第一的趋势。这其中代币在项目启动过程的模式设计至关重要，明牌让用户能真正的获得好处。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有望和比特币、以太坊生态三分天下的公链，算它一个，你同意吗？]]></title>
+        <id>https://www.web3sj.com/?p=96308</id>
+        <link href="https://www.web3sj.com/project/96308/"/>
+        <updated>2023-11-28T13:11:13.000Z</updated>
+        <summary type="html"><![CDATA[11 月 26 日，Cosmos Hub 社区经过惊险的投票反转，终于在最后时刻通过「ATOM 减产：将最大通胀率设置为 10%」提案，这也意味着 ATOM 最大通胀参数将从 20% 降低至 10%，使 ATOM 当前的通胀率降至 10%，并将 staking 年利率从 19% 降至 13.4%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反思Blast多签风波：为何Layer 2技术去中心化那么难？]]></title>
+        <id>https://www.web3sj.com/?p=96305</id>
+        <link href="https://www.web3sj.com/news/96305/"/>
+        <updated>2023-11-28T13:07:47.000Z</updated>
+        <summary type="html"><![CDATA[首先厘清所谓 layer2 的技术组件去中心化，包括：Sequencer、Prover、Validator、主网 Rollup Contract 等分布于主网和 layer2 的多个关键组件，其中 ZK-Rollup 比 OP-Rollup 多了 Prover 系统，基本大家都围绕 Sequencer 的运营为核心。此外有的区别就是 Data Avaliablity 的实现依赖以太坊主网的程度，以及 EVM 主网的等效程度了。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC官方备忘录透露重要细节，正与申请者进行ETF赎回模式讨论]]></title>
+        <id>https://www.web3sj.com/?p=96302</id>
+        <link href="https://www.web3sj.com/news/96302/"/>
+        <updated>2023-11-28T13:02:50.000Z</updated>
+        <summary type="html"><![CDATA[前者涉及以 ETF 持有的 BTC 份额进行最终赎回，后者则将 BTC 份额换成等值的现金。彭博社 ETF 分析师 James Seyffart 在一条推文中指出，贝莱德似乎更倾向于实物赎回模式。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防御优先，如何通俗理解Vitalik提倡的d/acc ？]]></title>
+        <id>https://www.web3sj.com/?p=96290</id>
+        <link href="https://www.web3sj.com/news/96290/"/>
+        <updated>2023-11-28T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik 的博客常常被解读为技术的风向标，同时其中的概念也会时不时引起一阵加密圈的炒作。在这篇文章中，Vitalik 也提到了一个重要的，且看上去既陌生又熟悉的概念：「d/acc」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深读Vitalik的Staking长文：其构想将如何深远影响质押赛道？]]></title>
+        <id>https://www.web3sj.com/?p=96279</id>
+        <link href="https://www.web3sj.com/news/96279/"/>
+        <updated>2023-11-28T12:57:00.000Z</updated>
+        <summary type="html"><![CDATA[以太坊质押及其相关的衍生赛道无疑是近一两年最为火热的话题。从 Beacon Chain 到 The Merge 再到上海上级，从 LST 到 DVT 再到 Restaking、LSTfi，我们见证了质押以及相关赛道的崛起与迅速发展。究其背后的驱动因素，我们不难发现其发展起源于以太坊质押的范式变化。因此我们也应该思考：以太坊的质押范式在长期会如何演进，又会如何影响相关赛道以及主要玩家。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TVL 30天激增5倍，读懂Solana生态LSD协议Jito]]></title>
+        <id>https://www.web3sj.com/?p=96272</id>
+        <link href="https://www.web3sj.com/definews/96272/"/>
+        <updated>2023-11-28T12:51:56.000Z</updated>
+        <summary type="html"><![CDATA[今天要介绍的是一款可以捕获 Solana 网络中 MEV 收益的流动性质押产品 Jito。Jito 还在今日宣布即将推出治理代币，并且会将代币供应量的 10% 用来空投。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和ChatGPT同一个老板的Worldcoin，到底是不是空气币？]]></title>
+        <id>https://www.web3sj.com/?p=96261</id>
+        <link href="https://www.web3sj.com/news/96261/"/>
+        <updated>2023-11-28T12:47:48.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 的母公司叫 OpenAI，这个主体是 2015 年奥特曼和其他几个合伙人一起建立的。WorldCoin 的母公司叫 Tools For Humanity(TFH），这个主体是 2020 年奥特曼和另外两个合伙人一起建立的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密衍生品协议MYX完成500万美元种子轮融资，HongShan领投]]></title>
+        <id>https://panewslab.com/zh/articledetails/syw3mi1c.html</id>
+        <link href="https://panewslab.com/zh/articledetails/syw3mi1c.html"/>
+        <updated>2023-11-28T12:46:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月28日消息，据The Block报道，由D11 Labs孵化的加密衍生品协议MYX宣布以5000万美元估值完成500万美元种子轮融资，HongShan（原红杉中国）领投，Consensys 、Hack VC、OKX Ventures、Foresight Ventures、Redpoint China、HashKey Capital、GSR Markets、Alti5、Leland Ventures、Cypher Capital、Bing Ventures、Lecca Ventures等参投。本轮所融资金将用于加速MYX的技术创新和市场拓展，推动其主网产品的快速上线和规模化发展。
+同时，MYX宣布即将开启用于激励和回馈社区中早期支持者的Treasure Hunting Event，该活动将持续至TGE结束，第一阶段即将开启，并考虑在BRC-20网络上部署关键的早期剧情凭证。据悉，MYX是一个去中心化永续合约交易所，采用独创的MPM机制实现0滑点交易，并高效匹配多空头寸。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[crvUSD面对脱锚压力，Curve创始人通过新提案如何应对？]]></title>
+        <id>https://www.web3sj.com/?p=96254</id>
+        <link href="https://www.web3sj.com/definews/96254/"/>
+        <updated>2023-11-28T12:42:51.000Z</updated>
+        <summary type="html"><![CDATA[根据 CoinMarketCap 的数据，过去 7 天 crvUSD 的最低价格约为 0.99 美元，目前为 0.996 美元。由于这类稳定币的价格软锚定于 1 美元，当价格高于 1 美元时，会有套利者借入 crvUSD 在市场上抛售；当价格低于 1 美元时，虽然也有套利者买入等待回到 1 美元，但根据 GHO 等稳定币脱锚的情况，在低于 1 美元时的买入并不一定有效。如果没有价格能锚定于 1 美元的预期，用户可能不敢长期持有这种稳定币。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘉楠耘智第三季总收入为3330万美元，同比下降54.9%]]></title>
+        <id>https://panewslab.com/zh/articledetails/o1mymd8h.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o1mymd8h.html"/>
+        <updated>2023-11-28T12:37:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月28日消息，据美通社报道，嘉楠耘智公布未经审计的2023年第三季度财报，其中，第三季度收入为3330万美元，同比下降54.9%；挖矿收入为330万美元，同比下降64.6%；第三季度的净亏损为8010万美元；截至9月30日，嘉楠耘智共持有1238.5枚BTC，市值为3050万美元，包括公司持有的860枚BTC与378.5枚客户存款；截至2023年9月30日，公司拥有现金和现金等价物为4060万美元。
+此外，11月27日，嘉楠耘智与机构投资者签订证券购买协议，向投资者发行和出售最多125,000股A系列可转换优先股，每股优先股价格为1000美元。嘉楠耘智拟将出售证券所得款项净额用于研发、扩大生产规模及其他一般公司用途。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWF Labs大约20分钟前将500万枚MDT存入币安]]></title>
+        <id>https://panewslab.com/zh/articledetails/k55o8txd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/k55o8txd.html"/>
+        <updated>2023-11-28T12:23:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月28日消息，据Spot On Chain监测，DWF Labs在大约20分钟前将500万枚MDT存入币安。值得注意的是，DWF Labs于2023年6月29日和8月3日从Measurable Data Token交易锁仓合约和该项目联合创始人heatherm.eth那里总共收到了4500万枚MDT（约合194万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3梦幻体育平台GameOn获得Arbitrum基金会的资助]]></title>
+        <id>https://panewslab.com/zh/articledetails/euhujyjd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/euhujyjd.html"/>
+        <updated>2023-11-28T12:16:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月28日消息，据美通社报道，Web3梦幻体育平台GameOn宣布获得Arbitrum基金会的资助，根据这笔交易，GameOn将在Arbitrum One网络上推出即将到来的大联盟合作伙伴关系，包括西班牙足球甲级联赛（Laliga）和职业拳手联盟（PFL）。
+此前6月消息，GameOn完成170万美元融资，Lightning Capital和Flow参投。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-11.28）]]></title>
         <id>https://www.web3sj.com/?p=96250</id>
@@ -13,6 +146,16 @@
         <summary type="html"><![CDATA[摩根大通和阿波罗计划建立代币化“企业主网”。Cosmos创始人公布分叉网络AtomOne的章程文档，包括ATOM1初期代币经济学等内容。华尔街日报：美国SEC仍在寻求Binance.US存在欺诈行为的证据。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animoca Brands对TON生态系统进行投资，并成为TON区块链上最大验证者]]></title>
+        <id>https://panewslab.com/zh/articledetails/2a08a8oj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2a08a8oj.html"/>
+        <updated>2023-11-28T12:08:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 11月28日消息，据官方博客，专注于游戏和元宇宙的风险投资公司Animoca Brands已对TON生态系统进行了投资，并成为TON区块链上最大验证者。根据周二的公告，Animoca Brands正在通过支持该网络的游戏基础设施项目TON Play来协助第三方游戏项目构建生态系统。Animoca未提供有关其投资条款的详细信息。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -179,37 +322,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新加坡汇款公司Wind完成380万美元pre-seed轮融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/noh8iqem.html</id>
-        <link href="https://panewslab.com/zh/articledetails/noh8iqem.html"/>
-        <updated>2023-11-28T08:11:28.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月28日消息，由Polygon区块链提供支持的新加坡汇款公司 Wind（Wind.app，非托管钱包）宣布完成 380 万美元 pre-seed 轮融资，德国风险投资公司 Global Founders Capital 和新加坡区块链投资公司 Spartan Group 领投，Saison Capital、Alumni Ventures 和 Tiny VC 参投。Wind 专注于美元至东南亚（尤其是菲律宾）货币的区块链汇款服务，提供 0.3% 的交易费用。该轮融资将用于产品开发、加强合规性和许可措施以及其他举措。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIX Digital Exchange与经纪公司DLT Finance合作为机构客户提供端到端加密货币交易和托管服务]]></title>
-        <id>https://panewslab.com/zh/articledetails/cjdaua06.html</id>
-        <link href="https://panewslab.com/zh/articledetails/cjdaua06.html"/>
-        <updated>2023-11-28T07:35:50.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月28日消息，瑞士主要证券交易所运营商SIX Group旗下加密服务和基础设施提供商SIX Digital Exchange (SDX) 宣布与 BaFin 许可的交易和经纪公司 DLT Finance 合作，扩大其机构加密服务。在此次合作中，SDX 将担任托管人和质押提供商的角色，而 DLT Finance 的子公司 DLT Securities GmbH 将作为经纪和交易的完全嵌入式对手方。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRM Labs与澳大利亚加密交易所Swyftx合作打击诈骗]]></title>
-        <id>https://panewslab.com/zh/articledetails/exgzjtiu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/exgzjtiu.html"/>
-        <updated>2023-11-28T06:59:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月28日消息，区块链情报解决方案公司 TRM Labs 和澳大利亚加密货币交易所 Swyftx 合作启动了一项全球试验，该计划将在全球范围内进行首次尝试，在其加密货币账户上激活双因素身份验证的澳大利亚加密货币用户将获得价值 10 澳元的比特币。首批 2,000 名在其帐户上启用两步验证并完成与 TRM Labs 共同创建的课程的客户将获得 Swyftx 的奖励。
-TRM Labs 称，2022 年全球有超过 90 亿美元的资金被发送至各种类型的欺诈计划。同期，2022 年，澳大利亚人的加密货币损失达 2.21 亿澳元（1.46 亿美元），较上年增长 162.4%。今年，Swyftx 已阻止 300 万澳元的客户资金流向诈骗者。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[韩国金融委员会：计划加强对加密企业的报告审查和检查]]></title>
         <id>https://www.hellobtc.com/news/202311/21438.html</id>
         <link href="https://www.hellobtc.com/news/202311/21438.html"/>
@@ -267,27 +379,6 @@ TRM Labs 称，2022 年全球有超过 90 亿美元的资金被发送至各种�
         <summary type="html"><![CDATA[新加坡金融管理局(MAS，即新加坡央行)局长Ravi Menon在香港金融管理局-国际清算银行活动的“货币体系的未来”小组讨论会上表示，未来的货币体系将由三个关键组成部分组成：央行数字货币、代币化银行负债和“监管良好”的稳定币。私人加密货币“惨遭货币考验，因为它们无法保值”。没有人把毕生积蓄放在这些东西上，人们买卖这些东西是为了赚快钱。作为原生数字代币的私人加密货币不符合这一测试，所以我认为它们最终会退出舞台。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安将于今晚20:30上线ETHW U本位永续合约]]></title>
-        <id>https://panewslab.com/zh/articledetails/oz7th3a4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oz7th3a4.html"/>
-        <updated>2023-11-28T06:53:22.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月28日消息，币安合约交易平台将于2023 年 11 月 28 日 20:30（北京时间）上线 USDⓈ-M ETHW 永续合约，杠杆高达 50 倍。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kronos Research称愿意提供10%的被盗资金作为赏金]]></title>
-        <id>https://panewslab.com/zh/articledetails/3v9f9c21.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3v9f9c21.html"/>
-        <updated>2023-11-28T06:06:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 11月28日消息，加密量化公司Kronos Research通过链上信息向黑客表示：“我们承认局势的复杂性，并准备通过谈判寻求解决方案。 我们建议对被盗资金进行 10% 的悬赏，其余 90% 予以返还，在这种情况下，我们将不再进一步追究。 此优惠有效期至 UTC 时间 11 月 30 日 08:00。”
-此前报道，量化公司Kronos Research在攻击事件中损失超1.3万枚ETH，Kronos Research称损失总计约为2600万美元，均由公司内部承担。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -352,96 +443,6 @@ TRM Labs 称，2022 年全球有超过 90 亿美元的资金被发送至各种�
         <summary type="html"><![CDATA[Lido DAO已批准部署简单分布式验证器技术（DVT）模块，这是朝着快速实现Lido节点运营商集多样化并推动以太坊质押生态系统内创新迈出的一步。DVT是一个运行类似于运行验证器的多重签名设置的系统，不依赖于单个节点运营商，而是依赖于多个NO，每个NO管理不同的节点，这些节点进行通信并共同达成共识以履行验证者的职责。 此外，DVT 的作用是： 提高验证者的弹性；降低故障点和停机风险；改善基础设施、地理和客户之间的去中心化；通过分布式密钥生成 (DKG) 添加额外的保护层。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cake War即将来临？参与方式及收益如何？]]></title>
-        <id>https://www.web3sj.com/?p=96202</id>
-        <link href="https://www.web3sj.com/definews/96202/"/>
-        <updated>2023-11-27T14:16:48.000Z</updated>
-        <summary type="html"><![CDATA[首先声明，由于此前我们导演过 Pendle War ，不少社区朋友询问这次是否也是我们导演。这次还真不是，我们甚至还想分析批判一番他们的迷惑操作。不过 Cake 排面够大，Cake War 预期价值依然很高，还是写一篇分析收益的文章比较好，关键是我们也何必白教项目方做事。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[速览今年区块链技术领域三项重大发展：零知识、互操作、RWA]]></title>
-        <id>https://www.web3sj.com/?p=96199</id>
-        <link href="https://www.web3sj.com/news/96199/"/>
-        <updated>2023-11-27T14:11:43.000Z</updated>
-        <summary type="html"><![CDATA[尽管在 2022 年发生了一系列不幸事件，先是 Terra 生态崩溃，然后是 Sam Bankman-Fried 的 FTX 破产，但在 2023 年，区块链在技术领域展现了十足的韧性。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USTC暴拉背后，Mint Cash将要重建稳定币与Anchor？]]></title>
-        <id>https://www.web3sj.com/?p=96189</id>
-        <link href="https://www.web3sj.com/definews/96189/"/>
-        <updated>2023-11-27T13:56:26.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 5 月 Terra 生态崩塌后，原 Terra 网络被重命名为 Terra Classic，代币重命名为 LUNA Classic（LUNC），对应的算稳 UST 也被重命名为 Terra Classic UST（USTC）。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[主流比特币铭文有哪些？如何抓住下一个百倍MEME代币]]></title>
-        <id>https://www.web3sj.com/?p=96186</id>
-        <link href="https://www.web3sj.com/news/96186/"/>
-        <updated>2023-11-27T13:51:26.000Z</updated>
-        <summary type="html"><![CDATA[近期比特币铭文代币再度热炒，除了比特币生态铭文代币，其他公链上也开始出现一些铭文代币，形成一股铭文热潮。那么都有哪些主流比特币铭文代币值得关注？另外，目前多数铭文代币都没有实用价值，属于 Meme 代币，那么该如何投资这些铭文代币？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFi借贷协议的利率如何决定？简析6种模式]]></title>
-        <id>https://www.web3sj.com/?p=96176</id>
-        <link href="https://www.web3sj.com/definews/96176/"/>
-        <updated>2023-11-27T13:47:28.000Z</updated>
-        <summary type="html"><![CDATA[快速回顾一下，借贷协议是一套规则，用于管理借款人如何暂时借用贷方的资产并承诺偿还这些资产。这协议将定义如何向借款人征收利息，以及如何构建抵押来保护贷方。本系列的第 1 部分探讨了利息期限相关的主题：活期与定期、贷款滚动和永续等，并在该框架内对一些协议进行了分类。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国Top 15加密执法行动：币安43亿美元和解金仅排第二]]></title>
-        <id>https://www.web3sj.com/?p=96171</id>
-        <link href="https://www.web3sj.com/news/96171/"/>
-        <updated>2023-11-27T13:42:07.000Z</updated>
-        <summary type="html"><![CDATA[在美国监管机构发起的加密诉讼中，现已破产的加密借贷机构  Celsius  同意支付 47 亿美元，是迄今为止最大的一笔和解金。Celsius 于 2023 年 7 月与美国联邦贸易委员会（FTC）就该公司违反投资者保护的诉讼达成和解。不过需要指出的是，Celsius 支付和解金的时间被推迟到其破产程序之后。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8亿月活Telegram背书的TON生态：非金融类DApp的试验地]]></title>
-        <id>https://www.web3sj.com/?p=96158</id>
-        <link href="https://www.web3sj.com/news/96158/"/>
-        <updated>2023-11-27T13:38:02.000Z</updated>
-        <summary type="html"><![CDATA[2018 年，Telegram 希望发行自己的加密货币，所以创立 Telegram Open Network 项目，透过 ICO 募资 17 亿美元，当时代币名称为 $GRAM。但隔年 2019 年 10 月被美国 SEC 指控非法募资，所以在 2020 年 5 月，由 Telegram 创办人 Pavel Durov 公开宣布放弃区块链项目 TON，并且遭 SEC 罚款 1850 万美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOSG：高收益推动的RWA如何为DeFi注入去中心化创新活力？]]></title>
-        <id>https://www.web3sj.com/?p=96149</id>
-        <link href="https://www.web3sj.com/definews/96149/"/>
-        <updated>2023-11-27T13:30:24.000Z</updated>
-        <summary type="html"><![CDATA[直到最近，稳定币（stablecoins）是唯一引起关注的真实世界资产（RWA）类别。稳定币甚至在以太坊成立之前就被引入，它取代了作为区块链上标准交易媒介的波动性加密货币。目前，USDT 以 869 亿美元的市值和 USDC 以 240 亿美元的市值为首，共同占据了整个加密市场 1.46 万亿美元市值的 7.5%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推文浏览量为9却申请180万美元捐赠，Bankless DAO提案惹争议]]></title>
-        <id>https://www.web3sj.com/?p=96139</id>
-        <link href="https://www.web3sj.com/daonews/96139/"/>
-        <updated>2023-11-27T13:18:11.000Z</updated>
-        <summary type="html"><![CDATA[比如最近，Bankless DAO 发起提案，向 Arbitrum 索要 182 万枚 ARB 代币，用于未来 12 个月帮助 Arbitrum 提升影响力。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
 </feed>
