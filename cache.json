@@ -6,104 +6,104 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
-          "id": "https://www.web3sj.com/?p=96429",
+          "id": "https://www.web3sj.com/?p=96562",
           "author": "Gao",
-          "description": "应用特定 rollup（即 RollApp）正在成为区块链领域的重要议题。虽然 “RollApp” 的理念目前仍然很年轻，但我们在过去一年中见证了该领域出现了几个项目。",
-          "link": "https://www.web3sj.com/news/96429/",
-          "publishedOn": "2023-11-29T13:10:54.000Z",
-          "wordCount": 1468,
-          "title": "RollApp生态深度解析：四类应用特定的Rollup方案各有什么优劣？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701263439757.png"
+          "description": "我们正处于模块化区块链的关键时刻——脱离以太坊虚拟机（EVM）。这一转变有望将之前成千上万犹豫不决的开发者带入加密领域！尽管 EVM 曾经占据主导地位，但现在已经到了拥抱塑造区块链未来的新技术的时候了。接下来，我们将探讨 EVM 的局限性、其他虚拟机的潜力以及引领这一变革的先驱者。",
+          "link": "https://www.web3sj.com/news/96562/",
+          "publishedOn": "2023-11-30T13:17:49.000Z",
+          "wordCount": 978,
+          "title": "新时代的黎明： 从EVM向模块化区块链转变",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701350246459.png"
         },
         {
-          "id": "https://www.web3sj.com/?p=96417",
+          "id": "https://www.web3sj.com/?p=96544",
           "author": "Gao",
-          "description": "区块链作为分布式账本，需要在所有节点上都对历史数据作一份存储，以确保数据存储的安全与足够去中心化。由于每一次状态变动的正确性都与上一个状态（交易来源）有关，为了确保交易的正确性，一条区块链原则上应当存储从第一笔交易产生到当下交易的所有历史记录。",
-          "link": "https://www.web3sj.com/news/96417/",
-          "publishedOn": "2023-11-29T13:06:46.000Z",
-          "wordCount": 1632,
-          "title": "Kernel Ventures：一文探讨DA和历史数据层设计",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701263185502.png"
+          "description": "这大约是对全链游戏（Fully On-chain Games）开发最简单的尝试，在此之前我们的曾尝试实现 Chrome 离线恐龙游戏（Chrome Dino Game）的全链上版，后发现没有区块链原生游戏 Tick 机制的支持，很难复刻在体验与原游戏接近的全链版本。",
+          "link": "https://www.web3sj.com/gamefinews/96544/",
+          "publishedOn": "2023-11-30T13:14:10.000Z",
+          "wordCount": 1206,
+          "title": "全链版2048：我们从MUD引擎使用中学到了什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701350036510.png"
         },
         {
-          "id": "https://www.web3sj.com/?p=96410",
+          "id": "https://www.web3sj.com/?p=96530",
           "author": "Gao",
-          "description": "在我接触加密货币的头几个月里，我的投资组合一直处于亏损的状态，让我损失了很大一笔钱。这里面有几个原因，最主要的是因为当时的我完全不了解这个市场是如何运作的。",
-          "link": "https://www.web3sj.com/news/96410/",
-          "publishedOn": "2023-11-29T12:59:44.000Z",
-          "wordCount": 958,
-          "title": "给加密新人的7个实用建议，助力下轮牛市成功",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701262767368.png"
+          "description": "关于协处理器这个概念，一个很浅显易懂的例子就是电脑和显卡的关系，CPU 可以完成大部分任务，但是一旦遇到特定任务，就需要显卡的帮助，因为 CPU 算力不够，比如说机器学习，图形渲染，或者是大型游戏的运行，我们玩大型游戏的时候如果不想掉帧或者卡顿，那肯定就需要一块性能很好的显卡。那在这个场景中，CPU 就是处理器，显卡就是协处理器。映射到区块链上，智能合约就是 CPU，ZK 协处理器就是 GPU。",
+          "link": "https://www.web3sj.com/news/96530/",
+          "publishedOn": "2023-11-30T12:58:50.000Z",
+          "wordCount": 1684,
+          "title": "氮气加速！ZK协处理器如何打破智能合约数据壁垒",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/d53c8055f7c3423996b97624d3e10387.png"
         },
         {
-          "id": "https://www.web3sj.com/?p=96391",
+          "id": "https://www.web3sj.com/?p=96525",
           "author": "Gao",
-          "description": "例如 Nansen 2 的 Profiler 支持对特定地址的分析查询，其下又细分了资产变动、资产明细、净损益、相似地址等模块，用户可以添加多个最小模块至 Dashboard 进行日常查看对比。",
-          "link": "https://www.web3sj.com/news/96391/",
-          "publishedOn": "2023-11-29T12:54:23.000Z",
+          "description": "Tether 三季度报告显示其投资了高达 726 亿美元美债，占到了其总储备金的 84% 以上，相比之下，2021 年时这一比例还不到 3%。这一策略转变反映出稳定币越来越倾向于加强与真实资产的背书，从而增强稳定性、流动性以及韧性。而最新推出的全链稳定币 USDV 则是将背后底层资产完全设为短期美债代币，以维持稳定币生态系统的流动性和稳定性。",
+          "link": "https://www.web3sj.com/definews/96525/",
+          "publishedOn": "2023-11-30T12:48:21.000Z",
+          "wordCount": 1077,
+          "title": "三分钟读懂全链稳定币USDV：如何运行？有何创新？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1701315252344.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=96522",
+          "author": "Gao",
+          "description": "Web3 里总是存在一个去中心化央行的理想，该央行可以独立于所有的法币体系，完全凭借链上的各类资产实现一整套央行货币发行的逻辑。该乌托邦式的理想激励着无数前赴后继的开发者，他们设计出了一系列稳定币系统。但无论其出发点是否崇高，稳定币系统从数学意义上是否成立，最后大多数稳定币协议都难免会被贴上「旁氏」、「过度杠杆化」的标签。",
+          "link": "https://www.web3sj.com/definews/96522/",
+          "publishedOn": "2023-11-30T12:45:13.000Z",
+          "wordCount": 1619,
+          "title": "稳定币：旁氏、杠杆、流动性的圣杯",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701348291893.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=96514",
+          "author": "Gao",
+          "description": "币安通过其行动挑战了传统公司的界限。通过为全球交易者服务，它最终成为了世界上最大的交易平台，但很长一段时间，没有人知道其所在地。总部的概念与币安的整个概念相矛盾，因为赵长鹏一直将币安总部的位置保密。",
+          "link": "https://www.web3sj.com/news/96514/",
+          "publishedOn": "2023-11-30T12:39:51.000Z",
+          "wordCount": 1047,
+          "title": "CZ时代的终结：新领导下币安的转型",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1701324568055.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=96508",
+          "author": "Gao",
+          "description": "截至目前，Jito 的 TVL 已接近 680 万 SOL，有超过 5 万名质押者。Bankless 分析师 Jack Inabinet 深入探讨了 Solana 生态系统中空投的兴起，并讨论了这些空投对 Solana DeFi 生态系统的潜在影响，以及是否这标志着 Solana 即将迎来新一轮的发展。",
+          "link": "https://www.web3sj.com/definews/96508/",
+          "publishedOn": "2023-11-30T12:23:33.000Z",
           "wordCount": 1052,
-          "title": "Nansen2公测，AI搜索好用吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701262443555.png"
+          "title": "Bankless：空投狂潮或将复苏Solana DeFi生态系统",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701347001319.png"
         },
         {
-          "id": "https://www.web3sj.com/?p=96379",
+          "id": "https://www.web3sj.com/?p=96496",
           "author": "Gao",
-          "description": "Clore.AI 是一个建立在 POW 基础上的提供 GPU 算力租用服务的平台，目前接入 GPU 超过 5500 张。团队位于欧洲，官网称符合欧洲法律，有计划于 2023 年 12 月公开团队信息。",
-          "link": "https://www.web3sj.com/news/96379/",
-          "publishedOn": "2023-11-29T12:47:56.000Z",
-          "wordCount": 1122,
-          "title": "LD Capital：PoW+AI双重叙事，算力租赁平台Clore.AI月内10倍涨幅",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701262060218.png"
+          "description": "纵观目前的市场，绝大多数的 BTC Layer2 仍然还停留在实验甚至是白皮书阶段，能够让用户参与体验的寥寥无几。但是近期在 BTC 社区爆火的 BTC Layer2 项目 BEVM 却完全不同。不仅率先上线了先行网络，并且已有数十个生态项目在其链上部署。今天本文将用一篇文章来盘点和拆解这个已经上线运营的 BTC Layer2 项目 BEVM 生态现状究竟如何。",
+          "link": "https://www.web3sj.com/news/96496/",
+          "publishedOn": "2023-11-30T12:21:27.000Z",
+          "wordCount": 1213,
+          "title": "盘点BTC Layer2龙头项目BEVM生态现状",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701346873631.png"
         },
         {
-          "id": "https://www.web3sj.com/?p=96375",
+          "id": "https://www.web3sj.com/?p=96487",
           "author": "Gao",
-          "description": "昨日，他参与了社区的 AMA ，深入且广泛的聊到了多个有关政治、经济和科技的话题。深潮精选了其中的一些回答，包括关于网络国家、去中心化的进程、长寿 / 永生以及当今生物科学等有趣问题。",
-          "link": "https://www.web3sj.com/news/96375/",
-          "publishedOn": "2023-11-29T12:43:44.000Z",
-          "wordCount": 981,
-          "title": "Coinbase前CTOBalaji AMA实录：网络国家将重塑全球政治，最期待长寿领域的研究",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701261797294.png"
+          "description": "Starknet 新路线图确定的五大主要事项是什么？Starknet 代币进程已推进至哪一步？又有哪些 DeFi 协议值得重点交互？",
+          "link": "https://www.web3sj.com/definews/96487/",
+          "publishedOn": "2023-11-30T12:10:38.000Z",
+          "wordCount": 1540,
+          "title": "发币在即Starknet更新路线图，哪些DeFi协议值得重点交互？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701346223429.png"
         },
         {
-          "id": "https://www.web3sj.com/?p=96369",
+          "id": "https://www.web3sj.com/?p=96481",
           "author": "Gao",
-          "description": "区块链数据平台 Nansen 收集的链上币安钱包内的总资产为 635.04 亿美元，这与事发首日该统计网站显示的 645.19 亿美元相比，有小幅攀升；DeFiLlama 数据显示，币安生态内的 BNBChain 链上 TVL 仍保持在 29.4 亿美元附近，过去一周几无缩水；链上 Gas BNB 的日跌幅也从事发当日的 10%，收窄至 2%。",
-          "link": "https://www.web3sj.com/news/96369/",
-          "publishedOn": "2023-11-29T12:36:16.000Z",
-          "wordCount": 1123,
-          "title": "币安资金流出低于预期，新CEO放言「比过去更强」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701261356413.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96363",
-          "author": "Gao",
-          "description": "Bankless DAO 提案的内容为申请 182 万枚 ARB 的预算，用于在未来一年时间内帮助 Arbitrum 进行市场推广。乍一听似乎除了金额略大之外似乎也没什么问题，然而社区却发现，Bankless DAO 此前也曾在 Optimism 等其他项目论坛内以类似形式发起过同样的提案，且实际推广效果之差相当离谱 —— 拿到了 7 万枚 OP 的预算后，Bankless DAO 并没有用官方账号发布所有内容，而是选择了通过多个小号进行宣发，最低的推广帖子阅读量只有个位数。",
-          "link": "https://www.web3sj.com/daonews/96363/",
-          "publishedOn": "2023-11-29T12:23:54.000Z",
-          "wordCount": 1049,
-          "title": "DAO拨款争议再现，名侦探ZachXBT披OP公益基金申请「乱象」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701260620560.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96358",
-          "author": "Gao",
-          "description": "Liquid staking 验证协议接受用户的 ETH 存款，并发行跟踪每个用户所拥有的被验证 ETH 价值的 Token，还包括随时间累积的区块奖励。其关键创新在于这些 Token 被设计成可以自由转移的 ERC20Token，可以在交易平台进行交易，也可以在 DeFi 应用中进行借代或提供给 AMM 作为流动性。这种方式解锁了被验证的 ETH 的流动性，同时仍允许权益验证者通过衍生 Token 所代表的验证者奖励份额来获得收益。",
-          "link": "https://www.web3sj.com/news/96358/",
-          "publishedOn": "2023-11-29T12:18:45.000Z",
-          "wordCount": 1255,
-          "title": "以Blast为研究案例：一文深入探讨流动性质押",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701260309429.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96354",
-          "author": "Gao",
-          "description": "福布斯的“Under 30”系列榜单数据上线以太坊网络。Uniswap DAO批准向活跃代表授予1000万枚UNI。Polygon将于12月公开演示下一代ZK产品，并发布RWA和机构采用相关产品。",
-          "link": "https://www.web3sj.com/news/96354/",
-          "publishedOn": "2023-11-29T11:50:27.000Z",
-          "wordCount": 907,
-          "title": "Web3世界日报（2023-11.29）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/2023112911472246.jpg"
+          "description": "要把握市场时机，我们需要了解价格走势。为什么资产价格会飙升？因为购买力战胜了抛压。",
+          "link": "https://www.web3sj.com/transaction/96481/",
+          "publishedOn": "2023-11-30T12:04:59.000Z",
+          "wordCount": 858,
+          "title": "如何分辨市场是否处于「爆炸」前夜？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701345864174.png"
         }
       ]
     },
@@ -113,12 +113,82 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/kx815j4q.html",
+          "author": "PA一线",
+          "description": "PANews 11月30日消息，据The Data Nerd监测，在过去的2小时内，0x4fb开头巨鲸以2040美元的价格从Coinbase总共提取了12826枚ETH (约合2620万美元)。",
+          "link": "https://panewslab.com/zh/articledetails/kx815j4q.html",
+          "publishedOn": "2023-11-30T13:03:10.000Z",
+          "wordCount": 332,
+          "title": "某巨鲸过去2小时从Coinbase提取超1.2万枚ETH，约合2620万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2hyfyxpi.html",
+          "author": "PA一线",
+          "description": "PANews 11月30日消息，据官方消息，OKX将开始支持 ETH_Base充提，ETH_Base充币开放时间为12 月1日下午 4:00 (UTC+8)，提币开放时间为12 月1日下午 6:00 (UTC+8)。",
+          "link": "https://panewslab.com/zh/articledetails/2hyfyxpi.html",
+          "publishedOn": "2023-11-30T13:01:04.000Z",
+          "wordCount": 348,
+          "title": "OKX将于12月1日支持ETH_Base充提",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/lx3i03ua.html",
+          "author": "PA一线",
+          "description": "PANews 11月30日消息，KyberSwap攻击者在链上发布最新消息，提出了一系列和解条件，包括对Kyber公司的完全执行控制权，临时全面掌握KyberDAO的治理机制以实施立法变更，以及要求交出所有与公司/协议有关的文件和信息。此外，还要求 Kyber 公司交出所有链上和链下资产。\n攻击者承诺，一旦要求得到满足，将对公司高管、员工、代币持有者和投资者进行一系列补偿措施。包括为高管提供公平估值的买断、将员工薪水翻倍、为不愿留下的员工提供12个月的遣散费和全面福利，以及保证投资者代币的价值。攻击者强调，如果其要求在12月10日前未得到满足，或者受到任何主权国家代理人的联系，和解协议将宣告破裂。",
+          "link": "https://panewslab.com/zh/articledetails/lx3i03ua.html",
+          "publishedOn": "2023-11-30T13:00:06.000Z",
+          "wordCount": 336,
+          "title": "KyberSwap黑客提出“获得Kyber公司完全控制权和全部财产”等和解条件",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/gv7yzu66.html",
+          "author": "PA一线",
+          "description": "PANews 11月30日消息，据澎湃新闻报道，11月30日，公安部在京召开新闻发布会通报全力打击黑客类违法犯罪举措及总体成效情况，并公布十大典型案例。2022年以来全国公安机关共侦破黑客类犯罪案件2430起、抓获犯罪嫌疑人7092名。\n案例包括四川警方侦破一起假借救灾名义发行虚拟货币实施诈骗的案件，查明黑客团伙以抗震救灾为名发布“四川加油币”，诱骗网民购买后利用预留后门大量增发套现，涉案资金1200万元。\n公安机关称，目前黑客犯罪的趋势包括，随着人工智能、区块链、物联网等新技术、新业态、新应用的发展变化，黑客犯罪分子的作案手法也在不断升级。如，使用人工智能技术伪造人像和语音、利用区块链智能合约漏洞大量增发“虚拟货币”套取他人财产等新情况层出不穷。",
+          "link": "https://panewslab.com/zh/articledetails/gv7yzu66.html",
+          "publishedOn": "2023-11-30T12:55:38.000Z",
+          "wordCount": 323,
+          "title": "公安部通报案例：四川警方侦破一起假借救灾名义发行虚拟货币诈骗案，涉案资金1200万元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ksbqzgs7.html",
+          "author": "PA一线",
+          "description": "PANews 11月30日消息，据CoinDesk报道，2022年初，Polygon Labs宣布体育博彩公司DraftKings将开始运行其网络验证者之一；Polygon当时没有透露的是，它向DraftKings提供了价值数百万美元的MATIC代币。链上数据显示，在2021年10月“战略区块链协议”开始时，DraftKings直接从Polygon获得了数百万美元的加密货币。DraftKings随后通过一种特殊的质押关系又赚了几百万美元，而这种质押关系是Polygon网络中其他验证者很少享有的，两家公司都没有披露这些财务关系。Polygon和DraftKings的代表拒绝讨论验证者交易的融资问题，理由是保密协议。正如一位Polygon高管所言，在Polygon网络的100名验证者中，DraftKings并不是一个“平等的社区成员”。区块链数据显示，它获得了巨额报酬以“在区块链治理中发挥积极作用”，但随后却没有兑现承诺。\nDraftKings的验证器与其他验证者则不同，它收取100%的佣金，这意味着它的十几位小型的委托人没有得到任何MATIC代币作为奖励。DraftKings验证器已发展成为Polygon网络中最大的验证器之一，其最大的委托人是Polygon，该项目已委托6000万MATIC代币，以帮助DraftKings获得更多的质押奖励。去年大部分时间，DraftKings的验证器质押了6550万MATIC代币，其中91%由Polygon委托给它。其余大部分是DraftKings自己的MATIC：300万MATIC来自质押奖励，250万MATIC来自2022年3月关系开始时的质押。在双方合作声明发布时，Polygon已经为DraftKings验证器预留了1000万MATIC；到合作关系结束时，总计已增长到6000万MATIC。从2022年11月到2023年10月中旬验证器停用，DraftKings总共提取了320万MATIC，按当前价格计算，价值略高于200万美元。在此期间，它积累的个人奖励比任何其他验证器都多。来自validation.info的数据表明，如果没有这6000万MATIC代币，DraftKings可能只能获得其收入的4%。DraftKings的盈利是以Polygon生态系统中其他所有质押者为代价的。该网络每年只向质押者发放有限数量的MATIC奖励。DraftKings的Polygon委托代币中至少有80%直接来自基金会，这意味着它们之前没有被质押。这些新委托的代币稀释了其他人可以获得的奖励。\n目前尚不清楚为何DraftKings允许其Polygon验证器失修。但链上线索表明，两家公司的基础设施关系在一年前就开始发生转变。根据数据网站validator.info的数据， DraftKings几乎每天都在质押新的MATIC奖励，以实现复合回报；最后一次这样做是在2022年11月7日（时值FTX暴雷）；从那时起，DraftKings只选择提取奖励。DraftKings的验证程序持续了将近一年，直到今年9月，它在检查链的核心工作中开始表现不佳。它收到了第一次打击，然后是第二次；10月初，它收到了“最后通牒”。自我监管网络很快就会因DraftKings未能达到要求而将其关闭。10月19日，Polygon将DraftKings踢出验证程序计划，并将其插槽重新分配给加密交易所Upbit。11月9日，Polygon将6000万枚委托MATIC代币从DraftKings已失效的验证器转移到另一个验证器，费用为零。",
+          "link": "https://panewslab.com/zh/articledetails/ksbqzgs7.html",
+          "publishedOn": "2023-11-30T12:46:28.000Z",
+          "wordCount": 334,
+          "title": "Polygon曾秘密向DraftKings资助数百万美元，后者仍因验证器性能不佳被踢出网络",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/09md5cd7.html",
+          "author": "PA一线",
+          "description": "PANews 11月30日消息，Cyvers Alerts发布警报，称其系统检测到多次与伊朗加密交易所Nobitex的可疑交易。Nobitex的两个热钱包受到了影响。两个可疑地址耗尽Nobitex的热钱包，共收到价值约1250万美元的数字资产。Cyvers Alerts向Nobitex询问这些交易是否是授权交易或者是迁移。",
+          "link": "https://panewslab.com/zh/articledetails/09md5cd7.html",
+          "publishedOn": "2023-11-30T11:26:02.000Z",
+          "wordCount": 331,
+          "title": "Cyvers Alerts：可疑地址耗尽Nobitex热钱包并收到价值约1250万美元的代币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5cnxyyt9.html",
+          "author": "PA一线",
+          "description": "PANews 11月30日消息，据Cointelegraph报道，面临18项欺诈和洗钱指控的比特币云挖矿公司Hashflare两名联合创始人，即Ivan Turogin和Sergei Potapenko，已成功地就他们从爱沙尼亚被引渡到美国的问题进行了上诉，爱沙尼亚塔林巡回法院于11月29日推翻了下级法院的命令，拒绝将他们引渡至美国。他们的辩护提供了“有关美国拘留条件的证据”，而政府并未考虑这些证据，并声称发布引渡令时存在程序违规行为。在推翻这些命令时，巡回法院引用了欧洲法院和欧洲人权法院的做法。\n据美国司法部称，2015年至2019年运营的HashFlare是一个庞氏骗局，数十万受害者总共支付了5.75亿美元。该公司声称租赁哈希算力用于加密货币挖矿，并且还鼓励投资一家假银行。如果在美国被定罪，Ivan Turogin和Sergei Potapenko将分别面临最高20年的监禁。\n2022年11月，美国大陪审团发出起诉书后，Ivan Turogin和Sergei Potapenko在爱沙尼亚被捕，他们是爱沙尼亚公民。爱沙尼亚政府于9月批准引渡他们至美国。",
+          "link": "https://panewslab.com/zh/articledetails/5cnxyyt9.html",
+          "publishedOn": "2023-11-30T11:17:19.000Z",
+          "wordCount": 340,
+          "title": "爱沙尼亚法院拒绝将涉嫌欺诈的云挖矿公司Hashflare两名联创引渡至美国",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/pi4d5rdq.html",
           "author": "PA一线",
           "description": "PANews 11月30日消息，据CoinDesk报道，ProShares的比特币策略ETF (BITO)管理的资产规模(AUM)本周达到14.7亿美元的高点，飙升至2021年12月创下的纪录。随着大量比特币现货ETF申请在美国提交，这一激增表明受监管和认可的投资者对比特币的机构需求重新出现。",
           "link": "https://panewslab.com/zh/articledetails/pi4d5rdq.html",
           "publishedOn": "2023-11-30T11:06:12.000Z",
-          "wordCount": 330,
+          "wordCount": 322,
           "title": "ProShares比特币策略ETF管理的资产规模达14.7亿美元，创历史新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +198,7 @@
           "description": "PANews 11月30日消息，据CoinDesk报道，链上分析公司CryptoQuant在一份报告中表示，自11月初以来积累了超1万枚BTC的新钱包地址，即bc1qchctnvmdva5z9vrpxkkxck64v7nmzdtyxsrq64，系加密交易所BitMEX冷钱包的新地址，也就是一种不连接网络的托管方式。该地址出现在BitMEX于11月28日发布的最新储备证明中。CryptoQuant此前已将发送地址标记为属于BitMEX，这个新地址总共从450个地址接收了比特币，566枚BTC转账是最大单笔转账。\nCryptoQuant表示，BitMEX可能正在进行内部转账，因为它正在将其大多数比特币持有的格式从3BMEX迁移到格式为bc1qmex的地址。也有以“bc1q”开头的比特币地址，它支持SegWit，允许更有效的交易，可以支付更低的费用。\n今日早些时候消息，另一个新钱包，开头为“157hv”的地址自11月28日以来已累计积累了10796枚BTC。",
           "link": "https://panewslab.com/zh/articledetails/79c2l97m.html",
           "publishedOn": "2023-11-30T10:54:55.000Z",
-          "wordCount": 332,
+          "wordCount": 324,
           "title": "11月内积累超1万枚BTC的“bc1qch”开头地址系BitMEX冷钱包的新地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +208,7 @@
           "description": "PANews 11月30日消息，币安新任首席执行官Richard Teng在X平台发文表示，币安Web3钱包创建数已达100万个。",
           "link": "https://panewslab.com/zh/articledetails/cnwgg5gn.html",
           "publishedOn": "2023-11-30T10:24:41.000Z",
-          "wordCount": 332,
+          "wordCount": 324,
           "title": "币安新任CEO：币安Web3钱包创建数已达100万个",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +218,7 @@
           "description": "PANews 11月30日消息，据cointelegraph报道，加拿大安大略省证券委员会（OSC）发布的一项调查显示，2023年加拿大的加密货币持有者数量略有下降（2023年为10%，2022年为13%），但其持有的平均价值却大幅上升。77％的受访者后悔投资加密资产。\n虽然能够给出加密货币基本定义的加拿大人的数量从2022年的51%上升到2023年的54%，但其中只有34%的人现在认为加密货币“将在未来发挥关键作用”，而2022年这一数字为49%。39%的受访者声称，与初始投资相比，他们的加密投资组合是盈利的，仅略低于2022年的46%。这类投资组合的平均价值从去年的52,975美元大幅上升到今年的82,998美元。",
           "link": "https://panewslab.com/zh/articledetails/n8xathhx.html",
           "publishedOn": "2023-11-30T10:19:55.000Z",
-          "wordCount": 326,
+          "wordCount": 320,
           "title": "2023年加拿大的加密货币持有者数量略有下降，但平均持有价值上升",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +228,7 @@
           "description": "PANews 11月30日消息，BNB Chain在X平台发文表示，BSC和opBNB测试网相关问题均已修复。\n此前今日早些时候消息，BNB Chain称，正在解决BSC和opBNB测试网的问题。预期修复时间为1小时。主网不受影响。",
           "link": "https://panewslab.com/zh/articledetails/qt401agr.html",
           "publishedOn": "2023-11-30T10:08:14.000Z",
-          "wordCount": 340,
+          "wordCount": 334,
           "title": "BNB Chain：BSC和opBNB测试网相关问题均已修复",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +238,7 @@
           "description": "PANews 11月30日消息，Web3社交网络Hooked Protocol在X平台宣布，为了启动HOOKED 2.0提案，Hooked Protocol将推出5000万美元的教育生态系统基金，并开展教育机构合作。新的教育基金将利用HOOKED 2.0生态系统来探索HOOK代币的学习创新和底层实用程序。它旨在将HOOK整合到在线课程中，使代币能够用于互动的链上和线下教育体验。通过Hooked Protocol和教育机构之间的合作，HOOK将促进教育产品无缝过渡到区块链上，促进加密教育的进步。Hooked教育生态系统基金将进一步增强HOOKED 2.0生态系统，并在创新教育举措和推动HOOK代币的普遍采用方面发挥关键作用。",
           "link": "https://panewslab.com/zh/articledetails/w7ut7hr7.html",
           "publishedOn": "2023-11-30T10:02:53.000Z",
-          "wordCount": 365,
+          "wordCount": 359,
           "title": "Hooked Protocol宣布将推出5000万美元的教育生态系统基金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +248,7 @@
           "description": "PANews 11月30日消息，据ANTPOOL官方公告，某用户于11月23日将83枚BTC作为交易手续费提交，ANTPOOL打包该交易后风控系统做了暂时冻结，请该用户在2023年12月10日0:00前联系ANTPOOL并按指定方式验证个人身份，通过验证后，ANTPOOL将退还该笔费用。",
           "link": "https://panewslab.com/zh/articledetails/0i30e6yn.html",
           "publishedOn": "2023-11-30T09:55:44.000Z",
-          "wordCount": 334,
+          "wordCount": 328,
           "title": "ANTPOOL：将退还此前某用户的83枚BTC交易手续费，需其验证身份",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +258,7 @@
           "description": "PANews 11月30日消息，据The Block研究总监twan在X平台发布的数据， 11月区块链领域的风险投资环比激增96%，创6个月新高。根据图表数据，11月以来区块链领域的总融资金额为10.9亿美元，其中基础设施领域占比最高，为4.13亿美元，占37.9%。",
           "link": "https://panewslab.com/zh/articledetails/lnc7z0wb.html",
           "publishedOn": "2023-11-30T09:51:52.000Z",
-          "wordCount": 348,
+          "wordCount": 341,
           "title": "11月区块链领域的总融资金额达10.9亿美元，环比激增96%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +268,7 @@
           "description": "PANews 11月30日消息，据链上分析师@ai_9684xtpa监测，过去一小时，三个巨鲸/机构地址向币安累计充值了301万枚HOOK（价值346万美元），资金均来源于HOOK项目方多签地址。\n其中，0xb575开头地址的100万枚HOOK、以及0xFF45开头地址的101万枚HOOK均来自多签地址0xaaED，0x711F开头地址的100万枚来自多签地址0xC64d。\n近一周，项目方已转出累计1733万枚代币。",
           "link": "https://panewslab.com/zh/articledetails/l049ixmi.html",
           "publishedOn": "2023-11-30T09:41:25.000Z",
-          "wordCount": 333,
+          "wordCount": 327,
           "title": "三个巨鲸/机构地址过去1小时向币安累计充值301万枚HOOK，价值346万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +278,7 @@
           "description": "PANews 11月30日消息，据Lookonchain监测，过去1小时内，一巨鲸抛售了3150枚ETH （约合637万美元），平均价格约为2023美元，获利约54.6万美元。\n此外11月2日，该巨鲸以1825美元均价 购买了2762枚ETH（约合504万美元）。",
           "link": "https://panewslab.com/zh/articledetails/v23i1fus.html",
           "publishedOn": "2023-11-30T09:35:51.000Z",
-          "wordCount": 335,
+          "wordCount": 331,
           "title": "某巨鲸过去1小时内抛售3150枚ETH，约合637万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +288,7 @@
           "description": "PANews 11月30日消息，据The Data Nerd监测，自11月28日以来，“157hv”开头的新巨鲸地址已累计积累10796枚BTC（约合4.01亿美元），平均价格为37208美元。目前他成为第71位BTC最大持有者，目前的未实现利润为1120万美元。",
           "link": "https://panewslab.com/zh/articledetails/phr44mfl.html",
           "publishedOn": "2023-11-30T09:32:49.000Z",
-          "wordCount": 341,
+          "wordCount": 331,
           "title": "某新地址自11月28日以来已积累10796枚BTC，成为第71位BTC最大持有者",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +298,7 @@
           "description": "PANews 11月30日消息，HashKey Capital发布诈骗警报，称有诈骗者试图冒充HashKey Capital及其管理人员和代表，例如 HashKey Capital的首席执行官。这些冒名顶替者一直在Telegram和LinkedIn等社交媒体平台上创建虚假个人资料。他们通常通过提示用户安排会议来发起联系，然后提供可疑的会议链接，一旦单击该链接，就会自动将脚本下载到用户的设备中。务必谨慎行事，不要点击未经验证来源的任何链接，以避免潜在的安全风险。",
           "link": "https://panewslab.com/zh/articledetails/s660d5i6.html",
           "publishedOn": "2023-11-30T09:28:15.000Z",
-          "wordCount": 345,
+          "wordCount": 339,
           "title": "HashKey Capital：有诈骗者冒充本公司高管发送可疑链接，请注意风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,78 +308,8 @@
           "description": "PANews 11月30日消息，据PolkaWorld报道，Polkadot 2.0区块空间即服务（Blockspace As A Service，简称BaaS）预计将在2024年第二季度上线。2.0的主要变化是从平行链插槽拍卖转变为核心时间（Coretime）租赁。Lastic 将提供一个用于买卖区块空间的市场。\n核心时间租赁提供了一种不同的资源管理方法——批量或即时出售区块空间：1.批量核心时间租赁提供稳定且可预测的资源分配，区块空间将以连续的28天为周期购买，未使用的区块空间可以作为NFT在时间片中出售。2.即时核心时间租赁提供了按需区块空间，小型项目、中型项目、dApp、智能合约和传统企业可以购买适合自身需求的区块空间数量。最初，BaaS的价格将会比较便宜，但随后价格将自然适应当前需求。这是一个每个人都可以参与的市场。目前，这种新模型正在Rococo测试网上测试 (2023年第四季度），不久后将在Kusama (2024年第一季度）和Polkadot(2024年第二季度）上线。\nLastic已经开始开发核心时间市场。Lastic目前正在设计一个带有模拟数据的静态模型，并展示未来核心时间链上的用户交互行为。Lastic在Web3基金会的第19轮Grant计划中赢得了一笔资助，主要目标是开发一个专为Polkadot BaaS设计的用户界面（UI）。",
           "link": "https://panewslab.com/zh/articledetails/mc6r2mhm.html",
           "publishedOn": "2023-11-30T09:22:15.000Z",
-          "wordCount": 382,
+          "wordCount": 376,
           "title": "Polkadot 2.0区块空间即服务预计将在2024年第二季度上线",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ubwo6839.html",
-          "author": "PA一线",
-          "description": "PANews 11月30日消息，据链上分析师@ai_9684xtpa监测，今天Upbit宣布上线ID，使得大量代币从币安流向Upbit。追踪数据时发现2个“疑似Upbit存放ID的热钱包地址”，所有进入Upbit充值地址的ID都会流向这两个地址。目前这俩地址共持有3368万枚ID，价值1100万美元，并且持续有代币流入。",
-          "link": "https://panewslab.com/zh/articledetails/ubwo6839.html",
-          "publishedOn": "2023-11-30T09:08:16.000Z",
-          "wordCount": 335,
-          "title": "疑似Upbit存放ID的2个热钱包地址目前共持有3368万枚ID",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/a0utjwmt.html",
-          "author": "PA一线",
-          "description": "PANews 11月30日消息，据Adam@Greeks.live发布的12月1日期权交割数据显示，2.9万张BTC期权即将到期，Put Call Ratio为0.58，最大痛点37000美元，名义价值11.3亿美元。23万张ETH期权即将到期，Put Call Ratio为0.49，最大痛点2100美元，名义价值4.7亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/a0utjwmt.html",
-          "publishedOn": "2023-11-30T08:30:28.000Z",
-          "wordCount": 342,
-          "title": "2.9万张BTC期权和23万张ETH期权将于明日到期，总名义价值约16亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/srnf581h.html",
-          "author": "PA一线",
-          "description": "PANews 11月30日消息，BNB Chain发推表示：“我们正在解决 BSC 和 opBNB 测试网的问题。预期修复时间为 1 小时。主网不受影响。”",
-          "link": "https://panewslab.com/zh/articledetails/srnf581h.html",
-          "publishedOn": "2023-11-30T08:27:17.000Z",
-          "wordCount": 357,
-          "title": "BNB Chain：预计1小时修复BSC和opBNB测试网问题，主网不受影响",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/z0k0xf6d.html",
-          "author": "PA一线",
-          "description": "PANews 11月30日消息，链上数据显示，NEAR近24小时手续费总和为35335NEAR，较28日环比增长1300%，是历史最高值的7.36倍。同时，NEAR交易笔数近日出现大幅飙升，11月29日NEAR链上交易笔数达到近千万笔(9,957,991)，创下单日最高记录(之前最高值约为350万笔)。\n由于NEAT吸引了大批新用户参与，产生了大量中心化交易所的提币需求，导致币安、Upbit和OKX都暂时停止提币的处理，紧急增加扩容以满足用户需求。截止11月30日上午9点，NEAT仅用一天时间便吸引了14360个链上用户的参与。不久前，NEAR联创Illia等多位NEAR生态大咖转推了一则NEAT铭文上线的推文，这或许是造成上述现象的原因之一。",
-          "link": "https://panewslab.com/zh/articledetails/z0k0xf6d.html",
-          "publishedOn": "2023-11-30T08:05:45.000Z",
-          "wordCount": 336,
-          "title": "受NEAT铭文影响，NEAR单日手续费环比增长1300%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/b0j5c542.html",
-          "author": "PA一线",
-          "description": "PANews 11月30日消息，WhaleAlert监测显示，北京时间15:56，100,000枚ETH（203,290,251 美元）从 Coincheck 转移到未知钱包。",
-          "link": "https://panewslab.com/zh/articledetails/b0j5c542.html",
-          "publishedOn": "2023-11-30T08:00:33.000Z",
-          "wordCount": 339,
-          "title": "数据：10万枚ETH从Coincheck转移到未知钱包，价值超2亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ijhog2o1.html",
-          "author": "PA一线",
-          "description": "PANews 11月30日消息，Cathie Wood领导的Ark Invest在周三（11月29日）通过其ARK Fintech Innovation ETF（ARKF）增持了221,759股Robinhood股票HOOD，价值接近200万美元。同时，该公司减持了38,668股Coinbase股票COIN，价值超过490万美元。",
-          "link": "https://panewslab.com/zh/articledetails/ijhog2o1.html",
-          "publishedOn": "2023-11-30T07:45:36.000Z",
-          "wordCount": 354,
-          "title": "Ark Invest昨日增持近200万美元Robinhood，减持超490万美元的Coinbase股票",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/q6j3o264.html",
-          "author": "PA一线",
-          "description": "PANews 11月30日消息，据PeckShield Alert，Uranium Finance攻击者已将1800枚ETH（约370万美元）转至Tornado Cash。今日早些时候，Uranium Finance攻击者曾将近800枚ETH（约160万美元）转至Tornado Cash。\n此前报道，BSC生态Uranium Finance出现漏洞导致5000万美元资金被盗。",
-          "link": "https://panewslab.com/zh/articledetails/q6j3o264.html",
-          "publishedOn": "2023-11-30T07:12:01.000Z",
-          "wordCount": 370,
-          "title": "数据：Uranium Finance攻击者将2600枚ETH转至Tornado Cash",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -319,6 +319,46 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202311/21446.html",
+          "author": null,
+          "description": "加拿大央行数字货币（CBDC）计划的公众咨询显示，加拿大人总体持负面情绪，这证实了加拿大央行对其在全国范围内采用CBDC的担忧。在一项收集了89,423份的调查中，近95%的受访者听说过或熟悉数字加元的概念，虽然认知度是广泛采用的关键因素之一，但该指标不适用于加拿大。93%的受访者日常主要使用纸质现金支付，但也使用信用卡和借记卡以及其他在线支付方式，此外，只有15%的受访者持有比特币和其他加密货币。大多数受访者建议加拿大央行停止研究和建设发行数字加元的能力，然而，公众认为CBDC倡议不会考虑他们的反馈。",
+          "link": "https://www.hellobtc.com/news/202311/21446.html",
+          "publishedOn": "2023-11-30T10:46:00.000Z",
+          "wordCount": 302,
+          "title": "加拿大人对CBDC总体持负面情绪",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202311/21445.html",
+          "author": null,
+          "description": "当地时间11月29日，在DealBook峰会上，马斯克对于OpenAI最近的“政变”风波发表了自己的猜测。马斯克表示，虽然自己不清楚这场闹剧的内情，但他担忧这一切对于AI将意味着什么，并希望能够知晓旧董事会罢免Altman的真实原因。马斯克补充道，他很想知道OpenAI的旧董事会罢免Altman的原因到底是什么，还曾联系过OpenAI的联合创办人之一、前董事会成员兼首席科学家Ilya Sutskever，但没有得到回应。马斯克称Sutskever有“坚定的道德指南”，好奇是什么让Sutskever “产生如此强烈的反应并与Altman对抗”：“这听起来很严重，我认为不是什么小事。而且我非常担心，他们可能发现了AI的一些危险元素。”",
+          "link": "https://www.hellobtc.com/news/202311/21445.html",
+          "publishedOn": "2023-11-30T10:45:00.000Z",
+          "wordCount": 298,
+          "title": "马斯克：OpenAI罢免Altman可能是发现了一些AI危险元素",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202311/21444.html",
+          "author": null,
+          "description": "ANTPOOL公告称，11月23日，某用户将83枚BTC作为交易手续费提交，ANTPOOL打包该交易后风控系统做了暂时冻结。该用户在2023年12月10日0点（UTC+8）前联系我们并按如下方式验证个人身份，通过验证后，ANTPOOL将退还该笔费用。",
+          "link": "https://www.hellobtc.com/news/202311/21444.html",
+          "publishedOn": "2023-11-30T10:45:00.000Z",
+          "wordCount": 304,
+          "title": "ANTPOOL：将退还某用户的83 BTC交易手续费",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202311/21443.html",
+          "author": null,
+          "description": "对于许多非洲人来说，外汇流动性和货币互换很难获得，这限制了非洲大陆依赖进口的经济体使用美元服务。Canza Finance首席执行官Pascal Ntsama表示，可利用加密货币、区块链网络和DeFi解决这些问题。",
+          "link": "https://www.hellobtc.com/news/202311/21443.html",
+          "publishedOn": "2023-11-30T10:45:00.000Z",
+          "wordCount": 310,
+          "title": "Canza Finance CEO：DeFi可以解决非洲的外汇问题",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202311/21442.html",
           "author": null,
@@ -377,46 +417,6 @@
           "publishedOn": "2023-11-28T06:57:00.000Z",
           "wordCount": 302,
           "title": "11年前的今天第一次比特币减半发生",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202311/21436.html",
-          "author": null,
-          "description": "Polygon Labs在社交媒体上表示，Amazon Web Services现在通过将Polygon PoS添加到Amazon Managed Blockchain (AMB) Access，开发者可以更轻松地开发和启动dApp。AMB Access Polygon提供对Polygon PoS主网和公开预览中的Mumbai测试网的即时、无服务器访问，无需专门的区块链基础设施。(在公开预览期间，访问是免费的，但仍需支付标准 AWS 数据传输费用）。",
-          "link": "https://www.hellobtc.com/news/202311/21436.html",
-          "publishedOn": "2023-11-28T06:57:00.000Z",
-          "wordCount": 321,
-          "title": "亚马逊云将Polygon PoS添加到AMB，使开发者可以更轻松地开发和启动dApp",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202311/21435.html",
-          "author": null,
-          "description": "新火科技前CEO吴树鹏在社交媒体上发文表示，最近接到多位朋友询问与Meex关系，简单说明一下：本人以及关联公司与Meex没有任何股权关系，公司层面合作已于早前时间终止，目前双方无任何关联。本人亦长期看好合规赛道，保持对行业敬畏之心与长期坚持的信念。 此前报道，香港证监会已更新虚拟资产交易平台申请者名单，新增Meex Digital Securities Limited，目前该公司暂无中文名称，虚拟资产交易平台名称为Meex，提交日期为10月12日。",
-          "link": "https://www.hellobtc.com/news/202311/21435.html",
-          "publishedOn": "2023-11-28T06:56:00.000Z",
-          "wordCount": 307,
-          "title": "新火科技前CEO：本人以及关联公司与Meex没有任何股权关系",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202311/21434.html",
-          "author": null,
-          "description": "印度储备银行副行长M. Rajeshwar Rao在香港金融管理局-国际清算银行活动的“货币体系的未来”小组讨论会上表示，如果央行数字货币能够满足未满足的用户需求，并使用现有的现有技术和基础设施来实施，那么央行数字货币将会取得更大的成功。网络安全和弹性也是CBDC更加值得信任的关键问题。线下交易也需要便利，我们正在研究如何做到这一点。 Rao表示，到目前为止，CBDC都是双边基础上的，未来需要更多地思考如何在多边基础上实施它。",
-          "link": "https://www.hellobtc.com/news/202311/21434.html",
-          "publishedOn": "2023-11-28T06:56:00.000Z",
-          "wordCount": 307,
-          "title": "印度储备银行副行长：网络安全和弹性也是CBDC更加值得信任的关键问题",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202311/21433.html",
-          "author": null,
-          "description": "新加坡金融管理局(MAS，即新加坡央行)局长Ravi Menon在香港金融管理局-国际清算银行活动的“货币体系的未来”小组讨论会上表示，未来的货币体系将由三个关键组成部分组成：央行数字货币、代币化银行负债和“监管良好”的稳定币。私人加密货币“惨遭货币考验，因为它们无法保值”。没有人把毕生积蓄放在这些东西上，人们买卖这些东西是为了赚快钱。作为原生数字代币的私人加密货币不符合这一测试，所以我认为它们最终会退出舞台。",
-          "link": "https://www.hellobtc.com/news/202311/21433.html",
-          "publishedOn": "2023-11-28T06:56:00.000Z",
-          "wordCount": 307,
-          "title": "新加坡央行行长：未来的货币体系将由CBDC、代币化银行负债和“监管良好”的稳定币组成",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
