@@ -11,7 +11,7 @@
           "description": "我们正处于模块化区块链的关键时刻——脱离以太坊虚拟机（EVM）。这一转变有望将之前成千上万犹豫不决的开发者带入加密领域！尽管 EVM 曾经占据主导地位，但现在已经到了拥抱塑造区块链未来的新技术的时候了。接下来，我们将探讨 EVM 的局限性、其他虚拟机的潜力以及引领这一变革的先驱者。",
           "link": "https://www.web3sj.com/news/96562/",
           "publishedOn": "2023-11-30T13:17:49.000Z",
-          "wordCount": 980,
+          "wordCount": 992,
           "title": "新时代的黎明： 从EVM向模块化区块链转变",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701350246459.png"
         },
@@ -21,7 +21,7 @@
           "description": "这大约是对全链游戏（Fully On-chain Games）开发最简单的尝试，在此之前我们的曾尝试实现 Chrome 离线恐龙游戏（Chrome Dino Game）的全链上版，后发现没有区块链原生游戏 Tick 机制的支持，很难复刻在体验与原游戏接近的全链版本。",
           "link": "https://www.web3sj.com/gamefinews/96544/",
           "publishedOn": "2023-11-30T13:14:10.000Z",
-          "wordCount": 1210,
+          "wordCount": 1182,
           "title": "全链版2048：我们从MUD引擎使用中学到了什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701350036510.png"
         },
@@ -31,7 +31,7 @@
           "description": "关于协处理器这个概念，一个很浅显易懂的例子就是电脑和显卡的关系，CPU 可以完成大部分任务，但是一旦遇到特定任务，就需要显卡的帮助，因为 CPU 算力不够，比如说机器学习，图形渲染，或者是大型游戏的运行，我们玩大型游戏的时候如果不想掉帧或者卡顿，那肯定就需要一块性能很好的显卡。那在这个场景中，CPU 就是处理器，显卡就是协处理器。映射到区块链上，智能合约就是 CPU，ZK 协处理器就是 GPU。",
           "link": "https://www.web3sj.com/news/96530/",
           "publishedOn": "2023-11-30T12:58:50.000Z",
-          "wordCount": 1682,
+          "wordCount": 1697,
           "title": "氮气加速！ZK协处理器如何打破智能合约数据壁垒",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/d53c8055f7c3423996b97624d3e10387.png"
         },
@@ -41,7 +41,7 @@
           "description": "Tether 三季度报告显示其投资了高达 726 亿美元美债，占到了其总储备金的 84% 以上，相比之下，2021 年时这一比例还不到 3%。这一策略转变反映出稳定币越来越倾向于加强与真实资产的背书，从而增强稳定性、流动性以及韧性。而最新推出的全链稳定币 USDV 则是将背后底层资产完全设为短期美债代币，以维持稳定币生态系统的流动性和稳定性。",
           "link": "https://www.web3sj.com/definews/96525/",
           "publishedOn": "2023-11-30T12:48:21.000Z",
-          "wordCount": 1067,
+          "wordCount": 1090,
           "title": "三分钟读懂全链稳定币USDV：如何运行？有何创新？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1701315252344.jpg"
         },
@@ -51,7 +51,7 @@
           "description": "Web3 里总是存在一个去中心化央行的理想，该央行可以独立于所有的法币体系，完全凭借链上的各类资产实现一整套央行货币发行的逻辑。该乌托邦式的理想激励着无数前赴后继的开发者，他们设计出了一系列稳定币系统。但无论其出发点是否崇高，稳定币系统从数学意义上是否成立，最后大多数稳定币协议都难免会被贴上「旁氏」、「过度杠杆化」的标签。",
           "link": "https://www.web3sj.com/definews/96522/",
           "publishedOn": "2023-11-30T12:45:13.000Z",
-          "wordCount": 1594,
+          "wordCount": 1606,
           "title": "稳定币：旁氏、杠杆、流动性的圣杯",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701348291893.png"
         },
@@ -61,7 +61,7 @@
           "description": "币安通过其行动挑战了传统公司的界限。通过为全球交易者服务，它最终成为了世界上最大的交易平台，但很长一段时间，没有人知道其所在地。总部的概念与币安的整个概念相矛盾，因为赵长鹏一直将币安总部的位置保密。",
           "link": "https://www.web3sj.com/news/96514/",
           "publishedOn": "2023-11-30T12:39:51.000Z",
-          "wordCount": 1051,
+          "wordCount": 1034,
           "title": "CZ时代的终结：新领导下币安的转型",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1701324568055.png"
         },
@@ -71,7 +71,7 @@
           "description": "截至目前，Jito 的 TVL 已接近 680 万 SOL，有超过 5 万名质押者。Bankless 分析师 Jack Inabinet 深入探讨了 Solana 生态系统中空投的兴起，并讨论了这些空投对 Solana DeFi 生态系统的潜在影响，以及是否这标志着 Solana 即将迎来新一轮的发展。",
           "link": "https://www.web3sj.com/definews/96508/",
           "publishedOn": "2023-11-30T12:23:33.000Z",
-          "wordCount": 1065,
+          "wordCount": 1068,
           "title": "Bankless：空投狂潮或将复苏Solana DeFi生态系统",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701347001319.png"
         },
@@ -81,7 +81,7 @@
           "description": "纵观目前的市场，绝大多数的 BTC Layer2 仍然还停留在实验甚至是白皮书阶段，能够让用户参与体验的寥寥无几。但是近期在 BTC 社区爆火的 BTC Layer2 项目 BEVM 却完全不同。不仅率先上线了先行网络，并且已有数十个生态项目在其链上部署。今天本文将用一篇文章来盘点和拆解这个已经上线运营的 BTC Layer2 项目 BEVM 生态现状究竟如何。",
           "link": "https://www.web3sj.com/news/96496/",
           "publishedOn": "2023-11-30T12:21:27.000Z",
-          "wordCount": 1226,
+          "wordCount": 1233,
           "title": "盘点BTC Layer2龙头项目BEVM生态现状",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701346873631.png"
         },
@@ -91,7 +91,7 @@
           "description": "Starknet 新路线图确定的五大主要事项是什么？Starknet 代币进程已推进至哪一步？又有哪些 DeFi 协议值得重点交互？",
           "link": "https://www.web3sj.com/definews/96487/",
           "publishedOn": "2023-11-30T12:10:38.000Z",
-          "wordCount": 1510,
+          "wordCount": 1504,
           "title": "发币在即Starknet更新路线图，哪些DeFi协议值得重点交互？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701346223429.png"
         },
@@ -101,7 +101,7 @@
           "description": "要把握市场时机，我们需要了解价格走势。为什么资产价格会飙升？因为购买力战胜了抛压。",
           "link": "https://www.web3sj.com/transaction/96481/",
           "publishedOn": "2023-11-30T12:04:59.000Z",
-          "wordCount": 855,
+          "wordCount": 865,
           "title": "如何分辨市场是否处于「爆炸」前夜？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701345864174.png"
         }
@@ -112,6 +112,86 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/8otz02vi.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，链上分析师余烬发文称，20 分钟前，Compound 团队相关地址将 19.9 万枚 COMP($10.22M) 转入 Coinbase Prime。这些 COMP 都源于 Compound: Team 3 地址转出。",
+          "link": "https://panewslab.com/zh/articledetails/8otz02vi.html",
+          "publishedOn": "2023-12-01T03:40:40.000Z",
+          "wordCount": 386,
+          "title": "Compound团队相关地址将19.9万枚COMP转入Coinbase Prime，超1000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0pftt3pm.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，WhaleAlert监测显示，北京时间11:32，300,000,000枚DOGE（25,033,123 美元）从未知钱包转移到Robinhood。",
+          "link": "https://panewslab.com/zh/articledetails/0pftt3pm.html",
+          "publishedOn": "2023-12-01T03:38:42.000Z",
+          "wordCount": 328,
+          "title": "数据：3亿枚DOGE从未知钱包转移到Robinhood，价值超2500万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/lk1r7dcy.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，Mysten Labs宣布Quest 3最后阶段已结束，并开放Quest 3奖励认领，500万枚SUI奖励将发放给16.4万名参与者。奖励门户开放至12月31日15:59（北京时间）。Quest 3主要专注于Sui网络上的游戏项目，包括九款参与的应用。",
+          "link": "https://panewslab.com/zh/articledetails/lk1r7dcy.html",
+          "publishedOn": "2023-12-01T03:32:05.000Z",
+          "wordCount": 342,
+          "title": "Mysten Labs已开放Quest 3奖励认领",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/22l2p80t.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据Cryptoslate报道，Kraken首席法务官 (CLO) Marco Santori在接受CNBC采访时证实，Kraken面临美国证券交易委员会 (SEC) 的指控，计划在法庭上对诉讼进行抗辩和回应。Santori 称 SEC 的指控是“该机构捏造的”，并称其为'空洞'。他特别提到了Ripple的胜利案例，认为这一案例对Kraken当前面临的法律挑战有重要影响。他指出，Ripple案件的胜利表明SEC的某些指控可能缺乏实质性依据，暗示SEC的指控可能基于错误的法律解释或证据不足。他强调，Kraken 并不打算逃避监管，而是要求建立一个“对加密生态系统有意义”的法律框架。",
+          "link": "https://panewslab.com/zh/articledetails/22l2p80t.html",
+          "publishedOn": "2023-12-01T02:55:19.000Z",
+          "wordCount": 349,
+          "title": "Kraken首席法务官：计划在法庭上对美国SEC诉讼进行抗辩和回应",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bdb7ezr4.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息， Spot On Chain监测显示，FTX和Alameda相关地址在过去11小时内向Wintermute、Binance和Coinbase转移了价值1080万美元的8种资产。其中包括1000万$GMT（258万美元）、40.7万$UNI（241万美元）、523万$SYN（225万美元）、876万$KLAY（164万美元）、387万$FTM（118万美元）和777亿$SHIB（644千美元），以及少量的$ARB和$OP。此外，他们还转移了少量的$AUDIO、$WOO和$LOOK作为测试。自10月24日以来，总共转移的资产价值已达到5.51亿美元，涉及59种代币。",
+          "link": "https://panewslab.com/zh/articledetails/bdb7ezr4.html",
+          "publishedOn": "2023-12-01T02:40:05.000Z",
+          "wordCount": 325,
+          "title": "FTX/Alameda地址将1080万美元加密资产转至Wintermute、币安和Coinbase",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ggt3f0cl.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据Decrypt报道，职业足球明星 Cristiano Ronaldo（C罗）在遭遇的集体起诉中被要求赔偿超过 10 亿美元的损失，因为他在推广加密货币交易所币安（Binance）方面的作用。该诉讼称，币安出售未注册的证券并在美国非法经营，并声称Ronaldo利用他的名人身份为该平台带来流量和投资者。它列举了币安涉嫌的违规行为，包括经营未注册的交易所和未能实施反洗钱控制措施。\n前天报道，足球明星C罗因推广币安和未注册证券而遭投资者的集体起诉。",
+          "link": "https://panewslab.com/zh/articledetails/ggt3f0cl.html",
+          "publishedOn": "2023-12-01T02:08:56.000Z",
+          "wordCount": 347,
+          "title": "足球明星C罗因币安NFT促销被起诉索赔10亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/zafam6b1.html",
+          "author": "PA一线",
+          "description": "彭博分析师：比特币现货ETF批准窗口期预计在2024年1月5日至10日之间\n彭博分析师James Seyffart在推特发文称，比特币现货ETF的窗口批准期预计将在2024年1月5日至10日之间。根据SEC的文件，富兰克林邓普ton和Hashdex的评论期将于1月5日结束，Ark/21Shares的评论最早日期为1月10日。\n美SEC确认Cboe提交的富达收到以太坊现货ETF申请提议\n据美国证券交易委员会（SEC）文件披露，芝加哥期权交易所（Cboe BZX Exchange, Inc.）已于11月17日向SEC提交了一份提议规则变更，拟议在BZX Rule 14.11(e)(4) 项下，上市和交易富达以太坊基金的现货ETF商品信托股份。SEC已确认收到该提案并将向公众征求对该规则变更的意见。\n彭博社：OpenAI将给员工额外的一个月时间决定是否出售公司股份\n据彭博社援引几位知情人士的话称，OpenAI将给员工额外一个月的时间来决定是否参与出售公司股份的计划。知情人士曾在今年10月透露，OpenAI一直在就出售股票进行谈判，这将使该公司的估值达到860亿美元。本月早些时候，在Sam Altman被解雇后，一些投资者退出了收购要约。但在Altman复职后，投资者的需求足以填补该空缺。知情人士表示，鉴于最近发生的事件，OpenAI将给员工额外一个月的时间，他们需在1月5日前选择是否加入股票出售计划。本次收购原定于12月初结束。\nMicroStrategy本月再次以5.933亿美元现金买入约16130枚比特币\nMicroStrategy披露，在2023年11月1日至2023年11月29日期间，该公司旗下子公司再次以约5.933亿美元现金购买了约16,130枚比特币，平均价格为每枚截至2023年11月29日，MicroStrategy旗下子公司合计持有约174530枚比特币，总购买…",
+          "link": "https://panewslab.com/zh/articledetails/zafam6b1.html",
+          "publishedOn": "2023-12-01T02:00:52.000Z",
+          "wordCount": 431,
+          "title": "昨夜今晨重要资讯（11月30日-12月1日）",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/12/01/images/TrAwY2BDF5.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2205gxu3.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，DeFi 收益聚合器Yearn Finance 发推称，Yearn v3 现已上线 Polygon 网络。Yearn V3 引入了代币化策略，允许独立、无需许可的单一策略金库。此外，策略和金库现在完全兼容 ERC-4626。Yearn 在其他链上发布之前，会添加新的金库和策略。",
+          "link": "https://panewslab.com/zh/articledetails/2205gxu3.html",
+          "publishedOn": "2023-12-01T01:56:56.000Z",
+          "wordCount": 363,
+          "title": "Yearn v3现已上线Polygon网络，引入代币化策略和无需许可创建单一策略金库",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/yd55kdw1.html",
           "author": "PA一线",
@@ -228,7 +308,7 @@
           "description": "PANews 11月30日消息，据美国证券交易委员会（SEC）文件披露，芝加哥期权交易所（Cboe BZX Exchange, Inc.）已于11月17日向SEC提交了一份提议规则变更，拟议在BZX Rule 14.11(e)(4) 项下，上市和交易富达以太坊基金的现货ETF商品信托股份。SEC已确认收到该提案并将向公众征求对该规则变更的意见。\n此前消息，富达已向SEC提交以太坊现货ETF申请。",
           "link": "https://panewslab.com/zh/articledetails/5emc9nju.html",
           "publishedOn": "2023-11-30T16:00:06.000Z",
-          "wordCount": 355,
+          "wordCount": 357,
           "title": "美SEC确认收到Cboe提交的富达以太坊现货ETF申请提案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -245,7 +325,7 @@
           "description": "加拿大央行数字货币（CBDC）计划的公众咨询显示，加拿大人总体持负面情绪，这证实了加拿大央行对其在全国范围内采用CBDC的担忧。在一项收集了89,423份的调查中，近95%的受访者听说过或熟悉数字加元的概念，虽然认知度是广泛采用的关键因素之一，但该指标不适用于加拿大。93%的受访者日常主要使用纸质现金支付，但也使用信用卡和借记卡以及其他在线支付方式，此外，只有15%的受访者持有比特币和其他加密货币。大多数受访者建议加拿大央行停止研究和建设发行数字加元的能力，然而，公众认为CBDC倡议不会考虑他们的反馈。",
           "link": "https://www.hellobtc.com/news/202311/21446.html",
           "publishedOn": "2023-11-30T10:46:00.000Z",
-          "wordCount": 302,
+          "wordCount": 303,
           "title": "加拿大人对CBDC总体持负面情绪",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
