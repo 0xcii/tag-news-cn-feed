@@ -6,12 +6,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=96624",
+          "author": "Gao",
+          "description": "从行情分析到名人发言，你总能在各种推文下面发现，不止一个人在发「xPet」这四个字母。这些人意欲何为？xPet 又是如何利用裂变式传播让社区 Fomo 加剧？",
+          "link": "https://www.web3sj.com/news/96624/",
+          "publishedOn": "2023-12-01T11:09:58.000Z",
+          "wordCount": 932,
+          "title": "裂变式传播的xPet，能否让「链上宠物」实现破圈？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701428978145.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=96618",
+          "author": "Gao",
+          "description": "11 月 23 日上午 7 时，DEX 聚合器和流动性平台 KyberSwap 疑似遭遇攻击，涉及资金达 4700 万美元。11 月 30 日中午 12 时，KyberSwap 攻击者在链上发布和解条件，包括对 Kyber 公司的完全执行控制权，获得 KyberDAO 的治理机制以实施立法变更，要求 Kyber 公司交出所有链上和链下资产等。",
+          "link": "https://www.web3sj.com/definews/96618/",
+          "publishedOn": "2023-12-01T11:06:16.000Z",
+          "wordCount": 927,
+          "title": "扬言要接管KyberSwap，加密史上「最硬气」的黑客留言",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701428762854.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=96602",
+          "author": "Gao",
+          "description": "为了理解上述两个核心观点，我们先从 DA 和数据扣留问题讲起。DA 的全称是 Data Avalibility，字面译作数据可用性，现在被很多人误用，以至于和「历史数据可查」严重混淆。但实际上，「历史数据可查」以及「存储证明」是 Filecoin 和 Arweave 等早已解决的问题。按照以太坊基金会和 Celestia 的说法，DA 问题单纯探讨数据扣留场景。",
+          "link": "https://www.web3sj.com/news/96602/",
+          "publishedOn": "2023-12-01T10:58:32.000Z",
+          "wordCount": 1624,
+          "title": "数据扣留与欺诈证明：Plasma不支持智能合约的原因",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701428288601.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=96598",
+          "author": "Gao",
+          "description": "彭博分析师：比特币现货ETF批准窗口期预计在2024年1月5日至10日之间。美SEC确认收到Cboe提交的富达以太坊现货ETF申请提案。Circle：未直接或间接资助哈马斯，未向孙宇晨及其关联公司提供银行服务。",
+          "link": "https://www.web3sj.com/news/96598/",
+          "publishedOn": "2023-12-01T10:40:48.000Z",
+          "wordCount": 920,
+          "title": "Web3世界日报（2023-12.1）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023120110392723.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=96562",
           "author": "Gao",
           "description": "我们正处于模块化区块链的关键时刻——脱离以太坊虚拟机（EVM）。这一转变有望将之前成千上万犹豫不决的开发者带入加密领域！尽管 EVM 曾经占据主导地位，但现在已经到了拥抱塑造区块链未来的新技术的时候了。接下来，我们将探讨 EVM 的局限性、其他虚拟机的潜力以及引领这一变革的先驱者。",
           "link": "https://www.web3sj.com/news/96562/",
           "publishedOn": "2023-11-30T13:17:49.000Z",
-          "wordCount": 992,
+          "wordCount": 997,
           "title": "新时代的黎明： 从EVM向模块化区块链转变",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701350246459.png"
         },
@@ -21,7 +61,7 @@
           "description": "这大约是对全链游戏（Fully On-chain Games）开发最简单的尝试，在此之前我们的曾尝试实现 Chrome 离线恐龙游戏（Chrome Dino Game）的全链上版，后发现没有区块链原生游戏 Tick 机制的支持，很难复刻在体验与原游戏接近的全链版本。",
           "link": "https://www.web3sj.com/gamefinews/96544/",
           "publishedOn": "2023-11-30T13:14:10.000Z",
-          "wordCount": 1182,
+          "wordCount": 1227,
           "title": "全链版2048：我们从MUD引擎使用中学到了什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701350036510.png"
         },
@@ -31,7 +71,7 @@
           "description": "关于协处理器这个概念，一个很浅显易懂的例子就是电脑和显卡的关系，CPU 可以完成大部分任务，但是一旦遇到特定任务，就需要显卡的帮助，因为 CPU 算力不够，比如说机器学习，图形渲染，或者是大型游戏的运行，我们玩大型游戏的时候如果不想掉帧或者卡顿，那肯定就需要一块性能很好的显卡。那在这个场景中，CPU 就是处理器，显卡就是协处理器。映射到区块链上，智能合约就是 CPU，ZK 协处理器就是 GPU。",
           "link": "https://www.web3sj.com/news/96530/",
           "publishedOn": "2023-11-30T12:58:50.000Z",
-          "wordCount": 1697,
+          "wordCount": 1672,
           "title": "氮气加速！ZK协处理器如何打破智能合约数据壁垒",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/d53c8055f7c3423996b97624d3e10387.png"
         },
@@ -41,7 +81,7 @@
           "description": "Tether 三季度报告显示其投资了高达 726 亿美元美债，占到了其总储备金的 84% 以上，相比之下，2021 年时这一比例还不到 3%。这一策略转变反映出稳定币越来越倾向于加强与真实资产的背书，从而增强稳定性、流动性以及韧性。而最新推出的全链稳定币 USDV 则是将背后底层资产完全设为短期美债代币，以维持稳定币生态系统的流动性和稳定性。",
           "link": "https://www.web3sj.com/definews/96525/",
           "publishedOn": "2023-11-30T12:48:21.000Z",
-          "wordCount": 1090,
+          "wordCount": 1074,
           "title": "三分钟读懂全链稳定币USDV：如何运行？有何创新？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1701315252344.jpg"
         },
@@ -51,7 +91,7 @@
           "description": "Web3 里总是存在一个去中心化央行的理想，该央行可以独立于所有的法币体系，完全凭借链上的各类资产实现一整套央行货币发行的逻辑。该乌托邦式的理想激励着无数前赴后继的开发者，他们设计出了一系列稳定币系统。但无论其出发点是否崇高，稳定币系统从数学意义上是否成立，最后大多数稳定币协议都难免会被贴上「旁氏」、「过度杠杆化」的标签。",
           "link": "https://www.web3sj.com/definews/96522/",
           "publishedOn": "2023-11-30T12:45:13.000Z",
-          "wordCount": 1606,
+          "wordCount": 1612,
           "title": "稳定币：旁氏、杠杆、流动性的圣杯",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701348291893.png"
         },
@@ -61,49 +101,9 @@
           "description": "币安通过其行动挑战了传统公司的界限。通过为全球交易者服务，它最终成为了世界上最大的交易平台，但很长一段时间，没有人知道其所在地。总部的概念与币安的整个概念相矛盾，因为赵长鹏一直将币安总部的位置保密。",
           "link": "https://www.web3sj.com/news/96514/",
           "publishedOn": "2023-11-30T12:39:51.000Z",
-          "wordCount": 1034,
+          "wordCount": 1038,
           "title": "CZ时代的终结：新领导下币安的转型",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/5-1701324568055.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96508",
-          "author": "Gao",
-          "description": "截至目前，Jito 的 TVL 已接近 680 万 SOL，有超过 5 万名质押者。Bankless 分析师 Jack Inabinet 深入探讨了 Solana 生态系统中空投的兴起，并讨论了这些空投对 Solana DeFi 生态系统的潜在影响，以及是否这标志着 Solana 即将迎来新一轮的发展。",
-          "link": "https://www.web3sj.com/definews/96508/",
-          "publishedOn": "2023-11-30T12:23:33.000Z",
-          "wordCount": 1068,
-          "title": "Bankless：空投狂潮或将复苏Solana DeFi生态系统",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701347001319.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96496",
-          "author": "Gao",
-          "description": "纵观目前的市场，绝大多数的 BTC Layer2 仍然还停留在实验甚至是白皮书阶段，能够让用户参与体验的寥寥无几。但是近期在 BTC 社区爆火的 BTC Layer2 项目 BEVM 却完全不同。不仅率先上线了先行网络，并且已有数十个生态项目在其链上部署。今天本文将用一篇文章来盘点和拆解这个已经上线运营的 BTC Layer2 项目 BEVM 生态现状究竟如何。",
-          "link": "https://www.web3sj.com/news/96496/",
-          "publishedOn": "2023-11-30T12:21:27.000Z",
-          "wordCount": 1233,
-          "title": "盘点BTC Layer2龙头项目BEVM生态现状",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701346873631.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96487",
-          "author": "Gao",
-          "description": "Starknet 新路线图确定的五大主要事项是什么？Starknet 代币进程已推进至哪一步？又有哪些 DeFi 协议值得重点交互？",
-          "link": "https://www.web3sj.com/definews/96487/",
-          "publishedOn": "2023-11-30T12:10:38.000Z",
-          "wordCount": 1504,
-          "title": "发币在即Starknet更新路线图，哪些DeFi协议值得重点交互？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701346223429.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96481",
-          "author": "Gao",
-          "description": "要把握市场时机，我们需要了解价格走势。为什么资产价格会飙升？因为购买力战胜了抛压。",
-          "link": "https://www.web3sj.com/transaction/96481/",
-          "publishedOn": "2023-11-30T12:04:59.000Z",
-          "wordCount": 865,
-          "title": "如何分辨市场是否处于「爆炸」前夜？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/11/1701345864174.png"
         }
       ]
     },
@@ -112,6 +112,116 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/pf24hvln.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据链上分析师@ai_9684xtpa监测，巨鲸Luggis(@luggisdoteth)两小时前从币安转出649枚MKR，价值102万美元，这是他首次交易MKR。\nLuggis资产总值高达4042万美元，主要分布在两个钱包中，持有价值2353万美元的stETH和1011万美元的AAVE。",
+          "link": "https://panewslab.com/zh/articledetails/pf24hvln.html",
+          "publishedOn": "2023-12-01T09:54:50.000Z",
+          "wordCount": 322,
+          "title": "巨鲸Luggis于2小时前从币安转出649枚MKR，价值102万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ei7jftdl.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据CoinDesk报道，Cathie Wood旗下投资管理公司ARK Invest本周第三次出售 Coinbase (COIN) 股票，共出售37,377股，按周四收盘价计算，价值近470万美元。除了11月27日和11 月29日的出售外，ARK本周还从其Next Generation Internet ETF出售了价值约1500万美元的COIN股票。\n本周初，这家Coinbase在纳斯达克上市的股票达到了自2022年4月以来的最高水平，周一达到119.77美元。周四该股下跌2.43%，收于124.72美元，但仍处于19个月高点。",
+          "link": "https://panewslab.com/zh/articledetails/ei7jftdl.html",
+          "publishedOn": "2023-12-01T09:51:00.000Z",
+          "wordCount": 364,
+          "title": "ARK Invest再次出售价值470万美元的Coinbase股票",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/r85yu2ze.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，分布式验证器技术提供商Obol Labs在X平台宣布，Obol主网公开测试版已正式上线。分布式验证器Launchpad已上线主网，允许任何人访问并在主网上建立分布式验证器（DV）集群。在测试阶段，每个DV集群的上限为1个验证器。此外，还可在主网上访问分布式验证客户端Charon，上限为1个验证器。Obol Techne Credential计划将于12月6日启动，参与者可在Goerli/Holesky测试网上运行 DV，积累经验获得Obol Techne Credential。同时，Obol将推出以开发者为重点的产品Obol Splits和 Obol SDK。\n此前1月消息，Obol Labs完成1250万美元融资，Pantera和Archetype共同领投。",
+          "link": "https://panewslab.com/zh/articledetails/r85yu2ze.html",
+          "publishedOn": "2023-12-01T09:47:12.000Z",
+          "wordCount": 378,
+          "title": "Obol主网公开测试版已正式上线",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jyasb2tf.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据智通财经报道，港股上市公司客思控股(08173)发布公告，于2023年11月30日，公司与Rongz International Group Limited(荣智国际集团有限公司)(荣智国际)、中盛投资有限合伙基金(Zhongsheng Investment LPF)(中盛投资)及American Bacosys Inc(美国金融系统公司)订立不具法律约束力的合作意向书。根据意向书，公司与荣智国际、中盛投资及美国金融系统公司于美国成立合资公司，以于全球合作开展国际离岸银行、跨境支付与结算、数字金融、数字资产(虚拟资产)业务。",
+          "link": "https://panewslab.com/zh/articledetails/jyasb2tf.html",
+          "publishedOn": "2023-12-01T09:41:49.000Z",
+          "wordCount": 344,
+          "title": "港股上市公司客思控股拟与多家公司成立合资公司，开展虚拟资产等业务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c3djm2an.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据The Miner Mag报道，自2022年1月以来，比特大陆旗下的Antpool首次超越Foundry USA，成为月度开采区块最多的比特币矿池。Antpool在11月份开采了1219个区块，略高于 Foundry USA的1216个区块，为其矿工客户获得了8,672枚比特币的总奖励，不包括分配用于退款的 83.6枚比特币。",
+          "link": "https://panewslab.com/zh/articledetails/c3djm2an.html",
+          "publishedOn": "2023-12-01T09:34:51.000Z",
+          "wordCount": 364,
+          "title": "比特大陆旗下Antpool在月度比特币区块开采量上超过Foundry USA",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bll24555.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据华尔街日报报道，在曼哈顿联邦法院的一次听证会上，被监禁的Terra创始人Do Kwon的辩护律师Douglas Henkin周四表示，匿名举报人协助美国联邦监管机构对Kwon提起欺诈诉讼，其中一名举报人来自做市巨头Jump Trading Group。Douglas Henkin称，向美国证券交易委员会（SEC）提供证据的“Jump Trading举报人”在作证时承认，他对2021年的交易没有直接、第一手了解。Jump Trading一位发言人拒绝置评。美国SEC在此前诉讼中指控Do Kwon在其稳定币TerraUSD的稳定性方面误导投资者。\nDo Kwon的另一位律师Mark Califano在同一次法庭听证会上表示，SEC在案件的另一主要部分依赖一名举报人，涉及韩国支付应用程序Chai。SEC指控Do Kwon欺骗投资者，公开声称Chai使用他的Terra区块链结算支付交易，而实际上它使用了传统的支付技术。Califano称，这位举报人偷偷记录了与一名Chai工程师的对话，他们在对话中讨论了该应用程序的工作原理。Califano称这位举报人“非常偏颇”，并表示他“多次被发现撒谎”。\nDo Kwon目前被关押在黑山，美国和韩国均正寻求将其引渡。此前10月消息，法院文件显示美SEC诉Do Kwon案或取决于做市商Jump Trading的作用。",
+          "link": "https://panewslab.com/zh/articledetails/bll24555.html",
+          "publishedOn": "2023-12-01T09:21:53.000Z",
+          "wordCount": 395,
+          "title": "Do Kwon律师：Jump Trading的举报人曾帮助美SEC对Do Kwon立案",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/03xvofzn.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，天眼查App显示，近日，欧爱运营有限责任公司（OPENAI OPCO, LLC）申请多枚“GPT-6”“GPT-7”商标，国际分类为科学仪器、网站服务，当前商标状态均为等待实质审查。",
+          "link": "https://panewslab.com/zh/articledetails/03xvofzn.html",
+          "publishedOn": "2023-12-01T08:49:45.000Z",
+          "wordCount": 337,
+          "title": "OpenAI在中国申请“GPT-6”“GPT-7”商标",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/q62mah6t.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，Spot On Chain监测显示，0x865开头巨鲸在过去一小时内从币安进一步撤回了价值 3227 万美元的资产。包括： 67,000 $BNB ($15.3M)；6,300 $ETH ($13.2M)；230B $SHIB ($1.92M) 和 200M $IOST ($1.82M) 。经过短短2天的积累，鲸鱼已经持有价值8660万美元的各种资产。\nLookonchain在16:11时称，过去 3 天，该0x865开头巨鲸疑似从币安积累约 1.87 亿美元资产，包括 2380 枚 BTC（约 9064 万美元）、17.2 万枚 BNB（3919 万美元）、16300 枚 ETH（约 3361 万美元）、20 万枚 SOL（约 1220 万美元）、5300 亿枚 SHIB（约 440 万美元）、4.6 亿枚 IOST（约 420 万美元）、160 万枚 MATIC（约 122 万美元）、1600 万枚 CHZ（约 116 万美元）。所有 3 个钱包均于 6 月 8 日创建，并同时从币安提取资产，疑似为同一巨鲸。\n该巨鲸地址为：0x86523c87c8ec98c7539e2c58cd813ee9d1a08d96。",
+          "link": "https://panewslab.com/zh/articledetails/q62mah6t.html",
+          "publishedOn": "2023-12-01T08:40:14.000Z",
+          "wordCount": 461,
+          "title": "0x865开头巨鲸过去1小时内从币安提出3227万美元加密资产",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/qu3ig0ta.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，Bitget宣布目前正在就一项重大投资事宜进行协商，这一战略决策将为Bitget带来更多机会和增长空间，因此将从即日起暂停中国大陆地区新用户注册，相关消息请关注官方公告。",
+          "link": "https://panewslab.com/zh/articledetails/qu3ig0ta.html",
+          "publishedOn": "2023-12-01T08:30:00.000Z",
+          "wordCount": 324,
+          "title": "Bitget宣布将暂停中国大陆地区新用户注册",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/svr5tois.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，据CoinDesk报道，比特币(BTC)到年底持续上涨至 40,000 美元甚至更高的理由已经加强，中心化交易所最近出现了大规模的比特币外流。Glassnode数据显示，自11月17日以来，已有超过 37,000 枚比特币（价值 14 亿美元）从交易所提出。过去一周价值超过 10 亿美元的 BTC 已从交易所流出。此或暗示看涨情绪。",
+          "link": "https://panewslab.com/zh/articledetails/svr5tois.html",
+          "publishedOn": "2023-12-01T08:11:44.000Z",
+          "wordCount": 363,
+          "title": "过去一周超过10亿美元的BTC从交易所流出",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wh0079cu.html",
+          "author": "PA一线",
+          "description": "PANews 12月1日消息，OKLink安全团队发布11月安全事件盘点报告。据统计，11月全网累计造成损失约3.86亿美元，RugPull损失最大安全事件为SAI Pro，部署者倾销了价值170万美元的SAI代币。与此同时，官方社媒遭受的诈骗与钓鱼事件仍不容忽视，当月总计发生35起。面对种种安全问题与挑战，OKLink安全专家建议用户与项目方提升对私钥和密码的保护措施，采用多重验证、硬件钱包等手段。项目方应加强对自身平台的安全检查，全面进行风险评估并修复潜在漏洞。用户也应警惕诈骗与钓鱼事件，注意甄别社交互动信息的真实性。",
+          "link": "https://panewslab.com/zh/articledetails/wh0079cu.html",
+          "publishedOn": "2023-12-01T07:58:41.000Z",
+          "wordCount": 359,
+          "title": "11月全网安全事件盘点：官方社媒遭遇诈骗和钓鱼35起，46.57%为REKT攻击",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/so1eka94.html",
           "author": "PA一线",
@@ -188,7 +298,7 @@
           "description": "PANews 12月1日消息，据Cointelegraph报道，FTX创始人Sam Bankman-Fried (SBF)在布鲁克林监狱的预审押期间因担心自己的安全，甚至考虑向其他囚犯付费以获得“保护”。前囚犯Gene Borrello在接受采访时表示，他曾与SBF共度时光，并观察到SBF在监狱中显得格格不入且担心自身安全。Borrello描述说，其他囚犯视SBF为胆小、身体虚弱，并认为他可能拥有资金，试图通过制造恐惧来敲诈他。然而，由于SBF被安置在与普通囚犯分开的区域，Borrello声称他劝告SBF不需要支付保护费。",
           "link": "https://panewslab.com/zh/articledetails/a0hy7qxs.html",
           "publishedOn": "2023-12-01T04:54:00.000Z",
-          "wordCount": 331,
+          "wordCount": 333,
           "title": "SBF在监狱的预审押期间曾因担心安全问题考虑向其他囚犯付费以获得“保护”",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -200,116 +310,6 @@
           "publishedOn": "2023-12-01T04:40:41.000Z",
           "wordCount": 331,
           "title": "行情：ETH短时突破2100美元/枚，24小时涨幅3.2%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zpfz1hnm.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，Scopescan监测显示，一个与DYDX基金会关联的地址已转移约560万枚DYDX代币（价值约1830万美元）至Amber Group，并最终转至加密交易平台Binance。",
-          "link": "https://panewslab.com/zh/articledetails/zpfz1hnm.html",
-          "publishedOn": "2023-12-01T04:22:44.000Z",
-          "wordCount": 332,
-          "title": "数据：DYDX基金会相关地址转移560万枚DYDX经Amber转至Binance",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cgzbjp9b.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，币安在全仓杠杆和逐仓杠杆上新增了GFT作为可借资产，并在全仓杠杆上新增了交易对。 \n新全仓杠杆交易对：COS/USDT、GFT/USDT、SYS/USDT；\n新逐仓保证金货币对：GFT/USDT。",
-          "link": "https://panewslab.com/zh/articledetails/cgzbjp9b.html",
-          "publishedOn": "2023-12-01T04:11:33.000Z",
-          "wordCount": 325,
-          "title": "币安新增GFT及更多全仓保证金和逐仓保证金交易对",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/8f1d1pmy.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，Galaxy研究副总裁Christine Kim发文总结第123次以太坊核心开发者共识(ACDC)电话会议，开发人员聚焦讨论了Cancun/Deneb 测试更新，其中包括：\nDevnet #12 的推出：Teku、Lodestar 和 Lighthouse 客户端软件以及所有执行层 (EL) 客户端软件目前正在 Devnet #12 上进行测试。Prysm 团队预计在两到三周内将他们的软件准备好在最新的 Devnet 上进行测试。\nDevnet #11 上的验证器退出问题：开发人员发现 Devnet #11 上的验证器退出问题，Nimbus 客户端团队正在解决该问题。Devnet #11 将保持正常运行，直到问题得到解决。\n网络规范澄清：开发人员讨论了澄清“BlockByRoot”和“BlobSidecarsByRoot”请求的规范，以明确提及 CL 节点是否应按特定顺序响应这些请求。\n除了Cancun/Deneb 的更新之外，开发人员还讨论了以太坊基金会协议支持主管 Tim Beiko 提出的一些流程项目，以改善以太坊升级的协调。",
-          "link": "https://panewslab.com/zh/articledetails/8f1d1pmy.html",
-          "publishedOn": "2023-12-01T03:59:03.000Z",
-          "wordCount": 410,
-          "title": "第123次以太坊ACDC会议：Cancun/Deneb升级在Devnet #12上启动测试",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/8otz02vi.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，链上分析师余烬发文称，20 分钟前，Compound 团队相关地址将 19.9 万枚 COMP($10.22M) 转入 Coinbase Prime。这些 COMP 都源于 Compound: Team 3 地址转出。",
-          "link": "https://panewslab.com/zh/articledetails/8otz02vi.html",
-          "publishedOn": "2023-12-01T03:40:40.000Z",
-          "wordCount": 388,
-          "title": "Compound团队相关地址将19.9万枚COMP转入Coinbase Prime，超1000万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0pftt3pm.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，WhaleAlert监测显示，北京时间11:32，300,000,000枚DOGE（25,033,123 美元）从未知钱包转移到Robinhood。",
-          "link": "https://panewslab.com/zh/articledetails/0pftt3pm.html",
-          "publishedOn": "2023-12-01T03:38:42.000Z",
-          "wordCount": 330,
-          "title": "数据：3亿枚DOGE从未知钱包转移到Robinhood，价值超2500万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/lk1r7dcy.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，Mysten Labs宣布Quest 3最后阶段已结束，并开放Quest 3奖励认领，500万枚SUI奖励将发放给16.4万名参与者。奖励门户开放至12月31日15:59（北京时间）。Quest 3主要专注于Sui网络上的游戏项目，包括九款参与的应用。",
-          "link": "https://panewslab.com/zh/articledetails/lk1r7dcy.html",
-          "publishedOn": "2023-12-01T03:32:05.000Z",
-          "wordCount": 344,
-          "title": "Mysten Labs已开放Quest 3奖励认领",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/22l2p80t.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，据Cryptoslate报道，Kraken首席法务官 (CLO) Marco Santori在接受CNBC采访时证实，Kraken面临美国证券交易委员会 (SEC) 的指控，计划在法庭上对诉讼进行抗辩和回应。Santori 称 SEC 的指控是“该机构捏造的”，并称其为'空洞'。他特别提到了Ripple的胜利案例，认为这一案例对Kraken当前面临的法律挑战有重要影响。他指出，Ripple案件的胜利表明SEC的某些指控可能缺乏实质性依据，暗示SEC的指控可能基于错误的法律解释或证据不足。他强调，Kraken 并不打算逃避监管，而是要求建立一个“对加密生态系统有意义”的法律框架。",
-          "link": "https://panewslab.com/zh/articledetails/22l2p80t.html",
-          "publishedOn": "2023-12-01T02:55:19.000Z",
-          "wordCount": 351,
-          "title": "Kraken首席法务官：计划在法庭上对美国SEC诉讼进行抗辩和回应",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/bdb7ezr4.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息， Spot On Chain监测显示，FTX和Alameda相关地址在过去11小时内向Wintermute、Binance和Coinbase转移了价值1080万美元的8种资产。其中包括1000万$GMT（258万美元）、40.7万$UNI（241万美元）、523万$SYN（225万美元）、876万$KLAY（164万美元）、387万$FTM（118万美元）和777亿$SHIB（644千美元），以及少量的$ARB和$OP。此外，他们还转移了少量的$AUDIO、$WOO和$LOOK作为测试。自10月24日以来，总共转移的资产价值已达到5.51亿美元，涉及59种代币。",
-          "link": "https://panewslab.com/zh/articledetails/bdb7ezr4.html",
-          "publishedOn": "2023-12-01T02:40:05.000Z",
-          "wordCount": 327,
-          "title": "FTX/Alameda地址将1080万美元加密资产转至Wintermute、币安和Coinbase",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ggt3f0cl.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，据Decrypt报道，职业足球明星 Cristiano Ronaldo（C罗）在遭遇的集体起诉中被要求赔偿超过 10 亿美元的损失，因为他在推广加密货币交易所币安（Binance）方面的作用。该诉讼称，币安出售未注册的证券并在美国非法经营，并声称Ronaldo利用他的名人身份为该平台带来流量和投资者。它列举了币安涉嫌的违规行为，包括经营未注册的交易所和未能实施反洗钱控制措施。\n前天报道，足球明星C罗因推广币安和未注册证券而遭投资者的集体起诉。",
-          "link": "https://panewslab.com/zh/articledetails/ggt3f0cl.html",
-          "publishedOn": "2023-12-01T02:08:56.000Z",
-          "wordCount": 349,
-          "title": "足球明星C罗因币安NFT促销被起诉索赔10亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zafam6b1.html",
-          "author": "PA一线",
-          "description": "彭博分析师：比特币现货ETF批准窗口期预计在2024年1月5日至10日之间\n彭博分析师James Seyffart在推特发文称，比特币现货ETF的窗口批准期预计将在2024年1月5日至10日之间。根据SEC的文件，富兰克林邓普ton和Hashdex的评论期将于1月5日结束，Ark/21Shares的评论最早日期为1月10日。\n美SEC确认Cboe提交的富达收到以太坊现货ETF申请提议\n据美国证券交易委员会（SEC）文件披露，芝加哥期权交易所（Cboe BZX Exchange, Inc.）已于11月17日向SEC提交了一份提议规则变更，拟议在BZX Rule 14.11(e)(4) 项下，上市和交易富达以太坊基金的现货ETF商品信托股份。SEC已确认收到该提案并将向公众征求对该规则变更的意见。\n彭博社：OpenAI将给员工额外的一个月时间决定是否出售公司股份\n据彭博社援引几位知情人士的话称，OpenAI将给员工额外一个月的时间来决定是否参与出售公司股份的计划。知情人士曾在今年10月透露，OpenAI一直在就出售股票进行谈判，这将使该公司的估值达到860亿美元。本月早些时候，在Sam Altman被解雇后，一些投资者退出了收购要约。但在Altman复职后，投资者的需求足以填补该空缺。知情人士表示，鉴于最近发生的事件，OpenAI将给员工额外一个月的时间，他们需在1月5日前选择是否加入股票出售计划。本次收购原定于12月初结束。\nMicroStrategy本月再次以5.933亿美元现金买入约16130枚比特币\nMicroStrategy披露，在2023年11月1日至2023年11月29日期间，该公司旗下子公司再次以约5.933亿美元现金购买了约16,130枚比特币，平均价格为每枚截至2023年11月29日，MicroStrategy旗下子公司合计持有约174530枚比特币，总购买…",
-          "link": "https://panewslab.com/zh/articledetails/zafam6b1.html",
-          "publishedOn": "2023-12-01T02:00:52.000Z",
-          "wordCount": 437,
-          "title": "昨夜今晨重要资讯（11月30日-12月1日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/12/01/images/TrAwY2BDF5.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2205gxu3.html",
-          "author": "PA一线",
-          "description": "PANews 12月1日消息，DeFi 收益聚合器Yearn Finance 发推称，Yearn v3 现已上线 Polygon 网络。Yearn V3 引入了代币化策略，允许独立、无需许可的单一策略金库。此外，策略和金库现在完全兼容 ERC-4626。Yearn 在其他链上发布之前，会添加新的金库和策略。",
-          "link": "https://panewslab.com/zh/articledetails/2205gxu3.html",
-          "publishedOn": "2023-12-01T01:56:56.000Z",
-          "wordCount": 365,
-          "title": "Yearn v3现已上线Polygon网络，引入代币化策略和无需许可创建单一策略金库",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
