@@ -6,12 +6,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=97096",
+          "author": "Gao",
+          "description": "社区的情绪被这篇长文瞬间点燃，开发者、VC、研究员等角色轮番登场，对这个话题展开了大讨论——同样处于牛市，BTC 生态因铭文而热火朝天，而 ETH 生态除了同属铭文赛道的 eths 之外却显得有些不温不火，那么一众看官们又如何看待 Ryan 的奶文？",
+          "link": "https://www.web3sj.com/news/97096/",
+          "publishedOn": "2023-12-06T07:07:01.000Z",
+          "wordCount": 1053,
+          "title": "加密从业者激辩：2200美元的ETH只是开始？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701846404583.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=97092",
           "author": "Gao",
           "description": "本周，CoinDesk 发布 2023 年最具影响力年度榜单，旨在表彰那些在数字资产和 Web3 领域定义 2023 年的影响力人物。",
           "link": "https://www.web3sj.com/news/97092/",
           "publishedOn": "2023-12-06T05:53:00.000Z",
-          "wordCount": 1420,
+          "wordCount": 1426,
           "title": "新鲜出炉！CoinDesk 2023年最具影响力年度榜单Top 50",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701841967694.png"
         },
@@ -21,7 +31,7 @@
           "description": "首先，以太坊于 2022 年 9 月从 POW 转入 POS，由此出现了大量的闲余算力。这些算力在寻找新的 POW 项目。Kaspa 就是在这一时期上线的，较快地获得了这些算力的支持。一些旧的 POW 代币的矿工，观察到了新的趋势，也陆续将算力投入到新的 POW 项目中。",
           "link": "https://www.web3sj.com/news/97088/",
           "publishedOn": "2023-12-06T05:49:33.000Z",
-          "wordCount": 1030,
+          "wordCount": 1038,
           "title": "PoW系新代币概览：矿工、社区和矿机厂商的胜利？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701841756620.png"
         },
@@ -31,7 +41,7 @@
           "description": "根据 SEC 的投诉，自 2018 年 9 月起，Kraken 通过非法促成加密资产证券的买卖，赚取了数亿美元。SEC 指控称，Kraken 将传统的交易所、经纪人、交易商和清算机构服务交织在一起，却没有按照法律要求向委员会注册这些功能。Kraken 未能注册这些功能使投资者失去了包括 SEC 的检查、记录保存要求和防止利益冲突等重要保护。",
           "link": "https://www.web3sj.com/news/97081/",
           "publishedOn": "2023-12-06T05:44:19.000Z",
-          "wordCount": 954,
+          "wordCount": 935,
           "title": "下一个战场？美国SEC起诉Kraken交易所及Kraken回应全文",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701841444008.png"
         },
@@ -41,7 +51,7 @@
           "description": "例如，根据 NFT 价格下限 (NFT Price Floor) 的数据，以太坊 NFT 系列和长期在熊市最受欢迎的矮胖企鹅 ( Pudgy Penguins ) 的美元最低价格仅在上周就上涨了 74% 。底价是指任何给定集合中单个 NFT 的最低标价。根据 CryptoSlam 的数据，Pudgy Penguins 的交易量本周也猛增 394%，NFT 销售额接近 750 万美元。",
           "link": "https://www.web3sj.com/nftnews/97078/",
           "publishedOn": "2023-12-06T05:31:44.000Z",
-          "wordCount": 997,
+          "wordCount": 994,
           "title": "NFT的冬天结束了吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701840691900.png"
         },
@@ -51,7 +61,7 @@
           "description": "在 Coinbase，我们致力于推动金融体系的更新，并使 10 亿人进入加密货币领域。我们坚信，加密货币和区块链技术有望提升经济自由度和机会。稳定币为消费者带来了现金的一切利好，却无需承受其不足之处——它们在转账速度、成本效益和可获得性上均优于法定货币，同时稳定性和安全性不逊于现金。稳定币助力传统货币如美元以数字形态存在，并在区块链上自由、高效流动，构建起传统现金支付与数字空间的桥梁。稳定币是货币未来的重要部分，且已成为现实。",
           "link": "https://www.web3sj.com/news/97073/",
           "publishedOn": "2023-12-06T05:24:27.000Z",
-          "wordCount": 878,
+          "wordCount": 857,
           "title": "Coinbase：稳定币是未来支付的重要组成部分",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701840250927.png"
         },
@@ -61,7 +71,7 @@
           "description": "今天要说到的 ZetaChain 则是提供了一种完全不同的思路：一方面，ZetaChain 将链作为链间消息传递和确认的「中介」，相较于预言机、中继器等设施，链在安全性方面自然更胜一筹；另一方面，作为一条公链，Omnichain DApp 可以直接部署在 ZetaChain 上，并利用这条使用 Cosmos SDK 开发的高速链来调用任何 ZetaChain 支持链上的资产流动性。",
           "link": "https://www.web3sj.com/news/97068/",
           "publishedOn": "2023-12-06T03:52:15.000Z",
-          "wordCount": 1001,
+          "wordCount": 987,
           "title": "如何为比特币添加Omnichain互操作性？ZetaChain给出了全新的答案",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701834722968.png"
         },
@@ -71,7 +81,7 @@
           "description": "你的主要投资组合应始终包括 BTC 和 ETH。然而，随着比特币主导地位的巅峰，我们可以预期山寨币开始表现优异（资本轮动）。本文将概述我在进入 2024 年时的首选山寨币，并将对列出的每个币进行全面深入的分析。",
           "link": "https://www.web3sj.com/news/97065/",
           "publishedOn": "2023-12-06T03:48:49.000Z",
-          "wordCount": 1147,
+          "wordCount": 1145,
           "title": "买新不买旧？这里有一份2024牛市看涨清单",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701834501767.png"
         },
@@ -81,7 +91,7 @@
           "description": "CoinDesk发布最具影响力年度榜单，Ordinals创始人Casey Rodarmor、Gary Gensler等入选。贝莱德获得10万美元现货比特币ETF种子资金。MakerDAO创始人：希望通过Maker Endgame改变DAO现状，利用AI和开放数据实现更高效的组织和资本配置。",
           "link": "https://www.web3sj.com/news/97044/",
           "publishedOn": "2023-12-05T10:49:44.000Z",
-          "wordCount": 883,
+          "wordCount": 903,
           "title": "Web3世界日报（2023-12.5）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023120510475048.jpg"
         },
@@ -91,19 +101,9 @@
           "description": "本文将会介绍实现两种大热的隐私链技术路线，零知识证明（Zero Knowledge Proof）和 全同态加密 （Fully Homomorphic Encryption），并且还会介绍相关可关注的潜力项目。",
           "link": "https://www.web3sj.com/news/97034/",
           "publishedOn": "2023-12-05T09:17:19.000Z",
-          "wordCount": 1225,
+          "wordCount": 1205,
           "title": "下轮牛市看点：隐私公链叙事和潜力项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701767779408.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97031",
-          "author": "Gao",
-          "description": "以下是 Richard Teng 在 2023 年 12 月 1 日的 X 空间 AMA 上对一些问题的回答摘要。请注意，出于篇幅和清晰度的考虑，本文经过了编辑。",
-          "link": "https://www.web3sj.com/news/97031/",
-          "publishedOn": "2023-12-05T08:28:11.000Z",
-          "wordCount": 929,
-          "title": "币安新CEO首场AMA：当务之急、上币和未来之旅",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701740545793115.png"
         }
       ]
     },
@@ -113,13 +113,53 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/27w4zp4k.html",
+          "author": "PA一线",
+          "description": "PANews 12月6日消息，据美通社报道，自主身份 (SSI) 预言机和数据共享协议Carv宣布在今年早些时候获得了HashKey Capital和一家全球大型科技公司的战略投资。\n据悉， CARV于2021年底成立，致力于赋予用户数据所有权，并以隐私保护的方式从使用他们的数据中公平盈利。随着Data to Earn的引入，用户可以通过CARV协议两种形式获得价值：来自历史数据的被动收入、来自品牌投入和参与的活跃收入。CARV旗下产品包括以意图为中心、可组合的自我主权身份 (SSI) 预言机和激励数据共享平台CARV Protocol、以及人工智能驱动的超级应用CARV Play。\n此前去年11月消息，Carv完成400万美元融资，淡马锡旗下Vertex Ventures领投。",
+          "link": "https://panewslab.com/zh/articledetails/27w4zp4k.html",
+          "publishedOn": "2023-12-06T06:17:26.000Z",
+          "wordCount": 363,
+          "title": "自主身份预言机和数据共享协议Carv获得HashKey Capital主导的战略投资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/qa756ksg.html",
+          "author": "PA一线",
+          "description": "PANews 12月6日消息，据港媒《明报》报道，香港金管局总裁余伟文表示，该局将于明年二月和港府合办“绿色金融周”，届时将与国际货币基金组织（IMF）举办圆桌会议研究混合金融（Blended finance）。\n余伟文表示，金管局准备发行第二次代币化绿债，料于未来几个月内推出。金管局正研究将代币化绿债赎回的流程于区块链内进行，增加其运作效率，同时还在研究利用区块链技术及物联网（IOT）的代币化绿债应用。余伟文还透露，两年前香港绿色债券及绿色贷款仅筹集近 110 亿美元，目前已增至 800 亿美元（约6252亿港元），增长近7倍多。",
+          "link": "https://panewslab.com/zh/articledetails/qa756ksg.html",
+          "publishedOn": "2023-12-06T05:42:49.000Z",
+          "wordCount": 345,
+          "title": "余伟文：香港金管局准备发行第二次代币化绿债，并研究赎回流程于区块链内进行",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8uq72k82.html",
+          "author": "PA一线",
+          "description": "PANews 12月6日消息，Web3审计公司Zellic发文表示，今年11月Zellic安全研究人员发现Astar的一个漏洞，恶意行为者可以利用该漏洞窃取价值约400,000美元的代币。该漏洞允许任何攻击者从部署在Astar EVM上某些类型的智能合约中窃取大量资金。安全研究员Faith与vakzz一起确定了存在被盗风险的资金数额，并随后向Immunefi上的Astar Network漏洞赏金计划提交报告。该漏洞已经被修复，Zellic获得价值50,000美元的ASTR代币作为赏金。",
+          "link": "https://panewslab.com/zh/articledetails/8uq72k82.html",
+          "publishedOn": "2023-12-06T05:31:50.000Z",
+          "wordCount": 338,
+          "title": "Zellic披露Astar曾存在严重漏洞，现已修复",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/za65rysy.html",
+          "author": "PA一线",
+          "description": "PANews 12月6日消息，据金融时报报道，法国第三大银行、即法国兴业银行将在加密交易所Bitstamp推出自己的稳定币，名为“EUR CoinVertible”，成为首家向广大投资者提供跟踪硬通货价格的数字代币的大型银行。该稳定币将完全由欧元支持。\n尽管摩根大通等一些大型投资银行有自己的稳定币，但它们只面向少数机构客户。相比之下，法国兴业银行的稳定币将广泛用于交易。法国兴业银行数字资产部门首席执行官Jean-Marc Stenger表示，随着传统金融机构探索数字账本，该行希望其稳定币将被用于结算数字债券、基金和其他资产的交易。该稳定币可以在不同的平台上使用，也可以在不同的金融服务机构之间使用，这些欧元抵押品资产将由第三方管理的信托基金持有。此外，该稳定币向任何用户开放，无论是该行自己的平台还是其他平台上的运营人员。",
+          "link": "https://panewslab.com/zh/articledetails/za65rysy.html",
+          "publishedOn": "2023-12-06T05:28:17.000Z",
+          "wordCount": 342,
+          "title": "法国兴业银行将在加密交易所Bitstamp推出欧元稳定币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/m19y5o5r.html",
           "author": "PA一线",
-          "description": "PANews 12月6日消息，此前比特币核心开发人员Luke Dashjr称铭文正利用Bitcoin Core漏洞向区块链发送垃圾信息，希望这会在明年的V27版本之前得到最终修复。而在回复网友针对此问题的回复时，Luke Dashjr表示，该漏洞修复后，意味着Ordinals和BRC-20将不复存在。",
+          "description": "PANews 12月6日消息，此前比特币核心开发人员Luke Dashjr称铭文正利用Bitcoin Core漏洞向区块链发送垃圾信息，希望这会在明年的V27版本之前得到最终修复。而在回复网友针对此问题的回复时，Luke Dashjr表示，该漏洞修复后，意味着Ordinals和BRC-20将不复存在。\n此外，有网友问是否可以创建一个类似于以太坊的“铭文链”（需定期向比特币网络提交hashroot）来使铭文继续存在？Luke Dashjr回复称，此方案可行，这样甚至根本不需要有区块大小限制，每个节点都可以设置自己的限制值（或者不设置限制）。”",
           "link": "https://panewslab.com/zh/articledetails/m19y5o5r.html",
           "publishedOn": "2023-12-06T04:03:37.000Z",
-          "wordCount": 342,
-          "title": "比特币核心开发人员：Bitcoin Core相关漏洞修复后Ordinals和BRC-20将不复存在",
+          "wordCount": 349,
+          "title": "比特币核心开发人员：漏洞修复后Ordinals和BRC-20将消失，“铭文链”或为可行方案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
@@ -128,7 +168,7 @@
           "description": "PANews 12月6日消息，据链上分析师@ai_9684xtpa监测，今天凌晨五点DWF Labs向Bybit充值220万枚SHRAP，约合77万美元。",
           "link": "https://panewslab.com/zh/articledetails/n4ls6tit.html",
           "publishedOn": "2023-12-06T03:58:42.000Z",
-          "wordCount": 348,
+          "wordCount": 350,
           "title": "DWF Labs向Bybit存入220万枚SHRAP，约合77万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +178,7 @@
           "description": "PANews 12月6日消息，据链上分析师@ai_9684xtpa监测，Vitalik Burterin关联地址0xD4F...33561今年10月起已向Bitstamp充值累计4053枚ETH，价值926万美元。\n该地址的资金来源于地址0xe69...B52B0，而这个地址曾在2016-2020四年间收到来自Vitalik的12332 枚ETH。这部分ETH的平均成本为679美元，若全部卖出将获利652万美元。",
           "link": "https://panewslab.com/zh/articledetails/03a38945.html",
           "publishedOn": "2023-12-06T03:49:43.000Z",
-          "wordCount": 330,
+          "wordCount": 332,
           "title": "一Vitalik关联地址自10月起已累计向Bitstamp充值4053枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +188,7 @@
           "description": "PANews 12月6日消息，Solana Labs联合创始人Anatoly Yakovenko 在《unchained》播客节目中表示，Solana推出的Web3手机Saga销售不佳，只卖出了大约2200台。 Anatoly Yakovenko称自己有两部手机，一部作为手机使用，而使用Saga作为NFT手机。Saga需要至少2.5万台至5万台销量才能建立核心用户群。公司内部正在讨论，可能会推出新的机型、增强应用程序等。目前Saga不支持比特币。",
           "link": "https://panewslab.com/zh/articledetails/2sysriah.html",
           "publishedOn": "2023-12-06T03:38:42.000Z",
-          "wordCount": 348,
+          "wordCount": 350,
           "title": "Solana Labs联创透露Web3手机Saga的销量仅2200台",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +198,7 @@
           "description": "PANews 12月6日消息，据链上分析师余烬监测，链上标记为smartestmoney.eth的巨鲸正在将持有的最后12,438枚stETH(2847万美元) 赎回成ETH，可能会在赎回后继续转入币安。该巨鲸此前在12月4日将 10,632枚stETH(2383万美元) 赎回成ETH后转入币安。",
           "link": "https://panewslab.com/zh/articledetails/yxi2ru1b.html",
           "publishedOn": "2023-12-06T03:20:09.000Z",
-          "wordCount": 333,
+          "wordCount": 335,
           "title": "某巨鲸正将12438枚stETH赎回成ETH，或将继续转入币安",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +208,7 @@
           "description": "PANews 12月6日消息，据The Data Nerd监测，6小时前，0x4e4开头地址（与Amber Group相关）以3.06美元的价格向币安存入163万枚DYDX（约合503万美元） 。\n在过去24小时内，他们总共存入了1600万枚DYDX （5210万美元）用于兑换。该代币金额已于12月1日解锁。",
           "link": "https://panewslab.com/zh/articledetails/u7r1gc3e.html",
           "publishedOn": "2023-12-06T02:53:27.000Z",
-          "wordCount": 342,
+          "wordCount": 344,
           "title": "Amber Group相关地址6小时前向币安存入163万枚DYDX，约合503万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +218,7 @@
           "description": "PANews 12月6日消息，据Lookonchain监测，FTX和Celsius今天再次转移了ETH，共计10643枚ETH，约合2440万美元。FTX 10小时前向Coinbase存入3143枚ETH（约合720万美元）。Celsius 7小时前将7500枚ETH（约合1720万美元）转移到“0xc450”开头地址，并可能存入交易所。",
           "link": "https://panewslab.com/zh/articledetails/e0ny05qu.html",
           "publishedOn": "2023-12-06T02:45:53.000Z",
-          "wordCount": 330,
+          "wordCount": 332,
           "title": "FTX和Celsius再次转移共计10643枚ETH，约合2440万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +228,7 @@
           "description": "PANews 12月6日消息，据官方博客，稳定币开发商Circle宣布与巴西数字银行Nubank达成合作，以扩大USDC的使用范围。USDC支持最初将作为Nubank Cripto的一部分推出，为其巴西用户提供购买和持有数字美元的渠道。\n据悉，Nubank为巴西、墨西哥和哥伦比亚的9000万客户提供服务，该公司于2022年5月推出了加密货币交易，目前通过Nubank Cripto提供15种加密货币。",
           "link": "https://panewslab.com/zh/articledetails/m40x5303.html",
           "publishedOn": "2023-12-06T02:41:45.000Z",
-          "wordCount": 338,
+          "wordCount": 340,
           "title": "Circle宣布与巴西数字银行Nubank达成合作，以扩大USDC的使用范围",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +238,7 @@
           "description": "PANews 12月6日消息，比特币NFT协议Ordinals创始人Casey Rodarmor针对Rune Alpha的正统性发文表示：“均与我没有关联，当（正式的）Runes发布时，这些Runes不会被追溯识别。”",
           "link": "https://panewslab.com/zh/articledetails/luo8kck9.html",
           "publishedOn": "2023-12-06T02:23:19.000Z",
-          "wordCount": 332,
+          "wordCount": 336,
           "title": "Ordinals创始人称目前所有的Runes协议均与其无关",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +248,7 @@
           "description": "PANews 12月6日消息，据The Block报道，美国众议员Maxine Waters周二在众议院金融服务委员会专门讨论数字问题的小组上表示，她希望组织一群议员深入研究在加密行业运营的公司，并研究应该如何对它们进行监管。Waters向美国证券交易委员会（SEC）的创新和金融技术战略中心 (FinHub) 主任Valerie Szczepanik询问了可能举行的会议。 Waters称：“部分国会议员真的对加密货币在世界、尤其在美国扮演的角色感兴趣，SEC是否会考虑与国会议员举行一些特别会议，讨论可能出现的问题和缺陷，并提供一些信息，帮助国会议员不要认为他们应该以某种方式推进甚至主张，因为他们可能只是知道得不够。”Szczepanik表示立法者应该联系SEC。",
           "link": "https://panewslab.com/zh/articledetails/4d4c8yyv.html",
           "publishedOn": "2023-12-06T02:19:37.000Z",
-          "wordCount": 346,
+          "wordCount": 348,
           "title": "美众议员Maxine Waters呼吁立法者就加密相关问题举行信息会议",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +258,7 @@
           "description": "PANews 12月6日消息，据官方公告，币安将支持Kava（KAVA）网络升级，具体安排如下：项目方将于区块高度 7,638,000（预计东八区时间2023年12月07日23:00）进行网络升级；币安预计将于东八区时间2023年12月07日22:00暂停上述网络的代币充值、提现业务。",
           "link": "https://panewslab.com/zh/articledetails/gedziwuo.html",
           "publishedOn": "2023-12-06T02:12:56.000Z",
-          "wordCount": 325,
+          "wordCount": 327,
           "title": "币安将支持Kava（KAVA）网络升级",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +268,7 @@
           "description": "PANews 12月6日消息，比特币核心开发人员Luke Dashjr在X平台发帖称：“铭文（Inscription）正在利用比特币核心客户端Bitcoin Core的一个漏洞向区块链发送垃圾信息。自2013年以来，Bitcoin Core允许用户设置在中继转发或挖矿交易时的额外数据大小限制。通过将其数据模糊为程序代码，铭文绕过了这个限制。这个漏洞最近在Bitcoin Knots V25.1中得到修复。由于去年底我的工作流程受到了严重干扰（V24被完全跳过），修复时间比平常长。在即将发布的V26版本中，Bitcoin Core仍然存在漏洞。我只能希望它会在明年的V27版本之前得到最终修复。”",
           "link": "https://panewslab.com/zh/articledetails/hvjyvtbu.html",
           "publishedOn": "2023-12-06T02:04:54.000Z",
-          "wordCount": 350,
+          "wordCount": 354,
           "title": "比特币核心开发者：铭文正利用Bitcoin Core漏洞向区块链发送垃圾信息",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +278,7 @@
           "description": "美国SEC推迟对灰度以太坊现货ETF转换申请做出决议\n据The Block报道，根据公开的监管文件，美国SEC已推迟对灰度以太坊现货ETF转换申请做出决议，新的截至日期为2024年1月25日。灰度于今年10月提交了将以太坊信托转换为现货ETF的19b-4表格。\n彭博分析师：贝莱德或将向比特币现货ETF转入约2亿美元的信托资产\n彭博分析师Eric Balchunas推特发文称，听到传言说贝莱德可能会将信托资产（个人认为约为2亿美元）转移至比特币现货ETF（代码：IBTC）中，这可能会在ETF发行竞赛初期对他们有所帮助。更值得关注的是贝莱德是否以及何时决定将IBTC加入他们的模型投资组合中。\nCoinbase钱包推出新功能，支持通过共享链接汇款\n据官方消息，Coinbase钱包推出新功能，允许用户通过任何可以共享链接的平台汇款，包括WhatsApp、iMessage、Telegram等即时通讯应用，Facebook、Snapchat、TikTok和Instagram等社交媒体以及电子邮件等方式。接收者点击共享链接时，将会被引导下载Coinbase钱包应用程序。如果款项在两周内没有被领取，将自动退还给发件人。\n币安将为其Web3钱包用户空投价值50万美元的加密货币\n币安宣布将为使用Web3钱包进行Swap的用户空投价值50万美元的加密货币，范围从1 SHIB 至1 BTC不等。用户只需使用 Binance Web3 钱包进行交易(swap)即可获得资格。活动结束时间为：2023/12/31 23:59（UTC）。\n马斯克旗下人工智能公司X.AI拟通过发行股票融资10亿美元\n据CoinDesk报道，根据提交给美国证券交易委员会(SEC)的一份文件，马斯克旗下人工智能公司X.AI正在通过发行股票筹集高达10亿美元的资金。该公司已经售出1.347亿美元股票，还有8.653亿美元股票正等…",
           "link": "https://panewslab.com/zh/articledetails/5juusgsu.html",
           "publishedOn": "2023-12-06T02:01:57.000Z",
-          "wordCount": 620,
+          "wordCount": 625,
           "title": "昨夜今晨重要资讯（12月5日-12月6日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/12/06/images/3CDZ16TNt6.jpg"
         },
@@ -248,7 +288,7 @@
           "description": "PANews 12月6日消息，据Cointelegraph报道，CME比特币期货合约未平仓总量增至52亿美元，接近2021年10月底的历史高点（54.5亿美元）。IG Australia分析师Tony Sycamore表示，未平仓量的上升表明人们对比特币的兴趣重新升温，但这并不能解释CME交易员的定位；最近的比特币价格上涨可能更密切地归因于加密货币与宏观环境的关系，并将美联储开始降息的信号视为价格走势的更重要驱动力。",
           "link": "https://panewslab.com/zh/articledetails/pbn45a39.html",
           "publishedOn": "2023-12-06T01:52:55.000Z",
-          "wordCount": 335,
+          "wordCount": 337,
           "title": "CME比特币期货合约未平仓总量增至52亿美元，接近2021年的历史高点",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +298,7 @@
           "description": "PANews 12月6日消息，Synthetix创始人Kain Warwic向治理委员会Spartan Council发布“SIP-2043：结束SNX通胀”提案，提议将每周SNX通胀率降至零，并称此更改只需要更新一个参数，因此可以相当快地实现。Kain Warwic认为SNX通胀激励的有效性已显著下降，由于通货膨胀目前处于较低的个位数，这不会对权益持有者的行为产生有意义的影响。",
           "link": "https://panewslab.com/zh/articledetails/09hkxq69.html",
           "publishedOn": "2023-12-06T01:38:37.000Z",
-          "wordCount": 337,
+          "wordCount": 339,
           "title": "Synthetix创始人发布关于“结束SNX通胀”的提案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,48 +308,8 @@
           "description": "PANews 12月6日消息，据The Block报道，巴西数字银行Nubank宣布与机构交易技术提供商Talos建立合作伙伴关系，旨在降低加密货币交易成本。通过此次合作，希望通过Nu app以巴西雷亚尔进行加密资产交易的客户将通过Talos的智能订单路由引擎和连接来降低成本，从而优化多个流动性提供商之间的交易执行。\n该公司还表示，Nubank为巴西、墨西哥和哥伦比亚的9000万客户提供服务，该公司于2022年5月推出了加密货币交易，目前通过Nubank Cripto提供15种加密货币。",
           "link": "https://panewslab.com/zh/articledetails/31wt8qpf.html",
           "publishedOn": "2023-12-06T01:25:57.000Z",
-          "wordCount": 336,
+          "wordCount": 338,
           "title": "巴西数字银行Nubank与Talos合作降低加密货币交易成本",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/s5wrekg6.html",
-          "author": "PA一线",
-          "description": "PANews 12月6日消息，据CoinDesk报道，IBM宣布推出新的加密签名技术，即IBM Hyper Protect Offline Signing Orchestrator (OSO)，用于处理冷存储中的数字资产，降低与手动程序相关的风险，同时使资产与互联网连接保持一定距离。\n据介绍，OSO通过提供额外的安全层（包括断开网络操作、基于时间的安全性和电子签名）来帮助保护高价值交易，交易得到多个利益相关者的批准。IBM在加密货币领域的长期合作伙伴、Ripple旗下的托管公司Metaco正在使用新的OSO技术。",
-          "link": "https://panewslab.com/zh/articledetails/s5wrekg6.html",
-          "publishedOn": "2023-12-06T01:19:03.000Z",
-          "wordCount": 347,
-          "title": "IBM推出新的加密资产冷存储技术",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3iz9gqg9.html",
-          "author": "PA一线",
-          "description": "PANews 12月6日消息，据Spot On Chain监测，Storj团队约5小时前以0.801美元的价格向币安存入300万枚STORJ（约合242万美元） 。\n总体而言，在2023年11月9日价格上涨后，该团队地址已向币安存入1350万枚STORJ（共计1040万美元，平均价格：0.767美元）。需注意的是，在他们每次将STORJ存入币安后，STORJ价格往往会略有下降。",
-          "link": "https://panewslab.com/zh/articledetails/3iz9gqg9.html",
-          "publishedOn": "2023-12-06T01:11:16.000Z",
-          "wordCount": 333,
-          "title": "Storj团队约5小时前向币安存入300万枚STORJ，约合242万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5ibnuu9e.html",
-          "author": "PA一线",
-          "description": "PANews 12月6日消息，据链上分析师余烬监测，BlockTower Capital在12/4转出3,333枚MKR(约500万美元) 后，今天在6小时前继续转出1916枚MKR(约合285万美元)：其中763枚MKR转至Wintermute；1153枚MKR转至FalconX。\n2天里共计转出5249枚MKR(约合786万美元)，实现收益232万美元。BlockTower Capital目前还持有7,830枚MKR(约合1164万美元)。",
-          "link": "https://panewslab.com/zh/articledetails/5ibnuu9e.html",
-          "publishedOn": "2023-12-06T01:08:07.000Z",
-          "wordCount": 337,
-          "title": "BlockTower Capital凌晨再次转出1916枚MKR，约合285万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zckm2rgd.html",
-          "author": "PA一线",
-          "description": "PANews 12月6日消息，据8marketcap最新数据显示，比特币以8623亿美元的市值重返全球市值资产第9位，超过Meta Platforms (Facebook)的8179.6亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/zckm2rgd.html",
-          "publishedOn": "2023-12-06T01:04:23.000Z",
-          "wordCount": 347,
-          "title": "比特币市值重返全球市值资产第9位，超越Meta Platforms",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
