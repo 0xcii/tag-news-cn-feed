@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=97068",
+          "author": "Gao",
+          "description": "今天要说到的 ZetaChain 则是提供了一种完全不同的思路：一方面，ZetaChain 将链作为链间消息传递和确认的「中介」，相较于预言机、中继器等设施，链在安全性方面自然更胜一筹；另一方面，作为一条公链，Omnichain DApp 可以直接部署在 ZetaChain 上，并利用这条使用 Cosmos SDK 开发的高速链来调用任何 ZetaChain 支持链上的资产流动性。",
+          "link": "https://www.web3sj.com/news/97068/",
+          "publishedOn": "2023-12-06T03:52:15.000Z",
+          "wordCount": 1016,
+          "title": "如何为比特币添加Omnichain互操作性？ZetaChain给出了全新的答案",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701834722968.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97065",
+          "author": "Gao",
+          "description": "你的主要投资组合应始终包括 BTC 和 ETH。然而，随着比特币主导地位的巅峰，我们可以预期山寨币开始表现优异（资本轮动）。本文将概述我在进入 2024 年时的首选山寨币，并将对列出的每个币进行全面深入的分析。",
+          "link": "https://www.web3sj.com/news/97065/",
+          "publishedOn": "2023-12-06T03:48:49.000Z",
+          "wordCount": 1154,
+          "title": "买新不买旧？这里有一份2024牛市看涨清单",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701834501767.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=97044",
           "author": "Gao",
           "description": "CoinDesk发布最具影响力年度榜单，Ordinals创始人Casey Rodarmor、Gary Gensler等入选。贝莱德获得10万美元现货比特币ETF种子资金。MakerDAO创始人：希望通过Maker Endgame改变DAO现状，利用AI和开放数据实现更高效的组织和资本配置。",
           "link": "https://www.web3sj.com/news/97044/",
           "publishedOn": "2023-12-05T10:49:44.000Z",
-          "wordCount": 896,
+          "wordCount": 878,
           "title": "Web3世界日报（2023-12.5）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023120510475048.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "本文将会介绍实现两种大热的隐私链技术路线，零知识证明（Zero Knowledge Proof）和 全同态加密 （Fully Homomorphic Encryption），并且还会介绍相关可关注的潜力项目。",
           "link": "https://www.web3sj.com/news/97034/",
           "publishedOn": "2023-12-05T09:17:19.000Z",
-          "wordCount": 1196,
+          "wordCount": 1220,
           "title": "下轮牛市看点：隐私公链叙事和潜力项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701767779408.png"
         },
@@ -31,7 +51,7 @@
           "description": "以下是 Richard Teng 在 2023 年 12 月 1 日的 X 空间 AMA 上对一些问题的回答摘要。请注意，出于篇幅和清晰度的考虑，本文经过了编辑。",
           "link": "https://www.web3sj.com/news/97031/",
           "publishedOn": "2023-12-05T08:28:11.000Z",
-          "wordCount": 944,
+          "wordCount": 933,
           "title": "币安新CEO首场AMA：当务之急、上币和未来之旅",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701740545793115.png"
         },
@@ -41,7 +61,7 @@
           "description": "传统游戏经济存在通货膨胀、滞胀和玩家移民等挑战，而开放区块链经济需要解决这些问题。本系列文章将探讨如何改善基于区块链的经济，尤其是如何整合传统经济框架。这是个复杂的话题，但通过讨论和反思，我们可以逐步完善这个系列。",
           "link": "https://www.web3sj.com/gamefinews/97006/",
           "publishedOn": "2023-12-05T08:02:33.000Z",
-          "wordCount": 1387,
+          "wordCount": 1397,
           "title": "如何改善当前和未来基于区块链的经济？设计开放游戏经济",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701763322879.png"
         },
@@ -51,7 +71,7 @@
           "description": "由于其去中心化的性质，在区块链上实现用户隐私保证比 Web 2.0 前辈更加复杂，Web 2.0 前辈依靠专有数据中心来确保用户数据的安全。然而，正如我们所知，这种模式带来了许多缺陷，并滋生了如监视资本主义和数据剥削等普遍现象。那么，在区块链上，网络和应用程序运行在分布式网络节点上，隐私是如何实现的呢？",
           "link": "https://www.web3sj.com/news/97000/",
           "publishedOn": "2023-12-05T07:54:20.000Z",
-          "wordCount": 977,
+          "wordCount": 980,
           "title": "探讨实现链上隐私的不同方法",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701762845839.png"
         },
@@ -61,7 +81,7 @@
           "description": "从已公布的分配方案来看，JitoSOL 用户将会获得 80% 的空投额度（8000 万枚 JTO），Jito Solana 验证者将获得 15% （1500 万枚 JTO），Jito MEV 搜索者则将获得另外 5% （500 万枚 JTO）。",
           "link": "https://www.web3sj.com/definews/96992/",
           "publishedOn": "2023-12-05T07:39:37.000Z",
-          "wordCount": 1089,
+          "wordCount": 1117,
           "title": "Jito正式公布空投细则，1 亿枚JTO究竟会如何分配？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701761965090.png"
         },
@@ -71,7 +91,7 @@
           "description": "Ledger 首席执行官帕斯卡尔 - 高迪尔（Pascal Gauthier）在接受 CNBC 采访时表示，总体感觉 2023 年是为牛市准备的一年。并且人们对 2024 年和 2025 年同样充满期望。",
           "link": "https://www.web3sj.com/news/96989/",
           "publishedOn": "2023-12-05T07:35:22.000Z",
-          "wordCount": 1075,
+          "wordCount": 1064,
           "title": "比特币暴涨大辩论：10 万美元在即？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701761711702.png"
         },
@@ -81,29 +101,9 @@
           "description": "项目历史：Stacks 主网于 2021 年初启动，采用了以比特币为动力的共识机制。该项目正在经历一次重大升级，名为 Stacks Nakamoto，使其更接近比特币 L2（下文有更多详细信息）。Stacks 生态系统中的构建者是 BTC 信仰者，他们希望用 BTC 作为资产构建一切。",
           "link": "https://www.web3sj.com/news/96986/",
           "publishedOn": "2023-12-05T07:30:40.000Z",
-          "wordCount": 968,
+          "wordCount": 948,
           "title": "Stacks创始人谈2024路线图：为什么比特币Layer2很重要？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701761421566.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96981",
-          "author": "Gao",
-          "description": "meme 币项目乃是加密货币领域普通投资者机会最大的「财富密码」，因为这里从来不缺新东西。与其他商业类加密项目如 DeFi、web3Game 不同，Meme 看似没有经营模式，但是其商业模式和 PMF（Product Market Fit，与用户需求匹配的产品）却是非常清晰的，即：为大众加密投资者提供极具想象空间的投机媒介。",
-          "link": "https://www.web3sj.com/news/96981/",
-          "publishedOn": "2023-12-05T07:01:28.000Z",
-          "wordCount": 1205,
-          "title": "上万倍的PEPE与ORDI，今年地球上的最强资产",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/5-1701758984165.webp"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=96958",
-          "author": "Gao",
-          "description": "如果 Rollup 能够作为技术堆栈得到广泛部署，那么我们可能有能力打破信任壁垒，使全球社区中的任何人都能进行财务互动，从而进入全球电子商务、远程招聘和无摩擦提供服务的新时代。",
-          "link": "https://www.web3sj.com/news/96958/",
-          "publishedOn": "2023-12-04T14:53:26.000Z",
-          "wordCount": 1170,
-          "title": "为什么Rollup都需要安全委员会？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1701701578008.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "PANews 12月6日消息，比特币核心开发人员Luke Dashjr在X平台发帖称：“铭文（Inscription）正在利用比特币核心客户端Bitcoin Core的一个漏洞向区块链发送垃圾信息。自2013年以来，Bitcoin Core允许用户设置在中继转发或挖矿交易时的额外数据大小限制。通过将其数据模糊为程序代码，铭文绕过了这个限制。这个漏洞最近在Bitcoin Knots V25.1中得到修复。由于去年底我的工作流程受到了严重干扰（V24被完全跳过），修复时间比平常长。在即将发布的V26版本中，Bitcoin Core仍然存在漏洞。我只能希望它会在明年的V27版本之前得到最终修复。”",
           "link": "https://panewslab.com/zh/articledetails/hvjyvtbu.html",
           "publishedOn": "2023-12-06T02:04:54.000Z",
-          "wordCount": 351,
+          "wordCount": 354,
           "title": "比特币核心开发者：铭文正利用Bitcoin Core漏洞向区块链发送垃圾信息",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +128,7 @@
           "description": "美国SEC推迟对灰度以太坊现货ETF转换申请做出决议\n据The Block报道，根据公开的监管文件，美国SEC已推迟对灰度以太坊现货ETF转换申请做出决议，新的截至日期为2024年1月25日。灰度于今年10月提交了将以太坊信托转换为现货ETF的19b-4表格。\n彭博分析师：贝莱德或将向比特币现货ETF转入约2亿美元的信托资产\n彭博分析师Eric Balchunas推特发文称，听到传言说贝莱德可能会将信托资产（个人认为约为2亿美元）转移至比特币现货ETF（代码：IBTC）中，这可能会在ETF发行竞赛初期对他们有所帮助。更值得关注的是贝莱德是否以及何时决定将IBTC加入他们的模型投资组合中。\nCoinbase钱包推出新功能，支持通过共享链接汇款\n据官方消息，Coinbase钱包推出新功能，允许用户通过任何可以共享链接的平台汇款，包括WhatsApp、iMessage、Telegram等即时通讯应用，Facebook、Snapchat、TikTok和Instagram等社交媒体以及电子邮件等方式。接收者点击共享链接时，将会被引导下载Coinbase钱包应用程序。如果款项在两周内没有被领取，将自动退还给发件人。\n币安将为其Web3钱包用户空投价值50万美元的加密货币\n币安宣布将为使用Web3钱包进行Swap的用户空投价值50万美元的加密货币，范围从1 SHIB 至1 BTC不等。用户只需使用 Binance Web3 钱包进行交易(swap)即可获得资格。活动结束时间为：2023/12/31 23:59（UTC）。\n马斯克旗下人工智能公司X.AI拟通过发行股票融资10亿美元\n据CoinDesk报道，根据提交给美国证券交易委员会(SEC)的一份文件，马斯克旗下人工智能公司X.AI正在通过发行股票筹集高达10亿美元的资金。该公司已经售出1.347亿美元股票，还有8.653亿美元股票正等…",
           "link": "https://panewslab.com/zh/articledetails/5juusgsu.html",
           "publishedOn": "2023-12-06T02:01:57.000Z",
-          "wordCount": 619,
+          "wordCount": 622,
           "title": "昨夜今晨重要资讯（12月5日-12月6日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2023/12/06/images/3CDZ16TNt6.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 12月6日消息，据Cointelegraph报道，CME比特币期货合约未平仓总量增至52亿美元，接近2021年10月底的历史高点（54.5亿美元）。IG Australia分析师Tony Sycamore表示，未平仓量的上升表明人们对比特币的兴趣重新升温，但这并不能解释CME交易员的定位；最近的比特币价格上涨可能更密切地归因于加密货币与宏观环境的关系，并将美联储开始降息的信号视为价格走势的更重要驱动力。",
           "link": "https://panewslab.com/zh/articledetails/pbn45a39.html",
           "publishedOn": "2023-12-06T01:52:55.000Z",
-          "wordCount": 336,
+          "wordCount": 339,
           "title": "CME比特币期货合约未平仓总量增至52亿美元，接近2021年的历史高点",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 12月6日消息，Synthetix创始人Kain Warwic向治理委员会Spartan Council发布“SIP-2043：结束SNX通胀”提案，提议将每周SNX通胀率降至零，并称此更改只需要更新一个参数，因此可以相当快地实现。Kain Warwic认为SNX通胀激励的有效性已显著下降，由于通货膨胀目前处于较低的个位数，这不会对权益持有者的行为产生有意义的影响。",
           "link": "https://panewslab.com/zh/articledetails/09hkxq69.html",
           "publishedOn": "2023-12-06T01:38:37.000Z",
-          "wordCount": 339,
+          "wordCount": 341,
           "title": "Synthetix创始人发布关于“结束SNX通胀”的提案",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +158,7 @@
           "description": "PANews 12月6日消息，据The Block报道，巴西数字银行Nubank宣布与机构交易技术提供商Talos建立合作伙伴关系，旨在降低加密货币交易成本。通过此次合作，希望通过Nu app以巴西雷亚尔进行加密资产交易的客户将通过Talos的智能订单路由引擎和连接来降低成本，从而优化多个流动性提供商之间的交易执行。\n该公司还表示，Nubank为巴西、墨西哥和哥伦比亚的9000万客户提供服务，该公司于2022年5月推出了加密货币交易，目前通过Nubank Cripto提供15种加密货币。",
           "link": "https://panewslab.com/zh/articledetails/31wt8qpf.html",
           "publishedOn": "2023-12-06T01:25:57.000Z",
-          "wordCount": 332,
+          "wordCount": 336,
           "title": "巴西数字银行Nubank与Talos合作降低加密货币交易成本",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "PANews 12月6日消息，据CoinDesk报道，IBM宣布推出新的加密签名技术，即IBM Hyper Protect Offline Signing Orchestrator (OSO)，用于处理冷存储中的数字资产，降低与手动程序相关的风险，同时使资产与互联网连接保持一定距离。\n据介绍，OSO通过提供额外的安全层（包括断开网络操作、基于时间的安全性和电子签名）来帮助保护高价值交易，交易得到多个利益相关者的批准。IBM在加密货币领域的长期合作伙伴、Ripple旗下的托管公司Metaco正在使用新的OSO技术。",
           "link": "https://panewslab.com/zh/articledetails/s5wrekg6.html",
           "publishedOn": "2023-12-06T01:19:03.000Z",
-          "wordCount": 345,
+          "wordCount": 347,
           "title": "IBM推出新的加密资产冷存储技术",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "PANews 12月6日消息，据Spot On Chain监测，Storj团队约5小时前以0.801美元的价格向币安存入300万枚STORJ（约合242万美元） 。\n总体而言，在2023年11月9日价格上涨后，该团队地址已向币安存入1350万枚STORJ（共计1040万美元，平均价格：0.767美元）。需注意的是，在他们每次将STORJ存入币安后，STORJ价格往往会略有下降。",
           "link": "https://panewslab.com/zh/articledetails/3iz9gqg9.html",
           "publishedOn": "2023-12-06T01:11:16.000Z",
-          "wordCount": 333,
+          "wordCount": 335,
           "title": "Storj团队约5小时前向币安存入300万枚STORJ，约合242万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "PANews 12月6日消息，据链上分析师余烬监测，BlockTower Capital在12/4转出3,333枚MKR(约500万美元) 后，今天在6小时前继续转出1916枚MKR(约合285万美元)：其中763枚MKR转至Wintermute；1153枚MKR转至FalconX。\n2天里共计转出5249枚MKR(约合786万美元)，实现收益232万美元。BlockTower Capital目前还持有7,830枚MKR(约合1164万美元)。",
           "link": "https://panewslab.com/zh/articledetails/5ibnuu9e.html",
           "publishedOn": "2023-12-06T01:08:07.000Z",
-          "wordCount": 337,
+          "wordCount": 339,
           "title": "BlockTower Capital凌晨再次转出1916枚MKR，约合285万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 12月6日消息，据8marketcap最新数据显示，比特币以8623亿美元的市值重返全球市值资产第9位，超过Meta Platforms (Facebook)的8179.6亿美元。",
           "link": "https://panewslab.com/zh/articledetails/zckm2rgd.html",
           "publishedOn": "2023-12-06T01:04:23.000Z",
-          "wordCount": 348,
+          "wordCount": 351,
           "title": "比特币市值重返全球市值资产第9位，超越Meta Platforms",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 12月6日消息，金融时报报道称，币安新任首席执行官Richard Teng拒绝透露该加密交易所全球总部的位置，维持其前CEO赵长鹏在该公司对美国刑事指控认罪之前所采取的立场。Richard Teng坚称币安没有全球总部，并表示币安在其监管管辖区接受了审计，但拒绝透露涉及的审计公司名称。他对该媒体表示：“为什么你觉得自己有资格得到这些答案？公司已向监管机构提供了必要的信息。我们没有必要公开分享所有这些信息。”\n针对与美国政府的和解，Richard Teng表示：“从很多方面来说，合规监控对我来说都是一个关键的积极因素。这给了用户很大的信心，包括机构用户，他们现在正以非常积极的方式与我们接触。”\n根据CCData数据，币安在加密现货市场的份额从年初超过50%的高位降至11月底的约32%，并在加密衍生品市场的占有率已从2022年12月的64%缩减至48%。而Richard Teng表示：“如果自与美国政府达成和解以来继续监控我们的市场份额，就会发现它正在缓慢回升。”",
           "link": "https://panewslab.com/zh/articledetails/8msc0bds.html",
           "publishedOn": "2023-12-06T00:44:34.000Z",
-          "wordCount": 340,
+          "wordCount": 342,
           "title": "金融时报：币安新任CEO拒绝透露全球总部的位置",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 12月6日消息，据加密数据分析公司CryptoRand整理的数据，11月加密领域的总融资金额超过16.7亿美元，较10月的4305.6万美元增长288%。",
           "link": "https://panewslab.com/zh/articledetails/6gegarh0.html",
           "publishedOn": "2023-12-06T00:28:59.000Z",
-          "wordCount": 329,
+          "wordCount": 331,
           "title": "11月加密领域的总融资额超16.7亿美元，环比增长288%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +238,7 @@
           "description": "PANews 12月6日消息，行情显示，比特币价格已于今日凌晨突破44000美元，现报44,091.54美元，24小时涨幅达5.39%。\n以太坊价格于凌晨短时突破2300美元，现报2293.33美元，24小时涨幅达2.34%。",
           "link": "https://panewslab.com/zh/articledetails/hl7xu4bd.html",
           "publishedOn": "2023-12-06T00:05:05.000Z",
-          "wordCount": 330,
+          "wordCount": 332,
           "title": "比特币现已突破44000美元，以太坊凌晨短时突破2300美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 12月6日消息，据彭博社报道，在近期比特币上涨期间，韩国加密货币交易者发挥了重要影响力。根据CCData编制的数据，今年11月，韩元首次超过美元，成为加密货币交易中最大的法币交易对。该数据不包括稳定币。CCData表示，在比特币交易中，42.8%的法币交易活动与韩元有关。从今年9月至今，韩元市场份额增加约17%至41%，而美元的市场份额则下降11%至40%。",
           "link": "https://panewslab.com/zh/articledetails/iu94dsfr.html",
           "publishedOn": "2023-12-06T00:04:40.000Z",
-          "wordCount": 322,
+          "wordCount": 324,
           "title": "数据：韩元超越美元成为比特币最大法币交易对",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 12月6日消息，据The Block报道，11月份向美国SEC提交的1074份监管文件中出现了“比特币”一词，比去年同期增加了35.1%，创历史新高。其中近40份文件来自灰度比特币信托。分析师表示，比特币相关文件的数量增加表明加密货币在总体上被更多采用和认可，也表明许多公司对ETF感兴趣。",
           "link": "https://panewslab.com/zh/articledetails/5u1ttvrq.html",
           "publishedOn": "2023-12-05T23:56:08.000Z",
-          "wordCount": 325,
+          "wordCount": 327,
           "title": "上个月共1074份美国SEC监管文件提及比特币，创历史新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "PANews 12月6日消息，据日经新闻报道，日本自民、公明两党5日召开税制调查会，核定了政府各部门的税制修改要求。政府和执政党将修改针对企业持有虚拟货币的征税制度。对于法人以短期交易为目的以外长期持有的虚拟货币，将在期末时免除征收资本利得税。",
           "link": "https://panewslab.com/zh/articledetails/o55088cu.html",
           "publishedOn": "2023-12-05T23:50:03.000Z",
-          "wordCount": 322,
+          "wordCount": 324,
           "title": "日本将对企业长期持有的加密货币免征资本利得税",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 12月6日消息，据TechCrunch报道，马斯克的X公司（原推特）已于11月下旬相继在美国南达科他州(11月27日)、堪萨斯州(11月28日)和怀俄明州(11月30日)获得货币传输许可证（MTL），目前已在美国12个州获得该许可。此前向X平台颁发MTL的其他州包括亚利桑那州、佐治亚州、爱荷华州、马里兰州、密歇根州、密西西比州、密苏里州、新罕布什尔州和罗德岛州。",
           "link": "https://panewslab.com/zh/articledetails/enim5qrz.html",
           "publishedOn": "2023-12-05T23:36:25.000Z",
-          "wordCount": 324,
+          "wordCount": 326,
           "title": "X公司已在美国12个州获得货币传输许可证",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 12月6日消息，彭博分析师Eric Balchunas推特发文称，听到传言说贝莱德可能会将信托资产（个人认为约为2亿美元）转移至比特币现货ETF（代码：IBTC）中，这可能会在ETF发行竞赛初期对他们有所帮助。更值得关注的是贝莱德是否以及何时决定将IBTC加入他们的模型投资组合中。",
           "link": "https://panewslab.com/zh/articledetails/h63z10bo.html",
           "publishedOn": "2023-12-05T23:09:21.000Z",
-          "wordCount": 329,
+          "wordCount": 331,
           "title": "彭博分析师：贝莱德或将向比特币现货ETF转入约2亿美元的信托资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +298,7 @@
           "description": "PANews 12月6日消息，据CoinDesk报道，根据提交给美国证券交易委员会(SEC)的一份文件，马斯克旗下人工智能公司X.AI正在通过发行股票筹集高达10亿美元的资金。该公司已经售出1.347亿美元股票，还有8.653亿美元股票正等待出售。外部投资者的最低投资额为200万美元。文件中称，马斯克将担任X.AI的执行官兼董事。与此同时，马斯克家族理财室经理Jared Birchall也为X.AI的高管之一，他曾在高盛、美林和摩根士丹利担任高管。",
           "link": "https://panewslab.com/zh/articledetails/lifbx226.html",
           "publishedOn": "2023-12-05T22:55:45.000Z",
-          "wordCount": 334,
+          "wordCount": 336,
           "title": "马斯克旗下人工智能公司X.AI拟通过发行股票融资10亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "PANews 12月6日消息，据The Block报道，根据公开的监管文件，美国SEC已推迟对灰度以太坊现货ETF转换申请做出决议，新的截至日期为2024年1月25日。灰度于今年10月提交了将以太坊信托转换为现货ETF的19b-4表格。",
           "link": "https://panewslab.com/zh/articledetails/4pa5h6bv.html",
           "publishedOn": "2023-12-05T22:13:58.000Z",
-          "wordCount": 335,
+          "wordCount": 337,
           "title": "美国SEC推迟对灰度以太坊现货ETF转换申请做出决议",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -325,7 +325,7 @@
           "description": "12月5日消息，去中心化借贷协议Goldfinch背后公司Warbler Labs创始人推出一款基于区块链的智能投资顾问Heron Finance，Heron已在美国证券交易委员会（SEC）成功注册，使用该平台的用户将回答旨在评估其投资目标与风险承受能力的问题，然后智能投资顾问会向其展示潜在私人信贷交易组合，供用户选择；利息通常按月支付，并可自动复投；投资组合的年利率预计在11%至16%之间。",
           "link": "https://www.hellobtc.com/news/202312/21469.html",
           "publishedOn": "2023-12-05T14:02:00.000Z",
-          "wordCount": 308,
+          "wordCount": 305,
           "title": "Warbler Labs创始人推出经美SEC注册的智能投资顾问Heron Finance",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },

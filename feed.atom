@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-06T02:26:41.143Z</id>
+    <id>urn:2023-12-06T04:16:40.746Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-06T02:26:41.143Z</updated>
+    <updated>2023-12-06T04:16:40.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何为比特币添加Omnichain互操作性？ZetaChain给出了全新的答案]]></title>
+        <id>https://www.web3sj.com/?p=97068</id>
+        <link href="https://www.web3sj.com/news/97068/"/>
+        <updated>2023-12-06T03:52:15.000Z</updated>
+        <summary type="html"><![CDATA[今天要说到的 ZetaChain 则是提供了一种完全不同的思路：一方面，ZetaChain 将链作为链间消息传递和确认的「中介」，相较于预言机、中继器等设施，链在安全性方面自然更胜一筹；另一方面，作为一条公链，Omnichain DApp 可以直接部署在 ZetaChain 上，并利用这条使用 Cosmos SDK 开发的高速链来调用任何 ZetaChain 支持链上的资产流动性。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[买新不买旧？这里有一份2024牛市看涨清单]]></title>
+        <id>https://www.web3sj.com/?p=97065</id>
+        <link href="https://www.web3sj.com/news/97065/"/>
+        <updated>2023-12-06T03:48:49.000Z</updated>
+        <summary type="html"><![CDATA[你的主要投资组合应始终包括 BTC 和 ETH。然而，随着比特币主导地位的巅峰，我们可以预期山寨币开始表现优异（资本轮动）。本文将概述我在进入 2024 年时的首选山寨币，并将对列出的每个币进行全面深入的分析。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币核心开发者：铭文正利用Bitcoin Core漏洞向区块链发送垃圾信息]]></title>
         <id>https://panewslab.com/zh/articledetails/hvjyvtbu.html</id>
@@ -342,16 +362,6 @@ Coinbase钱包推出新功能，支持通过共享链接汇款
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上万倍的PEPE与ORDI，今年地球上的最强资产]]></title>
-        <id>https://www.web3sj.com/?p=96981</id>
-        <link href="https://www.web3sj.com/news/96981/"/>
-        <updated>2023-12-05T07:01:28.000Z</updated>
-        <summary type="html"><![CDATA[meme 币项目乃是加密货币领域普通投资者机会最大的「财富密码」，因为这里从来不缺新东西。与其他商业类加密项目如 DeFi、web3Game 不同，Meme 看似没有经营模式，但是其商业模式和 PMF（Product Market Fit，与用户需求匹配的产品）却是非常清晰的，即：为大众加密投资者提供极具想象空间的投机媒介。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mistral AI完成4.87亿美元融资，A16z领投]]></title>
         <id>https://www.hellobtc.com/news/202312/21465.html</id>
         <link href="https://www.hellobtc.com/news/202312/21465.html"/>
@@ -391,16 +401,6 @@ Coinbase钱包推出新功能，支持通过共享链接汇款
 7.BitMEX创始人买入VRTX并将其质押。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么Rollup都需要安全委员会？]]></title>
-        <id>https://www.web3sj.com/?p=96958</id>
-        <link href="https://www.web3sj.com/news/96958/"/>
-        <updated>2023-12-04T14:53:26.000Z</updated>
-        <summary type="html"><![CDATA[如果 Rollup 能够作为技术堆栈得到广泛部署，那么我们可能有能力打破信任壁垒，使全球社区中的任何人都能进行财务互动，从而进入全球电子商务、远程招聘和无摩擦提供服务的新时代。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
