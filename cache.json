@@ -113,6 +113,56 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/slu5dh17.html",
+          "author": "PA一线",
+          "description": "PANews 12月9日消息，据The Data Nerd监测，6 小时前，Galaxy向OKX存入了 3000 枚ETH（约 700 万美元）。 在过去的 7 天里，Galaxy总共向交易所存入了 20237 枚 ETH （约 4688 万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/slu5dh17.html",
+          "publishedOn": "2023-12-10T05:46:00.000Z",
+          "wordCount": 377,
+          "title": "数据：Galaxy约在6小时前向OKX存入3000枚ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/pqdx16ty.html",
+          "author": "PA一线",
+          "description": "PANews 12月9日消息，据Cryptoslate报道，太平洋岛国帕劳对基于 Ripple 的 CBDC 试点表示高度满意。帕劳财政部于12 月 7 日发布了关于其突破性的基于 Ripple 的稳定币计划第一阶段的详细报告。该国与 Ripple 的中央银行数字货币（CBDC）和中央银行合作团队进行了试点项目。该计划还在技术层面上使用了 Ripple 的 CBDC 平台。帕劳于2023年6月启动了该试点计划，并于2023年9月结束了该计划。该计划允许帕劳政府行政部门多达 200 名员工志愿者从当地零售商处购物，但统计数据显示只有 168 人参与。\n该试点计划存在一些限制。进入流通的数字货币价值不超过2万美元。志愿者无法获得额外的数字货币，非入选用户无法获得稳定币，只有参与的当地零售商才能将稳定币兑换成美元。该国财政部在 XRP Ledger 上发行了相关代币，并用美国 FDIC 银行持有的美元存款作为这些资金的抵押。\n帕劳财政部收集了数据并对该计划进行了调查。这些结果显示满意度很高，31.7% 的受访者将体验评为良好，36.6% 的受访者将体验评为优秀。此外，58% 的受访者表示设置和使用钱包进行支付非常简单或非常容易。然而，许多人报告了支付过程中的问题：一半的受访者表示钱包使用或支付处理过程中速度缓慢，或者二维码使用和手动地址输入出现问题。",
+          "link": "https://panewslab.com/zh/articledetails/pqdx16ty.html",
+          "publishedOn": "2023-12-10T05:33:40.000Z",
+          "wordCount": 410,
+          "title": "帕劳对基于Ripple的CBDC试点表示满意",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/alceh9ka.html",
+          "author": "PA一线",
+          "description": "PANews 12月9日消息，慢雾创始人余弦在 X 平台表示：“铭文这个问题被分配了个 CVE 编号，这是釜底抽薪了，态度鲜明地定性漏洞了。CVE 编号不是什么新鲜事，许多安全团队/个人都可以申请，我们没太看重这玩意…但可能比特币生态相关角色会看重这个，毕竟 CVE 编号在安全行业是最知名的漏洞证明之一”。\n此前消息，Luke Dashjr表示铭文所利用的Bitcoin Core客户端漏洞已被分配标识符CVE-2023-50428。",
+          "link": "https://panewslab.com/zh/articledetails/alceh9ka.html",
+          "publishedOn": "2023-12-10T05:25:42.000Z",
+          "wordCount": 376,
+          "title": "慢雾创始人：铭文被分配CVE编号不是新鲜事，但比特币生态相关角色可能会看重",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0ycy7k0d.html",
+          "author": "PA一线",
+          "description": "PANews 12月9日消息，据链上分析师@ai_9684xtpa监测，过去 24 小时，MKR 巨鲸从 Lido 质押协议中取回 3.5 万枚 ETH（价值 8263 万美金），随后存入 DSProxy 合约中，用途未知。该巨鲸资产达 6.2 亿美金，目前持有 2.8 万枚 MKR，在 MKR 个人持有者中排行第三，平均成本为 689 美元，当前浮盈 2133 万美元。",
+          "link": "https://panewslab.com/zh/articledetails/0ycy7k0d.html",
+          "publishedOn": "2023-12-10T05:04:48.000Z",
+          "wordCount": 412,
+          "title": "MKR第三大个人持有者过去1天从Lido赎回3.5万枚ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5nl5bal0.html",
+          "author": "PA一线",
+          "description": "PANews 12月10日消息，Bitcoin Core客户端开发人员Luke Dashjr推特发文称，铭文所利用的Bitcoin Core客户端漏洞已被分配标识符CVE-2023-50428。据此前消息，铭文正在利用Bitcoin Core客户端的一个漏洞向区块链发送垃圾信息。自2013年以来，Bitcoin Core允许用户设置在中继转发或挖矿交易时的额外数据大小限制。通过将其数据模糊为程序代码，铭文绕过了这个限制。这个漏洞最近在Bitcoin Knots V25.1中得到修复。在即将发布的V26版本中，Bitcoin Core仍然存在漏洞。",
+          "link": "https://panewslab.com/zh/articledetails/5nl5bal0.html",
+          "publishedOn": "2023-12-10T04:20:08.000Z",
+          "wordCount": 370,
+          "title": "Luke Dashjr：铭文所利用的Bitcoin Core客户端漏洞已被分配标识符CVE-2023-50428",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/du7ghmcu.html",
           "author": "PA一线",
           "description": "PANews 12月10日消息，行情显示，OKB突破60美元，现报60.53美元，24小时涨幅为5%。",
