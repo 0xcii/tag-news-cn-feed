@@ -6,12 +6,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=97707",
+          "author": "Gao",
+          "description": "以 Reddit 为例，输入网址后 3-Transform 会自动分析网站目前的业务和功能，并自动给出一些「Web3 化」的建议，比如可以在网站中加入一个对帖子和评论进行去中心化投票的功能，使得论坛上的内容更加难以篡改。",
+          "link": "https://www.web3sj.com/news/97707/",
+          "publishedOn": "2023-12-12T04:07:31.000Z",
+          "wordCount": 1178,
+          "title": "一文速览ETH印度黑客松13个决赛入围项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702354035753.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97703",
+          "author": "Gao",
+          "description": "ERC-3643 是以太坊区块链中新进的代币标准之一，该标准链涉及现实世界资产（RWA）的代币化。作为基于以太坊区块链的一种资产数字化标准，ERC-3643 在点对点世界中保证了合规性、安全性和透明度，同时提升了资产代币化的效率。",
+          "link": "https://www.web3sj.com/news/97703/",
+          "publishedOn": "2023-12-12T03:57:46.000Z",
+          "wordCount": 933,
+          "title": "解读ERC-3643：现实世界资产（RWA）的代币标准",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702353451476.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97699",
+          "author": "Gao",
+          "description": "这些 ZK-Rollup 方案中，Scroll、Taiko 等追求极致 EVM 等效性，旨在提升与以太坊主网的兼容性；zkSync、Starknet 则追求链的综合扩展能力，试图通过提升交易处理速度和吞吐量为主网提升增量用户；Aztec 则专注于通过 ZK 解决交易隐私问题；其余像 dYdX、zkSYnc Lite 则在交易和 Payment 方向挖掘 ZK 技术的潜能。",
+          "link": "https://www.web3sj.com/news/97699/",
+          "publishedOn": "2023-12-12T03:52:43.000Z",
+          "wordCount": 963,
+          "title": "为什么Starknet空投是ZK Rollup的一次自我救赎？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702353147413.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97689",
+          "author": "Gao",
+          "description": "Compound 在其种子轮和 A 轮融资中共筹集了超过 3000 万美元，这两轮均由 a16z 领投，其他值得关注的投资方包括 Paradigm、贝恩资本（Bain Capital）和 Polychain。",
+          "link": "https://www.web3sj.com/definews/97689/",
+          "publishedOn": "2023-12-12T03:45:15.000Z",
+          "wordCount": 962,
+          "title": "用数据说话：a16z对Compound的影响力有多大？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702352700998.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97680",
+          "author": "Gao",
+          "description": "币安将暂定于 2023 年 12 月 18 日 14: 00 （东八区时间）上市 Fusionist（ACE），并开通 ACE/BTC、ACE/USDT、ACE/BNB、ACE/FDUSD 和 ACE/TRY 交易市场，适用种子标签交易规则。",
+          "link": "https://www.web3sj.com/gamefinews/97680/",
+          "publishedOn": "2023-12-12T03:35:12.000Z",
+          "wordCount": 1152,
+          "title": "详解币安Launchpool新项目Fusionist：助力游戏板块回暖？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702352092565.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=97663",
           "author": "Gao",
           "description": "以太坊「坎昆升级」的意义，不亚于「Shapella 升级」—— 因为这次升级是以太坊实现进一步扩容的关键，能够增加以太坊网络每秒能够响应的交易量，也将开启以太坊数据存储和检索能力的发展新阶段。",
           "link": "https://www.web3sj.com/news/97663/",
           "publishedOn": "2023-12-11T12:51:54.000Z",
-          "wordCount": 1231,
+          "wordCount": 1212,
           "title": "2024遇见「坎昆」：以太坊的下一次升级，降本增效，利好Layer2",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702299095043.png"
         },
@@ -21,7 +71,7 @@
           "description": "纳斯达克上市加密矿机ASIC芯片制造商Intechains以55万美元收购Goldshell资产。比特币铭文已被添加到美国国家漏洞数据库。Cardano创始人：SEC在监管加密货币时对比特币和以太坊表现出明显的偏袒。",
           "link": "https://www.web3sj.com/news/97660/",
           "publishedOn": "2023-12-11T12:15:27.000Z",
-          "wordCount": 892,
+          "wordCount": 879,
           "title": "Web3世界日报（2023-12.11）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023121112134650.jpg"
         },
@@ -31,7 +81,7 @@
           "description": "在 2021 年的高点之后，加密市场在过去几年中基本上是一个以 Build 为重点的市场。随着名人代言的 NFT、6.9 万美元的比特币、SNL 上的 Dogecoin 和其他叙事的狂热消退，一些人离开了这个行业，而另一些人则加倍努力，扩大视野。最近几周，我们看到市场越来越兴奋，包括加密活动和资产价格，开始显现一些牛市的迹象。",
           "link": "https://www.web3sj.com/news/97626/",
           "publishedOn": "2023-12-11T09:03:01.000Z",
-          "wordCount": 1843,
+          "wordCount": 1833,
           "title": "Binance Research：我们正在进入牛市吗？最值得关注的10个叙事",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702285352411.png"
         },
@@ -41,7 +91,7 @@
           "description": "在此背景下，此次下跌到底回调还是见顶，就成了参与接下来行情走势的关键，那我们不妨来全面检视一下宏观、ETF 预期等消息面因素，同时回顾历年的「圣诞行情」走势，或许有助于帮助我们获得较为客观的判断。",
           "link": "https://www.web3sj.com/transaction/97612/",
           "publishedOn": "2023-12-11T08:30:15.000Z",
-          "wordCount": 1106,
+          "wordCount": 1103,
           "title": "合约多头惨遭屠戮，「圣诞行情」何去何从？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702283401638.png"
         },
@@ -51,59 +101,9 @@
           "description": "本次迁移将涉及到近一年多来 Render 社区审核通过的多项 RNP 提案（Render Network Proposals）的付诸实施，不仅包括 Layer1 生态的迁移，还包括新代币（RENDER）的发行以及新的 Burn and Mint Equilibrium（BME）代币经济模型的实施，对整个 Render 生态及所有 RNDR（即将升级并更名为 SPL 代币 RENDER）利益相关方都将产生深远影响。",
           "link": "https://www.web3sj.com/project/97603/",
           "publishedOn": "2023-12-11T08:16:10.000Z",
-          "wordCount": 1345,
+          "wordCount": 1336,
           "title": "解读Render Network升级：为何要迁移到Solana？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702282431950.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97600",
-          "author": "Gao",
-          "description": "本周比特币的售价超过 44,000 美元，较 3 月 13 日的价格翻了一倍有余。依据市场分析，比特币此番价格表现并不十分让人意外。追溯至 2014 年，比特币平均每九个月零二十一天便会翻一倍；但此次，它提前二十八天便完成了这一目标。",
-          "link": "https://www.web3sj.com/news/97600/",
-          "publishedOn": "2023-12-11T08:08:47.000Z",
-          "wordCount": 908,
-          "title": "突破传统：比特币正在平衡投资组合中赢得一席之地",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/5-1702271060096.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97563",
-          "author": "Gao",
-          "description": "这波 Solana 行情之后，同样的，越来越多的用户开始关注 Avalanche 的生态情况，AVAX 也在近期突破 $30，排名上升至 11 位。本文将盘点 Avalanche 最新的生态进展、项目情况，希望对关注 Avalanche 生态的朋友有所帮助。",
-          "link": "https://www.web3sj.com/project/97563/",
-          "publishedOn": "2023-12-11T04:46:00.000Z",
-          "wordCount": 1481,
-          "title": "盘点Avalanche生态最新进展，是否能接棒Solana生态迎来上涨",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702269944656.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97560",
-          "author": "Gao",
-          "description": "币安的新合规承诺清单详尽到如同咨询公司的愿望清单一般——实施和执行这些承诺将耗资数千万，甚至数亿美元。同样，DOJ 合规监督的任务范围如此广泛和全面，以至于 DOJ 用了 13 页的篇幅仅仅是为了概述币安的义务。",
-          "link": "https://www.web3sj.com/news/97560/",
-          "publishedOn": "2023-12-11T04:29:55.000Z",
-          "wordCount": 931,
-          "title": "解析美国司法部公布的币安运营监管细则",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702268968788.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97554",
-          "author": "Gao",
-          "description": "最近看到三个项目，在全链游戏的运营和代币经济学也做出了很不错创新。两个是把游戏匹配机制从之前的 P2P 扩展到了 P2Pool，另一个是把资金池的概念扩展到了全链游戏。",
-          "link": "https://www.web3sj.com/gamefinews/97554/",
-          "publishedOn": "2023-12-11T03:49:07.000Z",
-          "wordCount": 1037,
-          "title": "全链游戏匹配机制的P2Pool模型",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702266528591.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97542",
-          "author": "Gao",
-          "description": "Galaxy Digital 研究员 Charles Yu 通过对美国财富的转移情况进行深入分析，聚焦于婴儿潮一代向千禧一代的大规模财富传承。从传统的金融体系转向加密货币，不仅仅反映了千禧一代与年长一代在投资行为和价值观上的分歧，也为加密货币市场带来了新的机遇和挑战。文章深入解读了年轻一代对加密货币的偏好，以及这一趋势可能对市场产生的深远影响。",
-          "link": "https://www.web3sj.com/news/97542/",
-          "publishedOn": "2023-12-11T03:41:19.000Z",
-          "wordCount": 1249,
-          "title": "Galaxy：大规模财富转移对加密货币市场的影响",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702266059921.png"
         }
       ]
     },
@@ -128,7 +128,7 @@
           "description": "PANews 12月12日消息，据CoinDesk报道，加密货币交易所Binance经历了市场份额的大幅下降。根据CCData提供的数据，Binance的市场份额从今年年初的55%下降到12月的30.1%。从1月到9月，该交易所的每月现货交易量下降了超过70%，从4740亿美元降至1140亿美元。尽管市场份额持续下滑，但自 9 月份以来，其月交易量已开始增加。Binance仍然是市场上最大的加密货币交易所，远远领先于其他交易所。位于塞舌尔的OKX排名第二，市场份额从年初的4%增长到12月的8%。结合现货和衍生品交易来看，币安的市场份额从 60% 下降至 42%，而 OKX 的市场份额从 9% 增长至 21%。",
           "link": "https://panewslab.com/zh/articledetails/yn0j9b73.html",
           "publishedOn": "2023-12-12T01:36:27.000Z",
-          "wordCount": 363,
+          "wordCount": 355,
           "title": "Binance的加密交易市场份额降至30%附近",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -255,7 +255,7 @@
           "description": "1.过去1小时全网爆仓2.78亿美元，主爆多单。\n\n2.比特币2小时最大跌幅达7.5%，多个热门山寨币种跌超15%。\n\n3.Solana网络TVL突破9亿美元，生态多个协议TVL周增幅超20%。\n\n4.MetaMask：与越南、菲律宾、印度尼西亚、泰国、埃及和智利6国支付平台达成合作。\n\n5.支持比特币的阿根廷总统已宣誓就职。\n\n6.Nostr Assets：ORDI持有者代币空投已开放申领。\n\n7.Solana联创：与其空投，项目团队应以较预期低的价格出售更大比例代币。\n\n8.比特币Ordinals已被添加到美国国家漏洞数据库。",
           "link": "https://www.hellobtc.com/news/202312/21474.html",
           "publishedOn": "2023-12-11T03:10:00.000Z",
-          "wordCount": 309,
+          "wordCount": 314,
           "title": "白话区块链早报：过去1小时全网爆仓2.78亿美元，主爆多单",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
