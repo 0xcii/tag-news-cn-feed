@@ -118,7 +118,7 @@
           "description": "PANews 12月13日消息，据官方公告，基于DAG的Layer1协议COTI宣布计划在2024年第二季度进行V2升级，并将推出注重dApp用户隐私的以太坊Layer 2。Coti V2预计于2024年年底前启动主网络。Coti V2将利用密码学保护交易隐私，采用Garbled Circuits方法。Coti V2预计于2024年年底前启动主网络。Coti V2将利用密码学保护交易隐私，采用Garbled Circuits方法。",
           "link": "https://panewslab.com/zh/articledetails/xkughr8w.html",
           "publishedOn": "2023-12-13T15:59:40.000Z",
-          "wordCount": 368,
+          "wordCount": 374,
           "title": "COTI拟于明年Q2进行V2升级，将推出以太坊Layer 2",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +128,7 @@
           "description": "PANews 12月13日消息，据彭博社报道，加密货币交易所Blockchain.com是早期的比特币基础设施提供商之一，该公司计划在明年第一季度将员工人数增加25%，以进入尼日利亚和土耳其等新市场。\n该交易所还聘请了曾担任Kraken全球业务主管的Curtis Ting，帮助该公司在巴黎建立新的中心，并在欧洲各地创建当地实体，这些都需要遵守新的监管规定。Blockchain.com的欧洲业务目前由位于伦敦的单一实体管理。Blockchain.com首席执行官Peter Smith在接受采访时表示，该公司还将寻求更多的本地许可证。",
           "link": "https://panewslab.com/zh/articledetails/nssoka68.html",
           "publishedOn": "2023-12-13T15:36:34.000Z",
-          "wordCount": 339,
+          "wordCount": 345,
           "title": "Blockchain.com计划明年Q1将员工人数增加25%，并将业务扩展至尼日利亚和土耳其",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 12月13日消息，据The Block报道，基于Avalanche的网络SEQ开发团队NodeKit完成120万美元Pre-Seed轮融资，Borderless Capital领投，Avalanche Blizzard Fund、Polygon Ventures和Wormhole Cross-Chain Ecosystem Fund参投。\nNodeKit正在构建SEQ，这是一个共享排序器的L1网络，将帮助rollup chains推出并去中心化其交易排序。SEQ将作为一个独立的区块链或子网在Avalanche生态系统中运行。SEQ的设计还将支持各种数据可用性层，例如Celestia。SEQ的测试网计划于2024年启动，随后发布主网。",
           "link": "https://panewslab.com/zh/articledetails/acp781rg.html",
           "publishedOn": "2023-12-13T15:28:31.000Z",
-          "wordCount": 362,
+          "wordCount": 368,
           "title": "Avalanche生态Rollup网络SEQ开发团队NodeKit完成120万美元Pre-Seed轮融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 12月13日消息，据财联社报道，美国将出台第一版加密数字货币会计制度，以捕捉代币的高位和低点。根据新版FASB制度，将按公允价衡量加密货币。",
           "link": "https://panewslab.com/zh/articledetails/y1me177i.html",
           "publishedOn": "2023-12-13T15:19:09.000Z",
-          "wordCount": 342,
+          "wordCount": 345,
           "title": "美国将出台首版加密货币会计制度，将按公允价衡量",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +158,7 @@
           "description": "PANews 12月13日消息，以太坊联合创始人Vitalik Buterin发文探讨了ZK-EVM的概念及其可能实现形式。文章指出，当前的Layer-2 EVM协议（如Optimistic Rollups和ZK Rollups）需要依赖于EVM的验证机制，但这同时意味着他们必须信任庞大的代码库。一旦代码库中存在漏洞，这些虚拟机可能面临被攻击的风险。这意味着即使ZK-EVM想要保持完全的L1等效的，需要有某种形式的治理，把L1 EVM的变化复制到他们自己的EVM实现中。\nButerin提出的ZK-EVM概念旨在减少Layer 2项目对Ethereum协议功能的重复实现，并提高其在验证Layer 1 Ethereum区块时的效率。他还展望了未来光客户端（light clients）将更加强大，甚至可能利用 ZK-SNARKs（零知识证明）完全验证L1 EVM执行，届时Ethereum网络将实质上具备内置的ZK-EVM功能。\n文章还讨论了实现ZK-EVM的不同版本，包括它们的设计挑战、权衡利弊，以及为何某些方向可能不被采纳。强调了在实现协议功能时，应权衡其优势与保持基础协议简洁性的好处。对于ZK-EVM的关键属性，Buterin强调了其基本功能性、与Ethereum多客户端哲学的兼容性、数据可用性要求、可审计性和可升级性。此外，他还提到了对“almost-EVM”的支持，即允许L2的VM在与EVM只有微小差异的情况下，仍能使用协议内的ZK-EVM，同时也为EVM的部分定制化提供了灵活性。",
           "link": "https://panewslab.com/zh/articledetails/y785yed4.html",
           "publishedOn": "2023-12-13T15:15:46.000Z",
-          "wordCount": 370,
+          "wordCount": 373,
           "title": "Vitalik发文探讨ZK-EVM的未来展望与挑战",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "PANews 12月13日消息，据Techcrunch报道，专注于数字资产风险基础设施的Andalusia Labs(原名RiskHarbor)以超10亿美元估值完成4800万美元A轮融资，Lightspeed Venture partners领投，Mubadala Capital、Pantera Capital、Framework Ventures、Bain Capital Ventures和Digital Currency Group等参投。在获得新一轮融资的同时，Andalusia Labs还在阿布扎比开设了全球总部。新资金还将用于产品开发和扩大团队。到目前为止，该公司共筹集了约5100万美元。\n据悉，这家初创公司有三个主要的数字资产技术解决方案，一个是名为Karak的Layer 2区块链，一个是名为Subsea的加密风险管理市场，一个是名为Watchtower的以安全为中心的机构平台。所有这些都旨在通过各自的利基为机构、开发商和消费者提供数字资产支持。",
           "link": "https://panewslab.com/zh/articledetails/tp0v2kmb.html",
           "publishedOn": "2023-12-13T15:09:59.000Z",
-          "wordCount": 379,
+          "wordCount": 382,
           "title": "数字资产风险基础设施初创公司Andalusia Labs以超10亿美元估值完成4800万美元A轮融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "PANews 12月13日消息，据The Data Nerd监测，3个多小时前，Wintermute Trading铸造了1500万枚FDUSD，并全部转入币安。过去3个月内，Wintermute Trading总共铸造了5800万枚FDUSD。",
           "link": "https://panewslab.com/zh/articledetails/zlnuvlzj.html",
           "publishedOn": "2023-12-13T14:50:42.000Z",
-          "wordCount": 349,
+          "wordCount": 355,
           "title": "Wintermute今日铸造1500万枚FDUSD并全部转入币安",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "PANews 12月13日消息，据CoinDesk报道，Cosmos生态基金会Interchain Foundation（ICF）计划在2024年分配2640万美元资金，其中，分配300万美元确保CometBFT（用于状态机复制的拜占庭容错引擎）的持续模块化、效率和稳定性，分配450万美元用于扩展Cosmos SDK的可组合性，分配750万美元用于给链间通信协议，分配250万美元用于智能合约框架CosmWasm，15.5万美元分配给CosmJS（可帮助开发人员将基于JavaScript的客户端与Cosmos SDK区块链集成），150万美元将用于Interchain Stack的安全审计。",
           "link": "https://panewslab.com/zh/articledetails/ftnwhg3t.html",
           "publishedOn": "2023-12-13T14:32:41.000Z",
-          "wordCount": 354,
+          "wordCount": 360,
           "title": "Cosmos生态基金会ICF拟在2024年分配2640万美元资金用于资助项目",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 12月13日消息，稳定币发行商Circle在X平台宣布，跨链传输协议(CCTP)现已上线Polygon PoS主网。目前，CCTP可以通过超42条路线在Arbitrum、Avalanche、Base、以太坊、Noble、Optimism和Polygon PoS之间转移USDC。在接下来的几周内，官方的Polygon PoS桥预计将支持CCTP，以方便将USDC转移到Polygon PoS。",
           "link": "https://panewslab.com/zh/articledetails/8c9zzk9r.html",
           "publishedOn": "2023-12-13T14:25:39.000Z",
-          "wordCount": 357,
+          "wordCount": 363,
           "title": "Circle跨链传输协议已上线Polygon PoS主网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 12月13日消息，据CoinDesk报道，由Sam Altman共同创立的加密项目Worldcoin表示，将对其眼球扫描身份平台进行重大扩展，包括与主要科技公司的整合，以及一个新的World ID“数字护照”多级验证系统。\nWorldcoin背后的公司Tools for Humanity的产品负责人Tiago Sada在接受采访时表示，World ID 2.0标志着该协议的“重大升级”，它将“最初在白皮书中提出的想法”与“从开发者那里听到的反馈”结合在一起。Sada表示，orldcoin将开始在新加坡和墨西哥提供现场登录的身份证明服务。他还点名了几家公司，包括Shopify、Mercado Libre、Minecraft、Reddit和Telegram，这些公司将开始允许用户使用World ID登录。2.0版本的升级将帮助这些新的合作伙伴，使其“更容易区分在线机器人和经过验证的人类”。\nWorld ID 2.0中添加了“新的验证级别”，以适应选择提供不同数量的验证数据的用户。除了标准的基于球体的World ID之外，新的基础级World ID放弃了视网膜扫描，并允许用户在自己的设备上对自己进行身份验证。这种较低的验证层可以帮助将ID扩展到无法访问orb身份验证站点的人员，并且可以用于登录具有不太严格的身份证明要求的应用程序。验证范围的另一端将是另一个新的且更严格的级别，称为Orb Plus。如果应用程序制造商希望经过Orb身份验证的用户每次使用World ID登录时都在设备上重新验证自己，则可以使用此选项来识别用户。Sada还表示，Sam Altman仍然积极参与Worldcoin的主要产品和战略决策。",
           "link": "https://panewslab.com/zh/articledetails/x3y4u96u.html",
           "publishedOn": "2023-12-13T14:12:40.000Z",
-          "wordCount": 398,
+          "wordCount": 404,
           "title": "Worldcoin推出World ID 2.0版本，包括与多家科技公司整合并推出多级验证系统",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 12月13日消息，The Block发文披露了做市商与加密投资公司DWF Labs的运营方式。DWF Labs于2022年9月推出后不久，为潜在客户创建了一个宣传平台，在名为“价格管理”的部分下，宣传材料表示，该公司可以通过与潜在客户的营销团队同步努力，在重要新闻事件前或期间操作订单簿，推动代币价格上升。\nDWF Labs主要通过场外交易购买项目代币，通常以相对较低的价格购买，然后在市场上宣布这些购买，即使它们可能在之后未完成。此外，对于市场做市服务，DWF Labs通常提供一年的服务，以市场做市和场外交易的方式，通过设置较高的执行价格，提供更高的回报机会。\n文章还强调了DWF Labs过去16个月的迅速扩张，以及公司创始人Andrei Grachev的豪车照片等展示财富的行为。DWF Labs曾宣称已投资470个项目，并在其短暂历史中与市值前1,000名中的约35%的代币有所合作。",
           "link": "https://panewslab.com/zh/articledetails/6tw319dv.html",
           "publishedOn": "2023-12-13T14:02:05.000Z",
-          "wordCount": 378,
+          "wordCount": 384,
           "title": "外媒披露DWF Labs运营模式：在重要新闻事件前或期间操作订单簿以推动代币价格上升",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "PANews 12月13日消息，据Lookonchain监测，自从币安上线BRC-20 Sats (1000SATS)以来，402.7万亿枚SATS (约合1.8945亿美元) 已转移到币安钱包。8个地址(可能是同一个人)通过相同的存款地址向币安存入了65.7万亿枚SATS(约合3180万美元)。",
           "link": "https://panewslab.com/zh/articledetails/ayx52q3v.html",
           "publishedOn": "2023-12-13T13:52:33.000Z",
-          "wordCount": 345,
+          "wordCount": 351,
           "title": "8个地址通过相同存款地址向币安存入价值约3180万美元的SATS代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +238,7 @@
           "description": "PANews 12月13日消息，据路透社报道，高盛(GS.N)数字资产全球主管Mathew McDermott表示，预计未来一两年内基于区块链的资产交易量将“大幅上升”。McDermott称，随着市场预计美国证券监管机构将很快批准现货比特币ETF(交易所交易基金)的申请，高盛也看到了客户对加密衍生品交易的兴趣日益浓厚。\n比特币本季度上涨了50%以上，但McDermott表示，他仍然专注于开发加密货币之外的数字资产，包括发行代表债券等传统资产的基于区块链的代币。他表示，人们对数字资产有着“巨大的需求”，并且在过去12个月中“显着增长”；使用区块链可以提高运营和结算效率以及使金融市场“去风险”；如果通过区块链进行证券交易，抵押品和流动性可以在各方之间更快、更准确地发送。",
           "link": "https://panewslab.com/zh/articledetails/y0ccb72p.html",
           "publishedOn": "2023-12-13T13:48:35.000Z",
-          "wordCount": 346,
+          "wordCount": 349,
           "title": "高盛数字资产主管：预计未来一两年内基于区块链的资产交易量将大幅上升",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 12月13日消息，据彭博社报道，Coinbase Global Inc. 正在其国际交易所推出现货加密货币交易，作为全球扩张的一部分，该公司表示，由于美国监管背景不确定，一些用户对美国交易场所持谨慎态度。\n该公司在一份声明中表示，从周四开始，机构投资者最初可以在国际平台上用稳定币USDC交易比特币和以太坊，该平台目前专注于衍生品。Coinbase的机构产品主管Greg Tusar在接受采访时表示：“让现货和衍生品同时交易真的很重要。它们相互帮助，确保有一个深度和流动性的市场。这是一个积极的、非常令人兴奋的路线图的一部分。”",
           "link": "https://panewslab.com/zh/articledetails/lvvv08s7.html",
           "publishedOn": "2023-12-13T13:41:05.000Z",
-          "wordCount": 350,
+          "wordCount": 353,
           "title": "Coinbase将在美国境外提供现货加密货币交易以拓展全球市场",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 12月13日消息，韩国加密交易所Upbit发布公告称，近期一些骗子正在通过自己的网站和社交媒体（SNS）虚假宣称特定数字资产将获得Upbit的交易支持，关于交易支持的所有正式信息仅通过Upbit官方公告发布，提醒投资者在投资决策时应保持警惕，以防止资产损失。据悉，此前有名为“FUNToken”的项目自称将于明日上线Upbit，但Upbit官方并未发布此上币公告。",
           "link": "https://panewslab.com/zh/articledetails/ehsxh4n7.html",
           "publishedOn": "2023-12-13T13:36:18.000Z",
-          "wordCount": 340,
+          "wordCount": 346,
           "title": "Upbit：警惕虚假加密资产交易支持宣传，上币信息仅通过官方公告发布",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "PANews 12月13日消息，据Cointelegraph报道，总部位于巴林的加密货币交易所CoinMENA宣布，其迪拜子公司CoinMENA FZE获得迪拜虚拟资产监管局 (VARA) 授予其的虚拟资产服务提供商 (VASP) 许可证，以在该酋长国运营和提供服务。\n该许可证还允许CoinMENA为阿拉伯联合酋长国的零售和机构客户提供以阿联酋迪拉姆存款和取款的能力，以便在没有外汇因素的情况下加快交易速度。一年前，该平台获得了迪拜监管机构的临时许可证。",
           "link": "https://panewslab.com/zh/articledetails/tk15vxeo.html",
           "publishedOn": "2023-12-13T13:29:33.000Z",
-          "wordCount": 350,
+          "wordCount": 356,
           "title": "迪拜监管机构向加密交易所CoinMENA授予虚拟资产服务提供商许可证",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 12月13日消息，据财富杂志报道，Web3身份验证初创公司Dynamic完成1350万美元融资，a16z和Founders Fund领投。这轮融资建立在2022年由a16z主导的750美元种子轮融资的基础上。这笔新资金的大部分将用于招聘工程师，其中一些也将用于营销。\n据悉，这家成立两年的公司由麻省理工学院毕业生Itai Turbahn和Yoni Goldberg创立，他们现在分别是首席执行官和首席技术官，为加密和非加密公司提供技术，以创建由数字钱包支持的无缝登录体验。",
           "link": "https://panewslab.com/zh/articledetails/y36zyx1k.html",
           "publishedOn": "2023-12-13T13:24:20.000Z",
-          "wordCount": 344,
+          "wordCount": 350,
           "title": "Web3身份验证初创公司Dynamic完成1350万美元融资，a16z等领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 12月13日消息，Web3国际象棋游戏公司Immortal Game宣布决定停止开发游戏中与玩赚和NFT收藏品相关功能。Immortal Game表示，通过提供大量现金且没有进入门槛限制，反而鼓励了平台上的严重作弊行为，并降低了想要公平、安全的在线下棋场所的合法玩家群的用户体验。\nImmortal Game还表示，其重心在于国际象棋，重点关注增强用户游戏体验的创新功能；虽然仍将探索Web3和去中心化技术，特别是反作弊措施和社区参与，但主要动力是改进其国际象棋平台，确保为所有玩家提供公平和愉快的环境。NFT仍可以在游戏的Immortal模块中使用，但是平台上的交易市场将关闭，以及不再支持CMT（Checkmate Token）。\n此前去年9月消息，Immortal Games完成1220万美元A轮融资，TCG Crypto领投。",
           "link": "https://panewslab.com/zh/articledetails/xd8u5cx4.html",
           "publishedOn": "2023-12-13T13:19:44.000Z",
-          "wordCount": 360,
+          "wordCount": 366,
           "title": "Web3国际象棋游戏公司Immortal Game停止开发玩赚和NFT收藏品相关功能",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +298,7 @@
           "description": "PANews 12月13日消息，据Cointelegraph报道，区块链情报公司TRM Labs表示，2023年加密黑客攻击造成的损失降至约17亿美元，与2022年的40亿美元相比下降了50%以上。报告共记录了本年度160次黑客攻击，总损失中超过60%是由基础设施攻击造成的，特别是涉及私钥盗窃或种子短语泄露。相当一部分损失来自针对特定目标的大规模攻击，排名前十的黑客攻击约占被盗资金总额的70%。\nTRM Labs表示，这种下降是由于安全措施的加强，加密行业已经纳入了实时交易监控和异常检测系统。这些进步增强了数字钱包和交易平台，针对可能的违规行为建立了强有力的防御。TRM Labs的研究报告指出，世界各地的执法机构加大了打击数字货币领域网络犯罪的力度。协作行动、快速响应和更好的资产追回策略提高了被发现和起诉的机会，从而阻止了潜在的黑客。尽管该报告记录了黑客事件的减少，但它也凸显了网络威胁性质的变化。它强调，加密行业和执法部门必须保持警惕和适应能力，以便在瞬息万变的环境中保持这种积极的趋势。",
           "link": "https://panewslab.com/zh/articledetails/2wqdi05r.html",
           "publishedOn": "2023-12-13T12:53:32.000Z",
-          "wordCount": 362,
+          "wordCount": 368,
           "title": "报告：2023年加密货币黑客攻击损失预计较去年下降约50%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "PANews 12月13日消息，多链去中心化交易所PancakeSwap宣布“.cake”域名即将上线，PancakeSwap与Web3域名服务平台Space ID一起推出一系列任务，指导用户尽早获得“.cake”域名服务注册。",
           "link": "https://panewslab.com/zh/articledetails/6pinvn55.html",
           "publishedOn": "2023-12-13T12:41:45.000Z",
-          "wordCount": 343,
+          "wordCount": 349,
           "title": "PancakeSwap宣布“.cake”域名即将上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
