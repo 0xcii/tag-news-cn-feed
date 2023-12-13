@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T06:17:36.290Z</id>
+    <id>urn:2023-12-13T07:12:56.473Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T06:17:36.290Z</updated>
+    <updated>2023-12-13T07:12:56.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[「核弹级」漏洞砸中Twitter，黑客可以控制你的账户？]]></title>
-        <id>https://www.web3sj.com/?p=97865</id>
-        <link href="https://www.web3sj.com/news/97865/"/>
-        <updated>2023-12-13T05:58:29.000Z</updated>
-        <summary type="html"><![CDATA[今日上午，加州伯克利分校博士研究生 Chaofan Shou 发推披露，发现 Twitter 存在未修复的漏洞，随后 Paradigm 研究员 samczsun 援引 Chaofan Shou 表示，用户如果点击了黑客准备的链接，黑客就能完全访问你的 Twitter 账户，包括可以发推、转发、点赞、屏蔽等。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Paradigm研究员：Twitter的一项关键漏洞已被修复]]></title>
         <id>https://panewslab.com/zh/articledetails/meubukji.html</id>
@@ -49,16 +39,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cosmos在地狱中重建天堂：ATOM的SWOT分析]]></title>
-        <id>https://www.web3sj.com/?p=97858</id>
-        <link href="https://www.web3sj.com/news/97858/"/>
-        <updated>2023-12-13T04:05:23.000Z</updated>
-        <summary type="html"><![CDATA[SWOT 分析框架由四个要素组成：优势、劣势、机会和威胁。它提供了对项目整体状况的高层次理解，通过鸟瞰的视角，可以帮助制定决策，确定需要更多关注的领域，设定绩效目标，并组织对项目发展方向的基本理解。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[萨尔瓦多已收到数十份"自由签证"申请，1000个名额预计将在年底前售罄]]></title>
         <id>https://panewslab.com/zh/articledetails/x7beicm3.html</id>
         <link href="https://panewslab.com/zh/articledetails/x7beicm3.html"/>
@@ -66,16 +46,6 @@
         <summary type="html"><![CDATA[PANews 12月13日消息，据萨尔瓦多国家比特币办公室（ONBTC）透露，该国的"自由签证"项目自12月7日启动以来已收到数百个咨询和多份申请，并预计将在年底前售罄。该项目每年限制1000个名额​​。这个由El Salvador政府与稳定币发行商Tether合作推出的项目，是一种通过捐赠获得居留签证和公民身份的程序，面向愿意向该国捐赠100万美元比特币（BTC）或Tether（USDT）的1000人开放​​。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starknet发布在即，zkSync还坐得住吗？]]></title>
-        <id>https://www.web3sj.com/?p=97854</id>
-        <link href="https://www.web3sj.com/news/97854/"/>
-        <updated>2023-12-13T03:58:17.000Z</updated>
-        <summary type="html"><![CDATA[前有 Blast 发起吸血鬼式「攻击」，后有 Starknet 祭出 Tokenomics 大招刺激，尽管 @zksync 官方还是一副波澜不惊的样子，但从技术进展，竞争环境，市场现状，社区预期等综合多方的大环境来看，zkSync 不得不被动做出一些「改变」。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -104,26 +74,6 @@ https://etherscan.io/tx/0x22ebd267d7344780e6d63cf3a76bab57b8f8fa41cf58df1a2e1707
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RIP-7560 ：共识层变更的原生账户抽象，账户抽象的最终形态？]]></title>
-        <id>https://www.web3sj.com/?p=97851</id>
-        <link href="https://www.web3sj.com/news/97851/"/>
-        <updated>2023-12-13T03:45:59.000Z</updated>
-        <summary type="html"><![CDATA[为了更好的标准化，RIP-7560 引入共识层协议变更的原生账户抽象（Native Account Abstraction），并将 EIP-2938 和 ERC-4337 合并为一个全面的账户抽象提案。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行情整体下行，AVAX为何逆势大涨15%？]]></title>
-        <id>https://www.web3sj.com/?p=97840</id>
-        <link href="https://www.web3sj.com/project/97840/"/>
-        <updated>2023-12-13T03:38:29.000Z</updated>
-        <summary type="html"><![CDATA[首先，通过链上数据观察发现在过去一个月中，Avalanche 的 TVL 增长速度与  Solana  相当，甚至呈现出超越的趋势。这表明 Avalanche 生态在吸引资金和用户方面取得了显著的成就。与其他主流区块链项目相比，Avalanche 的总 TVL 也呈现出强劲的增长态势。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OKX DEX疑似被黑客攻击，目前已移除被黑客攻击的代理地址]]></title>
         <id>https://panewslab.com/zh/articledetails/hb9y7z6x.html</id>
         <link href="https://panewslab.com/zh/articledetails/hb9y7z6x.html"/>
@@ -132,26 +82,6 @@ https://etherscan.io/tx/0x22ebd267d7344780e6d63cf3a76bab57b8f8fa41cf58df1a2e1707
 ENO还称，Okx Dex 合约创建人今天对Okx部分智能合约地址进行了升级，似乎攻击与本次升级有关。也怀疑是私钥泄露。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔戒、OpenAI与以太坊：为什么Vitalik没有被赶出以太坊？]]></title>
-        <id>https://www.web3sj.com/?p=97837</id>
-        <link href="https://www.web3sj.com/news/97837/"/>
-        <updated>2023-12-13T03:32:38.000Z</updated>
-        <summary type="html"><![CDATA[让我们重新回顾《指环王》的开头。当甘道夫在比尔博叔叔家看到魔戒时，他很快意识到这样一个强大的东西不能由普通人处理。只有一些神圣而超凡脱俗的人，就像弗罗多一样，才能处理它。这就是为什么弗罗多是团队的核心——他是唯一一个能够承载这样一个强大东西而不被其吞噬的人。不是甘道夫，不是阿拉贡，不是莱戈拉斯，不是吉姆利，只有弗罗多。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点下跌中依然强势的代币：Cosmos生态逆势上扬，游戏与L2表现优异]]></title>
-        <id>https://www.web3sj.com/?p=97813</id>
-        <link href="https://www.web3sj.com/news/97813/"/>
-        <updated>2023-12-13T03:26:02.000Z</updated>
-        <summary type="html"><![CDATA[波动剧烈是牛市的常态。在每一次回调的背后，总会有一些代币脱颖而出，成为后续市场涨幅榜的常客，并带动它所属的板块一同上涨。通过参考这些迅速反弹的代币，可以帮助投资者更好的洞察市场上的热点，为决策提供参考。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -184,16 +114,6 @@ ENO还称，Okx Dex 合约创建人今天对Okx部分智能合约地址进行了
 此外，11月10日，Bitget启动Builders全球行活动，首站为蒙巴萨科技大学。并推出Bitget Builder 限量版 NFT，为核心贡献者提供专属福利。在教育合作方面。与伦敦大学学院（UCL）展开教育合作，致力于推进行业发展。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慢雾：警惕因使用Replit平台注册钱包造成的助记词泄漏]]></title>
-        <id>https://www.web3sj.com/?p=97799</id>
-        <link href="https://www.web3sj.com/news/97799/"/>
-        <updated>2023-12-13T03:16:43.000Z</updated>
-        <summary type="html"><![CDATA[近日有受害者联系慢雾安全团队，其因使用在线编程平台 Replit 创建 Atomicals 协议钱包并分批打入 ATOM（Atomicals 协议 mint 的 ARC20 代币），导致被盗走 90,000 个 ATOM。据受害者描述，私钥 / 助记词是因在网页上复制粘贴而泄漏。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -391,26 +311,6 @@ Nym、Protocol Labs、Oasis和Aztec成立Web3“通用隐私联盟”
         <summary type="html"><![CDATA[根据公开的监管备忘录文件，贝莱德在当地时间12月11日第三次与SEC会面，讨论其现货比特币ETF的细节，第三次会议包括贝莱德美国iShares产品主管Rachel Aquirre，其余大部分与会者是律师。 彭博分析师Eric Balchunas称，每个人都在观望他们是否能说服美国证券交易委员会在第一轮批准中允许实物创建模式。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-12.12）]]></title>
-        <id>https://www.web3sj.com/?p=97776</id>
-        <link href="https://www.web3sj.com/news/97776/"/>
-        <updated>2023-12-12T10:57:46.000Z</updated>
-        <summary type="html"><![CDATA[比特币“铭文漏洞”已被美国国家漏洞数据库正式采纳，5.3的基础分数为中危级别。BSC计划将于明年1月23日在主网进行Kepler硬分叉。中本聪于13年前的今日发布最后一条公开信息，提到在DoS攻击方面还有更多工作要做。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福布斯：加密帝国DCG的困境与救赎]]></title>
-        <id>https://www.web3sj.com/?p=97771</id>
-        <link href="https://www.web3sj.com/news/97771/"/>
-        <updated>2023-12-12T09:27:37.000Z</updated>
-        <summary type="html"><![CDATA[对于 Barry Silbert 和他位于康涅狄格州斯坦福的 Digital Currency Group（DCG）来说，Terra 崩溃的影响就像流沙一样。他的 Genesis Global Capital 借贷部门于今年 1 月份申请破产保护，但该集团庞大的投资组合中仍拥有 200 多家公司，其中包括加密货币矿商 Foundry 和数字资产交易所 Luno，以及皇冠上的明珠 Grayscale Investments（全球最大的比特币基金，资产规模为 270 亿美元，费用率为 2%）。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
