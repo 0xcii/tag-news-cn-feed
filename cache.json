@@ -1,17 +1,254 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=97883",
+          "author": "Gao",
+          "description": "金融市场对多项潜在风险的反应相对温和。市场对现货比特币 ETF 批准的期待助长了牛市情绪，而中东冲突的积极进展缓解了对更广泛地区不稳定性的担忧。同样，美国消费者价格指数（CPI）保持下降趋势，增加了市场对美联储可能降息和美国经济可能实现「软着陆」的乐观预期。",
+          "link": "https://www.web3sj.com/news/97883/",
+          "publishedOn": "2023-12-13T08:24:44.000Z",
+          "wordCount": 1452,
+          "title": "11月公链盘点：Solana强势复苏，Blast飞速崛起，Web3游戏市值猛涨",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702455870511.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97871",
+          "author": "Gao",
+          "description": "CoinCall的平台设计简洁易用，为用户提供了良好的交易体验。无论您是新手还是经验丰富的交易者，都可以轻松上手。用户界面清晰明了，交易流程简单直，让您可以专注于交易策略而不必为复杂的操作而烦恼。",
+          "link": "https://www.web3sj.com/news/97871/",
+          "publishedOn": "2023-12-13T07:24:02.000Z",
+          "wordCount": 867,
+          "title": "Coincall：进入加密货币期权交易的新时代",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702452278150.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97865",
+          "author": "Gao",
+          "description": "今日上午，加州伯克利分校博士研究生 Chaofan Shou 发推披露，发现 Twitter 存在未修复的漏洞，随后 Paradigm 研究员 samczsun 援引 Chaofan Shou 表示，用户如果点击了黑客准备的链接，黑客就能完全访问你的 Twitter 账户，包括可以发推、转发、点赞、屏蔽等。",
+          "link": "https://www.web3sj.com/news/97865/",
+          "publishedOn": "2023-12-13T05:58:29.000Z",
+          "wordCount": 916,
+          "title": "「核弹级」漏洞砸中Twitter，黑客可以控制你的账户？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702447026691.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97858",
+          "author": "Gao",
+          "description": "SWOT 分析框架由四个要素组成：优势、劣势、机会和威胁。它提供了对项目整体状况的高层次理解，通过鸟瞰的视角，可以帮助制定决策，确定需要更多关注的领域，设定绩效目标，并组织对项目发展方向的基本理解。",
+          "link": "https://www.web3sj.com/news/97858/",
+          "publishedOn": "2023-12-13T04:05:23.000Z",
+          "wordCount": 1056,
+          "title": "Cosmos在地狱中重建天堂：ATOM的SWOT分析",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702440280774.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97854",
+          "author": "Gao",
+          "description": "前有 Blast 发起吸血鬼式「攻击」，后有 Starknet 祭出 Tokenomics 大招刺激，尽管 @zksync 官方还是一副波澜不惊的样子，但从技术进展，竞争环境，市场现状，社区预期等综合多方的大环境来看，zkSync 不得不被动做出一些「改变」。",
+          "link": "https://www.web3sj.com/news/97854/",
+          "publishedOn": "2023-12-13T03:58:17.000Z",
+          "wordCount": 1063,
+          "title": "Starknet发布在即，zkSync还坐得住吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702439884018.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97851",
+          "author": "Gao",
+          "description": "为了更好的标准化，RIP-7560 引入共识层协议变更的原生账户抽象（Native Account Abstraction），并将 EIP-2938 和 ERC-4337 合并为一个全面的账户抽象提案。",
+          "link": "https://www.web3sj.com/news/97851/",
+          "publishedOn": "2023-12-13T03:45:59.000Z",
+          "wordCount": 993,
+          "title": "RIP-7560 ：共识层变更的原生账户抽象，账户抽象的最终形态？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702439147144.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97840",
+          "author": "Gao",
+          "description": "首先，通过链上数据观察发现在过去一个月中，Avalanche 的 TVL 增长速度与  Solana  相当，甚至呈现出超越的趋势。这表明 Avalanche 生态在吸引资金和用户方面取得了显著的成就。与其他主流区块链项目相比，Avalanche 的总 TVL 也呈现出强劲的增长态势。",
+          "link": "https://www.web3sj.com/project/97840/",
+          "publishedOn": "2023-12-13T03:38:29.000Z",
+          "wordCount": 1138,
+          "title": "行情整体下行，AVAX为何逆势大涨15%？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702438687014.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97837",
+          "author": "Gao",
+          "description": "让我们重新回顾《指环王》的开头。当甘道夫在比尔博叔叔家看到魔戒时，他很快意识到这样一个强大的东西不能由普通人处理。只有一些神圣而超凡脱俗的人，就像弗罗多一样，才能处理它。这就是为什么弗罗多是团队的核心——他是唯一一个能够承载这样一个强大东西而不被其吞噬的人。不是甘道夫，不是阿拉贡，不是莱戈拉斯，不是吉姆利，只有弗罗多。",
+          "link": "https://www.web3sj.com/news/97837/",
+          "publishedOn": "2023-12-13T03:32:38.000Z",
+          "wordCount": 1115,
+          "title": "魔戒、OpenAI与以太坊：为什么Vitalik没有被赶出以太坊？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702438317065.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97813",
+          "author": "Gao",
+          "description": "波动剧烈是牛市的常态。在每一次回调的背后，总会有一些代币脱颖而出，成为后续市场涨幅榜的常客，并带动它所属的板块一同上涨。通过参考这些迅速反弹的代币，可以帮助投资者更好的洞察市场上的热点，为决策提供参考。",
+          "link": "https://www.web3sj.com/news/97813/",
+          "publishedOn": "2023-12-13T03:26:02.000Z",
+          "wordCount": 1413,
+          "title": "盘点下跌中依然强势的代币：Cosmos生态逆势上扬，游戏与L2表现优异",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702437913235.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=97799",
+          "author": "Gao",
+          "description": "近日有受害者联系慢雾安全团队，其因使用在线编程平台 Replit 创建 Atomicals 协议钱包并分批打入 ATOM（Atomicals 协议 mint 的 ARC20 代币），导致被盗走 90,000 个 ATOM。据受害者描述，私钥 / 助记词是因在网页上复制粘贴而泄漏。",
+          "link": "https://www.web3sj.com/news/97799/",
+          "publishedOn": "2023-12-13T03:16:43.000Z",
+          "wordCount": 1001,
+          "title": "慢雾：警惕因使用Replit平台注册钱包造成的助记词泄漏",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702437377643.png"
+        }
+      ]
+    },
+    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/19gxp84u.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，据News.bitcoin报道，Galaxy Digital创始人兼CEO Mike Novogratz近日在Raoul Pal的Real Vision节目上承认，他过去对XRP和Ripple的看法完全错误。Novogratz现在认为Ripple是一个机构，而XRP军团是一个真正关心其生态系统和币种的组织。尽管他对Ripple一度持有60%的XRP表示怀疑，但在见证XRP在过去几年中从多次挫折中崛起后，他改变了对Ripple及其领导层的看法。\n同时，对于比特币(BTC)成为日常购物的未来货币的可能性，Novogratz表示他不认为这会发生。他指出，“没有人用比特币购买东西”。关于美国政府的前所未有的支出，目前占国内生产总值(GDP)的25%，Novogratz认为这种开支有助于刺激经济，但他承认，这将在未来付出代价。关于以太坊(ETH)现货交易所交易基金(ETF)的前景，Novogratz表示，除非能够获得质押奖励，否则他不认为它会像现货比特币ETF那样成功。",
+          "link": "https://panewslab.com/zh/articledetails/19gxp84u.html",
+          "publishedOn": "2023-12-13T08:41:38.000Z",
+          "wordCount": 348,
+          "title": "Galaxy CEO承认过去对XRP和Ripple的看法完全错误，XRP军团是关心其生态系统和币种的组织",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2g75qxfk.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，iZUMi Finance宣布现已成功集成ZKFair测试网，并计划于20号左右全面支持ZKFair主网，从而为 ZKFair 生态提供首个由 AMM 驱动的链上订单簿交易服务。未来，双方也将开展更多联合活动，以激励用户与 iZUMi 和 ZKFair网络的交互。\niZUMi Finance 是一种多链DeFi 协议，提供一站式流动性即服务(LaaS)。ZKFair 是首个基于 Polygon CDK、Celestia DA 和 Lumoz RaaS 的 ZK L2 社区网络，公平发射，完全社区驱动，其 Token 也将 100% 通过空投的方式发放给社区。ZKFair测试网于12月7日上线，主网将于20号左右上线。",
+          "link": "https://panewslab.com/zh/articledetails/2g75qxfk.html",
+          "publishedOn": "2023-12-13T08:25:48.000Z",
+          "wordCount": 404,
+          "title": "iZUMi 现已支持ZKFair测试网，并将于12月20号左右支持ZKFair主网",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/k8mn27qu.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，Lookonchain监测显示，一鲸鱼地址正在亏损出售$LINK代币，以偿还在Aave平台上的债务。该大户在11月10日至12月2日之间以每枚$14.96的价格购买了237,054枚$LINK，总价值约为355万美元。过去4小时内，该地址以每枚$14.15的价格出售了165,083枚$LINK，总价值约为233万美元。目前，这位大户手中还持有71,979枚$LINK，价值约为102万美元，总体亏损约为19万美元。",
+          "link": "https://panewslab.com/zh/articledetails/k8mn27qu.html",
+          "publishedOn": "2023-12-13T08:25:29.000Z",
+          "wordCount": 338,
+          "title": "一地址过去4小时内亏损出售约16.5万枚LINK，以偿还在Aave平台上的债务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cn1sslh9.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，据官方消息，由 “IOSI 团队”打造的 IOST 铭文平台 IOST Inscriptios 及链上首个铭文项目 IOSI 将于近日正式上线。\nIOSI 铭文总量为 88 万张，采用一键 Mint 的铸造方式，铸造成本仅 1 IOST，铭文的整体铸造流程将采用先到先得的 FOMO 模式，预计全部打完的时间需求为12 - 15小时。\n目前，IOSI 团队将在 IOST Inscriptios 开放「铭文部署」、「铭文铸造」以及「铭文转账」三大核心功能，并于后续开放官方交易市场。IOSI 团队成员均为 ETH 生态开发者、BTC 生态早期参与者，拥有较为成熟的开发经验。",
+          "link": "https://panewslab.com/zh/articledetails/cn1sslh9.html",
+          "publishedOn": "2023-12-13T08:23:41.000Z",
+          "wordCount": 420,
+          "title": "IOST 铭文平台及链上首个铭文项目 IOSI 即将上线",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/gz5np24y.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，针对“今天是否是Ordinals Eve?”的问题，Ordinals创始人Casey在X平台上表示肯定，并表示：“祝大家序数夜快乐！”Casey提到，传统上，Ordinals Eve是用来反思过去一年的堕落，并焚烧少量稀有的Sats作为祭品献给众神的日子。而序数日则是庆祝未来一年的到来。他还提到，在亚洲，人们会将写有铭文的红包送给孩子和亲戚作为庆祝。\n值得注意的是，Ordinals协议在2022年12月14日正式问世，并铸造了第一个序数铭文，一个巨大的骨架。这标志着Ordinals协议的开始，也代表着数字世界中的一个新兴传统。Ordinals协议通过在比特币区块链上铸造铭文，为数字资产和记忆提供了一种新的表达方式。",
+          "link": "https://panewslab.com/zh/articledetails/gz5np24y.html",
+          "publishedOn": "2023-12-13T08:18:08.000Z",
+          "wordCount": 358,
+          "title": "Ordinals创始人Casey同意将12月13日定为Ordinals Eve(序数夜)",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/910kz9mr.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，Mixin Messenger通过其官方账号@MixinMessenger宣布，从今天起，Litecoin（$LTC）提现功能在Mixin Messenger上已正式启用。平台正在进行稳定性测试，如果一切顺利，Bitcoin（BTC）提现功能将在本周末推出。Mixin Messenger目前支持以下资产的充值：Bitcoin（$BTC）；所有以太坊（Ethereum）资产；所有Polygon资产；所有Binance Smart Chain（BSC）资产；Litecoin（$LTC）；所有EOS资产和Ripple（$XRP）。\n此前9月，Mixin Network云服务商数据库遭到攻击，涉案金额约2亿美元。Mixin创始人冯晓东表示主要受影响的币种为BTC、ETH和ERC20 USDT，预计赔付比例分别为90%、30%和10%。\n相关阅读：2亿美元虚拟货币被盗，谁来为MIXIN的用户损失买单？",
+          "link": "https://panewslab.com/zh/articledetails/910kz9mr.html",
+          "publishedOn": "2023-12-13T07:48:29.000Z",
+          "wordCount": 364,
+          "title": "Mixin：已支持LTC提现，BTC提现预计于本周末推出",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1byv8gcf.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，安全公司MetaTrust Alert监测显示，OKX DEX漏洞利用造成的总损失现已达到 270 万美元。提醒用户尽快撤销对OKX DEX: TokenApprove合约（合约地址：0x40aa958dd87fc8305b97f2ba922cddca374bcd7f）的授权。\n今日早些时候，OKX表示，资产转移事件是由废弃的DEX做市商合约管理权限被盗而导致，将补偿用户资损约37万美金。",
+          "link": "https://panewslab.com/zh/articledetails/1byv8gcf.html",
+          "publishedOn": "2023-12-13T07:32:21.000Z",
+          "wordCount": 372,
+          "title": "MetaTrust：OKX DEX漏洞造成的总损失已达270万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7bpr16zn.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，据彭博社报道，德意志银行旗下的DWS Group、荷兰市场做市商Flow Traders Ltd.及加密货币基金管理公司Galaxy Digital Holdings Ltd.正计划成立一家公司，专注于发行欧元计价的稳定币AllUnity，旨在推动代币化资产更广泛的主流采用。\n这家名为AllUnity的公司将设立在法兰克福，由资深交易所高管、加密货币平台BitMex前首席执行官Alexander Höptner领导。该公司计划向德国金融监管机构BaFin申请电子货币许可证，并打算在未来18个月内推出其完全抵押的稳定币。该稳定币计划在多个公共无许可区块链上推出，包括以太坊和Solana。",
+          "link": "https://panewslab.com/zh/articledetails/7bpr16zn.html",
+          "publishedOn": "2023-12-13T07:20:01.000Z",
+          "wordCount": 352,
+          "title": "Galaxy Digital计划联合DWS、Flow Traders共同发行欧元稳定币AllUnity",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u22qkikm.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，币安将于2023 年 12 月 14 日 16:00（北京时间）开放 FIDA/TRY、INJ/FDUSD、IOTA/TRY、MEME/ETH、SAND/FDUSD 和 SHIB/FDUSD 现货交易对。届时还将为BLUR/USDT、JTO/USDT、VANRY/USDT交易对启用交易机器人服务。\n注：TRY 是法定货币，不代表任何其他数字货币。",
+          "link": "https://panewslab.com/zh/articledetails/u22qkikm.html",
+          "publishedOn": "2023-12-13T06:57:18.000Z",
+          "wordCount": 369,
+          "title": "币安将于明日开放FIDA/TRY、INJ/FDUSD等现货交易对",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jdulh99h.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，据The Block报道，Binance及其创始人赵长鹏正试图驳回美国证券交易委员会（SEC）对他们的诉讼。这起诉讼主要围绕“投资合同”论点展开，Binance在一份法庭文件中指出，SEC的投诉“关注的是客户点击网站、从其他匿名代币持有者购买代币，然后登出的交易”。Binance强调，在涉案交易中，不存在与促销者签订的投资共同企业的合同。此外，Binance认为SEC忽视了判断“投资合同”存在需基于每笔交易的要求。负责运营Binance.US的BAM Trading和BAM Management也在法庭文件中指出，SEC未充分指控BAM平台上的数字资产交易构成投资合同。两家公司表示，如何将“投资合同”一词应用于数字资产的问题，应由国会而非法院解决，这是由SEC自身的领土扩张历史所证明的权力分立问题​​。",
+          "link": "https://panewslab.com/zh/articledetails/jdulh99h.html",
+          "publishedOn": "2023-12-13T06:49:19.000Z",
+          "wordCount": 340,
+          "title": "Binance推动澄清“投资合同”论点，试图驳回美国SEC诉讼",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/28rbwiz5.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，Binance第40个Launchpool项目Fusionist宣布推出空投机制Nexus Bond，专为合格资产持有者设计。该机制的奖池总额为4,998,000枚ACE，认领期限设定为27个月，整个活动将持续4周加上23个月。活动将于北京时间12月18日15:00开始。合格资产包括NFT、BOAT和域名。认领规则规定，连续持有NFT 7天的用户可以获得当期奖励的25%，最高领取额为100%。前4周的NFT持有者可直接获得当期奖励的100%，未领取的奖励将被销毁。此外，拥有2至7字符的ACE域名持有者也有机会获得奖励，但不包括至尊域名。\n相关阅读：Fusionist：由资深游戏人士开发的科幻机甲风格链游",
+          "link": "https://panewslab.com/zh/articledetails/28rbwiz5.html",
+          "publishedOn": "2023-12-13T06:34:11.000Z",
+          "wordCount": 343,
+          "title": "链游Fusionist推出专为合格资产持有者设计的空投机制Nexus Bond",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d8078tnr.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，币安宣布将支持Cosmos（ATOM）网络升级。根据公告，项目方将于区块高度 18,262,000（预计东八区时间2023年12月13日19:00）进行网络升级。为此，币安预计在同日18:00暂停ATOM网络的代币充值和提现服务。用户在升级期间仍可正常交易ATOM代币。一旦网络升级完成并稳定运行后，将重新开放相关代币的充值和提现业务，并不会另行公告。",
+          "link": "https://panewslab.com/zh/articledetails/d8078tnr.html",
+          "publishedOn": "2023-12-13T06:24:48.000Z",
+          "wordCount": 336,
+          "title": "币安将于今晚18:00暂停ATOM网络的代币充提以支持Cosmos网络升级",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/tlus2v1n.html",
+          "author": "PA一线",
+          "description": "PANews 12月13日消息，华尔街债券交易巨头Cantor Fitzgerald首席执行官Howard Lutnick在接受CNBC采访时对稳定币发行商Tether（USDT）表示高度赞扬。Lutnick描述自己是Tether的“大粉丝”，并提到他持有Tether的国债。”Lutnick还提到，“他们有很多国债，他们现在超过900亿美元，所以我是Tether的大粉丝。”\n今年2月时报道，Tether超过一半的稳定币储备由Cantor Fitzgerald管理。",
+          "link": "https://panewslab.com/zh/articledetails/tlus2v1n.html",
+          "publishedOn": "2023-12-13T05:46:04.000Z",
+          "wordCount": 365,
+          "title": "Cantor Fitzgerald CEO称自己是Tether的“大粉丝”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/meubukji.html",
           "author": "PA一线",
           "description": "PANews 12月13日消息，Paradigm研究员samczsun再次发推称，Twitter的一项关键漏洞已被修复。\n技术摘要： 此漏洞是Twitter子域中的反射型跨站脚本（XSS）漏洞，并伴随着对CORS（跨源资源共享）/CSP（内容安全策略）的绕过，使得可以作为本地认证用户向Twitter API发出任意请求。修复此漏洞后，Twitter用户的账户安全性得到了加强。\n今日早些时候报道，Twitter出现仅点击链接就能获得用户账户完全访问权限的关键漏洞。",
           "link": "https://panewslab.com/zh/articledetails/meubukji.html",
           "publishedOn": "2023-12-13T04:35:06.000Z",
-          "wordCount": 346,
+          "wordCount": 343,
           "title": "Paradigm研究员：Twitter的一项关键漏洞已被修复",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -21,7 +258,7 @@
           "description": "PANews 12月13日消息，据CoinDesk报道，为去中心化组织提供区块链治理服务的协议 Q Protocol 将采用国际商会仲裁法院（ICC）的规则来解决去中心化金融（DeFi）领域的争议。Q Protocol允许开发者构建由智能合约执行的组织宪法，并包括处理代码无法解决的争议的线下途径。这些规则包括了诉诸国际商会仲裁法院的解决机制​​。国际商会仲裁法院是全球领先的仲裁机构之一，其框架的应用为DeFi领域带来了前所未有的信誉​​。国际商会仲裁法院的规则通常被实体用作进行私人仲裁的方式，因为这比基于国家的管辖区要快​​。\n除了通过ICC解决争议外，Q Protocol的服务还包括去中心化的自主决策和超越代码即法律的规则执行。Q Protocol主网自2022年3月起运行，除了签署使用治理服务的项目外，多达123个去中心化自治组织（DAO）已在Q上构建了自己的组织，这是平台上提供的另一项服务​​。",
           "link": "https://panewslab.com/zh/articledetails/2t0gz10u.html",
           "publishedOn": "2023-12-13T04:28:42.000Z",
-          "wordCount": 355,
+          "wordCount": 353,
           "title": "Q Protocol将国际仲裁法院规则应用于DeFi纠纷",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -31,7 +268,7 @@
           "description": "PANews 12月13日消息，针对OKX DEX疑似被黑客攻击（亦有称Proxy Admin Owner私钥泄漏）事件，OKX中文官推发文回应称：“经核实，此事件由一个不再使用的废弃的 OKX DEX 做市商合约管理权限被盗而导致，18个授权过该合约的地址资产被转移。目前受到影响合约已经停用，所有用户资产已经确认安全。所有因此受到影响的用户资损约37万美金，平台将在统计完成后第一时间补偿。同时将启动司法流程进行相关损失追回。 后续平台将进行安全自查，对有所的相关废弃合约进行重新梳理，避免此类事件再次发生，为您带来的不便我们深表歉意。”",
           "link": "https://panewslab.com/zh/articledetails/10qzd7ye.html",
           "publishedOn": "2023-12-13T04:13:50.000Z",
-          "wordCount": 364,
+          "wordCount": 352,
           "title": "OKX：资产转移事件是由废弃的DEX做市商合约管理权限被盗而导致，将补偿用户资损约37万美金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -51,7 +288,7 @@
           "description": "PANews 12月13日消息，据慢雾区消息，OKX DEX 合约疑似出现问题，慢雾分析后发现：用户进行兑换时会授权给 TokenApprove 合约，DEX 合约通过调用 TokenApprove 合约转移用户代币。DEX 合约存在 claimTokens 函数，允许可信的 DEX Proxy 进行调用，其功能是调用 TokenApprove 合约的 claimTokens 函数转移已授权用户的代币。可信的 DEX Proxy 由 Proxy Admin 进行管理，Proxy Admin Owner 可以通过 Proxy Admin 升级 DEX Proxy 合约。\nProxy Admin Owner 在 2023-12-12 22:23:47 通过 Proxy Admin 升级了 DEX Proxy 合约到新的实现合约，新的实现合约功能是直接调用 DEX 合约的 claimTokens 函数转移代币。随后攻击者开始调用 DEX Proxy 窃取代币。Proxy Admin Owner 在 2023-12-12 23:53:59 再次升级了合约，实现功能与先前类似，升级后继续窃取代币。截止现在获利约 43 万 U。\n该攻击或为 Proxy Admin Owner 私钥泄漏，目前 DEX Proxy 已被移出受信列表。\n相关信息：\nDEX 合约：0x70cbb871e8f30fc8ce23609e9e0ea87b6b222f58\nOKX DEX TokenApprove 合约：0x40aa958dd87fc8305b97f2ba922cddca374bcd7f\nDEX Proxy：0x55b35bf627944396f9950dd6bddadb5218110c76\nProxy Admin：0x3c18F8554362c3F07Dc5476C3bBeB9Fdd6F6a500\nProxy Admin Owner：0xc82Ea2afE1Fd1D61C4A12f5CeB3D7000f564F5C6\n升级交易：\nhttps://etherscan.io/tx/0xc6a5a7bc31bbc9a7530189e718f7ed96789fa65c56c3a4a08079a95074e280c8\nhttps://etherscan.io/tx/0x22ebd267d7344780e6d63cf3a76bab57b8f8fa41cf58df1a2e1707d75d8bee89\n疑似攻击者：\n0xFacf375Af906f55453537ca31fFA99053A010239\n获利地址：\n0x1F14E38666cDd8e8975f9acC09e24E9a28fbC42d",
           "link": "https://panewslab.com/zh/articledetails/5g9hreh3.html",
           "publishedOn": "2023-12-13T03:55:03.000Z",
-          "wordCount": 527,
+          "wordCount": 529,
           "title": "慢雾：OKX DEX Proxy Admin Owner私钥泄漏",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -61,7 +298,7 @@
           "description": "PANews 12月13日消息，据推特用户 @eno_eth 表示，社区成员 @axe_ping 声称钱包资金被盗，大量资金转入 0x1f14 开头的黑客地址，所有被盗钱包均授权给了 OKX DEX，其称很明显是Okx DEX被黑客攻击了，1 小时前 OKX 移除了被黑客攻击的代理地址。目前，慢雾团队正在追踪分析。\nENO还称，Okx Dex 合约创建人今天对Okx部分智能合约地址进行了升级，似乎攻击与本次升级有关。也怀疑是私钥泄露。",
           "link": "https://panewslab.com/zh/articledetails/hb9y7z6x.html",
           "publishedOn": "2023-12-13T03:36:36.000Z",
-          "wordCount": 382,
+          "wordCount": 384,
           "title": "OKX DEX疑似被黑客攻击，目前已移除被黑客攻击的代理地址",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -73,136 +310,6 @@
           "publishedOn": "2023-12-13T03:21:36.000Z",
           "wordCount": 333,
           "title": "马斯克旗下X今年广告收入料将下滑至约25亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/xh0e6bme.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，据GeckoTerminal数据，Solana 生态流动性质押协议 mSOL（Marinade staked SOL）于今日凌晨 00:45-02:00 间在Orca（DEX）上与 SOL 汇率大幅下跌，一度跌超 15%。在此期间，mSOL 价格一度跌破 65 美元，随后反弹至 75 美元上方。\n链上数据显示，一名巨鲸（85b5jK…9PqTPA）在此期间抛售了价值超过 800 万美元的 mSOL，兑换为 USDT，引发了此次短暂脱钩。",
-          "link": "https://panewslab.com/zh/articledetails/xh0e6bme.html",
-          "publishedOn": "2023-12-13T03:19:39.000Z",
-          "wordCount": 386,
-          "title": "因巨鲸抛售，mSOL价格于今日凌晨曾短暂大幅下跌15%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/82v1ud32.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，Bitget 昨日发布2023 年 11 月报告。该月共上线51种代币，现货交易量增长 82%，并升级了跟单交易功能，推出交易专家尊享模式。11月份共有5000名交易专家，以及超20,000名新用户使用跟单功能，交易专家总收益超445,000 美金。\n此外，11月10日，Bitget启动Builders全球行活动，首站为蒙巴萨科技大学。并推出Bitget Builder 限量版 NFT，为核心贡献者提供专属福利。在教育合作方面。与伦敦大学学院（UCL）展开教育合作，致力于推进行业发展。",
-          "link": "https://panewslab.com/zh/articledetails/82v1ud32.html",
-          "publishedOn": "2023-12-13T03:16:56.000Z",
-          "wordCount": 380,
-          "title": "Bitget 发布 11 月报告，现货交易量增长 82%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7ff7icz1.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，Paradigm研究员samczsun发文称，Twitter出现一个关键漏洞，该漏洞允许黑客通过仅点击一个链接就能获得用户账户的完全访问权限。这意味着黑客可以进行推文、转推、点赞、屏蔽等操作，但无法更改用户密码。在此问题得到解决之前，为了保护自己的账户安全，建议用户安装广告拦截器uBlock Origin，以减少遭受此类攻击的风险。uBlock Origin是一款有效的浏览器扩展，能够阻挡恶意链接和广告，从而提高用户在使用Twitter等社交平台时的网络安全。",
-          "link": "https://panewslab.com/zh/articledetails/7ff7icz1.html",
-          "publishedOn": "2023-12-13T02:36:41.000Z",
-          "wordCount": 336,
-          "title": "Paradigm研究员：Twitter出现仅点击链接就能获得用户账户完全访问权限的关键漏洞",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/bncqofg5.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，据韩国媒体Decenter报道，Line旗下NFT子公司 Line Next 宣布从私募股权基金运营商 Crescendo Equity Partners 及其财团获得1.4亿美元投资，是今年亚洲区块链和Web3领域最大规模的投资。该公司计划利用这笔投资推动Web3的普及，扩展全球平台业务，并开发新服务。其中包括明年1月将推出的全球NFT平台 DOSI，以及基于人工智能技术的社交应用和Web3游戏。",
-          "link": "https://panewslab.com/zh/articledetails/bncqofg5.html",
-          "publishedOn": "2023-12-13T02:28:29.000Z",
-          "wordCount": 365,
-          "title": "Line Next宣布从Crescendo Equity Partners及其财团获得1.4亿美元投资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/laxj695r.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，PeckShieldAlert发推称，与FTX/Alameda相关的地址进行了一系列大额转账。这些转账包括将价值约870万美元的约5000万枚BOBA代币转入Coinbase Prime，将价值约138万美元的约125万枚JOE代币转入Binance，以及将价值约11.6万美元的约400万枚QI代币转出。",
-          "link": "https://panewslab.com/zh/articledetails/laxj695r.html",
-          "publishedOn": "2023-12-13T02:17:01.000Z",
-          "wordCount": 342,
-          "title": "PeckShield：FTX/Alameda相关地址转移超1000万美元的代币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/j84dzr5b.html",
-          "author": "PA一线",
-          "description": "黑山应美国和韩国的要求延长对Do Kwon的拘留\n据彭博社报道，黑山高等法院发言人 Marija Rakovic 表示，应美国和韩国的要求，黑山高等法院延长了对 Terraform Labs 联合创始人 Do Kwon的拘留。\nMarija Rakovic说，波德戈里察法院裁定，本应于周五到期的拘留期限延长两个月，至 2 月 15 日。美国和韩国都在寻找这位加密货币企业家，指控其与 2022 年算法稳定币 TerraUSD 的崩盘有关。高等法院上个月裁定，可以将 Do Kwon 引渡到哪个国家，由黑山司法部长决定。然而，Marija Rakovic说，他的辩护人对这一决定提出上诉，该决定目前正在由波德戈里察的上诉法院审理。\nKuCoin支付2200万美元以解决加密诉讼\n据Tree News援引彭博终端信息，KuCoin 支付 2200 万美元退出纽约市场以解决加密诉讼。纽约州最高法院周二提交的法庭文件显示，Kucoin 将向纽约客户退还 1677 万美元，并向纽约州总检察长支付 530 万美元，以了结其在未向总检察长注册的情况下提供符合证券定义的代币（包括以太币）违反证券法的指控。\nNym、Protocol Labs、Oasis和Aztec成立Web3“通用隐私联盟”\n据The Block报道，以隐私为中心的 Web3 项目组成了由Nym牵头的“通用隐私联盟”（UPA） 。该联盟专注于保护数字隐私权，该联盟还包括 Protocol Labs、Filecoin 基金会、Oasis 和 Aztec 等。一份声明称，UPA 将专注于影响政策和监管决策，并由 15 万美元的初始资金支持。\n香港金管局警告：比特銀行BitGinko和HongKong BTC Bank均未获许可，不得经营银行/存款业务\n香港金融管理局（金管局）最近发布了两份警告，提醒市民提高对某些网站和社交媒体账户的警…",
-          "link": "https://panewslab.com/zh/articledetails/j84dzr5b.html",
-          "publishedOn": "2023-12-13T02:11:47.000Z",
-          "wordCount": 737,
-          "title": "昨夜今晨重要资讯（12月12日-12月13日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/12/13/images/JQP9Sw098D.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/q8m7v71q.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，加密期权交易平台Deribit宣布上线BTC/USDT, ETH/USDT和USDC/USDT现货交易对。",
-          "link": "https://panewslab.com/zh/articledetails/q8m7v71q.html",
-          "publishedOn": "2023-12-13T02:01:55.000Z",
-          "wordCount": 344,
-          "title": "Deribit上线BTC/USDT, ETH/USDT和USDC/USDT现货交易对",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/v9nm97dd.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，据CNBC报道，前美国总统唐纳德·特朗普近日推出了一项新的促销活动“Mugshot”NFT系列，承诺买家在购买47张价值99美元的特朗普主题数字交易卡NFT后，可以获得他被拍摄警方照片时所穿西装的一件套装。47张购买的总价值为4,653美元，同时还承诺买家可以在海湖庄园与前总统共进晚餐​​​​。该NFT 发行于 Polygon 区块链上。\n然而，促销网站的细则说明中提到，买家并不一定能够收到实体卡或西装。如果因制造、生产或配送问题无法提供奖励实体卡，符合条件的个人将会获得一张限量版特朗普NFT作为替代。此外，晚宴的获胜者需自行承担所有旅行费用，包括交通和住宿。如果特朗普无法出席或晚宴因其他原因无法举行，主办方可能会重新安排晚宴或以限量版特朗普NFT代替​​​​。",
-          "link": "https://panewslab.com/zh/articledetails/v9nm97dd.html",
-          "publishedOn": "2023-12-13T01:57:25.000Z",
-          "wordCount": 350,
-          "title": "特朗普推出新的“Mugshot” NFT 系列，售价99美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/gl702680.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，据LedgerInsights报道，专注于银行稳定币技术的供应商 GUGroup 近日成功筹集了4.2亿日元（约合290万美元）的资金，主要支持者是日本的 B Dash Ventures，该公司还向海外投资者出售代币。该公司推广的Japan Open Chain是一个兼容以太坊的公共区块链，由包括索尼子公司Corgear、NTT Docomo、电通和福冈金融集团的数字银行Minna no Bank在内的企业运营验证节点​​。GuGroup 的子公司之一是稳定币发行解决方案 GUCoin Studio。\n此外，NTT Docomo对Japan Open Chain的参与尤为重要，因为它最近获得了日本最大加密货币交易所Coincheck的所有者Monex Securities 49%的股权。这一动作与其他主要加密货币交易所与特定稳定币的关联相似，如Binance与Binance USD、Coinbase与USDC以及Bitfinex与Tether​​。",
-          "link": "https://panewslab.com/zh/articledetails/gl702680.html",
-          "publishedOn": "2023-12-13T01:35:49.000Z",
-          "wordCount": 409,
-          "title": "银行稳定币技术提供商GUGroup完成290万美元融资，日本的B Dash Ventures领投",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3r89qea5.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，Coinbase Assets发推表示，已将Bonk (BONK)列入上币路线图，其在 Solana 区块链上的资产（SPL 代币）合约地址为：DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263。",
-          "link": "https://panewslab.com/zh/articledetails/3r89qea5.html",
-          "publishedOn": "2023-12-13T01:23:47.000Z",
-          "wordCount": 349,
-          "title": "Coinbase将Bonk (BONK)列入上币路线图",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cum3pzl7.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，链上分析师余烬发文称，一名持有大量MKR（MakerDAO）代币的鲸鱼投资者在7月25日至11月22日期间，以平均每枚$1324的价格，总计提取了价值约632万美元的4775枚MKR代币。9小时前，这位投资者又将1490枚MKR（价值约202万美元）转回到加密货币交易平台Binance。该鲸鱼地址为：0x9e74e1dcc5f70600a99f985e45709acf029e5b29。",
-          "link": "https://panewslab.com/zh/articledetails/cum3pzl7.html",
-          "publishedOn": "2023-12-13T01:16:07.000Z",
-          "wordCount": 334,
-          "title": "一鲸鱼9小时前将1490枚MKR转回Binance",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/nb45r8s8.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，香港证监会最新公布的11月持牌数据显示，香港著名房地产商郑志刚旗下的C Capital Investment Management Limited成功获得了4号和9号牌照。这表明该公司具备了在证券方面提供专业咨询的资格（4号牌照），以及从事资产管理业务的资格（9号牌照）。\n此前9月报道，C Capital募资超2.5亿美元，曾于2022年投资Animoca Brands。",
-          "link": "https://panewslab.com/zh/articledetails/nb45r8s8.html",
-          "publishedOn": "2023-12-13T01:07:14.000Z",
-          "wordCount": 355,
-          "title": "香港房地产大亨郑志刚旗下基金C Capital已获得香港证监会颁发的4号、9号牌照",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/wmzw1uf7.html",
-          "author": "PA一线",
-          "description": "PANews 12月13日消息，美国哥伦比亚特区法院审理的SEC与Binance及其创始人赵长鹏的诉讼案更新中，BHL(Binance Holdings Limited)和赵对SEC的“补充权威通知”提出反驳。他们认为SEC的通知程序不当，与案件指控不相关，且误导地使用司法部和FinCEN的决议。此外，他们质疑SEC关于领土和个人管辖权的主张，强调这些与证券法的适用范围不符。BHL和赵请求法院驳回SEC的通知，认为该通知并未削弱他们要求驳回诉讼的任何论点。",
-          "link": "https://panewslab.com/zh/articledetails/wmzw1uf7.html",
-          "publishedOn": "2023-12-13T01:02:18.000Z",
-          "wordCount": 341,
-          "title": "Binance请求法院驳回美国SEC的通知，认为SEC的通知程序不当且与案件指控不相关",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -238,9 +345,9 @@
           "description": "香港金融管理局12月12日发布声明，提醒公众注意，比特银行/比特币银行（BitGinko）未获授权在香港开展银行业务。根据香港银行业条例，BitGinko没有获得香港金融管理局的授权，也没有获准设立本地代表处。",
           "link": "https://www.hellobtc.com/news/202312/21480.html",
           "publishedOn": "2023-12-13T01:02:00.000Z",
-          "wordCount": null,
+          "wordCount": 308,
           "title": "香港金管局警告比特银行BitGinko未获授权在港开展银行业务",
-          "imageUrl": null
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21479.html",
@@ -258,9 +365,9 @@
           "description": "美国商品期货交易委员会（CFTC）主席Rostin Behnam在接受CNBC采访时承认根据现行法律，许多代币构成商品。Behnam表示，我们正在弄清楚现有的、有几十年历史的法律如何适应这种似乎正在发生变化的新技术，最终需要一种围绕政策和立法的新思路。根据现行法律，许多代币构成商品。这一直接声明为加密货币在美国的监管地位提供了亟需的明确性。  Rostin Behnam还深入探讨了加密货币行业面临的错综复杂的监管问题，强调迫切需要采取立法行动。 Behnam表示，我认为国会议员们正在努力摸清情况。 将新的数字资产纳入传统监管模式是一项挑战。 Behnam还在在采访中强调了CFTC对稳定市场的承诺。",
           "link": "https://www.hellobtc.com/news/202312/21478.html",
           "publishedOn": "2023-12-13T01:02:00.000Z",
-          "wordCount": null,
+          "wordCount": 317,
           "title": "美国CFTC主席：根据现行法律，许多代币构成商品",
-          "imageUrl": null
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21477.html",
@@ -268,9 +375,9 @@
           "description": "根据公开的监管备忘录文件，贝莱德在当地时间12月11日第三次与SEC会面，讨论其现货比特币ETF的细节，第三次会议包括贝莱德美国iShares产品主管Rachel Aquirre，其余大部分与会者是律师。 彭博分析师Eric Balchunas称，每个人都在观望他们是否能说服美国证券交易委员会在第一轮批准中允许实物创建模式。",
           "link": "https://www.hellobtc.com/news/202312/21477.html",
           "publishedOn": "2023-12-13T01:01:00.000Z",
-          "wordCount": null,
+          "wordCount": 311,
           "title": "贝莱德昨日第三次与SEC会面讨论其现货比特币ETF细节",
-          "imageUrl": null
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21476.html",
@@ -278,9 +385,9 @@
           "description": "2023年12月11日，受英国国会及中央银行方面邀请，前土耳其财政监察部副部长，CoinTR董事会主席Şakir Ercan GÜL，前土耳其中央银行市场司副司长，CoinTR CEO Ali Eşelioğlu前往伦敦英国国会大厦参加双方闭门会议。\n\n本次交流主要议题为“中央银行和政府在加密货币、Web 3.0和人工智能时代的作用”。英国议会副国务卿(人工智能和知识产权部长)Viscount Camrose，英国中央银行数字货币APPG副主席，Paola Uddin男爵夫人，加密货币及数字资产APPG副主席，John Taylor勋爵出席本次对话，分享了英国政府的监管思路及遇到的主要问题。\n\nCoinTR董事会主席Şakir Ercan GÜL在财政部任职期间，曾主持土耳其区块链监管法案制定工作，在本次交流中也分享了土耳其政府在区块链监管方面的经验和洞察。\n\nCoinTR CEO Ali Eşelioğlu在会议中讲到，立法部门和央行都需要在变化中积极扮演新的角色，以应对Web3带来的机遇与挑战，采取有效措施监管DeFi的合规发展，确保金融体系和用户资产的安全性。CoinTR正在为土耳其银行提供技术支持，帮助银行有效管理DeFi流程、增强监管能力，帮助搭建传统金融与加密生态之间桥梁。",
           "link": "https://www.hellobtc.com/news/202312/21476.html",
           "publishedOn": "2023-12-12T09:04:00.000Z",
-          "wordCount": null,
+          "wordCount": 332,
           "title": "CoinTR 董事会主席及CEO 受英国国会及英国央行邀请，与英国副国务卿交流区块链行业监管经验",
-          "imageUrl": null
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21475.html",
@@ -298,9 +405,9 @@
           "description": "1.过去1小时全网爆仓2.78亿美元，主爆多单。\n\n2.比特币2小时最大跌幅达7.5%，多个热门山寨币种跌超15%。\n\n3.Solana网络TVL突破9亿美元，生态多个协议TVL周增幅超20%。\n\n4.MetaMask：与越南、菲律宾、印度尼西亚、泰国、埃及和智利6国支付平台达成合作。\n\n5.支持比特币的阿根廷总统已宣誓就职。\n\n6.Nostr Assets：ORDI持有者代币空投已开放申领。\n\n7.Solana联创：与其空投，项目团队应以较预期低的价格出售更大比例代币。\n\n8.比特币Ordinals已被添加到美国国家漏洞数据库。",
           "link": "https://www.hellobtc.com/news/202312/21474.html",
           "publishedOn": "2023-12-11T03:10:00.000Z",
-          "wordCount": null,
+          "wordCount": 314,
           "title": "白话区块链早报：过去1小时全网爆仓2.78亿美元，主爆多单",
-          "imageUrl": null
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21473.html",
@@ -308,9 +415,9 @@
           "description": "1.Solana网络NFT过去24小时交易额超越以太坊，单日增幅达54.16%。\n\n2.美SEC：尽管司法部已达成和解，但币安案仍应继续推进。\n\n3.UniSat将于2024年第一季度推出比特币扩容解决方案。\n\n4.Starknet基金会将分配18亿枚STRK用于链上激励和用户返利。\n\n5.TON网络受Tonano铭文铸币影响出现严重拥堵情况，铸币及多个钱包已暂停服务。\n\n6.数据：OKX NFT Marketplace超越OpenSea成为11月交易额第二大NFT市场。",
           "link": "https://www.hellobtc.com/news/202312/21473.html",
           "publishedOn": "2023-12-09T03:12:00.000Z",
-          "wordCount": null,
+          "wordCount": 306,
           "title": "白话区块链早报：Solana网络NFT过去24小时交易额超越以太坊",
-          "imageUrl": null
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
     }
