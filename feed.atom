@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-13T16:16:48.684Z</id>
+    <id>urn:2023-12-13T20:14:26.958Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-13T16:16:48.684Z</updated>
+    <updated>2023-12-13T20:14:26.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[COTI拟于明年Q2进行V2升级，将推出以太坊Layer 2]]></title>
+        <id>https://panewslab.com/zh/articledetails/xkughr8w.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xkughr8w.html"/>
+        <updated>2023-12-13T15:59:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月13日消息，据官方公告，基于DAG的Layer1协议COTI宣布计划在2024年第二季度进行V2升级，并将推出注重dApp用户隐私的以太坊Layer 2。Coti V2预计于2024年年底前启动主网络。Coti V2将利用密码学保护交易隐私，采用Garbled Circuits方法。Coti V2预计于2024年年底前启动主网络。Coti V2将利用密码学保护交易隐私，采用Garbled Circuits方法。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blockchain.com计划明年Q1将员工人数增加25%，并将业务扩展至尼日利亚和土耳其]]></title>
+        <id>https://panewslab.com/zh/articledetails/nssoka68.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nssoka68.html"/>
+        <updated>2023-12-13T15:36:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月13日消息，据彭博社报道，加密货币交易所Blockchain.com是早期的比特币基础设施提供商之一，该公司计划在明年第一季度将员工人数增加25%，以进入尼日利亚和土耳其等新市场。
+该交易所还聘请了曾担任Kraken全球业务主管的Curtis Ting，帮助该公司在巴黎建立新的中心，并在欧洲各地创建当地实体，这些都需要遵守新的监管规定。Blockchain.com的欧洲业务目前由位于伦敦的单一实体管理。Blockchain.com首席执行官Peter Smith在接受采访时表示，该公司还将寻求更多的本地许可证。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalanche生态Rollup网络SEQ开发团队NodeKit完成120万美元Pre-Seed轮融资]]></title>
+        <id>https://panewslab.com/zh/articledetails/acp781rg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/acp781rg.html"/>
+        <updated>2023-12-13T15:28:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月13日消息，据The Block报道，基于Avalanche的网络SEQ开发团队NodeKit完成120万美元Pre-Seed轮融资，Borderless Capital领投，Avalanche Blizzard Fund、Polygon Ventures和Wormhole Cross-Chain Ecosystem Fund参投。
+NodeKit正在构建SEQ，这是一个共享排序器的L1网络，将帮助rollup chains推出并去中心化其交易排序。SEQ将作为一个独立的区块链或子网在Avalanche生态系统中运行。SEQ的设计还将支持各种数据可用性层，例如Celestia。SEQ的测试网计划于2024年启动，随后发布主网。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国将出台首版加密货币会计制度，将按公允价衡量]]></title>
+        <id>https://panewslab.com/zh/articledetails/y1me177i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y1me177i.html"/>
+        <updated>2023-12-13T15:19:09.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月13日消息，据财联社报道，美国将出台第一版加密数字货币会计制度，以捕捉代币的高位和低点。根据新版FASB制度，将按公允价衡量加密货币。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik发文探讨ZK-EVM的未来展望与挑战]]></title>
+        <id>https://panewslab.com/zh/articledetails/y785yed4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y785yed4.html"/>
+        <updated>2023-12-13T15:15:46.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月13日消息，以太坊联合创始人Vitalik Buterin发文探讨了ZK-EVM的概念及其可能实现形式。文章指出，当前的Layer-2 EVM协议（如Optimistic Rollups和ZK Rollups）需要依赖于EVM的验证机制，但这同时意味着他们必须信任庞大的代码库。一旦代码库中存在漏洞，这些虚拟机可能面临被攻击的风险。这意味着即使ZK-EVM想要保持完全的L1等效的，需要有某种形式的治理，把L1 EVM的变化复制到他们自己的EVM实现中。
+Buterin提出的ZK-EVM概念旨在减少Layer 2项目对Ethereum协议功能的重复实现，并提高其在验证Layer 1 Ethereum区块时的效率。他还展望了未来光客户端（light clients）将更加强大，甚至可能利用 ZK-SNARKs（零知识证明）完全验证L1 EVM执行，届时Ethereum网络将实质上具备内置的ZK-EVM功能。
+文章还讨论了实现ZK-EVM的不同版本，包括它们的设计挑战、权衡利弊，以及为何某些方向可能不被采纳。强调了在实现协议功能时，应权衡其优势与保持基础协议简洁性的好处。对于ZK-EVM的关键属性，Buterin强调了其基本功能性、与Ethereum多客户端哲学的兼容性、数据可用性要求、可审计性和可升级性。此外，他还提到了对“almost-EVM”的支持，即允许L2的VM在与EVM只有微小差异的情况下，仍能使用协议内的ZK-EVM，同时也为EVM的部分定制化提供了灵活性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数字资产风险基础设施初创公司Andalusia Labs以超10亿美元估值完成4800万美元A轮融资]]></title>
+        <id>https://panewslab.com/zh/articledetails/tp0v2kmb.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tp0v2kmb.html"/>
+        <updated>2023-12-13T15:09:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月13日消息，据Techcrunch报道，专注于数字资产风险基础设施的Andalusia Labs(原名RiskHarbor)以超10亿美元估值完成4800万美元A轮融资，Lightspeed Venture partners领投，Mubadala Capital、Pantera Capital、Framework Ventures、Bain Capital Ventures和Digital Currency Group等参投。在获得新一轮融资的同时，Andalusia Labs还在阿布扎比开设了全球总部。新资金还将用于产品开发和扩大团队。到目前为止，该公司共筹集了约5100万美元。
+据悉，这家初创公司有三个主要的数字资产技术解决方案，一个是名为Karak的Layer 2区块链，一个是名为Subsea的加密风险管理市场，一个是名为Watchtower的以安全为中心的机构平台。所有这些都旨在通过各自的利基为机构、开发商和消费者提供数字资产支持。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wintermute今日铸造1500万枚FDUSD并全部转入币安]]></title>
         <id>https://panewslab.com/zh/articledetails/zlnuvlzj.html</id>
@@ -177,48 +242,6 @@ TRM Labs表示，这种下降是由于安全措施的加强，加密行业已经
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[嘉楠科技拟通过优先股融资1.25亿美元，已筹集2500万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/8e047c09.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8e047c09.html"/>
-        <updated>2023-12-13T12:19:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月13日消息，据比特币矿机制造商嘉楠科技周三向SEC提交的6-K表格文件（注册地不在美国的外国公司披露特定财务信息），该公司于11月27日签订了《证券购买协议》，将通过向一家机构投资者（名称未披露）发行A系列可转换优先股筹集至多1.25亿美元的资金（最多125000股，每股优先价格1000美元），所得款项净额将用于研发、扩大生产规模以及其他一般公司用途。该公司已完成第一期优先股融资，募集资金总额为2500万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3学习和赚钱平台Intract完成300万美元融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/0op0jnl8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0op0jnl8.html"/>
-        <updated>2023-12-13T12:10:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月13日消息，据Cointelegraph报道，Web3学习和赚钱平台Intract宣布完成300万美元融资，Alpha Wave Global、BITKRAFT Ventures和Gumi Cryptos领投，Polygon Ventures、Tokentus、MoonPay、Web3 Studios等参投，这笔资金将用于将团队规模扩大一倍，并将平台扩展到十亿用户。
-Intract拥有超200万活跃用户，帮助用户探索Web3中各个垂直领域的新项目。Intract用户通过称为“任务”的活动了解此类项目，并被激励完成某些任务以获得奖励。通过Intract任务，项目现在可以增加新用户并建立忠诚度。Intract计划于2024年推出其学院，这是一种专为探索web3的web2用户设计的策划学习体验，以及Intract内部经济，用户可以通过未来去中心化的网络与同行互动。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美CFTC主席声称大多数加密货币都是商品，承认正与SEC争夺加密领域监管权]]></title>
-        <id>https://panewslab.com/zh/articledetails/p8j3ostn.html</id>
-        <link href="https://panewslab.com/zh/articledetails/p8j3ostn.html"/>
-        <updated>2023-12-13T12:05:14.000Z</updated>
-        <summary type="html"><![CDATA[PANew 12月13日消息，据IBtimes报道，美国商品期货交易委员会（CFTC）主席Rostin Behnam表示，根据现行法律，大多数加密资产都是商品，同时其承认监管机构之间正在就谁有权监管加密行业展开“地盘争夺战”。
-在谈到加密货币行业面临的监管复杂性时，Behnam强调需要采取紧急立法行动，并表示“国会议员正在努力弄清楚形势”。Behnam指出，监管数字资产的挑战之一是该国各个监管机构之间正在进行的“地盘争夺战”，特别是美国证券交易委员会 (SEC) 和CFTC之间关于谁来监管该行业的问题，这种冲突已成为为数字资产和更广泛的加密行业建立明确监管指南的主要障碍。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosmos Hub已完成v14升级，引入equivocation加密验证功能]]></title>
-        <id>https://panewslab.com/zh/articledetails/9mz6m6mv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9mz6m6mv.html"/>
-        <updated>2023-12-13T11:51:59.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月13日消息，Cosmos Hub宣布已完成v14升级，v14升级引入了equivocation加密验证功能，旨在更有效地防范双重签名和轻客户端攻击。明年第一季度开始，预计Gaia v15提案将迁移到Cosmos SDK v0.47。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-12.13）]]></title>
         <id>https://www.web3sj.com/?p=97906</id>
         <link href="https://www.web3sj.com/news/97906/"/>
@@ -229,16 +252,6 @@ Intract拥有超200万活跃用户，帮助用户探索Web3中各个垂直领域
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blockchain.com推出加密货币经纪服务白标平台Blockchain.com Pay]]></title>
-        <id>https://panewslab.com/zh/articledetails/0w9mxc69.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0w9mxc69.html"/>
-        <updated>2023-12-13T11:43:10.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月13日消息，据Financefeeds报道，加密交易所Blockchain.com推出加密货币经纪服务白标平台Blockchain.com Pay，该产品旨在帮助Web3、游戏和零售公司建立自己的加密货币经纪服务，支持访问Blockchain.com的4000多万已验证客户，简化了合作伙伴平台的KYC流程。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[南非合规金融机构或将获准提供加密货币相关服务]]></title>
         <id>https://www.hellobtc.com/news/202312/21487.html</id>
         <link href="https://www.hellobtc.com/news/202312/21487.html"/>
@@ -246,16 +259,6 @@ Intract拥有超200万活跃用户，帮助用户探索Web3中各个垂直领域
         <summary type="html"><![CDATA[12月13日消息，加密货币交易所Luno业务发展经理Tarris Arnold表示，约有73名申请人正寻求在南非提供加密货币产品的许可证，这些公司已在金融情报中心（Financial Intelligence Centre）注册为负责任机构。根据Arnold的说法，这可能表明合规金融机构正计划在其产品中添加加密货币。 Arnold补充表示，该国金融行业行为监管局（FSCA）收到的许可证申请中，只有少数是由无牌金融服务提供商提交的。 此前消息，南非金融行业行为监管局（FSCA）表示，截至2023年11月30日（申请截止日期），已收到128份加密资产服务提供商许可证申请。FSCA计划在12月12日的许可执行委员会会议上审查36家被许可人的陈述。另外22份申请将于2月13日提交。最后14份申请必须等到3月12日。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upbit现持有STORJ代币总供应量的19.76%，系第一大持有者]]></title>
-        <id>https://panewslab.com/zh/articledetails/756snrr5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/756snrr5.html"/>
-        <updated>2023-12-13T11:17:47.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月13日消息，据Scopescan监测，STORJ代币价格过去一天上涨了13.12%。链上数据显示，Upbit目前持有STORJ代币总供应量的19.76%，是STORJ代币第一大持有者。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
