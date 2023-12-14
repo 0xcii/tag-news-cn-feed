@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-14T14:13:17.823Z</id>
+    <id>urn:2023-12-14T15:14:33.464Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-14T14:13:17.823Z</updated>
+    <updated>2023-12-14T15:14:33.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MetaMask：已发现对Ledger Connect Kit的攻击，请停止使用dapp]]></title>
+        <id>https://www.hellobtc.com/news/202312/21497.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21497.html"/>
+        <updated>2023-12-14T14:11:00.000Z</updated>
+        <summary type="html"><![CDATA[MetaMask在社交媒体上表示，已发现对Ledger Connect Kit的攻击，请停止使用dapp。用户在MetaMask Portfolio上执行任何交易之前，请确保已在MetaMask Extension中启用Blockaid功能，MetaMask Portfolio团队正在着手解决这个问题，并且已经准备好了一个补丁，将于今天发布。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger已识别并删除Ledger Connect Kit的恶意版本]]></title>
+        <id>https://www.hellobtc.com/news/202312/21496.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21496.html"/>
+        <updated>2023-12-14T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Ledger在社交媒体上发文表示，已识别并删除了Ledger Connect Kit的恶意版本。现在正在推送正版版本来替换恶意文件。暂时不要与任何dApp交互。用户的Ledger设备和Ledger Live没有受到损害。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valkyrie向美国SEC提交比特币现货ETF第四次修正案]]></title>
+        <id>https://www.hellobtc.com/news/202312/21495.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21495.html"/>
+        <updated>2023-12-14T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[据Bitcoin Magazine披露文件显示，Valkyrie向美国证券交易委员会提交比特币现货ETF的第四次修正案。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德意志银行支持的Taurus开始对德国中小企业贷款进行代币化]]></title>
+        <id>https://www.hellobtc.com/news/202312/21494.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21494.html"/>
+        <updated>2023-12-14T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[由德意志银行 (DBK) 支持的瑞士加密货币托管公司 Taurus与总部位于苏黎世的专注于德国中小企业的金融科技贷款平台 Teylor 合作，推动当前各种代币化资产的趋势。Teylor 的信用投资组合代币的结构由 Allen and Overy 律师事务所监管，可在 Taurus 的 TDX 市场进行二级市场交易。 Taurus 联合创始人 Lamine Brahimi 表示，代币化过程涉及一个总部位于卢森堡的投资工具，符合瑞士和欧洲法规，针对德国中小企业市场的代币化债务产品将在未来两周内获得一些机构投资者的投资。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾余弦：Ledger的一个模块被供应链劫持篡改，目前不确定多少DApp被影响]]></title>
+        <id>https://www.hellobtc.com/news/202312/21493.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21493.html"/>
+        <updated>2023-12-14T13:46:00.000Z</updated>
+        <summary type="html"><![CDATA[慢雾创始人余弦在社交媒体上表示，Ledger的一个模块被供应链劫持篡改了，特别注意下这个风险，主要是不知道影响面多广，可能不少DApp都有依赖Ledger的ledgerhq/connect-kit。大家警惕下所有DApp相关操作，注意钱包待签名的请求信息是不是预期内的。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ledger：已识别并删除Ledger Connect Kit恶意版本，暂勿与任何dApp交互]]></title>
         <id>https://panewslab.com/zh/articledetails/wsqp2b7y.html</id>
@@ -391,56 +441,6 @@ Taurus联合创始人Lamine Brahimi表示，代币化过程涉及卢森堡的投
         <link href="https://www.hellobtc.com/news/202312/21488.html"/>
         <updated>2023-12-13T12:40:00.000Z</updated>
         <summary type="html"><![CDATA[12月13日消息，巴西数字银行Nubank表示，应用户需求，将从明年开始允许平台用户从其银行应用程序“进行加密货币提款”。 此前消息，Circle宣布与Nubank达成合作，以扩大USDC的使用范围。Nubank Cripto将支持USDC，为其巴西用户提供购买和持有数字美元的渠道。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南非合规金融机构或将获准提供加密货币相关服务]]></title>
-        <id>https://www.hellobtc.com/news/202312/21487.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21487.html"/>
-        <updated>2023-12-13T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[12月13日消息，加密货币交易所Luno业务发展经理Tarris Arnold表示，约有73名申请人正寻求在南非提供加密货币产品的许可证，这些公司已在金融情报中心（Financial Intelligence Centre）注册为负责任机构。根据Arnold的说法，这可能表明合规金融机构正计划在其产品中添加加密货币。 Arnold补充表示，该国金融行业行为监管局（FSCA）收到的许可证申请中，只有少数是由无牌金融服务提供商提交的。 此前消息，南非金融行业行为监管局（FSCA）表示，截至2023年11月30日（申请截止日期），已收到128份加密资产服务提供商许可证申请。FSCA计划在12月12日的许可执行委员会会议上审查36家被许可人的陈述。另外22份申请将于2月13日提交。最后14份申请必须等到3月12日。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纳斯达克联席总裁：纳斯达克看到机构对加密货币的兴趣减弱]]></title>
-        <id>https://www.hellobtc.com/news/202312/21486.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21486.html"/>
-        <updated>2023-12-13T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[纳斯达克联席总裁科恩：纳斯达克看到机构对加密货币的兴趣减弱。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase国际：OP-PERP、ARB-PERP和ETC-PERP市场将进入post-only模式]]></title>
-        <id>https://www.hellobtc.com/news/202312/21485.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21485.html"/>
-        <updated>2023-12-13T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Coinbase国际（Coinbase International Exchange）在X平台宣布，OP-PERP、ARB-PERP和ETC-PERP市场现在将在Coinbase International Exchange上进入post-only模式。客户可以发布和取消限价订单，但不会有匹配（完成订单）。市场将进入post-only模式至少1分钟。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度特伦甘纳邦政府与Polygon Labs等机构合作推出资产代币化指技术指南]]></title>
-        <id>https://www.hellobtc.com/news/202312/21484.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21484.html"/>
-        <updated>2023-12-13T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[12月13日消息，印度特伦甘纳邦政府宣布与Polygon Labs、C-DAC、Ryze Labs等机构合作，推出资产代币化技术指南，该指南适用于希望参与资产代币化的初创企业和组织。特伦甘纳邦政府是印度特伦甘纳邦的执政机构，经济体排名印度第九，人口约为4000万。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港理工大与中国商飞展开基于区块链的数字飞机技术的传输合作]]></title>
-        <id>https://www.hellobtc.com/news/202312/21483.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21483.html"/>
-        <updated>2023-12-13T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[香港理工大学航空及民航工程学系助理教授钟思阳接受《大公报》最新访问时表示，C919及ARJ21实体客机首次来港展示，为内地科研机构与香港高校人才合作带来新契机。钟思阳透露，香港理工大学与中国商用飞机已于今年3月签署合作备忘录，聚焦人工智能、大数据等领域，目前团队及中国商飞已经在基于区块链的数字飞机技术的传输，以及基于自主学习技术的在线质量评估等方面展开合作。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
