@@ -113,6 +113,16 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/oqqtpi41.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，据官方消息，IOST 链上首个铭文项目IOSI即将在北京时间12月15日01:00前启动铸造。届时，官方平台将正式公布启动铸造的IOST区块高度，以及官网、 Github等相关链接。\n此外，行情显示，IOST今日短时突破0.014美元，现报0.0127美元，24小时涨幅达20.95%。",
+          "link": "https://panewslab.com/zh/articledetails/oqqtpi41.html",
+          "publishedOn": "2023-12-14T15:54:55.000Z",
+          "wordCount": 347,
+          "title": "IOST链上首个铭文项目IOSI即将启动铸造",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/yooru08m.html",
           "author": "PA一线",
           "description": "PANews 12月14日消息，LayerZero在官方博客文章中表示，LayerZero V2今天已在40多个测试网上部署并发布了V2技术白皮书。LayerZero V2 引入了包括去中心化验证网络（DVN）、适配器、X of Y of N模块化验证、无许可执行、安全堆栈、提高吞吐量、增强可编程性、统一语义、V1兼容性的升级。此外，主网预计于2024年1月启动。此次启动将包括V1支持的每个链上的V2端点。所有Omnichain合约标准——OApp、OFT和ONFT——将在主网启动时提供。",
@@ -301,16 +311,6 @@
           "wordCount": 354,
           "title": "Aava创始人：Aava Interface暂未受影响，Ledger澄清之前暂勿使用dApp",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/mrgqxz7j.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，跨链DEX项目Kyber Network在X平台发文表示，出于谨慎考虑，其已禁用前端UI，直到情况明确为止。\n此前消息，目前一个Web3项目常用的代码库（LedgerHQ的connect-kit）已被攻击，允许注入影响众多dApp的恶意代码。请用户切勿与任何dApp交互。",
-          "link": "https://panewslab.com/zh/articledetails/mrgqxz7j.html",
-          "publishedOn": "2023-12-14T13:11:19.000Z",
-          "wordCount": 356,
-          "title": "Kyber Network：出于谨慎考虑已禁用前端UI",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -319,6 +319,26 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202312/21499.html",
+          "author": null,
+          "description": "MetaMask在X平台表示，最近的黑客攻击影响所有用户，而不仅仅是Ledger用户。我们已经部署了 MetaMask Portfolio 的修复程序。最新版本v2.121.0的用户将能够再次进行交易并且将自动更新。如果用户使用的不是此版本，请刷新网站数据。",
+          "link": "https://www.hellobtc.com/news/202312/21499.html",
+          "publishedOn": "2023-12-14T15:36:00.000Z",
+          "wordCount": 313,
+          "title": "MetaMask：已部署MetaMask Portfolio修复程序，将自动更新",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202312/21498.html",
+          "author": null,
+          "description": "Tether首席执行官 Paolo Ardoino 在X平台发文表示，Tether已冻结了 Ledger 漏洞利用者的地址。",
+          "link": "https://www.hellobtc.com/news/202312/21498.html",
+          "publishedOn": "2023-12-14T15:36:00.000Z",
+          "wordCount": 313,
+          "title": "Tether已冻结Ledger漏洞利用者地址",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202312/21497.html",
           "author": null,
@@ -397,26 +417,6 @@
           "publishedOn": "2023-12-14T03:21:00.000Z",
           "wordCount": 325,
           "title": "白话区块链早报：比特币网络NFT销售额近24小时、7天和30天排名均位列第一",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202312/21489.html",
-          "author": null,
-          "description": "12月13日消息，上交所近日已向科创板上市公司“山大地纬”下发有关事项的监管工作函。根据山大地纬近期频繁发布的临时公告，此事或涉及山大地纬与中国建筑一局（集团）有限公司的工程款纠纷。目前该公司银行账户（一般户）及募集资金专用账户资金被部分冻结，冻结金额合计9950万元。 山大地纬是一家在上海证券交易所科创板上市的“AI+区块链”科技服务商，于今年三月发布联盟区块链“大纬链（DareChain）”白皮书，该公司旗下还提供区块链数字保险箱、资产化平台、区块链追溯监管和区块链开放服务。",
-          "link": "https://www.hellobtc.com/news/202312/21489.html",
-          "publishedOn": "2023-12-13T12:41:00.000Z",
-          "wordCount": 305,
-          "title": "上交所向AI+区块链上市公司“山大地纬”下发监管工作函，近亿元资金被冻结",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202312/21488.html",
-          "author": null,
-          "description": "12月13日消息，巴西数字银行Nubank表示，应用户需求，将从明年开始允许平台用户从其银行应用程序“进行加密货币提款”。 此前消息，Circle宣布与Nubank达成合作，以扩大USDC的使用范围。Nubank Cripto将支持USDC，为其巴西用户提供购买和持有数字美元的渠道。",
-          "link": "https://www.hellobtc.com/news/202312/21488.html",
-          "publishedOn": "2023-12-13T12:40:00.000Z",
-          "wordCount": 310,
-          "title": "巴西数字银行Nubank计划明年支持加密货币提款",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
