@@ -113,12 +113,152 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/yooru08m.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，LayerZero在官方博客文章中表示，LayerZero V2今天已在40多个测试网上部署并发布了V2技术白皮书。LayerZero V2 引入了包括去中心化验证网络（DVN）、适配器、X of Y of N模块化验证、无许可执行、安全堆栈、提高吞吐量、增强可编程性、统一语义、V1兼容性的升级。此外，主网预计于2024年1月启动。此次启动将包括V1支持的每个链上的V2端点。所有Omnichain合约标准——OApp、OFT和ONFT——将在主网启动时提供。",
+          "link": "https://panewslab.com/zh/articledetails/yooru08m.html",
+          "publishedOn": "2023-12-14T15:36:50.000Z",
+          "wordCount": 357,
+          "title": "LayerZero发布V2版本简介，主网预计于明年1月启动",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/07s7jn4h.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，据Lookonchain监测，今天WOO的价格上涨了30%以上。某巨鲸在25分钟前从币安提取了1124万枚WOO（约合420万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/07s7jn4h.html",
+          "publishedOn": "2023-12-14T15:29:13.000Z",
+          "wordCount": 325,
+          "title": "某巨鲸从币安提取1124万枚WOO，约合420万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jj8mlmvr.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，针对Ledger Connect Kit漏洞，MetaMask表示已经部署了MetaMask Portfolio的修复程序。最新版本v2.121.0的用户将能够再次进行交易并且将自动更新。如果您使用的不是此版本，请刷新您的网站数据。",
+          "link": "https://panewslab.com/zh/articledetails/jj8mlmvr.html",
+          "publishedOn": "2023-12-14T15:21:16.000Z",
+          "wordCount": 342,
+          "title": "MetaMask：已部署针对Ledger漏洞的修复程序",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/gzhp1t30.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，Tether首席执行官Paolo Ardoino在X平台上表示，Tether刚刚冻结了Ledger漏洞利用者的地址。",
+          "link": "https://panewslab.com/zh/articledetails/gzhp1t30.html",
+          "publishedOn": "2023-12-14T15:10:36.000Z",
+          "wordCount": 333,
+          "title": "Tether已冻结Ledger漏洞利用者的地址",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c99w4yc3.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，区块链数据分析公司币追Bitrace发帖称，警惕恐慌之下的假钱包盗币风险。Bitrace刚刚收到报告，有两名受害人在Ledger遭供应链攻击事件披露后，出于恐慌试图将资产转入新地址但下载了假钱包APP，导致总计9.7枚ETH与超过60000枚USDT被盗取。",
+          "link": "https://panewslab.com/zh/articledetails/c99w4yc3.html",
+          "publishedOn": "2023-12-14T15:01:23.000Z",
+          "wordCount": 342,
+          "title": "Bitrace：警惕Ledger攻击事件恐慌下的假钱包盗币风险",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/p8isch1g.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，Sushi发布安全更新，称问题已解决，已成功从其网站中删除了受损的Ledger Connect，并恢复了全部功能。网站现已重新上线，并提醒用户务必不要与不确定安全性的DApp交互。",
+          "link": "https://panewslab.com/zh/articledetails/p8isch1g.html",
+          "publishedOn": "2023-12-14T14:57:16.000Z",
+          "wordCount": 348,
+          "title": "Sushi：已删除受损Ledger Connect，网站已重新上线",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/nvbagv0p.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，Scope Protocol联创0xSentry在X平台称，攻击者留下的数字痕迹中涉及@JunichiSugiura（Jun，Ledger前员工）的Gmail账户，后者的帐户可能已被泄露。\n有开发者表示，一种可能的情况是，Jun的github帐户已经泄露，并且Ledger在他离开后忘记删除他的访问权限了。",
+          "link": "https://panewslab.com/zh/articledetails/nvbagv0p.html",
+          "publishedOn": "2023-12-14T14:54:50.000Z",
+          "wordCount": 351,
+          "title": "Ledger代码库攻击事件或与前员工的Gmail/Github账户被泄漏有关",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6og0e16h.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，据Lookonchain监测，Ledger Connect Kit漏洞黑客已窃取了约48.4万美元的资产。Ledger攻击者将4.334枚ETH转移到Angel Drainer。AngelDrainer目前也在接收资产并持有36.3万美元的资产。\n此前慢雾创始人余弦强调，Ledger钱包本身没影响，受影响的是依赖Ledger这个模块的一些DApp。",
+          "link": "https://panewslab.com/zh/articledetails/6og0e16h.html",
+          "publishedOn": "2023-12-14T14:49:05.000Z",
+          "wordCount": 349,
+          "title": "黑客已利用Ledger Connect Kit漏洞窃取约48.4万美元的资产",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6g746t3m.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，彭博分析师James Seyffart在X平台上表示，Valkyrie今天提交了新修订的比特币现货ETF招股说明书（S-1文件）。他们加入Bitwise和Invesco的行列，声明创建和赎回只能以现金进行。与Invesco一样，这份文件特别表示，如果/在允许的情况下，他们希望在未来使用实物。",
+          "link": "https://panewslab.com/zh/articledetails/6g746t3m.html",
+          "publishedOn": "2023-12-14T14:41:54.000Z",
+          "wordCount": 348,
+          "title": "Valkyrie提交新修订的比特币现货ETF招股说明书，声明创建和赎回只能以现金进行",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/iy7rj066.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，据TechCrunch报道，比特币和现金返利平台Lolli完成800万美元B轮融资，BITKRAFT Ventures领投，Sfermion、Ulta Beauty的Prisma Ventures、Hypersphere Ventures、ZebPay的首席执行官Rahul Pagidipati、2 Punks Capital、MZ Web3 Fund、Seven Seven Six、Founders Fund的Pathfinder Ventures、Bain Capital Ventures、Serena Williams 的 Serena Ventures、Logan Paul和MrBeast的Night Media等参投。新资金将用于向交易所、新银行、银行、支付公司和浏览器等企业合作伙伴推出Lolli的奖励计划。到目前为止，Lolli已经筹集了超过2800万美元。\n据悉，自2018年推出以来，Lolli应用目前与2.5万多家商店合作。该公司的奖励计划是，当用户在网上或亲自到餐馆和商店购物时，可以获得比特币或现金返还。Lolli自成立以来已提供了超过1000万美元的比特币奖励以及现金返还奖励。去年，该公司推出了Card boost，允许用户在购物时将比特币奖励添加到借记卡或信用卡中。",
+          "link": "https://panewslab.com/zh/articledetails/iy7rj066.html",
+          "publishedOn": "2023-12-14T14:33:18.000Z",
+          "wordCount": 397,
+          "title": "比特币和现金返利平台Lolli完成800万美元B轮融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1ab92eu9.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，据Chainwire报道，NFT永续合约交易平台nftperp宣布完成总额为300万美元的A轮融资, 1kx领投，Maven 11和Mechanism Capital等投资者，以及Spencer Ventures的Spencer和Gmoney、MetaStreet的 David Choi、Upshot的Nick Emmons、NFTfi的Jonathan Gabler等天使投资人参投。此外，nftperp还宣布，其v2 版本即将推出，承诺将带来更多创新功能和增强功能。\n据悉，nftperp是一项NFT永续协议，系为所有Web3用户创建的开源DeFi协议。其目标是创建一个全面的产品生态系统，推动NFT的金融化，其核心产品是去中心化的永续期货交易所。",
+          "link": "https://panewslab.com/zh/articledetails/1ab92eu9.html",
+          "publishedOn": "2023-12-14T14:10:50.000Z",
+          "wordCount": 359,
+          "title": "NFT永续合约交易平台nftperp完成300万美元A轮融资，1kx领投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1a10moay.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，据CoinDesk报道，NFT初创公司Metagood完成500万美元种子轮融资，Sora Ventures领投，ACTAI Ventures、Bitcoin Frontier Fund、Bitcoin Magazine Fund、London Real Ventures和Peach.xyz参投，新资金将资助其Osura的新技术和产品开发及营销，并促进与艺术家的合作。\n据悉，Metagood是一家推出创新OnChainMonkey NFT和Osura市场的区块链技术和数字资产公司。此前去年12月消息，Metagood完成500万美元Pre种子轮融资，Animoca Brands等参投。",
+          "link": "https://panewslab.com/zh/articledetails/1a10moay.html",
+          "publishedOn": "2023-12-14T14:05:13.000Z",
+          "wordCount": 363,
+          "title": "NFT初创公司Metagood完成500万美元种子轮融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9wbq13l8.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，MetaMask在X平台就Ledger Connect漏洞发布提醒：用户在MetaMask Portfolio上执行任何交易之前，请确保已在MetaMask扩展中启用Blockaid功能。MetaMask Portfolio团队正在着手解决这个问题，并且已经准备好了一个补丁，将于今天发布。",
+          "link": "https://panewslab.com/zh/articledetails/9wbq13l8.html",
+          "publishedOn": "2023-12-14T13:59:00.000Z",
+          "wordCount": 342,
+          "title": "MetaMask：交易前请确保启用Blockaid功能，今天将发布Ledger相关漏洞补丁",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vj5cau46.html",
+          "author": "PA一线",
+          "description": "PANews 12月14日消息，2023年12月14日8:33 PM慢雾安全威胁情报发现@ledgerhq/connect-kit遭受供应链攻击，攻击者在@ledgerhq/connect-kit >1.1.4的版本中植入了恶意的JS代码从而对加密货币用户发起钓鱼攻击。使用@ledgerhq/connect-kit版本 >1.1.4 的Dapp均受到影响，请注意排查代码中是否有使用到如下受影响版本。\n影响版本范围：\n@ledgerhq/connect-kit 1.1.5 (攻击者在代码中进行留言)\n@ledgerhq/connect-kit 1.1.6 (攻击者在代码中进行留言并植入恶意的JS代码)\n@ledgerhq/connect-kit 1.1.7 (攻击者在代码中进行留言并植入恶意的JS代码)\n慢雾安全团队建议，在没有官方明确修复前，请谨慎使用DApp进行交互操作。",
+          "link": "https://panewslab.com/zh/articledetails/vj5cau46.html",
+          "publishedOn": "2023-12-14T13:47:59.000Z",
+          "wordCount": 376,
+          "title": "慢雾：使用Ledger Connect Kit 1.1.4以上版本的Dapp均受到影响，请注意排查",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/wsqp2b7y.html",
           "author": "PA一线",
           "description": "PANews 12月14日消息，Ledger官方发帖称，已经识别并删除了Ledger Connect Kit的恶意版本。现在正推送一个正版版本来替换恶意文件。暂时不要与任何dApp交互。将随时向大众通报情况。用户Ledger设备和Ledger Live没有受到损害。\n此前消息，目前一个Web3项目常用的代码库（LedgerHQ的connect-kit）已被攻击，允许注入影响众多dApp的恶意代码。请用户切勿与任何dApp交互。",
           "link": "https://panewslab.com/zh/articledetails/wsqp2b7y.html",
           "publishedOn": "2023-12-14T13:37:27.000Z",
-          "wordCount": 359,
+          "wordCount": 361,
           "title": "Ledger：已识别并删除Ledger Connect Kit恶意版本，暂勿与任何dApp交互",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +268,7 @@
           "description": "PANews 12月14日消息，据官方消息，BTC生态稳定币协议bitSmiley宣布完成首轮融资，由OKX Ventures、ABCDE联合领投，具体金额未披露。\n据悉，该协议可让用户在BTC网络超额抵押原生BTC铸造稳定币bitUSD。同时，bitSmiley还囊括了借贷及衍生品协议，旨在为比特币提供一个全新的金融生态系统。此前，bitSmiley入选了今年11月由ABCDE和OKX Ventures联合举办的BTC黑客松的优质项目。",
           "link": "https://panewslab.com/zh/articledetails/hd9hhpxi.html",
           "publishedOn": "2023-12-14T13:31:06.000Z",
-          "wordCount": 334,
+          "wordCount": 336,
           "title": "BTC生态稳定币协议bitSmiley完成首轮融资，OKX Ventures和ABCDE联合领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +278,7 @@
           "description": "PANews 12月14日消息，慢雾创始人余弦在X平台发文表示：“Ledger的一个模块被供应链劫持篡改了，特别注意下这个风险，主要是不知道影响面多广，可能不少DApp都有依赖Ledger被投毒的库ledgerhq/connect-kit。大家警惕下所有DApp相关操作，注意钱包待签名的请求信息是不是预期内的。\n此前消息，目前一个Web3项目常用的代码库（LedgerHQ的connect-kit）已被攻击，允许注入影响众多dApp的恶意代码。请用户切勿与任何dApp交互。",
           "link": "https://panewslab.com/zh/articledetails/7ui7qt9u.html",
           "publishedOn": "2023-12-14T13:22:36.000Z",
-          "wordCount": 339,
+          "wordCount": 341,
           "title": "慢雾：不少DApp依赖Ledger被投毒的库，请警惕所有DApp相关操作",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +288,7 @@
           "description": "PANews 12月14日消息，Revoke.cash于X平台发文表示：“与Ledger ConnectKit库集成的多个常用加密应用程序（包括Revoke.cash）已受到损害。在进一步调查过程中，我们暂时关闭了该网站。我们建议在该漏洞利用期间不要使用任何加密网站。”\n此前消息，目前一个Web3项目常用的代码库（LedgerHQ的connect-kit）已被攻击，允许注入影响众多dApp的恶意代码。请用户切勿与任何dApp交互。",
           "link": "https://panewslab.com/zh/articledetails/itz7chfu.html",
           "publishedOn": "2023-12-14T13:18:20.000Z",
-          "wordCount": 335,
+          "wordCount": 337,
           "title": "Revoke.cash确认遭受Ledger事故影响并暂时关闭网站",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +298,7 @@
           "description": "PANews 12月14日消息，Aava创始人Stani在X平台就此前Sushi CTO发布的警告表示，Aava上的Interface（接口）暂未受影响，所有资金安全。在Ledger进一步澄清之前，暂时不要使用dApp。\n此前消息，目前一个Web3项目常用的代码库（LedgerHQ的connect-kit）已被攻击，允许注入影响众多dApp的恶意代码。请用户切勿与任何dApp交互。",
           "link": "https://panewslab.com/zh/articledetails/291c9078.html",
           "publishedOn": "2023-12-14T13:16:00.000Z",
-          "wordCount": 350,
+          "wordCount": 352,
           "title": "Aava创始人：Aava Interface暂未受影响，Ledger澄清之前暂勿使用dApp",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,148 +308,8 @@
           "description": "PANews 12月14日消息，跨链DEX项目Kyber Network在X平台发文表示，出于谨慎考虑，其已禁用前端UI，直到情况明确为止。\n此前消息，目前一个Web3项目常用的代码库（LedgerHQ的connect-kit）已被攻击，允许注入影响众多dApp的恶意代码。请用户切勿与任何dApp交互。",
           "link": "https://panewslab.com/zh/articledetails/mrgqxz7j.html",
           "publishedOn": "2023-12-14T13:11:19.000Z",
-          "wordCount": 352,
+          "wordCount": 354,
           "title": "Kyber Network：出于谨慎考虑已禁用前端UI",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/xj1ea6oj.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，据CoinDesk报道，由德意志银行 (DBK) 支持的瑞士加密货币托管公司Taurus与专注于德国中小企业市场的金融科技贷款平台Teylor就贷款代币化达成合作，Teylor的信用投资组合代币的结构由Allen and Overy律师事务所监管，可在Taurus的TDX市场进行二级市场交易。\nTaurus联合创始人Lamine Brahimi表示，代币化过程涉及卢森堡的投资工具，符合瑞士和欧洲法规。Brahimi在接受采访时补充道，针对德国中小企业市场的代币化债务产品将在未来两周内获得一些机构投资者的“里程碑式”投资。Brahimi介绍称：“TDX市场是Taurus除了托管之外的其他业务，目前已经做了20多笔交易，其中包括代币化股权、债务、结构性产品和艺术品。就名义价值而言，迄今为止已超过10亿美元。”",
-          "link": "https://panewslab.com/zh/articledetails/xj1ea6oj.html",
-          "publishedOn": "2023-12-14T13:07:37.000Z",
-          "wordCount": 356,
-          "title": "加密货币托管公司Taurus开始对德国中小企业贷款进行代币化",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/lpdbc61s.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，慢雾首席信息安全官23pds转发X账号@g4sarah发布的帖子，该帖子称DeFi资管协议Zapper的前端疑似被劫持。\n此外，派盾表示，Sushi前端也已被入侵。早些时候消息，Sushi CTO警告称，切勿与任何dApp交互，且Ledger疑似存在可疑代码。",
-          "link": "https://panewslab.com/zh/articledetails/lpdbc61s.html",
-          "publishedOn": "2023-12-14T12:53:15.000Z",
-          "wordCount": 346,
-          "title": "DeFi资管协议Zapper的前端疑似被劫持",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/y0jlqrhf.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，Sushi首席技术官Matthew Lilley在X平台上发布警告称：请用户切勿与任何dApp交互，直至另行通知。一个常用的Web3 connector（某JavaScript库，是web3-react项目的一部分）疑似已被破坏，允许注入影响众多dApp的恶意代码。随后，Lilley在评论中表示Ledger可能存在可疑代码。",
-          "link": "https://panewslab.com/zh/articledetails/y0jlqrhf.html",
-          "publishedOn": "2023-12-14T12:50:01.000Z",
-          "wordCount": 347,
-          "title": "Sushi CTO警告：切勿与任何dApp交互，且Ledger疑似存在可疑代码",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/30ywvb6o.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，据美通社报道，去中心化物理基础设施网络(DePIN) Hivello宣布完成100万美元Pre-Seed轮融资，NGC、Blockchain Founders Fund、Side Door Ventures、IDG、Bing Ventures、MEXC Exchange、XT.com Exchange、Genesis Block和NxGen等参投。\n据悉，DePIN是指利用区块链技术和代币激励来构建物理基础设施网络，这样其他项目就不需要承担购买和运行自己的设备的成本。根据新闻稿， Hivello准备在今年圣诞节推出其技术，预计未来12个月内将集成100个DePIN。",
-          "link": "https://panewslab.com/zh/articledetails/30ywvb6o.html",
-          "publishedOn": "2023-12-14T12:46:18.000Z",
-          "wordCount": 359,
-          "title": "去中心化物理基础设施网络Hivello完成100万美元Pre-Seed轮融资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zss5l469.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，治理页面显示，Aave社区已通过“将治理系统从V2.5升级至V3版本”提案的链上投票，支持率为100%，执行将在7天内执行。",
-          "link": "https://panewslab.com/zh/articledetails/zss5l469.html",
-          "publishedOn": "2023-12-14T12:25:19.000Z",
-          "wordCount": 335,
-          "title": "Aave社区通过“将治理系统升级至V3版本”提案的链上投票",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4uw40h2m.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，Coingecko数据显示，ORDI代币现报60.84美元，24小时涨幅达26.5%。",
-          "link": "https://panewslab.com/zh/articledetails/4uw40h2m.html",
-          "publishedOn": "2023-12-14T11:45:16.000Z",
-          "wordCount": 324,
-          "title": "ORDI代币现报60.84美元，24小时涨幅达26.5%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/i9twg71h.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，Rune Alpha数据显示，代币PSBTS于区块高度821141铸造完毕，历时188个区块，总量达3.492亿枚。",
-          "link": "https://panewslab.com/zh/articledetails/i9twg71h.html",
-          "publishedOn": "2023-12-14T11:40:23.000Z",
-          "wordCount": 341,
-          "title": "Rune Alpha上PSBTS铸造已结束，总量约3.5亿枚",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qrop1w95.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，据CoinPost报道，日本自民党今日公布了2024年《税制改革大纲》。该文件明确提出对发行者以外的第三方法人所持有的加密资产，在一定条件下，将其纳入“期末市值评估课税”对象之外；即如果公司达到所持加密资产并非出于短期交易目的等条件，则这部分资产不必在期末时缴税。这是日本加密资产商业协会（JCBA）在今年7月向政府提交的2024年税制改革请求中提出的要点之一。这将创造一个有利于推广Web3的环境，并有望鼓励利用区块链技术的初创企业。",
-          "link": "https://panewslab.com/zh/articledetails/qrop1w95.html",
-          "publishedOn": "2023-12-14T11:33:28.000Z",
-          "wordCount": 337,
-          "title": "日本拟将部分第三方法人所持加密资产排除在评估市值定期征税对象之外",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cpglsqv2.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，Coinbase国际交易平台刚刚宣布，BTC-USD和ETH-USDC市场现已在Coinbase International Exchange上处于全面交易模式。限价、市价、止损和止损限价订单现已全部可用。\n此前昨日消息，Coinbase将在美国境外提供现货加密货币交易以拓展全球市场。",
-          "link": "https://panewslab.com/zh/articledetails/cpglsqv2.html",
-          "publishedOn": "2023-12-14T11:06:16.000Z",
-          "wordCount": 348,
-          "title": "Coinbase国际交易平台已正式上线BTC-USDC和ETH-USDC市场",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2uoyrdm2.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，Shiba Inu犬种主题项目Floki发帖称，Floki质押计划通过实施短期和长期通货紧缩措施的组合，在使FLOKI代币通缩方面发挥重要作用。该计划的运作方式如下：\n1.锁定期：质押计划引入了最短3个月的锁定期和最长4年的锁定期。这种延长的锁定期鼓励用户承诺更长的持续时间。2.质押层级和乘数：实施质押层级和乘数是为了激励更长的锁定期，例如，选择质押4年的用户可以获得比选择较短3个月锁定期的用户高出近四倍的奖励。3.罚金：为了防止过早退出，对最初参与的原始FLOKI代币征收5%至20%的罚款，这笔罚款将自动扣除；用户质押的时间越长，罚款就越高，这对早期退出产生了强烈的抑制作用。3个月计划的提前退出费用为5%，12个月计划的提前退出费用为10%，24个月计划的提前退出费用为15%，48个月计划的提前退出费用为20%。\n此前10月消息，FLOKI宣布推出其加密货币和资产代币化平台TokenFi（TOKEN），Floki质押者将在四年内获得56%的供应量作为奖励。",
-          "link": "https://panewslab.com/zh/articledetails/2uoyrdm2.html",
-          "publishedOn": "2023-12-14T11:00:59.000Z",
-          "wordCount": 338,
-          "title": "Floki：质押计划与短长期通缩措施的组合有利于FLOKI代币通缩",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/6j33efdj.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，据CoinDesk报道，在周四发布的一份咨询文件中，巴塞尔银行监管委员会(BCBS)提议修订标准，允许稳定币被视为风险低于比特币(BTC)等无担保加密货币。上周曾报道过BCBS正考虑修改其稳定币的分类标准，而周四公布的征求意见稿详细列出了修订建议。\n到目前为止，标准制定者对加密货币采取了强硬立场，建议比特币等自由浮动数字资产的最大风险权重为1250%，这意味着银行必须发行资本以匹配其风险敞口。银行也不允许将其核心资本的2%以上分配给这些风险较高的资产。BCBS在一份声明中表示，不会对这些标准做出任何改变。\n然而，具有“有效稳定机制”的加密货币有资格获得“1b组优惠监管待遇”。这意味着稳定币可以受到“现有巴塞尔框架中规定的基于潜在风险权重的资本要求”的约束，而不是对比特币等设定的更严格的要求。目前，稳定币必须“随时可兑换”，才有资格获得这种优惠监管待遇。BCBS表示，这确保了“只有由拥有强大赎回权和治理的受监管实体发行的稳定币才有资格纳入”。",
-          "link": "https://panewslab.com/zh/articledetails/6j33efdj.html",
-          "publishedOn": "2023-12-14T10:21:14.000Z",
-          "wordCount": 329,
-          "title": "巴塞尔银行监管委员会提议修订标准，给予稳定币优惠监管待遇",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/k71zgx15.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，据Cointelegraph报道，菲律宾证券交易委员会主席Kelvin Lee在12月13日的一个小组中澄清，对币安的禁令将在该咨询发布三个月后生效。据悉，该禁令是在11月29日发布。Lee表示，最初的建议是一个月，甚至是“一周的过渡期”，但由于圣诞节假期，他决定将生效日期延长至更长的时间，从而让菲律宾投资不要在那时间段为难。\n除了币安之外，另外两家交易所OctaFX和MiTrade最近收到该监管机构对其的未注册业务的警告，三个月后也面临禁令。当地证券交易委员会表示，它有一个“相当大”的未注册交易所名单，这些名单将逐渐发布。然而，在看到针对币安采取的行动后，他们也试图对交易所是否会注册采取“观望”态度。\n此前11月30日消息，菲律宾监管机构采取行动阻止对币安平台的访问。",
-          "link": "https://panewslab.com/zh/articledetails/k71zgx15.html",
-          "publishedOn": "2023-12-14T10:00:29.000Z",
-          "wordCount": 331,
-          "title": "菲律宾SEC：对币安的禁令将在咨询发布三个月后生效",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cig1ybcj.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，DWF Labs联合创始人Andrei Grachev发帖称：“DWF Labs正在为大型生态系统和layer 1/2再构建2个MM(做市商)产品。我们的目标是赢得市场上四分之三的交易并提供更多的资助和风险投资。还有另外3个秘密项目。”\n相关阅读：揭秘DWF Labs“发家史”：成立16个月投资470个项目，依靠拉盘吸引客户",
-          "link": "https://panewslab.com/zh/articledetails/cig1ybcj.html",
-          "publishedOn": "2023-12-14T09:22:16.000Z",
-          "wordCount": 365,
-          "title": "DWF Labs联创：正为大型生态系统和L1/L2再构建2个做市商产品，还有另外3个秘密项目",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7hrlhl2s.html",
-          "author": "PA一线",
-          "description": "PANews 12月14日消息，据CoinDesk报道，Cronos区块链开发商Cronos Labs周四宣布推出新的Layer 2网络“Cronos zkEVM chain”，该链最初作为测试网络推出，基于Matter Labs的软件工具，可用于在以太坊之上启动新的Layer 2和Layer 3 “hyperchains”。\n该测试网由主要由Matter Labs开发的zkSync的ZK Stack软件套件提供支持，将为Cronos现有的生态系统添加一条新链，该生态系统目前由Cronos EVM链和Cronos PoS链组成。据其网站称，加密交易所Crypto.com是Cronos Labs的合作伙伴，为PoS链的源代码做出了贡献。这是第一个使用Matter Labs的ZK Stack的公共测试网。Cronos zkEVM主网计划于在2024年第二季度上线。",
-          "link": "https://panewslab.com/zh/articledetails/7hrlhl2s.html",
-          "publishedOn": "2023-12-14T09:11:35.000Z",
-          "wordCount": 379,
-          "title": "Crypto.com合作伙伴Cronos将与Matter Labs合作启动Layer 2网络",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -325,7 +325,7 @@
           "description": "MetaMask在社交媒体上表示，已发现对Ledger Connect Kit的攻击，请停止使用dapp。用户在MetaMask Portfolio上执行任何交易之前，请确保已在MetaMask Extension中启用Blockaid功能，MetaMask Portfolio团队正在着手解决这个问题，并且已经准备好了一个补丁，将于今天发布。",
           "link": "https://www.hellobtc.com/news/202312/21497.html",
           "publishedOn": "2023-12-14T14:11:00.000Z",
-          "wordCount": 325,
+          "wordCount": 320,
           "title": "MetaMask：已发现对Ledger Connect Kit的攻击，请停止使用dapp",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
