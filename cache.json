@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=98087",
+          "author": "Gao",
+          "description": "在以太坊主网上，用户提交交易到 Mempool，由 Searcher 搜集交易广播出去最终由矿工 Builder 按 GAS 高低排序完成打包出块。这意味着，你提交的交易可能被 MEV，且需要遵循 Nounce 排队机制，付出的 Gas 是 EVM 执行操作所需的费用，结果导致在主网上发交易又贵、又慢还容易被夹。",
+          "link": "https://www.web3sj.com/news/98087/",
+          "publishedOn": "2023-12-15T09:01:53.000Z",
+          "wordCount": 1032,
+          "title": "L2排序器去中心化之路为何停滞不前？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702630895390.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=98077",
+          "author": "Gao",
+          "description": "在回顾市场表现前先说结论：巨额代币解锁对于代币币价确实存在直接影响，不过解锁份额中的具体分配细节至关重要，如果大额解锁中投资机构等「资本方」的占比较高，那么解锁后会出现明显的价格承压下跌的状况。而如若解锁的大量代币属于社区等「用户方」，那么解锁所带来的「负面影响」会明显较小。",
+          "link": "https://www.web3sj.com/news/98077/",
+          "publishedOn": "2023-12-15T08:51:33.000Z",
+          "wordCount": 1196,
+          "title": "以DYDX为例，大额解锁会对代币价格产生巨大负面影响吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702630262587.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=98045",
           "author": "Gao",
           "description": "在上个牛市中，如 Solana、Avalanche、Fantom 和 Polygon 等 L1 的表现，在价格拉升方面非常出色。有人可能会认为，这种基础设施的主导地位是一个行业仍处于初期阶段的特征。",
           "link": "https://www.web3sj.com/news/98045/",
           "publishedOn": "2023-12-15T05:14:07.000Z",
-          "wordCount": 1328,
+          "wordCount": 1322,
           "title": "热门L1表现对比：Solana之外，哪些生态还有增长空间？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702617213839.png"
         },
@@ -21,7 +41,7 @@
           "description": "原理简单意味着即使不了解区块链行业的圈外人也能很快接受，所以传播起来也比原理复杂的项目更加容易。我们在一些区块链媒体进行「出圈」二字的搜索时，出现的相关赛道最多的是 NFT 和链游。像链游这种原本 Web2 或 TradFi 有的事物，圈外人理解和接受起来的也更容易。",
           "link": "https://www.web3sj.com/news/98042/",
           "publishedOn": "2023-12-15T03:56:32.000Z",
-          "wordCount": 946,
+          "wordCount": 936,
           "title": "对号入座，火爆出圈的赛道都具备哪些要素？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702612548231.png"
         },
@@ -31,7 +51,7 @@
           "description": "本周星期二，币安上线了第二个 BRC20（铭文）代币——SATS，整个 BRC20 生态再次激发活力，为 BRC20 代币的进一步发展和市场表现带来了积极的信号。币安的联合创始人何一也在直播中表示：「坦白来说，在每个方面我们都还有提升的空间。具体来说，我们在产品研发方面有专门的团队负责迭代，比如大家经常提到的 Web3 钱包的问题。我们之前对于某些领域的投入确实不够，但我们会根据用户需求持续优化和改进。」",
           "link": "https://www.web3sj.com/project/98037/",
           "publishedOn": "2023-12-15T03:32:59.000Z",
-          "wordCount": 1268,
+          "wordCount": 1293,
           "title": "比特币BRC-20：新手终极指南",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702611161734.png"
         },
@@ -41,7 +61,7 @@
           "description": "比特币强劲的上涨趋势在本周遇到阻力，突破至 4.45 万美元的年度新高，然后经历 2023 年第三大抛售。一些链上定价模型表明，基于投资者成本基础和网络吞吐量的「公允价值」是滞后的，接下来可能会徘徊在 3 万美元到 3.6 万美元之间。",
           "link": "https://www.web3sj.com/news/98026/",
           "publishedOn": "2023-12-15T03:19:10.000Z",
-          "wordCount": 1115,
+          "wordCount": 1098,
           "title": "Glassnode：比特币上演「往返之旅」，反弹似遇阻力",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702610327110.png"
         },
@@ -51,7 +71,7 @@
           "description": "比特币现货 ETF 获批后一年内，比特币价格将上涨 123%。根据黄金持有量和回报的历史关系，批准后比特币持有量的增加可能会推动价格活动。",
           "link": "https://www.web3sj.com/news/98023/",
           "publishedOn": "2023-12-15T03:12:51.000Z",
-          "wordCount": 1175,
+          "wordCount": 1158,
           "title": "Gemini 2024年加密趋势报告：行业专家谈ETF、减半、AI……",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702609885369.png"
         },
@@ -61,7 +81,7 @@
           "description": "风险投资（Venture Capital，简称 VC）指的是由机构或者个人提供给早期、高潜力、高增长初创公司或项目的一种融资形式。风险投资也可以指参与资助这些早期公司或项目的金融行业。而从事风险投资的组织被称之为风险投资基金或者风险投资公司。",
           "link": "https://www.web3sj.com/news/98019/",
           "publishedOn": "2023-12-15T03:03:37.000Z",
-          "wordCount": 1064,
+          "wordCount": 1057,
           "title": "浅谈风险投资：有哪些常见的参与形式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702609387198.png"
         },
@@ -71,7 +91,7 @@
           "description": "Grayscale Research 分析Grayscale Research 分析了重大供应事件，例如比特币减半以及以太坊的 Merge 和 Shapella 升级，因为这些事件在历史上一直是这些资产供应动态变化的催化剂。我们相信这些事件不仅仅是技术里程碑，而且是转折点，有可能重塑未来的供应，从而重塑市场在定价方面的反应。了重大供应事件，例如比特币减半以及以太坊的 Merge 和 Shapella 升级，因为这些事件在历史上一直是这些资产供应动态变化的催化剂。我们相信这些事件不仅仅是技术里程碑，而且是转折点，有可能重塑未来的供应，从而重塑市场在定价方面的反应。",
           "link": "https://www.web3sj.com/news/98008/",
           "publishedOn": "2023-12-15T02:55:42.000Z",
-          "wordCount": 1042,
+          "wordCount": 1022,
           "title": "灰度：加密货币的供给侧动力学",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702608922470.png"
         },
@@ -81,29 +101,9 @@
           "description": "摩根大通报告：EIP-4844升级将推动以太坊明年表现超越比特币。美国SEC就Hasdex比特币期货ETF的拟议规则更改征求公众评论。Aave社区有关“Aave Governance V3激活”提案已开启投票。",
           "link": "https://www.web3sj.com/news/97990/",
           "publishedOn": "2023-12-14T11:07:55.000Z",
-          "wordCount": 899,
+          "wordCount": 880,
           "title": "Web3世界日报（2023-12.14）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023121411060746.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97978",
-          "author": "Gao",
-          "description": "2023 年，加密行业总体虽然说比较低沉，但在年底的走高趋势让 NFT 的热度似乎也起来了。",
-          "link": "https://www.web3sj.com/nftnews/97978/",
-          "publishedOn": "2023-12-14T07:50:23.000Z",
-          "wordCount": 1145,
-          "title": "NFT领域年终回顾：2023年发生了哪些热门事件？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702540178078.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=97969",
-          "author": "Gao",
-          "description": "繁城之下，Layer 2 光鲜背后却也隐患丛生：一方面，OP 与 ZK 大行其道，开源带来的 Layer 2 技术方案严重同质化问题日趋凸显；另一方面，由于缺乏落地应用场景，Layer 2 项目陷入短暂喧嚣怪圈，用户辗转在不同的 Layer 2 项目中薅羊毛，活动结束，人去楼空。",
-          "link": "https://www.web3sj.com/news/97969/",
-          "publishedOn": "2023-12-14T07:13:04.000Z",
-          "wordCount": 1243,
-          "title": "解读Morph：主打消费场景与技术融合，能否从L2同质化竞争中突围？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702537970927.png"
         }
       ]
     },
@@ -112,6 +112,126 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/5wf5rk8m.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，Whale监测显示，北京时间16:21，87,500,000 枚 USDC (87,491,250 USD) 从未知钱包转移到 Binance。",
+          "link": "https://panewslab.com/zh/articledetails/5wf5rk8m.html",
+          "publishedOn": "2023-12-15T08:28:52.000Z",
+          "wordCount": 360,
+          "title": "数据：8750万枚USDC从未知钱包转移到Binance",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/tsp65ab7.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，据The Block报道，阿布扎比基于Venom Foundation和Iceberg Capital的加密货币基金Venom Ventures自一月份宣布以来，虽然声称拥有10亿美元用于投资Web3初创公司，但至今表现平平。\nVenom Ventures在宣布时曾领投Nümi Metaverse的2000万美元，并在一月份对Layer 1区块链Everscale进行了500万美元的战略投资。然而，自那以后，该基金没有宣布任何新的交易。Venom Ventures官网上关于其投资组合的信息尚未更新。与此基金相关的Venom区块链尚未启动其主网。基金的领导人Peter Knez和Mustafa Kheriba对于该基金的进展未作出回应​​。",
+          "link": "https://panewslab.com/zh/articledetails/tsp65ab7.html",
+          "publishedOn": "2023-12-15T08:25:13.000Z",
+          "wordCount": 380,
+          "title": "加密基金Venom Ventures成立以来仅有两笔投资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/o90szijs.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，据CoinDesk报道，英国国会议员Natalie Elphicke呼吁政府更多地利用区块链技术。Elphicke在伦敦由她主持的全党议会区块链技术小组举办的活动上表示，英国应更多地发掘区块链技术的潜力，比如在全球供应链中提高透明度或用于数字身份和数据用途。\nElphicke强调，英国需要与国际监管机构保持同步发展，并与其他国家在区块链问题上合作。虽然英国表明想成为加密货币中心，但在区块链政策方面尚未取得显著进展。英国计划分阶段对该行业进行监管，首先是明年初引入的稳定币立法。目前尚不清楚英国何时会实施更多区块链政策，尽管最近通过了一项法案，为利用区块链技术处理贸易文件铺平了道路​​。",
+          "link": "https://panewslab.com/zh/articledetails/o90szijs.html",
+          "publishedOn": "2023-12-15T08:04:46.000Z",
+          "wordCount": 356,
+          "title": "英国议员Natalie Elphicke呼吁政府更多地利用区块链技术",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/emsbjn6k.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，Bitget宣布上线新一期 Launchpad 项目TonUP (UP) ，本次参与方式将基于BGB投入模式。Bitget 将在持仓统计阶段内，对用户资产账户进行持仓快照，以统计用户的 BGB平均持仓。在此期问，用户全账户的BGB持仓 （含现货账户持仓、杠杆账户持仓、合约账户持仓、P2P账户持仓、理财账户持仓、冻结/锁仓的BGB）都将被统计在内。在投入阶段，用户投入完成后，BGB 将被锁仓，等待统计分配。\nTonUP (UP) Launchpad 时间表（UTC+8）：\n持仓统计阶段：12月17日14:00-12月20日14:00\n投入阶段：12月20日 17:00 - 12月22日17:00\n公布结果：12月22日 17:00 - 12月22日18:00\nUP 派发：12月22日18:00 - 19:00\nUP/USDT现货交易上线：12月22日 20:00",
+          "link": "https://panewslab.com/zh/articledetails/emsbjn6k.html",
+          "publishedOn": "2023-12-15T07:59:09.000Z",
+          "wordCount": 413,
+          "title": "Bitget上线新一期 Launchpad 项目TonUP (UP) ，本次将基于BGB投入模式",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bhcn5xtq.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，Galaxy研究副总裁Christine Kim发文总结第124次以太坊核心开发者共识(ACDC)电话会议，会议讨论Cancun/Deneb升级和Devnet #12的进展。会议重点包括：Devnet #12更新：所有EL/CL客户端组合，包括Prysm，已接入Devnet #12。大多数客户端组合已启用MEV-Boost。可惩罚消息更新：开发者讨论了Cancun/Deneb升级后可惩罚消息的传播和时序，新增API事件以加快通知。Blobs的流言条件：讨论升级后的流言规则及其对网络健康的影响。网络协议变更：考虑对libp2p进行小改动，以减少大消息的放大等。会议强调了Cancun/Deneb升级的进展和挑战，重点是确保网络健康和效率。",
+          "link": "https://panewslab.com/zh/articledetails/bhcn5xtq.html",
+          "publishedOn": "2023-12-15T07:37:25.000Z",
+          "wordCount": 355,
+          "title": "第124次以太坊ACDC会议：所有EL/CL客户端组合均已接入Devnet #12",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/rkq3jzqm.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，据财联社报道，工业和信息化部等七部门印发《关于加快推进视听电子产业高质量发展的指导意见》。其中提出，支持彩电龙头企业丰富产品矩阵，完善产业链条，开拓海外市场，持续提升生态主导力，引领行业发展。鼓励音箱、耳机、麦克风代工企业发展自有品牌，提升产品附加值和行业影响力。加快培育商用显示、车载视听、音视频领域的专精特新“小巨人”、制造业单项冠军。支持骨干企业做大做强，支持人工智能企业研发视听应用大模型。推动企业建立先进质量管理体系，开展质量管理能力评价，激励企业向卓越质量攀升。",
+          "link": "https://panewslab.com/zh/articledetails/rkq3jzqm.html",
+          "publishedOn": "2023-12-15T07:33:18.000Z",
+          "wordCount": 337,
+          "title": "七部门：支持人工智能企业研发视听应用大模型",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ptkgfnee.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，据tokenlon官方消息，为了响应各地区的监管规章政策，提升服务合规性，并确保链上资金的安全性。Tokenlon 比特币跨链网关服务政策做出调整，停止对个人投资者服务，imBTC 赎回通道将于 2023 年 12 月 31 日 23:59 (UTC+8) 关闭 ，未来将仅针对机构客户服务。此前8月底，tokenlon已停止面向个人投资者的铸币服务。\n此外，为了帮助社区用户将 BTC 代币跨链至以太坊网络，2019 年底，Tokenlon 推出比特币跨链网关服务并上线 imBTC（1:1 锚定 BTC），至今累计服务 4,555 个地址，共计 127,509 笔交易。",
+          "link": "https://panewslab.com/zh/articledetails/ptkgfnee.html",
+          "publishedOn": "2023-12-15T07:23:18.000Z",
+          "wordCount": 393,
+          "title": "Tokenlon的比特币跨链网关将于本月底停止对个人投资者服务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9j0t4mt5.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，Whale监测显示，北京时间14:38，280,065 枚 SOL（21,292,483 美元）从未知钱包转移至 FTX Estate 账户，随后14:39，该 FTX Estate 账户将110,529、136,971 枚 SOL 分别转移到两个未知的新钱包地址。该地址目前仍持有约 11.5 万枚 SOL。\n今日凌晨时，也有约25万枚SOL转移至FTX Estate账户，价值约1800万美元。",
+          "link": "https://panewslab.com/zh/articledetails/9j0t4mt5.html",
+          "publishedOn": "2023-12-15T06:50:19.000Z",
+          "wordCount": 402,
+          "title": "FTX Estate账户收到约28万枚SOL后转出约24.7万枚",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u25ybg21.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，Lookonchain监测显示，在Binance宣布上线$BONK代币后，其价格在一个月内更是上涨超过1000%，超过了$0.00003。\n一位交易者今天卖出了523亿$BONK（价值约92.7万美元），从中赚取了约78.4万美元的利润。这位交易者先前在10月30日至11月29日间以每个大约$0.0000021的价格购买了690亿$BONK，并进行了质押。",
+          "link": "https://panewslab.com/zh/articledetails/u25ybg21.html",
+          "publishedOn": "2023-12-15T06:04:24.000Z",
+          "wordCount": 340,
+          "title": "一地址卖出523亿枚BONK，赚取利润约78.4万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/w5jm1ypm.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，据Decrypt报道，日本电子公司卡西欧（Casio）推出了限量版的G-Shock虚拟手表NFT，共2000件，包括两款未来主义设计。这些NFT在以太坊上发售，每个售价大约230美元。NFT持有者将获得Casio的幕后体验，包括参观G-Shock实验室和与设计师的讨论会。Casio还计划为NFT持有者提供更多合作创新数字产品的机会。这是Casio继今年9月首次在以太坊扩容网络Polygon上发行免费G-Shock Creator Pass NFT之后，其第二次进军NFT领域。",
+          "link": "https://panewslab.com/zh/articledetails/w5jm1ypm.html",
+          "publishedOn": "2023-12-15T05:41:09.000Z",
+          "wordCount": 344,
+          "title": "卡西欧改为在以太坊链上发行G-Shock虚拟手表NFT",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/j7i69ngp.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，据CoinDesk报道，全球银行业监管机构巴塞尔银行监管委员会（BCBS）提出了加强对稳定币的监管标准的提议。这些新的标准旨在确保稳定币的储备资产具有短期到期性、高信用质量和低波动性，以满足持有者对赎回的期望。\nBCBS发布的咨询文件中提出了11项针对稳定币的标准，这些加密货币的价值通常与特定资产（如美元、欧元或黄金）挂钩。为了符合所谓的1b组考虑，稳定币的储备资产必须满足一系列标准，包括短期到期性、高信用质量和低波动性。目前，稳定币必须“随时可赎回”才能符合这种优惠的监管待遇，这确保了“只有由受监管的实体发行的具有强大赎回权和治理的稳定币才有资格纳入”。不符合巴塞尔委员会条件的稳定币将被归入第2组，并受到“新的高度保守的资本处理”​​。该咨询将持续到3月28日。\n本周早些时候，全球评级机构 S&P Global 推出了稳定币稳定性评估，评分从 1（强）到 5（弱）。该评估着眼于稳定币与其挂钩的资产的粘连程度。该机构在衡量稳定币与其挂钩的能力时评估的因素之一是资产质量风险。",
+          "link": "https://panewslab.com/zh/articledetails/j7i69ngp.html",
+          "publishedOn": "2023-12-15T04:47:45.000Z",
+          "wordCount": 356,
+          "title": "巴塞尔委员会咨询文件提出11项针对稳定币的监管标准",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2bao0qfr.html",
+          "author": "PA一线",
+          "description": "PANews 12月15日消息，据彭博社援引知情人士报道，香港政府已聘请五家银行探索一系列数字绿色债券的发行，这五家银行为汇丰控股有限公司、法国农业信贷银行、中国银行（香港）、中国工商银行（亚洲）有限公司和瑞银集团，该五家银行组成的工作小组将探讨多系列固定利率数字原生绿色债券发行的可能性。这些数字原生票据将被记录在分布式账本技术平台上。债券可能以美元、欧元、离岸人民币和港币计价，期限最长为两年。计划的销售活动是在香港于2月发行了8亿港元（约合1.02亿美元）的365天期数字化绿色票据之后进行的，这是香港成为亚洲数字资产之都推动下的一部分。",
+          "link": "https://panewslab.com/zh/articledetails/2bao0qfr.html",
+          "publishedOn": "2023-12-15T04:39:34.000Z",
+          "wordCount": 345,
+          "title": "香港聘请5家银行探讨在分布式账本技术平台上发行数字绿色债券",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/26nd4w12.html",
           "author": "PA一线",
@@ -190,126 +310,6 @@
           "publishedOn": "2023-12-15T02:49:02.000Z",
           "wordCount": 373,
           "title": "3.7万张BTC期权和26.8万张ETH期权将于今日到期，总名义价值近22亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/j3x0c5oi.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，据福布斯报道，新加坡初创银行Pave Bank宣布完成了520万美元融资，此轮融资由468 Capital牵头，参与投资方包括Quona Capital、Financial Technology Partners、BR Capital、w3.fund、Daedalus及多位天使投资者。Pave Bank由首席执行官Salim Dhanani领导，刚获得乔治亚州监管当局颁发的首个银行许可证，并计划明年第一季度开始接纳客户。\nPave Bank致力于利用区块链技术改善传统银行服务，尤其是在国际支付领域。Dhanani表示，区块链的运用及银行和金融服务的未来方向是他们关注的重点。他认为，Pave Bank的“可编程货币”将能够解决跨市场交易中的信任问题。",
-          "link": "https://panewslab.com/zh/articledetails/j3x0c5oi.html",
-          "publishedOn": "2023-12-15T02:33:39.000Z",
-          "wordCount": 380,
-          "title": "数字银行Pave Bank完成520万美元融资，468 Capital领投",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/lr2cnj2u.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，据新华财经报道，中银香港近日表示，已启动企业数字人民币跨境交易试验，成功支持试点企业在跨境大宗商品贸易中，首次使用数字人民币进行跨境结算。\n中银香港表示，此次交易是与母行中国银行联动完成的。中银香港先通过企业网上银行为宝运企业有限公司开立数字人民币钱包，支持其采用数字人民币作为交易方式；宝山钢铁股份有限公司再通过中国银行用数字人民币方式向宝运企业有限公司支付进口铁矿石费用，实现首次大宗商品交易全流程采用数字人民币跨境清算，累计交易金额近2400万元人民币。",
-          "link": "https://panewslab.com/zh/articledetails/lr2cnj2u.html",
-          "publishedOn": "2023-12-15T02:15:50.000Z",
-          "wordCount": 341,
-          "title": "中银香港启动企业数字人民币试验完成首笔大宗商品交易结算",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/xe39dl3t.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，据余烬监测，Celsius Network 地址 7 小时前转出了7,500 ETH，价值约为1727万美元，转入了FalconX。\n自11月13日以来，Celsius Network 的以太坊质押地址持续从ETH质押合约中赎回ETH。截至目前，他们已累计转出了90,102 ETH，价值约为2.07亿美元，这些资金被转移到了以0x413开头的地址。随后，这些资金通过0x413地址转入了Coinbase、OKX、FalconX等多个平台。",
-          "link": "https://panewslab.com/zh/articledetails/xe39dl3t.html",
-          "publishedOn": "2023-12-15T02:04:29.000Z",
-          "wordCount": 382,
-          "title": "Celsius Network在7小时前将7500 ETH转入FalconX，价值约1727万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5vai2z92.html",
-          "author": "PA一线",
-          "description": "SEC主席：将根据近期法院裁决重新审视比特币现货ETF申请\n美国证券交易委员会(SEC)主席Gary Gensler周四在接受CNBC采访时表示，该机构对比特币现货ETF申请的“新看法”考虑了最近的法院裁决。Gensler表示，“我们过去曾拒绝过一些这样的申请，但哥伦比亚特区法院对此进行了权衡。因此我们正在根据法院裁决重新审视这一问题。”今年8月，美国华盛顿特区巡回上诉法院的三名法官裁定，SEC必须重新审查Grayscale的比特币现货ETF转换申请。去年，Grayscale在其旗舰基金GBTC的转换计划遭到拒绝后起诉了SEC。法院特别指出了SEC对比特币现货ETF和期货ETF的差别待遇。\nValkyrie提交新修订的比特币现货ETF招股说明书，声明创建和赎回只能以现金进行\n彭博分析师James Seyffart在X平台上表示，Valkyrie今天提交了新修订的比特币现货ETF招股说明书（S-1文件）。他们加入Bitwise和Invesco的行列，声明创建和赎回只能以现金进行。与Invesco一样，这份文件特别表示，如果/在允许的情况下，他们希望在未来使用实物。\nFirst Trust向美国SEC提交比特币“缓冲型”ETF申请\n彭博分析师James Seyffart推特发文称，First Trust向美国SEC递交了比特币“缓冲型”ETF（Buffer ETF）申请。此类基金通过牺牲部分上行收益来提供一定程度的下行风险保护。分析师表示，预计未来几周内，其他进入该领域的公司将采用独特的差异化策略提供比特币敞口。\nLedger：已识别并删除Ledger Connect Kit恶意版本，暂勿与任何dApp交互\nLedger官方发帖称，已经识别并删除了Ledger Connect Kit的恶意版本。现在正推送一个正版版本来替换恶意文件。暂时不要与任何dApp交互。将随时向大众通报情…",
-          "link": "https://panewslab.com/zh/articledetails/5vai2z92.html",
-          "publishedOn": "2023-12-15T02:00:10.000Z",
-          "wordCount": 590,
-          "title": "昨夜今晨重要资讯（12月14日-12月15日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/12/15/images/XT613mS42a.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/gyi00psv.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，去中心化交易协议 HashFlow 发文宣布其平台现已支持 Solana 网络。这意味着用户现在可以在 Hashflow 上进行 SOL 的原生交易，同时保持平台的易用性、流动性、定价和托管功能不受影响。此外，Hashflow 还通过 Wormhole 实现了以太坊和 Solana 之间的原生跨链交换功能。",
-          "link": "https://panewslab.com/zh/articledetails/gyi00psv.html",
-          "publishedOn": "2023-12-15T01:41:55.000Z",
-          "wordCount": 374,
-          "title": "HashFlow已部署至Solana链，用户可通过Wormhole进行跨链",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3ol26bd6.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，根据美国司法部公共事务办公室的消息，四名个人因涉嫌参与洗钱数百万美元的加密货币投资诈骗和其他欺诈计划而被指控。这些个人分别是加利福尼亚州Alhambra的Lu Zhang（36岁）、Cypress的Justin Walker（31岁）、Rosemead的Joseph Wong（32岁）和伊利诺伊州Naperville的Hailong Zhu（40岁）。他们被控共谋洗钱、隐蔽洗钱和国际洗钱。Zhang 和 Walker 已被逮捕，并已在联邦法院首次出庭。\n根据法庭文件，Zhang、Walker、Wong 和 Zhu 被控共谋开设空壳公司和银行账户，用于洗钱受害者在加密货币投资诈骗（也称为“杀猪盘”诈骗）和其他欺诈计划中的资金。他们将资金转移到国内和国际金融机构。相关的“杀猪盘”联合体涉及至少284笔交易，导致超过8000万美元的受害者损失。超过2000万美元的受害者资金直接存入与被告人关联的银行账户。如果被判有罪，Zhang 和 Walker 面临最高20年的监禁。",
-          "link": "https://panewslab.com/zh/articledetails/3ol26bd6.html",
-          "publishedOn": "2023-12-15T01:27:25.000Z",
-          "wordCount": 381,
-          "title": "四名美国个人因涉嫌参与洗钱数百万美元的加密货币投资诈骗和其他欺诈计划而被指控",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3j4dz4js.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，Ledger 董事长兼首席执行官 Pascal Gauthier 在一份公开信中通报了关于 Ledger Connect Kit 被利用的情况。关键要点如下：2023年12月14日，Ledger 面临其 Ledger Connect Kit 的利用问题。Ledger Connect Kit 是一个 JavaScript 库，用于将网站连接到加密货币钱包。Ledger 与行业合作伙伴迅速协作，以中和这次利用并尝试快速冻结被盗资金。该事件持续不到两小时。目前该事件正在调查中。Ledger 已提交了相关投诉，并将努力帮助受影响者恢复资金。该事件并未影响 Ledger 实体钱包和 Ledger Live 的安全性。利用限于使用 Ledger Connect Kit 的第三方去中心化应用。\nGauthier 说明，此次事件是由于一名前员工遭受网络钓鱼攻击，导致恶意行为者在 Ledger 的 NPMJS（JavaScript 代码的包管理器）上上传了恶意文件。Ledger 迅速响应，与合作伙伴 WalletConnect 一起在40分钟内更新了 NPMJS，以消除和禁用恶意代码。为了应对此类事件，Ledger 将加强安全控制，与 NPM 配送渠道建立安全链。他还强调了提高去中心化应用（DApps）安全标准的重要性，并支持清晰签名（clear-signing）而非盲签名（blind-signing），以减少欺诈风险。此外，Ledger 正与当局合作，并采取一切可能的措施来协助调查，并支持受影响用户。",
-          "link": "https://panewslab.com/zh/articledetails/3j4dz4js.html",
-          "publishedOn": "2023-12-15T01:21:19.000Z",
-          "wordCount": 461,
-          "title": "Ledger CEO发表公开信详细介绍Ledger Connect Kit被利用问题的具体情况",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0pguptll.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，Whale监测显示，北京时间今日凌晨3:46，249,999 枚 SOL（18,358,953 美元）从未知钱包转移至 FTX Estate 账户。",
-          "link": "https://panewslab.com/zh/articledetails/0pguptll.html",
-          "publishedOn": "2023-12-15T01:03:59.000Z",
-          "wordCount": 371,
-          "title": "数据：约25万枚SOL于今日凌晨转移至FTX Estate账户，价值约1800万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/6pdfinn7.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，Arbitrum 基金会的生态系统开发负责人 Nina Rong 向 Celo 社区提交了一份提案。该提案建议 Celo 采用基于 Arbitrum OP 技术的 Arbitrum Orbit 技术堆栈，构建可定制的 L2 和 L3 链。Rong 强调，Arbitrum 基金会团队一直在关注 Celo 向以太坊 L2 过渡的 cLabs 提案，并通过提出 Arbitrum Orbit 技术堆栈作为发展方向，欢迎 Celo 回归以太坊社区。\n此前，Polygon 和 Matter Labs 也向 Celo 社区推荐了各自基于零知识技术的解决方案。Celo 表示，计划于一月中旬做出选择，以便社区成员有时间对各种提案进行评估。",
-          "link": "https://panewslab.com/zh/articledetails/6pdfinn7.html",
-          "publishedOn": "2023-12-15T00:58:27.000Z",
-          "wordCount": 442,
-          "title": "Arbitrum基金会新提案建议Celo选择其Orbit技术堆栈构建L2网络",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ik44zs9o.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，据Decrypt报道，总部位于阿联酋的链游工作室 Farcana 已从 Animoca Brands、Polygon Ventures、Fenbushi Capital 等投资者那里筹集到1000万美元的种子轮资金，以进一步开发其第三人称多人射击游戏 Farcana。Rarestone Capital、MMPro Trust、Unpopular Ventures、Kapo Capital、Emchain、Hasu Capital 和 Dravus Investment 也参与了这轮融资。\nFarcana 在游戏风格上与暴雪公司的《守望先锋》有一定相似之处，但地图较小、有墙，并且游戏模式让人联想到拳头游戏公司的《Valorant》。Farcana 的故事背景设定在一个近未来的世界，人类已离开地球前往火星，并在那里发现了一种赋予超能力的物质 Axelar。Farcana 计划提供像是玩家赚取比特币的比赛功能，奖励排名前10%的玩家。游戏中的物品都将以 NFT 的形式存在，Farcana 将使用 FAR 代币进行所有交易​。",
-          "link": "https://panewslab.com/zh/articledetails/ik44zs9o.html",
-          "publishedOn": "2023-12-15T00:43:58.000Z",
-          "wordCount": 412,
-          "title": "链游工作室Farcana完成1000万美元的种子轮融资，Polygon Ventures等参投",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/b6fk3n9b.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，据CoinDesk报道，Solana 推出的 Web3 手机 Saga 由于 BONK 代币的价值飙升，其赠送的 BONK 代币价值已超过手机的官方售价。Saga 手机的每位拥有者都可以在 Bonk DApp 中申领 3000 万枚 BONK 代币，这些代币的价值目前已经接近 700 美元，而 Solana Saga 手机的官方售价为 599 美元。\nSolana 联合创始人 Raj Gokal 发推表示：“Saga 的销量在过去 48 小时内增长了 10 倍以上，目前有望在新年前售完。”",
-          "link": "https://panewslab.com/zh/articledetails/b6fk3n9b.html",
-          "publishedOn": "2023-12-15T00:21:01.000Z",
-          "wordCount": 428,
-          "title": "Solana手机Saga赠送的Bonk代币价值已超过手机官方售价",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/lghri9s5.html",
-          "author": "PA一线",
-          "description": "PANews 12月15日消息，美国证券交易委员会(SEC)主席Gary Gensler周四在接受CNBC采访时表示，该机构对比特币现货ETF申请的“新看法”考虑了最近的法院裁决。Gensler表示，“我们过去曾拒绝过一些这样的申请，但哥伦比亚特区法院对此进行了权衡。因此我们正在根据法院裁决重新审视这一问题。”今年8月，美国华盛顿特区巡回上诉法院的三名法官裁定，SEC必须重新审查Grayscale的比特币现货ETF转换申请。去年，Grayscale在其旗舰基金GBTC的转换计划遭到拒绝后起诉了SEC。法院特别指出了SEC对比特币现货ETF和期货ETF的差别待遇。",
-          "link": "https://panewslab.com/zh/articledetails/lghri9s5.html",
-          "publishedOn": "2023-12-15T00:09:52.000Z",
-          "wordCount": 344,
-          "title": "SEC主席：将根据近期法院裁决重新审视比特币现货ETF申请",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
