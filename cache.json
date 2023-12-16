@@ -6,6 +6,66 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=98205",
+          "author": "Gao",
+          "description": "从历史上看，新的计算模式往往每 10—15 年出现一次：60 年代的大型机，70 年代末的个人电脑，90 年代初的互联网，以及 21 世纪初的智能手机。每一种计算模型都支持新的应用程序类别，这些应用程序构建在平台的独特优势之上。例如，智能手机是第一台真正意义上的个人电脑，内置了 GPS 等传感器和高分辨率摄像头。",
+          "link": "https://www.web3sj.com/news/98205/",
+          "publishedOn": "2023-12-16T13:09:14.000Z",
+          "wordCount": 942,
+          "title": "回顾a16z Crypto投资负责人2018年公开信：深信软件的力量",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/17027321351.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=98185",
+          "author": "Gao",
+          "description": "Sushi 首席技术官 Matthew Lilley 在推特发布警告称：「请用户切勿与任何 dApp 交互，直至另行通知。一个常用的 Web3 connector（某 JavaScript 库，是 web3-react 项目的一部分）疑似已被破坏，允许注入影响众多 dApp 的恶意代码。」随后，其表示 Ledger 可能存在可疑代码。慢雾安全团队第一时间表示正在跟进和分析此事件。",
+          "link": "https://www.web3sj.com/news/98185/",
+          "publishedOn": "2023-12-16T13:01:38.000Z",
+          "wordCount": 1219,
+          "title": "Ledger Connect Kit被黑之谜",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702731678.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=98179",
+          "author": "Gao",
+          "description": "OP Stack 已成为社区和公司构建自己 L2 Rollup 的受欢迎选择。它被 OP 主网使用，并由 Optimism Collective 维护。它也是一个开发者已经开始扩展和修改的技术栈。其中一个修改是使用像 Avail 这样专门构建的数据可用性层。在这篇文章中，我们将讨论你如何使用 OP Stack 结合 Avail 作为你的数据可用性提供商，以显著降低你的以太坊交易费用。",
+          "link": "https://www.web3sj.com/news/98179/",
+          "publishedOn": "2023-12-16T12:51:45.000Z",
+          "wordCount": 1052,
+          "title": "Avail正在扩展OP Stack的功能，将L2的DA成本降低 90%",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/17027310881.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=98168",
+          "author": "Gao",
+          "description": "上周，Solana 生态内的流动质押协议 Jito 空投 JTO 带来的财富效应，彻底激活了被忽略已久的链上生态应用。这时人们发现 Solana 生态已强势复苏，并有一批原生新应用正在试图崭露头角，包括交易聚合器 Jupiter、流动质押平台 Marinade Finance 等等。今日，Solana 链上 TVL 突破 10 亿美元（约为 10.44 亿美元），链上 24 小时交易量为 9.12 亿美元，成为仅次于以太坊（12.3 亿美元）的第二大 Layer1 网络。",
+          "link": "https://www.web3sj.com/news/98168/",
+          "publishedOn": "2023-12-16T12:45:05.000Z",
+          "wordCount": 1707,
+          "title": "老牌公链们的增长困境：为何Solana生态增长飞轮不可复制？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/17027306831.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=98165",
+          "author": "Gao",
+          "description": "2024 年，大家都在推测比特币将创下新的历史高点，现货比特币交易平台交易基金 (ETF) 将成为有史以来最成功的 ETF 发行，Coinbase 的收入将翻倍，等等论点。",
+          "link": "https://www.web3sj.com/news/98165/",
+          "publishedOn": "2023-12-16T12:37:35.000Z",
+          "wordCount": 970,
+          "title": "Bitwise团队对2024年加密货币的10个预测",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702730239.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=98162",
+          "author": "Gao",
+          "description": "美SEC委员：不同意委员会拒绝Coinbase规则制定请愿的决定。Base宣布开源op-viem和op-wagmi代码库。彭博ETF分析师：SEC或将同时批准所有比特币现货ETF申请。",
+          "link": "https://www.web3sj.com/news/98162/",
+          "publishedOn": "2023-12-16T12:09:30.000Z",
+          "wordCount": 852,
+          "title": "Web3世界日报（2023-12.16）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023121612064699.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=98123",
           "author": "Gao",
           "description": "以太坊的架构虽然具有革命性，但它并未针对高速和低成本的游戏交易需求进行优化。2021 年，这一局限性成为了 Axie Infinity 增长和玩家留存的瓶颈。为了应对这些挑战，推出 Axie Infinity 的越南工作室 Sky Mavis 采取了果断措施，于 2021 年 2 月推出了 Ronin。",
@@ -21,7 +81,7 @@
           "description": "Vitalik 在隐私保护和零知识证明（zero-knowledge proofs，ZK）技术的推进上进行了一系列的研究。上半年，Vitalik 在他的网站上发布了三篇专门讨论 ZK 和隐私保护的文章。4 月，他在 Reddit 上也展示了一项关于钱包监护人隐私问题的研究。9 月，他与其他专业人士共同撰写了一篇论文，提出了一种针对平衡隐私与合规之间的解决方案。",
           "link": "https://www.web3sj.com/news/98119/",
           "publishedOn": "2023-12-15T12:59:31.000Z",
-          "wordCount": 1312,
+          "wordCount": 1311,
           "title": "读懂2023以太坊新动向：ZK和隐私",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702645158977.png"
         },
@@ -31,7 +91,7 @@
           "description": "在 Solana 的 TVL 中，流动性质押项目显得尤为重要，它们是推动 TVL 恢复至历史高点的关键。在这一赛道上，Marinade 和 Jito 以其最高的 TVL 占据了显著地位，彰显了流动性质押类别的重要性。将深入探讨在 Solana 上流动性质押领域中的重要参与者，并对他们的战略和市场表现进行对比分析。",
           "link": "https://www.web3sj.com/news/98109/",
           "publishedOn": "2023-12-15T12:54:30.000Z",
-          "wordCount": 1266,
+          "wordCount": 1263,
           "title": "Solana质押市场分析：流动性质押领域的四驾马车",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702644834622.png"
         },
@@ -41,69 +101,9 @@
           "description": "2023 年 6 月 14 日，Mantle Builder 、核心贡献者和顾问 Cateatpeanut 在 Mantle 治理论坛向社区发布了 Mantle LSD（Mantle LSP 前身）的首次讨论，建议引入部署在 Ethereum 主网上的流动性质押协议 Mantle LSD，包括 Mantle Treasury 在内的用户可以存入 ETH 并获得具有累积质押收益的凭证代币 mntETH（mETH 前身）。",
           "link": "https://www.web3sj.com/news/98105/",
           "publishedOn": "2023-12-15T12:50:27.000Z",
-          "wordCount": 1359,
+          "wordCount": 1369,
           "title": "解析Mantle LSP：RWA和ETH PoS支持的双通道收益组合器",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702644606520.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98098",
-          "author": "Gao",
-          "description": "在 Solana 生态 Meme 代币 BONK 过去 2 个月暴涨超 18000% 后，Binance 于今日宣布上线 BONK 现货交易。除了 meme + Solana 概念，BONK 还属于「在 Binance 有合约但没有现货」的项目之一。根据 LieTu 提供的数据，除了 BONK，Binance 目前还有 6 个有合约但是没有现货的项目，BlockBeats 筛选了其中讨论度比较高的 4 个项目，希望能对读者有所帮助。",
-          "link": "https://www.web3sj.com/news/98098/",
-          "publishedOn": "2023-12-15T12:47:56.000Z",
-          "wordCount": 1133,
-          "title": "除了BONK，盘点Binance平台上线合约却没有现货的项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702644391020.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98095",
-          "author": "Gao",
-          "description": "LayerZero发布V2版本简介，主网预计于明年1月启动。SEC主席：将根据近期法院裁决重新审视比特币现货ETF申请。Ledger CEO发表公开信详细介绍Ledger Connect Kit被利用问题的具体情况。",
-          "link": "https://www.web3sj.com/news/98095/",
-          "publishedOn": "2023-12-15T12:26:11.000Z",
-          "wordCount": 1009,
-          "title": "Web3世界日报（2023-12.15）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023121512244596.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98087",
-          "author": "Gao",
-          "description": "在以太坊主网上，用户提交交易到 Mempool，由 Searcher 搜集交易广播出去最终由矿工 Builder 按 GAS 高低排序完成打包出块。这意味着，你提交的交易可能被 MEV，且需要遵循 Nounce 排队机制，付出的 Gas 是 EVM 执行操作所需的费用，结果导致在主网上发交易又贵、又慢还容易被夹。",
-          "link": "https://www.web3sj.com/news/98087/",
-          "publishedOn": "2023-12-15T09:01:53.000Z",
-          "wordCount": 1046,
-          "title": "L2排序器去中心化之路为何停滞不前？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702630895390.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98077",
-          "author": "Gao",
-          "description": "在回顾市场表现前先说结论：巨额代币解锁对于代币币价确实存在直接影响，不过解锁份额中的具体分配细节至关重要，如果大额解锁中投资机构等「资本方」的占比较高，那么解锁后会出现明显的价格承压下跌的状况。而如若解锁的大量代币属于社区等「用户方」，那么解锁所带来的「负面影响」会明显较小。",
-          "link": "https://www.web3sj.com/news/98077/",
-          "publishedOn": "2023-12-15T08:51:33.000Z",
-          "wordCount": 1208,
-          "title": "以DYDX为例，大额解锁会对代币价格产生巨大负面影响吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702630262587.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98045",
-          "author": "Gao",
-          "description": "在上个牛市中，如 Solana、Avalanche、Fantom 和 Polygon 等 L1 的表现，在价格拉升方面非常出色。有人可能会认为，这种基础设施的主导地位是一个行业仍处于初期阶段的特征。",
-          "link": "https://www.web3sj.com/news/98045/",
-          "publishedOn": "2023-12-15T05:14:07.000Z",
-          "wordCount": 1327,
-          "title": "热门L1表现对比：Solana之外，哪些生态还有增长空间？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702617213839.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98042",
-          "author": "Gao",
-          "description": "原理简单意味着即使不了解区块链行业的圈外人也能很快接受，所以传播起来也比原理复杂的项目更加容易。我们在一些区块链媒体进行「出圈」二字的搜索时，出现的相关赛道最多的是 NFT 和链游。像链游这种原本 Web2 或 TradFi 有的事物，圈外人理解和接受起来的也更容易。",
-          "link": "https://www.web3sj.com/news/98042/",
-          "publishedOn": "2023-12-15T03:56:32.000Z",
-          "wordCount": 944,
-          "title": "对号入座，火爆出圈的赛道都具备哪些要素？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702612548231.png"
         }
       ]
     },
@@ -113,12 +113,62 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/c6pm9v03.html",
+          "author": "PA一线",
+          "description": "PANews 12月16日消息，NFT 鲸鱼 dingaling 在X平台上表示，如果过去曾经使用过 NFT Trader，请尽快撤销对其合约的批准（0x13d8faF4A690f5AE52E2D2C52938d1167057B9af） 到目前为止，已有 37 枚 BAYC 和 13 枚 MAYC 被提至该地址。",
+          "link": "https://panewslab.com/zh/articledetails/c6pm9v03.html",
+          "publishedOn": "2023-12-16T12:29:59.000Z",
+          "wordCount": 371,
+          "title": "NFT Trader疑遭攻击，多枚BAYC和MAYC出现异常转账",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/36qlgbvo.html",
+          "author": "PA一线",
+          "description": "PANews 12月16日消息，Yield Guild Games 在X平台上表示与游戏巨头育碧推出的 PvP 角色扮演游戏 Champions Tactics 达成合作，Champions Tactics 是一款 Web3 竞技 PvP 回合制 RPG，游戏 NFT 铸造将于北京时间 12 月 19 日凌晨启动。\n此前消息，游戏巨头Ubisoft（育碧）即将在Oasys区块链上推出链游《Champions Tactics: Grimoria Chronicles》。据悉，育碧是Oasys区块链网络的节点运营商之一。该游戏是一款玩家对玩家的战术游戏，目前该游戏仅发布了一段预告片，但没有展示太多有关游戏玩法的信息。",
+          "link": "https://panewslab.com/zh/articledetails/36qlgbvo.html",
+          "publishedOn": "2023-12-16T11:39:03.000Z",
+          "wordCount": 405,
+          "title": "YGG宣布与育碧推出的PvP角色扮演游戏Champions Tactics达成合作",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cy3e7784.html",
+          "author": "PA一线",
+          "description": "PANews 12月16日消息，据News.bitcoin报道，Circle 首席执行官 Jeremy Allaire 在接受 CNBC 采访时表示，在复杂的地缘政治环境中，比特币是投资者应该有一定投资的资产。他强调“数字商品将继续存在”，并指出比特币是最大的数字商品资产。Jeremy Allaire还认为，稳定币“在未来几年将出现爆炸性增长。”",
+          "link": "https://panewslab.com/zh/articledetails/cy3e7784.html",
+          "publishedOn": "2023-12-16T11:23:01.000Z",
+          "wordCount": 343,
+          "title": "Circle首席执行官：在复杂的地缘政治环境中投资者应该配置比特币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bghiazjl.html",
+          "author": "PA一线",
+          "description": "PANews 12月16日消息，据CryptoSlate报道，日本亚洲 Web3 联盟 (AWAJ) 宣布将全球 5,000 多家 Web3 公司整合到日本和亚洲快速发展的 Web3 生态系统中。该举措于 12 月 14 日在 AWAJ 首次新闻发布会期间公布。其 2024 年战略重点关注三个关键领域，包括成立稳定币小组委员会、全球扩张、学生交流计划。\nAWAJ 是日本的一个先锋协会，其成立的愿景是缩小日本、亚洲和全球 web3 社区之间的差距。该联盟的成立和举措是一项战略举措，旨在利用该地区对区块链和去中心化技术日益增长的兴趣。",
+          "link": "https://panewslab.com/zh/articledetails/bghiazjl.html",
+          "publishedOn": "2023-12-16T11:04:49.000Z",
+          "wordCount": 385,
+          "title": "日本Web3联盟旨在整合全球5000余家Web3公司",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/choicrix.html",
+          "author": "PA一线",
+          "description": "PANews 12月16日消息，据The Data Nerd监测，鲸鱼0x6b7又花了10.6万枚 USDT 购买了31.46万枚 MUBI 。 在过去 24 小时内，该地址总共积累了 586 万枚MUBI（约 146 万美元），平均价格为 0.25 美元。该地址目前成为MUBI的最大散户持有者，未实现利润为 46.6 万美元。\n此前据Lookonchain监测，鲸鱼0x6b7买入价值141万美元的MUBI，均价0.2541 USDT，今日MUBI上涨超80%。",
+          "link": "https://panewslab.com/zh/articledetails/choicrix.html",
+          "publishedOn": "2023-12-16T09:33:11.000Z",
+          "wordCount": 377,
+          "title": "鲸鱼0x6b7购入约31.46万枚MUBI，目前为MUBI的最大散户持有者",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/9nd7ht2a.html",
           "author": "PA一线",
           "description": "PANews 12月16日消息，据 Cryptoslate 报道，OrdFi 生态协议 Tap Protocol 已完成由 Sora Ventures 领投的 420 万美元融资。其他投资者包括 Cypher Capital、Rw3、Oak Grove Capital、Perock Capital、Kosmos Ventures、New Tribe Capital、Cogitent Ventures、Compute Ventures 和 MSA Novo，以及天使投资人 Animoca Brands 和 Quantstamp高管。Tap Protocol 提供一系列功能，包括 Ordinals 的碎片化以及在 Ordinals 上实现去中心化金融应用程序。",
           "link": "https://panewslab.com/zh/articledetails/9nd7ht2a.html",
           "publishedOn": "2023-12-16T09:09:01.000Z",
-          "wordCount": 438,
+          "wordCount": 428,
           "title": "OrdFi生态协议Tap Protocol完成420万美元融资，Sora Ventures领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +178,7 @@
           "description": "PANews 12月16日消息，据Lookonchain监测，某巨鲸买入价值141万美元的MUBI，均价0.2541 USDT，今日MUBI上涨超80%。",
           "link": "https://panewslab.com/zh/articledetails/4ghsd0hu.html",
           "publishedOn": "2023-12-16T07:59:16.000Z",
-          "wordCount": 331,
+          "wordCount": 321,
           "title": "数据：某巨鲸买入141万美元的MUBI",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +188,7 @@
           "description": "PANews 12月16日消息，据L2BEAT数据显示，以太坊Layer2网络当前总锁仓量为158.2亿美元，7日跌幅1.88%。锁仓量前五分别为： Arbitrum One（82.3亿美元，7日跌幅3.71%）； OP Mainnet（45亿美元，7日涨幅0.48%）；Base（7.04亿美元，7日涨幅8.17%）；zkSync Era（5.07亿美元，7日跌幅10.86%）；dYdX v3（3.48亿美元，7日跌幅3.46%）。",
           "link": "https://panewslab.com/zh/articledetails/qq1f2v7n.html",
           "publishedOn": "2023-12-16T07:41:11.000Z",
-          "wordCount": 354,
+          "wordCount": 344,
           "title": "数据：以太坊Layer2总锁仓量158.2亿美元，7日跌幅1.88%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +198,7 @@
           "description": "PANews 12月16日消息，据Lookonchain监测，某只休眠了一年的巨鲸将 18,865 枚 ETH 通过 4 个新钱包以 4200 万枚 DAI价格售出，平均售价为 2,229 美元。 目前还剩下 5,588 枚 ETH （约 1250万美元）。",
           "link": "https://panewslab.com/zh/articledetails/0h5j4lvn.html",
           "publishedOn": "2023-12-16T07:12:05.000Z",
-          "wordCount": 381,
+          "wordCount": 371,
           "title": "休眠一年的某巨鲸抛售1.88万余枚ETH，目前仍持有5588枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +208,7 @@
           "description": "PANews 12月16日消息，据 Scopescan 监测，某巨鲸过去 14 个小时内从 Coinbase 转出约 5.73 万枚 AUCTION（约172万美元），该地址过去两周已积累了 13.5 万枚 AUCTION，价值约 410 万美元。",
           "link": "https://panewslab.com/zh/articledetails/i32d9xx5.html",
           "publishedOn": "2023-12-16T06:24:54.000Z",
-          "wordCount": 370,
+          "wordCount": 360,
           "title": "某巨鲸从Coinbase转出约5.73万枚AUCTION",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +218,7 @@
           "description": "PANews 12月16日消息，Coinglass数据显示，过去24小时加密货币市场全网合约爆仓1.62亿美元，共有 78,327 人爆仓。其中多单爆仓1.17亿美元，空单爆仓4515.58万美元。按币种划分，BTC爆仓约2547.11万美元，ETH爆仓约1917.28万美元，LINK爆仓约1518.29万美元，SOL约924.07万美元，1000BONK约877.05万美元。",
           "link": "https://panewslab.com/zh/articledetails/o8k0rlkh.html",
           "publishedOn": "2023-12-16T06:19:08.000Z",
-          "wordCount": 346,
+          "wordCount": 336,
           "title": "过去24小时全网合约爆仓1.62亿美元，其中LINK爆仓约1518.29万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +228,7 @@
           "description": "PANews 12月16日消息，据Whale Alert监测，约2小时前 2310 枚 BTC（约 97,888,084 美元）从未知钱包转移到 Coinbase。",
           "link": "https://panewslab.com/zh/articledetails/b0ca6r1r.html",
           "publishedOn": "2023-12-16T06:07:51.000Z",
-          "wordCount": 353,
+          "wordCount": 343,
           "title": "数据：2310枚BTC约2小时前从钱包转移到Coinbase",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +238,7 @@
           "description": "PANews 12月16日消息，据News.bitcoin报道，俄罗斯政府可能允许加密矿工像天然气等其他出口产品一样出售其加密货币。财政部副部长 Ivan Chebeskov 指出，这一选项是 2022 年推出的加密货币采矿合法化法案的一部分，该法案可以允许矿商以与商品相同的方式进行这些出口。国家杜马金融市场委员会主席Anatoly Aksakov表示，该法案预计将于明年获得批准。\n财政部副部长 Ivan Chebeskov 在“加密货币与数字金融的未来”论坛上介绍了这一进展的最新情况。关于这个问题，Ivan Chebeskov表示：“有一个选择和一项法案——使用加密货币的出口作为采矿活动的产品。我们开发了一个概念、一个项目，以便矿工可以出口他所开采的产品，即加密货币作为出口产品。俄罗斯也正在形成这样的立法举措”。",
           "link": "https://panewslab.com/zh/articledetails/roi8kta2.html",
           "publishedOn": "2023-12-16T05:43:50.000Z",
-          "wordCount": 365,
+          "wordCount": 355,
           "title": "俄罗斯或允许加密矿商出口销售加密货币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +248,7 @@
           "description": "PANews 12月16日消息，据Cryptoslate援引韩联社报道，韩国央行行长李昌镛表示，推出央行数字货币（CBDC）是目前各国央行面临的一项紧迫任务。李昌镛在首尔举行的一次为期两天的数字货币国际会议上表示，稳定币引发了对金融稳定的担忧，并对央行的操作构成了挑战。",
           "link": "https://panewslab.com/zh/articledetails/a3wtri5f.html",
           "publishedOn": "2023-12-16T05:36:11.000Z",
-          "wordCount": 338,
+          "wordCount": 328,
           "title": "韩国央行行长：稳定币威胁金融稳定，推出CBDC刻不容缓",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +258,7 @@
           "description": "PANews 12月16日消息，比特币铭文钱包UniSat Wallet在X平台表示，今日凌晨 2:30 - 4:30，UniSat Wallet 的服务受到持续 DDoS 攻击的影响，导致钱包和 API 服务间歇性中断。 目前正在积极加强服务器保护并持续监控服务可用性。",
           "link": "https://panewslab.com/zh/articledetails/ww4flete.html",
           "publishedOn": "2023-12-16T05:21:02.000Z",
-          "wordCount": 374,
+          "wordCount": 364,
           "title": "UniSat Wallet：今日凌晨曾受DDoS攻击，钱包和API服务出现间歇性中断",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +268,7 @@
           "description": "PANews 12月16日消息，据港媒《信报》报道，香港警方新界南总区瓦解一个透过以空头支票以制造虚假付款纪录、俗称“弹票党”的诈骗集团，行动中拘捕26人，怀疑与今年七月至十一月发生的多宗网上购物骗案有关，涉及金额约港币160万港元（约146万元人民币）。警方称，被捕人包括23男3女，属于诈骗集团的不同角色，包括专责与货主在网上平台接触、交收货物，以及存入支票等。至于涉案财物大多为名牌手袋、手表等，最高约值6万元，骗徒成功骗取货物后会将货物转售，将款项转至虚拟货币账户，以增加追查难度。",
           "link": "https://panewslab.com/zh/articledetails/6e6z4piq.html",
           "publishedOn": "2023-12-16T05:13:45.000Z",
-          "wordCount": 336,
+          "wordCount": 326,
           "title": "港警破“弹票党”诈骗集团，拘26人涉款约146万元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +278,7 @@
           "description": "PANews 12月16日消息，据官方数据，过去7天Circle发行了19亿枚USDC，赎回18亿枚USDC，流通量增加1亿枚。截至12月14日，USDC总流通量为244亿美元，储备量为245亿美元，其中现金23亿美元，Circle Reserve Fund持有223亿美元。",
           "link": "https://panewslab.com/zh/articledetails/ueqnp2yp.html",
           "publishedOn": "2023-12-16T05:07:04.000Z",
-          "wordCount": 345,
+          "wordCount": 335,
           "title": "数据：过去7天USDC流通量增加1亿枚",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +288,7 @@
           "description": "PANews 12月16日消息，据新浪网报道，数字人民币 App（试点版）更新支持绑定借记卡的银行名单，本次新增9家银行，包括3家城商行，6家农商行，具体为：浙江泰隆商业银行、日照银行、宁波通商银行、江阴农商银行、无锡农商银行、昆山农商银行、太仓农村商业银行、顺德农商银行、江南农商银行，截至目前支持绑卡银行已达到60家银行。据悉，现阶段除了9家数字人民币运营机构，还有作为2.5层机构的51家银行，包括8家股份制银行、20家城商行、14家农商行、5家农村信用社、4家外资银行。",
           "link": "https://panewslab.com/zh/articledetails/tqrw94hk.html",
           "publishedOn": "2023-12-16T04:49:33.000Z",
-          "wordCount": 344,
+          "wordCount": 334,
           "title": "数字人民币App更新银行名单：新增9家银行, 支持绑卡银行已达到60家",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +298,7 @@
           "description": "PANew 12月16日消息，Frax Finance推特发文称，将通过 Axelar Network在Osmosis、Mantle、Linea、Kujira、Manta Network和Scroll上发行FRAX和frxETH等Frax生态资产。",
           "link": "https://panewslab.com/zh/articledetails/vjnix3dt.html",
           "publishedOn": "2023-12-16T04:18:04.000Z",
-          "wordCount": 353,
+          "wordCount": 343,
           "title": "Frax Finance将通过Axelar Network在多个非以太坊网络上发行资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,58 +308,8 @@
           "description": "PANews 12月16日消息，据Globe Newswire报道，Aki Network宣布完成A轮融资，MARBLEX和一家未披露名称的日本风投领投，Puzzle Ventures和多名日本企业家参投，投后估值达5000万美元。Aki Network是一个专注于KOL影响力市场的数据导向Web3项目，其正在计划进行多轮AKI代币空投。",
           "link": "https://panewslab.com/zh/articledetails/xxoyupye.html",
           "publishedOn": "2023-12-16T04:11:35.000Z",
-          "wordCount": 353,
-          "title": "Aki Network完成A轮融资，估值5000万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/iqehjcqd.html",
-          "author": "PA一线",
-          "description": "PANews 12月16日消息，据The Block报道，彭博ETF分析师James Seyffart在The Scoop播客上表示，比特币现货ETF很可能会在24年1月10日前获批，因为Ark和21Shares的ETF申请届时将迎来最终截止日期。SEC一直在战略性拖延，以免给一家公司带来先发优势。SEC很可能会同时批准所有申请。但灰度的ETF申请目前和其他家不太一样，有可能无法第一时间获批。",
-          "link": "https://panewslab.com/zh/articledetails/iqehjcqd.html",
-          "publishedOn": "2023-12-16T03:29:21.000Z",
-          "wordCount": 339,
-          "title": "彭博ETF分析师：SEC或将同时批准所有比特币现货ETF申请",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/pi1wruai.html",
-          "author": "PA一线",
-          "description": "PANews 12月16日消息，DefiLlama数据显示，过去24小时Solana网络上DEX交易额为14.75亿美元，超过以太坊的11.64亿美元，过去一周Solana上DEX交易额增加52.75%。",
-          "link": "https://panewslab.com/zh/articledetails/pi1wruai.html",
-          "publishedOn": "2023-12-16T03:06:28.000Z",
-          "wordCount": 330,
-          "title": "数据：过去24小时Solana上DEX交易额超过以太坊",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qzbcgnl2.html",
-          "author": "PA一线",
-          "description": "PANews 12月16日消息，据链上分析师余烬监测，1小时前，在9月28日割肉UNI后买入MKR的鲸鱼，将958枚MKR（126万美元）转入币安。以他1501美元的成本，该巨鲸的MKR再次亏损18万美元（-13%)。",
-          "link": "https://panewslab.com/zh/articledetails/qzbcgnl2.html",
-          "publishedOn": "2023-12-16T02:56:02.000Z",
-          "wordCount": 335,
-          "title": "一巨鲸将958枚MKR转入币安，亏损18万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/g6i7curf.html",
-          "author": "PA一线",
-          "description": "PANews 12月16日消息，据链上分析师余烬监测，2个Chainlink非循环供应地址在4小时前解锁转出1,125万枚LINK（1.62亿美元），其中820万枚LINK（1.18亿美元）转入币安呢。Noncirculating Supply 15地址解锁转出1,050万，其中745万转入币安；Noncirculating Supply 4地址解锁转出75万，全部转入币安。",
-          "link": "https://panewslab.com/zh/articledetails/g6i7curf.html",
-          "publishedOn": "2023-12-16T02:16:43.000Z",
           "wordCount": 343,
-          "title": "2个Chainlink非循环供应地址在4小时前解锁转出1125万枚LINK",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vb4llf13.html",
-          "author": "PA一线",
-          "description": "PANews 12月16日消息，据玉林市中级人民法院公众号报道，广西壮族自治区高级人民法院公布10起电信网络诈骗及关联犯罪典型案例，玉林市一起虚拟货币电诈案例入选，据悉被告人通过提供作案工具及话本、维护虚假交易平台后台管理等，诱骗外国人到虚假交易平台进行投资，使用国外社交软件与外国人聊天，吸引外国人进行虚拟货币投资，至案发时诈骗金额152708 USDT（1 USDT等于1美元），约合人民币97万余元。本案由广西壮族自治区玉林市福绵区人民法院一审，玉林市中级人民法院二审。现已发生法律效力。",
-          "link": "https://panewslab.com/zh/articledetails/vb4llf13.html",
-          "publishedOn": "2023-12-16T02:14:35.000Z",
-          "wordCount": 349,
-          "title": "玉林市公布一起虚拟货币电诈典型案例，涉案金额超15万枚USDT",
+          "title": "Aki Network完成A轮融资，估值5000万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]

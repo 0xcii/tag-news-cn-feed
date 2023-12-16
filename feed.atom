@@ -1,10 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-16T11:10:54.674Z</id>
+    <id>urn:2023-12-16T16:16:35.805Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-16T11:10:54.674Z</updated>
+    <updated>2023-12-16T16:16:35.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[回顾a16z Crypto投资负责人2018年公开信：深信软件的力量]]></title>
+        <id>https://www.web3sj.com/?p=98205</id>
+        <link href="https://www.web3sj.com/news/98205/"/>
+        <updated>2023-12-16T13:09:14.000Z</updated>
+        <summary type="html"><![CDATA[从历史上看，新的计算模式往往每 10—15 年出现一次：60 年代的大型机，70 年代末的个人电脑，90 年代初的互联网，以及 21 世纪初的智能手机。每一种计算模型都支持新的应用程序类别，这些应用程序构建在平台的独特优势之上。例如，智能手机是第一台真正意义上的个人电脑，内置了 GPS 等传感器和高分辨率摄像头。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ledger Connect Kit被黑之谜]]></title>
+        <id>https://www.web3sj.com/?p=98185</id>
+        <link href="https://www.web3sj.com/news/98185/"/>
+        <updated>2023-12-16T13:01:38.000Z</updated>
+        <summary type="html"><![CDATA[Sushi 首席技术官 Matthew Lilley 在推特发布警告称：「请用户切勿与任何 dApp 交互，直至另行通知。一个常用的 Web3 connector（某 JavaScript 库，是 web3-react 项目的一部分）疑似已被破坏，允许注入影响众多 dApp 的恶意代码。」随后，其表示 Ledger 可能存在可疑代码。慢雾安全团队第一时间表示正在跟进和分析此事件。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avail正在扩展OP Stack的功能，将L2的DA成本降低 90%]]></title>
+        <id>https://www.web3sj.com/?p=98179</id>
+        <link href="https://www.web3sj.com/news/98179/"/>
+        <updated>2023-12-16T12:51:45.000Z</updated>
+        <summary type="html"><![CDATA[OP Stack 已成为社区和公司构建自己 L2 Rollup 的受欢迎选择。它被 OP 主网使用，并由 Optimism Collective 维护。它也是一个开发者已经开始扩展和修改的技术栈。其中一个修改是使用像 Avail 这样专门构建的数据可用性层。在这篇文章中，我们将讨论你如何使用 OP Stack 结合 Avail 作为你的数据可用性提供商，以显著降低你的以太坊交易费用。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[老牌公链们的增长困境：为何Solana生态增长飞轮不可复制？]]></title>
+        <id>https://www.web3sj.com/?p=98168</id>
+        <link href="https://www.web3sj.com/news/98168/"/>
+        <updated>2023-12-16T12:45:05.000Z</updated>
+        <summary type="html"><![CDATA[上周，Solana 生态内的流动质押协议 Jito 空投 JTO 带来的财富效应，彻底激活了被忽略已久的链上生态应用。这时人们发现 Solana 生态已强势复苏，并有一批原生新应用正在试图崭露头角，包括交易聚合器 Jupiter、流动质押平台 Marinade Finance 等等。今日，Solana 链上 TVL 突破 10 亿美元（约为 10.44 亿美元），链上 24 小时交易量为 9.12 亿美元，成为仅次于以太坊（12.3 亿美元）的第二大 Layer1 网络。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitwise团队对2024年加密货币的10个预测]]></title>
+        <id>https://www.web3sj.com/?p=98165</id>
+        <link href="https://www.web3sj.com/news/98165/"/>
+        <updated>2023-12-16T12:37:35.000Z</updated>
+        <summary type="html"><![CDATA[2024 年，大家都在推测比特币将创下新的历史高点，现货比特币交易平台交易基金 (ETF) 将成为有史以来最成功的 ETF 发行，Coinbase 的收入将翻倍，等等论点。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT Trader疑遭攻击，多枚BAYC和MAYC出现异常转账]]></title>
+        <id>https://panewslab.com/zh/articledetails/c6pm9v03.html</id>
+        <link href="https://panewslab.com/zh/articledetails/c6pm9v03.html"/>
+        <updated>2023-12-16T12:29:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月16日消息，NFT 鲸鱼 dingaling 在X平台上表示，如果过去曾经使用过 NFT Trader，请尽快撤销对其合约的批准（0x13d8faF4A690f5AE52E2D2C52938d1167057B9af） 到目前为止，已有 37 枚 BAYC 和 13 枚 MAYC 被提至该地址。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2023-12.16）]]></title>
+        <id>https://www.web3sj.com/?p=98162</id>
+        <link href="https://www.web3sj.com/news/98162/"/>
+        <updated>2023-12-16T12:09:30.000Z</updated>
+        <summary type="html"><![CDATA[美SEC委员：不同意委员会拒绝Coinbase规则制定请愿的决定。Base宣布开源op-viem和op-wagmi代码库。彭博ETF分析师：SEC或将同时批准所有比特币现货ETF申请。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YGG宣布与育碧推出的PvP角色扮演游戏Champions Tactics达成合作]]></title>
+        <id>https://panewslab.com/zh/articledetails/36qlgbvo.html</id>
+        <link href="https://panewslab.com/zh/articledetails/36qlgbvo.html"/>
+        <updated>2023-12-16T11:39:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月16日消息，Yield Guild Games 在X平台上表示与游戏巨头育碧推出的 PvP 角色扮演游戏 Champions Tactics 达成合作，Champions Tactics 是一款 Web3 竞技 PvP 回合制 RPG，游戏 NFT 铸造将于北京时间 12 月 19 日凌晨启动。
+此前消息，游戏巨头Ubisoft（育碧）即将在Oasys区块链上推出链游《Champions Tactics: Grimoria Chronicles》。据悉，育碧是Oasys区块链网络的节点运营商之一。该游戏是一款玩家对玩家的战术游戏，目前该游戏仅发布了一段预告片，但没有展示太多有关游戏玩法的信息。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle首席执行官：在复杂的地缘政治环境中投资者应该配置比特币]]></title>
+        <id>https://panewslab.com/zh/articledetails/cy3e7784.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cy3e7784.html"/>
+        <updated>2023-12-16T11:23:01.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月16日消息，据News.bitcoin报道，Circle 首席执行官 Jeremy Allaire 在接受 CNBC 采访时表示，在复杂的地缘政治环境中，比特币是投资者应该有一定投资的资产。他强调“数字商品将继续存在”，并指出比特币是最大的数字商品资产。Jeremy Allaire还认为，稳定币“在未来几年将出现爆炸性增长。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本Web3联盟旨在整合全球5000余家Web3公司]]></title>
+        <id>https://panewslab.com/zh/articledetails/bghiazjl.html</id>
+        <link href="https://panewslab.com/zh/articledetails/bghiazjl.html"/>
+        <updated>2023-12-16T11:04:49.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月16日消息，据CryptoSlate报道，日本亚洲 Web3 联盟 (AWAJ) 宣布将全球 5,000 多家 Web3 公司整合到日本和亚洲快速发展的 Web3 生态系统中。该举措于 12 月 14 日在 AWAJ 首次新闻发布会期间公布。其 2024 年战略重点关注三个关键领域，包括成立稳定币小组委员会、全球扩张、学生交流计划。
+AWAJ 是日本的一个先锋协会，其成立的愿景是缩小日本、亚洲和全球 web3 社区之间的差距。该联盟的成立和举措是一项战略举措，旨在利用该地区对区块链和去中心化技术日益增长的兴趣。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲸鱼0x6b7购入约31.46万枚MUBI，目前为MUBI的最大散户持有者]]></title>
+        <id>https://panewslab.com/zh/articledetails/choicrix.html</id>
+        <link href="https://panewslab.com/zh/articledetails/choicrix.html"/>
+        <updated>2023-12-16T09:33:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月16日消息，据The Data Nerd监测，鲸鱼0x6b7又花了10.6万枚 USDT 购买了31.46万枚 MUBI 。 在过去 24 小时内，该地址总共积累了 586 万枚MUBI（约 146 万美元），平均价格为 0.25 美元。该地址目前成为MUBI的最大散户持有者，未实现利润为 46.6 万美元。
+此前据Lookonchain监测，鲸鱼0x6b7买入价值141万美元的MUBI，均价0.2541 USDT，今日MUBI上涨超80%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OrdFi生态协议Tap Protocol完成420万美元融资，Sora Ventures领投]]></title>
         <id>https://panewslab.com/zh/articledetails/9nd7ht2a.html</id>
@@ -157,56 +270,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[彭博ETF分析师：SEC或将同时批准所有比特币现货ETF申请]]></title>
-        <id>https://panewslab.com/zh/articledetails/iqehjcqd.html</id>
-        <link href="https://panewslab.com/zh/articledetails/iqehjcqd.html"/>
-        <updated>2023-12-16T03:29:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月16日消息，据The Block报道，彭博ETF分析师James Seyffart在The Scoop播客上表示，比特币现货ETF很可能会在24年1月10日前获批，因为Ark和21Shares的ETF申请届时将迎来最终截止日期。SEC一直在战略性拖延，以免给一家公司带来先发优势。SEC很可能会同时批准所有申请。但灰度的ETF申请目前和其他家不太一样，有可能无法第一时间获批。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：过去24小时Solana上DEX交易额超过以太坊]]></title>
-        <id>https://panewslab.com/zh/articledetails/pi1wruai.html</id>
-        <link href="https://panewslab.com/zh/articledetails/pi1wruai.html"/>
-        <updated>2023-12-16T03:06:28.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月16日消息，DefiLlama数据显示，过去24小时Solana网络上DEX交易额为14.75亿美元，超过以太坊的11.64亿美元，过去一周Solana上DEX交易额增加52.75%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一巨鲸将958枚MKR转入币安，亏损18万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/qzbcgnl2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/qzbcgnl2.html"/>
-        <updated>2023-12-16T02:56:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月16日消息，据链上分析师余烬监测，1小时前，在9月28日割肉UNI后买入MKR的鲸鱼，将958枚MKR（126万美元）转入币安。以他1501美元的成本，该巨鲸的MKR再次亏损18万美元（-13%)。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2个Chainlink非循环供应地址在4小时前解锁转出1125万枚LINK]]></title>
-        <id>https://panewslab.com/zh/articledetails/g6i7curf.html</id>
-        <link href="https://panewslab.com/zh/articledetails/g6i7curf.html"/>
-        <updated>2023-12-16T02:16:43.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月16日消息，据链上分析师余烬监测，2个Chainlink非循环供应地址在4小时前解锁转出1,125万枚LINK（1.62亿美元），其中820万枚LINK（1.18亿美元）转入币安呢。Noncirculating Supply 15地址解锁转出1,050万，其中745万转入币安；Noncirculating Supply 4地址解锁转出75万，全部转入币安。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玉林市公布一起虚拟货币电诈典型案例，涉案金额超15万枚USDT]]></title>
-        <id>https://panewslab.com/zh/articledetails/vb4llf13.html</id>
-        <link href="https://panewslab.com/zh/articledetails/vb4llf13.html"/>
-        <updated>2023-12-16T02:14:35.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月16日消息，据玉林市中级人民法院公众号报道，广西壮族自治区高级人民法院公布10起电信网络诈骗及关联犯罪典型案例，玉林市一起虚拟货币电诈案例入选，据悉被告人通过提供作案工具及话本、维护虚假交易平台后台管理等，诱骗外国人到虚假交易平台进行投资，使用国外社交软件与外国人聊天，吸引外国人进行虚拟货币投资，至案发时诈骗金额152708 USDT（1 USDT等于1美元），约合人民币97万余元。本案由广西壮族自治区玉林市福绵区人民法院一审，玉林市中级人民法院二审。现已发生法律效力。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Axie Infinity之后，Ronin的潜力何在？]]></title>
         <id>https://www.web3sj.com/?p=98123</id>
         <link href="https://www.web3sj.com/gamefinews/98123/"/>
@@ -247,26 +310,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[除了BONK，盘点Binance平台上线合约却没有现货的项目]]></title>
-        <id>https://www.web3sj.com/?p=98098</id>
-        <link href="https://www.web3sj.com/news/98098/"/>
-        <updated>2023-12-15T12:47:56.000Z</updated>
-        <summary type="html"><![CDATA[在 Solana 生态 Meme 代币 BONK 过去 2 个月暴涨超 18000% 后，Binance 于今日宣布上线 BONK 现货交易。除了 meme + Solana 概念，BONK 还属于「在 Binance 有合约但没有现货」的项目之一。根据 LieTu 提供的数据，除了 BONK，Binance 目前还有 6 个有合约但是没有现货的项目，BlockBeats 筛选了其中讨论度比较高的 4 个项目，希望能对读者有所帮助。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-12.15）]]></title>
-        <id>https://www.web3sj.com/?p=98095</id>
-        <link href="https://www.web3sj.com/news/98095/"/>
-        <updated>2023-12-15T12:26:11.000Z</updated>
-        <summary type="html"><![CDATA[LayerZero发布V2版本简介，主网预计于明年1月启动。SEC主席：将根据近期法院裁决重新审视比特币现货ETF申请。Ledger CEO发表公开信详细介绍Ledger Connect Kit被利用问题的具体情况。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[灰度GBTC负溢价率当前收窄为9.23%]]></title>
         <id>https://www.hellobtc.com/news/202312/21503.html</id>
         <link href="https://www.hellobtc.com/news/202312/21503.html"/>
@@ -294,46 +337,6 @@
         <summary type="html"><![CDATA[Web3CN消息，BTC Layer2项目BEVM先行网上的uniswap V2 协议Bswap近日TVL突破50万美金，单日最高交易量超 7.8万美金。受近期sats铭文暴涨影响，该协议上的BTC/sats AMM 交易对异常活跃，交易量占比超80%。据悉，BEVM.io是一个以BTC为gas且兼容EVM的去中心化BTC Layer2项目，Bswap是其先行网上第一个uniswap V2 协议DEX，目前BEVM.io正在开展第一期Odyssey 积分空投活动，链上用户地址数超1万人。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L2排序器去中心化之路为何停滞不前？]]></title>
-        <id>https://www.web3sj.com/?p=98087</id>
-        <link href="https://www.web3sj.com/news/98087/"/>
-        <updated>2023-12-15T09:01:53.000Z</updated>
-        <summary type="html"><![CDATA[在以太坊主网上，用户提交交易到 Mempool，由 Searcher 搜集交易广播出去最终由矿工 Builder 按 GAS 高低排序完成打包出块。这意味着，你提交的交易可能被 MEV，且需要遵循 Nounce 排队机制，付出的 Gas 是 EVM 执行操作所需的费用，结果导致在主网上发交易又贵、又慢还容易被夹。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以DYDX为例，大额解锁会对代币价格产生巨大负面影响吗？]]></title>
-        <id>https://www.web3sj.com/?p=98077</id>
-        <link href="https://www.web3sj.com/news/98077/"/>
-        <updated>2023-12-15T08:51:33.000Z</updated>
-        <summary type="html"><![CDATA[在回顾市场表现前先说结论：巨额代币解锁对于代币币价确实存在直接影响，不过解锁份额中的具体分配细节至关重要，如果大额解锁中投资机构等「资本方」的占比较高，那么解锁后会出现明显的价格承压下跌的状况。而如若解锁的大量代币属于社区等「用户方」，那么解锁所带来的「负面影响」会明显较小。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[热门L1表现对比：Solana之外，哪些生态还有增长空间？]]></title>
-        <id>https://www.web3sj.com/?p=98045</id>
-        <link href="https://www.web3sj.com/news/98045/"/>
-        <updated>2023-12-15T05:14:07.000Z</updated>
-        <summary type="html"><![CDATA[在上个牛市中，如 Solana、Avalanche、Fantom 和 Polygon 等 L1 的表现，在价格拉升方面非常出色。有人可能会认为，这种基础设施的主导地位是一个行业仍处于初期阶段的特征。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对号入座，火爆出圈的赛道都具备哪些要素？]]></title>
-        <id>https://www.web3sj.com/?p=98042</id>
-        <link href="https://www.web3sj.com/news/98042/"/>
-        <updated>2023-12-15T03:56:32.000Z</updated>
-        <summary type="html"><![CDATA[原理简单意味着即使不了解区块链行业的圈外人也能很快接受，所以传播起来也比原理复杂的项目更加容易。我们在一些区块链媒体进行「出圈」二字的搜索时，出现的相关赛道最多的是 NFT 和链游。像链游这种原本 Web2 或 TradFi 有的事物，圈外人理解和接受起来的也更容易。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
