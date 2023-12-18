@@ -1,124 +1,157 @@
 {
   "sources": [
     {
-      "title": "Web3世界",
-      "feedUrl": "https://www.web3sj.com/feed/",
-      "siteUrl": "https://www.web3sj.com",
-      "articles": [
-        {
-          "id": "https://www.web3sj.com/?p=98274",
-          "author": "Gao",
-          "description": "分叉对于永久储存保持长期韧性而言是必要的。关于 Arweave 的分叉有亲社会和反社会两种方式，不幸的是 Irys 追求的正是后者。今天让我们就这个问题讨论一下。",
-          "link": "https://www.web3sj.com/news/98274/",
-          "publishedOn": "2023-12-18T06:21:09.000Z",
-          "wordCount": 944,
-          "title": "Arweave陷分叉风波，创始人炮轰存储解决方案Irys",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702880441203.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98270",
-          "author": "Gao",
-          "description": "美国 SEC 最近宣布了根据联邦证券法对 NFT 发行人的前两项执法行动:Impact Theory（一家总部位于加州的媒体和娱乐公司）和 Stoner Cats 2（一部成人动画电视连续剧的制片人）。这标志着 SEC 监管对象的扩大。美国 SEC 在这两起案件中指控，所出售的 NFT 都是未注册证券。",
-          "link": "https://www.web3sj.com/news/98270/",
-          "publishedOn": "2023-12-18T04:05:26.000Z",
-          "wordCount": 1140,
-          "title": "Pantera Capital加密监管事件年度回顾：利空渐尽，未来可期",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702872313426.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98258",
-          "author": "Gao",
-          "description": "随着比特币 ETF、比特币减半、早期加密牛市以及像 Ordinals 这样令人兴奋的创新不断涌现，很难对比特币经济不抱乐观态度。尽管比特币极端主义者可能试图告诉你其他情况，但比特币要想成为一个具有全球意义的资产，必须在其上方和周围构建繁荣的金融应用层。",
-          "link": "https://www.web3sj.com/definews/98258/",
-          "publishedOn": "2023-12-18T03:52:42.000Z",
-          "wordCount": 1125,
-          "title": "比特币二层网络：Stacks上的顶级DeFi项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702871533974.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98250",
-          "author": "Gao",
-          "description": "除了少数项目通过符合当地特定法律、发行特殊的招股书和特定证券注册实现在一定限制下面向零售投资者的 RWA 发行方案以外（方案具体见 RWA 创新模块），目前市场上大部分的 RWA 都只能面向合格投资者。根据不同地区的规定，要求投资者能够有一定数量的金融资产证明才能被认为是合格投资者，如新加坡要求有 100 万新币（约 73 万美元）的个人金融资产。",
-          "link": "https://www.web3sj.com/definews/98250/",
-          "publishedOn": "2023-12-18T03:45:33.000Z",
-          "wordCount": 1450,
-          "title": "研究：RWA的散户困境与利用DeFi的创新方案",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702871103632.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98242",
-          "author": "Gao",
-          "description": "本文旨在向读者介绍 Solidity 的最新发展和改进，这些发展和改进基于社区的投入和正在进行的辩论。虽然提供的相关信息尚无定论，但它揭示了潜在的技术进步方向。",
-          "link": "https://www.web3sj.com/news/98242/",
-          "publishedOn": "2023-12-18T03:40:32.000Z",
-          "wordCount": 1062,
-          "title": "即将发布1.0.0升级，Solidity未来将会走向何方？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702870755408.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98227",
-          "author": "Gao",
-          "description": "高盛：即使现货比特币ETF获批，比特币也不会立即飙升。现货比特币ETF的批准窗口将在不到20天的时间内到来。Tether已将美国FBI和特勤局引入其平台。",
-          "link": "https://www.web3sj.com/news/98227/",
-          "publishedOn": "2023-12-17T09:36:23.000Z",
-          "wordCount": 839,
-          "title": "Web3世界日报（2023-12.17）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023121709350993.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98205",
-          "author": "Gao",
-          "description": "从历史上看，新的计算模式往往每 10—15 年出现一次：60 年代的大型机，70 年代末的个人电脑，90 年代初的互联网，以及 21 世纪初的智能手机。每一种计算模型都支持新的应用程序类别，这些应用程序构建在平台的独特优势之上。例如，智能手机是第一台真正意义上的个人电脑，内置了 GPS 等传感器和高分辨率摄像头。",
-          "link": "https://www.web3sj.com/news/98205/",
-          "publishedOn": "2023-12-16T13:09:14.000Z",
-          "wordCount": 928,
-          "title": "回顾a16z Crypto投资负责人2018年公开信：深信软件的力量",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/17027321351.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98185",
-          "author": "Gao",
-          "description": "Sushi 首席技术官 Matthew Lilley 在推特发布警告称：「请用户切勿与任何 dApp 交互，直至另行通知。一个常用的 Web3 connector（某 JavaScript 库，是 web3-react 项目的一部分）疑似已被破坏，允许注入影响众多 dApp 的恶意代码。」随后，其表示 Ledger 可能存在可疑代码。慢雾安全团队第一时间表示正在跟进和分析此事件。",
-          "link": "https://www.web3sj.com/news/98185/",
-          "publishedOn": "2023-12-16T13:01:38.000Z",
-          "wordCount": 1198,
-          "title": "Ledger Connect Kit被黑之谜",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1702731678.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98179",
-          "author": "Gao",
-          "description": "OP Stack 已成为社区和公司构建自己 L2 Rollup 的受欢迎选择。它被 OP 主网使用，并由 Optimism Collective 维护。它也是一个开发者已经开始扩展和修改的技术栈。其中一个修改是使用像 Avail 这样专门构建的数据可用性层。在这篇文章中，我们将讨论你如何使用 OP Stack 结合 Avail 作为你的数据可用性提供商，以显著降低你的以太坊交易费用。",
-          "link": "https://www.web3sj.com/news/98179/",
-          "publishedOn": "2023-12-16T12:51:45.000Z",
-          "wordCount": 1043,
-          "title": "Avail正在扩展OP Stack的功能，将L2的DA成本降低 90%",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/17027310881.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98168",
-          "author": "Gao",
-          "description": "上周，Solana 生态内的流动质押协议 Jito 空投 JTO 带来的财富效应，彻底激活了被忽略已久的链上生态应用。这时人们发现 Solana 生态已强势复苏，并有一批原生新应用正在试图崭露头角，包括交易聚合器 Jupiter、流动质押平台 Marinade Finance 等等。今日，Solana 链上 TVL 突破 10 亿美元（约为 10.44 亿美元），链上 24 小时交易量为 9.12 亿美元，成为仅次于以太坊（12.3 亿美元）的第二大 Layer1 网络。",
-          "link": "https://www.web3sj.com/news/98168/",
-          "publishedOn": "2023-12-16T12:45:05.000Z",
-          "wordCount": 1717,
-          "title": "老牌公链们的增长困境：为何Solana生态增长飞轮不可复制？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/17027306831.png"
-        }
-      ]
-    },
-    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/yr36c9n0.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据The Block报道，OKX的非同质化代币（NFT）交易平台在过去24小时的交易量超过了5000万美元，超过了Blur和OpenSea，分别为1321万美元和325万美元。这使得OKX成为按日交易量计算的最大NFT市场。OKX之所以能够实现这一成就，是因为它支持了BTC Ordinals NFT的交易。与此同时，Bitcoin网络上的NFT交易量在12月10日至12月17日的一周内从1.2128亿美元增长到3.0544亿美元。同一周，以太坊上的 NFT 交易量达到 9345 万美元，而 Solana 的交易量为 9074 万美元。\n据悉，OKX对BRC-20代币和Bitcoin Ordinals的战略支持是其显著增长的主要推动力。OKX与UniSat Wallet合作开发了一个交叉验证过程，用于在比特币区块链上索引BRC-20交易，并开发了一个官方的BRC-20浏览器​​。",
+          "link": "https://panewslab.com/zh/articledetails/yr36c9n0.html",
+          "publishedOn": "2023-12-18T09:06:48.000Z",
+          "wordCount": 376,
+          "title": "OKX的NFT交易平台日交易量超过5000万美元，高于Blur和OpenSea",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/z10x9c98.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，ZK L2 网络 ZKFair 宣布将与 Web3 域名和身份平台 SPACE ID 合作推出 .zkf 域名服务，预计该域名将于12月20号 ZKFair 主网上线后 1-2 周左右推出。届时将开放白名单活动和未来的 Public Mint，注册用户均可在与 SPACE ID 集成的所有协议中使用该域名。\nZKFair 是首个基于 Polygon CDK、Celestia DA 和 Lumoz RaaS 的 ZK L2 社区网络，公平发射，完全社区驱动，其 Token 也将 100% 通过空投的方式发放给社区。ZKFair测试网于12月7日上线，主网将于12月20号上线。\nSPACE ID 是一个去中心化的域名服务协议，用户可以绑定自己多个链的身份，并且社区可以通过 SPACE ID 的网络构建自己的顶级域名服务。",
+          "link": "https://panewslab.com/zh/articledetails/z10x9c98.html",
+          "publishedOn": "2023-12-18T08:41:09.000Z",
+          "wordCount": 465,
+          "title": "ZK L2 网络ZKFair 将与SPACE ID合作推出.zkf 域名服务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/s2hjdc4z.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据链上分析师@ai_9684xtpa监测，WLD做市商过去一周累计归还2320万枚WLD和6557万枚USDC，五大做市商目前共持有254万枚WLD。",
+          "link": "https://panewslab.com/zh/articledetails/s2hjdc4z.html",
+          "publishedOn": "2023-12-18T08:38:20.000Z",
+          "wordCount": 340,
+          "title": "WLD做市商过去一周累计归还2320万枚WLD和6557万枚USDC",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ba35q4ui.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，Animoca Brands近日披露的数据显示，截至2023年11月30日，Animoca Brand持有的现金和稳定币余额为1.72亿美元，持有的第三方代币（包括表外SAND代币储备）总价值约合3.3亿美元，资产负债表外代币储备（含生态代币）价值约合16亿美元，这些资产共计约21亿美元。\n此外，Animoca Brands表示其投资的公司数量已超过400家，包括游戏领域约110家，基础设施领域约50家，DeFi领域约29家，元宇宙领域约13家等。",
+          "link": "https://panewslab.com/zh/articledetails/ba35q4ui.html",
+          "publishedOn": "2023-12-18T08:36:34.000Z",
+          "wordCount": 377,
+          "title": "Animoca Brands：截至11月30日持有现金和代币资产约21亿美元，已投资超400家公司",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/yb3dcjlo.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据The Block报道，继上周早些时候出售5600万美元Coinbase股票，Cathy Wood旗下Ark Invest于上周五又出售了18,962股Coinbase股票，价值约280万美元。Ark还在周五出售了更多Grayscale Bitcoin Trust股票，除了上周一和周三出售的1450万美元GBTC之外，还出售了12,000股GBTC（约合409,000美元）。按照此数据，Ark Invest上周共出售了价值约5900万美元的Coinbase股票和1500万美元的GBTC。",
+          "link": "https://panewslab.com/zh/articledetails/yb3dcjlo.html",
+          "publishedOn": "2023-12-18T08:17:04.000Z",
+          "wordCount": 366,
+          "title": "Ark Invest上周五再次出售价值约280万美元的Coinbase股票和41万美元的GBTC",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/42r4a1o8.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据CoinShares周报数据，数字资产投资产品近期经历了小规模的资金外流，总计1600万美元，结束了连续11周的资金流入趋势。但交易活动仍然远高于今年的平均水平，上周总交易量达到36亿美元。这次轻微的资金外流主要集中在美国，流出资金约1800万美元，而德国也出现了1000万美元的小幅外流。与此同时，加拿大和瑞士持续看到资金流入，分别为690万美元和910万美元。这种混合的区域流动趋势表明，这更多是由于获利了结，而非对这一资产类别的情绪转变。\n其中，比特币经历了最大的资金外流，上周达到3300万美元，而做空比特币的产品也见到了30万美元的小幅外流。Solana、Cardano、XRP和Chainlink等其他加密货币共实现了2100万美元的资金流入，但以太坊和Avalanche分别出现了440万美元和100万美元的资金外流。与此同时，区块链股票继续获得积极情绪的支持，上周吸引了1.22亿美元的大量资金流入，使过去9周的累计流入达到2.94亿美元，创下历史最高纪录。",
+          "link": "https://panewslab.com/zh/articledetails/42r4a1o8.html",
+          "publishedOn": "2023-12-18T08:11:06.000Z",
+          "wordCount": 343,
+          "title": "CoinShares：上周数字资产投资产品净流出1600万美元，结束连续11周净流入趋势",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xfppc3ge.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据CNBC报道，Yuga Labs元宇宙Otherside背后的开发公司Improbable已将其于2019年收购的多人游戏服务公司The Multiplayer Group（MPG）以7650万英镑(约合9710万美元)的价格出售给了Keywords Studios。\nImprobable联合创始人兼首席执行官Herman Narula表示，这笔交易是其“风险投资”战略的一部分，即通过投资或收购游戏和元宇宙相关团队，并选择在以后扩大或拆分这些团队。尽管此举表明Improbable可能会缩减与游戏相关的投资，但Narula并不认为出售MPG意味着其缩减该领域业务。Narula表示：“我们不会出售任何技术，也不会停止与游戏公司的合作。”\n据悉，Keywords总部位于爱尔兰，在洛杉矶、法国、巴西、墨西哥和西班牙等地拥有70多个工作室，该公司主要为第三方开发商开发游戏。MPG成立于2018年，以《Fallout 76》和《Medal of Honor: Above and Beyond》等游戏的幕后工作而闻名。",
+          "link": "https://panewslab.com/zh/articledetails/xfppc3ge.html",
+          "publishedOn": "2023-12-18T08:06:06.000Z",
+          "wordCount": 362,
+          "title": "Otherside开发公司Improbable以约9710万美元价格售出其旗下一家游戏公司",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ltr6bpla.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，DID市场聚合器GoDID宣布以3000万美元估值完成新一轮融资，NGC领投，融资金额未披露。\n据悉，GoDID的功能包括各类DID的批量搜索、注册、交易和管理。",
+          "link": "https://panewslab.com/zh/articledetails/ltr6bpla.html",
+          "publishedOn": "2023-12-18T07:50:37.000Z",
+          "wordCount": 357,
+          "title": "DID市场聚合器GoDID以3000万美元估值完成新一轮融资，NGC领投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1hg4zcyw.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据官方消息，蚂蚁数科旗下Web3品牌ZAN与NFTScan达成技术合作，NFTScan使用ZAN节点服务，与十条主流公链建立高速连接，以提高平台的敏捷性和稳定性。官方表示，引入ZAN的节点服务后，NFTScan不再需要自己运行节点，数据存储、计算等综合成本节省50%以上，稳定性有了多层保障。在高并发访问的情况下，所有链都能够做到低延时地获取准确数据。\n据了解，双方还将在NFT数据服务、Mint Blockchain基础设施开发等方面展开合作。",
+          "link": "https://panewslab.com/zh/articledetails/1hg4zcyw.html",
+          "publishedOn": "2023-12-18T07:48:29.000Z",
+          "wordCount": 349,
+          "title": "蚂蚁数科旗下Web3品牌ZAN与NFTScan达成合作，NFTScan将引入ZAN节点服务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a2m4legk.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，Coingecko数据显示，ASTR代币价格突破0.14美元，现报0.1426美元，1小时涨幅达83.1%，24小时涨幅76.5%。\n今日早些时候消息，Upbit将在韩元市场上线ASTR。",
+          "link": "https://panewslab.com/zh/articledetails/a2m4legk.html",
+          "publishedOn": "2023-12-18T07:44:46.000Z",
+          "wordCount": 348,
+          "title": "ASTR代币价格突破0.14美元，1小时涨幅超80%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/pq4uui8u.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据官方公告，韩国加密交易所Upbit宣布将在韩元市场上线ASTR，交易预计于北京时间今日17:00开启。",
+          "link": "https://panewslab.com/zh/articledetails/pq4uui8u.html",
+          "publishedOn": "2023-12-18T07:36:58.000Z",
+          "wordCount": 344,
+          "title": "Upbit将在韩元市场上线ASTR",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/33tys17j.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据《福布斯》报道，香港数字资产保险公司OneDegree获Dubai Insurance战略投资，投资金额未披露。OneDegree联合创始人兼首席执行官Alvin Kwock表示，此次投资是6月份5500万美元B轮融资的基础上的投资，这使得OneDegree的融资总额接近1亿美元。注资后，OneDegree将开始向正在迪拜申请开展加密相关业务许可证的公司提供数字资产保险产品。\nKwock预计，到2024年底，其数字资产保险服务的客户数量将激增至100多家。他还估计，数字资产保险业务明年将占OneDegree总业务的一半左右，高于目前的30%。\n此前6月消息，OneDegree完成2700万美元融资，戈壁创投、新鸿基和Bitrock等参投。",
+          "link": "https://panewslab.com/zh/articledetails/33tys17j.html",
+          "publishedOn": "2023-12-18T07:34:58.000Z",
+          "wordCount": 360,
+          "title": "香港数字资产保险公司OneDegree获Dubai Insurance战略投资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/t0zygikt.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，去中心化交易所Trader Joe在X平台发布警告称，Trader Joe在谷歌搜索出现虚假广告，该广告并非该项目方发布。Trader Joe称其未赞助Google广告；谷歌搜索中出现的该链接疑似是骗局，可能会导致连接的钱包遭到破坏和耗尽。",
+          "link": "https://panewslab.com/zh/articledetails/t0zygikt.html",
+          "publishedOn": "2023-12-18T07:26:47.000Z",
+          "wordCount": 355,
+          "title": "Trader Joe：未在谷歌搜索中发布赞助广告，切勿点击可疑链接",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/119gtg56.html",
+          "author": "PA一线",
+          "description": "PANews 12月18日消息，据官方公告，币安将于2023年12月18日18:00（东八区时间）上线 ACE 1-50倍 U本位永续合约。",
+          "link": "https://panewslab.com/zh/articledetails/119gtg56.html",
+          "publishedOn": "2023-12-18T07:16:26.000Z",
+          "wordCount": 364,
+          "title": "币安将上线 ACE 1-50倍 U本位永续合约",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/wb34lcv1.html",
           "author": "PA一线",
           "description": "PANews 12月18日消息，据官方公告，PancakeSwap宣布已在BNB Chain上线ACE-USDT交易对。",
           "link": "https://panewslab.com/zh/articledetails/wb34lcv1.html",
           "publishedOn": "2023-12-18T07:10:19.000Z",
-          "wordCount": 341,
+          "wordCount": 343,
           "title": "PancakeSwap已在BNB Chain上线ACE-USDT交易对",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +161,7 @@
           "description": "PANews 12月18日消息，币安行情显示，ACE上线后短时触及14.8美元，现回落至12.3136美元，较开盘价0.3571美元上涨3348.22%。",
           "link": "https://panewslab.com/zh/articledetails/d972cdy5.html",
           "publishedOn": "2023-12-18T06:59:13.000Z",
-          "wordCount": 335,
+          "wordCount": 337,
           "title": "ACE上线币安后短时触及14.8美元，目前较开盘价上涨超3348%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +171,7 @@
           "description": "PANews 12月18日消息，据官方公告，币安闪兑交易平台已上线ACE新资产，用户现可将ACE兑换成BTC、USDT或闪兑交易平台支持的其他代币，兑换免手续费。自2023年12月20日08:00（东八区时间）起，用户可以通过币安定投支持的任意支付方式购买ACE。",
           "link": "https://panewslab.com/zh/articledetails/9n9b3djo.html",
           "publishedOn": "2023-12-18T06:49:23.000Z",
-          "wordCount": 344,
+          "wordCount": 346,
           "title": "币安闪兑交易平台上线ACE新资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +181,7 @@
           "description": "PANews 12月18日消息，据链上分析师@ai_9684xtpa监测，某巨鲸50分钟前向Coinbase转入2345枚ETH，价值约合509万美元。\n据悉，这笔ETH是巨鲸在四天前转入钱包的，预计成本为2254美元；若这次转入CEX后全部卖出，将亏损约20万美元。",
           "link": "https://panewslab.com/zh/articledetails/g28cm5cj.html",
           "publishedOn": "2023-12-18T06:31:38.000Z",
-          "wordCount": 339,
+          "wordCount": 341,
           "title": "某巨鲸向Coinbase转入2345枚ETH，约合509万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +191,7 @@
           "description": "PANews 12月18日消息，据官方消息，Web3基础设施提供商HashQuark宣布正式更名为HashKey Cloud，实现全面品牌升级。作为HashKey Group的核心成员，HashKey Cloud将致力于为全球区块链用户提供升级的、创新的基础设施服务。\n根据新闻稿，这一战略调整是对其业务长期发展轨迹和战略要求深入分析的结果，该项目的全新的产品线包括升级的质押服务、去中心化身份标识（DID）解决方案、合规性流动性质押产品（EPotter）、STO基础设施服务以及AppChain节点运营产品。",
           "link": "https://panewslab.com/zh/articledetails/7nu1s6uc.html",
           "publishedOn": "2023-12-18T06:28:56.000Z",
-          "wordCount": 348,
+          "wordCount": 350,
           "title": "HashQuark宣布正式更名为HashKey Cloud，推出升级版基础设施服务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,148 +201,8 @@
           "description": "PANews 12月18日消息，据Lookonchain监测，借助WIF代币，某交易者在5天内将22.6万美元变成了169万美元。该交易者在12月13日至15日期间买入1,986万枚WIF，平均价格为0.01137美元。1986万枚WIF现在价值169万美元，相当于5天内赚了约147万美元。",
           "link": "https://panewslab.com/zh/articledetails/dggfj2vm.html",
           "publishedOn": "2023-12-18T06:24:51.000Z",
-          "wordCount": 333,
+          "wordCount": 335,
           "title": "某交易者借助WIF代币5天内将22.6万美元变成169万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7r0gxarb.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据Cointelegraph报道，12月5日至12月16日的法庭文件显示，8月1日至10月31日，加密交易所FTX的破产律师和顾问共收取了1.181亿美元的费用，在92天内，这相当于每天130万美元或每小时53,300美元。最大的账单来自管理咨询公司Alvarez and Marshall，三个月的服务费为3580万美元。排名第二的是全球律师事务所Sullivan and Cromwell，收费3180万美元。Sullivan and Cromwell的服务时薪平均为每小时1230美元。全球咨询公司AlixPartners在此期间收取了1330万美元的法政调查相关专业服务费用。Quinn Emanuel Urquhart & Sullivan同期收费1,040万美元，而其他几家规模较小的咨询公司的收费总计超过2,680万美元。与此同时，一位匿名的FTX债权人在12月17日X帖子中分享的数据显示，自FTX破产案件开始以来，FTX已全额支付的法律费用总额约为3.5亿美元。\n法院指定的收费审查员Katherine Stadler在12月5日提交的一份较早的报告中，指出了大型咨询公司(包括Sullivan and Cromwell、Alvarez and Marshall等)在5月1日至6月31日期间提交的账单中存在“重大问题”。关于Alvarez and Marshall提交的账单，报告写道:“费用审核员发现了明显的头重脚重的人员配备，会议出席率明显过高，与非工作旅行时间有关的费用、以及一些时间入账(包括模糊和集中入账)方面的各种技术和程序缺陷。”",
-          "link": "https://panewslab.com/zh/articledetails/7r0gxarb.html",
-          "publishedOn": "2023-12-18T06:02:04.000Z",
-          "wordCount": 391,
-          "title": "FTX于8月初至10月底为破产咨询服务支付1.181亿美元费用，即每小时5.3万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/madr5455.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据Cointelegraph报道，周末，以太坊EVM链上的铭文数量激增，导致其GAS消耗激增。根据Dune Analytics的数据，12月16日，用于铭文的Gas费用飙升至830万美元，创下历史新高。Avalanche网络的Gas消耗最多，仅当天就花费了超过560万美元。 Aribitrum One排名第二，用于铭文Gas费用达到210万美元。在过去的24小时内，Avalanche 58%的网络Gas都花在了EVM铭文上，而zkSync Era则有48%的费用花在了EVM铭文上。此外，BNB Chain在过去24小时内73%的交易都是关于铭文的。这种情况在Arbitrum One网络上非常严重，以至于在12月15日造成了78分钟的中断。\n与此同时，比特币网络在周末也看到了铭文的激增，增加了区块空间需求和交易费用。根据mempool.space的数据，目前有近28万笔未经确认的交易。观察人士称，这导致比特币交易费用飙升至37美元，使得大多数人无法将比特币网络用于点对点数字货币。12月18日，NFT和Ordinals专家“Leonidas”注意到，在过去的24小时内，某单个铭文系列（未指明是哪个项目）的销量超过了CryptoPunks、BAYC、MAYC、Pudgy Penguins、Azuki、DeGods、Moonbirds、Doodles和Meebits的总和，并表示“Bitcoin Frogs ”系列以1.82亿美元的市值位居Ordinal PFP系列的榜首。",
-          "link": "https://panewslab.com/zh/articledetails/madr5455.html",
-          "publishedOn": "2023-12-18T05:42:48.000Z",
-          "wordCount": 371,
-          "title": "以太坊EVM链上单日GAS费用消耗激增至830万美元，创历史新高",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/cz8au5q5.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据链上分析师@ai_9684xtpa统计，新币ACE质押挖矿已在今天早上结束，将在下午2点上线交易；币安和OKX质押挖矿情况如下：\n币安：质押1357万枚BNB，13.5亿枚FDUSD，总规模45.5亿美元；\nOKX：质押4079枚BTC，99万枚OKB，总规模2.2亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/cz8au5q5.html",
-          "publishedOn": "2023-12-18T05:28:32.000Z",
-          "wordCount": 337,
-          "title": "新币ACE质押挖矿已结束：币安总规模45.5亿美元，OKB总规模2.2亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/x09snv7z.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据中国企业家杂志报道，刘畊宏在接受专访时谈到，“有些人问我，未来会做多少年直播？我觉得直播的形式可能不会火很多年，但跳操的形式一定会以其他方式存在下去。随着科技的发展，未来，我们也许会在元宇宙中一起跳操，我或许可以将各个城市的畊宏男孩女孩连线，大家一起比赛、一起评分。我们或许不必戴着厚厚的VR头盔，可能只需戴着薄薄的镜片，或者隐形眼镜，就可以一起跳操。未来，在各个饭店里，在一些空地前，如果有投影或者大屏，我觉得可以随地变成跳操房，大家可以更好地打破跳操的时空界限。”",
-          "link": "https://panewslab.com/zh/articledetails/x09snv7z.html",
-          "publishedOn": "2023-12-18T05:19:03.000Z",
-          "wordCount": 332,
-          "title": "刘畊宏：未来可能在元宇宙里跳操，直播的形式可能不会火很多年",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/d8i237h0.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，广东省高级人民法院公众号发文披露一起案件，被告人陈某伙同他人以虚拟货币泰达币作为交易对象，按美元价格兑换人民币，商量好后陈某在互联网上的虚拟货币交易平台向散户收购泰达币，利用手机进行泰达币交易约81.4万个，按当天人民币与美元的汇率进行兑换共计人民币510万余元，后在检查站被公安干警人赃俱获，上述交易款项被当场扣押。大埔县人民法院一审认定，以虚拟货币为交易媒介，在互联网虚拟货币交易平台非法进行外币与人民币的货币价值转换，属变相买卖外汇，情节严重的，以非法经营罪定罪处罚。",
-          "link": "https://panewslab.com/zh/articledetails/d8i237h0.html",
-          "publishedOn": "2023-12-18T05:13:13.000Z",
-          "wordCount": 341,
-          "title": "广东省高院：以虚拟货币为媒介进行外币与人民币的货币价值转换属变相买卖外汇",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1vu5zn55.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，韩国游戏巨头Nexon旗下NFT游戏项目MapleStory Universe在X平台宣布于近日获得1亿美元投资，投资方未披露。\n据悉，MapleStory（冒险岛）于2003年在韩国首次亮相，此后在全球其他几个国家发行。在游戏中，玩家创建自己的角色并开始任务，与怪物战斗，并在虚拟世界中与其他玩家互动。该游戏具有各种不同的职业可供选择，每个职业都有自己独特的技能。此前今年3月消息，Nexon宣布在Polygon上推出NFT游戏MapleStory Universe。",
-          "link": "https://panewslab.com/zh/articledetails/1vu5zn55.html",
-          "publishedOn": "2023-12-18T05:06:24.000Z",
-          "wordCount": 366,
-          "title": "Nexon旗下NFT游戏项目MapleStory Universe宣布获得1亿美元投资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/12wwe1fv.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据Spot On Chain监测，MUBI的早期投资者之一过去1个多小时内卖出537万枚MUBI，价值约合118万美元。链上信息显示，该投资者在一个月前曾以0.017美元的价格买入450万枚MUBI。",
-          "link": "https://panewslab.com/zh/articledetails/12wwe1fv.html",
-          "publishedOn": "2023-12-18T05:00:37.000Z",
-          "wordCount": 343,
-          "title": "一MUBI早期投资者卖出价值118万美元的MUBI代币，预计获利100万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2py30lk5.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，BC科技集团发布公告称，董事会建议公司的英文名称由“BC Technology Group Limited”更改为“OSL Group Limited”，并将公司的中文名称由“BC科技集团有限公司”更改为“OSL集团有限公司”。\n公告称，“OSL”为集团经营的数字资产及区块链平台的品牌名称。董事会认为，就未来业务发展而言，建议更改名称将为公司提供更合适的企业形象，并提升公司的品牌识别度。因此，董事会相信，建议更改名称的计划符合公司及股东的整体利益。",
-          "link": "https://panewslab.com/zh/articledetails/2py30lk5.html",
-          "publishedOn": "2023-12-18T04:58:04.000Z",
-          "wordCount": 355,
-          "title": "BC科技集团拟更名为“OSL集团有限公司”",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qyvzuoqk.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据Lookonchain监测，Galaxy Digital过去一小时内向币安存入11,200枚ETH，约合2430万美元。",
-          "link": "https://panewslab.com/zh/articledetails/qyvzuoqk.html",
-          "publishedOn": "2023-12-18T04:05:01.000Z",
-          "wordCount": 349,
-          "title": "Galaxy Digital向币安存入11200枚ETH，约合2430万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/x21yug14.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据链上分析师@ai_9684xtpa监测，2小时前，ETH巨鲸从币安转出4360枚ETH（价值957万美元）并存入Spark Protocol，随后借出472万枚DAI兑换成USDT存回币安。\n过去两个月，该地址已累计向Spark存入6260枚ETH，借出683万枚DAI，目前健康度1.64。",
-          "link": "https://panewslab.com/zh/articledetails/x21yug14.html",
-          "publishedOn": "2023-12-18T03:53:05.000Z",
-          "wordCount": 345,
-          "title": "某巨鲸2小时前从币安转出4360枚ETH并存入Spark Protocol，约合957万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/oxnqjbi0.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，比特币Layer2项目MAP Protocol在X平台上表示：“将于北京时间12月18日21:00开始将启动大规模的代币销毁，总计133,886,020枚MAP/MAPO（当前价值约合600万美元），占流通供应量的5.9%。这一战略举措旨在提高其生态系统的价值和稳定性。据悉，MAP和MAPO都是MAP Protocol的原生代币，这是相同的代币，但使用不同的代码符号来区分它们所在的链。”",
-          "link": "https://panewslab.com/zh/articledetails/oxnqjbi0.html",
-          "publishedOn": "2023-12-18T03:50:07.000Z",
-          "wordCount": 351,
-          "title": "MAP Protocol计划于今日销毁超1.3亿枚原生代币，占流通供应量的5.9%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2i2t6296.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，三箭资本联合创始人Zhu Su在X平台发文表示，其认为铭文是加密领域中一个相当具有颠覆性的新原语，从概念上讲，它介于普通代币和NFT之间，但实际上，它比现有的智能合约逻辑便宜得多。基本上将值放在注释字段（notes field）中，就像在书中传递注释一样。",
-          "link": "https://panewslab.com/zh/articledetails/2i2t6296.html",
-          "publishedOn": "2023-12-18T03:27:58.000Z",
-          "wordCount": 350,
-          "title": "Zhu Su：铭文是加密领域中具有颠覆性的新原语",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/h0a25vr7.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据链上分析师余烬监测，某巨鲸于3小时前从币安提出500枚BTC，价值约合2068万美元。\n该巨鲸此前在5-10月以27,670美元均价从币安提出BTC，然后在11/6-12/12以40,085美元均价将635.9枚BTC转入币安，实现盈利790万美元。",
-          "link": "https://panewslab.com/zh/articledetails/h0a25vr7.html",
-          "publishedOn": "2023-12-18T03:24:29.000Z",
-          "wordCount": 337,
-          "title": "某巨鲸于3小时前从币安提出500枚BTC，约合2068万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7a484grg.html",
-          "author": "PA一线",
-          "description": "PANews 12月18日消息，据CryptoSlate报道，根据以太坊域名服务ENS创始人兼核心开发人员Nick Johnson上周发布的消息，ENS已实现去中心化治理。此前该项目的根节点由以太坊社区的成员管理，而Johnson在上周的X帖子中写道：“这确实是一个时代的结束，这是我刚刚发送给ENS根密钥持有者的消息，请求将他们最后的权力转移给DAO。”\nJohnson所附电子邮件称，ENS的DAO是由ENS代币持有者组建和控制的治理组织，一致投票获得了该项目根节点的控制权，为了响应这些投票结果，他创建了一个交易来执行两个操作，将根控制权转移到DAO地址（wallet.ensdao.eth），这笔交易将所有剩余的多重签名责任转移给DAO，从而“完全废除多重签名”。目前尚不清楚其他多重签名所有者是否已批准该交易。\n之前管理ENS multisig的个人包括Chainlink的Sergey Nazarov、Metamask的Dan Finlay、MyCrypto的Taylor Monahan、Colony的Aron Fischer、以太坊基金会的Jason Carver和Martin Swende、以及Johnson本人。Johnson在他的信息中对这些人表示：“非常感谢你们……多年来为ENS服务。”",
-          "link": "https://panewslab.com/zh/articledetails/7a484grg.html",
-          "publishedOn": "2023-12-18T03:19:29.000Z",
-          "wordCount": 357,
-          "title": "ENS根节点控制权转移给DAO的投票获得通过，标志着ENS实现去中心化治理",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -325,9 +218,9 @@
           "description": "1.Celestia铭文项目CIAS：因高访问量导致RPC故障，将提前12小时通知恢复时间。\n\n2.昨日比特币链上的铭文矿工费花费999万美元。\n\n3.受Trader Joe创始人发布铭文影响，Avalanche网络单笔交易手续费突破4美元。\n\n4.Solana Saga手机因Bonk在eBay溢价率500%达5,000美元。\n\n5.Multicoin联创：预计未来12个月内Solana Web3手机Saga所有者将获得空投。\n\n6.Zhu Su发布推文「东山再起」，OX短时涨超15%。\n\n7.Bitcoin Frogs地板价升至0.4 BTC，续创历史新高。\n\n8.Irys：Arweave创始人的行为与项目愿景背道而驰，Irys从未也不会剥夺用户对数据存储位置的选择权。\n\n9.Arweave创始人：Irys“出于贪婪目的”正计划分叉Arweave。",
           "link": "https://www.hellobtc.com/news/202312/21504.html",
           "publishedOn": "2023-12-18T01:56:00.000Z",
-          "wordCount": 315,
+          "wordCount": null,
           "title": "白话区块链早报：因链上铭文打新热度持续，各链gas持续拉高甚至直接崩溃",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21503.html",
@@ -335,9 +228,9 @@
           "description": "据Coinglass数据显示，当前灰度总持仓价值约为385.7亿美元，其中灰度比特币信托基金（GBTC）的负溢价率为9.23%；ETH信托负溢价率为13.97%。此外，ETC信托负溢价为28.83%，LTC信托正溢价为58.6%。",
           "link": "https://www.hellobtc.com/news/202312/21503.html",
           "publishedOn": "2023-12-15T11:45:00.000Z",
-          "wordCount": 302,
+          "wordCount": null,
           "title": "灰度GBTC负溢价率当前收窄为9.23%",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21502.html",
@@ -345,9 +238,9 @@
           "description": "据加密公司Paxos的一份报告，显在受访美国金融服务公司中，其中99%今年对加密项目的关注程度与往年一样或更多。根据调查结果，尽管对采用加密相关技术有着极大的兴趣，但这些公司仍面临着各种障碍和挑战。56%的受访者表示，部署复杂性是推出加密解决方案的最大障碍。",
           "link": "https://www.hellobtc.com/news/202312/21502.html",
           "publishedOn": "2023-12-15T11:45:00.000Z",
-          "wordCount": 303,
+          "wordCount": null,
           "title": "报告：美国99%金融企业今年对加密项目的关注程度与往年一样或更多",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21501.html",
@@ -355,9 +248,9 @@
           "description": "Web3CN消息，BTC Layer2项目BEVM先行网上的uniswap V2 协议Bswap近日TVL突破50万美金，单日最高交易量超 7.8万美金。受近期sats铭文暴涨影响，该协议上的BTC/sats AMM 交易对异常活跃，交易量占比超80%。据悉，BEVM.io是一个以BTC为gas且兼容EVM的去中心化BTC Layer2项目，Bswap是其先行网上第一个uniswap V2 协议DEX，目前BEVM.io正在开展第一期Odyssey 积分空投活动，链上用户地址数超1万人。",
           "link": "https://www.hellobtc.com/news/202312/21501.html",
           "publishedOn": "2023-12-15T10:31:00.000Z",
-          "wordCount": 331,
+          "wordCount": null,
           "title": "BTC L2项目BEVM先行网上的uniswap V2 协议Bswap TVL突破50万美金",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21500.html",
@@ -365,9 +258,9 @@
           "description": "1.比特币Ordinals协议已诞生一年整。\n\n2.OKX NFT Marketplace 24 小时交易额跃升行业第一。\n\n3.韩国央行行长：不受监管的稳定币在价值上是不稳定的。\n\n4.Ledger CEO：将帮助受影响的个人尝试追回资金。\n\n5.DWF Labs合伙人：DWF Labs正为大型生态系统、L1和L2构建2个做市商产品。\n\n6.数据：Solana网络TVL突破11亿美元，生态多个协议TVL周增幅超20%。\n\n7.慢雾余弦：虽然Ledger npmjs被投毒版本已删除，但目前jsDelivr上还有带毒js文件。\n\n8.Solana链上铭文代币Sols地板价上涨至82 SOL，24小时涨幅扩大至472.41%。\n\n9.Solana手机Saga赠送的BONK价值已超过手机官方售价。\n\n10.Solana生态代币BONK市值突破10亿美元。",
           "link": "https://www.hellobtc.com/news/202312/21500.html",
           "publishedOn": "2023-12-15T03:28:00.000Z",
-          "wordCount": 327,
+          "wordCount": null,
           "title": "白话区块链早报：比特币Ordinals协议已诞生一年整",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21499.html",
@@ -375,9 +268,9 @@
           "description": "MetaMask在X平台表示，最近的黑客攻击影响所有用户，而不仅仅是Ledger用户。我们已经部署了 MetaMask Portfolio 的修复程序。最新版本v2.121.0的用户将能够再次进行交易并且将自动更新。如果用户使用的不是此版本，请刷新网站数据。",
           "link": "https://www.hellobtc.com/news/202312/21499.html",
           "publishedOn": "2023-12-14T15:36:00.000Z",
-          "wordCount": 318,
+          "wordCount": null,
           "title": "MetaMask：已部署MetaMask Portfolio修复程序，将自动更新",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21498.html",
@@ -385,9 +278,9 @@
           "description": "Tether首席执行官 Paolo Ardoino 在X平台发文表示，Tether已冻结了 Ledger 漏洞利用者的地址。",
           "link": "https://www.hellobtc.com/news/202312/21498.html",
           "publishedOn": "2023-12-14T15:36:00.000Z",
-          "wordCount": 313,
+          "wordCount": null,
           "title": "Tether已冻结Ledger漏洞利用者地址",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21497.html",
@@ -395,9 +288,9 @@
           "description": "MetaMask在社交媒体上表示，已发现对Ledger Connect Kit的攻击，请停止使用dapp。用户在MetaMask Portfolio上执行任何交易之前，请确保已在MetaMask Extension中启用Blockaid功能，MetaMask Portfolio团队正在着手解决这个问题，并且已经准备好了一个补丁，将于今天发布。",
           "link": "https://www.hellobtc.com/news/202312/21497.html",
           "publishedOn": "2023-12-14T14:11:00.000Z",
-          "wordCount": 320,
+          "wordCount": null,
           "title": "MetaMask：已发现对Ledger Connect Kit的攻击，请停止使用dapp",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21496.html",
@@ -405,9 +298,9 @@
           "description": "Ledger在社交媒体上发文表示，已识别并删除了Ledger Connect Kit的恶意版本。现在正在推送正版版本来替换恶意文件。暂时不要与任何dApp交互。用户的Ledger设备和Ledger Live没有受到损害。",
           "link": "https://www.hellobtc.com/news/202312/21496.html",
           "publishedOn": "2023-12-14T13:47:00.000Z",
-          "wordCount": 316,
+          "wordCount": null,
           "title": "Ledger已识别并删除Ledger Connect Kit的恶意版本",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202312/21495.html",
@@ -415,9 +308,9 @@
           "description": "据Bitcoin Magazine披露文件显示，Valkyrie向美国证券交易委员会提交比特币现货ETF的第四次修正案。",
           "link": "https://www.hellobtc.com/news/202312/21495.html",
           "publishedOn": "2023-12-14T13:47:00.000Z",
-          "wordCount": 309,
+          "wordCount": null,
           "title": "Valkyrie向美国SEC提交比特币现货ETF第四次修正案",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         }
       ]
     }
