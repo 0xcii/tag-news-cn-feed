@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-20T04:14:11.269Z</id>
+    <id>urn:2023-12-20T05:11:08.932Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-20T04:14:11.269Z</updated>
+    <updated>2023-12-20T05:11:08.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[链上数据分析平台：商业化探索]]></title>
+        <id>https://www.web3sj.com/?p=98422</id>
+        <link href="https://www.web3sj.com/news/98422/"/>
+        <updated>2023-12-20T05:04:18.000Z</updated>
+        <summary type="html"><![CDATA[本文以 DeBank、0xScope、Nansen、Dexscreener、Arkham 以及 Dextool 这六个提供数据服务的资讯类产品为案例，讨论变现路径的选择与资本驱动下的平台图景。之所以选择这六个产品原因有二：一是它们服务时间相对较长，用户基础较为稳固；二是已代表目前变现路径选择的不同尝试。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写Celestia脚本后有感：Cosmos很多工作没搞好]]></title>
+        <id>https://www.web3sj.com/?p=98412</id>
+        <link href="https://www.web3sj.com/news/98412/"/>
+        <updated>2023-12-20T04:54:20.000Z</updated>
+        <summary type="html"><![CDATA[我先去 Celestia 官网和 Github 看了一圈，并没有面向开发者 build 用户场景的用例，主要都是节点运行等相关的文档。当然这可以理解，因为 Celestia 并不是一个 ToC 的区块链。Celestia 只是在一个不起眼的地方，提到自己是基于 Cosmos 的，用 CosmJS 就可以与其主网交互。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DePIN起风，还有哪些项目值得关注？]]></title>
+        <id>https://www.web3sj.com/?p=98409</id>
+        <link href="https://www.web3sj.com/news/98409/"/>
+        <updated>2023-12-20T04:14:52.000Z</updated>
+        <summary type="html"><![CDATA[随着近期 $MOBILE 不断创新高，彻底点燃了 DePIN 市场的情绪，DePINscan 数据显示，目前 DePIN 概念市场的市值已超过 30 亿。除了 Mobile，BlockBeats 整理了 6 个值得关注的 DePIN 项目，供读者参考。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这3个迹象表明，SEC或将批准现货比特币ETF]]></title>
         <id>https://www.web3sj.com/?p=98406</id>
@@ -13,6 +43,81 @@
         <summary type="html"><![CDATA[贝莱德（BlackRock）最近更新了现货 BTC ETF 的申请文件，特别是允许现金赎回。这一战略转变似乎与 SEC 的偏好密切相关，有可能增加获批的机会。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWF Labs：热衷于支持和投资去中心化AI项目]]></title>
+        <id>https://panewslab.com/zh/articledetails/0h3lkx1b.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0h3lkx1b.html"/>
+        <updated>2023-12-20T03:55:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月20日消息，DWF Labs在X平台发文称：“我们热衷于支持和投资去中心化AI项目，以培育该行业的创新。对于寻求能够为该领域创造价值的合作伙伴的团队，请联系DWF Ventures。”DWF Ventures先前在X平台发文称：“中心化人工智能系统面临重大障碍：人工智能功能集中在中心化系统中，引起了人们对数据访问、模型相关性和人工智能应用的整体可持续性的担忧。为了应对这些挑战，去中心化AI成为一种有前途的范例，为中心化的局限性提供了潜在的解决方案。”]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美参议员透露美国银行家协会“帮助制定”了新的反加密法案]]></title>
+        <id>https://panewslab.com/zh/articledetails/0509b5bi.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0509b5bi.html"/>
+        <updated>2023-12-20T03:48:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月20日消息，据Cointelegraph报道，12月20日，一段出现在X上的视频显示，参议员Roger Marshall承认，他和参议员Elizabeth Warren接触了美国银行业最大的游说组织——美国银行家协会(ABA)，以寻求该协会帮助他们起草《数字资产反洗钱法》。《数字资产反洗钱法案》于2022年12月首次推出，旨在将非托管钱包、验证器和矿池等加密技术置于美国严格的银行业监管之下。Marshall还提到了Warren与摩根大通首席执行官Jamie Dimon的会面，两人都认为“加密货币只是犯罪分子的工具”。这段视频来自本月早些时候的一个议会安全情报论坛。
+Coinbase首席执行官布Brian Armstrong在回应这段视频时表示，他对参议员Warren和Marshall现在为银行游说感到失望。他补充说：“进入2024年，反加密是一个非常糟糕的政治策略。”与此同时，金融律师Scott Johnsson建议，对Warren参议员感到愤怒的选民应该把注意力集中在过去一年里支持她改革的脆弱席位上。
+12月11日，该法案获得了五名新的参议员作为共同提案人，其中包括三名银行委员会成员。美国银行业倡导组织银行政策研究所(BPI)也支持参议员Warren提出的反加密立法。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARK Invest昨日出售价值约552万美元的Coinbase股票]]></title>
+        <id>https://panewslab.com/zh/articledetails/drikt3x6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/drikt3x6.html"/>
+        <updated>2023-12-20T03:35:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月20日消息，据Ark Invest Daily的统计数据，Cathie Wood旗下ARK Invest于12月19日继续减持Coinbase股票，共售出34261股，价值约552万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum生态游戏Layer3网络Xai拟于本月末空投XAI代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/uewnn4ml.html</id>
+        <link href="https://panewslab.com/zh/articledetails/uewnn4ml.html"/>
+        <updated>2023-12-20T03:28:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月20日消息，Arbitrum生态游戏Layer3网络Xai在X平台发文称，Xai odyssey奥德赛活动二期纪念NFT已空投，XAI代币将于本月晚些时候空投。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三个新钱包近两天共积累价值约350美元的LINK代币和313万美元的MATIC代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/5mgb9wpu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5mgb9wpu.html"/>
+        <updated>2023-12-20T03:21:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月20日消息，据Lookonchain监测，注意到几个新钱包正在积累LINK和MATIC。新钱包“0x8eAD”在过去2天内从币安提取了247,860枚LINK（约合350万美元） 。新钱包“0xa813”和“0x38b3”于6小时前从币安提取了总计500万枚MATIC（约合313万美元） 。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZK-L2 网络 ZKFair 主网上线，代币空投开放查询]]></title>
+        <id>https://panewslab.com/zh/articledetails/b3ufsav3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/b3ufsav3.html"/>
+        <updated>2023-12-20T03:21:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月20日消息，据官方消息，ZK-L2 网络 ZKFair 主网已经正式上线，代币空投页面已开放。
+ZKFair 是首个基于 Polygon CDK、Celestia DA的ZK-L2，由Lumoz RaaS提供技术支持。ZKFair完全公平发射，社区驱动，旨在解决目前 L2 估值高，多 PUA，用户参与门槛高的痛点。ZKFair 已经顺利完成从测试网到主网的过渡，并通过多家知名审计机构的审计，确保了网络安全和稳定。
+ZKF代币总供应量为 100 亿枚，所有 Token 将通过空投的方式发放给社区，其中 25 亿将空投给社区用户，包含Polygon zkEVM、zkSync、Linea、Scroll、ZKSpace交互地址、Lumoz 积分持有者、Ordinals 社区等。 用户现在可在官网zkfair.io查询社区空投数额。 75 亿将在主网上线3天后（预计 12月23号11点）通过Gas Fee Airdrop 形式全部释放，Gas Fee上限为3 million USDC，先到先得。未来将不再增发任何 ZKF token。届时100亿 ZKF token都将统一释放并流通。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某地址1小时前将从ETH PoS质押中赎回的26457枚ETH全部转入币安]]></title>
+        <id>https://panewslab.com/zh/articledetails/bu5la4qv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/bu5la4qv.html"/>
+        <updated>2023-12-20T02:58:35.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月20日消息，据链上分析师余烬监测，某地址前天从ETH PoS质押中赎回26,457枚ETH，然后在一小时前将这26,457枚ETH(约合5780万美元) 转入币安。
+该地址与前几天从币安提出15,000枚ETH存入Blast的第一大存款地址有关联：前天转出84枚ETH至这个第一大存款地址。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -158,80 +263,6 @@ LK Venture合伙人邓鹏表示，比特币生态的新资产和新协议正如�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[英国财长将调查该国加密公司面临在银行开户难的问题]]></title>
-        <id>https://panewslab.com/zh/articledetails/28tkkhzq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/28tkkhzq.html"/>
-        <updated>2023-12-20T00:53:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月20日消息，据The Block报道，英国财政部长Jeremy Hunt表示，他将调查有关获得许可的加密公司在该国银行开设企业账户遇到困难的指控，并同意与英国财政部经济部长Bim Afolami会面来讨论此事。这是Hunt在回答加密和数字资产跨党派议会小组主席Lisa Cameron提出的关于英国持牌加密公司面临的困难的问题时做出的回应。
-Hunt补充称：“英国，特别是伦敦，已成为全球加密货币中心。为了确保加密市场真正能够以负责任的方式按照预期的方式起飞，我们需要对其进行监管，这就是为什么我们引入了稳定币立法和促进加密服务的原因。”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellar拟通过升级引入智能合约功能，将于2024年上半年分阶段推出]]></title>
-        <id>https://panewslab.com/zh/articledetails/3cti5ec9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3cti5ec9.html"/>
-        <updated>2023-12-20T00:34:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月20日消息，据CoinDesk报道，公链Stellar宣布，其计划升级以引入智能合约功能，将于2024年上半年分阶段推出，网络验证者投票将于1月30日进行。团队表示：“为了确保此次发布为开发者提供高质量的体验，Stellar将评估试用合约部署，并在智能合约平台（称为Soroban）达到用户就绪的每秒交易水平时与开发者进行沟通。 ”]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frame已开放其代币初始空投申领，明年1月底将推出主网和代币]]></title>
-        <id>https://panewslab.com/zh/articledetails/21atlx4g.html</id>
-        <link href="https://panewslab.com/zh/articledetails/21atlx4g.html"/>
-        <updated>2023-12-20T00:25:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月20日消息，以太坊L2网络Frame在X平台宣布，在过去两年内于以太坊网络上交易过NFT并支付版税的用户有资格申领FRAME代币初始空投，目前已开放申领，Frame主网与代币将于2024年1月31日同时推出，FRAME代币在下一篇章开启前不可转移。
-此外，Frame宣布完成初始融资，Electric Capital和社区成员领投，天使投资人和顾问包括dingaling、9GAG CEO 陈展程、Azuki项目创始人Zagabond等。
-据悉，Frame是专为NFT设计、基于Arbitrum Nitro stack的Layer2 Rollup，为艺术家和爱好者提供探索和测试以NFT为中心体验的平台。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VanEck：投资比特币广告的机会成本很高，宁愿购买并持有比特币]]></title>
-        <id>https://panewslab.com/zh/articledetails/mfogmv2u.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mfogmv2u.html"/>
-        <updated>2023-12-20T00:14:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月20日消息，投资管理公司VanEck在回答X平台网友问题时表示，投资比特币广告的机会成本很高，宁愿购买并持有比特币。
-此前12月18日消息，加密资管公司Bitwise发布比特币ETF营销宣传片。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immutable推出跨多个视频游戏和市场的互操作工具“Passport”]]></title>
-        <id>https://panewslab.com/zh/articledetails/06nbqwbb.html</id>
-        <link href="https://panewslab.com/zh/articledetails/06nbqwbb.html"/>
-        <updated>2023-12-20T00:06:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月20日消息，据The Block报道，链游公司Immutable宣布推出旨在提高互操作性的“Passport”工具。根据一份声明，Immutable的Passport工具旨在简化“玩家的注册过程，为玩家提供通用的个人资料，使他们能够在不同的在线游戏和市场上携带自己的身份、成就和数字资产”。 该工具旨在实现互操作性的承诺，最初可在五款游戏和拥有超过50万用户的市场上使用。这些游戏和市场包括“Gods Unchained”、“blocklette Golf”、“Bleacher Report Watch2Earn”、TokenTrove和AtomicHub。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomicals Protocol：永远不会发行官方ARC20代币]]></title>
-        <id>https://panewslab.com/zh/articledetails/7nx17mpx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7nx17mpx.html"/>
-        <updated>2023-12-19T23:24:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月20日消息，Atomicals Protocol在推特发文提醒用户，称没有官方的ARC20代币，且永远不会有。市场上推出的每一个ARC20代币都是完全独立的，是社区的创作，与Atomicals官方没有任何关系，用户必须进行尽职调查，以确保遵守其管辖范围内的所有适用法律。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去中心化网络formless完成超220万美元Pre-Seed轮融资，a16z crypto参投]]></title>
-        <id>https://panewslab.com/zh/articledetails/qwbnk2xi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/qwbnk2xi.html"/>
-        <updated>2023-12-19T23:10:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月20日消息，据官方消息，去中心化网络formless宣布完成超220万美元的Pre-Seed轮融资，这笔资金将用于继续推进SHARE协议，并支持多人数字经济下一代产品的开发。a16z crypto、Contango Digital Assets、Sandeep Nailwal、dharmesh、Beacon Accelerator、Zypsy、MH Ventures和Knights Capital等参投。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美股小幅高开 区块链概念股走强]]></title>
         <id>https://www.hellobtc.com/news/202312/21514.html</id>
         <link href="https://www.hellobtc.com/news/202312/21514.html"/>
@@ -332,26 +363,6 @@ Hunt补充称：“英国，特别是伦敦，已成为全球加密货币中心�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vitalik的猫，Toly的龙，当这届Meme盯上了创始人们的宠物…]]></title>
-        <id>https://www.web3sj.com/?p=98333</id>
-        <link href="https://www.web3sj.com/news/98333/"/>
-        <updated>2023-12-19T03:48:11.000Z</updated>
-        <summary type="html"><![CDATA[而在铭文之外，漫天飞的 Meme 币们，也同样遵循着类似逻辑。鸡狗猴蛙等动物造型的 Meme 币层出不穷，并且在最近的牛市中涨幅惊人。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大和解！美国法院批准CFTC和币安及其CEO之间的和解协议]]></title>
-        <id>https://www.web3sj.com/?p=98330</id>
-        <link href="https://www.web3sj.com/news/98330/"/>
-        <updated>2023-12-19T03:44:46.000Z</updated>
-        <summary type="html"><![CDATA[根据最近的一份声明，法院宣布赵长鹏和币安涉嫌违反《商品交易法》和 CFTC 的规定，导致赵长鹏个人被处以 1.5 亿美元的民事罚款。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报： OKX NFT市场日交易量超过Blur和OpenSea]]></title>
         <id>https://www.hellobtc.com/news/202312/21510.html</id>
         <link href="https://www.hellobtc.com/news/202312/21510.html"/>
@@ -433,16 +444,6 @@ Hunt补充称：“英国，特别是伦敦，已成为全球加密货币中心�
         <summary type="html"><![CDATA[贝莱德全球固定收益首席投资官Rick Rieder称，市场对美联储3月开始降息的预期可能太早了。随着美国国债全线遭抛售，Rieder表示，“我认为，今天的收缩在一定程度上是合理的”。市场走势反映出即鲍威尔并不打算“这么快这么激进地开始降息。”Rieder表示，他对鲍威尔在FOMC会议上的鸽派基调感到惊讶。Rieder称他低配收益率曲线的短端，当美联储确实开始转向时，看好曲线的中段。较长期限美国国债收益率的大幅下跌一直令人惊讶，Reider表示，“对曲线长端的需求一直是我所见最奇怪的事情之一。”从历史上来看，略高于4%的30年期国债收益率“没那么有吸引力”，而且在短端收益率更高之际包含“久期风险”。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新认识Meme币：Crypto的社交基石]]></title>
-        <id>https://www.web3sj.com/?p=98308</id>
-        <link href="https://www.web3sj.com/news/98308/"/>
-        <updated>2023-12-18T12:54:16.000Z</updated>
-        <summary type="html"><![CDATA[本文由 Meow 和 MonkeDao 联合创始人兼 CEOR89 共同创作，深入剖析了 meme 币在加密货币生态系统中的角色，强调了它们作为社交基础设施的重要性。文章探讨了 meme 币的文化共鸣、社区建设、叙述和象征、简单易用性、网络杠杆下的押注等多个方面，揭示了它们在塑造数字货币未来中的深远影响。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
 </feed>
