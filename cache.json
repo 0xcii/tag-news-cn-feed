@@ -138,7 +138,7 @@
           "description": "PANews 12月22日消息，Galaxy研究副总裁Christine Kim发文总结第177次以太坊核心开发者执行层会议（ACDE），本周，开发人员设定了在所有三个公共以太坊测试网络上激活Cancun/Deneb升级的暂定日期，测试网升级时间表如下：2023年1月17日Goerli分叉、1月31日Sepolia分叉、2月7日Holesky分叉。上述日期可能会发生变化，因为在接下来的几周内，由于客户端发布的意外错误和问题，开发人员可能需要更新这些日期。开发人员还讨论了第二个Goerli影子分叉的性能，Layer 2的预编译地址范围，以及对Prague/Electra升级的期望。会议还确定下一次ACDE会议将于1月4日举行。\n关于第二个Goerli影子分叉的性能，文章提到，12月19日以太坊基金会DevOps团队启动了Goerli测试网的第二个影子分支。影子分叉由290个节点激活，每个节点运行100个验证器，分布在纽约、法兰克福、班加罗尔和悉尼。除了Erigon客户端之外，几乎所有的以太坊客户端都能够加入影子分叉并成功升级。基金会的DevOps工程师Parithosh Jayanthi表示，自分叉启动以来，网络参与率在99%到100%之间，这表明几乎所有Goerli影子分叉上的验证器都正确连接到网络。他指出，由于Cancun/Deneb升级，网络上的节点平均带宽增加了大约200kbps。尽管如此，网络没有看到任何块重组事件或块传播中的严重延迟，即使在blob垃圾邮件和blob延迟测试中也是如此。\n关于Layer 2的预编译地址范围，作为背景，预编译是以太坊上的地址，其行为类似于智能合约，并启用复杂的加密计算，否则这些计算过于昂贵，无法直接通过以太坊执行引擎(EVM）执行。由于L2希望通过添加新的预编译器来扩展智能合约执行功能，这些预编译器可能还不一定存在于以太坊上，因此存在一个问题，即L2是否应该使用以太坊有朝一日可能使用的预编译地址。由于存在争议，Dietrichs建议L2目前使用以太坊主网单独的预编译地址范围。他补充说，开发人员可以稍后决定是否要使用与L2上实现的相同的预编译地址，当时间到来时，在以太坊上激活已经在L2上广泛采用的新预编译。对于自定义地址范围，开发人员同意保留0x512地址范围，供L2通过RIP进程使用。开发人员还同意创建一个新的信息EIP说明这一点，并引用RIP GitHub存储库，以获取关于哪些地址已被L2用于预编译的额外信息。\n关于Prague/Electra提案，Beiko强调，客户团队应该审查布Prague/Electra提案，并准备好讨论下一次以太坊升级应优先考虑哪些代码更改。而Dietrichs提到，开发者应该尝试在Cancun/Deneb之后的2024年底之前激活小规模升级，而不是试图将复杂的代码更改捆绑在一起，这可能会延迟更多敏感EIP的激活时间。Ryan补充说，开发人员不必为Prague/Electra升级进行“跨层分叉”，EL和CL的代码更改可以彼此独立地进行交付。开发人员期望在Cancun升级后不久在EL上激活的主要代码更改是Verkle Tree升级。正如之前电话会议中所讨论的那样，用更强大的Verkle Tree取代当前使用的Merkle Patricia Tree进行数据组织的升级在过去一年中取得了重大进展，并可能在2024年准备好实施。但是，由于复杂性和风险与升级相关的是，Geth开发人员Guillaume Ballet表示，Verkle升级不应与其他复杂的代码更改或EIP配对。开发人员同意在新的一年重新讨论“仅Verkle升级”的问题。他们还同意安排一次专门的ACDE电话会议，更深入地讨论Verkle升级的细节。另外，Dietrichs提到，数据可用性采样是一项旨在降低以太坊数据可用性成本的升级，正在取得“良好进展”，并且在准备在CL上实施时可能不需要任何协议内更改。",
           "link": "https://panewslab.com/zh/articledetails/69i7bxb2.html",
           "publishedOn": "2023-12-22T09:14:00.000Z",
-          "wordCount": 356,
+          "wordCount": 354,
           "title": "以太坊最新ACDE会议：已设定三个公共测试网络上激活Cancun/Deneb升级的暂定日期",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 12月22日消息，据Adam@Greeks.live发布的12月22日期权交割数据显示，2.5万张BTC期权即将到期，Put Call Ratio为0.70，最大痛点42000美元，名义价值11.1亿美元。21.7万张ETH期权即将到期，Put Call Ratio为0.60，最大痛点2200美元，名义价值4.9亿美元。\nAdam@Greeks.live分析称，本周加密货币在高位震荡，铭文行情仍在继续，资金借贷利率持续走高，同时大量保护性看跌期权成交，所有的信号都指向了潜在暴跌风险。从期权数据中，我们可以看到期权持仓已经较大规模的向明年的期限转移，特别是由于ETF的潜在期望，导致一月份的持仓显著高于以往年份，大规模移仓仍在进行中。",
           "link": "https://panewslab.com/zh/articledetails/e00l00q0.html",
           "publishedOn": "2023-12-22T06:23:56.000Z",
-          "wordCount": 361,
+          "wordCount": 358,
           "title": "2.5万张BTC期权和21.7万张ETH期权将于今日到期，总名义价值16亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 12月22日消息，由多名FTX前高管联合创建的加密货币交易平台 Backpack 宣布其 Backpack Wallet 现已在 iOS 和 Google Play 应用商店上线。\n相关阅读：加密交易所Backpack引关注：打FTX前高管标签，趁Solana生态热度推PYTH空投",
           "link": "https://panewslab.com/zh/articledetails/yq1owwh7.html",
           "publishedOn": "2023-12-22T04:16:27.000Z",
-          "wordCount": 373,
+          "wordCount": 369,
           "title": "加密钱包Backpack现已在iOS和Google Play应用商店上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
