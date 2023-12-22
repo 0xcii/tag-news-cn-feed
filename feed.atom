@@ -1,10 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-22T09:13:31.974Z</id>
+    <id>urn:2023-12-22T10:14:37.627Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-22T09:13:31.974Z</updated>
+    <updated>2023-12-22T10:14:37.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[币安将下架11个GBP相关现货交易对]]></title>
+        <id>https://panewslab.com/zh/articledetails/9kp5t46r.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9kp5t46r.html"/>
+        <updated>2023-12-22T09:42:05.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，据官方公告，币安根据最近的审查将于北京时间12月29日11:00删除并停止以下现货交易对的交易：ADA/GBP、BNB/GBP、BTC/GBP、DOGE/GBP、ETH/GBP、GBP/USDT、LINK/GBP、LTC/GBP、MATIC/GBP、SOL/GBP、XRP/GBP。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arthur Hayes已将440枚ETH存入Lido并铸造USDE，仍持有5451枚ETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/9iedwu02.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9iedwu02.html"/>
+        <updated>2023-12-22T09:36:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，据Scopescan测，链上数据显示，BitMEX创始人Arthur Hayes正将ETH存入Lido，然后在Ethena Labs(他的投资组合)使用stETH铸造USDE。到目前为止，他已经存入了440枚ETH(约合101万美元)，并收到对应金额的USDE。他目前仍然拥有5451枚ETH(约合1250万美元)。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊最新ACDE会议：已设定三个公共测试网络上激活Cancun/Deneb升级的暂定日期]]></title>
+        <id>https://panewslab.com/zh/articledetails/69i7bxb2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/69i7bxb2.html"/>
+        <updated>2023-12-22T09:14:00.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，Galaxy研究副总裁Christine Kim发文总结第177次以太坊核心开发者执行层会议（ACDE），本周，开发人员设定了在所有三个公共以太坊测试网络上激活Cancun/Deneb升级的暂定日期，测试网升级时间表如下：2023年1月17日Goerli分叉、1月31日Sepolia分叉、2月7日Holesky分叉。上述日期可能会发生变化，因为在接下来的几周内，由于客户端发布的意外错误和问题，开发人员可能需要更新这些日期。开发人员还讨论了第二个Goerli影子分叉的性能，Layer 2的预编译地址范围，以及对Prague/Electra升级的期望。会议还确定下一次ACDE会议将于1月4日举行。
+关于第二个Goerli影子分叉的性能，文章提到，12月19日以太坊基金会DevOps团队启动了Goerli测试网的第二个影子分支。影子分叉由290个节点激活，每个节点运行100个验证器，分布在纽约、法兰克福、班加罗尔和悉尼。除了Erigon客户端之外，几乎所有的以太坊客户端都能够加入影子分叉并成功升级。基金会的DevOps工程师Parithosh Jayanthi表示，自分叉启动以来，网络参与率在99%到100%之间，这表明几乎所有Goerli影子分叉上的验证器都正确连接到网络。他指出，由于Cancun/Deneb升级，网络上的节点平均带宽增加了大约200kbps。尽管如此，网络没有看到任何块重组事件或块传播中的严重延迟，即使在blob垃圾邮件和blob延迟测试中也是如此。
+关于Layer 2的预编译地址范围，作为背景，预编译是以太坊上的地址，其行为类似于智能合约，并启用复杂的加密计算，否则这些计算过于昂贵，无法直接通过以太坊执行引擎(EVM）执行。由于L2希望通过添加新的预编译器来扩展智能合约执行功能，这些预编译器可能还不一定存在于以太坊上，因此存在一个问题，即L2是否应该使用以太坊有朝一日可能使用的预编译地址。由于存在争议，Dietrichs建议L2目前使用以太坊主网单独的预编译地址范围。他补充说，开发人员可以稍后决定是否要使用与L2上实现的相同的预编译地址，当时间到来时，在以太坊上激活已经在L2上广泛采用的新预编译。对于自定义地址范围，开发人员同意保留0x512地址范围，供L2通过RIP进程使用。开发人员还同意创建一个新的信息EIP说明这一点，并引用RIP GitHub存储库，以获取关于哪些地址已被L2用于预编译的额外信息。
+关于Prague/Electra提案，Beiko强调，客户团队应该审查布Prague/Electra提案，并准备好讨论下一次以太坊升级应优先考虑哪些代码更改。而Dietrichs提到，开发者应该尝试在Cancun/Deneb之后的2024年底之前激活小规模升级，而不是试图将复杂的代码更改捆绑在一起，这可能会延迟更多敏感EIP的激活时间。Ryan补充说，开发人员不必为Prague/Electra升级进行“跨层分叉”，EL和CL的代码更改可以彼此独立地进行交付。开发人员期望在Cancun升级后不久在EL上激活的主要代码更改是Verkle Tree升级。正如之前电话会议中所讨论的那样，用更强大的Verkle Tree取代当前使用的Merkle Patricia Tree进行数据组织的升级在过去一年中取得了重大进展，并可能在2024年准备好实施。但是，由于复杂性和风险与升级相关的是，Geth开发人员Guillaume Ballet表示，Verkle升级不应与其他复杂的代码更改或EIP配对。开发人员同意在新的一年重新讨论“仅Verkle升级”的问题。他们还同意安排一次专门的ACDE电话会议，更深入地讨论Verkle升级的细节。另外，Dietrichs提到，数据可用性采样是一项旨在降低以太坊数据可用性成本的升级，正在取得“良好进展”，并且在准备在CL上实施时可能不需要任何协议内更改。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：2.56万枚ETH从未知地址存入信标链存款地址]]></title>
+        <id>https://panewslab.com/zh/articledetails/9tqx4ij1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9tqx4ij1.html"/>
+        <updated>2023-12-22T08:59:04.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，Whale Alert 监测显示，北京时间16:06和16:16，两笔均为1.28万枚的ETH（约2942万美元）从同一未知地址存入信标链存款地址。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：不会花很多时间思考加密货币，金钱本质上是一种资源配置的数据库]]></title>
+        <id>https://panewslab.com/zh/articledetails/i1wtbxbo.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i1wtbxbo.html"/>
+        <updated>2023-12-22T08:43:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，据The Block报道，Elon Musk(马斯克)在与Ark Invest首席执行官Cathie Wood的X space对话中表示，他如今几乎不再考虑加密货币了。Musk回应Wood关于比特币对金融系统潜在影响的提问时说：“我不会花很多时间思考加密货币——几乎完全不会。” Musk还谈到了他长期以来对金钱及其本质的思考，他认为金钱本质上是一种资源配置的数据库。他补充说，只要基于规则且政府滥用不严重，法定货币“作为资源配置的数据库实际上是可以的。”Musk将货币系统视为将信息理论应用于金钱问题。他说：“就把它看作是一个信息系统。你想要最小化噪音，减少延迟，减少数据包丢失。因此，通货膨胀就是在系统中增加噪音。”
+此评论发表之际，Musk的公司Tesla似乎继续在其资产负债表上持有数字资产。Tesla第三季度结果显示，截至9月底，该公司持有价值1.84亿美元的数字资产。在公开交易的公司中，Tesla拥有第三大比特币持有量，仅次于MicroStrategy和Marathon Digital Holdings。此外，Tesla的部分小商品还接受Dogecoin作为支付方式。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行情：ETH突破2300美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/h2kcjomu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/h2kcjomu.html"/>
+        <updated>2023-12-22T08:20:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，行情显示，ETH短线突破2300美元，现报2295美元/枚，日内上涨近3%。BTC现报43690美元/枚。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve Finance：关于Vyper安全事件资金恢复的投票结果已被执行，覆盖所有受影响用户]]></title>
+        <id>https://panewslab.com/zh/articledetails/rape2sta.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rape2sta.html"/>
+        <updated>2023-12-22T08:04:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，Curve Finance发推表示，关于Vyper安全事件资金恢复的投票结果已被执行，此次补偿措施覆盖了所有受影响的用户。具体的补偿包括：由白帽黑客恢复并向DAO回收的价值720万美元的以太坊(ETH)将被分发给受影响用户；为了补偿未能收回的损失，将提供价值4200万美元的Curve DAO Token (CRV)；此外，还包括了投票前由其他白帽黑客恢复的资金。
+相关阅读：Vyper 重入锁漏洞导致的Curve 遭黑客攻击全路径分析]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INJ创新高，一览Injective生态或有空投和发展潜力的5个项目]]></title>
         <id>https://www.web3sj.com/?p=98684</id>
@@ -16,6 +91,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[数据：近1000万枚SAND从未知钱包转移到Binance，价值超540万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/veetynx0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/veetynx0.html"/>
+        <updated>2023-12-22T07:31:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，Whale监测显示，北京时间14:55，9,999,990枚SAND（5,437,749 美元）从未知钱包转移到Binance。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Boojum升级为zkSync带来了哪些提升？]]></title>
         <id>https://www.web3sj.com/?p=98681</id>
         <link href="https://www.web3sj.com/uncategorized/98681/"/>
@@ -23,6 +108,40 @@
         <summary type="html"><![CDATA[当一个 Batch 封装完成后，这些交易会被分解成多个特定电路，然后并行高速处理生成大量 STARKs，最后被聚合成一个 STARK 证明。最后再把该 STARK 证明封装成一个 SNARK 证明中，并提交到主网进行验证。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZKFair Gas fee Airdrop 活动倒计时1天，建议提前将USDC跨链到ZKFair主网]]></title>
+        <id>https://panewslab.com/zh/articledetails/jxpn4r9t.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jxpn4r9t.html"/>
+        <updated>2023-12-22T07:21:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，ZK L2 网络 ZKFair 官方宣布，预计将于12月23号11点正式启动 Gas fee Airdrop活动，届时75%的 ZKF 代币将通过Gas fee Airdrop形式全部产出，并和25%社区空投代币同时释放。目前，ZKFair主网已开放跨链桥，为防止活动期间交易拥堵，建议用户提前将USDC跨链到ZKFair主网。
+据ZKFair官方公布，Gas fee Airdrop上限到达 300万 USDC时将自动结束，先到先得。结束后，这75亿Gas fee空投部分和25亿社区空投部分（除Ordinal社区空投部分）的 ZKF 代币将在 24 小时后同时释放，用户可以在规定时间内领取，逾期将自动销毁。未来将不再增发任何代币。
+ZKFair是第一个基于Polygon ZK和Celestial DA的L2网络，由Lumoz提供算力支持。其基于公平发射的理念，空投100%的代币，是一个完全社区驱动的L2网络。ZKFair于12月20日上线主网。参与教程详见原文链接。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOL价格飙升或将使FTX债权人获得超30亿美元的潜在收益]]></title>
+        <id>https://panewslab.com/zh/articledetails/o91n4v7x.html</id>
+        <link href="https://panewslab.com/zh/articledetails/o91n4v7x.html"/>
+        <updated>2023-12-22T07:14:52.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，Spot On Chain发文表示，Solana (SOL) 的价值在24小时内上涨约17%，市值超过了Binance Coin (BNB)。然而，FTX和Alameda仍是其主要持有者之一。从2023年10月24日至12月14日，他们据称将约1322万枚SOL（价值约6.66亿美元）转移到交易所。目前，他们可能还持有约200万枚SOL（价值约1.92亿美元），这些资金随时可能被清算。
+此外，约4050万枚SOL（价值约39.9亿美元）将在2025年前主要以线性月度释放的方式解锁。自FTX宣布破产（2022年11月11日）以来，SOL价格飙升了550%，从17.66美元涨至98美元，这意味着FTX债权人可能获得超过30亿美元的潜在收益。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2.5万张BTC期权和21.7万张ETH期权将于今日到期，总名义价值16亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/e00l00q0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/e00l00q0.html"/>
+        <updated>2023-12-22T06:23:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月22日消息，据Adam@Greeks.live发布的12月22日期权交割数据显示，2.5万张BTC期权即将到期，Put Call Ratio为0.70，最大痛点42000美元，名义价值11.1亿美元。21.7万张ETH期权即将到期，Put Call Ratio为0.60，最大痛点2200美元，名义价值4.9亿美元。
+Adam@Greeks.live分析称，本周加密货币在高位震荡，铭文行情仍在继续，资金借贷利率持续走高，同时大量保护性看跌期权成交，所有的信号都指向了潜在暴跌风险。从期权数据中，我们可以看到期权持仓已经较大规模的向明年的期限转移，特别是由于ETF的潜在期望，导致一月份的持仓显著高于以往年份，大规模移仓仍在进行中。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -236,130 +355,6 @@ ZKFair是第一个基于Polygon ZK和Celestial DA的L2网络，由Lumoz提供算
 13.马斯克：我不会花任何时间思考加密货币。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World APP用户数突破500万，其中超270万人拥有World ID]]></title>
-        <id>https://panewslab.com/zh/articledetails/ocmgcc6n.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ocmgcc6n.html"/>
-        <updated>2023-12-22T02:38:30.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，Worldcoin背后的公司Tools for Humanity的产品负责人Tiago Sada发推表示，World APP 刚刚突破 500 万用户，现在每周有 100 万用户使用，日活35万，月活170万。经过Orb验证的World ID用户数超270万人。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana市值超420亿美元，成为市值第四大加密货币]]></title>
-        <id>https://panewslab.com/zh/articledetails/xcw1do49.html</id>
-        <link href="https://panewslab.com/zh/articledetails/xcw1do49.html"/>
-        <updated>2023-12-22T02:30:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，CoinGecko数据显示，SOL超越BNB成为全球市值第四大加密货币，当前SOL价格 98.47 USDT，在过去七天上涨超30%，目前Solana市值约为420.26亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安已完成RDNT于Ethereum网络的集成，并开放充提业务]]></title>
-        <id>https://panewslab.com/zh/articledetails/i0l1ix4c.html</id>
-        <link href="https://panewslab.com/zh/articledetails/i0l1ix4c.html"/>
-        <updated>2023-12-22T02:03:15.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，币安宣布现已完成Radiant Capital（RDNT）于Ethereum（ERC20）网络的集成，并开放充值、提现业务。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昨夜今晨重要资讯（12月21日-12月22日）]]></title>
-        <id>https://panewslab.com/zh/articledetails/q05afgoj.html</id>
-        <link href="https://panewslab.com/zh/articledetails/q05afgoj.html"/>
-        <updated>2023-12-22T01:52:07.000Z</updated>
-        <summary type="html"><![CDATA[消息人士：SEC要求比特币现货ETF发行商采用现金模式，并从申请文件中删除所有实物赎回暗示
-Fox Business记者Eleanor Terrett在推特发文称，消息人士向其透露，美国SEC正在与潜在ETF发行商进行联合电话会议，以确保每个比特币现货ETF产品都采用现金创建，SEC还要求申请者从其申请文件中删除所有关于实物赎回的暗示。
-阿根廷批准使用比特币结算合同
-据Bitcoin Magazine报道，阿根廷已批准使用比特币结算合同，同时获批的还有其他加密货币和/或商品，例如按公斤计量的牛肉或按升计量的牛奶。
-以太坊开发者计划于1月17日在Goerli测试网络上运行Dencun升级
-据CoinDesk报道，以太坊开发者正在加紧为明年的Dencun升级进行测试，这是一个重大的里程碑，旨在通过一个称为“proto-danksharding”的新过程增加数据存储容量。开发者在一次双周会议中讨论了他们的目标，计划在1月17日在Goerli测试网络上运行Dencun，这次升级预期将减少第二层Rollup的费用并通过增加数据的“blobs”来扩展区块链。
-开发人员正在制定Dencun升级的测试时间表，计划在1月31日在Sepolia测试网络上，2月7日在Holesky测试网上进行运行，然后预计在2月底将更改部署到主网络上。并提醒这些日期可能会因为测试网分叉的结果而有所变动。
-比特币现货ETF很可能于1月10日前获批，贝莱德申请首先获批概率最高
-据Bitcoin Magazine报道，美国博彩网站投注赔率显示，比特币现货ETF于明年1月10日前获批的概率很高。与此同时，贝莱德申请首先获批的概率最高。
-灰度CEO：若GBTC获批作为现货ETF上市，其股票代码将保持不变
-灰度CEO Michael Sonnenshein在接受Fox Business采访时表示，如果灰度比特币信托（GBT…]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萨尔瓦多国会批准比特币“捐赠”移民法，预计将在未来几天内生效]]></title>
-        <id>https://panewslab.com/zh/articledetails/zp4y2h2j.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zp4y2h2j.html"/>
-        <updated>2023-12-22T01:40:47.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，据路透社报道，萨尔瓦多国会批准了一项移民法，允许向政府社会和经济发展项目“捐赠”比特币的外国人快速获得公民身份。该法律预计将在未来几天内生效，该法律未设定最低“捐赠”金额。
-本月早些时候报道，萨尔瓦多推出自由签证计划，投资100万美元的BTC或USDT可获得公民身份。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UniSat Wallet的推特账户疑似被黑客攻击，请勿进行交互]]></title>
-        <id>https://panewslab.com/zh/articledetails/2b7bo72j.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2b7bo72j.html"/>
-        <updated>2023-12-22T01:22:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，UniSat Wallet 的推特（X）账户疑似被黑客攻击，并连续数次发布数条钓鱼链接进行宣传某项目，请勿进行交互。
-随后，据慢雾创始人余弦称，UniSat 官推被黑后发的钓鱼链接是 Pink Drainer。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARK Invest再次出售超8万股Coinbase股票，约合1346万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/xnx134d3.html</id>
-        <link href="https://panewslab.com/zh/articledetails/xnx134d3.html"/>
-        <updated>2023-12-22T01:11:27.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，据Ark Invest Daily的统计数据，Cathie Wood旗下ARK Invest于12月21日继续减持Coinbase股票，共售出80118股，按照昨日收盘价约合1346万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3增长营销服务公司Addressable完成600万美元融资，Bitkraft Ventures领投]]></title>
-        <id>https://panewslab.com/zh/articledetails/ewa0uhfy.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ewa0uhfy.html"/>
-        <updated>2023-12-22T00:57:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月21日消息，据Venturebeat报道，Web3增长营销服务公司Addressable宣布已完成600万美元新一轮融资，Bitkraft Ventures领投，战略投资机构Karatage以及 Viola Ventures、Fabric Ventures、Mensch Capital Partners、North Island Ventures等参投。据悉该公司曾在今年一月完成750万美元种子轮融资，截至目前其融资总金额达到1350万美元。
-Addressable主要帮助Web3公司和项目处理付费广告活动，其业务覆盖包括X（原Twitter）、Unity、Pubmatic和Magnite等广告网络，并且支持与Twitter Pixel、DSP Pixel、Mixpanel和Google Analytics无缝集成以追踪网站转换、钱包连接和链上指标等，新资金将用于拓展更多广告网络和区块链。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西班牙央行今年已向30家加密公司颁发了经营许可证]]></title>
-        <id>https://panewslab.com/zh/articledetails/333t6wav.html</id>
-        <link href="https://panewslab.com/zh/articledetails/333t6wav.html"/>
-        <updated>2023-12-22T00:40:08.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，据西班牙央行登记处的最新更新，今年到目前为止，西班牙央行已向约 30 家加密公司颁发了经营许可证，西班牙比特币公司数量增加 50%。西班牙央行批准的加密货币运营商名单目前已有 85 名成员。名单上的绝大多数公司总部位于马德里或巴塞罗那。其他一些公司则位于西班牙较小的城市。但名单上的其他公司总部都在海外。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform Labs和美国SEC就维护审判中某些文件的保密性达成一致]]></title>
-        <id>https://panewslab.com/zh/articledetails/0yt7zm09.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0yt7zm09.html"/>
-        <updated>2023-12-22T00:24:21.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，据Crypto.news报道，Terraform Labs和其法律团队与美国证券交易委员会（SEC）就维护审判中某些文件的保密性达成一致。这一协议与SEC于2月对LUNA创始人提出的指控有关，指控其进行涉及数十亿美元加密资产的欺诈性方案。双方同意由纽约南区的主审法官Jed Rakoff批准的保护令，限制公开披露保密材料，并将密封标记为保密的发现文件，直至审判开始​​。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[致力于以太坊提议者与构建者分离的PBS基金会已筹集100万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/69kwxep7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/69kwxep7.html"/>
-        <updated>2023-12-22T00:20:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月22日消息，据Blockworks报道，用于资助与以太坊提议者与构建者分离相关研究和开发的 PBS 基金会已筹集 100 万美元的初始拨款，该非营利组织的试点阶段得到了 Coinbase、Consensys、Fenbushi Capital、Flashbots、Paradigm、Uniswap 基金会和 Vitalik Buterin 的支持。补助金将由理事会支付。该委员会包括来自 Blocknative、Consensys、以太坊基金会和 Flashbots 等机构的代表。该基金会的资助负责人是 Metagov 研究小组的 Eugene Leventhal。
-提案者-构建者分离 (PBS)最初由以太坊创始人 Vitalik Buterin提出，是将提案者（向区块链上的验证者提交交易包）和构建者（以特定顺序组织交易）分开的概念。 PBS代表了一种去中心化的尝试，提议和建设的结合为富有的中心化矿池提供了竞争优势。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
