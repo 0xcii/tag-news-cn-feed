@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T07:13:03.011Z</id>
+    <id>urn:2023-12-25T08:17:41.602Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-25T07:13:03.011Z</updated>
+    <updated>2023-12-25T08:17:41.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[模型之争：隐私公链的UTXO与账户体系]]></title>
+        <id>https://www.web3sj.com/?p=98901</id>
+        <link href="https://www.web3sj.com/news/98901/"/>
+        <updated>2023-12-25T08:06:59.000Z</updated>
+        <summary type="html"><![CDATA[在区块链中，UTXO 和账户模型是常见的账本模型。UTXO 模型将每个交易视为输入和输出的集合，通过输出脚本中嵌入附加内容，提供了更好的隐私保护。它具有减少交易验证时间和成本、保护隐私和提高交易吞吐量等优势。然而，UTXO 模型验证的复杂性带来了一些挑战，特别是在大规模网络中的扩展性和效率方面。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variant联创：投机与去中心化，加密货币的两种故事]]></title>
+        <id>https://www.web3sj.com/?p=98893</id>
+        <link href="https://www.web3sj.com/news/98893/"/>
+        <updated>2023-12-25T07:42:01.000Z</updated>
+        <summary type="html"><![CDATA[以加密货币为「什么」的产品围绕作为投资的资产：用户购买、赚取、交易、借贷、杠杆资产， 包括比特币、MEME 币和 NFT，希望它们价格能够上涨。财富来来去去，有时很快。这些极端行为在行业内部受到自称为「degens」的人的赞扬，而在外部则受到当权者的嘲笑。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：当前比特币网络超30.3万笔交易待确认]]></title>
+        <id>https://panewslab.com/zh/articledetails/ic5ff5h2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ic5ff5h2.html"/>
+        <updated>2023-12-25T07:09:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月25日消息，mempool.space数据显示，当前Bitcoin网络最低交易费用达88 sat/vB，有超过30.3万笔交易待确认，内存池使用量超过了300 MB达到了1.49GB。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疑似同一拥有者的3个新钱包从币安提取257万枚IMX]]></title>
+        <id>https://panewslab.com/zh/articledetails/nbhodpuh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nbhodpuh.html"/>
+        <updated>2023-12-25T06:44:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月25日消息，据Lookonchain监测，约15 小时前，3 个新钱包（由同一地址资助，可能属于同一个人）从Binance提取了 257 万枚 IMX （约633 万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SOL势如破竹，还能涨多久？]]></title>
         <id>https://www.web3sj.com/?p=98886</id>
@@ -13,6 +53,16 @@
         <summary type="html"><![CDATA[对比一下 ETH 曾经经历过的牛熊你就能理解了，上一轮牛市的 ETH 表现的特别优异，对比 2018 年最低点上涨了接近 60 倍。但在这之前对比 2017 年的高点 ETH 从 1440 跌到 81.79 足足跌了 94%，再看 SOL 从 259.9 跌倒 8，跌了 97%。在市场信心强烈冲击时，引发大规模的卖出行为，几乎等于把所有人账户清零从新开始，这个不只是 ETH 和 SOL 经历过，BTC 也曾经有过几次 90% 以上的跌幅，把所有的浮动筹码出清，持仓者稳定。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行情：Kadena（KDA）突破1.5美元，24小时涨幅70.3%]]></title>
+        <id>https://panewslab.com/zh/articledetails/4is7n5t9.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4is7n5t9.html"/>
+        <updated>2023-12-25T06:17:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月25日消息，行情显示，Kadena（KDA）突破1.5美元，24小时涨幅70.3%。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -26,6 +76,27 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[行情：SILLY突破0.12美元，创历史新高]]></title>
+        <id>https://panewslab.com/zh/articledetails/do1qsae1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/do1qsae1.html"/>
+        <updated>2023-12-25T06:02:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月25日消息，行情显示，Solana 链上 Meme 代币 SILLY 突破 0.1 美元，现报 0.124 美元，创历史新高，24小时涨幅 85.6%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEXC澄清CEO账号混淆事件：其X账户从未获得MEXC正式验证，原CEO去年也已离职]]></title>
+        <id>https://panewslab.com/zh/articledetails/hw832ibn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/hw832ibn.html"/>
+        <updated>2023-12-25T05:44:46.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月25日消息，MEXC 在 X 平台发文澄清最近 MEXC_CEO Twitter 账户混淆情况，具体内容为：在MEXC全球市场开拓的早期阶段：MEXC平台确实使用了Twitter账户MEXC_CEO来宣传和维护品牌形象，在Twitter上与用户和项目合作伙伴进行互动。 2022 年 7 月：原 CEO 离职。 2022年12月：原CEO正式从MEXC辞职。 Twitter账户MEXC_CEO从未得到MEXC平台的正式验证，且由于其内容和关注者极少，MEXC没有做出具体公告（这也是删除该账户引起广泛误解的根本原因）。2023 年 12 月：粉丝举报 MEXC_CEO Twitter 帐户被删除。与该帐户关联的个人与 MEXC 官方没有实际联系。
+对于此次事件造成的任何混乱MEXC深表歉意。目前删除了前任CEO的所有互动推文，不再做进一步解释，以免造成更多误解。未来涉及官方媒体的重大人事变动，都将予以公告。MEXC平台上所有官方账号均在MEXC官方验证平台进行验证。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bankless：重审以太坊Rollup路线图]]></title>
         <id>https://www.web3sj.com/?p=98864</id>
         <link href="https://www.web3sj.com/news/98864/"/>
@@ -33,6 +104,16 @@
         <summary type="html"><![CDATA[在 2020 年，Vitalik 指出了以太坊网络的一个紧迫问题：他在 Augur 上下注时，不得不支付 17.76 美元的 Gas 费。这些高昂的费用表明，以太坊在面对不断增加的需求时难以扩展。结果，它变成了一个「为小众而非为全世界」的平台，也偏离了其最初的目标。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyber Network CEO：将推出Zap API，并已裁员50%]]></title>
+        <id>https://panewslab.com/zh/articledetails/3mh6atx7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3mh6atx7.html"/>
+        <updated>2023-12-25T05:34:00.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月25日消息，Kyber Network 首席执行官 Victor Tran 在 X 平台表示，在过去的一个月里，KyberSwap 由于 Elastic 漏洞而面临前所未有的挑战。但包括聚合器和限价订单功能在内的核心业务仍然表现强劲。Kyber Network 将推出 Zap API，这是一项创新开发，将使 dApp、钱包和其他项目成为用户访问 DeFi 流动性协议的最便捷网关。然而，由于 Elastic 漏洞，为了支持受影响的用户，实施了 KyberSwap Elastic 漏洞财政部拨款计划，以弥补高达 100% 的用户损失。Kyber Network 还对业务运营进行了重大改变，包括暂时暂停流动性协议计划和 KyberAI 项目。 此外，Kyber Network 还裁员 50%，正在创建一个自愿数据库，将被裁员工与 Web3 领域的潜在机会联系起来。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -253,68 +334,6 @@ PANews注：“旋转门”指政府官员退休或离职之后下海进入企�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：一新建地址在8小时前从币安提出合计价值785万美元的AAVE和MKR]]></title>
-        <id>https://panewslab.com/zh/articledetails/z57p8sb2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/z57p8sb2.html"/>
-        <updated>2023-12-25T01:03:53.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月25日消息，链上分析师余烬监测，一新建地址在 8 小时前从 Binance 提出价值 785 万美元的两种 DeFi 代币，分别为 47,096 枚 AAVE（约 470万美元）；2,251 枚 MKR（约315万美元）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行情：波卡生态代币有所回落，MOVR最高涨至44美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/9etp3vam.html</id>
-        <link href="https://panewslab.com/zh/articledetails/9etp3vam.html"/>
-        <updated>2023-12-25T00:59:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月25日消息，行情显示，波卡生态代币有所回落，Moonriver（MOVR）现报33.93美元，昨日一度最高涨至44美元；Kusama（KSM）现报51.54美元，此前最高涨至64.5美元；Acala（ACA）现报0.1374美元，昨日最高涨至0.16美元；Glimmer（GLMR）现报0.5577美元，昨日最高涨至0.64美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase回击参议员Elizabeth Warren：指控“完全错误”]]></title>
-        <id>https://panewslab.com/zh/articledetails/x2wy016g.html</id>
-        <link href="https://panewslab.com/zh/articledetails/x2wy016g.html"/>
-        <updated>2023-12-25T00:41:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月25日消息，据The Block报道，Coinbase 周六发表了一封致参议员Elizabeth Warren的信，反驳了她的说法，即该公司以“旋转门”方式雇用前立法者和执法人员，旨在对抗监管限制。Coinbase 在回应中抨击沃伦的指控“故意歪曲我们的意图和努力”，声称这些员工代表了“各个级别最优秀的人才”，并且 Coinbase 支持加密货币领域的“负责任的监管和立法”。
-PANews注：“旋转门”指政府官员退休或离职之后下海进入企业、学校任职的现象。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币网络铭文项目Rune Alpha：市场测试网将于本周交付]]></title>
-        <id>https://panewslab.com/zh/articledetails/s5h22psr.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s5h22psr.html"/>
-        <updated>2023-12-25T00:31:35.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月25日消息，比特币网络铭文项目Rune Alpha在X平台表示，市场测试网将于本周交付。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SafeMoon原CEO在犹他州被拘留，并被拒绝保释]]></title>
-        <id>https://panewslab.com/zh/articledetails/xxfkw0dl.html</id>
-        <link href="https://panewslab.com/zh/articledetails/xxfkw0dl.html"/>
-        <updated>2023-12-25T00:27:01.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月25日消息，据 Inner City Press 报道，美国法院驳回了加密货币公司 SafeMoon 原 CEO Braden John Karony的保释请求，并对其发出了逮捕令，他被指控犯有欺诈和洗钱罪。他上个月被起诉后曾要求保释，但遭到拒绝。检察官指控Braden John Karony、Kyle Nagy和Thomas Smith共谋实施证券欺诈、共谋电信欺诈和共谋洗钱，因为他们在名为“SafeMoon”的去中心化金融数字资产中欺骗了投资者。今天早些时候，Braden John Karony在犹他州普罗沃被捕。
-此前11月2日消息，美国司法部和SEC指控SafeMoon高管实施欺诈。11月10日，SafeMoon CEO保释被法官搁置，因检方称其具有潜逃风险。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana网络单月新增地址数和活跃地址数创年内记录]]></title>
-        <id>https://panewslab.com/zh/articledetails/0km4q018.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0km4q018.html"/>
-        <updated>2023-12-25T00:15:30.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月25日消息，据The Block报道，继其 SOL 较上个月价格上涨 100% 后，Solana 网络还创下了网络上新地址和活跃地址的年内记录。根据The Block 的数据，尽管该月还剩一周，Solana 网络每月新增地址数和活跃地址数创记录。活跃 Solana 网络地址数量比 11 月份增加了约 50%，达到 1,560 万以上，比今年 1 月份创下的 1,520 万个纪录有所增加。截至目前，12 月新增地址数量也创下了 680 万个的纪录，而之前的纪录是在 2023 年 5 月创下的 660 万个。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2023-12.24）]]></title>
         <id>https://www.web3sj.com/?p=98835</id>
         <link href="https://www.web3sj.com/news/98835/"/>
@@ -356,26 +375,6 @@ PANews注：“旋转门”指政府官员退休或离职之后下海进入企�
         <link href="https://www.web3sj.com/gamefinews/98808/"/>
         <updated>2023-12-23T12:50:42.000Z</updated>
         <summary type="html"><![CDATA[随后， Bitcoin Cats 于 12 月 20 日下午 16 点开放其以太坊上 1CAT 代币交易， 开盘涨幅逾 15 倍，现报价 0.007 美元。据 Lookonchain 监测，1CAT 开盘时首个购买该代币的地址花费 603.13 枚 ETH（约合 133 万美元）购买了 4.1389 亿枚 1CAT，之后该地址以 759ETH（约合 168 万美元）的价格出售了 3.892 枚 1CAT，在 15 分钟内赚了 156 枚 ETH（约合 34.5 万美元）。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[结果出炉在即，数据解读ETF批准与否的潜在影响]]></title>
-        <id>https://www.web3sj.com/?p=98797</id>
-        <link href="https://www.web3sj.com/news/98797/"/>
-        <updated>2023-12-23T12:41:50.000Z</updated>
-        <summary type="html"><![CDATA[自从 FTX 崩溃以来，我们一直密切关注加密货币流动性，其中所有交易所的所有资产的交易量和订单深度都全面下降，即使最近市场迎来反弹，也未能将深度或交易量恢复到 FTX 崩溃之前的水平。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alt-Layer1的短暂狂欢之后，以太坊与Layer2叙事何去何从？]]></title>
-        <id>https://www.web3sj.com/?p=98794</id>
-        <link href="https://www.web3sj.com/news/98794/"/>
-        <updated>2023-12-23T12:37:26.000Z</updated>
-        <summary type="html"><![CDATA[实际上因为，Crypto 市场还受限于技术、市场、合规等因素并未实现 Mass Adoption 大规模普及，这些新公链带来的技术「跃迁」并没有成为激发新叙事，扩大新市场增量的抓手，还仅仅在吃以太坊的溢出红利。]]></summary>
         <author>
             <name>Gao</name>
         </author>
