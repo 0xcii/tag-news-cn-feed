@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=99017",
+          "author": "Gao",
+          "description": "除了铭文加剧 EVM 链性能负担这个直接导火索之外，优化 EVM 是加密世界中一个持续的主题——新公链、OP 系 L2、ZK 系 L2 等等，都是优化 EVM 而衍生出的叙事和项目，市场对其估值也会更高。",
+          "link": "https://www.web3sj.com/news/99017/",
+          "publishedOn": "2023-12-26T09:07:55.000Z",
+          "wordCount": 1515,
+          "title": "提前布局下一个叙事：并行EVM兴起，哪些项目值得重点关注？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703581635265.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=99010",
+          "author": "Gao",
+          "description": "Cosmos 和 Layer 3 之间的竞争主要集中在如何平衡灵活性和性能之间的关系。Cosmos 通过 Hub-and-Zone 模型实现了高度的灵活性和互操作性，而 Layer 3 则专注于提高可扩展性。然而，灵活性可能会牺牲一部分性能，而过于追求性能则可能限制了生态系统的灵活性和可塑性。我们的研究将试图探索两者之间更好的平衡点。",
+          "link": "https://www.web3sj.com/news/99010/",
+          "publishedOn": "2023-12-26T08:37:12.000Z",
+          "wordCount": 1030,
+          "title": "Cosmos与Layer3，只能二选一？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703579802160.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=99003",
+          "author": "Gao",
+          "description": "Elena Sinelnikova 是区块链非盈利组织 Crypto Chicks 的创办人，该组织是一个致力于区块链教育的女性组织，主要为女性提供学习及进入区块链领域的机会。由于 Crypto Chicks 的另一位发起人 Natalia Ameline 是以太坊创始人 Vitalik Buterin 的母亲，因此，许多人认为 Metis 是「V 神」母亲站台的项目。",
+          "link": "https://www.web3sj.com/news/99003/",
+          "publishedOn": "2023-12-26T08:16:23.000Z",
+          "wordCount": 1075,
+          "title": "一周涨超190%，Metis生态有哪些值得关注的潜力项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703578551443.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=98973",
           "author": "Gao",
           "description": "成本优化：将⼤部分运算与存储任务移交至 L1 链下也即 L2 上。L2 大多是运⾏在单台服务器也即排序器（Sequencer/Operator）上的⼀条链。",
           "link": "https://www.web3sj.com/project/98973/",
           "publishedOn": "2023-12-26T05:39:45.000Z",
-          "wordCount": 1606,
+          "wordCount": 1607,
           "title": "前Arbitrum技术大使解读Arbitrum的组件结构（上）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703569171545.png"
         },
@@ -21,7 +51,7 @@
           "description": "如同 RWA 并非新事物，它是 DeFi 发展和外部世界环境相适应下的产物，同样如此，DePIN 也不是新事物。早在以太坊诞生以后，就有诸多项目尝试将能源、存储、计算等基础设施的去中心化。其中 Filecoin、Helium 等项目已经取得一定成就。",
           "link": "https://www.web3sj.com/project/98962/",
           "publishedOn": "2023-12-26T05:29:08.000Z",
-          "wordCount": 1423,
+          "wordCount": 1433,
           "title": "详解 IoTeX：DePIN叙事下的物联网新基建",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703568534207.png"
         },
@@ -31,7 +61,7 @@
           "description": "鉴于我在这个行业的地位可能已经接近老手，在我看来，我们似乎有了一个季节性的体系。我们新的「加密货币寒冬」已经进行了一段时间。Web3，更确切地说是加密货币，经常出现在新闻中，但与几年前更乐观的标题相比，往往是出现在更为负面的言语评价下。（的确，经济学家杂志中的一篇更为中肯的评论，发现其与古老的害虫——蟑螂有些相似之处。）这个加密货币寒冬，尽管很可能是不可避免的，但还是受到了某些个体不成功的帮助，他们似乎认为 Web3 可以脱离其技术和文化进行消息传递和市场推广。",
           "link": "https://www.web3sj.com/news/98959/",
           "publishedOn": "2023-12-26T05:18:50.000Z",
-          "wordCount": 1316,
+          "wordCount": 1349,
           "title": "Gavin Wood：波卡2023年年度总结",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703567916108.png"
         },
@@ -41,7 +71,7 @@
           "description": "相比于 BTC，ETH 在交易平台的余额波动性较小。自 2023 年 2 月以来，ETH 在交易平台的余额一直处于下降趋势。在 12 月 11 日至 13 日期间，ETH 在交易平台的余额也出现了小幅反弹，但反弹出现在市场价格下跌期间和之后。",
           "link": "https://www.web3sj.com/news/98951/",
           "publishedOn": "2023-12-26T04:58:44.000Z",
-          "wordCount": 1147,
+          "wordCount": 1139,
           "title": "以太坊最新链上数据、技术进展和2024年看点",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703566698625.png"
         },
@@ -51,7 +81,7 @@
           "description": "Paxos 曾经以其 BUSD 业务而闻名。2023 年 2 月，BUSD 突遭 NYDFS 监管。在 BUSD 被监管叫停之后，Paxos 在稳定币的竞争格局中逐渐走向弱势。而此次 Solana 业务的获批，是否能为 Paxos 带来新的增长点，甚至搅动格局相对稳定的稳定币市场？",
           "link": "https://www.web3sj.com/news/98944/",
           "publishedOn": "2023-12-26T04:55:31.000Z",
-          "wordCount": 1051,
+          "wordCount": 1060,
           "title": "Paxos联姻Solana生态，USDP逢春？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703566517857.png"
         },
@@ -61,7 +91,7 @@
           "description": "区块链上没有秘密，DeFi 的数据透明度也是无可争议的。以 Uniswap V3 上的某一笔交易为例，我们可以通过 Etherescan 网站轻松查看该交易详情（如图 1 所示）。例如，地址 0x3A4D...a6f2 在 Uniswap V3 上用 2 WETH 兑换了 17,654,123,249,375 Bonk，交易费用为 0.0046 Ether。",
           "link": "https://www.web3sj.com/definews/98938/",
           "publishedOn": "2023-12-26T04:50:25.000Z",
-          "wordCount": 1376,
+          "wordCount": 1345,
           "title": "零知识证明技术：点亮DeFi的新星",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703566209218.png"
         },
@@ -71,39 +101,9 @@
           "description": "DePIN 涵盖的领域非常广阔，包括服务器网络、无线网络、感测网络及能源网络。据加密研究机构 Messari 预测，DePIN 总体的行业规模目前大约 2.2 万亿美元，到 2028 年有望增长到 3.5 万亿美元规模。",
           "link": "https://www.web3sj.com/news/98933/",
           "publishedOn": "2023-12-26T04:41:10.000Z",
-          "wordCount": 1088,
+          "wordCount": 1089,
           "title": "2024是否会成为DePIN大年？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703565652064.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98930",
-          "author": "Gao",
-          "description": "相比 calldata 的全节点存储结构，Blob 被设计为部分节点临时存储，这样可以大幅提升 layer2 单次向主网提交的数据上限，可以扩大其 TPS，同时由于只是临时存储，数据存储效率会提升，数据存储成本也直线下滑。而 DA 能力的提升是因为 1 个月的临时存储，来应对 OP-Rollup 7 天的欺诈证明时间窗口也绰绰有余。",
-          "link": "https://www.web3sj.com/news/98930/",
-          "publishedOn": "2023-12-26T04:35:21.000Z",
-          "wordCount": 1116,
-          "title": "坎昆升级临近，L2的Show Time到来？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703565290898.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98915",
-          "author": "Gao",
-          "description": "Solana锁仓量突破14.5亿美元，多个生态协议锁仓量7日增幅超50%。香港众安银行为超80家Web3公司提供商业银行服务。昨日Helium Mobile在美区App Store的iPhone用户预估下载量达1145次，创下近期最高纪录。",
-          "link": "https://www.web3sj.com/news/98915/",
-          "publishedOn": "2023-12-25T10:25:30.000Z",
-          "wordCount": 932,
-          "title": "Web3世界日报（2023-12.25）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023122510231319.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=98901",
-          "author": "Gao",
-          "description": "在区块链中，UTXO 和账户模型是常见的账本模型。UTXO 模型将每个交易视为输入和输出的集合，通过输出脚本中嵌入附加内容，提供了更好的隐私保护。它具有减少交易验证时间和成本、保护隐私和提高交易吞吐量等优势。然而，UTXO 模型验证的复杂性带来了一些挑战，特别是在大规模网络中的扩展性和效率方面。",
-          "link": "https://www.web3sj.com/news/98901/",
-          "publishedOn": "2023-12-25T08:06:59.000Z",
-          "wordCount": 943,
-          "title": "模型之争：隐私公链的UTXO与账户体系",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703491601515.png"
         }
       ]
     },
@@ -113,112 +113,12 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
-          "id": "https://panewslab.com/zh/articledetails/0ueqa73o.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，据Whale Alert监测，573枚BTC（约 24,547,906 美元）从Binance转移到未知钱包。",
-          "link": "https://panewslab.com/zh/articledetails/0ueqa73o.html",
-          "publishedOn": "2023-12-26T07:52:43.000Z",
-          "wordCount": 336,
-          "title": "573枚BTC从Binance转移到未知钱包",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/z3h5poxn.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，据Lookonchain监测，DWF Labs于 4 小时前收到 800 万枚 NFP 。\n此前消息，币安新币挖矿第 41 期项目NFPrompt（NFP）现已开放，用户可以在币安Launchpad&Launchpool网站将BNB、FDUSD、TUSD 投入到NFP挖矿池中获得NFP奖励，NFP共计可挖矿7天。",
-          "link": "https://panewslab.com/zh/articledetails/z3h5poxn.html",
-          "publishedOn": "2023-12-26T07:50:04.000Z",
-          "wordCount": 363,
-          "title": "DWF Labs于4小时前收到800万枚NFP",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/fgzhnixh.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，据链上分析师@ai_9684xtpa监测，孙宇晨从 Binance 转出 6166 枚 ETH，价值 1377 万美元，代币暂未转移 / 卖出。",
-          "link": "https://panewslab.com/zh/articledetails/fgzhnixh.html",
-          "publishedOn": "2023-12-26T07:31:48.000Z",
-          "wordCount": 354,
-          "title": "孙宇晨从币安转出6166枚ETH，暂未转移或卖出",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2kb3l3ac.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，据官方公告，币安将于12月26日20:30（东八区时间）上线 MOVR 1-50倍 U本位永续合约。",
-          "link": "https://panewslab.com/zh/articledetails/2kb3l3ac.html",
-          "publishedOn": "2023-12-26T07:27:15.000Z",
-          "wordCount": 339,
-          "title": "币安将于今晚上线MOVR 1-50倍U本位永续合约",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/reur9kzs.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，行情显示，Galxe（GAL）现报2.45美元，24小时上涨27%；Osmosis（OSMO）现报1.92美元，24小时上涨24.5%；ORDI（ORDI）现报69.17美元，24小时上涨23.5%。",
-          "link": "https://panewslab.com/zh/articledetails/reur9kzs.html",
-          "publishedOn": "2023-12-26T07:14:12.000Z",
-          "wordCount": 324,
-          "title": "行情：GAL日内涨幅27%；OSMO日内涨幅24.5%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/j3bhm502.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，去中心化拍卖平台 Bounce Brand 在 X 平台表示，已推出新 IDO 参与方式 Hotpot Auction，用户可质押各种资产参与代币发行。",
-          "link": "https://panewslab.com/zh/articledetails/j3bhm502.html",
-          "publishedOn": "2023-12-26T06:37:23.000Z",
-          "wordCount": 360,
-          "title": "Bounce Brand推出IDO新参与方式Hotpot Auction，用户可质押资产参与",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/if5an433.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，据官方公告，币安现已完成USD Coin（USDC）于NEAR Protocol网络的集成，并开放充值、提现业务。",
-          "link": "https://panewslab.com/zh/articledetails/if5an433.html",
-          "publishedOn": "2023-12-26T06:23:05.000Z",
-          "wordCount": 332,
-          "title": "币安完成USDC于NEAR Protocol网络集成",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/e9f0e21r.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，据Cointelegraph报道，Blockchain.com 数据显示，12 月 25 日比特币的哈希率达到每秒 544 exahashes (EH/s) 的历史新高，自今年 1 月份以来上涨了 130%。但自 12 月 17 日达到 0.136 美元/TH/s/天的 2023 年高点以来，矿工的盈利能力已下降 34%。",
-          "link": "https://panewslab.com/zh/articledetails/e9f0e21r.html",
-          "publishedOn": "2023-12-26T06:20:31.000Z",
-          "wordCount": 388,
-          "title": "比特币算力昨日达544 EH/s创新高，但矿工盈利能力自12月17日下降34%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/x69a3e9u.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，据Scopescan监测，在过去 24 小时内，某鲸鱼从 Binance 和 BakerySwap 提取了 966 万枚 BAKE （约 692 万美元）。",
-          "link": "https://panewslab.com/zh/articledetails/x69a3e9u.html",
-          "publishedOn": "2023-12-26T06:06:42.000Z",
-          "wordCount": 361,
-          "title": "某鲸鱼1天内从Binance和BakerySwap提取了966万枚BAKE，约692万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/s207ymrl.html",
-          "author": "PA一线",
-          "description": "PANews 12月26日消息，Solana 链上铭文跨链协议Analysoor在X平台上表示，Meme 代币 WHEN 将于今晚10点开启铸造，铸造价格为 0.05 SOL + 1 ZERO，代币总量为 42 亿，公开铸造无任何限制。其中 48% 可公开铸币；48% 代币将与所有 SOL 费用一起添加到 MeteoraAG 的 AMM 池，相关流动性代币将被锁定两年；3% 供应量将在铸币后 3 天内分发给 ONE 持有者；1% 的代币将在一年内逐步分配给社区内的 4 位大使。铸币活动将持续至少 1 小时，目标是 7000 个有效区块。",
-          "link": "https://panewslab.com/zh/articledetails/s207ymrl.html",
-          "publishedOn": "2023-12-26T05:59:50.000Z",
-          "wordCount": 420,
-          "title": "Analysoor：Meme币WHEN确定于今晚10点开启铸造",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
           "id": "https://panewslab.com/zh/articledetails/x7q0x45h.html",
           "author": "PA一线",
           "description": "PANews 12月26日消息，据Cointelegraph报道，谷歌趋势的数据显示，今年谷歌用户对查找人工智能（AI）的兴趣远远超过“比特币”或“加密货币”。 自 2020 年以来，“比特币”以及偶尔“加密货币”的搜索兴趣已经超过了“人工智能”的搜索兴趣，但谷歌的数据显示，这种情况在 2022 年 8 月左右开始出现逆转。“AI”的搜索量在 2022 年 11 月左右爆发，即OpenAI 的 ChatGPT 推出的同月，此后扩大了与加密相关搜索词的差距。目前，全球对“人工智能”的搜索热度在谷歌趋势中得分为 91，而比特币则为 22。谷歌根据某个主题在所有主题的总搜索中所占的比例对搜索词进行评分，从 0 到 100 分。",
           "link": "https://panewslab.com/zh/articledetails/x7q0x45h.html",
           "publishedOn": "2023-12-26T05:47:15.000Z",
-          "wordCount": 387,
+          "wordCount": 393,
           "title": "今年谷歌“人工智能”的搜索量超过比特币和加密货币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +128,7 @@
           "description": "PANews 12月26日消息，据Cointelegraph援引Reddit社交帖报道，比特币交易所 Mt. Gox 的债权人或已开始收到其比特币的法定还款，多位 Reddit 用户声称收到付款，并附上了包含 PayPal 付款收据的电子邮件屏幕截图。Reddit 上的几篇帖子表明，Mt. Gox 一直在通过 PayPal 向用户发送以日元计价的退款。\n此前消息，Mt Gox在官网上表示，受托人已将基本还款、提前一次性还款和中间还款的截止日期分别从2023年10月31日更改为2024年10月31日。对于已向受托人提供必要信息的债权人，将于今年年底前依次进行还款。请注意，还款时间表可能会发生变化，具体每个债权人的还款时间尚未确定。另一方面，对于尚未向受托人提供必要信息的债权人，受托人持续要求这些债权人在开始还款前提供必要信息。",
           "link": "https://panewslab.com/zh/articledetails/agd4u90o.html",
           "publishedOn": "2023-12-26T05:41:53.000Z",
-          "wordCount": 407,
+          "wordCount": 413,
           "title": "市场消息：Mt. Gox债权人或已开始收到日元计价的退款",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +138,7 @@
           "description": "PANews 12月26日消息，基于AI的Prompt-UGC平台NFPrompt表示，正在重新定义 BNB 生态系统的标准。通过构建连接 AIGC 和铭文的基础设施，NFPrompt 将提供铸造和交易特殊铭文的平台。此外还将提供一个市场来促进这些铭文的交易，同时维护分配和交易的公平性。",
           "link": "https://panewslab.com/zh/articledetails/u27v7ay3.html",
           "publishedOn": "2023-12-26T05:30:08.000Z",
-          "wordCount": 364,
+          "wordCount": 370,
           "title": "NFPrompt：将构建连接AIGC与铭文的铸造平台与交易市场",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +148,7 @@
           "description": "PANews 12月26日消息，Atomicals Protocol 在X平台表示，Neutron Protocol 团队对 Atomicals ARC20 代码优化的 atomicals-js CLI（0.1.63 版本）存在漏洞，目前正在修复，该版本无意间广播了一个具有无效 Bitwork 的新交易。请用户在修复期间使用之前的版本（0.1.62）。",
           "link": "https://panewslab.com/zh/articledetails/v3cwz5sc.html",
           "publishedOn": "2023-12-26T04:25:36.000Z",
-          "wordCount": 391,
+          "wordCount": 397,
           "title": "Atomicals Protocol：atomicals-js CLI（0.1.63版）存在漏洞，目前正在修复",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +158,7 @@
           "description": "PANews 12月26日消息，据链上分析师@ai_9684xtpa监测，过去 12 小时，11 个地址累计从 Coinbase 新增转出 25,734 枚 METIS ，价值 198 万美元；目前，这部分地址共持有 30.1 万枚代币（约 2381 万美元），占流通代币总量的 6.6%。",
           "link": "https://panewslab.com/zh/articledetails/pqf6dcrs.html",
           "publishedOn": "2023-12-26T04:12:27.000Z",
-          "wordCount": 396,
+          "wordCount": 402,
           "title": "11个地址过去12小时从Coinbase转出25734枚METIS ，目前这部分地址共持有流通代币总量的6.6%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +168,7 @@
           "description": "PANews 12月26日消息，MetaTrust Labs在X平台表示，其链上监视器MetaScout最近发现了一系列针对Telcoin钱包的针对性攻击，Telcoin（TEL）价格暴跌65%，目前损失约为120万美元。与这些安全漏洞相关的特定地址是：0x35d2775e5f95596509951b140d68fc5b9185ff98。\nTelcoin发推表示，已了解 Telcoin 应用程序的情况。在调查问题期间，已暂时冻结该应用程序的使用，并将尽快提供更新。",
           "link": "https://panewslab.com/zh/articledetails/n4wqlv36.html",
           "publishedOn": "2023-12-26T03:58:30.000Z",
-          "wordCount": 353,
+          "wordCount": 359,
           "title": "Telcoin钱包遭攻击约损失120万美元，目前已暂时冻结应用程序的使用",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +178,7 @@
           "description": "PANews 12月26日消息，加密货币研究公司 Delphi Digital 发布《2024 年 DeFi 未来》。其中提到：以太坊的核心流动性质押格局很难发生任何实质性变化；RWA悄然成为 2023 年加密货币最成功的领域之一、Uniswap V4、Uniswap X 和其他 DEX 将成为 2024 年的主题、Rollups 是各种应用程序的明智选择、IRD 可能成为加密热门叙事之一。",
           "link": "https://panewslab.com/zh/articledetails/kwu5ohw2.html",
           "publishedOn": "2023-12-26T03:51:48.000Z",
-          "wordCount": 410,
+          "wordCount": 416,
           "title": "Delphi Digital：明年以太坊流动性质押格局很难发生实质性变化，IRD或为热门叙事之一",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +188,7 @@
           "description": "PANews 12月26日消息，据官方消息，ZK L2网络ZKFair Gas fee Airdrop活动已于今日上午11点结束，历时48小时，活动总参与人数20.2万，总Gas消耗 1.08 亿 USDC，链上TVL 达1.23 亿美元，目前已超越 Polygon zkEVM，位列 L2 榜单第13名。\n目前，所有参与用户均可通过ZKFair官网查看自己整个活动期间的Gas消耗、ZKF代币奖励、Gas退款等情况。官方表示，为了确保资金安全和数据准确，USDC Gas费退款将在48小时后开启claim，没有领取时间限制。 用户所获得的ZKF 代币也将于 2024 年 1 月 1 日上午 11:00 正式开始Claim。请所有用户在规定时间内完成ZKF的Claim，逾期的ZKF将自动销毁。未来将不再增发任何ZKF代币。\nZKFair社区目前正计划即日上线“ How to make ZKF a 10 billions Project ”的提案活动，页面将于稍后开放，前 10 提案将获得 ZKF Token 捐款的奖励。详情请参考官方未来的公告。",
           "link": "https://panewslab.com/zh/articledetails/pn6hs8px.html",
           "publishedOn": "2023-12-26T03:28:11.000Z",
-          "wordCount": 473,
+          "wordCount": 479,
           "title": "ZKFair Gas fee Airdrop 活动结束，总Gas消耗 1.08 亿 USDC，将于 1 月 1 日开启空投 Claim",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +198,7 @@
           "description": "PANews 12月26日消息，据Spot On Chain监测，在过去 17 小时内，三只鲸鱼（可能是一个人）向 Binance 存入了 3078 万枚 STORJ（约 2530 万美元，平均价格 0.82 美元），占总供应量的 7.24%。最初，鲸鱼在 9 月至 10 月以 0.44 美元的平均价格积累了 1000 万枚 STORJ （约 444 万美元），但随后在 12 月 17 日的暴涨期间以 1.04 美元的价格进一步增持了 2080 万枚 STORJ，导致整体损失 745 美元 (-2.86%)。",
           "link": "https://panewslab.com/zh/articledetails/c9jbr683.html",
           "publishedOn": "2023-12-26T03:24:11.000Z",
-          "wordCount": 437,
+          "wordCount": 443,
           "title": "疑似同一持有者的三个地址在过去17小时内向币安存入3078万枚STORJ",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,8 +208,108 @@
           "description": "PANews 12月26日消息，据链上分析师余烬监测，某鲸鱼9小时前继续从 Binance 提出 2551 枚 MKR（(约 359 万美元）、27,154 枚 AAVE（约 279 万美元）。 该地址昨日从币安提出 74,250 枚 AAVE（约 749 万美元）和 4,802 枚 MKR（约 674 万美元）。",
           "link": "https://panewslab.com/zh/articledetails/1jj3oibr.html",
           "publishedOn": "2023-12-26T03:17:59.000Z",
-          "wordCount": 392,
+          "wordCount": 398,
           "title": "某鲸鱼9小时前从币安提出2551枚MKR和2.7万余枚AAVE",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dk58u7pr.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，Solana 生态交易聚合器 Jupiter 在 X 平台表示，将在接下来的两周内升级系统，特别是可靠性，希望公开征求反馈和批评意见。",
+          "link": "https://panewslab.com/zh/articledetails/dk58u7pr.html",
+          "publishedOn": "2023-12-26T03:03:48.000Z",
+          "wordCount": 346,
+          "title": "Jupiter：接下来两周将升级系统，公开征求反馈意见",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/30qekq9h.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，zkSync 在X平台表示，zkSync Era 网络问题是由于操作员计算状态更新的方式存在边缘情况错误，定序器完全可运行，但基于不必要的安全程序而采取过于防御性的措施，团队解决了该问题，网络已恢复正常，资金从未面临风险。",
+          "link": "https://panewslab.com/zh/articledetails/30qekq9h.html",
+          "publishedOn": "2023-12-26T02:47:11.000Z",
+          "wordCount": 342,
+          "title": "zkSync：zkSync Era网络问题是由于操作员计算状态更新的边缘情况错误",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cge5dq2x.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，据Scam Sniffer监测，过去一小时，两名受害者因网络钓鱼诈骗损失约150余万美元的资产。一名受害者损失了价值 88 万美元的 aEthWBTC，另一名受害者损失了价值 65.3 万美元的 WBTC、USDC 和 WETH。",
+          "link": "https://panewslab.com/zh/articledetails/cge5dq2x.html",
+          "publishedOn": "2023-12-26T02:29:27.000Z",
+          "wordCount": 356,
+          "title": "两名受害者过去1小时因网络钓鱼诈骗损失约150余万美元的资产",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/h8hhqv0d.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，行情显示，Osmosis (OSMO)短时触及2.29美元，现报2.14美元，24小时涨幅13.5%。",
+          "link": "https://panewslab.com/zh/articledetails/h8hhqv0d.html",
+          "publishedOn": "2023-12-26T02:14:40.000Z",
+          "wordCount": 334,
+          "title": "行情：Osmosis (OSMO)短时触及2.29美元，日内涨幅13.5%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b0mgn1z3.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，据官方公告，韩国加密交易所Bithumb将在韩元市场上线Osmosis (OSMO)，仅支持Osmosis（主网）网络，不支持通过其他网络充值。充值预计于北京时间今日13时开始，交易预计于北京时间今日14时开始。",
+          "link": "https://panewslab.com/zh/articledetails/b0mgn1z3.html",
+          "publishedOn": "2023-12-26T01:34:18.000Z",
+          "wordCount": 333,
+          "title": "Bithumb将在韩元市场上线Osmosis (OSMO)",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/4crgfd6v.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，据链上分析师余烬监测，前 NBA 达拉斯独行侠队老板、亿万富翁 Mark Cuban 的钱包地址在 7 小时前从 Polygon PoS 质押合约中赎回 282 万 枚 MATIC（约257万美元）并转入 Coinbase。 Mark Cuban 是在 2021年5月从 Polygon Ecosystem Growth 地址接收到 250 万 MATIC 并存入 PoS 质押。",
+          "link": "https://panewslab.com/zh/articledetails/4crgfd6v.html",
+          "publishedOn": "2023-12-26T01:25:58.000Z",
+          "wordCount": 415,
+          "title": "马克·库班7小时前从Polygon PoS质押中赎回282万枚MATIC并转入Coinbase，价值约257万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3c4jm83x.html",
+          "author": "PA一线",
+          "description": "Uniswap创始人：Uniswap今日成交量高于纽约证券交易所和纳斯达克的成交量总和\nUniswap创始人Hayden Adams在X平台发文称：“今天的Uniswap成交量高于纽约证券交易所和纳斯达克的成交量总和。”\nBitMEX数据：目前市场共有150种加密ETP产品，总资产规模达503亿美元\nBitMEX Research推特发布的数据显示，截至2023年12月22日，市场共有150种加密货币相关ETP产品，总资产规模达503亿美元。\n俄罗斯国家杜马金融市场委员会主席：预计加密立法将在2024年上半年成为法律\n俄罗斯国家杜马金融市场委员会主席Anatoly Aksakov表示：“由于俄罗斯的加密货币市场相当大，加密货币挖矿和流通的主要参与者希望对此进行监管，他们已经准备好纳税。因此，我预计加密货币立法将在2024年上半年成为法律。”\n分析师：受三大因素推动，2024年机构投资者加密活动或将增加\n分析师表示，受比特币现货ETF可能获得批准、美联储预期降息以及监管透明度提高等因素的推动，2024年机构投资者将对加密货币领域表现出更积极的兴趣，金融机构在加密市场的活动可能会增加。\n来自衍生品交易所的数据显示，自2023年10月以来，机构投资者的交易活动有所增加。Deribit首席商务官Luuk Strijers表示，来自传统市场的参与者将在2024年更多地参与加密市场。\nBitfinex分析师认为，传统金融机构更多参与加密市场的主要催化剂为比特币现货ETF获得批准。这将为机构投资者提供一种受监管的方式来押注全球最大加密货币的价格。\nBitfinex分析师表示，2024年可能的降息将鼓励机构投资者承担风险。这种对风险资产的偏好增强最终可能会影响比特币。Bitfinex分析师补充称：“降息可能会使比特币等风险资产对在低利率环境下寻求更高回报的机构投资者更具吸引力。”\n根据Bitfinex的说法，投资者将在新的一年里受到更多监管透明度的鼓舞。Bitfinex分析师表示，在监管透明度方面，最重要的是比特币现货ETF的批准，这将“为散户和机构投资者提供一个受监管的、更容易获得的投资工具”。\n行情：ORDI、1000SATS日内涨幅分别为44.77%和41.58%\n行情显示，ORDI一度突破78美元，现报76.12美元。24小时涨幅44.77%；1000SATS一度涨至0.000889美元，现报0.0008717美元，24小时涨幅41.58%。\nL2网络Blast的TVL已突破10亿美元\nDeBank数据显示，Blur创始人Pacman推出的Layer 2网络Blast合约地址当前持有资产总价值突破10亿美元，达10.3亿美元。其中价值约9.18亿美元的ETH存入Lido协议，1.07亿美元的资产存入Maker协议。\nSui网络TVL突破2亿美元，创历史新高\nSui 网络 TVL 突破 2 亿美元，创历史新高，自 9 月份以来 TVL 增长了近 500%。\nNFPrompt：NFP空投于明日币安上线20分钟前开放领取\n基于AI的Prompt-UGC平台NFPrompt表示，正在为12 月 27 日的NFP空投做准备，为保证流程顺利进行，社区可于12月27日18:00（UTC+8）币安上线 NFP前20分钟查看领取页面，所有符合条件的用户均可在上线前20分钟领取。\n2023年加密风投资金较上年下降68%至107亿美元\n与 2022 年投资的 333 亿美元相比，2023 年加密货币风险投资资金暴跌 68% 至 107 亿美元。尽管如此，2023 年的总投资仍超过之前的熊市，超过 2019 年和 2020 年的 64 亿美元投资。投资大部分发生在上半年，下半年有所下降，尽管 11 月份的投资有所增加。值得注意的是，2023 年分配给种子期前、种子期和 A 轮初创公司的交易比例有所增加，而中期和后期阶段的交易与上一年相比有所下降。尽管2023年经济放缓，但全年投资总额仍超过之前的熊市。2019-2020 年投资额为 64 亿美元。\n2023 年加密货币风险投资交易数量也有所放缓。这一年共发生 1,819 笔交易，比 2022 年的 2,671 笔减少 32%。总体而言，2023 年的交易数量持续高于 2020 年的月度交易数量，并接近2021 年交易数量。从阶段投资分布来看，2023年大部分资金流向种子期前、种子期和A轮前初创企业，而中后期初创企业的活跃度较低，与2022年的趋势相呼应。",
+          "link": "https://panewslab.com/zh/articledetails/3c4jm83x.html",
+          "publishedOn": "2023-12-26T01:21:05.000Z",
+          "wordCount": 498,
+          "title": "昨夜今晨重要资讯（12月25日-12月26日）",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2023/12/26/images/4IS3MV7wbd.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/m584cir1.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，据The Block报道，与 2022 年投资的 333 亿美元相比，2023 年加密货币风险投资资金暴跌 68% 至 107 亿美元。尽管如此，2023 年的总投资仍超过之前的熊市，超过 2019 年和 2020 年的 64 亿美元投资。投资大部分发生在上半年，下半年有所下降，尽管 11 月份的投资有所增加。值得注意的是，2023 年分配给种子期前、种子期和 A 轮初创公司的交易比例有所增加，而中期和后期阶段的交易与上一年相比有所下降。尽管2023年经济放缓，但全年投资总额仍超过之前的熊市。2019-2020 年投资额为 64 亿美元。\n2023 年加密货币风险投资交易数量也有所放缓。这一年共发生 1,819 笔交易，比 2022 年的 2,671 笔减少 32%。总体而言，2023 年的交易数量持续高于 2020 年的月度交易数量，并接近2021 年交易数量。从阶段投资分布来看，2023年大部分资金流向种子期前、种子期和A轮前初创企业，而中后期初创企业的活跃度较低，与2022年的趋势相呼应。",
+          "link": "https://panewslab.com/zh/articledetails/m584cir1.html",
+          "publishedOn": "2023-12-26T01:10:36.000Z",
+          "wordCount": 424,
+          "title": "2023年加密风投资金较上年下降68%至107亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/obb6j3fz.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，据L2beat数据显示，社区自建的ZK L2网络ZKFair链上TVL已达1.2亿美元，24小时涨幅900%。截至发稿，链上活跃地址数超20万，Gas fee 总消耗已达1.03亿。目前距离最后一轮活动结束还有最后2小时，待活动结束后，75亿官方ZKF代币将被瓜分，用户可通过ZKFair官网查看自己在活动不同阶段的Gas消耗、ZKF奖励、Gas退款等情况。\n官方表示，这75亿Gas fee空投代币和此前社区空投的25亿 ZKF 代币将在约2天后同时释放，用户可以在规定时间内Claim，逾期将自动销毁。未来将不再增发任何代币。\nZKFair是首个社区自建的ZK-L2网络，采用公平发射的代币模型，100%代币空投给社区用户，其中25%空投给过去2个月在Polygon zkEVM，ZKSpace，zkSync，Linea，Scroll等有交互的用户，以及Lumoz忠诚度积分持有者。75%代币以Gas fee空投的形式分给ZKFair社区用户，该活动于 12 月 24 日 11:00 正式启动，12月26日11:00正式结束，历时48小时。",
+          "link": "https://panewslab.com/zh/articledetails/obb6j3fz.html",
+          "publishedOn": "2023-12-26T01:03:14.000Z",
+          "wordCount": 358,
+          "title": "ZKFair链上TVL突破1.2亿美元，距离活动结束还有最后2小时",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8p25ymsu.html",
+          "author": "PA一线",
+          "description": "PANews 12月26日消息，基于AI的Prompt-UGC平台NFPrompt表示，正在为12 月 27 日的NFP空投做准备，为保证流程顺利进行，社区可于12月27日18:00（UTC+8）币安上线 NFP前20分钟查看领取页面，所有符合条件的用户均可在上线前20分钟领取。",
+          "link": "https://panewslab.com/zh/articledetails/8p25ymsu.html",
+          "publishedOn": "2023-12-26T00:57:20.000Z",
+          "wordCount": 337,
+          "title": "NFPrompt：NFP空投于明日币安上线20分钟前开放领取",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
