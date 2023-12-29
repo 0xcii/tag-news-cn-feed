@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-29T08:16:58.677Z</id>
+    <id>urn:2023-12-29T10:14:26.688Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-29T08:16:58.677Z</updated>
+    <updated>2023-12-29T10:14:26.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,36 @@
         <summary type="html"><![CDATA[Solana 的出块时间为 400 毫秒，称为 Slot。Slot 和 区块高度在 Solana 中可能不同。质押奖励每 Epoch 分配给验证者，约为 2-3 天，相当于 432,000 个 Slot。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWF Labs宣布启动首个2024年Web3孵化计划]]></title>
+        <id>https://www.hellobtc.com/news/202312/21540.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21540.html"/>
+        <updated>2023-12-29T07:53:00.000Z</updated>
+        <summary type="html"><![CDATA[据官方消息，DWF Labs宣布启动首个2024年Web3孵化计划。该计划由DWF Ventures牵头，专为具有前瞻性思维的构建者量身定制，并为构建者在Web3领域进行创新提供了空间。申请窗口现已开放，提交截止日期为2024年1月5日UTC 08：00。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灰度GBTC负溢价率扩大至8.52%]]></title>
+        <id>https://www.hellobtc.com/news/202312/21539.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21539.html"/>
+        <updated>2023-12-29T07:53:00.000Z</updated>
+        <summary type="html"><![CDATA[据Coinglass数据显示，灰度GBTC负溢价率扩大至8.52%。此外，ETC信托负溢价为13.23%，LTC信托正溢价为114.51%，BCH信托正溢价为157.21%]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告：自2022年初以来，15大矿池中有10个一直在合并其Coinbase区块奖励]]></title>
+        <id>https://www.hellobtc.com/news/202312/21538.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21538.html"/>
+        <updated>2023-12-29T07:53:00.000Z</updated>
+        <summary type="html"><![CDATA[据Miner Mag最新报告显示，自2022年初以来，15大矿池中有10个一直在合并其Coinbase区块奖励。这一趋势包括Binance Pool、BTC.com和Braiins Pool等著名矿池。 其中蚂蚁矿池是唯一一个在2022年3月就将奖励发送到特定输出地址的矿池。截至12月，蚂蚁矿池开采了26.6%的区块，而Binance Pool和其他矿池占据了剩余份额的很大一部分。蚂蚁矿池在11月份成为收入最高的公司，但本月Foundry USA以总算力的28.78%领先。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -444,36 +474,6 @@ zkSync月度交易量超越以太坊主网，或受铭文交易活动影响
 7.Sui TVL突破2亿美元。
 
 8.MEXC：原CEO已于2022年12月离职，Twitter账户MEXC_CEO关联的个人与MEXC官方没有任何实际联系。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maker年收入近9600万美元，位列2023年DeFi协议收入排行第一]]></title>
-        <id>https://www.hellobtc.com/news/202312/21530.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21530.html"/>
-        <updated>2023-12-25T16:04:00.000Z</updated>
-        <summary type="html"><![CDATA[12月25日消息，BlockWorks发布了DeFi协议2023年收入排行，前五名分别为： 1. Maker—9591万美元； 2. Lido—5579万美元； 3. PancakeSwap—5231万美元； 4. Convex Finance—4223万美元； 5. GMX—3752万美元； 收入数据基于DefiLlama截至12月13日的数据计算所得。Uniswap Labs仅在10月后增加前端费用后有相应收入，预计年化收入为1770万美元。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youtube出现由人工智能生成Ripple CEO的Deepfake欺诈视频，Brad Garlinghouse本人提醒用户谨慎验证]]></title>
-        <id>https://www.hellobtc.com/news/202312/21529.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21529.html"/>
-        <updated>2023-12-25T16:04:00.000Z</updated>
-        <summary type="html"><![CDATA[加密社区发现Youtube平台上出现大量Ripple首席执行官Brad Garlinghouse的Deepfake欺诈视频，视频中一个由人工智能生成的Brad Garlinghouse 肖像邀请用户参加XRP活动并要求观众将代币发送到“指定地址”。据悉，Youtube母公司谷歌并未删除该欺骗性广告，其信任与安全团队反馈称该广告并未违反相关协议。鉴于此，Brad Garlinghouse强调只有来自Ripple官方账户的经批准的消息才能被视为真实有效，用户在面对潜在诈骗时需要谨慎和验证。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国证券交易委员会已至少与7家金融机构代表会面讨论比特币现货ETF发行]]></title>
-        <id>https://www.hellobtc.com/news/202312/21528.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21528.html"/>
-        <updated>2023-12-25T16:03:00.000Z</updated>
-        <summary type="html"><![CDATA[美国证券交易委员会（SEC）已至少与7家金融金融机构代表会面，讨论发行比特币现货ETF（交易所上市基金）事宜。与SEC讨论发行比特币现货ETF的金融机构，包括贝莱德、Grayscale Investments、ARK Investments，以及21 Shares等，而纳斯达克证券交易所及芝加哥期权交易所都有代表列席会议，据悉美SEC将同时批准多间公司发行比特币现货ETF，不过如果在本月29日之前申请文件仍然未符合要求，就赶不及在明年1月初发行比特币现货ETF产品。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
