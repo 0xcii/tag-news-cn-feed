@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-30T13:14:32.620Z</id>
+    <id>urn:2023-12-30T17:11:37.736Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-30T13:14:32.620Z</updated>
+    <updated>2023-12-30T17:11:37.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[路透社：美SEC可能于下周批准发行比特币现货ETF]]></title>
+        <id>https://www.hellobtc.com/news/202312/21546.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21546.html"/>
+        <updated>2023-12-30T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[据Bitcoin Magazine在社交媒体X上引用路透社消息表示，美SEC可能会在下周周二或周三通知现货Bitcoin ETF发行人，他们已获准在下周推出。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在推特病毒式传播的xPET，合约代码真的安全吗？]]></title>
+        <id>https://www.web3sj.com/?p=99493</id>
+        <link href="https://www.web3sj.com/news/99493/"/>
+        <updated>2023-12-30T14:19:49.000Z</updated>
+        <summary type="html"><![CDATA[Beosin 是一家区块链安全公司，目前已审计了超过 3000 个智能合约专案，帮助来自以太坊、EVM 相容链、Solana、Near、EOS、aelf 等区块链平台发现并修复了多个中高风险安全漏洞。Beosin 在本文中深入分析了 xPET 在 Web3 领域的病毒传播现象，从安全的角度审视了 xPET 项目的核心逻辑合约、代币合约及其潜在风险。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧坑新伤：授权恶意合约被盗分析]]></title>
+        <id>https://www.web3sj.com/?p=99478</id>
+        <link href="https://www.web3sj.com/news/99478/"/>
+        <updated>2023-12-30T14:15:18.000Z</updated>
+        <summary type="html"><![CDATA[近期，慢雾安全团队接触到几起由于授权引起的盗币事件，这些事件是最简单的 Approve 授权导致的盗币，而关键点在于受害者是在很久之前无意中点击了 Approve 授权。好在区块链的特性 —— 雁过留痕，在大量链上数据中总能发现蛛丝马迹。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[了解ZKByte：基于零知识证明和BitVm的比特币Layer2拓展解决方案]]></title>
+        <id>https://www.web3sj.com/?p=99470</id>
+        <link href="https://www.web3sj.com/news/99470/"/>
+        <updated>2023-12-30T14:08:45.000Z</updated>
+        <summary type="html"><![CDATA[鉴于比特币虚拟机（VM）计算能力的固有限制，我们的设计使用了 BitVM，它展示了在两层网络之间执行智能合约的潜力。通过利用挑战和响应方案，BitVM 展示了一种比特币网络可编程性的新方法，打破了传统的限制。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点评Vitalik新文：脱离纯Degen困境，ZK超脱于纯金融叙事之外]]></title>
         <id>https://www.web3sj.com/?p=99467</id>
@@ -23,6 +63,16 @@
         <summary type="html"><![CDATA[BTC 现货 ETF，是加密世界最梦寐以求的一剂「猛药」。单是历史上每次讨论，就会引得市场高潮连连。如今，香港要把这瓶猛药打开，将近十年全球表现最好的金融资产裱近 ETF 里，难免引得早就蠢蠢欲动的 Old Money 朝思暮想。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过去24小时全网合约爆仓1.54亿美元，其中多单爆仓1.24亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/2y10047t.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2y10047t.html"/>
+        <updated>2023-12-30T12:00:15.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月30日消息，Coinglass数据显示，过去24小时加密货币市场全网合约爆仓1.54亿美元，共有 60,766 人爆仓。其中多单爆仓1.24亿美元，空单爆仓3034.70万美元。按币种划分，BTC爆仓约3846.31万美元，ETH爆仓约2523.73万美元，SOL爆仓约995.02万美元，ORDI约797.7万美元，BSV约459.02万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -296,16 +346,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coinbase Custody更换CEO，为比特币现货ETF获批做准备]]></title>
-        <id>https://panewslab.com/zh/articledetails/tuh2y3dr.html</id>
-        <link href="https://panewslab.com/zh/articledetails/tuh2y3dr.html"/>
-        <updated>2023-12-30T02:22:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月30日消息，据彭博社报道，一位发言人证实，Coinbase Custody首席执行官Aaron Schnarch最近几周离职，Rick Schonberg将接替他的职位。Schonberg自2021年以来一直在Coinbase工作，此前还曾在高盛、道富银行和Tagomi任职。Coinbase发言人在一份声明中表示：“我们为ETF获批做好了广泛的准备”。 根据Bloomberg Intelligence的统计，Coinbase是最受比特币ETF申请方欢迎的托管选择，贝莱德、富兰克林邓普顿和灰度都选择将Coinbase作为托管人。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BendDAO拥抱BTC生态，能否老树开花？]]></title>
         <id>https://www.web3sj.com/?p=99437</id>
         <link href="https://www.web3sj.com/news/99437/"/>
@@ -341,36 +381,6 @@
         <link href="https://www.web3sj.com/news/99416/"/>
         <updated>2023-12-29T13:40:15.000Z</updated>
         <summary type="html"><![CDATA[在 RootData 的《2023 年死亡项目名单》中，共收录约 120 个在 2023 年宣布破产、停止运营或网站长期无法正常使用的项目，累计融资金额达到 9.4 亿美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聚焦跨链质押的衍生品协议]]></title>
-        <id>https://www.web3sj.com/?p=99410</id>
-        <link href="https://www.web3sj.com/definews/99410/"/>
-        <updated>2023-12-29T13:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Staking 衍生品本质上是对参与 Staking 的原生代币发放对应凭证，持有该凭证可以获得 Staking 收益。在 Staking 周期结束后，该凭证可以刚性承兑回原生通证。这样的设计能够解决 PoS 共识下的 DeFi 收益和 Staking 收益相冲突的问题，通过将 Staking 收益转化为可以交易的衍生品，让用户在 DeFi 中进行交易，从而同时实现 Staking 代币的流动性和收益。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2023-12.29）]]></title>
-        <id>https://www.web3sj.com/?p=99399</id>
-        <link href="https://www.web3sj.com/news/99399/"/>
-        <updated>2023-12-29T12:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik发文回顾使用技术构建自由社会的愿景，强调维持密码朋克价值、抵制中心化和过度金融化的重要性。美国联邦法官裁定 Terraform Labs 的四种加密代币构成未注册证券。DODO、TimeSwap、Wintnet、RSS3、ZKEX等项目现已集成X1测试网。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊的复苏时刻：领涨行情在明年还会持续吗？]]></title>
-        <id>https://www.web3sj.com/?p=99392</id>
-        <link href="https://www.web3sj.com/news/99392/"/>
-        <updated>2023-12-29T12:36:56.000Z</updated>
-        <summary type="html"><![CDATA[随着加密货币市场的不断变化，以太坊作为主要的区块链平台之一，其未来走向引人关注。本文深入分析了以太坊即将到来的 Dencun（坎昆）升级对其生态系统的潜在影响，以及对 2024 年第一季度 Metis 的看法，此外也对链上的资金情况和近一周 DeFi 进展进行了回顾。]]></summary>
         <author>
             <name>Gao</name>
         </author>
@@ -423,28 +433,6 @@
 6.Binance年终报告：2023年新用户超4000万，较去年底增长30%。
 
 7.Cathie Wood谈论出售GBTC全部持仓原因：目前存在税务和监管的不确定性。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：以太坊的反弹应被视为加密市场进一步复苏的证据]]></title>
-        <id>https://www.hellobtc.com/news/202312/21536.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21536.html"/>
-        <updated>2023-12-28T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[1.灰度：以太坊的反弹应被视为加密市场进一步复苏的证据。
-
-2.Vitalik发文提出三种方法以简化以太坊的POS机制。
-
-3.MicroStrategy以约6.157亿美元购买约14,620枚比特币。
-
-4..Vitalik：很高兴看见Arbitrum实现了Rollup第一阶段，希望明年更多项目跟进。
-
-5.Metis网络TVL 7日增幅达560%，TVL超BASE成以太坊Layer2第三。
-
-6.Blast TVL突破11亿美元。
-
-7.马斯克：NFT至少应该在区块链上对JPEG进行编码。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
