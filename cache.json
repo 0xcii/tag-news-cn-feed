@@ -11,7 +11,7 @@
           "description": "Beosin 是一家区块链安全公司，目前已审计了超过 3000 个智能合约专案，帮助来自以太坊、EVM 相容链、Solana、Near、EOS、aelf 等区块链平台发现并修复了多个中高风险安全漏洞。Beosin 在本文中深入分析了 xPET 在 Web3 领域的病毒传播现象，从安全的角度审视了 xPET 项目的核心逻辑合约、代币合约及其潜在风险。",
           "link": "https://www.web3sj.com/news/99493/",
           "publishedOn": "2023-12-30T14:19:49.000Z",
-          "wordCount": 1033,
+          "wordCount": 1034,
           "title": "在推特病毒式传播的xPET，合约代码真的安全吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703945973945.png"
         },
@@ -21,7 +21,7 @@
           "description": "近期，慢雾安全团队接触到几起由于授权引起的盗币事件，这些事件是最简单的 Approve 授权导致的盗币，而关键点在于受害者是在很久之前无意中点击了 Approve 授权。好在区块链的特性 —— 雁过留痕，在大量链上数据中总能发现蛛丝马迹。",
           "link": "https://www.web3sj.com/news/99478/",
           "publishedOn": "2023-12-30T14:15:18.000Z",
-          "wordCount": 1019,
+          "wordCount": 1032,
           "title": "旧坑新伤：授权恶意合约被盗分析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703945636150.png"
         },
@@ -31,7 +31,7 @@
           "description": "鉴于比特币虚拟机（VM）计算能力的固有限制，我们的设计使用了 BitVM，它展示了在两层网络之间执行智能合约的潜力。通过利用挑战和响应方案，BitVM 展示了一种比特币网络可编程性的新方法，打破了传统的限制。",
           "link": "https://www.web3sj.com/news/99470/",
           "publishedOn": "2023-12-30T14:08:45.000Z",
-          "wordCount": 999,
+          "wordCount": 982,
           "title": "了解ZKByte：基于零知识证明和BitVm的比特币Layer2拓展解决方案",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703945299773.png"
         },
@@ -41,7 +41,7 @@
           "description": "于以太坊而言，这确实不是 Vitalik 想看到的，但于 Crypto 行业而言，layer2 的市场终局不可避免的会走向亲以太坊和离以太坊两大派系。最终，哪些 layer2 能跑出来，不会受限于政治正统性的束缚，而要看能不能推动 Mass Adoption 的发生。",
           "link": "https://www.web3sj.com/news/99467/",
           "publishedOn": "2023-12-30T13:04:33.000Z",
-          "wordCount": 1064,
+          "wordCount": 1023,
           "title": "点评Vitalik新文：脱离纯Degen困境，ZK超脱于纯金融叙事之外",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703941447846.png"
         },
@@ -51,7 +51,7 @@
           "description": "BTC 现货 ETF，是加密世界最梦寐以求的一剂「猛药」。单是历史上每次讨论，就会引得市场高潮连连。如今，香港要把这瓶猛药打开，将近十年全球表现最好的金融资产裱近 ETF 里，难免引得早就蠢蠢欲动的 Old Money 朝思暮想。",
           "link": "https://www.web3sj.com/news/99463/",
           "publishedOn": "2023-12-30T13:01:52.000Z",
-          "wordCount": 968,
+          "wordCount": 949,
           "title": "香港比特币现货ETF降至，对比特币价格有何影响？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703941295471.png"
         },
@@ -61,7 +61,7 @@
           "description": "贝莱德、富达与Invesco等为比特币现货ETF指定授权参与者。Lido平台ETH质押量突破920万枚价值超200亿美元，已支付奖励超10亿美元。Chainbase启动独立品牌Chainbase Staking，为公链和原生协议提供机构级节点与验证器服务。",
           "link": "https://www.web3sj.com/news/99459/",
           "publishedOn": "2023-12-30T11:03:43.000Z",
-          "wordCount": 826,
+          "wordCount": 845,
           "title": "Web3世界日报（2023-12.30）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/2023123011021889.jpg"
         },
@@ -71,7 +71,7 @@
           "description": "早在两周前，BendDAO 就表示，团队计划提出解决方案来拥抱比特币 NFT 生态系统，新的解决方案将允许比特币 NFT 和 BendDAO 之间的无缝交互，并支持 WBTC 流动性池作为可借贷资产。",
           "link": "https://www.web3sj.com/news/99437/",
           "publishedOn": "2023-12-29T13:50:49.000Z",
-          "wordCount": 923,
+          "wordCount": 947,
           "title": "BendDAO拥抱BTC生态，能否老树开花？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703857832201.png"
         },
@@ -81,7 +81,7 @@
           "description": "我们在上面用扩容这个大家非常熟悉的议题作为引子，实际上SCP 并不仅限于扩容使用，其设计灵感确实来源于比特币、以太坊等公链的扩容方案与社区讨论。而它的愿景和实际应用是构建新一代的去信任化基础设施，甚至是非区块链结构的运算平台。",
           "link": "https://www.web3sj.com/news/99427/",
           "publishedOn": "2023-12-29T13:47:55.000Z",
-          "wordCount": 1216,
+          "wordCount": 1189,
           "title": "解读SCP：跳出Rollup定式的去信任化基础设施范式",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703857655172.png"
         },
@@ -91,7 +91,7 @@
           "description": "铭文热度持续升温，近期出现了一个较为有趣的项目，社交类铭文 twitscription，一个人人都能部署铭文的平台。该项目较为有趣的点是 free mint token XRC20，用户只需要在推特上连接钱包发布推文即可部署和 mint 自己的 XRC20 token。",
           "link": "https://www.web3sj.com/news/99420/",
           "publishedOn": "2023-12-29T13:45:08.000Z",
-          "wordCount": 942,
+          "wordCount": 963,
           "title": "发帖部署Token，社交铭文TwitScription怎么玩",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703857494101.png"
         },
@@ -101,7 +101,7 @@
           "description": "在 RootData 的《2023 年死亡项目名单》中，共收录约 120 个在 2023 年宣布破产、停止运营或网站长期无法正常使用的项目，累计融资金额达到 9.4 亿美元。",
           "link": "https://www.web3sj.com/news/99416/",
           "publishedOn": "2023-12-29T13:40:15.000Z",
-          "wordCount": 2665,
+          "wordCount": 2661,
           "title": "2023年Web3行业死亡项目名单：累计融资近10亿美元，DeFi是重灾区",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/1703857147787.png"
         }
@@ -112,6 +112,56 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/f1f0nx59.html",
+          "author": "PA一线",
+          "description": "PANews 12月31日消息，据News.bitcoin报道，NBA 球队达拉斯小牛队的亿万富翁老板马克·库班 (Mark Cuban) 表示，美国证券交易委员会 (SEC) 不保护任何人，并称该监管机构为“金融监管速记本”。他强调，Howey 测试不足以涵盖所有加密货币情况。",
+          "link": "https://panewslab.com/zh/articledetails/f1f0nx59.html",
+          "publishedOn": "2023-12-31T06:38:30.000Z",
+          "wordCount": 349,
+          "title": "马克·库班：美国SEC不保护任何人，Howey测试不足以涵盖所有加密货币情况",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/v6hhgkqa.html",
+          "author": "PA一线",
+          "description": "PANews 12月31日消息，据Snapshot投票页面显示，GMX 社区发起“在GMX V2（Arbitrum）上创建BNB市场”提案，旨在确定在Arbitrum 主网上的GMX V2部署中是否建立一个BNB市场。本次投票采用排名选择方式，允许参与者对与 LayerZero 合作创建合成市场 (WETH-USDC) 或桥接市场 (WBNB-USDC) 选择。在排名选择过程结束时，此次投票的结果将是投票最高的单一选项。投票将于2024年1月3日结束。",
+          "link": "https://panewslab.com/zh/articledetails/v6hhgkqa.html",
+          "publishedOn": "2023-12-31T06:34:20.000Z",
+          "wordCount": 361,
+          "title": "GMX社区发起“在GMX V2（Arbitrum）上创建BNB市场”提案",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8gq1btsb.html",
+          "author": "PA一线",
+          "description": "PANews 12月31日消息，据IntoTheBlock数据，今年ETH长期持有者的比例有史以来第二次超过比特币。",
+          "link": "https://panewslab.com/zh/articledetails/8gq1btsb.html",
+          "publishedOn": "2023-12-31T06:09:50.000Z",
+          "wordCount": 336,
+          "title": "数据：今年ETH长期持有者的比例第二次超过比特币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/hmab44x3.html",
+          "author": "PA一线",
+          "description": "PANews 12月31日消息，行情显示，Internet Computer（ICP）现报12.86美元，24小时涨幅28.8%； Sei（SEI）现报0.6135美元，24小时涨幅12.9%。",
+          "link": "https://panewslab.com/zh/articledetails/hmab44x3.html",
+          "publishedOn": "2023-12-31T05:53:05.000Z",
+          "wordCount": 331,
+          "title": "行情：ICP日内涨幅28.8%；SEI日内涨幅12.9%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/zsao8fdv.html",
+          "author": "PA一线",
+          "description": "PANews 12月31日消息，据链上分析师@ai_9684xtpa监测，约3小时前，ETH 巨鲸向 Blast 充值 6293 枚 ETH，价值 1441 万美元。该巨鲸自 12.17 以来，已向 Blast 累计存入 24692 枚 ETH（价值 5688 万美金）；此外，他还在 01.06 向 ETH2 质押合约存入 6304 枚 ETH。",
+          "link": "https://panewslab.com/zh/articledetails/zsao8fdv.html",
+          "publishedOn": "2023-12-31T05:09:55.000Z",
+          "wordCount": 398,
+          "title": "约3小时前ETH巨鲸向Blast转入6293枚ETH，价值约1441万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/3eavnray.html",
           "author": "PA一线",
