@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-31T12:23:50.703Z</id>
+    <id>urn:2023-12-31T15:12:40.154Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-31T12:23:50.703Z</updated>
+    <updated>2023-12-31T15:12:40.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[报告：美国占比特币挖矿算力38%位居第一，欧盟占6%]]></title>
+        <id>https://panewslab.com/zh/articledetails/od0tv61x.html</id>
+        <link href="https://panewslab.com/zh/articledetails/od0tv61x.html"/>
+        <updated>2023-12-31T12:15:04.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月31日消息，据Bitcoin.com报道，根据Bankless Times发布的比特币挖矿报告，欧盟（EU）28 个成员国的算力共计占比特币网络算力的6%。其中，爱尔兰占比特币网络算力的2%。美国目前是领先的比特币挖矿民族国家，拥有该网络 38% 的算力。中国目前以21%的份额位居第二，排名第三至第五分别是哈萨克斯坦（13%）、加拿大（7%）、俄罗斯（5%）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：Ordinals铭文铸造量达5260万枚]]></title>
+        <id>https://panewslab.com/zh/articledetails/kd856y8q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kd856y8q.html"/>
+        <updated>2023-12-31T11:46:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月31日消息，据Dune数据显示，比特币NFT协议Ordinals铭文铸造的累计费用收入达5,246.514枚BTC，约合218,359,158美元；铸造铭文总量约52,671,384万枚。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：当前比特币网络超53.3万笔交易待确认]]></title>
+        <id>https://panewslab.com/zh/articledetails/5184w6v2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5184w6v2.html"/>
+        <updated>2023-12-31T11:05:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月31日消息，mempool.space数据显示，当前Bitcoin网络最低交易费用达218 sat/vB，有超过53.3万笔交易待确认，内存池使用量超过了300 MB达到了1.9GB。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waves创始人：明年Q1将推出Units.network]]></title>
         <id>https://panewslab.com/zh/articledetails/muvv03qr.html</id>
@@ -254,37 +284,6 @@
 6.BONK已较历史最高点下跌57%。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZKBase完成四亿代币销毁，即将开启1：1换币计划]]></title>
-        <id>https://panewslab.com/zh/articledetails/1wfptq8e.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1wfptq8e.html"/>
-        <updated>2023-12-31T02:05:09.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月31日消息，据官方消息，基于ZK-Rollups的Layer2全功能协议ZKBase（原ZKSpace）已完成4亿代币的销毁（占ZKS总量的40%），ZKS未发行量从4.4亿枚减少至4000万枚，通缩幅度超过90%，结合持续进行的平台手续费回购销毁，ZKS总量已从10亿下降至不足6亿ZKS，剩余的代币将全部用于未来的运营活动与社区激励。
-2024年团队计划推出面向BRC20和Bitcoin代币的ZKSwap（Bitcoin），并将ZKS升级为ETH和BTC双链Layer2治理代币。此前ZKBase团队已宣布品牌升级为ZKBase，包括将ZKS1:1兑换为ZKB，ZKB将成为ZKBase团队新版治理代币，持币用户可享受ERC20-BRC20跨链优势和100%交易费用的各类权益。未来团队将进一步发展ETH和BTC的Layer2生态，并将一部分ZKS代币迁移到BTC网络。迁移所获得的收益也将全部用于持续回购和销毁代币，并加速代币的通缩计划。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC举报人：Chai支付应用从未在Terra区块链上运行过]]></title>
-        <id>https://panewslab.com/zh/articledetails/8lumome8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8lumome8.html"/>
-        <updated>2023-12-31T02:00:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月31日消息，据The Block报道，一位举报人向美国证券交易委员会（SEC）透露，Chai支付应用在推广Terra生态系统时，并未实际使用加密货币，Chai支付平台甚至从未在Terra区块链上运行过。这一指控如果属实，可能揭示了Terra生态系统中潜在的不透明实践。此举报可能会引起监管机构的进一步审查，并对Terra生态系统产生重要影响。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V神公布更新的2023年以太坊发展路线图，包含6大部分]]></title>
-        <id>https://panewslab.com/zh/articledetails/cmwve2uv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/cmwve2uv.html"/>
-        <updated>2023-12-31T01:53:18.000Z</updated>
-        <summary type="html"><![CDATA[PANews 12月31日消息，以太坊创始人Vitalik Buterin推特公布了更新的2023年以太坊发展路线图。路线图主要包括六个部分：The Merge、The Surge、The Scourge、The Verge、The Purge和The Splurge。其中2022年9月完成的“The Merge”标志着以太坊从PoW转向PoS共识机制，显著减少了网络的能源消耗。与此同时，“The Surge”取得了重大进展。cross-rollup标准和互操作也被视为需要长期改进的领域。此外，Buterin强调了单时隙最终确定性（SSF）在合并后PoS改进中的作用正在巩固，是解决以太坊PoS设计当前诸多弱点的最简单途径。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
