@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-31T02:27:05.184Z</id>
+    <id>urn:2023-12-31T03:14:35.064Z</id>
     <title>web3::cave</title>
-    <updated>2023-12-31T02:27:05.184Z</updated>
+    <updated>2023-12-31T03:14:35.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：比特币年内涨超155%，以太坊年内涨超92%]]></title>
+        <id>https://www.hellobtc.com/news/202312/21547.html</id>
+        <link href="https://www.hellobtc.com/news/202312/21547.html"/>
+        <updated>2023-12-31T02:16:00.000Z</updated>
+        <summary type="html"><![CDATA[1.比特币年内涨超155%，以太坊年内涨超92%。
+
+2.Vitalik发文回顾以太坊2023年路线图更新。
+
+3.NFPrompt宣布已开放质押，质押者均有机会获得AI空投。
+
+4.Ava Labs创始人：现在忽视meme币，就像是在60年代忽视流行音乐。
+
+5.ChatGPT产品增长强劲，OpenAI年化收入超16亿美元。
+
+6.BONK已较历史最高点下跌57%。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZKBase完成四亿代币销毁，即将开启1：1换币计划]]></title>
+        <id>https://panewslab.com/zh/articledetails/1wfptq8e.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1wfptq8e.html"/>
+        <updated>2023-12-31T02:05:09.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月31日消息，据官方消息，基于ZK-Rollups的Layer2全功能协议ZKBase（原ZKSpace）已完成4亿代币的销毁（占ZKS总量的40%），ZKS未发行量从4.4亿枚减少至4000万枚，通缩幅度超过90%，结合持续进行的平台手续费回购销毁，ZKS总量已从10亿下降至不足6亿ZKS，剩余的代币将全部用于未来的运营活动与社区激励。
+2024年团队计划推出面向BRC20和Bitcoin代币的ZKSwap（Bitcoin），并将ZKS升级为ETH和BTC双链Layer2治理代币。此前ZKBase团队已宣布品牌升级为ZKBase，包括将ZKS1:1兑换为ZKB，ZKB将成为ZKBase团队新版治理代币，持币用户可享受ERC20-BRC20跨链优势和100%交易费用的各类权益。未来团队将进一步发展ETH和BTC的Layer2生态，并将一部分ZKS代币迁移到BTC网络。迁移所获得的收益也将全部用于持续回购和销毁代币，并加速代币的通缩计划。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC举报人：Chai支付应用从未在Terra区块链上运行过]]></title>
+        <id>https://panewslab.com/zh/articledetails/8lumome8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8lumome8.html"/>
+        <updated>2023-12-31T02:00:05.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月31日消息，据The Block报道，一位举报人向美国证券交易委员会（SEC）透露，Chai支付应用在推广Terra生态系统时，并未实际使用加密货币，Chai支付平台甚至从未在Terra区块链上运行过。这一指控如果属实，可能揭示了Terra生态系统中潜在的不透明实践。此举报可能会引起监管机构的进一步审查，并对Terra生态系统产生重要影响。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V神发布以太坊2024路线图，包含6大部分]]></title>
+        <id>https://panewslab.com/zh/articledetails/cmwve2uv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/cmwve2uv.html"/>
+        <updated>2023-12-31T01:53:18.000Z</updated>
+        <summary type="html"><![CDATA[PANews 12月31日消息，以太坊创始人Vitalik Buterin推特公布了2024年的发展路线图。路线图主要包括六个部分：合并（ merge）、激增（surge）、清理（scourge）、边缘（verge）、净化（purge）和挥霍（splurge）。其中2022年9月完成的“合并”标志着以太坊从PoW转向PoS共识机制，显著减少了网络的能源消耗。此外，Buterin强调了在以太坊的单时隙终结性（SSF）上的发展，以解决PoS设计中的弱点。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：过去7天USDC流通量增加1亿枚]]></title>
         <id>https://panewslab.com/zh/articledetails/ob1j8d04.html</id>
@@ -237,28 +288,6 @@
         <link href="https://www.hellobtc.com/news/202312/21538.html"/>
         <updated>2023-12-29T07:53:00.000Z</updated>
         <summary type="html"><![CDATA[据Miner Mag最新报告显示，自2022年初以来，15大矿池中有10个一直在合并其Coinbase区块奖励。这一趋势包括Binance Pool、BTC.com和Braiins Pool等著名矿池。 其中蚂蚁矿池是唯一一个在2022年3月就将奖励发送到特定输出地址的矿池。截至12月，蚂蚁矿池开采了26.6%的区块，而Binance Pool和其他矿池占据了剩余份额的很大一部分。蚂蚁矿池在11月份成为收入最高的公司，但本月Foundry USA以总算力的28.78%领先。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：AI、GameFi与Meme占据2023年加密叙事前三]]></title>
-        <id>https://www.hellobtc.com/news/202312/21537.html</id>
-        <link href="https://www.hellobtc.com/news/202312/21537.html"/>
-        <updated>2023-12-29T03:31:00.000Z</updated>
-        <summary type="html"><![CDATA[1.CoinGecko：AI、GameFi与Meme占据2023年加密叙事前三。
-
-2.Vitalik Buterin发布博客文章，讨论以太坊远景规划。
-
-3.BNB市值回升反超SOL，重返加密货币市值排行榜第四。
-
-4.受铭文交易活动影响，zkSync月度交易量超越以太坊主网。
-
-5.Stacks生态稳定币协议Arkadiko Protocol将于2024年推出2.0版本，引入稳定币套利机制。
-
-6.Binance年终报告：2023年新用户超4000万，较去年底增长30%。
-
-7.Cathie Wood谈论出售GBTC全部持仓原因：目前存在税务和监管的不确定性。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
