@@ -6,12 +6,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=99719",
+          "author": "Gao",
+          "description": "或许是受到美国现货比特币 ETF 即将获批的影响，在刚刚过去的 2023 年 12 月，绝大多数加密行业指标都表现出强劲增长的趋势，本文将用 12 张图解读过去一个月的加密市场状况。",
+          "link": "https://www.web3sj.com/news/99719/",
+          "publishedOn": "2024-01-03T07:06:57.000Z",
+          "wordCount": 955,
+          "title": "12张图解读12月加密市场：比特币期权月度交易额创历史新高",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704265432096.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=99702",
           "author": "Gao",
           "description": "该提案引入了一个注册合约（Registry contract），部署在每条链上，以赋能该链上的所有 NFT。该注册合约使用 CreateTo 功能为每个 NFT 分配一个预定的钱包地址。CreateTo 允许开发者将智能合约部署到预定地址。",
           "link": "https://www.web3sj.com/nftnews/99702/",
           "publishedOn": "2024-01-03T03:43:11.000Z",
-          "wordCount": 1107,
+          "wordCount": 1149,
           "title": "IOSG：ERC-6551开创社交与游戏的NFT新标准",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704253376190.png"
         },
@@ -21,7 +31,7 @@
           "description": "用户发出交易并签名后，就会发送到 p2p 网络当中，并等待PoW 共识机制下的 Miner 或 PoS 共识机制下的 Proposer 将他的交易收入到区块中。当用户发现他的交易被收入到最新一个区块中时，还不能百分之百确认交易一定会写入该条区块链的历史中，这是因为区块链可能会发生被称为「Re-org」的情况，用户必须历经等待，等到某个区块发生 Re-org 的机率足够低的时候，才能确信交易会被写入区块链的历史中。",
           "link": "https://www.web3sj.com/news/99675/",
           "publishedOn": "2024-01-03T03:37:55.000Z",
-          "wordCount": 1793,
+          "wordCount": 1782,
           "title": "解读L2交易确认收入的不同阶段​",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704253048705.png"
         },
@@ -31,7 +41,7 @@
           "description": "灰度GBTC已向美SEC提交书面招股说明书文件。Starknet路线图：1月10日将开启在主网部署v0.13.0版本更新投票。Injective发布23年回顾，超4700 万枚INJ代币被质押在链上。",
           "link": "https://www.web3sj.com/news/99655/",
           "publishedOn": "2024-01-02T12:25:12.000Z",
-          "wordCount": 864,
+          "wordCount": 844,
           "title": "Web3世界日报（2024-1.2）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024010212222281.jpg"
         },
@@ -41,7 +51,7 @@
           "description": "正是这个关键事件，点爆了这一轮的行情（从下图 CME 持仓可以看出在 CME BTC OI 10 月 15 日这天开始巨幅拉升）。期间伴随 Fed pauses 利好，BTC 行情火爆延续。Hashdex，Franklin 以及 Global X 的申请节点到来，11 月 17 号「窗口期」再次延期，也只是给市场提供了调整的理由。时间线上来看，最关键的时点还是看 Ark &21shares 1 月 10 日的本轮申请的最后决定日期，市场对这个节点的 bet 情绪最为强烈。目前来看，最早下周三（1 月 3 日）就能得到是否通过的结果。",
           "link": "https://www.web3sj.com/news/99624/",
           "publishedOn": "2024-01-02T05:55:19.000Z",
-          "wordCount": 1539,
+          "wordCount": 1518,
           "title": "LD Capital：一文梳理BTC现货ETF关键信息",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704174905646.png"
         },
@@ -51,7 +61,7 @@
           "description": "比特币 ETF 的获批将为比特币的流动性和投资便利性提供新的保障，从而吸引更多投资者进入比特币市场。以太坊坎昆升级将使以太坊的扩容能力得到大幅提升，从而为 Web3 应用的发展提供更强大的底层基础设施。比特币减半将导致比特币的供给减少，理论上会推高其价格。",
           "link": "https://www.web3sj.com/news/99618/",
           "publishedOn": "2024-01-02T05:42:06.000Z",
-          "wordCount": 989,
+          "wordCount": 982,
           "title": "2024三件大事加热Web3赛道",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704174113596.png"
         },
@@ -61,7 +71,7 @@
           "description": "比如说 ERC-20，大家可以用 ERC-20 去发各种各样的币，这些币可以有各种各样的叙事和效用，比如说股权化，债券化，玩 Defi，DAO 的治理等等。也可以遵循着 AMM 的曲线交易这些 token 来完成投机行为。",
           "link": "https://www.web3sj.com/news/99613/",
           "publishedOn": "2024-01-02T05:38:09.000Z",
-          "wordCount": 1303,
+          "wordCount": 1299,
           "title": "Foresight Ventures：烹饪一场群鸦的盛宴",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704173870715.png"
         },
@@ -71,7 +81,7 @@
           "description": "让我们从 Layer 2 项目开始。正如我提到的，proto-danksharding (EIP 4844) 将于明年第一季度上线。Layer 2 项目应该会抓住这个故事的投标（我们实际上已经看到这种情况发生了），但我认为第一季度将会出现新的浪潮。在这些代币中，我认为 Canto 是最具潜力的代币。没有多少人知道这将是 L2，mcap 约为 200m。与其他相比非常低。几天前我通过这条推文向 Canto 暗示过（此后价格上涨了 50%）。",
           "link": "https://www.web3sj.com/definews/99609/",
           "publishedOn": "2024-01-02T05:21:47.000Z",
-          "wordCount": 1106,
+          "wordCount": 1118,
           "title": "DeFi大师披露2024投资列表，来看有没有你买的币？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704172895473.png"
         },
@@ -81,7 +91,7 @@
           "description": "与此同时，加密货币行业也经历了自己的风暴，Terra/Luna、Celsius、Voyager 和 FTX 等大型项目以及 Silvergate、Signature 和硅谷银行（Silicon Valley Bank）等银行纷纷倒下。",
           "link": "https://www.web3sj.com/news/99606/",
           "publishedOn": "2024-01-02T04:40:47.000Z",
-          "wordCount": 943,
+          "wordCount": 934,
           "title": "2024年金融变革RWA的7大展望",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704170422506.png"
         },
@@ -91,19 +101,9 @@
           "description": "OKLink 链上天眼的「24 小时地址交易统计图」显示，该神秘地址的交易时间偏好为北京时间 21:00 至次日 5:00，其中尤以 22:00 - 1:00 之间最为集中。",
           "link": "https://www.web3sj.com/transaction/99594/",
           "publishedOn": "2024-01-02T04:35:31.000Z",
-          "wordCount": 1152,
+          "wordCount": 1141,
           "title": "50天，18亿美元，本轮小牛行情的「发动机」浮出水面？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704170120182.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=99590",
-          "author": "Gao",
-          "description": "这一观点特别反驳了人们对现货 BTC ETF 的影响只看短期而不看长期的普遍倾向。Gurbacs 指出：「人们往往热衷于炒作当下的事物，但对大局仍然目光短浅。」Gurbacs 强调说，尽管现货 BTC ETF 的推出往往被短期投机所包围，但它们的真正价值在于其长期影响。",
-          "link": "https://www.web3sj.com/news/99590/",
-          "publishedOn": "2024-01-02T04:03:59.000Z",
-          "wordCount": 921,
-          "title": "VanEcK 顾问：我们高估了比特币ETF短期影响，低估了长期动力",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704168225861.png"
         }
       ]
     },
@@ -113,12 +113,82 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/qrnwa4h6.html",
+          "author": "PA一线",
+          "description": "PANews 1月3日消息，Coinglass数据显示，全网比特币期货合约未平仓头寸为44.884万枚BTC（约合203.7亿美元）。其中CME比特币合约未平仓头寸为12.596万枚BTC（约合57亿美元），位列第一。币安比特币合约未平仓头寸为10.427万枚BTC（约合47.3亿美元），位列第二。",
+          "link": "https://panewslab.com/zh/articledetails/qrnwa4h6.html",
+          "publishedOn": "2024-01-03T06:37:43.000Z",
+          "wordCount": 327,
+          "title": "全网比特币期货合约未平仓头寸达203.7亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/77yrqd8r.html",
+          "author": "PA一线",
+          "description": "PANews 1月3日消息，据Scopescan监测，在ARB达到ATH后，Wintermute已将价值570万美元的ARB转移到OKX。",
+          "link": "https://panewslab.com/zh/articledetails/77yrqd8r.html",
+          "publishedOn": "2024-01-03T05:48:21.000Z",
+          "wordCount": 326,
+          "title": "Wintermute在ARB创下新高后已将价值570万美元的ARB转至OKX",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vhqbug2t.html",
+          "author": "PA一线",
+          "description": "PANews 1月3日消息，据币安行情显示，24小时涨幅排名靠前的几个代币为：PERP现报1.82美元，24小时涨幅为22.33%；ICP现报16.15美元，24小时涨幅为20.93%；LSK现报1.75美元，24小时涨幅为18.75%；GNS现报6.06美元，24小时涨幅为17.43%；MAV现报0.4771美元，24小时涨幅为14.58%。WING现报10.26美元，24小时涨幅为13.12%。ASTR现报0.1868美元，24小时涨幅为11.99%；MKR现报1826美元，24小时涨幅为10.40%。",
+          "link": "https://panewslab.com/zh/articledetails/vhqbug2t.html",
+          "publishedOn": "2024-01-03T05:34:26.000Z",
+          "wordCount": 329,
+          "title": "行情：SKL、ICP 24小时涨幅均超20%，LSK、ASTR和MKR等代币24小时涨幅均超10%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dp52q67i.html",
+          "author": "PA一线",
+          "description": "PANews 1月3日消息，据金十引援英国金融时报报道，欧洲银行业管理局主席José Manuel Campa表示，欧盟监管机构将深入调查银行与对冲基金等其他金融机构之间的联系。目前人们越来越担心，整个金融体系的压力可能会蔓延。他在谈到监管机构努力预测银行将如何受到非银行金融机构（包括对冲基金、私人资本公司和加密货币集团等）压力的影响时表示，他们需要了解非银行金融机构的整个潜在链条。\nCampa表示，欧洲银行业管理局将与欧洲系统风险委员会和金融稳定委员会合作，更好地了解影子银行冲击将如何波及整个体系。该机构已在评估银行对非银行机构的资产负债表敞口，包括贷款。",
+          "link": "https://panewslab.com/zh/articledetails/dp52q67i.html",
+          "publishedOn": "2024-01-03T05:20:54.000Z",
+          "wordCount": 334,
+          "title": "英媒：欧盟监管机构将调查银行与非银行机构之间的联系",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dr0ia9ad.html",
+          "author": "PA一线",
+          "description": "PANews 1月3日消息，据官方公告，币安杠杆新增NFPrompt（NFP）、Enzyme（MLN）全仓、逐仓杠杆可借资产，并新增更多全仓、逐仓杠杆交易对。\n全仓杠杆新增交易对：BNB/USDC、NFP/USDT、SOL/ETH；\n逐仓杠杆新增交易对：BNB/USDC、MLN/USDT、NFP/USDT、SEI/TUSD。",
+          "link": "https://panewslab.com/zh/articledetails/dr0ia9ad.html",
+          "publishedOn": "2024-01-03T05:16:16.000Z",
+          "wordCount": 334,
+          "title": "币安杠杆新增NFP、MLN资产及更多交易对",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/r27ergxw.html",
+          "author": "PA一线",
+          "description": "PANews 1月3日消息，Web3+AI伴侣游戏平台Sleepless AI在X平台上表示，币安将于北京时间1月4日18:00上线AI代币 ，用户可以在正式上线前20分钟查看空投页面。\n根据此前币安研究院报告披露的Sleepless AI代币经济学，AI代币总供应量的1.00%将分配给初始空投。",
+          "link": "https://panewslab.com/zh/articledetails/r27ergxw.html",
+          "publishedOn": "2024-01-03T05:07:45.000Z",
+          "wordCount": 345,
+          "title": "Sleepless AI：用户可在币安上线AI代币前20分钟查看空投页面",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/js42egyp.html",
+          "author": "PA一线",
+          "description": "PANews 1月3日消息，据官方公告，币安将支持Zilliqa（ZIL）及Sei（SEI）网络升级及硬分叉。\nZilliqa（ZIL）将于东八区时间2024年01月03日17:00进行网络升级及硬分叉。币安预计将于东八区时间2024年01月03日16:00暂停Zilliqa（ZIL）网络的代币充值、提现业务；\nSei（SEI）将于区块高度 49,519,931（预计东八区时间2024年01月04日01:00）进行网络升级。币安预计将于东八区时间2024年01月04日00:00暂停Sei（SEI）网络的代币充值、提现业务。",
+          "link": "https://panewslab.com/zh/articledetails/js42egyp.html",
+          "publishedOn": "2024-01-03T05:00:25.000Z",
+          "wordCount": 338,
+          "title": "币安将支持Zilliqa（ZIL）及Sei（SEI）网络升级及硬分叉",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/t0ifn6s9.html",
           "author": "PA一线",
           "description": "PANews 1月3日消息，据Cointelegraph报道，彭博社ETF分析师Eric Balchunas在接受采访时表示，虽然他和ETF分析师James Seyffart仍然认为比特币现货ETF在1月10日之前获得批准的可能性为90%，但他们也并未将这一可能性提高到超过这个数字。虽然可能性很小，但现货比特币ETF本月被拒绝的话很可能是因为SEC想要“更多时间”，而不是直接拒绝。因为SEC和比特币ETF发行人投入的时间和精力意味着比特币ETF不太可能在最后一刻被彻底拒绝。如果SEC拒绝，基金发行人则可能会追随灰度的脚步，对监管机构提起单独的诉讼。",
           "link": "https://panewslab.com/zh/articledetails/t0ifn6s9.html",
           "publishedOn": "2024-01-03T03:56:44.000Z",
-          "wordCount": 329,
+          "wordCount": 333,
           "title": "彭博分析师：比特币现货ETF在1月10日之前获得批准的可能性为90%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +238,7 @@
           "description": "PANews 1月3日消息，据链上分析师@ai_9684xtpa监测，衍生品交易平台Deribit五分钟前向币安充值1500枚ETH，价值355万美元。",
           "link": "https://panewslab.com/zh/articledetails/x1xp9j7k.html",
           "publishedOn": "2024-01-03T03:11:15.000Z",
-          "wordCount": 330,
+          "wordCount": 328,
           "title": "Deribit五分钟前向币安充值1500枚ETH，价值355万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +278,7 @@
           "description": "PANews 1月3日消息，比特币创世区块于2009年1月3日下午（北京时间2009年1月4日02:15:05）被中本聪（Satoshi Nakamoto）挖出，区块奖励50枚BTC，截至目前已诞生15年，目前比特币总区块高度达824088。\n在创世区块中，中本聪在创世区块的CoinBase数据中记录了泰晤士报的当日头版标题：“The Times 03/Jan/2009 Chancellor on brink of second bailout for banks（财政大臣正站在第二轮救助银行业的边缘）。”",
           "link": "https://panewslab.com/zh/articledetails/1rymrl4l.html",
           "publishedOn": "2024-01-03T02:55:13.000Z",
-          "wordCount": 348,
+          "wordCount": 350,
           "title": "比特币创世区块已诞生15周年",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +288,7 @@
           "description": "PANews 1月3日消息，据CoinDesk报道，去中心化预测平台Polymarket的交易员似乎相信，一个或多个投资现货比特币的ETF将在两周内在美国上市。该平台上名为“1月15日批准比特币ETF”的合约的赞成方股票换手价为89美分，这意味着交易员预测此事件在1月15日前实现的可能性为89%。与一个月前的大约50%相比，这种可能性显著增加。",
           "link": "https://panewslab.com/zh/articledetails/iqihxbcg.html",
           "publishedOn": "2024-01-03T02:48:43.000Z",
-          "wordCount": 323,
+          "wordCount": 327,
           "title": "Polymarket上预测美SEC在1月15日前批准现货比特币ETF的可能性为89%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -241,76 +311,6 @@
           "wordCount": 338,
           "title": "GSR向交易所存入20万枚RNDR，约合94.2万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/sc8f7fm1.html",
-          "author": "PA一线",
-          "description": "PANews 1月3日消息，据Scopescan监测，在过去24小时内，某巨鲸地址从Coinbase提取了126万枚ARB（约合235万美元）。",
-          "link": "https://panewslab.com/zh/articledetails/sc8f7fm1.html",
-          "publishedOn": "2024-01-03T02:25:12.000Z",
-          "wordCount": 327,
-          "title": "某巨鲸过去24小时从Coinbase提取126万枚ARB，约合235万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9c219y31.html",
-          "author": "PA一线",
-          "description": "PANews 1月3日消息，据The Data Nerd监测，2小时前，Wintermute以1.76美元均价向OKX存入147万枚ARB（约合261万美元）。\n值得注意的是，自12月14日以来，他们总共存入了1060万枚ARB（约合1800万美元），以1.69美元均价进行兑换。在此期间，ARB上涨了72%，达到今天的新高1.93 美元。",
-          "link": "https://panewslab.com/zh/articledetails/9c219y31.html",
-          "publishedOn": "2024-01-03T02:21:40.000Z",
-          "wordCount": 337,
-          "title": "Wintermute于2小时前向OKX存入147万枚ARB，约合261万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/u4616hny.html",
-          "author": "PA一线",
-          "description": "PANews 1月3日消息，据派盾监测，标记为Alameda的地址将价值约1700万美元的加密货币（稳定币和以太坊）转移到以太坊主网和Optimism网络上的CeFi服务，包括：399万枚DAI转至Wintermute；589万枚USDC转至Coinbase；340万枚USDT转至Cumberland；1550枚ETH（约合367万美元）转至Coinbase。",
-          "link": "https://panewslab.com/zh/articledetails/u4616hny.html",
-          "publishedOn": "2024-01-03T02:17:10.000Z",
-          "wordCount": 333,
-          "title": "派盾：Alameda向CeFi平台转入价值约1700万美元的加密货币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/mf9cl0tx.html",
-          "author": "PA一线",
-          "description": "PANews 1月3日消息，据The Block报道，韩国互联网巨头Kakao开发的区块链Klaytn背后的机构Klaytn基金会宣布，已将GPC（黄金锚定币）及其支持的DeFi平台Goldstation引入其区块链生态系统。\nKlaytn在一份声明中表示，总部位于韩国的数字转型公司CREDER推出了GPC代币，使其成为以太坊之外DeFi上首个代币化黄金。Klaytn还表示，这也是第一个在交易中不收取基于百分比的费用的代币化黄金。\nGoldstation表示将于1月24日开始提供服务，包括GPC质押。该平台打算首先为韩国居民提供服务，但计划未来在全球范围内推出。",
-          "link": "https://panewslab.com/zh/articledetails/mf9cl0tx.html",
-          "publishedOn": "2024-01-03T02:15:15.000Z",
-          "wordCount": 334,
-          "title": "Klaytn将黄金RWA DeFi平台Goldstation纳入其生态系统",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/99fmijpe.html",
-          "author": "PA一线",
-          "description": "PANews 1月3日消息，据链上分析师余烬监测，十几分钟前，RNDR最大的个人/机构持币地址Kenetic Capital继续向币安存入50万枚RNDR(约合235万美元)。\n目前Kenetic Capital仍持有510万枚RNDR(约合2400万美元)。",
-          "link": "https://panewslab.com/zh/articledetails/99fmijpe.html",
-          "publishedOn": "2024-01-03T02:11:06.000Z",
-          "wordCount": 342,
-          "title": "Kenetic Capital再次向币安存入50万枚RNDR，约合235万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0bh1oo37.html",
-          "author": "PA一线",
-          "description": "PANews 1月3日消息，跨链互操作性协议Celer Network在X平台宣布，cBridge正在扩展对BRC-20代币的桥接支持，以将比特币网络无缝连接到EVM生态系统。这将允许BRC-20代币(如ORDI和SATS)能够参与EVM链上丰富的DeFi愿景。",
-          "link": "https://panewslab.com/zh/articledetails/0bh1oo37.html",
-          "publishedOn": "2024-01-03T02:09:24.000Z",
-          "wordCount": 338,
-          "title": "Celer Network为BRC-20代币提供cBridge桥接支持",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/gdl6188h.html",
-          "author": "PA一线",
-          "description": "美国国税局要求加密经纪商报告价值1万美元以上的加密交易\n据Cointelegraph报道，美国总统拜登签署成为法律的基础设施法案条款现已生效，其中包括要求向美国国税局(IRS)报告价值超过1万美元的数字资产交易。该法案要求加密货币经纪商在15天内向IRS报告交易的个人信息，包括发送者的姓名、地址和社会安全号码。该法案通过后，许多议员建议通过额外立法来“修正”报告要求，声称要求经纪商提供的信息很难甚至不可能收集。新的加密货币纳税申报义务已于1月1日生效。\nMichael Saylor将出售31.5万股MicroStrategy股票，价值约2.16亿美元\n一份监管文件显示，MicroStrategy创始人Michael Saylor将出售31.5万股MicroStrategy股票（MSTR），价值约2.16亿美元。 据悉，该信息此前已于2023年11月1日宣布（目前正式在SEC文件中的144表格公开），Saylor将在2024年4月25日之前每天出售5000股MSTR。\nDymension宣布其Genesis Drop活动已上线，将空投DYM总供应量的7%\nCosmos生态的模块化区块链网络Dymension宣布其Genesis Drop活动已上线，超过一百万地址有资格参与。来自Celestia、Ethereum、Cosmos和Solana的用户可在2024年1月21日20:00前领取共7000万枚DYM，占总供应量的7%。\n派盾：Radiant Capital攻击事件已造成约450万美元的损失\n据派盾监测，今天对Radiant Capital的攻击导致了1900枚ETH(约450万美元)的损失。根本原因是：它基本上是利用了借贷市场(从流行的Compound/Aave衍生而来)中一个激活新市场的时间窗口。该漏洞还依赖于当前Compound/Aave代码库中已知的舍入问题。具体来…",
-          "link": "https://panewslab.com/zh/articledetails/gdl6188h.html",
-          "publishedOn": "2024-01-03T02:03:46.000Z",
-          "wordCount": 463,
-          "title": "昨夜今晨重要资讯（1月2日-1月3日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2024/01/03/images/vdt2JuWQ6f.png"
         }
       ]
     },
