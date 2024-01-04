@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-04T12:24:26.519Z</id>
+    <id>urn:2024-01-04T13:15:45.892Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-04T12:24:26.519Z</updated>
+    <updated>2024-01-04T13:15:45.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[自带燃烧机制实现保本，Sui链铭文MOVE潜力如何？]]></title>
+        <id>https://www.web3sj.com/?p=99895</id>
+        <link href="https://www.web3sj.com/news/99895/"/>
+        <updated>2024-01-04T13:05:07.000Z</updated>
+        <summary type="html"><![CDATA[MOVE 是 Sui 链的铭文项目，总发行量为 100 亿代币，完成铸造需要经过 21, 600 个 epoch。即每个 epoch 大约产出 46 万个 MOVE 代币，所有参与的铸造地址平均分配这些代币。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-1.4）]]></title>
         <id>https://www.web3sj.com/?p=99891</id>
@@ -309,16 +319,6 @@ GBTC日均交易量增加63.4%至1.95亿美元。比特币期货持仓量增加1
         <link href="https://www.web3sj.com/definews/99823/"/>
         <updated>2024-01-04T04:01:39.000Z</updated>
         <summary type="html"><![CDATA[北京时间 2024 年 1 月 3 日，Arbitrum 上的 Radiant 协议受到闪贷攻击。黑客对 #Radiant 协议进行了 3 次攻击，总共损失了 1902 枚 ETH（价值 450 万美元）。根本原因是在新的 $USDC 市场上，放大和利用了「burn」函数中的数学舍入问题，使得黑客可以提取额外的 $USDC。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik再提分布式验证技术，为什么你应该重新关注Lido ？]]></title>
-        <id>https://www.web3sj.com/?p=99812</id>
-        <link href="https://www.web3sj.com/definews/99812/"/>
-        <updated>2024-01-04T03:50:22.000Z</updated>
-        <summary type="html"><![CDATA[众所周知，以太坊在完成合并后共识机制转变为了有质押机制的 POS。而当前几个大的质押服务提供商垄断了大量市场份额，也引发了对于质押服务中心化的担忧。]]></summary>
         <author>
             <name>Gao</name>
         </author>
