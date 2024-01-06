@@ -6,12 +6,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=100056",
+          "author": "Gao",
+          "description": "作为 Solana 的早期投资者，Multicoin Capital 曾在 2021 年牛市期间获得高额回报，其以论文投研驱动的投资风格也颇受追捧。不过随着一系列事件导致 Multicoin 资产管理规模急速缩水，2023 年的投资数量仅为之前两年的四分之一。但去年年底加密市场回暖，不仅是 Solana，从 DePin 赛道的 Helium Mobile（MOBILE）到新公链 Sei（SEI），Multicoin Capital 投资组合中有许多资产标的都收获了可观的涨幅。",
+          "link": "https://www.web3sj.com/news/100056/",
+          "publishedOn": "2024-01-06T14:04:29.000Z",
+          "wordCount": 1542,
+          "title": "SEI接力MOBILE，Multicoin投资概念又来了？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704549793069.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100041",
+          "author": "Gao",
+          "description": "状态压缩是 Solana 在 2023 年 4 月推出的一种存储数据的新方法，可大幅降低链上存储的成本。这种技术依赖于 Merkle 树，可以将数据树的可验证性压缩成一个哈希。压缩友好的结构允许开发人员在链上存储少量数据并直接在 Solana 账本中更新，大幅降低数据存储成本，同时保持 Solana 基层的安全性和去中心化。",
+          "link": "https://www.web3sj.com/news/100041/",
+          "publishedOn": "2024-01-06T13:51:09.000Z",
+          "wordCount": 1238,
+          "title": "被Solana创始人推特置顶，新代币标准Tiny SPL是什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704549047841.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100026",
+          "author": "Gao",
+          "description": "类似于 2020 开始的 Defi Summer，23 年的铭文 Summer，Rollup Summer 是笔者对后续可能出现的新型 Rollup 项目在数量、业务量（TVL、活跃用户、生态项目）等多个维度大爆发的状态定义，目前尽管初露端倪，但只是一种推演和假设。",
+          "link": "https://www.web3sj.com/news/100026/",
+          "publishedOn": "2024-01-06T13:45:21.000Z",
+          "wordCount": 1440,
+          "title": "Rollup Summer 思考：叙事推演和投资机会",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704548698538.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100021",
+          "author": "Gao",
+          "description": "但事实上，近期关于比特币现货 ETF 批准的消息并不少，Fox Business 昨日报道了一篇文章称，消息人士表示，来自 SEC 交易和市场部门的工作人员将与主要交易所（纽约证券交易所、纳斯达克和芝加哥期权交易所）官员举行会议，虽然最终决定尚未作出，会议被视为积极的信号，SEC 可能会在本周五（今日）开始通知 ETF 发行方获批，交易最早可能在下周开始。",
+          "link": "https://www.web3sj.com/news/100021/",
+          "publishedOn": "2024-01-06T13:28:41.000Z",
+          "wordCount": 1029,
+          "title": "比特币现货ETF获批在即？一文梳理最新动态",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704547622911.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=100017",
           "author": "Gao",
           "description": "Protos 分析显示，2021 年，SBF 的 Alameda Research 和 Cumberland 接收了所有 Tether-USDT 中的绝大多数。此后，Alameda 破产，其最大股东 SBF 被判多项重罪。",
           "link": "https://www.web3sj.com/news/100017/",
           "publishedOn": "2024-01-06T11:25:36.000Z",
-          "wordCount": 1074,
+          "wordCount": 1088,
           "title": "Alameda死亡后，揭秘Tether最大发行人Cumberland",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704540303077.png"
         },
@@ -21,7 +61,7 @@
           "description": "彭博社：预计SEC委员将于下周就比特币现货ETF发行商提交的19b-4文件进行投票。灰度：如果SEC批准现货比特币ETF并允许GBTC在NYSE Arca上市，投资者不必采取任何行动。StarkNet桥接TVL已近约20亿美元。",
           "link": "https://www.web3sj.com/news/100012/",
           "publishedOn": "2024-01-06T11:01:49.000Z",
-          "wordCount": 908,
+          "wordCount": 933,
           "title": "Web3世界日报（2024-1.6）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024010611003294.jpg"
         },
@@ -31,7 +71,7 @@
           "description": "SteakHut 是一个基于 Trader Joe 的 LP 动态管理 + 流动性挖矿平台，其原生代币 STEAK 过去 7 天内价格上升 70.80%，据 coingecko 数据，截至撰稿时，STEAK 价格为 2.13 美元。",
           "link": "https://www.web3sj.com/definews/100004/",
           "publishedOn": "2024-01-06T10:05:48.000Z",
-          "wordCount": 1141,
+          "wordCount": 1150,
           "title": "一周涨超70%，SteakHut V2如何构建DeFi的「流动性层」？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704535531187.png"
         },
@@ -41,7 +81,7 @@
           "description": "12 个小时，暴涨暴跌，Logo 形似「圆月弯刀」的 TRB 制造了加密资产市场新年第一个「多空双爆」惨案，全网合约爆仓金额为 7310 万美元，做多做空投资者都愤怒了，他们被这个「妖币」戏耍了。",
           "link": "https://www.web3sj.com/news/99996/",
           "publishedOn": "2024-01-06T10:00:35.000Z",
-          "wordCount": 1448,
+          "wordCount": 1434,
           "title": "TRB 「过山车」始末：巨鲸控盘、团队出货、过度杠杆",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704535191791.png"
         },
@@ -51,7 +91,7 @@
           "description": "本周山寨币表现，SOL跟KAS反弹能力较强，看涨期权依然有很好的收益，KAP反弹最快，看涨期权达到4300%涨幅。",
           "link": "https://www.web3sj.com/transaction/99965/",
           "publishedOn": "2024-01-05T15:01:50.000Z",
-          "wordCount": 821,
+          "wordCount": 943,
           "title": "本周山寨币期权播报（12.30~1.5）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/123.jpg"
         },
@@ -61,49 +101,9 @@
           "description": "彭博分析师：美国SEC“默认”以太坊为商品，以太坊现货ETF或将于今年上市。Celsius计划ETH解除抵押，导致Ethereum验证器退出队列达到16400的峰值。以太坊最新会议再次确认将于1月17日在Goerli测试网上进行Dencun升级。",
           "link": "https://www.web3sj.com/news/99959/",
           "publishedOn": "2024-01-05T11:56:09.000Z",
-          "wordCount": 909,
+          "wordCount": 885,
           "title": "Web3世界日报（2024-1.5）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024010511544110.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=99946",
-          "author": "Gao",
-          "description": "对于希望在交易所上市的公司来说，提交 8-A 表格是一项关键的监管要求。就 ETF 而言，这表明在产品获得批准之前，公司已做好在交易所交易的准备。",
-          "link": "https://www.web3sj.com/news/99946/",
-          "publishedOn": "2024-01-05T04:52:20.000Z",
-          "wordCount": 976,
-          "title": "比特币ETF批准日临近，灰度提交的8-A表格究竟意味着什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/70a47e8a271f1b8042fb39a2f4ad3b00.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=99942",
-          "author": "Gao",
-          "description": "以上是本周的加密货币期权大单情况，整体看来市场依然处于乐观的状态。",
-          "link": "https://www.web3sj.com/transaction/99942/",
-          "publishedOn": "2024-01-05T04:49:30.000Z",
-          "wordCount": 855,
-          "title": "一周期权交易大单回顾(12.31~1.5)",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704430124560.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=99933",
-          "author": "Gao",
-          "description": "虽然本文的主角之一 EigenLayer，也对以太坊主网的 L2 DA 采用产生了威胁。但生于以太坊，长于以太坊的协议无疑还是会对以太坊带来一定的帮助——甚至靠着一个协议直接催生出了新的叙事，Restaking。",
-          "link": "https://www.web3sj.com/news/99933/",
-          "publishedOn": "2024-01-05T04:08:03.000Z",
-          "wordCount": 1249,
-          "title": "RSTK一天翻一倍，一览Restaking赛道生态项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704427667336.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=99930",
-          "author": "Gao",
-          "description": "在 2018 年，Hayden Adams 在被 Karl Floersch 介绍进入加密货币领域仅几个月后（Karl Floersch 也榜上有名，出现在 2023 年最具影响力人物榜单上），Adams 飞往韩国参加了 Deconomy 大会。他在 2017 年中旬失去了大学毕业后的第一份工作，当时他是西门子的机械工程师，并利用这段时间学习编程，基本上从编写对初学者不友好的智能合约开始。",
-          "link": "https://www.web3sj.com/definews/99930/",
-          "publishedOn": "2024-01-05T04:00:08.000Z",
-          "wordCount": 994,
-          "title": "从以太坊理想主义者到Uniswap的商业现实主义者",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704427195005.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "PANews 1月6日消息，BendDAO在X平台表示，在收到社区反馈后，决定将BDIN Launch持续时间将延长至72小时（原定为24小时），以便为所有白名单用户足够的时间参与铸造。",
           "link": "https://panewslab.com/zh/articledetails/r4vn13b7.html",
           "publishedOn": "2024-01-06T12:52:45.000Z",
-          "wordCount": 328,
+          "wordCount": 324,
           "title": "BendDAO：BDIN Launch持续时间将延长至3天",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +128,7 @@
           "description": "PANews 1月6日消息，据链上分析师@ai_9684xtpa监测，昨日巨鲸 0x6B2...1fd35 从 #Uniswap 中撤出流动性并取出 20.04 枚 WBTC 和 4,662 枚 ETH 后，该巨鲸在过去两小时前，再次卖出 2,677 枚 ETH 换为 596 万枚 USDT，平均卖出价格为 2,226 美元；至此，巨鲸累计已卖出 4,013 枚 ETH。此外，20.04 枚 WBTC 已从添加 / 撤出流动性地址转入地址 0x6B2...1fd35，大概率会被卖出。",
           "link": "https://panewslab.com/zh/articledetails/2uae3ntj.html",
           "publishedOn": "2024-01-06T12:32:14.000Z",
-          "wordCount": 410,
+          "wordCount": 406,
           "title": "某巨鲸昨日从Uniswap撤出流动性后，约2小时前卖出2677枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 1月6日消息，NFT 借贷平台 BendDAO 发推表示，如果用户重复付款，将根据受影响用户的区块链记录进行退款。\n此前消息，BDIN Launch现已上线。",
           "link": "https://panewslab.com/zh/articledetails/q95n16z6.html",
           "publishedOn": "2024-01-06T12:25:00.000Z",
-          "wordCount": 335,
+          "wordCount": 331,
           "title": "BendDAO：如果用户重复付款，将根据区块链记录进行退款",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 1月6日消息，BendDAO在X平台表示，BDIN Launch现已上线，将持续24小时。\n据此前消息，BDIN代币总计1亿枚，其中60%将在BendDAO上发行，5%分配给Turtsats Launchpad，5%将分配给Bakery Launchpad，30%分配给BRC20生态系统。",
           "link": "https://panewslab.com/zh/articledetails/7h01g8m8.html",
           "publishedOn": "2024-01-06T10:41:21.000Z",
-          "wordCount": 334,
+          "wordCount": 330,
           "title": "BendDAO：BDIN Launch已上线，时间持续24小时",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +158,7 @@
           "description": "PANews 1月6日消息，据链上分析师@ai_9684xtpa监测，昨日巨鲸 0x6B2...1fd35 从 Uniswap 中撤出流动性并取出 20.04 枚 WBTC 和 4,662 枚 ETH ，总价值 1131 万美元。半小时前，该巨鲸收到其中 3000 枚 ETH 并卖出 1336 枚 （价值 298 万美元），卖出价格为 2229 美元。",
           "link": "https://panewslab.com/zh/articledetails/q59wxk6p.html",
           "publishedOn": "2024-01-06T10:17:00.000Z",
-          "wordCount": 393,
+          "wordCount": 389,
           "title": "某巨鲸昨日从Uniswap撤出流动性后今日卖出3000枚ETH",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "PANews 1月6日消息，Coinbase 主管 Conor 在 X 平台表示，bc1q9 开头的某地址从币安提取了 26.917 枚比特币（价值约 117 万美元），随后将其转入中本聪钱包。",
           "link": "https://panewslab.com/zh/articledetails/ubc3l4t2.html",
           "publishedOn": "2024-01-06T10:09:48.000Z",
-          "wordCount": 362,
+          "wordCount": 358,
           "title": "一地址从币安提取约27枚比特币并将其转入中本聪钱包",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "PANews 1月6日消息，据澎湃新闻报道，中国信息通信研究院云计算与大数据研究所、中国智能算力产业联盟、人工智能算力产业生态联盟等机构，近日联合发布了《新一代人工智能基础设施白皮书》（以下简称《白皮书》）。《白皮书》明确了“新一代AI（人工智能）基础设施”的定义、特点和价值，并首次提出“新一代AI基础设施评估体系”。数据显示，过去4年，大模型参数量以年均400%复合增长，AI算力需求增长超过15万倍。以CPU（中央处理器）为中心的传统计算基础设施已无法满足大模型、生成式AI的新要求。\n《白皮书》明确了新一代AI基础设施的定义：以大模型能力输出为核心平台，集成算力资源、数据服务和云服务，专门设计用于最大限度提升大模型和生成式AI应用的表现。《白皮书》首次提出“新一代AI基础设施评估体系”，即通过产品技术、战略愿景、市场生态三大维度共12个评估指标，对AI基础设施厂商综合能力进行定性和定量的全面评估。《白皮书》也提到，新一代AI基础设施的建设将降低大模型开发和应用门槛，在政企服务、产业和科研创新等方面创造更大社会价值。",
           "link": "https://panewslab.com/zh/articledetails/lvany0td.html",
           "publishedOn": "2024-01-06T09:25:20.000Z",
-          "wordCount": 323,
+          "wordCount": 319,
           "title": "中国信息通信研究院等机构联合发布《新一代人工智能基础设施白皮书》",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "PANews 1月6日消息，UniSat在X平台表示，已成功完成计划维护，并且已恢复对BRC20市场的访问。",
           "link": "https://panewslab.com/zh/articledetails/mqc6ljrs.html",
           "publishedOn": "2024-01-06T09:03:09.000Z",
-          "wordCount": 324,
+          "wordCount": 320,
           "title": "UniSat：已完成维护工作并恢复对BRC20市场的访问",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 1月6日消息，据币安行情显示，PEOPLE现报0.04285美元，24小时涨幅为64.5%；POWR现报0.7986美元，24小时涨幅为32.32%；TRB现报136.5美元，24小时涨幅为15.51%；LDO现报3.25美元，24小时涨幅为7.77%；OG现报4.94美元，24小时涨幅为9.87%。",
           "link": "https://panewslab.com/zh/articledetails/au02dbrn.html",
           "publishedOn": "2024-01-06T08:47:02.000Z",
-          "wordCount": 325,
+          "wordCount": 321,
           "title": "行情：PEOPLE日内涨幅64.5%，LDO日内涨幅7.77%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 1月6日消息，Synthetix 在 Base 网络发布 Andromeda 版本，该版本引入 Core V3 和 Perps V3 部署，将 USDC 作为新的抵押品。该版本的一个关键功能是在 Base 上赚取费用的 40% 被指定用于回购和销毁 SNX 代币。该策略旨在有效地分配 Synthetix 多链部署中的费用。",
           "link": "https://panewslab.com/zh/articledetails/0nrl0970.html",
           "publishedOn": "2024-01-06T08:23:45.000Z",
-          "wordCount": 387,
+          "wordCount": 383,
           "title": "Synthetix在Base网络发布Andromeda版本，引入SNX代币回购和销毁机制",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 1月6日消息，据官方数据，过去7天Circle发行23亿USDC，赎回21亿USDC，流通量增加3亿枚。截至1月4日，USDC总流通量为251亿美元，储备量为251亿美元。",
           "link": "https://panewslab.com/zh/articledetails/u88ghr78.html",
           "publishedOn": "2024-01-06T07:59:44.000Z",
-          "wordCount": 326,
+          "wordCount": 322,
           "title": "数据：过去7天USDC流通量增加3亿枚",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "PANews 1月6日消息，NFT 借贷平台 BendDAO 在X平台表示，由于 Ordinals Jubilee BRC-20 升级正在进行中，预计将持续至 1 月 6 日 16:00，为了防止索引数据快照中出现潜在错误，BDIN 代币将延迟到 Ordinals Jubilee BRC-20 升级完成之后发布。\n此前消息，NFT借贷平台BendDAO在社交媒体X上宣布，BDIN代币于BendDAO平台的发布时间定于北京时间1月6日11:00，将在发布前进行快照。Alpha和Beta白名单的规则仅适用于BendDAO上的代币发布，在Launchpad上推出的BDIN代币会同步启动交易。BDIN代币总计1亿枚，其中60%将在BendDAO上发行，5%分配给Turtsats Launchpad，5%将分配给Bakery Launchpad，30%分配给BRC20生态系统。",
           "link": "https://panewslab.com/zh/articledetails/ntknjfxm.html",
           "publishedOn": "2024-01-06T07:44:11.000Z",
-          "wordCount": 391,
+          "wordCount": 387,
           "title": "BendDAO：BDIN代币将延迟到Ordinals Jubilee BRC-20升级完成后发布",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +238,7 @@
           "description": "PANews 1月6日消息，据Whale Alert监测，过去1小时内，1087 枚 BTC 从Kraken转移到钱包。",
           "link": "https://panewslab.com/zh/articledetails/4emoj2un.html",
           "publishedOn": "2024-01-06T07:27:01.000Z",
-          "wordCount": 334,
+          "wordCount": 330,
           "title": "过去1小时1087枚BTC从Kraken转移到钱包",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 1月6日消息，据Ark Invest Daily的统计数据，Cathie Wood旗下ARK Invest于1月5日通过ARKK、ARKW、ARKF基金减持133,823股Coinbase股票，按照昨日收盘价价值约2060万美元。",
           "link": "https://panewslab.com/zh/articledetails/rkrkvde1.html",
           "publishedOn": "2024-01-06T07:05:31.000Z",
-          "wordCount": 337,
+          "wordCount": 333,
           "title": "ARK Invest昨日减持价值约2060万美元Coinbase股票",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 1月6日消息，据Whale Alert监测，1万枚ETH（约 22,292,739 美元）从未知钱包转移到Gate。",
           "link": "https://panewslab.com/zh/articledetails/oqtm393m.html",
           "publishedOn": "2024-01-06T06:34:46.000Z",
-          "wordCount": 329,
+          "wordCount": 325,
           "title": "1万枚ETH从钱包转移到Gate",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "PANews 1月6日消息，投资管理公司 VanEck 在 X 平台表示，将捐赠其现货比特币 ETF 利润的 5%，以支持比特币核心开发组织 Brink 至少 10 年。VanEck 目前正在等待美国证券交易委员会（SEC）批准推出其现货比特币 ETF。",
           "link": "https://panewslab.com/zh/articledetails/i7mzfh54.html",
           "publishedOn": "2024-01-06T06:24:35.000Z",
-          "wordCount": 366,
+          "wordCount": 362,
           "title": "VanEck：将捐赠ETF利润的5%给比特币开发者",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 1月6日消息，据BTC.com数据显示，比特币挖矿难度于区块高度824,544处迎来了挖矿难度调整，挖矿难度上调1.65%至73.2 T，再创历史新高。目前哈希率约为541.35 EH/s。",
           "link": "https://panewslab.com/zh/articledetails/73o1x82p.html",
           "publishedOn": "2024-01-06T05:48:37.000Z",
-          "wordCount": 335,
+          "wordCount": 331,
           "title": "比特币挖矿难度上调1.65%至73.2T，续创历史新高",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 1月6日消息，Azuki 官方 X 账号关注并转发了 Weeb3 Foundation“向开放动漫宇宙进发”的推文。Weeb3 Foundation 的 X 账号简介为“打造开放元宇宙，由 ANMIE 驱动”，社区有猜测 ANMIE 为 Azuki 即将发行的代币。数据显示，Azuki 系列 NFT 地板价暂报 7.5 ETH，24 小时涨幅 23.58 %。",
           "link": "https://panewslab.com/zh/articledetails/kcf1kjm7.html",
           "publishedOn": "2024-01-06T05:37:13.000Z",
-          "wordCount": 399,
+          "wordCount": 395,
           "title": "Azuki官方X账号转发与潜在“ANMIE”代币相关的Weeb3 Foudation推文",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +298,7 @@
           "description": "PANews 1月6日消息，ZKFair Community在X平台表示，Fairswap已被认定为诈骗项目，请避免与其进行交互，包括钱包连接。如果用户之前曾参与过该项目或将钱包连接到该项目，强烈建议立即撤销授权。\n此前GoPlus中文社区发推表示，ZKFair链上FairSwap空投疑似为钓鱼诈骗，已有多名用户资产被盗，请不要领取该平台空投。",
           "link": "https://panewslab.com/zh/articledetails/uuqb37it.html",
           "publishedOn": "2024-01-06T05:19:35.000Z",
-          "wordCount": 332,
+          "wordCount": 328,
           "title": "ZKFair：Fairswap为诈骗项目，请勿领取该平台空投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "PANews 1月6日消息，据链上分析师@ai_9684xtpa监测，过去 24 小时，Wintermute 向 OKX 转入 380 万枚 ARB。过去三天，Wintermute 已累计向交易所转移 2433 万枚 ARB（价值 4680 万美元），平均转入价格为 1.92 美元，目前该地址还持有 3742 万枚 ARB。",
           "link": "https://panewslab.com/zh/articledetails/q3h49alj.html",
           "publishedOn": "2024-01-06T05:10:00.000Z",
-          "wordCount": 384,
+          "wordCount": 380,
           "title": "Wintermute过去24小时向OKX转入380万枚ARB",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
