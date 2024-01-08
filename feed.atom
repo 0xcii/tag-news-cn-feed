@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T02:27:32.116Z</id>
+    <id>urn:2024-01-08T03:14:37.282Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-08T02:27:32.116Z</updated>
+    <updated>2024-01-08T03:14:37.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[为什么互操作性对DeFi很重要？]]></title>
+        <id>https://www.web3sj.com/?p=100110</id>
+        <link href="https://www.web3sj.com/definews/100110/"/>
+        <updated>2024-01-08T03:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos 通过 SDK 和 IBC 协议，解决了异构链之间的互操作性问题，是构建多链互通的 infra，LayerZero 通过跨链和预言机等工具和协议，提供了一个通用可扩展的跨链互操作性框架。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定币已死]]></title>
+        <id>https://www.web3sj.com/?p=100099</id>
+        <link href="https://www.web3sj.com/news/100099/"/>
+        <updated>2024-01-08T03:03:18.000Z</updated>
+        <summary type="html"><![CDATA[不可避免的金融市场尴尬在我的金融职业生涯中，我遇到的最令人困惑的概念之一涉及到与「钱」一词相关的玩法：聪明金钱——非常自负，真实金钱——那么确实有假钱，快速金钱，有形金钱，多重金钱——不要与货币乘数混淆，等等。在这些与货币相关的描述中，货币市场一直是我最难理解的概念。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊开发者会议回顾：坎昆升级、硬分叉与布拉格]]></title>
+        <id>https://www.web3sj.com/?p=100096</id>
+        <link href="https://www.web3sj.com/news/100096/"/>
+        <updated>2024-01-08T02:52:29.000Z</updated>
+        <summary type="html"><![CDATA[本周的会议由一位网名为「Lightclient」的匿名 Geth EL 开发人员主持。开发人员再次确认了 Cancun/Deneb（Dencun）升级的接下来三个公共测试网激活日期。他们还讨论了 Dencun 之后的下一个硬分叉升级 Prague/Electra 中代码更改（EIPs）的优先事项。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[彭博分析师：SEC在1月11日之前没有任何公开议程]]></title>
         <id>https://panewslab.com/zh/articledetails/aa0h83ta.html</id>
@@ -96,26 +126,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一周涨超70%，SteakHut V2如何构建DeFi的「流动性层」？]]></title>
-        <id>https://www.web3sj.com/?p=100004</id>
-        <link href="https://www.web3sj.com/definews/100004/"/>
-        <updated>2024-01-06T10:05:48.000Z</updated>
-        <summary type="html"><![CDATA[SteakHut 是一个基于 Trader Joe 的 LP 动态管理 + 流动性挖矿平台，其原生代币 STEAK 过去 7 天内价格上升 70.80%，据 coingecko 数据，截至撰稿时，STEAK 价格为 2.13 美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRB 「过山车」始末：巨鲸控盘、团队出货、过度杠杆]]></title>
-        <id>https://www.web3sj.com/?p=99996</id>
-        <link href="https://www.web3sj.com/news/99996/"/>
-        <updated>2024-01-06T10:00:35.000Z</updated>
-        <summary type="html"><![CDATA[12 个小时，暴涨暴跌，Logo 形似「圆月弯刀」的 TRB 制造了加密资产市场新年第一个「多空双爆」惨案，全网合约爆仓金额为 7310 万美元，做多做空投资者都愤怒了，他们被这个「妖币」戏耍了。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Arthur Hayes预测比特币3月或经历20%-30%健康回调]]></title>
         <id>https://www.hellobtc.com/news/202401/21564.html</id>
         <link href="https://www.hellobtc.com/news/202401/21564.html"/>
@@ -145,16 +155,6 @@
 12.DCG：已向债权人偿还超10亿美元债务，包括Genesis的全部7亿美元短期贷款。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周山寨币期权播报（12.30~1.5）]]></title>
-        <id>https://www.web3sj.com/?p=99965</id>
-        <link href="https://www.web3sj.com/transaction/99965/"/>
-        <updated>2024-01-05T15:01:50.000Z</updated>
-        <summary type="html"><![CDATA[本周山寨币表现，SOL跟KAS反弹能力较强，看涨期权依然有很好的收益，KAP反弹最快，看涨期权达到4300%涨幅。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
