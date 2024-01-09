@@ -1,10 +1,127 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=100343",
+          "author": "Gao",
+          "description": "VanEck和贝莱德再次提交比特币现货ETF S-1更新文件。比特币与纳斯达克之间的 40 天关联性已降至零。美国证交会考虑比特币ETF申请，管理费率曝光。",
+          "link": "https://www.web3sj.com/news/100343/",
+          "publishedOn": "2024-01-09T11:52:24.000Z",
+          "wordCount": 871,
+          "title": "Web3世界日报（2024-1.9）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024010911503151.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100324",
+          "author": "Gao",
+          "description": "昨日晚间，除 Hashdex 外的各大 ETF 申请方已相继递交了更新版的 S-1 （S-3）文件 ，接下来，SEC 将对此文件以及更早之前提交的 19 b-4 文件进行投票，以此来决定是否批准比特币现货 ETF 的申请。",
+          "link": "https://www.web3sj.com/news/100324/",
+          "publishedOn": "2024-01-09T04:24:52.000Z",
+          "wordCount": 1099,
+          "title": "手握ETF生杀大权？SEC五大委员对Crypto分别持何态度？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704774273440.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100311",
+          "author": "Gao",
+          "description": "虽然 Social 赛道在很长一段时间被寄予下一个 Mass Adoption 的厚望，但从诞生到现在始终没有产生大规模应用，Web3 社交的未来究竟会如何呢？层出不穷的社交产品究竟是昙花一现还是下一个 Mass Adoption ？这篇研报将深入探讨 Web3 社交的核心概念和解决方案，剖析其发展的现状、优势与挑战。",
+          "link": "https://www.web3sj.com/news/100311/",
+          "publishedOn": "2024-01-09T04:18:58.000Z",
+          "wordCount": 1964,
+          "title": "Web3 Social百花齐放的路径探索：昙花一现还是成为下一个Mass Adoption?",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704773925266.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100298",
+          "author": "Gao",
+          "description": "2023 年 12 月，SEC 推迟了美国几个以太坊 ETF 申请的决定至 2024 年 5 月，其中包括 Hashdex Nasdaq 以太坊 ETF、Grayscale 以太坊期货 ETF、VanEck 以太坊现货 ETF 以及由 Cathie Wood 的 ARK Invest 和 21Shares 提交的以太坊现货 ETF。",
+          "link": "https://www.web3sj.com/news/100298/",
+          "publishedOn": "2024-01-09T04:12:05.000Z",
+          "wordCount": 996,
+          "title": "比特币ETF如果通过，或会带动以太坊上涨75%？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704773508782.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100205",
+          "author": "Gao",
+          "description": "Gas Hero（GH）上线以来已经 4-5 天了，现在可以放心地发布本文了，因为现实情况与我的模型相匹配——GMT 正在扭转其历史上较差的发行状态 ( 每天抛压达 100-150 万 GMT)，未来 Gas Hero 每增加 1 万 DAU（日活用户数）=每天以当前价格锁仓 100-150 万 GMT。",
+          "link": "https://www.web3sj.com/gamefinews/100205/",
+          "publishedOn": "2024-01-09T03:27:15.000Z",
+          "wordCount": 1319,
+          "title": "Folius Ventures：链游Gas Hero上线后，看涨GMT的几大原因",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704770822218.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100200",
+          "author": "Gao",
+          "description": "Sei 是一种通用的开源第 1 层区块链，专注于数字资产的高效交易。其核心目标是提供行业最短的交易延迟，最低可达 300 毫秒。Sei 引入了内置的订单匹配引擎（OME），旨在帮助交易应用程式实现扩展，并通过防范抢先交易机制有效对抗 MEV（最大可提取价值）。作为新一代 Layer 1 公链，Sei 于 2023 年 8 月成功上线主网，迅速引起了广泛关注。",
+          "link": "https://www.web3sj.com/news/100200/",
+          "publishedOn": "2024-01-09T03:21:27.000Z",
+          "wordCount": 1049,
+          "title": "最快Layer1公链：Sei链生态分析与展望",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704770475239.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100195",
+          "author": "Gao",
+          "description": "SFT (Semi-Fungible Token) 半同质化代币起源于以太坊的 ERC-3525 标准，于 2022 年 9 月正式通过称为以太坊新的代币标准，一经通过备受关注，不仅在于它是最底层的创新，而且还是由我们华人团队 Solv Protocol 主导设计的一个标准。",
+          "link": "https://www.web3sj.com/news/100195/",
+          "publishedOn": "2024-01-09T02:54:57.000Z",
+          "wordCount": 1066,
+          "title": "半同质化资产赛道SFT还能有哪些创新玩法？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/842-1704718858886.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100180",
+          "author": "Gao",
+          "description": "Ordz Games 是 Stacks 生态首个 GameFi 项目，也是比特币生态首个真正意义上的 GameFi 项目，投资机构包括水滴资本、Unisat、神鱼、 Sora  等，其原生代币为 OG。在本轮行情中，Ordz Games 宣布暂停 OG 代币交易，并重新在  ALEX  平台进行 IDO 发售（Ordz Games 也是该平台的首个 IDO 项目 ），同时将代币更名为 ORDG。",
+          "link": "https://www.web3sj.com/gamefinews/100180/",
+          "publishedOn": "2024-01-09T02:41:39.000Z",
+          "wordCount": 1230,
+          "title": "盘点热门IDO项目：ORDG、BL2、SolMash及Port3 Network",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/842-1704722323071.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100174",
+          "author": "Gao",
+          "description": "根据更新文件，贝莱德的「弹性政策」给对方来了个措手不及，其 iShare Bitcoin Trust 费率为「前 12 个月或前 50 亿美元 0.20%，之后 0.30%」，灵活性令之在上市后具备低费率优势。费率明牌后，ARK 快速将这个数据从 0.80% 调整到 0.25%。",
+          "link": "https://www.web3sj.com/news/100174/",
+          "publishedOn": "2024-01-09T02:27:56.000Z",
+          "wordCount": 1174,
+          "title": "比特币ETF申请者 「交卷」 答案2天后揭晓",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704767249433.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100160",
+          "author": "Gao",
+          "description": "EMC Labs：稳定币2023年Q4净流入56亿美元，或已进入牛市。以太坊链上DEX 1月7日交易量为8.97亿美元居首位，Arbitrum以6.9亿美元排名第二。景顺、贝莱德等纷纷提交比特币现货ETF S-1更新文件。",
+          "link": "https://www.web3sj.com/news/100160/",
+          "publishedOn": "2024-01-08T12:14:49.000Z",
+          "wordCount": 917,
+          "title": "Web3世界日报（2024-1.8）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024010812105247.jpg"
+        }
+      ]
+    },
+    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/kzw7nz0o.html",
+          "author": "PA一线",
+          "description": "PANews 1月9日消息，据官方公告，Binance.US将于2024年1月17日下架BarnBridge（BOND）。BarnBridge (BOND) 的存款将于北京时间1月17日10:00关闭，此时间之后的BOND存款将不会记入用户账户。Binance.US上的BOND交易北京时间1月18日11:00关闭。BOND提款将保持开放。在此之前，用户可以考虑将其BOND换USDT，直到删除相应的BOND/USDT交易对。",
+          "link": "https://panewslab.com/zh/articledetails/kzw7nz0o.html",
+          "publishedOn": "2024-01-09T16:08:19.000Z",
+          "wordCount": 336,
+          "title": "Binance.US将下架BarnBridge（BOND）",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/y0pgjczy.html",
           "author": "PA一线",
