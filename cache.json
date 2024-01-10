@@ -6,12 +6,92 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/bg2r8cz2.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，以太坊再质押协议EigenLayer将于北京时间1月30日04:00引入三种新的流动性质押代币（LST），分别为Frax Ether (sfrxETH)、Mantle Staked Ether (mETH) 和 Liquid Collective Staked Ether (LsETH)。\n届时，EigenLayer 将重新开放，允许以每种LST 20万枚ETH的现有上限进行再质押。",
+          "link": "https://panewslab.com/zh/articledetails/bg2r8cz2.html",
+          "publishedOn": "2024-01-10T15:04:28.000Z",
+          "wordCount": 365,
+          "title": "EigenLayer计划于1月30日引入三种新的流动性质押代币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/k6zxa066.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，据Businesswire报道，流动性解决方案Eesee宣布完成285万美元的融资。此次融资包括110万美元的种子轮融资和175万美元的私募融资，SevenX Ventures、Maven Capital、MetaBros、Contango Digital Assets、BasementDAO等参投。\n据介绍，Eesee是为卖家提供的一站式流动性解决方案，通过Eesee，卖家可以创建定制的游戏化空投，例如去中心化的链上抽奖，以有效地以高于当前地板价的价格出售资产。该公司的原生代币ESE计划于第一季度在即将推出的TGE中推出。",
+          "link": "https://panewslab.com/zh/articledetails/k6zxa066.html",
+          "publishedOn": "2024-01-10T14:47:24.000Z",
+          "wordCount": 363,
+          "title": "流动性解决方案Eesee完成285万美元的融资，SevenX Ventures等参投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/twe707j3.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，据The Data Nerd监测，9小时前，Amaranth Foundation创始人James Fickel从Coinbase提取2万枚ETH (约合4740万美元)并将全部交换成stETH。然后，他将stETH存入Aave，借入241枚BTC（约合1109万美元）来​​购买ETH。据悉，Amaranth Foundation是一家资助于长寿和神经学研究的机构。",
+          "link": "https://panewslab.com/zh/articledetails/twe707j3.html",
+          "publishedOn": "2024-01-10T14:14:39.000Z",
+          "wordCount": 355,
+          "title": "Amaranth Foundation创始人将从CEX提取的2万枚ETH交换成stETH，随后存入Aave借入BTC来​​购买ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/q7ygf0t7.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，据DL News报道，DeFi借贷协议Euler Finance联合创始人Michael Bentley披露，其个人加密钱包去年11月份出现故障，随后丢失了恢复资金所需的私钥。Bentley拥有约120,000枚EUL代币，占代币供应总量的4.4%，这意味着他以今天的价格损失了380万美元。Bentley表示：“我现在已经失去了我在冷钱包中持有的加密资产的很大一部分，这些资产是七年多以来积累的，其中包括分配给我用于参与Euler治理的大部分EUL代币。”",
+          "link": "https://panewslab.com/zh/articledetails/q7ygf0t7.html",
+          "publishedOn": "2024-01-10T14:03:54.000Z",
+          "wordCount": 341,
+          "title": "Euler联创因硬件钱包故障损失了价值380万美元的EUL代币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/y957shj8.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，据链上分析师余烬监测，2小时前，以太坊基金会地址 (0xde0) 转出1000枚ETH(约合238万美元) 至0x4e6地址。\n0x4e6地址主要用于以太坊基金会资助资金分发，2021/5月以来该地址累计从以太坊基金会接收并分发了40,900枚ETH。",
+          "link": "https://panewslab.com/zh/articledetails/y957shj8.html",
+          "publishedOn": "2024-01-10T13:54:38.000Z",
+          "wordCount": 339,
+          "title": "以太坊基金会地址2小时前转出1000枚ETH，约合238万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2ae1o2cj.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，Cosmos在X平台宣布，将在2024年启动Cosmos Hub改进流程“CHIP”， 部分集安全性是一个重新构想选择加入安全性的概念，允许Cosmos Hub的子集为每个消费链运行物理节点，其中Partial Set Security是一个重新构想选择安全性（Opt-in Security）的概念，允许Hub验证器子集为每个消费者链运行物理节点。该概念旨在通过验证器委派提供更可扩展和经济高效的方法，同时保持高度去中心化和安全性。",
+          "link": "https://panewslab.com/zh/articledetails/2ae1o2cj.html",
+          "publishedOn": "2024-01-10T13:49:14.000Z",
+          "wordCount": 358,
+          "title": "Cosmos将在2024年启动Cosmos Hub改进流程“CHIP”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/83jy3v3h.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，根据PancakeSwap 2024年第一季度路线图AMA，PancakeSwap主厨表示，PancakeSwap未来有进一步减少CAKE排放量的计划，将与veCAKE管理人员进行更广泛的对话，讨论如何以有利于各方和协议长期增长的方式平衡CAKE排放。此外，PancakeSwap目前没有推出独立的Cakechain的计划，“因为独立的PancakeSwap区块链对PancakeSwap协议及其成为一体化DeFi多链协议的愿景没有任何好处”。本季度DEX和veCAKE有升级的计划，DEX相关计划暂不透露，关于veCAKE的升级，包括：进一步扩大bCAKE-收益助推器以涵盖更多类型的流动性、将veCAKE的优势扩展到BNB Chain之外、将veCAKE改造为一些之前基于CAKE质押的产品（例如TradingRewards-CAKE Staker）、推出更多产品和创新方式来享受veCAKE的好处。2024年PancakeSwap除了会推出一些新产品外，将花大力气优化现有的许多产品以增强用户体验。\n关于“许多平台都向不同资产的质押者提供空投，是否有可能建立一个生态系统让CAKE质押者也能收到类似的空投”一问，PancakeSwap主厨表示：“首先，与许多此类协议不同，PancakeSwap不是一个新协议，不能再次启动CAKE代币。然而，如果PancakeSwap协议收到任何一方的任何空投，我们不会自己持有，而是将其全部返还给质押者，并考虑他们如何为PancakeSwap的成功做出贡献。”关于扩展至其他区块链的计划，PancakeSwap主厨表示，链上还有更多尚未部署的活动，而且协议在区块链扩展方面会非常谨慎。",
+          "link": "https://panewslab.com/zh/articledetails/83jy3v3h.html",
+          "publishedOn": "2024-01-10T13:31:22.000Z",
+          "wordCount": 342,
+          "title": "PancakeSwap：目前没有推出独立的Cakechain的计划，本季度将对DEX和veCAKE进行一系列升级",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5557cci7.html",
+          "author": "PA一线",
+          "description": "PANews 1月10日消息，据The Block报道，BitMEX联合创始人Arthur Hayes已加入去中心化人工智能平台Ritual担任顾问。Ritual合作伙伴表示：“作为Ritual 的顾问，Arthur将提供其深厚的加密货币和金融市场专业知识，以进一步推动人工智能模型、GPU和数据的金融化，帮助发展Ritual品牌，并开发链上人工智能的新用例。”\nHayes告诉The Block，在成为顾问之前，他并不是Ritual的投资者，但无法透露他是否获得了任何加入该项目的激励。他也无法透露他在加密领域总共担任了多少顾问角色，也无法透露他是否参与了任何其他人工智能项目。\n此前去年11月消息，去中心化AI计算平台Ritual完成2500万美元融资，Arcetype领投。",
+          "link": "https://panewslab.com/zh/articledetails/5557cci7.html",
+          "publishedOn": "2024-01-10T13:05:10.000Z",
+          "wordCount": 369,
+          "title": "BitMEX联创Arthur Hayes加入去中心化人工智能平台Ritual担任顾问",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/57v32me6.html",
           "author": "PA一线",
           "description": "PANews 1月10日消息，彭博社ETF分析师Eric Balchunas在X平台发文称：“据我们所知，一切都准备就绪。最有可能的是，我们会在今天下午4点至6点（北京时间1月11日凌晨5点至7点）看到（现货比特币ETF）正式批准，交易将于周四开始。”",
           "link": "https://panewslab.com/zh/articledetails/57v32me6.html",
           "publishedOn": "2024-01-10T12:41:30.000Z",
-          "wordCount": 337,
+          "wordCount": 339,
           "title": "彭博社分析师预计现货比特币ETF获批时间为北京时间1月11日凌晨5点至7点",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -61,7 +141,7 @@
           "description": "PANews 1月10日消息，据路透社报道，Ark Investments和21Shares将其拟议的现货比特币ETF的费用从0.25%降低至0.21%。",
           "link": "https://panewslab.com/zh/articledetails/1sis579t.html",
           "publishedOn": "2024-01-10T11:34:01.000Z",
-          "wordCount": 340,
+          "wordCount": 342,
           "title": "ARK 21Shares计划将其现货比特币ETF费用从0.25%降低至0.21%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -123,86 +203,6 @@
           "publishedOn": "2024-01-10T10:52:10.000Z",
           "wordCount": 389,
           "title": "NoahArk Tech Group获得EOS Network Ventures 240万美元战略投资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/uex4gxtp.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，据链上分析师@ai_9684xtpa监测，三个月前重仓LINK的巨鲸再次向币安充值10万枚LINK。该巨鲸于01.03-01.10已累计向交易所转移60万枚代币（价值853万美元），若全部卖出将获利61.1万美元；至此，2023.10.23 - 12.26建仓的LINK还剩29.5万枚，平均成本12.75美元。",
-          "link": "https://panewslab.com/zh/articledetails/uex4gxtp.html",
-          "publishedOn": "2024-01-10T10:47:45.000Z",
-          "wordCount": 331,
-          "title": "某巨鲸近8天已累计向交易所转移60万枚LINK，价值853万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vxszy92a.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，据官方消息，OKX Ventures宣布投资Polyhedra Network。Polyhedra Network是基于ZKP的下一代Web3全栈式互操作性基础设施，并设计并实现了zkBridge协议，为Layer1和Layer2的互操作性提供了无信任和高效的跨链基础架构。此外，Polyhedra Network还推出了 zkBridge Mainnet Alpha、分布式证明系统deVirgo、以及基于zkBridge的比特币互操作协议等等。\nOKX Ventures的创始人Dora表示，很高兴能参与全栈互操作性基础设施Polyhedra的投资，团队在ZKP证明机制上富有创造力，发明了先进的deVirgo和paraPlonk ZK证明系统，兼顾了ZK互操作性和可拓展性。团队致力于实现Web2和Web3世界互联的美好愿景，为行业带来新的用户增量。",
-          "link": "https://panewslab.com/zh/articledetails/vxszy92a.html",
-          "publishedOn": "2024-01-10T10:22:22.000Z",
-          "wordCount": 363,
-          "title": "OKX Ventures投资基于ZKP的Web3全栈互操作性基础设施Polyhedra Network",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/iupem4t4.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，据Cointelegraph报道，土耳其财政和财政部长Mehmet Şimşek透露了该国即将出台的加密货币监管背后的一些内容。政府将对加密货币的关键概念给出法律定义，遵守金融行动特别工作组(FATF)的标准，并许可交易平台。\n1月10日，Şimşek与阿纳多卢通讯社(Anadolu Agency)进行了交谈，证实土耳其市场的加密框架目前处于发展的最后阶段，并评估了其实施的技术方面。新的指导方针将要求加密货币平台获得土耳其资本市场委员会（CMB）的许可。他们还将对“加密资产”、“加密钱包”、“加密资产服务提供商”、“加密资产托管服务”和“加密资产买卖平台”给出法律定义。部长补充说，目前该法规不会涵盖虚拟资产的具体税收制度。\n根据区块链分析公司Chainaanalysis的数据，2022年7月至2023年6月期间，土耳其当地加密货币交易量在全球排名第四，交易额约为1700亿美元，仅次于美国、印度和英国。",
-          "link": "https://panewslab.com/zh/articledetails/iupem4t4.html",
-          "publishedOn": "2024-01-10T10:18:12.000Z",
-          "wordCount": 346,
-          "title": "土耳其财政部长透露该国的加密货币监管已进入最后阶段",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ofvq69jj.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，据Scopescan监测，随着BTC ETF获得批准的预期，很多人都因ETH ETF预期而积累ETH。0x78开头巨鲸今天从Kraken提取了4000枚ETH（约合935万美元）。他已经积累了8个月的ETH，目前持有16580枚ETH（4043万美元）。",
-          "link": "https://panewslab.com/zh/articledetails/ofvq69jj.html",
-          "publishedOn": "2024-01-10T10:09:43.000Z",
-          "wordCount": 335,
-          "title": "某巨鲸今日从Kraken提取4000枚ETH，约合935万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/dt957c1k.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，据The Block报道，野村证券旗下数宇资产子公司Laser Digita和Web3孵化中心WebN Group推出了Libre协议，该协议是由Polygon技术支持的基金代币化基础设施。\nLibre利用资产代币化和智能合约，旨在实现另类投资的合规发行和管理。该协议是使用Polygon Chain 开发套件 (CDK) 构建的，它可以在以太坊上开发专用的、零知识驱动的Layer 2区块链。Libre计划于2024年第一季度上线，投资管理公司Brevan Howard和Hamilton Lane将成为首批使用该平台的发行人。",
-          "link": "https://panewslab.com/zh/articledetails/dt957c1k.html",
-          "publishedOn": "2024-01-10T10:07:40.000Z",
-          "wordCount": 362,
-          "title": "野村证券旗下Laser Digital推出Polygon技术支持的基金代币化基础设施Libre协议",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/du8s8dry.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，BNB Chain宣布在2023年12月BNB Smart Chain（BSC）日活跃用户 (DAU)接近120万， 创历史新高，增长率高达 22%；opBNB 12 月的每日 DAU 增长了三倍，达到近 260,000，使其成为第四季度增长最快的 3 条公链之一。截至目前，BSC 的平均 DAU 已达到 157 万，opBNB 的平均 DAU 达到 78 万，为第二活跃公链。\n此外，截至目前BSC上的项目Kinza Finance从Q4初的170万美元激增至令人瞩目的7,900万美元，确立了其作为BSC上第七大TVL项目的地位；opBNB 的 TVL 从 10 月份的 100 万美元增加到超过 1500 万美元，增幅达 15 倍。",
-          "link": "https://panewslab.com/zh/articledetails/du8s8dry.html",
-          "publishedOn": "2024-01-10T09:54:35.000Z",
-          "wordCount": 424,
-          "title": "BNB Smart Chain与opBNB日活跃用户数及总锁定价值均破新高",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/jplx95f8.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，Coinglass数据显示，全网以太坊期货合约未平仓头寸升至333万枚ETH（约合80.8亿美元），过去24小时增幅达13%。其中：币安以太坊合约未平仓头寸为110万枚ETH（约合26.8亿美元），排名第一；过去24小时持仓量增幅达14.82%。Bybit以太坊合约未平仓头寸为65.8万枚ETH（约合15.9亿美元）， 排名第二，过去24小时持仓量增幅达19.48%。",
-          "link": "https://panewslab.com/zh/articledetails/jplx95f8.html",
-          "publishedOn": "2024-01-10T09:53:22.000Z",
-          "wordCount": 332,
-          "title": "全网以太坊期货合约未平仓头寸超80亿美元，24小时增幅达13%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vw784bb4.html",
-          "author": "PA一线",
-          "description": "PANews 1月10日消息，据链上分析师@ai_9684xtpa监测，ETH波段大户0x8Af...eFA05过去五天累计在链上买入1794枚ETH，价值420万美元，平均买入价格2338美元。\n该巨鲸曾在2023.11通过ETH波段获利110万美元。",
-          "link": "https://panewslab.com/zh/articledetails/vw784bb4.html",
-          "publishedOn": "2024-01-10T09:47:24.000Z",
-          "wordCount": 330,
-          "title": "某ETH波段大户过去五天累计在链上买入1794枚ETH，价值420万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
