@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T05:13:40.255Z</id>
+    <id>urn:2024-01-12T06:17:53.200Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-12T05:13:40.255Z</updated>
+    <updated>2024-01-12T06:17:53.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[三分钟Web3科普：以太坊坎昆升级是什么？]]></title>
+        <id>https://www.web3sj.com/?p=100665</id>
+        <link href="https://www.web3sj.com/show/100665/"/>
+        <updated>2024-01-12T05:36:53.000Z</updated>
+        <summary type="html"><![CDATA[坎昆升级的目的是解决以太坊的扩容需求，帮助降低Layer2 Rollups解决方案的交易成本，提升Rollups的速度。EIP-4844提案就是为了解决数据上传的问题，可以理解为二层网络Rollups的加速器。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊新叙事：流动性再质押]]></title>
+        <id>https://www.web3sj.com/?p=100651</id>
+        <link href="https://www.web3sj.com/news/100651/"/>
+        <updated>2024-01-12T05:13:37.000Z</updated>
+        <summary type="html"><![CDATA[EigenLayer 在短短一个月内洪吸超过 50 万颗 $ETH TVL 突破 10 亿美元如今来到了 14 亿美元是目前以太坊 TVL 第 12 名的天王级项目，而首个使用 EigenLayer 验证服务的 AVS - EigenDA 也即将上线，DA 服务的叙事也跟着 Celestia 的代币 $TIA 暴涨而成为市场瞩目的话题，而 EigenLayer 不只自己独善其身.]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安将更新部分现货交易对的最小变动单位]]></title>
+        <id>https://panewslab.com/zh/articledetails/znqs45mk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/znqs45mk.html"/>
+        <updated>2024-01-12T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，币安将于2024年1月19日15:00（北京时间）前完成部分现货交易对的最小变动价位（tick size）（即单价最小变化）的调整。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius对债权人的债务将通过PayPal或Coinbase支付的方式偿还]]></title>
+        <id>https://panewslab.com/zh/articledetails/3vmbhmg0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/3vmbhmg0.html"/>
+        <updated>2024-01-12T04:42:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，美国纽约南区破产法庭的文件显示，加密货币借贷平台Celsius宣布将通过特定方式向债权人偿还债务。该计划指出，Celsius将通过PayPal支付给居住在美国的债权人，而对于美国以外的债权人，则将通过Coinbase支付，前提是Coinbase支持其所在国家。此外，如果由于特殊情况无法以加密货币的形式接收款项，债权人将有权选择以美元接收还款。该还款计划预计将在1月31日正式生效后尽快执行。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LD Capital宣布成立Solana生态基金]]></title>
+        <id>https://panewslab.com/zh/articledetails/38uez9y0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/38uez9y0.html"/>
+        <updated>2024-01-12T04:35:35.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，LD Capital 宣布成立一只专注于 Solana 生态项目投资的基金，旨在深入参与Solana生态系统的发展，并支持创新性项目和团队。该基金计划加速十个以上Solana生态项目，同时帮助更多现有投资组合项目迁移到Solana生态并进行建设。目前，LD Capital 已对包括 Render Network、Star Atlas、OpenOcean、Divvy、Larix 等多个Solana生态项目进行了投资。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第125次以太坊ACDC会议：讨论Cancun/Deneb升级测试和Beacon API规范转化为OpenAPI模式]]></title>
+        <id>https://panewslab.com/zh/articledetails/zh99s3la.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zh99s3la.html"/>
+        <updated>2024-01-12T04:17:46.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，Galaxy研究副总裁Christine Kim发文总结第125次以太坊核心开发者共识(ACDC)电话会议，会议讨论了Cancun/Deneb升级测试和Beacon API规范转化为OpenAPI模式。Goerli测试网的第二个阴影分叉于1月11日启动，是Cancun/Deneb在Goerli激活前的最后一个阴影分叉。会上讨论了CL分叉选择规范的微小更改，开发人员同意尽快合并这些更改。Lodestar开发者"Dapplion"分享了Beacon API路由的SSZ到JSON的规范映射完成，并讨论了从OpenAPI转向SSZ的可能性。此外，还讨论了对节点长期认证子网（attnets）的优化改动。以太坊基金会研究员Ansgar Dietrichs强调了数据可用性采样（DAS）在CL重点升级中的优先级。下一个升级Electra的讨论将在下一次ACDC电话会议中进行更深入的探讨。
+此外，第126次以太坊ACDC会议将于北京时间1月25日22:00进行。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 Solana开发者生态系统报告]]></title>
         <id>https://www.web3sj.com/?p=100638</id>
@@ -26,6 +87,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2.1万枚ENS转入币安，疑似ENS项目方/投资者正在抛售]]></title>
+        <id>https://panewslab.com/zh/articledetails/i9ean079.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i9ean079.html"/>
+        <updated>2024-01-12T03:58:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，AI姨（@ai_9684xtpa）发推表示，疑似 ENS 项目方 / 投资者正在抛售 ENS。0x1b9开头地址过去一年共收到项目方冷钱包转移的 40.3 万枚代币（价值 530 万美金），其中 2.1 万枚在五小时前充值进币安，目前所有代币都已分批流入交易所。
+Vitalik点名 ENS 后，ENS 币价近七日涨幅已达到 59%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[空投引争议：从Starknet出发，回顾引发舆论风波的历史空投事件]]></title>
         <id>https://www.web3sj.com/?p=100630</id>
         <link href="https://www.web3sj.com/news/100630/"/>
@@ -43,6 +115,16 @@
         <summary type="html"><![CDATA[2023 年 9 月 23 日，Mixin Network 云服务提供商数据库遭到攻击，导致主网部分资产丢失，涉及资金约 2 亿美元，是 2023 年损失最大的攻击事件。随后，Mixin 官推称，已联系谷歌和慢雾安全团队协助调查。官方表示将最多赔付 50% 的损失，剩余部分以债券代币形式赔付，并用利润进行回购。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARK Invest昨日减持价值约440万美元Coinbase股票]]></title>
+        <id>https://panewslab.com/zh/articledetails/baidvfrc.html</id>
+        <link href="https://panewslab.com/zh/articledetails/baidvfrc.html"/>
+        <updated>2024-01-12T03:45:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，据Ark Invest Daily统计数据，Cathie Wood 旗下 ARK Invest 于 1 月 11 日减持 31281 股 Coinbase 股票，价值约 440 万美元。此外，ARK Invest 还出售了 430 万美元的Robinhood股票，购买了一些Tesla股票。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -82,6 +164,39 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[xPET已支持OKX Web3钱包]]></title>
+        <id>https://panewslab.com/zh/articledetails/lpe19t3n.html</id>
+        <link href="https://panewslab.com/zh/articledetails/lpe19t3n.html"/>
+        <updated>2024-01-12T03:33:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，据官方消息，xPET现已支持OKX Web3钱包，用户可以通过OKX Web3钱包插件端或者移动端购买、转移和领取xPET生态资产。此外，还可以通过OKX Discover板块参与移动端游戏。
+据悉，OKX Web3 钱包是行业领先的一站式 Web3 入口，现已支持 85+ 公链，App、插件、网页三端统一，涵盖钱包、DEX、DeFi、NFT 市场、DApp 探索 5 大板块、并支持 Ordinals 市场、MPC 和 AA 智能合约钱包、兑换 Gas、连接硬件钱包等。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mind Network宣布推出基于全同态加密的零信任层测试网]]></title>
+        <id>https://panewslab.com/zh/articledetails/5v66p5mh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5v66p5mh.html"/>
+        <updated>2024-01-12T03:30:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月11日消息，首个将零信任部署在Web3生产中的项目Mind Network近期宣布，推出基于全同态加密的零信任层测试网。据悉，Mind Network整合了全同态加密与隐形地址协议(FHE DK-SAP)，以保障转账的隐私性和安全性，由此可同时解决两个问题：1）满足Web3数据的安全和隐私需求；2）带来Web2和传统金融进入Web3所需的安全协议，同时遵守监管机构的合规需求。
+基于此创新，Mind Network获得了以太坊基金会资助并赢得了MetaMask和EthSingapore黑客松竞赛。Mind Network还得到了Binance Labs、Hashkey、Comma3、SevenX等知名投资机构的支持。此外，Mind Network在孵化阶段参与了币安孵化营第5期、Chainlink BUILD、以太坊Fellowship及Consensys Starup等计划。
+此外，Mind Network解决方案已在加密货币和传统金融领域存在广泛用例，其技术目前已被Chainlink CCIP、MetaMask、某中央银行、多家商业银行和机构投资者等领先组织采用。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博社ETF分析师：首日有70万笔个人交易进出11只比特币现货ETF]]></title>
+        <id>https://panewslab.com/zh/articledetails/8ygiu2xk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8ygiu2xk.html"/>
+        <updated>2024-01-12T03:26:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，彭博社ETF分析师 Eric Balchunas 在X平台表示，今天（比特币现货ETF首个交易日）总共有 700,000 笔个人交易进出 11 只现货 ETF。这是QQQ（主要跟踪纳斯达克100指数的ETF）交易数量的两倍（尽管它看到更大的美元交易量，因为更大的鱼使用它），所以草根行动（相对于大型种子购买）比预期的要多得多。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EigenLayer：连接以太坊和Cosmos带来无限创新]]></title>
         <id>https://www.web3sj.com/?p=100612</id>
         <link href="https://www.web3sj.com/news/100612/"/>
@@ -92,6 +207,27 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OKX现已经支持dYdX主网充币，提币将于1月14日开放]]></title>
+        <id>https://panewslab.com/zh/articledetails/u2m5zsqh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/u2m5zsqh.html"/>
+        <updated>2024-01-12T03:16:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，据官方公告显示，为满足用户交易的多方面需求，OKX现已经支持dYdX主网充币，提币将于北京时间1月14日上午11时开放。
+据悉，dYdX 链是由 dYdX 发布的开源、完全去中心化的独立应用链。它包括协议、订单簿和前端的完整代码，强调对完全去中心化的核心信念。在 DeFi 领域，dYdX链提供了每秒高达 2,000 笔交易的前所未有的交易速度，旨在为衍生品交易提供透明度和安全性，赋予用户力量，标志着在民主化金融机会访问方面迈出的重要一步。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius将解除质押的1.4万枚ETH存入Coinbase和FalconX，价值3653万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/clj5mo1e.html</id>
+        <link href="https://panewslab.com/zh/articledetails/clj5mo1e.html"/>
+        <updated>2024-01-12T03:13:38.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，据@ai_9684xtpa推文，Celsius 在过去 10 小时再次解除 1.4 万枚 ETH 质押，随后充值进了 Coinbase 和 FalconX，价值 3653 万美元。目前 Celsius 质押地址 0x1Ce...29074 中还有 11.7 万枚 ETH，价值 3 亿美金，预计抛售压力仍将持续。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[上市首日战绩斐然，现货比特币ETF交易额达46亿美元]]></title>
         <id>https://www.web3sj.com/?p=100605</id>
         <link href="https://www.web3sj.com/news/100605/"/>
@@ -99,6 +235,16 @@
         <summary type="html"><![CDATA[现货产品上市也推动了 ProShares 比特币策略 ETF（交易代码：BITO）日交易量突破 20 亿美元，创历史新高。分析师表示：「也许有些资金是赎回，但我倾向于认为 BITO 的流动性将在一段时间内为做市商服务」。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.6万张BTC期权和26.2万张ETH期权将于今日到期，总名义价值23.6亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/czl3698c.html</id>
+        <link href="https://panewslab.com/zh/articledetails/czl3698c.html"/>
+        <updated>2024-01-12T03:08:23.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，据Adam@Greeks.live发布的1月12日期权交割数据显示，3.6万张BTC期权即将到期，Put Call Ratio为0.9，最大痛点45000美元，名义价值16.8亿美元。 26.2万张ETH期权即将到期，Put Call Ratio为0.64，最大痛点2400美元，名义价值6.8亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -194,130 +340,6 @@ Robinhood 的客户现在可以选择购买或出售比特币 ETFs，就像交�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEC提出动议要求Ripple提供2022-2023年财务报表等资料]]></title>
-        <id>https://panewslab.com/zh/articledetails/p03usge5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/p03usge5.html"/>
-        <updated>2024-01-12T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据Crypto Law报道，美国证券交易委员会（SEC）提出一项动议，要求 Ripple 提供其 2022 至 2023 年的财务报表。此外，SEC 还要求 Ripple 提供在遭到诉讼后如何管理其“机构销售”的相关合同。
-此外，法庭文件显示，Ripple Labs 已向美国纽约南区地方法官 Sarah Netburn 提交了一份延期申请文件，要求将对美国证券交易委员会（SEC）于 1 月 11 日提出的强制动议的回应日期推迟至 1 月 19 日。原定 Ripple 应回应 SEC 的日期为 1 月 17 日。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk：仍持有DOGE，SpaceX持有大量比特币]]></title>
-        <id>https://panewslab.com/zh/articledetails/68t3gd22.html</id>
-        <link href="https://panewslab.com/zh/articledetails/68t3gd22.html"/>
-        <updated>2024-01-12T00:38:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据Bitcoinist报道，Elon Musk 近日在 X 做 Space 对话时透露自己仍然持有 Dogecoin (DOGE)，并且表示 DOGE 是他在加密货币行业中最喜欢的货币。此外，Musk 还透露 SpaceX 持有大量比特币。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨链交易基础设施zkLink将在CoinList上进行社区代币销售]]></title>
-        <id>https://panewslab.com/zh/articledetails/tmk02pmc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/tmk02pmc.html"/>
-        <updated>2024-01-12T00:27:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，专注于零知识证明的多链交易基础设施公司 zkLink 近日宣布 zkLink Explorer 白名单和社区代币销售活动的启动。该公司表示，用户可以在北京时间 1 月 16 日 20:00 前申请 zkLink Explorer 白名单，以优先参与 CoinList 社区销售。该白名单将特别考虑活跃社区成员和 zkLink 的长期支持者。用户需要在 CoinList 的 zkLink 交易页面上注册，以获得代币销售资格。
-此外，zkLink 社区代币销售的注册已于北京时间 1 月 12 日 01:00 开始，并将于 1 月 22 日 20:00 结束。代币销售的日期定于 1 月 26 日 02:00（北京时间）。计划出售的 3125 万 ZKL（ERC-20）代币占总供应量的 3.125%，每枚代币的价格为 0.15 美元。ZKL 的总供应量为 10 亿枚，预计在 2024 年第一季度解锁 30%，之后进行 9 个月的线性释放。在 CoinList 的最低购买额为 100 美元，最高购买额为 500 美元，支持使用 USDT 和 USDC 进行购买。美国、加拿大、中国、韩国及其他特定司法管辖区的居民将无法参与。
-ZKL 代币的分配情况为：CoinList 销售分配占比 3.125%，社区财库分配占比 29.875%，流动性储备分配 4%，生态系统发展分配占比 22.5%，团队和顾问分配占比 20%，以及早期私募分配占比 20.5%。
-去年5月曾报道，跨链交易基础设施zkLink完成1000万美元融资，Coinbase Ventures等参投。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase无计划因ETF的引入而降低交易费用]]></title>
-        <id>https://panewslab.com/zh/articledetails/2dm5nu3h.html</id>
-        <link href="https://panewslab.com/zh/articledetails/2dm5nu3h.html"/>
-        <updated>2024-01-12T00:12:38.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据DL News报道，Coinbase发言人表示，Coinbase目前没有因为ETF的引入而考虑降低交易费用。Coinbase没有披露其基本零售费用，但第三季度的零售抽成费用比例率(用交易所交易收入除以零售交易量来衡量)约为2.5%。该交易所还提供高级交易选项，用户将为1万美元以内的交易支付0.6%的费用。Coinbase表示，ETF可以为加密货币带来新用户，未来这些用户将“希望直接通过Coinbase更多地参与加密经济”。Coinbase将为ETF发行人提供一系列服务。在11个获批的比特币现货ETF中，8个将Coinbase指定为其托管人。该发言人表示，我们主要的盈利方式为收取托管费用，但我们也将提供代理交易、匹配和结算以及融资等关键服务。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord宣布将裁员17%，约170名员工受到影响]]></title>
-        <id>https://panewslab.com/zh/articledetails/s8ytiv3o.html</id>
-        <link href="https://panewslab.com/zh/articledetails/s8ytiv3o.html"/>
-        <updated>2024-01-12T00:11:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据《纽约时报》报道，深受游戏玩家喜爱的社交聊天和通讯公司 Discord 宣布将裁员 17%，相当于170名员工。这一消息是在公司内部备忘录中披露的。自 2020 年以来，Discord 的规模已扩大五倍。Discord 创始人兼首席执行官 Jason Citron 强调，公司需要集中注意力并改进合作方式，以增强组织的敏捷性。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国禁止国内券商为海外比特币现货ETF提供经纪服务]]></title>
-        <id>https://panewslab.com/zh/articledetails/f1hry4pk.html</id>
-        <link href="https://panewslab.com/zh/articledetails/f1hry4pk.html"/>
-        <updated>2024-01-11T23:59:04.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据新浪财经报道，韩国金融监管机构表示，国内证券公司为在海外上市的比特币现货ETF提供经纪服务，可能违反《资本市场法》。韩国金融委员会在声明中表示，韩国将研究比特币现货ETF交易事项，监管机构正在准备加密资产规则。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[资管巨头Vanguard无计划上线比特币现货ETF]]></title>
-        <id>https://panewslab.com/zh/articledetails/vtkx2hfg.html</id>
-        <link href="https://panewslab.com/zh/articledetails/vtkx2hfg.html"/>
-        <updated>2024-01-11T23:55:47.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据The Block报道，资管巨头Vanguard客户服务代表表示在接受电话采访时表示，该平台没有上线比特币ETF，且没有提供比特币ETF或其他加密相关产品的计划。因为它们“高度投机”、“不受监管”且不符合该公司的长期投资理念。据悉，Vanguard是仅次于贝莱德的全球第二大资产管理公司。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3产品开发工作室Pontem完成600万美元融资]]></title>
-        <id>https://panewslab.com/zh/articledetails/bz33xvxl.html</id>
-        <link href="https://panewslab.com/zh/articledetails/bz33xvxl.html"/>
-        <updated>2024-01-11T23:44:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据The Block报道，Web3产品开发工作室Pontem完成600万美元融资，Faction和Lightspeed Venture Partners共同领投，Pantera Capital、Aptos Foundation、Wintermute、Altonomy、Shima Capital和Kraken Ventures参投。 Pontem计划将这笔资金用于构建既兼容以太坊虚拟机又兼容Move的应用程序，从而将Move编程语言的使用范围扩展到Aptos和Sui区块链之外。最新一轮融资使Pontem的融资总额达到1050万美元。2021年6月，Pontem通过私人代币销售完成450万美元融资，Mechanism capital、Kenetic capital、Delphi Ventures和Animoca Brands共同领投。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hashdex比特币ETF尚未提供现货敞口，正等待SEC最终批准]]></title>
-        <id>https://panewslab.com/zh/articledetails/uqynm45m.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uqynm45m.html"/>
-        <updated>2024-01-11T23:30:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据Blockworks报道，Hashdex表示其比特币ETF中尚未添加现货敞口，目前正在等待美国证券交易委员会（SEC）的最终批准。新闻稿中称：‘’晚些时候，该基金将变更名称并改变其投资策略，以允许在其投资组合中加入现货比特币。”这些变化将通过一份注册声明生效，该声明目前正在接受SEC的审查。”据悉，Hashdex于去年8月提交申请，将其比特币期货ETF (DEFI) 转换为现货ETF。本周三Hashdex的比特币现货ETF转换“交易规则变更”已获得批准。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞银将允许部分客户交易比特币现货ETF]]></title>
-        <id>https://panewslab.com/zh/articledetails/arotfz2q.html</id>
-        <link href="https://panewslab.com/zh/articledetails/arotfz2q.html"/>
-        <updated>2024-01-11T23:21:04.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据Coindesk援引知情人士的话称，投行巨头瑞银集团将允许部分客户交易比特币现货ETF。消息人士透露，交易的前提条件包括瑞银不能招揽交易，且风险承受能力较低的账户也不能参与交易。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息人士：美林证券正在观望是否上线比特币现货ETF]]></title>
-        <id>https://panewslab.com/zh/articledetails/79kxai7r.html</id>
-        <link href="https://panewslab.com/zh/articledetails/79kxai7r.html"/>
-        <updated>2024-01-11T23:17:04.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，福克斯商业记者Eleanor Terrett推特发文称，美林证券（Merrill Lynch）目前暂不支持比特币现货ETF交易。据消息人士称，美林正在观望ETF交易是否有效，然后再决定是否改变目前不允许此类产品的内部政策。美林证券是全球最大的证券零售商和投资银行之一，总部位于纽约。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灰度申请推出比特币Covered Call ETF]]></title>
-        <id>https://panewslab.com/zh/articledetails/p6rbdo55.html</id>
-        <link href="https://panewslab.com/zh/articledetails/p6rbdo55.html"/>
-        <updated>2024-01-11T22:51:35.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据The Block报道，灰度申请推出比特币Covered Call ETF产品，全称为The Grayscale Bitcoin Trust Covered Call。根据其提交的N-1A表格，此ETF不会直接投资数字资产。Covered Call为备兑看涨期权策略，是一种非常常见的期权策略，其构成方式为持有标的资产+卖出看涨期权。该策略既可以提供当期收入，同时也可以参与灰度GBTC的价格回报。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一周期权交易大单回顾(1.7~1.11)]]></title>
         <id>https://www.web3sj.com/?p=100593</id>
         <link href="https://www.web3sj.com/transaction/100593/"/>
@@ -333,26 +355,6 @@ ZKL 代币的分配情况为：CoinList 销售分配占比 3.125%，社区财库
         <link href="https://www.web3sj.com/news/100589/"/>
         <updated>2024-01-11T12:18:10.000Z</updated>
         <summary type="html"><![CDATA[Gary Gensler：比特币现货ETF获批主要受灰度案裁决影响。Vitalik Buterin：将以太坊Gas限制提高到4000万，以提高网络吞吐量。彭博分析师：现货以太坊ETF今年获批可能性为70%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MT Capital：坎昆升级为以太坊生态再次注入新活力]]></title>
-        <id>https://www.web3sj.com/?p=100532</id>
-        <link href="https://www.web3sj.com/news/100532/"/>
-        <updated>2024-01-11T11:42:59.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 12 月 28 日，Vitalik 发布了 Make Ethereum Cypherpunk Again 一文，畅聊其所认为的加密愿景。其中，Vitalik 强调，目前导致区块链仅局限于资产炒作的核心原因之一就是交易费用的上涨。高昂的网络交易费用使得人们从区块链网络的使用者转向了区块链网络的投机者。为了实现区块链的应用价值落地，区块链网络的交易费用必须再降低一个量级。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum Orbit生态探索：18条Orbit链，加速以太坊生态多链时代]]></title>
-        <id>https://www.web3sj.com/?p=100526</id>
-        <link href="https://www.web3sj.com/project/100526/"/>
-        <updated>2024-01-11T11:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Arbitrum 生态不负众望，展现出了蓬勃的发展态势和巨大潜力。而 Arbitrum 开发商 Offchain Labs 也跟随 OP Stack 推出了可构建专用链的 Arbitrum Orbit，目前看来，采用虽不及 OP Stack，但也有望加速基于以太坊生态的多链时代。]]></summary>
         <author>
             <name>Gao</name>
         </author>
