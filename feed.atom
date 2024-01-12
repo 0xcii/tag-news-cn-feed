@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-12T03:14:22.334Z</id>
+    <id>urn:2024-01-12T04:16:59.719Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-12T03:14:22.334Z</updated>
+    <updated>2024-01-12T04:16:59.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2023 Solana开发者生态系统报告]]></title>
+        <id>https://www.web3sj.com/?p=100638</id>
+        <link href="https://www.web3sj.com/project/100638/"/>
+        <updated>2024-01-12T04:07:53.000Z</updated>
+        <summary type="html"><![CDATA[衡量一个网络如何增长的最简单的方式之一是区块链上活跃开发者的数量。在 Solana 基金会，我们使用一个开源服务来收集开发者数据，并已公开记录我们如何收集这些数据。在过去的一年中，我们在 Solana 上有大约 2500 - 3000 名开发者在 2023 年全年持续活跃。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[必读！以太坊基金会昨日AMA精华集锦]]></title>
+        <id>https://www.web3sj.com/?p=100635</id>
+        <link href="https://www.web3sj.com/news/100635/"/>
+        <updated>2024-01-12T04:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Vitalik：肯定还有其他隐私解决方案，例 Railway，我一直在使用。我预计这样的解决方案最终将在现有的 L2 之上可用。因为我们还没有接近达成一个单一的理想技术路径来实现，不过有十几种方法，包括（i）使用哪种 ZK-SNARK 方案，（ii）如何做隐私池，（iii）构建什么样的 UTXO 系统，（iv）复杂性和功能之间的权衡。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空投引争议：从Starknet出发，回顾引发舆论风波的历史空投事件]]></title>
+        <id>https://www.web3sj.com/?p=100630</id>
+        <link href="https://www.web3sj.com/news/100630/"/>
+        <updated>2024-01-12T03:56:29.000Z</updated>
+        <summary type="html"><![CDATA[在 12 月 1 日，Starknet 官方公布空投计划后；紧接着又公布了空投规则：设置了「provisions committee」来负责分配 9 亿 STRK 代币。官方表示，这个组织的目的是确保代币在多个项目和阶段中实现公平、去中心化、透明地分配。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告解读之年度十大攻击事件]]></title>
+        <id>https://www.web3sj.com/?p=100618</id>
+        <link href="https://www.web3sj.com/news/100618/"/>
+        <updated>2024-01-12T03:53:54.000Z</updated>
+        <summary type="html"><![CDATA[2023 年 9 月 23 日，Mixin Network 云服务提供商数据库遭到攻击，导致主网部分资产丢失，涉及资金约 2 亿美元，是 2023 年损失最大的攻击事件。随后，Mixin 官推称，已联系谷歌和慢雾安全团队协助调查。官方表示将最多赔付 50% 的损失，剩余部分以债券代币形式赔付，并用利润进行回购。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：USDT市值突破960亿美元，续创历史新高]]></title>
+        <id>https://www.hellobtc.com/news/202401/21576.html</id>
+        <link href="https://www.hellobtc.com/news/202401/21576.html"/>
+        <updated>2024-01-12T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[1.USDT市值突破960亿美元，续创历史新高。
+
+2.ETF上市首日共有70万笔个人交易。
+
+3.疑似ENS项目方/投资者地址正在抛售ENS。
+
+4.前ARK Invest主管：BTC或正处于近期价格顶部。
+
+5.GBTC负溢价自2021年2月以来首次缩窄至接近于零。
+
+6.消息人士：瑞银将允许部分客户交易现货比特币ETF。
+
+7.Berachain向公众开放Layer-1测试网。
+
+8.BNB信标链公布未来六个月融合路线图里程碑计划。
+
+9.Injective推出Volan升级，重点关注RWA以及与Cosmos链的连接。
+
+10.杜均：将提供5000万美元资金，深度参与比特币生态建设。
+
+11.OKX与周星驰及Nobody达成合作，限时限量送出Nobody NFT白名单。
+
+12.xPET现已支持OKX Web3钱包。
+
+13.Cathie Wood：至少有25%的金融净资产在比特币上。
+
+14.马斯克：仍持有狗狗币，SpaceX也持有大量比特币。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer：连接以太坊和Cosmos带来无限创新]]></title>
+        <id>https://www.web3sj.com/?p=100612</id>
+        <link href="https://www.web3sj.com/news/100612/"/>
+        <updated>2024-01-12T03:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Cosmos 作为实验的纽带而蓬勃发展，而以太坊则作为可组合的结算层得到了验证。尽管这两个生态系统通过非正式交流相互学习，但更深层次的社会和哲学联系一直不存在——直到 EigenLayer 出现。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上市首日战绩斐然，现货比特币ETF交易额达46亿美元]]></title>
         <id>https://www.web3sj.com/?p=100605</id>
@@ -13,6 +99,98 @@
         <summary type="html"><![CDATA[现货产品上市也推动了 ProShares 比特币策略 ETF（交易代码：BITO）日交易量突破 20 亿美元，创历史新高。分析师表示：「也许有些资金是赎回，但我倾向于认为 BITO 的流动性将在一段时间内为做市商服务」。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[区块链基础设施“星火·链网”联合蚂蚁链共同开源跨链成果]]></title>
+        <id>https://panewslab.com/zh/articledetails/05kyvmwr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/05kyvmwr.html"/>
+        <updated>2024-01-12T03:01:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，中国信息通信研究院“星火·链网”和蚂蚁链共同宣布，双方合作开发的区块链域名服务系统（BCDNS）和中继服务（Relayer）正式开源，所有开发者可以通过GitHub开源社区直接使用。这是双方首次合作实现区块链开源成果“从0到1”落地。BCDNS区块链域名服务可以看作一个数字身份系统，用以绑定不同链之间的唯一身份；而中继网络是区块链跨链通信的核心角色，负责将消息安全可靠地从源链投递至目标链。跨链域名服务系统和中继服务的开源，意味着该跨链产品全流程服务开源，正式进入了生产级可用的阶段。
+“星火·链网”还确定了与蚂蚁链的长期合作目标：基于IEEE区块链跨链国际标准（P3205），研发跨链开源产品。接下来，“星火·链网”与蚂蚁链将继续在跨链领域，展开基于IEEE-P3205标准下的不同异构链间安全跨链机制的探索与研究，针对不同异构链的特点，实现其链上消息的安全认证机制(如：SPV验证、背书签名验证、消息共识签名等)，为异构链下跨链消息的可信认证夯实基础。
+“星火·链网”是在工信部的指导与支持下，由中国信通院牵头建设的区块链新型基础设施，已在全国建设运行11个超级节点，并依托超级节点推动54个应用骨干节点。蚂蚁链在共识、跨链、通信、存储等区块链核心技术领域全面自主可控，且处于行业领先水平。2018年，蚂蚁链开始研发跨链技术，2023年4月公布了跨链开源路线。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cathie Wood预计ETF获批后比特币价格到2030年将达到150万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/byskpk84.html</id>
+        <link href="https://panewslab.com/zh/articledetails/byskpk84.html"/>
+        <updated>2024-01-12T02:46:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，ARK Invest首席执行官Cathie Wood周四在CNBC上表示，在乐观的情况下，全球市值最大的加密货币比特币(BTC)的价格到 2030 年可能会达到 150 万美元，这比之前预测的 100 万美元上调了 50%。其称：“我们认为，随着 SEC 的批准，牛市的可能性有所增加。这是一个绿灯。”
+ARK Invest 首席执行官还表示，熊市情况下价格将上涨至 258,500 美元，基本情况为 682,800 美元。ARK 通过指出与之前的低迷时期相比更高的算力、长期持有者供应以及非零余额的地址来支持之前 100 万美元的价格预测。美国证券交易委员会对现货 ETF 的批准可能会增加看涨论点。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VanEck再次发布时长30秒的比特币ETF广告视频]]></title>
+        <id>https://panewslab.com/zh/articledetails/iwljnu9c.html</id>
+        <link href="https://panewslab.com/zh/articledetails/iwljnu9c.html"/>
+        <updated>2024-01-12T02:42:22.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，VanEck在X平台发布了时长30秒的现货比特币ETF广告，广告词称：“比特币可能有助于防止政府让你的钱贬值，你可以通过ETF买入和持有比特币”。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI支持的人形机器人公司1X完成1亿美元B轮融资，EQT Ventures领投]]></title>
+        <id>https://panewslab.com/zh/articledetails/9swber7e.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9swber7e.html"/>
+        <updated>2024-01-12T02:23:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，人工智能和人形机器人公司1X宣布完成1亿美元B轮融资，EQT Ventures领投，新投资者 Samsung NEXT、现有投资者 Sandwater、 Skagerak Capital 和 Nistad 集团参投。该公司打算利用新资金将其第二代 Android NEO 推向市场。NEO 设计为双足人形机器人，专为日常家庭协助而设计，为消费市场中的各种家务任务提供多功能支持。1X于2023年3月成功完成由 OpenAI 和 Tiger Global 领投的 A 轮融资。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观点：多数比特币ETF发行商选择Coinbase作为托管人使得风险集中]]></title>
+        <id>https://panewslab.com/zh/articledetails/vhwh7m3o.html</id>
+        <link href="https://panewslab.com/zh/articledetails/vhwh7m3o.html"/>
+        <updated>2024-01-12T02:12:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，据CoinDesk报道，除了包括Fidelity和VanEck在内的少数例外，多数比特币现货ETF（交易所交易基金）发行商选择 Coinbase 作为托管人，可能带来的风险集中问题引起关注。David Schwed，Halborn 的首席运营官，指出这种情况带来的潜在安全风险。虽然 Coinbase 从未遭受过已知的黑客攻击，这解释了为何许多传统机构信任其专业知识，但没有任何目标是不可被黑客攻破的。
+Schwed 表示，最令他担忧的是单一托管人手中极端集中的资产。考虑到加密资产具有类似现金的性质，这种情况本质上值得关注。他认为，可能需要重新思考“合格托管人”这一监管认定，目前的形式可能不足以确保基于区块链的风险资产得到充分保护。此外，他建议，数字资产托管人应该受到更好培训的监管机构的更多监督，且应遵守更严格的州和联邦标准。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨夜今晨重要资讯（1月11日-1月12日）]]></title>
+        <id>https://panewslab.com/zh/articledetails/qegmst54.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qegmst54.html"/>
+        <updated>2024-01-12T02:02:50.000Z</updated>
+        <summary type="html"><![CDATA[韩国禁止国内券商为海外比特币现货ETF提供经纪服务
+据新浪财经报道，韩国金融监管机构表示，国内证券公司为在海外上市的比特币现货ETF提供经纪服务，可能违反《资本市场法》。韩国金融委员会在声明中表示，韩国将研究比特币现货ETF交易事项，监管机构正在准备加密资产规则。
+FTX部分前客户敦促美国法官改变破产计划偿还资金的方式
+据彭博社报道，80多名FTX之前的个人客户已经提交了信件以攻击一项计划，该计划将他们的数字资产的价值与FTX申请破产的日期(2022年11月11日)挂钩，并以美元支付索赔，而不是退还加密货币。纽约Bronxville的Robert Shearer在反对意见中写道：“我在崩盘前在FTX持有的比特币和以太坊是近10年前购买的。简单地说，我无意以市场最低价出售。”
+自破产以来，由FTX首席重组官John J. Ray III领导的破产专家团队一直在努力追回尽可能多的现金和加密资产。该团队获得法院批准出售该平台上持有的加密货币，以创建一个可以返还给客户的数十亿美元资金池。每位客户的索赔规模将基于该公司在特拉华州威尔明顿提交第11章申请时，他们在FTX平台上持有的加密货币的价格。法庭记录显示，对于比特币持有者来说，这意味着他们每持有一枚比特币将被拖欠16871美元。
+FTX破产小组在法庭文件中辩称，计算每个客户数字投资组合的精确价值是不切实际的，因为索赔太多了。在接下来的几个月里，支付计划将被提交给债权人进行投票，然后交由美国破产法官John Dorsey最终批准。一个代表债权人的官方委员会，以及一个包括几家大型加密货币持有者在内的团体，已经同意了该计划的大致框架。
+灰度申请推出比特币Covered Call ETF
+据The Block报道，灰度申请推出比特币Covered Call ETF产品，全称为The Grayscale Bitcoin Trust Cove…]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimism公布第三轮追溯性公共产品募资结果，共拨款3000万枚OP]]></title>
+        <id>https://panewslab.com/zh/articledetails/z4cyizun.html</id>
+        <link href="https://panewslab.com/zh/articledetails/z4cyizun.html"/>
+        <updated>2024-01-12T01:42:36.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，以太坊的二层扩容方案Optimism宣布了其第三轮追溯公共产品募资（RetroPGF 2）的结果，这是Optimism致力于支持和激励那些为其生态系统做出贡献的项目和个人的一部分。在这一轮募资中，共有30M（3000万）OP（Optimism的原生代币）被授予了那些为Optimism Collective（Optimism集体）建设公共产品的 501 个贡献者。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robinhood上架所有11个比特币现货ETF，在退休账户和经纪账户中均可交易]]></title>
+        <id>https://panewslab.com/zh/articledetails/1ytm28qd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1ytm28qd.html"/>
+        <updated>2024-01-12T01:16:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月12日消息，美国投资应用程序 Robinhood 宣布新增了一类由美国证券交易委员会（SEC）在 1 月 10 日批准的现货比特币交易所交易基金（ETFs）。这些新的 ETFs 自 1 月 11 日起在 Robinhood 上提供，并面向美国所有客户，在退休账户和经纪账户中均可交易。
+Robinhood 的客户现在可以选择购买或出售比特币 ETFs，就像交易任何其他 ETF 或股票一样。客户也可以选择通过 Robinhood Crypto 直接购买比特币，后者提供平均而言交易加密货币的最低成本。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -140,31 +318,6 @@ ZKL 代币的分配情况为：CoinList 销售分配占比 3.125%，社区财库
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BNB信标链公布未来六个月里程碑计划]]></title>
-        <id>https://panewslab.com/zh/articledetails/n68c0518.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n68c0518.html"/>
-        <updated>2024-01-11T22:21:56.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，据官方消息，BNB信标链公布未来六个月里程碑计划，旨在促进BNB Chain社区的顺利过渡。
-一月里程碑：通知所有验证者和质押池有关质押功能停用的信息；将BEP2/BEP8资产绑定到BNB智能链(BSC)；与不同钱包集成以支持BEP2/BEP8资产的跨链取；中心化交易所，特别是币安(BN)，以及像Trust Wallet (TW)这样的钱包，被建议停止向信标链转移资产。
-二月里程碑：桥接服务将在4月之前被禁用原子交换功能。
-四月里程碑：将所有验证器完全迁移到BSC；所有验证者都要转移他们的投票权
-五月里程碑：将建议用户和委托人验证其自动退款余额；生成余额备份并将其发布以供社区验证，以增强透明度和信任；
-六月里程碑：发布代币迁移应用程序，帮助用户检索仍留在信标链上的资金。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝莱德比特币现货ETF交易量突破10亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/i048o8x8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/i048o8x8.html"/>
-        <updated>2024-01-11T22:04:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月12日消息，彭博分析师Eric Balchunas推特发文称，贝莱德比特币现货ETF（IBIT）交易量正式突破10亿美元。与此同时，美国比特币现货ETF上市首日交易量达到46亿美元，包括GBTC在内，共有5只比特币现货ETF交易量超过1亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一周期权交易大单回顾(1.7~1.11)]]></title>
         <id>https://www.web3sj.com/?p=100593</id>
         <link href="https://www.web3sj.com/transaction/100593/"/>
@@ -221,46 +374,6 @@ ZKL 代币的分配情况为：CoinList 销售分配占比 3.125%，社区财库
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ETF靴子落地，谁将接棒2024年的主流叙事？]]></title>
-        <id>https://www.web3sj.com/?p=100516</id>
-        <link href="https://www.web3sj.com/news/100516/"/>
-        <updated>2024-01-11T07:10:30.000Z</updated>
-        <summary type="html"><![CDATA[正如文初所言，从某种程度上来说，近两个月来促使市场反弹的核心叙事，都是来源于现货比特币 ETF 的预期，那 ETF 尘埃落地后，接下来有哪些叙事或赛道值得关注呢？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消费级加密应用破局时刻：基建已经成熟，2024年哪些赛道将迎来机会？]]></title>
-        <id>https://www.web3sj.com/?p=100501</id>
-        <link href="https://www.web3sj.com/news/100501/"/>
-        <updated>2024-01-11T06:55:51.000Z</updated>
-        <summary type="html"><![CDATA[随着时间的推移，我们已经看到联合广场风投所阐述的趋势在加密领域中得以实现。从比特币引领到创建中心化交易所，到以太坊作为早期去中心化应用程序的驱动力，加密货币的关键发展似乎反映了应用程序基础设施周期。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三年500亿美元，比特币现货ETF将带来多少长短期资金？]]></title>
-        <id>https://www.web3sj.com/?p=100497</id>
-        <link href="https://www.web3sj.com/news/100497/"/>
-        <updated>2024-01-11T06:46:47.000Z</updated>
-        <summary type="html"><![CDATA[彭博高级 ETF 分析师 Eric Balchunas 表示，贝莱德可能会在其比特币现货 ETF 交易首日注入 20 亿美元资金，打破首日资金流入记录。种子资金或将为贝莱德在 11 支比特币现货 ETF 的竞争中提供动力。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22页比特币ETF批准文件解读：SEC脸上大写无奈]]></title>
-        <id>https://www.web3sj.com/?p=100490</id>
-        <link href="https://www.web3sj.com/news/100490/"/>
-        <updated>2024-01-11T06:23:31.000Z</updated>
-        <summary type="html"><![CDATA[最初获批之时，互联网开始飞速流传一份 22 页的 PDF 文件。文件显示， 11 支现货比特币 ETF 获得批准。下载到这一文件的人纷纷表示自己从 SEC 官方渠道获取。但围观者在点击 PDF 链接之后，看到的却是一个 404 报错信息。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bitget 任命前索尼、BeInCrypto高管Vugar Usi Zade担任首席运营官]]></title>
         <id>https://www.hellobtc.com/news/202401/21574.html</id>
         <link href="https://www.hellobtc.com/news/202401/21574.html"/>
@@ -270,16 +383,6 @@ ZKL 代币的分配情况为：CoinList 销售分配占比 3.125%，社区财库
 作为 Bitget 新任命的首席运营官，Vugar usi Zade 将在引领公司全球业务增长方面发挥关键作用。他的职责包括领导市场运营团队并监督战略扩张，此外，Vugar 将帮助 Bitget 增强在加密生态系统中的影响力，为该平台的持续增长做出贡献，他也将领导 Bitget 继续推进合规化运营。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三分钟Web3科普：最近Web3中热门的DePIN赛道，到底是什么？]]></title>
-        <id>https://www.web3sj.com/?p=100485</id>
-        <link href="https://www.web3sj.com/show/100485/"/>
-        <updated>2024-01-11T06:07:25.000Z</updated>
-        <summary type="html"><![CDATA[DePIN赛道是近期除铭文外炙手可热的话题，DePIN是指去中心化物理基础设施网络。采用区块链技术，允许参与者无许可、无信任地部署硬件设备，来提供真实世界的服务或者数字资源。DePIN赛道涵盖的范围非常广泛，可以分为物理资源（PRN）和数字资源 (DRN) 两大类。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
@@ -404,28 +507,6 @@ ZKL 代币的分配情况为：CoinList 销售分配占比 3.125%，社区财库
 14.OKX Ventures宣布战略投资Web3游戏公司Matr1x。
 
 15.Injective将于1月11日进行Volan主网升级，启用EVM兼容。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白话区块链早报：某巨鲸昨日再次购入价值1.39亿美元比特币]]></title>
-        <id>https://www.hellobtc.com/news/202401/21566.html</id>
-        <link href="https://www.hellobtc.com/news/202401/21566.html"/>
-        <updated>2024-01-09T02:32:00.000Z</updated>
-        <summary type="html"><![CDATA[1.某巨鲸昨日再次购入价值1.39亿美元比特币。
-
-2.Binance新任CEO：CZ将不会参与组织的日常管理，正在研究区块链与AI的结合。
-
-3.美SEC前主席：比特币现货ETF的批准不可避免。
-
-4.GBTC今日交易量近5亿美元，超过99%以上的ETF产品。
-
-5.贝莱德已为其现货比特币ETF注入1000万美元种子资金。
-
-6.MicroStrategy比特币持仓已浮盈超30亿美元。
-
-7.Solana区块链上Meme币在去年12月疯狂之后目前价格已回落70%以上。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
