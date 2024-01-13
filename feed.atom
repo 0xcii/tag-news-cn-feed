@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-13T12:23:51.561Z</id>
+    <id>urn:2024-01-13T13:14:06.892Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-13T12:23:51.561Z</updated>
+    <updated>2024-01-13T13:14:06.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊核心开发者最新会议摘要：Beacon API规范转换、优化CL证明子网]]></title>
+        <id>https://www.web3sj.com/?p=100788</id>
+        <link href="https://www.web3sj.com/news/100788/"/>
+        <updated>2024-01-13T13:03:53.000Z</updated>
+        <summary type="html"><![CDATA[测试团队于 1 月 11 日启动了 Goerli 测试网的第三个和最后一个影子分叉，为即将于 1 月 17 日激活的 Cancun/Deneb 升级做准备。与此同时，开发者们对分叉选择规范进行了讨论，并达成了在 Cancun/Deneb 主网激活附近异步方式推出的共识分叉的决定。此外，Lodestar 开发者「Dapplion」分享的关于信标 API 路由的 SSZ 到 JSON 规范映射的最新进展，对有关长寿主张子网（attnets）的小改动进行讨论。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年将会是并行EVM之年？并行EVM叙事分析与展望]]></title>
+        <id>https://www.web3sj.com/?p=100784</id>
+        <link href="https://www.web3sj.com/news/100784/"/>
+        <updated>2024-01-13T12:57:40.000Z</updated>
+        <summary type="html"><![CDATA[除了铭文加剧 EVM 链性能负担这个直接导火索之外，优化 EVM 是加密世界中一个持续的主题 — — 新公链、OP 系 L2、ZK 系 L2 等等，都是优化 EVM 而衍生出的叙事和专案，市场对其估值也会更高。但以上叙事已经相对成熟，相关专案已经没有太大的炒作空间。于是并行 EVM 这一优化 EVM 性能的新方法很容易在牛市中受到市场关注。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上线首日，两次被夹，速览三度创业的全链比特币流动性协议LENX]]></title>
+        <id>https://www.web3sj.com/?p=100777</id>
+        <link href="https://www.web3sj.com/definews/100777/"/>
+        <updated>2024-01-13T12:53:39.000Z</updated>
+        <summary type="html"><![CDATA[LENX Finance 是一个基于 ZetaChain 构建的全链比特币流动性协议，它通过集成 Frax Finance 的借款自动做市商 BAMM（Borrow AMM）和 ZetaChain 的跨链互操作性协议 CCIP，实现了内置借贷功能。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读懂Eigenlayer，「套娃」背后的以太坊DA正统性之战]]></title>
+        <id>https://www.web3sj.com/?p=100774</id>
+        <link href="https://www.web3sj.com/definews/100774/"/>
+        <updated>2024-01-13T12:49:57.000Z</updated>
+        <summary type="html"><![CDATA[但倘若基于第三方 DA 入侵保卫战，全链流动性溢出释放的战略上层逻辑，就大为不同了。Why？接下来，我来浅析下，我认知中的 Eigenlayer。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超10万人爆仓，比特币跳水，发生了什么？]]></title>
+        <id>https://www.web3sj.com/?p=100766</id>
+        <link href="https://www.web3sj.com/news/100766/"/>
+        <updated>2024-01-13T12:47:15.000Z</updated>
+        <summary type="html"><![CDATA[美东时间周四上午，比特币盘中涨穿 4.9 万美元，创 2021 年 12 月以来的新高，日内涨约 6.8%。不过很快热情退潮，比特币日内转跌，重返 4.6 万美元下方。相关 ETF 也随之下挫。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2024-1.13）]]></title>
+        <id>https://www.web3sj.com/?p=100763</id>
+        <link href="https://www.web3sj.com/news/100763/"/>
+        <updated>2024-01-13T12:30:58.000Z</updated>
+        <summary type="html"><![CDATA[比特币ETF现货交易周五突破31亿美元，灰度和贝莱德领先。比特币出现自2021年5月以来最大规模短期持有者资金转移活动，规模达61亿美元。摩根大通：美SEC于5月前将ETH归类为商品的概率不足50%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BRC20跨链协议Shell Trade将于1月16日开启IDO，共发售6.5亿枚代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/e3anh8gx.html</id>
+        <link href="https://panewslab.com/zh/articledetails/e3anh8gx.html"/>
+        <updated>2024-01-13T12:07:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月13日消息，据官方消息，BRC20跨链协议Shell Trade宣布将开启ID0。白名单轮将于1月16日14点进行，可使用BTC参与。公开发售将于北京时间1月16日15点进行，可使用BTC和SOL参与。本次总共发售6.5亿枚SS20代币，相当于代币总供应量的65%。TGE完全稀释后市值为150万美元，ID0总销售规模为97.5万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17小时前GSR从Gate提取180万枚XAI，约104万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/vlr978f2.html</id>
+        <link href="https://panewslab.com/zh/articledetails/vlr978f2.html"/>
+        <updated>2024-01-13T11:11:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月13日消息，据Scopescan监测，17 小时前，GSR 从 Gate 提取了 180 万枚 XAI （约 104 万美元）。 在过去的 2 天里，GSR 从 Gate 、Bybit 和 Kucoin 积累了 248 万枚 XAI （约 140 万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：过去7天比特币链上NFT交易额超1亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/z70fv1r0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/z70fv1r0.html"/>
+        <updated>2024-01-13T10:42:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月13日消息，据CryptoSlam数据显示，过去7天比特币链上NFT交易额超过1亿美元，位居第一，其次是以太坊、Polygon和Solana。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据：以太坊Layer2总锁仓量223.9亿美元，7日涨幅14.41%]]></title>
         <id>https://panewslab.com/zh/articledetails/ky8e4d7i.html</id>
@@ -210,36 +300,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hedera计划分配48.6亿枚HBAR，以发展生态系统并实现去中心化治理]]></title>
-        <id>https://panewslab.com/zh/articledetails/hs8voguq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/hs8voguq.html"/>
-        <updated>2024-01-13T02:35:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月13日消息，据官方消息，Hedera理事会宣布已投票批准董事会分配48.6亿枚HBAR的额外资金，用于进一步发展Hedera网络并实现去中心化治理。其中42.48亿枚HBAR将由Hedera董事会在现有计划中分配，包括HBAR基金会、Hashgraph协会和DLT科学基金会。根据各种协议，HBAR基金会和Hashgraph协会将在第一季度内获得资助，DLT科学基金会将在全年达到里程碑时获得资助。6.1406亿HBAR将用于Hedera委员会的运营费用以及向早期SAFT购买者付款。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoQuant CEO：灰度过去30天向多个地址发送2.14万枚比特币]]></title>
-        <id>https://panewslab.com/zh/articledetails/ee94ftfj.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ee94ftfj.html"/>
-        <updated>2024-01-13T02:13:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月13日消息，据CryptoQuant创始人Ki Young Ju在推特发文称，在过去30天内，灰度向包括Coinbase在内的多个地址发送了2.14万枚比特币。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base公布从Goerli迁移至Sepolia的关键日期，基础设施将于2024年2月9日停止运行]]></title>
-        <id>https://panewslab.com/zh/articledetails/l65j1qvh.html</id>
-        <link href="https://panewslab.com/zh/articledetails/l65j1qvh.html"/>
-        <updated>2024-01-13T02:09:04.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月13日消息，Base公布从Goerli迁移至Sepolia的关键日期和信息。具体包括： 2024年1月19日：Base Goerli桥上的存款功能将暂停; 2024年1月31日：Base文档将不再引用 Goerli; 2024年2月9日：Base Goerli基础设施（包括Base Goerli桥用户界面）将被停止运行。 建议用户在2024年2月9日基础实施停止运行之前，将其测试网资金从Base Goerli桥接到以太坊Goerli 。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一文了解基于Telegram的Web3社交基础设施UXLink]]></title>
         <id>https://www.web3sj.com/?p=100728</id>
         <link href="https://www.web3sj.com/news/100728/"/>
@@ -275,66 +335,6 @@
         <link href="https://www.web3sj.com/gamefinews/100707/"/>
         <updated>2024-01-12T14:34:41.000Z</updated>
         <summary type="html"><![CDATA[Sky Strife 即将开始其下一个持续性游戏测试（0.1 季），该测试将于 1 月 8 日至 30 日在 Redstone Holesky 测试网上运行。尽管本赛季结构的详细信息尚未正式发布，但很可能和之前一样，Lattice 团队很可能会在此期间每天多次创建免费比赛。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从比特币现货ETF首日交易数据观察市场：一切才刚刚开始]]></title>
-        <id>https://www.web3sj.com/?p=100701</id>
-        <link href="https://www.web3sj.com/news/100701/"/>
-        <updated>2024-01-12T14:15:42.000Z</updated>
-        <summary type="html"><![CDATA[而在次日交易即将开盘的当下，我们对首日交易的情况进行简短的回顾。除此之外，更为有趣的是，随着现货比特币 ETF 在美国的通过，其他地区或将跟进，现货比特币 ETF 的未来，或许将打响更为激烈的争夺战。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-1.12）]]></title>
-        <id>https://www.web3sj.com/?p=100696</id>
-        <link href="https://www.web3sj.com/news/100696/"/>
-        <updated>2024-01-12T13:42:29.000Z</updated>
-        <summary type="html"><![CDATA[以太坊中账户抽象标准将发生重大变化，以减少气体消耗。华尔街比特币ETF首日交易创历史记录，Grayscale交易额超40亿美元。Optimism公布第三轮RetroPGF募资结果，本轮将拨款3000万枚OP。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周山寨币期权播报（1.6~1.12）]]></title>
-        <id>https://www.web3sj.com/?p=100671</id>
-        <link href="https://www.web3sj.com/transaction/100671/"/>
-        <updated>2024-01-12T08:43:23.000Z</updated>
-        <summary type="html"><![CDATA[本周山寨出现普涨行情，由于BTC的ETF通过，BCH在山寨期权中尤为亮眼，最高涨幅1000%，其它山寨币涨幅也比较可观。但仍要注意的是BTC现货ETF的利好落地后，大概率将会迎来一波回调，需要谨慎行动。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三分钟Web3科普：以太坊坎昆升级是什么？]]></title>
-        <id>https://www.web3sj.com/?p=100665</id>
-        <link href="https://www.web3sj.com/show/100665/"/>
-        <updated>2024-01-12T05:36:53.000Z</updated>
-        <summary type="html"><![CDATA[坎昆升级的目的是解决以太坊的扩容需求，帮助降低Layer2 Rollups解决方案的交易成本，提升Rollups的速度。EIP-4844提案就是为了解决数据上传的问题，可以理解为二层网络Rollups的加速器。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊新叙事：流动性再质押]]></title>
-        <id>https://www.web3sj.com/?p=100651</id>
-        <link href="https://www.web3sj.com/news/100651/"/>
-        <updated>2024-01-12T05:13:37.000Z</updated>
-        <summary type="html"><![CDATA[EigenLayer 在短短一个月内洪吸超过 50 万颗 $ETH TVL 突破 10 亿美元如今来到了 14 亿美元是目前以太坊 TVL 第 12 名的天王级项目，而首个使用 EigenLayer 验证服务的 AVS - EigenDA 也即将上线，DA 服务的叙事也跟着 Celestia 的代币 $TIA 暴涨而成为市场瞩目的话题，而 EigenLayer 不只自己独善其身.]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Solana开发者生态系统报告]]></title>
-        <id>https://www.web3sj.com/?p=100638</id>
-        <link href="https://www.web3sj.com/project/100638/"/>
-        <updated>2024-01-12T04:07:53.000Z</updated>
-        <summary type="html"><![CDATA[衡量一个网络如何增长的最简单的方式之一是区块链上活跃开发者的数量。在 Solana 基金会，我们使用一个开源服务来收集开发者数据，并已公开记录我们如何收集这些数据。在过去的一年中，我们在 Solana 上有大约 2500 - 3000 名开发者在 2023 年全年持续活跃。]]></summary>
         <author>
             <name>Gao</name>
         </author>
