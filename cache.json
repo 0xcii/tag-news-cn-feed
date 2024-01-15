@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=100882",
+          "author": "Gao",
+          "description": "在今天的文章中，你将了解到最近两个模块化巨头之间的合作，构建模块化 Rollup 如何实现更好的用户体验，以及我预测的价值积累发生的提示。",
+          "link": "https://www.web3sj.com/news/100882/",
+          "publishedOn": "2024-01-15T05:11:05.000Z",
+          "wordCount": 1049,
+          "title": "加密宽带时代：模块化区块链和Rollup革命",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705295443761.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=100879",
+          "author": "Gao",
+          "description": "在 1 月 13 日的 X 帖子中，Scam Sniffer 分享了这些针对 Solana 钱包的新型的复杂攻击信息。「Web3 反诈骗平台」表示：针对 Solana 网络的网络钓鱼攻击通常围绕直接资产转移和利用交易刺激中的漏洞展开。",
+          "link": "https://www.web3sj.com/news/100879/",
+          "publishedOn": "2024-01-15T04:37:26.000Z",
+          "wordCount": 953,
+          "title": "黑客如何在30天内从Solana钱包中盗走417万美元？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705293427394.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=100870",
           "author": "Gao",
           "description": "直到 2023 年 12 月，场景聚焦手机端的 Helium（MOBLE）和汽车端的 Hivemapper（HONEY）两个项目 Token 在价格市场暴涨，加密资产市场的投资者嗅觉才被激发，DePIN 概念才终于有了热度，应用场景也较此前市场最为熟知的「存储」变得更加丰富、多元。‍‍‍",
           "link": "https://www.web3sj.com/news/100870/",
           "publishedOn": "2024-01-15T03:05:38.000Z",
-          "wordCount": 1117,
+          "wordCount": 1107,
           "title": "规模90亿美元，DePIN赛道新老应用共舞",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705287918948.png"
         },
@@ -21,7 +41,7 @@
           "description": "比特币今天上涨 6%，突破 49,000 美元大关，然后回落至 46,000 美元。MicroStrategy 下跌 4%，Coinbase 下跌 5%，Marathon 下跌 14%。",
           "link": "https://www.web3sj.com/news/100867/",
           "publishedOn": "2024-01-15T02:26:52.000Z",
-          "wordCount": 970,
+          "wordCount": 989,
           "title": "观点：比特币 ETF 将重创这三只加密股票",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705285600198.png"
         },
@@ -31,7 +51,7 @@
           "description": "最新的里程碑包括 Wintermute 亚洲与 CME 的整合，场外期权产品的重大升级，以及正开发更多衍生产品。自去年 11 月推出以来，Wintermute 亚洲的期权交易量达 2.1 亿美元，交易对手（Counterparties）对该产品的需求呈指数级增长。",
           "link": "https://www.web3sj.com/news/100857/",
           "publishedOn": "2024-01-15T02:24:30.000Z",
-          "wordCount": 1170,
+          "wordCount": 1188,
           "title": "WintermuteOTC年度报告：下半年交易量增长 4 倍，TradFi重新兴起",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705285445550.png"
         },
@@ -41,7 +61,7 @@
           "description": "加密货币总市值是反映全球数字资产市场价值的重要指标，涵盖了比特币（BTC）、以太坊（ETH）、代币和稳定币等。2023 年，在比特币和以太坊的强劲表现带动下，加密货币总市值增长超过了 108%。",
           "link": "https://www.web3sj.com/news/100814/",
           "publishedOn": "2024-01-15T02:18:41.000Z",
-          "wordCount": 1296,
+          "wordCount": 1282,
           "title": "Coinbase出品，机构投资者必备：一季度加密市场指南解析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705285100453.png"
         },
@@ -51,7 +71,7 @@
           "description": "投行TD Cowen：美SEC短期内不会批准以太坊现货ETF。Binance和Coinbase共持有价值1991.4亿美元的加密货币。以太坊和Arbitrum链上游戏交易额达1万ETH。",
           "link": "https://www.web3sj.com/news/100803/",
           "publishedOn": "2024-01-14T10:14:14.000Z",
-          "wordCount": 828,
+          "wordCount": 844,
           "title": "Web3世界日报（2024-1.14）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024011410123321.jpg"
         },
@@ -61,7 +81,7 @@
           "description": "测试团队于 1 月 11 日启动了 Goerli 测试网的第三个和最后一个影子分叉，为即将于 1 月 17 日激活的 Cancun/Deneb 升级做准备。与此同时，开发者们对分叉选择规范进行了讨论，并达成了在 Cancun/Deneb 主网激活附近异步方式推出的共识分叉的决定。此外，Lodestar 开发者「Dapplion」分享的关于信标 API 路由的 SSZ 到 JSON 规范映射的最新进展，对有关长寿主张子网（attnets）的小改动进行讨论。",
           "link": "https://www.web3sj.com/news/100788/",
           "publishedOn": "2024-01-13T13:03:53.000Z",
-          "wordCount": 1081,
+          "wordCount": 1080,
           "title": "以太坊核心开发者最新会议摘要：Beacon API规范转换、优化CL证明子网",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/17051510281.png"
         },
@@ -71,7 +91,7 @@
           "description": "除了铭文加剧 EVM 链性能负担这个直接导火索之外，优化 EVM 是加密世界中一个持续的主题 — — 新公链、OP 系 L2、ZK 系 L2 等等，都是优化 EVM 而衍生出的叙事和专案，市场对其估值也会更高。但以上叙事已经相对成熟，相关专案已经没有太大的炒作空间。于是并行 EVM 这一优化 EVM 性能的新方法很容易在牛市中受到市场关注。",
           "link": "https://www.web3sj.com/news/100784/",
           "publishedOn": "2024-01-13T12:57:40.000Z",
-          "wordCount": 1178,
+          "wordCount": 1196,
           "title": "2024年将会是并行EVM之年？并行EVM叙事分析与展望",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/17051506581.png"
         },
@@ -81,29 +101,9 @@
           "description": "LENX Finance 是一个基于 ZetaChain 构建的全链比特币流动性协议，它通过集成 Frax Finance 的借款自动做市商 BAMM（Borrow AMM）和 ZetaChain 的跨链互操作性协议 CCIP，实现了内置借贷功能。",
           "link": "https://www.web3sj.com/definews/100777/",
           "publishedOn": "2024-01-13T12:53:39.000Z",
-          "wordCount": 1310,
+          "wordCount": 1306,
           "title": "上线首日，两次被夹，速览三度创业的全链比特币流动性协议LENX",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/17051504181.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=100774",
-          "author": "Gao",
-          "description": "但倘若基于第三方 DA 入侵保卫战，全链流动性溢出释放的战略上层逻辑，就大为不同了。Why？接下来，我来浅析下，我认知中的 Eigenlayer。",
-          "link": "https://www.web3sj.com/definews/100774/",
-          "publishedOn": "2024-01-13T12:49:57.000Z",
-          "wordCount": 996,
-          "title": "读懂Eigenlayer，「套娃」背后的以太坊DA正统性之战",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/17051501941.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=100766",
-          "author": "Gao",
-          "description": "美东时间周四上午，比特币盘中涨穿 4.9 万美元，创 2021 年 12 月以来的新高，日内涨约 6.8%。不过很快热情退潮，比特币日内转跌，重返 4.6 万美元下方。相关 ETF 也随之下挫。",
-          "link": "https://www.web3sj.com/news/100766/",
-          "publishedOn": "2024-01-13T12:47:15.000Z",
-          "wordCount": 1018,
-          "title": "超10万人爆仓，比特币跳水，发生了什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/17051500191.png"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "PANews 1月15日消息，据Spot On Chain监测，约20小时前，0xb82开头聪明巨鲸以约2547美元的价格向币安存入12219枚ETH（约合3110万美元），在市场下跌前实现了220万美元的利润。\n该巨鲸已在ETH交易中实现了779万美元利润（+8.8%），胜率达75%。",
           "link": "https://panewslab.com/zh/articledetails/i95xftcn.html",
           "publishedOn": "2024-01-15T02:08:55.000Z",
-          "wordCount": 338,
+          "wordCount": 340,
           "title": "某巨鲸约20小时前向币安存入12219枚ETH，实现220万美元利润",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "资管巨头Vanguard将不再接受比特币期货ETF的购买\n据Bitcoin.com报道，资管巨头Vanguard一位发言人表示，客户除了无法在Vanguard平台购买比特币现货ETF外，从即日起，Vanguard将不再接受加密货币产品的购买，包括比特币期货ETF。这将使我们能够专注提供核心产品和服务，符合公司满足长期投资者需求的承诺。据此前消息，在美国SEC批准比特币现货ETF后，Vanguard表示没有上线比特币ETF，且没有提供比特币ETF或其他加密相关产品的计划，因为它们“高度投机”、“不受监管”且不符合该公司的长期投资理念。据悉，Vanguard是仅次于贝莱德的全球第二大资产管理公司。\n2023年Tether在全球稳定币供应中的份额增长21%，目前占据2/3市场供应\n据The Block数据，USDT稳定币发行商Tether在全球稳定币供应中的份额在2023年从50%增长到71%，此外，该公司最近在流通中的稳定币超过950亿枚，比危地马拉和保加利亚等国的国内生产总值（GDP）还大。其目前最大的竞争对手Circle的USDC的流通量仅为270亿枚，而2023年初时超过了480亿枚。\n数据：价值超1.4亿美元的INJ代币将在本周解锁\nToken Unlocks数据显示，本周INJ、AXS和APE等代币将迎来一次性大额解锁，总计释放价值超1.9亿美元。其中：\nFlow（FLOW）将于1月16日上午8点解锁260万枚代币，价值约217万美元，占流通供应量的0.18%；\nApeCoin（APE）将于1月17日上午8点解锁约1560万枚代币，价值约2169万美元，占流通供应量的4.23%；\nEuler（EUL）将于1月18日上午8点解锁11万枚代币，价值约47万美元，占流通供应量的0.59%；\nAxie Infinity（AXS）将于1月18日晚9点10分解锁约343万枚代币，价值约2669万美元，占流通供应量的2.53%；\nNym（NYM）将于1月19日上午8点解锁327万枚代币，价值约75万美元，占流通供应量的0.51%；\nInjective（INJ）将于1月21日上午8点解锁约367万枚代币，价值超1.4亿美元，占流通供应量的4.33%。\n晚些时候消息，Injective官方表示，5000万枚INJ不久将被质押，占总供应量50%。\n行情：比特币跌破42000美元，以太坊跌破2500美元\n行情显示，比特币跌破42000美元，现报41736.52美元，24小时跌幅为2.6%。以太坊跌破2500美元，现报2,472.66美元，24小时跌幅为4.1%。\n过去24小时全网合约爆仓1.19亿美元，其中多单爆仓8890.98万美元\nCoinglass数据显示，过去24小时加密货币市场全网合约爆仓1.19亿美元，共有52,756人爆仓。其中多单爆仓8890.98万美元，空单爆仓2978.51万美元。 按币种划分，ETH爆仓约2481.49万美元，BTC爆仓约2465.43万美元，SOL爆仓约1060.07万美元，XAI爆仓约366.20万美元，SUI爆仓约318.63万美元。\nOpenSea CEO：将通过OpenSea 2.0升级改善NFT类别之间的差异化\n据彭博社报道，NFT市场OpenSea首席执行官Devin Finzer在接受采访时表示，该公司往往不会过多关注短期市场动态，目前正在开发名为 OpenSea 2.0的平台升级，随着更多代币用例的开发，该平台将为用户提供更好的用户体验，并改善NFT类别之间的差异化。而目前，NFT在OpenSea和其他平台上的显示是一样的，无论它们是游戏代币还是活动门票。他说：“我们真的希望有一个市场界面，可以更好地通过定制以适应每种类型的用例。”他指出，OpenSea正在努力在日历上显示票务NFT，并按日期对它们进行排序。\n此外，Finzer表示，OpenSea的升级将使客户更容易访问其专业交易平台，并在“收藏家视图和更高级的视图”之间切换。他表示，该公司还改进了对虚假NFT集合和有害URL的检测，这些骗局让用户将钱包连接到恶意网站，然后窃取他们的加密货币和NFT，这一直困扰着该行业。\nFinzer拒绝评论该公司终止对NFT创作者的强制版税，以及OpenSea是否计划在未来恢复强制版税计划。至于其他趋势，Finzer一直在追踪Solana区块链对nft的日益增长的使用，以及Ordinals的激增。他说，他仍然对以太坊成为NFT的首选区块链最乐观，特别是考虑到它的Layer2链有助于使交易更便宜、更快。即使ETF热潮刺激了比特币的价格上涨，他也不认为区块链是未来NFT的主要选择。\nPANews APP积分商城正式上线\n硬核奖品免费兑换：imKeyPro硬件钱包、头等仓研报月卡、Ballet REAL系列钱包、AICoin 会员、各类周边以及数百篇精选研报合集，先到先得，立即体验！",
           "link": "https://panewslab.com/zh/articledetails/j9xs3ar3.html",
           "publishedOn": "2024-01-15T01:41:05.000Z",
-          "wordCount": 421,
+          "wordCount": 423,
           "title": "昨夜今晨重要资讯（1月14日-1月15日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/01/15/images/a43T69iY1q.png"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 1月15日消息，据彭博社报道，NFT市场OpenSea首席执行官Devin Finzer在接受采访时表示，该公司往往不会过多关注短期市场动态，目前正在开发名为 OpenSea 2.0的平台升级，随着更多代币用例的开发，该平台将为用户提供更好的用户体验，并改善NFT类别之间的差异化。而目前，NFT在OpenSea和其他平台上的显示是一样的，无论它们是游戏代币还是活动门票。他说：“我们真的希望有一个市场界面，可以更好地通过定制以适应每种类型的用例。”他指出，OpenSea正在努力在日历上显示票务NFT，并按日期对它们进行排序。\n此外，Finzer表示，OpenSea的升级将使客户更容易访问其专业交易平台，并在“收藏家视图和更高级的视图”之间切换。他表示，该公司还改进了对虚假NFT集合和有害URL的检测，这些骗局让用户将钱包连接到恶意网站，然后窃取他们的加密货币和NFT，这一直困扰着该行业。\nFinzer拒绝评论该公司终止对NFT创作者的强制版税，以及OpenSea是否计划在未来恢复强制版税计划。至于其他趋势，Finzer一直在追踪Solana区块链对nft的日益增长的使用，以及Ordinals的激增。他说，他仍然对以太坊成为NFT的首选区块链最乐观，特别是考虑到它的Layer2链有助于使交易更便宜、更快。即使ETF热潮刺激了比特币的价格上涨，他也不认为区块链是未来NFT的主要选择。",
           "link": "https://panewslab.com/zh/articledetails/3ns3amfs.html",
           "publishedOn": "2024-01-15T01:01:04.000Z",
-          "wordCount": 369,
+          "wordCount": 357,
           "title": "OpenSea CEO：将通过OpenSea 2.0升级改善NFT类别之间的差异化",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -289,6 +289,16 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202401/21578.html",
+          "author": null,
+          "description": "1.数据：Tether稳定币市场份额大幅上涨至71%。\n\n2.CoinShares：比特币减半后价格需保持在 4 万美元以上才能使大多数矿商盈利。\n\n3.OpenSea CEO：OpenSea正在开发名为OpenSea 2.0的升级版。\n\n4.1inch团队地址售出176万枚1INCH后购入80.39枚WBTC。\n\n5.GameStop：因「监管不确定性」，将关闭其NFT市场。\n\n6.Elon Musk的特斯拉超级充电站将接受狗狗币支付。\n\n7.聪明巨鲸在市场下跌前向币安存入逾1.2万枚ETH，获利220万美元。\n\n8.Injective：将质押5000万枚INJ，占总供应量50%。",
+          "link": "https://www.hellobtc.com/news/202401/21578.html",
+          "publishedOn": "2024-01-15T02:29:00.000Z",
+          "wordCount": 313,
+          "title": "白话区块链早报：Tether稳定币市场份额大幅上涨至71%",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202401/21577.html",
           "author": null,
@@ -377,16 +387,6 @@
           "publishedOn": "2024-01-10T09:47:00.000Z",
           "wordCount": 302,
           "title": "慢雾首席信息安全官：注意Telegram机器人私信钓鱼风险",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202401/21568.html",
-          "author": null,
-          "description": "Bitget发布2023年透明度报告。2023年平均每月的访问量达到1040万，协助处理60万个客户需求，平均响应时间在三分钟之内。整体用户人数从去年的800万增加至2000万，团队规模从去年的1100人发展至1500人。\n\n交易数据方面，Bitget整体交易量为3.14万亿美元，其中现货交易量增至816亿美元，较去年增长94%。跟单交易新增5.2万名交易员，盈利跟单共2690万笔。截止目前，用户通过跟单交易产生的累计利润超过4.5亿美元，其中交易员利润分成达2300万美元。\n\n平台币方面，截止2023年年末，BGB持有者的数量达到21.7万, 较2022年增加83%，BGB的交易量增长了 110% 至 51.5 亿美元。",
-          "link": "https://www.hellobtc.com/news/202401/21568.html",
-          "publishedOn": "2024-01-10T09:14:00.000Z",
-          "wordCount": 311,
-          "title": "Bitget 2023年度报告：跟单交易新增5.2万名交易员，用户累计利润超4.5亿美元",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
