@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-16T07:12:46.308Z</id>
+    <id>urn:2024-01-16T08:17:36.255Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-16T07:12:46.308Z</updated>
+    <updated>2024-01-16T08:17:36.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[加密星团：2024年小市值AI代币速览]]></title>
+        <id>https://www.web3sj.com/?p=101015</id>
+        <link href="https://www.web3sj.com/show/101015/"/>
+        <updated>2024-01-16T07:50:24.000Z</updated>
+        <summary type="html"><![CDATA[2024年小市值AI代币：AIGraphLinq(GLQ),EternalAI(MIND),Chainback(ARCHIVE),XendFinance,Mozaic(MOZ)...]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安44期Launchpool-MantaL2合理价位预估]]></title>
+        <id>https://www.web3sj.com/?p=101012</id>
+        <link href="https://www.web3sj.com/show/101012/"/>
+        <updated>2024-01-16T07:45:27.000Z</updated>
+        <summary type="html"><![CDATA[币安44期Launchpool-MantaL2合理价位预估]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celestia会对以太坊构成威胁吗？]]></title>
+        <id>https://www.web3sj.com/?p=101007</id>
+        <link href="https://www.web3sj.com/news/101007/"/>
+        <updated>2024-01-16T07:17:49.000Z</updated>
+        <summary type="html"><![CDATA[DA 对应以太坊的 Validators 的验证能力，若以太坊参与 DA，layer2 提交上来的状态转变过程，主网 Validators 有能力做校验以确保安全性，若把以太坊 DA 剥离开，主网 calldata 和 Blob 区块则成了 layer2 的状态转变公告板，有效性由第三方 DA 共识来决定，即使提交到主网的是一笔有预谋的「坏账」，主网也无法做判断和干预。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一文详解Manta Network代币经济模型]]></title>
         <id>https://www.web3sj.com/?p=100999</id>
@@ -187,16 +217,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024年加密市场展望：BTC ATH已成共识，Solana或将超越以太坊]]></title>
-        <id>https://www.web3sj.com/?p=100950</id>
-        <link href="https://www.web3sj.com/news/100950/"/>
-        <updated>2024-01-16T03:38:29.000Z</updated>
-        <summary type="html"><![CDATA[SEC 通过 BTC 现货 ETF 给 2024 开了个好彩头，2024 年已然成为行业重要里程碑。让我们迎接这个充满创新与增长的年份，期待着更多突破性的进展和区块链的广泛应用。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数据：当前现货比特币ETF发行人已持有比特币总供应量的3.9%]]></title>
         <id>https://panewslab.com/zh/articledetails/mr1ls9vx.html</id>
         <link href="https://panewslab.com/zh/articledetails/mr1ls9vx.html"/>
@@ -204,26 +224,6 @@
         <summary type="html"><![CDATA[PANews 1月16日消息，据HashKey Exchange披露数据称，目前现货比特币ETF发行人持有的比特币数量占到比特币总供应量的3.9%，此外全球最大资产管理公司贝莱德当前已持有约11,500枚比特币。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21Shares：如何确保现货比特币ETF托管安全]]></title>
-        <id>https://www.web3sj.com/?p=100946</id>
-        <link href="https://www.web3sj.com/news/100946/"/>
-        <updated>2024-01-16T03:33:25.000Z</updated>
-        <summary type="html"><![CDATA[尽管随着安全性的不断改进，加密货币交易所在过去几年中因黑客攻击而损失的资金相对较少，但社区在 2023 年目睹了 Poloniex 等交易所遭受的数百万美元的攻击。有什么能让现货比特币 ETF 比在 Poloniex 等交易所进行交易更安全 ？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik：我为什么建造Zuzalu]]></title>
-        <id>https://www.web3sj.com/?p=100943</id>
-        <link href="https://www.web3sj.com/news/100943/"/>
-        <updated>2024-01-16T03:28:50.000Z</updated>
-        <summary type="html"><![CDATA[这个实验的目标是融合不同文化，创造一种独特的社区感觉。文章提到了实验的一些成功之处，包括技术和社交方面的进展，以及社区的国际化。然而，文章也提出了一些问题和挑战，包括 Zuzalu 的规模和目标，以及如何在长期内保持其特殊性和吸引力。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
