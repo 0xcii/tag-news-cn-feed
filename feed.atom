@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T14:11:15.399Z</id>
+    <id>urn:2024-01-20T15:12:22.883Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-20T14:11:15.399Z</updated>
+    <updated>2024-01-20T15:12:22.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[解码L2 MEV：排序器工作流与MEV数据分析]]></title>
+        <id>https://www.web3sj.com/?p=101400</id>
+        <link href="https://www.web3sj.com/news/101400/"/>
+        <updated>2024-01-20T14:22:03.000Z</updated>
+        <summary type="html"><![CDATA[L2 Sequencer，作为以太坊 Layer 2 方案的核心组成部分，扮演着关键的角色。它的主要任务是处理交易，即将其打包并提交到 ETH 主链或链下网络，以提高整个区块链生态系统的吞吐量和效率。具体来说，Sequencer 扮演着与以太坊主链上的交易池（transaction pool）类似的角色，但工作方式和范围更加专门化。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零启动，ChainStar SaaS系统如何领跑交易所一站式搭建方案？]]></title>
+        <id>https://www.web3sj.com/?p=101396</id>
+        <link href="https://www.web3sj.com/news/101396/"/>
+        <updated>2024-01-20T14:16:32.000Z</updated>
+        <summary type="html"><![CDATA[尤其是熊末牛初阶段，交易平台作为区块链流量的第一入口，往往可以凭借刚需、高频的优势，通过龙头币种的造富效最先享受到牛初的红利。但如今的 CEX 赛道已经是一件高度专业化的服务体系，个人或团队想从零开始启动一家加密交易所并非易事，因此市面上涌现出一批数字资产交易所一站解决服务。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OP Research：Layer2新战场，Blast Big Bang生态大爆发]]></title>
+        <id>https://www.web3sj.com/?p=101388</id>
+        <link href="https://www.web3sj.com/news/101388/"/>
+        <updated>2024-01-20T14:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Blast 为参与 BigBang 竞赛的 dapps 提供了丰厚的奖励，以此来激励项目方在 Blast 进行部署和运营。首先，Blast 将于 2 月进行 ETH 锁仓流动性的释放，在 Blast 上部署的 dapps 有机会瓜分释放的 1.4b 的 TVL 以及参与锁仓的 104k 的用户。 这对于任何项目来说都是一个很好的冷启动的机会。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从起源到进化，一文了解Wormhole全景]]></title>
         <id>https://www.web3sj.com/?p=101381</id>
@@ -33,36 +63,6 @@
         <summary type="html"><![CDATA[美国比特币现货ETF在第六个交易日资金净流入共计3310万美元。过去一个月3.7亿美元资金从以太坊转移到其他区块链，近90%流向Sui和Solana。灰度在GBTC转换为现货ETF后已卖出52,639枚BTC。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：当前比特币网络超26.8万笔交易待确认]]></title>
-        <id>https://panewslab.com/zh/articledetails/dx4b44ri.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dx4b44ri.html"/>
-        <updated>2024-01-20T12:52:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月20日消息，mempool.space数据显示，当前Bitcoin网络最低交易费用达33 sat/vB，有超过26.8万笔交易待确认，内存池使用量超过了300 MB达到了1.76GB。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鲸鱼0x59a从币安提取2941枚ETH，并偿还了Aave中的贷款]]></title>
-        <id>https://panewslab.com/zh/articledetails/uacq8jwi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uacq8jwi.html"/>
-        <updated>2024-01-20T12:14:54.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月20日消息，据The Data Nerd监测，鲸鱼 0x59a 从 Binance 中提取了 2941 枚 ETH（约 726 万美元）并偿还了 Aave 中的贷款。 目前，该巨鲸正在借出 3.1 万枚 stETH（约7660万美元） 并从 Aave借入 1.1 万枚 ETH（2720万美元）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨链桥Router Nitro将于1月25日上线主网]]></title>
-        <id>https://panewslab.com/zh/articledetails/fcx517g5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/fcx517g5.html"/>
-        <updated>2024-01-20T12:07:55.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月20日消息，据跨链桥Router Nitro在X平台发布的宣传片，Router Nitro将于1月25日上线主网。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -268,6 +268,36 @@ Manta Network 表示，此次遭遇非法 DDoS 攻击，严重阻碍了对其 RP
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[灰度在GBTC转换为现货ETF后已卖出52,639枚比特币]]></title>
+        <id>https://panewslab.com/zh/articledetails/pkteibxy.html</id>
+        <link href="https://panewslab.com/zh/articledetails/pkteibxy.html"/>
+        <updated>2024-01-20T03:24:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月20日消息，据灰度官方及CC15Capital统计数据显示，GBTC在未转换为比特币现货ETF时发布的官方持仓数据为 619,162枚，目前其持仓数据为566,973枚，即灰度在GBTC转换为现货ETF后已卖出52,639枚比特币，约合28亿美元。目前GBTC 负溢价已进一步收窄至0.3%以内，录得0.27%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARK Invest昨日购入约1321万美元的ARK 21 Shares比特币ETF]]></title>
+        <id>https://panewslab.com/zh/articledetails/jr405c03.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jr405c03.html"/>
+        <updated>2024-01-20T02:43:44.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月20日消息，Ark Invest Daily数据显示，Cathie Wood旗下ARK Invest昨日购入316,526股ARK 21 Shares比特币ETF（约合1321万美元），同时卖出510,337股ProShares比特币策略ETF（约合1025万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius和FTX/Alameda机构再次转出4300万美元资产]]></title>
+        <id>https://panewslab.com/zh/articledetails/28c5nmqa.html</id>
+        <link href="https://panewslab.com/zh/articledetails/28c5nmqa.html"/>
+        <updated>2024-01-20T02:32:50.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月20日消息，据链上分析师余烬监测，Celsius和FTX/Alameda两大处于破产清算流程的机构今天继续转出资产： Celsius地址8小时前将3408万枚MATIC（2600万美元）转至币安； FTX/Alameda地址4小时前将207枚WBTC（860万美元）+1150枚ETH（285万美元）转至Wintermute、135枚WBTC（560万美元）转至币安。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bankless：以太坊现货ETF能通过吗？]]></title>
         <id>https://www.web3sj.com/?p=101351</id>
         <link href="https://www.web3sj.com/news/101351/"/>
@@ -303,36 +333,6 @@ Manta Network 表示，此次遭遇非法 DDoS 攻击，严重阻碍了对其 RP
         <link href="https://www.web3sj.com/news/101323/"/>
         <updated>2024-01-19T14:57:25.000Z</updated>
         <summary type="html"><![CDATA[链间安全是「共享安全」协议中一个含义更广泛的词语，而复制安全只是其中一种方案，在 Cosmos Hub 的使用场景下，Cosmos Hub 的每一个验证者都需要运行每一个消费者链，从而使每个消费者链都具有和 Cosmos Hub 完全相同的安全性。但这也限制了消费者链的使用，所有的消费者链都需要经过 Cosmos Hub 治理的预先批准，而每个消费者链也都要求每个验证者运行单独的 Tendermint 节点，因此验证者的成本也会增加，不适用于低成本的消费者链。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestia：以太坊DA最大的竞争对手？EigenLayer能否扳回一局？]]></title>
-        <id>https://www.web3sj.com/?p=101320</id>
-        <link href="https://www.web3sj.com/news/101320/"/>
-        <updated>2024-01-19T14:38:14.000Z</updated>
-        <summary type="html"><![CDATA[虽然当下因为 DA 的问题，大家对于 Layer2 的精准定义还存在着一定程度的争议，但以太坊的升级路线仍是以 Rollup 为中心的，DA 则在以太坊升级中担任保存或上传 Rollup 交易数据的重要角色。Optimistic Rollup 与 ZK Rollup 能否通过 DA 来访问相关数据会在一定程度上影响其自身的安全性，即使它们的依赖程度不同。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一周山寨币期权播报（1.13~1.19）]]></title>
-        <id>https://www.web3sj.com/?p=101312</id>
-        <link href="https://www.web3sj.com/transaction/101312/"/>
-        <updated>2024-01-19T14:23:54.000Z</updated>
-        <summary type="html"><![CDATA[本周加密市场由于BTC连续阴跌，市场从Fomo情绪回到理智，山寨币期权并没有出现较多的涨幅，仅仅有TRX BCH LINK 出现过短暂的亮眼表现，涨幅均超过300%，其它山寨期权并没有出现高于200%的涨幅。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-1.19）]]></title>
-        <id>https://www.web3sj.com/?p=101309</id>
-        <link href="https://www.web3sj.com/news/101309/"/>
-        <updated>2024-01-19T12:39:14.000Z</updated>
-        <summary type="html"><![CDATA[加密货币期货交易的清算达2.17亿美元，Grayscale可能出售其比特币持仓。Aave社区发起「在Scroll主网上部署Aave V3 」ARFC提案。韩国总统办公室敦促金融监管机构重新考虑现货比特币 ETF 的可能性。]]></summary>
         <author>
             <name>Gao</name>
         </author>
