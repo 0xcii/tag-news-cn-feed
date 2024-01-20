@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-20T13:14:07.356Z</id>
+    <id>urn:2024-01-20T14:11:15.399Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-20T13:14:07.356Z</updated>
+    <updated>2024-01-20T14:11:15.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[从起源到进化，一文了解Wormhole全景]]></title>
+        <id>https://www.web3sj.com/?p=101381</id>
+        <link href="https://www.web3sj.com/news/101381/"/>
+        <updated>2024-01-20T14:07:25.000Z</updated>
+        <summary type="html"><![CDATA[Wormhole 是一种通用消息传递协议，最早于 2020 年 10 月推出，旨在使开发者能够构建覆盖多个链的原生跨链应用程序。Wormhole 起初是一个黑客松项目，目标是找到一种使区块链能够「互相通信」的解决方案。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui出彩的背后：Move系公链的「血统优势」与有望爆发的新DeFi生态]]></title>
+        <id>https://www.web3sj.com/?p=101378</id>
+        <link href="https://www.web3sj.com/news/101378/"/>
+        <updated>2024-01-20T14:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Solidity 语言是以太坊上通用的构建个类型智能合约的语言，有庞大的开发者群体基础；Move 语言作为后来者在资源处理、安全性和模块化方面有明显的优势，尤其适用于金融应用领域。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-1.20）]]></title>
         <id>https://www.web3sj.com/?p=101375</id>
@@ -13,6 +33,36 @@
         <summary type="html"><![CDATA[美国比特币现货ETF在第六个交易日资金净流入共计3310万美元。过去一个月3.7亿美元资金从以太坊转移到其他区块链，近90%流向Sui和Solana。灰度在GBTC转换为现货ETF后已卖出52,639枚BTC。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：当前比特币网络超26.8万笔交易待确认]]></title>
+        <id>https://panewslab.com/zh/articledetails/dx4b44ri.html</id>
+        <link href="https://panewslab.com/zh/articledetails/dx4b44ri.html"/>
+        <updated>2024-01-20T12:52:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月20日消息，mempool.space数据显示，当前Bitcoin网络最低交易费用达33 sat/vB，有超过26.8万笔交易待确认，内存池使用量超过了300 MB达到了1.76GB。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲸鱼0x59a从币安提取2941枚ETH，并偿还了Aave中的贷款]]></title>
+        <id>https://panewslab.com/zh/articledetails/uacq8jwi.html</id>
+        <link href="https://panewslab.com/zh/articledetails/uacq8jwi.html"/>
+        <updated>2024-01-20T12:14:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月20日消息，据The Data Nerd监测，鲸鱼 0x59a 从 Binance 中提取了 2941 枚 ETH（约 726 万美元）并偿还了 Aave 中的贷款。 目前，该巨鲸正在借出 3.1 万枚 stETH（约7660万美元） 并从 Aave借入 1.1 万枚 ETH（2720万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨链桥Router Nitro将于1月25日上线主网]]></title>
+        <id>https://panewslab.com/zh/articledetails/fcx517g5.html</id>
+        <link href="https://panewslab.com/zh/articledetails/fcx517g5.html"/>
+        <updated>2024-01-20T12:07:55.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月20日消息，据跨链桥Router Nitro在X平台发布的宣传片，Router Nitro将于1月25日上线主网。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -218,36 +268,6 @@ Manta Network 表示，此次遭遇非法 DDoS 攻击，严重阻碍了对其 RP
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[灰度在GBTC转换为现货ETF后已卖出52,639枚比特币]]></title>
-        <id>https://panewslab.com/zh/articledetails/pkteibxy.html</id>
-        <link href="https://panewslab.com/zh/articledetails/pkteibxy.html"/>
-        <updated>2024-01-20T03:24:39.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月20日消息，据灰度官方及CC15Capital统计数据显示，GBTC在未转换为比特币现货ETF时发布的官方持仓数据为 619,162枚，目前其持仓数据为566,973枚，即灰度在GBTC转换为现货ETF后已卖出52,639枚比特币，约合28亿美元。目前GBTC 负溢价已进一步收窄至0.3%以内，录得0.27%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARK Invest昨日购入约1321万美元的ARK 21 Shares比特币ETF]]></title>
-        <id>https://panewslab.com/zh/articledetails/jr405c03.html</id>
-        <link href="https://panewslab.com/zh/articledetails/jr405c03.html"/>
-        <updated>2024-01-20T02:43:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月20日消息，Ark Invest Daily数据显示，Cathie Wood旗下ARK Invest昨日购入316,526股ARK 21 Shares比特币ETF（约合1321万美元），同时卖出510,337股ProShares比特币策略ETF（约合1025万美元）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celsius和FTX/Alameda机构再次转出4300万美元资产]]></title>
-        <id>https://panewslab.com/zh/articledetails/28c5nmqa.html</id>
-        <link href="https://panewslab.com/zh/articledetails/28c5nmqa.html"/>
-        <updated>2024-01-20T02:32:50.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月20日消息，据链上分析师余烬监测，Celsius和FTX/Alameda两大处于破产清算流程的机构今天继续转出资产： Celsius地址8小时前将3408万枚MATIC（2600万美元）转至币安； FTX/Alameda地址4小时前将207枚WBTC（860万美元）+1150枚ETH（285万美元）转至Wintermute、135枚WBTC（560万美元）转至币安。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bankless：以太坊现货ETF能通过吗？]]></title>
         <id>https://www.web3sj.com/?p=101351</id>
         <link href="https://www.web3sj.com/news/101351/"/>
@@ -313,26 +333,6 @@ Manta Network 表示，此次遭遇非法 DDoS 攻击，严重阻碍了对其 RP
         <link href="https://www.web3sj.com/news/101309/"/>
         <updated>2024-01-19T12:39:14.000Z</updated>
         <summary type="html"><![CDATA[加密货币期货交易的清算达2.17亿美元，Grayscale可能出售其比特币持仓。Aave社区发起「在Scroll主网上部署Aave V3 」ARFC提案。韩国总统办公室敦促金融监管机构重新考虑现货比特币 ETF 的可能性。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask的存亡之秋]]></title>
-        <id>https://www.web3sj.com/?p=101286</id>
-        <link href="https://www.web3sj.com/project/101286/"/>
-        <updated>2024-01-19T04:38:02.000Z</updated>
-        <summary type="html"><![CDATA[MetaMask 凭借早期「零竞争」环境以及背后 ConsenSys 的支持，在以太坊生态获得了不可撼动的生态卡位，但随着比特币、Solana 等生态崛起、钱包赛道垂类竞对迎头追赶以及 CEX 的 Web3 钱包产品持续发力，MetaMask 正在面临一场自其成立以来最激烈的市场竞争。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI x DePIN：火热赛道的碰撞将诞生哪些新机遇？]]></title>
-        <id>https://www.web3sj.com/?p=101275</id>
-        <link href="https://www.web3sj.com/news/101275/"/>
-        <updated>2024-01-19T04:34:07.000Z</updated>
-        <summary type="html"><![CDATA[DePIN，是去中心化物理基础设施（Decentralized Physical Infrastructure）的缩写。从狭义上说，DePIN 主要指由分布式账本技术支撑的传统物理基础设施的分布式网络，例如电力网络、通信网络、定位网络等。从广义上说，所有由物理设备支撑的分布式网络都可以称之为 DePIN，例如存储网络、计算网络。]]></summary>
         <author>
             <name>Gao</name>
         </author>
