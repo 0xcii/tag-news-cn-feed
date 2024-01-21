@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-21T11:10:47.100Z</id>
+    <id>urn:2024-01-21T12:23:54.812Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-21T11:10:47.100Z</updated>
+    <updated>2024-01-21T12:23:54.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2024-1.21）]]></title>
+        <id>https://www.web3sj.com/?p=101430</id>
+        <link href="https://www.web3sj.com/news/101430/"/>
+        <updated>2024-01-21T11:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Compound获Polychain Capital和Wintermute支持通过212和213两项提案。DefiLlama创始人：许多网站将BRC20代币交易量误算为NFT交易量，导致比特币链上NFT数据被夸大。1月Solana链上稳定币转账额已超3000亿美元，同比增加超25倍。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atomicals Market已完成铸币功能升级]]></title>
         <id>https://panewslab.com/zh/articledetails/9i9p60zm.html</id>
@@ -321,16 +331,6 @@ borntoolate.eth 在 UMA 质押有 134 万枚 UMA（约 638 万美元），1月20
         <link href="https://www.web3sj.com/project/101328/"/>
         <updated>2024-01-19T15:04:00.000Z</updated>
         <summary type="html"><![CDATA[Solana 在其短暂但多事的历史中面临并克服了许多难题，如网络不稳定、与 SBF 和 Alameda 的危险关系导致用户、开发者和流动性大量流失。尽管如此，联合创始人 Anatoly Yakovenko 紧密地与用户和开发者社区联系在一起，即使在最低谷时也仍然保持积极和前瞻性思维，展现了 Solana 的弹性以及适应和克服逆境的意愿。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析Cosmos Hub的多元安全模型，区块链安全新策略]]></title>
-        <id>https://www.web3sj.com/?p=101323</id>
-        <link href="https://www.web3sj.com/news/101323/"/>
-        <updated>2024-01-19T14:57:25.000Z</updated>
-        <summary type="html"><![CDATA[链间安全是「共享安全」协议中一个含义更广泛的词语，而复制安全只是其中一种方案，在 Cosmos Hub 的使用场景下，Cosmos Hub 的每一个验证者都需要运行每一个消费者链，从而使每个消费者链都具有和 Cosmos Hub 完全相同的安全性。但这也限制了消费者链的使用，所有的消费者链都需要经过 Cosmos Hub 治理的预先批准，而每个消费者链也都要求每个验证者运行单独的 Tendermint 节点，因此验证者的成本也会增加，不适用于低成本的消费者链。]]></summary>
         <author>
             <name>Gao</name>
         </author>
