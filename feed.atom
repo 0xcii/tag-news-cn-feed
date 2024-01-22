@@ -1,10 +1,150 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-22T13:18:00.306Z</id>
+    <id>urn:2024-01-22T14:13:33.384Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-22T13:18:00.306Z</updated>
+    <updated>2024-01-22T14:13:33.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[报告：2023年BSC因安全事件造成的损失总额约1.61亿美元，同比减少85%]]></title>
+        <id>https://panewslab.com/zh/articledetails/v0k65di7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/v0k65di7.html"/>
+        <updated>2024-01-22T14:03:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据BNB Chain官方博客引援AvengerDAO对BSC的安全报告，2023年，BSC发生了414起安全事件，较2022年同比增长44%。然而，资金损失总额为161,176,631美元，同比减少85%，打破了3年的上升趋势。更值得注意的是，当删前3个异常事件（Fintoch、IPP和Stake）时，总损失降至仅9700万美元。与2022年相比，黑客攻击和诈骗均大幅下降，2023年黑客攻击金额为7,320万美元（减少91%），诈骗金额为8,790万美元（减少54%）。2023年第四季度，BSC上总财务损失较2023年第三季度下降了64%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto.com报告：2023年全球加密货币用户基数或超5亿人]]></title>
+        <id>https://panewslab.com/zh/articledetails/9168m41i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9168m41i.html"/>
+        <updated>2024-01-22T13:51:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据Cointelegraph报道，根据加密货币交易所Crypto.com的市场规模报告，到2023年底，超过5亿人成为加密货币用户或所有者。该公司预计，2023年全球加密货币用户数量将增长34%，从4.32亿增至5.8亿。其中，以太坊的用户数量从8900万增加到1.24亿，而比特币的用户数量从2.22亿增加到2.96亿。
+报告指出，全球加密货币用户群增长了 34%，而市场状况却长期看跌。报告摘录指出：“尽管存在宏观逆风，即西方央行为遏制通胀而进一步收紧货币政策，欧洲旷日持久的动态冲突和中东的新冲突，以及疫情的长期后果，但2023年加密货币的采用取得了新的里程碑。”该文件补充说，以太坊上海升级对网络活动的增加以及随后ETH价值的上涨发挥了作用。与此同时，通过BRC-20代币和比特币Ordinals的出现，2023年NFT功能对比特币区块链的影响也推动了对比特币区块空间的强劲需求。关于美国几项比特币ETF申请最终获得批准的讨论越来越多，这也导致2023年比特币购买量和钱包数量增加。该报告强调，因此2023年第四季度比特币采用量激增。
+Crypto.com在其链上数据提取中包含来自23个加密货币交易所的数据。该报告还指出，40%的比特币所有者也拥有ETH，而42%的加密货币用户的投资组合中没有任何BTC或ETH。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraform Labs：申请破产是战略性步骤，公司仍保持运营]]></title>
+        <id>https://panewslab.com/zh/articledetails/gapd0vdq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gapd0vdq.html"/>
+        <updated>2024-01-22T13:41:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，Terraform Labs在X平台上发文称，第11章申请自愿破产是一个战略性步骤，使TFL能够继续执行其业务计划，同时解决悬而未决的法律诉讼，包括在新加坡悬而未决的代表诉讼和涉及SEC的美国诉讼。公司仍保持运营，TFL计划在第11章案件期间满足对员工和供应商的所有财务义务，且不需要额外的融资。目前仍计划继续扩大其Web3产品，完成对Pulsar Finance的收购、推出跨链钱包Station v3和Enterprise Protocol跨链质押升级。
+此前今日早些时候消息，Terraform Labs申请第11章破产保护，资产和负债在1亿至5亿美元之间。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concentric.fi：持有合约部署者钱包的一团队成员遭社会工程攻击]]></title>
+        <id>https://panewslab.com/zh/articledetails/kjkep24a.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kjkep24a.html"/>
+        <updated>2024-01-22T13:33:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，Arbitrum流动性管理协议Concentric.fi在X平台上发文表示，持有其合约部署者钱包的一名团队成员遭到有针对性的社会工程攻击，攻击者利用漏洞升级金库，铸造新的LP代币，然后耗尽平台资产。平台已启动调查，并联系若干安全研究人员，以分析漏洞防止二次损害并识别漏洞利用者。
+此外，项目方将尽快发布详细的事后分析报告，帮助用户深入了解本次事件以及其解决漏洞的计划。目前平台正在探索所有可能的选择，以减轻损失并维护社区的利益。
+此前早些时候消息，派盾表示，Concentric.fi攻击者已窃取价值约172万美元的代币，并交换为约716枚ETH。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap销毁约920万枚CAKE，价值约2400万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/jy2bxchl.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jy2bxchl.html"/>
+        <updated>2024-01-22T13:31:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据官方消息，多链去中心化交易所PancakeSwap今日宣布已销毁9,199,677枚CAKE，价值约2400万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派盾：Concentric.fi攻击者已窃取价值约172万美元的代币，并交换为约716枚ETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/gsf3ibe0.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gsf3ibe0.html"/>
+        <updated>2024-01-22T13:01:38.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据派盾监测，Arbitrum流动性管理协议Concentric.fi攻击者窃取了价值约172万美元的加密货币，并将其交换为约716枚ETH。这些被盗的ETH已经被分布在3个地址：300枚ETH在0xfd68...6030地址；300枚ETH在OKX DEX攻击者相关的0x1F14...C42d地址；115.75枚ETH在0x1786...4c34地址。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lido在以太坊Layer2网络Mantle Network上推出wstETH]]></title>
+        <id>https://panewslab.com/zh/articledetails/841gikr6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/841gikr6.html"/>
+        <updated>2024-01-22T12:51:46.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据Lido官方博客，Lido DAO贡献者在以太坊Layer2网络Mantle Network上推出wstETH，用户可以将质押的ETH桥接至Mantle Network生态系统。在接下来的几周内，Mantle用户预计能够在许多基于Mantle的应用程序中使用他们的wstETH，包括借贷、流动性挖矿、索引等。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝莱德旗下比特币现货ETF于1月19日首次出现0.3%的负溢价]]></title>
+        <id>https://panewslab.com/zh/articledetails/082si82u.html</id>
+        <link href="https://panewslab.com/zh/articledetails/082si82u.html"/>
+        <updated>2024-01-22T12:35:22.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据Cryptoslate报道，根据贝莱德官方数据，贝莱德旗下比特币现货ETF，即iShares Bitcoin Trust (IBIT)，于1月19日首次出现资产净值 (NAV) 负溢价，负溢价率为0.30%。贝莱德指出：“上面的表格和折线图（所指溢价每日变化折线图）显示了该基金股票的每日收盘价与该基金资产净值之间的差异。收盘价格由基金的上市交易所决定。”
+相反，根据Y Charts的数据，在经历了长时间的大幅负溢价后，灰度GBTC的负溢价已收紧至0.27%。而去年12月22日，GBTC的资产净值出现了48%的负溢价。然而，随着人们对其转换为现货的预期上升，比特币ETF的负溢价收窄，在转换当日达到1.55%。负溢价继续缩小，甚至超过了一些新发行的比特币现货ETF，如IBIT。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司：Concentric.fi疑似遭到攻击，初步损失约为160万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/wpz4y7jw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wpz4y7jw.html"/>
+        <updated>2024-01-22T12:33:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据Certik监测，Arbitrum流动性管理协议Concentric.fi疑似遭到攻击，攻击者钱包与此前的OKX攻击者有关，初步损失约为160万美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过去24小时全网合约爆仓1.39亿美元，其中多单爆仓1.21亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/wvfjbpqv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wvfjbpqv.html"/>
+        <updated>2024-01-22T12:25:04.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，Coinglass数据显示，过去24小时加密货币市场全网合约爆仓1.39亿美元，共有63,010人爆仓。其中多单爆仓1.21亿美元，空单爆仓1823.90万美元。按币种划分，ETH爆仓约3574.31万美元，BTC爆仓约2940.31万美元，SOL爆仓约760.15万美元，DOGE爆仓约334.54万美元。
+行情显示，比特币今日最低跌至40,364.63美元，现报40,753.98美元，24小时跌幅达2.44%。以太坊今日最低跌至2361.60美元，现报2361.60美元，24小时跌幅达4.22%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxy Digita CEO：随着投资者从灰度转向新ETF，比特币价格或将在6个月内走高]]></title>
+        <id>https://panewslab.com/zh/articledetails/j1pm9jba.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j1pm9jba.html"/>
+        <updated>2024-01-22T12:10:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据Cryptoslate报道，加密金融服务公司Galaxy Digital首席执行官Michael Novogratz表示，比特币的价格应该“在六个月内走高”，因为投资者剥离其所持有的灰度比特币信托 (GBTC) 股份后将转向其他交易所交易基金 (ETF) 。Novogratz发表此声明是为了回应BTCdata Corporation的创始合伙人Chris J. Terry提出的看跌前景，他预测由于GBTC的巨大抛售压力，BTC会出现短期低迷。Terry 表示，在GBTC清算之前，市场可能会面临250亿美元的抛售压力。
+Novogratz强调了这些新ETF的可及性，并强调它们对包括婴儿潮一代在内的更广泛人群的吸引力。他还强调了利用比特币敞口高达四到五倍的潜力。在他乐观的观点中，当前的市场不安情绪将会消退，从而导致比特币估值在六个月内更高。然而，尽管Novogratz很乐观，但行业专家指出，目前GBTC的资金流出中只有大约30%流向了新成立的ETF。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孙宇晨：已销毁Huobi团队拥有的全部4100万枚HT]]></title>
+        <id>https://panewslab.com/zh/articledetails/1fwnm49g.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1fwnm49g.html"/>
+        <updated>2024-01-22T12:08:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，孙宇晨在X平台表示，作为HTX DAO上线计划的一部分，其已经销毁了Huobi团队拥有的全部HT，共计4100万枚。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinShares：上周数字资产投资产品净流出2100万美元，但比特币交易量达118亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/0h0gl120.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0h0gl120.html"/>
+        <updated>2024-01-22T12:05:02.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月22日消息，据CoinShares周报数据，上周，数字资产投资产品出现小额资金外流，资金总额为2100万美元，不过上周比特币交易量达到118亿美元，是2023年通常每周交易量的7倍。从地区来看，美国有2.63亿美元的资金流入，而加拿大和欧洲合计有2.97亿美元的资金流出，这表明资产有少量转移到美国，而美国的费用目前更具竞争力。尽管118亿美元的交易量占受信任交易所所有比特币交易量的63%，但比特币的资金流出总额为2500万美元，这突显出ETP活动目前主导着整体交易活动。
+自2024年1月11日新发行的现货ETF推出以来，美国现有的成本较高的发行商遭受了29美元的资金流出。自推出以来，这些新发行的ETF的资金流入总额已达41.3亿美元，超过了这一数字。现有ETP成本较高而造成的损失。投资者将近期的价格疲软视为增加做空比特币投资产品的机会，资金流入达1300万美元。
+以太坊和Solana分别流出1400万美元和850万美元。区块链股票进一步大幅流入，资金总额达1.56亿美元，使过去9周的资金流入达到7.67亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于 ZK Rollup 的订单簿 DEX DeGate推出网格交易激励活动]]></title>
         <id>https://panewslab.com/zh/articledetails/86hjagtq.html</id>
@@ -74,141 +214,6 @@ INDXcoin只能通过Kingdom Wealth Exchange兑换美元。Kingdom Wealth Exchang
         <link href="https://panewslab.com/zh/articledetails/6z7z9inz.html"/>
         <updated>2024-01-22T10:39:38.000Z</updated>
         <summary type="html"><![CDATA[PANews 1月22日消息，BitMEX联合创始人Arthur Hayes在X平台发文称，对比特币未来的价格走势持悲观态度，比特币价格可能将跌破4万美元大关。为此，他买入3月29日到期、行权价为3.5万美元的看跌期权。Hayes还推测，比特币价格下跌可能会持续到1月31日美国财政部季度再融资公告发布。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10个巨鲸地址今日共囤积26841枚ETH，约合6450万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/dd08crgm.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dd08crgm.html"/>
-        <updated>2024-01-22T10:11:02.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据Lookonchain监测，10个巨鲸地址今天积累了ETH，总共26,841枚ETH(约合6450万美元)。2小时前，0x55C1开头巨鲸从币安提取了7779枚ETH(约合1870万美元)。0xDa17和0x278f开头巨鲸(可能是同一个人)从Bitfinex提取了8077枚ETH(约合1940万美元)。0x5a11开头巨鲸从币安提取了3228枚ETH(约合780万美元)。6个新钱包从Binance和Kraken中提取了7756枚ETH(约合1870万美元)。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OSL高管：香港有望于年中前推出首只现货虚拟资产ETF]]></title>
-        <id>https://panewslab.com/zh/articledetails/n5dkw2k6.html</id>
-        <link href="https://panewslab.com/zh/articledetails/n5dkw2k6.html"/>
-        <updated>2024-01-22T09:56:55.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据信报报道，香港持牌虚产平台OSL执行董事及法规事务主管刁家骏表示，正与很多基金公司密切沟通，市场有5至10间基金公司进行研究工作，5间以内推进可较快，有望年中前推出首只现货虚拟资产ETF。对于目前市面只有两个持牌虚产平台，他坦言反而有压力确保费用不可过高，因为美国已有客观参考，且本港市场极度透明。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kronos Research攻击者再次向Tornado.cash存入500枚ETH]]></title>
-        <id>https://panewslab.com/zh/articledetails/4vl6078j.html</id>
-        <link href="https://panewslab.com/zh/articledetails/4vl6078j.html"/>
-        <updated>2024-01-22T09:42:15.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据CertiK Alert监测，加密量化公司Kronos Research的攻击者再次向Tornado.cash存入500枚ETH(约120万美元)，使存入总额达到约1215枚ETH。攻击者在5个钱包中仍然持有11800枚ETH(约合2800万美元)的被盗资金。
-此前去年11月消息，Kronos Research在攻击事件中损失超1.3万枚ETH，当时价值约2500万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊基金会用于资助资金拔付的地址出售700枚ETH换成约168万枚DAI]]></title>
-        <id>https://panewslab.com/zh/articledetails/h5qeupyc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/h5qeupyc.html"/>
-        <updated>2024-01-22T09:33:16.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据链上分析师余烬监测，半小时前，以太坊基金会用于资助资金拔付的地址以2,406的价格出售700枚ETH换成1,684,445枚DAI。路径：以太坊基金会转出ETH→0xbC9地址→0xd77地址出售换成DAI→用于资助资金拔付的地址(0x9eE)。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：支持加密货币的投资银行B. Riley和野村证券卷入美SEC调查]]></title>
-        <id>https://panewslab.com/zh/articledetails/uge6xxd4.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uge6xxd4.html"/>
-        <updated>2024-01-22T09:15:52.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据彭博社报道，知情人士透露，美国当局正在调查投资银行B. Riley Financial Inc.与一名与证券欺诈有关的重要客户的交易，以及利用该客户资产帮助这家投资银行从野村控股(Nomura Holdings Inc.)获得贷款的情况。知情人士说，美国证券交易委员会(SEC)最近几个月就B. Riley及其与Brian Kahn的关系进行了采访。Kahn是美国司法部刑事案件的一名身份不明的同谋，该案是由对冲基金Prophecy Asset Management在2020年倒闭引发的。官员们一直在调查Kahn是如何在去年由B. Riley安排的一笔交易中牵头收购一家名为Franchise Group Inc.的零售企业的。知情人士和彭博社查阅的文件显示，野村证券以Kahn的部分资产作为抵押品，为这笔交易提供了部分资金。对B. Riley与Kahn关系的担忧导致B. Riley股价暴跌，部分投资也出现亏损和减记，该股吸引了所谓的卖空者的大量押注，押注该股将进一步下跌。
-美国证券交易委员会发言人拒绝置评，该调查尚处于早期阶段。该机构的审查并不一定意味着任何人有任何不当行为，也不一定意味着会采取法律行动，而且野村证券并不是调查的重点。B. Riley的发言人在一份电子邮件声明中表示：“尚未收到SEC就此事提出的任何信息，如果SEC进行调查将全力配合。”
-据悉，B. Riley最近在比特币挖矿领域进行了大笔投资。2023年9月，比特币矿企Iris Energy (IREN)签署了一项协议，向B. Riley出售至多1亿美元的股权。2023年3月，监督比特币矿企Core Scientific (CORZ)第11章破产程序的联邦法官批准了B. Riley Commercial Capital提供的7000万美元贷款，以帮助该公司重新站稳脚跟。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Web3钱包开启Solana Super Season]]></title>
-        <id>https://panewslab.com/zh/articledetails/owrsncn2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/owrsncn2.html"/>
-        <updated>2024-01-22T09:04:14.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据官方消息，OKX Web3钱包现已正式开启「Solana Super Season」活动，参与用户将有机会赢取超10万美元奖金和优质协议空投。Solana Super Season活动持续周期近70天，首期涵盖获取热门DAPP潜在空投的Cryptopedia Solana专场交互活动、赢取基础和额外加息双重奖励的Solana生态Marinade 加息活动、以及瓜分100,000 USDT 的奖池的Solana 期货季三大活动。第二期和第三期也即将上线。
-据悉，OKX Web3钱包是支持Solana生态功能最全面、奖励最丰富、使用体验最安全便捷的钱包。用户不仅可以通过OKX DEX进行Solana网络的跨链交易、通过OKX DeFi参与Solana生态的主流协议质押与借贷、通过OKX NFT市场探索Solana NFT和铭文生态、通过OKX Web3钱包进行Solana资产管理、还可以通过OKX Discover板块探索并交互Solana热门DAPP等等。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[行情：ETH短时跌破2400美元，日内跌幅2.56%]]></title>
-        <id>https://panewslab.com/zh/articledetails/1j269t22.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1j269t22.html"/>
-        <updated>2024-01-22T08:48:47.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，欧易OKX行情显示，ETH短时跌破2400美元，现报2405美元/枚，日内跌幅2.56%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grayscale的比特币持有量自ETF获批以来已减少52227枚，价值约21.4亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/f8qd6sb0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/f8qd6sb0.html"/>
-        <updated>2024-01-22T08:44:09.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据Lookonchain统计，根据Grayscale官网数据，Grayscale目前持有566,973枚BTC，价值约232.1亿美元。自比特币ETF获批以来，其持有量减少了约52,227枚BTC，价值约21.4亿美元。同时，iShares（Blackrock）持有33,431枚BTC，价值约13.7亿美元；Fidelity持有24,857枚BTC，价值约10.2亿美元；Bitwise持有10,152枚BTC，价值约4.156亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一巨鲸转出3000枚ETH，若全部卖出有望获利131.4万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/k569jlo9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/k569jlo9.html"/>
-        <updated>2024-01-22T08:39:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据社交媒体用户Ai 姨的报道，4小时前，自2023年9月19日以来累计建仓58,911枚$ETH的巨鲸疑似出售了3,000枚ETH。该巨鲸通过Paraswap直接卖出了1,000枚ETH，并向加密货币交易平台Binance充值了2,000枚ETH，总价值约为726万美元。如果全部卖出，该巨鲸将获得约131.4万美元的利润。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现货ETF上市以来，ProShares比特币期货ETF交易量下跌75%]]></title>
-        <id>https://panewslab.com/zh/articledetails/ax144736.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ax144736.html"/>
-        <updated>2024-01-22T08:31:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，根据CoinDesk的报道，自从美国开始交易现货比特币ETF（交易所交易基金）以来，ProShares比特币策略ETF（BITO）的交易量大幅下跌了75%。BITO是基于比特币期货的ETF，自1月11日美国上市现货比特币ETF以来，其交易活动显著降温。1月11日，BITO在纽约证券交易所的交易量达到创纪录的20亿美元，但到了周四，交易量仅超过5亿美元。同时，BITO在这段时间内经历了超过2.7亿美元的净资金流出。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一巨鲸通过买卖ETH已浮盈约85万美元，仍持有20841枚ETH]]></title>
-        <id>https://panewslab.com/zh/articledetails/imcuwz5w.html</id>
-        <link href="https://panewslab.com/zh/articledetails/imcuwz5w.html"/>
-        <updated>2024-01-22T08:08:45.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据社交媒体用户Ai 姨监测，过去六小时内，自11月以来胜率为100%的$ETH巨鲸累计买入2580枚ETH，价值约626万美元，平均成本为每枚$2425。
-该巨鲸一小时前以$2431的均价卖出其中645枚ETH。目前，该地址共持有20,841枚ETH，价值约5045万美元，平均买入成本为$2380，浮盈约85万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binance：今日将在多个链上销毁大量的Binance锚定代币，等量原生网络代币将被同步释放]]></title>
-        <id>https://panewslab.com/zh/articledetails/6izf60tn.html</id>
-        <link href="https://panewslab.com/zh/articledetails/6izf60tn.html"/>
-        <updated>2024-01-22T08:03:38.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据Binance的官方推文，今日Binance将在多个链上销毁大量的Binance锚定代币。随后，用作这些代币抵押的相应数量的原生网络代币将被释放。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave社区“在Scroll主网部署Aave V3”的ARFC提案获得通过]]></title>
-        <id>https://panewslab.com/zh/articledetails/ym00dxr5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ym00dxr5.html"/>
-        <updated>2024-01-22T07:40:04.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月22日消息，据Snapshot治理页面显示，Aave社区有关“在Scroll主网部署Aave V3”的ARFC提案投票已于今日下午3:24结束，赞成率为99.97%。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
