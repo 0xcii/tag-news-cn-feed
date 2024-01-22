@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-22T16:17:40.231Z</id>
+    <id>urn:2024-01-22T17:12:34.253Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-22T16:17:40.231Z</updated>
+    <updated>2024-01-22T17:12:34.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2024-1.22）]]></title>
+        <id>https://www.web3sj.com/?p=101571</id>
+        <link href="https://www.web3sj.com/news/101571/"/>
+        <updated>2024-01-22T16:23:09.000Z</updated>
+        <summary type="html"><![CDATA[灰度仍存在281,045枚BTC的抛售压力，约120亿美元。以太坊基础设施提供商Nethermind发布热修复程序，解决了其少数执行客户端最近版本中引入的关键共识漏洞。以太坊信标链质押总量超2907万枚ETH，Lido质押份额达32.06%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magic Eden向社区开放跨链协议并推出新的奖励计划]]></title>
         <id>https://panewslab.com/zh/articledetails/65050xjs.html</id>
@@ -393,16 +403,6 @@ Crypto.com在其链上数据提取中包含来自23个加密货币交易所的�
         <link href="https://www.web3sj.com/news/101430/"/>
         <updated>2024-01-21T11:25:44.000Z</updated>
         <summary type="html"><![CDATA[Compound获Polychain Capital和Wintermute支持通过212和213两项提案。DefiLlama创始人：许多网站将BRC20代币交易量误算为NFT交易量，导致比特币链上NFT数据被夸大。1月Solana链上稳定币转账额已超3000亿美元，同比增加超25倍。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解码L2 MEV：排序器工作流与MEV数据分析]]></title>
-        <id>https://www.web3sj.com/?p=101400</id>
-        <link href="https://www.web3sj.com/news/101400/"/>
-        <updated>2024-01-20T14:22:03.000Z</updated>
-        <summary type="html"><![CDATA[L2 Sequencer，作为以太坊 Layer 2 方案的核心组成部分，扮演着关键的角色。它的主要任务是处理交易，即将其打包并提交到 ETH 主链或链下网络，以提高整个区块链生态系统的吞吐量和效率。具体来说，Sequencer 扮演着与以太坊主链上的交易池（transaction pool）类似的角色，但工作方式和范围更加专门化。]]></summary>
         <author>
             <name>Gao</name>
         </author>
