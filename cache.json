@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=101594",
+          "author": "Gao",
+          "description": "EigenLayer 是建立在最大的可编程去中心化信任网络 Ethereum 上的通用去中心化信任市场。它将 Ethereum 的信任层解耦，以便网络的组件可以被用于其他目的。为了让 AVS'能够利用已在 Ethereum 网络中建立的安全性，质押者需要「重新质押」其已质押的 ETH（或流动性质押的 ETH），选择加入每个 AVS 独特的额外减持条件。",
+          "link": "https://www.web3sj.com/news/101594/",
+          "publishedOn": "2024-01-23T04:00:59.000Z",
+          "wordCount": 1178,
+          "title": "EigenDA与Celestia相比：AVS代币设计注意事项",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705982445041.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=101590",
+          "author": "Gao",
+          "description": "尽管以太坊 Shapella 升级之后开放了质押提取功能，但质押总量并未因此下降。目前，以太坊网络拥有 898110 个活跃的验证器，质押量高达 2880 万枚，占总以太坊供应量的 24%，这反映了 PoS 验证机制的广泛采用和信任。",
+          "link": "https://www.web3sj.com/news/101590/",
+          "publishedOn": "2024-01-23T03:56:21.000Z",
+          "wordCount": 958,
+          "title": "以太坊质押量激增，EIP-7514将如何应对质押问题？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705982155156.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=101571",
           "author": "Gao",
           "description": "灰度仍存在281,045枚BTC的抛售压力，约120亿美元。以太坊基础设施提供商Nethermind发布热修复程序，解决了其少数执行客户端最近版本中引入的关键共识漏洞。以太坊信标链质押总量超2907万枚ETH，Lido质押份额达32.06%。",
           "link": "https://www.web3sj.com/news/101571/",
           "publishedOn": "2024-01-22T16:23:09.000Z",
-          "wordCount": 940,
+          "wordCount": 931,
           "title": "Web3世界日报（2024-1.22）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012216162692.jpg"
         },
@@ -21,7 +41,7 @@
           "description": "Gabe Parker 指出，在 Blur 和 Tensor 的推动下，Solana 的 NFT 市场在活跃用户数量和交易量方面表现出色。虽然以太坊仍然在市场占据主导地位，但面临 NFT 活跃用户下降的挑战。随着 NFT 市场的演变，Solana 和以太坊之间的竞争将在 2024 年持续升温。",
           "link": "https://www.web3sj.com/nftnews/101540/",
           "publishedOn": "2024-01-22T06:38:05.000Z",
-          "wordCount": 1600,
+          "wordCount": 1589,
           "title": "Galaxy：Solana与以太坊的NFT竞技",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012206375998.jpg"
         },
@@ -31,7 +51,7 @@
           "description": "由于截至 2023 年 10 月 20 日没有收录到 3.8 万枚比特币，因此 Arkham 可能遗漏了一些 Celsius 钱包，所以现阶段还不清楚是否已经处理掉了多少枚比特币。",
           "link": "https://www.web3sj.com/news/101516/",
           "publishedOn": "2024-01-22T06:29:20.000Z",
-          "wordCount": 1491,
+          "wordCount": 1489,
           "title": "超50万枚ETH待抛售？隐藏在Celsius背后的数据与疯狂",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705904948027.png"
         },
@@ -41,7 +61,7 @@
           "description": "GameStop 于 2022 年 7 月推出，并在当年夏天成为排名前十的市场，头两个月的交易量就达到了 600 万美元。不过，这种吸引力并不持久：过去一个月里，GameStop 网站的访问量约为 4 万美元。",
           "link": "https://www.web3sj.com/nftnews/101500/",
           "publishedOn": "2024-01-22T05:21:37.000Z",
-          "wordCount": 975,
+          "wordCount": 965,
           "title": "NFT市场收入迅速下滑，游戏巨头GameStop宣布退出",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705900884611.png"
         },
@@ -51,7 +71,7 @@
           "description": "这里大致将 BTC L2 分成侧链、rollup、DA 层、去中心化索引等方式，将我认为类似的项目放在一起说明。BTC 的扩容方案仍然无法做出相应的定义，我的实际分类并不严谨。",
           "link": "https://www.web3sj.com/news/101493/",
           "publishedOn": "2024-01-22T05:18:43.000Z",
-          "wordCount": 2033,
+          "wordCount": 2040,
           "title": "牛市第一响，BTC L2将造就alpha之王",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705900710814.png"
         },
@@ -61,7 +81,7 @@
           "description": "据《Bitcoin Magazine》报道，目前白银的 5 只 ETF 的资产管理规模约为 115 亿美元，而在上线不到一周后，比特币现货 ETF 的资产管理规模现已超过 280 亿美元。",
           "link": "https://www.web3sj.com/news/101488/",
           "publishedOn": "2024-01-22T05:13:15.000Z",
-          "wordCount": 981,
+          "wordCount": 993,
           "title": "中美比特币储备曝光",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705900374202.png"
         },
@@ -71,7 +91,7 @@
           "description": "2023 年 12 月 28 日，Vitalik 发布了 Make Ethereum Cypherpunk Again 一文，畅聊其所认为的加密愿景。其中，Vitalik 强调，目前导致区块链仅局限于资产炒作的核心原因之一就是交易费用的上涨。高昂的网络交易费用使得人们从区块链网络的使用者转向了区块链网络的投机者。为了实现区块链的应用价值落地，区块链网络的交易费用必须再降低一个量级。",
           "link": "https://www.web3sj.com/news/101459/",
           "publishedOn": "2024-01-22T03:46:38.000Z",
-          "wordCount": 2294,
+          "wordCount": 2282,
           "title": "MT Capital：坎昆升级为以太坊生态再次注入新活力",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705895182686.png"
         },
@@ -81,29 +101,9 @@
           "description": "自人类历史开始以来，信任一直是构成社会基础和人类关系核心的概念。信任首先是生存所必需的，然后是狩猎和采集活动所必需的，最后是社会结构所必需的。在今天，信任已成为现代社会的主要要素，它主要由政府提供，特别是在经济和法律领域。",
           "link": "https://www.web3sj.com/news/101443/",
           "publishedOn": "2024-01-22T03:39:08.000Z",
-          "wordCount": 1018,
+          "wordCount": 984,
           "title": "从比特币到EigenLayer，探索加密「无政府主义」的新时代",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1705894717205.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=101433",
-          "author": "Gao",
-          "description": "Celestia则是一条专门为处理D A层的区块链，未来Layer2项目可以将D A层工作转移至Celestia，Celestia则将处理结果回传至以太坊的区块链上，这样无需直接上传至以太坊，从而降低运行成本。",
-          "link": "https://www.web3sj.com/show/101433/",
-          "publishedOn": "2024-01-21T12:49:47.000Z",
-          "wordCount": 773,
-          "title": "三分钟Web3科普：新晋“以太坊”杀手——模块化区块链Celestia",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012112494348.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=101430",
-          "author": "Gao",
-          "description": "Compound获Polychain Capital和Wintermute支持通过212和213两项提案。DefiLlama创始人：许多网站将BRC20代币交易量误算为NFT交易量，导致比特币链上NFT数据被夸大。1月Solana链上稳定币转账额已超3000亿美元，同比增加超25倍。",
-          "link": "https://www.web3sj.com/news/101430/",
-          "publishedOn": "2024-01-21T11:25:44.000Z",
-          "wordCount": 834,
-          "title": "Web3世界日报（2024-1.21）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012111240761.jpg"
         }
       ]
     },
@@ -158,7 +158,7 @@
           "description": "美国比特币现货ETF第七个交易日成交量再次突破20亿美元，富达连续第二日超过贝莱德\n彭博分析师James Seyffart在推特发文称，美国比特币现货ETF第七个交易日成交量再次突破20亿美元，其中GBTC占比仍超过一半。富达比特币现货ETF的交易量连续第二天超过贝莱德，富达的FBTC今日交易量为4.1亿美元，贝莱德的IBIT为3.95亿美元。前七个交易日比特币现货ETF的总交易量接近190亿美元。\n美国联邦法官“不认为”重大问题原则适用于SEC诉币安案\n据Blockworks报道，周一币安与美国SEC在华盛顿举行了长达四个小时的听证会。币安试图驳回SEC去年夏天针对该交易所、其美国子公司和前CEO赵长鹏的指控。币安辩护团队呼吁援引重大问题原则。这意味着法院不会将国会法律解释为允许各机构对具有“重大”政治或经济意义的问题做出裁决。币安在驳回动议中写道：“鉴于SEC的法律论点具有广泛影响，本案的利害关系远远超过对加密市场的巨大影响”。法官Amy Berman Jackson承认此案对整个加密行业具有影响。然而她仍然“不倾向于认为”重大问题原则适用于该案。\n灰度信托地址今晚已将15456枚BTC转移至Coinbase Prime，约合6.29亿美元\n据链上分析师余烬监测，20分钟前，15456枚BTC(约合6.29亿美元) 从灰度信托地址转移至Coinbase Prime。1月10日BTC现货ETF通过以来，灰度信托地址从1月12日开始连续在美股6个交易日的开盘时间累计将69,799枚BTC(29亿美元) 转移至Coinbase Prime。\n根据前几个ETF交易日GBTC净流出价值与第二天开盘时转移的BTC数量对比，灰度信托地址每个美股交易日开盘时链上转移至Coinbase Prime的BTC数量很可能是上一个交易日GBTC净流出对应的价值。\n富达和Bitwise旗下比特币现…",
           "link": "https://panewslab.com/zh/articledetails/3lyvu5fl.html",
           "publishedOn": "2024-01-23T02:13:47.000Z",
-          "wordCount": 696,
+          "wordCount": 690,
           "title": "昨夜今晨重要资讯（1月22日-1月23日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/01/23/images/4u8q1JXVYh.png"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 1月23日消息，据Cointelegraph报道，Kaspersky Labs发现新恶意软件通过盗版软件进入MacOS用户的电脑，并用受感染的版本替换他们的热门比特币钱包和Exodus钱包。据研究人员称，黑客仍在开发恶意软件，为新的活动做准备。去年12月，研究人员发现了一个新的木马代理“family”。黑客正在破坏或“破解”用户从未经授权的来源下载的合法应用程序。\n该恶意软件针对macOS版本13.6及更高版本。当用户将其计算机安全密码输入激活器框时，黑客就可以访问用户的计算机安全密码；当用户尝试打开被恶意软件破坏的加密钱包时，黑客就可以访问加密钱包的私钥。Kaspersky Labs提醒说，可以通过使用可信网站、保持电脑操作系统更新和使用安全解决方案来避免恶意软件的攻击。\n去年11月，朝鲜Lazarus黑客组织创建了针对去中心化金融社区macOS用户的恶意软件，并在Discord群组中传播。",
           "link": "https://panewslab.com/zh/articledetails/fp0rw08y.html",
           "publishedOn": "2024-01-23T00:14:54.000Z",
-          "wordCount": 338,
+          "wordCount": 340,
           "title": "新恶意软件使用MacOS上的盗版应用程序劫持加密钱包，请注意防范风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -320,12 +320,22 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202401/21611.html",
+          "author": null,
+          "description": "1.加密总市值从1.86万亿回调至1.65万亿美元。\n\n2.报告：全球虚拟资产用户已超5亿，较上年相比上涨34%。\n\n3.彭博社分析师：35%的GBTC流出资金或流向其他9个现货比特币ETF。\n\n4.富达比特币现货ETF交易量连续第二日超过贝莱德。\n\n5.知情人士：自GBTC转换为ETF以来，FTX已出售约10亿美元的GBTC。\n\n6.数据：逾5.4亿枚PYTH处于质押状态，质押者数量已超8.4万。\n\n7.Jupiter上线Beta版LFG Launchpad，试发行阶段将推出平台币JUP。\n\n8.ARK Invest昨日再次买入价值约2100万美元的ARK 21Shares比特币ETF。\n\n9.ONDO项目方疑似凌晨再次抛售4000万枚ONDO，价值1044万美元。\n\n10.DWF Labs合伙人：牛市中的调整时期是获得便宜筹码的好时机。\n\n11.INJ代币解锁完成，已处于全流通状态。\n\n12.比特币Ordinals NFT「创世猫」在苏富比拍出25万美元高价。",
+          "link": "https://www.hellobtc.com/news/202401/21611.html",
+          "publishedOn": "2024-01-23T02:49:00.000Z",
+          "wordCount": 321,
+          "title": "白话区块链早报：加密总市值从1.86万亿回调至1.65万亿美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202401/21610.html",
           "author": null,
           "description": "卡巴斯基实验室表示，发现了以前未知的恶意软件，这些恶意软件通过盗版软件进入macOS用户的计算机，并用受感染的版本替换他们的比特币热钱包和Exodus钱包。研究人员表示，黑客仍在开发恶意软件，为新的活动做准备。 该恶意软件针对的是13.6及以上版本的MacOS，当用户在输入计算机安全密码时，黑客就能获取用户的密码，当用户试图打开被恶意软件入侵的加密钱包时，黑客就能获取加密钱包的私钥。卡巴斯基表示，可以通过使用可信网站、保持电脑操作系统更新和使用安全解决方案来避免恶意软件的攻击。",
           "link": "https://www.hellobtc.com/news/202401/21610.html",
           "publishedOn": "2024-01-23T01:52:00.000Z",
-          "wordCount": 306,
+          "wordCount": 305,
           "title": "卡巴斯基：新恶意软件使用MacOS上的盗版应用程序劫持加密钱包",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -407,16 +417,6 @@
           "publishedOn": "2024-01-21T14:59:00.000Z",
           "wordCount": 313,
           "title": "彭博社高级诉讼分析师：Coinbase有70%的机会获得SEC的全面驳回",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202401/21601.html",
-          "author": null,
-          "description": "贝莱德数字资产主管Robert Mitchnick在最新采访中表示，其现货比特币ETF“IBIT”选择低费用只是一个方面，这款产品有整体价值主张，现阶段IBIT费用非常有吸引力，这种低成本高质量的接入解决方案已从客户得到了积极反馈。贝莱德非常关注跨领域，过去几十年来一直是ETF领域领导者，而且早在2021年就已经和Coinbase进行合作，并在Coinbase Prime和Aladdin之间做了整合，使得比特币能在同一个ETF服务平台上运行。传统金融和加密货币结合解锁了各种有趣的应用，尤其在效率、成本和访问方面，贝莱德非常感兴趣，也是进行探索和计划的原因。",
-          "link": "https://www.hellobtc.com/news/202401/21601.html",
-          "publishedOn": "2024-01-21T14:58:00.000Z",
-          "wordCount": 307,
-          "title": "贝莱德数字资产主管：低费用不是全部，IBIT有整体价值主张",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
