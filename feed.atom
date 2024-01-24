@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-24T05:13:41.324Z</id>
+    <id>urn:2024-01-24T06:18:26.615Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-24T05:13:41.324Z</updated>
+    <updated>2024-01-24T06:18:26.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[进击的Magic Eden ：解读潜在空投计划和多链NFT体验]]></title>
+        <id>https://www.web3sj.com/?p=101723</id>
+        <link href="https://www.web3sj.com/nftnews/101723/"/>
+        <updated>2024-01-24T06:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Magic Eden 的更新不仅仅局限于奖励本身，还涉及其 NFT 市场在 Solana、Bitcoin、Ethereum 和 Polygon 等多链上的统一及智能合约的开源。这次改革的核心是通过 $NFT 代币和 Magic Eden 钱包，实现市场和用户体验的统一，以及更强大的商业模式。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一文读懂新项目Dmail]]></title>
+        <id>https://www.web3sj.com/?p=101715</id>
+        <link href="https://www.web3sj.com/project/101715/"/>
+        <updated>2024-01-24T06:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Dmail 在 2021 年推出，起初作为原生项目在当时正备受追捧的公链 DFINITY 上推出。但随着 DFINITY 叙事的式微， Dmail 开启了多链发展道路，而且也很擅长追逐 Crypto 的行业热点。 2021 年开始，项目方非常喜欢强调款 Dmail 是一个「NFT 化的邮箱」，而在今年年初， Dmail 趁着 AI 叙事正热，宣布与 ChatGPT 整合，推出「AI 邮件助手」功能，帮助用户通过简单指令编写邮件内容，而 Dmail 的定位也随之改为「您的 AI 助手」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读NAVI Protocol：原生代币上线在即，Sui生态TVL第一的龙头DeFi协议]]></title>
+        <id>https://www.web3sj.com/?p=101702</id>
+        <link href="https://www.web3sj.com/definews/101702/"/>
+        <updated>2024-01-24T05:51:11.000Z</updated>
+        <summary type="html"><![CDATA[牛初当下，伴随 SOL、AVAX，SUI 等新公链迎来强劲涨幅，新一轮「新公链崛起叙事」正在酝酿，其中，作为「Move 双子星」之一的 Sui 凭借突出的技术优势、闪亮的融资 / 团队背景以及不可估量的生态爆发潜力，本身便是很多人眼中新公链竞争中的优秀投资标的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由AI驱动的品牌保护平台Doppe完成1400万美元A轮融资，a16z领投]]></title>
         <id>https://panewslab.com/zh/articledetails/yw604438.html</id>
@@ -319,36 +349,6 @@ FTSE数字资产应用指数：跟踪数字资产生态系统中的应用层数�
         <link href="https://www.web3sj.com/news/101629/"/>
         <updated>2024-01-23T08:30:57.000Z</updated>
         <summary type="html"><![CDATA[我们认为，ZK 中的 multi-proof 可以转化为使用 multi-SNARKs + multi-Client，即使用多种 ZK-SNARK 证明多种不同的以太坊节点，这将为未来以太坊 L1 中的 SNARKed 节点多样性奠定基础。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dymension：下一个模块化区块链新星]]></title>
-        <id>https://www.web3sj.com/?p=101619</id>
-        <link href="https://www.web3sj.com/news/101619/"/>
-        <updated>2024-01-23T07:37:01.000Z</updated>
-        <summary type="html"><![CDATA[自几年前 Arbitrum 和 Optimism 发布以来，Rollup 和 Layer 2 已成为区块链的主要扩容解决方案。它们主要存在于以太坊生态系统中，将交易结算到主链，同时将高成本的交易执行转移到链下环境。最近，Rollup 出现了更大的模块化趋势，主要围绕将交易数据发布到比以太坊为交易执行而设计的存储更便宜的位置的概念。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10多个即将空投的项目，还有哪些你没有关注到？]]></title>
-        <id>https://www.web3sj.com/?p=101615</id>
-        <link href="https://www.web3sj.com/news/101615/"/>
-        <updated>2024-01-23T07:24:01.000Z</updated>
-        <summary type="html"><![CDATA[而获得第四次 OP 空投或许仍需将 OP 委托给一位活跃的委托人。但与此同时，由于上一次空投完全集中在 OP 质押上，因此第 4 次空投也可能会采用其他标准，譬如与 OP Mainnet 主网、Base 与 Zora 等其他 OP 超级链交互。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Metis：Layer2首个去中心化Pos排序器]]></title>
-        <id>https://www.web3sj.com/?p=101609</id>
-        <link href="https://www.web3sj.com/project/101609/"/>
-        <updated>2024-01-23T07:09:51.000Z</updated>
-        <summary type="html"><![CDATA[市场对于 Metis 的未来前景普遍看好，也反应在其代币上，METIS 作为 Metis 原生代币同时也是 Metis 网络的 Gas Token，在刚刚过去的三个月内涨幅超过了 800%，Metis 的 TVL 更是两次超越同类项目，成为了继 Arbitrum 和 Optimism 之后的 Layer2 网络第三大巨头。]]></summary>
         <author>
             <name>Gao</name>
         </author>
