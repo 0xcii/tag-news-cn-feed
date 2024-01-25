@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=101824",
+          "author": "Gao",
+          "description": "每一次资产的创新，都会带来一波变革和浪潮，代表着着巨大的机会。17 年的 ICO 时代，智能合约带来新的代币分发方式；20 年的时候，Defi 是通过贡献 TVL 获得代币；21 年的 NFT，它本质上也是一种新资产，出现了大批百倍千倍的暴富神话；而就在 23 年，铭文这种新的资产又上演了一次指数型的增长。",
+          "link": "https://www.web3sj.com/project/101824/",
+          "publishedOn": "2024-01-25T06:28:29.000Z",
+          "wordCount": 1099,
+          "title": "Smart Layer带来的可编程Token，能否成为下一代新主流资产？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706164072813.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=101819",
+          "author": "Gao",
+          "description": "在 2023 年，Vitalik Buterin 频繁发声，表达对账户抽象的智能合约钱包的支持。比如，在 2023 年 6 月的一场推特 AMA 上，Vitalik 在回答如何看待基于 MPC（EOA）的钱包与智能合约钱包这一问题时，他认为基于 MPC 的 EOA 钱包存在根本缺陷，因为它们无法撤销密钥，智能合约钱包是唯一的选择。",
+          "link": "https://www.web3sj.com/news/101819/",
+          "publishedOn": "2024-01-25T06:24:03.000Z",
+          "wordCount": 1122,
+          "title": "账户抽象为何受Vitalik看重？Web3应用之门如何开启",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706163820907.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=101814",
           "author": "Gao",
           "description": "Berachain 目前已发展成一个高性能的 EVM 兼容区块链，基于流动性证明（Proof-of-Liquidity, PoL）共识机制构建，目标是通过强化 Berachain 验证者和项目生态系统之间的协同效应，来调整网络激励机制。此外，Berachain 的技术基于 Polaris，这是一个高性能的模块化框架，用于在 CometBFT 共识引擎之上构建兼容 EVM 的链。",
           "link": "https://www.web3sj.com/news/101814/",
           "publishedOn": "2024-01-25T06:17:04.000Z",
-          "wordCount": 1130,
+          "wordCount": 1139,
           "title": "详解Berachain：模块化EVM框架 + 流动性证明机制，会成为流动性困境破局者吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/5-1706160940243.webp"
         },
@@ -21,7 +41,7 @@
           "description": "初步观察下来，Merlin chain，LumiBit 等项目大都采取了类似的方案。相当于接受了比特币主网存在的验证、计算缺陷，仅把比特币作为资产结算层，然后外接扩展性性能共识已经很成熟的 EVM 链，通过把 BTC 以及其衍生资产转移到 EVM 环境下进行有效流通和管理，进而实现二层扩展。",
           "link": "https://www.web3sj.com/news/101808/",
           "publishedOn": "2024-01-25T03:45:49.000Z",
-          "wordCount": 1015,
+          "wordCount": 996,
           "title": "EVM链扩展比特币，用户体验摩擦如何解决？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706154320797.png"
         },
@@ -41,7 +61,7 @@
           "description": "ARK Invest昨日再次买入约1450万美元的ARK 21Shares比特币现货ETF。ABCDE研究员：若CRV跌至0.36美元，Curve创始人将面临清算。福克斯记者：消息人士称美SEC目前对以太坊现货ETF的立场是「强行拒绝」，但存在「内部阻力」。",
           "link": "https://www.web3sj.com/news/101784/",
           "publishedOn": "2024-01-24T12:25:24.000Z",
-          "wordCount": 959,
+          "wordCount": 962,
           "title": "Web3世界日报（2024-1.24）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012412222955.jpg"
         },
@@ -51,7 +71,7 @@
           "description": "Covalent 是一个处于快速发展赛道的头部项目，各项业务数据处在快速上升阶段，营收数据放量中。就收入水平来说，Covalent 拥有比目前赛道的头部项目 The Graph 大几倍的收入，似乎取得了更好的 PMF（Product Market Fit），然而由于目前其收入流尚未上链，市场投资者对此可能存在较大的认知差。",
           "link": "https://www.web3sj.com/project/101747/",
           "publishedOn": "2024-01-24T08:30:00.000Z",
-          "wordCount": 1942,
+          "wordCount": 1937,
           "title": "解读Covalent Network：去中心化基础设施赛道的遗珠",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706084971940.png"
         },
@@ -61,7 +81,7 @@
           "description": "CertiK 的 Skyfall 团队与安全专家 Dawuge 又双双入选了今日公布的《2023 年三星移动安全名人堂》。相较于更受关注的项目创新，深耕 Web3.0 安全领域需要持之以恒的决心和耐力。这一荣誉是对 CertiK 团队以及整个 Web3.0 安全领域持续致力于守护网络安全的肯定。",
           "link": "https://www.web3sj.com/news/101743/",
           "publishedOn": "2024-01-24T07:37:55.000Z",
-          "wordCount": 920,
+          "wordCount": 895,
           "title": "CertiK入选三星移动安全名人堂，能否引领Web3.0公司出圈潮？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706081771354.png"
         },
@@ -71,7 +91,7 @@
           "description": "坎昆 ( 也称为 Cancun-Deneb) 的核心是通过以太坊改进协议 4844 (EIP-4844) 引入了 blob 承载交易 - 这是一个升级集，可以大幅降低 L2 成本，为 Rollup 扩展奠定基础，并对以太坊产生重大影响。",
           "link": "https://www.web3sj.com/news/101737/",
           "publishedOn": "2024-01-24T06:40:12.000Z",
-          "wordCount": 951,
+          "wordCount": 952,
           "title": "Bankless：以太坊的下一步是什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706078377606.png"
         },
@@ -81,29 +101,9 @@
           "description": "Magic Eden 的更新不仅仅局限于奖励本身，还涉及其 NFT 市场在 Solana、Bitcoin、Ethereum 和 Polygon 等多链上的统一及智能合约的开源。这次改革的核心是通过 $NFT 代币和 Magic Eden 钱包，实现市场和用户体验的统一，以及更强大的商业模式。",
           "link": "https://www.web3sj.com/nftnews/101723/",
           "publishedOn": "2024-01-24T06:16:53.000Z",
-          "wordCount": 1141,
+          "wordCount": 1160,
           "title": "进击的Magic Eden ：解读潜在空投计划和多链NFT体验",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706076991048.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=101715",
-          "author": "Gao",
-          "description": "Dmail 在 2021 年推出，起初作为原生项目在当时正备受追捧的公链 DFINITY 上推出。但随着 DFINITY 叙事的式微， Dmail 开启了多链发展道路，而且也很擅长追逐 Crypto 的行业热点。 2021 年开始，项目方非常喜欢强调款 Dmail 是一个「NFT 化的邮箱」，而在今年年初， Dmail 趁着 AI 叙事正热，宣布与 ChatGPT 整合，推出「AI 邮件助手」功能，帮助用户通过简单指令编写邮件内容，而 Dmail 的定位也随之改为「您的 AI 助手」。",
-          "link": "https://www.web3sj.com/project/101715/",
-          "publishedOn": "2024-01-24T06:11:27.000Z",
-          "wordCount": 1395,
-          "title": "一文读懂新项目Dmail",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706076674888.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=101702",
-          "author": "Gao",
-          "description": "牛初当下，伴随 SOL、AVAX，SUI 等新公链迎来强劲涨幅，新一轮「新公链崛起叙事」正在酝酿，其中，作为「Move 双子星」之一的 Sui 凭借突出的技术优势、闪亮的融资 / 团队背景以及不可估量的生态爆发潜力，本身便是很多人眼中新公链竞争中的优秀投资标的。",
-          "link": "https://www.web3sj.com/definews/101702/",
-          "publishedOn": "2024-01-24T05:51:11.000Z",
-          "wordCount": 1575,
-          "title": "解读NAVI Protocol：原生代币上线在即，Sui生态TVL第一的龙头DeFi协议",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706075409432.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "PANews 1月25日消息，据官方公告，币安将于2024年01月26日16:00（东八区时间）上线APT/FDUSD、BLUR/USDC现货交易对。\n此外，币安将于2024年01月26日16:00（东八区时间）为以下交易对开放交易机器人服务：\n现货网格、现货DCA（平均成本法）、智能持仓：MANTA/USDT；现货算法订单：APT/FDUSD、BLUR/USDC。",
           "link": "https://panewslab.com/zh/articledetails/c38rt59t.html",
           "publishedOn": "2024-01-25T04:03:55.000Z",
-          "wordCount": 335,
+          "wordCount": 338,
           "title": "币安将上线APT/FDUSD、BLUR/USDC现货交易对",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "PANews 1月25日消息，Ark Invest Daily数据显示，Cathie Wood旗下ARK Invest于1月24日购入267804股ARK 21 Shares比特币ETF（按昨日收盘价约合1060万美元），同时卖出282975股ProShares比特币策略ETF（按昨日收盘价约合540万美元）。",
           "link": "https://panewslab.com/zh/articledetails/p6xt9o8f.html",
           "publishedOn": "2024-01-25T03:20:34.000Z",
-          "wordCount": 359,
+          "wordCount": 358,
           "title": "ARK Invest昨日再次买入价值约1060万美元的ARK 21Shares比特币现货ETF",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "PANews 1月25日消息，据链上分析师@ai_9684xtpa监测，过去24小时，五家比特币ETF机构资金转移情况如下：共流出19,236枚，流入8,800枚BTC。\n灰度(Grayscale)：流出19,236枚BTC，价值7.69亿美元；富达(Fidelity) ：流入4,022枚BTC，价值1.6亿美元；贝莱德(BlackRock)：流入4,079枚BTC，价值1.62亿美元；Bitwise：流入670枚BTC，价值2996万美元；Franklin：流入29枚BTC，价值116万美元。",
           "link": "https://panewslab.com/zh/articledetails/5dn7yh8u.html",
           "publishedOn": "2024-01-25T02:22:41.000Z",
-          "wordCount": 338,
+          "wordCount": 337,
           "title": "五家比特币ETF机构资金过去24小时共流出19236枚BTC，流入8800枚BTC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +238,7 @@
           "description": "美国SEC推迟对贝莱德以太坊现货ETF做出决议\n公开文件显示，美国SEC推迟对贝莱德以太坊现货ETF（ iShares Ethereum Trust）做出决议。彭博分析师James Seyffart表示，未来几个月，SEC将继续对其它以太坊现货ETF推迟做出决议，下一个重要日期是5月23日。\n美国SEC主席：对比特币现货ETF的批准不应被过度解读\n据The Block报道，美国SEC主席Gary Gensler在发布会上被问及他对以太坊现货ETF的看法时表示，“该机构对比特币现货ETF的批准仅限于这一种非证券商品，不应被解读为除此之外的任何东西”。Gensler还表示，比特币现货ETF为投资者提供了更好的信息披露。它们现在在证券交易所上市，而不是在场外市场交易。有10到11只ETF同时上线，这带来了一定程度的竞争，投资者将从较低的费用中受益。\n据此前消息，福克斯记者Eleanor Terrett表示，SEC当前对于以太坊现货ETF的立场是“强行拒绝”，这个想法目前存在“一些内部阻力”。\nBitwise比特币现货ETF公布其BTC钱包地址\n基金管理公司Bitwise推特发文称，其BITB成为美国首个公布其比特币持仓地址的比特币现货ETF。所有人现在都可以直接在区块链上验证BITB的持仓和资金流动。 数据显示，Bitwise当前持有11858.63枚比特币，市值超过4.65亿美元。\n特斯拉去年第四季度未出售或买入比特币\n特斯拉公布的2023年第四季度财报更新中显示，该公司第四季度总收入为252亿美元，同比增长3%。营业利润为21亿美元，营业利润率为8.2%。季末现金、现金等价物和投资为291亿美元。此外，该公司在去年第四季度没有出售或者买入任何比特币。\n美联储宣布银行定期融资计划（BTFP）将于3月11日按计划停止发放新贷款\n美联储在官网宣布，银行定期融资计划 (BTFP) 将…",
           "link": "https://panewslab.com/zh/articledetails/m576oapg.html",
           "publishedOn": "2024-01-25T02:17:18.000Z",
-          "wordCount": 642,
+          "wordCount": 643,
           "title": "昨夜今晨重要资讯（1月24日-1月25日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/01/25/images/L9nNv7E3a4.png"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 1月25日消息，据官方消息，OKX策略跟单现已支持合约马丁格尔策略，用户可实现一键跟单。OKX合约马丁格尔策略是当前行业策略交易市场中功能最丰富，可玩性最强的策略之一，无惧波段，使用户可以分批建仓降低成本，并在反弹行情时获利。并通过丰富的周期的触发条件、弹性的风控管理工具等，更轻松抓住增益场景。\n据悉，策略跟单功能是OKX在策略广场中建立的策略带跟单交易体系，平台甄选顶级策略带单员，用户可一键跟单策略，并自动跟随触发/停止，轻松掌握最佳时机，当前已支持合约网格、现货网格的跟单。用户可以通过OKX官网或者APP进入策略广场，选择策略跟单，即可立即开启体验。当前OKX策略新年交易赛正在火热进行中。",
           "link": "https://panewslab.com/zh/articledetails/qw89syy7.html",
           "publishedOn": "2024-01-25T02:15:57.000Z",
-          "wordCount": 335,
+          "wordCount": 339,
           "title": "OKX策略跟单现已支持合约马丁格尔策略",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 1月25日消息，据官方公告，币安预计将于东八区时间2024年01月26日00:00暂停Sei（SEI）网络的代币充值、提现业务，以支持其网络升级。此举旨在为用户提供优质体验。项目方将于区块高度 53,894,102（预计东八区时间2024年01月26日01:00）进行网络升级。",
           "link": "https://panewslab.com/zh/articledetails/7sg7ubia.html",
           "publishedOn": "2024-01-25T02:12:36.000Z",
-          "wordCount": 338,
+          "wordCount": 341,
           "title": "币安将支持 Sei（SEI）网络升级，届时暂停该网络代币充提业务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
