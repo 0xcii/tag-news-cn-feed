@@ -6,12 +6,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=101858",
+          "author": "Gao",
+          "description": "本周加密货币市场仍处于BTC抛售的恐慌中，BTC现货价格一度下跌至38000美元，贪婪恐慌指示曾一度下降至48，加上以太坊现货ETF的延期，大饼二饼处于一蹶不振的状态。我们就来回顾一下本周的期权大单情况。",
+          "link": "https://www.web3sj.com/transaction/101858/",
+          "publishedOn": "2024-01-25T10:18:41.000Z",
+          "wordCount": 890,
+          "title": "一周期权交易大单回顾(1.19~1.25)",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704430124560.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=101841",
           "author": "Gao",
           "description": "比特币 ETF 的游戏暂时告一段落了，市场的目光随即转向以太坊现货 ETF，当前市场分析今年 5 月份获批的概率约为 50%。经历过此前比特币 ETF 预热时的币价强势上涨，提前布局以太坊，不容错过下一次主流代币的大涨机会。",
           "link": "https://www.web3sj.com/news/101841/",
           "publishedOn": "2024-01-25T08:33:46.000Z",
-          "wordCount": 1299,
+          "wordCount": 1306,
           "title": "坎昆升级，利好了哪些项目？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706171613746.png"
         },
@@ -21,7 +31,7 @@
           "description": "单片链由负责共识、数据可用性和执行的节点运行，并且也充当结算层。这样的生态系统在设计上是统一和可互操作的，但存在根本的局限性。随着可扩展性的提高，验证器的硬件需求也会增加，从而导致中心化程度更高、安全性降低。即使是最高效的区块链最终也会导致状态膨胀 ( 存储太多数据 ) 和状态争用。这意味着链的性能会随着时间的推移而下降。此外，单片链不能为生态参与者提供有意义的可定制性或主权。",
           "link": "https://www.web3sj.com/news/101836/",
           "publishedOn": "2024-01-25T08:18:18.000Z",
-          "wordCount": 983,
+          "wordCount": 972,
           "title": "了解Polygon将推出的区块链聚合层 AggLayer：有何优势和用例？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706170616398.png"
         },
@@ -31,7 +41,7 @@
           "description": "NFT 游戏开发标志着一个范式转变，通过引入去中心化和以玩家为中心的生态系统，挑战传统的游戏模式。与传统游戏不同，传统游戏中的物品和角色通常由游戏开发者拥有和控制，NFT 游戏赋予玩家对其数字资产的真正所有权。",
           "link": "https://www.web3sj.com/gamefinews/101832/",
           "publishedOn": "2024-01-25T07:33:38.000Z",
-          "wordCount": 917,
+          "wordCount": 923,
           "title": "2024年，全链游戏将如何彻底改变Web3游戏？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706167994675.png"
         },
@@ -41,7 +51,7 @@
           "description": "每一次资产的创新，都会带来一波变革和浪潮，代表着着巨大的机会。17 年的 ICO 时代，智能合约带来新的代币分发方式；20 年的时候，Defi 是通过贡献 TVL 获得代币；21 年的 NFT，它本质上也是一种新资产，出现了大批百倍千倍的暴富神话；而就在 23 年，铭文这种新的资产又上演了一次指数型的增长。",
           "link": "https://www.web3sj.com/project/101824/",
           "publishedOn": "2024-01-25T06:28:29.000Z",
-          "wordCount": 1131,
+          "wordCount": 1123,
           "title": "Smart Layer带来的可编程Token，能否成为下一代新主流资产？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706164072813.png"
         },
@@ -51,7 +61,7 @@
           "description": "在 2023 年，Vitalik Buterin 频繁发声，表达对账户抽象的智能合约钱包的支持。比如，在 2023 年 6 月的一场推特 AMA 上，Vitalik 在回答如何看待基于 MPC（EOA）的钱包与智能合约钱包这一问题时，他认为基于 MPC 的 EOA 钱包存在根本缺陷，因为它们无法撤销密钥，智能合约钱包是唯一的选择。",
           "link": "https://www.web3sj.com/news/101819/",
           "publishedOn": "2024-01-25T06:24:03.000Z",
-          "wordCount": 1126,
+          "wordCount": 1120,
           "title": "账户抽象为何受Vitalik看重？Web3应用之门如何开启",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706163820907.png"
         },
@@ -61,7 +71,7 @@
           "description": "Berachain 目前已发展成一个高性能的 EVM 兼容区块链，基于流动性证明（Proof-of-Liquidity, PoL）共识机制构建，目标是通过强化 Berachain 验证者和项目生态系统之间的协同效应，来调整网络激励机制。此外，Berachain 的技术基于 Polaris，这是一个高性能的模块化框架，用于在 CometBFT 共识引擎之上构建兼容 EVM 的链。",
           "link": "https://www.web3sj.com/news/101814/",
           "publishedOn": "2024-01-25T06:17:04.000Z",
-          "wordCount": 1125,
+          "wordCount": 1119,
           "title": "详解Berachain：模块化EVM框架 + 流动性证明机制，会成为流动性困境破局者吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/5-1706160940243.webp"
         },
@@ -71,7 +81,7 @@
           "description": "初步观察下来，Merlin chain，LumiBit 等项目大都采取了类似的方案。相当于接受了比特币主网存在的验证、计算缺陷，仅把比特币作为资产结算层，然后外接扩展性性能共识已经很成熟的 EVM 链，通过把 BTC 以及其衍生资产转移到 EVM 环境下进行有效流通和管理，进而实现二层扩展。",
           "link": "https://www.web3sj.com/news/101808/",
           "publishedOn": "2024-01-25T03:45:49.000Z",
-          "wordCount": 991,
+          "wordCount": 1003,
           "title": "EVM链扩展比特币，用户体验摩擦如何解决？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706154320797.png"
         },
@@ -81,7 +91,7 @@
           "description": "我们要介绍的项目是一个比较特别的新项目DOP，全称Data Ownership Protocol。该项目可以通过零知识证明的方案，让用户可选择性地加密自己在链上的交易与资产。这种方案可应用于去中心化的身份认证，来维护其KYC数据的所有权。目前此项目已经获得Binance实验室的支持，未来有上线Binance的预期，值得参与测试。",
           "link": "https://www.web3sj.com/show/101787/",
           "publishedOn": "2024-01-24T13:56:47.000Z",
-          "wordCount": 777,
+          "wordCount": 781,
           "title": "Web3空投教程：热门0撸项目DOP，一季度明牌空投",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706103076175.jpg"
         },
@@ -91,19 +101,9 @@
           "description": "ARK Invest昨日再次买入约1450万美元的ARK 21Shares比特币现货ETF。ABCDE研究员：若CRV跌至0.36美元，Curve创始人将面临清算。福克斯记者：消息人士称美SEC目前对以太坊现货ETF的立场是「强行拒绝」，但存在「内部阻力」。",
           "link": "https://www.web3sj.com/news/101784/",
           "publishedOn": "2024-01-24T12:25:24.000Z",
-          "wordCount": 955,
+          "wordCount": 949,
           "title": "Web3世界日报（2024-1.24）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012412222955.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=101747",
-          "author": "Gao",
-          "description": "Covalent 是一个处于快速发展赛道的头部项目，各项业务数据处在快速上升阶段，营收数据放量中。就收入水平来说，Covalent 拥有比目前赛道的头部项目 The Graph 大几倍的收入，似乎取得了更好的 PMF（Product Market Fit），然而由于目前其收入流尚未上链，市场投资者对此可能存在较大的认知差。",
-          "link": "https://www.web3sj.com/project/101747/",
-          "publishedOn": "2024-01-24T08:30:00.000Z",
-          "wordCount": 1946,
-          "title": "解读Covalent Network：去中心化基础设施赛道的遗珠",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706084971940.png"
         }
       ]
     },
@@ -238,7 +238,7 @@
           "description": "PANews 1月25日消息，据信报报道，香港财经事务及库务局副局长陈浩濂在亚洲金融论坛致词时表示，在促进虚拟资产及第三代互联网生态系统的发展方面，当局是主动参与者，并计划修例，将虚拟资产场外交易所的买卖活动纳入监管范围。陈浩濂指出，政府会确保监管体系管理和减低虚拟资产实际和潜在风险，同时为产业发展提供透明及可预测的监管环境。 Web3建立在区块链技术的坚实基础上，是快速发展的领域；香港一向强调金融市场的韧性，对于虚拟资产也一样。\n他称，有来自逾20个经济体、超过170间与第三代互联网相关公司在香港成立实体；而本港虚拟资产交易平台营运者发牌制度在去年6月实施，有两家虚拟资产交易平台营运者已获发牌照，证监会亦正审视由逾10间平台营运者提交的申请。去年12月发布的稳定币监管制度建议咨询公众，金管局将推出沙盒安排，以促进监管机关与业界交换意见。\n此外，香港证监会中介机构部临时主管蔡钟辉在亚洲金融论坛上表示，传统金融产品出现代币化趋势，关注拥有权会否掉失，以及相关科技是否可靠。",
           "link": "https://panewslab.com/zh/articledetails/o622exa7.html",
           "publishedOn": "2024-01-25T07:55:20.000Z",
-          "wordCount": 347,
+          "wordCount": 345,
           "title": "陈浩濂：香港政府会降低虚拟资产实际和潜在风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "PANews 1月25日消息，BitMEX Research在X平台表示，美国所有比特币现货ETF第9个交易日资金净流出1.58亿美元。\n根据其分享的数据，第9个交易日，灰度的GBTC资金净流出约4.293亿美元，贝莱德的IBIT资金净流入为6620亿美元，富达的FBTC资金净流入为1.257亿美元，Bitwise的BITBC资金净流入为1910万美元，Ark 21Shares的ARKB资金净流入为2490万美元，景顺的BTCO资金净流入为1990万美元，Franklin的EZBC资金净流入为120万美元，Valkyrie的BRRR资金净流入为910万美元，VanEck的HODL资金净流入为450万美元，WisdomTree的BTCW资金净流入为40万美元。",
           "link": "https://panewslab.com/zh/articledetails/25hxvpa4.html",
           "publishedOn": "2024-01-25T06:48:02.000Z",
-          "wordCount": 336,
+          "wordCount": 335,
           "title": "美国所有比特币现货ETF第9个交易日资金净流出1.58亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
