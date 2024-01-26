@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-26T08:15:51.370Z</id>
+    <id>urn:2024-01-26T09:13:47.874Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-26T08:15:51.370Z</updated>
+    <updated>2024-01-26T09:13:47.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OKX将下线矿池产品及相关服务]]></title>
+        <id>https://panewslab.com/zh/articledetails/xxqju0lv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/xxqju0lv.html"/>
+        <updated>2024-01-26T08:52:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月26日消息，据OKX官方公告，根据业务调整，OKX将于近期下线矿池产品及相关服务。具体下线时间安排如下：1月26日，OKX 将关闭新用户注册功能。现有用户可继续享用该产品及服务至2月25日。2月26日，OKX将关闭所有矿池产品及相关服务。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curve：crvUSD借贷清算AMM算法Llamalend预计将于未来几天发布]]></title>
+        <id>https://panewslab.com/zh/articledetails/889lwx4q.html</id>
+        <link href="https://panewslab.com/zh/articledetails/889lwx4q.html"/>
+        <updated>2024-01-26T08:49:25.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月26日消息，Curve Finance近日在X平台上表示，基于crvUSD的单向借贷市场已准备就绪，正在等待合约审计，双向借贷市场（抵押资产可被借出）也已基本就绪，合约编写工作已完成，正在进行测试。今日Curve Finance基于上述公告发布更新称，距离Llamalend发布还有几天，一旦审核员同意将部署早于UI的产品测试。
+根据Curve创始人Michael Egorov发布的Github文档，Curve稳定币crvUSD使用LLAMMa进行软清算(AMM.vy中的代码)。但是，此AMM允许用于任何代币对。此代码创建借贷市场，以任何代币借入crvUSD，或在隔离模式下以crvUSD借入任何代币。首先，将创建“简单”的非再抵押市场，然后是跨市场，所提供的抵押品被借出用作借款流动性，同时赚取一些年利率。
+根据此前的介绍，crvUSD将依赖于一种称为借贷清算AMM (LLAMMA)的新颖算法，该算法将致力于不断清算和出售存放的抵押品，以更好地管理潜在的抵押风险。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1186枚BTC转入富达比特币现货ETF地址，价值4758万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/ej2xtb8r.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ej2xtb8r.html"/>
+        <updated>2024-01-26T08:48:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月26日消息，据链上分析师@ai_9684xtpa监测，10分钟前，1186枚BTC从Coinbase等178个地址转入富达（Fidelity）FBTC Bitcoin ETF地址，价值4758万美元。
+目前富达共持有4.25万枚BTC，价值17.1亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币生态Summer将至：10 大进展「半路摘桃」以太坊生态？]]></title>
+        <id>https://www.web3sj.com/?p=101965</id>
+        <link href="https://www.web3sj.com/news/101965/"/>
+        <updated>2024-01-26T08:25:24.000Z</updated>
+        <summary type="html"><![CDATA[站在 2024 年初回顾 2023 年一整年，比特币生态从今年初「现货 ETF 通过」的历史性一刻，到 BRC20 协议、比特币 NFT、Layer2、生态基建等，确实是百花齐放，大放异彩。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anchorage Digital近16天从Coinbase和Wintermute收到25587枚MKR，约合5300万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/2agi605r.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2agi605r.html"/>
+        <updated>2024-01-26T08:21:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月26日消息，据链上分析师余烬监测，在过去的9个小时里，Anchorage Digital从Coinbase提出了12487枚MKR(约合2588万美元)。
+Anchorage Digital该地址在1/10以来的16天里，共计从Coinbase和Wintermute收到25587枚MKR(约合5300万美元)。
+成为MKR持币第五的个人/机构地址。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starknet计划于1月30日在Goerli测试网进行压力测试]]></title>
+        <id>https://panewslab.com/zh/articledetails/4j9a4k97.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4j9a4k97.html"/>
+        <updated>2024-01-26T07:55:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月26日消息，Starknet社区成员@Starknet_OG在X平台上发文表示，Starknet计划将于北京时间1月30日17:00在Goerli测试网上进行压力测试，测试将持续数小时，届时可能造成Starknet Goerli测试网拥堵，导致测试网上交易执行前的长时间等待。其他网络，包括主网和Sepolia测试网将不受影响。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊核心开发者最新会议摘要：Deneb升级信息、Electra升级先考虑的EIP]]></title>
         <id>https://www.web3sj.com/?p=101962</id>
@@ -26,24 +91,33 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GSR Markets已将4000万枚ALT全部充值进交易所，价值1270万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/00pcpgis.html</id>
+        <link href="https://panewslab.com/zh/articledetails/00pcpgis.html"/>
+        <updated>2024-01-26T07:33:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月26日消息，据链上分析师@ai_9684xtpa监测，过去20小时，ALT做市商GSR Markets已将4,000万枚代币全部充值进交易所，价值1,270万美元，其中，1,450万枚转至币安，949万枚转至Gate、1,000万枚转至Kucoin、600万枚转至MEXC。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reserve成立两家新公司并推出1000万美元资助计划、RSR排放限制计划以及新的RSR激励措施]]></title>
+        <id>https://panewslab.com/zh/articledetails/qm8225lc.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qm8225lc.html"/>
+        <updated>2024-01-26T07:18:16.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月26日消息，据官方博客，去中心化稳定币协议Reserve宣布成立两家新公司ABC Labs和Confusion Capital，ABC Labs将在首席执行官Thomas Mattimore的领导下专注于协议开发和推广。Confusion Capital将管理生态系统内的资金和特殊项目，由联合创始人Nevin Freeman领导。此外，Reserve宣布推出1000万美元资助计划，Confusion Capital正在向个人、非法人团队、DAO和公司开放1000万美元的资助申请，以进一步构建去中心化Reserve生态系统。1000万美元的赠款预算没有时间限制，一旦确定合法受益人就会立即发放。第一轮申请今天开始，并将于2月9日截止。
+Reserve还宣布将进一步限制RSR排放，对于RSR循环供应的变化速度，很快就会有额外的限制。Confusion Capital管理的Slow Wallet持有约49.4亿RSR，约占总供应量的一半，并且任何提款都有4周的延迟。Slow Wallet正在被Slower Wallet所取代，顾名思义，Slower Wallet与Slow Wallet类似，但对它将RSR释放到流通供应中的速度有更多的限制。Reserve还计划分配200亿RSR作为激励措施，即将200亿RSR分配给一份排放合约，该合约将在多年内顺利释放，由RSR持有者指导他们随着时间的推移选择的任何激励计划和引导成本，类似于由veCRV持有者投票并指导激励Curve LP的CRV排放。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[9.4万张BTC期权和93.2万张ETH期权即将到期]]></title>
         <id>https://panewslab.com/zh/articledetails/q8alxeot.html</id>
         <link href="https://panewslab.com/zh/articledetails/q8alxeot.html"/>
         <updated>2024-01-26T06:48:07.000Z</updated>
         <summary type="html"><![CDATA[PANews 1月26日消息，Greeks.live宏观研究员Adam在X平台发文表示，9.4万张BTC期权即将于本日到期，Put Call Ratio为0.51，最大痛点41000美元，名义价值37.5亿美元。93.2万张ETH期权即将于本日到期，Put Call Ratio为0.31，最大痛点2300美元，名义价值20.7亿美元。
 Adam称，加密货币本周较为弱势，比特币现货ETF的通过，直接造成近期灰度的抛压击溃了市场。但是灰度的砸盘效果越来越弱，波动持续下降，主要期限IV持续下跌，部分末日期限IV跌破40%。同时本周PCR大幅下降，说明本周主动看跌力量减少，大部分交易者以卖出看涨为主，主动看涨的极少。今天将会有3成以上的期权到期交割，届时释放的保证金可能再次压低IV，比特币的期权期限结构回归了。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZetaChain公布ZETA代币经济学：初始供应总量21亿枚，其中10%分配给用户增长池]]></title>
-        <id>https://panewslab.com/zh/articledetails/dz8734ft.html</id>
-        <link href="https://panewslab.com/zh/articledetails/dz8734ft.html"/>
-        <updated>2024-01-26T06:23:08.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，据官方博客，Layer 1区块链运营商ZetaChain公布ZETA代币经济学，ZETA被设计为ZetaChain网络的实用代币和原生货币。除了可以跨连接链转移到ZetaChain的全链代币之外，ZETA还用于保护权益证明网络、zEVM交易费用、跨链交易Gas费用和治理。ZETA代币初始供应总量21亿枚，其中10%分配给用户增长池（将用于空投、钱包活动和其他以社区为中心的奖励等计划），12%分配给生态系统成长基金，10%分配给验证者激励，5.5%分配给验证者激励，24%分配给协议金库，22.5%分配给核心贡献者，16%分配给买家和顾问。
-在ZetaLabs测试网上赚取ZETA积分的用户已经被分配了31,500,000枚ZETA代币，相关奖励将在主网第一天启动时在ZetaHub上发放。ZetaChain还将在主网上推出各种钱包合作活动和社交任务，作为其主网推广的一部分。
-此前去年8月，ZetaChain完成2700万美元股权融资，Blockchain.com、Sky9 Capital等参投。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -64,7 +138,7 @@ Adam称，加密货币本周较为弱势，比特币现货ETF的通过，直接�
         <id>https://panewslab.com/zh/articledetails/h8nsrkjo.html</id>
         <link href="https://panewslab.com/zh/articledetails/h8nsrkjo.html"/>
         <updated>2024-01-26T05:55:35.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，据纽约时报报道，美国联邦贸易委员会（FTC）已对微软、亚马逊和谷歌对OpenAI和Anthropic的数十亿美元投资展开了调查。报道称，这些交易使大公司得以与较小的竞争对手建立深厚的联系，同时避开大多数政府审查。FTC表示，将要求微软、OpenAI、亚马逊、谷歌和Anthropic描述它们对合作伙伴的影响力，以及它们是如何共同做出决策的。它还表示，将要求它们提供任何可能揭示这些交易及其对竞争的潜在影响的内部文件。FTC主席Lina Khan称，他们的研究将揭示，占主导地位的公司追求的投资和合作关系，是否有扭曲创新、破坏公平竞争的风险。据悉这些公司有45天时间回 FTC。]]></summary>
+        <summary type="html"><![CDATA[PANews 1月26日消息，据纽约时报报道，美国联邦贸易委员会（FTC）已对微软、亚马逊和谷歌对OpenAI和Anthropic的数十亿美元投资展开了调查。报道称，这些交易使大公司得以与较小的竞争对手建立深厚的联系，同时避开大多数政府审查。FTC表示，将要求微软、OpenAI、亚马逊、谷歌和Anthropic描述它们对合作伙伴的影响力，以及它们是如何共同做出决策的。它还表示，将要求它们提供任何可能揭示这些交易及其对竞争的潜在影响的内部文件。FTC主席Lina Khan称，他们的研究将揭示，占主导地位的公司追求的投资和合作关系，是否有扭曲创新、破坏公平竞争的风险。据悉这些公司有45天时间回复FTC。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -227,16 +301,6 @@ Flipside将“获得的”用户定义为在特定区块链上进行至少两笔
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[币安完成Xai（XAI）主网集成，并开放充值业务]]></title>
-        <id>https://panewslab.com/zh/articledetails/naa6pzfc.html</id>
-        <link href="https://panewslab.com/zh/articledetails/naa6pzfc.html"/>
-        <updated>2024-01-26T03:36:24.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，据官方公告，币安现已完成Xai（XAI）主网集成，并开放充值业务。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：摩根大通认为GBTC获利回吐已基本结束，比特币下行压力有限]]></title>
         <id>https://www.hellobtc.com/news/202401/21614.html</id>
         <link href="https://www.hellobtc.com/news/202401/21614.html"/>
@@ -271,60 +335,6 @@ Flipside将“获得的”用户定义为在特定区块链上进行至少两笔
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[某鲸鱼/机构1小时前将1088万枚LDO全部转入Coinbase，约合3320万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/g9nzksra.html</id>
-        <link href="https://panewslab.com/zh/articledetails/g9nzksra.html"/>
-        <updated>2024-01-26T03:13:46.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，据链上分析师余烬监测，这个8/18市场闪崩下跌开始至12/25通过Amber Group以2.05美元均价从币安买入囤积1088万枚LDO的鲸鱼/机构，在1小时前将这1088万枚LDO(约合3320万美元) 全部转入了Coinbase。
-按照LDO现在3.05美元的价格，预计该鲸鱼/机构将实现1088万美元(+49%) 的收益。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高位买入SAVM的一地址因套牢及被盗累计损失275万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/xhcbpjlv.html</id>
-        <link href="https://panewslab.com/zh/articledetails/xhcbpjlv.html"/>
-        <updated>2024-01-26T02:54:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，据链上分析师@ai_9684xtpa监测，先套牢再被盗，高位买入SAVM的一地址累计损失275万美元。该地址曾在01.23以均价10.17美元买入19.3万枚SAVM，随后两天浮亏87万美金。
-昨晚23:30又因ERC-20 Permit授权签名导致被网络钓鱼，黑客转走所有的SAVM并清算了他价值60万美元的aEthWETH，总计亏损275万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12个新钱包在Celsius存款后不久从Coinbase提取29.68万枚ETH，约合6.6亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/cksp7mn9.html</id>
-        <link href="https://panewslab.com/zh/articledetails/cksp7mn9.html"/>
-        <updated>2024-01-26T02:43:49.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，据Spot On Chain监测，Celsius向CEX存入ETH后不久，就有12个新钱包从Coinbase提取了296,835枚ETH (约合6.6亿美元)，约占总存入金额的97.2%，疑似为场外交易。
-此前今日早些时候消息，Celsius钱包将459561枚ETH转至多个CEX，约合10.2亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灰度GBTC 1月25日比特币持仓较前一日减少约10871枚]]></title>
-        <id>https://panewslab.com/zh/articledetails/oaraslim.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oaraslim.html"/>
-        <updated>2024-01-26T02:38:45.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，据灰度官方发布的每日持仓更新显示，截至2024年1月25日，其持有的比特币数量为512,644.8764枚，较1月24日的523,516.43枚减少 10,871.5536枚BTC。此外，截至1月25日GBTC的资产管理规模（非公认会计原则）约为203.85亿美元，流通股进一步下降减少至约57.359万份，每股持有BTC约为0.00089375枚。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puffer Finance将于下周开放代币质押，用户可获积分奖励]]></title>
-        <id>https://panewslab.com/zh/articledetails/8ulflfp2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8ulflfp2.html"/>
-        <updated>2024-01-26T02:26:48.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月26日消息，LSD协议Puffer Finance在平台宣布，将于下周开放质押ETH、stETH、USDT和USDC，用户可赚取Puffer及EigenLayer积分奖励。
-此前去年8月消息，Puffer Finance完成550万美元种子轮融资，Lemniscap和Lightspeed Faction领投。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-1.25）]]></title>
         <id>https://www.web3sj.com/?p=101866</id>
         <link href="https://www.web3sj.com/news/101866/"/>
@@ -340,16 +350,6 @@ Flipside将“获得的”用户定义为在特定区块链上进行至少两笔
         <link href="https://www.web3sj.com/transaction/101858/"/>
         <updated>2024-01-25T10:18:41.000Z</updated>
         <summary type="html"><![CDATA[本周加密货币市场仍处于BTC抛售的恐慌中，BTC现货价格一度下跌至38000美元，贪婪恐慌指示曾一度下降至48，加上以太坊现货ETF的延期，大饼二饼处于一蹶不振的状态。我们就来回顾一下本周的期权大单情况。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[坎昆升级，利好了哪些项目？]]></title>
-        <id>https://www.web3sj.com/?p=101841</id>
-        <link href="https://www.web3sj.com/news/101841/"/>
-        <updated>2024-01-25T08:33:46.000Z</updated>
-        <summary type="html"><![CDATA[比特币 ETF 的游戏暂时告一段落了，市场的目光随即转向以太坊现货 ETF，当前市场分析今年 5 月份获批的概率约为 50%。经历过此前比特币 ETF 预热时的币价强势上涨，提前布局以太坊，不容错过下一次主流代币的大涨机会。]]></summary>
         <author>
             <name>Gao</name>
         </author>
