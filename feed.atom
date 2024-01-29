@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-29T03:13:35.389Z</id>
+    <id>urn:2024-01-29T04:15:17.714Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-29T03:13:35.389Z</updated>
+    <updated>2024-01-29T04:15:17.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[模块化之后：ZetaChain如何实现全链互操作性？]]></title>
+        <id>https://www.web3sj.com/?p=102164</id>
+        <link href="https://www.web3sj.com/project/102164/"/>
+        <updated>2024-01-29T03:48:10.000Z</updated>
+        <summary type="html"><![CDATA[无论合纵还是连横，都是一种「结盟」策略，模块化是把闲散的区块链开发能力以 Modular 组件的形式组合以对抗 Monolithic 的综合大公链。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer使以太坊的共识超载？关于EigenLayer的4点概述]]></title>
+        <id>https://www.web3sj.com/?p=102161</id>
+        <link href="https://www.web3sj.com/news/102161/"/>
+        <updated>2024-01-29T03:40:50.000Z</updated>
+        <summary type="html"><![CDATA[目前，质押在以太坊的 ETH 有将近三千万枚，将近 650 亿美金，这些 ETH 构成了整个以太坊生态的信任和安全底座。保守假设已质押的以太坊里面仅有 10% 拿出来做 Restaking，可以为中间件项目提供 65 亿美金的加密经济安全。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一览Rollup市场现状：正统性、主权性、模块化和Restaking争雄]]></title>
+        <id>https://www.web3sj.com/?p=102153</id>
+        <link href="https://www.web3sj.com/news/102153/"/>
+        <updated>2024-01-29T03:36:39.000Z</updated>
+        <summary type="html"><![CDATA[正统性 Rollup 主动追求作为以太坊执行层的外包商之一，追求 EVM 等效性甚至以太坊等效性，Optimism、Linea、Scroll 属于此类。Arbitrum 架构与它们相同，但在追求以太坊等效性没有上面三家激进，而更以开发者为中心。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分析师预测嘉信理财最终将推出自己的比特币ETF]]></title>
         <id>https://panewslab.com/zh/articledetails/7p6zze17.html</id>
@@ -224,16 +254,6 @@ Tornado Cash（TORN）将于2月1日上午11点30分解锁9.17万枚代币，价
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-1.27）]]></title>
-        <id>https://www.web3sj.com/?p=102064</id>
-        <link href="https://www.web3sj.com/news/102064/"/>
-        <updated>2024-01-27T10:59:33.000Z</updated>
-        <summary type="html"><![CDATA[灰度、贝莱德、富达、ARK 21Shares和Bitwise比特币ETF在前11个交易日中总交易额已超236亿美元.dYdX基金会：将链上协议软件升级到v3.0的投票已获通过。OpenSea CEO：对潜在的被收购持开放态度.]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：贝莱德现货比特币ETF资产管理规模突破20亿美元]]></title>
         <id>https://www.hellobtc.com/news/202401/21615.html</id>
         <link href="https://www.hellobtc.com/news/202401/21615.html"/>
@@ -263,26 +283,6 @@ Tornado Cash（TORN）将于2月1日上午11点30分解锁9.17万枚代币，价
 12.Zhu Su：OX正在进行新融资。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一览为EigenLayer带来zkML借贷风控方案的Ion Protocol]]></title>
-        <id>https://www.web3sj.com/?p=102038</id>
-        <link href="https://www.web3sj.com/definews/102038/"/>
-        <updated>2024-01-26T14:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Restake 赛道如火如荼，swell/renzo/etherfi/Eigenpie 纷纷上马，大有重来 LSD summer 的架势，而与此同时，去年 LSD summer 的 Lybra/AGI 等早已奄奄一息。Restake Summer 是否会重演 LSD summer 的故事：新瓶装旧酒，把矿币换成 Points，大户挖提卖，项目方、散户、交易所、投资机构纷纷为大户打工？]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点2024年最有「钱途」的 8 个节点及布局指南]]></title>
-        <id>https://www.web3sj.com/?p=102007</id>
-        <link href="https://www.web3sj.com/news/102007/"/>
-        <updated>2024-01-26T14:20:38.000Z</updated>
-        <summary type="html"><![CDATA[加密研究员 AlΞxWacy 收集了 8 个「最有钱途」的节点，这些节点确实有机会慷慨地奖励用户，目前关注的人并不多。值得注意的是，维护一个节点的费用每月为 10 至 30 美元。这笔钱用于启动 VPS 服务器。如果您的资源有限，建议选择您最感兴趣的项目。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
