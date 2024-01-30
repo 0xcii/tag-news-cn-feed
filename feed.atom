@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-30T03:13:09.285Z</id>
+    <id>urn:2024-01-30T04:14:36.625Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-30T03:13:09.285Z</updated>
+    <updated>2024-01-30T04:14:36.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MIIX Capital投研周报：震荡后的回暖信号]]></title>
+        <id>https://www.web3sj.com/?p=102283</id>
+        <link href="https://www.web3sj.com/news/102283/"/>
+        <updated>2024-01-30T03:30:42.000Z</updated>
+        <summary type="html"><![CDATA[从数据看，灰度的抛压似乎正逐日放缓，这被业界解读为缓解市场下跌趋势的一个积极信号，摩根大通更是在最新报告中表示，GBTC 的获利了结浪潮已基本结束，在寒冬季节里为市场注入了一丝暖意。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[速读LayerZero V2核心协议设计：有何亮点和变化？]]></title>
+        <id>https://www.web3sj.com/?p=102279</id>
+        <link href="https://www.web3sj.com/project/102279/"/>
+        <updated>2024-01-30T03:22:45.000Z</updated>
+        <summary type="html"><![CDATA[根据 LayerZero V2 白皮书，V2 中有四个组件，包括一个可实现抗审查的不可变端点，一个链上验证模块的仅附加集合（MessageLib 注册表），一组用于跨链验证数据的去中心化验证网络（DVN）无需许可集合，以及无需许可的执行器（独立于跨链消息验证 context 执行功能逻辑）。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[并行不止EVM，高性能L1（Sui）大战以太坊L2 ？]]></title>
+        <id>https://www.web3sj.com/?p=102270</id>
+        <link href="https://www.web3sj.com/news/102270/"/>
+        <updated>2024-01-30T03:19:47.000Z</updated>
+        <summary type="html"><![CDATA[在当下和未来，一个基本事实是以太坊的地位已经很难撼动，模块化的概念将会泛化，如果 Vitalik 对 Celestia 的打压不成功，那么市场会择优选择，组合和模块化不止发生于同一体系内，市场原则会促使项目方自由组装各要件，比如各公链、L2 和比特币间组合可用性，BTC L2 的火热即是明证。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币直面灰度「抛压」？GBTC外流规模及时间线分析]]></title>
+        <id>https://www.web3sj.com/?p=102265</id>
+        <link href="https://www.web3sj.com/transaction/102265/"/>
+        <updated>2024-01-30T03:14:33.000Z</updated>
+        <summary type="html"><![CDATA[2024 年 1 月 25 日——自比特币现货 ETF 通过以来，市场陷入了抛售漩涡，始作俑者并非他人，正是曾经全球最大的比特币资金池之一——持有超过 630,000 枚比特币的灰度比特币信托基金 (GBTC)。从封闭式基金转换为现货 ETF 后，GBTC 的 BTC 存储（占 2100 万比特币总量的 3%）在 ETF 交易的前 9 天中流失了超过 40 亿美元，而同一时间，其他 ETF 参与者资金流入约 52 亿美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[即将到来的以太坊升级：被低估的ETH价格影响因素？]]></title>
         <id>https://www.web3sj.com/?p=102261</id>
@@ -33,6 +73,38 @@
         <summary type="html"><![CDATA[PANews 1月30日消息，据链上分析师@ai_9684xtpa监测，7小时前，Alameda Research资产清算地址向Cumberland DRW转移1000枚ETH，价值230万美元，大概率为委托其卖出。]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：谷歌更新广告政策，允许投放比特币和加密信托产品广告]]></title>
+        <id>https://www.hellobtc.com/news/202401/21617.html</id>
+        <link href="https://www.hellobtc.com/news/202401/21617.html"/>
+        <updated>2024-01-30T02:37:00.000Z</updated>
+        <summary type="html"><![CDATA[1.谷歌更新广告政策，允许投放比特币和加密信托产品广告。
+
+2.数据：自去年10月20日以来，Tether Treasury在以太坊和波场网络上总共铸造130亿枚USDT。
+
+3.OKX Web3钱包将集成ARC-20、SRC-20、Runes及DRC-20铭文代币标准。
+
+4.以太坊质押协议Swell Network推出再质押代币rswETH。
+
+5.DWF Labs 8小时前将50万枚API3充值进Binance。
+
+6.受马斯克推文提及Telepathy影响，同名铭文TEL3涨至0.188美元。
+
+7.OKX将上线Jupiter (JUP)。
+
+8.数据：除GBTC外的其他9支ETF在11个交易日内购买近14万枚BTC。
+
+9.韩国AI芯片创企Rebellions宣布获1.24亿美元融资 韩国电信领投。
+
+10.Immutable与Polygon合作推出zkEVM主网，未来几周将向公众开放。
+
+11.数据：逾6.87亿枚PYTH处于质押状态，质押者数量已超12.5万。
+
+12.Binance Labs：未参与领投SkyArk Chronicles的1500万美元融资轮，因SkyArk团队宣传前并未与之沟通因此作了单方面澄清。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -283,46 +355,6 @@ Immutable zkEVM于2023年3月宣布，是以太坊扩展领域的两家领导者
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Synthetix 2024年展望：有哪些重要进展？]]></title>
-        <id>https://www.web3sj.com/?p=102167</id>
-        <link href="https://www.web3sj.com/news/102167/"/>
-        <updated>2024-01-29T05:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Synthetix 还是 Optimism 成功的主要推动力之一，因为它占据了该链的大部分 TVL（Total Value Locked，总锁定价值）、活动和收入。Synthetix 在年底时的 TVL 为 3.16 亿美元，在 Optimism Mainnet 上的所有 TVL 中约占 34%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模块化之后：ZetaChain如何实现全链互操作性？]]></title>
-        <id>https://www.web3sj.com/?p=102164</id>
-        <link href="https://www.web3sj.com/project/102164/"/>
-        <updated>2024-01-29T03:48:10.000Z</updated>
-        <summary type="html"><![CDATA[无论合纵还是连横，都是一种「结盟」策略，模块化是把闲散的区块链开发能力以 Modular 组件的形式组合以对抗 Monolithic 的综合大公链。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EigenLayer使以太坊的共识超载？关于EigenLayer的4点概述]]></title>
-        <id>https://www.web3sj.com/?p=102161</id>
-        <link href="https://www.web3sj.com/news/102161/"/>
-        <updated>2024-01-29T03:40:50.000Z</updated>
-        <summary type="html"><![CDATA[目前，质押在以太坊的 ETH 有将近三千万枚，将近 650 亿美金，这些 ETH 构成了整个以太坊生态的信任和安全底座。保守假设已质押的以太坊里面仅有 10% 拿出来做 Restaking，可以为中间件项目提供 65 亿美金的加密经济安全。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一览Rollup市场现状：正统性、主权性、模块化和Restaking争雄]]></title>
-        <id>https://www.web3sj.com/?p=102153</id>
-        <link href="https://www.web3sj.com/news/102153/"/>
-        <updated>2024-01-29T03:36:39.000Z</updated>
-        <summary type="html"><![CDATA[正统性 Rollup 主动追求作为以太坊执行层的外包商之一，追求 EVM 等效性甚至以太坊等效性，Optimism、Linea、Scroll 属于此类。Arbitrum 架构与它们相同，但在追求以太坊等效性没有上面三家激进，而更以开发者为中心。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Jupiter 24小时交易量逾3.8亿美元，超Uniswap V3排名第一]]></title>
         <id>https://www.hellobtc.com/news/202401/21616.html</id>
         <link href="https://www.hellobtc.com/news/202401/21616.html"/>
@@ -526,16 +558,6 @@ Immutable zkEVM于2023年3月宣布，是以太坊扩展领域的两家领导者
         <link href="https://www.hellobtc.com/news/202401/21608.html"/>
         <updated>2024-01-23T01:52:00.000Z</updated>
         <summary type="html"><![CDATA[市场数据显示，贝莱德现货比特币ETF首次出现负溢价，约为-0.30%。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊Nethermind软件漏洞引发“客户端多元化”风险讨论]]></title>
-        <id>https://www.hellobtc.com/news/202401/21607.html</id>
-        <link href="https://www.hellobtc.com/news/202401/21607.html"/>
-        <updated>2024-01-23T01:52:00.000Z</updated>
-        <summary type="html"><![CDATA[早些时候以太坊Nethermind客户端软件中的一个错误导致该链的大部分关键运营商瘫痪，Nethermind的开发人员在数小时内发布了修复问题的补丁。但该漏洞引发了“客户端多元化”风险讨论，一些专家认为，以太坊的大部分验证器都依赖同一个软件来支持其操作，这可能是一个很大的风险。 加密教育家Cygaar在X帖子中指出，“以太坊的客户多样性非常糟糕，Geth中的一个关键问题可能会导致运行Geth的验证器销毁数百万ETH”。 匿名加密货币投资者DCinvestor表示：“目前我不能忽视单一客户质押设置（依赖Geth）的风险，如果出现问题，我可能会损失很大一部分存款”。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
