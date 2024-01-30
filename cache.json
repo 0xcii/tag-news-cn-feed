@@ -6,12 +6,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=102294",
+          "author": "Gao",
+          "description": "EigenLayer 是一个代币经济安全租借市场平台，主要服务包括 LSD 资产的 restake、节点运营质押和 AVS 服务。EigenLayer 是一个基于以太坊的 Restake 协议，为整个未来基于以太坊的加密经济提供以太坊级别的安全性。",
+          "link": "https://www.web3sj.com/project/102294/",
+          "publishedOn": "2024-01-30T05:36:13.000Z",
+          "wordCount": 1711,
+          "title": "全方位解读EigenLayer：一个让以太坊又爱又恨的新贵项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706592957815.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=102283",
           "author": "Gao",
           "description": "从数据看，灰度的抛压似乎正逐日放缓，这被业界解读为缓解市场下跌趋势的一个积极信号，摩根大通更是在最新报告中表示，GBTC 的获利了结浪潮已基本结束，在寒冬季节里为市场注入了一丝暖意。",
           "link": "https://www.web3sj.com/news/102283/",
           "publishedOn": "2024-01-30T03:30:42.000Z",
-          "wordCount": 1241,
+          "wordCount": 1267,
           "title": "MIIX Capital投研周报：震荡后的回暖信号",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706585428308.png"
         },
@@ -21,7 +31,7 @@
           "description": "根据 LayerZero V2 白皮书，V2 中有四个组件，包括一个可实现抗审查的不可变端点，一个链上验证模块的仅附加集合（MessageLib 注册表），一组用于跨链验证数据的去中心化验证网络（DVN）无需许可集合，以及无需许可的执行器（独立于跨链消息验证 context 执行功能逻辑）。",
           "link": "https://www.web3sj.com/project/102279/",
           "publishedOn": "2024-01-30T03:22:45.000Z",
-          "wordCount": 914,
+          "wordCount": 936,
           "title": "速读LayerZero V2核心协议设计：有何亮点和变化？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584952056.png"
         },
@@ -31,7 +41,7 @@
           "description": "在当下和未来，一个基本事实是以太坊的地位已经很难撼动，模块化的概念将会泛化，如果 Vitalik 对 Celestia 的打压不成功，那么市场会择优选择，组合和模块化不止发生于同一体系内，市场原则会促使项目方自由组装各要件，比如各公链、L2 和比特币间组合可用性，BTC L2 的火热即是明证。",
           "link": "https://www.web3sj.com/news/102270/",
           "publishedOn": "2024-01-30T03:19:47.000Z",
-          "wordCount": 1252,
+          "wordCount": 1254,
           "title": "并行不止EVM，高性能L1（Sui）大战以太坊L2 ？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584773939.png"
         },
@@ -41,7 +51,7 @@
           "description": "2024 年 1 月 25 日——自比特币现货 ETF 通过以来，市场陷入了抛售漩涡，始作俑者并非他人，正是曾经全球最大的比特币资金池之一——持有超过 630,000 枚比特币的灰度比特币信托基金 (GBTC)。从封闭式基金转换为现货 ETF 后，GBTC 的 BTC 存储（占 2100 万比特币总量的 3%）在 ETF 交易的前 9 天中流失了超过 40 亿美元，而同一时间，其他 ETF 参与者资金流入约 52 亿美元。",
           "link": "https://www.web3sj.com/transaction/102265/",
           "publishedOn": "2024-01-30T03:14:33.000Z",
-          "wordCount": 1249,
+          "wordCount": 1260,
           "title": "比特币直面灰度「抛压」？GBTC外流规模及时间线分析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584404954.png"
         },
@@ -51,7 +61,7 @@
           "description": "以太坊改进提案是一份研究文档，建议对以太坊区块链进行新功能或更改，作为社区共识的指南。Cesare Fracassi 等人的研究论文重点关注以太坊的决策过程，并发现了一个有趣的趋势。在核心 EIP 最终讨论之前的时期，以太坊的价格上涨了约 18%，相对于比特币上涨了 12%。",
           "link": "https://www.web3sj.com/news/102261/",
           "publishedOn": "2024-01-30T03:09:17.000Z",
-          "wordCount": 952,
+          "wordCount": 971,
           "title": "即将到来的以太坊升级：被低估的ETH价格影响因素？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584057689.png"
         },
@@ -61,7 +71,7 @@
           "description": "嘉实基金已向香港证监会提交比特币现货ETF申请，最快将于春节后上架。Aave社区发起添加PAXG抵押品和借款支持的提案。Manta Pacific TVL突破17亿美元，生态项目已部署超1000个智能合约。",
           "link": "https://www.web3sj.com/news/102242/",
           "publishedOn": "2024-01-29T11:32:39.000Z",
-          "wordCount": 884,
+          "wordCount": 866,
           "title": "Web3世界日报（2024-1.29）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012911312074.jpg"
         },
@@ -71,7 +81,7 @@
           "description": "隔离了风险也隔离了流动性，这是否会有问题呢？其实也不染， 支持 LST 的 LRT 相比 支持 Native Staking 的 LRT，优势之一便在于可以充分利用底层 LST 的流动性。mrETH/rETH， mmETH/mETH 这些单独的 pair 其实更有利于和 LST 项目方合作激励流动性。",
           "link": "https://www.web3sj.com/definews/102221/",
           "publishedOn": "2024-01-29T06:32:20.000Z",
-          "wordCount": 1139,
+          "wordCount": 1169,
           "title": "Eigenpie的空投玩法、机制、前景和收益预期",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/5-1706505970714.jpg"
         },
@@ -91,19 +101,9 @@
           "description": "BTC 主导地位增强。自贝莱德首次申请现货 ETF 以来，BTC 市值已增长 70%，山寨币总市值也随之增长 70%。然而 ETH 相对势头更为疲弱，表现比更广泛的山寨币领域低 15%。BTC 在过去几年中更加占据主导地位。自 22 年底 FTX 交易所崩盘以来，BTC 的市值主导地位从 40% 上升至 50%。",
           "link": "https://www.web3sj.com/news/102182/",
           "publishedOn": "2024-01-29T06:04:39.000Z",
-          "wordCount": 1343,
+          "wordCount": 1328,
           "title": "Foresight Ventures：BTC L2点燃市场，Jupiter引领meme热潮",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/17065082631.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102176",
-          "author": "Gao",
-          "description": "如果比特币真的成为比美元更优越的价值储存手段，一些人担心美国政府会禁止这种加密货币。桥水基金创始人达里奥（Ray Dalio）在 2021 年接受雅虎财经安迪 - 塞尔沃（Andy Serwer）采访时表示：「取缔比特币的可能性很大。」早在三十年代的战争年代，达里奥观察到，政府担心从美元逃向黄金，因此「他们取缔了（私人所有权）黄金......并且他们还建立了外汇管制，因为他们（不）希望钱流向其他地方。」",
-          "link": "https://www.web3sj.com/news/102176/",
-          "publishedOn": "2024-01-29T05:40:10.000Z",
-          "wordCount": 947,
-          "title": "福布斯：比特币ETF将颠覆美元规则",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/17065067961.png"
         }
       ]
     },
@@ -198,7 +198,7 @@
           "description": "PANews 1月30日消息，去中心化拍卖平台Bounce Brand在X平台宣布，比特币质押链BounceBit现已上线，由币安托管(Ceffu)、Mainnet Digital、Breyer Capital、OKX Ventures支持。用户现在可以质押WBTC、BTCB、AUCTION、MUBI、DAII并赚取积分。",
           "link": "https://panewslab.com/zh/articledetails/jtfz1cf6.html",
           "publishedOn": "2024-01-30T02:47:57.000Z",
-          "wordCount": 360,
+          "wordCount": 358,
           "title": "Bounce Brand：比特币质押链BounceBit现已上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "美SEC对涉案17亿美元的加密庞氏骗局HyperFund提起诉讼\n据The Block报道，美国证券交易委员会（SEC）宣布，该机构以欺诈和未注册证券发行的罪名起诉了涉案17亿美元的HyperFund骗局。SEC周一在一份新闻稿中表示，从2020年6月到2022年初，Xue Lee和Brenda Chunga(分别被称为Sam Lee和Bitcoin Beautee)从全球投资者那里筹集了超过17亿美元。Lee和Chunga将HyperFund宣传为投资有利可图的加密挖矿业务的机会，但实际上，这是一个没有真正收入来源的庞氏骗局，2022年，该项目破裂，投资者损失惨重。SEC的新闻稿写道：“这一案例再次说明，加密货币领域的违规行为如何助长了一些计划，在这些计划中，发起人利用了轻松赚钱的承诺，而没有提供联邦证券法注册条款所要求的详细投资者保护披露信息。”\nSEC向马里兰州联邦地方法院提起诉讼，指控Lee和Chunga违反了联邦证券法的反欺诈和注册规定。美国马里兰州联邦检察官办公室也对Lee和Chunga提出了刑事指控。Chunga已经承认串谋进行证券欺诈和电信欺诈，他还同意就指控达成和解，并支付赔偿金和民事罚款，具体金额由法院决定。\n谷歌已允许加密信托在美国投放广告\n据Bitcoin Magazine报道，谷歌已更新其广告政策，允许加密货币信托产品在美国投放广告。贝莱德、VanEck和富兰克林邓普顿等比特币现货ETF的广告已经在谷歌搜索页面中出现。\n景顺已将其现货比特币ETF的费用从0.39%下调至0.25%\n据CoinDesk报道，景顺(Invesco)和银河资产管理公司(Galaxy Asset Management)周一宣布，已将其现货比特币ETF的费用从0.39%下调至0.25%。此举使Invesco Galaxy Bitcoin ETF (BTCO) 的交易手续费与大…",
           "link": "https://panewslab.com/zh/articledetails/xyo04n20.html",
           "publishedOn": "2024-01-30T02:02:45.000Z",
-          "wordCount": 667,
+          "wordCount": 661,
           "title": "昨夜今晨重要资讯（1月29日-1月30日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/01/30/images/B0jd2YmZks.png"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 1月30日消息，据CoinDesk报道，由比特币Ordinals项目Taproot Wizards推出的“Quantum Cats”铭文系列在首次销售中受到了技术问题的影响而被迫推迟。此次销售计划出售约3000只数字猫，旨在致敬比特币改进提案OP_CAT，于北京时间1月30日凌晨1点开始两个小时的“白名单”窗口，但由于遇到的问题，这不得不推迟一天。\nTaproot Wizards在X上发帖称： “今天对猫的需求量令人难以置信，而我们的服务器根本无法处理试图铸造的人数。”该系列的售价为0.1 BTC（约4,300美元），这意味着如果每只猫都被出售，则可以筹集300枚BTC（约合1290万美元）。根据该推文，大约30%的“Quantum Cats”是在周一铸造的。这相当于近1,000枚，价值约100 BTC（约合430万美元）。",
           "link": "https://panewslab.com/zh/articledetails/bsjspa2f.html",
           "publishedOn": "2024-01-30T01:51:12.000Z",
-          "wordCount": 374,
+          "wordCount": 370,
           "title": "Taproot Wizards推出的“Quantum Cats”铭文系列在首次销售中因技术问题被迫推迟",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 1月30日消息，据The Block报道，美国证券交易委员会（SEC）宣布，该机构以欺诈和未注册证券发行的罪名起诉了涉案17亿美元的HyperFund骗局。SEC周一在一份新闻稿中表示，从2020年6月到2022年初，Xue Lee和Brenda Chunga(分别被称为Sam Lee和Bitcoin Beautee)从全球投资者那里筹集了超过17亿美元。Lee和Chunga将HyperFund宣传为投资有利可图的加密挖矿业务的机会，但实际上，这是一个没有真正收入来源的庞氏骗局，2022年，该项目破裂，投资者损失惨重。SEC的新闻稿写道：“这一案例再次说明，加密货币领域的违规行为如何助长了一些计划，在这些计划中，发起人利用了轻松赚钱的承诺，而没有提供联邦证券法注册条款所要求的详细投资者保护披露信息。”\nSEC向马里兰州联邦地方法院提起诉讼，指控Lee和Chunga违反了联邦证券法的反欺诈和注册规定。美国马里兰州联邦检察官办公室也对Lee和Chunga提出了刑事指控。Chunga已经承认串谋进行证券欺诈和电信欺诈，他还同意就指控达成和解，并支付赔偿金和民事罚款，具体金额由法院决定。",
           "link": "https://panewslab.com/zh/articledetails/jsvop08t.html",
           "publishedOn": "2024-01-30T01:33:43.000Z",
-          "wordCount": 350,
+          "wordCount": 352,
           "title": "美SEC对涉案17亿美元的加密庞氏骗局HyperFund提起诉讼",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +298,7 @@
           "description": "PANews 1月30日消息，Ark Invest Daily数据显示，Cathie Wood旗下ARK Invest于1月29日购入58,468股ARK 21 Shares比特币现货ETF，按昨日收盘价约合252.58万美元。当日该公司未出售ProShares比特币期货ETF。",
           "link": "https://panewslab.com/zh/articledetails/z1l9ta1g.html",
           "publishedOn": "2024-01-30T01:16:58.000Z",
-          "wordCount": 377,
+          "wordCount": 373,
           "title": "ARK Invest昨日再次买入价值约250万美元ARK 21Shares比特币现货ETF",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
