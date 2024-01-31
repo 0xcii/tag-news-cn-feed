@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T04:15:05.191Z</id>
+    <id>urn:2024-01-31T05:12:58.639Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-31T04:15:05.191Z</updated>
+    <updated>2024-01-31T05:12:58.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CyberConnect近期热议，Web3社交开始发力]]></title>
+        <id>https://www.web3sj.com/?p=102365</id>
+        <link href="https://www.web3sj.com/news/102365/"/>
+        <updated>2024-01-31T05:03:51.000Z</updated>
+        <summary type="html"><![CDATA[CyberConnect 属于 Web3 社交协议赛道龙头，近期颇受热议。Cyber Connect 于 2021 年创立，团队成员多数来自硅谷，目前已有 50 多个项目正在使用 Cyber Connect 构建具有社交功能的应用，例如社区拥有的社交网络、市场、内容管理、发现工具等。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik新作：Crypto+AI应用前景和挑战]]></title>
         <id>https://www.web3sj.com/?p=102353</id>
@@ -33,6 +43,27 @@
         <summary type="html"><![CDATA[Jupiter 是一家巨头，提供五种产品：交换、永续合约、定投、桥接和限价订单。平均每周超过 35 亿美元的交换量，Jupiter 已经开始超越 Uniswap。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灰度GBTC 1月30日比特币持仓较前一日减少约4461枚]]></title>
+        <id>https://panewslab.com/zh/articledetails/r02pphe1.html</id>
+        <link href="https://panewslab.com/zh/articledetails/r02pphe1.html"/>
+        <updated>2024-01-31T03:45:08.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据灰度官方发布的每日持仓更新显示，截至2024年1月30日，其持有的比特币数量为492,112.4534，较昨日的496,573.8166减少4461.3632枚。此外，截至1月30日GBTC的资产管理规模（非公认会计原则）约为214.36亿美元，流通股降至5.50亿份，每股持有BTC约为0.00089356枚。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KyberSwap攻击者再次将400枚cbETH转至新地址并向Uniswap添加流动性]]></title>
+        <id>https://panewslab.com/zh/articledetails/oyu8kh6s.html</id>
+        <link href="https://panewslab.com/zh/articledetails/oyu8kh6s.html"/>
+        <updated>2024-01-31T03:39:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据派盾监测，KyberSwap攻击者地址再次将400枚cbETH（约合98.89万美元）转至0x9760...65B3地址并向Uniswap添加流动性。
+今日早些时候消息，KyberSwap攻击者转移约115枚cbETH至新地址并向Uniswap添加流动性。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -71,6 +102,110 @@
 15.Conflux公布其比特币Layer2路线图：短期目标是建立比特币质押机制并集成Ordinals等协议。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SkyArk Chronicles：正空投7000枚TENJIN NFT，所有NFT交易将于明日开放]]></title>
+        <id>https://panewslab.com/zh/articledetails/y7jhjyta.html</id>
+        <link href="https://panewslab.com/zh/articledetails/y7jhjyta.html"/>
+        <updated>2024-01-31T03:32:52.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，3A游戏平台SkyArk Chronicles在X平台表示，正在向所有公开和白名单获奖者空投7,000枚TENJIN NFT。此外，所有1000枚Spellbook NFT均已空投，所有NFT的交易将于2月1日上午9点开放。
+此前消息，SkyArk Chronicles本月上旬宣布完成由Binance Labs领投的1500万美元融资，随后Binance Labs澄清其未参与该项目的最新一轮融资。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synthetix已通过升级简化质押的SNX和sUSD债务迁移到Optimism的方式]]></title>
+        <id>https://panewslab.com/zh/articledetails/7j0f3qd8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7j0f3qd8.html"/>
+        <updated>2024-01-31T03:25:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据官方博客，去中心化衍生品协议Synthetix实施了SIP-237提案，这是一项升级，允许用户将质押的SNX和sUSD债务迁移到Optimism，而无需销毁现有的sUSD债务，从而简化质押体验。在SIP 237实施之前，将质押的SNX从以太坊迁移到Optimism需要用户销毁现有债务，这一过程阻碍了已经将sUSD部署到对冲和流动性挖矿策略的用户。然而，通过SIP 237引入的新系统，质押者可以将其债务头寸和托管SNX从以太坊迁移到Optimism。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWF Labs为2023年交易数量最多的加密风险投资者，Coinbase Ventures排名第二]]></title>
+        <id>https://panewslab.com/zh/articledetails/nrgi09lw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nrgi09lw.html"/>
+        <updated>2024-01-31T03:14:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据彭博社报道，根据PitchBook发布的“2023年交易数量最多的加密风险投资者”排行榜，排名前11位的投资机构分别为：DWF Labs（42笔交易）、Coinbase Ventures（34笔交易）、Cogitent Ventures（31笔交易）、Shima Capital（31笔交易）、WAGMI Ventures（30笔交易）、Blizzard Avalanche Fund（29笔交易）、Big Brain Holdings（29笔交易）、Andreessen Horowitz（28笔交易）、NGC Ventures（28笔交易）、MH Ventures（26笔交易）、Robot Ventures（26笔交易）。
+报道分析称，尽管比特币价格不断上涨，数字资产的牛市也有回归的迹象，但在风险资本枯竭的情况下，加密投资领域的一些大公司还是抑制了交易。加密企业风险投资部门是主要交易所和交易公司的一部分，在支持区块链初创公司方面，其他投资者正在超越它们。HashKey Exchange的风险投资部门HashKey Capital和Jump Trading Group的子公司Jump Crypto去年未能进入前10名加密风险投资交易商，此前它们曾在2022年上榜。在加密交易所中，币安的投资部门Binance Labs自2020年以来一直没有进入顶级投资者之列，只有Coinbase Global Inc.旗下的Coinbase Ventures在2023年上榜。尽管如此，Coinbase Ventures的交易数量还是比去年下降了75%，仅为34轮融资。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安杠杆新增DCR资产及更多FDUSD、USDT交易对]]></title>
+        <id>https://panewslab.com/zh/articledetails/l8xkrw1i.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l8xkrw1i.html"/>
+        <updated>2024-01-31T03:13:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据官方公告，币安杠杆新增Decred（DCR）逐仓杠杆可借资产，以及更多全仓、逐仓杠杆交易对。
+全仓杠杆新增交易对：CVP/USDT、FORTH/USDT、PROM/USDT；
+逐仓杠杆新增交易对：BCH/FDUSD、DCR/USDT、DYDX/FDUSD、ETC/FDUSD、FIL/FDUSD、FTM/FDUSD、INJ/FDUSD、LTC/FDUSD、SUI/FDUSD。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某巨鲸于前两日从币安提出6507.8枚ETH，约合1500万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/7wm2do9o.html</id>
+        <link href="https://panewslab.com/zh/articledetails/7wm2do9o.html"/>
+        <updated>2024-01-31T02:56:45.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据链上分析师余烬监测，一鲸鱼在1/28将1500万枚USDT转入币安，然后在1/29、1/30两天里从币安提出6507.8枚ETH(约合1500万美元)。
+买入价格为2,305美元。该鲸鱼目前持有15,073枚ETH(约合3519万美元)。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zkSync开发商Matter Labs提议Treasure Chain使用ZK Stack作为Layer2]]></title>
+        <id>https://panewslab.com/zh/articledetails/4o342stv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4o342stv.html"/>
+        <updated>2024-01-31T02:35:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，zkSync开发商Matter Labs的BD负责人Omar在TreasureDAO社区提议，希望Treasure Chain使用ZK Stack作为Layer2，将使TreasureDAO有能力通过游戏或应用特定的Layer3链进行垂直扩展。此外，Matter Labs表示正在与Lambda Class团队合作，使ZK Stack链可以拥有自己原生Gas代币，Treasure Chain可以使用MAGIC或其他任何ERC-20作为Gas代币。
+此前昨日消息，Optimism联创提议Treasure基于OP Stack构建Treasure Chain；Treasure Chain简化版白皮书将推迟一周发布。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KyberSwap攻击者转移约115枚cbETH至新地址并向Uniswap添加流动性]]></title>
+        <id>https://panewslab.com/zh/articledetails/4dy597yg.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4dy597yg.html"/>
+        <updated>2024-01-31T02:31:26.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据派盾监测，KyberSwap攻击者地址转移约115枚cbETH（价值约28.7万美元）到 0x9760…65B3 地址并添加流动性至Uniswap。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨夜今晨重要资讯（1月30日-1月31日）]]></title>
+        <id>https://panewslab.com/zh/articledetails/us1xi913.html</id>
+        <link href="https://panewslab.com/zh/articledetails/us1xi913.html"/>
+        <updated>2024-01-31T02:18:50.000Z</updated>
+        <summary type="html"><![CDATA[德国警方在打击网络盗版行动中暂时扣押5万枚比特币，价值约21亿美元
+据CoinDesk报道，德国警方在一次打击网络盗版的行动中，暂时扣押了价值约21亿美元的比特币（50,000 BTC）。这起案件与2013年运营的一家侵犯版权法的盗版网站有关。涉案的比特币由其中一名嫌疑人自愿移交给联邦刑警局（BKA）。目前，警方正在调查此后的商业洗钱行为，但尚未对这两名男子提出正式指控。这是德国警方迄今为止最大规模的加密货币扣押行动​​。
+一女子因欺诈并涉嫌通过比特币洗钱50亿英镑在伦敦接受审判
+据路透社和金融时报报道，一名女子在伦敦接受审判，被指控涉嫌在2014年至2017年期间从超过128,000名中国投资者那里骗取50亿英镑（约合63亿美元），并将欺诈案中窃取的资金转换为比特币进行洗钱。42岁的Wen Jian被指控协助隐藏近13万中国投资者被欺诈的资金来源。Wen Jian否认三项洗钱指控，检方指控她帮助将盗来的资金转换为比特币，再将其换成现金、财产、珠宝或其他高价值物品。审判预计将持续至3月初。
+美国SEC计划撤销针对DEBT Box的诉讼
+FOX Business记者Eleanor Terrett推特发文称，美国SEC已向法院提交了一份简报，计划撤销对DEBT Box的诉讼案件。SEC于去年7月份起诉DEBT Box及其18名负责人参与加密资产证券欺诈计划，并在12月底承认其做出了不准确的陈述，并因该误导性陈述面临制裁。Eleanor Terrett对此表示，撤销诉讼理论上为SEC未来再次对Debt Box提起新诉讼敞开了大门。如果法官接受撤诉提议，并不一定意味着SEC可以免除法律责任，法官可以选择对SEC误导法庭实施金钱制裁。
+以太坊Dencun升级已在Sepolia测试网上线
+据CoinDesk报道，以太坊Dencun升级已在Sepolia测试网上线。Sepolia是Den…]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celsius五小时前向Coinbase Prime地址充值39,968枚ETH，价值9491万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/58417hwx.html</id>
+        <link href="https://panewslab.com/zh/articledetails/58417hwx.html"/>
+        <updated>2024-01-31T02:04:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 1月31日消息，据链上分析师@ai_9684xtpa监测，五小时前，Celsius向Coinbase Prime地址充值了39,968枚ETH，价值9491万美元；目前还持有50,219枚ETH。
+此外，三小时前Celsius的bc1qy开头地址还收到来自FalconX的25266枚BTC，价值11亿美元，接收地址被 Arkham打上了“Lending”标签。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -171,76 +306,6 @@ Jupiter未来计划为新用户提供更多JUP代币空投，但目前还没有�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[灰度GBTC在第13个交易日的资金流出约2.2亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/khy1alma.html</id>
-        <link href="https://panewslab.com/zh/articledetails/khy1alma.html"/>
-        <updated>2024-01-31T00:06:57.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月31日消息，据BitMEX Research数据监测，灰度GBTC在第13个交易日的资金流出约2.2亿美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊Dencun升级已在Sepolia测试网上线]]></title>
-        <id>https://panewslab.com/zh/articledetails/zg20c2wp.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zg20c2wp.html"/>
-        <updated>2024-01-31T00:00:43.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月31日消息，据CoinDesk报道，以太坊Dencun升级已在Sepolia测试网上线。Sepolia是Dencun升级三个测试网中的第二个。本月早些时候，Dencun已在Goerli测试网上线。2月7日，Dencun将在其最终的以太坊测试网Holesky上线。之后开发人员将在主区块链上签署激活Dencun的日期。测试网复制主区块链，并允许开发人员在低风险环境中对协议或其去中心化应用程序进行任何更改。据此前消息，如果一切按计划进行，Dencun将定于2月底或3月初上线以太坊的主网。Dencun最初预计将在2023年最后一个季度进行，这将是自去年3月Shapella升级以来以太坊最大的升级。此次升级包括多项更改，最显着的是引入EIP-4844的临时数据blob（也称为“protodanksharding”），这将有助于降低L2交易费用。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform Labs：申请破产将使其能够对美国SEC的欺诈诉讼进行上诉]]></title>
-        <id>https://panewslab.com/zh/articledetails/sgy80mgu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/sgy80mgu.html"/>
-        <updated>2024-01-30T23:56:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月31日消息，据路透社报道，Terraform Labs周二在一份文件中表示，其最近提交的破产申请将使其能够就美国SEC提起的证券欺诈案进行“生死攸关”的上诉。该案将于3月份就SEC剩余的欺诈指控进行审判。此类上诉通常要求公司在进行上诉前缴纳总判决金额110%的保证金。但Terraform Labs表示，根据破产法第11章，该公司可以在不缴纳保证金的情况下提起上诉。Terraform运营主管Chris Amani在一份法庭文件中写道：“罚款判决的确切金额尚不清楚，但很可能超过债务人的资产。如果没有第11章的保护，债务人可能不得不在审判后进行清算”。Terraform Labs计划在上诉中辩称，SEC对该公司没有权力，因为其加密货币代币不是“证券”。根据该公司提交给法庭的文件，Terraform Labs拥有价值约2800万美元的比特币、700万美元的其他各种加密货币以及价值约8700万美元的Luna。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellar：主网升级至Protocol 20的投票将推迟至2月20日]]></title>
-        <id>https://panewslab.com/zh/articledetails/8ln23wpa.html</id>
-        <link href="https://panewslab.com/zh/articledetails/8ln23wpa.html"/>
-        <updated>2024-01-30T23:46:36.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月31日消息，Stellar在推特发文称，为了回应生态系统关于一个非关键错误的反馈，Stellar网络验证者推迟了将Stellar主网升级到Protocol 20的投票。随着投票推迟，重点将转向准备新的投票，Stellar Core新版本将于2月2日部署。具体时间表为：2月2日：Core 20.2候选版本；2月6日：Core 20.2稳定版发布和测试网重置+升级；2月20日：Target Protocol 20升级投票和第0阶段。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国SEC计划撤销针对DEBT Box的诉讼]]></title>
-        <id>https://panewslab.com/zh/articledetails/148pljqe.html</id>
-        <link href="https://panewslab.com/zh/articledetails/148pljqe.html"/>
-        <updated>2024-01-30T23:37:07.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月31日消息，FOX Business记者Eleanor Terrett推特发文称，美国SEC已向法院提交了一份简报，计划撤销对DEBT Box的诉讼案件。SEC于去年7月份起诉DEBT Box及其18名负责人参与加密资产证券欺诈计划，并在12月底承认其做出了不准确的陈述，并因该误导性陈述面临制裁。Eleanor Terrett对此表示，撤销诉讼理论上为SEC未来再次对Debt Box提起新诉讼敞开了大门。如果法官接受撤诉提议，并不一定意味着SEC可以免除法律责任，法官可以选择对SEC误导法庭实施金钱制裁。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global X已正式提交比特币ETF撤回申请]]></title>
-        <id>https://panewslab.com/zh/articledetails/mpgtw41z.html</id>
-        <link href="https://panewslab.com/zh/articledetails/mpgtw41z.html"/>
-        <updated>2024-01-30T23:13:17.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月31日消息，彭博分析师James Seyffart发布的文件显示，Global X已正式提交撤回其比特币ETF（Global X Bitcoin Trust）的申请。分析师表示：“这并不奇怪，因为我们最早从12月初就知道他们退出了竞赛，但现在是正式退出”。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付公司Block已于本周开始裁员，或影响近1000人]]></title>
-        <id>https://panewslab.com/zh/articledetails/on45bumi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/on45bumi.html"/>
-        <updated>2024-01-30T23:10:01.000Z</updated>
-        <summary type="html"><![CDATA[PANews 1月31日消息，据CoinDesk报道，推特创始人Jack Dorsey旗下的支付公司Block证实已于本周开始裁员，这是该公司此前披露的到10%裁员计划的一部分。Block在去年的财报电话会议上表示，将在2024年底前把员工人数从2023年第三季度的13000人减少至12,000人的“绝对上限”，裁员规模近1000人。Dorsey在一份备忘录中表示，裁员是由于公司的增长远远超过了业务和收入的增长。该公司没有确认本周裁员的具体规模，但确认其总体目标没有改变，将通过绩效调整和其他重组措施逐步实现目标。 Block旗下公司包括Square Inc.、Cash App和Tidal，以及专注于比特币的部门TBD。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-1.30）]]></title>
         <id>https://www.web3sj.com/?p=102323</id>
         <link href="https://www.web3sj.com/news/102323/"/>
@@ -296,16 +361,6 @@ Jupiter未来计划为新用户提供更多JUP代币空投，但目前还没有�
         <link href="https://www.web3sj.com/news/102270/"/>
         <updated>2024-01-30T03:19:47.000Z</updated>
         <summary type="html"><![CDATA[在当下和未来，一个基本事实是以太坊的地位已经很难撼动，模块化的概念将会泛化，如果 Vitalik 对 Celestia 的打压不成功，那么市场会择优选择，组合和模块化不止发生于同一体系内，市场原则会促使项目方自由组装各要件，比如各公链、L2 和比特币间组合可用性，BTC L2 的火热即是明证。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币直面灰度「抛压」？GBTC外流规模及时间线分析]]></title>
-        <id>https://www.web3sj.com/?p=102265</id>
-        <link href="https://www.web3sj.com/transaction/102265/"/>
-        <updated>2024-01-30T03:14:33.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 1 月 25 日——自比特币现货 ETF 通过以来，市场陷入了抛售漩涡，始作俑者并非他人，正是曾经全球最大的比特币资金池之一——持有超过 630,000 枚比特币的灰度比特币信托基金 (GBTC)。从封闭式基金转换为现货 ETF 后，GBTC 的 BTC 存储（占 2100 万比特币总量的 3%）在 ETF 交易的前 9 天中流失了超过 40 亿美元，而同一时间，其他 ETF 参与者资金流入约 52 亿美元。]]></summary>
         <author>
             <name>Gao</name>
         </author>
