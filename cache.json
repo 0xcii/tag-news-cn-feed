@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=102424",
+          "author": "Gao",
+          "description": "Dencun升级已在Sepolia测试网上上线。K33 Research：现货BTC ETF交易的13天内，积累超15万枚BTC。渣打银行高管：SEC或于5月23日批准以太坊现货ETF。",
+          "link": "https://www.web3sj.com/news/102424/",
+          "publishedOn": "2024-01-31T11:45:29.000Z",
+          "wordCount": 912,
+          "title": "Web3世界日报（2024-1.31）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024013111423036.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=102417",
+          "author": "Gao",
+          "description": "Farcaster 本身是一个协议，就像电子邮件的底层协议 SMTP 一样。Farcaster 负责存储用户的 handle、casts（Farcaster 版本的推文）和其他交互行为（例如点赞和转发）等内容。对于终端用户来说，需要构建一个类似 Warpcast 的客户端访问该社交网络。",
+          "link": "https://www.web3sj.com/project/102417/",
+          "publishedOn": "2024-01-31T11:33:52.000Z",
+          "wordCount": 1098,
+          "title": "被硅谷创业教父Paul Graham点赞的Farcaster新功能Frames是什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706700819485.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=102409",
           "author": "Gao",
           "description": "据悉，在 Treasure 生态中，较有看点的是一款名为灯塔的游戏，目前是 TreasureDAO 的钻石合作伙伴，未来灯塔游戏极大概率可以 TreasureDAO 顶格 600w 个 MAGIC Token 的收割机（harvester）资助，该收割机资助用于支付玩家打金收益。",
           "link": "https://www.web3sj.com/project/102409/",
           "publishedOn": "2024-01-31T11:05:55.000Z",
-          "wordCount": 1535,
+          "wordCount": 1497,
           "title": "明牌「抢项目」，L2蛋糕还没做大就开始内卷了",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706699144326.png"
         },
@@ -21,7 +41,7 @@
           "description": "由DefiLlama平台数据观察，总锁仓量（TVL）已经达到576亿美金，七日上涨6%，近七天成交量达到210亿美金。",
           "link": "https://www.web3sj.com/definews/102401/",
           "publishedOn": "2024-01-31T10:51:25.000Z",
-          "wordCount": 884,
+          "wordCount": 886,
           "title": "Web3世界DeFi周报（1月24日~1月31日）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706698174212.png"
         },
@@ -31,7 +51,7 @@
           "description": "这其实只是去中心化 Sequencer 技术层的压力测试，以确保正式上线后能够稳步运作，比如，多 Sequencer 轮换机制，单 Sequencer 作恶惩罚设计，Sequencer MEV 如何问题，Sequencer 矿工生态参与问题等等。",
           "link": "https://www.web3sj.com/news/102387/",
           "publishedOn": "2024-01-31T05:38:47.000Z",
-          "wordCount": 1090,
+          "wordCount": 1072,
           "title": "Metis VS Espresso：哪种去中心化排序器代表未来？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706679516150.png"
         },
@@ -41,7 +61,7 @@
           "description": "Berachain 团队核心成员在币圈经历了牛熊后，深感流动性对 DeFi 的意义之大，相比去中心化、可扩展、安全和互操作性等，流动性是这一切的基础。该团队决定自己设计一条 L1 公链取材于曾经成功的 Defi 项目取其优势并避开其缺点，因此这就诞生了 Berachain。随后，Berachain 团队设计出了流动性证明（Proof of Liquity）的验证机制，也间接为 Berachain 的三代币模型奠定了基础。",
           "link": "https://www.web3sj.com/project/102384/",
           "publishedOn": "2024-01-31T05:33:25.000Z",
-          "wordCount": 1371,
+          "wordCount": 1380,
           "title": "一文解读Berachain的机制设计",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706679190986.png"
         },
@@ -51,7 +71,7 @@
           "description": "Puffer 是基于 EigenLayer 构建的无许可原生流动性再质押协议（permissionless native Liquid Restaking Protocol，简称 nLRP），Puffer 旨在服务三个主要群体：节点运营者（NoOps）、再质押运营者（ReOps）和 ETH 质押者，其中 ReOps 主要负责 AVSs 运行，可能同时也是 NoOps。协议中的节点利用 Puffer 的抗罚没（anti-slashing）技术能以低至 1 ETH 的成本参与节点验证和运行 AVSs，并且能同时累积 PoS 奖励和通过 AVSs 运行获得再质押奖励。",
           "link": "https://www.web3sj.com/project/102377/",
           "publishedOn": "2024-01-31T05:24:02.000Z",
-          "wordCount": 1157,
+          "wordCount": 1128,
           "title": "质押开放在即，细数币安投资新项目Puffer三大杀手锏",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706678631159.png"
         },
@@ -61,7 +81,7 @@
           "description": "根据 L2 BEAT 数据，TVL 前十的 Layer 2 如下表所示（其中 Blast TVL 结合 Dune 数据）。同时，也综合 Coingecko 将已发币的 Layer 2 代币流通市值和全稀释市值（FDV）一并汇总。",
           "link": "https://www.web3sj.com/news/102368/",
           "publishedOn": "2024-01-31T05:13:41.000Z",
-          "wordCount": 977,
+          "wordCount": 988,
           "title": "五大数据维度分析：大热的新L2们是否被高估",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706678010984.png"
         },
@@ -71,7 +91,7 @@
           "description": "CyberConnect 属于 Web3 社交协议赛道龙头，近期颇受热议。Cyber Connect 于 2021 年创立，团队成员多数来自硅谷，目前已有 50 多个项目正在使用 Cyber Connect 构建具有社交功能的应用，例如社区拥有的社交网络、市场、内容管理、发现工具等。",
           "link": "https://www.web3sj.com/news/102365/",
           "publishedOn": "2024-01-31T05:03:51.000Z",
-          "wordCount": 1133,
+          "wordCount": 1156,
           "title": "CyberConnect近期热议，Web3社交开始发力",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706677418462.png"
         },
@@ -81,29 +101,9 @@
           "description": "从表面上看，很容易找到两者的协同作用：加密货币的去中心化可以平衡 AI 中心化，AI 是不透明的，而加密货币可以带来透明度；AI 需要数据，而区块链擅长存储和追踪数据。但多年来，当大家要求我深入探讨具体应用时，我的回答一直比较令人失望：「是的，确实有一些值得探讨的应用，但并不多」。",
           "link": "https://www.web3sj.com/news/102353/",
           "publishedOn": "2024-01-31T04:03:44.000Z",
-          "wordCount": 1256,
+          "wordCount": 1249,
           "title": "Vitalik新作：Crypto+AI应用前景和挑战",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706673799513.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102348",
-          "author": "Gao",
-          "description": "LSDFi 是指建立在流动性质押衍生品 (LSD) 之上的 DeFi 协议，LSD 市场与 DeFi 产品和协议相结合，为使用者提供更小众化的质押和借贷机会，提供额外的获利机会，可供 LSD 持有者充分发挥资产效用，实现收益最大化。LSDFi 的发展受到质押比例增长、基础设施升级、再质押机制、机构资金流入和收益竞争等多个因素的推动。",
-          "link": "https://www.web3sj.com/definews/102348/",
-          "publishedOn": "2024-01-31T03:58:48.000Z",
-          "wordCount": 2209,
-          "title": "Penta Lab：深度解析收益代币化龙头Pendle Finance",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706673493845.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102337",
-          "author": "Gao",
-          "description": "Jupiter 是一家巨头，提供五种产品：交换、永续合约、定投、桥接和限价订单。平均每周超过 35 亿美元的交换量，Jupiter 已经开始超越 Uniswap。",
-          "link": "https://www.web3sj.com/definews/102337/",
-          "publishedOn": "2024-01-31T03:49:47.000Z",
-          "wordCount": 1017,
-          "title": "市场估价0.85美元，JUP空投有多值钱？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706672966638.png"
         }
       ]
     },
@@ -112,6 +112,136 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/3m94otac.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，Injective上的首个NFT市场Talis Protocol发推表示已完成空投快照，并正在积极准备分配方法。目前，Talis Protocol正在开发一个界面，以便用户能够检查自己的资格并领取分配。",
+          "link": "https://panewslab.com/zh/articledetails/3m94otac.html",
+          "publishedOn": "2024-01-31T11:48:05.000Z",
+          "wordCount": 343,
+          "title": "Injective首个NFT市场Talis Protocol已完成空投快照",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6863fa5s.html",
+          "author": "PA一线",
+          "description": "今日要闻提示：\n香港对WorldCoin涉嫌违规收集客户虹膜资料展开调查\n中国反洗钱法迎首次大修，拟将应对涉虚拟货币等新型洗钱风险涵盖在内\n德国警方在打击网络盗版行动中暂时扣押5万枚比特币，价值约21亿美元\n支付公司Block已于本周开始裁员，或影响近1000人\nPayPal宣布裁员9%，约2500名员工受到影响\nJupiter将于今晚启动JUP代币空投，符合资格的钱包约95.5万个\n数据：美国所有比特币现货ETF第13个交易日资金净流入达2.47亿美元\n比特币DEX Portal完成3400万美元种子轮融资，Coinbase Ventures等参投\n监管消息\n中国反洗钱法迎首次大修，拟将应对涉虚拟货币等新型洗钱风险涵盖在内\n据界面新闻报道，中国反洗钱法修改获得重要进展。2024年1月22日，李强总理主持召开国务院常务会议，讨论了《中华人民共和国反洗钱法（修订草案）》。针对修订草案，北京大学法学院教授、参与反洗钱法修订草案讨论的专家王新表示，反洗钱法牵涉的面比较宽，修订草案很难做到面面俱到，只能先把最为紧迫的内容框架性地体现出来。\n复旦大学中国反洗钱研究中心执行主任严立新表示，当前最主要的、最紧迫的、也是最有必要上升到法律层面去解决的，就是涉及到虚拟资产的洗钱问题。利用加密货币、虚拟资产进行洗钱逐渐成为一个主流趋势，但我国法律对于虚拟资产的内涵和外延缺乏清晰的定义。 王新则认为，从取缔比特币在中国的合法地位就可以看出我国对于虚拟货币的态度。为防范数字金融风险，我国禁止对虚拟货币提供或接受服务。反洗钱法修订草案已经将应对新型洗钱风险涵盖在内，要求金融机构在采用新技术、提供新产品之前必须对洗钱风险进行评估，并采取风险管理措施。\n除此之外，严立新介绍，我国反洗钱执法过程中的司法救济工作还有较大的完善空间，反洗钱法也应该涵盖司法救济相关内容，保障公民合法权益。现实中，对于涉嫌洗钱等…",
+          "link": "https://panewslab.com/zh/articledetails/6863fa5s.html",
+          "publishedOn": "2024-01-31T11:20:36.000Z",
+          "wordCount": 867,
+          "title": "PA日报｜香港隐私署对WorldCoin展开调查；币安将上线Jupiter",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2024/01/31/images/ox5ay02TT8.png"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/824r8fuo.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，Vitalik Buterin 在他的博客文章“The end of my childhood”中回顾了过去几年的一些深刻经历，包括在黑客马拉松上演讲和参观黑客之家。他观察到比自己年轻十岁的人在加密审计、以太坊第二层扩展等领域担任领导角色。文章还提到了他对生命有限性的哲学思考，以及个人角色与时代变迁之间的关系。Vitalik反思了自己的成长和变化，以及他在加密货币领域的影响和责任。Vitalik最后总结其学到的教训： 1.贪婪并不是自私的唯一形式。怯懦、懒惰、怨恨等也会造成伤害。2.人可以有偏好，但不需要复杂的科学解释为什么你的偏好就是真正绝对好的。 3.重视习惯的重要性。",
+          "link": "https://panewslab.com/zh/articledetails/824r8fuo.html",
+          "publishedOn": "2024-01-31T11:05:46.000Z",
+          "wordCount": 355,
+          "title": "Vitalik发文反思自己的成长和变化，称作为加密公众人物需要谨慎处事",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/g5hqapkm.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，根据HK01报道，香港个人资料私隐专员公署今日搜查了加密货币项目“世界幣”（Worldcoin）在香港的六个地点，要求运营者交出相关文件和资料。这一行动是基于“世界幣”涉嫌违反私隐条例，特别是在收集和处理个人敏感资料方面的疑虑。尽管公署至今未接到有关“世界幣”的投诉，此次搜查目的在于“保护市民隐私”。“世界幣”项目涉及使用基于个人身份特征的验证系统World ID，以及需要参与者通过虹膜扫描装置提供虹膜信息以获取身份识别和免费加密货币。",
+          "link": "https://panewslab.com/zh/articledetails/g5hqapkm.html",
+          "publishedOn": "2024-01-31T10:48:19.000Z",
+          "wordCount": 331,
+          "title": "香港对WorldCoin涉嫌违规收集客户虹膜资料展开调查",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/qzb8zp7y.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，根据OKLink的2024年1月安全事件盘点分析，1月份全网安全事件累计造成约7325万美元的损失。其中，钓鱼事件损失占比最高为37.92%，其次是REKT事件占比36.53%，RugPull事件损失占比为12.56%。本月共发生48起官方社交媒体遭受诈骗与钓鱼事件，主要发生在X和Discord等渠道。最大的REKT安全事件为DeFi协议Abracadabra.money遭受的攻击，损失约650万美元；而RugPull事件中损失最大的是Artribum网络上的XKING，损失约124万美元。",
+          "link": "https://panewslab.com/zh/articledetails/qzb8zp7y.html",
+          "publishedOn": "2024-01-31T10:33:18.000Z",
+          "wordCount": 343,
+          "title": "OKLink：1月安全事件累计造成超7325万美元损失，诈骗钓鱼事件占比37.92%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/j6lw2u5k.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，Ripple在南亚、中东和北非地区的董事总经理Navin Gupta宣布离职。Gupta自2017年加入Ripple，为公司服务了约7年。在加入Ripple之前，Gupta曾在花旗集团工作4年，在汇丰银行工作10年。",
+          "link": "https://panewslab.com/zh/articledetails/j6lw2u5k.html",
+          "publishedOn": "2024-01-31T10:30:00.000Z",
+          "wordCount": 339,
+          "title": "Ripple中东和北非地区的董事总经理Navin Gupta宣布离职",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/lahx91ju.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，华泰证券近日发布电子行业研报，分析了2024年的三大主线和八个预测。特别指出，比特币价格在2024年可能创历史新高。此预测基于几个关键因素：首先，比特币的新增发行量将在2024年4月减半，历史数据显示，减半往往伴随着价格上涨。其次，重大事件如灰度、BlackRock、Fidelity等机构的比特币现货ETF获得美国证券交易委员会（SEC）批准并于1月11日正式上市，首日交易额超过46亿美元，可能对比特币价格产生重大影响。",
+          "link": "https://panewslab.com/zh/articledetails/lahx91ju.html",
+          "publishedOn": "2024-01-31T10:26:04.000Z",
+          "wordCount": 330,
+          "title": "华泰证券预测：2024年比特币价格将创历史新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3n6mhujd.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，北京产权交易所有限公司发布澄清声明，否认与境外企业CBEX Group存在任何业务往来、股权合作或其他形式的合作关系。该公司强调，其业务与CBEX Group无关，同时声明从未开展过任何形式的加密货币或虚拟货币交易业务。此外，北京产权交易所已注册CBEX作为公司商标，依法拥有该品牌、商标、字号等全部知识产权。",
+          "link": "https://panewslab.com/zh/articledetails/3n6mhujd.html",
+          "publishedOn": "2024-01-31T10:15:51.000Z",
+          "wordCount": 354,
+          "title": "北京产权交易所声明：从未开展过任何形式的加密货币、虚拟货币等交易业务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/qxcvaej2.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，以太坊基础设施初创公司Yet Another Company宣布完成100万美元融资。这轮融资由创业风险工作室LambdaClass领投，同时得到了Gagra Ventures、C² Ventures及多位天使投资人的参与。",
+          "link": "https://panewslab.com/zh/articledetails/qxcvaej2.html",
+          "publishedOn": "2024-01-31T09:49:42.000Z",
+          "wordCount": 362,
+          "title": "以太坊基础设施公司Yet Another Company完成100万美元融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/unymwqby.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，据CoinDesk报道，英国数字英镑的咨询结果显示，公众对隐私问题表示关注。专家认为，英国政府提出的平台模式以及即将出台的法律有助于处理这些隐私问题。这个模式允许私营公司而非政府与客户直接建立商业关系，同时中央银行仅提供数字英镑的核心基础设施和账本。此外，英国政府计划通过立法保护个人隐私，确保数字英镑的设计阶段考虑到隐私保护。政府已承诺在最终决定数字英镑的未来前，将进一步与公众协商。",
+          "link": "https://panewslab.com/zh/articledetails/unymwqby.html",
+          "publishedOn": "2024-01-31T09:01:52.000Z",
+          "wordCount": 337,
+          "title": "专家观点：英国的数字英镑方法应有助于解决隐私问题",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/hjisp4h8.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，Deribit亚太商务负责人Lin Chen在X平台发文表示，某交易者支付350万美元买入52250枚ETH的2月底到期的2500美元看涨期权，此外平台上同时也有多笔大宗卖出交易。",
+          "link": "https://panewslab.com/zh/articledetails/hjisp4h8.html",
+          "publishedOn": "2024-01-31T08:32:37.000Z",
+          "wordCount": 343,
+          "title": "某交易者在Derbit上以350万美元买入52250枚ETH的2月底到期2500美元的看涨期权",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/nizoy63s.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，OKX连续发布第15期储备金证明，22个公示币种的储备金率均超过100%，其中BTC储备金率为102%，ETH、USDT、USDC的储备金率均为104%，四者总计价值达149亿美元。此外，本次POR还首次新增了BCH。\n据悉，OKX致力于提升POR透明度至传统金融审计标准，从而持续引领行业安全透明。OKX坚持按月发布POR，储备金率连续15个月超过100%，公示币种数量从3个增至22个，并接连通过默克尔树、全览默克尔树、以及zk-STARK等技术不断升级POR系统，创下多个里程碑。在保护隐私的前提下，用户随时可以独立验证欧易OKX的偿付能力，被区块链专家Nic Carter评为代表主流交易所POR质量的最高水平。",
+          "link": "https://panewslab.com/zh/articledetails/nizoy63s.html",
+          "publishedOn": "2024-01-31T08:15:04.000Z",
+          "wordCount": 342,
+          "title": "OKX发布第15期POR：22个公示币种的储备金率均超过100%，并首次纳入BCH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bvdbzdsz.html",
+          "author": "PA一线",
+          "description": "PANews 1月31日消息，据官方公告，韩国加密交易所Bithumb将在韩元市场上线Jupiter (JUP) 。仅支持Solana(SPL)网络，不支持通过其他网络充值。充值预计于北京时间2月1日9时开始，交易预计于北京时间2月1日11时开始。",
+          "link": "https://panewslab.com/zh/articledetails/bvdbzdsz.html",
+          "publishedOn": "2024-01-31T08:02:44.000Z",
+          "wordCount": 353,
+          "title": "Bithumb将在韩元市场上线Jupiter (JUP)",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/553y4zhk.html",
           "author": "PA一线",
@@ -138,7 +268,7 @@
           "description": "PANews 1月31日消息，据官方公告，币安将暂定于2024年01月31日23:30（东八区时间）上线Jupiter （JUP）， 并开放以下现货交易对：\n* 现货交易对：JUP/USDT、JUP/FDUSD、JUP/TRY\n* JUP 充值通道现已开放\n* JUP提现预计于2024年02月01日23:30（东八区时间）开放\n* JUP的上币费为 0 BNB。\n此外，币安逐仓杠杆将于2024年01月31日23:30（东八区时间）起的 48小时内新增 JUP资产，并开放以下交易对：\n* 逐仓杠杆交易对： JUP/USDT。",
           "link": "https://panewslab.com/zh/articledetails/0l5yxawy.html",
           "publishedOn": "2024-01-31T07:11:18.000Z",
-          "wordCount": 372,
+          "wordCount": 371,
           "title": "币安将上线Jupiter (JUP)并为其添加种子标签",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -180,136 +310,6 @@
           "publishedOn": "2024-01-31T06:40:16.000Z",
           "wordCount": 343,
           "title": "SSV Network推出新的分布式密钥生成（DKG）工具",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/h5jg2ju8.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据官方公告，币安预计将于东八区时间2024年02月04日21:00暂停Ethereum Classic（ETC）网络的代币充值、提现业务，以支持其网络升级。此举旨在为用户提供优质体验。项目方将于区块高度 19,250,000（预计东八区时间2024年02月04日21:50）进行网络升级。",
-          "link": "https://panewslab.com/zh/articledetails/h5jg2ju8.html",
-          "publishedOn": "2024-01-31T06:37:41.000Z",
-          "wordCount": 344,
-          "title": "币安将支持Ethereum Classic（ETC）网络升级",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/er3pb7ov.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据路透社报道， 一些专家表示，追踪比特币的美国ETF的推出加深了动荡的加密货币世界与传统金融体系之间的联系，可能会带来不可预见的新风险。一些分析师预测，这些ETF的总资产约为210亿美元，仅今年就可能从散户和机构投资者那里吸引多达1,000亿美元的资金。一些ETF专家援引之前ETF波动事件的证据说，如果被广泛采用，这些产品可能会加剧比特币价格波动，或在ETF和比特币价格之间造成错位，从而在市场承压时期对金融体系的其他部分构成风险。其他人表示，去年美国银行业的动荡表明，金融和加密市场可以相互传递风险。\nBetter Markets首席执行官Dennis Kelleher表示：“随着投资者将资金投入这些产品，金融体系核心与加密生态系统之间互联的风险就会大大增加。”Better Markets是一个倡导组织，曾敦促美国证券交易委员会拒绝比特币ETF，理由是投资者和金融体系面临风险。欧盟金融风险监管机构欧洲系统风险委员会首席经济学家Antonio Sánchez Serrano表示，比特币ETF可能会“特别加剧”市场压力时期的波动性，以及ETF可能产生系统性风险的其他渠道，这些其他渠道包括ETF价格与标的资产的脱钩，这可能会给严重接触这些产品或依赖这些产品进行流动性管理的机构带来压力。Serrano和其他专家表示，可以肯定的是，风险很大程度上取决于ETF最终被广泛采用的程度。\n标准普尔全球评级高级分析师Lapo Guadagnuolo表示，加密货币与金融体系之间的联系仍然“非常有限”。Galaxy Digital资产管理全球主管Steve Kurz表示：“我不认为这些产品会出现灾难性的变化。”",
-          "link": "https://panewslab.com/zh/articledetails/er3pb7ov.html",
-          "publishedOn": "2024-01-31T06:24:41.000Z",
-          "wordCount": 349,
-          "title": "路透社：一些专家质疑美国比特币ETF或会对更广泛的金融体系构成风险",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qh8nr8f8.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据Cointelegraph报道，美国证券交易委员会(SEC)的一项规定禁止被告在解决执法行动时批评该机构的主张，该委员会的一名委员表示，这“破坏了监管诚信”和言论自由。在1月30日的声明中，美国证券交易委员会委员Hester Peirce不同意她的机构拒绝修改其1972年“禁言规则”的请愿书，该规则禁止被告在和解后否认或拒绝承认美国证券交易委员会的指控。Peirce写道：“在和解协议签署后，剥夺被告公开批评和解协议的权利的政策是不必要的，它破坏了监管的完整性，并引发了对第一修正案的担忧。”\n该规则规定，被告必须同意他们不会“做出或允许他人做出任何公开声明，直接或间接否认诉状中的任何指控，或造成诉状缺乏事实依据的印象”。Peirce称：“被告在看到这种语言时不会知道它的结局，该规则有效地保护了委员会的指控免受批评。”Peirce表示，被告同意不“允许”否认指控的条款同样存在问题，因为该条款表明被告必须阻止其他人说出可能对SEC判断产生怀疑的言论。这种不可否认的政策是其和解协议中的“强制性、不可协商的条款”，也是“美国证券交易委员会执法行动中最常见的解决方案”。如果违规，美国证券交易委员会还可以将被告带回法庭。\nPeirce表示，由于在法庭上与政府机构对抗的难度、时间和法律成本，即使对于“资源最充足的企业被告”来说，解决诉讼通常是解决SEC执法行动的最便宜的选择，然而，当美国证券交易委员会最终达成和解时，它不再需要在法庭上证明其主张，其政策意味着它“获得了通过诉讼永远无法获得的好处，即被告永远保持沉默”；但如果美国证券交易委员会“对其调查工作和分析充满信心”，就不需要“要求和解被告保持沉默”。",
-          "link": "https://panewslab.com/zh/articledetails/qh8nr8f8.html",
-          "publishedOn": "2024-01-31T06:09:17.000Z",
-          "wordCount": 336,
-          "title": "美SEC委员：SEC的和解禁言规则“破坏了监管完整性”",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/jk4qtjvf.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，去中心化拍卖平台Bounce Brand宣布推出BounceBox。BounceBox类似于比特币质押链BounceBit的App Store，该商店提供了广泛的Web3组件，为用户打造dApp提供了类似于搭建在线商店的便捷工具。作为中心枢纽，BounceBox联合了BounceBit应用商店中的多样化工具和组件，使用户能够通过用户友好的界面定制去中心化应用程序。",
-          "link": "https://panewslab.com/zh/articledetails/jk4qtjvf.html",
-          "publishedOn": "2024-01-31T05:52:55.000Z",
-          "wordCount": 341,
-          "title": "Bounce Brand推出生态dApp构建工具包BounceBox",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/h8k3nj3l.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据Civilsociety报道，FTX此前支持的慈善机构Effective Ventures基金会已与FTX破产财产达成和解，其美国分部和英国分部同意偿还此前从FTX收到的约2680万美元捐款，相当于两家实体在2022年从FTX和FTX基金会收到的资金的100%。该基金会表示：“我们强烈谴责欺诈行为以及SBF被定罪的行为。”",
-          "link": "https://panewslab.com/zh/articledetails/h8k3nj3l.html",
-          "publishedOn": "2024-01-31T05:51:03.000Z",
-          "wordCount": 341,
-          "title": "慈善机构Effective Ventures基金会同意偿还从FTX收到的约2680万美元捐款",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/8yf7ggtg.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据官方消息，Bounce Brand推出的比特币质押BounceBit在上线12小时内TVL突破2800万美元。",
-          "link": "https://panewslab.com/zh/articledetails/8yf7ggtg.html",
-          "publishedOn": "2024-01-31T05:41:35.000Z",
-          "wordCount": 334,
-          "title": "比特币质押链BounceBit在上线12小时内TVL突破2800万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/s1z2me53.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，全链互操作性的Layer 1公链ZetaChain在X平台宣布，其实用代币和原生货币ZETA将在KuCoin、OKX、Bitget、Bitfinex和Bybit Launchpool上线。其中，KuCoin将于北京时间2月1日11:00支持ZETA代币交易；OKX将于北京时间2月1日11:00开放ZETA/USDT现货交易对，Bybit Launchpool将于北京时间1月31日16:00至2月14日16:00支持新币ZETA质押挖矿，Bitfinex将于北京时间2月1日12:00支持Bitfinex代币交易。此外，ZetaChain表示，其ZETA代币还将上线其他交易所。\nLaunchpool系列：\nBybit Launchpool将于北京时间1月31日16:00至2月14日16:00支持新币ZETA质押挖矿。\nListing系列：\nKuCoin将于北京时间2月1日11:00支持ZETA代币交易；\nOKX将于北京时间2月1日11:00开放ZETA/USDT现货交易对；\nBitfinex将于北京时间2月1日12:00支持ZETA代币交易；\nBitget的交易开放时间暂未公布。",
-          "link": "https://panewslab.com/zh/articledetails/s1z2me53.html",
-          "publishedOn": "2024-01-31T05:36:19.000Z",
-          "wordCount": 352,
-          "title": "KuCoin、OKX、Bitget、Bitfinex和Bybit Launchpool均将上线ZetaChain的ZETA代币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/q1ftzz2v.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据币安官方公告，根据近期审核结果，币安将于2月2日11:00（东八区时间）移除以下现货交易对并停止交易：BSW/BNB、KAVA/ETH、SCRT/ETH、SNX/BNB、UFT/ETH、WAN/ETH。",
-          "link": "https://panewslab.com/zh/articledetails/q1ftzz2v.html",
-          "publishedOn": "2024-01-31T05:33:12.000Z",
-          "wordCount": 335,
-          "title": "币安将移除BSW/BNB、KAVA/ETH等6个现货交易对",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ze0wc17l.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据荆楚网报道，近日，青山警方在武汉市公安局相关部门的指导支持下，通过一起现发电诈警情顺线追踪、连续作战，辗转武汉、长沙、南昌、湘西等地，成功打掉一个利用USTD虚拟币帮助境外诈骗集团洗钱的犯罪团伙，抓获涉案嫌疑人6人，初步查明涉案总金额600余万元，追回23部苹果手机及部分高档白酒。\n据了解，该犯罪团伙自2023年3月开始帮助境外诈骗集团收取快递、变现赃物、转移赃款，收取一定比例的报酬。据初步统计，自2024年1月5日起，该团伙共帮助境外诈骗集团在武汉收取、变现苹果手机、手表、耳机等物品共计340余部、高档酒几十箱，涉案总价值共计600余万元。目前该案件正在进一步办理中。",
-          "link": "https://panewslab.com/zh/articledetails/ze0wc17l.html",
-          "publishedOn": "2024-01-31T05:31:11.000Z",
-          "wordCount": 328,
-          "title": "武汉青山警方打掉一利用虚拟币洗钱团伙，初步查明涉案总金额600余万元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/uyzr3isx.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据北京日报报道，2024年1月，北京丰台警方经过缜密侦查，破获了一起以网络区块链游戏为诱饵，诱骗群众投资“虚拟币”，骗取5名群众600余万元人民币的案件。\n犯罪嫌疑人刘某伙同他人，谎称某区块链游戏是其海外团队开发，通过互联网宣传，在“币某网”购买虚拟货币，持虚拟货币在游戏内可以等价换购游戏内的通用货币“H某币”，使用“H某币”在游戏内购买NFT数字资产，NFT数字资产随着交易者交易，会产生增值效果，预期收益能达到原价值的三倍以上。\n通过以上话术，刘某先后诱骗5名投资群众向其指定数字账号汇款，后刘某等人下落不明，被骗群众纷纷报警。经工作，刘某被丰台分局经济犯罪侦查大队抓获，目前，因涉嫌合同诈骗罪被丰台警方刑事拘留。",
-          "link": "https://panewslab.com/zh/articledetails/uyzr3isx.html",
-          "publishedOn": "2024-01-31T05:22:15.000Z",
-          "wordCount": 329,
-          "title": "北京丰台破获一起区块链游戏诈骗案，有5名群众被骗600余万元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1oacytr3.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，a16z合伙人兼Web3负责人Chris Dixon宣布，其新书现已在美国出版，即将推出更多语言版本。据悉，Chris Dixon的新书《Read Write Own: Building the Next Era of the Internet》回顾了互联网的发展，强调了三个设计时代：阅读、写作、拥有。探讨了人工智能、社交网络、金融、媒体业务、协作创作、虚拟世界等多个主题。",
-          "link": "https://panewslab.com/zh/articledetails/1oacytr3.html",
-          "publishedOn": "2024-01-31T05:17:11.000Z",
-          "wordCount": 387,
-          "title": "a16z合伙人Chris Dixon的新书已在美国出版，涵盖AI、虚拟世界等多个主题",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zojwkxy0.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，据Spot On Chain监测，在过去24小时内， 6个钱包地址（多数是投资方）向币安存入404.3万枚PENDLE（约合1097万美元），均价2.71美元，其中：The Spartan Group存入198万枚PENDLE（约合540万美元）；多签地址0x811（疑似为Pendle团队）存入60万枚PENDLE（约合163万美元）。目前，还有2392万枚PENDLE（6430万美元）留在4个钱包中。",
-          "link": "https://panewslab.com/zh/articledetails/zojwkxy0.html",
-          "publishedOn": "2024-01-31T05:10:15.000Z",
-          "wordCount": 347,
-          "title": "6个地址近24小时共向币安存入404.3万枚PENDLE，约合1097万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/adltj4fw.html",
-          "author": "PA一线",
-          "description": "PANews 1月31日消息，去中心化跨链交易协议THORChain在其官方GitLab页面上提出了ADR 012改进提案，拟扩大THORFi借贷业务并销毁备用储备。根据该提案，自2023年第三季度推出借贷业务以来，共开放了130笔贷款，涉及约2400万美元的抵押品，用于发放700万美元的债务。目前系统风险较低，完全清算情境下仅有70万枚RUNE将被永久销毁。\n该提案建议将最大抵押率（MAXCR）设定为200%，并销毁6000万枚RUNE的备用储备。这一举措旨在降低借贷风险，安全地提高借贷杠杆。降低MAXCR至200%将使得更多贷款得以发放，且在熊市中贷款关闭的可能性降低。此外，通过销毁约3亿美元价值的RUNE，THORChain可以吸纳额外的1亿美元抵押品，增加市场对RUNE的购买需求。该提案还提到，销毁备用储备不仅能为借贷业务扩张创造空间，也有助于未来推出稳定币和永续合约等新功能。",
-          "link": "https://panewslab.com/zh/articledetails/adltj4fw.html",
-          "publishedOn": "2024-01-31T04:59:07.000Z",
-          "wordCount": 338,
-          "title": "THORChain新提案提议销毁备用储备中的6000万枚RUNE以扩大借贷规模",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
