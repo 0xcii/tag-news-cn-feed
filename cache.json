@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=102353",
+          "author": "Gao",
+          "description": "从表面上看，很容易找到两者的协同作用：加密货币的去中心化可以平衡 AI 中心化，AI 是不透明的，而加密货币可以带来透明度；AI 需要数据，而区块链擅长存储和追踪数据。但多年来，当大家要求我深入探讨具体应用时，我的回答一直比较令人失望：「是的，确实有一些值得探讨的应用，但并不多」。",
+          "link": "https://www.web3sj.com/news/102353/",
+          "publishedOn": "2024-01-31T04:03:44.000Z",
+          "wordCount": 1218,
+          "title": "Vitalik新作：Crypto+AI应用前景和挑战",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706673799513.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=102348",
+          "author": "Gao",
+          "description": "LSDFi 是指建立在流动性质押衍生品 (LSD) 之上的 DeFi 协议，LSD 市场与 DeFi 产品和协议相结合，为使用者提供更小众化的质押和借贷机会，提供额外的获利机会，可供 LSD 持有者充分发挥资产效用，实现收益最大化。LSDFi 的发展受到质押比例增长、基础设施升级、再质押机制、机构资金流入和收益竞争等多个因素的推动。",
+          "link": "https://www.web3sj.com/definews/102348/",
+          "publishedOn": "2024-01-31T03:58:48.000Z",
+          "wordCount": 2193,
+          "title": "Penta Lab：深度解析收益代币化龙头Pendle Finance",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706673493845.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=102337",
+          "author": "Gao",
+          "description": "Jupiter 是一家巨头，提供五种产品：交换、永续合约、定投、桥接和限价订单。平均每周超过 35 亿美元的交换量，Jupiter 已经开始超越 Uniswap。",
+          "link": "https://www.web3sj.com/definews/102337/",
+          "publishedOn": "2024-01-31T03:49:47.000Z",
+          "wordCount": 1014,
+          "title": "市场估价0.85美元，JUP空投有多值钱？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706672966638.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=102323",
           "author": "Gao",
           "description": "Starknet宣布与Celestia达成合作以实现高吞吐量Layer 3网络。富达比特币现货ETF第12个交易日流入2.08亿美元，足以抵消GBTC流出资金。Polygon Labs提议将真正的DeFi协议列为关键基础设施，并接受美国财政部监督。",
           "link": "https://www.web3sj.com/news/102323/",
           "publishedOn": "2024-01-30T11:27:25.000Z",
-          "wordCount": 930,
+          "wordCount": 912,
           "title": "Web3世界日报（2024-1.30）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024013011224920.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "Manta的主网有两条，一个是运行在Polkadot上的Manta Atlantic，另一个则是Layer2网络Manta Pacific，它的目标是解决以太坊等高交易费用的问题，为ZK应用程序提供了一个可扩展且廉价的Gas费环境。",
           "link": "https://www.web3sj.com/show/102316/",
           "publishedOn": "2024-01-30T09:32:40.000Z",
-          "wordCount": 780,
+          "wordCount": 782,
           "title": "三分钟Web3科普：模块化Layer2网络Manta",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024013009321713.jpg"
         },
@@ -31,7 +61,7 @@
           "description": "EigenLayer 是一个代币经济安全租借市场平台，主要服务包括 LSD 资产的 restake、节点运营质押和 AVS 服务。EigenLayer 是一个基于以太坊的 Restake 协议，为整个未来基于以太坊的加密经济提供以太坊级别的安全性。",
           "link": "https://www.web3sj.com/project/102294/",
           "publishedOn": "2024-01-30T05:36:13.000Z",
-          "wordCount": 1755,
+          "wordCount": 1763,
           "title": "全方位解读EigenLayer：一个让以太坊又爱又恨的新贵项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706592957815.png"
         },
@@ -41,7 +71,7 @@
           "description": "从数据看，灰度的抛压似乎正逐日放缓，这被业界解读为缓解市场下跌趋势的一个积极信号，摩根大通更是在最新报告中表示，GBTC 的获利了结浪潮已基本结束，在寒冬季节里为市场注入了一丝暖意。",
           "link": "https://www.web3sj.com/news/102283/",
           "publishedOn": "2024-01-30T03:30:42.000Z",
-          "wordCount": 1262,
+          "wordCount": 1289,
           "title": "MIIX Capital投研周报：震荡后的回暖信号",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706585428308.png"
         },
@@ -51,7 +81,7 @@
           "description": "根据 LayerZero V2 白皮书，V2 中有四个组件，包括一个可实现抗审查的不可变端点，一个链上验证模块的仅附加集合（MessageLib 注册表），一组用于跨链验证数据的去中心化验证网络（DVN）无需许可集合，以及无需许可的执行器（独立于跨链消息验证 context 执行功能逻辑）。",
           "link": "https://www.web3sj.com/project/102279/",
           "publishedOn": "2024-01-30T03:22:45.000Z",
-          "wordCount": 964,
+          "wordCount": 934,
           "title": "速读LayerZero V2核心协议设计：有何亮点和变化？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584952056.png"
         },
@@ -61,7 +91,7 @@
           "description": "在当下和未来，一个基本事实是以太坊的地位已经很难撼动，模块化的概念将会泛化，如果 Vitalik 对 Celestia 的打压不成功，那么市场会择优选择，组合和模块化不止发生于同一体系内，市场原则会促使项目方自由组装各要件，比如各公链、L2 和比特币间组合可用性，BTC L2 的火热即是明证。",
           "link": "https://www.web3sj.com/news/102270/",
           "publishedOn": "2024-01-30T03:19:47.000Z",
-          "wordCount": 1235,
+          "wordCount": 1223,
           "title": "并行不止EVM，高性能L1（Sui）大战以太坊L2 ？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584773939.png"
         },
@@ -71,39 +101,9 @@
           "description": "2024 年 1 月 25 日——自比特币现货 ETF 通过以来，市场陷入了抛售漩涡，始作俑者并非他人，正是曾经全球最大的比特币资金池之一——持有超过 630,000 枚比特币的灰度比特币信托基金 (GBTC)。从封闭式基金转换为现货 ETF 后，GBTC 的 BTC 存储（占 2100 万比特币总量的 3%）在 ETF 交易的前 9 天中流失了超过 40 亿美元，而同一时间，其他 ETF 参与者资金流入约 52 亿美元。",
           "link": "https://www.web3sj.com/transaction/102265/",
           "publishedOn": "2024-01-30T03:14:33.000Z",
-          "wordCount": 1233,
+          "wordCount": 1244,
           "title": "比特币直面灰度「抛压」？GBTC外流规模及时间线分析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584404954.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102261",
-          "author": "Gao",
-          "description": "以太坊改进提案是一份研究文档，建议对以太坊区块链进行新功能或更改，作为社区共识的指南。Cesare Fracassi 等人的研究论文重点关注以太坊的决策过程，并发现了一个有趣的趋势。在核心 EIP 最终讨论之前的时期，以太坊的价格上涨了约 18%，相对于比特币上涨了 12%。",
-          "link": "https://www.web3sj.com/news/102261/",
-          "publishedOn": "2024-01-30T03:09:17.000Z",
-          "wordCount": 950,
-          "title": "即将到来的以太坊升级：被低估的ETH价格影响因素？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706584057689.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102242",
-          "author": "Gao",
-          "description": "嘉实基金已向香港证监会提交比特币现货ETF申请，最快将于春节后上架。Aave社区发起添加PAXG抵押品和借款支持的提案。Manta Pacific TVL突破17亿美元，生态项目已部署超1000个智能合约。",
-          "link": "https://www.web3sj.com/news/102242/",
-          "publishedOn": "2024-01-29T11:32:39.000Z",
-          "wordCount": 857,
-          "title": "Web3世界日报（2024-1.29）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024012911312074.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102221",
-          "author": "Gao",
-          "description": "隔离了风险也隔离了流动性，这是否会有问题呢？其实也不染， 支持 LST 的 LRT 相比 支持 Native Staking 的 LRT，优势之一便在于可以充分利用底层 LST 的流动性。mrETH/rETH， mmETH/mETH 这些单独的 pair 其实更有利于和 LST 项目方合作激励流动性。",
-          "link": "https://www.web3sj.com/definews/102221/",
-          "publishedOn": "2024-01-29T06:32:20.000Z",
-          "wordCount": 1143,
-          "title": "Eigenpie的空投玩法、机制、前景和收益预期",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/5-1706505970714.jpg"
         }
       ]
     },
@@ -168,7 +168,7 @@
           "description": "PANews 1月31日消息，据Decrypt报道，Solana生态交易聚合器Jupiter将于北京时间1月31日23:00通过其自己的Launchpad发起JUP代币空投领取，报道称此次代币发行可能是2024年规模最大的一次。大约955,000个钱包有资格获得JUP空投，其中包括在2023年11月2日快照之前与该协议进行交互的早期用户。Jupiter推出了一个工具来让用户查看是否符合资格。根据Jupiter此前的X帖子，初始空投代币的20%将均匀分配到所有钱包中，另外70%将根据协议使用情况，根据“基于分数的分配”在用户之间分配，最后的10%将分配给社区成员和开发者。\nJupiter未来计划为新用户提供更多JUP代币空投，但目前还没有确切的时间表来说明何时会进行空投，或者对于新用户来说空投的利润有多大。总体而言，有100亿枚JUP代币被铸造。其中一半的代币将通过多次空投和其他举措进入社区。最终，40亿枚JUP将通过四轮空投发放，其中10亿枚JUP将用于周三的初始代币领取。另外10亿枚JUP最终将分配给社区贡献者和赠款，但这些举措的时间尚未确定。JUP总供应量的一半将用于团队和代币需求，包括流动性池。Jupiter团队在2025年1月之前不会获得任何代币，届时将开始为期两年的归属周期。\n根据该团队周二发布的帖子，从第一天起，总共将有13.5亿枚JUP流通，其中10亿枚JUP用于空投申领，2.5亿枚JUP用于启动池，各5000万枚JUP用于“向中心化交易所做市商贷款”和“任何即时流动性池需求”。这比之前声明的原计划立即流通的17亿枚JUP有所下降。",
           "link": "https://panewslab.com/zh/articledetails/c3bw46m4.html",
           "publishedOn": "2024-01-31T00:51:06.000Z",
-          "wordCount": 333,
+          "wordCount": 337,
           "title": "Jupiter将于今晚启动JUP代币空投，符合资格的钱包约95.5万个",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 1月31日消息，Coinbase Assets在X平台宣布，今天已将Render(RENDER)列入上币路线图。用于Render(RENDER)的Solana网络（SPL代币）合约地址为 rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof。",
           "link": "https://panewslab.com/zh/articledetails/nx35ltm7.html",
           "publishedOn": "2024-01-31T00:10:29.000Z",
-          "wordCount": 343,
+          "wordCount": 347,
           "title": "Coinbase将Render(RENDER)列入上币路线图",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 1月31日消息，据BitMEX Research数据监测，灰度GBTC在第13个交易日的资金流出约2.2亿美元。",
           "link": "https://panewslab.com/zh/articledetails/khy1alma.html",
           "publishedOn": "2024-01-31T00:06:57.000Z",
-          "wordCount": 339,
+          "wordCount": 336,
           "title": "灰度GBTC在第13个交易日的资金流出约2.2亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -280,12 +280,22 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202401/21618.html",
+          "author": null,
+          "description": "1.数据：比特币网络Taproot采用率已从一年前的1%提升至39%。\n\n2.马斯克删除X简介中的“(CTO) Chief Troll Officer”，TROLL跌幅达46.2%。\n\n3.PitchBook：DWF Labs为2023年交易数量最多的加密风投机构。\n\n4.德国警方在盗版网站运营案件中扣押5万枚比特币，价值21.7亿美元。\n\n5.数据：Solana区块链月度交易量创多年新高。\n\n6.zkSync开发商Matter Labs提议Treasure Chain使用ZK Stack构建。\n\n7.比特币DEX项目Portal完成3400万美元种子轮融资，Coinbase Ventures、OKX Ventures等参投。\n\n8.ether.fi成立顾问委员会，Polygon创始人等加入。\n\n9.Jupiter联创：JUP初始流通量为13.5亿枚，10亿枚将用于空投。\n\n10.V神：meme币持有者就像“我们一起学猫叫”。\n\n11.Coinbase将Render(RNDR)列入上币路线图。\n\n12.DMAIL空投第1季代币申领现已开放。\n\n13.ZetaChain主网将在几天内上线，旨在联合比特币、以太坊和其他链。\n\n14.Binance Labs投资LSD协议Puffer Finance。\n\n15.Conflux公布其比特币Layer2路线图：短期目标是建立比特币质押机制并集成Ordinals等协议。",
+          "link": "https://www.hellobtc.com/news/202401/21618.html",
+          "publishedOn": "2024-01-31T03:36:00.000Z",
+          "wordCount": 325,
+          "title": "白话区块链早报：比特币网络Taproot采用率已从一年前的1%提升至39%",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202401/21617.html",
           "author": null,
           "description": "1.谷歌更新广告政策，允许投放比特币和加密信托产品广告。\n\n2.数据：自去年10月20日以来，Tether Treasury在以太坊和波场网络上总共铸造130亿枚USDT。\n\n3.OKX Web3钱包将集成ARC-20、SRC-20、Runes及DRC-20铭文代币标准。\n\n4.以太坊质押协议Swell Network推出再质押代币rswETH。\n\n5.DWF Labs 8小时前将50万枚API3充值进Binance。\n\n6.受马斯克推文提及Telepathy影响，同名铭文TEL3涨至0.188美元。\n\n7.OKX将上线Jupiter (JUP)。\n\n8.数据：除GBTC外的其他9支ETF在11个交易日内购买近14万枚BTC。\n\n9.韩国AI芯片创企Rebellions宣布获1.24亿美元融资 韩国电信领投。\n\n10.Immutable与Polygon合作推出zkEVM主网，未来几周将向公众开放。\n\n11.数据：逾6.87亿枚PYTH处于质押状态，质押者数量已超12.5万。\n\n12.Binance Labs：未参与领投SkyArk Chronicles的1500万美元融资轮，因SkyArk团队宣传前并未与之沟通因此作了单方面澄清。",
           "link": "https://www.hellobtc.com/news/202401/21617.html",
           "publishedOn": "2024-01-30T02:37:00.000Z",
-          "wordCount": 324,
+          "wordCount": 319,
           "title": "白话区块链早报：谷歌更新广告政策，允许投放比特币和加密信托产品广告",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -367,16 +377,6 @@
           "publishedOn": "2024-01-23T01:52:00.000Z",
           "wordCount": 312,
           "title": "高盛全球交易策略主管：预计美国2024年降息四次",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202401/21608.html",
-          "author": null,
-          "description": "市场数据显示，贝莱德现货比特币ETF首次出现负溢价，约为-0.30%。",
-          "link": "https://www.hellobtc.com/news/202401/21608.html",
-          "publishedOn": "2024-01-23T01:52:00.000Z",
-          "wordCount": 306,
-          "title": "贝莱德现货比特币ETF首次出现负溢价",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
