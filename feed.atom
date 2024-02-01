@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-01T03:14:05.159Z</id>
+    <id>urn:2024-02-01T04:16:40.021Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-01T03:14:05.159Z</updated>
+    <updated>2024-02-01T04:16:40.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[一文了解Jupiter：Solana史上最大空投]]></title>
+        <id>https://www.web3sj.com/?p=102448</id>
+        <link href="https://www.web3sj.com/definews/102448/"/>
+        <updated>2024-02-01T03:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Jupiter 为 Solana 公链上的 DeFi 一站式服务平台，成立于 2021 年 10 月，核心为集成各类 DeFi 应用，并优化用户使用体验。产品最初定位交换引擎，经过迭代以支持更多相关功能，如：成本平均化策略（DCA，又称定投法）、限价订单、永续交易，以及最近推出的 launchpad。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读Layer1区块链迁移到Layer2 Rollups背后的原因]]></title>
+        <id>https://www.web3sj.com/?p=102445</id>
+        <link href="https://www.web3sj.com/news/102445/"/>
+        <updated>2024-02-01T03:37:50.000Z</updated>
+        <summary type="html"><![CDATA[本文深入探讨了这些 L1 区块链的领域，揭示了管理 L1 区块链所面临的挑战，并解开了 L1 区块链迁移到 L2 Rollup 方案的优势。此外，我们探讨了最近已经跃升到 L2 Rollup 方案的 L1 区块链的案例。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在币圈，不频繁交易的胜率会更高]]></title>
+        <id>https://www.web3sj.com/?p=102440</id>
+        <link href="https://www.web3sj.com/transaction/102440/"/>
+        <updated>2024-02-01T03:32:22.000Z</updated>
+        <summary type="html"><![CDATA[许多熟悉我文章的人都知道，我采用一种非常「高信心投注」的交易风格。我喜欢在不对称的机会上下注，而且喜欢重注。这类交易的问题在于，它们往往是资本密集型的，而且在交易取得成果之前有极长的锁定期。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arthur Hayes：预计美国即将开启印钞，比特币或将复刻去年3月走势]]></title>
         <id>https://panewslab.com/zh/articledetails/8ynz95w0.html</id>
@@ -341,36 +371,6 @@ Optimism此前公布了其第三轮追溯公共产品募资（RetroPGF 3）的�
         <link href="https://www.web3sj.com/project/102377/"/>
         <updated>2024-01-31T05:24:02.000Z</updated>
         <summary type="html"><![CDATA[Puffer 是基于 EigenLayer 构建的无许可原生流动性再质押协议（permissionless native Liquid Restaking Protocol，简称 nLRP），Puffer 旨在服务三个主要群体：节点运营者（NoOps）、再质押运营者（ReOps）和 ETH 质押者，其中 ReOps 主要负责 AVSs 运行，可能同时也是 NoOps。协议中的节点利用 Puffer 的抗罚没（anti-slashing）技术能以低至 1 ETH 的成本参与节点验证和运行 AVSs，并且能同时累积 PoS 奖励和通过 AVSs 运行获得再质押奖励。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五大数据维度分析：大热的新L2们是否被高估]]></title>
-        <id>https://www.web3sj.com/?p=102368</id>
-        <link href="https://www.web3sj.com/news/102368/"/>
-        <updated>2024-01-31T05:13:41.000Z</updated>
-        <summary type="html"><![CDATA[根据 L2 BEAT 数据，TVL 前十的 Layer 2 如下表所示（其中 Blast TVL 结合 Dune 数据）。同时，也综合 Coingecko 将已发币的 Layer 2 代币流通市值和全稀释市值（FDV）一并汇总。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberConnect近期热议，Web3社交开始发力]]></title>
-        <id>https://www.web3sj.com/?p=102365</id>
-        <link href="https://www.web3sj.com/news/102365/"/>
-        <updated>2024-01-31T05:03:51.000Z</updated>
-        <summary type="html"><![CDATA[CyberConnect 属于 Web3 社交协议赛道龙头，近期颇受热议。Cyber Connect 于 2021 年创立，团队成员多数来自硅谷，目前已有 50 多个项目正在使用 Cyber Connect 构建具有社交功能的应用，例如社区拥有的社交网络、市场、内容管理、发现工具等。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik新作：Crypto+AI应用前景和挑战]]></title>
-        <id>https://www.web3sj.com/?p=102353</id>
-        <link href="https://www.web3sj.com/news/102353/"/>
-        <updated>2024-01-31T04:03:44.000Z</updated>
-        <summary type="html"><![CDATA[从表面上看，很容易找到两者的协同作用：加密货币的去中心化可以平衡 AI 中心化，AI 是不透明的，而加密货币可以带来透明度；AI 需要数据，而区块链擅长存储和追踪数据。但多年来，当大家要求我深入探讨具体应用时，我的回答一直比较令人失望：「是的，确实有一些值得探讨的应用，但并不多」。]]></summary>
         <author>
             <name>Gao</name>
         </author>

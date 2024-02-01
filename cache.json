@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=102448",
+          "author": "Gao",
+          "description": "Jupiter 为 Solana 公链上的 DeFi 一站式服务平台，成立于 2021 年 10 月，核心为集成各类 DeFi 应用，并优化用户使用体验。产品最初定位交换引擎，经过迭代以支持更多相关功能，如：成本平均化策略（DCA，又称定投法）、限价订单、永续交易，以及最近推出的 launchpad。",
+          "link": "https://www.web3sj.com/definews/102448/",
+          "publishedOn": "2024-02-01T03:47:19.000Z",
+          "wordCount": 1196,
+          "title": "一文了解Jupiter：Solana史上最大空投",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706759228525.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=102445",
+          "author": "Gao",
+          "description": "本文深入探讨了这些 L1 区块链的领域，揭示了管理 L1 区块链所面临的挑战，并解开了 L1 区块链迁移到 L2 Rollup 方案的优势。此外，我们探讨了最近已经跃升到 L2 Rollup 方案的 L1 区块链的案例。",
+          "link": "https://www.web3sj.com/news/102445/",
+          "publishedOn": "2024-02-01T03:37:50.000Z",
+          "wordCount": 1072,
+          "title": "解读Layer1区块链迁移到Layer2 Rollups背后的原因",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706758659124.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=102440",
+          "author": "Gao",
+          "description": "许多熟悉我文章的人都知道，我采用一种非常「高信心投注」的交易风格。我喜欢在不对称的机会上下注，而且喜欢重注。这类交易的问题在于，它们往往是资本密集型的，而且在交易取得成果之前有极长的锁定期。",
+          "link": "https://www.web3sj.com/transaction/102440/",
+          "publishedOn": "2024-02-01T03:32:22.000Z",
+          "wordCount": 867,
+          "title": "在币圈，不频繁交易的胜率会更高",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706758328973.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=102424",
           "author": "Gao",
           "description": "Dencun升级已在Sepolia测试网上上线。K33 Research：现货BTC ETF交易的13天内，积累超15万枚BTC。渣打银行高管：SEC或于5月23日批准以太坊现货ETF。",
           "link": "https://www.web3sj.com/news/102424/",
           "publishedOn": "2024-01-31T11:45:29.000Z",
-          "wordCount": 931,
+          "wordCount": 900,
           "title": "Web3世界日报（2024-1.31）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024013111423036.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "Farcaster 本身是一个协议，就像电子邮件的底层协议 SMTP 一样。Farcaster 负责存储用户的 handle、casts（Farcaster 版本的推文）和其他交互行为（例如点赞和转发）等内容。对于终端用户来说，需要构建一个类似 Warpcast 的客户端访问该社交网络。",
           "link": "https://www.web3sj.com/project/102417/",
           "publishedOn": "2024-01-31T11:33:52.000Z",
-          "wordCount": 1112,
+          "wordCount": 1114,
           "title": "被硅谷创业教父Paul Graham点赞的Farcaster新功能Frames是什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706700819485.png"
         },
@@ -31,7 +61,7 @@
           "description": "据悉，在 Treasure 生态中，较有看点的是一款名为灯塔的游戏，目前是 TreasureDAO 的钻石合作伙伴，未来灯塔游戏极大概率可以 TreasureDAO 顶格 600w 个 MAGIC Token 的收割机（harvester）资助，该收割机资助用于支付玩家打金收益。",
           "link": "https://www.web3sj.com/project/102409/",
           "publishedOn": "2024-01-31T11:05:55.000Z",
-          "wordCount": 1505,
+          "wordCount": 1500,
           "title": "明牌「抢项目」，L2蛋糕还没做大就开始内卷了",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706699144326.png"
         },
@@ -41,7 +71,7 @@
           "description": "由DefiLlama平台数据观察，总锁仓量（TVL）已经达到576亿美金，七日上涨6%，近七天成交量达到210亿美金。",
           "link": "https://www.web3sj.com/definews/102401/",
           "publishedOn": "2024-01-31T10:51:25.000Z",
-          "wordCount": 887,
+          "wordCount": 856,
           "title": "Web3世界DeFi周报（1月24日~1月31日）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706698174212.png"
         },
@@ -51,7 +81,7 @@
           "description": "这其实只是去中心化 Sequencer 技术层的压力测试，以确保正式上线后能够稳步运作，比如，多 Sequencer 轮换机制，单 Sequencer 作恶惩罚设计，Sequencer MEV 如何问题，Sequencer 矿工生态参与问题等等。",
           "link": "https://www.web3sj.com/news/102387/",
           "publishedOn": "2024-01-31T05:38:47.000Z",
-          "wordCount": 1073,
+          "wordCount": 1079,
           "title": "Metis VS Espresso：哪种去中心化排序器代表未来？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706679516150.png"
         },
@@ -61,7 +91,7 @@
           "description": "Berachain 团队核心成员在币圈经历了牛熊后，深感流动性对 DeFi 的意义之大，相比去中心化、可扩展、安全和互操作性等，流动性是这一切的基础。该团队决定自己设计一条 L1 公链取材于曾经成功的 Defi 项目取其优势并避开其缺点，因此这就诞生了 Berachain。随后，Berachain 团队设计出了流动性证明（Proof of Liquity）的验证机制，也间接为 Berachain 的三代币模型奠定了基础。",
           "link": "https://www.web3sj.com/project/102384/",
           "publishedOn": "2024-01-31T05:33:25.000Z",
-          "wordCount": 1356,
+          "wordCount": 1349,
           "title": "一文解读Berachain的机制设计",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706679190986.png"
         },
@@ -71,39 +101,9 @@
           "description": "Puffer 是基于 EigenLayer 构建的无许可原生流动性再质押协议（permissionless native Liquid Restaking Protocol，简称 nLRP），Puffer 旨在服务三个主要群体：节点运营者（NoOps）、再质押运营者（ReOps）和 ETH 质押者，其中 ReOps 主要负责 AVSs 运行，可能同时也是 NoOps。协议中的节点利用 Puffer 的抗罚没（anti-slashing）技术能以低至 1 ETH 的成本参与节点验证和运行 AVSs，并且能同时累积 PoS 奖励和通过 AVSs 运行获得再质押奖励。",
           "link": "https://www.web3sj.com/project/102377/",
           "publishedOn": "2024-01-31T05:24:02.000Z",
-          "wordCount": 1119,
+          "wordCount": 1113,
           "title": "质押开放在即，细数币安投资新项目Puffer三大杀手锏",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706678631159.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102368",
-          "author": "Gao",
-          "description": "根据 L2 BEAT 数据，TVL 前十的 Layer 2 如下表所示（其中 Blast TVL 结合 Dune 数据）。同时，也综合 Coingecko 将已发币的 Layer 2 代币流通市值和全稀释市值（FDV）一并汇总。",
-          "link": "https://www.web3sj.com/news/102368/",
-          "publishedOn": "2024-01-31T05:13:41.000Z",
-          "wordCount": 991,
-          "title": "五大数据维度分析：大热的新L2们是否被高估",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706678010984.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102365",
-          "author": "Gao",
-          "description": "CyberConnect 属于 Web3 社交协议赛道龙头，近期颇受热议。Cyber Connect 于 2021 年创立，团队成员多数来自硅谷，目前已有 50 多个项目正在使用 Cyber Connect 构建具有社交功能的应用，例如社区拥有的社交网络、市场、内容管理、发现工具等。",
-          "link": "https://www.web3sj.com/news/102365/",
-          "publishedOn": "2024-01-31T05:03:51.000Z",
-          "wordCount": 1156,
-          "title": "CyberConnect近期热议，Web3社交开始发力",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706677418462.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102353",
-          "author": "Gao",
-          "description": "从表面上看，很容易找到两者的协同作用：加密货币的去中心化可以平衡 AI 中心化，AI 是不透明的，而加密货币可以带来透明度；AI 需要数据，而区块链擅长存储和追踪数据。但多年来，当大家要求我深入探讨具体应用时，我的回答一直比较令人失望：「是的，确实有一些值得探讨的应用，但并不多」。",
-          "link": "https://www.web3sj.com/news/102353/",
-          "publishedOn": "2024-01-31T04:03:44.000Z",
-          "wordCount": 1286,
-          "title": "Vitalik新作：Crypto+AI应用前景和挑战",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706673799513.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "PANews 2月1日消息，BitMEX联合创始人Arthur Haye在X平台发文称，预计美国联邦储备委员会主席和Jaypow和美国财政部长Bad Burl Yellen将很快开启印钞，因为纽约中央银行发布了亏损公告，贷款损失准备金比预期增加了10倍，导致10年期和2年期收益率暴跌，表明市场预计银行家将采取某种新的救助措施来解决问题。银行定期融资计划（BTFP）和贴现窗口无济于事，因为商用不动产和多户住宅贷款还不是合格的抵押品。预计比特币会小幅下跌，但如果NYCB和其他一些货币在周末抛售，预计很快就会有新的救助。然后比特币就会开始竞争，就像2023年3月的价格走势一样大幅上涨。\nHayes此前预计比特币可能会跌至35000美元的支撑位，但目前表示不确定是否能到底这个价格。此外他表示其已抛售了看跌期权。",
           "link": "https://panewslab.com/zh/articledetails/8ynz95w0.html",
           "publishedOn": "2024-02-01T02:31:02.000Z",
-          "wordCount": 345,
+          "wordCount": 347,
           "title": "Arthur Hayes：预计美国即将开启印钞，比特币或将复刻去年3月走势",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 2月1日消息，据官方博客，期权交易平台Aevo发布有关其AEVO代币的更多详细信息，Aevo将向Aevo Exchange的早期采用者空投AEVO代币，AEVO代币合约已部署，但尚未添加流动性；首次快照将在挖矿计划前进行，流动性挖矿计划将在未来几天启动。\n流动性挖矿计划的主要标准将围绕平台的数量、费用和忠诚度。忠诚度将根据Aevo的重复使用情况来衡量。还有一个额外的“流动性挖矿促进（Farming Boost）”因素，它是用户将获得的奖励的乘数。用户可以开始通过在平台上进行交易来增加Farming Boost。用户将开始以新的Farming Boost比率赚取AEVO奖励。\n一旦挖矿计划结束，Aevo Exchange上的用户将可以申领AEVO代币。DAO还将为AEVO代币注入初始流动性。",
           "link": "https://panewslab.com/zh/articledetails/4z0jt6bs.html",
           "publishedOn": "2024-02-01T01:08:28.000Z",
-          "wordCount": 347,
+          "wordCount": 353,
           "title": "Aevo将向早期采用者空投AEVO代币，并推出可赚取AEVO奖励的流动性挖矿计划",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 2月1日消息，据CryptoSlate报道，贝莱德在1月31日提交给美国证券交易委员会(SEC)的文件中提出了一项计划，拟将其比特币现货ETF的广告投放到建筑物的侧面。文件简要描述了贝莱德的计划，指出：“IBIT广告是一个动画，旨在投射到纽约、迈阿密和洛杉矶的前金融机构的外墙上。这个故事板使用我们的迈阿密外观作为模板。”IBIT代码在大多数动画运行时都会暴露，该广告内容展示了贝莱德今年1月推出现货比特币ETF之前的事件时间表，场景片段包括描述了1790年美国第一个股票市场的推出、1993年第一个美国ETF的推出、2009年比特币推出、以及2017年首个比特币期货合约推出，最后突出的场景广告语包括“一个新的准入时代”和“现货比特币ETF来了”。\n如上所述，贝莱德打算将广告投放到以前的银行大楼上。目前还不清楚该公司是否打算仅在自己的物业上这样做，还是计划从其他公司租用物业。展示中的建筑似乎是位于佛罗里达州西棕榈滩的罗斯玛丽大道360号的一栋共享建筑。\n贝莱德此前曾1月14日为IBIT发布了一则更为传统的广告。与Hashdex、VanEck、Bitwise 等公司的竞争广告相比，该广告因其简单明了且信息丰富的方式而受到认可。与此同时，私人投资者Fred Krueger观察到，一些网站已开始展示贝莱德IBIT基金的在线广告。",
           "link": "https://panewslab.com/zh/articledetails/k50oiuk6.html",
           "publishedOn": "2024-02-01T00:42:05.000Z",
-          "wordCount": 346,
+          "wordCount": 348,
           "title": "贝莱德向美SEC提交其拟将比特币现货ETF的广告投放到建筑物外墙的计划",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "Klaytn在X平台发文表示，Klaytn社区成员现在可以访问官方Klaytn Discord上的国际和地区开放聊天组， 我们仍在尽快部署所有剩余的服务和功能。与此同时，我们正在努力采取措施加强安全和数据备份。 立即生效的变更如下： ·大幅限制某些角色所拥有的权限。 ·极大地限制了改变渠道的能力。 ·调整普通聊天者+持有者的权限。 ·减少了管理角色持有者的数量。 ·限制权限以进行影响服务器的更改。 ·启动安全数据备份服务的订阅。 我们暂时暂停了对经过验证的持有者通道的访问，直到所有安全评估完成。",
           "link": "https://www.hellobtc.com/news/202401/21623.html",
           "publishedOn": "2024-01-31T07:40:00.000Z",
-          "wordCount": 312,
+          "wordCount": 318,
           "title": "Klaytn：社区成员现在可以访问官方Klaytn Discord上的国际和地区开放聊天组",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
