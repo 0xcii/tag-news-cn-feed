@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-01T05:12:29.159Z</id>
+    <id>urn:2024-02-01T06:17:17.502Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-01T05:12:29.159Z</updated>
+    <updated>2024-02-01T06:17:17.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[技术解读Chainway：比特币Layer2项目是怎么蹭概念的]]></title>
+        <id>https://www.web3sj.com/?p=102467</id>
+        <link href="https://www.web3sj.com/news/102467/"/>
+        <updated>2024-02-01T05:15:04.000Z</updated>
+        <summary type="html"><![CDATA[比如，许多原本活跃于以太坊 /Celestia 生态的模块化区块链项目，也乘着东风之便，搭上了「比特币 Layer2」的快车，并自封为「Rollup」，但其技术方案往往不符合 Rollup 的标准。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美联储主席对三月降息「泼冷水」，比特币跌破4.25万美元]]></title>
         <id>https://www.web3sj.com/?p=102459</id>
@@ -396,16 +406,6 @@ dYdX强调，dYdX不操作/控制dYdX Chain基础设施，是第三方dYdX Ops s
         <link href="https://www.web3sj.com/news/102387/"/>
         <updated>2024-01-31T05:38:47.000Z</updated>
         <summary type="html"><![CDATA[这其实只是去中心化 Sequencer 技术层的压力测试，以确保正式上线后能够稳步运作，比如，多 Sequencer 轮换机制，单 Sequencer 作恶惩罚设计，Sequencer MEV 如何问题，Sequencer 矿工生态参与问题等等。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文解读Berachain的机制设计]]></title>
-        <id>https://www.web3sj.com/?p=102384</id>
-        <link href="https://www.web3sj.com/project/102384/"/>
-        <updated>2024-01-31T05:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Berachain 团队核心成员在币圈经历了牛熊后，深感流动性对 DeFi 的意义之大，相比去中心化、可扩展、安全和互操作性等，流动性是这一切的基础。该团队决定自己设计一条 L1 公链取材于曾经成功的 Defi 项目取其优势并避开其缺点，因此这就诞生了 Berachain。随后，Berachain 团队设计出了流动性证明（Proof of Liquity）的验证机制，也间接为 Berachain 的三代币模型奠定了基础。]]></summary>
         <author>
             <name>Gao</name>
         </author>
