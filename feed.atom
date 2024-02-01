@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-01T13:14:08.148Z</id>
+    <id>urn:2024-02-01T14:12:11.697Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-01T13:14:08.148Z</updated>
+    <updated>2024-02-01T14:12:11.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blast被质疑抄袭OP代码，「流水线 L2」背后一地鸡毛？]]></title>
+        <id>https://www.web3sj.com/?p=102556</id>
+        <link href="https://www.web3sj.com/news/102556/"/>
+        <updated>2024-02-01T13:39:53.000Z</updated>
+        <summary type="html"><![CDATA[消息一出，gaslite 联合创始人 @PopPunkOnChain 随即对比了 Blast 和 Optimism 的代码库。可以看到，在原始的 Optimism 的代码库中，第一行为「// SPDX-License-Identifier:MIT」，而在 Blast 的提交界面中，「MIT」被更改为「BSL」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盘点9个Avalanche上未发币的项目]]></title>
+        <id>https://www.web3sj.com/?p=102545</id>
+        <link href="https://www.web3sj.com/news/102545/"/>
+        <updated>2024-02-01T13:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Struct 为固定和可变收益产品提供利率库和独特的分层机制。LEVR.bet 是 Avalanche 上的杠杆体育博彩平台。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：2024年值得关注的12位加密建设者]]></title>
+        <id>https://www.web3sj.com/?p=102542</id>
+        <link href="https://www.web3sj.com/news/102542/"/>
+        <updated>2024-02-01T13:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Sreeram Kannan 生活在未来，确切地说，那是一个我也想生活其中的未来。他对 EigenLayer 使人类实现灵活地大规模协调的设想，在一个似乎经常迷失方向的行业里是一股清新的空气。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[川普也转发，Polymarket变成大选民调新平台？]]></title>
+        <id>https://www.web3sj.com/?p=102535</id>
+        <link href="https://www.web3sj.com/news/102535/"/>
+        <updated>2024-02-01T13:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Polymarket 上热度最高的预测市场是「2024 年总统选举获胜者」，每个结果的起始交易价格为 0.5 美元，价格会根据用户在输赢双方下注的金额而变化，价格（赔率）代表当前事件发生的概率，也就是说当前价格为 0.5 美元意味着特郎普有 50% 的概率会当选总统。如果价格上涨至 0.7 美元，意味着特朗普有 70% 的概率赢得提名。截至撰稿时，该市场的赌注达到了 3367 万美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数读Jupiter空投获利情况：近半地址获得127美元，最高单个地址获利超13万美元]]></title>
         <id>https://www.web3sj.com/?p=102528</id>
@@ -271,46 +311,6 @@ Benkredda表示，交易机会在于自我决策，而无需该银行的建议�
         <link href="https://www.web3sj.com/news/102467/"/>
         <updated>2024-02-01T05:15:04.000Z</updated>
         <summary type="html"><![CDATA[比如，许多原本活跃于以太坊 /Celestia 生态的模块化区块链项目，也乘着东风之便，搭上了「比特币 Layer2」的快车，并自封为「Rollup」，但其技术方案往往不符合 Rollup 的标准。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储主席对三月降息「泼冷水」，比特币跌破4.25万美元]]></title>
-        <id>https://www.web3sj.com/?p=102459</id>
-        <link href="https://www.web3sj.com/news/102459/"/>
-        <updated>2024-02-01T05:00:19.000Z</updated>
-        <summary type="html"><![CDATA[鲍威尔在新闻发布会上更是直接泼冷水：「根据今天的会议，我想告诉你们，我认为委员会不太可能在三月份的会议上达到这样做的信心水平，这还有待观察。三月或不是最有可能[降息]的情况」。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文了解Jupiter：Solana史上最大空投]]></title>
-        <id>https://www.web3sj.com/?p=102448</id>
-        <link href="https://www.web3sj.com/definews/102448/"/>
-        <updated>2024-02-01T03:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Jupiter 为 Solana 公链上的 DeFi 一站式服务平台，成立于 2021 年 10 月，核心为集成各类 DeFi 应用，并优化用户使用体验。产品最初定位交换引擎，经过迭代以支持更多相关功能，如：成本平均化策略（DCA，又称定投法）、限价订单、永续交易，以及最近推出的 launchpad。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读Layer1区块链迁移到Layer2 Rollups背后的原因]]></title>
-        <id>https://www.web3sj.com/?p=102445</id>
-        <link href="https://www.web3sj.com/news/102445/"/>
-        <updated>2024-02-01T03:37:50.000Z</updated>
-        <summary type="html"><![CDATA[本文深入探讨了这些 L1 区块链的领域，揭示了管理 L1 区块链所面临的挑战，并解开了 L1 区块链迁移到 L2 Rollup 方案的优势。此外，我们探讨了最近已经跃升到 L2 Rollup 方案的 L1 区块链的案例。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在币圈，不频繁交易的胜率会更高]]></title>
-        <id>https://www.web3sj.com/?p=102440</id>
-        <link href="https://www.web3sj.com/transaction/102440/"/>
-        <updated>2024-02-01T03:32:22.000Z</updated>
-        <summary type="html"><![CDATA[许多熟悉我文章的人都知道，我采用一种非常「高信心投注」的交易风格。我喜欢在不对称的机会上下注，而且喜欢重注。这类交易的问题在于，它们往往是资本密集型的，而且在交易取得成果之前有极长的锁定期。]]></summary>
         <author>
             <name>Gao</name>
         </author>
