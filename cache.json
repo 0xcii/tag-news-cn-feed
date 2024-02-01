@@ -1,117 +1,170 @@
 {
   "sources": [
     {
-      "title": "Web3世界",
-      "feedUrl": "https://www.web3sj.com/feed/",
-      "siteUrl": "https://www.web3sj.com",
-      "articles": [
-        {
-          "id": "https://www.web3sj.com/?p=102467",
-          "author": "Gao",
-          "description": "比如，许多原本活跃于以太坊 /Celestia 生态的模块化区块链项目，也乘着东风之便，搭上了「比特币 Layer2」的快车，并自封为「Rollup」，但其技术方案往往不符合 Rollup 的标准。",
-          "link": "https://www.web3sj.com/news/102467/",
-          "publishedOn": "2024-02-01T05:15:04.000Z",
-          "wordCount": 1547,
-          "title": "技术解读Chainway：比特币Layer2项目是怎么蹭概念的",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706764446288.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102459",
-          "author": "Gao",
-          "description": "鲍威尔在新闻发布会上更是直接泼冷水：「根据今天的会议，我想告诉你们，我认为委员会不太可能在三月份的会议上达到这样做的信心水平，这还有待观察。三月或不是最有可能[降息]的情况」。",
-          "link": "https://www.web3sj.com/news/102459/",
-          "publishedOn": "2024-02-01T05:00:19.000Z",
-          "wordCount": 963,
-          "title": "美联储主席对三月降息「泼冷水」，比特币跌破4.25万美元",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706763575432.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102448",
-          "author": "Gao",
-          "description": "Jupiter 为 Solana 公链上的 DeFi 一站式服务平台，成立于 2021 年 10 月，核心为集成各类 DeFi 应用，并优化用户使用体验。产品最初定位交换引擎，经过迭代以支持更多相关功能，如：成本平均化策略（DCA，又称定投法）、限价订单、永续交易，以及最近推出的 launchpad。",
-          "link": "https://www.web3sj.com/definews/102448/",
-          "publishedOn": "2024-02-01T03:47:19.000Z",
-          "wordCount": 1185,
-          "title": "一文了解Jupiter：Solana史上最大空投",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706759228525.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102445",
-          "author": "Gao",
-          "description": "本文深入探讨了这些 L1 区块链的领域，揭示了管理 L1 区块链所面临的挑战，并解开了 L1 区块链迁移到 L2 Rollup 方案的优势。此外，我们探讨了最近已经跃升到 L2 Rollup 方案的 L1 区块链的案例。",
-          "link": "https://www.web3sj.com/news/102445/",
-          "publishedOn": "2024-02-01T03:37:50.000Z",
-          "wordCount": 1052,
-          "title": "解读Layer1区块链迁移到Layer2 Rollups背后的原因",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706758659124.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102440",
-          "author": "Gao",
-          "description": "许多熟悉我文章的人都知道，我采用一种非常「高信心投注」的交易风格。我喜欢在不对称的机会上下注，而且喜欢重注。这类交易的问题在于，它们往往是资本密集型的，而且在交易取得成果之前有极长的锁定期。",
-          "link": "https://www.web3sj.com/transaction/102440/",
-          "publishedOn": "2024-02-01T03:32:22.000Z",
-          "wordCount": 880,
-          "title": "在币圈，不频繁交易的胜率会更高",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1706758328973.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102424",
-          "author": "Gao",
-          "description": "Dencun升级已在Sepolia测试网上上线。K33 Research：现货BTC ETF交易的13天内，积累超15万枚BTC。渣打银行高管：SEC或于5月23日批准以太坊现货ETF。",
-          "link": "https://www.web3sj.com/news/102424/",
-          "publishedOn": "2024-01-31T11:45:29.000Z",
-          "wordCount": 914,
-          "title": "Web3世界日报（2024-1.31）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/2024013111423036.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102417",
-          "author": "Gao",
-          "description": "Farcaster 本身是一个协议，就像电子邮件的底层协议 SMTP 一样。Farcaster 负责存储用户的 handle、casts（Farcaster 版本的推文）和其他交互行为（例如点赞和转发）等内容。对于终端用户来说，需要构建一个类似 Warpcast 的客户端访问该社交网络。",
-          "link": "https://www.web3sj.com/project/102417/",
-          "publishedOn": "2024-01-31T11:33:52.000Z",
-          "wordCount": 1081,
-          "title": "被硅谷创业教父Paul Graham点赞的Farcaster新功能Frames是什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706700819485.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102409",
-          "author": "Gao",
-          "description": "据悉，在 Treasure 生态中，较有看点的是一款名为灯塔的游戏，目前是 TreasureDAO 的钻石合作伙伴，未来灯塔游戏极大概率可以 TreasureDAO 顶格 600w 个 MAGIC Token 的收割机（harvester）资助，该收割机资助用于支付玩家打金收益。",
-          "link": "https://www.web3sj.com/project/102409/",
-          "publishedOn": "2024-01-31T11:05:55.000Z",
-          "wordCount": 1526,
-          "title": "明牌「抢项目」，L2蛋糕还没做大就开始内卷了",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706699144326.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102401",
-          "author": "Gao",
-          "description": "由DefiLlama平台数据观察，总锁仓量（TVL）已经达到576亿美金，七日上涨6%，近七天成交量达到210亿美金。",
-          "link": "https://www.web3sj.com/definews/102401/",
-          "publishedOn": "2024-01-31T10:51:25.000Z",
-          "wordCount": 876,
-          "title": "Web3世界DeFi周报（1月24日~1月31日）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706698174212.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=102387",
-          "author": "Gao",
-          "description": "这其实只是去中心化 Sequencer 技术层的压力测试，以确保正式上线后能够稳步运作，比如，多 Sequencer 轮换机制，单 Sequencer 作恶惩罚设计，Sequencer MEV 如何问题，Sequencer 矿工生态参与问题等等。",
-          "link": "https://www.web3sj.com/news/102387/",
-          "publishedOn": "2024-01-31T05:38:47.000Z",
-          "wordCount": 1063,
-          "title": "Metis VS Espresso：哪种去中心化排序器代表未来？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1706679516150.png"
-        }
-      ]
-    },
-    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/quj544j2.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据Scopescan监测，疑似BitMEX联合创始人Arthur Hayes刚刚从币安提取了50万枚PENDLE，约合126.5万美元。",
+          "link": "https://panewslab.com/zh/articledetails/quj544j2.html",
+          "publishedOn": "2024-02-01T06:44:45.000Z",
+          "wordCount": 339,
+          "title": "疑似Arthur Hayes刚刚从币安提取50万枚PENDLE，约合126.5万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u08czfim.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据官方消息，OKX Web3钱包现已集成ZetaChain主网，用户无需手动配置，可一键切换至ZetaChain网络，进行相应币种管理以及生态DApp交互。此外，用户现在不仅可以通过OKX Web3 Giveaway检查并领取Zeta空投，同时Cryptopedia第八期交互任务的ZETA奖励已发放至中奖用户钱包。\n据悉，OKX Web3钱包是行业领先的一站式Web3入口，现已支持85+公链，App、插件、网页三端统一，涵盖钱包、DEX、DeFi、NFT 市场、DApp探索5大板块、并支持Ordinals市场、MPC和AA智能合约钱包、兑换Gas、连接硬件钱包等。",
+          "link": "https://panewslab.com/zh/articledetails/u08czfim.html",
+          "publishedOn": "2024-02-01T06:40:28.000Z",
+          "wordCount": 354,
+          "title": "OKX Web3钱包现已集成ZetaChain主网，用户可以领取ZETA空投奖励",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ecljth79.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据派盾监测，黑客在2024年1月的30多次攻击中窃取了约1.8254亿美元，与2023年1月相比同比增长了771.39%（金额为2095万美元）。此外ZachXBT报道的1月31日Ripple联创Chris Larsen相关事件成为今年第一个月最热门的黑客事件。\n此前昨日消息，ZachXBT称Ripple疑似遭到黑客攻击导致约2.13亿XRP被盗，价值约1.125亿美元；Chris Larsen回应称遭黑客攻击的是个人账户非Ripple，执法部门已经介入。",
+          "link": "https://panewslab.com/zh/articledetails/ecljth79.html",
+          "publishedOn": "2024-02-01T06:35:12.000Z",
+          "wordCount": 362,
+          "title": "派盾：1月份加密领域在30多次黑客事件中共损失约1.82亿美元，同比增长771.39%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e6mzpg07.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据Finsmes报道，去中心化DePIN基础设施服务提供商Hivello宣布完成150万新一轮融资，Blockchange、Cypher Capital、MH Ventures、Primal Capital、Contango Digital Assets、Candaq、NGC、Blockchain Founders Fund、IDG等参投，该公司打算利用新融资扩大其技术能力，加快产品开发，并巩固其在DePIN领域的市场地位。\n据悉，DePIN是指利用区块链技术和代币激励来构建物理基础设施网络，这样其他项目就不需要承担购买和运行自己的设备的成本。此前去年12月消息，Hivello完成100万美元Pre-Seed轮融资。",
+          "link": "https://panewslab.com/zh/articledetails/e6mzpg07.html",
+          "publishedOn": "2024-02-01T06:24:12.000Z",
+          "wordCount": 367,
+          "title": "DePIN基础设施提供商Hivello完成150万美元新一轮融资，NGC等参投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wh9fiify.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据路透社报道，萨尔瓦多副总统Felix Ulloa表示，在总统Nayib Bukele的第二任期内，比特币仍将是萨尔瓦多的法定货币。在选举前几天，由于严厉的帮派打击，Bukele预计将轻松获胜，Ulloa暂时休假与Bukele一起竞选连任，他加倍支持中美洲国家采用加密货币作为法定货币。Ulloa表示，这一声明是在国际货币基金组织（IMF）要求萨尔瓦多在十亿美元贷款谈判期间“重新考虑”这一措施之后发布的，政府无意改变这一决定，且美国SEC最近宣布允许在美国上市的ETF追踪比特币，这只会坚定该国决心。\nUlloa还表示，如果Bukele和他的新理念党如绝大多数民意调查所预测的那样在周日的选举中大获全胜，萨尔瓦多政府将继续计划在2024年第一季度发行比特币支持的债券，比特币城（Bukele提议在该国东部建设的免税加密货币天堂）的建设以及向加密货币投资者发放护照的计划也将继续进行。",
+          "link": "https://panewslab.com/zh/articledetails/wh9fiify.html",
+          "publishedOn": "2024-02-01T06:18:39.000Z",
+          "wordCount": 347,
+          "title": "萨尔瓦多副总统：萨尔瓦多将在大选后继续致力于比特币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a0wyorrg.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据Cointelegraph报道，币安驳斥了一篇404 Media发布的“币安代码和内部密码在GitHub上暴露数月”的报告，并辩称这些代码已经过时，构成了“微不足道的风险”。根据404 Media 1月31日的报道，GitHub上存在“代码、基础架构图、内部密码和其他技术信息”的缓存，包括有关交易所如何执行密码和多因素身份验证的信息。报告指出，币安在1月24日提出版权删除请求，成功请求GitHub删除这些文件，该交易所称这些信息“构成重大风险”，并且是“未经授权”发布的。\n但币安发言人告诉Cointelegraph，该人“在GitHub上分享了非常过时的信息”，他们的安全团队证实，缓存与“我们目前在生产中的缓存不一样”。币安补充说，这些信息“对用户及其资产，以及币安平台的安全构成的风险可以忽略不计”，这些信息已经过时，任何第三方或恶意行为者都无法使用；币安将保护其过去或现在的知识产权，并旨在减轻“对私人数据发布的不必要混淆或无端担忧”造成的伤害，因此它向GitHub发出了删除请求，并对该用户采取法律行动。\n然而，币安向GitHub提出的请求多次声称，这些信息是“我们客户的内部代码，这对币安构成了重大风险。并对币安造成严重的经济损失和用户的困惑/伤害”。币安没有回应有关此事的进一步问题。",
+          "link": "https://panewslab.com/zh/articledetails/a0wyorrg.html",
+          "publishedOn": "2024-02-01T06:09:23.000Z",
+          "wordCount": 347,
+          "title": "币安声称GitHub上的代码泄露已经“过时”，构成轻微风险",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jorurjh1.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，韩国互联网巨头Kakao开发的区块链Klaytn在X平台表示，关于“Klaytn与日本社交巨头LINE旗下区块链Finschia主网合并的KGP-25提案”的投票期将延长。应社区和治理成员的要求，延长投票期的实施是为了让所有治理参与者有更多机会进一步澄清和对话。提案（KGP-25）本身不会进行进一步调整。关于此提案的投票已于1月31日暂停，2月1日至2月7日将为社区和GC成员提供更深层次的额外文档共享的细节，此提案将于2月8日至2月15日重新开放投票。",
+          "link": "https://panewslab.com/zh/articledetails/jorurjh1.html",
+          "publishedOn": "2024-02-01T05:50:44.000Z",
+          "wordCount": 348,
+          "title": "Klaytn与Finschia主网合并提案投票暂停，2月8日至15日将重新开放",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/r3e4rtut.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据链上分析师@ai_9684xtpa监测，15分钟前，灰度向Flow Trader转移311枚BTC和5863枚ETH ，总价值2637万美元。目前Flow Trader暂未转移/卖出这笔资金。",
+          "link": "https://panewslab.com/zh/articledetails/r3e4rtut.html",
+          "publishedOn": "2024-02-01T05:34:52.000Z",
+          "wordCount": 362,
+          "title": "灰度向Flow Trader转移311枚BTC和5863枚ETH，总价值2637万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/mf2k9mjl.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据Cointelegraph报道，在2023年10月7日哈马斯袭击以色列事件中受害的三个家庭提起的诉讼中，加密交易所币安、其前首席执行官赵长鹏以及伊朗和叙利亚政府被列为被告。原告包括曾被哈马斯劫持的一名人质（美国人，现已被释放）、受害者家属和一名在治疗伤者时被杀害的医生的亲属，他们根据《美国反恐怖主义法》要求赔偿，声称被告向恐怖分子提供了“实质性援助”。\n原告指控币安协助、教唆指定的境外恐怖组织，为恐怖分子提供物质支持，为境外恐怖组织提供物质支持。他们正在寻求补偿性和惩罚性赔偿以及费用报销。与此同时，伊朗政府被指控为哈马斯和国际恐怖主义的“全球主要赞助者”，包括向该组织提供数亿美元的支持——包括军事训练、设备和专业知识。 叙利亚也受到类似指控，其中还包括向哈马斯提供一种名为“Captagon”的毒品的指控，“据信，这种毒品的销售是恐怖组织的资金来源，哈马斯恐怖分子利用这种毒品来煽动愤怒、烦躁和不耐烦的情绪”，从而鼓励他们“谋杀和折磨”10月7日恐怖袭击的受害者。",
+          "link": "https://panewslab.com/zh/articledetails/mf2k9mjl.html",
+          "publishedOn": "2024-02-01T05:33:16.000Z",
+          "wordCount": 338,
+          "title": "哈马斯受害者起诉币安涉嫌“协助”恐怖分子",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/huorzt6g.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据官方博客，Web3游戏平台Yooldo宣布以1300万美元估值完成150万美元融资，Bedrock Ventures、Double jump.tokyo、Edimus、Hyperithm、Klaytn Foundation、Manta Network、Neopin、Planetarium、Presto Labs、Vista Labs 参投。此外，grant赞助者包括Aptos Foundation、BNB Chain、Immutable X、Oasys。新融资将用于完善技术，为平台带来更多游戏，并发展其社区。\n据介绍，Yooldo旨在构建一个将玩家、创作者和构建者聚集在一起的下一代游戏生态系统，“Trouble Punk: Cyber​​ Galz”为其自制游戏。Yooldo已被纳入Consensys Scale Program和Google for Startups Program。",
+          "link": "https://panewslab.com/zh/articledetails/huorzt6g.html",
+          "publishedOn": "2024-02-01T05:26:05.000Z",
+          "wordCount": 391,
+          "title": "Web3游戏平台YooldoYooldo完成150万美元融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5yxx6kpb.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据Spot On Chain分析，FTT的价格在过去几个小时内下跌了35%。FTX和Alameda仍然持有总供应量的76%，在过去的两个月里没有卖出，即使 FTT价格曾一度达到5.5美元；在过去的几个小时里，没有很多重大的链上代币活动，只有内部交换交易。由于流通供应有限，参与FTT交易的主要是鲸鱼玩家。\n此前消息，FTX律师表示，FTX放弃重启加密交易所，但将全额偿还债权人。如果获得破产法院批准，预计这些资金将在2024年第二季度末之前支付。需要注意的是，FTT持有者将无法获得任何索赔。",
+          "link": "https://panewslab.com/zh/articledetails/5yxx6kpb.html",
+          "publishedOn": "2024-02-01T05:17:05.000Z",
+          "wordCount": 345,
+          "title": "FTX和Alameda仍持有FTT总供应量的76%，且链上FTT代币活动并不活跃",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d8acv8s1.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息官方消息，近日，IOST 宣布正式加入香港【Cyberport Incubation Programme】，并将于今年推出「IOST BaaS (Blockchain as a Service) Soluion」。\n【Cyberport Incubation Programme】，是包括数码港智慧生活初创培育计划在內的全方位创业支援，助创业家及初创企业加快业务增长。",
+          "link": "https://panewslab.com/zh/articledetails/d8acv8s1.html",
+          "publishedOn": "2024-02-01T05:16:35.000Z",
+          "wordCount": 407,
+          "title": "IOST 加入Cyberport Incubation Programme并将推出IOST BaaS Soluion",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bbl6ffhb.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据链上分析师余烬监测，第三位卖出/转出CRV的OTC买家为Cream Finance。Cream Finance去年8月花费100万U OTC买入250万枚CRV后将CRV存入Curve及Convex。1小时前Cream Finance将这些CRV全部取回并在链上售出换成110万U，实现盈利10万美元。\nCRV价格从麻吉(machibigbrother.eth) 上午9:30转出CRV开始到现在，下跌了6%($0.47→$0.44)。",
+          "link": "https://panewslab.com/zh/articledetails/bbl6ffhb.html",
+          "publishedOn": "2024-02-01T05:10:05.000Z",
+          "wordCount": 352,
+          "title": "第三位转出CRV的OTC买家为Cream Finance，1小时前将250万枚CRV于链上售出",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/p68l23no.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据官方消息，OKX Web3钱包现已开启 Solana Super Season 第三季，用户只需完成指定的在OKX DEX交易JUP、提供流动性、交易SOL生态代币等任务，即有机会赢取价值$45,000的SOL生态代币和USDT奖励。\n据悉，OKX Web3钱包是支持Solana生态功能最全面、奖励最丰富、使用体验最安全便捷的钱包。用户不仅可以通过OKX DEX进行Solana网络的跨链交易、通过OKX DeFi参与Solana生态的主流协议质押与借贷、通过OKX NFT市场探索Solana NFT和铭文生态、通稿OKX Web3钱包进行Solana资产管理、还可以通过OKX Discover板块探索并交互Solana热门DAPP等等。",
+          "link": "https://panewslab.com/zh/articledetails/p68l23no.html",
+          "publishedOn": "2024-02-01T05:09:36.000Z",
+          "wordCount": 397,
+          "title": "OKX Web3钱包开启 Solana Super Season 第三季",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xg54798v.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据The Block报道，Animoca Brands子公司Animoca Brands Japan已任命业内资深人士Kensuke Amo担任首席运营官，以继续推动日本市场的增长。Animoca今天在一份声明中表示，Amo曾担任Coincheck的常务执行官，并领导NFT和新的加密资产业务。\nAmo在声明中表示:“作为Animoca Brands的战略子公司，Animoca Brands Japan将充分利用其资产和网络，包括其400多家投资组合公司，同时结合其在日本Web3行业的商业和规则制定方面的知识和经验，帮助推进Web3采用。”",
+          "link": "https://panewslab.com/zh/articledetails/xg54798v.html",
+          "publishedOn": "2024-02-01T05:04:19.000Z",
+          "wordCount": 378,
+          "title": "Animoca Brands Japan任命Coincheck前高管Kensuke Amo担任首席运营官",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/sjtzw8sm.html",
+          "author": "PA一线",
+          "description": "PANews 2月1日消息，据官方公告，币安表示，币安安全团队一直在努力沟通并持续解决与XIRTAM项目资产返还相关的问题。平台已于2023年09月06日为用户（超过1,750个受影响地址）启动资产返回流程，协助返回此次事件中受影响用户的资产。为了维护所有相关用户的利益，币安将于2024年02月29日停止XIRTAM“一级市场”用户资产返回领取，并将于2024年03月10日启动“二级市场”用户资产返回流程。\n1. “一级市场”用户资产领取将于2024年02月29日截止\n币安注意到参加XIRTAM官方代币发售（包括私募发售和公开发售）的用户中（一级市场用户），目前仍有约150位受影响用户未领取相应的资产返回。提醒您尽快阅读下方币安官方指南以确认领取资格，并于截止日期2024年02月29日前务必完成资产返回的申请。\n2. “二级市场”用户资产返回将于2024年03月10日启动\n由于币安未持有用户在二级市场购买XIRTAM时支付的资产，这部分受影响的资产本不在此次资产返回的范畴中。秉承“用户至上”、“保护用户”的原则，币安将使用“一级市场”用户资产返回完成后剩余的ETH资产，为部分通过二级市场购买XIRTAM的受影响用户，进行XIRTAM资产返回的计算和确认。\n该过程预计将于2024年03月10日启动，此次“二级市场”返回将由平台自动计算，无须用户提供相关材料。计算完成后，币安将逐步通过智能合约地址为符合资格的用户发放相应的ETH资产，具体规则将于“一级市场”用户资产返回结束后另行公告。",
+          "link": "https://panewslab.com/zh/articledetails/sjtzw8sm.html",
+          "publishedOn": "2024-02-01T05:02:30.000Z",
+          "wordCount": 344,
+          "title": "币安：XIRTAM“一级市场”用户资产返回即将结束，“二级市场”用户资产返回即将启动",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/slfmat9a.html",
           "author": "PA一线",
@@ -128,7 +181,7 @@
           "description": "PANews 2月1日消息，据链上分析师@ai_9684xtpa监测，Puffer今早已开启质押，截止目前累计存入7301枚stETH和wstETH，价值1653万美元；质押排行第一的地址为0x49D...f2eF7，共存入1501枚stETH。注意：在02.01 - 02.09活动期间质押将获得两倍积分（目前质押1 ETH获得10000积分）。\n此前，Puffer Finance在X平台宣布，已向用户开放质押stETH和wstETH，可赚取Puffer和EigenLayer积分。",
           "link": "https://panewslab.com/zh/articledetails/pui2b69e.html",
           "publishedOn": "2024-02-01T04:01:43.000Z",
-          "wordCount": 329,
+          "wordCount": 334,
           "title": "Puffer今早开启质押以来已累计存入7301枚stETH和wstETH，价值1653万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +191,7 @@
           "description": "PANews 2月1日消息，Ark Invest在《Big Ideas 2024》报告中表示，根据传统资产类别的波动性和回报性，研究表明，为了寻求最大化风险调整回报，2023年投资组合中比特币的最优配置比例为19.4%，而该比例在2015年仅为0.5%，2016年至2022年平均最优配置比例为4.8%。此外，报告称，若将250万亿美元的全球可投资资产配置到比特币中，将对比特币价格产生重大影响。如果将其中的1%分配至比特币，比特币价格潜力达12万美元；若分配4.8%至比特币，比特币价格潜力达55万美元；若分配19.4%至比特币，比特币价格潜力达55万美元。\n关于智能合约，报告称，智能合约可以以传统金融成本的一小部分促进链上资产的创建、所有权和管理。如果金融资产以类似于互联网采用的速度迁移到区块链基础设施，并且与去中心化金融服务相关的费率是传统金融服务的三分之一，那么智能合约可以产生超过4500亿美元的年费，创造超过5万亿美元的市场价值，到2030年分别以78%和32%的复合年增长率增长。",
           "link": "https://panewslab.com/zh/articledetails/15eqnt8a.html",
           "publishedOn": "2024-02-01T03:44:14.000Z",
-          "wordCount": 391,
+          "wordCount": 389,
           "title": "Ark Invest报告：2023年投资组合中比特币的最优配置比例为19.4%，而2015年仅为0.5%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -150,166 +203,6 @@
           "publishedOn": "2024-02-01T03:23:27.000Z",
           "wordCount": 351,
           "title": "某地址将从Curve创始人处OTC买入的250万枚CRV转入币安，约合114万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/r9hjztfo.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据官方公告，币安现已完成USD Coin（USDC）于Polkadot网络的集成，并开放充值、提现业务。",
-          "link": "https://panewslab.com/zh/articledetails/r9hjztfo.html",
-          "publishedOn": "2024-02-01T03:17:22.000Z",
-          "wordCount": 337,
-          "title": "币安完成USDC于Polkadot网络集成，并开放充提业务",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/i790i1d8.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据CoinDesk报道，Web3漏洞赏金平台Immunefi发布的一份报告显示，2024年1月份加密用户在19起特定的黑客和欺诈事件中损失了126,782,617美元，同比增加6倍，环比增加近3倍。在2024年1月，DeFi是攻击的主要目标，而CeFi未经历重大攻击。与欺诈相比，黑客攻击仍然是造成损失的主要原因。在2024年1月，由于14起具体的黑客事件，总共损失了122,709,800美元。2024年1月，易受攻击区块链是以太坊和BNBChain，占总损失的58%以上。",
-          "link": "https://panewslab.com/zh/articledetails/i790i1d8.html",
-          "publishedOn": "2024-02-01T03:15:19.000Z",
-          "wordCount": 354,
-          "title": "报告：2024年1月份加密用户在黑客和欺诈事件中损失超1.26亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/g0pw9b0f.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，比特币Layer2网络Stacks在官方博客中表示，Nakamoto升级时间窗口已缩小至2024年4月15日至29 日。团队表示，通过此次升级，Stacks网络受比特币区块时间的限制将被消除，从而实现Stacks性能的持续提升和扩展性优化。",
-          "link": "https://panewslab.com/zh/articledetails/g0pw9b0f.html",
-          "publishedOn": "2024-02-01T02:47:29.000Z",
-          "wordCount": 343,
-          "title": "比特币L2网络Stacks的Nakamoto升级预计于4月中下旬进行",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/37uopcim.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据Spot On Chain监测，在过去2天中，Celsius进一步向Coinbase Prime存入67,500枚ETH（约合1.565亿美元）。\n总体而言，自2023年11月13日以来，Celsius已将847,626枚ETH (约合19亿美元) 转移到CEX。其中一些ETH可能已通过场外交易被鲸鱼吸收。\n今日早些时候消息，Celsius退出破产流程，已开始向债权人分配超30亿美元加密货币和法币。",
-          "link": "https://panewslab.com/zh/articledetails/37uopcim.html",
-          "publishedOn": "2024-02-01T02:40:45.000Z",
-          "wordCount": 372,
-          "title": "Celsius过去2天再次向Coinbase Prime存入67500枚ETH，约合1.565亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/8ynz95w0.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，BitMEX联合创始人Arthur Haye在X平台发文称，预计美国联邦储备委员会主席和Jaypow和美国财政部长Bad Burl Yellen将很快开启印钞，因为纽约中央银行发布了亏损公告，贷款损失准备金比预期增加了10倍，导致10年期和2年期收益率暴跌，表明市场预计银行家将采取某种新的救助措施来解决问题。银行定期融资计划（BTFP）和贴现窗口无济于事，因为商用不动产和多户住宅贷款还不是合格的抵押品。预计比特币会小幅下跌，但如果NYCB和其他一些货币在周末抛售，预计很快就会有新的救助。然后比特币就会开始竞争，就像2023年3月的价格走势一样大幅上涨。\nHayes此前预计比特币可能会跌至35000美元的支撑位，但目前表示不确定是否能到底这个价格。此外他表示其已抛售了看跌期权。",
-          "link": "https://panewslab.com/zh/articledetails/8ynz95w0.html",
-          "publishedOn": "2024-02-01T02:31:02.000Z",
-          "wordCount": 353,
-          "title": "Arthur Hayes：预计美国即将开启印钞，比特币或将复刻去年3月走势",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2y2ehjv7.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据新火科技控股发布的2023年年报，该公司2023年年报净亏损2.88亿港元。年报称，全球经济下行，虚拟资产熊市持续，来自云服务的收益于2023年度大幅下降。此乃由于虚拟资产价格下跌，虚拟资产交易量亦随之减少所导致。\n集团对其的未来业绩不感乐观，并已于2022年11月，按代价327万美元向公司一名独立第三方Exonexa Limited出售Win Techno Inc.(公司的全资附属公司)。该出售事项已于2022年11月完成。集团将整合资源及专注向全球客户提供其他特定技术解决方案服务。",
-          "link": "https://panewslab.com/zh/articledetails/2y2ehjv7.html",
-          "publishedOn": "2024-02-01T02:14:06.000Z",
-          "wordCount": 349,
-          "title": "新火科技2023年年报净亏损2.88亿港元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ak3gpn60.html",
-          "author": "PA一线",
-          "description": "美联储维持利率不变\n美联储公布2024年首次利率决议，将联邦基金利率目标区间维持在5.25%-5.50%区间不变。这是美联储连续第四次维持这一利率区间不变。FOMC声明强调，近期指标显示美国经济活动持续稳步扩张。自2023年初以来，就业增长有所放缓，但依然强劲，失业率保持在低位。通货膨胀水平在过去一年有所缓解，但仍处于高位。不会在通胀接近2%的信心增强之前降息。如有风险威胁通胀目标，将准备调整政策。FOMC声明中删除了“可能进一步收紧政策”的措辞。\n晚些时候消息，美联储主席鲍威尔表示，年内降息可能是合适的，不认为美联储会在3月启动降息。\n英国警方从一起中国投资欺诈案中查获近18亿美元的比特币\n据金融时报报道，英国警方从一起中国投资诈骗案中查获价值近18亿美元的比特币（BTC）。南沃克皇家法院了解到，该案中的被告Jian Wen被指控代表其前雇主Yadi Zhang（真名钱芝民）洗钱。在2018年，英国警方查获了四个装有超过61000枚比特币的设备，这些比特币在2021年7月全部回收时价值达14亿英镑。Yadi Zhang从超过128000名投资者那里盗取了大约50亿英镑，随后将其转换为比特币。目前，Yadi Zhang在逃。Jian Wen否认相关指控，她在审判中因涉嫌帮助将Yadi Zhang的部分比特币转换为现金、财产、珠宝和其他奢侈品而受审。\n贝莱德向美SEC提交其拟将比特币现货ETF的广告投放到建筑物外墙的计划\n据CryptoSlate报道，贝莱德在1月31日提交给美国证券交易委员会(SEC)的文件中提出了一项计划，拟将其比特币现货ETF的广告投放到建筑物的侧面。文件简要描述了贝莱德的计划，指出：“IBIT广告是一个动画，旨在投射到纽约、迈阿密和洛杉矶的前金融机构的外墙上。这个故事板使用我们的迈阿密外观作为模板。”IBIT代码在大多数动画运行时都会暴露，该广告内容展…",
-          "link": "https://panewslab.com/zh/articledetails/ak3gpn60.html",
-          "publishedOn": "2024-02-01T02:04:20.000Z",
-          "wordCount": 692,
-          "title": "昨夜今晨重要资讯（1月31日-2月1日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2024/02/01/images/0IR832590t.png"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2phkmboz.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，链上分析师余烬在X平台表示，Curve创始人Michael Egorov去年8月OTC出售的CRV在今天已结束6个月的锁定期。第一位在锁定期结束后转出CRV的是买家是：麻吉(machibigbrother.eth)，即黄立成。麻吉在15分钟前从Curve将他OTC购买的375万枚CRV(约合175万美元) 赎回然后转入币安。去年8月其花费150万枚USDT以0.4美元的价格购买，现在出售将实现收益25万美元(+16%)。",
-          "link": "https://panewslab.com/zh/articledetails/2phkmboz.html",
-          "publishedOn": "2024-02-01T01:49:41.000Z",
-          "wordCount": 340,
-          "title": "Curve创始人去年OTC出售的CRV今天结束锁定期，黄立成15分钟前已将375万枚CRV转入币安",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/hf175i0s.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，链接BTC的全链智能合约L1公链ZetaChain宣布，首次ZETA空投将于北京时间2月1日10点在ZetaHub开放领取。\nZetaChain属于L1公链，但与其他只专注于自己独立生态的公链不同的是，ZetaChain希望实现不同区块链之间的消息传递和智能合约互操作。此外，ZetaChain能兼容比特币网络的智能合约。ZetaChain目前已和Sushi、Curve等将近200个项目达成生态合作伙伴关系。\n此外1月26日消息，ZetaChain公布ZETA代币经济学：初始供应总量21亿枚，22%用于社区奖励。",
-          "link": "https://panewslab.com/zh/articledetails/hf175i0s.html",
-          "publishedOn": "2024-02-01T01:45:50.000Z",
-          "wordCount": 338,
-          "title": "ZetaChain：首次ZETA空投将于今日10点开放领取",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1869icp0.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，跨链基础设施Wormhole在官方博客中公布ZK路线图，主要内容如下：\n1.引入密码学专业知识：Wormhole基金会已向四个专门从事零知识密码学的新工程团队提供贡献者资助，并将在未来几周内发布这些公告。\n2.解锁硬件资源：Wormhole贡献者将与战略硬件提供商合作，加速轻客户端的实现，并随着支持ZK的通道和 ZK 验证消息的数量不断扩大，为Wormhole贡献者采购硬件加速器。\n3.即将推出的轻客户端：轻客户端允许用户和应用程序快速有效地验证区块链网络的状态（例如经常账户余额、智能合约数据等）；由于验证成本高，直接在链上运行轻客户端（作为智能合约）在许多区块链上仍然是不可行的，但可以使用简洁，可验证的计算；这允许在链下执行昂贵的轻客户端验证，并以更低的成本在链上验证轻客户端执行的正确性；在接下来的几个月中，面向区块链（包括以太坊、Sui、Aptos、Near 和 Cosmos）的ZK轻客户端将被部署并与Wormhole集成，从而实现无需信任的双向数据传输。",
-          "link": "https://panewslab.com/zh/articledetails/1869icp0.html",
-          "publishedOn": "2024-02-01T01:41:26.000Z",
-          "wordCount": 346,
-          "title": "Wormhole：未来几个月面向多个区块链的ZK轻客户端将被部署并与Wormhole集成",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/pqv404uk.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，币安行情显示，JUP于凌晨0:00上线后短时触及0.8720美元，现回落至0.6414美元，较开盘价0.03美元上涨2038%。",
-          "link": "https://panewslab.com/zh/articledetails/pqv404uk.html",
-          "publishedOn": "2024-02-01T01:24:07.000Z",
-          "wordCount": 337,
-          "title": "JUP上线币安后短时触及0.87美元后回落至0.64美元，目前较开盘价上涨2038%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vsxmsyd3.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据官方公告，币安已于今日凌晨02:30上线JUP 1-50 倍U本位永续合约。",
-          "link": "https://panewslab.com/zh/articledetails/vsxmsyd3.html",
-          "publishedOn": "2024-02-01T01:18:24.000Z",
-          "wordCount": 344,
-          "title": "币安已于凌晨上线JUP 1-50倍U本位永续合约",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4z0jt6bs.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据官方博客，期权交易平台Aevo发布有关其AEVO代币的更多详细信息，Aevo将向Aevo Exchange的早期采用者空投AEVO代币，AEVO代币合约已部署，但尚未添加流动性；首次快照将在挖矿计划前进行，流动性挖矿计划将在未来几天启动。\n流动性挖矿计划的主要标准将围绕平台的数量、费用和忠诚度。忠诚度将根据Aevo的重复使用情况来衡量。还有一个额外的“流动性挖矿促进（Farming Boost）”因素，它是用户将获得的奖励的乘数。用户可以开始通过在平台上进行交易来增加Farming Boost。用户将开始以新的Farming Boost比率赚取AEVO奖励。\n一旦挖矿计划结束，Aevo Exchange上的用户将可以申领AEVO代币。DAO还将为AEVO代币注入初始流动性。",
-          "link": "https://panewslab.com/zh/articledetails/4z0jt6bs.html",
-          "publishedOn": "2024-02-01T01:08:28.000Z",
-          "wordCount": 365,
-          "title": "Aevo将向早期采用者空投AEVO代币，并推出可赚取AEVO奖励的流动性挖矿计划",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/wx82uoor.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，dYdX在X平台表示，Coinbase现已支持将USDC直接存入dYdX Chain，dYdX产品不适用于美国或受限制地区的用户。\ndYdX强调，dYdX不操作/控制dYdX Chain基础设施，是第三方dYdX Ops subDAO拥有和运营的网站，该组织独立于dYdX且不隶属于dYdX。",
-          "link": "https://panewslab.com/zh/articledetails/wx82uoor.html",
-          "publishedOn": "2024-02-01T00:47:22.000Z",
-          "wordCount": 353,
-          "title": "Coinbase支持将USDC直接存入dYdX Chain",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/k50oiuk6.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据CryptoSlate报道，贝莱德在1月31日提交给美国证券交易委员会(SEC)的文件中提出了一项计划，拟将其比特币现货ETF的广告投放到建筑物的侧面。文件简要描述了贝莱德的计划，指出：“IBIT广告是一个动画，旨在投射到纽约、迈阿密和洛杉矶的前金融机构的外墙上。这个故事板使用我们的迈阿密外观作为模板。”IBIT代码在大多数动画运行时都会暴露，该广告内容展示了贝莱德今年1月推出现货比特币ETF之前的事件时间表，场景片段包括描述了1790年美国第一个股票市场的推出、1993年第一个美国ETF的推出、2009年比特币推出、以及2017年首个比特币期货合约推出，最后突出的场景广告语包括“一个新的准入时代”和“现货比特币ETF来了”。\n如上所述，贝莱德打算将广告投放到以前的银行大楼上。目前还不清楚该公司是否打算仅在自己的物业上这样做，还是计划从其他公司租用物业。展示中的建筑似乎是位于佛罗里达州西棕榈滩的罗斯玛丽大道360号的一栋共享建筑。\n贝莱德此前曾1月14日为IBIT发布了一则更为传统的广告。与Hashdex、VanEck、Bitwise 等公司的竞争广告相比，该广告因其简单明了且信息丰富的方式而受到认可。与此同时，私人投资者Fred Krueger观察到，一些网站已开始展示贝莱德IBIT基金的在线广告。",
-          "link": "https://panewslab.com/zh/articledetails/k50oiuk6.html",
-          "publishedOn": "2024-02-01T00:42:05.000Z",
-          "wordCount": 354,
-          "title": "贝莱德向美SEC提交其拟将比特币现货ETF的广告投放到建筑物外墙的计划",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0dce76we.html",
-          "author": "PA一线",
-          "description": "PANews 2月1日消息，据灰度官方发布的每日持仓更新显示，截至2024年1月31日，其持有的比特币数量为487,025.986枚，较昨日的492,112.4534枚减少5086.4674枚。此外，截至1月31日GBTC的资产管理规模（非公认会计原则）约为207.08亿美元，流通股降至5.45亿份，每股持有BTC约为0.00089353枚。",
-          "link": "https://panewslab.com/zh/articledetails/0dce76we.html",
-          "publishedOn": "2024-02-01T00:24:23.000Z",
-          "wordCount": 341,
-          "title": "灰度GBTC 1月31日比特币持仓较前一日减少约5086枚",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -325,9 +218,9 @@
           "description": "1.Tether 2023财报：Q4利润为28.5亿美元，全年总利润录得62亿美元。\n\n2.FTX预计将在破产清算中全额支付客户索赔，但不会重启。\n\n3.香港对WorldCoin涉嫌违规收集客户虹膜资料展开调查。\n\n4.Vitalik Buterin提出密码朋克愿景：ETH应该超越金钱。\n\n5.THORChain新提案拟销毁价值3亿美元RUNE以扩大借贷规模。\n\n6.BNB Chain发布2024年展望：核心为「One BNB」互联战略，将通过opBNB Connect扩展Layer 2生态系统。\n\n7.ZetaChain发布生态版图，超200个生态项目将在主网启动后陆续上线。\n\n8.Binance将于2月1日2:30上线JUP 1-50倍U本位合约。\n\n9.私募股权公司KKR宣布其基金完成募集资金64亿美元。\n\n10.Coinbase将上线ZetaChain(ZETA)。\n\n11.ZetaChain启动主网测试版，已开放ZETA空投申领。\n\n12.Puffer Finance已开放stETH和wstETH质押，用户可获Puffer和EigenLayer积分奖励。",
           "link": "https://www.hellobtc.com/news/202402/21624.html",
           "publishedOn": "2024-02-01T03:07:00.000Z",
-          "wordCount": 326,
+          "wordCount": null,
           "title": "白话区块链早报：Tether Q4 利润为28.5亿美元，全年总利润录得62亿美元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21623.html",
@@ -335,9 +228,9 @@
           "description": "Klaytn在X平台发文表示，Klaytn社区成员现在可以访问官方Klaytn Discord上的国际和地区开放聊天组， 我们仍在尽快部署所有剩余的服务和功能。与此同时，我们正在努力采取措施加强安全和数据备份。 立即生效的变更如下： ·大幅限制某些角色所拥有的权限。 ·极大地限制了改变渠道的能力。 ·调整普通聊天者+持有者的权限。 ·减少了管理角色持有者的数量。 ·限制权限以进行影响服务器的更改。 ·启动安全数据备份服务的订阅。 我们暂时暂停了对经过验证的持有者通道的访问，直到所有安全评估完成。",
           "link": "https://www.hellobtc.com/news/202401/21623.html",
           "publishedOn": "2024-01-31T07:40:00.000Z",
-          "wordCount": 318,
+          "wordCount": null,
           "title": "Klaytn：社区成员现在可以访问官方Klaytn Discord上的国际和地区开放聊天组",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21622.html",
@@ -345,9 +238,9 @@
           "description": "2024年1月，北京丰台警方经过缜密侦查，破获了一起以网络区块链游戏为诱饵，诱骗群众投资虚拟币，骗取5名群众600余万元人民币的案件。 犯罪嫌疑人刘某伙同他人，谎称某区块链游戏是其海外团队开发，通过互联网宣传，在币某网购买虚拟货币，持虚拟货币在游戏内可以等价换购游戏内的通用货币H某币，使用H某币在游戏内购买NFT数字资产，NFT数字资产随着交易者交易，会产生增值效果，预期收益能达到原价值的三倍以上。通过以上话术，刘某先后诱骗5名投资群众向其指定数字账号汇款，后刘某等人下落不明，被骗群众纷纷报警。经工作，刘某被丰台分局经济犯罪侦查大队抓获，目前，因涉嫌合同诈骗罪被丰台警方刑事拘留。",
           "link": "https://www.hellobtc.com/news/202401/21622.html",
           "publishedOn": "2024-01-31T07:11:00.000Z",
-          "wordCount": 305,
+          "wordCount": null,
           "title": "北京丰台破获一起区块链游戏诈骗案，5人被骗600余万元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21621.html",
@@ -355,9 +248,9 @@
           "description": "Oasis基金会宣布已于1月8日批准向Polychain Monsters提供3万美元拨款，以将Oasis隐私技术整合到其游戏和收藏品生态系统中。Polychain Monsters计划利用Oasis的支持，开发构建支持机密Web3游戏的文档和工具。该合作旨在推动Web3游戏领域的先进隐私实践。 Polychain Monsters还将记录兼容性方法，以便为在Sapphire上构建的其他工程师简化未来开发。",
           "link": "https://www.hellobtc.com/news/202401/21621.html",
           "publishedOn": "2024-01-31T07:11:00.000Z",
-          "wordCount": 314,
+          "wordCount": null,
           "title": "Oasis基金会批准向Polychain Monsters拨款3万美元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21620.html",
@@ -365,9 +258,9 @@
           "description": "彭博社汇编的数据显示，三周前10只现货比特币ETF开始交易后，截至1月30日，芝商所比特币期货的未平仓合约（或未平仓合约）下降了约24%，至20,679份。去年比特币因ETF的预期而飙升157%后，未平仓合约创下历史新高。 K33 Research高级分析师Vetle Lunde表示，投资者转向美国ETF以及比特币涨势降温，可能会导致CME比特币期货“活动减少”，但它们仍然是加密货币市场流动性较高的关键。他指出，它们作为管理ETF单位创建和赎回的授权参与者的对冲工具的潜在作用。",
           "link": "https://www.hellobtc.com/news/202401/21620.html",
           "publishedOn": "2024-01-31T07:11:00.000Z",
-          "wordCount": 305,
+          "wordCount": null,
           "title": "现货比特币ETF开始交易后，芝商所比特币期货的未平仓合约下降约24%",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21619.html",
@@ -375,9 +268,9 @@
           "description": "比特币（BTC）与奢侈品手表之间的价格正相关性，似乎在 2023 年下半年加密市场对现货比特币 ETF（交易所交易基金）抱持乐观态度后已经解除。在此之前，两者价格在新冠疫情期间随着央行和政府大量注入宽松、低成本的资金进入经济体系而同步上涨。 根据 WatchCharts.com 的数据，奢侈手表的价格峰值出现在 2021 年的牛市末期以及 2022 年加密货币衰退的开始。许多交易者在市场高点兑现利润并转向其他资产。进入 2023 年，奢侈手表的价格与 CoinDesk 20（一个涵盖最大数字资产的指数）的走势一致。然而，随着对比特币 ETF 的期待在第三、四季度激增，CoinDesk 20 指数价格上涨，而奢侈手表价格则未能跟随。本月初，美国证券交易委员会（SEC）批准了 11 个现货比特币 ETF。",
           "link": "https://www.hellobtc.com/news/202401/21619.html",
           "publishedOn": "2024-01-31T07:11:00.000Z",
-          "wordCount": 321,
+          "wordCount": null,
           "title": "现货比特币ETF打破COVID期间比特币与奢侈手表价格相关性",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21618.html",
@@ -385,9 +278,9 @@
           "description": "1.数据：比特币网络Taproot采用率已从一年前的1%提升至39%。\n\n2.马斯克删除X简介中的“(CTO) Chief Troll Officer”，TROLL跌幅达46.2%。\n\n3.PitchBook：DWF Labs为2023年交易数量最多的加密风投机构。\n\n4.德国警方在盗版网站运营案件中扣押5万枚比特币，价值21.7亿美元。\n\n5.数据：Solana区块链月度交易量创多年新高。\n\n6.zkSync开发商Matter Labs提议Treasure Chain使用ZK Stack构建。\n\n7.比特币DEX项目Portal完成3400万美元种子轮融资，Coinbase Ventures、OKX Ventures等参投。\n\n8.ether.fi成立顾问委员会，Polygon创始人等加入。\n\n9.Jupiter联创：JUP初始流通量为13.5亿枚，10亿枚将用于空投。\n\n10.V神：meme币持有者就像“我们一起学猫叫”。\n\n11.Coinbase将Render(RNDR)列入上币路线图。\n\n12.DMAIL空投第1季代币申领现已开放。\n\n13.ZetaChain主网将在几天内上线，旨在联合比特币、以太坊和其他链。\n\n14.Binance Labs投资LSD协议Puffer Finance。\n\n15.Conflux公布其比特币Layer2路线图：短期目标是建立比特币质押机制并集成Ordinals等协议。",
           "link": "https://www.hellobtc.com/news/202401/21618.html",
           "publishedOn": "2024-01-31T03:36:00.000Z",
-          "wordCount": 326,
+          "wordCount": null,
           "title": "白话区块链早报：比特币网络Taproot采用率已从一年前的1%提升至39%",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21617.html",
@@ -395,9 +288,9 @@
           "description": "1.谷歌更新广告政策，允许投放比特币和加密信托产品广告。\n\n2.数据：自去年10月20日以来，Tether Treasury在以太坊和波场网络上总共铸造130亿枚USDT。\n\n3.OKX Web3钱包将集成ARC-20、SRC-20、Runes及DRC-20铭文代币标准。\n\n4.以太坊质押协议Swell Network推出再质押代币rswETH。\n\n5.DWF Labs 8小时前将50万枚API3充值进Binance。\n\n6.受马斯克推文提及Telepathy影响，同名铭文TEL3涨至0.188美元。\n\n7.OKX将上线Jupiter (JUP)。\n\n8.数据：除GBTC外的其他9支ETF在11个交易日内购买近14万枚BTC。\n\n9.韩国AI芯片创企Rebellions宣布获1.24亿美元融资 韩国电信领投。\n\n10.Immutable与Polygon合作推出zkEVM主网，未来几周将向公众开放。\n\n11.数据：逾6.87亿枚PYTH处于质押状态，质押者数量已超12.5万。\n\n12.Binance Labs：未参与领投SkyArk Chronicles的1500万美元融资轮，因SkyArk团队宣传前并未与之沟通因此作了单方面澄清。",
           "link": "https://www.hellobtc.com/news/202401/21617.html",
           "publishedOn": "2024-01-30T02:37:00.000Z",
-          "wordCount": 319,
+          "wordCount": null,
           "title": "白话区块链早报：谷歌更新广告政策，允许投放比特币和加密信托产品广告",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21616.html",
@@ -405,9 +298,9 @@
           "description": "1.Jupiter 24小时交易量逾3.8亿美元，超Uniswap V3排名第一。\n\n2.Phantom：正进行负载测试为下周JUP空投做准备。\n\n3.富达FBTC成为全球资管规模第三大比特币ETF。\n\n4.Orbiter Finance宣布将品牌重塑为基于ZK的Orbiter Rollup。\n\n5.Manta Pacific TVL突破17亿美元续创新高。\n\n6.Magic Eden多链钱包或将于周一正式推出。\n\n7.摩根大通CEO：随着债务持续增加，美国经济正加速走向悬崖。\n\n8.friend.tech：本周为测试期最后一次发放积分空投，累计发放积分将达9000万，剩余1000万积分将在v2版本中分配。",
           "link": "https://www.hellobtc.com/news/202401/21616.html",
           "publishedOn": "2024-01-28T02:36:00.000Z",
-          "wordCount": 323,
+          "wordCount": null,
           "title": "白话区块链早报：Jupiter 24小时交易量逾3.8亿美元，超Uniswap V3排名第一",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202401/21615.html",
@@ -415,9 +308,9 @@
           "description": "1.贝莱德现货比特币ETF资产管理规模突破20亿美元。\n\n2.数据：灰度GBTC总流出量已超50亿美元。\n\n3.BRC-20铭文板块普涨，SATS日内涨幅24.63%。\n\n4.friend.tech：将进行测试期的最后一次每周积分发放。\n\n5.马斯克旗下人工智能公司xAI正洽谈筹集60亿美元融资。\n\n6.OKX Jumpstart上线新项目ZETA(ZetaChain)。\n\n7.Needham分析师：GBTC赎回已放缓，FTX破产资产和套利者的抛售已基本结束。\n\n8.Metis即将推出去中心化排序器。\n\n9.Chiliz创始人：Chiliz Chain的DEX将取代ChilizX。\n\n10.Polyhedra Network与EigenLayer合作，为比特币zkBridge引入双重质押机制。\n\n11.Sui TVL 突破 4 亿美元超过 Base， SUI 24 小时涨幅逾 22%。\n\n12.Zhu Su：OX正在进行新融资。",
           "link": "https://www.hellobtc.com/news/202401/21615.html",
           "publishedOn": "2024-01-27T02:20:00.000Z",
-          "wordCount": 324,
+          "wordCount": null,
           "title": "白话区块链早报：贝莱德现货比特币ETF资产管理规模突破20亿美元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         }
       ]
     }
