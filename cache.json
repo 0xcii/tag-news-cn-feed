@@ -113,6 +113,106 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/ckuuwfcs.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，孙宇晨在X平台发文称，2000万枚HT已被销毁，价值6000万美元。现在，HT仅存1.34亿枚。本次销毁只是销毁计划的一部分，还有更多的HT需要销毁。属于团队的部分已被完全烧毁。此前孙宇晨于2月4日发布关于此次HT销毁的预告。",
+          "link": "https://panewslab.com/zh/articledetails/ckuuwfcs.html",
+          "publishedOn": "2024-02-06T06:52:43.000Z",
+          "wordCount": 340,
+          "title": "孙宇晨：2000万枚HT已被销毁，价值6000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/uxr1jjas.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，据CoinDesk报道，根据周一发布的裁决，加拿大不列颠哥伦比亚省最高法院法官裁定，不列颠哥伦比亚省电力公司BC Hydro暂停加密挖矿项目是合理的。法官Michael Tammen在裁决中表示，这项于2022年12月首次颁布的暂停令是合理的，没有歧视性，并且在该省公用事业委员会法规定的范围内。\n该禁令此前受到了Conifex Timber的挑战，该公司是一家涉足加密货币挖矿领域的林业公司。Conifex正计划与土著部落Tsay Keh Dene Nation进行挖矿作业。Tammen法官写道，BC Hydro的禁令是以服务成本为基础的，该成本考虑了加密货币挖矿独特的、大量的能源需求，旨在为更广泛的人口保留负担得起的能源。Conifex则强调，它认为继续实施禁令对该省来说是一个错失的机会。",
+          "link": "https://panewslab.com/zh/articledetails/uxr1jjas.html",
+          "publishedOn": "2024-02-06T06:32:06.000Z",
+          "wordCount": 366,
+          "title": "加拿大不列颠哥伦比亚省法院支持当地禁止加密挖矿",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/r6a2953h.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，据Lookonchain监测，首个基于ERC404代币标准构建的Pandora代币现已升至8600美元以上，一名交易者在短短2天内在Pandora上赚取了约120万美元的总利润。该交易者于2天前花费97,484枚USDT以633美元买入154枚Pandora ，并于1小时前以188,695枚USDT以7548美元卖出25枚Pandora，实现盈利91,211枚USDT。该交易者目前持有129枚Pandora（约合110万美元），未实现利润为110万美元。",
+          "link": "https://panewslab.com/zh/articledetails/r6a2953h.html",
+          "publishedOn": "2024-02-06T06:27:10.000Z",
+          "wordCount": 345,
+          "title": "一交易者在2天时间内在Pandora上赚取约120万美元的总利润",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/of93shs9.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，据Cointelegrap报道，以太坊联合创始人Vitalik Buterin和以太坊基金会正在考虑至少五种方法来减少以太坊的最大区块大小，希望优化区块链以实现“以rollup为中心的路线图”。2月5日，Buterin和以太坊基金会研究员Toni Wahrstätter表示，随着中长期的重点放在rollup上，有人认为区块空间的使用方式尚未优化，并指出有效区块大小在过去12个月中基本上翻了一番。Buterin和Wahrstätter解释道：“这可能是由于越来越多的Rollup开始使用以太坊进行数据处理以及Inscriptions等趋势的结果。”\n该博客文章讨论了五种不同的解决方案（复杂程度各不相同），以增加区块Gas限制并抑制calldata的使用，从而减少最大区块大小和方差，为未来更多的数据块腾出空间。文章提出的第一个更简单的解决方案之一是将calldata成本从16个Gas增加到42个Gas，这会将最大块大小从1.78 MB减少到0.68 MB。这将为增加区块Gas限制腾出空间。然而，Buterin认为这会抑制使用calldata来获取数据可用性，并对StarkNet等需要大量calldata进行链上证明的应用程序产生负面影响。第二种解决方案可能是增加调取数据成本，但减少其他操作代码成本。Calldata是指作为智能合约函数调用的输入提供的数据，而操作码是指定应在以太坊虚拟机（EVM）中执行哪些计算的指令。另一种解决方案是按照EIP-4488中的建议限制每个块的调用数据。然而，这也可能会抑制使用calldata来获取数据可用性，并影响严重依赖它的应用程序。因此，创建一个单独的调用数据费用市场可以用来潜在地提高gas限制，使用calldata的价格将根据需求的多少自动调整，但缺点是增加了分析和实现的复杂性。最后一个想法是提供“EVM忠诚度奖金”来补偿调取数据较多的应用程序。\n两人得出的结论是，简单地将调取数据成本提高到42可能“过于生硬”，而创建单独的费用市场可能“增加太多复杂性”。文章写道：“一种平衡的解决方案可能是增加calldata的成本，同时降低某些操作的成本，或者转向为在EVM中使用calldata提供激励的模型。”Buterin 此前曾在2021年提出对每个区块的调用数据进行限制，以降低Gas成本。",
+          "link": "https://panewslab.com/zh/articledetails/of93shs9.html",
+          "publishedOn": "2024-02-06T06:23:08.000Z",
+          "wordCount": 375,
+          "title": "Vitalik Buterin提出5种设计来减少以太坊最大区块大小",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9lxgtmp9.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，据官方公告，币安将于北京时间2024年2月7日16:00新增JUP/USDC和PENDLE/FDUSD现货交易对。此外，币安将于北京时间2024年2月7日16:00为现货算法订单中的JUP/USDC、PENDLE/FDUSD交易对启用交易机器人服务。",
+          "link": "https://panewslab.com/zh/articledetails/9lxgtmp9.html",
+          "publishedOn": "2024-02-06T06:16:59.000Z",
+          "wordCount": 341,
+          "title": "币安将上线JUP/USDC、PENDLE/FDUSD现货交易对",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/xu7y6f9a.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，据澎湃新闻报道，2月5日，山东省寿光市公安局在其微信公众号发布一起案件信息称，寿光市公安局成功破获一起洗钱案件，一犯罪团伙一个半月内办理了17张银行卡，在寿光各大银行取款50余笔，涉案金额超900万元。目前，警方共抓获8名犯罪嫌疑人，案件正在进一步侦办中。\n经审讯，该团伙通过一款名为“纸飞机”的境外加密聊天软件与境外的上家联系，利用自己的银行卡帮人接收涉嫌电信网络诈骗等违法犯罪涉案资金，然后通过银行柜台、ATM机等方式提取现金，线下购买虚拟货币USDT，将虚拟货币转移给上家，以低买高卖的方式达到谋取非法利益的目的，涉嫌帮助信息网络犯罪活动罪、掩饰隐瞒犯罪所得罪。",
+          "link": "https://panewslab.com/zh/articledetails/xu7y6f9a.html",
+          "publishedOn": "2024-02-06T05:43:17.000Z",
+          "wordCount": 341,
+          "title": "山东寿光警方破获利用虚拟货币洗钱案，涉案金额超900万元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1a0q3knr.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，ERC-404项目Pandora在X平台上表示，已将资产从部署者钱包转移至新的2/4多签钱包。资产包括PANDORA、LP所有权以及目前金库中的几乎所有有价值的资产。\nOpenSea行情显示，Pandora地板价现报3.69 ETH，24小时涨超393%，24小时交易量达166 ETH。\n据悉，Pandora于2月2日推出，是10,000个Replicant的集合，绑定了基于ERC404的首批代币，ERC404是一种实验性代币标准，可为以太坊NFT提供持久的流动性和半可替换性。",
+          "link": "https://panewslab.com/zh/articledetails/1a0q3knr.html",
+          "publishedOn": "2024-02-06T05:20:26.000Z",
+          "wordCount": 365,
+          "title": "Pandora已将PANDORA、LP所有权等资产从部署者钱包转移至新的2/4多签钱包",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/sa2xpw2g.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，据The Block报道，韩国检察官周一宣布，他们逮捕并拘留了加密收益平台Haru Invest的三名高管，其中包括其两名联合首席执行官。首尔南区检察官办公室的一名官员表示，首尔检察官指控三人从约16,000名用户那里窃取了价值约1.1万亿韩元（合8.26亿美元）的加密货币。据称，Haru还通过一名个人投资了大部分客户存款，同时错误地宣传存款是通过“无风险分布式投资技术”管理的。Haru Invest为其Earn Plus产品用户提供高达12%的收益率。\n在Haru和加密货币贷款机构Delio于2023年6月14日突然暂停提款后，地方当局一直在调查这两家公司。D​​elio将此次暂停归因于当天早些时候Haru Invest的存款和提款突然停止，Delio此前曾与Haru Invest合作。",
+          "link": "https://panewslab.com/zh/articledetails/sa2xpw2g.html",
+          "publishedOn": "2024-02-06T05:07:21.000Z",
+          "wordCount": 368,
+          "title": "韩国逮捕加密收益平台Haru Invest高管，指控其挪用8.26亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/p5kmev5i.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，据官方公告，币安预计将于东八区时间2024年02月07日19:00暂停Horizen（ZEN）网络的代币充值、提现业务，以支持其网络升级及硬分叉。项目方将于区块高度 1,502,800（预计东八区时间2024年02月07日20:00）进行网络升级及硬分叉。",
+          "link": "https://panewslab.com/zh/articledetails/p5kmev5i.html",
+          "publishedOn": "2024-02-06T05:02:19.000Z",
+          "wordCount": 344,
+          "title": "币安将支持Horizen（ZEN）网络升级及硬分叉",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/szt0j3j0.html",
+          "author": "PA一线",
+          "description": "PANews 2月6日消息，根据Synthetix转发@_Synthquest的推文，Synthetix V3市场即将向公众发布，因新交易者的预期将增加市场上限。",
+          "link": "https://panewslab.com/zh/articledetails/szt0j3j0.html",
+          "publishedOn": "2024-02-06T04:58:35.000Z",
+          "wordCount": 357,
+          "title": "Synthetix V3市场即将向公众发布",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/59js6wu2.html",
           "author": "PA一线",
           "description": "PANews 2月6日消息，据官方治理网站，Aave社区已于链上投票通过“弃用Aave V1”提案，并通过一项涉及GSM和Frontier计划的资金管理提案。\n“弃用Aave V1”提案旨在批准Aave v1下线的进一步步骤，以减少已弃用的Aave实例的运营开销。而资金管理提案涉及GHO稳定性模块（GSM）启动资金、RWA策略、以及DAO质押即服务产品Frontier的计划。",
@@ -148,7 +248,7 @@
           "description": "PANews 12月1日消息，Coinglass数据显示，币安的比特币期货合约未平仓总量目前约10.457万枚BTC（约合44.9亿美元），超过芝加哥商品交易所（CME），时值三个月再次排名第一。CME的比特币期货合约未平仓总量目前约10.42万枚（约合44.6亿美元）。",
           "link": "https://panewslab.com/zh/articledetails/jow9ciz4.html",
           "publishedOn": "2024-02-06T03:38:51.000Z",
-          "wordCount": 347,
+          "wordCount": 345,
           "title": "币安的比特币期货合约未平仓总量约44.9亿美元，超越CME重返第一",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -175,7 +275,7 @@
         {
           "id": "https://panewslab.com/zh/articledetails/dtvro3z4.html",
           "author": "PA一线",
-          "description": "PANews 2月6日消息，据Cointelegraph报道，一项新服务声称使用人工智能“神经网络”和“生成器”来制作假驾驶执照和护照，并成功通过了多个加密货币交易所的KYC检查，而成本只需15美元。这个名为OnlyFake的网站生成来自26个国家的假驾照和护照，包括美国、加拿大、英国、澳大利亚和多个欧盟国家，并通过Coinbase的商业支付服务接受多种加密货币的支付。这项服务对于加密货币诈骗者和黑客来说可能是一个福音，他们可以使用虚假文件开设交易所和银行账户，保护他们的真实身份并使他们更难以追踪。\n404 Media于2月5日报道称，它使用该网站生成的英国护照照片成功绕过了加密交易所OKX的KYC验证，该身份证似乎被放在床单上，就像拍了一张照片一样。Telegram频道还显示，该网站的用户分享了他们使用这些ID成功绕过各种加密交易所和金融服务提供商(包括Kraken、Bybit、Bitget、Huobi和PayPal)的验证。\nOnlyFake的匿名所有者“John Wick”表示，这些ID可以绕过币安、Kraken、Bybit、Huobi、Coinbase和OKX以及接受加密货币的Neobank Revolut交易所的KYC检查。然而，OnlyFake网站声称它不会“制造伪造文件，因为这是非法的”，并且其条款规定其“模板仅用于电影、电视节目和网络插图”。",
+          "description": "PANews 2月6日消息，据Cointelegraph报道，一项新服务声称使用人工智能“神经网络”和“生成器”来制作假驾驶执照和护照，并成功通过了多个加密货币交易所的KYC检查，而成本只需15美元。这个名为OnlyFake的网站生成来自26个国家的假驾照和护照，包括美国、加拿大、英国、澳大利亚和多个欧盟国家，并通过Coinbase的商业支付服务接受多种加密货币的支付。这项服务对于加密货币诈骗者和黑客来说可能是一个福音，他们可以使用虚假文件开设交易所和银行账户，保护他们的真实身份并使他们更难以追踪。",
           "link": "https://panewslab.com/zh/articledetails/dtvro3z4.html",
           "publishedOn": "2024-02-06T03:05:59.000Z",
           "wordCount": 357,
@@ -198,7 +298,7 @@
           "description": "PANews 2月6日消息，据官方公告，币安Web3钱包将推出百万枚Polyhedra网络代币空投活动。活动期间使用币安Web3钱包完成相应任务，即有资格平分对应的奖池。用户若完成所有任务，最多可领取200枚Polyhedra网络代币。活动时间为2月6日08:00至3月05日07:59（东八区时间）。",
           "link": "https://panewslab.com/zh/articledetails/uy8xzew2.html",
           "publishedOn": "2024-02-06T02:25:44.000Z",
-          "wordCount": 349,
+          "wordCount": 339,
           "title": "币安Web3钱包将为用户空投100万枚Polyhedra网络代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -210,106 +310,6 @@
           "publishedOn": "2024-02-06T02:01:09.000Z",
           "wordCount": 352,
           "title": "FTX/Alameda地址转移价值约330万美元的代币，其中包括1000枚ETH",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/63m8i8je.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，Treasure Infinity Chains简化版白皮书已正式发布，Treasure的功能是作为一个去中心化的游戏控制台，促进项目之间的互操作性，并为越来越多的不同链的玩家提供平台体验。Treasure将通过在Treasure L2链上建立特定于游戏的聚合来实现这一目标，MAGIC将作为这些技术层的主要网络代币。\n位于中心的是Treasure Chain，这为生态系统内的游戏提供了最初的大本营，用户将能够直接用MAGIC支付Gas费用。该链采用Arbitrum rollup技术，将根据Treasure独特的游戏需求进行定制，并在充分的安全假设下提供最佳的游戏性能，开发人员将能够将更多的游戏玩法直接转移到区块链上，从而增加互操作性的潜力，通过额外的资产交易扩大项目的收入机会，并通过测序费用增加DAO收入。该链将利用基于粒度访问控制列表(ACL)的权限模型，因此，DAO将能够管理主网合约部署的允许列表，最初由核心贡献者管理。在这种ACL方法中，DAO管理链上可用的产品和基础设施，将DAO自己的协议和应用程序保存到基础层。通过此方式，该区块链通过排除竞争对手的市场，避免了对版税的逐底竞争，确保了对NFT销售的版税执行。\n随着时间的推移，将过渡到以Infinity Chains为特色的Treasure的多链愿景，并最终采用共享测序仪或类似方法。Infinity Chains将是根据项目的独特需求定制的特定于产品或游戏的rollup实现。Arbitrum Orbit技术使游戏开发商能够轻松部署自己的L3，并进行高度定制。这些超级定制的游戏链将围绕核心Treasure Chain运行。游戏开发商将能够为用户提供比Arbitrum One更低的交易成本，并在保持与整个生态系统连接的同时实现更高的吞吐量。\nTreasure Chain的开发和推出将通过平行计划进行协调，以达到2024年第三季度主网的目标发布。正在采取措施，在2024年第一季度快速实现和部署测试网，以推动早期采用者熟悉，并为网络加固留出足够的时间。与此同时，特定链功能的持续开发和测试将持续部署，作为关键里程碑的测试网升级。",
-          "link": "https://panewslab.com/zh/articledetails/63m8i8je.html",
-          "publishedOn": "2024-02-06T01:42:30.000Z",
-          "wordCount": 406,
-          "title": "Treasure Infinity Chains简化版白皮书发布，核心包括Treasure Chain和Infinity Chain",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/reawucn1.html",
-          "author": "PA一线",
-          "description": "美财政部长耶伦将在本周二国会上警告加密货币风险\n据CoinDesk报道，美国财政部长耶伦（Janet Yellen）周二将出席众议院金融服务委员会，解释金融稳定监督委员会(FSOC)的最新工作。根据周一委员会官网公布的耶伦证词的简短内容，她将告诉国会，加密行业对金融体系构成了几个潜在的危险，包括稳定币的危险、加密平台上的挤兑和价格​​波动。据悉，FSOC是由耶伦领导的美国金融机构负责人组成的一个组织。该委员会旨在防止下一次金融危机发生，近年来特别关注加密风险，将其列为潜在担忧的首要类别。\n耶伦在准备交付的证词中表示：“该委员会专注于数字资产和相关风险，例如加密资产平台和稳定币的挤兑、加密资产价格波动的潜在漏洞，以及不遵守或不遵守适用法律和法规的平台激增。”耶伦还称其将继续与国会合作制定加密立法，她表示：“应该执行适用的规则和法规，国会应该通过立法，对稳定币和非证券加密资产的现货市场进行监管。”\n美国法官要求Ripple Labs必须向SEC提交财务报表\n据Decrypt报道，法庭文件显示，一名美国法官要求Ripple Labs交出历史财务报表，以满足美国证券交易委员会（SEC）多年前提出的要求。在周一提交的文件中，法官Sarah Netburn站在SEC一边，命令Ripple提供2022年至2023年的记录。Ripple还必须回答有关其收到的XRP机构销售收益金额的问题。Ripple Labs辩称其财务文件“高度机密”，该公司上个月对SEC让其公布财务文件的要求提出质疑。\n去年，Ripple在与SEC的法庭诉讼中取得了部分胜利，当时一名法官裁定，向散户投资者进行程序化销售的XRP不符合证券资格。\nTerraform Labs前首席财务官Han Chang-joon已被引渡到韩国\n据DL News报道，黑山警方今天宣布，Terraform Labs前首席财务官Han Chan…",
-          "link": "https://panewslab.com/zh/articledetails/reawucn1.html",
-          "publishedOn": "2024-02-06T01:08:24.000Z",
-          "wordCount": 753,
-          "title": "昨夜今晨重要资讯（2月5日-2月6日）",
-          "imageUrl": "https://cdn-img.panewslab.com/panews/2024/02/06/images/X3iO4Pwb19.png"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/6h4le8pa.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，据官方公告，韩国加密交易所Bithumb将在韩元市场上线Lisk（LSK） 。仅支持Lisk（LSK）主网，不支持通过其他网络充值。充值预计于北京时间2月6日14时开始，交易预计于北京时间2月6日16时开始。",
-          "link": "https://panewslab.com/zh/articledetails/6h4le8pa.html",
-          "publishedOn": "2024-02-06T01:04:30.000Z",
-          "wordCount": 352,
-          "title": "Bithumb将在韩元市场上线Lisk（LSK）",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/t83znm4o.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，据Cointelegraph报道，ARK Invest首席执行官Cathie Wood表示，现货比特币ETF推出后，投资者开始从黄金转向比特币(BTC) ，“相对于黄金，比特币一直在上涨。现在比特币已经有了替代品，我们认为这种替代品将继续存在，因为现在有一种更少摩擦的方式来获取比特币”。Wood预计，与黄金一样，当银行业表现出疲软迹象时，比特币将证明自己是一种“避险资产”。\n关于现货比特币ETF的推出，Wood表示，她对最近比特币价格的调整并不感到惊讶，然而，她指出，目前流通的1950万枚比特币中，有1500万枚在155天内没有变动，因此仍然在“强者手中”，这可能表明大多数比特币持有者都持长期观点。",
-          "link": "https://panewslab.com/zh/articledetails/t83znm4o.html",
-          "publishedOn": "2024-02-06T01:01:24.000Z",
-          "wordCount": 364,
-          "title": "Cathie Wood：现货比特币ETF推出后，投资者开始从黄金转向比特币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/dulo6qie.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，据The Block报道，根据最近的一份法庭文件，由Coinbase联合创始人Fred Ehrsam领导的投资公司Paradigm正在支持预测市场平台Kalshi与美国监管机构的冲突。Paradigm在周一的一篇文章中表示：“虽然Kalshi不是一家加密公司，但我们觉得有必要介入此案，因为我们相信预测市场是加密技术潜在的革命性用例之一。”Paradigm解释说，政治事件对加密公司来说是高度相关的信息，因为它们决定了该行业未来的监管。\nParadigm在向美国哥伦比亚特区地方法院提交的法庭之友简报中表示，观察人们对某些结果的押注可以帮助加密公司调整其企业战略并对冲监管风险，预测市场甚至可能比民意调查更能预测选举结果，因为参与者必须有自己的利益，这使得Kalshi介绍的产品不仅对加密企业家有用，而且对公众也有用。\n此前美国商品期货交易委员会于去年9月发布不批准Kalshi合约的命令，该合约允许人们押注下一届美国国会可能由哪一方控制，称其涉及“根据州法律非法的赌博和活动”。两个月后，Kalshi起诉了监管机构，称该机构越权了。",
-          "link": "https://panewslab.com/zh/articledetails/dulo6qie.html",
-          "publishedOn": "2024-02-06T00:55:06.000Z",
-          "wordCount": 358,
-          "title": "Paradigm：加密货币需要预测市场来对冲监管风险",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/dac4ry2x.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，据Cointelegraph报道，美国银行机构Vast Bank宣布已关闭其移动加密银行应用程序，并宣布打算退出加密货币行业。该银行表示：“为了战略性地调整我们的运营，自2024年1月31日起，我们将禁用并删除Google和Apple的Vast Crypto移动银行应用程序，这意味着用户的Vast Crypto移动银行账户，包括托管的任何数字资产，将被清算并关闭。”\n该银行此前自称为第一家允许客户“与传统支票账户一起”购买、出售和持有加密货币的美国银行机构。Vast Bank于2019年进入加密行业，此前曾于2021年与Coinbase和SAP合作开发该公司的加密友好型移动银行应用程序。",
-          "link": "https://panewslab.com/zh/articledetails/dac4ry2x.html",
-          "publishedOn": "2024-02-06T00:38:14.000Z",
-          "wordCount": 360,
-          "title": "美国银行Vast Bank将退出加密领域，已关闭旗下移动加密银行APP",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ax6nrjkb.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，据CoinDesk报道，10x Research创始人Markus Thielen表示，预计比特币(BTC)将从当前水平上涨约65%，到年底达到7万美元。Thielen在上周五的一份报告中写道：“在宏观环境、货币政策顺风、美国大选周期以及TradFi投资者配置比特币ETF的需求逐渐增加的支持下，比特币反弹至7万美元似乎是有可能的。”Thielen指出，尽管比特币在其存在的13年中有10年都在上涨，但1月份的回报率却更加参差不齐，只有7年上涨，而6年下跌。\nThielen在周五的报告中称，“虽然美联储已将首次降息推迟至(可能)5月或6月，但通胀率正在下降，经济增长也在保持。”他还注意到，美国总统选举周期与比特币减半的年份相吻合，从历史上看，比特币价格看涨。具体来说，比特币在2012年上涨了152%，2016年上涨了121%，2020年上涨了302%，平均涨幅为192%。",
-          "link": "https://panewslab.com/zh/articledetails/ax6nrjkb.html",
-          "publishedOn": "2024-02-06T00:31:22.000Z",
-          "wordCount": 363,
-          "title": "10x Research创始人：预计比特币将在今年底达到7万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9wwwy577.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，据Decrypt报道，法庭文件显示，一名美国法官要求Ripple Labs交出历史财务报表，以满足美国证券交易委员会（SEC）多年前提出的要求。在周一提交的文件中，法官Sarah Netburn站在SEC一边，命令Ripple提供2022年至2023年的记录。Ripple还必须回答有关其收到的XRP机构销售收益金额的问题。Ripple Labs辩称其财务文件“高度机密”，该公司上个月对SEC让其公布财务文件的要求提出质疑。\n去年，Ripple在与SEC的法庭诉讼中取得了部分胜利，当时一名法官裁定，向散户投资者进行程序化销售的XRP不符合证券资格。",
-          "link": "https://panewslab.com/zh/articledetails/9wwwy577.html",
-          "publishedOn": "2024-02-06T00:17:11.000Z",
-          "wordCount": 364,
-          "title": "美国法官要求Ripple Labs必须向SEC提交财务报表",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/mymrw1kh.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，流动性再质押协议EigenLayer暂时取消了20万ETH的质押上限，其总锁仓价值（TVL）在几小时内增加7.5亿美元。DefiLlama的数据显示，在Eigenlayer取消存款上限后的两小时内，超过100万ETH流入该协议，推动其累计TVL超过30亿美元，目前为31.2亿美元。其中Lido的stETH代币占EigenLayer新增存款的80%，约为5.6亿美元。根据EigenLayer近期一篇博客文章，取消对流动性质押代币（LST）的上限是为了“增加有机需求”。新上限将于2月9日实施，不过该项目表示，计划在未来某个时候永久取消存款限制。",
-          "link": "https://panewslab.com/zh/articledetails/mymrw1kh.html",
-          "publishedOn": "2024-02-06T00:15:24.000Z",
-          "wordCount": 347,
-          "title": "EigenLayer暂时取消质押上限，TVL突破30亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/kkwcfcht.html",
-          "author": "PA一线",
-          "description": "PANews 2月6日消息，据CoinDesk报道，比特币Ordinals项目周一首次举办的“ Quantum Cats ”铭文系列拍卖活动表现强劲，尽管严重的技术问题导致上周计划的铸币项目三度推迟。截至周一公共铸币结束，该系列中的所有3,000件“ Quantum Cats ”收藏品均以每件0.1 BTC（约4265 美元）的固定价格售出，总收入接近1300万美元。",
-          "link": "https://panewslab.com/zh/articledetails/kkwcfcht.html",
-          "publishedOn": "2024-02-06T00:10:16.000Z",
-          "wordCount": 383,
-          "title": "Taproot Wizards的“Quantum Cats”铭文系列售罄，总收入接近1300万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
