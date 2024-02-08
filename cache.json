@@ -6,12 +6,22 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=103280",
+          "author": "Gao",
+          "description": "MATIC，LINK，KAS均出现数十倍的涨幅，随BTC现货上涨，山寨币近期预计还存在向上空间。",
+          "link": "https://www.web3sj.com/transaction/103280/",
+          "publishedOn": "2024-02-08T09:56:21.000Z",
+          "wordCount": 881,
+          "title": "本周山寨币期权播报（2.2~2.8）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/123.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=103272",
           "author": "Gao",
           "description": "由于最近以太坊再质押的赛道火爆，加上空投的预期，Eigenlayer锁仓量已经达到47亿美金，短短一个月TVL上涨177%，这个数值仍在持续增高。",
           "link": "https://www.web3sj.com/show/103272/",
           "publishedOn": "2024-02-08T07:20:54.000Z",
-          "wordCount": 765,
+          "wordCount": 768,
           "title": "三分钟Web3科普：再质押热潮来临，解读新王Eigenlayer",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024020807205047.jpg"
         },
@@ -21,7 +31,7 @@
           "description": "从降低用户 32ETH 门槛的节点服务「技术实力」大战，变成了如今争抢 Eigenlayer 积分的「运营策略」大战，比较典型的应该算 @KelpDAO 了，愣是凭积分大战，拼到了 TVL Top3，如何做到的呢？",
           "link": "https://www.web3sj.com/news/103256/",
           "publishedOn": "2024-02-08T03:26:38.000Z",
-          "wordCount": 973,
+          "wordCount": 1000,
           "title": "Restaking赛道「内卷」下有何安全风险？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707362785452.png"
         },
@@ -31,7 +41,7 @@
           "description": "ERC-404，一种新的实验性代币标准，正是为此而诞生的。在今天的文章中，让我们向你介绍一下 ERC-404 标准的基础知识，以及使用该规范构建的第一个项目 Pandora。",
           "link": "https://www.web3sj.com/news/103252/",
           "publishedOn": "2024-02-08T03:23:30.000Z",
-          "wordCount": 950,
+          "wordCount": 966,
           "title": "Bankless：简述ERC-404创新要点及重要性",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707362598853.png"
         },
@@ -41,7 +51,7 @@
           "description": "2022 年 7 月，StarkWare 提出了 Starknet 网络完全去中心化的路径，并解释了 Starknet 原生代币 STRK 将在其中起到什么作用。该计划的一部分是将 Starknet 定序器和证明器的运行过渡至 PoS 协议，即任何人都可以参与排序，这样的话网络运行将不再依赖于任意单方。",
           "link": "https://www.web3sj.com/news/103247/",
           "publishedOn": "2024-02-08T03:18:52.000Z",
-          "wordCount": 979,
+          "wordCount": 963,
           "title": "好事将近？StarkWare发布STRK通胀管理提案",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707362320666.png"
         },
@@ -51,7 +61,7 @@
           "description": "随着区块链行业的不断发展，我们正处于一个多链互联的时代。在这样的时代背景下，不同特性的公链衍生出了差异化的应用场景，为用户创造了多样化的体验，但与此同时，「链间孤岛」问题也显得愈发严重。不同链上的账户往往无法互通，人们的全链资产处于一种割裂而不统一的状态，这增加了使用门槛，也极大程度降低了用户体验。",
           "link": "https://www.web3sj.com/project/103227/",
           "publishedOn": "2024-02-08T03:16:08.000Z",
-          "wordCount": 1414,
+          "wordCount": 1385,
           "title": "技术解读ZetaChain：一站式多链DAPP底层设施",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707362146092.png"
         },
@@ -61,7 +71,7 @@
           "description": "从可用性的角度来看，这很糟糕，因为它引入了复杂性，但也很昂贵。流动性分散意味着更高的滑点和更差的执行力。乐观汇总（OR）要求用户支付昂贵的第三方桥梁费用，以避免 7 天的提款延迟。即使是 ZK Rollups（ZKR）也要求用户往返以太坊进行无需信任的跨链交易。",
           "link": "https://www.web3sj.com/project/103197/",
           "publishedOn": "2024-02-07T11:29:28.000Z",
-          "wordCount": 1250,
+          "wordCount": 1237,
           "title": "Polygon：聚合区块链是什么、如何工作及其与共享排序器的区别",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707305343390.png"
         },
@@ -71,7 +81,7 @@
           "description": "比特币作为对中心化金融体系固有缺点的回应而诞生的创新方案，引入了点对点的电子现金系统概念，无需中间人的参与，从而实现去信任化和去中介化。比特币的基础技术——区块链，彻底改变了交易记录、验证和安全性的方式。2008 年发布的比特币白皮书，为强调去中心化、透明和不可篡改的金融系统奠定了基础。",
           "link": "https://www.web3sj.com/project/103183/",
           "publishedOn": "2024-02-07T11:14:26.000Z",
-          "wordCount": 2805,
+          "wordCount": 2793,
           "title": "比特币生态全景分析：重塑历史或开启下一次牛市？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707304444291.png"
         },
@@ -81,7 +91,7 @@
           "description": "首先，需要说明 ERC404 目前只是一个 Experiment 实验性标准，并没有纳入正式的以太坊 EIP 提案。Pandora 是基于该新实验标准创建的首个代币。ERC404 目标要解决原先 ERC20 同质化代币标准，和 ERC721 非同质化代币标准二者水火不相融的问题。",
           "link": "https://www.web3sj.com/news/103180/",
           "publishedOn": "2024-02-07T11:08:01.000Z",
-          "wordCount": 1107,
+          "wordCount": 1110,
           "title": "一文详解图币二象性代币Pandora：会成为资产发行新范式吗？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707304057387.png"
         },
@@ -91,19 +101,9 @@
           "description": "任何人都可以轻松创建 ERC-20 代币，通过 Uniswap 等 DEX 进行交易，制造交易活动的假象，然后撤走流动性获利。Chainalysis 研究总监 Kim Grauer 表示，在不了解更多细节的情况下，无法确定是否真的是恶意或违法，但数据表明了广泛的潜在问题。本文带你一览 Chainalysis 报告核心要点。",
           "link": "https://www.web3sj.com/news/103171/",
           "publishedOn": "2024-02-07T11:05:06.000Z",
-          "wordCount": 1018,
+          "wordCount": 1029,
           "title": "以太坊生态2023年新发行代币中有54%涉嫌市场操纵？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707303883323.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103168",
-          "author": "Gao",
-          "description": "Metis 的最大亮点是以太坊上第一个有自己的去中心化排序器的 layer2。2 月 5 号开启了第二期去中心化排序器的社区测试，并且宣布 2024 年要给生态系统拨款 25 万枚 $METIS 。",
-          "link": "https://www.web3sj.com/news/103168/",
-          "publishedOn": "2024-02-07T10:59:44.000Z",
-          "wordCount": 963,
-          "title": "从Metis看L2代币的赋能之路",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707303556489.png"
         }
       ]
     },
@@ -178,7 +178,7 @@
           "description": "PANews 2月8日消息，据Cointelegraph报道，新加坡网络安全局 (CSA) 强调，Web开发平台WordPress的加密货币小工具插件“Cryptocurrency Widgets – Price Ticker & Coins List”包含一个可用于提取敏感信息的严重漏洞。根据安全公司CVE Program的说法，该插件是由名为“narinder-singh”的供应商提供的，2.0至2.6.5版本均被发现携带该漏洞。\n上述漏洞允许未经身份验证的攻击者将额外的SQL查询附加到现有查询中，从而从数据库中提取敏感信息。新加坡网络紧急响应小组 (SingCERT)发布的安全公告对该插件漏洞的评分9.8/10，属于“严重”级别。",
           "link": "https://panewslab.com/zh/articledetails/sz69dpa9.html",
           "publishedOn": "2024-02-08T06:53:12.000Z",
-          "wordCount": 389,
+          "wordCount": 387,
           "title": "WordPress的加密货币小工具插件存在严重漏洞，存在泄露敏感信息的风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
