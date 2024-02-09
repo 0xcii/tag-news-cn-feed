@@ -1,10 +1,116 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-09T03:13:27.924Z</id>
+    <id>urn:2024-02-09T04:15:09.171Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-09T03:13:27.924Z</updated>
+    <updated>2024-02-09T04:15:09.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[慢雾创始人：ERC404还不是个成熟的标准，需注意新机制带来的新的安全风险]]></title>
+        <id>https://panewslab.com/zh/articledetails/i2zpbbed.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i2zpbbed.html"/>
+        <updated>2024-02-09T02:25:13.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，慢雾创始人余弦在X平台发表其对ERC404代码的看法，余弦称：“假设这是一枚硬币，正面是FT，背面是 NFT，你在交易FT时，硬币的另一面（NFT）稀有度无差别地给了出去 _owned[from].pop()。或者，FT数量稍微小于一个整数，也会烧掉一个NFT，比如本来你的FT是3，对应有3个NFT，由于FT精度是=18，你一顿交易后，FT变成 2.999999999999999999，此时你的NFT只有2个了，另一个被烧掉回收并等待释放给交易对手。还有一个多消失的是gas。所以ERC404还搞了个白名单whitelist机制来让一些pairs/routers等不必频繁折腾NFT，处理好FT交易即可，反正账都在合约里，消失不了。最后是可能消失的owner，如果revokeOwnership执行后，后续whitelist机制也就不会再更新了。新机制肯定会带来新的安全风险，如果一个协议没处理好ERC404这种硬币双面机制就可能带来意想不到的后果。还有需要注意的是，ERC404还]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安将支持IoTeX（IOTX）及Optimism（OP）网络升级及硬分叉]]></title>
+        <id>https://panewslab.com/zh/articledetails/ehxwtgno.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ehxwtgno.html"/>
+        <updated>2024-02-09T02:14:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据官方公告，币安将支持IoTeX（IOTX）及Optimism（OP）网络升级及硬分叉。IoTeX（IOTX）将于区块高度 28,516,681（预计东八区时间2024年02月19日08:58）进行网络升级及硬分叉。币安预计将于东八区时间2024年02月19日08:00暂停IoTeX（IOTX）网络的代币充值、提现业务；Optimism（OP）将于东八区时间2024年02月22日08:00进行网络升级及硬分叉。币安预计将于东八区时间2024年02月22日07:00暂停Optimism（OP）网络的代币充值、提现业务。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某巨鲸过去24小时内抛售1027万枚MUBI，约合96.3万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/uoy2ssaj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/uoy2ssaj.html"/>
+        <updated>2024-02-09T02:00:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据Spot On Chain监测，0xf8a开头巨鲸在过去24小时内以0.09369美元均价抛售了1027万枚MUBI（约合96.3万美元），换得为395 ETH ，导致MUBI价格下跌约24%。
+值得注意的是，该巨鲸在2023年12月以约0.292美元的价格买入了1452万枚MUBI，并以仅约0.09681美元的价格卖出了1152万枚MUBI，实现了225万美元（-66.8%）的损失。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨夜今晨重要资讯（2月8日-2月9日）]]></title>
+        <id>https://panewslab.com/zh/articledetails/02rqn7cq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/02rqn7cq.html"/>
+        <updated>2024-02-09T01:55:04.000Z</updated>
+        <summary type="html"><![CDATA[美国监管机构要求对冲基金披露加密投资策略细节
+据彭博社报道，周四通过的一项新规定要求对冲基金向美国监管机构提供更多细节，包括投资、借款和交易对手风险敞口。新规定主要适用于净资产超过5亿美元的对冲基金。他们需要提供更多关于运营和战略的信息，并需要单独报告基金的每个组成部分。此外，对冲基金必须披露其加密货币投资策略细节。监管机构对拟议规则中包含的数字资产进行了定义，但要求基金公司在报告现金和现金等价物时排除加密货币。
+美国财长耶伦：财政部可以使用更多权力来打击恐怖组织使用加密货币
+据The Block报道，美国财政部长耶伦周四在参议院银行委员会听证会上表示，财政部可以使用更多权力来打击恐怖组织使用加密货币的行为。耶伦表示：“我们确实有许多权力能够采取行动，但我们已经发现了其中的一些漏洞，并就如何加强财政部权力提出了一系列建议”。 参议员Mark Warner询问耶伦是否认为恐怖主义融资预防法案有必要，耶伦则回应称：“我承认财政部面临一些限制，我们当然支持该法案的目标。这将有助于赋予我们权力，使我们能够更好地应对一个非常重大的威胁”。
+香港成功发行价值约60亿港元的多币种数字绿色债券
+香港特别行政区政府宣布成功发行价值约60亿港元的数字绿色债券，这是世界上首个多币种的数字债券发行，包括港元、人民币、美元和欧元。这些债券为期两年，金额及利率定价分别为：港元20亿（3.800%）、人民币15亿（2.900%）、美元2亿（4.749%）和欧元8000万（3.647%）。该发行吸引了全球范围内的机构投资者订阅，包括主要的资产管理公司、银行、保险公司和私人银行，以及非金融机构企业。这是继2023年2月香港特别行政区政府首次发行代币化绿色债券后，第二次发行数字债券。
+此次数字绿色债券发行在多个方面实现了新的突破：扩大了通过现有市场基础设施参与投资者的范围、简化了以数字本地格式发行债券的过程、…]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polygon Labs发布zkEVM证明器Type 1 Prover]]></title>
+        <id>https://panewslab.com/zh/articledetails/6g3ha08t.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6g3ha08t.html"/>
+        <updated>2024-02-09T01:36:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据官方博客，Polygon Labs宣布与零知识加密技术公司Toposware合作开发了下一代zkEVM证明器“Type 1 Prover”，允许任何与以太坊EVM标准兼容的网络成为由零知识证明支持的Layer 2网络，并连接到Polygon更广泛的网络生态系统。
+Type 1 zkEVM证明器甚至能够为以太坊主网区块生成这些ZK证明，每笔交易的平均成本为0.002-0.003美元（比任何其他Type 1证明器快36倍以上），随着Plonky3和zkEVM 的改进，预计明年成本将降低30至50倍。
+Type 1证明器是开源的，可在GitHub上获取，并获得MIT和Apache 2.0的许可。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3游戏Pixels公布其480万美元战略融资，Framework Ventures等参投]]></title>
+        <id>https://panewslab.com/zh/articledetails/yuy4j5ai.html</id>
+        <link href="https://panewslab.com/zh/articledetails/yuy4j5ai.html"/>
+        <updated>2024-02-09T01:26:40.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，基于Ronin Network的社交Web3游戏Pixels宣布完成480万美元战略融资，Framework Ventures、Collab+Currency、Volt Capital、Yield Guild Games、Sky Mavis、Tokenmetrics ventures、Forj Network、Mechanism capital、Fenbushi Capital等参投，个人投资者包含Nansen首席执行官Alex Svanenik等。
+此前币安研究院报告披露，Pixels已通过3轮私人代币销售筹集了480万美元，其中14%的PIXEL代币供应量已以0.005美元/PIXEL、0.009美元/PIXEL和0.012美元/PIXEL的价格出售。此次融资公告系Pixels官方正式对外公布。
+此前昨日消息，币安新币挖矿上线第46期项目，使用BNB、FDUSD挖矿Pixels（PIXEL）。
+相关阅读：解读币安IEO最新项目Pixels：元宇宙像素风农场链游]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PANDORA代币价格突破29000美元，24小时涨幅达83%]]></title>
+        <id>https://panewslab.com/zh/articledetails/bl1t3u8p.html</id>
+        <link href="https://panewslab.com/zh/articledetails/bl1t3u8p.html"/>
+        <updated>2024-02-09T01:12:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，CoinGecko数据显示，ERC404项目Pandora的PANDORA代币价格短时触及29,740.79美元后，现回落至29,303.76美元，24小时涨幅达83.0%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinDesk的新东家Bullish在对该媒体的重组中更换CEO]]></title>
+        <id>https://panewslab.com/zh/articledetails/5nf593br.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5nf593br.html"/>
+        <updated>2024-02-09T01:09:06.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据官方消息，在加密媒体CoinDesk的新东家加密交易所Bullish发起重大重组之际，长期担任该公司首席执行官的Kevin Worth离职。该交易所任命了Sara Stratoberdha接替Worth离的位置，她之前负责Bullish的业务开发。CoinDesk发言人表示：“CoinDesk将仍然是Bullish的独立子公司，Sara致力于维护CoinDesk的新闻独立性和完整性。”
+这次改组发生在Bullish从陷入困境的前所有者Digital Money Group手中收购CoinDesk两个月后，对CoinDesk的领导层产生了很大影响。其他离职者包括首席运营官Elinor Hirschhorn、工程副总裁John DeGuenther和全球战略执行董事Emily Parker，首席内容官Michael Casey不再担任全职职务，但正在与Bullish讨论以其他身份继续留在CoinDesk。
+此前去年11月消息，加密货币交易所Bullish以全现金交易收购CoinDesk 100%的股份。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genesis就美国纽约州总检察长对其提起的欺诈诉讼达成和解]]></title>
+        <id>https://panewslab.com/zh/articledetails/tszxexau.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tszxexau.html"/>
+        <updated>2024-02-09T00:59:42.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月9日消息，据彭博社报道，Genesis Global Holdco LLC已经解决了美国纽约州总检察长Letitia James对其提起的诉讼，该诉讼此前指控Genesis在其现已终止的Gemini Earn计划中欺骗客户（该计划是与Gemini Trust Co.共同运营）。双方达成的和解协议的结构是，原本可以归州当局所有的资产将返还给前Earn客户和其他Genesis债权人，该债务偿还计划必须得到破产法官的批准，并在Genesis就美国证券交易委员会针对Earn计划提起的另一项投诉达成和解后实施。
+法庭文件显示，纽约当局已提出在《破产法》第11章的还款额度上支持Genesis的债权人，无论破产的贷款人是用加密货币还是现金偿还债务。Genesis提议将比特币和其他代币返还给数字资产因公司破产而被冻结的客户，但法官可能要求他们以现金偿还债权人。Genesis的的主要债权人还同意采用更接近当前市场价值的程序对数字资产进行估值，这反映出自Genesis于2023年1月申请破产保护以来，加密货币价格已大幅上涨。
+Digital Currency Group反对Genesis提出的清算计划，认为这将使一些债权人在第11章中获得不公平的意外之财。在破产中独立运营的Genesis将于2月14日寻求法官Sean Lane对纽约和解协议和清算计划的批准。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[贝莱德CIO：公司的投资组合未来几年或会配置更多比特币]]></title>
         <id>https://panewslab.com/zh/articledetails/jrfo07ww.html</id>
