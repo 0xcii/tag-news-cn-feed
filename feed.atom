@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-10T09:12:05.429Z</id>
+    <id>urn:2024-02-10T10:12:01.032Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-10T09:12:05.429Z</updated>
+    <updated>2024-02-10T10:12:01.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2024-2.10）]]></title>
+        <id>https://www.web3sj.com/?p=103428</id>
+        <link href="https://www.web3sj.com/news/103428/"/>
+        <updated>2024-02-10T10:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Base：测试网已从Goerli迁移到Sepolia。EigenLayer：受筹备EigenDA主网启动等事宜影响，再质押LST已暂停。以太坊Layer2总锁仓量233.5亿美元，7日涨幅8.37%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mina：与交易所和托管机构进行主网升级的封闭测试正在进行]]></title>
         <id>https://panewslab.com/zh/articledetails/fv2izp1h.html</id>
@@ -325,16 +335,6 @@
         <link href="https://www.web3sj.com/news/103336/"/>
         <updated>2024-02-08T12:21:39.000Z</updated>
         <summary type="html"><![CDATA[OEV 的存在，在不同利益相关者之间产生了价值再分配，而 API3 则号称使用拍卖机制，使 OEV 再分配尽可能合理（通过市场机制来分配），并设法带来更快、成本更低的价格更新。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L2流动性割裂，用户体验糟糕，怎么办？]]></title>
-        <id>https://www.web3sj.com/?p=103325</id>
-        <link href="https://www.web3sj.com/news/103325/"/>
-        <updated>2024-02-08T12:19:11.000Z</updated>
-        <summary type="html"><![CDATA[我们必须解决这个问题，我们的目标是使整个以太坊生态系统感觉就像一个网络。让我们看看统一的流动性如何与钱包升级相结合，如何抽象跨链并使跨链 L2 体验就像使用单链一样。]]></summary>
         <author>
             <name>Gao</name>
         </author>
