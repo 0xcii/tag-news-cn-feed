@@ -6,12 +6,52 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=103844",
+          "author": "Gao",
+          "description": "笔者翻阅了 CoinGecko、CoinMarketCap、Messari 三家知名机构的研报，发现三者都出具了对稳定币项目 TUSD 的研究报告，并从不同纬度角度对其进行了分析。作为去年稳定币市场的大黑马，TUSD 斩获了许多顶级交易所和机构的支持，很多人开始好奇 TUSD 到底凭借什么弯道超车。",
+          "link": "https://www.web3sj.com/project/103844/",
+          "publishedOn": "2024-02-16T13:37:08.000Z",
+          "wordCount": 988,
+          "title": "Messari等多家机构出具研报，为何TUSD会成为这些机构认定的「赛道共识」？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/9affe69813763f7b46f5dbc91ee8d798a859bab2.webp"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103841",
+          "author": "Gao",
+          "description": "不同的区块链有不同的规则、共识机制和代币标准，因此不能简单地将代币从一个区块链发送到另一个区块链。桥可以从源链向目的链传输代币和数据，并在此过程中必须执行三个主要任务：数据传输、验证和解释。桥可以通过多种方式构建，其在无需信任性（桥是否继承了连接的链的安全性）、扩展性（连接多个链是否容易或每条路径是否需要定制实现）和通用性（桥梁能否发送任意数据 / 消息，还是只能进行跨链交换）之间有不同的权衡。",
+          "link": "https://www.web3sj.com/knowledge/103841/",
+          "publishedOn": "2024-02-16T13:34:23.000Z",
+          "wordCount": 2162,
+          "title": "Web3入门指南：一文搞懂所有加密核心概念",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/17080904451.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103835",
+          "author": "Gao",
+          "description": "尤其是加密社区掀起的关于以太坊 DA 正统性的大讨论，牵涉到 EigenLayer、Celestia 等一众如今的明星项目，甚至连以太坊联合创始人 Vitalik Buterin 都开始频繁发声，那究竟什么是 DA，围绕它的「正统性」争论究竟又意味着什么？",
+          "link": "https://www.web3sj.com/news/103835/",
+          "publishedOn": "2024-02-16T13:28:05.000Z",
+          "wordCount": 1069,
+          "title": "谁在动以太坊的「奶酪」？2024年这条主线叙事背后的机会",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708090052.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103828",
+          "author": "Gao",
+          "description": "目前，Smart Layer 的积分空投计划正在进行中，完成任务、收集积分将有机会获得其代币 SLN 的空投奖励。截止撰稿时，已经有超 100 万个独立钱包地址参与了活动，链上交易笔数达 1640 多万笔。",
+          "link": "https://www.web3sj.com/project/103828/",
+          "publishedOn": "2024-02-16T13:24:21.000Z",
+          "wordCount": 1105,
+          "title": "Smart Layer发币在即，如何获得SLN空投积分？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708056123823-688916.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=103823",
           "author": "Gao",
           "description": "以太坊Dencun升级主网激活日期初步预计为3月13日。Uniswap v4暂定于今年第三季度发布。贝莱德IBIT比特币持仓近11万枚。",
           "link": "https://www.web3sj.com/news/103823/",
           "publishedOn": "2024-02-16T10:05:52.000Z",
-          "wordCount": 973,
+          "wordCount": 972,
           "title": "Web3世界日报（2024-2.16）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024021610043773.jpg"
         },
@@ -21,7 +61,7 @@
           "description": "如果你对跨链的未来感到兴奋，但又对在每个网络上确定哪个钱包属于你的朋友感到头疼，那么 Clusters 可能会是你需要的服务。Clusters 是由 Delegate 和 LayerZero 团队共同打造的新型跨链命名服务，它允许用户竞标和注册在 Ethereum 和非 Ethereum 链上同时有效的钱包名称。",
           "link": "https://www.web3sj.com/news/103783/",
           "publishedOn": "2024-02-15T13:11:30.000Z",
-          "wordCount": 929,
+          "wordCount": 969,
           "title": "Bankless：如何使用多链域名服务工具Clusters实现跨链身份管理？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/17080026581.png"
         },
@@ -31,7 +71,7 @@
           "description": "此概念涵盖了广泛的系统，包括从具有Wi-Fi接入点的无线网络到由太阳能供电的能源网。一些DePIN项目与物理基础设施密切相关，并将现实世界的数据用于各种目的，如分析、研究等。",
           "link": "https://www.web3sj.com/news/103771/",
           "publishedOn": "2024-02-15T13:05:46.000Z",
-          "wordCount": 968,
+          "wordCount": 970,
           "title": "盘点DePIN赛道8个可产生稳定被动收入的项目及方法",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/GmIGXu4WJj.png"
         },
@@ -41,7 +81,7 @@
           "description": "「以太坊生态系统中剩下的最大挑战之一是隐私（……），使用整套以太坊应用程序涉及将您生活的很大一部分公开，供任何人查看和分析。」",
           "link": "https://www.web3sj.com/news/103766/",
           "publishedOn": "2024-02-15T12:59:41.000Z",
-          "wordCount": 1082,
+          "wordCount": 1106,
           "title": "同态加密市场格局分析：数字隐私的下一个前沿",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/17080019661.png"
         },
@@ -51,7 +91,7 @@
           "description": "在这份协议出来之前，我与 Cipher 针对 RGB 协议有过几次深入的交流，讨论了该协议的雏形构思，因此写一个短篇阐述我对于 RGB++ 这个协议的通俗理解、个人看法及我认为该协议可能的作用。",
           "link": "https://www.web3sj.com/news/103760/",
           "publishedOn": "2024-02-15T12:56:38.000Z",
-          "wordCount": 1175,
+          "wordCount": 1170,
           "title": "RGB++：为正统比特币L2添砖加瓦",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/17080017761.png"
         },
@@ -61,49 +101,9 @@
           "description": "本文就是加密研究员 Jake Pahor 关于 DYM 的最新报告，对 Dymension 做了详细的研究，并从使用案例、大规模采用、项目收入、代币经济学等多个角度对 Dymension 进行了深入的探究，Foresight News 对全文进行了编译。",
           "link": "https://www.web3sj.com/project/103741/",
           "publishedOn": "2024-02-15T09:33:16.000Z",
-          "wordCount": 1089,
+          "wordCount": 1114,
           "title": "模块化「乐高」叙事之外，Dymension 还有哪些催化剂值得关注？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/17079895621.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103738",
-          "author": "Gao",
-          "description": "Solana Mobile下周拟进行“Snapshot 2”快照并向预购用户发送Chapter2 Preorder Token。电信巨头Telefónica与Chainlink合作提供针对“SIM 交换”黑客攻击的安全保障。GBTC 昨日净流出约 1.31 亿美元，贝莱德 IBIT 净流入约 6.8 亿美元。",
-          "link": "https://www.web3sj.com/news/103738/",
-          "publishedOn": "2024-02-15T09:23:17.000Z",
-          "wordCount": 925,
-          "title": "Web3世界日报（2024-2.15）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024021509213584.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103710",
-          "author": "Gao",
-          "description": "自 2023 年第四季度起，加密市场经历了显着的复苏，多种叙事因此重获动力，相关代币也呈现出强劲的表现。尽管像现货 ETF 和 BRC-20/Ordinals 这样与比特币相关的叙事是近期市场的主要推动力，但随着比特币铭文活动的放缓和比特币本身进入调整期，这些叙事的热度似乎正在下降。",
-          "link": "https://www.web3sj.com/project/103710/",
-          "publishedOn": "2024-02-14T15:07:33.000Z",
-          "wordCount": 1264,
-          "title": "Gryphsis Academy：Metis估值展望",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707923230.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103706",
-          "author": "Gao",
-          "description": "相比传统金融领域而言，在 Crypto 空间活跃着更多 Investment Community (投资社区)，他们有的是由一个或几个擅长风险投资的个人发起而形成的社区，有的则是一群基于去中心化风投理念而汇集起来的志同道合的人。",
-          "link": "https://www.web3sj.com/daonews/103706/",
-          "publishedOn": "2024-02-14T14:54:49.000Z",
-          "wordCount": 1208,
-          "title": "DAOSquare Incubator 介绍：三种DAO模式",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1707922463.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103703",
-          "author": "Gao",
-          "description": "ERC404存在什么问题？其中对于用户感受最直观的便是Gas问题，相较常规的ERC20代币交易其费用高出不少，并且在以太坊等性能有限的网络上更为突出。慢雾余弦曾表示：“ ERC404 还搞了个白名单 whitelist 机制来让一些 pairs/routers 等不必频繁折腾 NFT，处理好 FT 交易即可，反正账都在合约里，消失不了。“",
-          "link": "https://www.web3sj.com/nftnews/103703/",
-          "publishedOn": "2024-02-14T14:50:50.000Z",
-          "wordCount": 960,
-          "title": "ERC404项目全线暴跌后，改良协议登场，能带来二次价值发现吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/17079222191.png"
         }
       ]
     },
@@ -112,6 +112,36 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/625j0rbx.html",
+          "author": "PA一线",
+          "description": "PANews 2月16日消息，BTC.com数据显示，比特币挖矿难度在区块高度830,592（2024-02-15 22:41:50）处迎来挖矿难度调整，挖矿难度上调8.24%至81.73 T，创历史新高，目前全网平均算力为568.69 EH/s。",
+          "link": "https://panewslab.com/zh/articledetails/625j0rbx.html",
+          "publishedOn": "2024-02-16T13:39:06.000Z",
+          "wordCount": 362,
+          "title": "比特币挖矿难度上调8.24%至81.73 T，创历史新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/spa0doo4.html",
+          "author": "PA一线",
+          "description": "PANews 2月16日消息，首个基于SRC20协议的跨链游戏Bitdragon于北京时间8点在BTC STAMP（SRC20、STAMPS/SRC721）交易和铸币平台OpenStamp的Launchpad进行首发铸造，并成功完成7000份白名单铸造。剩余2000份公售将于北京时间晚上10点开始。",
+          "link": "https://panewslab.com/zh/articledetails/spa0doo4.html",
+          "publishedOn": "2024-02-16T13:29:40.000Z",
+          "wordCount": 350,
+          "title": "首个基于SRC20协议的跨链游戏Bitdragon已完成白名单铸造，将于10点开启公开销售",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/x4pc8yvz.html",
+          "author": "PA一线",
+          "description": "PANews 2月16日消息，据The Block报道，以太坊稳定币USDe开发商Ethena Labs宣布完成1400万美元战略轮融资，投后估值达3亿美元。Dragonfly、Brevan Howard Digital和BitMEX创始人Arthur Hayes的家族办公室Maelstrom联合领投，PayPal Ventures、Franklin Templeton、Avon Ventures、Binance、Deribit、Gemini 和 Kraken等参投。该轮融资于去年12月底开始，本周结束。据此前消息，Ethena去年完成了600万美元的种子轮融资，Hayes通过家族办公室Maelstrom参投。Hayes也是Ethena的创始顾问。",
+          "link": "https://panewslab.com/zh/articledetails/x4pc8yvz.html",
+          "publishedOn": "2024-02-16T12:52:27.000Z",
+          "wordCount": 384,
+          "title": "以太坊稳定币开发商Ethena Labs完成1400万美元战略轮融资，投后估值达3亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/dds49v0m.html",
           "author": "PA一线",
@@ -149,7 +179,7 @@
           "link": "https://panewslab.com/zh/articledetails/v3h59j3h.html",
           "publishedOn": "2024-02-16T09:05:28.000Z",
           "wordCount": 383,
-          "title": "Livepeer计划将OpenAI的Sora功能引入Livepeer网络，LPT涨超60%",
+          "title": "Livepeer计划将OpenAI的Sora功能引入其网络，LPT涨超60%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
         {
@@ -280,36 +310,6 @@
           "publishedOn": "2024-02-16T04:07:26.000Z",
           "wordCount": 359,
           "title": "Aptos基金会和非洲加密公司Jambo合作推出JamboPhone",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5gvnttm1.html",
-          "author": "PA一线",
-          "description": "PANews 2月16日消息，据Ai姨监测，一个之前在市场波动中亏损400万美元的大型交易者再次活跃。在过去11小时内，这位交易者在Compound存入了1833万枚DAI并借出了4900枚ETH，然后以平均价格2834美元卖出了6476枚ETH，总价值约为1835万美金，继续持有做空的立场。",
-          "link": "https://panewslab.com/zh/articledetails/5gvnttm1.html",
-          "publishedOn": "2024-02-16T03:49:15.000Z",
-          "wordCount": 355,
-          "title": "一巨鲸在过去11小时内通过卖出6476枚ETH继续做空ETH",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4wtcaugd.html",
-          "author": "PA一线",
-          "description": "PANews 2月16日消息，香港持牌机构华量证券与虚拟资产交易所HashKey Exchange建立合作关系，并将在HashKey平台开设交易账户。此合作旨在为合格的专业投资者提供安全且便捷的虚拟资产交易和管理服务，同时推动遵循监管规定的虚拟资产行业的发展。华量金融集团自2018年成立以来，提供包括虚拟货币在内的多元化金融服务。",
-          "link": "https://panewslab.com/zh/articledetails/4wtcaugd.html",
-          "publishedOn": "2024-02-16T03:41:19.000Z",
-          "wordCount": 352,
-          "title": "华量证券与HashKey Exchange达成合作并将在平台启动交易账户",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5nedz1pv.html",
-          "author": "PA一线",
-          "description": "PANews 2月16日消息，Spot On Chain监测显示，4866万枚BLUR代币（价值约3556万美元）已从锁仓合约中解锁并在6小时前转移到Coinbase进行分配。自2023年6月15日起，在9次月度解锁中，共有5.834亿枚BLUR代币（现价值约4.376亿美元）被解锁。",
-          "link": "https://panewslab.com/zh/articledetails/5nedz1pv.html",
-          "publishedOn": "2024-02-16T03:22:40.000Z",
-          "wordCount": 366,
-          "title": "4866万枚BLUR代币已从解锁合约转入Coinbase进行分配，价值超3500万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
