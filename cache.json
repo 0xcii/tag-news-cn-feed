@@ -113,6 +113,26 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/yh70a341.html",
+          "author": "PA一线",
+          "description": "PANews 2月17日消息，据链上分析师@ai_9684xtpa监测，过去一周，某以太坊ICO参与地址累计向以太坊信标链质押46,464枚ETH，总价值1.28亿美元。该地址在2015年07月30日收到来自Genesis Block地址的100万枚ETH，成本仅0.31美元。目前该地址仍持有5万枚ETH，价值1.39亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/yh70a341.html",
+          "publishedOn": "2024-02-17T13:36:01.000Z",
+          "wordCount": 355,
+          "title": "过去一周某以太坊ICO参与地址累计向以太坊信标链质押46464枚ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u2rwxd86.html",
+          "author": "PA一线",
+          "description": "PANews 2月17日消息，行情显示，WLD短时突破4.9美元，创历史新高。现报4.84美元，24小时涨幅达到11.3%。",
+          "link": "https://panewslab.com/zh/articledetails/u2rwxd86.html",
+          "publishedOn": "2024-02-17T13:33:15.000Z",
+          "wordCount": 351,
+          "title": "行情：WLD短时突破4.9美元，创历史新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/isu4k9u3.html",
           "author": "PA一线",
           "description": "PANews 2月17日消息，据彭博社报道，根据周五提交给西雅图联邦法院的量刑备忘录，美国检察官敦促联邦法官接受币安的认罪协议。币安于去年年底承认违反了反洗钱和制裁规定，并同意支付43亿美元的罚款。检察官表示，鉴于币安不当行为的性质和严重性——它是故意的、由高管主导、造成数亿美元的附带后果，拟议认罪协议中的处罚是适当的。认罪协议还要求对币安进行长达五年的监控。此外，币安前首席执行官赵长鹏已承认违反反洗钱规定，并将于4月被判刑。他将面临长达10年的监禁，但根据认罪协议，预计其刑期不会超过18个月。",
@@ -291,26 +311,6 @@
           "wordCount": 394,
           "title": "Magic Eden将于本月底推出“Mint to Earn”计划以支持以太坊Launchpad项目",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/11pua9bp.html",
-          "author": "PA一线",
-          "description": "PANews 2月17日消息，破产的加密借贷平台Celsius发推文称，自两周前摆脱破产保护以来，Celsiu已通知全球数十万债权人，他们的加密货币债权分配已通过分销合作伙伴PayPal/Venmo和Coinbase提供给他们。目前，价值超过20亿美元的BTC和ETH已被符合资格的债权人认领。\n此外，Celsius还表示向没有资格接收加密货币的债权人分配现金是债权分配的关键阶段，团队正在研究邮寄美元支票的解决方案，计划正推出一个流程，部分债权人将可选择通过电汇方式接收。在Celsius继续债权人索赔分配之际，客户应该耐心等待，特别是那些尚未收到分配的债权人，平台的首要任务是成功地将这些资金分配给所有符合条件的债权人。",
-          "link": "https://panewslab.com/zh/articledetails/11pua9bp.html",
-          "publishedOn": "2024-02-17T02:08:54.000Z",
-          "wordCount": 363,
-          "title": "Celsius：价值超20亿美元的BTC和ETH已被符合资格的债权人认领",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1coz9w7g.html",
-          "author": "PA一线",
-          "description": "PANews 2月17日消息，据灰度官方发布的每日持仓更新显示，截至2024年2月16日，GBTC共持有456,033.8336枚BTC，较前一日减少约3394枚。此外，GBTC的资产管理规模（非公认会计原则）约为236.41亿美元，流通份额减少到5.107亿份，每股持仓约0.00089294枚BTC。",
-          "link": "https://panewslab.com/zh/articledetails/1coz9w7g.html",
-          "publishedOn": "2024-02-17T02:02:07.000Z",
-          "wordCount": 365,
-          "title": "数据：灰度GBTC 2月16日比特币持仓降至约45.6万枚BTC",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -325,7 +325,7 @@
           "description": "以太坊2.0客户端Teku正式发布v24.2.0，本次升级包含了支持3月13日以太坊主网的坎昆/Deneb升级和3月11日的Gnosis Deneb升级所需要的更新。此外，本次升级还改进了与“/eth/v3/validator/blocks/{slot}”用于区块生产的实验性信标 API 的兼容性。",
           "link": "https://www.hellobtc.com/news/202402/21656.html",
           "publishedOn": "2024-02-16T15:03:00.000Z",
-          "wordCount": 313,
+          "wordCount": 307,
           "title": "以太坊2.0客户端Teku发布v24.2.0以支持即将到来的坎昆/Deneb升级",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
