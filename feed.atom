@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-18T11:10:23.378Z</id>
+    <id>urn:2024-02-18T12:21:41.414Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-18T11:10:23.378Z</updated>
+    <updated>2024-02-18T12:21:41.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2024-2.18）]]></title>
+        <id>https://www.web3sj.com/?p=103941</id>
+        <link href="https://www.web3sj.com/news/103941/"/>
+        <updated>2024-02-18T12:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase CEO：正在将闪电网络集成到Coinbase，未来或允许使用闪电网络进行商业支付。以太坊网络当前已销毁超402万枚ETH。全网DeFi协议TVL近720亿美元，创2年新高。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[春节期间山寨币期权播报（2.9~2.18）]]></title>
         <id>https://www.web3sj.com/?p=103927</id>
@@ -402,16 +412,6 @@ ZachXBT 指出，尽管此类诈骗对受害者造成了重大损失（有受害
         <link href="https://www.web3sj.com/knowledge/103841/"/>
         <updated>2024-02-16T13:34:23.000Z</updated>
         <summary type="html"><![CDATA[不同的区块链有不同的规则、共识机制和代币标准，因此不能简单地将代币从一个区块链发送到另一个区块链。桥可以从源链向目的链传输代币和数据，并在此过程中必须执行三个主要任务：数据传输、验证和解释。桥可以通过多种方式构建，其在无需信任性（桥是否继承了连接的链的安全性）、扩展性（连接多个链是否容易或每条路径是否需要定制实现）和通用性（桥梁能否发送任意数据 / 消息，还是只能进行跨链交换）之间有不同的权衡。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在动以太坊的「奶酪」？2024年这条主线叙事背后的机会]]></title>
-        <id>https://www.web3sj.com/?p=103835</id>
-        <link href="https://www.web3sj.com/news/103835/"/>
-        <updated>2024-02-16T13:28:05.000Z</updated>
-        <summary type="html"><![CDATA[尤其是加密社区掀起的关于以太坊 DA 正统性的大讨论，牵涉到 EigenLayer、Celestia 等一众如今的明星项目，甚至连以太坊联合创始人 Vitalik Buterin 都开始频繁发声，那究竟什么是 DA，围绕它的「正统性」争论究竟又意味着什么？]]></summary>
         <author>
             <name>Gao</name>
         </author>
