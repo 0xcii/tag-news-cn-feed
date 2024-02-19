@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-19T00:58:22.307Z</id>
+    <id>urn:2024-02-19T01:52:31.993Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-19T00:58:22.307Z</updated>
+    <updated>2024-02-19T01:52:31.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wormhole基金会与Succinct合作开发以太坊ZK轻客户端]]></title>
+        <id>https://panewslab.com/zh/articledetails/p1uo2xoy.html</id>
+        <link href="https://panewslab.com/zh/articledetails/p1uo2xoy.html"/>
+        <updated>2024-02-19T01:19:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月19日消息，Wormhole Foundation宣布与Succinct合作开发以太坊ZK轻客户端，旨在进一步去中心化Wormhole平台内的消息验证。此次合作通过利用零知识证明技术来最小化对Wormhole平台的信任，改善跨链组合性，并增强网络安全性。Succinct为ZK工程师提供了加速开发时间线、降低验证成本和提高性能的工具和平台，推动了Wormhole ZK发展路线图的快速实现。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Commerce移除对原生比特币及其他UTXO币种的支持]]></title>
+        <id>https://panewslab.com/zh/articledetails/nd7qjxs6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/nd7qjxs6.html"/>
+        <updated>2024-02-19T01:03:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月19日消息，据Cointelegraph报道，Coinbase Commerce已从其商家支付平台中移除了对原生比特币（BTC）及其他UTXO币种的支持。这一调整是由于在其EVM支付协议上实施最近的更新时遇到的困难所致。尽管如此，消费者如果拥有Coinbase账户，仍可使用比特币支付。
+此外，Coinbase近期计划整合闪电网络（Lightning Network），以便未来能通过该网络实现商务支付​​。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator：稳定币将成为货币未来的重要组成部分]]></title>
+        <id>https://panewslab.com/zh/articledetails/j9y12y9n.html</id>
+        <link href="https://panewslab.com/zh/articledetails/j9y12y9n.html"/>
+        <updated>2024-02-19T00:53:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月19日消息，美国著名创业孵化器Y Combinator（YC）最新的创业公司请求（RFS）强调了他们希望看到更多人从事的创新领域。这些领域包括将机器学习应用于机器人技术、使用机器学习模拟物理世界、新的国防技术、将制造业带回美国、新空间公司、气候科技、商业开源公司、空间计算、新的企业资源计划软件、受现有内部工具启发的开发者工具、可解释的人工智能、用于传统企业后台手工流程的大型语言模型（LLMs）、利用人工智能构建企业软件、稳定币金融、终结癌症的方法、生物系统的基础模型、医疗保健的管理服务组织模型、消除医疗保健中的中间人、更好的企业软件“胶水”以及作为巨型通用模型替代的小型精调模型。
+关于稳定币金融部分，YC称，关于区块链技术的实用性存在很多争论，但稳定币显然将成为货币未来的重要组成部分。目前市场上已发行价值1360亿美元的稳定币，但机会似乎还远远没有被充分挖掘。到目前为止，只有约七百万人进行过稳定币交易，而超过五亿人生活在年通货膨胀率超过30%的国家。美国银行持有的客户存款总额为17万亿美元，这些都是潜在的转换目标。然而，主要的稳定币发行方寥寥可数，主要的流动性提供者更是屈指可数。Y Combinator希望资助在稳定币顶层构建B2B和消费者产品、工具和平台以及更多稳定币协议本身的优秀团队。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik：Verkle树将使无状态验证器客户端成为可能]]></title>
+        <id>https://panewslab.com/zh/articledetails/r94n0l97.html</id>
+        <link href="https://panewslab.com/zh/articledetails/r94n0l97.html"/>
+        <updated>2024-02-19T00:40:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月19日消息，Vitalik Buterin今日在其X账号(vitalik.eth)上表达了对Verkle树的期待。他认为Verkle树将使无状态验证器客户端成为可能，这将允许质押节点几乎不使用硬盘空间并且能够几乎即时同步，大大改善了单独质押的用户体验。这一技术同样对面向用户的轻客户端有益。
+他还对AI在代码的形式验证和寻找漏洞方面的应用感到兴奋。他认为，目前以太坊面临的最大技术风险可能是代码中的漏洞，任何能在这方面带来重大改变的技术都将是惊人的。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WLD今日凌晨突破6.4美元，MATIC位于1美元附近]]></title>
+        <id>https://panewslab.com/zh/articledetails/23f4sqxd.html</id>
+        <link href="https://panewslab.com/zh/articledetails/23f4sqxd.html"/>
+        <updated>2024-02-19T00:35:47.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月19日消息，OKX行情显示，WLD于今日凌晨突破6.4美元，现报5.95美元/枚，日内涨幅超8%，周涨幅超100%。MATIC现报0.989美元/枚，日内涨幅近4%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：价值3.8亿美元的AVAX代币将在本周解锁]]></title>
+        <id>https://panewslab.com/zh/articledetails/kdfltnx3.html</id>
+        <link href="https://panewslab.com/zh/articledetails/kdfltnx3.html"/>
+        <updated>2024-02-19T00:18:20.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月19日消息，Token Unlocks数据显示，本周AVAX、ID和DYDX等代币将迎来一次性大额解锁，总计释放价值超4亿美元。其中：
+AVAX（Avalanche）于2月22日上午8点解锁954万枚代币，价值约3.83亿美元，占流通供应量的2.6%；
+ID（SPACE ID）于2月22日上午8点解锁1849万枚GAL代币，价值约1073万美元，占流通供应量的4.29%；
+DYDX（dydx）将于2月20日下午11点解锁57.5万枚代币，价值约178万美元，占流通供应量的0.19%；共于本周解锁216万枚代币，价值682美元，占流通供应量的0.72%。
+此外，ACA（Acala）、1inch（1INCH）也将在本周迎来价值数十万美元的代币解锁。STRK（Starknet）也将于2月20日上午8点迎来代币释放/分配。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI已完成允许员工出售股票的交易，最新估值860亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/ed5ctocj.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ed5ctocj.html"/>
+        <updated>2024-02-18T23:31:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 2月19日消息，据彭博社援引一位知情人士的话称，OpenAI已经完成一笔允许员工出售公司股份的交易，这使得该公司的估值达到860亿美元。此外，OpenAI还在讨论筹集新的资金，这可能使其估值达到1000亿美元以上。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币质押链BounceBit计划于4月份推出主网]]></title>
         <id>https://panewslab.com/zh/articledetails/5vlc33ox.html</id>
