@@ -1,208 +1,125 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=103941",
+          "author": "Gao",
+          "description": "Coinbase CEO：正在将闪电网络集成到Coinbase，未来或允许使用闪电网络进行商业支付。以太坊网络当前已销毁超402万枚ETH。全网DeFi协议TVL近720亿美元，创2年新高。",
+          "link": "https://www.web3sj.com/news/103941/",
+          "publishedOn": "2024-02-18T12:00:36.000Z",
+          "wordCount": 874,
+          "title": "Web3世界日报（2024-2.18）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024021812000085.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103927",
+          "author": "Gao",
+          "description": "春节期间山寨币被BTC带动一起上涨，其中FIL，LTC，DOGE，SOL期权都有高于10倍的涨幅。",
+          "link": "https://www.web3sj.com/transaction/103927/",
+          "publishedOn": "2024-02-18T11:01:07.000Z",
+          "wordCount": 903,
+          "title": "春节期间山寨币期权播报（2.9~2.18）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2023/12/123.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103921",
+          "author": "Gao",
+          "description": "假设坎昆升级之后 Rollup L2 们 Gas 需求总量不变，而以太坊可以出售给 L2 的区块空间从现在 1 个区块的~10% 变成 3 个完整的 Blob 区块，这相当于区块空间的供应总量扩展了 30 倍，那么 Gas 的价格将降低为原来的 1/30。",
+          "link": "https://www.web3sj.com/news/103921/",
+          "publishedOn": "2024-02-18T10:20:42.000Z",
+          "wordCount": 1005,
+          "title": "坎昆升级之后，以太坊L2的Gas费真的会降低90%以上吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708251626633.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103904",
+          "author": "Gao",
+          "description": "所谓 Delta，在金融学中是一个用以衡量基础资产价格变动对投资组合变化影响幅度的指标，取值范围为「-1 到 1 」。「Delta 中性」的定义则是，如果一个投资组合由相关的金融产品组成，而且其价值不受基础资产小幅价格变动的影响，这样的投资组合即具有「Delta 中性」的性质。",
+          "link": "https://www.web3sj.com/news/103904/",
+          "publishedOn": "2024-02-18T05:27:38.000Z",
+          "wordCount": 1091,
+          "title": "浅析Ethena Labs：估值3亿美元，Arthur Hayes眼中的稳定币颠覆者",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708233973641-1.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103901",
+          "author": "Gao",
+          "description": "这篇写的细节比较多，基本上是在细磕「租赁」这一话题本身；而过去一年内，我也看了诸多项目，使用了内置租赁机制的产品在极少数，并且未见效果。究其原因，我更愿意认为是当前市场上仍没有产品能走到「出圈」阶段，大多数资产并不具备可供租赁的「实用性」。",
+          "link": "https://www.web3sj.com/gamefinews/103901/",
+          "publishedOn": "2024-02-18T05:21:18.000Z",
+          "wordCount": 1308,
+          "title": "阶段性回顾链游发展：聊聊资产结构、资产发行等",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708233653707.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103893",
+          "author": "Gao",
+          "description": "作为 Web3 安全领域最负盛名的顶级白帽黑客，samczsun 此番推出的所谓白帽黑客安全港计划「Security Alliance」究竟是什么，具体要做哪些事情，又可能会对加密行业和 Web3 安全领域产生哪些影响？",
+          "link": "https://www.web3sj.com/news/103893/",
+          "publishedOn": "2024-02-18T03:46:15.000Z",
+          "wordCount": 1092,
+          "title": "穿越黑暗森林，samczsun推出的「Security Alliance」为何获集体打Call？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708227959233.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103880",
+          "author": "Gao",
+          "description": "根据 Token Terminal 数据，Gains Network 的 30 天收费金额在衍生品赛道排名 3/50，属于第一梯队。从 2022 年 1 月起至 2024 年 1 月 31 日，过去 2 年间去中心化杠杆交易平台 gTrade 处理的总交易量约 549 亿美元，费用收入约 3400 万美元，费用收入随交易量平滑地协同增长。",
+          "link": "https://www.web3sj.com/definews/103880/",
+          "publishedOn": "2024-02-18T03:42:50.000Z",
+          "wordCount": 1779,
+          "title": "Penta Lab详解Gains Network：去中心化合成资产杠杆交易协议",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708227502471.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103869",
+          "author": "Gao",
+          "description": "Coinbase CEO：已托管约370亿美元比特币ETF资产中的90%。Yuga Labs宣布收购Moonbirds开发团队Proof。VanEck和ARK/21Shares就现货以太坊ETF提交更新申请文件。",
+          "link": "https://www.web3sj.com/news/103869/",
+          "publishedOn": "2024-02-17T11:06:35.000Z",
+          "wordCount": 861,
+          "title": "Web3世界日报（2024-2.17）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024021711045180.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103844",
+          "author": "Gao",
+          "description": "笔者翻阅了 CoinGecko、CoinMarketCap、Messari 三家知名机构的研报，发现三者都出具了对稳定币项目 TUSD 的研究报告，并从不同纬度角度对其进行了分析。作为去年稳定币市场的大黑马，TUSD 斩获了许多顶级交易所和机构的支持，很多人开始好奇 TUSD 到底凭借什么弯道超车。",
+          "link": "https://www.web3sj.com/project/103844/",
+          "publishedOn": "2024-02-16T13:37:08.000Z",
+          "wordCount": 1014,
+          "title": "Messari等多家机构出具研报，为何TUSD会成为这些机构认定的「赛道共识」？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/9affe69813763f7b46f5dbc91ee8d798a859bab2.webp"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=103841",
+          "author": "Gao",
+          "description": "不同的区块链有不同的规则、共识机制和代币标准，因此不能简单地将代币从一个区块链发送到另一个区块链。桥可以从源链向目的链传输代币和数据，并在此过程中必须执行三个主要任务：数据传输、验证和解释。桥可以通过多种方式构建，其在无需信任性（桥是否继承了连接的链的安全性）、扩展性（连接多个链是否容易或每条路径是否需要定制实现）和通用性（桥梁能否发送任意数据 / 消息，还是只能进行跨链交换）之间有不同的权衡。",
+          "link": "https://www.web3sj.com/knowledge/103841/",
+          "publishedOn": "2024-02-16T13:34:23.000Z",
+          "wordCount": 2159,
+          "title": "Web3入门指南：一文搞懂所有加密核心概念",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/17080904451.png"
+        }
+      ]
+    },
+    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
-          "id": "https://panewslab.com/zh/articledetails/7z1v4qgx.html",
+          "id": "https://panewslab.com/zh/articledetails/5vlc33ox.html",
           "author": "PA一线",
-          "description": "PANews 2月18日消息，据链上分析师@ai_9684xtpa监测，五分钟前，一LINK巨鲸向Coinbase充值75,650枚代币，若全部卖出，将获利92万美元。\n该巨鲸曾在2023.07-2023.12期间以12.89美元均价从交易所转出215万枚LINK。过去一个月，随着币价上涨卖出115,980枚代币（出售价格18.41美元），共获利64万美元；剩余100万枚LINK仍浮盈705万美元。",
-          "link": "https://panewslab.com/zh/articledetails/7z1v4qgx.html",
-          "publishedOn": "2024-02-18T15:39:19.000Z",
-          "wordCount": 363,
-          "title": "某巨鲸五分钟前向Coinbase充值75650枚LINK，若全部卖出将获利92万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/k0873kb2.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，NFT市场LooksRare在X平台表示，由于LooksRare是二层网络Blast上即将推出的游戏项目Yolo的核心贡献者之一，YOLO代币总供应量中将有一部分会被分配给LOOKS质押者，具体数量和其他详细信息拟在后续发布。",
-          "link": "https://panewslab.com/zh/articledetails/k0873kb2.html",
-          "publishedOn": "2024-02-18T15:06:29.000Z",
-          "wordCount": 356,
-          "title": "LooksRare：游戏项目Yolo的代币将有一部分分配给LOOKS质押者",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/u14zlii8.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据彭博社报道，银行政策研究所、美国银行家协会、证券业和金融市场协会以及金融服务论坛等美国行业联盟周三致函美国证券交易委员会（SEC），敦促其调整会计指导以避免提高美国银行为客户持有数字资产的成本。该监管机构已经面临来自国会民主党和共和党的压力，要求其废除该指导意见。现有的指导方针要求包括银行在内的上市公司将其托管的加密货币计算为公司资产负债表上的负债。这意味着银行必须拨备同等数额的资产以防止损失，以满足资本金要求。\n这些组织已要求SEC进行以下关键更改：1.将某些资产排除在广泛的加密货币保护范围之外，这包括使用区块链网络记录或转移的任何传统资产（例如代币化存款）以及美国证券交易委员会批准的产品基础的任何代币，例如现货比特币交易所交易基金。2.免除受监管的贷方当前的资产负债表要求，同时维持公司在财务报表中披露其加密货币活动的要求。这些贸易组织在信中表示：“如果受监管的银行组织被有效阻止大规模提供数字资产保护服务，投资者和客户以及最终金融体系的情况将会更糟。”\n监管机构表示，其会计指导是必要的，因为与银行为客户持有的其他资产相比，加密资产构成了独特的风险和不确定性。美国证券交易委员会主席Gary Gensler周三在接受彭博社采访时表示，加密行业缺乏与证券相关的适当和必要的披露。",
-          "link": "https://panewslab.com/zh/articledetails/u14zlii8.html",
-          "publishedOn": "2024-02-18T14:30:35.000Z",
-          "wordCount": 352,
-          "title": "美国多个银行业联盟敦促该国监管机构改变加密资产会计准则",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4mwkxnnb.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据Lookonchain监测，某交易者以不到0.05 ETH （137美元）的价格在SORA代币上赚取了17.6万美元，收益达1280倍。\n他总共花费了0.049 ETH (约合137美元) 买入1600万枚SORA ，并以36.57 ETH (约合102,492)卖出 1236万枚SORA ，还剩下364万枚SORA (约合74000)，总利润约为17.6万美元。",
-          "link": "https://panewslab.com/zh/articledetails/4mwkxnnb.html",
-          "publishedOn": "2024-02-18T14:27:20.000Z",
-          "wordCount": 370,
-          "title": "某交易者以137美元成本在SORA代币上赚取约17.6万美元，收益达1280倍",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ciw2gy12.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，加密交易所FixedFloat在X平台表示：“确认确实存在黑客攻击和资金被盗的情况，尚未准备好就此事发表公开评论，因为正在努力消除所有可能的漏洞、提高安全性并进行调查。FixedFloat的服务将很快再次提供，稍后将提供有关此案例的详细信息。”\n此前今日早些时候消息，FixedFloat疑似在安全事件中已损失价值2610万美元的比特币和以太坊。",
-          "link": "https://panewslab.com/zh/articledetails/ciw2gy12.html",
-          "publishedOn": "2024-02-18T14:09:11.000Z",
-          "wordCount": 350,
-          "title": "FixedFloat证实其被黑且资金被盗，称正进行调查",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/rviur0w6.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据彭博社报道，Coinbase和Robinhood的去年第四季度报告表明散户投资者已开始小心翼翼地重返加密货币领域，尽管他们还没有像三年前上一次牛市时那样一头扎进去。Arca交易员Kyle Doane表示：“有迹象表明散户开始重返市场，但尚未达到上次牛市的程度。即使是像 COIN和加密矿企等股票也比许多代币表现出更大的波动性。”散户交易者对加密货币至关重要。在上一次牛市期间，它们占了Coinbase收入的最大份额，也是大多数其他加密货币交易所的主要收入驱动力。\n谷歌趋势显示，“比特币”一词的网络搜索量在1月上半月ETF首次亮相时飙升，但随后暴跌至熊市水平，这表明散户投资者尚未完全投入其中。散户交易者大量使用的顶级加密货币交易应用程序的下载量也远低于牛市水平。根据市场情报公司Sensor Tower的数据，币安的应用程序下载量在去年第四季度达到1000万次，高于第三季度的900万次，高于2022年最后三个月的810万；而在2021年第二季度，币安的下载量达到了2580万次。此外，Coinbase应用程序去年第四季度的下载量环比增长13%，但同比仍有所下降：其第四季度的170万次应用下载量只是该公司2021年第二季度1080万次下载峰值的一小部分。",
-          "link": "https://panewslab.com/zh/articledetails/rviur0w6.html",
-          "publishedOn": "2024-02-18T13:40:22.000Z",
-          "wordCount": 363,
-          "title": "彭博社：散户投资者已开始小心翼翼地重返加密市场",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ekl26lt8.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，Coinglass数据显示，目前全网比特币期货合约未平仓头寸为45.86万枚BTC（约合237.2亿美元）。其中芝加哥商品交易所（CME）的比特币期货未平仓合约已达130710枚BTC（约合67.5亿美元），创历史新高，位列第一；币安比特币合约未平仓头寸为112950枚BTC（约合58.4亿美元），位列第二。",
-          "link": "https://panewslab.com/zh/articledetails/ekl26lt8.html",
-          "publishedOn": "2024-02-18T13:26:34.000Z",
-          "wordCount": 348,
-          "title": "CME比特币期货合约未平仓总量增至67.5亿美元，创历史新高",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/y2rm7l22.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据The Block报道，根据链上数据，加密货币交易所FixedFloat似乎已被利用价值2610万美元的比特币和以太坊。由于出现了意想不到的资金流动，该交易所进入了维护模式，目前仍处于低迷状态。该交易所在比特币区块链上被发下有409枚比特币(约合2117万美元)转移至可疑地址，而在以太坊上，也有类似的1,728枚以太坊(约合485万美元)移动到这个地址。\n该交易所在X平台表示，“我们遇到了一些小技术问题，已将服务切换至维护模式。”该交易所尚未确认漏洞的严重程度，其网站称：“技术工作正在进行中，我们很快就会回来。”",
-          "link": "https://panewslab.com/zh/articledetails/y2rm7l22.html",
-          "publishedOn": "2024-02-18T13:17:54.000Z",
-          "wordCount": 349,
-          "title": "FixedFloat疑似在安全事件中已损失价值2610万美元的比特币和以太坊",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4wd9919l.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，根据CoinDesk看到的一封致英国客户电子邮件，数字银行Revolut将推出针对“高级交易者”的加密货币交易所，费用设置在0%到0.09%之间，并添加了允许用户使用限价单和市价单进行交易的功能。当交易者想要以特定价格购买或出售资产时，通常会使用限价订单，限价订单不会产生任何费用。\nRevolut去年12月暂停为英国商业客户提供加密货币服务，理由是英国金融行为监管局 (FCA) 关于加密货币促销的新规定。",
-          "link": "https://panewslab.com/zh/articledetails/4wd9919l.html",
-          "publishedOn": "2024-02-18T13:10:41.000Z",
-          "wordCount": 351,
-          "title": "数字银行Revolut计划推出针对“高级交易者”的加密交易所",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/n47cmmy1.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据Cointelegraph报道，研究公司PitchBook的数据显示，2023年第四季度，加密货币相关公司的风险投资总额为19亿美元，环比增长2.5%。这标志着自2022年第三季度以来，对加密初创公司的风险投资资金首次出现增长。\nPitchBook强调，获得融资的主要加密企业主要围绕金融和技术解决方案。其中包括将现实世界的资产(如区块链上的房地产和股票)代币化，以及构建去中心化的计算基础设施。该季度一些重要的融资活动涉及加密交易所Swan Bitcoin和Blockchain.com，它们分别获得1.65亿美元和1亿美元的融资。该季度最重要的交易还涉及对开源区块链开发平台Wormhole的2.25亿美元投资。\n根据PitchBook的第四季度报告，金融机构对加密货币的兴趣日益浓厚，可以追溯到去年年底在美国推出的首个现货比特币ETF。",
-          "link": "https://panewslab.com/zh/articledetails/n47cmmy1.html",
-          "publishedOn": "2024-02-18T12:57:16.000Z",
-          "wordCount": 352,
-          "title": "2023年第四季度加密风险投资总额为19亿美元，环比增长2.5%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ziz9mgcy.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据Lookonchain监测，30多分钟前，某巨鲸向币安存入317枚BTC，约1917万美元。\n2023年9月19日和9月20日，该巨鲸从币安提出885枚BTC（约2393万美元），平均价格为27,055美元。",
-          "link": "https://panewslab.com/zh/articledetails/ziz9mgcy.html",
-          "publishedOn": "2024-02-18T12:51:12.000Z",
-          "wordCount": 349,
-          "title": "某巨鲸半个多小时前向币安存入317枚BTC，约合1917万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/r43g4t99.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，Coingecko数据显示，Worldcoin的WLD代币价格已突破5美元，现报5.38美元，24小时涨幅达13.8%，7日涨幅达111.2%。\n此前2月16日消息，OpenAI推出将文本转换为视频的AI系统Sora。",
-          "link": "https://panewslab.com/zh/articledetails/r43g4t99.html",
-          "publishedOn": "2024-02-18T12:41:28.000Z",
-          "wordCount": 356,
-          "title": "WLD代币价格已突破5美元，7日涨幅达111.2%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/naqo1h8b.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据安全研究员@officer_cia监测，加密交易所FixedFloat疑似遭遇攻击，损失1700枚ETH（目前约合476.86万美元）。攻击者地址：0x85c4fF99bF0eCb24e02921b0D4b5d336523Fa085。",
-          "link": "https://panewslab.com/zh/articledetails/naqo1h8b.html",
-          "publishedOn": "2024-02-18T12:35:38.000Z",
+          "description": "PANews 2月19日消息，比特币质押链BounceBit在推特发文称，计划将于4月份推出主网。抢先体验现已在官方网站上线，早期贡献者可以根据TVL和推荐的用户赚取积分。BounceBit于今年1月30日上线，目前TVL已超过4.5亿美元。BounceBit是一个建立在比特币资产类别之上的中间件协议，引入了BTC再质押。",
+          "link": "https://panewslab.com/zh/articledetails/5vlc33ox.html",
+          "publishedOn": "2024-02-18T23:15:01.000Z",
           "wordCount": 346,
-          "title": "安全研究员：FixedFloat疑似遭遇攻击，损失1700枚ETH",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/yaox54fy.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，Ordinals开发者Leonidas在X平台发文表示，Runestone空投即将到来。用户可在指定网址自行检查 Ordinals地址以确认是否会收到Runestone。不过，Leonidas尚未公布具体空投时间。\n据悉，Runestone是Ordinals开发者Leonidas受符文项目RISC的启发所开启的一个实验项目，Runestone已经区块高度826,600完成快照（Ordinals诞生一周年）。Runestone的总量共11万张，每个地址最多一张，将以铭文的形式进行空投，等到Casey完成对符文协议的开发后，将Runestone符文1:1空投给铭文持有人。\n相关阅读：Runestone即将空投，这些事你必须要了解",
-          "link": "https://panewslab.com/zh/articledetails/yaox54fy.html",
-          "publishedOn": "2024-02-18T12:20:06.000Z",
-          "wordCount": 359,
-          "title": "Ordinals开发者Leonidas宣布其旗下实验项目Runestone将进行空投",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2zgbqu0a.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据DL News报道，Chainalysis在年度报告中表示，比特币混币器YoMix已成为臭名昭著的朝鲜Lazarus黑客组织对盗取的加密货币进行洗钱的首选。由于混合服务Tornado Cash和Sinbad受到制裁或关闭，去年的加密货币洗钱活动从2022年的315亿美元下降至222亿美元。部分下降可能归因于2023年市场低迷期间加密货币交易量的整体下降。不过，洗钱活动的下降幅度更大，达到29.5%，而总交易量下降了14.9%。尽管如此，YoMix在2023年仍实现了巨大增长，全年资金流入量增长了五倍多。\nChainalysis表示：“大约三分之一的YoMix资金流入来自与加密黑客有关的钱包。YoMix的发展和Lazarus Group对它的青睐是一个很好的例子，说明当以前流行的混合服务被关闭时，老练的参与者有能力适应并找到替代的混合服务。”与朝鲜有关的黑客还通过使用跨链桥，在不同的区块链网络之间传输加密货币，采用了不同的伪装技术。",
-          "link": "https://panewslab.com/zh/articledetails/2zgbqu0a.html",
-          "publishedOn": "2024-02-18T12:08:01.000Z",
-          "wordCount": 359,
-          "title": "朝鲜黑客组织Lazarus在Tornado Cash和Sinbad受制裁后转向使用新混币器YoMix",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3kh9ie5s.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据CoinDesk报道，尽管十种现货比特币ETF的推出为Coinbase第四季度好于预期的收益做出了贡献，但摩根大通的分析师对收益是否像该交易所表现得那样强劲表示怀疑。摩根大通分析师Kenneth Worthington周五在一份报告中写道：“Coinbase管理层宣称其参与美国现货比特币ETF是一种净利好，但我们仍不确定其真正的盈利影响，因为我们看到了积极和消极的一面。”他特别批评该公司业务缺乏透明度，其中包括为10只比特币ETF中的8只提供托管服务。\n该报告称：“鉴于媒体的关注和市场对现货比特币ETF的预期，尤其是考虑到Coinbase的直接参与和货币化努力，我们希望管理层能够对与发行方的安排提供更有力的见解。鉴于缺乏细节，我们仍然对这些ETF的真正货币化影响及其抵消现货市场交易量潜在损失的能力持怀疑态度，我们仍然认为这是可能的”\n在ETF获得批准之前，分析师曾警告称，其低廉的交易费用可能会将投资者从Coinbase等交易所吸引到这些新批准的基金中，因为ETF更容易通过经纪人将资金投入。然而，Worthington指出，Coinbase似乎并不认为ETF正在赶走投资者。他写道：“与我们本周早些时候从Robinhood管理层那里听到的评论类似，Coinbase声称，现货比特币ETF没有改变客户的行为，所有交易似乎都是对现有现货交易的补充。”",
-          "link": "https://panewslab.com/zh/articledetails/3kh9ie5s.html",
-          "publishedOn": "2024-02-18T11:59:40.000Z",
-          "wordCount": 357,
-          "title": "摩根大通分析师批评Coinbase对其ETF业务缺乏洞察",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/delkrdjh.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，CoinGecko数据显示，加密货币总市值已于近日突破2万亿美元，现报2.05万亿美元。截至目前，比特币 的市值约1.02万亿美元，占据49.69%的主导地位。与此同时，稳定币的市值为1400亿美元，占加密货币总市值的6.82%。",
-          "link": "https://panewslab.com/zh/articledetails/delkrdjh.html",
-          "publishedOn": "2024-02-18T11:42:41.000Z",
-          "wordCount": 349,
-          "title": "加密货币总市值目前约2.05万亿美元，比特币市占率约49.69%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/kyctf89h.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，Snapshot治理页面显示，TreasureDAO社区正对“Treasure Chain的生态系统选择”提案进行投票，选项包括Optimism、zkSync、SKALE、Arbitrum，投票将于2月22日早上结束，Arbitrum以99.79%的支持率暂时位列第一。\n此前2月6日消息，Treasure Infinity Chains简化版白皮书发布，核心包括Treasure Chain和Infinity Chain。其中，Treasure Chain的开发和推出将通过平行计划进行协调，以达到2024年第三季度主网的目标发布。",
-          "link": "https://panewslab.com/zh/articledetails/kyctf89h.html",
-          "publishedOn": "2024-02-18T11:27:23.000Z",
-          "wordCount": 371,
-          "title": "“Treasure Chain生态系统选择”提案正接受投票，Arbitrum暂时领先",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/a2wky24f.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据币安行情显示，24小时涨幅排名靠前的几个代币为：IOTX现报0.06776美元，24小时涨幅为41.99%；BLZ现报0.4487美元，24小时涨幅为38.57%；RLC现报3.44美元，24小时涨幅为34.80%；ARKM现报1.04美元，24小时涨幅为31.77%；ZEN现报11.09美元，24小时涨幅为30.93%；AI现报1.83美元，24小时涨幅为26.68%；OCEAN现报0.6503美元，24小时涨幅为22.58%；ALT现报0.45307美元，24小时涨幅为17.23%；FET现报0.8037美元，24小时涨幅为15.51%；COTI现报0.10461美元，24小时涨幅为15.40%。",
-          "link": "https://panewslab.com/zh/articledetails/a2wky24f.html",
-          "publishedOn": "2024-02-18T10:58:54.000Z",
-          "wordCount": 357,
-          "title": "行情：IOTX 24小时涨幅约42%，BLZ 24小时涨幅超38%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ugtwiy45.html",
-          "author": "PA一线",
-          "description": "PANews 2月18日消息，据Cointelegraph报道，资管集团VanEck将支付175万美元罚款，以解决美国证券交易委员会 (SEC) 对其2021年推出的专注于社交媒体的ETF(即VanEck Social Sentiment ETF)的指控。美SEC对VanEck处以民事处罚。2月16日，SEC在一份声明中透露，在2021年3月推出该ETF期间，VanEck并未完全披露知名社交媒体人士参与营销该产品的情况。该ETF旨在利用社交媒体和其他数据源的“积极见解”来追踪指数。然而，美国证券交易委员会发现，为了通过社交媒体促进该基金的成功，VanEck与一位有影响力和争议性的网络人物合作，以增强该基金的吸引力。\n尽管金融监管机构没有明确指出影响者的名字，但2021年的报告此前已将Barstool Sports创始人David Portnoy与VanEck ETF的推广联系起来。监管机构注意到一个未公开的细节，即影响者的费用与基金的增长挂钩，保证随着基金的扩张获得更高的报酬。美SEC批评了这一秘密交易，重点是VanEck未能将影响者有意参与的情况告知ETF董事会。这一未披露的安排对管理合同和基金运作产生了重大影响，违反了董事会在咨询合同讨论期间监督财务方面的职责。美SEC执法部门资产管理部门联席主管Andrew Dean强调投资顾问需要保持透明度。他指出，未能提供准确的披露会阻碍董事会正确评估咨询合同和了解许可协议的经济影响的能力。\nVanEck同意SEC的命令，承认其违反了《投资公司法》和《投资顾问法》。该公司接受了停止令、谴责和所需的经济处罚，但没有承认或否认调查结果。",
-          "link": "https://panewslab.com/zh/articledetails/ugtwiy45.html",
-          "publishedOn": "2024-02-18T09:49:25.000Z",
-          "wordCount": 372,
-          "title": "VanEck承认在ETF营销中违规，同意向美SEC支付175万美元罚款",
+          "title": "比特币质押链BounceBit计划于4月份推出主网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
