@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-19T07:13:24.879Z</id>
+    <id>urn:2024-02-19T08:17:02.096Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-19T07:13:24.879Z</updated>
+    <updated>2024-02-19T08:17:02.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[详解NFT拆分协议ERC-404：是否昙花一现?]]></title>
+        <id>https://www.web3sj.com/?p=104001</id>
+        <link href="https://www.web3sj.com/nftnews/104001/"/>
+        <updated>2024-02-19T07:49:57.000Z</updated>
+        <summary type="html"><![CDATA[随着 2021 年 NFT summer 的到来，CryptoPunk、无聊猿等蓝筹 NFT 的价格已经涨到了让普通用户望洋兴叹的地步，流动性问题也一直是 NFT 的一大痛点，因此 NFT 的拆分需求在当时达到顶峰，这一需求其实在很早期就被许多项目方洞察到。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[盘点2024 年Solana DePIN发展状态]]></title>
         <id>https://www.web3sj.com/?p=103983</id>
@@ -342,16 +352,6 @@ DYDX（dydx）将于2月20日下午11点解锁57.5万枚代币，价值约178万
         <link href="https://www.web3sj.com/news/103921/"/>
         <updated>2024-02-18T10:20:42.000Z</updated>
         <summary type="html"><![CDATA[假设坎昆升级之后 Rollup L2 们 Gas 需求总量不变，而以太坊可以出售给 L2 的区块空间从现在 1 个区块的~10% 变成 3 个完整的 Blob 区块，这相当于区块空间的供应总量扩展了 30 倍，那么 Gas 的价格将降低为原来的 1/30。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅析Ethena Labs：估值3亿美元，Arthur Hayes眼中的稳定币颠覆者]]></title>
-        <id>https://www.web3sj.com/?p=103904</id>
-        <link href="https://www.web3sj.com/news/103904/"/>
-        <updated>2024-02-18T05:27:38.000Z</updated>
-        <summary type="html"><![CDATA[所谓 Delta，在金融学中是一个用以衡量基础资产价格变动对投资组合变化影响幅度的指标，取值范围为「-1 到 1 」。「Delta 中性」的定义则是，如果一个投资组合由相关的金融产品组成，而且其价值不受基础资产小幅价格变动的影响，这样的投资组合即具有「Delta 中性」的性质。]]></summary>
         <author>
             <name>Gao</name>
         </author>
