@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-20T05:14:30.839Z</id>
+    <id>urn:2024-02-20T06:17:39.787Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-20T05:14:30.839Z</updated>
+    <updated>2024-02-20T06:17:39.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bankless：Monad为何有取代以太坊的潜力？]]></title>
+        <id>https://www.web3sj.com/?p=104142</id>
+        <link href="https://www.web3sj.com/news/104142/"/>
+        <updated>2024-02-20T06:14:54.000Z</updated>
+        <summary type="html"><![CDATA[Monad 保留了完整的 EVM 兼容性，但通过四个关键创新对以太坊进行了改进：MonadBFT、延迟执行、并行执行和 MonadDb。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从团队的社区互动中，窥探zkSync空投的蛛丝马迹]]></title>
+        <id>https://www.web3sj.com/?p=104132</id>
+        <link href="https://www.web3sj.com/news/104132/"/>
+        <updated>2024-02-20T06:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Starknet 官宣空投之后的这几天，多位 zkSync 团队成员一反常态地在社交媒体上频繁谈及关于空投设计的事宜，参与讨论的甚至包括在 zkSync 团队中话语权颇重的 DeFi 业务负责人 Sebastien。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[落袋为安，加密牛市中如何才能正确止盈？]]></title>
+        <id>https://www.web3sj.com/?p=104123</id>
+        <link href="https://www.web3sj.com/transaction/104123/"/>
+        <updated>2024-02-20T06:05:59.000Z</updated>
+        <summary type="html"><![CDATA[因此，当我购买一个计划因为即将到来的催化剂而短期持有的代币时，我通常会在那个催化剂落地的日期之前对我的头寸获利止盈一部分甚至完全卖出。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFi收益率反超国债，RWA叙事又要失灵了吗？]]></title>
+        <id>https://www.web3sj.com/?p=104117</id>
+        <link href="https://www.web3sj.com/definews/104117/"/>
+        <updated>2024-02-20T05:55:21.000Z</updated>
+        <summary type="html"><![CDATA[虽然去中心化和安全性对 DeFi 来说固然重要，但不管是传统金融还是去中心化金融都离不开一个核心点，就是要能赚钱，尤其是要能让有钱的人赚钱。对于坐拥千万美金链上资产的鲸鱼和机构，这一点至关重要。让这些人赚钱，是 DeFi 面临的最现实的问题。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密牛市应该遵循的15条投资法则]]></title>
+        <id>https://www.web3sj.com/?p=104114</id>
+        <link href="https://www.web3sj.com/transaction/104114/"/>
+        <updated>2024-02-20T05:46:34.000Z</updated>
+        <summary type="html"><![CDATA[这轮牛市这可能是您在加密领域取得成功的最后机会。为了在这次牛市获得更多的利润，您必须遵循以下 15 条规则。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解读MetaDAO：一场基于「未来体制」概念的治理新实验]]></title>
+        <id>https://www.web3sj.com/?p=104101</id>
+        <link href="https://www.web3sj.com/daonews/104101/"/>
+        <updated>2024-02-20T05:24:40.000Z</updated>
+        <summary type="html"><![CDATA[与大热的 AI、Depin 和 L2 等主流赛道不同，与 DAO 相关的新项目总是与社会实验、优化治理和平权等人文叙事结合在一起，既无法证伪，又深得民心，很容易成为资金炒作的对象。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帐户抽象：L1和L2层的解决方案以及采用现状]]></title>
         <id>https://www.web3sj.com/?p=104091</id>
@@ -277,66 +337,6 @@ Trust Wallet推出智能合约钱包SWIFT
         <link href="https://www.web3sj.com/news/104028/"/>
         <updated>2024-02-19T12:58:43.000Z</updated>
         <summary type="html"><![CDATA[模块化是 DA 的前提，以太坊横向模块化是分片，纵向模块化是分层，Rollup 负责交易，主网负责 DA 和共识，DA 火热意味着分层概念已经成为共识，其次是 Rollup 战事已经终结，之后都是修修补补。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-2.19）]]></title>
-        <id>https://www.web3sj.com/?p=104025</id>
-        <link href="https://www.web3sj.com/news/104025/"/>
-        <updated>2024-02-19T12:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik：很期待Verkle Tries，将大幅改善独立验证者的体验。黄金ETF年初至今流出约30亿美元，部分资金或已进入比特币市场。三箭清算方Teneo的0xc7c开头地址资产突破6亿美元，约94%为WLD。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解NFT拆分协议ERC-404：是否昙花一现?]]></title>
-        <id>https://www.web3sj.com/?p=104001</id>
-        <link href="https://www.web3sj.com/nftnews/104001/"/>
-        <updated>2024-02-19T07:49:57.000Z</updated>
-        <summary type="html"><![CDATA[随着 2021 年 NFT summer 的到来，CryptoPunk、无聊猿等蓝筹 NFT 的价格已经涨到了让普通用户望洋兴叹的地步，流动性问题也一直是 NFT 的一大痛点，因此 NFT 的拆分需求在当时达到顶峰，这一需求其实在很早期就被许多项目方洞察到。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点2024 年Solana DePIN发展状态]]></title>
-        <id>https://www.web3sj.com/?p=103983</id>
-        <link href="https://www.web3sj.com/news/103983/"/>
-        <updated>2024-02-19T06:53:54.000Z</updated>
-        <summary type="html"><![CDATA[Solana 的集成基础设施和开发者社区现在吸引着 DePIN 项目的各个生命周期阶段。虽然 Solana 是一个具有蓬勃发展的 DeFi 和 NFT 生态系统的通用链，但其作为 DePIN 领域领导者的崛起确实令人瞩目。许多人认为，DePIN 是 Solana 生态系统中最看好的赌注之一，这归功于其庞大的 TAM 以及 Solana 在 DePIN 领域的先发优势。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币储值飙升：一些公司积累了超过137亿美元的Crypto资产]]></title>
-        <id>https://www.web3sj.com/?p=103978</id>
-        <link href="https://www.web3sj.com/news/103978/"/>
-        <updated>2024-02-19T06:13:05.000Z</updated>
-        <summary type="html"><![CDATA[BTC ETF 金融产品备受关注，在 2 月 12 日至 2 月 16 日之间吸引了大量的资金流入，累计超过了 22 亿美元。这一投资激增使 BTC ETF 超越了美国的 3400 种 ETF。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成为了「NFT 的 LVMH」背后，Yuga Labs的失落]]></title>
-        <id>https://www.web3sj.com/?p=103970</id>
-        <link href="https://www.web3sj.com/nftnews/103970/"/>
-        <updated>2024-02-19T05:23:45.000Z</updated>
-        <summary type="html"><![CDATA[「拉盘就是正义」，这句话在 NFT 玩家群体中广为流传且流传已久，甚至成为了某些批评 NFT 玩家很 toxic 的声音的根据之一。还有一句在华语 NFT 玩家群体中流传的金句，「项目方在做事」，大家总是半开玩笑地说最怕做事情的项目方，越做事 NFT 越跌。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sora再掀AI热潮，速览14个AI概念代币]]></title>
-        <id>https://www.web3sj.com/?p=103965</id>
-        <link href="https://www.web3sj.com/project/103965/"/>
-        <updated>2024-02-19T04:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Worldcoin 是由 OpenAI 创始人 Sam Altman 创立的 Crypto 项目。由于全世界目前有大多数人无法通过数字方式来验证身份，Worldcoin 的愿景是建设一个全球最大的，公平的数字身份和货币体系。以此来帮助每一个人进入全球金融体系。虽 WLD 暂无实际用例，但 OpenAI 创始人概念使其在历次 AI 炒作中都有所表现。]]></summary>
         <author>
             <name>Gao</name>
         </author>

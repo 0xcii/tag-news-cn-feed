@@ -6,12 +6,72 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=104142",
+          "author": "Gao",
+          "description": "Monad 保留了完整的 EVM 兼容性，但通过四个关键创新对以太坊进行了改进：MonadBFT、延迟执行、并行执行和 MonadDb。",
+          "link": "https://www.web3sj.com/news/104142/",
+          "publishedOn": "2024-02-20T06:14:54.000Z",
+          "wordCount": 922,
+          "title": "Bankless：Monad为何有取代以太坊的潜力？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708409665584.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=104132",
+          "author": "Gao",
+          "description": "Starknet 官宣空投之后的这几天，多位 zkSync 团队成员一反常态地在社交媒体上频繁谈及关于空投设计的事宜，参与讨论的甚至包括在 zkSync 团队中话语权颇重的 DeFi 业务负责人 Sebastien。",
+          "link": "https://www.web3sj.com/news/104132/",
+          "publishedOn": "2024-02-20T06:09:38.000Z",
+          "wordCount": 976,
+          "title": "从团队的社区互动中，窥探zkSync空投的蛛丝马迹",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708409363590.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=104123",
+          "author": "Gao",
+          "description": "因此，当我购买一个计划因为即将到来的催化剂而短期持有的代币时，我通常会在那个催化剂落地的日期之前对我的头寸获利止盈一部分甚至完全卖出。",
+          "link": "https://www.web3sj.com/transaction/104123/",
+          "publishedOn": "2024-02-20T06:05:59.000Z",
+          "wordCount": 976,
+          "title": "落袋为安，加密牛市中如何才能正确止盈？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708409100479.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=104117",
+          "author": "Gao",
+          "description": "虽然去中心化和安全性对 DeFi 来说固然重要，但不管是传统金融还是去中心化金融都离不开一个核心点，就是要能赚钱，尤其是要能让有钱的人赚钱。对于坐拥千万美金链上资产的鲸鱼和机构，这一点至关重要。让这些人赚钱，是 DeFi 面临的最现实的问题。",
+          "link": "https://www.web3sj.com/definews/104117/",
+          "publishedOn": "2024-02-20T05:55:21.000Z",
+          "wordCount": 1020,
+          "title": "DeFi收益率反超国债，RWA叙事又要失灵了吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708408504063.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=104114",
+          "author": "Gao",
+          "description": "这轮牛市这可能是您在加密领域取得成功的最后机会。为了在这次牛市获得更多的利润，您必须遵循以下 15 条规则。",
+          "link": "https://www.web3sj.com/transaction/104114/",
+          "publishedOn": "2024-02-20T05:46:34.000Z",
+          "wordCount": 886,
+          "title": "加密牛市应该遵循的15条投资法则",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708407956474.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=104101",
+          "author": "Gao",
+          "description": "与大热的 AI、Depin 和 L2 等主流赛道不同，与 DAO 相关的新项目总是与社会实验、优化治理和平权等人文叙事结合在一起，既无法证伪，又深得民心，很容易成为资金炒作的对象。",
+          "link": "https://www.web3sj.com/daonews/104101/",
+          "publishedOn": "2024-02-20T05:24:40.000Z",
+          "wordCount": 1077,
+          "title": "解读MetaDAO：一场基于「未来体制」概念的治理新实验",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708406650229.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=104091",
           "author": "Gao",
           "description": "想象一下，在与 Web3 世界互动时，不再需要手动管理私钥、计算交易费用、与每个智能合约进行繁琐交互、担心被欺诈而失去所有资金、批准交易、必须「妥善保管」您的种子短语以及其他诸如感到迷失和被技术术语所吓倒等琐事... 这就是 AA 的承诺！",
           "link": "https://www.web3sj.com/news/104091/",
           "publishedOn": "2024-02-20T04:15:51.000Z",
-          "wordCount": 1117,
+          "wordCount": 1147,
           "title": "帐户抽象：L1和L2层的解决方案以及采用现状",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708402488283.png"
         },
@@ -21,7 +81,7 @@
           "description": "那么，再质押地址们究竟在做什么？他们如何配置资金？在哪里 Farming？最常使用哪些 LRT 协议？针对这些问题，本文将结合 10 张关于再质押地址行为的独家图表，进行全景式介绍与分析（注：所有数据都来自 Dune 上的「LRT whales」仪表板）。",
           "link": "https://www.web3sj.com/news/104076/",
           "publishedOn": "2024-02-20T04:01:40.000Z",
-          "wordCount": 1058,
+          "wordCount": 1060,
           "title": "10张图，给你一双全景洞察LRT的「火眼金睛」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708401342458.png"
         },
@@ -31,7 +91,7 @@
           "description": "今年 1 月，Berachain 表示已有 30 多个原生团队在 Berachain 上构建，还有 100 多个来自其他网络的团队计划在测试网和主网上部署，其中包括 Pendle、Redacted、Sudoswap、Abracadabra 等。据 The Honey Jar 社区 BD Umeshu 整理，2024 年 1 月 Berachain 共有 70 多个生态项目。",
           "link": "https://www.web3sj.com/project/104039/",
           "publishedOn": "2024-02-19T13:07:22.000Z",
-          "wordCount": 2150,
+          "wordCount": 2181,
           "title": "融资4200万、主网上线在即…「人满为患」的Berachain测试网深度参与指南",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708348024772.png"
         },
@@ -41,69 +101,9 @@
           "description": "模块化是 DA 的前提，以太坊横向模块化是分片，纵向模块化是分层，Rollup 负责交易，主网负责 DA 和共识，DA 火热意味着分层概念已经成为共识，其次是 Rollup 战事已经终结，之后都是修修补补。",
           "link": "https://www.web3sj.com/news/104028/",
           "publishedOn": "2024-02-19T12:58:43.000Z",
-          "wordCount": 1425,
+          "wordCount": 1437,
           "title": "以太坊Rollups（STARKNET）战事终结，新叙事DA待发",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708347477957.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=104025",
-          "author": "Gao",
-          "description": "Vitalik：很期待Verkle Tries，将大幅改善独立验证者的体验。黄金ETF年初至今流出约30亿美元，部分资金或已进入比特币市场。三箭清算方Teneo的0xc7c开头地址资产突破6亿美元，约94%为WLD。",
-          "link": "https://www.web3sj.com/news/104025/",
-          "publishedOn": "2024-02-19T12:32:01.000Z",
-          "wordCount": 953,
-          "title": "Web3世界日报（2024-2.19）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024021912293331.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=104001",
-          "author": "Gao",
-          "description": "随着 2021 年 NFT summer 的到来，CryptoPunk、无聊猿等蓝筹 NFT 的价格已经涨到了让普通用户望洋兴叹的地步，流动性问题也一直是 NFT 的一大痛点，因此 NFT 的拆分需求在当时达到顶峰，这一需求其实在很早期就被许多项目方洞察到。",
-          "link": "https://www.web3sj.com/nftnews/104001/",
-          "publishedOn": "2024-02-19T07:49:57.000Z",
-          "wordCount": 1180,
-          "title": "详解NFT拆分协议ERC-404：是否昙花一现?",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708328960557.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103983",
-          "author": "Gao",
-          "description": "Solana 的集成基础设施和开发者社区现在吸引着 DePIN 项目的各个生命周期阶段。虽然 Solana 是一个具有蓬勃发展的 DeFi 和 NFT 生态系统的通用链，但其作为 DePIN 领域领导者的崛起确实令人瞩目。许多人认为，DePIN 是 Solana 生态系统中最看好的赌注之一，这归功于其庞大的 TAM 以及 Solana 在 DePIN 领域的先发优势。",
-          "link": "https://www.web3sj.com/news/103983/",
-          "publishedOn": "2024-02-19T06:53:54.000Z",
-          "wordCount": 2145,
-          "title": "盘点2024 年Solana DePIN发展状态",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708325602724.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103978",
-          "author": "Gao",
-          "description": "BTC ETF 金融产品备受关注，在 2 月 12 日至 2 月 16 日之间吸引了大量的资金流入，累计超过了 22 亿美元。这一投资激增使 BTC ETF 超越了美国的 3400 种 ETF。",
-          "link": "https://www.web3sj.com/news/103978/",
-          "publishedOn": "2024-02-19T06:13:05.000Z",
-          "wordCount": 989,
-          "title": "比特币储值飙升：一些公司积累了超过137亿美元的Crypto资产",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/033d0dc4296645022620a0e607bfe66b.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103970",
-          "author": "Gao",
-          "description": "「拉盘就是正义」，这句话在 NFT 玩家群体中广为流传且流传已久，甚至成为了某些批评 NFT 玩家很 toxic 的声音的根据之一。还有一句在华语 NFT 玩家群体中流传的金句，「项目方在做事」，大家总是半开玩笑地说最怕做事情的项目方，越做事 NFT 越跌。",
-          "link": "https://www.web3sj.com/nftnews/103970/",
-          "publishedOn": "2024-02-19T05:23:45.000Z",
-          "wordCount": 1136,
-          "title": "成为了「NFT 的 LVMH」背后，Yuga Labs的失落",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708320118305.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=103965",
-          "author": "Gao",
-          "description": "Worldcoin 是由 OpenAI 创始人 Sam Altman 创立的 Crypto 项目。由于全世界目前有大多数人无法通过数字方式来验证身份，Worldcoin 的愿景是建设一个全球最大的，公平的数字身份和货币体系。以此来帮助每一个人进入全球金融体系。虽 WLD 暂无实际用例，但 OpenAI 创始人概念使其在历次 AI 炒作中都有所表现。",
-          "link": "https://www.web3sj.com/project/103965/",
-          "publishedOn": "2024-02-19T04:58:42.000Z",
-          "wordCount": 1095,
-          "title": "Sora再掀AI热潮，速览14个AI概念代币",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708318705521.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "PANews 2月20日消息，韩国虚拟资产交易平台Bithumb宣布将添加StarkNet（STRK）到其韩元市场。据官方通告，StarkNet（STRK）的支持将仅限于以太坊网络，其他网络的存款将不予支持。存款将于2024年2月20日下午3:00（当地时间）开始，而交易和提款的开始时间则尚未确定。\n此外，StarkNet基金会将向参与以太坊合并前的以太坊质押的用户空投STRK。Bithumb将根据2022年9月15日以太坊合并时的快照，将空投的STRK分配给当时在Bithumb进行以太坊质押的用户。具体的分配方法和时间将会另行通知。",
           "link": "https://panewslab.com/zh/articledetails/1xa778n9.html",
           "publishedOn": "2024-02-20T03:30:44.000Z",
-          "wordCount": 347,
+          "wordCount": 349,
           "title": "Bithumb宣布将上线STRK韩元市场，并向以太坊质押用户空投STRK",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +128,7 @@
           "description": "PANews 2月20日消息，据官方消息，Native现已接入OKX Web3钱包，用户可以通过 OKX Web3 钱包在Native进行热门币种的0手续费交易，项目方则可以为产品添加交易功能并赚取交易费用、做市商可以将订单流整合到单个集成中等等。Native是一个DEX基础设施层，可将资产兑换功能转化为一种工具包，允许项目将DEX集成到自己的应用内，并通过PMM-RFQ模型融合了链下流动性和链上执行结算，带给用户CEX级别的定价效率和DEX级别的自我托管体验，当前其交易量达2.33b美元。\n据悉，OKX Web3 钱包是行业领先的一站式 Web3 入口，现已支持 85+ 公链，App、插件、网页三端统一，涵盖钱包、DEX、DeFi、NFT 市场、DApp 探索 5 大板块、并支持 Ordinals 市场、MPC 和 AA 智能合约钱包、兑换 Gas、连接硬件钱包等。",
           "link": "https://panewslab.com/zh/articledetails/6ix960t8.html",
           "publishedOn": "2024-02-20T03:28:17.000Z",
-          "wordCount": 394,
+          "wordCount": 396,
           "title": "DEX基础设施层Native接入OKX Web3钱包",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 2月20日消息，Greeks.live宏观研究员Adam发推称，近期期权大宗市场活动激增，一笔名义价值2000万美元的比特币蝶式组合期权交易刚刚完成。这是一项新开仓的期权交易，押注比特币价格在3月末到期前将小幅下跌，其中47000美元是最大盈利点。此外，该交易还包含了一个做空隐含波动率的要素，如果价格跌破44000美元或高于49800美元，交易将会亏损，但最大损失是有限的。",
           "link": "https://panewslab.com/zh/articledetails/d9san392.html",
           "publishedOn": "2024-02-20T03:19:49.000Z",
-          "wordCount": 345,
+          "wordCount": 351,
           "title": "刚刚成交一笔名义价值2000万美元的比特币蝶式组合期权，47000美元是最大盈利点",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 2月20日消息，一位匿名交易者通过出售早期以太坊NFT集合赚取了1300万美元。这位使用“OldSchoolCollection”为名在OpenSea NFT市场上的交易者，于2021年2月以140万美元购买了10个Autoglyphs NFT，今日以5000以太币（约合1450万美元）的价格卖给了一位私人收藏家，交易通过NFT经纪平台Fountain完成。Fountain表示，此次交易是链上记录的最大NFT交易之一。Autoglyphs是以太坊网络上首批生成艺术NFT之一，由CryptoPunks名声的Larva Labs在2019年推出，共有512个Autoglyphs，当时任何愿意支付0.2以太币（约35美元）的创建费用的人都可以获得一个。",
           "link": "https://panewslab.com/zh/articledetails/3dxhhbqz.html",
           "publishedOn": "2024-02-20T02:58:32.000Z",
-          "wordCount": 355,
+          "wordCount": 357,
           "title": "一交易员以5000ETH的价格售出3年前购入的10枚Autoglyphs NFT，获利1300万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +158,7 @@
           "description": "PANews 2月20日消息，国家安全部官方公众号发文称，国家安全机关工作发现，个别境外地图公司利用采集地图数据换取虚拟货币奖励的方式，诱使境内人员购买并使用专用设备进行地图“打卡”，非法采集敏感地理空间信息数据，并实时上传至境外服务器，甚至针对特定区域开出高额奖励，吸引“采集者”进行重点采集。个别境内人员国家安全意识淡薄，被地图打卡赚钱的形式所诱惑，在不知不觉中被别有用心的境外公司利用，成为了其非法搜集窃取地理空间数据的“帮凶”。\n地理空间信息数据与国家安全密切相关，非法采集和跨境传输地理空间信息数据的行为危害我国家主权、安全、发展利益。涉事境外公司、境内个人未取得我境内测绘业务资质，有关数据采集行为涉嫌违反《反间谍法》《测绘法》《数据安全法》中的相关规定。《反间谍法》规定，境外机构、组织、个人实施或者指使、资助他人实施，或者境内机构、组织、个人与其相勾结实施的窃取、刺探、收买、非法提供关系国家安全和利益的数据，属于间谍行为。《测绘法》规定，从事测绘活动应依法取得相应等级的测绘资质证书，外国的组织或者个人在我国境内从事测绘活动，应当经过有关测绘主管部门会同军队测绘部门批准，不得涉及国家秘密和危害国家安全。《数据安全法》规定，任何组织、个人收集数据，应当采取合法、正当的方式，不得窃取或以其他非法方式获取数据。",
           "link": "https://panewslab.com/zh/articledetails/n4769sc8.html",
           "publishedOn": "2024-02-20T02:37:26.000Z",
-          "wordCount": 344,
+          "wordCount": 346,
           "title": "国安部：个别境外地图公司利用虚拟货币奖励的方式诱使境内人员非法采集地理空间数据",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "PANews 2月20日消息，币安将于2024年2月20日21:00（北京时间）上线StarkNet（STRK）并开放STRK/BTC、STRK/USDT、STRK/FDUSD 和 STRK/TRY现货交易对的交易。用户现在可以开始存入STRK，为交易做准备。提现将于2024年2月21日21:00（北京时间）开放。",
           "link": "https://panewslab.com/zh/articledetails/vu2f6ck8.html",
           "publishedOn": "2024-02-20T02:27:39.000Z",
-          "wordCount": 363,
+          "wordCount": 365,
           "title": "币安将于今晚21:00上线StarkNet(STRK)",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "英国政府计划在六个月内通过稳定币和加密质押相关法律\n据彭博社报道，英国政府计划在未来六个月内通过管理稳定币和加密资产质押服务的新法规。英国财政部经济部长Bim Afolami周一在一次行业活动上表示，英国政府正在“大力推动”立法。他说：“我们希望尽快完成这些事情。我认为在接下来的六个月里，这些事情是可行的”。 英国财政部在去年10月首次承诺，将在2024年某个时候对加密货币的特定领域提供更明确信息。但监管加密货币交易所的更广泛规则仍悬而未决，当被问及该指导意见今年是否也可能成为立法时，Afolami表示他无法提供时间表。\nEthena Labs推出公共主网和激励活动，其稳定币USDe已正式上线\n以太坊稳定币USDe开发商Ethena Labs在X平台宣布推出公共主网，并推出“Shard活动”以激励用户。Ethena Labs表示，公共主网的推出代表其稳定币USDe正式上线。\n“Shard Campaign”将分为多个纪元。每个奖励涉及USDe的不同活动以及Ethena将与之密切合作的不同社区进行整合。其中第一个纪元重点关注USDe Curve池的流动性。\nDymension模块化流动性层和嵌入式AMM已上线\nCosmos生态的模块化区块链网络Dymension在X平台宣布，其模块化流动性层已上线，且Dymension嵌入式AMM也已上线。\n此次上线将确立Dymension作为结算和流动性层的基础作用，使用户和协议在共享安全性的基础上共享流动性，同时为许可RollApps的下一阶段奠定基础。\nRollApps将在Dymension的流动性层上推出其资产，创建模块化生态系统Launchpad。流动性层中的每对货币都需要DYM作为基础资产。经治理批准后，其他基础资产可能会被列入白名单。\nTrust Wallet推出智能合约钱包SWIFT\n据官方消息，加密钱包Trust Walle…",
           "link": "https://panewslab.com/zh/articledetails/2jn76727.html",
           "publishedOn": "2024-02-20T02:05:56.000Z",
-          "wordCount": 527,
+          "wordCount": 528,
           "title": "昨夜今晨重要资讯（2月19日-2月20日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/02/20/images/bTiWM4Y25M.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "PANews 2月20日消息，币安理财平台宣布将支持对币安ETH质押用户的Starknet（STRK）分发计划。根据官方公告，分发的关键细节如下：\n币安ETH质押用户将根据2022年9月16日07:59（东八区时间）的快照，按其在符合条件的钱包中的BETH总额，于其现货钱包中收到STRK代币。符合条件的用户将在Starknet Foundation确定的正式分发日期（即东八区时间2024年2月20日20:00）后的30天内获得STRK代币分发。币安将另行公告最终的BETH : STRK分发比例、符合条件的钱包列表以及STRK分发计划完成情况。",
           "link": "https://panewslab.com/zh/articledetails/u6n6gg5r.html",
           "publishedOn": "2024-02-20T01:48:00.000Z",
-          "wordCount": 355,
+          "wordCount": 357,
           "title": "币安理财平台将支持对币安ETH质押用户的STRK分发计划",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 2月20日消息，Spot On Chain监测显示，Storj团队大约4小时前向Binance存入了250万枚STORJ（价值约188万美元）。自2023年11月9日以来，Storj团队已经向Binance存入了总计3340万枚STORJ，当时的平均价格约为0.806美元，这通常发生在价格下跌之前。目前，STORJ的价格在过去24小时内上涨了约14%。",
           "link": "https://panewslab.com/zh/articledetails/pjbgpo1i.html",
           "publishedOn": "2024-02-20T01:41:42.000Z",
-          "wordCount": 358,
+          "wordCount": 360,
           "title": "Storj团队4小时前向Binance存入250万枚STORJ",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 2月20日消息，据彭博社报道，Reddit Inc.在接近其首次公开募股(IPO)之际，已签订一份约6000万美元的合约，允许一家大型AI公司利用其内容训练AI模型。此举旨在利用AI热潮吸引投资者，提升IPO价值。Reddit去年收入超8亿美元，增长约20%，被建议IPO估值至少50亿美元。IPO最早可能于下个月启动。详情尚在讨论中，Reddit拒绝评论。此外，AI公司正寻求内容许可协议以训练程序，包括OpenAI与Axel Springer SE的合同。Reddit IPO由摩根士丹利和高盛集团等16家银行操作。",
           "link": "https://panewslab.com/zh/articledetails/40237d0j.html",
           "publishedOn": "2024-02-20T01:33:25.000Z",
-          "wordCount": 354,
+          "wordCount": 356,
           "title": "Reddit在IPO前与AI公司签署6000万美元的内容许可协议",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 2月20日消息，Layer2网络Blast在其官方推特上澄清，关键日期为2024年2月和2024年5月。他们将在本周晚些时候宣布确切的主网启动日期。",
           "link": "https://panewslab.com/zh/articledetails/f2o6n1h9.html",
           "publishedOn": "2024-02-20T01:21:49.000Z",
-          "wordCount": 347,
+          "wordCount": 349,
           "title": "Blast将于本周宣布确切的主网启动日期，关键日期为2024年2月和2024年5月",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "PANews 2月20日消息，Bitwise首席执行官Hunter Horsley在其官方推特上宣布，BITB已于周五被选中并获得了全面接入全美一家市值300亿美元的全国性注册投资顾问(RIA)的权限，这是美国最大的投资顾问之一。",
           "link": "https://panewslab.com/zh/articledetails/8l49v82d.html",
           "publishedOn": "2024-02-20T01:11:40.000Z",
-          "wordCount": 356,
+          "wordCount": 358,
           "title": "Bitwise CEO：BITB获准在美国某资管300亿美元的注册投资顾问网络中上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +238,7 @@
           "description": "PANews 2月20日消息，Layer2网络Blast在其官方推特上宣布，对于即将举行的Big Bang竞赛，他们已收到超过60小时的提交视频。由于提交数量庞大，将异步展示获胜者，获奖名单将于周五（2月23日）宣布，而非原定的周三。此外，Blast还指出，由于提交作品过多，将取消原计划的直播活动，并计划增加每个类别的获胜者数量，为获胜者分配的奖励也将超过原计划。",
           "link": "https://panewslab.com/zh/articledetails/8hfjz398.html",
           "publishedOn": "2024-02-20T00:49:06.000Z",
-          "wordCount": 353,
+          "wordCount": 355,
           "title": "Blast将推迟至2月23日宣布Big Bang竞赛获奖名单",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 2月20日消息，据NFTgators报道，电商巨头eBay已裁减超30%的Web3团队，引发外界猜测其可能关闭NFT业务。2022年6月，eBay收购NFT市场KnownOrigin后，现更改Web3战略，业务及战略官Stef Jay辞职，且与KnownOrigin关系恶化。该公司已暂停所有数字艺术计划，内部对领导层和战略团队的批评增多。在加密市场熊市背景下，eBay的NFT业务未来不明。",
           "link": "https://panewslab.com/zh/articledetails/r66z2lal.html",
           "publishedOn": "2024-02-20T00:39:39.000Z",
-          "wordCount": 364,
+          "wordCount": 366,
           "title": "eBay已裁减超30%的Web3团队，或将关闭NFT业务",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 2月20日消息，总部位于德国慕尼黑的去中心化数据覆盖解决方案提供商Silencio Network，专注于对抗噪音污染，已成功筹集到100万美元Pre-Seed轮融资。这轮融资由Borderless Capital领投，Moonrock Capital、Master Ventures和Cogitent Ventures参投。Silencio Network计划利用这笔资金加速公司增长，提升数据完整性，促进合作伙伴关系，并推进更多战略计划。通过其App，使用手机测量噪音污染即可获得奖励。",
           "link": "https://panewslab.com/zh/articledetails/zlpg4os2.html",
           "publishedOn": "2024-02-20T00:23:34.000Z",
-          "wordCount": 376,
+          "wordCount": 380,
           "title": "专注于对抗噪音污染的Silencio Network完成100万美元Pre-Seed轮融资",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "PANews 2月20日消息，据官方公告，基于 Starknet 的去中心化永续衍生品 Layer2 应用链 Paradex 已正式上线主网。Paradex 由加密货币机构流动性平台 Paradigm（注明，非同名风投公司）孵化，旨在结合 Paradigm 提供的流动性优势与去中心化金融（DeFi）的透明度及自我托管特性，以此创造一个独立运作的链。",
           "link": "https://panewslab.com/zh/articledetails/2lxf8j96.html",
           "publishedOn": "2024-02-20T00:10:23.000Z",
-          "wordCount": 385,
+          "wordCount": 386,
           "title": "基于Starknet的去中心化永续衍生品L2应用链Paradex已上线主网",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 2月20日消息，据官方消息，加密钱包Trust Wallet宣布推出由账户抽象驱动的智能合约钱包SWIFT，已进入公开测试阶段，并将于2月26日全面推出。SWIFT目前支持7条主要EVM链，包括Arbitrum、Polygon、BSC、opBNB、Base、Optimism和Avalanche，并计划增加对更多链的支持。",
           "link": "https://panewslab.com/zh/articledetails/fga8cd3m.html",
           "publishedOn": "2024-02-20T00:05:18.000Z",
-          "wordCount": 358,
+          "wordCount": 360,
           "title": "Trust Wallet推出智能合约钱包SWIFT",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 2月20日消息，据CoinDesk报道，Coinbase正寻求在加拿大推出永续期货合约和其他衍生品产品，并正在与安大略省证券委员会(OSC)等政界人士和监管机构进行公开对话。此外，Coinbase最近还加入了织加拿大Web3委员会，这是一个多方非营利组织，旨在推动加拿大的立法和监管举措对行业更加友好。",
           "link": "https://panewslab.com/zh/articledetails/6u9z7r53.html",
           "publishedOn": "2024-02-19T23:50:16.000Z",
-          "wordCount": 348,
+          "wordCount": 350,
           "title": "Coinbase寻求在加拿大推出永续期货合约等加密衍生品",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +298,7 @@
           "description": "PANews 2月20日消息，据Cointelegraph报道，老虎证券首席财务官John Fei Zeng在接受采访时表示，该公司目前正在评估山寨币等其他数字资产，以便在监管部门批准后上市，同时将在澳大利亚、美国、新加坡、香港、英国和新西兰等许可市场实施国际扩张战略。他称：“除了股票和期权之外，加密货币正在成为一种重要的资产类别。因此，添加新的资产类别是经纪交易商业务的自然延伸，而底层Web3技术也与Tiger的金融科技背景相结合。” 据悉，该公司目前拥有865,500个资金账户，管理资产规模达189亿美元。据此前消息，老虎证券1号牌升级获香港证监会批准，将允许专业投资者通过老虎证券在证监会持牌平台上交易虚拟资产。",
           "link": "https://panewslab.com/zh/articledetails/tinctu56.html",
           "publishedOn": "2024-02-19T23:42:17.000Z",
-          "wordCount": 356,
+          "wordCount": 358,
           "title": "老虎证券CFO：正在评估上市山寨币等其他数字资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "PANews 2月20日消息，据彭博社报道，英国政府计划在未来六个月内通过管理稳定币和加密资产质押服务的新法规。英国财政部经济部长Bim Afolami周一在一次行业活动上表示，英国政府正在“大力推动”立法。他说：“我们希望尽快完成这些事情。我认为在接下来的六个月里，这些事情是可行的”。 英国财政部在去年10月首次承诺，将在2024年某个时候对加密货币的特定领域提供更明确信息。但监管加密货币交易所的更广泛规则仍悬而未决，当被问及该指导意见今年是否也可能成为立法时，Afolami表示他无法提供时间表。",
           "link": "https://panewslab.com/zh/articledetails/9op0g9x9.html",
           "publishedOn": "2024-02-19T23:20:55.000Z",
-          "wordCount": 355,
+          "wordCount": 357,
           "title": "英国政府计划在六个月内通过稳定币和加密质押相关法律",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
