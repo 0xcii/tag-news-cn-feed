@@ -6,12 +6,32 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=104226",
+          "author": "Gao",
+          "description": "根据 Starknet 最新的空投标准，开发人员 Tom Kysar 因在 Starknet 的 GitHub 上进行一次提交获得 1,800 Starknet 代币，而该提交仅是对 Starknet 文档中的一个单词进行拼写检查。在 Starknet 代币交易前，该笔空投数量的价值达 3,200 美元。",
+          "link": "https://www.web3sj.com/news/104226/",
+          "publishedOn": "2024-02-21T04:33:30.000Z",
+          "wordCount": 1020,
+          "title": "Scroll遭遇「新式女巫」，撸毛党从链上卷到了Github",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708489963199.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=104213",
+          "author": "Gao",
+          "description": "盖尔定律指出，一个有效的复杂系统总是从有效的简单系统演变而来。( 而非一开始就是一个庞杂且有效性未知的系统 )。如何使用此定律：在设计最小可行产品时利用它。",
+          "link": "https://www.web3sj.com/daonews/104213/",
+          "publishedOn": "2024-02-21T04:23:01.000Z",
+          "wordCount": 870,
+          "title": "DAO建设的10条军规",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708489355828.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=104208",
           "author": "Gao",
           "description": "相当于构建了一个从数据源到区块链应用的桥梁，预言机节点多管道并发采集不同渠道的数据，预言机网络则来协调处理、验证并聚合这些数据，以减少误差，最终再喂价给终端智能合约需求方。",
           "link": "https://www.web3sj.com/news/104208/",
           "publishedOn": "2024-02-21T03:58:05.000Z",
-          "wordCount": 1036,
+          "wordCount": 1035,
           "title": "技术解析API3：预言机赛道的又一批黑马？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708487870618.png"
         },
@@ -21,7 +41,7 @@
           "description": "由于 Solana 的架构选择，该链设计为支持每秒 1,000 笔交易 (TPS)。此外，Solana 交易没有「gas 价格」，因为网络尚未引入基于使用情况的定价，因此目前每笔 Solana 交易的固定费率成本为 0.000005 SOL。这种速度和可承受性为网络不断崛起的 NFT 场景培育了肥沃的土壤。",
           "link": "https://www.web3sj.com/nftnews/104197/",
           "publishedOn": "2024-02-21T03:54:26.000Z",
-          "wordCount": 1216,
+          "wordCount": 1233,
           "title": "Bankless：如何玩转Solana NFT？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708487640871.png"
         },
@@ -31,7 +51,7 @@
           "description": "根据 Token Terminal 数据，截至 2024 年 1 月 24 日，在仅包含 Starkware 二层（dYdX v3）数据的情况下，dYdX 的交易量也远超其它衍生品协议。而目前 dYdX v4 的交易量已经和 v3 相当，在激励措施的配合下可能更有潜力。",
           "link": "https://www.web3sj.com/definews/104170/",
           "publishedOn": "2024-02-20T14:16:54.000Z",
-          "wordCount": 1230,
+          "wordCount": 1221,
           "title": "dYdX坐稳去中心化永续合约头把交椅，dYdX Chain做对了什么？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708435626866.png"
         },
@@ -41,7 +61,7 @@
           "description": "Polkadot推出AI工具PolkaBot.AI，为DOT生态系统提供教育服务。福布斯在Sandbox虚拟宇宙中正式建立永久土地。空投公告后Starknet活跃地址恢复至过去三个月平均水平。",
           "link": "https://www.web3sj.com/news/104163/",
           "publishedOn": "2024-02-20T11:21:43.000Z",
-          "wordCount": 845,
+          "wordCount": 822,
           "title": "Web3世界日报（2024-2.20）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024022011201514.jpg"
         },
@@ -51,7 +71,7 @@
           "description": "该计划的奖励每两周确定和分配一次，预计将持续到 2024 年 10 月。第一轮计划主要面向 DEX，DEX 有资格从 2 月 22 日开始实施其计划，参与用户可在 2024 年 3 月 7 日从协议中领取奖励分配。根据多个 DEX 已披露的内容，该轮计划主要针对 DEX 上的流动性提供者。",
           "link": "https://www.web3sj.com/news/104157/",
           "publishedOn": "2024-02-20T10:24:19.000Z",
-          "wordCount": 1250,
+          "wordCount": 1235,
           "title": "错过Starknet空投，4000万枚STRK明牌激励计划了解一下",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708424633542.png"
         },
@@ -61,7 +81,7 @@
           "description": "春节期间OpenAI推出了其文本转视频模型Sora，再次将 AI 的创造能力颠覆性地提升了一个台阶。Crypto市场中的AI项目也紧跟热点，出现了惊人的涨幅。今天我们就来介绍几个Crypto市场中，值得关注的AI项目。",
           "link": "https://www.web3sj.com/show/104154/",
           "publishedOn": "2024-02-20T10:08:43.000Z",
-          "wordCount": 780,
+          "wordCount": 781,
           "title": "Web3科普：Crypto AI赛道中的热门项目有哪些？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/2024022010074840.jpg"
         },
@@ -71,7 +91,7 @@
           "description": "Monad 保留了完整的 EVM 兼容性，但通过四个关键创新对以太坊进行了改进：MonadBFT、延迟执行、并行执行和 MonadDb。",
           "link": "https://www.web3sj.com/news/104142/",
           "publishedOn": "2024-02-20T06:14:54.000Z",
-          "wordCount": 935,
+          "wordCount": 912,
           "title": "Bankless：Monad为何有取代以太坊的潜力？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708409665584.png"
         },
@@ -81,29 +101,9 @@
           "description": "Starknet 官宣空投之后的这几天，多位 zkSync 团队成员一反常态地在社交媒体上频繁谈及关于空投设计的事宜，参与讨论的甚至包括在 zkSync 团队中话语权颇重的 DeFi 业务负责人 Sebastien。",
           "link": "https://www.web3sj.com/news/104132/",
           "publishedOn": "2024-02-20T06:09:38.000Z",
-          "wordCount": 959,
+          "wordCount": 988,
           "title": "从团队的社区互动中，窥探zkSync空投的蛛丝马迹",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708409363590.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=104123",
-          "author": "Gao",
-          "description": "因此，当我购买一个计划因为即将到来的催化剂而短期持有的代币时，我通常会在那个催化剂落地的日期之前对我的头寸获利止盈一部分甚至完全卖出。",
-          "link": "https://www.web3sj.com/transaction/104123/",
-          "publishedOn": "2024-02-20T06:05:59.000Z",
-          "wordCount": 939,
-          "title": "落袋为安，加密牛市中如何才能正确止盈？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708409100479.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=104117",
-          "author": "Gao",
-          "description": "虽然去中心化和安全性对 DeFi 来说固然重要，但不管是传统金融还是去中心化金融都离不开一个核心点，就是要能赚钱，尤其是要能让有钱的人赚钱。对于坐拥千万美金链上资产的鲸鱼和机构，这一点至关重要。让这些人赚钱，是 DeFi 面临的最现实的问题。",
-          "link": "https://www.web3sj.com/definews/104117/",
-          "publishedOn": "2024-02-20T05:55:21.000Z",
-          "wordCount": 1034,
-          "title": "DeFi收益率反超国债，RWA叙事又要失灵了吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/02/1708408504063.png"
         }
       ]
     },
@@ -112,6 +112,76 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/5pva0k6b.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，PeckShield监测显示，Tether将勒索软件组织LockBit相关的地址（0xf3701F445b6BDaFeDbcA97D1e477357839e4120D）列入黑名单。\n稍早报道，英国国家犯罪局宣布已瓦解全球最大的网络犯罪组织LockBit，美国财政部将与勒索软件组织LockBit相关的加密货币地址列入制裁名单。",
+          "link": "https://panewslab.com/zh/articledetails/5pva0k6b.html",
+          "publishedOn": "2024-02-21T03:46:04.000Z",
+          "wordCount": 361,
+          "title": "Tether将勒索软件组织LockBit相关的地址列入黑名单",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fvwk61w2.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，链上分析师余烬发推文称，破产的加密借贷平台BlockFi在过去7小时内，向Kraken转入了价值约4837万美元的17种代币，其中最主要的转入包括2,402,945个LINK，价值约4650万美元。BlockFi转入Kraken的代币价值排名前四包括：2,402,945个LINK（价值约4650万美元）、90,993个UNI（价值约68万美元）、16,570个AVAX（价值约63万美元）以及468,506个MATIC（价值约47万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/fvwk61w2.html",
+          "publishedOn": "2024-02-21T03:38:54.000Z",
+          "wordCount": 344,
+          "title": "加密借贷平台BlockFi过去7小时内向Kraken转入价值4837万美元的17种代币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/twdusnop.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，据Lookonchain监测，Nethermind已经出售了总计954,100枚STRK，换得了230万枚USDC，成交价格为每枚STRK 2.41美元。\n自空投活动以来，$STRK价格下跌了12%。随后据Spot On Chain称，主要的卖家之一是Nethermind——一家Lido节点运营商。他们收到了10.25M个$STRK，并已通过Uniswap以大约每个$STRK 2.41美元的价格，出售了959.1K个$STRK，获得了2.31M $USDC。目前，Nethermind持有约9.24M个$STRK，价值约19.31M美元。另一卖家是FlowTraders，其接收了5M个$STRK，并采取了以下行动：他们已将3.5M个$STRK存入Binance，以及100K个$STRK存入Crypto.com，总价值约为1300万美元。此外，他们通过Uniswap以大约每个$STRK 3.82美元的价格，出售了943K个$STRK，换得了$USDC和$ETH，总计360万美元。目前，FlowTraders持有的$STRK剩余457K个，价值约为946K美元。",
+          "link": "https://panewslab.com/zh/articledetails/twdusnop.html",
+          "publishedOn": "2024-02-21T03:18:05.000Z",
+          "wordCount": 361,
+          "title": "Nethermind已累计出售约95.4万枚STRK，约合230万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5z4a8cbj.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，Lookonchain监测显示，一名用户通过1,361个钱包领取空投后，将1,432,800个$STRK（价值约300万美元）转移到了一个标记为\"0x027c…9078\"的钱包中。",
+          "link": "https://panewslab.com/zh/articledetails/5z4a8cbj.html",
+          "publishedOn": "2024-02-21T02:58:24.000Z",
+          "wordCount": 345,
+          "title": "一用户将通过1361个钱包领取到的143万枚STRK空投转移到新地址",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7v3np38q.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，PeckShield监测显示，标记为FTX的地址已将约 216 万枚 TONCOIN（价值约 500 万美元）转移到 wintermute。",
+          "link": "https://panewslab.com/zh/articledetails/7v3np38q.html",
+          "publishedOn": "2024-02-21T02:54:49.000Z",
+          "wordCount": 367,
+          "title": "PeckShield：FTX地址已将约216万枚TONCOIN转移到wintermute",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/jjdur6tr.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，Arbitrum官方推文宣布，比特币质押Layer 2网络Social Network将实现在以太坊上的结算，且其排序器利润的8%将分配给ArbitrumDAO，2%将用于奖励Arbitrum开发者协会。\nSocial Network是一个获得Arbitrum支持、具有原生收益率的比特币质押Layer 2网络，旨在通过允许用户将比特币质押到该网络来降低交易费用至约1 sats/字节，并提高交易的最终确定性至少于1分钟内完成，同时每个区块的能耗也将削减99%。该网络目前已经推出了测试网，并将很快对早期贡献者开放Ordinals Freemint。",
+          "link": "https://panewslab.com/zh/articledetails/jjdur6tr.html",
+          "publishedOn": "2024-02-21T02:35:58.000Z",
+          "wordCount": 366,
+          "title": "Arbitrum：比特币质押L2网络Social Network排序器利润的10%将分配给Arbitrum相关方",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5wk4vpcy.html",
+          "author": "PA一线",
+          "description": "PANews 2月21日消息，Ark Invest Daily数据显示，Cathie Wood旗下ARK Invest于周二（2月20日）共卖出了28,731股COIN（Coinbase Global Inc）股票，以收盘价173美元计，价值近500万美元。其中ARKK 基金出售了 19,732 股 COIN；ARKW 基金出售了 4,029 股 COIN；ARKF 基金出售了 4,970 股 COIN。",
+          "link": "https://panewslab.com/zh/articledetails/5wk4vpcy.html",
+          "publishedOn": "2024-02-21T02:30:41.000Z",
+          "wordCount": 401,
+          "title": "ARK Invest于2月20日共卖出28731股Coinbase股票，价值近500万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/432oqqhk.html",
           "author": "PA一线",
@@ -241,46 +311,6 @@
           "wordCount": 344,
           "title": "美国财政部将与勒索软件组织LockBit相关的加密货币地址列入制裁名单",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/22tz512c.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，彭博分析师Eric Balchunas推特发文称，2月20日9支美国比特币现货ETF的交易量约合20亿美元，为上市首日以来最高。其中shVaneck的HODL、WisdomTree的BTCW和Bitwise的BITB都打破了各自的单日交易纪录。分析师表示，20亿美元的交易量使它们跻身ETF前10名和股票前20名。",
-          "link": "https://panewslab.com/zh/articledetails/22tz512c.html",
-          "publishedOn": "2024-02-20T23:30:19.000Z",
-          "wordCount": 351,
-          "title": "9支比特币现货ETF今日交易量约20亿美元，为上市以来最高",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ecs5803r.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，据官方消息，Uniswap v2已在Arbitrum、Polygon、Optimism、Base、Binance Smart Chain和Avalanche等6个区块链上线，用户可以直接通过Uniswap界面在所有支持的链上交换并提供流动性。相比v3提供了更高级功能，v2的使用则更为简单。",
-          "link": "https://panewslab.com/zh/articledetails/ecs5803r.html",
-          "publishedOn": "2024-02-20T23:21:15.000Z",
-          "wordCount": 362,
-          "title": "Uniswap v2已在Arbitrum等6个区块链上线",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1g8a30no.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，MicroStrategy创始人Michael Saylor在接受彭博社采访时表示，无计划出售MicroStrategy持有的比特币。他称：“现货ETF为机构资本进入比特币生态系统打开了一个门户。ETF正在促进资本的数字化转型，每天都有数亿美元的资本从传统生态系统流入数字经济。”Saylor认为，比特币与黄金、房地产和标准普尔指数等规模更大的资产类别竞争，但它是更优越的产品。相信资本将继续流入比特币，因为比特币在技术上优于这些资产类别。在这种情况下，没有理由出售赢家并购买输家。截至1月底，MicroStrategy持有19万枚比特币，平均购买成本为31,224美元，总成本约为59.3亿美元。比特币目前的交易价格约为5.2万美元，该公司持有的比特币价值约为100亿美元，其中40亿美元是利润。",
-          "link": "https://panewslab.com/zh/articledetails/1g8a30no.html",
-          "publishedOn": "2024-02-20T23:01:00.000Z",
-          "wordCount": 356,
-          "title": "Michael Saylor：无计划出售MicroStrategy持有的比特币",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/icci7aug.html",
-          "author": "PA一线",
-          "description": "PANews 2月21日消息，Optimism官方宣布启动第四轮空投，将向22,998个地址总共分配10,343,757.81枚OP代币，价值约4080万美元。据悉，本次空投针对在北京时间2024年1月10日8点之前在以太坊L1、Base、OP主网和Zora上部署过NFT合约的创建者，用户需在2025年2月13日之前领取代币。",
-          "link": "https://panewslab.com/zh/articledetails/icci7aug.html",
-          "publishedOn": "2024-02-20T22:49:13.000Z",
-          "wordCount": 349,
-          "title": "Optimism启动第四轮空投，将分配超1000万枚OP",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -289,16 +319,6 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
-        {
-          "id": "https://www.hellobtc.com/news/202402/21662.html",
-          "author": null,
-          "description": "1.ETH突破3000美元，BTC突破53000美元。\n\n2.报告：BTC ETF在全球10个国家/地区注册成立，美国占据83.3%的市场份额。\n\n3.Solana TVL自2022年6月以来首次超过20亿美元。\n\n4.Circle将分阶段终止对波场网络上USDC的支持。\n\n5.Pudgy Penguins在美国3100个沃尔玛门店推出Pudgy玩具。\n\n6.MetaMask 1月份活跃用户超过3000万，接近历史新高。\n\n7.统计：FTX各网络地址仍持有价值超30亿美元代币资产。",
-          "link": "https://www.hellobtc.com/news/202402/21662.html",
-          "publishedOn": "2024-02-21T03:06:00.000Z",
-          "wordCount": 320,
-          "title": "白话区块链早报：ETH突破3000美元，BTC突破53000美元",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
         {
           "id": "https://www.hellobtc.com/news/202402/21661.html",
           "author": null,
@@ -387,6 +407,16 @@
           "publishedOn": "2024-02-16T14:32:00.000Z",
           "wordCount": 318,
           "title": "马斯克评OpenAI首个视频生成模型：人类认赌服输",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202402/21652.html",
+          "author": null,
+          "description": "贝莱德官方更新现货比特币ETF持仓数据，截至2月15日Ishares Bitcoin Trust（IBIT）持有115,989.8042 BTC和115,655.68美元现金，其比特币持仓市值达到6,063,830,975.12美元。",
+          "link": "https://www.hellobtc.com/news/202402/21652.html",
+          "publishedOn": "2024-02-16T14:31:00.000Z",
+          "wordCount": 307,
+          "title": "贝莱德现货比特币ETF持仓市值突破60亿美元",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
