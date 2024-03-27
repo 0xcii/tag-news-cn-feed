@@ -1,10 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-27T07:11:54.166Z</id>
+    <id>urn:2024-03-27T08:17:36.077Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-27T07:11:54.166Z</updated>
+    <updated>2024-03-27T08:17:36.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[链抽象：多链时代下的三棱镜]]></title>
+        <id>https://www.web3sj.com/?p=107754</id>
+        <link href="https://www.web3sj.com/news/107754/"/>
+        <updated>2024-03-27T08:05:33.000Z</updated>
+        <summary type="html"><![CDATA[NEAR 联合创始人 Illia Polosukhin 前不久撰文探讨链抽象的概念，并表明 NEAR 在实现链抽象方面的愿景。此外上个月上线主网的 ZetaChain、模块化 L1 Particle Network、全链账本 Cycle Network 等项目都在为实现链抽象而探索。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币基础设施OrdinalsBot完成300万美元种子轮融资，DACM领投]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44239.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44239.html"/>
+        <updated>2024-03-27T07:58:03.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，比特币基础设施平台 OrdinalsBot 宣布完成 300 万美元种子轮融资，本轮融资使 OrdinalsBot 的总融资额超过 450 万美元。此轮融资由 DACM 领投，Eden Block、Nural Capital、WWVentures、Lightning Ventures、Bitcoin Frontier Fund、Oak Grove Ventures、UTXO Management、Kenetic Capital、CMS Holdings、Kestrel0x1、Sora Ventures、London Real Ventures、Crypto Zombie 和 MDX 等参投。
+
+这笔资金将用于扩展其基础设施，包括招聘和启动 Ordinals 铭文市场。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast生态项目被盗6000万美元，社会工程被朝鲜黑客「玩明白了」]]></title>
+        <id>https://www.web3sj.com/?p=107749</id>
+        <link href="https://www.web3sj.com/gamefinews/107749/"/>
+        <updated>2024-03-27T07:55:46.000Z</updated>
+        <summary type="html"><![CDATA[链上侦探 ZachXBT 的调查显示，此次攻击源于 Munchables 协议的开发者，是一名朝鲜黑客。慢雾创始人余弦在社交媒体发文解读，「这是慢雾遇到的至少第二起 DeFi 类项目遭遇的这类情况。核心开发者伪装潜伏很久，获得整个项目团队的信任，时机一到就下手，毫不留情。受害者恐怕不少。」]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LD Capital：Nervos Network，UTXO同构的BTC L2]]></title>
+        <id>https://www.web3sj.com/?p=107735</id>
+        <link href="https://www.web3sj.com/news/107735/"/>
+        <updated>2024-03-27T07:44:27.000Z</updated>
+        <summary type="html"><![CDATA[这三个方面的能力不一定能全部实现，不同的项目、不同阶段的侧重点也会不同。就现阶段而言，大部分 BTC L2 希望实现的是性能优化和编程能力，能够提供更快的应用产品，丰富 BTC 生态。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安将于3月29日下架GNS/BTC、XVG/TUSD交易对]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44238.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44238.html"/>
+        <updated>2024-03-27T07:35:50.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，币安发布公告称，将于2024年3月29日03:00 (UTC) 下架GNS/BTC, XVG/TUSD交易对。
+
+币安将于2024 年 3 月 29 日 03:00（UTC）终止上述现货交易对的现货交易机器人服务（如适用）。强烈建议用户在现货交易机器人服务停止之前更新和/或取消其现货交易机器人，以避免任何潜在损失。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：五分钟前某地址从币安转出 4716 万枚GMT ，价值 1601 万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44237.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44237.html"/>
+        <updated>2024-03-27T07:19:42.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据AI姨监测，五分钟前地址（0xc7e...01c77 ）从 Binance 转出 4716 万枚 $GMT ，价值 1601 万美金。
+
+过去五天该地址已累计从币安转出 1.33 亿枚 GMT，总价值 4406 万美金，平均转出价格 $0.33，现已浮盈 92 万美金。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币闪电网络公司Neutronpay完成150万美元过桥融资， Axiom Capital 领投]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44236.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44236.html"/>
+        <updated>2024-03-27T07:10:29.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，比特币闪电网络公司 Neutronpay 已获得由 Axiom Capital 领投的 150 万美元过桥融资。这项投资旨在帮助Neutronpay通过比特币在东南亚的数字经济中带来即时且具有成本效益的支付解决方案。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DWF Liquid Markets 的机构客户数量达208 家]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44235.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44235.html"/>
+        <updated>2024-03-27T06:53:09.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，DWF Labs联创Andrei Grachev在X披露统计数据，DWF Liquid Markets 的机构客户数量达到 208 家，基金似乎非常热衷于私下买卖。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CryptoQuant 创始人：比特币流动库存比率创下历史新低，卖方流动性远低于历史水平]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44234.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44234.html"/>
+        <updated>2024-03-27T06:47:59.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，CryptoQuant 创始人Ki Young Ju在X称，比特币流动库存比率创下历史新低，相对于需求而言，卖方流动性目前远低于历史水平。
+
+据悉，流动库存比率的计算方法是将卖方总库存除以累积地址的 30 天BTC余额变化。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast核心贡献者通过多签获得Munchables被盗的9700 万美元资金]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44233.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44233.html"/>
+        <updated>2024-03-27T06:35:50.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Blast 创始人 Pacman 在X上发文表示：“Blast 核心贡献者已通过多重签名获得 9700 万美元资金。很感激前 munchables 开发者选择最终归还所有资金，而不需要任何赎金。所有开发团队，无论是否直接受到影响，都要从中吸取教训并采取预防措施以更加彻底地保障安全。核心贡献者总是很乐意帮助 Blast 构建者与审计合作伙伴建立联系。与此同时，其正在努力支持 munchables 团队将资金安全地分配给用户。”]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juice：所有Juice wETH已从Munchables开发者中救下]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44232.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44232.html"/>
+        <updated>2024-03-27T06:28:14.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Blast 生态 DeFi 协议 Jucie 发文表示，所有 Juice wETH 均已从 Munchables 开发商手中成功解救。其正在与 Pacman 和 Blast 协调将 wETH 转移回 Juice，以便用户能够提款。
+
+此前消息，Juice将推迟Juice代币的认领和空投，Munchables漏洞未影响到其存入的wETH。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国太保投资管理（香港）有限公司和比特币 L2 MAP Protocol 达成合作]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44231.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44231.html"/>
+        <updated>2024-03-27T06:27:17.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，3月27日，隶属于中国太平洋保险公司香港部门旗下的中国太保投资管理有限公司（CPIC IMHK）和比特币L2 MAP Protocol 达成合作，并正式成为 MAPO Labs 的投资顾问（MAPO Labs 是 MAP Protocol 的开发公司）。
+
+据悉，中国太保投资管理（香港）有限公司持有中国香港证监会第四类（就证券提供意见）和第九类 （提供资产管理）牌照。在此次合作中，CPIC IMHK 将为 MAPO Labs 提供针对传统金融领域的专业投资指导，MAPO 则将利用其在RWA领域的技术优势，进一步推动其在Web3生态系统中的发展，共同推动传统金融与区块技术的创新发展。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exabits CMO Douglas Keeney 将亮相「Web3 Summit」迪拜站]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44230.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44230.html"/>
+        <updated>2024-03-27T06:26:03.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Cointime 消息，3 月 22 日，Exabits CMO - Douglas Keeney确认出席由 Web3 Summit、BlockNews、LBank Labs 主办，RWA Finance, METASTONE GROUP, Cointime，BIKA Global，L7联合举办，Exabits进行赞助的「Web3 Summit」 Dubai站系列峰会。  
+
+Exabits是为大规模化AI打造的、更具性价比的去中心化计算网络，团队成员来自Meta、Microsoft、VMWare、Bitmain等全球顶尖公司。团队自研的专为AI推理与训练设计的消费级芯片优化技术，能让单个4090消费级芯片运行与GPT3等同规模的大型语言模型（LLMs）。Exabits平台的计算速度相较于传统方式提高了十倍，成本减少90%，大幅提高了去中心化计算实现的可能性。
+
+由 Web3 Summit、BlockNews、LBank Labs 主办，RWA Finance, METASTONE GROUP, Cointime，BIKA Global，L7联合举办，Exabits进行赞助的「Web3 Summit」 Dubai站系列峰会主题活动将在 TOKEN2049 Dubai站期间召开。本次活动场地为迪拜顶级五星级酒店Atlantis The Palm，预计参会规模3000人。本次活动旨在通过 Demo Day、行业峰会和私人晚宴等形式，帮助优秀团队和项目发展，探索 Web3 发展趋势、共建行业生态与合作。
+
+峰会日期：4月16日至4月17日
+
+峰会地点：Atlantis The Palm 酒店
+
+活动报名链接：https://lu.ma/web3summit]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget每日合约资讯：合约持仓量涨幅前三的代币分别为T、REQ、SC]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44229.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44229.html"/>
+        <updated>2024-03-27T06:22:03.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，3月27日，比特币和以太坊未平仓合约总额小幅上升，24小时交易量下降。 两种加密货币的多单清算均略高于空单清算， 值得注意的是，以太币的多空比例较高，为 51.56%/48.44%。
+
+截止发稿，据Coinglass数据显示，BTC 合约方面，BTC总持仓量380.3亿美元(+0.26%)，24小时交易量822.8亿美元(-16.50%)，24小时爆仓量：多单3,422万美元、空单2,359万美元，多/空比率为：50.76%/49.24%，资金费率：0.0386%。
+
+ETH合约方面，ETH 总持仓量140.6亿美元(+1.02%)，24小时交易量321.8亿美元(-7.77%)，24小时爆仓量：多单1,604万美元、空单1,158万美元，多/空比率为51.56%/48.44%，资金费率：0.0308%。
+
+合约持仓量涨幅前三的代币分别为，T：3,026万美元(+339.30%)、 REQ：195万美元(+166.49%)、 SC：815万美元(+93.16%)。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[汇丰银行面向香港散户投资者推出黄金代币化产品]]></title>
         <id>https://www.hellobtc.com/news/202403/21840.html</id>
@@ -43,6 +211,20 @@
         <summary type="html"><![CDATA[据SpotOnChain监测，在过去的22小时内，5个非团队/CEX持有者中的4个已从Binance和KuCoin以5.208美元的价格提取了103.6万枚ETHFI（540万美元）。 目前，这4个钱包共持有1,220万枚ETHFI（7,660万美元）。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX希望撤销投资者对“Sam Coins”的索赔，包括MAPS、OXY、SERUM和BOBA]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_44228.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_44228.html"/>
+        <updated>2024-03-27T05:52:40.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据Cointelegraph报道， FTX 希望撤销投资者对所谓“Sam Coins”的索赔，认为在正在进行的破产案件中，它们的价值应该为零。
+
+FTX 律师 Brian Glueckstein 表示，客户对旅游平台 Maps （MAPS）、DeFi 经纪公司 Oxygen （OXY）、去中心化交易所 Serum （SERUM） 和 Boba （BOBA） 的原生代币的索赔应该大幅折扣或降至零。
+
+FTX的估值专家Sabrina Howel得出的结论是，由于该公司持有超过95% 的OXY和MAP代币（曾经与SBF密切相关），因此需要几十年的时间才能清算它们。根据他们的分析，FTX声称与MAPS和OXY代币相关的索赔（按当前汇率计算价值超过6亿美元）应该被视为毫无价值。同时，与SERUM代币相关的索赔（价值5.09亿美元）应打折约58%。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -580,56 +762,6 @@ $PUNDU--第一个在 DAO Maker 上推出的 Meme 交易会。]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[马斯克：本周晚些时候，Grok 将向所有 X 高级订阅者开放]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44189.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44189.html"/>
-        <updated>2024-03-27T01:49:25.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，马斯克Elon Musk 在X表示，本周晚些时候，xAI 的 Grok 将向所有 X 高级订阅者开放。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidal、Hashdex 宣布将比特币期货ETF转变为比特币现货ETF]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44188.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44188.html"/>
-        <updated>2024-03-27T01:44:53.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Tidal Investments 和 Hashdex Asset Management 周二宣布，在将 Hashdex 比特币期货 ETF 更名为 Hashdex 比特币 ETF （DEFI） 后，他们的现货比特币交易所交易基金 （ETF） 在美国进行交易。
-
-一份声明中表示，该ETF的更名（以“DEFI”为股票代码）与其转换相对应，以允许ETF提供现货比特币持有量，并跟踪3月27日生效的新基准指数。
-
-预计该ETF将至少95%的基金资产投资于现货比特币，其剩余资产的5%将投资于芝商所交易的比特币期货合约以及现金或现金等价物。
-
-Hashdex联合创始人兼首席执行官Marcelo Sampaio在声明中表示：“我们很高兴完成DEFI的转换，并与Tidal合作提供创新产品，进一步推进我们的使命，使世界各地的个人和机构能够获得这一革命性的创新。”
-
-根据 Hashdex 的网站，截至 3 月 27 日，该基金的总净资产为 1116 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《富爸爸穷爸爸》作者：比特币在正确的时间是完美的资产]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44187.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44187.html"/>
-        <updated>2024-03-27T01:36:47.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，《富爸爸穷爸爸》的作者罗伯特·清崎（Robert Kiyosaki）回答了有关比特币和美元的多个问题。
-
-其宣称自己是比特币多头，并表示加密货币“在正确的时间是完美的资产”。虽然他承认比特币有可能“归零”，但他反驳说，美元、英镑和日元等法定货币也可能面临同样的命运。他称美元和其他法定货币为“巨型庞氏骗局”。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bithumb 将上线Siacoin (SC)]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44186.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44186.html"/>
-        <updated>2024-03-27T01:32:56.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Bithumb 宣布将上线 Siacoin 代币 SC，将于韩国时间 3 月 27 日 17:00 开放 Siacoin（SC）交易，14:00 开放存款服务。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：Tether 宣布将战略重点扩展至 AI 领域]]></title>
         <id>https://www.hellobtc.com/news/202403/21836.html</id>
         <link href="https://www.hellobtc.com/news/202403/21836.html"/>
@@ -662,106 +794,6 @@ Hashdex联合创始人兼首席执行官Marcelo Sampaio在声明中表示：“�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vitalik：Farcaster将账户发送消息的注册表存储在链上，有利于成为强大的中立网络]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44185.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44185.html"/>
-        <updated>2024-03-27T01:24:57.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，针对X用户Liron Shapira“Farcaster 消息存储在不使用区块链技术的集线器，Farcaster不是真正的区块链用例”的观点，以太坊联合创始人Vitalik Buterin回应表示：”Farcaster请求是存储在一个 CRDT 中的，他们的目标是实现消息集的最终一致性，farcaster 使用的唯一 "链 "是以太坊（通过 Optimism）。
-
-以太坊的使用并非 "仅仅是为了用户名"，它还存储了允许哪些账户发送消息的注册表，这些信息会被 CRDT 节点存储起来。这对反垃圾邮件至关重要，否则，每个人都会用它来备份加密硬盘、电影等。
-
-将注册表置于链上是使其既能（i）不受中心化行为者控制，又能（ii）对抗女巫攻击。因此，为了使farcaster 基础网络成为一个不依赖于单一实体的强大的中立网络，注册表发挥了关键作用。“]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avail创始人：与Eigenlayer这样的项目相比，Babylon 被严重低估]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44184.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44184.html"/>
-        <updated>2024-03-27T01:22:18.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Polygon联合创始人、Avail创始人Anurag Arjun在X表示，与 Eigenlayer 这样的项目相比，Babylon 被严重低估。它将在某一时刻突然获得发展势头，这将是 BTC 生态系统的一次重大解锁。
-
-Anurag Arjun还表示正在积极探索，以便在 Avail Fusion上使用Babylon。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik提议通过更多的反相关激励措施来支持去中心化质押]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44183.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44183.html"/>
-        <updated>2024-03-27T01:16:44.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Vitalik Buterin 在Warpcast 发文《通过更多的反相关激励措施来支持去中心化的质押》。
-
-文中表示：”在协议中激励更好的去中心化的一种策略是惩罚相关性。也就是说，如果一个参与者出现了行为失误（包括意外），那么与他们同时行为不当的其他参与者（以总 ETH 衡量）越多，他们受到的惩罚就会越大。这篇帖子提议将类似的反相关激励扩展到更多‘普通’的失败情况，例如错过一次证明，几乎所有验证者都至少偶尔会出现这种情况。“
-
-Vitalik Buterin 还表示：”同一集群中的验证者（例如同一交易平台、同一用户）是否比不相关的验证者更有可能同时错过证明？如果是这样，我们是否可以调整奖励以支持去中心化的质押？可能是的。“]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZachXBT：Munchables 被盗 6250 万美金或因雇佣伪装成开发者的朝鲜黑客]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44182.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44182.html"/>
-        <updated>2024-03-27T01:13:50.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，链上侦探ZachXBT在telegram社区中披露，Munchables 被盗 6250 万美金或因雇佣伪装成开发者的朝鲜黑客。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase 将在 Base 上存储更多公司和客户的USDC余额]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44181.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44181.html"/>
-        <updated>2024-03-27T00:51:13.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Coinbase副总裁Max Branzburg在X表示，Coinbase 将在 Base 上存储更多公司和客户的 USDC 余额。这使其能够以更低的费用和更快的结算时间管理和保护客户资金，而不会影响 Coinbase 的用户体验。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国众议院要求SEC澄清对Prometheum提供以太坊机构托管服务的立场]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44180.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44180.html"/>
-        <updated>2024-03-27T00:44:15.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，众议院金融服务委员会主席 Patrick McHenry 和副主席 French Hill 在内的美国立法者敦促SEC解决加密公司 Prometheum 为以太坊提供机构托管服务的事件 。
-
-立法者表示，这一公告与商品期货交易委员会 (CFTC) 承认 ETH 为其职权范围内的“非安全数字资产”的立场不一致。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Sui 赚币季活动上线，Turbos-SUI 质押奖励 APR 达 339.76%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44179.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44179.html"/>
-        <updated>2024-03-27T00:44:10.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，3月26日，由OKX DeFi发起的Sui赚币季活动已上线。此次活动联合多家Sui生态协议，支持用户向多种代币对池子添加流动性以赚取高额奖励。
-
-根据OKX Suinami网站数据显示，Turbos Finance 相关池子收益显著。代币对$TURBOS-SUI APR 达 339.76%，$TURBOS-USDC APR 达 239.6%。Sui生 态最大 Meme 代币相关池 $FUD-TURBOS APR也达 160.96%。另外，由 Turbos 提供的稳定币池子 $USDC-USDT 在上线当日TVL也达到10.21M，当前 APR 达 56.75%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC已要求纽约法官对Ripple Labs处以19.5亿美元的罚款]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_44178.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_44178.html"/>
-        <updated>2024-03-27T00:40:07.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国证券交易委员会已要求纽约法官对Ripple Labs处以19.5亿美元的罚款。
-
-美国证券交易委员会的提案要求法院命令 Ripple Labs 支付 8.76 亿美元的追缴款、1.98 亿美元的判决前利息和 8.76 亿美元的民事罚款，总计 19.5 亿美元。
-
-Ripple Labs的首席法务官Alderoty表示，该公司将在下个月提交对美国证券交易委员会动议的回应。
-
-美国证券交易委员会的文件称，“被告的答复应不迟于2024年4月22日提交。”]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-3.26）]]></title>
         <id>https://www.web3sj.com/?p=107686</id>
         <link href="https://www.web3sj.com/news/107686/"/>
@@ -777,36 +809,6 @@ Ripple Labs的首席法务官Alderoty表示，该公司将在下个月提交对�
         <link href="https://www.web3sj.com/show/107676/"/>
         <updated>2024-03-26T09:45:29.000Z</updated>
         <summary type="html"><![CDATA[在随之而来的熊市中长期又处于无人问津。不过一切在去年开始好转，来自2023年的第四季度报告显示，TON 开发者社区已经升至1.3万人，tAPP 在12月的月活用户已经环比增长75%，达到1.2万。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEGEN和AERO接连历史新高，Base季这次真的来了？]]></title>
-        <id>https://www.web3sj.com/?p=107661</id>
-        <link href="https://www.web3sj.com/news/107661/"/>
-        <updated>2024-03-26T06:08:47.000Z</updated>
-        <summary type="html"><![CDATA[2 月 21 日，Degen 宣布完成 490.5 枚 ETH（当时价值约 147 万美元）天使轮融资，1confirmation 领投，Farcaster OG 等参投，资金将用于发展 Degen 生态系统和社区。随后，DEGEN 代币又接入 Base 生态的社交视频应用 Drakula 内，成为应用内的交易代币。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinShares资金流动周报：流出创记录、山寨币表现不错]]></title>
-        <id>https://www.web3sj.com/?p=107655</id>
-        <link href="https://www.web3sj.com/news/107655/"/>
-        <updated>2024-03-26T05:44:21.000Z</updated>
-        <summary type="html"><![CDATA[我们认为，最近的价格调整引发了投资者对未来趋势的不确定性情绪，从而导致向美国新 ETF 发行者流入的资金大幅减少，仅有 11 亿美元的资金流入，部分抵消了 Grayscale 上周 20 亿美元的大幅流出。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文探讨TON背后的上涨逻辑]]></title>
-        <id>https://www.web3sj.com/?p=107650</id>
-        <link href="https://www.web3sj.com/project/107650/"/>
-        <updated>2024-03-26T05:26:01.000Z</updated>
-        <summary type="html"><![CDATA[我们尝试去寻找原因，以探求其后续的发展空间。按照基本逻辑推断，代币价格上涨，源于买盘多，不断推涨单次交易的价格，这从近期的交易量上可以很明显看出来。]]></summary>
         <author>
             <name>Gao</name>
         </author>
