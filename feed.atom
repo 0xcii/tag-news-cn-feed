@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-28T03:13:40.832Z</id>
+    <id>urn:2024-03-28T04:14:52.629Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-28T03:13:40.832Z</updated>
+    <updated>2024-03-28T04:14:52.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[L2后起之秀Morph：EIP-4844适配和聚合证明护航可扩展性之路]]></title>
+        <id>https://www.web3sj.com/?p=107801</id>
+        <link href="https://www.web3sj.com/project/107801/"/>
+        <updated>2024-03-28T04:12:41.000Z</updated>
+        <summary type="html"><![CDATA[坎昆升级后，主流 L2 开始相继适配 EIP-4844，Gas 费用也迎来非常明显的下降。例如，Starknet、Base、Optimism、Zora 在升级后的中位数 Gas 费用均比升级前 30 天下降了 96% 以上，Arbitrum 和 zkSync 上的 Gas 费用也分别下降了 77% 和 55%。根据 Blobscan 数据，当前已有超 4 万个 Blob，总共节省了 93.69% 的交易费用。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos生态起飞时：坎昆升级后的Alt L1新旅程]]></title>
+        <id>https://www.web3sj.com/?p=107795</id>
+        <link href="https://www.web3sj.com/project/107795/"/>
+        <updated>2024-03-28T04:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Aptos 过去一周每月活跃账户数增至 200 万以上（来自 Aptos Exolorer），成为过去 3 个月每日活跃账户增长最快的非 EVM 链（来自@artemis__xyz），以及过去 30 天内每日活跃用户增长最快的协议（来自@tokenterminal）。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast社区又吵起来了，这次是因为想帮项目追回被盗资金]]></title>
+        <id>https://www.web3sj.com/?p=107784</id>
+        <link href="https://www.web3sj.com/news/107784/"/>
+        <updated>2024-03-28T03:53:50.000Z</updated>
+        <summary type="html"><![CDATA[但与此同时，关于「Blast 要不要进行回滚」的争议也发酵起来。理论上，被盗项目来自 Blast 生态，而 Blast 团队控制著 Blast 主网的跨链桥，因此 Blast 团队可以做出举措来挽回这次损失，包括升级跨链桥合约阻止黑客转移失窃的 ETH，以及进行「交易回滚」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：Ordinals创始人公布Runes文档]]></title>
+        <id>https://www.hellobtc.com/news/202403/21852.html</id>
+        <link href="https://www.hellobtc.com/news/202403/21852.html"/>
+        <updated>2024-03-28T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[1.Ordinals创始人公布Runes文档，引入“cenotaphs ”升级机制。
+
+2.Messari研究副总裁：Meme币是加密货币采用的下一个「特洛伊木马」。
+
+3.Fetch.ai、SingularityNET与Ocean Protocol合并代币成立去中心化AI联盟。
+
+4.贝莱德代币化投资基金BUIDL推出一周内已流入1.6亿美元。
+
+5.Vitalik ：元宇宙的定义仍然模糊，需要结合加密货币、虚拟现实和AI。
+
+6.Blast创始人：前Munchables开发者已选择归还资金，希望Blast开发者能从中吸取教训。
+
+7.Base网络TVL突破30亿美元，创历史新高。
+
+8.Blast：已超越Avalanche，成为DApp TVL第六大区块链。
+
+9.NFT卡牌游戏Parallel完成3500万美元融资，Solana Ventures等参投。
+
+10.Ethena将于4月2日向用户空投ENA代币。
+
+11.黄立成在Solana上推出的Meme项目Bobaoppa募资额达19.8万枚SOL。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragonfly 再次向Bybit存入1050 万枚MNT，价值1260 万美元]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_44327.html</id>
@@ -520,16 +580,6 @@ Elixir Games 将利用这些资金开发其游戏生态系统，该生态系统�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[慢雾首席信息安全官：Apples store上出现虚假unisat App]]></title>
-        <id>https://www.hellobtc.com/news/202403/21842.html</id>
-        <link href="https://www.hellobtc.com/news/202403/21842.html"/>
-        <updated>2024-03-27T06:53:00.000Z</updated>
-        <summary type="html"><![CDATA[慢雾首席信息安全官23pds在X平台发布提醒称，注意，Apples store上出现虚假unisat App。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[a16z：计算机与赌场，区块链的二相文化，以及给监管的启示]]></title>
         <id>https://www.web3sj.com/?p=107722</id>
         <link href="https://www.web3sj.com/news/107722/"/>
@@ -555,36 +605,6 @@ Elixir Games 将利用这些资金开发其游戏生态系统，该生态系统�
         <link href="https://www.web3sj.com/news/107712/"/>
         <updated>2024-03-27T04:32:32.000Z</updated>
         <summary type="html"><![CDATA[Nubit 是一个可扩展的比特币原生 DA 层，安全性由比特币保护。 Nubit 能够有效扩展比特币的数据容量，为 Ordinals、L2、预言机等应用程序提供支持，从而扩大比特币生态系统的范围和效率。它旨在完全继承比特币的安全性，包括经济安全、抗篡改、抗审查等。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国起诉KuCoin，发生了什么？]]></title>
-        <id>https://www.web3sj.com/?p=107708</id>
-        <link href="https://www.web3sj.com/news/107708/"/>
-        <updated>2024-03-27T04:19:49.000Z</updated>
-        <summary type="html"><![CDATA[据公开资料显示，KuCoin 创立于 2017 年。2019 年 7 月推出期货交易平台。截止目前，KuCoin 已成为全球最大加密交易所之一，拥有 3000 多万客户和价值数十亿美元日交量。KuCoin 在公开加密交易所排名中名列全球前五。其中一个公开排名将 KuCoin 列为第四大加密货币衍生品交易所和第五大加密货币现货交易所。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nansen：zkSync Era用户飙升，他们到底是谁？]]></title>
-        <id>https://www.web3sj.com/?p=107698</id>
-        <link href="https://www.web3sj.com/news/107698/"/>
-        <updated>2024-03-27T04:06:59.000Z</updated>
-        <summary type="html"><![CDATA[自 zkSync 推出以来，新地址一直不断增加。新存款人在 2023 年 5 月达到顶峰，此后呈下降趋势。然而，截至 2024 年 3 月 13 日，平均每日独立存款人仍超过 8,280 人，这意味着 2023 年和 2024 年新用户数量大幅增长。跨链是一个很好的指标，让我们看看 2024 年谁是 zkSync Era 上真正的活跃用户。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-3.26）]]></title>
-        <id>https://www.web3sj.com/?p=107686</id>
-        <link href="https://www.web3sj.com/news/107686/"/>
-        <updated>2024-03-26T11:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Grayscale首席法务官：现货以太 ETF 应该获得批准。Coinbase 报告：近期 GBTC 卖压或源自 Genesis 清算破产资产。FTX债权预估赔付率已升至93%。]]></summary>
         <author>
             <name>Gao</name>
         </author>

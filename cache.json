@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=107801",
+          "author": "Gao",
+          "description": "坎昆升级后，主流 L2 开始相继适配 EIP-4844，Gas 费用也迎来非常明显的下降。例如，Starknet、Base、Optimism、Zora 在升级后的中位数 Gas 费用均比升级前 30 天下降了 96% 以上，Arbitrum 和 zkSync 上的 Gas 费用也分别下降了 77% 和 55%。根据 Blobscan 数据，当前已有超 4 万个 Blob，总共节省了 93.69% 的交易费用。",
+          "link": "https://www.web3sj.com/project/107801/",
+          "publishedOn": "2024-03-28T04:12:41.000Z",
+          "wordCount": 1309,
+          "title": "L2后起之秀Morph：EIP-4844适配和聚合证明护航可扩展性之路",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711599152.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=107795",
+          "author": "Gao",
+          "description": "Aptos 过去一周每月活跃账户数增至 200 万以上（来自 Aptos Exolorer），成为过去 3 个月每日活跃账户增长最快的非 EVM 链（来自@artemis__xyz），以及过去 30 天内每日活跃用户增长最快的协议（来自@tokenterminal）。",
+          "link": "https://www.web3sj.com/project/107795/",
+          "publishedOn": "2024-03-28T04:02:10.000Z",
+          "wordCount": 1412,
+          "title": "Aptos生态起飞时：坎昆升级后的Alt L1新旅程",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/17115985191.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=107784",
+          "author": "Gao",
+          "description": "但与此同时，关于「Blast 要不要进行回滚」的争议也发酵起来。理论上，被盗项目来自 Blast 生态，而 Blast 团队控制著 Blast 主网的跨链桥，因此 Blast 团队可以做出举措来挽回这次损失，包括升级跨链桥合约阻止黑客转移失窃的 ETH，以及进行「交易回滚」。",
+          "link": "https://www.web3sj.com/news/107784/",
+          "publishedOn": "2024-03-28T03:53:50.000Z",
+          "wordCount": 950,
+          "title": "Blast社区又吵起来了，这次是因为想帮项目追回被盗资金",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/17115980181.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=107764",
           "author": "Gao",
           "description": "富兰克林邓普顿推出BTC/ETH独立管理账户。香港SFC或在今年第二季度允许比特币现货ETF的实物创建和赎回。Sam Bankman-Fried可能面临20至25年监禁，法官将在本周做出判决。",
           "link": "https://www.web3sj.com/news/107764/",
           "publishedOn": "2024-03-27T11:29:44.000Z",
-          "wordCount": 893,
+          "wordCount": 919,
           "title": "Web3世界日报（2024-3.27）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/2024032711280074.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "NEAR 联合创始人 Illia Polosukhin 前不久撰文探讨链抽象的概念，并表明 NEAR 在实现链抽象方面的愿景。此外上个月上线主网的 ZetaChain、模块化 L1 Particle Network、全链账本 Cycle Network 等项目都在为实现链抽象而探索。",
           "link": "https://www.web3sj.com/news/107754/",
           "publishedOn": "2024-03-27T08:05:33.000Z",
-          "wordCount": 976,
+          "wordCount": 980,
           "title": "链抽象：多链时代下的三棱镜",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711526715189.png"
         },
@@ -31,7 +61,7 @@
           "description": "链上侦探 ZachXBT 的调查显示，此次攻击源于 Munchables 协议的开发者，是一名朝鲜黑客。慢雾创始人余弦在社交媒体发文解读，「这是慢雾遇到的至少第二起 DeFi 类项目遭遇的这类情况。核心开发者伪装潜伏很久，获得整个项目团队的信任，时机一到就下手，毫不留情。受害者恐怕不少。」",
           "link": "https://www.web3sj.com/gamefinews/107749/",
           "publishedOn": "2024-03-27T07:55:46.000Z",
-          "wordCount": 995,
+          "wordCount": 1005,
           "title": "Blast生态项目被盗6000万美元，社会工程被朝鲜黑客「玩明白了」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711526129994.png"
         },
@@ -41,7 +71,7 @@
           "description": "这三个方面的能力不一定能全部实现，不同的项目、不同阶段的侧重点也会不同。就现阶段而言，大部分 BTC L2 希望实现的是性能优化和编程能力，能够提供更快的应用产品，丰富 BTC 生态。",
           "link": "https://www.web3sj.com/news/107735/",
           "publishedOn": "2024-03-27T07:44:27.000Z",
-          "wordCount": 1419,
+          "wordCount": 1447,
           "title": "LD Capital：Nervos Network，UTXO同构的BTC L2",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711525420488.png"
         },
@@ -51,7 +81,7 @@
           "description": "赌场文化是存在问题的。一个极端的例子是已经停业的离岸交易所 FTX，它的影响是毁灭性的。它将代币脱离上下文，用市场营销语言包装它们，并鼓励人们投机。负责任的交易所提供有用的服务，如托管、质押和市场流动性，但鲁莽的交易所则鼓励不良行为，并且对用户的财产大肆妄为。",
           "link": "https://www.web3sj.com/news/107722/",
           "publishedOn": "2024-03-27T05:30:17.000Z",
-          "wordCount": 886,
+          "wordCount": 855,
           "title": "a16z：计算机与赌场，区块链的二相文化，以及给监管的启示",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711517275644.png"
         },
@@ -61,7 +91,7 @@
           "description": "这 25 个项目覆盖基础设施、消费者应用程序、DeFi、支付、游戏、开发工具与 DePIN 不同赛道。",
           "link": "https://www.web3sj.com/news/107719/",
           "publishedOn": "2024-03-27T05:09:48.000Z",
-          "wordCount": 1013,
+          "wordCount": 1011,
           "title": "速览a16z Crypto春季创业加速器25个入围项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711516173725.png"
         },
@@ -74,36 +104,6 @@
           "wordCount": 989,
           "title": "比特币DA有戏吗？新选手Nubit架构与亮点简析",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711513936570.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=107708",
-          "author": "Gao",
-          "description": "据公开资料显示，KuCoin 创立于 2017 年。2019 年 7 月推出期货交易平台。截止目前，KuCoin 已成为全球最大加密交易所之一，拥有 3000 多万客户和价值数十亿美元日交量。KuCoin 在公开加密交易所排名中名列全球前五。其中一个公开排名将 KuCoin 列为第四大加密货币衍生品交易所和第五大加密货币现货交易所。",
-          "link": "https://www.web3sj.com/news/107708/",
-          "publishedOn": "2024-03-27T04:19:49.000Z",
-          "wordCount": 1146,
-          "title": "美国起诉KuCoin，发生了什么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711513169480.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=107698",
-          "author": "Gao",
-          "description": "自 zkSync 推出以来，新地址一直不断增加。新存款人在 2023 年 5 月达到顶峰，此后呈下降趋势。然而，截至 2024 年 3 月 13 日，平均每日独立存款人仍超过 8,280 人，这意味着 2023 年和 2024 年新用户数量大幅增长。跨链是一个很好的指标，让我们看看 2024 年谁是 zkSync Era 上真正的活跃用户。",
-          "link": "https://www.web3sj.com/news/107698/",
-          "publishedOn": "2024-03-27T04:06:59.000Z",
-          "wordCount": 1052,
-          "title": "Nansen：zkSync Era用户飙升，他们到底是谁？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/1711512398257.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=107686",
-          "author": "Gao",
-          "description": "Grayscale首席法务官：现货以太 ETF 应该获得批准。Coinbase 报告：近期 GBTC 卖压或源自 Genesis 清算破产资产。FTX债权预估赔付率已升至93%。",
-          "link": "https://www.web3sj.com/news/107686/",
-          "publishedOn": "2024-03-26T11:58:03.000Z",
-          "wordCount": 1014,
-          "title": "Web3世界日报（2024-3.26）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/03/2024032611575076.jpg"
         }
       ]
     },
@@ -113,12 +113,22 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202403/21852.html",
+          "author": null,
+          "description": "1.Ordinals创始人公布Runes文档，引入“cenotaphs ”升级机制。\n\n2.Messari研究副总裁：Meme币是加密货币采用的下一个「特洛伊木马」。\n\n3.Fetch.ai、SingularityNET与Ocean Protocol合并代币成立去中心化AI联盟。\n\n4.贝莱德代币化投资基金BUIDL推出一周内已流入1.6亿美元。\n\n5.Vitalik ：元宇宙的定义仍然模糊，需要结合加密货币、虚拟现实和AI。\n\n6.Blast创始人：前Munchables开发者已选择归还资金，希望Blast开发者能从中吸取教训。\n\n7.Base网络TVL突破30亿美元，创历史新高。\n\n8.Blast：已超越Avalanche，成为DApp TVL第六大区块链。\n\n9.NFT卡牌游戏Parallel完成3500万美元融资，Solana Ventures等参投。\n\n10.Ethena将于4月2日向用户空投ENA代币。\n\n11.黄立成在Solana上推出的Meme项目Bobaoppa募资额达19.8万枚SOL。",
+          "link": "https://www.hellobtc.com/news/202403/21852.html",
+          "publishedOn": "2024-03-28T03:20:00.000Z",
+          "wordCount": 320,
+          "title": "白话区块链早报：Ordinals创始人公布Runes文档",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202403/21851.html",
           "author": null,
           "description": "加密资产管理公司21Shares在瑞士SIX Exchange推出Toncoin质押ETP。此次推出的 ETP 名为 TONN，旨在追踪 Toncoin 的表现，并将质押产生的收益重新投资于 ETP 中，为投资者提供一种无需设置或管理质押节点即可赚取质押奖励的方式。21Shares 对其产品收取费用，TONN 的年费率为 2.5%。",
           "link": "https://www.hellobtc.com/news/202403/21851.html",
           "publishedOn": "2024-03-27T13:41:00.000Z",
-          "wordCount": 314,
+          "wordCount": 317,
           "title": "21Shares在瑞士SIX Exchange推出Toncoin质押ETP",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -201,16 +211,6 @@
           "wordCount": 313,
           "title": "比特币闪电网络公司Neutronpay完成150万美元过桥融资，Axiom Capital领投",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202403/21842.html",
-          "author": null,
-          "description": "慢雾首席信息安全官23pds在X平台发布提醒称，注意，Apples store上出现虚假unisat App。",
-          "link": "https://www.hellobtc.com/news/202403/21842.html",
-          "publishedOn": "2024-03-27T06:53:00.000Z",
-          "wordCount": 307,
-          "title": "慢雾首席信息安全官：Apples store上出现虚假unisat App",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
     },
@@ -225,7 +225,7 @@
           "description": "深潮 TechFlow 消息，据lookonchain监测，Dragonfly 再次向Bybit存入1050 万枚MNT，价值1260 万美元。\n\n在Upbit宣布上市后，他已向Bybit存入2100万枚MNT（价值2520万美元）。\n\n从3月14日到3月17日，他还向Bybit存入1340万枚MNT（价值1300万美元），导致MNT价格下跌约23%。",
           "link": "https://www.techflowpost.com/newsletter/detail_44327.html",
           "publishedOn": "2024-03-28T03:03:59.000Z",
-          "wordCount": 463,
+          "wordCount": 484,
           "title": "Dragonfly 再次向Bybit存入1050 万枚MNT，价值1260 万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -235,7 +235,7 @@
           "description": "深潮 TechFlow 消息，Binance 将支持 NFPrompt（NFP）合约置换计划。\n\nBinance 上旧 NFP 代币充值服务已停止，Binance 将于 2024 年 03 月 28 日 17:00（东八区时间）暂停旧 NFP 提现业务，Binance 将在合约置换完成后，另行公告新 NFP 充值、提现开放时间。",
           "link": "https://www.techflowpost.com/newsletter/detail_44326.html",
           "publishedOn": "2024-03-28T02:52:53.000Z",
-          "wordCount": 483,
+          "wordCount": 504,
           "title": "币安将支持NFPrompt（NFP）合约置换",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -245,7 +245,7 @@
           "description": "深潮 TechFlow 消息，NFT创作和交易平台 NFPrompt在X平台宣布，鉴于最近的安全问题，正在进行代币置换以弃用旧的NFP代币，并将使用新的智能合约。\n\n代币代码和项目名称均不变，合约迁移包括冗余和额外的安全层，以保持一切严密。所有与已知黑客地址相关的NFP代币都被有效冻结，并且不会收到新的代币。\n\n此外，快照将于北京时间3月28日18:00进行，将根据快照时间点的当前用户余额持有情况，对受影响的用户进行退款，将按照快照时间点的1:1比例分配全额代币持有量。",
           "link": "https://www.techflowpost.com/newsletter/detail_44325.html",
           "publishedOn": "2024-03-28T02:50:47.000Z",
-          "wordCount": 450,
+          "wordCount": 471,
           "title": "NFPrompt：将进行代币置换启用新NFP代币，快照于今日18:00进行",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -255,7 +255,7 @@
           "description": "深潮 TechFlow 消息，据 OKX 行情数据，比特币短时跌破 69,000 美元，现报价69,000 美元，日内跌幅达0.67%。",
           "link": "https://www.techflowpost.com/newsletter/detail_44324.html",
           "publishedOn": "2024-03-28T02:47:36.000Z",
-          "wordCount": 456,
+          "wordCount": 477,
           "title": "比特币短时跌破69,000美元，日内跌幅达0.67%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -265,7 +265,7 @@
           "description": "深潮 TechFlow 消息，据Whale Alert监测，3分钟前250,000,000枚 DOGE（49,499,065 美元）从未知钱包转入Robinhood钱包地址。",
           "link": "https://www.techflowpost.com/newsletter/detail_44323.html",
           "publishedOn": "2024-03-28T02:41:07.000Z",
-          "wordCount": 455,
+          "wordCount": 476,
           "title": "数据：2.5亿枚DOGE于3分钟前转入 Robinhood钱包地址",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -275,7 +275,7 @@
           "description": "深潮 TechFlow 消息，ether.fi 原生代币 ETHFI 近期表现强势，昨天最高突破8.6美元，现报 4.245美元，24小时涨幅 24.47%。\n\nether.fi 与 Manta Network 发起的 Restaking Paradigm 正在进行中。用户将 ETH 通过此页面质押 ETH，可提前获得 2倍 ether.fi 二轮空投积分、EigenLayer 空投积分，且可获得流动性代币 weETH。据 ether.fi 代币经济模型，空投将分为两轮，分别占到代币总量的6%和5%。",
           "link": "https://www.techflowpost.com/newsletter/detail_44322.html",
           "publishedOn": "2024-03-28T02:40:07.000Z",
-          "wordCount": 506,
+          "wordCount": 527,
           "title": "ETHFI 最高突破8.6美元，参与 Manta Restaking Paradigm 可提前获得双倍二轮空投积分",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -285,7 +285,7 @@
           "description": "深潮 TechFlow 消息，据AI姨监测，11 小时前孙宇晨卖出 35,000 枚 LINK，价值 68 万美金，获利 11.4 万美金。\n\n这是孙宇晨该地址首次在链上卖出 $LINK 代币，目前仍持有 1.8 万枚（35 万美金）。",
           "link": "https://www.techflowpost.com/newsletter/detail_44321.html",
           "publishedOn": "2024-03-28T02:30:02.000Z",
-          "wordCount": 491,
+          "wordCount": 512,
           "title": "数据：11 小时前孙宇晨卖出 35,000 枚 LINK，价值 68 万美金",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -295,7 +295,7 @@
           "description": "深潮 TechFlow 消息，据Lookonchain数据，一鲸鱼于17分钟前再次从Binance购买了1308枚MKR（434万美元）。\n\n11天前，该鲸鱼还花费2,332枚ETH（830万美元）以2,799美元的价格买入2,957枚MKR。",
           "link": "https://www.techflowpost.com/newsletter/detail_44320.html",
           "publishedOn": "2024-03-28T02:24:42.000Z",
-          "wordCount": 447,
+          "wordCount": 468,
           "title": "数据：某鲸鱼于17分钟前再次从币安购买1308枚MKR",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -305,7 +305,7 @@
           "description": "深潮 TechFlow 消息，Fetch.ai 在 X 发布公告称，如果用户在交易所拥有FET、OCEAN、AGIX代币，都将自动转为ASI。\n\n此外，Fetch.ai提醒用户不要在交易所执行转换后将 OCEAN 、AGIX 代币存入交易所。当交易所转换完成后，OCEAN 、AGIX将在交易所停用。如果有人在转换事件后不小心发送OCEAN 、AGIX交易所，其无法保证代币将可用或转换为ASI。\n\n此前消息，据Tree News援引知情人士透露，SingularityNET、 Fetch.ai和 Ocean Protocol 正在讨论将他们的代币合并为 ASI 代币，该代币FDV价值约为 75 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_44319.html",
           "publishedOn": "2024-03-28T02:20:06.000Z",
-          "wordCount": 473,
+          "wordCount": 494,
           "title": "Fetch.ai：交易所的FET、OCEAN、AGIX都将自动转为ASI",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -315,7 +315,7 @@
           "description": "深潮 TechFlow 消息，据Bitget数据显示，NAVI Protocol代币NAVX突破0.34美元，创历史新高。现报0.3438美元，24小时涨幅65.4%。",
           "link": "https://www.techflowpost.com/newsletter/detail_44318.html",
           "publishedOn": "2024-03-28T02:11:03.000Z",
-          "wordCount": 466,
+          "wordCount": 487,
           "title": "NAVI Protocol 代币 NAVX 突破 0.34 美元，24小时涨幅65.4%，创历史新高",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -325,7 +325,7 @@
           "description": "深潮 TechFlow 消息，3月28日，领涨板块分别为Optimism、POW以及 平台币 板块，其中VELO 24小时涨幅58.79%，BCH 24小时涨幅 10.95%，REP 24小时涨幅8.83%。\n\n截止发稿，实时涨幅榜单前三的币种分别为SAKAI、BERETT、NAVX。成交额榜单前三的币种分别为BTC、ETH、DOGE。",
           "link": "https://www.techflowpost.com/newsletter/detail_44317.html",
           "publishedOn": "2024-03-28T01:58:54.000Z",
-          "wordCount": 465,
+          "wordCount": 486,
           "title": "Bitget 每日行情资讯：VELO 24小时涨幅58.79%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -335,7 +335,7 @@
           "description": "深潮 TechFlow 消息，3月28日，据DL News报道，Fantom 基金会首席执行官 Michael Kong 在接受采访时表示，“随着 Fantom  Sonic 的推出，将进行多次代币空投。你与网络互动越多，你为网络积累的价值就越大，将获得更多的空投。”但是他不想透露太多细节，因为担心空投被空投猎人们玩弄。\n\n据悉，Fantom Sonic 是新一代的 Fantom 网络，包含新的客户端、验证者端、虚拟机(FVM)、Carmen 资料库和经过优化的 Lachesis 共识机制，将可以大幅提升原有 Fantom 的执行效率。Fantom Sonic拟于今年晚夏或初秋上线。",
           "link": "https://www.techflowpost.com/newsletter/detail_44315.html",
           "publishedOn": "2024-03-28T01:54:46.000Z",
-          "wordCount": 498,
+          "wordCount": 519,
           "title": "Fantom 基金 CEO： Fantom Sonic 正式推出时，将进行多次代币空投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -345,7 +345,7 @@
           "description": "深潮 TechFlow 消息，区块链游戏Crypto Unicorns 宣布迁移至 XAI 链，代币RBW 将以 10:1 的比例转换为 CU。",
           "link": "https://www.techflowpost.com/newsletter/detail_44314.html",
           "publishedOn": "2024-03-28T01:54:02.000Z",
-          "wordCount": 483,
+          "wordCount": 504,
           "title": "Crypto Unicorns迁移至 XAI 链，代币RBW 将以 10:1 的比例转换为 CU",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -355,7 +355,7 @@
           "description": "深潮 TechFlow 消息，据PR Newswire报道，加密交易所KuCoin表示：“3月26日至27日，部分用户出现提现等待时间超预期的情况，为感谢用户的支持和耐心，KuCoin将推出总额为1000万美元的KCS和BTC空投活动。规则将在3天内正式公布。”",
           "link": "https://www.techflowpost.com/newsletter/detail_44313.html",
           "publishedOn": "2024-03-28T01:37:16.000Z",
-          "wordCount": 463,
+          "wordCount": 484,
           "title": "KuCoin宣布将空投 1000 万美元的 KCS 和 BTC，以补偿部分用户出现提现超时",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -365,7 +365,7 @@
           "description": "深潮 TechFlow 消息，流动性再质押协议 Unstable 完成 250 万美元种子轮融资，Lattice、Laser Digital、Blockchain Founders Fund、Assouline Ventures、Agnostic Fund、Artichoke Capital、Black Edge Capital、NewTribe Capital、NxGen 及数位天使投资人等参投。\n\nUnstable 将利用筹集到的资金为其开创性的 zkOracles 提供动力，利用 zkOracles 来增强 LRTfi 市场的 DeFi 功能。",
           "link": "https://www.techflowpost.com/newsletter/detail_44312.html",
           "publishedOn": "2024-03-28T01:27:04.000Z",
-          "wordCount": 508,
+          "wordCount": 529,
           "title": "流动性再质押协议 Unstable 完成 250 万美元种子轮融资，Lattice 等参投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -375,7 +375,7 @@
           "description": "深潮 TechFlow 消息，据The Block报道，Dune Analytics的数据显示，以太坊blob正以创纪录的速度被用于创建铭文，就像比特币上的Ordinals一样。\n\n据一位名叫 Hildobby 的 Dune Analytics 用户称，3 月 27 日，有 2437 个 blob 被用来创建铭文，占当天发布的 blob 的 22.8%。在 Arbitrum、Optimism、Base 和 Linea 等其他以太坊L2中，Blob 的使用率最高。\n\nblob铭文数量的增加与Base上的费用激增同时发生，费用一度达到300美元，随后又降至约30美元。以太坊的插槽利用率也在下降，这可能是因为blob导致区块体积变大。",
           "link": "https://www.techflowpost.com/newsletter/detail_44311.html",
           "publishedOn": "2024-03-28T01:21:29.000Z",
-          "wordCount": 492,
+          "wordCount": 513,
           "title": "昨日22.8%的以太坊blob被用来创建铭文，使用速度创下新纪录",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -385,7 +385,7 @@
           "description": "深潮 TechFlow 消息，据Defillama数据显示，DeFi收益交易协议Pendle总锁定价值突破30 亿美元，创历史新高。",
           "link": "https://www.techflowpost.com/newsletter/detail_44310.html",
           "publishedOn": "2024-03-28T01:12:51.000Z",
-          "wordCount": 451,
+          "wordCount": 472,
           "title": "Pendle总锁定价值突破30 亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -395,7 +395,7 @@
           "description": "深潮 TechFlow 消息，据Decrypt报道，Web3游戏工作室7 Digital Labs宣布完成400万美元种子轮融资，Avalanche基金会、Merit Circle和Citizen Capital等参投。\n\n7 Digital Labs正在制作一款融入Web3游戏世界的免费英雄射击游戏《BloodLoop》。",
           "link": "https://www.techflowpost.com/newsletter/detail_44309.html",
           "publishedOn": "2024-03-28T01:03:48.000Z",
-          "wordCount": 465,
+          "wordCount": 486,
           "title": "Web3游戏工作室7 Digital Labs完成400万美元种子轮融资，Avalanche基金会参投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -405,7 +405,7 @@
           "description": "深潮 TechFlow 消息，英国金融监管部门发布了指导方针，以警告推广包括加密货币在内的金融产品的社交媒体影响者。英国金融行为监管局（FCA）表示，推广金融产品而获得报酬的网红需要获得监管部门的批准，以避免刑事指控。\n\nFCA还指出，模因是在线违规行为的潜在来源，用户通常不知道促销模因可能受 FCA 规则的约束，并指出加密模因在影响者促销中非常普遍。",
           "link": "https://www.techflowpost.com/newsletter/detail_44308.html",
           "publishedOn": "2024-03-28T00:55:50.000Z",
-          "wordCount": 451,
+          "wordCount": 472,
           "title": "英国金融监管机构：促销模因币可能违反新规则",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -415,7 +415,7 @@
           "description": "深潮 TechFlow 消息，据HODL15Capital监测，3月27日贝莱德现货比特币ETF“IBIT”\"的资金净流入约3.24亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_44307.html",
           "publishedOn": "2024-03-28T00:49:42.000Z",
-          "wordCount": 446,
+          "wordCount": 467,
           "title": "贝莱德IBIT昨日净流入约3.24亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -425,7 +425,7 @@
           "description": "深潮 TechFlow 消息，区块链咨询公司Catalyst Research宣布已与Bonready Ventures合作创建了130亿韩元的“Catalyst-Futureverse生态系统基金”。\n\nCatalyze-Futureverse 生态系统基金将投资于在 Web3、Metaverse 和人工智能 （AI） 领域探索新可能性的初创公司。目的是激活 Futureverse 支持的主网 Root。\n\n该共同投资基金将为亚太地区（APAC）的初创企业提供机会，重点是韩国。",
           "link": "https://www.techflowpost.com/newsletter/detail_44306.html",
           "publishedOn": "2024-03-28T00:48:59.000Z",
-          "wordCount": 474,
+          "wordCount": 495,
           "title": "Catalyst Research和Bonready Ventures成立130亿韩元基金，以支持Web3、AI等初创公司",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -435,7 +435,7 @@
           "description": "深潮 TechFlow 消息，RWA平台Ondo Finance 首席执行官 Nathan Allman表示， Ondo Finance 正在将 9500 万美元的资产转移到贝莱德全新的代币化基金BUIDL，以允许其自己的美国财政部支持的代币 (OUSG) 进行即时结算。\n\nAllman 补充道，过去几天，Ondo 已将 1500 万美元的 OUSG 支持资产转移给贝莱德的 BUIDL，并计划在周三结束前再转移 8000 万美元。\n\n此前消息，RWA 协议 Ondo Finance 宣布推出 OUSG 代币24/7/365 的即时投资和赎回，还将推出一种新形式的 OUSG-rOUSG，该代币将提供恒定的 1.00 美元每份的铸币/赎回价格，允许投资者通过其网站或在链上进行转换。",
           "link": "https://www.techflowpost.com/newsletter/detail_44305.html",
           "publishedOn": "2024-03-28T00:44:55.000Z",
-          "wordCount": 526,
+          "wordCount": 547,
           "title": "Ondo Finance 将 9500 万美元转移至 BlackRock 的代币化基金",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -445,7 +445,7 @@
           "description": "深潮 TechFlow 消息，公链 Injective 在X表示，今日已销毁超7,200 枚INJ 。",
           "link": "https://www.techflowpost.com/newsletter/detail_44304.html",
           "publishedOn": "2024-03-28T00:37:55.000Z",
-          "wordCount": 460,
+          "wordCount": 481,
           "title": "Injective ：今日销毁超7,200 枚INJ",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -455,7 +455,7 @@
           "description": "深潮 TechFlow 消息，Bitwise 首席信息官马特-侯根（Matt Hougan）预测，过去两个月对比特币现货 ETF 的巨大需求可能会持续多年。\n\nMatt Hougan强调他本月与投资者和资本配置者互动的 \"主要收获\"，这些投资者和资本配置者有意购买由Bitwise管理的ETF。\n\n他表示，\"比特币ETF的采用速度非常分散\"。一些财务顾问和全国性账户平台正在尽可能早地接入这些产品，而另一些则还没有考虑为他们的客户进行任何投资组合配置，或者直到明年才会在他们的平台上启用这些产品。",
           "link": "https://www.techflowpost.com/newsletter/detail_44303.html",
           "publishedOn": "2024-03-28T00:33:38.000Z",
-          "wordCount": 469,
+          "wordCount": 490,
           "title": "Bitwise CIO：比特币 ETF 的大规模增长将“持续数年”",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -465,7 +465,7 @@
           "description": "深潮 TechFlow 消息，RWA 协议 Ondo Finance 宣布推出 OUSG 代币24/7/365 的即时投资和赎回，还将推出一种新形式的 OUSG-rOUSG，该代币将提供恒定的 1.00 美元每份的铸币/赎回价格，允许投资者通过其网站或在链上进行转换。",
           "link": "https://www.techflowpost.com/newsletter/detail_44302.html",
           "publishedOn": "2024-03-28T00:28:26.000Z",
-          "wordCount": 469,
+          "wordCount": 490,
           "title": "RWA协议Ondo Finance推出OUSG代币实时投资与赎回服务",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -475,7 +475,7 @@
           "description": "深潮 TechFlow 消息，NFT 卡牌游戏 Parallel 在X宣布完成 3500 万美元融资，本轮融资由 Solana Ventures、Distributed Global、OSS Capital、VanEck、Focus Labs 等参投。",
           "link": "https://www.techflowpost.com/newsletter/detail_44301.html",
           "publishedOn": "2024-03-28T00:22:37.000Z",
-          "wordCount": 471,
+          "wordCount": 492,
           "title": "NFT卡牌游戏Parallel完成3500万美元融资，Solana Ventures等参投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -485,7 +485,7 @@
           "description": "深潮 TechFlow 消息，DeFi协议Ethena将于4月2日向持有USDe的用户空投代币，在此日期之前取消质押、解锁或出售所有 USDe 的任何用户将没有资格获得空投。\n\n该协议计划空投7.5亿枚ENA代币，占总供应量的5%。\n\n符合本次空投资格的用户地址超 90,000 个，积分排行前 2000 名的用户以及 Pendle 的 YT 代币持有者初始仅解锁 50%，其余 50% 在 6 个月内线性解锁。\n\n此外，本次空投总量 3%（总供应量 0.15%）的代币将分配给 SchizoPosters 以及 Redacted Remilio Babies 系列 NFT 持有者。\n\n用户能从4月2日开始申领代币，同时ENA将在上线CEX。空投结束后，Ethena将为下一阶段的空投启动新的奖励活动。",
           "link": "https://www.techflowpost.com/newsletter/detail_44300.html",
           "publishedOn": "2024-03-28T00:14:27.000Z",
-          "wordCount": 500,
+          "wordCount": 521,
           "title": "Ethena将于4月2日向用户空投7.5亿枚ENA代币，90,000个地址有资格获得空投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -495,7 +495,7 @@
           "description": "深潮 TechFlow 消息，贝莱德首席执行官Larry Fink在接受福克斯商业频道(Fox Business)采访时表示，即使美国证券交易委员会（SEC）将以太坊指定为证券，推出以太坊ETF仍然是可能的。",
           "link": "https://www.techflowpost.com/newsletter/detail_44299.html",
           "publishedOn": "2024-03-28T00:07:44.000Z",
-          "wordCount": 450,
+          "wordCount": 471,
           "title": "贝莱德CEO：即使以太坊被认定属于证券，推出以太坊ETF仍是可能的",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -505,7 +505,7 @@
           "description": "深潮 TechFlow 消息，加密做市商GSR将以太坊现货ETF五月份批准的可能性从之前的75%下调至20%。\n\nGSR表示，美国SEC在审批过程中缺乏积极参与，且受到政治压力影响。预计以太坊现货ETF的批准过程可能延长至2025年至2026年。\n\n彭博分析师也将以太坊现货ETF批准几率下调至30%。",
           "link": "https://www.techflowpost.com/newsletter/detail_44298.html",
           "publishedOn": "2024-03-28T00:05:48.000Z",
-          "wordCount": 448,
+          "wordCount": 469,
           "title": "做市商GSR将以太坊现货ETF五月获批可能性从75%下调至20%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -515,7 +515,7 @@
           "description": "深潮 TechFlow 消息，据 Whale Alert 监测，Robinhood 钱包地址于 3 月 28 日 0:42 左右转出 83,103,732 枚 DOGE，价值约合 15,553,982 美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_44297.html",
           "publishedOn": "2024-03-28T00:01:20.000Z",
-          "wordCount": 476,
+          "wordCount": 497,
           "title": "数据：Robinhood钱包地址转出超8300万枚DOGE",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -525,7 +525,7 @@
           "description": "深潮 TechFow 消息，旨在推出EVM兼容的比特币二层网络 BOB已完成 1000 万美元种子轮融资，Castle Island Ventures 领投，Mechanism Ventures、Bankless Ventures、CMS Ventures 和 UTXO Management 等参投。\n\n据悉，BOB 的目标是推出第一个与以太坊虚拟机 (EVM) 兼容的比特币第 2 层， BOB 这个名字是“Build on Bitcoin”的缩写。",
           "link": "https://www.techflowpost.com/newsletter/detail_44296.html",
           "publishedOn": "2024-03-27T16:09:59.000Z",
-          "wordCount": 506,
+          "wordCount": 527,
           "title": "比特币L2 BOB完成 1000 万美元种子轮融资，Castle Island Ventures领投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -535,7 +535,7 @@
           "description": "深潮 TechFlow 消息，Web3 游戏公司 Elixir Games 完成1400 万美元种子轮融，游戏巨头 Square Enix、Shima Capital 和 Solana 基金会参投。\n\nElixir Games 将利用这些资金开发其游戏生态系统，该生态系统将于 2024 年第二季度上线，并支持推出支撑该公司游戏产品的 $ELIX 代币等。 \n\n据悉，Square Enix 是一家日本视频游戏发行商，负责《最终幻想》、《勇者斗恶龙》和《王国之心》等热门游戏。",
           "link": "https://www.techflowpost.com/newsletter/detail_44295.html",
           "publishedOn": "2024-03-27T16:06:15.000Z",
-          "wordCount": 493,
+          "wordCount": 514,
           "title": "Elixir Games完成1400万美元种子轮融，Square Enix等参投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
