@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-29T05:12:50.990Z</id>
+    <id>urn:2024-03-29T06:16:34.235Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-29T05:12:50.990Z</updated>
+    <updated>2024-03-29T06:16:34.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vitalik最新长文：以太坊进化论续篇，L2的四个关键改进点]]></title>
+        <id>https://www.web3sj.com/?p=107926</id>
+        <link href="https://www.web3sj.com/news/107926/"/>
+        <updated>2024-03-29T06:05:02.000Z</updated>
+        <summary type="html"><![CDATA[这个里程碑代表了 Ethereum 长期路线图的关键转变：有了 blobs，Ethereum 的扩容不再是一个「从零到一」的问题，而成为了一个「从一到多」的问题。从这里开始，重要的扩容工作，无论是增加 blob 数量还是提高 rollups 利用每个 blob 的能力，都将继续进行，但这将是更加渐进的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[争议频频，以太坊ETF究竟能不能通过？]]></title>
+        <id>https://www.web3sj.com/?p=107921</id>
+        <link href="https://www.web3sj.com/news/107921/"/>
+        <updated>2024-03-29T06:01:38.000Z</updated>
+        <summary type="html"><![CDATA[在今年先后推迟了多个以太坊 ETH 申请的决议后，彭博分析师 james seyffart 表示，sec 今日推迟了对 invesco 与 galaxy 以太坊 etf 申请做出决议，100% 符合预期，未来几个月还会继续发生更多推迟决定。同时他强调，以太坊 ETF 现货的关键日期是 5 月 23 日，这也是 VanEck 申请的最后截止日期。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公链的新叙事之Fantom：Sonic出场重启性能竞赛]]></title>
+        <id>https://www.web3sj.com/?p=107913</id>
+        <link href="https://www.web3sj.com/news/107913/"/>
+        <updated>2024-03-29T05:41:19.000Z</updated>
+        <summary type="html"><![CDATA[最近一个月来，Fantom 的治理代币 FTM 的市场表现在众多公链中显得格外突出。从 2 月 24 日的 0.42 美金到 3 月 21 日上涨最高至 1.23 美金，涨幅近 3 倍。在众多 Meme 的浪潮环绕之下，取得这样的市场表现可谓是亮眼。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BNB上涨突破600 USDT，24H涨幅3.96%]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_44446.html</id>
@@ -579,36 +609,6 @@ IEEE Xplore是一个学术文献数据库，主要提供计算机科学、电机
         <link href="https://www.web3sj.com/transaction/107822/"/>
         <updated>2024-03-28T05:14:02.000Z</updated>
         <summary type="html"><![CDATA[受此消息影响，这三个项目的现有代币大幅上涨，过去 24 小时内， Fetch.ai (FET) 上涨了 15%，SingularityNET (AGIX) 上涨了 12%，Ocean Protocol 的代币 OCEAN 涨幅最大，上涨了 36% 以上。三个项目于今天向各自的治理社区提交整合提案，并开启为期 14 天的咨询期，预计提案投票将于 4 月 2 日至 4 月 16 日之间进行。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana的流动性质押发展如何？]]></title>
-        <id>https://www.web3sj.com/?p=107806</id>
-        <link href="https://www.web3sj.com/project/107806/"/>
-        <updated>2024-03-28T04:25:23.000Z</updated>
-        <summary type="html"><![CDATA[在我们直接谈论 Liquid Staking 之前，让我们先了解一下常规的 Staking。在像 Solana 这样的委托权益证明 (POS）网络中，Staking 是将你的 Token 委托给一个验证者，该验证者必须承诺忠实地验证网络上的交易，否则将面临惩罚。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[L2后起之秀Morph：EIP-4844适配和聚合证明护航可扩展性之路]]></title>
-        <id>https://www.web3sj.com/?p=107801</id>
-        <link href="https://www.web3sj.com/project/107801/"/>
-        <updated>2024-03-28T04:12:41.000Z</updated>
-        <summary type="html"><![CDATA[坎昆升级后，主流 L2 开始相继适配 EIP-4844，Gas 费用也迎来非常明显的下降。例如，Starknet、Base、Optimism、Zora 在升级后的中位数 Gas 费用均比升级前 30 天下降了 96% 以上，Arbitrum 和 zkSync 上的 Gas 费用也分别下降了 77% 和 55%。根据 Blobscan 数据，当前已有超 4 万个 Blob，总共节省了 93.69% 的交易费用。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aptos生态起飞时：坎昆升级后的Alt L1新旅程]]></title>
-        <id>https://www.web3sj.com/?p=107795</id>
-        <link href="https://www.web3sj.com/project/107795/"/>
-        <updated>2024-03-28T04:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Aptos 过去一周每月活跃账户数增至 200 万以上（来自 Aptos Exolorer），成为过去 3 个月每日活跃账户增长最快的非 EVM 链（来自@artemis__xyz），以及过去 30 天内每日活跃用户增长最快的协议（来自@tokenterminal）。]]></summary>
         <author>
             <name>Gao</name>
         </author>
