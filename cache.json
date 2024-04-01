@@ -118,7 +118,7 @@
           "description": "比特币矿工在区块高度837090上获得8.595 BTC奖励，其中gas费为2.345 BTC。 此前消息，mempool数据显示，比特币网络837090区块最高费用上升至10034 sats/字节，BRC-20将在该区块升级，引入5字节名称代币。",
           "link": "https://www.hellobtc.com/news/202403/21861.html",
           "publishedOn": "2024-03-31T12:04:00.000Z",
-          "wordCount": 311,
+          "wordCount": 307,
           "title": "比特币矿工在区块高度837090上获得8.595 BTC奖励",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -220,12 +220,62 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
+          "id": "https://www.techflowpost.com/newsletter/detail_44577.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，dYdX 创始人Antonio发布推文称，dYdX 的下一个版本将基于 L4 构建。\n\n此前消息，dYdX宣布LP Vault即将推出，将使用dYdX Chain帮助增强所有协议市场的流动性。",
+          "link": "https://www.techflowpost.com/newsletter/detail_44577.html",
+          "publishedOn": "2024-04-01T00:59:18.000Z",
+          "wordCount": 477,
+          "title": "dYdX 创始人：dYdX 的下一个版本将基于 L4 构建",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_44576.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据Token Unlocks统计，SUI、GAL、HFT 等本周将迎来一次性大额解锁，价值超1.66亿美元，其中：\n\n\n \n Acala 将于 4 月 1 日 15:00 解锁 2743 万枚 ACA，价值约 500 万美元，占流通供应量的 2.85%；\n \n \n \nSui 将于 4 月 3 日 8:00 解锁 3462 万枚 SUI，价值约 6508 万美元，占流通供应量的 2.81%；\n \n \n \nLiquity 将于 4 月 5 日 8:00 解锁 66.28 万枚 LQTY，价值约 102.8 万美元，占流通供应量的 0.69%；\n \n \n \nGalxe 将于 4 月 5 日 8:00 解锁 300 万枚 GAL，价值约 1451 万美元，占流通供应量的 3.34%；\n \n \n \nHashflow 将于 4 月 7 日 8:00 解锁 1362 万枚 HFT，价值约 600 万美元，占流通供应量的 3.56%；",
+          "link": "https://www.techflowpost.com/newsletter/detail_44576.html",
+          "publishedOn": "2024-04-01T00:46:45.000Z",
+          "wordCount": 590,
+          "title": "SUI、GAL、HFT等本周将迎来一次性大额解锁，价值超1.66亿美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_44575.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据coingecko数据显示，Solana生态DeFi项目出现普涨行情，其中：\n\nJito代币JTO 24小时涨幅达29.77%，现报价4.22美元；\n\nJupiter代币JUP 24小时涨幅达17.86%，现报价1.77美元；\n\nRaydium代币RAY 24小时涨幅达14.2%，现报价2.4173美元；\n\nPyth代币PYTH 24小时涨幅达10.5%，现报价1美元；",
+          "link": "https://www.techflowpost.com/newsletter/detail_44575.html",
+          "publishedOn": "2024-04-01T00:28:37.000Z",
+          "wordCount": 464,
+          "title": "Solana生态DeFi项目出现普涨行情，JTO、JUP等超涨10%",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_44574.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，区块链视频传输网络 Theta Labs宣布，Theta团队即将完成EdgeCloud开发的最后阶段，并准备好一系列开源AI模型，这些模型将在推出时得到支持。EdgeCloud将提供即时访问关键GPU资源的能力，包括NVIDIA A100s、V100s、T4s等GPU，并配备了仪表板和指标，以满足各种业务用例的需求。\n\nEdgeCloud将推出以下最受欢迎的AI模型：\n\n\n LLMs：Mistral-8x7B、Mistral-7B、Google Gemma-7B、Meta Llama-2–7B\n \n图像生成：Stable Diffusion XL（SDXL）Turbo、ControlNet\n \n文本到视频：Stable Video Diffusion\n \n语音识别：OpenAI Whisper\n \n代码生成：CodeLlama\n\n\n此前消息，Theta Network计划2024推出EdgeCloud混合云计算平台。",
+          "link": "https://www.techflowpost.com/newsletter/detail_44574.html",
+          "publishedOn": "2024-04-01T00:14:29.000Z",
+          "wordCount": 490,
+          "title": "Theta Labs正处于 EdgeCloud 开发的最后阶段，将支持多种AI模型",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_44573.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，根据会议记录显示，FTX破产财产计划在2024年底前开始偿还客户。\n\nFTX的破产程序分为美国特拉华州法院的11章破产和巴哈马FTX Digital的正式清算。两个实体已同意共同合作，确保债权人能够获得应有的价值。债权人可在FTX的索赔门户网站提交索赔，截止日期预计将延长至2024年6月。",
+          "link": "https://www.techflowpost.com/newsletter/detail_44573.html",
+          "publishedOn": "2024-04-01T00:03:32.000Z",
+          "wordCount": 455,
+          "title": "FTX破产财产计划2024年底前开始偿还债权人",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
           "id": "https://www.techflowpost.com/newsletter/detail_44572.html",
           "author": null,
           "description": "深潮 TechFlow 消息，Polkadot 生态区块链开发公司Polytope Labs宣布通过Polkadot Crowdloan完成260万美元融资，新资金将用于推动其跨链互操作性服务Hyperbridge的开发。\n\n此外，Polytope Labs还宣布以超27.3万枚DOT赢得波卡平行链#65插槽拍卖。",
           "link": "https://www.techflowpost.com/newsletter/detail_44572.html",
           "publishedOn": "2024-03-31T16:03:42.000Z",
-          "wordCount": 465,
+          "wordCount": 467,
           "title": "Polkadot 生态区块链开发公司Polytope Labs完成260万美元融资",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
