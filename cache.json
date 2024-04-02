@@ -1,6 +1,113 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=108333",
+          "author": "Gao",
+          "description": "Vitalik：L3并不能魔法般进一步提高吞吐量。Coinbase与Circle反对巴塞尔银行监管委员会的稳定币要求。Base协议负责人：已将Base gas限制增至500万。",
+          "link": "https://www.web3sj.com/news/108333/",
+          "publishedOn": "2024-04-02T11:18:59.000Z",
+          "wordCount": 882,
+          "title": "Web3世界日报（2024-4.2）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024040211161315.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108328",
+          "author": "Gao",
+          "description": "在加密货币领域，关于 L3 链的讨论日益增多。L3 链到底是被过度吹捧，还是真的具有某些优点呢？本文将就 L3 链的利与弊进行探讨。",
+          "link": "https://www.web3sj.com/news/108328/",
+          "publishedOn": "2024-04-02T10:54:43.000Z",
+          "wordCount": 994,
+          "title": "观点：L3几乎具有与L2相同的所有问题",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/5-1712036812051.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108316",
+          "author": "Gao",
+          "description": "有一张著名的图表展示了一家初创企业的生命周期：从首次被 TechCrunch 报道，到逐渐失去新鲜感，再到长期的「悲伤低谷」，最后跨越鸿沟，以数十亿美元的价格出售。",
+          "link": "https://www.web3sj.com/news/108316/",
+          "publishedOn": "2024-04-02T10:46:48.000Z",
+          "wordCount": 1042,
+          "title": "从摇篮到独角兽，以太坊公共物品融资的周期理论",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712054785558.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108309",
+          "author": "Gao",
+          "description": "据官方消息，Base 生态 Meme 项目 Degen 宣布推出低成本 Layer 3 区块链 Degen Chain，该网络采用 Arbitrum Orbit 和 AnyTrust DA 构建，结算层为 Base。Degen Chain 的原生 Gas 代币是 DEGEN。Syndicate 成为 Degen Chain 的 Layer 3 基础设施合作伙伴。消息一出，DEGEN 24 小时涨幅达 37%，现报价 0.02035，再次创下历史新高。",
+          "link": "https://www.web3sj.com/news/108309/",
+          "publishedOn": "2024-04-02T09:25:58.000Z",
+          "wordCount": 1120,
+          "title": "Base生态的meme热，蔓延到了Zora和Degen Chain上",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712049926735.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108301",
+          "author": "Gao",
+          "description": "坎昆升级后各大Layer2项目纷纷发布升级，与EIP4844进行兼容，在近一次Chainlink的报告中表示，L2 rollup的gas费用下降了99%。",
+          "link": "https://www.web3sj.com/show/108301/",
+          "publishedOn": "2024-04-02T08:45:54.000Z",
+          "wordCount": 787,
+          "title": "坎昆升级后的以太坊生态怎样了？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024040208413326.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108292",
+          "author": "Gao",
+          "description": "3 月 30 日凌晨，mfers 创始人 Sartoshi 宣布在 Base 链上发行自己的 MEME 币 mfercoin，包括 NFT 持有者和艺术家均可获得空投。$MFER 上线后价格伴随着热度飙升持续上涨，Dex Screener 数据显示，$MFER 从上线之初的 0.0000149 美元最高涨至 0.3213 美元，翻了超 2.1 万倍。",
+          "link": "https://www.web3sj.com/nftnews/108292/",
+          "publishedOn": "2024-04-02T06:03:17.000Z",
+          "wordCount": 1076,
+          "title": "多个老牌NFT发MEME币：集体演绎过山车行情，对NFT价格提振有限",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712037651503.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108276",
+          "author": "Gao",
+          "description": "DePIN（Decentralized Physical Infrastructure Networks，去中心化物理基础设施网络）是一个由 Messari 提出的术语，指的是那些汇集并为用户提供服务或资源的网络，最终匹配特定资源的供需。这个概念涵盖了一个非常广泛的范畴，可以分为物理基础网络和数字资源网络两大类。",
+          "link": "https://www.web3sj.com/depinnews/108276/",
+          "publishedOn": "2024-04-02T05:45:51.000Z",
+          "wordCount": 1117,
+          "title": "盘点5个近期值得关注的DePIN项目",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712036728813.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108271",
+          "author": "Gao",
+          "description": "随着以太坊进入 PoS 时代，质押比例和体量不断上升，ETH 及其 LST 成为了许多用户的稳健资产配置首选，同时也是许多协议的最底层资产之一。另一方面，各类 Layer 2 与新兴网络不断涌现，流动性和资产在主网与其他网络之间被割裂。",
+          "link": "https://www.web3sj.com/definews/108271/",
+          "publishedOn": "2024-04-02T05:37:25.000Z",
+          "wordCount": 988,
+          "title": "获币安、OKX双重扶持，一文读懂全链LSD协议StakeStone",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712036222380.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108254",
+          "author": "Gao",
+          "description": "Rollup-as-a-Service（RaaS）提供商的出现标志着这一领域的一个重要里程碑，简化了定制 Rollup 解决方案的部署。这一进步使项目能够在无需深入的区块链基础设施专业知识的情况下，利用 Rollup 的优势——定制性、可扩展性和效率。",
+          "link": "https://www.web3sj.com/project/108254/",
+          "publishedOn": "2024-04-02T04:20:15.000Z",
+          "wordCount": 1229,
+          "title": "详解龙头RaaS平台AltLayer：支持dApp开发者的集成和服务网络",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712031588623.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108248",
+          "author": "Gao",
+          "description": "根据 Illuvium 最新发布的路线图，该工作室计划在 4 月 15 日至 4 月 30 日开放 Private Beta4 的预注册；继而在 4 月 30 日至 5 月 28 日期间启动 Private Beta4，届时将有 1 万名幸运玩家有机会在测试网上体验游戏，并有机会获得首批空投积分",
+          "link": "https://www.web3sj.com/gamefinews/108248/",
+          "publishedOn": "2024-04-02T04:07:37.000Z",
+          "wordCount": 1093,
+          "title": "累计融资7200万美元，新一轮空投开启，Illuvium能否爆红？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/5-1712027192350.png"
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
