@@ -6,12 +6,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=108504",
+          "author": "Gao",
+          "description": "目前 Berachain 总共筹集了 1.11 亿美元，主网和空投计划预计于 2024 年第二季度上线。BERA 或将成为 2024 年最大规模的空投。加密 KOL 0xNobler 整理了与 Berachain 实现零成本的交互指南。",
+          "link": "https://www.web3sj.com/news/108504/",
+          "publishedOn": "2024-04-04T04:07:46.000Z",
+          "wordCount": 1001,
+          "title": "新公链Berachain交互指南：或将于Q2上线主网和空投",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712203652616.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108501",
+          "author": "Gao",
+          "description": "与比特币 ETF 相比，尤其是基于以太坊期货的 ETF，在规模和交易量方面，以太坊 ETF 相对较小。最大的以太坊期货 ETF 的资产管理规模（AUM）不到 1 亿美元，与某些比特币 ETF 相比显著较小。然而，值得注意的是，这代表了以太坊期货 ETF 中最大的 AUM，其他的 AUM 甚至更低，可以认为是微不足道的。",
+          "link": "https://www.web3sj.com/news/108501/",
+          "publishedOn": "2024-04-04T04:00:49.000Z",
+          "wordCount": 1037,
+          "title": "观点：SEC穷追不舍，以太坊现货ETF面临诸多困境",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712203224616.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108492",
+          "author": "Gao",
+          "description": "比特币将在 2024 年 4 月 18 日完成第 4 次减半，区块奖励将由 6.25 个比特币减少至 3.125 个，进一步减少比特币的产出和抛压。减半前，比特币年产出约为 33 万个，按照 65000 美元的价格计算，将给市场带来超过 200 亿美元的抛压。减半后，比特币每年抛压也将减少一半，也就是相当于减少 100 亿美元，有效缓解了比特币的抛售压力。",
+          "link": "https://www.web3sj.com/news/108492/",
+          "publishedOn": "2024-04-04T03:57:20.000Z",
+          "wordCount": 1096,
+          "title": "比特币减半你需要知道的6个Big Ideas",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712202991556.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108481",
+          "author": "Gao",
+          "description": "Zeus Network 希望通过一个开放的通信层连接 Solana 和 Bitcoin，该项目的主要目标是利用 Bitcoin 作为资产的力量，带到高性能的去中心化交易链——Solana 上。Zeus Network 的创建是为了克服不可靠的封装资产（如 soBTC）的挑战，以及缺乏用于交易的强大本土资产的问题。",
+          "link": "https://www.web3sj.com/news/108481/",
+          "publishedOn": "2024-04-04T03:48:26.000Z",
+          "wordCount": 1164,
+          "title": "读懂Zeus Network：将比特币的流动性带到Solana网络",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712202486160.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108473",
+          "author": "Gao",
+          "description": "去年 10 月，Lido 官方宣布，未来将不再支持 SOL 质押，并于 10 月 16 日开始不再支持新的 SOL 质押，节点运营商将从 11 月 17 日开始退出。2024 年 1 月 17 日，Lido 官方再次提醒，Lido 的 Solana 前端支持页面将于 2 月 4 日下线；此后，取消质押将只能通过命令行界面（CLI）进行——需要专业人士调出代码进行交互操作。但如今，智能合约的 Bug 阻止了所有人进行提款。",
+          "link": "https://www.web3sj.com/news/108473/",
+          "publishedOn": "2024-04-04T03:46:08.000Z",
+          "wordCount": 1131,
+          "title": "Lido SOL质押「暴雷」，SOL质押还有哪些更优选项？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712202350476.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=108460",
           "author": "Gao",
           "description": "比特币现货 ETF 昨日总净流入 3947 万美元，ARKB ETF 连续两日呈现净流出。灰度GBTC截至4月2日BTC持仓不足33万枚。彭博社：亚洲市场中代币明显波动或由追踪ETF资金流动的比特币算法导致。",
           "link": "https://www.web3sj.com/news/108460/",
           "publishedOn": "2024-04-03T12:40:54.000Z",
-          "wordCount": 965,
+          "wordCount": 988,
           "title": "Web3世界日报（2024-4.3）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024040312392940.jpg"
         },
@@ -21,7 +71,7 @@
           "description": "接着，Ethena 宣布第二季「Sats」活动 Epoch 1 已开启，用户可存入 USDe 赚取 Sats，Mantle 上新的 Pendle 池上限为 1 亿美元，并将获得额外 Eigenlayer 积分，ETH 主网上现有的 USDe Pendle 池上限也为 1 亿美元，现有用户向池内存入资金将获得 20% 的额外奖励。",
           "link": "https://www.web3sj.com/news/108440/",
           "publishedOn": "2024-04-03T07:13:36.000Z",
-          "wordCount": 1021,
+          "wordCount": 1043,
           "title": "ENA市值突破10亿美元，有人却担心它在制造下一个黑天鹅",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712128392671.png"
         },
@@ -31,7 +81,7 @@
           "description": "创新始终在边缘发生，并最终被现有机构采纳。因此，阻碍创新不可避免地会减少最终成熟的技术范围。即使中央银行对加密货币持怀疑态度（事实上他们确实如此），他们仍在以自己独特的背景利用经过实战考验的无许可世界的技术。如果美国政府在信息通信技术（ICT）领域扼杀创新，Fedwire 通信可能仍使用电传机和摩尔斯电码。",
           "link": "https://www.web3sj.com/news/108435/",
           "publishedOn": "2024-04-03T07:11:16.000Z",
-          "wordCount": 853,
+          "wordCount": 877,
           "title": "Paradigm：加密货币最大的怀疑论者却在采用EVM",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712128176413.png"
         },
@@ -41,7 +91,7 @@
           "description": "目前还没有关于 io.net 的代币经济学的信息，但作者认为就 R/R（风险回报率）而言，该代币是最有利可图的项目之一。下图为加密 KOL Aylo 关于 io.net 的空投规模和市值分析，值得参考和借鉴。",
           "link": "https://www.web3sj.com/project/108423/",
           "publishedOn": "2024-04-03T06:11:14.000Z",
-          "wordCount": 1013,
+          "wordCount": 1009,
           "title": "Solana生态4月份空投项目一览",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712124645583.png"
         },
@@ -51,59 +101,9 @@
           "description": "本篇 Bing Ventures 研究文章将以 GMX v2 为切入点，围绕 GMX 及其主要竞争对手，讨论去中心化衍生品市场的竞争格局演变和未来趋势。",
           "link": "https://www.web3sj.com/definews/108395/",
           "publishedOn": "2024-04-03T06:00:56.000Z",
-          "wordCount": 1534,
+          "wordCount": 1550,
           "title": "GMX v2及其竞争对手：颠覆去中心化衍生品市场的新浪潮",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712123961925.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108384",
-          "author": "Gao",
-          "description": "a16z 的《2023 年加密货币报告》中的一份引人注目的信息图支持了这一充满活力的复苏，展示了全球对加密货币的蓬勃兴趣。不仅仅是价格在上涨；新想法的涌入、初创企业的增加以及用户基础的扩大，自 2012 年以来的复合年增长率（CAGR）已经达到了 63% 到 84% 之间。",
-          "link": "https://www.web3sj.com/news/108384/",
-          "publishedOn": "2024-04-03T05:54:14.000Z",
-          "wordCount": 1231,
-          "title": "探索前沿：2024年最热门的加密货币叙事",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712123539196.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108374",
-          "author": "Gao",
-          "description": "就背景而言，波士顿咨询集团预计，到 2030 年，非流动资产的代币化将达到 16 万亿美元。虽然这一预测可能过于乐观，但很明显，代币化具有巨大的增长潜力。稳定币是现实世界资产的一个很好的例子，这些资产已经被代币化，并且已经找到适合市场的产品，其市值目前已超过 1500 亿美元。",
-          "link": "https://www.web3sj.com/news/108374/",
-          "publishedOn": "2024-04-03T05:40:19.000Z",
-          "wordCount": 1124,
-          "title": "RWA叙事投资指南：选择善于营销的项目，等待回调时机",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712122804179.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108366",
-          "author": "Gao",
-          "description": "比特币周二一度跌破 65,000 美元，日内最低回撤至 64,591.50 美元，截至美股收盘时段，价格小幅回升至 65,000 美元上方，整个加密货币市场在过去 24 小时内下跌了 3.9%，主流币种中，比特币 (-5.68%)、以太坊 (-6.43% ) 和狗狗币 (-10.33%) 领跌。",
-          "link": "https://www.web3sj.com/news/108366/",
-          "publishedOn": "2024-04-03T05:30:17.000Z",
-          "wordCount": 1034,
-          "title": "美国政府又卖币？价值20亿美元的比特币被转移，6.5万支撑「压力山大」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712122200537.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108352",
-          "author": "Gao",
-          "description": "比特币和以太坊调整后链上总交易额整体上涨了 59.3%，达到 5870 亿美元，其中比特币调整后链上交易额上涨了 59.5%，以太坊链上交易额涨幅则达到 59.1%。",
-          "link": "https://www.web3sj.com/news/108352/",
-          "publishedOn": "2024-04-03T03:24:09.000Z",
-          "wordCount": 958,
-          "title": "11张图解读三月加密市场：比特币矿工收入等多项链上指标创下历史新高",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712114620037.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108348",
-          "author": "Gao",
-          "description": "根据链上分析公司 Santiment 的数据，「鲸鱼」最近一直在快速积累稳定币供应。这里的「鲸鱼」的是持有至少 500 万美元 Crypto 资产的投资者。",
-          "link": "https://www.web3sj.com/news/108348/",
-          "publishedOn": "2024-04-03T03:02:48.000Z",
-          "wordCount": 892,
-          "title": "「鲸鱼」们为什么选择大量增持稳定币？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712113342835.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "美联储博斯蒂克：我仍预测今年将降息一次。如果经济发展如我预期的那样，我认为今年第四季度降息是合适的。",
           "link": "https://www.hellobtc.com/news/202404/21872.html",
           "publishedOn": "2024-04-03T14:46:00.000Z",
-          "wordCount": 307,
+          "wordCount": 312,
           "title": "美联储博斯蒂克：我仍预测今年将降息一次",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -225,7 +225,7 @@
           "description": "深潮 TechFlow 消息，据 Dune 数据显示，ENA 代币申领数量超 2.5 亿枚，当前为 250,368,851 枚，占比约 33%。\n\n此外，未申领数量为 499,631,149 枚，已申领代币的独立钱包数量达到 24,073 个。",
           "link": "https://www.techflowpost.com/newsletter/detail_44850.html",
           "publishedOn": "2024-04-04T01:20:43.000Z",
-          "wordCount": 520,
+          "wordCount": 521,
           "title": "数据：逾 2.5 亿枚 ENA 已被领取，约占空投总量 33%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -235,7 +235,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，加密文化平台及社交表达层 Sofamon 宣布完成种子轮融资，具体金额暂未透露，Polychain、Seed Club Ventures、Inception Capital、Cygaar等参投，本轮融资将用于帮助推动加密货币社会表达的新层面。",
           "link": "https://www.techflowpost.com/newsletter/detail_44849.html",
           "publishedOn": "2024-04-04T01:10:26.000Z",
-          "wordCount": 499,
+          "wordCount": 500,
           "title": "加密文化平台及社交表达层 Sofamon 宣布完成种子轮融资，Polychain 等参投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -245,7 +245,7 @@
           "description": "深潮 TechFlow 消息，Wormhole 联合创始人 Robinson Burkey 的 X 账号被黑，曾发布带有钓鱼链接的推文，请用户在未获得官方确认的情况下，暂时切勿点击该账号发布的任何链接。",
           "link": "https://www.techflowpost.com/newsletter/detail_44848.html",
           "publishedOn": "2024-04-04T00:43:55.000Z",
-          "wordCount": 501,
+          "wordCount": 502,
           "title": "Wormhole 联创 X 账号被黑，切勿点击相关链接",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -255,7 +255,7 @@
           "description": "深潮 TechFlow 消息，据 Coindesk 报道，Galaxy Digital 在近期发布给投资者的电子邮件中表示，目前正在组建一只 1 亿美元的新基金，该基金名为 Galaxy Ventures Fund I, LP，目标是在未来三年内投资 30 多家包括金融应用程序、软件基础设施和加密协议构建开发在内的加密初创公司，资金投入门槛为 100 万美元。\n\n根据该电子邮件，Galaxy Digital 在过去六年中向 100 多个项目投资了 2 亿美元，但本次建立新基金是 Galaxy Digital 第一次接受外部资本的投资。",
           "link": "https://www.techflowpost.com/newsletter/detail_44847.html",
           "publishedOn": "2024-04-04T00:30:50.000Z",
-          "wordCount": 541,
+          "wordCount": 542,
           "title": "Galaxy Digital 正寻求组建 1 亿美元的新基金，专注投资于加密初创公司",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -265,7 +265,7 @@
           "description": "深潮 TechFlow 消息，据 OKLink 数据显示，BCH 已于北京时间今日凌晨完成本次区块奖励减半事件，减半后区块奖励为 3.125 BCH。\n\nBCH (Bitcoin Cash) 是基于比特币代码的一个去中心化电子现金系统，旨在提供更快速、更便宜的交易。BCH 通过增加区块大小，降低交易费用，并提高交易速度来改进比特币现有的不足。BCH 采用了与比特币不同的挖矿算法，提供更好的去中心化程度和更高的安全性。",
           "link": "https://www.techflowpost.com/newsletter/detail_44846.html",
           "publishedOn": "2024-04-04T00:22:17.000Z",
-          "wordCount": 504,
+          "wordCount": 505,
           "title": "BCH 已于今日凌晨完成区块奖励减半",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -275,7 +275,7 @@
           "description": "深潮 TechFlow 消息，跨链通信层 Zeus Network以1亿美元估值完成 800 万美元融资，Mechanism Capital 领投，OKX Ventures、Animoca Ventures、Big Brain Holdings、Lemniscap 和 The Spartan Group、Solana 联合创始人 Anatoly Yakovenko、Stacks联合创始人 Muneeb Ali 和 Mechanism Capital 创始人 Andrew Kang等参投。\n\nZeus Network是建立在Solana虚拟机上的Solana跨链互操作层，Zeus 网络目前处于测试网阶段，预计将在 6 月或 7 月推出主网。",
           "link": "https://www.techflowpost.com/newsletter/detail_44845.html",
           "publishedOn": "2024-04-03T16:05:14.000Z",
-          "wordCount": 561,
+          "wordCount": 562,
           "title": "跨链通信层 Zeus Network完成 800 万美元融资，Mechanism Capital 领投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
