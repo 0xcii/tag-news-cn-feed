@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=108611",
+          "author": "Gao",
+          "description": "Web2 和 Web3 游戏的一个根本区别在于，在 Web3 游戏中，游戏资产的所有权记录在区块链上，而不是记录在由游戏制造商控制的、封闭的中心化数据库中，它允许玩家买卖资产，它还允许其他游戏查看玩家拥有哪些游戏资产。",
+          "link": "https://www.web3sj.com/gamefinews/108611/",
+          "publishedOn": "2024-04-06T11:06:20.000Z",
+          "wordCount": 1003,
+          "title": "对Web3游戏设计理念的一些思考",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712401565239.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108603",
+          "author": "Gao",
+          "description": "2023 年的 Ordinals 热潮带来了比特币生态的大爆发，其中尤以比特币 L2 最为拥挤，导致上冠以「比特币 L2」的项目多如过江之鲫，但「比特币 +L2」到底要解决什么问题，对很多人来说却并不是一个容易分清的问题。",
+          "link": "https://www.web3sj.com/news/108603/",
+          "publishedOn": "2024-04-06T11:00:12.000Z",
+          "wordCount": 1348,
+          "title": "Rollux的L2终局野望：如何擘画基于比特币安全性的EVM超级链生态？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712400959135.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=108601",
+          "author": "Gao",
+          "description": "通过观察市场趋势和预测波动性，我们可以设置上下边界，卖出两个接近市场价格的看涨期权，同时买入一个较低和一个较高的看涨期权，以获得对称的蝴蝶形状。这种策略可以限制损失并在波动性较低的市场中获得不错的利润。本视频将向您展示如何设置蝶式价差的多腿仓位，选择到期日。如果您想在低波动市场中获得高回报率，蝶式差价期权策略可能是一种值得尝试的选择。",
+          "link": "https://www.web3sj.com/show/108601/",
+          "publishedOn": "2024-04-06T10:52:51.000Z",
+          "wordCount": 787,
+          "title": "【SignalPlus大学】第八课 利用蝶式差价策略在低波动市场中获利",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/01/1704430124560.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=108575",
           "author": "Gao",
           "description": "比特币与以太坊的价格之比暗示，市场对加密货币的风险偏好可能会减弱。灰度旗下两支基金已将ATOM和ADA从持仓范畴中删除。Ethena已支持比特币作为USDe抵押资产。",
           "link": "https://www.web3sj.com/news/108575/",
           "publishedOn": "2024-04-05T11:31:51.000Z",
-          "wordCount": 863,
+          "wordCount": 871,
           "title": "Web3世界日报（2024-4.5）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024040511303088.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "如果您是加密货币投资者，您需要注意 1099-DA 数字资产表格。从 2025 纳税年度开始，美国国税局将要求数字资产经纪人向参与某些涉及数字资产（例如加密货币和 NFT）交易的投资者发送此表格。",
           "link": "https://www.web3sj.com/news/108566/",
           "publishedOn": "2024-04-05T03:39:40.000Z",
-          "wordCount": 965,
+          "wordCount": 972,
           "title": "市场、制度与货币：社会性激励的新方法",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712288362854.png"
         },
@@ -31,7 +61,7 @@
           "description": "3 月 28 日，以太坊的验证者数量中达到 100 万的重要里程碑。社区的讨论点围绕着验证者集的增长，尤其在 Shapella 升级使以太坊质押可以灵活撤出之后，这是以太坊向更可扩展和节能网络发展的关键。但是，随着验证者数量的增加，每个验证者都必须独立下载最新数据并在受约束的时间范围内验证状态变化。",
           "link": "https://www.web3sj.com/news/108561/",
           "publishedOn": "2024-04-05T03:28:06.000Z",
-          "wordCount": 951,
+          "wordCount": 970,
           "title": "以太坊验证者数量超 100 万，「彩虹质押」如何缓解质押中心化问题？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712287656147.png"
         },
@@ -41,7 +71,7 @@
           "description": "如果仔细研究 DAI 的风险，就会发现一个新问题，即 MakerDAO 正在免费铸造 DAI，但代价却由用户来承担——它们发行了 1 亿枚 DAI，而用户只能通过抵押 USDe/sUSDe 来借出对应的 DAI，这对用户来说成本高昂，不过对 MakerDAO 来说利润巨大：1 亿枚 DAI 的年收益率高达 66%！",
           "link": "https://www.web3sj.com/news/108535/",
           "publishedOn": "2024-04-04T12:45:35.000Z",
-          "wordCount": 1124,
+          "wordCount": 1143,
           "title": "Maker/USDe「双赢」背后，一场收割贪婪的牛市游戏？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712234706348.png"
         },
@@ -51,7 +81,7 @@
           "description": "大多数加密货币视频都很差劲且完全无关紧要。人们的价格目标并不重要，只要你有自己的退出目标就行了。",
           "link": "https://www.web3sj.com/transaction/108532/",
           "publishedOn": "2024-04-04T12:36:50.000Z",
-          "wordCount": 841,
+          "wordCount": 862,
           "title": "提高加密投资收益的7个建议",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712234193541.png"
         },
@@ -61,7 +91,7 @@
           "description": "市场将这种快速上涨归因于投资者大量涌入以 AI 为核心概念的代币市场，Worldcoin（WLD）、Livepeer（MPT）和 Arkham（ARKM）在内的多种代币价格均在过去几个月内暴涨。3 月初，WLD 交易价格上涨至 7 美元，以 2023 年发行价格计算，WLD 价格涨幅逾 350%。LPT 和 ARKM 自发行以来也分别实现了近 140% 和超过 100% 的涨幅。",
           "link": "https://www.web3sj.com/ainews/108528/",
           "publishedOn": "2024-04-04T12:31:29.000Z",
-          "wordCount": 1078,
+          "wordCount": 1085,
           "title": "AI类代币价格飙升：是虚妄炒作还是未成的通天塔？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712233812790.png"
         },
@@ -71,39 +101,9 @@
           "description": "比特币现金（BCH）减半在网络上完成。贝莱德IBIT累计净流入超143亿美元，GBTC累计净流出超152亿美元。VanEck预测以太坊第二层网络到2030年将超过1万亿美元，但对其中一些网络的长期前景“普遍看跌”。",
           "link": "https://www.web3sj.com/news/108523/",
           "publishedOn": "2024-04-04T11:13:45.000Z",
-          "wordCount": 907,
+          "wordCount": 900,
           "title": "Web3世界日报（2024-4.4）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024040411053538.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108504",
-          "author": "Gao",
-          "description": "目前 Berachain 总共筹集了 1.11 亿美元，主网和空投计划预计于 2024 年第二季度上线。BERA 或将成为 2024 年最大规模的空投。加密 KOL 0xNobler 整理了与 Berachain 实现零成本的交互指南。",
-          "link": "https://www.web3sj.com/news/108504/",
-          "publishedOn": "2024-04-04T04:07:46.000Z",
-          "wordCount": 968,
-          "title": "新公链Berachain交互指南：或将于Q2上线主网和空投",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712203652616.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108501",
-          "author": "Gao",
-          "description": "与比特币 ETF 相比，尤其是基于以太坊期货的 ETF，在规模和交易量方面，以太坊 ETF 相对较小。最大的以太坊期货 ETF 的资产管理规模（AUM）不到 1 亿美元，与某些比特币 ETF 相比显著较小。然而，值得注意的是，这代表了以太坊期货 ETF 中最大的 AUM，其他的 AUM 甚至更低，可以认为是微不足道的。",
-          "link": "https://www.web3sj.com/news/108501/",
-          "publishedOn": "2024-04-04T04:00:49.000Z",
-          "wordCount": 1028,
-          "title": "观点：SEC穷追不舍，以太坊现货ETF面临诸多困境",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712203224616.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=108492",
-          "author": "Gao",
-          "description": "比特币将在 2024 年 4 月 18 日完成第 4 次减半，区块奖励将由 6.25 个比特币减少至 3.125 个，进一步减少比特币的产出和抛压。减半前，比特币年产出约为 33 万个，按照 65000 美元的价格计算，将给市场带来超过 200 亿美元的抛压。减半后，比特币每年抛压也将减少一半，也就是相当于减少 100 亿美元，有效缓解了比特币的抛售压力。",
-          "link": "https://www.web3sj.com/news/108492/",
-          "publishedOn": "2024-04-04T03:57:20.000Z",
-          "wordCount": 1075,
-          "title": "比特币减半你需要知道的6个Big Ideas",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712202991556.png"
         }
       ]
     },
@@ -219,126 +219,6 @@
       "feedUrl": "https://rsshub.app/techflowpost/express",
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44980.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，4月6日，OKX 香港执行董事 Frank在受邀出席“2024香港Web3嘉年华”主论坛的圆桌论坛时表示，随着技术创新的进步，RWA 的发展显然是趋势，人们可以借助技术进一步提高效率并节约相关成本。\n\n此外，在提及 RWA 平台如何应对风险因素时。 Frank 认为，对于 RWA 平台来说，实施各种强有力的措施以减轻风险、增强投资者信心，为 RWA 赛道的长期稳定发展来讲非常重要。平台应具备强大的安全基础设施、智能合约审计、自我监管（如 POR）、符合监管要求、完全透明、适当的投资者沟通、持续监控和事件响应、保险覆盖等。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44980.html",
-          "publishedOn": "2024-04-06T08:45:11.000Z",
-          "wordCount": 490,
-          "title": "OKX 香港执行董事 Frank：RWA 的发展是趋势",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44979.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Animoca Brands 旗下元宇宙项目 Mocaverse宣布，由 Animoca 支持的工作室 Param Labs正在构建一个包括KIRAVERSE在内的下一代游戏生态系统，现已正式加入 Mocaverse 合作伙伴网络，并向 Moca NFT 持有者独家空投 330万枚 PARAM，用户只需在截止日期前注，330万枚PARAM 将平均分配给所有符合条件的参与者（1个 NFT = 1个名额），无最高上限/钱包。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44979.html",
-          "publishedOn": "2024-04-06T08:39:10.000Z",
-          "wordCount": 498,
-          "title": "Mocaverse：Param Labs将向Moca NFT持有者空投330万枚PARAM",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44978.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，万向区块链实验室和HashKey Capital联合举办的Web3.0创新孵化平台Future3 Campus第三期正式启动。此次孵化营由亚马逊云科技提供独家技术支持。\n\n9支优秀团队将接受为期3个月的集中孵化和6个月的长尾追踪。他们将获得一站式的Web3创业项目辅导与资源支持，包括技术指导、资源对接、宣传曝光、市场活动和融资服务等。\n\n入营团队包括：\n\n\n \n CogniXphere：AI驱动的去中心化Web3用户偏好数据网络，提供情感AI侣和专业的Web3 AI助手，帮助Web3产品和项目实现精准营销。\n \n \n \nDaren Market：首个由AI驱动的链上服务市场，无缝连接全球顶尖人才与商家。\n \n \n \nJoJoWorld：Web3中的AIGC应用，通过文生成3D的去中心化AI网络帮助全球用户探索3D世界。\n \n \n \nKaisar Network：Layer1区块链，专为去中心化计算和人工智能而设计和优化。\n \n \n \nMasa Network：旨在打造世界上最大的去中心化AI数据网络，用户可以通过贡献个人数据训练AI，从而获得代币奖励。\n \n \n \nPond：正在开发最大的链上数据的图AI模型，该模型将作为加密基础模型用于链上安全、社交等场景中。\n \n \n \nQuestflow：AI自动化工作台，让用户通过自然语言描述，对多AI数字员工进行调度，自动化完成跨平台的任务，并且和团队成员在工作流中完成多人协作。\n \n \n \nRIDO：AI服务的Web3个人数据层，致力于帮助用户通过数据挖掘和数据交易实现个人数据中的价值。\n \n \n \nXmultiverse：由分布式人工智能GPU驱动的下一代DePIN云计算协议，专为去中心化企业级算力集群而生。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44978.html",
-          "publishedOn": "2024-04-06T07:37:25.000Z",
-          "wordCount": 482,
-          "title": "Future3 Campus公布9支入选第三期孵化营团队，包括Masa、Kaisar等",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44977.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据币安行情据显示，ENA再次突破1美元，现报价1.1美元，24小时涨幅达19.22%。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44977.html",
-          "publishedOn": "2024-04-06T07:21:04.000Z",
-          "wordCount": 456,
-          "title": "ENA再次突破1美元，24小时涨幅达19.22%",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44976.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据币安行情数据显示，PENDLE突破7.2美元，创历史新高，24小时涨幅达13.53%，现报价7.11美元。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44976.html",
-          "publishedOn": "2024-04-06T07:19:00.000Z",
-          "wordCount": 456,
-          "title": "PENDLE突破7.2美元，创历史新高",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44975.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，4月6日，OKX总裁Hong受邀出席了“2024香港Web3嘉年华”主论坛，并发表了“Responsible Innovation”主题演讲。Hong在演讲中表示，在过去两年多的发展过程中，除了作为创新者、企业家和建设者带来的最佳应用之外，我们还正在从受监管行业中进行借鉴和学习，通过采用这些行业的最佳实践来增强透明度、责任和权利。我们首先通过技术来增加透明度和责任。自2022年11月起，我们引领了行业内现广泛采用的储备金证明计划（POR），并将其构建成按月运行的自动化技术解决方案。我们相信这是行业自我监管的重要一步，利用技术带来更多的透明度，满足用户对中心化平台所能符合传统金融审计标准的期待。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44975.html",
-          "publishedOn": "2024-04-06T07:17:12.000Z",
-          "wordCount": 458,
-          "title": "OKX总裁Hong：POR是行业自我监管的重要一步，技术将带来更多的透明度",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44974.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Pantera Capital旗下的Liquid Token基金在第一季度取得了66%的收益，主要受益于Solana等代币的推动。与此同时，基金大幅减持了比特币和以太坊代币的敞口。除Solana外，RBN、Aevo和STX等数字资产的涨幅也为基金业绩做出了贡献。基金经理表示，由于美国批准现货ETH ETF的可能性降低，基金降低了与以太坊区块链相关代币的投资。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44974.html",
-          "publishedOn": "2024-04-06T07:15:57.000Z",
-          "wordCount": 465,
-          "title": "Pantera Capital旗下加密基金Q1获得66%的收益，主要受益于Solana等代币的推动",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44973.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，MakerDAO 联合创始人 Rune Christensen 警告称，如果欧盟要求DeFi前端获得运营许可证，可能会引发潜在的混乱。他表示，这将使得欧盟的DeFi接入对于技术不太精通的用户变得困难，甚至可能导致欧洲DeFi进入\"石器时代\"。然而，其他人指出这一决定可能源自于2023年金融行动特别工作组（FATF）的指南，并呼吁国家监管机构谨慎对待并可能选择不盲目遵循这些规定。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44973.html",
-          "publishedOn": "2024-04-06T07:14:15.000Z",
-          "wordCount": 464,
-          "title": "MakerDAO联创：如果欧盟要求DeFi前端获得运营许可证，可能会引发潜在的混乱",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44972.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Blast生态Meme项目Pacmoon宣布已销毁20%的PAC代币，旨在奖励早期支持者，其中包括销毁在Airdrop 1和Airdrop 2中无人认领的代币。\n\n未来将有2.7亿枚PAC作为奖励分配给社区，而Pacmoon财库持有约1.4亿枚PAC。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44972.html",
-          "publishedOn": "2024-04-06T07:08:16.000Z",
-          "wordCount": 467,
-          "title": "Blast生态Meme项目Pacmoon：仍有 2.7 亿PAC分配给未来的社区奖励",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44971.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，4月6日，OKX总裁Hong受邀出席了“2024香港Web3嘉年华”主论坛，并发表了“Responsible Innovation”主题演讲。Hong表示，作为一个中心化平台，我们将继续采用先进的技术手段，确保与用户、合作伙伴、监管机构及主要利益相关者保持透明，并将其作为自身的重要责任。\n\n我们关键的全球战略之一就是确保我们是透明的、负责任的，并且为我们的客户和利益相关者提供相关权限，从而在当地更好地服务和建设。香港对我们来说是一个具有重要战略意义的地点，我们很荣幸成为香港Web3生态的一部分，我们也很荣幸可以和很多合作伙伴、利益相关者、立法者一起建设香港Web3生态。我们将坚持本地化以融入香港Web3生态并做出贡献，以便我们能够长期投资并保持合规。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44971.html",
-          "publishedOn": "2024-04-06T07:05:38.000Z",
-          "wordCount": 459,
-          "title": "OKX总裁Hong：我们将坚持本地化以融入香港Web3生态并做出贡献",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44970.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，dYdX Ops SubDAO 在 X 平台发布通知，因部署 dYdX Chain v4.0 软件升级，预计 4 月 8 日 16:00 - 17:00 之间网络会出现延迟和潜在宕机情况。\n\n提醒使用 tmkms 或 Horcrux 的 dYdX Chain 验证者需要更新到最新版本。该版本升级将对协议和网络产生多方面影响。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44970.html",
-          "publishedOn": "2024-04-06T07:04:41.000Z",
-          "wordCount": 508,
-          "title": "dYdX Chain预计因v4.0软件升级，将在4月8日下午4至5点之间出现网络延迟/宕机情况",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_44969.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Su Zhu 发布推文表示，其已出售持有的 SOL，并在 3300 美元价位添加了 ETH 头寸。\n\n据悉，昨日 Su Zhu 发文称在 68000 美元价位出售了所持 BTC。",
-          "link": "https://www.techflowpost.com/newsletter/detail_44969.html",
-          "publishedOn": "2024-04-06T07:00:48.000Z",
-          "wordCount": 486,
-          "title": "Su Zhu：已出售SOL，并在3300美元价位添加ETH头寸",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
         {
           "id": "https://www.techflowpost.com/newsletter/detail_44968.html",
           "author": null,
