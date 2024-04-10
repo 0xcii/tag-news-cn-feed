@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-10T06:17:38.294Z</id>
+    <id>urn:2024-04-10T07:13:58.092Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-10T06:17:38.294Z</updated>
+    <updated>2024-04-10T07:13:58.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[如何用Signalplus快捷的构建期权策略]]></title>
+        <id>https://www.web3sj.com/?p=108976</id>
+        <link href="https://www.web3sj.com/transaction/108976/"/>
+        <updated>2024-04-10T06:41:04.000Z</updated>
+        <summary type="html"><![CDATA[我发现Signalplus 能完美的解决这个问题，通过策略面板非常容易构建出常见的策略组合，对新手非常友好，再次让我提起了继续学习的兴趣。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grass已识别并剔除750万个虚假账户，建议不要同时使用Whales Market等产品]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45266.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45266.html"/>
+        <updated>2024-04-10T06:33:44.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Grass 社区贡献者整理了最新一次社区电话会议的内容摘要，表示 Grass 已经识别并剔除了 750 万个虚假账户，并且真实用户数量已达 180 万个。未来 Grass 将继续通过多项措施来检测女巫行为并剔除相关账户，建议用户不要在使用 Grass 的情况下使用 Whales Market 等产品。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某鲸鱼过去4天积累66.8万枚PENDLE，价值约449万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45265.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45265.html"/>
+        <updated>2024-04-10T06:28:08.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据Scopescan监测，某新建鲸鱼钱包地址过去 4 天内从Binance累计达到 66.8万枚PENDLE，价值约449 万美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celo通过“使用USDT来支付交易费用”的提案]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45264.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45264.html"/>
+        <updated>2024-04-10T06:04:07.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Celo通过治理提案，批准使用美元挂钩的稳定币USDT来支付交易费用，以简化用户的交易体验。
+
+该提案称赞此决定的好处，指出使用USDT作为燃气代币可以简化新用户接入Celo网络的流程，并且强调USDT在加密市场中的稳定性和深度流动性使其成为支付燃气费的可行稳定币。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandora推出Box协议，旨在支持整个404生态系统]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45263.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45263.html"/>
+        <updated>2024-04-10T05:40:36.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Pandora宣布推出Box协议，旨在支持整个404生态系统，为创作者和用户提供独特功能。
+
+他们将在未来分享更多相关信息，这是他们对一个不仅让404工作，而且让整个生态系统蓬勃发展的平台的愿景。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX 已上线 ZEUS 1-50 倍 U 本位永续合约交易]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45262.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45262.html"/>
+        <updated>2024-04-10T05:16:51.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据欧易OKX官方宣布，OKX 现在已上线 ZEUS 1-50 倍 U 本位永续合约交易。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[足额抵押的半中心化稳定币USDe会带来哪些潜在风险？]]></title>
         <id>https://www.web3sj.com/?p=108957</id>
@@ -13,6 +77,16 @@
         <summary type="html"><![CDATA[另一个例子是 DAI，当 DAI 的抵押物为 100% 的链上资产时，DAI 属于非中心化托管稳定币，但引入 RWA 以后，部分抵押物事实上是由现实实体控制的，DAI 转变为中心化和非中心化混合托管的稳定币。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomic与Babylon合作推出比特币流动质押代币stBTC]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45261.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45261.html"/>
+        <updated>2024-04-10T05:03:58.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Nomic团队与比特币质押协议Babylon合作推出了比特币流动质押代币（LST）stBTC。用户可以通过Babylon将比特币质押到Nomic，作为奖励，用户将获得NOM和可兑换比特币的nBTC。这一举措为比特币DeFi提供了更实用的解决方案。随着创新项目stBTC的推出，比特币DeFi有望与以太坊DeFi竞争。Babylon让BTC持有者通过在权益证明区块链上质押资产来获得奖励，该平台的首个测试网已于今年2月28日推出。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -557,16 +631,6 @@ Jolt 将利用 SNARK，为 EVM 兼容的汇总提供框架。团队表示，Jolt
         <link href="https://www.web3sj.com/news/108893/"/>
         <updated>2024-04-09T10:41:03.000Z</updated>
         <summary type="html"><![CDATA[Vitalik：EIP-4844为未来通过DAS扩容奠定基础，未来DAS可容纳128 blobs。Tether 2023年净利润达62亿美元。美 SEC 推迟对 Bitwise 和灰度比特币现货 ETF 期权交易申请做出决议。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅析Tensor：TNSR能否延续Solana生态的造富奇迹]]></title>
-        <id>https://www.web3sj.com/?p=108885</id>
-        <link href="https://www.web3sj.com/nftnews/108885/"/>
-        <updated>2024-04-09T10:35:56.000Z</updated>
-        <summary type="html"><![CDATA[2023 年 3 月，Tensor 完成了 300 万美元的融资，该轮融资由 Placeholder 领投，Solana Ventures、Alliance DAO、Big Brain Holdings 以及 Solana 的两位联合创始人 Anatoly Yakovenko 和 Raj Gokal 等参投。]]></summary>
         <author>
             <name>Gao</name>
         </author>
