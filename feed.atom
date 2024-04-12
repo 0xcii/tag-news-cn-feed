@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-12T04:16:17.303Z</id>
+    <id>urn:2024-04-12T05:14:55.787Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-12T04:16:17.303Z</updated>
+    <updated>2024-04-12T05:14:55.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[波动性下降，比特币盘整至7万美元以上]]></title>
+        <id>https://www.web3sj.com/?p=109129</id>
+        <link href="https://www.web3sj.com/transaction/109129/"/>
+        <updated>2024-04-12T04:22:03.000Z</updated>
+        <summary type="html"><![CDATA[比特币基本在 70,000 美元附近盘整，比推终端数据显示，周四比特币的交易区间为 69,560 美元至 71,310 美元，多头和空头均未占据上风。截至撰写本文时，比特币交易价格为 70,197 美元，24 小时涨幅 1%。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer第一批AVS能提供哪些真实用例？]]></title>
+        <id>https://www.web3sj.com/?p=109123</id>
+        <link href="https://www.web3sj.com/project/109123/"/>
+        <updated>2024-04-12T04:16:46.000Z</updated>
+        <summary type="html"><![CDATA[AVS 才是 EigenLayer 协议能否真的具有实用性和安全性的最终体现。而此前的这些 Restaking 协议（Renzo/Puffer 等）或者流动性再质押代币，只是这个生态的起步和吸引流动性的手段之一。此前更多是通过激励供给，让更多 ETH 进入 Restaking 生态并调动更多节点，而 AVS 才有潜力释放需求，才能为 Crypto 和去中心化网络提供更多价值。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitalik为什么看好ZK硬件加速？]]></title>
         <id>https://www.web3sj.com/?p=109119</id>
@@ -13,44 +33,6 @@
         <summary type="html"><![CDATA[而在本次大会上，Vitalik 对以太坊未来的进展给出了明确的建议。在主旨演讲《Reaching the Limits of Protocol Design》中，Vitalik 积极展望了 ASIC 芯片的作用，借助 ASIC 芯片进行 ZK 计算的硬件加速，可以将以太坊的效率的安全提升到全新的水平。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1intro将于4月14日进行INTRO LBP公开发售，40% INTRO总供应量将分配给生态系统/激励措施]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_45431.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_45431.html"/>
-        <updated>2024-04-11T16:16:12.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，基于 Solana 的流动性引导平台1intro宣布将于4月14日23点进行$INTRO LBP 公开发售，将持续72 小时，将提供2 亿$INTRO (20%总供应量）。
-
-此外，1intro还公布其代币经济学，总供应量为10亿枚，公开发售为2.5 亿，Bootstrapping为15%（16 个月内归属）；团队为10%（1 年悬崖，12 个月归属）；生态系统/激励措施为40%（每月解锁 5%）； 保留10%]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pepe 永续期货将上线Coinbase国际站和Coinbase Advanced]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_45430.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_45430.html"/>
-        <updated>2024-04-11T16:04:09.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Coinbase International Exchange 和 Coinbase Advanced 将增加对 Pepe 永续期货的支持。
-
-1000PEPE-PERP 市场将于 2024 年 4 月 18 日 UTC 时间上午 9:30 或之后开始开放。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainlink推出基于CCIP的跨链应用程序Transporter]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_45429.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_45429.html"/>
-        <updated>2024-04-11T16:02:29.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Chainlink 宣布推出由Chainlink CCIP支持的超安全和直观的应用程序Transporter，可以让用户在不同的区块链网络之间桥接代币和消息。
-
-用户可以在多个区块链上桥接支持的代币，包括ETH、USDC和LINK等。
-
-Transporter的三个核心优势包括Chainlink的5级安全、实时跟踪和优越的用户体验。用户可以放心使用Transporter进行跨链转账，而且还能享受到24/7的客户支持和灵活的费用选择。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -184,26 +166,6 @@ Transporter的三个核心优势包括Chainlink的5级安全、实时跟踪和�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日内跌幅超20%，Arkham（ARKM）团队套现砸盘？]]></title>
-        <id>https://www.web3sj.com/?p=109022</id>
-        <link href="https://www.web3sj.com/ainews/109022/"/>
-        <updated>2024-04-11T03:43:38.000Z</updated>
-        <summary type="html"><![CDATA[在官方介绍中，Arkham 将自己称为「全球首个链上情报交易所」，为用户提供了一个名为 Arkham Intel Exchange 的市场供链上情报信息进行流通交易，并使用 AI 驱动的算法地址匹配引擎。此外，官方称 Arkham 的投资者之一是不具名的 OpenAI 的创始人（社区解读是 Sam Altman），深度绑定 AI 概念。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港或在四月批准现货BTC ETF，有望领跑亚洲]]></title>
-        <id>https://www.web3sj.com/?p=109019</id>
-        <link href="https://www.web3sj.com/news/109019/"/>
-        <updated>2024-04-11T03:25:31.000Z</updated>
-        <summary type="html"><![CDATA[香港 Crypto 资产财富管理公司 Metalpha 的首席执行官 Adrian Wang 认为，这可能会为香港吸引新的全球投资，并将 Crypto 资产的采用率提升到新的高度。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[白话区块链早报：美SEC对Uniswap Labs发出警告，或将采取执法行动]]></title>
         <id>https://www.hellobtc.com/news/202404/21909.html</id>
         <link href="https://www.hellobtc.com/news/202404/21909.html"/>
@@ -263,6 +225,676 @@ Transporter的三个核心优势包括Chainlink的5级安全、实时跟踪和�
         <summary type="html"><![CDATA[美国参议员Marsha Blackburn在周二举行的比特币政策峰会上表示，比特币有很多吸引我的地方，比特币允许个人享有自由和隐私，此外，比特币的去中心化特性，没有政府干预，对人们来说也很重要。这位参议员指出，她  多年来一直致力于消费者权益和消费者保护问题 ，并强调比特币  是一个非常好的可靠选择 ，随着我们向前迈进，人们对比特币的了解越来越多，也越来越习惯使用比特币，日常生活中将会有更多的交易接受比特币作为支付方式。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STEPN正在向用户分发1亿个“FSL”积分，价值约3000万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45292.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45292.html"/>
+        <updated>2024-04-10T11:11:37.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据The Block报道，STEPN将向用户空投总价值3000万美元的GMT代币奖励。
+
+Stepn正在向用户分发1亿个“FSL”积分，可通过Stepn市场进行“一比一兑换GMT 代币”。GMT代币当前的交易价格约为0.30美元，因此Stepn的积分分发价值约为3000万美元。
+
+Stepn首席执行官Shiti Manghani表示，今年的空投是有史以来最大的。他还表示，空投对象包括持有其NFT的用户和Genesis持有者。
+
+尽管空投已经开始，但Stepn此前并未公布分发规模。该公司表示，空投的下一阶段将于周三开始。
+
+Stepn表示，FSL积分还可以提高用户获得独家奖品的机会。
+
+此前消息，STEPN将向符合条件的Genesis 持有者空投FSL积分，可1:1兑换GMT。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Band Protocol集成Coreum，简化Cosmos生态链间RWA的代币化]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45291.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45291.html"/>
+        <updated>2024-04-10T10:52:01.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Band Protocol宣布与Coreum进行整合，以搭建 RWA和企业应用案例与 Cosmos 生态系统之间的桥梁。
+
+这一整合提升了 Band Oracle 在 Cosmos 生态系统中的可访问性和实用性，为开发者提供了通过 CW-Band 整合的简单高效解决方案。
+
+Coreum 简化了对RWA的代币化，通过 CW-Band 可以无缝访问 BandChain 提供的实时数据。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swell开放Swell L2 pre-launch存款功能，质押可获得Swell 及 Swell L2 上的项目的空投等]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45290.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45290.html"/>
+        <updated>2024-04-10T10:45:51.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，LSD 协议的 Swell Layer 2 网络已经开放预启动存款，存款可获得的奖励包括来自 Swell 及 Swell L2 上的项目的空投、EigenLayer 积分以及存入资产的积分和收益率。
+
+此前消息，Aevo上线Swell（SWELL）期货合约，暂报2.58美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFPrompt计划推出新质押代币esNFP，可赚取cNFP、投票权和BNB]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45289.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45289.html"/>
+        <updated>2024-04-10T10:16:49.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，NFT创作和交易平台NFPrompt宣布新$NFP代币的合约交换已顺利完成，并成功进行了空投。
+
+他们计划推出一种名为$esNFP的新的质押代币，据悉，这是一种托管代币，可用于赚取$cNFP、投票权和$BNB。
+
+每个质押者都可以通过简单地质押他们的$NFP代币来产生不同的收入来源，甚至可以挖掘其他 AI 代币。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德意志银行：10%散户投资者预计BTC年底将超过7.5万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45288.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45288.html"/>
+        <updated>2024-04-10T10:06:22.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，德意志银行的调查显示，散户投资者对加密货币的态度在第一季度变得更加积极，尽管只有不到1%的人认为这是一种时尚。然而，对比特币的前景并不太乐观，只有10%的人预计到年底比特币将超过7.5万美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acala新提案：建议将aSEED财库的所有LCDOT和DOT转换为LDOT]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45287.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45287.html"/>
+        <updated>2024-04-10T09:58:07.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Acala提出了一个新的提案，建议将所有的LCDOT和DOT转换为LDOT，以增强储备金的增长。这旨在提高aSEED的赎回标准，目标是达到或超过1美元的价值。
+
+aSEED(Acala)转换后，aSEED宝库包含38,132,802.4枚ACA、1,027.8枚DOT、13,799.4枚LDOT和5,470.4枚LcDOT。
+
+aSEED财库的目标是通过质押和其他机制增加其持有的资产，以满足甚至超过赎回标准。建议将所有LcDOT和DOT转换为LDOT。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RWA生态系统Zoth完成250万美元融资，Blockchain Founders Fund领投]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45286.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45286.html"/>
+        <updated>2024-04-10T09:52:59.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Zoth 完成 250 万美元融资，Blockchain Founders Fund 领投，Borderless Capital、Mindativity Capital、YAP Capital、Momentum6、Singularity DAO、Aztlan Capital、Outlier Ventures、Decubate、Wormhole Ecosystem Fund 等参投。
+
+据悉，Zoth 是一个连接 TradFi 和 OnchainFi 之间流动性的生态系统，旨在提供由 RWA 支持的可持续收益，并建立一个由多链稳定币驱动的 RWA 生态系统，为 DeFi 带来原生可持续收益。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget PoolX 即将上线挖矿项目 DMTR，质押 BGB 和 USDT 参与挖矿]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45285.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45285.html"/>
+        <updated>2024-04-10T09:43:54.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Bitget PoolX即将上线新一期挖矿项目DMTR，本期PoolX开放BGB和USDT奖池。其中BGB 总奖池为279,000 枚 DMTR，个人质押上限为10,000 枚BGB；USDT 总奖池为279,000 枚 DMTR，个人质押上限为10,000 USDT。本期PoolX开放时间为4月12日 16:00 – 4月22日 16:00 （UTC+8）。
+
+PoolX 是 Bitget 新推出的质押挖矿平台, 质押指定币种, 赚取热门代币。每期 PoolX 将有一个或若干个质押挖矿池, 按用户质押数量占比, 每小时分发代币。本期挖矿项目DMTR 是支撑 Dimitra 农业生态系统的代币。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现货比特币 ETF 累计交易量昨日已突破 2000 亿美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45284.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45284.html"/>
+        <updated>2024-04-10T09:40:41.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据The Block数据，美国现货比特币ETF的累积交易量在证券交易委员会批准了来自BlackRock、富达、Bitwise等公司的ETF不到三个月后，于周二突破了2000亿美元。仅在过去一个月内，现货比特币ETF的累积交易量几乎翻了一番，从3月8日首次突破1000亿美元到昨天交易结束时达到了2017亿美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MASA将于4 月11日16点上线Bybit、HTX、KuCoin、Gate.io等交易所]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45283.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45283.html"/>
+        <updated>2024-04-10T09:29:33.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Bybit、HTX、KuCoin、Gate.io等交易所计划于 4 月 11 日 16:00 上线去中心化 AI 数据链 Masa Network 代币 MASA。
+
+同时 Bybit 将举办奖金总额达 860 万枚 MASA 的交易竞赛；KuCoin 将举办奖金总额达 170 万枚 MASA 的交易竞赛。
+
+此前消息，Masa Network 称 4 月 11 日将推出 MASA 代币并上线主网，用户可将积攒的数据积分转化为 MASA 代币奖励。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火币HTX将于4月10日开放MASA充币服务，并于4月11日上线MASA/USDT交易]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45282.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45282.html"/>
+        <updated>2024-04-10T09:23:21.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据火币HTX公告显示，火币HTX将于4月10日18:00 PM (GMT+8) 开放MASA的充币业务。MASA/USDT的币币交易将于4月11日16:00 PM (GMT+8) 上线。MASA的提币业务将于4月12日16:00 PM (GMT+8) 开放。
+
+据悉，Masa 是领先的去中心化 AI 数据和 LLM 网络，拥有、共享数据和计算并从中获利，为 AI 应用程序提供支持。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOO X与Wintermute、GMCI合作推出Top30、L2和Memes指数永续合约]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45281.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45281.html"/>
+        <updated>2024-04-10T09:14:54.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，WOO X宣布与Wintermute和GMCI合作推出了三种指数永续合约——GMCI 30、GMCI L2和GMCI Memes。
+
+WOO X成为第一个推出L2和Memes指数的中心化加密交易所，Wintermute将作为GMCI 30指数永续合约的流动性提供者。
+
+据悉，GMCI 30指数涵盖了ETH、BTC、SOL、BNB等前30名加密资产。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase和Google Cloud等公司成为EigenLayer节点运营商]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45280.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45280.html"/>
+        <updated>2024-04-10T09:01:06.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Coinbase和Google Cloud等公司在主网上线后不久加入了EigenLayer作为运营商。
+
+Coinbase Cloud表示自己很自豪成为该协议的首批运营商之一，而Google Cloud的产品经理Sam Padilla则表示他的团队从去年11月开始参与了Eigen的测试网，并在主网上实施了运营节点。
+
+此外，还有其他公司如Deutsche Telekom MMS、HashKey Cloud、P2P、Nethermind、Figment、Everstake、Kiln和AltLayer也加入了EigenLayer作为运营商。 Google Cloud已经参与运行多个区块链的节点，并在其平台上提供Web3基础设施服务，尤其是以太坊、Solana和Aptos等。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aevo上线Swell（SWELL）期货合约，暂报2.58美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45279.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45279.html"/>
+        <updated>2024-04-10T08:39:20.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，衍生品交易平台Aevo宣布现已上线Swell（SWELL）期货合约，暂报2.58美元。据悉，该代币的最大供应量为 10 亿，Aevo表示SWELL pre-launch交易者和$AEVO质押者将迎来惊喜。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UXLINK 成为全球最大的基于群组化 Web3 社交平台]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45278.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45278.html"/>
+        <updated>2024-04-10T08:06:40.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据UXLINK官网及链上数据显示，目前UXLINK已覆盖86989个群组，群内用户近700万，其中29051个群组在链上铸造了自己的GGraph(群的链上图谱）及GWallet（群的链上钱包），成为全球最大的基于Web3群组的社交平台。
+
+UXLINK通过RWS协议及Link To Earn信任机制带来用户的高速增长，并且将MPC- AA钱包，EOA账户，UX Swap，UX Task等Web3主流应用场景集成到熟人社交Dapp并落地在一个个群组中，目前全网EOA账户数已突破900万。
+
+Web3化的群组可以通过GWallet（群的链上钱包）连接Web3应用，以群的身份和Dapps进行交互，丰富了WEB3生态的交互角色；同时GGraph（群的链上图谱）是以群关系为基础构建的社交图谱，给基于群的应用场景提供了可接入的数据基础。
+
+一位游戏开发者称：“Web3化群组是具有颠覆性的流量组织形式，即有Web3精神又完全符合人性。用户在群组中获得信任场景、及时互动和免费客服，更容易参与到产品和项目中；作为开发者，可以利用协议+群组，不仅仅获得新用户，也可以获得更多的用户互动和反馈”。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安将于4月11日上线 CKB/USDC、ENA/USDC等现货交易对]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45277.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45277.html"/>
+        <updated>2024-04-10T08:04:45.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，币安将于2024年04月11日16:00（东八区时间）上线 CKB/USDC、ENA/USDC、ETHFI/USDC、YGG/USDC 现货交易对。
+
+此外，币安将在2024年04月11日16:00（东八区时间）为以下交易对开放交易机器人服务：
+
+
+ 
+ 现货网格、现货DCA（平均成本法）、智能持仓：ENA/USDT、W/USDT
+ 
+ 
+ 
+现货算法订单：CKB/USDC、ENA/USDC、ETHFI/USDC、YGG/USDC]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾ACE Exchange创始人等七人因 1,070 万美元欺诈案被起诉]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45276.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45276.html"/>
+        <updated>2024-04-10T08:02:32.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，台湾检方起诉ACE Exchange创始人David Pan及其他六名嫌犯，指控洗钱和欺诈，涉案资产价值1070万美元。
+
+据称，ACE设立了海外实体提供“Alfred Wallet”服务，诱使投资者存入稳定币，然后转移和洗钱这些资产。受害者无法提取资产后意识到受骗，共有162人受害，涉案金额超过3.42亿元新台币。
+
+ACE回应称，David Pan是前高管，涉案钱包服务与其无关。ACE Exchange表示，其交易和运营正常，用户资产安全，Pan已因另一欺诈案被拘留。
+
+据悉，ACE Exchange成立于2018年，是台湾最大的加密货币交易所之一。 ACE强调遵守法律规定，不容忍任何不端行为。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dYdX Chain 累计交易量突破 1000 亿美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45275.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45275.html"/>
+        <updated>2024-04-10T07:54:32.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据dYdX数据，dYdX Chain 的累计交易量已正式突破 1000 亿美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Digital Trust正在将FDUSD扩展至Sui]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45274.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45274.html"/>
+        <updated>2024-04-10T07:41:19.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，总部位于香港的稳定币发行商 First Digital Trust 周三表示，在ETH和 BNB Chain可用后，它正在将其与美元挂钩的 30 亿美元FDUSD代币扩展到 Sui区块链。
+
+
+
+First Digital 首席执行官 Vincent Chok 在接受 CoinDesk 采访时表示，此次扩张是 First Digital 提高 FDUSD 在去中心化金融 (DeFi) 用户中使用率的努力的一部分。
+
+
+
+
+
+FDUSD 根据香港数字资产规则发行，并得到美国国库券和银行存款的支持，将其价格固定在 1 美元，迅速成为仅次于 Tether 的 USDT、Circle 的 USDC 和 MakerDAO 的 DAI 的第四大稳定币，自发行以来市值已达到 33 亿美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circle扩大对Solana的支持，将其作为跨境支付网络]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45273.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45273.html"/>
+        <updated>2024-04-10T07:28:29.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Circle扩大对Solana的支持，将其作为跨境支付的顶级网络。Circle希望通过扩展其Web3服务和工具套件到Solana，增强USDC对开发者和企业的可访问性，确保其能轻松集成到各种应用程序中。此举是在Solana成为稳定币转账最受欢迎的网络之后进行的，尤其是在跨境支付方面。
+
+据悉，Solana在三月份处理了大约1.4万亿美元的稳定币转账，占据了市场份额的近一半。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blast Futures(BFX) TVL突破3000万美元，并向早期用户发放10万美元现金奖励]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45272.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45272.html"/>
+        <updated>2024-04-10T07:22:06.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据官方消息，Blast Futures(BFX) ，Blast上第一个为所有交易者提供原生收益的去中心化交易所，TVL突破3000万美元。已经向早期充值用户分发超过100,000美元的奖励。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playtron与Mysten Labs将推出SuiPlay0x1掌上游戏设备，计划2025年运行Sui、Steam游戏等]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45271.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45271.html"/>
+        <updated>2024-04-10T07:13:40.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，区块链游戏初创公司Playtron与Mysten Labs合作推出了一款名为SuiPlay0x1的掌上游戏设备，旨在挑战Steam和任天堂等现有巨头的掌上游戏机。
+
+这款便携式游戏机将运行基于Linux的Playtron操作系统，并能够在2025年运行Sui游戏、其他区块链游戏以及来自Steam、Epic Games Store等平台的PC游戏。
+
+此外，SuiPlay0x1将实现Sui区块链的深度本地化集成，用户可通过Playtron账户访问Sui资产。
+
+Playtron最近宣布获得了1000万美元的融资，其中包括Mysten Labs在内的多家支持者。该项目的创始人表示，SuiPlay0x1的价格将相对实惠，并期望它能吸引更多的用户进入加密游戏世界。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PancakeSwap 与 Orbs Network 合作推出 TWAP 和限价订单]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45270.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45270.html"/>
+        <updated>2024-04-10T07:08:18.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，PancakeSwap与Orbs Network合作推出了TWAP和限价订单功能，旨在提升用户的交易体验。TWAP（时间加权平均价格）有助于将大订单分解为小交易规模，并自动执行成本平均策略。
+
+限价订单则允许用户以指定价格或更好的价格买卖资产，提供更多交易控制。用户可以通过访问PancakeSwap并连接到BNB链开始使用这些功能，以提升其交易策略。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安将于4月12日移除BAKE/BNB、ID/TUSD等部分现货交易对]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45269.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45269.html"/>
+        <updated>2024-04-10T07:02:51.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，币安将于2024年04月12日11:00（东八区时间）移除以下现货交易对并停止交易：：BAKE/BNB、ID/TUSD、MBOX/BNB、OP/TUSD、RDNT/TUSD、UNI/BNB。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jupiter：RPC遭大量垃圾机器人攻击，已经限制这些机器人的数量]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45268.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45268.html"/>
+        <updated>2024-04-10T06:53:14.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Jupiter发布推文通知用户称，由于大量垃圾机器人攻击他们的RPC，他们已经限制了这些机器人的数量。
+
+他们正在努力帮助用户在拥挤的环境中进行交易，并处理异常的交易量。用户可以继续提供反馈，他们将很快分享升级，并希望所有用户都能成功进行交易。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zhu Su称已购入TAO代币，TAO 24小时涨幅达10.59%]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45267.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45267.html"/>
+        <updated>2024-04-10T06:49:11.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，三箭资本及 OPNX 创始人Zhu Su发布推文表示，其已购入一些TAO，仍在学习，没有其他交易。据Bitget行情数据显示，TAO 短时拉升触及649美元，现报价642美元，24小时涨幅达10.59%。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grass已识别并剔除750万个虚假账户，建议不要同时使用Whales Market等产品]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45266.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45266.html"/>
+        <updated>2024-04-10T06:33:44.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Grass 社区贡献者整理了最新一次社区电话会议的内容摘要，表示 Grass 已经识别并剔除了 750 万个虚假账户，并且真实用户数量已达 180 万个。未来 Grass 将继续通过多项措施来检测女巫行为并剔除相关账户，建议用户不要在使用 Grass 的情况下使用 Whales Market 等产品。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某鲸鱼过去4天积累66.8万枚PENDLE，价值约449万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45265.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45265.html"/>
+        <updated>2024-04-10T06:28:08.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据Scopescan监测，某新建鲸鱼钱包地址过去 4 天内从Binance累计达到 66.8万枚PENDLE，价值约449 万美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celo通过“使用USDT来支付交易费用”的提案]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45264.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45264.html"/>
+        <updated>2024-04-10T06:04:07.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Celo通过治理提案，批准使用美元挂钩的稳定币USDT来支付交易费用，以简化用户的交易体验。
+
+该提案称赞此决定的好处，指出使用USDT作为燃气代币可以简化新用户接入Celo网络的流程，并且强调USDT在加密市场中的稳定性和深度流动性使其成为支付燃气费的可行稳定币。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandora推出Box协议，旨在支持整个404生态系统]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45263.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45263.html"/>
+        <updated>2024-04-10T05:40:36.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Pandora宣布推出Box协议，旨在支持整个404生态系统，为创作者和用户提供独特功能。
+
+他们将在未来分享更多相关信息，这是他们对一个不仅让404工作，而且让整个生态系统蓬勃发展的平台的愿景。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX 已上线 ZEUS 1-50 倍 U 本位永续合约交易]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45262.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45262.html"/>
+        <updated>2024-04-10T05:16:51.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据欧易OKX官方宣布，OKX 现在已上线 ZEUS 1-50 倍 U 本位永续合约交易。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomic与Babylon合作推出比特币流动质押代币stBTC]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45261.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45261.html"/>
+        <updated>2024-04-10T05:03:58.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Nomic团队与比特币质押协议Babylon合作推出了比特币流动质押代币（LST）stBTC。用户可以通过Babylon将比特币质押到Nomic，作为奖励，用户将获得NOM和可兑换比特币的nBTC。这一举措为比特币DeFi提供了更实用的解决方案。随着创新项目stBTC的推出，比特币DeFi有望与以太坊DeFi竞争。Babylon让BTC持有者通过在权益证明区块链上质押资产来获得奖励，该平台的首个测试网已于今年2月28日推出。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avalanche基金会分发1万枚AVAX作为Memecoin Rush第一周单边质押计划奖励]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45260.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45260.html"/>
+        <updated>2024-04-10T04:12:48.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Trader Joe发布推文表示，Avalanche Foundation发布了第一周的Memecoin Rush单边质押计划的奖励，总价值约为50万美元，共分配了10,000个$AVAX。
+
+奖励根据质押总价值（TVL）和快照时代币供应量的百分比分配给了10个池子。
+
+参与者可以访问他们参与的质押池来直接领取奖励，也可以让奖励在整个活动期间累积。
+
+还有一个“Diamond Hands”成就，参与者需要在整个活动期间保持质押位置才能获得资格。如果需要帮助，可以查看Rush页面上的常见问题解答或者联系Trader Joe Discord社区。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币现货 ETF 昨日总净流出 1948 万美元， 灰度 GBTC 单日净流出 1.54 亿美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45259.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45259.html"/>
+        <updated>2024-04-10T04:12:48.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 4 月 9 日）比特币现货 ETF 总净流出 1948 万美元。
+
+昨日灰度（Grayscale）ETF GBTC 单日净流出 1.54 亿美元，目前 GBTC 历史净流出为 159.6 亿美元。
+
+昨日单日净流入最多的比特币现货 ETF 为贝莱德（BlackRock）ETF IBIT，单日净流入约为 1.28 亿美元。
+
+其次为 Bitwise ETF BITB，单日净流入约为 375 万美元。
+
+截止发稿前，比特币现货 ETF 总资产净值为 578 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.25%，历史累计净流入达 123.7 亿美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安杠杆新增ASR、ATM、FIO等资产及更多BTC、FDUSD、USDC交易对]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45258.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45258.html"/>
+        <updated>2024-04-10T04:06:29.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，币安杠杆新增AS Roma Fan Token（ASR）、Atletico de Madrid Fan Token（ATM）、FIO Protocol（FIO）、Juventus Fan Token（JUV）和Wanchain（WAN）全仓、逐仓杠杆可借和可抵押资产，以及更多BTC、FDUSD和USDC全仓、逐仓杠杆交易对。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos公布5名Random Hack获奖项目：包括Move Mania、LYNC等]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45257.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45257.html"/>
+        <updated>2024-04-10T04:03:28.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Aptos公布5名Aptos Random Hack获奖项目。以下是利用 Aptos Roll（Aptos 链上随机性 API）展示出色创新的前5名获奖者： Move Mania 、 LYNC、 Lucky Leopards Club、Supervillain和Aptos Tarot。
+
+特别表彰以下创新项目：  A2N Finance 、 VirtueBingo和Werewolf and Witch。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 通过其 API 正式发布 GPT-4 Turbo with Vision]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45256.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45256.html"/>
+        <updated>2024-04-10T03:49:34.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，OpenAI 宣布其GPT-4 Turbo with Vision 现已在 API 中正式推出。
+
+现在可以通过文本格式的JSON和函数调用来请求使用模型的视觉识别和分析能力，生成JSON代码片段，开发人员可以用它来自动化其连接应用程序中的操作，比如“发送电子邮件、在网上发布内容、进行购买”等。然而，OpenAI在其API页面上指出：“我们强烈建议在代表用户采取影响世界的行动之前，建立用户确认流程。”
+
+OpenAI 发言人表示，这些变化有助于简化开发人员的工作流程并打造更高效的应用程序，因为“以前，开发人员必须对文本和图像使用单独的模型，但现在，只需一次 API 调用，该模型就可以分析图像并应用推理。”]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberConnect与Puffer Finance合作，让用户可以接收pufETH和再质押积分]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45255.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45255.html"/>
+        <updated>2024-04-10T03:41:18.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，CyberConnect宣布与Puffer Finance 合作，让用户可以接收$pufETH和网络再质押积分。
+
+在EigenLayer生态系统中，Puffer Finance被设计为流动性重新抵押协议和策略管理器，旨在提高资产抵押效率以获得更高的回报，并增强对主动验证服务（AVS）的支持。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marinade Staked SOL（mSOL）已上线Coinbase Prime]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45254.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45254.html"/>
+        <updated>2024-04-10T03:37:21.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Coinbase 针对机构投资者的综合解决方案Coinbase Institutional宣布Marinade Staked SOL（mSOL）现已开放托管，mSOL现已上线Coinbase Prime，该资产的可用性可能会受到托管实体和客户管辖权的限制。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CryptoQuant：比特币减半效应或不如预期，BTC投资者需求增加是BTC价格的关键驱动因素]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45253.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45253.html"/>
+        <updated>2024-04-10T03:21:07.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，加密分析公司CryptoQuant发布研究报告，指出比特币减半的供应冲击可能不如预期的那样对比特币价格产生巨大影响。据CryptoQuant称，与其说是减半的影响，不如说是持有大量比特币的投资者需求增加是比特币价格的“关键驱动因素”。
+
+尽管比特币减半通常会减少供应，从而推高价格，但CryptoQuant指出，在2021年至2023年期间，有几次长期持有者的需求超过了同期的供应。
+
+当前的供需差距比以往任何时候都大，表明即使减半，对比特币价格的影响可能不像过去那样显著。
+
+此外，比特币的总发行量已下降至总供应的仅4%，远低于之前减半前的比例。
+
+比特币未平仓合约（OI）高达7836亿美元，距离减半仅有11天。Rekt Capital指出，即使比特币价格在减半前出现下跌，也可能会迅速反弹。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axelar Examples存储库现已支持链间代币服务测试]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45252.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45252.html"/>
+        <updated>2024-04-10T02:58:11.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，去中心化跨链通信网络Axelar发布推文表示，Axelar网络的开发者关系专家一直忙于开发和推出工具，以支持开发者成功使用Axelar。Axelar Examples存储库现在支持用于本地和测试网测试的链间代币服务（ITS） 。
+
+该存储库是利用Axelar 协议的跨链 DApp 和智能合约示例的综合集合。此更新允许开发人员使用新的或自定义的代币在本地测试链间代币服务功能。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aptos Labs与io.net合作开发AI模型和推理产品，以增强对可扩展 GPU 资源的访问]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45251.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45251.html"/>
+        <updated>2024-04-10T02:48:17.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Aptos Labs 与 io.net 签署了合作伙伴关系，以增强对可扩展 GPU 资源的访问，从而提高人工智能和机器学习能力。
+
+io.net 和 Aptos Labs 将合作开发一套人工智能模型和推理产品，以便将来在 Aptos 网络上发布。这些未来的产品显然将利用 Aptos 网络来促进支付。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火币HTX更新4月默克尔树储备证明，100%足量保障用户资产安全]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45250.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45250.html"/>
+        <updated>2024-04-10T02:47:33.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据火币HTX页面显示，火币HTX已于4月1日00:00:00(UTC+8)更新2024年4月默克尔树资产证明数据。目前，火币HTX储备金率均保持在100%以上。
+
+本次更新的具体储备金率：USDT101%（火币资产672,272,311）、BTC100%（火币资产26,240）、ETH102%（火币资产108,754）、HTX103%（火币资产359,756,115,685,541）、TRX103%（火币资产9,750,131,703）。其中USDT和ETH数据已包含stUSDT、USDT-T-Bills资产及BETH、stETH。
+
+据悉，用户可从火币HTX官方网页-资产审计页面查看审计报告。火币HTX将继续定期向公众公示，确保用户随时随地、安全全量充提资产。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saga：SAGA质押者的首张快照将于4月份拍摄]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45249.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45249.html"/>
+        <updated>2024-04-10T02:35:35.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Cosmos生态游戏协议Saga宣布SAGA质押者的首张快照将于四月份拍摄。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CyberConnect 推出 Cyber 再质押功能]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45248.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45248.html"/>
+        <updated>2024-04-10T02:19:30.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Web3社交协议CyberConnect发布公告，推出Cyber 再质押功能，由EigenLayer提供支持。
+
+用户可存入Renzo（ezETH）、Puffer Finance（pufETH）和ether.fi（weETH）等LRT资产，开始赚取Cyber再质押积分。
+
+Cyber再质押积分旨在激励早期质押者和社区，帮助Cyber L2建立原生流动性。用户可获得ETH质押收益、ETH再质押收益、EigenLayer和LRT积分。质押金额低于2 xxETH（pufETH、weETH、ezETH）将获得双倍积分，同时通过推荐可获得额外积分。
+
+据悉，Cyber​​ L2 是第一个再质押的以太坊L2，专为社交而设计，并针对大规模采用进行了优化。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TreasureDAO计划4月22日推出Treasure Ruby测试网，将推出新的任务系统和积分系统等]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45247.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45247.html"/>
+        <updated>2024-04-10T02:05:06.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，TreasureDAO联合创始人Karel Vuong发布推文揭示了Treasure Ruby 测试网的时间表、合作伙伴关系、质押等信息。
+
+
+ 
+ 时间表：计划于4月22日启动Ruby测试网，包括新的Treasure Portal和Treasure Explorer。主网计划于第三季度推出。
+ 
+ 
+ 
+合作伙伴关系：正在落实Treasure Chain和Infinity Chains网络的战略合作伙伴关系，将增强互操作性和$MAGIC的实用性。
+ 
+ 
+ 
+游戏：2024年将有多款游戏发布，包括Smolbound、The Beacon、Kururo等，它们将推出新的游戏玩法和代币。
+ 
+ 
+ 
+质押：Treasure Chain将推出质押机制，提供安全性和跨链桥梁，以及$MAGIC的新用途。
+ 
+ 
+ 
+早期采用者：将推出新的任务系统和积分系统，为Treasure和游戏的早期采用者提供奖励。
+ 
+ 
+ 
+新的宝箱：将推出第二季的宝箱，含有更多的$MAGIC和NFT。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RWA协议Mantra 暗示将在 4 月 16 日宣布重大新闻]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45246.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45246.html"/>
+        <updated>2024-04-10T01:57:09.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，RWA协议MANTRA暗示将在 4 月 16 日宣布重大新闻。
+
+据币安行情数据显示，其代币OM现报价0.79美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Campus将推出L3 Rollup网络EDU Chain]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45245.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45245.html"/>
+        <updated>2024-04-10T01:52:58.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Open Campus 正在推出L3 Rollup网络EDU Chain，在教育领域开创“学习、拥有和赚钱”模式，并在 EDU Chain 上构建 Dapp 生态系统。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嘉实、华夏在港获批“币圈”资管资格，比特币现货ETF最快4月底前上架]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45244.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45244.html"/>
+        <updated>2024-04-10T01:40:44.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，腾讯财经《一线》从不同的信源独家获悉，香港证监会4月10日新增两家公募基金公司进行虚拟资产管理。嘉实国际资产管理公司和华夏基金有限公司在传统资产管理业务基础上，将增设虚拟资产管理业务，允许发行比特币现货ETF等产品。
+
+此举是为了跟进4月15日预计公布的香港首批比特币现货ETF名单。腾讯财经《一线》获悉，香港证监会原计划4月25日左右，最晚不超过4月底在港上架比特币现货ETF。
+
+当前，香港共有18家基金可进行虚拟资产管理，但有意向的机构投资者普遍认为，比特币现货ETF的市场规模可能只是美国的十分之一左右。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TokenFi Launchpad将于4月17日上线AI珠宝设计平台ARQAR（ARQX ）]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45243.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45243.html"/>
+        <updated>2024-04-10T01:37:51.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，TokenFi 的 Launchpad 将于4月17日22点推出ARQAR（ARQX ）。
+
+ARQ是首个人工智能珠宝设计平台，通过利用人工智能，ARQ使设计过程民主化，挑战传统中心化的珠宝行业。$ARQX代币将在应用程序内推动交易，并利用人工智能和$ARQX代币为珠宝设计带来创新。
+
+$ARQX代币总供应量严格限制在 10 亿枚，将在以太坊和Base区块链网络上推出，可以使用 USDbC 参与代币销售。定价为0.007美元，代币销售将在4月19日结束。 ARQ执行了10%的回购和销毁政策，同时利用其全球分散式“DeLux”制造网络进行再投资和增长。
+
+至于代币的发行策略，参与者将在代币生成活动（TGE）中收到初始 20% 的代币，剩余的金额将在两个月内通过线性兑现。每个钱包最多可贡献 2,500 美元的价值，相当于整个代币经济中 7,0000,000 美元的完全稀释估值 (FDV) 的相当大一部分。初始市值定为399,875美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
 </feed>
