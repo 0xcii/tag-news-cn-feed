@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=109226",
+          "author": "Gao",
+          "description": "当下以太坊 Layer 2 扩容技术快速发展的同时，各 Layer 2 网络独立的运行削弱了以太坊的网络效应。 不同 Layer 2 网络采用了不同的技术栈（例如 OP Stack 或 ZK Stack） 以及多样化的证明技术（例如，欺诈或有效性证明），使以太坊生态进一步割裂，增加了 dApp 开发的复杂化。在不同 Layer 1 公链间，除了通过跨链桥进行资产转移和跨链消息之外，难以直接传达价值。",
+          "link": "https://www.web3sj.com/news/109226/",
+          "publishedOn": "2024-04-13T05:04:37.000Z",
+          "wordCount": 1897,
+          "title": "全面了解zkLink：多链交易解决方案",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712984663847.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=109219",
+          "author": "Gao",
+          "description": "在 Ethena 的高额利息前，Luna-UST 的惨重过往也只是陈年往事，重新回到一场比拼谁跑得快游戏。即使是 MakerDAO 的 DAI 也难逃诱惑，改变了自己往常 USDC 套壳的低风险套娃，积极拥抱 USDe 的高额回报。",
+          "link": "https://www.web3sj.com/news/109219/",
+          "publishedOn": "2024-04-13T05:01:10.000Z",
+          "wordCount": 1120,
+          "title": "RWA是比特币ETF的下一步，还是稳定币的魔改版",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712984453495.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=109206",
+          "author": "Gao",
+          "description": "该项 EIP 有望永久性地改变用户在 EVM 链上的互动方式，让钱包端的用户体验更加简洁、便宜、丰富。以下内容为对 EIP-3074 的简要概述，以及对它究竟将如何改变现有规则的剖析。",
+          "link": "https://www.web3sj.com/news/109206/",
+          "publishedOn": "2024-04-13T04:35:40.000Z",
+          "wordCount": 1027,
+          "title": "EIP-3074确定纳入布拉格升级，以太坊的下一步是什么？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712982874259.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=109195",
           "author": "Gao",
           "description": "以太坊开发人员计划下一个升级，将包括改进用户体验和增加验证者押金上限。GBTC流出再次为负，比特币价格稳定。Anza：Solana测试网v1.18.11版本已发布。",
           "link": "https://www.web3sj.com/news/109195/",
           "publishedOn": "2024-04-12T12:26:18.000Z",
-          "wordCount": 900,
+          "wordCount": 904,
           "title": "Web3世界日报（2024-4.12）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024041212235320.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "Omni 是一个以太坊原生的互操作性协议，它在所有以太坊 Rollups 之间建立了低延迟通信，使以太坊能够在模块化时代作为一个贯穿的系统运行。由一支拥有深厚行业经验的团队构建，Omni 旨在统一以太坊分散的 Rollups 生态系统。",
           "link": "https://www.web3sj.com/project/109173/",
           "publishedOn": "2024-04-12T06:37:01.000Z",
-          "wordCount": 1069,
+          "wordCount": 1056,
           "title": "读懂币安Launchpool新项目Omni Network：新一代通信协议",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712903780995.png"
         },
@@ -31,7 +61,7 @@
           "description": "Arca 投资组合经理 David Nage 表示：「现在是一段异常繁忙的时期，感觉就像 2021 年一样。2021 年的融资就像被人用枪顶着后脑勺，你不得不去做，这种感觉又回来了。」Nage 称，他的公司跟踪了第一季度发生的 690 多笔跨阶段融资，这比 2023 年的低点高出约 30% 至 40%。",
           "link": "https://www.web3sj.com/news/109169/",
           "publishedOn": "2024-04-12T06:18:10.000Z",
-          "wordCount": 1184,
+          "wordCount": 1189,
           "title": "九位VC谈一季度加密融资：走出低迷，但不及上轮牛市",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/5-1712822154342.webp"
         },
@@ -41,7 +71,7 @@
           "description": "当前市面上的 L2 采用的技术天差地别，有将比特币网络作为 DA 层的方案，也有构建比特币网络的同构侧链的方案，也有 EVM+ 资产桥接的方案。",
           "link": "https://www.web3sj.com/news/109161/",
           "publishedOn": "2024-04-12T06:05:57.000Z",
-          "wordCount": 963,
+          "wordCount": 968,
           "title": "Mempool创始人：7大标准判断Bitcoin L2是否「正统」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712901935331.png"
         },
@@ -51,7 +81,7 @@
           "description": "2023 年 10 月 22 日，著名的 Go-Ethereum（Geth）开发负责人 Péter Szilágyi 在 Twitter 上表达了他的深切担忧。他指出，虽然 Geth 客户端保留了所有历史数据，但 Nethermind 和 Besu 等其他以太坊客户端可以配置删除某些历史以太坊数据（例如历史区块和块头）。",
           "link": "https://www.web3sj.com/news/109151/",
           "publishedOn": "2024-04-12T05:55:14.000Z",
-          "wordCount": 1364,
+          "wordCount": 1349,
           "title": "以太坊存储路线图：挑战与机遇",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712901300010.png"
         },
@@ -61,7 +91,7 @@
           "description": "Pac Finance 允许加密货币持有者存入资金并通过借贷资本来赚取利息，为了确保还款，仅允许借款人借出相当于抵押品价值的一定百分比的贷款。这个百分比称为「贷款价值比」（LTV）。",
           "link": "https://www.web3sj.com/news/109145/",
           "publishedOn": "2024-04-12T05:41:16.000Z",
-          "wordCount": 970,
+          "wordCount": 971,
           "title": "Pac Finance用户误遭清算，Blast的「工厂项目」问题频出引担忧",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712900449435.png"
         },
@@ -71,39 +101,9 @@
           "description": "Backpack 所做的事情如果不观全貌很容易被带入 Fragment 的碎片化认知里，有人钟情 Madlads 的 NFT 社区文化，有人喜欢 Backpack 钱包的丝滑交互体验，有人则看好其交易所和钱包应用链上 + 链下一体化的交易新范式。",
           "link": "https://www.web3sj.com/nftnews/109139/",
           "publishedOn": "2024-04-12T05:30:43.000Z",
-          "wordCount": 1048,
+          "wordCount": 1027,
           "title": "如何看待Backpack：NFT+ 钱包 + 交易所三位一体的超级应用？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712899670796.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=109129",
-          "author": "Gao",
-          "description": "比特币基本在 70,000 美元附近盘整，比推终端数据显示，周四比特币的交易区间为 69,560 美元至 71,310 美元，多头和空头均未占据上风。截至撰写本文时，比特币交易价格为 70,197 美元，24 小时涨幅 1%。",
-          "link": "https://www.web3sj.com/transaction/109129/",
-          "publishedOn": "2024-04-12T04:22:03.000Z",
-          "wordCount": 989,
-          "title": "波动性下降，比特币盘整至7万美元以上",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712895710237.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=109123",
-          "author": "Gao",
-          "description": "AVS 才是 EigenLayer 协议能否真的具有实用性和安全性的最终体现。而此前的这些 Restaking 协议（Renzo/Puffer 等）或者流动性再质押代币，只是这个生态的起步和吸引流动性的手段之一。此前更多是通过激励供给，让更多 ETH 进入 Restaking 生态并调动更多节点，而 AVS 才有潜力释放需求，才能为 Crypto 和去中心化网络提供更多价值。",
-          "link": "https://www.web3sj.com/project/109123/",
-          "publishedOn": "2024-04-12T04:16:46.000Z",
-          "wordCount": 1178,
-          "title": "EigenLayer第一批AVS能提供哪些真实用例？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712895393402.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=109119",
-          "author": "Gao",
-          "description": "而在本次大会上，Vitalik 对以太坊未来的进展给出了明确的建议。在主旨演讲《Reaching the Limits of Protocol Design》中，Vitalik 积极展望了 ASIC 芯片的作用，借助 ASIC 芯片进行 ZK 计算的硬件加速，可以将以太坊的效率的安全提升到全新的水平。",
-          "link": "https://www.web3sj.com/definews/109119/",
-          "publishedOn": "2024-04-12T04:02:19.000Z",
-          "wordCount": 1391,
-          "title": "Vitalik为什么看好ZK硬件加速？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1712894521681.png"
         }
       ]
     },
@@ -112,6 +112,16 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202404/21917.html",
+          "author": null,
+          "description": "1.减半临近，BTC短时跌破66000美元，ETH短时跌破3200美元，多个主流币种24小时跌超20%。\n\n2.过去24小时全网爆仓8.83亿美元，主爆多单。\n\n3.贝莱德在彭博社主页上推出比特币ETF广告。\n\n4.币安新币挖矿上线第52期项目Omni Network(OMNI)。\n\n5.10x Research：比特币或将横盘6个月，矿工将卖出价值50亿美元的比特币。\n\n6.Layer1公链Berachain完成1亿美元B轮融资，Framework Ventures等领投。\n\n7.EigenLayer将于4月17日重新开放存款并取消所有LST存款上限。",
+          "link": "https://www.hellobtc.com/news/202404/21917.html",
+          "publishedOn": "2024-04-13T03:50:00.000Z",
+          "wordCount": 301,
+          "title": "白话区块链早报：减半临近，BTC短时跌破66000美元，ETH短时跌破3200美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202404/21916.html",
           "author": null,
@@ -200,16 +210,6 @@
           "publishedOn": "2024-04-11T02:08:00.000Z",
           "wordCount": 298,
           "title": "Base链上Gas总消耗量已超9000枚ETH",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202404/21907.html",
-          "author": null,
-          "description": "据HODL15Capital监测，4月10日比特币现货ETF交易量数据如下：贝莱德IBIT交易量达15.1亿美元，灰度GBTC交易量达6.16亿美元，富达FBTC交易量达5.87亿美元，ProShares BITO交易量达5.10亿美元，ARKB交易量达1.39亿美元，BITB交易量达6921万美元。",
-          "link": "https://www.hellobtc.com/news/202404/21907.html",
-          "publishedOn": "2024-04-11T02:08:00.000Z",
-          "wordCount": 295,
-          "title": "昨日贝莱德IBIT交易量超15亿美元，灰度GBTC交易量超6亿美元",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
