@@ -220,46 +220,6 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
-          "id": "https://www.techflowpost.com/newsletter/detail_45524.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据 VnExpress 报道，越南司法部的一名官员表示，加密货币在越南并未被禁止，但有必要制定一个法律框架，以确保其正常发展并防范风险。\n\n政府已指示越南国家银行研究加密货币和虚拟资产，以防止其用于洗钱，已责成财政部在 2025 年 5 月之前为其制定法律框架。\n\n根据美国加密货币数据提供商 Chainaanalysis 的一份报告，越南去年的加密货币收益排名全球第三（仅次于美国和英国），利润为 11.8 亿美元。",
-          "link": "https://www.techflowpost.com/newsletter/detail_45524.html",
-          "publishedOn": "2024-04-13T13:18:35.000Z",
-          "wordCount": 473,
-          "title": "越南司法部官员：越南并未禁止加密货币，但有必要制定法律框架",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_45523.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据Whale Alert监测，48,632 枚 ETH （158,953,335 美元）从未知钱包转移到Binance。",
-          "link": "https://www.techflowpost.com/newsletter/detail_45523.html",
-          "publishedOn": "2024-04-13T10:29:17.000Z",
-          "wordCount": 473,
-          "title": "数据：48,632 枚 ETH 从未知钱包转移到 Binance",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_45522.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，《华尔街日报》首席经济记者 Nick Timiraos 在 X 平台表示，3月份的通胀报告引发了卖方银行和其他美联储预测机构的“越狱”，他们基本上放弃了此前有关 6 月份降息的预测。目前多数人认为第一次降息不会早于第三季度，而且很多人倾向于认为今年只会降息一到两次。",
-          "link": "https://www.techflowpost.com/newsletter/detail_45522.html",
-          "publishedOn": "2024-04-13T09:40:58.000Z",
-          "wordCount": 471,
-          "title": "华尔街日报记者：许多银行已放弃 6 月降息的预测，今年或最多降息两次",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_45521.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Sui主网现已升级至V1.22.0版本，同时Sui协议升级至42版本。其他升级要点如下所示：\n\n在Deepbook访问器函数（只读）中提供了更精确的舍入计算，该函数返回价格范围内的二级订单簿数据。\n\n添加了对serialize-signed-transaction和serialize-unsigned-transaction标志的支持，这些标志输出交易字节，而不是执行sui client ptb命令的交易。\n\n修复了一个错误，即sui client verify-bytecode-meter不正确地将最后一个要验证的函数使用的tick返回为最后一个验证的模块使用的tick。\n\n添加了一个--module/-m标志到sui client bytecode-verify-meter，以验证一些模块字节码等。",
-          "link": "https://www.techflowpost.com/newsletter/detail_45521.html",
-          "publishedOn": "2024-04-13T08:44:10.000Z",
-          "wordCount": 476,
-          "title": "Sui 主网已升级至 V1.22.0 版本",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
           "id": "https://www.techflowpost.com/newsletter/detail_45520.html",
           "author": null,
           "description": "深潮 TechFlow 消息，Tether CEO Paolo Ardoino 在社交媒体上发文表示，“如今，USDT 目前的发行量达到 1073 亿枚，已是许多新兴市场中最常用的数字美元。生活在本币快速贬值国家的数亿人将其用作支票账户和储蓄账户。该团体中的大部分人没有银行账户，因为过于贫穷而无法引起银行业的兴趣。这是稳定币的现实世界用例。\n\n富人们使用稳定币以复杂的方式购买一堆证券，这完全和上述用例不属于同一级别，这种情况下的 USDT 只是富人的一个玩具，他们可以轻松地从 15 个银行账户之一发送电汇，或者赶在下一场高尔夫比赛之前向他们的朋友展示他们有多么酷。”",
