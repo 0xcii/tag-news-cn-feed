@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-13T10:11:06.801Z</id>
+    <id>urn:2024-04-13T11:09:13.633Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-13T10:11:06.801Z</updated>
+    <updated>2024-04-13T11:09:13.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[华尔街日报记者：许多银行已放弃 6 月降息的预测，今年或最多降息两次]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45522.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45522.html"/>
+        <updated>2024-04-13T09:40:58.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，《华尔街日报》首席经济记者 Nick Timiraos 在 X 平台表示，3月份的通胀报告引发了卖方银行和其他美联储预测机构的“越狱”，他们基本上放弃了此前有关 6 月份降息的预测。目前多数人认为第一次降息不会早于第三季度，而且很多人倾向于认为今年只会降息一到两次。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sui 主网已升级至 V1.22.0 版本]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_45521.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_45521.html"/>
+        <updated>2024-04-13T08:44:10.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Sui主网现已升级至V1.22.0版本，同时Sui协议升级至42版本。其他升级要点如下所示：
+
+在Deepbook访问器函数（只读）中提供了更精确的舍入计算，该函数返回价格范围内的二级订单簿数据。
+
+添加了对serialize-signed-transaction和serialize-unsigned-transaction标志的支持，这些标志输出交易字节，而不是执行sui client ptb命令的交易。
+
+修复了一个错误，即sui client verify-bytecode-meter不正确地将最后一个要验证的函数使用的tick返回为最后一个验证的模块使用的tick。
+
+添加了一个--module/-m标志到sui client bytecode-verify-meter，以验证一些模块字节码等。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tether CEO：USDT 已成为许多新兴市场的常用数字美元]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_45520.html</id>
