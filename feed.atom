@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-15T03:26:21.421Z</id>
+    <id>urn:2024-04-15T04:28:30.140Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-15T03:26:21.421Z</updated>
+    <updated>2024-04-15T04:28:30.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[以太坊的下一个升级「Pectra」可能包括对机构质押者的救济、钱包用户体验的改进]]></title>
+        <id>https://www.web3sj.com/?p=109326</id>
+        <link href="https://www.web3sj.com/news/109326/"/>
+        <updated>2024-04-15T03:40:57.000Z</updated>
+        <summary type="html"><![CDATA[周四的以太坊全核心开发者电话会议的与会者——这是区块链主要开发者的两周一次会议——表示「Pectra」可能包括以太坊改进提案（EIP）3074，这是一组旨在改善以太坊钱包用户体验（UX）的代码变更提案。具体来说，该提案将允许用户批量处理交易并一次性签署它们。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bankless：以太坊统一架构的协同效应]]></title>
+        <id>https://www.web3sj.com/?p=109319</id>
+        <link href="https://www.web3sj.com/news/109319/"/>
+        <updated>2024-04-15T03:35:03.000Z</updated>
+        <summary type="html"><![CDATA[区块大小的争论在加密货币的历史中反复出现，并延续至今。虽然我们不再将这两个派别简单地称为 Big Blockers 或 Small Blockers，但这两种不同的理念观点仍然存在于各个 L1 生态系统的文化和信仰体系中，无论他们是否意识到这一点。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAFE即将交易，代币经济学与生态一览]]></title>
+        <id>https://www.web3sj.com/?p=109311</id>
+        <link href="https://www.web3sj.com/project/109311/"/>
+        <updated>2024-04-15T03:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Safe 作为「智能合约钱包」+「多重签名钱包」+「账户抽象概念」等多属性集一体的基础设施，也是 DAO 资金管理工具领域市场份额的绝对霸主，构筑起转换成本护城河、成本优势护城河，其联合创始人 Lukas Schor 早在 2022 年 8 月份就于治理论坛公布了 SAFE 代币经济模型。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LayerZero：weETH已采用OFT标准，将在Blast、Optimism、Base等网络上线weETH]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_45560.html</id>
@@ -421,36 +451,6 @@ Morin还指出，富兰克林·坦普尔顿已在Polygon上推出了其代币化
         <link href="https://www.web3sj.com/news/109255/"/>
         <updated>2024-04-13T11:36:40.000Z</updated>
         <summary type="html"><![CDATA[Matrixport：香港比特币现货 ETF 有望从中国大陆吸引 250 亿美元资金流入。Tether CEO：USDT发行量已达1073亿枚。EigenLayer ：将于4月16日取消所有LST代币的存款限额。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为何以太坊下次升级中纳入EIP-3074？账户抽象方案ERC-4337还不够吗？]]></title>
-        <id>https://www.web3sj.com/?p=109243</id>
-        <link href="https://www.web3sj.com/news/109243/"/>
-        <updated>2024-04-13T05:22:51.000Z</updated>
-        <summary type="html"><![CDATA[经过 3 年多的沉淀和改进，在以太坊第 183 次 ACDE 会议中，EIP-3074 得到了以太坊社区的广泛支持，正式被纳入下一次以太坊硬分叉。EIP-3074 由以太坊研究员 Sam Wilson、Go Ethereum 开发者 Matt Garnett 等人提出，其核心在于让任何一个外部拥有账户（EOA）都能像智能合约钱包一样运作，无需部署额外的合约，无需手动迁移。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1kx研报：Safe，开启可编程所有权时代]]></title>
-        <id>https://www.web3sj.com/?p=109236</id>
-        <link href="https://www.web3sj.com/news/109236/"/>
-        <updated>2024-04-13T05:15:41.000Z</updated>
-        <summary type="html"><![CDATA[在过去的五年里，Safe 为 Web3 生态系统的三大支柱奠定了坚实的基础。首先，它提供了一个自我托管的智能账户，使得链上组织能够安全地存储和管理其资金。然后，它开放了其核心基础设施，允许独立团队以模块化、无需许可的方式构建。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面了解zkLink：多链交易解决方案]]></title>
-        <id>https://www.web3sj.com/?p=109226</id>
-        <link href="https://www.web3sj.com/news/109226/"/>
-        <updated>2024-04-13T05:04:37.000Z</updated>
-        <summary type="html"><![CDATA[当下以太坊 Layer 2 扩容技术快速发展的同时，各 Layer 2 网络独立的运行削弱了以太坊的网络效应。 不同 Layer 2 网络采用了不同的技术栈（例如 OP Stack 或 ZK Stack） 以及多样化的证明技术（例如，欺诈或有效性证明），使以太坊生态进一步割裂，增加了 dApp 开发的复杂化。在不同 Layer 1 公链间，除了通过跨链桥进行资产转移和跨链消息之外，难以直接传达价值。]]></summary>
         <author>
             <name>Gao</name>
         </author>
