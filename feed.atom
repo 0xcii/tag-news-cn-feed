@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-20T10:13:42.221Z</id>
+    <id>urn:2024-04-20T11:10:00.506Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-20T10:13:42.221Z</updated>
+    <updated>2024-04-20T11:10:00.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OKX上线Runes自研市场，如何通过OKX Web3钱包一站式探索符文生态？]]></title>
+        <id>https://www.web3sj.com/?p=109835</id>
+        <link href="https://www.web3sj.com/news/109835/"/>
+        <updated>2024-04-20T10:44:33.000Z</updated>
+        <summary type="html"><![CDATA[目前，OKX Web3 钱包网页插件端已上线 Runes 自研市场，并支持 Runes 生态符文资产的查看、转移、交易以及 mint（铸造）功能，用户可以根据自身需求来体验产品。另外，Runes 市场的 deploy 功能不日也将上线，届时将支持 Runes 生态项目进行相应代币的部署。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何看待 Avail：会是模块化公链的终局叙事么？]]></title>
+        <id>https://www.web3sj.com/?p=109832</id>
+        <link href="https://www.web3sj.com/project/109832/"/>
+        <updated>2024-04-20T10:39:05.000Z</updated>
+        <summary type="html"><![CDATA[换句话说，Avail 目标要做一个 web3「总枢纽」，目标要统一市场纷杂的多样 DA 层，同时用一套可交互操作性通信标准让所有链实现安全交互，最终让用户直接通过 Avail 就可以触达全链 web3 环境。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解Dimo：驾驭未来，车辆数据的去中心化革命]]></title>
+        <id>https://www.web3sj.com/?p=109816</id>
+        <link href="https://www.web3sj.com/depinnews/109816/"/>
+        <updated>2024-04-20T10:32:24.000Z</updated>
+        <summary type="html"><![CDATA[简单来说，车主通过与硬件提供商（如 AutoPi）合作的 DIMO 兼容设备，如 DIMO x AutoPi OBDII 设备，可以将其车辆连接到 DIMO 平台。连接后，DIMO 会从车辆收集丰富的数据，包括基本信息和更高级的行驶模式数据，并将其安全传输到 DIMO 网络，在链上存储，并与独特的车辆 ID 链接，后者以 NFT 形式存在。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memecoin研究报告：从戏谑文化到千亿美元赛道]]></title>
+        <id>https://www.web3sj.com/?p=109804</id>
+        <link href="https://www.web3sj.com/news/109804/"/>
+        <updated>2024-04-20T10:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Coingecko 的数据表明，在 2024 年第一季度，MEME 币是最赚钱的加密货币趋势，其主要代币的平均回报率达到了 1312.6%。Solana，紧随其后的则是新加入的 Base，成为了交易 MEME 币的关键平台。这得益于它们在 DEX 上的庞大日活用户基础和低交易费用，使其成为了交易小市值货币的首选地。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[穿透减半的「统计学意义」：比特币看涨是可交易事件么？]]></title>
+        <id>https://www.web3sj.com/?p=109793</id>
+        <link href="https://www.web3sj.com/transaction/109793/"/>
+        <updated>2024-04-20T10:24:25.000Z</updated>
+        <summary type="html"><![CDATA[关于比特币减半的共识是看涨，并且普遍认为这是一个可交易的事件，但事实真如此么？在本报告中，我们深入研究了过去的减半事件，并对 2024 年减半进行了供应和宏观数据分析，以获取更多关于这个被广泛预测事件对投资者意味着什么的综合信息。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-4.20）]]></title>
         <id>https://www.web3sj.com/?p=109790</id>
@@ -578,26 +628,6 @@ xlander 的关键特性包括：带宽分片、原生支持多种应用、高性
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[半年来每月必用，隐私协议Railgun因何得到Vitalik的青睐？]]></title>
-        <id>https://www.web3sj.com/?p=109734</id>
-        <link href="https://www.web3sj.com/project/109734/"/>
-        <updated>2024-04-19T12:14:46.000Z</updated>
-        <summary type="html"><![CDATA[Railgun 是直接为链构建的隐私系统，现支持以太坊、BNB Chain、Polygon 与 Arbitrum。它主要采用零知识证明来实现智能合约以及 DeFi 中的使用匿名化。Railgun 只提供链上智能合约上的逻辑，因此无需 L2 验证器以及易受攻击的跨链桥便可实现隐私。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-4.19）]]></title>
-        <id>https://www.web3sj.com/?p=109726</id>
-        <link href="https://www.web3sj.com/news/109726/"/>
-        <updated>2024-04-19T10:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Uniswap基金会：v4-core (PoolManager) 将冻结代码，预计今年晚些时候部署。Benchmark：一旦机构开始认真投资比特币ETF，流入现货比特币ETF的资金将大幅增长。比特币减半：价格影响可能相对较小，但矿工面临挑战。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024-04-18 美股比特币ETF持仓情况汇总]]></title>
         <id>https://www.hellobtc.com/news/202404/21962.html</id>
         <link href="https://www.hellobtc.com/news/202404/21962.html"/>
@@ -616,36 +646,6 @@ xlander 的关键特性包括：带宽分片、原生支持多种应用、高性
         <summary type="html"><![CDATA[CZ在X平台表示，比特币减半不同于股票分割，有人咨询这样的问题，意味着我们还处于早期阶段。随后他附图说明自己于2023年发表的对比特币减半节点前后可能发生的事情的相关看法并说到减半快乐。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[速览Jupiter第二轮LFG Launchpad的六大候选项目]]></title>
-        <id>https://www.web3sj.com/?p=109697</id>
-        <link href="https://www.web3sj.com/definews/109697/"/>
-        <updated>2024-04-18T14:47:20.000Z</updated>
-        <summary type="html"><![CDATA[此前在 3 月 11 日，Jupiter 曾完成了首轮 LFG Launchpad 的社区投票。最终， 17.5 万名投票用户共同选择了 Zeus Network 和 SharkyFi 作首批启动的 2 个项目，其中 Zeus Network 已完成启动并已顺利登陆 OKX 等头部交易所，SharkyFi 的启动也已于昨日开始。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merlin技术方案解读：它到底是怎么运转的？]]></title>
-        <id>https://www.web3sj.com/?p=109685</id>
-        <link href="https://www.web3sj.com/project/109685/"/>
-        <updated>2024-04-18T14:41:38.000Z</updated>
-        <summary type="html"><![CDATA[而在比特币 Layer2 赛道中，坐拥数十亿美元 TVL 的 Merlin，毫无疑问是体量最大、关注者最多的那一个。凭借着明确的质押激励和可观的收益率，Merlin 几乎是在几个月之内突然拔地而起，打造了一个超越 Blast 的生态神话。随着 Merlin 的逐渐火热，关于其技术方案的探讨也成为越来越多人关注的话题。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[薅羊毛越来越卷，积分机制还有效吗？]]></title>
-        <id>https://www.web3sj.com/?p=109675</id>
-        <link href="https://www.web3sj.com/news/109675/"/>
-        <updated>2024-04-18T14:38:09.000Z</updated>
-        <summary type="html"><![CDATA[正如 Arthur Hayes 在他最新的一篇文章中所争论的那样，新的 web3 项目面临的主要挑战在于吸引用户，这需要在市场营销和业务发展方面进行有针对性的努力，特别是如果项目缺乏实质性的风险投资。实施积分系统可以是一种有效的营销策略，特别是因为它允许灵活调整积分与代币比率，并激励期望的用户互动，而不受固定代币发行计划的约束。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
 </feed>
