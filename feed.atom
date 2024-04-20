@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-20T08:14:53.876Z</id>
+    <id>urn:2024-04-20T09:11:48.678Z</id>
     <title>web3::cave</title>
-    <updated>2024-04-20T08:14:53.876Z</updated>
+    <updated>2024-04-20T09:11:48.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[John Deaton寻求在美SEC与Coinbase诉讼中代表后者客户担任法庭之友]]></title>
+        <id>https://www.hellobtc.com/news/202404/21970.html</id>
+        <link href="https://www.hellobtc.com/news/202404/21970.html"/>
+        <updated>2024-04-20T07:08:00.000Z</updated>
+        <summary type="html"><![CDATA[加密律师John Deaton寻求在美国SEC与Coinbase的法律纠纷中代表4701名Coinbase客户担任法庭之友律师。 John Deaton接受Fox Business记者EleanorTerrett播客采访时表示，他支持Coinbase客户的动机是保护那些希望在生活中“积累一点财富”的普通人，并称“这与加密行业无关，这关乎自由。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币网络高优先级交易费用回落至735 Sat/字节]]></title>
+        <id>https://www.hellobtc.com/news/202404/21969.html</id>
+        <link href="https://www.hellobtc.com/news/202404/21969.html"/>
+        <updated>2024-04-20T07:08:00.000Z</updated>
+        <summary type="html"><![CDATA[mempool数据显示，目前比特币网络交易费用回落，其中中优先级交易费用暂报669 Sat/字节，高优先级交易费用暂报735 Sat/字节。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UniSat：使用基于多地址的钱包购买符文存在一些已知问题，目前正在修复]]></title>
+        <id>https://www.hellobtc.com/news/202404/21968.html</id>
+        <link href="https://www.hellobtc.com/news/202404/21968.html"/>
+        <updated>2024-04-20T07:08:00.000Z</updated>
+        <summary type="html"><![CDATA[UniSat在社交媒体发文表示，据我用户报告，使用基于多地址的钱包购买符文存在一些已知问题。目前正在积极努力解决此问题，并将及时通报最新情况。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安将支持Stacks（STX）网络升级和硬分叉]]></title>
+        <id>https://www.hellobtc.com/news/202404/21967.html</id>
+        <link href="https://www.hellobtc.com/news/202404/21967.html"/>
+        <updated>2024-04-20T07:08:00.000Z</updated>
+        <summary type="html"><![CDATA[据官方公告，自2024年4月22日晚上7:00左右开始，币安将暂停Stacks（STX）网络上的代币充值和提现，以支持网络升级和硬分叉，网络升级和硬分叉将于比特币区块高度840,360进行，计划于2024年4月22日进行。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[慢雾余弦：铭文某种程度算是符文的试验田]]></title>
+        <id>https://www.hellobtc.com/news/202404/21966.html</id>
+        <link href="https://www.hellobtc.com/news/202404/21966.html"/>
+        <updated>2024-04-20T07:07:00.000Z</updated>
+        <summary type="html"><![CDATA[慢雾创始人余弦表示，铭文某种程度算是符文的试验田，铭文各种大文件及大量“无意义”的 BRC-20 留痕信息出现在比特币的 Taproot 数据里，被 CVE 漏洞编号后，引发了轩然大波。但铭文带来了暴力美学，话题性十足。而符文基于 UTXO 模型，数据存放在 OP_RETURN 里（空间非常有限），更简约小巧，不过由于空间有限，本身能做的事也很有限，恐怕就是以发币流通为主了。 所以，铭文某种程度算是符文的试验台，这里的“某种程度”指的主要是 BRC-20。我看到的符文至少目前的状态是来解决 BRC-20 这种“别扭”的铭文形态。 热度和争议如何走，无所谓。至少能促进比特币网络发展都是好事，如果不能，时间可以给出选择。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨日美股比特币现货ETF 流入7344万美金，持仓增加1143枚BTC]]></title>
+        <id>https://www.hellobtc.com/news/202404/21965.html</id>
+        <link href="https://www.hellobtc.com/news/202404/21965.html"/>
+        <updated>2024-04-20T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[截止当地04月19日，美股比特币现货ETF相较前一日 持仓增加 1143枚BTC，涉及资金约为$7344.5751万 USD ； 目前合计总持仓839618枚比特币，约合539.51亿美金. 更多详情见数据图表：https://www.hellobtc.com/etf/]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024-04-19 美股比特币ETF持仓情况汇总]]></title>
+        <id>https://www.hellobtc.com/news/202404/21964.html</id>
+        <link href="https://www.hellobtc.com/news/202404/21964.html"/>
+        <updated>2024-04-20T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[截至当地时间04月19日，主要美股比特币现货ETF中， 灰度GBTC持仓304355枚BTC， 贝莱德IBIT持仓273607枚BTC， 富达FBTC持仓153318枚BTC， Ark ARKB持仓45177枚BTC， Bitwise BITB持仓33660枚BTC， 范达投资持仓9193枚BTC， 以当日指数价格64257USD计算，11支ETF总持仓量为839618枚BTC，约合539.51亿美金。
+更多详情见数据图表：https://www.hellobtc.com/etf/]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Juice：Native Minting V3 ETHFI vault已上线，初始上限为5000枚ETH]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_46096.html</id>
@@ -430,76 +501,6 @@ xlander 的关键特性包括：带宽分片、原生支持多种应用、高性
         <link href="https://www.hellobtc.com/news/202404/21961.html"/>
         <updated>2024-04-19T06:14:00.000Z</updated>
         <summary type="html"><![CDATA[CZ在X平台表示，比特币减半不同于股票分割，有人咨询这样的问题，意味着我们还处于早期阶段。随后他附图说明自己于2023年发表的对比特币减半节点前后可能发生的事情的相关看法并说到减半快乐。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Base发布2024年第6轮Base建设者资助名单]]></title>
-        <id>https://www.hellobtc.com/news/202404/21960.html</id>
-        <link href="https://www.hellobtc.com/news/202404/21960.html"/>
-        <updated>2024-04-19T06:13:00.000Z</updated>
-        <summary type="html"><![CDATA[4月19日消息，Base发布2024年第6轮Base建设者资助名单。其中包括支付应用PayFlow、链上战斗游戏The Old Castle Defense、音乐合作和资助创意空间Fam、链上社交市场Talent Protocol、Mac应用程序开发者Steve Dakh、构建Base费用跟踪器Chrome插件的Martycfly、生成像素艺术合集Primitives、跨链桥Base Migrate、链上数据浏览器sealaunch.xyz、区块链开发公司Chain Rule。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF报告：BTC已成为在金融不稳定的情况下保存财富的必要金融工具]]></title>
-        <id>https://www.hellobtc.com/news/202404/21959.html</id>
-        <link href="https://www.hellobtc.com/news/202404/21959.html"/>
-        <updated>2024-04-19T01:26:00.000Z</updated>
-        <summary type="html"><![CDATA[国际货币基金组织 (IMF) 的一份新报告显示，在全球金融不稳定的情况下， BTC日益成为跨境资金流动的关键渠道。 据国际货币基金组织称，金融监管严格的国家的居民正在转向比特币，以更自由地跨境转移资本。该报告表示，来自阿根廷和委内瑞拉等国家的公民面临恶性通货膨胀和严格的金融管制。在这些地区比特币已成为保存财富和进入全球市场的必要金融工具，而不仅仅是投机性投资。 报告作者表示，比特币交易为高通胀国家的个人提供了一种稳定储蓄并以当地货币无法实现的方式参与全球商业的方式。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩根大通分析师：市场已经吸收了减半的潜在影响]]></title>
-        <id>https://www.hellobtc.com/news/202404/21958.html</id>
-        <link href="https://www.hellobtc.com/news/202404/21958.html"/>
-        <updated>2024-04-19T01:22:00.000Z</updated>
-        <summary type="html"><![CDATA[摩根大通分析师表示，市场已经吸收了减半的潜在影响。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consensys高管：加密游说者在教育立法者和制定政策方面发挥了关键作用]]></title>
-        <id>https://www.hellobtc.com/news/202404/21957.html</id>
-        <link href="https://www.hellobtc.com/news/202404/21957.html"/>
-        <updated>2024-04-19T00:09:00.000Z</updated>
-        <summary type="html"><![CDATA[据称，美国证券交易委员会（SEC）正在对以太坊（ETH）展开调查，引发了加密货币行业的关注。Consensys的高级法律顾问兼全球监管主管Bill Hughes在接受采访时表示，虽然SEC已传唤了以太坊基金会，但关于以太坊是否属于证券的讨论还未有定论。休斯强调，Consensys对以太坊生态系统的贡献不可忽视，但SEC可能会审视以太坊是否符合证券法规，这可能对加密货币市场产生深远影响。他指出，加密货币行业的法律地位备受关注，加密货币游说者在教育立法者和制定政策方面发挥了关键作用。这一调查结果将对以太坊及整个加密货币行业带来深远影响，加密货币市场将面临更严格的监管，但也可能为行业的进一步发展带来新机遇。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国稳定币法规提案：Circle或领先于Tether]]></title>
-        <id>https://www.hellobtc.com/news/202404/21956.html</id>
-        <link href="https://www.hellobtc.com/news/202404/21956.html"/>
-        <updated>2024-04-19T00:08:00.000Z</updated>
-        <summary type="html"><![CDATA[美国参议员Cynthia Lummis（共和党，怀俄明州）最新提出的稳定币法规建议引起了广泛关注。根据该提案，美国公司Circle Internet Financial将比全球稳定币领导者Tether更容易遵守新的稳定币法规。 Lummis表示，美国客户更倾向于选择受美国监管的稳定币发行者。该法案要求稳定币发行者遵守类似银行的监管制度，而超过100亿美元发行代币的企业将被要求成为受监管的存款机构。尽管现行的稳定币领导者如Circle也将面临重大监管障碍，但Lummis表示愿意根据行业和政府的反馈调整法案。尽管加密货币立法在本届国会中仍然面临诸多挑战，但一些立法者表现出乐观态度，愿意就稳定币等议题进行讨论。众议院金融服务委员会主要负责人已与参议院多数党领袖就推动加密货币立法进行了会晤，但目前尚不清楚谈判进展如何。行业内人士正在密切关注该立法，但仍对其潜在影响和要求持谨慎态度。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储卡什卡利：可能要等到2025年才能降息]]></title>
-        <id>https://www.hellobtc.com/news/202404/21955.html</id>
-        <link href="https://www.hellobtc.com/news/202404/21955.html"/>
-        <updated>2024-04-19T00:08:00.000Z</updated>
-        <summary type="html"><![CDATA[美联储卡什卡利表示，美国住房市场的韧性让我感到惊讶；一旦通胀持续向2%回落，我们可以降息；需要耐心等待，直到确信通胀下降；可能要等到2025年才能降息；随着政治热度上升，美联储更关注的是自身使命。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10x Research联创：比特币在未来几周内可能会跌至50,000美元]]></title>
-        <id>https://www.hellobtc.com/news/202404/21954.html</id>
-        <link href="https://www.hellobtc.com/news/202404/21954.html"/>
-        <updated>2024-04-19T00:08:00.000Z</updated>
-        <summary type="html"><![CDATA[10x Research 联合创始人Markus Thielen表示，由于宏观经济不确定性笼罩着加密货币市场，比特币在未来几周内可能会跌至 50,000 美元，他说：“我不会对减半给予任何信任，因为我不认为减半是主要的推动因素，而是更重大的宏观因素”。 Thielen分析称：“我们不再拥有真正将价格从 40,000 美元提升到 70,000 美元区域的典型驱动因素，这背后的主要原因是现货比特币 ETF，在过去几周里，随着投资者已经度过了 1 月份推出的最初兴奋时期，比特币 ETF 几乎没有看到新的资金流入”。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
