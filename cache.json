@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=109929",
+          "author": "Gao",
+          "description": "目前香港政府已就加密货币交易立法，在香港领有香港证监局批出牌照的交易所，才可以合法交易加密货币。由于 ETF 并不算是直接购买虚拟货币，在香港目前的法例下，加密货币 ETF 反而被视为基金监管，因此只要是合法于香港证监及港交所上市的加密货币 ETF，均可以经合法渠道购买。",
+          "link": "https://www.web3sj.com/news/109929/",
+          "publishedOn": "2024-04-22T14:39:45.000Z",
+          "wordCount": 923,
+          "title": "投资香港现货比特币ETF如何纳税？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1713796770773.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=109911",
+          "author": "Gao",
+          "description": "随着坎昆升级的完成，L2 从中得到了极大的受益。坎昆升级中与 L2 最为有关的是 EIP4844 提案，EIP-4844 引入了一种新数据存储结构：Blob，专门用于存储 L2 向 L1 提交的交易数据。引入后，L2 的交易数据直接提交至 Blob 中进行存储，可供共识节点完全下载，仅在短暂延迟后即可删除，降低没必要的存储负担。这意味着 Blob 的引进将会极大的降低 L2 的交易费用。",
+          "link": "https://www.web3sj.com/project/109911/",
+          "publishedOn": "2024-04-22T14:35:56.000Z",
+          "wordCount": 1542,
+          "title": "Base社交协议王国：消费者应用沉淀下的海量用户和数十亿TVL",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/1713796518075.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=109908",
+          "author": "Gao",
+          "description": "传统市场恐慌指数飙升，比特币隐含波动指数DVOL有所下降。Ether.fi 集成 SSV 以实现弹性再质押。美国国税局发布数字资产税表草案。",
+          "link": "https://www.web3sj.com/news/109908/",
+          "publishedOn": "2024-04-22T14:17:00.000Z",
+          "wordCount": 923,
+          "title": "Web3世界日报（2024-4.22）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024042214144852.jpg"
+        },
+        {
           "id": "https://www.web3sj.com/?p=109881",
           "author": "Gao",
           "description": "Aarc 是模块化区块链。 Aarc 的全栈全链解决方案专为 EVM 开发人员设计，可以从链上带来用户和流动性，而无需多链部署、dApp 迁移或合约更改。",
           "link": "https://www.web3sj.com/news/109881/",
           "publishedOn": "2024-04-21T13:57:49.000Z",
-          "wordCount": 936,
+          "wordCount": 938,
           "title": "速览CoinList 2024春季种子项目",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17137078301.png"
         },
@@ -21,7 +51,7 @@
           "description": "ERC404 最早出来，是把 ERC721 协议（最经典的 NFT 协议）和 ERC20 协议（最经典的代币协议）融合在一起成了一个新协议，Gas 费用最高。第一个的应用就是号称「龙一」的潘多拉，抽盲盒机制采用了「国库排队转圈」方式，就是只要用户转移了 Token，他钱包里被销毁的 NFT 是排在了国库 NFT 的最后一个，而这时他新钱包里生成的 NFT 是国库 NFT 里最前面的一个。",
           "link": "https://www.web3sj.com/gamefinews/109873/",
           "publishedOn": "2024-04-21T13:54:59.000Z",
-          "wordCount": 1323,
+          "wordCount": 1350,
           "title": "「图币二象性」的 ERC-404 给链游赛道的启示",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17137076831.png"
         },
@@ -31,7 +61,7 @@
           "description": "近日的 Monad 这笔融资所筹得的资金是 2024 年迄今为止最大的加密货币融资，参与投资的机构和投资人超过 50 家，成为加密社区最值得关注的又一天王级项目，也掀起了「并行 EVM」炒作热潮。",
           "link": "https://www.web3sj.com/project/109868/",
           "publishedOn": "2024-04-21T13:49:24.000Z",
-          "wordCount": 1395,
+          "wordCount": 1417,
           "title": "Monad融资2.25亿美元再掀「并行 EVM」炒作热潮，还有哪些项目值得关注？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17137073451.png"
         },
@@ -41,7 +71,7 @@
           "description": "这样一个拥有大量技术人才，聚集海量资金的行业，为什么仍然无法突破区块链的次元壁，迈向更多的普通用户。不止 Web3，AI 行业也面临同样的问题。作为 AI 创业者和 Web3 爱好者（俗称臭炒币的），我的感受尤为深刻。",
           "link": "https://www.web3sj.com/news/109865/",
           "publishedOn": "2024-04-21T13:45:40.000Z",
-          "wordCount": 880,
+          "wordCount": 907,
           "title": "Web3产品游戏化，加速人类向链上世界迁徙的关键",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17137071151.png"
         },
@@ -51,7 +81,7 @@
           "description": "2021 年 1 月 1 日，在 SOL 还并不为多数人所知的时候，Ansem 以 1.5 美元的价格开始对 SOL 建仓并在社交媒体平台上进行了公开分享。彼时，他参照的是 SOL/BTC 的兑换比率。",
           "link": "https://www.web3sj.com/news/109856/",
           "publishedOn": "2024-04-21T13:42:21.000Z",
-          "wordCount": 1051,
+          "wordCount": 1055,
           "title": "走近Ansem：百倍Alpha加密之旅",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17137069141.png"
         },
@@ -61,7 +91,7 @@
           "description": "Vitalik：物理空间中的隐私正迅速减少，可通过加强网络隐私恢复一点平衡。Chainlink联创：更多加密货币ETF将陆续推出。MtGox索赔表格更新，可能将支持以BTC和BCH形式支付赔偿。",
           "link": "https://www.web3sj.com/news/109852/",
           "publishedOn": "2024-04-21T13:19:32.000Z",
-          "wordCount": 832,
+          "wordCount": 847,
           "title": "Web3世界日报（2024-4.21）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024042113172461.jpg"
         },
@@ -71,39 +101,9 @@
           "description": "目前，OKX Web3 钱包网页插件端已上线 Runes 自研市场，并支持 Runes 生态符文资产的查看、转移、交易以及 mint（铸造）功能，用户可以根据自身需求来体验产品。另外，Runes 市场的 deploy 功能不日也将上线，届时将支持 Runes 生态项目进行相应代币的部署。",
           "link": "https://www.web3sj.com/news/109835/",
           "publishedOn": "2024-04-20T10:44:33.000Z",
-          "wordCount": 1086,
+          "wordCount": 1104,
           "title": "OKX上线Runes自研市场，如何通过OKX Web3钱包一站式探索符文生态？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17136098571.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=109832",
-          "author": "Gao",
-          "description": "换句话说，Avail 目标要做一个 web3「总枢纽」，目标要统一市场纷杂的多样 DA 层，同时用一套可交互操作性通信标准让所有链实现安全交互，最终让用户直接通过 Avail 就可以触达全链 web3 环境。",
-          "link": "https://www.web3sj.com/project/109832/",
-          "publishedOn": "2024-04-20T10:39:05.000Z",
-          "wordCount": 971,
-          "title": "如何看待 Avail：会是模块化公链的终局叙事么？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17136095321.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=109816",
-          "author": "Gao",
-          "description": "简单来说，车主通过与硬件提供商（如 AutoPi）合作的 DIMO 兼容设备，如 DIMO x AutoPi OBDII 设备，可以将其车辆连接到 DIMO 平台。连接后，DIMO 会从车辆收集丰富的数据，包括基本信息和更高级的行驶模式数据，并将其安全传输到 DIMO 网络，在链上存储，并与独特的车辆 ID 链接，后者以 NFT 形式存在。",
-          "link": "https://www.web3sj.com/depinnews/109816/",
-          "publishedOn": "2024-04-20T10:32:24.000Z",
-          "wordCount": 1289,
-          "title": "详解Dimo：驾驭未来，车辆数据的去中心化革命",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/58596659857f312bb84511876330605c.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=109804",
-          "author": "Gao",
-          "description": "Coingecko 的数据表明，在 2024 年第一季度，MEME 币是最赚钱的加密货币趋势，其主要代币的平均回报率达到了 1312.6%。Solana，紧随其后的则是新加入的 Base，成为了交易 MEME 币的关键平台。这得益于它们在 DEX 上的庞大日活用户基础和低交易费用，使其成为了交易小市值货币的首选地。",
-          "link": "https://www.web3sj.com/news/109804/",
-          "publishedOn": "2024-04-20T10:27:28.000Z",
-          "wordCount": 1167,
-          "title": "Memecoin研究报告：从戏谑文化到千亿美元赛道",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/17136088201.png"
         }
       ]
     },
@@ -220,12 +220,322 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
+          "id": "https://www.techflowpost.com/newsletter/detail_46243.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，新加坡加密交易所 Tokenize Xchange 宣布推出新区块链Titan Chain。据悉，Titan Chain 由 Tokenize Xchange 和 Titan Lab 合作开发，是一个基于 Cosmos SDK 设计的创新区块链网络，确保与以太坊 EVM 兼容。\n\n此外，Tokenize Xchange 宣布推出 1 亿美元 TKX 代币资助计划 Titan Lab Grant，该赠款旨在促进 Titan Chain 的创新和发展，鼓励全球开发者在平台上部署项目。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46243.html",
+          "publishedOn": "2024-04-22T14:38:21.000Z",
+          "wordCount": 511,
+          "title": "Tokenize Xchange推出新区块链Titan Chain，并设立1亿美元TKX代币资助计划",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46242.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 The Block 报道，专注于机器学习和强化学习的项目 GadlingX 宣布推出高性能以太坊虚拟机 GPU-EVM。其开发团队表示，GPU-EVM 可用于在其之上训练基于强化学习 (RL) 的尖端人工智能代理，利用各种以太坊应用程序的并行执行来帮助训练人工智能代理发现安全错误。\n\n据悉，GPU-EVM 推出的初始阶段侧重于创建硬件规模的 EVM 基础设施，以促进 AI 和 RL 模型的训练。下一阶段预计在一年内，将包括为高性能计算应用程序提供 API 访问，最终目标是在保护智能合约和去中心化应用程序方面超越人类的能力。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46242.html",
+          "publishedOn": "2024-04-22T14:31:57.000Z",
+          "wordCount": 483,
+          "title": "GadlingX推出并行EVM「GPU-EVM」，可用于训练人工智能代理发现安全错误",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46241.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，去中心化交易平台 DODO 宣布推出 DODOchain。官方表示，这是一个 Omni Trade Layer3，由 Arbitrum Orbit、EigenLayer 和 AltLayer 提供支持， DODOchain 将利用 EigenDA 来提供以太坊的共识和安全功能。据悉，目前 DODOChai 测试网已上线。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46241.html",
+          "publishedOn": "2024-04-22T14:07:59.000Z",
+          "wordCount": 483,
+          "title": "DODO宣布推出DODOChain，由Arbitrum Orbit、EigenLayer和AltLayer提供支持",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46240.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Anchorage Digital 官方消息，前 Coinbase Custody 首席执行官 Aaron Schnarch 加入 Anchorage Digital 担任首席运营官。Aaron Schnarch 将 Anchorage 监督所有业务线，包括托管、交易、质押、结算和自我托管，以及销售、营销和业务开发。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46240.html",
+          "publishedOn": "2024-04-22T13:59:43.000Z",
+          "wordCount": 502,
+          "title": "前 Coinbase Custody CEO 加入 Anchorage Digital 担任 COO",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46239.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，TON 发文宣布，以正式启动总规模 3000 万美元的 TON/USDT 流动性池激励活动，500 万枚 TON 将用于激励在 TON 去中心化交易所上的 TON/USDt 流动性池(LP)中添加流动性的用户。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46239.html",
+          "publishedOn": "2024-04-22T13:57:27.000Z",
+          "wordCount": 470,
+          "title": "TON启动TON/USDT流动性池激励活动，总规模为3000万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46238.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，多链基础设施开发商 Biconomy 官方宣，布向 BICO 质押者空投 ARB（此为 Airdrop #1），空投资格查询网站已开放，申领时间为 4 月 22 日-5 月 10 日。\n\n据介绍，获得 ARB 空投的条件为至少质押 1000 BICO（或 190 BBPT），快照时间为 4 月 12 日 0 时。 Biconomy 补充称，用户需要签署「申领交易（claim transaction）」，但不会立即收到 ARB。一旦申领期结束，官方将自动将 ARB 分配直接存入用户的 Arbitrum 链上钱包中。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46238.html",
+          "publishedOn": "2024-04-22T13:55:31.000Z",
+          "wordCount": 515,
+          "title": "Biconomy向BICO质押者空投ARB，空投查询网站已开放",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46237.html",
+          "author": null,
+          "description": "深潮TechFlow消息，4月22日，据Ave数据显示，meme代币Mickey涨幅达290%，暂报0.0{5}323美元。\n\n据悉，Mickey是一个在SOL上发行的Meme代币，于4月22日上线。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46237.html",
+          "publishedOn": "2024-04-22T13:41:03.000Z",
+          "wordCount": 445,
+          "title": "Meme币Mickey上线，目前涨幅超过290％",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46236.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Beincrypto 报道，Web3 社交协议 PairedWorld 宣布完成 150 万美元融资，融资细节不详。 贝莱德风投合伙人 Paul Taylor 同时加入其顾问委员会。\n\nPairedWorld 旨在通过区块链技术增强现实世界社交互动，同时通过真实世界交互（RWI）为消费品牌提供新的数据途径。 据报道，Paul Taylor 加入 PairedWorld 董事会预计将显着促进该协议的发展。他在金融科技和区块链方面的丰富专业知识与 PairedWorld 的使命相一致。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46236.html",
+          "publishedOn": "2024-04-22T13:34:33.000Z",
+          "wordCount": 485,
+          "title": "Web3社交协议PairedWorld完成150万美元融资",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46235.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，投资银行 Benchmark 将比特币上市矿企 Hut 8 目标股价提升至 12 美元，其当前股价约为 8.05 美元。此外，Benchmark 还将该公司的评级定位“买入”。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46235.html",
+          "publishedOn": "2024-04-22T13:29:08.000Z",
+          "wordCount": 469,
+          "title": "Benchmark将比特币上市矿企Hut 8目标股价提升至12美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46234.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，比特币 L2 网络 BOB（Build on Bitcoin）发文表示，由于准备在 BOB 上部署的项目数量激增，团队将主网上线时间推迟到 5 月 1 日（原定为 4 月 24 日），以适应额外的测试和审计。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46234.html",
+          "publishedOn": "2024-04-22T13:23:30.000Z",
+          "wordCount": 476,
+          "title": "比特币L2网络BOB将主网上线时间推迟至5月1日",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46233.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，专注于分布式系统共享安全性的项目 Othentic 宣布完成 400 万美元种子轮融资，由 Finality Capital Partners 与 Breyer Capital 共同领投，Coinbase Ventures、HashKey Capital、Collider Ventures、BanklessVC、Robot Ventures、Everstake、PUNK DAO 等参投。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46233.html",
+          "publishedOn": "2024-04-22T13:19:21.000Z",
+          "wordCount": 483,
+          "title": "共享安全性项目Othentic完成400万美元种子轮融资，Breyer Capital等领投",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46232.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Lookonchain 监测，某鲸鱼过去 5 小时内从币安提取 800 枚比特币，价值约合 5284 万美元。\n\n据悉，该鲸鱼于 3 月 15 日至 3 月 22 日期间售出了 4,556 枚比特币（3.023 亿美元）。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46232.html",
+          "publishedOn": "2024-04-22T13:15:00.000Z",
+          "wordCount": 485,
+          "title": "某鲸鱼过去5小时从币安提出800枚BTC，价值5284万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46231.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Cryptobriefing 报道，DePIN 网络 io.net 宣布与去中心化 GPU 云基础设施 Aethir 达成战略合作，io.net 的虚拟化技术集群解决方案将与 Aethir 的企业级分布式 GPU 云集成，打造一个功能强、延迟低、成本效益高的 GPU 密集型工作负载解决方案，增强 AI、机器学习和游戏应用的 GPU 访问、性能和覆盖范围。\n\n此外，Aethir 将向 io.net 社区成员空投价值 5000 万美元的 ATH 代币，而 io.net 将向 Aethir 社区成员空投价值 5000 万美元的 IO 代币。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46231.html",
+          "publishedOn": "2024-04-22T13:10:14.000Z",
+          "wordCount": 524,
+          "title": "io.net 与 Aethir 达成战略合作和代币空投交换",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46230.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Coindesk 报道，Omni 基金会宣布在以太坊L2 网络 Arbitrum 和 Optimism 上启动 Omni Network 的主网。该团队表示，Omni 是一个联合以太坊汇总的 L1，为所有用户提供访问权限和以太坊生态系统的流动性，此次发布是在 Omni 的代币生成活动和空投之后进行的，向 Omni 和以太坊生态系统发送了 300 万美元 OMNI。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46230.html",
+          "publishedOn": "2024-04-22T13:04:36.000Z",
+          "wordCount": 487,
+          "title": "Omni基金会宣布在以太坊L2网络Arbitrum和Optimism上启动Omni Network主网",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46229.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Cryptoslate 报道，瑞士的比特币倡导者、非营利智库 2B4CH 创始人兼主席 Yves Bennaïm 发起了一场全民公投，敦促瑞士国家银行（SNB）将比特币纳入国家资产储备。\n\n据悉，此次公投的启动取决于能否获得 10 万瑞士公民的有效签名，如果达到规定人数，瑞士国民将会对拟议的修正案进行投票。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46229.html",
+          "publishedOn": "2024-04-22T12:50:45.000Z",
+          "wordCount": 465,
+          "title": "瑞士拟发起全民公投将比特币纳入国家资产储备",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46228.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，香港证券及期货专业总会在官方网站发布向香港财库局的致函《建议成立独立性的证券业、期货业、资产管理业及虚拟资产业发展自律组织》，指出包括我国在内，世界不少经济发达地区均设有法定半官方业界自律机构，专注业界发展和维护市场生态，香港可以参考类似方式，由行业持份者组成“以业界发展为本”为其核心功能的自律机构，于推动业界良性竞争生态、协调发牌数量、审核广告、倡议提升券商公司治理水平等范畴负责制定及实施商业行为规则，旨在为业界整体可以长远健康发展，提升香港证券市场于环球市场竞争力，巩固其国际金融中心地位。监管方面，证监会发牌科的权力亦需设置在自律机构，而其他对市场的监管权力则维持不变。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46228.html",
+          "publishedOn": "2024-04-22T12:40:03.000Z",
+          "wordCount": 446,
+          "title": "香港证券及期货专业总会拟成立独立性的虚拟资产业发展自律组织",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46227.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，根据欧科云链OKLink数据，第4次比特币减半完成至今（截止4月22日18时），比特币矿工收入中近60%来自交易费用，其中4月20日当天由于符文火爆产生的交易费用更是超过1000BTC。对此，欧科云链研究院在最新文章中表示，尽管这种以交易手续费为主的矿工收入结构现阶段并不能持续，但证明了活跃的比特币链上活动所带来的交易费用增长理论上足以对矿工群体产生持续的正向激励，从而抵消减半带来的区块奖励减少的负面影响。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46227.html",
+          "publishedOn": "2024-04-22T12:33:13.000Z",
+          "wordCount": 446,
+          "title": "欧科云链：减半至今，近60%的矿工收入来自交易费用",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46226.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，STEPN 官方宣布，阿迪达斯 Genesis Sneaker Raffle 铸造活动已结束，锁定超 1.2 亿枚 GMT。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46226.html",
+          "publishedOn": "2024-04-22T12:21:00.000Z",
+          "wordCount": 468,
+          "title": "STEPN：阿迪达斯Genesis Sneaker Raffle铸造已结束，锁定超1.2亿枚GMT",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46225.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据链上分析师Ai姨监测，两小时前，某鲸鱼向全链流动性基础设施 StakeStone 存入 1550 枚ETH ，价值 499 万美元，过去一周该鲸鱼已累计质押 3230 枚 ETH，总价值 1003 万美金，在个人质押排行榜中排名第 8。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46225.html",
+          "publishedOn": "2024-04-22T12:12:15.000Z",
+          "wordCount": 472,
+          "title": "某鲸鱼两小时前向StakeStone存入1550枚ETH，价值499万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46224.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，加密做市商 Wintermute 旗下 Dex Bebop 官方宣布新增支持 Optimism 网络。 Bebop 平台允许交易者通过单笔交易进入或退出多个头寸，即将一种 Token 换成一个 Token 组合或将一个 Token 组合换成一种 Token。目前该协议已支持以太坊主网、Polygon 以及 Arbitrum。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46224.html",
+          "publishedOn": "2024-04-22T12:03:12.000Z",
+          "wordCount": 485,
+          "title": "加密做市商Wintermute旗下Dex Bebop新增支持Optimism网络",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46223.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，火币HTX数据监测显示，RATS 快速上涨，最高涨至 0.00019286 USDT，现报 0.00019262 USDT，24H最高涨幅 15%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46223.html",
+          "publishedOn": "2024-04-22T11:59:14.000Z",
+          "wordCount": 470,
+          "title": "RATS 涨超 14%，现报 0.00019262 USDT",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46222.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，加密分析师 Willy Woo 发文表示，根据其比特币价格模型，指数型比特币牛市尚未开始。他表示，这个周期在结构上可能是 2013 年的强劲需求和 2017 年的现货主导市场的混合体。他的模型是基于三种不同的价格模型的综合：链上“投资者”交易量的 VWAP 价格、实现价格（成本基础）、以及老手卖出的 CVDD 价格（也称为“底部”模型）。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46222.html",
+          "publishedOn": "2024-04-22T11:47:34.000Z",
+          "wordCount": 471,
+          "title": "Willy Woo：指数型比特币牛市尚未开始",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46221.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，跨链互操作协议 Owlto Finance 官方宣布，其用户分布已遍及 206 个国家和地区。Owlto Finance 是一个以意图为中心的互操作协议，其愿景是“用 AI Agent 连接世界”。据悉，Owlto Finance 可让用户在 Ethereum、zkSync Era、Solana、Linea、Scroll、Arbitrum、Optimism、Base、Kroma、Mode、Zora、Starknet、Polygon zkEVM、Blast、Taiko、BNB Chain、opBNB 等超 25 个热门 L1 和 L2 EVM 网络，以及 Merlin Chain、BSquared、Bevm、BitLayer 等 Bitcoin L2 网络之间，实现快速、安全的跨链转账。值得关注的是，Owlto 被网友评论并加入到了一级市场中最有机会上 Binance 的项目名单内，而项目本身也组织了一段时间的签到和跨链交互活动。参与平台大部分交互活动都可获得积分。积分是用户活动和参与项目的非常重要的凭证。未来，Owlto 将提供更多积分的可能性，空投可能是好处之一。用户获得的积分越多，未来获得的潜在好处就越大。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46221.html",
+          "publishedOn": "2024-04-22T11:41:26.000Z",
+          "wordCount": 517,
+          "title": "跨链互操作协议Owlto Finance用户已遍及206个国家和地区",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46220.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Solana 生态 DEX 衍生品平台 Drift Protocol 发文宣布，首次快照已完成，截至 4 月 18 日的所有活动已被记录。同时，协议将推出新的交易激励计划 Drift Trader。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46220.html",
+          "publishedOn": "2024-04-22T11:33:00.000Z",
+          "wordCount": 473,
+          "title": "Drift Protocol：首次快照已完成，即将推出新的交易激励计划",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46219.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据火币HTX官方公告， 火币HTX Liquid Restaking 再质押项目 MerlinChain 奖励已开始发放，超百万 MERL 代币将空投。用户参加 Liquid Restaking 赚取的 LRS-BTC 积分可按 50%:50% 的比例获得 MerlinChain 与 BounceBit 空投奖励，4 月首次释放的 50% 比例的 MERL 空投已于4月22日全部发放完成。\n\n火币HTX Liquid Restaking 发放 MERL 奖励规则与链上规则保持一致，本次空投范围包括自 2 月 29 日开始至 4 月 14 日 24:00 (UTC+8)参加 Liquid Restaking 获得 LRS-BTC 积分的用户。\n\n据悉，为方便用户领取后续奖励，LRS 积分将在近期升级为对应项目积分并支持在页面兑换。参与火币HTX Liqui Restaking，可继续赢取明星项目空投，近期将增加更多再质押项目空投奖励，越早参与空投越多。\n\n公告详情：Liquid Restaking 首个空投奖励梅林 MERL 空投开始发放 (co.si) https://www.htx.co.si/zh-cn/support/74968027434575",
+          "link": "https://www.techflowpost.com/newsletter/detail_46219.html",
+          "publishedOn": "2024-04-22T11:29:10.000Z",
+          "wordCount": 570,
+          "title": "火币HTX Liquid Restaking 首个项目奖励超百万梅林 MERL 空投开始发放",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46218.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Sui Network 官方发文宣布，其 Move 2024 版本已上线主网，Move 2024 版本提供了新功能，包括方法语法、位置字段和循环标签，使得编写 Move 更加容易，也更容易阅读。要将项目迁移到 Move 2024 Beta 版本有两个选项：删除现有的 Move.lock 文件（如果存在），以确保使用最新的 sui-framework 版本；或者在 Move 项目的根目录运行自动迁移。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46218.html",
+          "publishedOn": "2024-04-22T11:23:03.000Z",
+          "wordCount": 487,
+          "title": "Sui宣布Move 2024版本上线主网，新增位置字段和循环标签等功能",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46217.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Sui 生态借贷协议 Scallop 宣布获得 DWF Labs 的战略投资，具体金额未披露。 据悉，作为此次合作的一部分，DWF Labs 将作为 Scallop 在各个中心化交易平台的主要流动性提供商，还将支持场外交易（OTC）。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46217.html",
+          "publishedOn": "2024-04-22T11:17:01.000Z",
+          "wordCount": 471,
+          "title": "DWF Labs战略投资Sui生态借贷协议Scallop",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46216.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，4月22日，Bitget研究院发布中东市场分析报告。从中东市场整体情况、加密货币用户特点、竞争格局和各平台优势等维度全面分析该地区现状。中东是加密货币的新兴市场，现阶段该区域日均参与交易的人数达到50万人左右；其中阿联酋中东加密货币普及率最高的国家，阿联酋用户最倾向于投资BTC和ETH，其中BTC被阿联酋用户称为“数字黄金”，72%的用户投资BTC。\n\n从市场的整体情况来看，中东的加密货币总体量和接受程度处于快速增长阶段。 从监管环境层面来看，阿联酋的加密货币政策最友好，而其他大部分中东国家的加密货币政策逐渐完善，从早期的明令禁止到逐渐合规化；\n\n中东用户参与各类链上应用的普及率大幅提高，“空投”、“链上挖矿”可能会成为社媒的热词，对DePin赛道的兴趣只增不减；从中心化交易所偏好层面来看，过去一年中心化交易所在中东的流量情况呈现波动上升的趋势，中东用户对中心化交易所的使用需求明显比去中心化交易所高；此外，最常用的钱包则为TrustWallet、Metamask、Phantom、Coinbase Wallet、Bitget Wallet等。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46216.html",
+          "publishedOn": "2024-04-22T11:07:41.000Z",
+          "wordCount": 454,
+          "title": "Bitget研究院：中东日均参与交易人数达50万人，阿联酋72%的用户投资BTC",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46215.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据火币HTX官方社媒消息，合约交易挖矿BTC减半特辑上线第三天，50分钟瓜分完10万USDT交易奖励。截至目前，该活动累计发放交易奖励30万USDT，累计回购$HTX 25万USDT。新一轮挖矿活动将于今日20:00（UTC+8)开启。\n\n此前消息， 火币HTX合约交易挖矿 BTC减半特辑自4月19日20:00:00至4月24日19:59:59（UTC+8）进行。零手续费参与BTC/USDT永续（含跟单）合约交易的同时，可额外瓜分每日100,000 USDT交易奖励，单人每日最高5,000 USDT。每日挖矿活动从T日20:00（UTC+8）开始，至T+1日19:59（UTC+8）结束，每日为一轮，目前进行至第三轮。参与用户火箭值需 ≥ 300，并在活动页面成功报名。完成报名后，还能额外领取1-88 USDT合约真金红包随机空投。\n\n活动详情：https://www.htx.com/zh-cn/support/54967841529848",
+          "link": "https://www.techflowpost.com/newsletter/detail_46215.html",
+          "publishedOn": "2024-04-22T10:56:48.000Z",
+          "wordCount": 467,
+          "title": "火币HTX 合约交易挖矿BTC减半特辑上线第三天：50分钟瓜分完10万USDT奖池",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46214.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Axie Infinity 官方宣布，Axie Classic Competitive Season 2 上线。Axie Classic Competitive Circuit 将提供 57,000 枚 AXS 代币奖池。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46214.html",
+          "publishedOn": "2024-04-22T10:43:01.000Z",
+          "wordCount": 488,
+          "title": "Axie Classic Competitive Season 2上线",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_46213.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Fansland携手Trip.com、Trekki NFT、OneKey、Hape和Titan Network，宣布全球首届Fansland Web3音乐节即将开幕。该音乐节定于2024年5月3日至5月4日在泰国曼谷举行，已确认的表演嘉宾包括鸟叔（PSY）、刘宪华、朴灿烈、陈冠希、24KGOLDN，Chuang Asia等。\n\nFansland Web3音乐节是首个完全采用NFT票务系统并接受加密货币支付的国际音乐节，开创了传统音乐节与加密技术的融合创新，并推动Web3在真实世界的大规模应用。目前，Fansland正致力于打造AI+Web3去中心化粉丝经济基础设施生态平台 —— Fansland.AI，包括粉丝经济代币$Fans Token、AI虚拟偶像Launchpad等，Fansland 将通过世界上首个web3音乐节，NFT ticketing ，RWA Finance基础设施和AI虚拟偶像DEX来重塑粉丝经济模式与偶像养成方式。",
+          "link": "https://www.techflowpost.com/newsletter/detail_46213.html",
+          "publishedOn": "2024-04-22T10:39:13.000Z",
+          "wordCount": 483,
+          "title": "Fansland Web3 音乐节公布特别支持伙伴：Trip.com、Trekki NFT、OneKey、Hape、Titan Network",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
           "id": "https://www.techflowpost.com/newsletter/detail_46212.html",
           "author": null,
           "description": "深潮 TechFlow 消息，火币HTX数据监测显示，UNIBOT 快速上涨，最高涨至 17.66 USDT，现报 17.47 USDT，24H最高涨幅 22%。",
           "link": "https://www.techflowpost.com/newsletter/detail_46212.html",
           "publishedOn": "2024-04-22T10:32:37.000Z",
-          "wordCount": 474,
+          "wordCount": 470,
           "title": "UNIBOT 涨超 20%，现报 17.47 USDT",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -235,7 +545,7 @@
           "description": "深潮 TechFlow 消息，据 Whale Alert 监测，75,887,800 枚 USDC 从 Coinbase Institutional 转至未知钱包。",
           "link": "https://www.techflowpost.com/newsletter/detail_46211.html",
           "publishedOn": "2024-04-22T10:23:19.000Z",
-          "wordCount": 471,
+          "wordCount": 467,
           "title": "7588万余枚USDC从Coinbase Institutional转至未知钱包",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -245,7 +555,7 @@
           "description": "深潮 TechFlow 消息，土耳其金融科技初创公司 Midas 完成 4500 万美元 A 轮融资，由 Portage 领投，International Finance Corporation、Spark Capital、Earlybird Digital East Fund、Revo Capital 等参投。\n据悉，Midas 将利用此轮融资资金推出新产品，包括加密货币交易、共同基金和储蓄账户，计划将员工人数增加一倍至 400 多人，并扩展到新兴市场。",
           "link": "https://www.techflowpost.com/newsletter/detail_46210.html",
           "publishedOn": "2024-04-22T10:22:04.000Z",
-          "wordCount": 492,
+          "wordCount": 488,
           "title": "金融科技公司Midas完成4500万美元A轮融资，Portage 领投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -255,7 +565,7 @@
           "description": "深潮 TechFlow 消息，DWF Labs 联合创始人 Andrei Grachev 发文宣布，已在 TON 链上部署 150 万枚 USDT，以增加其链上原生 USDT 的流通供应量，并将尽快扩大其规模。\n此前消息，Tether 透明度页面数据显示，截至北京时间 4 月 22 日 07:30，USDT 在 Ton 上发行的授权供应量已增至 6000 万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_46209.html",
           "publishedOn": "2024-04-22T10:10:03.000Z",
-          "wordCount": 502,
+          "wordCount": 498,
           "title": "DWF Labs已在TON链上部署150万枚USDT，为其增加流通供应量",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -265,7 +575,7 @@
           "description": "深潮 TechFlow 消息，BNB Chain官方宣布，已对 opBNB 路线图进行了更新，通过 BEP-336 为网络引入支持携带 blob 的交易，从而降低 opBNB Layr 1 数据成本。",
           "link": "https://www.techflowpost.com/newsletter/detail_46208.html",
           "publishedOn": "2024-04-22T10:06:51.000Z",
-          "wordCount": 475,
+          "wordCount": 471,
           "title": "BNB Chain：已更新opBNB路线图，通过BEP-336为网络引入支持携带blob的交易",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -275,7 +585,7 @@
           "description": "深潮 TechFlow 消息，据Coindesk报道，币安高管Nadeem Anjarwalla在逃离尼日利亚后被发现在肯尼亚，或将面临引渡回尼日利亚。Anjarwalla因被指控参与操纵当地汇率、逃税和洗钱而于2月被尼日利亚当局拘留。据悉，尼日利亚和肯尼亚的当局正在协作，预计将在一周内通过国际刑警组织将他引渡回尼日利亚。",
           "link": "https://www.techflowpost.com/newsletter/detail_46207.html",
           "publishedOn": "2024-04-22T10:04:57.000Z",
-          "wordCount": 452,
+          "wordCount": 448,
           "title": "此前越狱的币安高管预计将在一周内被引渡回尼日利亚",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -285,7 +595,7 @@
           "description": "深潮 TechFlow 消息，WOO官方宣布，已与 Merlin Chain 建立合作关系，共同推动 BTC L2 的采用并支持 Runes 和 Ordinals Dex BitGenie。",
           "link": "https://www.techflowpost.com/newsletter/detail_46206.html",
           "publishedOn": "2024-04-22T09:40:03.000Z",
-          "wordCount": 478,
+          "wordCount": 474,
           "title": "WOO宣布与Merlin Chain 建立合作关系",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -295,7 +605,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，ssv.network DAO与ether.fi合作推出最新的分布式验证技术（DVT）集成，旨在增强再抵押操作的弹性和抵御潜在风险。该合作将利用全球顶级节点运营商的专业知识，以及SSV网络的地理多样性，为ether.fi的再抵押运营带来新的里程碑。",
           "link": "https://www.techflowpost.com/newsletter/detail_46205.html",
           "publishedOn": "2024-04-22T09:21:18.000Z",
-          "wordCount": 461,
+          "wordCount": 457,
           "title": "Ether.fi 集成 SSV 以实现弹性再质押",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -305,7 +615,7 @@
           "description": "深潮 TechFlow 消息，由UXLINK孵化的生态项目AIRDROP2049上线三天获得来自全球超过20万人次访问，首批上线的项目平均获得超过3万新增用户，AIRDROP2049链上合约交互已超过100,000次。\n\n超过50家热门Web3项目参与了首次AIRDROP2049活动。BTC生态项目B² Network负责人表示，UXLINK的RWS协议非常有效，通过调用协议，能够实现用户的快速增长，给用户的激励也十分精准，我们期待在BTC生态与UXLINK和AIRDROP2049加强合作，让更多用户参与生态建设。AI高性能质押公链项目ALIENX负责人非常看好AIRDROP2049这个项目，认为这是圈内首次将多个不同赛道集合进行大规模空投，不同类型用户流量交叉增长非常有意思，未来甚至可能会超过TOKEN2049的影响力。希望未来在AI领域与UXLINK和AIRDROP2049深度合作。",
           "link": "https://www.techflowpost.com/newsletter/detail_46204.html",
           "publishedOn": "2024-04-22T09:19:18.000Z",
-          "wordCount": 453,
+          "wordCount": 449,
           "title": "UXLINK生态项目AIRDROP2049，上线三天获得来自全球超过20万人次访问",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -315,7 +625,7 @@
           "description": "深潮 TechFlow 消息，据 Coindesk 报道，Woo X 宣布成为首家向零售客户提供美国国债代币化曝光的加密货币交易所。其新产品RWA Earn Vaults与OpenTrade合作开发，为用户提供了获得美国国债支持的利息账户的机会。该产品填补了传统金融证券与加密货币之间的差距。",
           "link": "https://www.techflowpost.com/newsletter/detail_46203.html",
           "publishedOn": "2024-04-22T09:09:17.000Z",
-          "wordCount": 471,
+          "wordCount": 467,
           "title": "加密货币交易所 Woo X 推出首个美国国债代币化产品给散户投资者",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -325,7 +635,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，Ethena现已接入OKX Web3钱包，用户可以通过 OKX Web3 钱包在Ethena进行加密资产的质押并获取收益。Ethena 是一个搭建合成美元USDe并通过Delta对冲以太坊抵押品价格风险的抗审查、可扩展且稳定的加密货币原生解决方案。OKX Web3 钱包是行业领先的一站式 Web3 入口，现已支持 90+ 公链。",
           "link": "https://www.techflowpost.com/newsletter/detail_46202.html",
           "publishedOn": "2024-04-22T09:09:07.000Z",
-          "wordCount": 484,
+          "wordCount": 480,
           "title": "Ethenav 已接入 OKX Web3 钱包",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -335,7 +645,7 @@
           "description": "深潮 TechFlow 消息，据 CoinShares 最新周报显示，上周数字资产投资产品连续第二周流出总额达 2.06 亿美元，ETP 产品交易额小幅下降至 180 亿美元。比特币投资产品资金流出 1.92 亿美元，做空比特币的产品资金流出 30 万美元。区块链股票产品连续 11 周流出，流出额达 900 万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_46201.html",
           "publishedOn": "2024-04-22T08:47:30.000Z",
-          "wordCount": 480,
+          "wordCount": 476,
           "title": "CoinShares：上周数字资产投资产品流出2.06亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -345,7 +655,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，轻量化区块链网络 Mina 计划于 6 月 4 日进行 Berkeley 升级，旨在增强 Mina 网络的 ZK 可编程性。",
           "link": "https://www.techflowpost.com/newsletter/detail_46200.html",
           "publishedOn": "2024-04-22T08:45:32.000Z",
-          "wordCount": 474,
+          "wordCount": 470,
           "title": "Mina将于6月4日进行Berkeley升级以增强ZK可编程性",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -355,7 +665,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，WBTC 将作为 BYOC 支持代币引入 Partisia Blockchain。BYOC 功能可将多种资产接入 Partisia 链上，本次新增支持 WBTC 有助于进一步将比特币生态整合到 Partisia Blockchain 中。",
           "link": "https://www.techflowpost.com/newsletter/detail_46199.html",
           "publishedOn": "2024-04-22T08:43:01.000Z",
-          "wordCount": 479,
+          "wordCount": 475,
           "title": "Partisia Blockchain新增支持WBTC",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -365,7 +675,7 @@
           "description": "深潮 TechFlow 消息，Unibot 官方发文表示，将推出包括推荐系统、代币回购以及奖励等三个增长计划。其中推荐系统可以制定活动来提高参与者的奖励，所有推荐佣金奖励将在每周五通过 Base 生态空投。\n\nUnibot 表示，根据其代币回购计划，团队正在数月内分配大量 ETH 用于代币回购，所有相关交易和钱包地址都将公开披露，以确保投资者透明度。当余额达到 0.5 ETH 时，2% Unibot 代币税将自动分配给代币回购。新的奖励数据看板将更加透明且，更容易为小投资者所接受。同时，Unibot 将停止旧的奖励系统，新的持有者奖励仪表板将包括 ETH 和 Solana 费用。",
           "link": "https://www.techflowpost.com/newsletter/detail_46198.html",
           "publishedOn": "2024-04-22T08:32:20.000Z",
-          "wordCount": 483,
+          "wordCount": 479,
           "title": "Unibot宣布推出代币回购等增长计划",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -375,7 +685,7 @@
           "description": "深潮 TechFlow 消息，4月22日，Web3 钱包 Bitget Wallet 宣布向 Meme 币玩家空投 BWB 积分，空投涵盖 SHIB、WIF、PEPE、BONK 等 30 个 Meme 社区。所有新用户只要在 4 月 19 日之前的 3 个月内有交易 30 个 Meme 币中的任意币种 ≥ 100 U ，即可在 Bitget Wallet 官网 https://web3.bitget.com/en/bwb-airdrop 查询领取空投。\n\n此前报道，Bitget Wallet 于 3 月 18 日启动平台币 BWB 计划，开启 BWB 积分空投，积分空投将持续到 4 月 28 日结束。团队将于今年第二季度进行 BWB 代币的 TGE & IEO，届时 BWB 积分持有者可以进行 BWB 代币兑换。",
           "link": "https://www.techflowpost.com/newsletter/detail_46197.html",
           "publishedOn": "2024-04-22T08:29:15.000Z",
-          "wordCount": 581,
+          "wordCount": 577,
           "title": "Bitget Wallet 宣布向 Meme 币玩家空投 BWB 积分，已开放空投查询领取",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -385,7 +695,7 @@
           "description": "深潮 TechFlow 消息，Shiba Inu 通过 TREAT 代币募集 1200 万美元，用于开发其新的以隐私为重点的第三层区块链。Polygon Ventures、Mechanism Capital、Big Brain Holdings和Shima Capital参投。",
           "link": "https://www.techflowpost.com/newsletter/detail_46196.html",
           "publishedOn": "2024-04-22T08:18:46.000Z",
-          "wordCount": 478,
+          "wordCount": 474,
           "title": "Shiba Inu完成1200万美元融资，Polygon Ventures等参投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -395,7 +705,7 @@
           "description": "深潮 TechFlow 消息，据Coindesk报道，泰国证券交易委员会（SEC）援引印度和菲律宾等国早前的决定，决定封锁“未经授权”的加密平台。\n\n根据周五的公告，泰国当局决定封锁“未经授权”的加密平台，以提高执法效率，解决在线犯罪问题。 在科技犯罪防治委员会会议后，泰国证券交易委员会（SEC）被要求向数字经济与社会部提交未经授权的数字资产服务提供商信息，以封锁对这些平台的访问。\n\n公告称，SEC已考虑到用户的影响，并将给予他们时间管理账户，然后无法使用该服务。因此，公告要求该平台的用户迅速从平台提取其资产。",
           "link": "https://www.techflowpost.com/newsletter/detail_46195.html",
           "publishedOn": "2024-04-22T08:07:39.000Z",
-          "wordCount": 454,
+          "wordCount": 450,
           "title": "泰国将封锁对“未经授权”的加密平台的访问",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -405,278 +715,8 @@
           "description": "深潮 TechFlow 消息，火币HTX数据监测显示，PRCL 快速上涨，最高涨至 0.691 USDT，现报 0.666 USDT，24H最高涨幅 29%。",
           "link": "https://www.techflowpost.com/newsletter/detail_46194.html",
           "publishedOn": "2024-04-22T08:06:24.000Z",
-          "wordCount": 468,
-          "title": "火币HTX数据监测显示，PRCL 快速上涨，24H最高涨幅 29%",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46193.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，链游Illuvium宣布，他们将继续进行创作者计划，以奖励那些通过内容为社区带来价值的创作者。每周将提供100 ILV代币的奖池，分为四个类别：最受欢迎的创作者、最受关注的创作者、最多新用户的创作者和随机直播奖励。此外，还提供了Web3合作助推的加成。计划将于2024年6月30日结束。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46193.html",
-          "publishedOn": "2024-04-22T07:44:50.000Z",
-          "wordCount": 452,
-          "title": "Illuvium计划将创作者计划延长至6月30日，每周提供100枚ILV代币奖池",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46192.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，4月22日，Mango Network通过MoveBit全面审计。此次审计方法包括依赖检查、模糊测试、静态代码分析、人工审核等，旨在以最接近真实攻击的方式对代码进行全面的安全测试，并涵盖链安全、稳定性、性能和代码质量等关键领域。\n\n据悉，Mango Network早前发布的基于BTCFi生态的全链桥接协议解决方案也即将进入审核阶段。\n\n审计报告可见链接：\n\nhttps://github.com/MangoNet-Labs/Mango-Audits/blob/main/Mango-Network-Final-Audit-Report.pdf",
-          "link": "https://www.techflowpost.com/newsletter/detail_46192.html",
-          "publishedOn": "2024-04-22T07:35:07.000Z",
-          "wordCount": 472,
-          "title": "交易型全链基础设施网络 Mango Network 已成功通过 MoveBit 的全面安全审计",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46191.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Galxe社区已开放“将代币符号GAL更换为G”及合约迁移的提案投票。该提案旨在提高GAL的品牌形象和市场认知度，消除代币符号引发的混淆，并增强社区参与度。如果提案获得通过，Galxe团队将与社区成员合作，制定详细的计划，包括时间表、技术路线图和代币经济调整。\n\n为了加强品牌形象，提高社区参与度，需要将原代币符号 GAL 更改为 G，并升级 GAL 现有代币智能合约。按 1:60 将 GAL 代币兑换为 G 代币。这意味着每 1 个 GAL 代币将授予持有者 60 个 G 代币。G代币的总供应量将更改为12,000,000,000代币，这是当前GAL代币总供应量200,000,000的60倍。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46191.html",
-          "publishedOn": "2024-04-22T07:23:36.000Z",
-          "wordCount": 489,
-          "title": "Galxe发起的“将代币GAL以1:60的比例更换为G”的提案投票已开放",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46190.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Animoca Brands宣布其子公司Animoca Brands Japan与Square Enix签署谅解备忘录 (MoU)，加强SQUARE ENIX 游戏SYMBIOGENESIS以及具有游戏实用性的 10,000 个 NFT 角色的相关集合的全球营销。\n\nAnimoca Brands Japan 将通过其市场领先的专业知识和关系支持 SYMBIOGENESIS 的全球扩张，并促进 Animoca Brands 旗下 400 多家 Web3 公司的合作机会。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46190.html",
-          "publishedOn": "2024-04-22T07:15:46.000Z",
-          "wordCount": 506,
-          "title": "Animoca Brands Japan与Square Enix签署谅解备忘录，加强SYMBIOGENESIS的全球营销",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46189.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，比特币侧链MVC宣布已完成Certik 的全面审计，继 sCrypt 审核之后，又增加了一层信任。\n\n通过 MicroVisionChain 使其具有可扩展性并针对微交易进行优化。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46189.html",
-          "publishedOn": "2024-04-22T06:53:41.000Z",
-          "wordCount": 461,
-          "title": "比特币侧链MVC宣布已完成Certik的审计",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46188.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，ZKFair Community发布推文表示，本周 Gas 费再创历史新高，达到 1,489,758.18 USDC。其中 75% 将分配给$ZKF质押者，10% 将用于回购销毁。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46188.html",
-          "publishedOn": "2024-04-22T06:46:45.000Z",
-          "wordCount": 469,
-          "title": "ZKFair：本周约149万美元gas费中的75%将分配给$ZKF质押者，10% 将用于回购销毁",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46187.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据The Data Nerd监测，某聪明钱 2JTPa于2 天前将 100 $SOL （约 15.1 万美元）换成了 6435 万枚GUMMY 。 2 分钟后，他开始以 513,000 美元的价格全部出售，赚了 498,000 美元。 如果他全部持有到现在，他将拥有 700 万美元。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46187.html",
-          "publishedOn": "2024-04-22T06:28:16.000Z",
-          "wordCount": 493,
-          "title": "某鲸鱼2天前将15.1万美元SOL变成51.3万美元GUMMY ，目前价值约700万美元",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46186.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据coingecko数据显示，Popcat代币POPCAT 突破0.3美元，24小时涨幅达52.07%，现报价0.31美元。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46186.html",
-          "publishedOn": "2024-04-22T06:16:37.000Z",
-          "wordCount": 455,
-          "title": "Popcat代币POPCAT 突破0.3美元，24小时涨幅达52.07%",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46185.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，随着TOKEN2049于4月18日在迪拜开幕，另一线上Web3大型活动AIRDROP2049于标准时间（GMT+1）4月18日20:49上线。\n\n首届AIRDROP2049由知名社交平台UXLINK主办，OKX Ventures，Web3port和Trusta Labs协办，活动有超过50家知名Web3项目方参与，覆盖BTC生态，AI，基础设施，GameFi等热门赛道，为用户提供了10万美金USDT和价值10万美金的代币奖励，预计活动期间将有超过100万用户参与交互。\n\n据多家参与活动的项目方负责人介绍，AIRDROP2049活动机制非常有吸引力，用户一次参与就可以获得50家知名Web3项目方的空投，既有普通的任务空投，也有邀请奖励，还有排名奖励，并且不同项目还会有子任务奖励。本次活动得到UXLINK RWS协议在Social Graph和数据层面的支持，并由UXLINK社区孵化。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46185.html",
-          "publishedOn": "2024-04-22T05:08:33.000Z",
-          "wordCount": 487,
-          "title": "UXLINK 联合 OKX Ventures, Web3Port，Trusta 发起 AIRDROP2049 空投周，超 50 家热门项目参与",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46184.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据The Data Nerd监测，30分钟前，巨鲸13dYH从Binance提取了190枚BTC(约合1240万美元)。\n\n在过去3周内，他积累了145枚BTC（约966万美元）并转移到地址1ETse。\n\n目前，地址1ETse持有914.8枚BTC（约6038万美元）。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46184.html",
-          "publishedOn": "2024-04-22T04:22:52.000Z",
-          "wordCount": 456,
-          "title": "某鲸鱼半小时前从Binance提取190枚BTC",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46183.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据火币HTX公告消息，火币HTX将于4月30日12:00:00(GMT+8)为用户持仓在现货账户中的TRX、USDT及WSTUSDT的资产进行第二轮快照，快照结束后将按照规则发放空投$HTX。\n\n据悉，火币HTX已完成首轮支持HTX DAO对链上TRX及USDT持有者空投的发放。后续快照时间为2024年5月至2024年8月，每月30日12:00:00 (GMT+8) 。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46183.html",
-          "publishedOn": "2024-04-22T04:09:10.000Z",
-          "wordCount": 460,
-          "title": "火币HTX将支持HTX DAO对链上TRX及USDT持有者进行第二轮空投快照",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46182.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Greeks.live宏观研究员Adam发布推文表示，上周六比特币减半顺利完成，市场相对平稳，部分热点项目推高了BTC手续费，使得矿工收入暂时增加。\n\n本周宏观事件和数据较少，市场仍受美股走势影响，风险资产可能出现大幅波动。\n\n比特币在周末明显反弹，主要期限IV相对稳定，结构逐渐回归，Dvol仍然高企，本周波动预期小于前两周，Sell或许是更高的选择，特别是sell put。\n\nBitfinex绿叶利率市场有大户持续加仓，但利率未能持续反弹回升，目前处于正常水平，建议观望高利率订单再出手。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46182.html",
-          "publishedOn": "2024-04-22T03:56:56.000Z",
-          "wordCount": 455,
-          "title": "Greeks.live：加密市场相对平稳，周末部分热点项目推高BTC手续费使矿工收入暂时增加",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46181.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据欧易OKX行情数据显示，BTC回升至66000美元上方，24小时涨幅达1.32%，现报价66064美元。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46181.html",
-          "publishedOn": "2024-04-22T03:50:53.000Z",
-          "wordCount": 450,
-          "title": "BTC回升至66000美元上方，24小时涨幅达1.32%",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46180.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据欧易OKX行情数据显示，ETH突破3200美元，24小时涨幅达1.15%，现报价3204美元。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46180.html",
-          "publishedOn": "2024-04-22T03:48:28.000Z",
-          "wordCount": 450,
-          "title": "ETH突破3200美元，24小时涨幅达1.15%",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46179.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据Spot On Chain监测，疑似为MakerDAO多重签名地址 0xbba，在价格下跌之前已持续将$MKR移出。\n\n在过去的 2 周内，多签地址几乎每天向Wintermute Trading 发送总计 4,535 $MKR （价值约1440 万美元），然后存入 CEX，如Binance 、 Coinbase或Kraken ， 并且存款后价格趋于下降。 现在，多重签名仍持有 21,928 $MKR （价值约6580 万美元），并且可能会转出更多代币。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46179.html",
-          "publishedOn": "2024-04-22T03:24:19.000Z",
-          "wordCount": 493,
-          "title": "疑似MakerDAO多签地址2周内将约1440万美元MKR转至Wintermute",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46178.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Backpack发布推文宣布，由于当前 PRCL and Earn 活动受到热烈追捧，将于4月22日 20:00结束比赛，即将推出第 3 阶段。\n\n此前消息，Backpack将空投100 万枚PRCL给交易PRCL的用户，50万枚PRCL奖励给前十名。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46178.html",
-          "publishedOn": "2024-04-22T03:19:57.000Z",
-          "wordCount": 479,
-          "title": "Backpack将于今日20点结束PRCL and Earn活动，即将推出第 3 阶段",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46177.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，4月22日，领涨板块分别为VR、Bot以及Meme板块，其中VT 24小时涨幅7.3%，AIMBOT 24小时涨幅 7.14%，SHIB 24小时涨幅 9.33%。\n\n截止发稿，实时涨幅榜单前三的币种分别为SYNC、CATBOY、GOMD。成交额榜单前三的币种分别为BTC、ETH、SOL。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46177.html",
-          "publishedOn": "2024-04-22T02:25:06.000Z",
           "wordCount": 464,
-          "title": "Bitget 每日行情资讯：实时涨幅榜前三的币种分别为SYNC、CATBOY、GOMD",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46176.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，以太坊 Layer 2 网络 LightLink 发布推文表示，将向 Mocavers NFT 持有者空投 LL 代币，每枚 Mocavers NFT 将获得 1000 枚 LL。\n\n索赔详细信息即将在 MOCA Discord 上发布。\n\n其代币 LL的LBP 在Fjord Foundry上线，已有 1,350 名参与者加入并获得了 70％ 的代币。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46176.html",
-          "publishedOn": "2024-04-22T01:41:48.000Z",
-          "wordCount": 507,
-          "title": "L2项目LightLink将向每枚Mocavers NFT空投1000枚LL代币",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46175.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，再质押协议Renzo宣布，Pendle将开放新的长期ezETH池（2024年12月24日到期），并将ezPoints提升3倍。\n\nLPs在即将到期的ezETH池（2024年4月24日到期）将有机会延长策略。准备好迁移并分散 $ezETH 持有，同时赚取3倍的 ezPoints、Eigenlayer 积分，以及ETH再质押和AVS奖励。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46175.html",
-          "publishedOn": "2024-04-22T01:36:37.000Z",
-          "wordCount": 459,
-          "title": "Renzo：Pendle将开放新的长期ezETH池，将ezPoints提升3倍",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46174.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Solana生态DEX Jupiter的宣布其第二次LFG投票已经结束，有创纪录的2.3亿JUP参与了投票，共有33.4万选民参与其中。流动性质押协议sanctum和去中心化AI网络信息分析平台UpRock赢得了投票，成为下一个在LFG上推出的两个团队。\n\n下一轮LFG的CWG介绍也将在下周恢复。如果你对参与LFG感兴趣，可以在论坛上申请。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46174.html",
-          "publishedOn": "2024-04-22T01:25:51.000Z",
-          "wordCount": 453,
-          "title": "Jupiter：LSD协议sanctum和AI项目UpRock赢得第二轮LFG投票",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46173.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，DotSwap发布推文表示，其是一个旨在提供各种符文服务的平台，包括Etch, Mint, Swap, Accelerate和Launch。他们推出了Runes Launchpad，通过创新和可定制的“Mint + Liquidity”方法来增加符文的发布速度。用户可以通过快速获得流动性池来进行铸币，而铸币速度会随着比特币区块的增加而加快。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46173.html",
-          "publishedOn": "2024-04-22T01:19:20.000Z",
-          "wordCount": 471,
-          "title": "DotSwap宣布推出Runes Launchpad，可通过“Mint + Liquidity”方法来增加符文的发布速度",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46172.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息， NFT 项目 CyberKongz 部署的 2 号符文 DECENTRALIZED 发布推文表示，尚未进行快照，将会提前宣布，下周公布分配方案，Prometheans Discord Holder验证即将推出。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46172.html",
-          "publishedOn": "2024-04-22T01:08:28.000Z",
-          "wordCount": 469,
-          "title": "NF项目CyberKongz部署的2号符文DECENTRALIZED下周将公布分配方案",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46171.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据crowdfundinsider报道，FTX的投资者已与前CEO SBF达成和解，以追究其他推动者的责任。SBF可能会提供关键信息协助调查。其他FTX / Alameda的高管也已同意和解。被告名单包括在迈阿密合并的一系列诉讼。\n\nSBF将提供与FTX有关的关键信息，如其他风险投资者的资料以及与数字货币交易所密切合作的会计师和法律团队。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46171.html",
-          "publishedOn": "2024-04-22T00:39:39.000Z",
-          "wordCount": 457,
-          "title": "FTX的投资者已与SBF达成和解，以追究其他推动者的责任",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46170.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Solana 生态 DePIN 协议 io.net 官方在 Discord 中发布声明称，今日网站显示的积分是新的 pre-TGE 网站用户界面早期测试的一部分。\n\n已经更新了 UI，删除了积分部分。网站显示的积分值仅来自内部测试，并不反映用户的 Ignition 奖励计划中的真实积分。工程团队正在努力，准备就绪并经过验证后将显示奖励积分。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46170.html",
-          "publishedOn": "2024-04-22T00:32:53.000Z",
-          "wordCount": 475,
-          "title": "io.net：网页显示的积分是TGE前网站UI的测试，不代表用户的Ignition奖励计划的真实积分",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46169.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Ordinals开发者Leonidas发布推文，已完成空投DOG的Runestone快照。\n\n每枚Runestone NFT可获得889,806枚DOG符文空投，单个地址持有多个Runestone不会影响获得的空投数量。DOG将在未来几天自动空投到用户钱包中，不需要申领。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46169.html",
-          "publishedOn": "2024-04-22T00:19:52.000Z",
-          "wordCount": 453,
-          "title": "Ordinals开发者：已完成Runestone持有者快照，每枚NFT将获得889,806枚DOG符文",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46168.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据链上侦探ZachXBT监测，过去 1 个月，12 个 Solana 预售 meme 币在筹集超过180,650 枚SOL（价值约2670 万美元）后被完全放弃了。\n\n其建议应忽视这些创始人发起的任何未来项目。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46168.html",
-          "publishedOn": "2024-04-22T00:04:11.000Z",
-          "wordCount": 469,
-          "title": "ZachXBT：12个meme项目过去1个月筹集超18万枚SOL后直接Rug",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_46167.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据官方页面显示，io.net 已开放积分查询。\n\n此前消息，io.net  于3 月 1 日启动第一阶段积分奖励计划。该计划名为 Ignition，将持续到 4 月 28 日。该计划将根据用户向网络提供的 GPU 来奖励积分。",
-          "link": "https://www.techflowpost.com/newsletter/detail_46167.html",
-          "publishedOn": "2024-04-21T16:02:49.000Z",
-          "wordCount": 492,
-          "title": "Solana 生态 DePIN 协议 io.net 已开放积分查询",
+          "title": "火币HTX数据监测显示，PRCL 快速上涨，24H最高涨幅 29%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
       ]
