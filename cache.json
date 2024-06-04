@@ -1,6 +1,113 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=113836",
+          "author": "Gao",
+          "description": "贝莱德IBIT市值突破200亿美元，持仓超29.1万枚比特币。美国威斯康星州养老金计划或将增加现货比特币ETF投资。Polygon智能手机CGLPhone公布售价，超级版价格约合94.59美元。",
+          "link": "https://www.web3sj.com/news/113836/",
+          "publishedOn": "2024-06-04T14:17:27.000Z",
+          "wordCount": 884,
+          "title": "Web3世界日报（2024-6.4）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024060414150673.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113809",
+          "author": "Gao",
+          "description": "我的方法是：对于普通桥接交易，哪个桥最便宜？由于 L2 到 L2、ETH 到 L2、L2 到 ETH 的交易规模和费用差异很大，我将分别研究这些情况。对于选择哪些 L2，我建议我们看三个最大的：Arbitrum（Arb）、Base、Optimism（OP）。",
+          "link": "https://www.web3sj.com/news/113809/",
+          "publishedOn": "2024-06-04T07:30:59.000Z",
+          "wordCount": 1125,
+          "title": "谁才是最便宜的跨链桥？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717486242593.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113804",
+          "author": "Gao",
+          "description": "Chrome 扩展 (Chrome Extension) 是为谷歌浏览器 (Google Chrome) 设计的插件，能够扩展浏览器的功能和行为。它们可以自定义用户的浏览体验，添加新的特性或内容，或者与网站交互。Chrome 扩展通常由 HTML、CSS、JavaScript 以及其他网页技术构建。",
+          "link": "https://www.web3sj.com/news/113804/",
+          "publishedOn": "2024-06-04T07:20:47.000Z",
+          "wordCount": 1077,
+          "title": "慢雾：Chrome恶意扩展盗取百万美金解惑",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717485627136.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113795",
+          "author": "Gao",
+          "description": "这一提案的价值在于，通过快速试错和高效迭代来促进协议设计创新，同时通过 OffChain 模拟仿真环节提前排查经济安全风险点，提升设计质量并降低试错成本。此外，该模型作为交互性教育工具，旨在增强用户对 GHO 系统的理解与信任，并提升社区参与治理的能力与响应速度。",
+          "link": "https://www.web3sj.com/definews/113795/",
+          "publishedOn": "2024-06-04T07:14:31.000Z",
+          "wordCount": 1191,
+          "title": "「Trustless」从模型开始：社区友好的GHO（Aave）仿真模型",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717485191841.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113782",
+          "author": "Gao",
+          "description": "V2 的部署有利于将 Sei 打造成「首个并行化 EVM 区块链」。此更新使 Sei 代码能够兼容 EVM，并向 EVM 开发者开放。",
+          "link": "https://www.web3sj.com/project/113782/",
+          "publishedOn": "2024-06-04T06:37:44.000Z",
+          "wordCount": 1123,
+          "title": "推出V2后的Sei还是被低估了？升级对技术和币价影响几何？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717483037765.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113775",
+          "author": "Gao",
+          "description": "波动性主要源于美制造业数据弱于预期，这再次引发了关于美联储是否会最早在 9 月启动降息的争论。芝加哥商品交易所的 FedWatch 工具显示，对 9 月降息的预期已从一周前的 49% 上升至 59%。",
+          "link": "https://www.web3sj.com/transaction/113775/",
+          "publishedOn": "2024-06-04T06:32:09.000Z",
+          "wordCount": 999,
+          "title": "Bitfinex分析师：BTC本轮抛压或已接近尾声",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717482704912.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113761",
+          "author": "Gao",
+          "description": "NOT 本身通过抵押功能减少了流通供应量，以及生态系统项目方进行的代币销毁也是其上涨的主要原因之一。大约有 1800 万 NOT（约 35 万美元）被销毁并永久退出流通（减少卖压）。加密社区成员 @CryptoStreamHub 表示，虽然这看起来并不多，但投资者可能会预期未来会有更多的销毁，毕竟这是加密货币，估值并不一定要合理。",
+          "link": "https://www.web3sj.com/news/113761/",
+          "publishedOn": "2024-06-04T06:01:38.000Z",
+          "wordCount": 1133,
+          "title": "一周市值增长20亿美元，复盘NOT的「大规模造富」行动",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717480664958.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113758",
+          "author": "Gao",
+          "description": "Krause 将 BTC 称为州养老基金的「好投资」，强调 BTC 在多样化方面的作用，例如其高潜在的上行回报以及其作为对冲通胀的用途等。",
+          "link": "https://www.web3sj.com/news/113758/",
+          "publishedOn": "2024-06-04T04:51:57.000Z",
+          "wordCount": 900,
+          "title": "美国威斯康星州投资现货BTC ETF，是否会带来下一波跟投热潮？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717476701116.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113755",
+          "author": "Gao",
+          "description": "以开源协议集成的方式切入 Oracle 市场，意味着：更轻量化和定制化，API3 的 Airnode 让满足基本运维能力的「节点」都能以轻量化的方式部署预言机服务，尤其是一些直接拥有数据源的 API 提供方可以通过 Airnode 直接将原始数据供给 DApp 智能合约需求方。",
+          "link": "https://www.web3sj.com/news/113755/",
+          "publishedOn": "2024-06-04T04:45:32.000Z",
+          "wordCount": 1007,
+          "title": "如何看待被誉为预言机赛道黑马的API3？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717476298224.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113726",
+          "author": "Gao",
+          "description": "今天SOFA测试网也是刚刚上线，看到这篇文章的你已经成为最早期的项目参与者了，跟随我的文字攻略进行测试吧。",
+          "link": "https://www.web3sj.com/definews/113726/",
+          "publishedOn": "2024-06-03T15:13:31.000Z",
+          "wordCount": 1065,
+          "title": "【空投教程】链上结构化产品协议，SOFA测试网任务教程",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/image-6.png"
+        }
+      ]
+    },
+    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
