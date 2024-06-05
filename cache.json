@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=113874",
+          "author": "Gao",
+          "description": "该平台利用未使用的 GPU 周期，将需要计算能力的内容创作者与拥有多余计算能力的 GPU 提供者连接起来，通过利用这些闲置的 GPU，项目实现了更高效的资源利用，使创作者能够以成本效益的方式访问 GPU 资源。",
+          "link": "https://www.web3sj.com/ainews/113874/",
+          "publishedOn": "2024-06-05T04:15:29.000Z",
+          "wordCount": 1359,
+          "title": "详解Render Network：链接全球GPU能源，引领3D渲染新革命",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717560902660.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113859",
+          "author": "Gao",
+          "description": "展望未来，通往一个充满代币化资产的区块链环境的道路似乎越来越可行。资产代币化的增长显而易见，但仅仅将资产数字化并不能完全解决资本市场固有的问题。数字化资产的真正价值将取决于其功能性和在整个金融市场中的流通便利性，资产代币化将成为迈向更加一体化的金融系统的基础性举措。",
+          "link": "https://www.web3sj.com/news/113859/",
+          "publishedOn": "2024-06-05T04:05:08.000Z",
+          "wordCount": 1076,
+          "title": "一览2024年代币化资产RWA发展",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717560291503.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113854",
+          "author": "Gao",
+          "description": "与此同时，灰度的 GBTC 和贝莱德的 IBIT 在同一天录得零净流量。Bitwise ETF BITB 录得 1400 万美元的资金流入，而 Ark21Shares 的 ARKB ETF 则录得高达 1000 万美元的正向资金流入。",
+          "link": "https://www.web3sj.com/news/113854/",
+          "publishedOn": "2024-06-05T03:50:39.000Z",
+          "wordCount": 958,
+          "title": "三周流入24亿美元，比特币ETF强势归来",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717559407493.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=113836",
           "author": "Gao",
           "description": "贝莱德IBIT市值突破200亿美元，持仓超29.1万枚比特币。美国威斯康星州养老金计划或将增加现货比特币ETF投资。Polygon智能手机CGLPhone公布售价，超级版价格约合94.59美元。",
           "link": "https://www.web3sj.com/news/113836/",
           "publishedOn": "2024-06-04T14:17:27.000Z",
-          "wordCount": 925,
+          "wordCount": 908,
           "title": "Web3世界日报（2024-6.4）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024060414150673.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "我的方法是：对于普通桥接交易，哪个桥最便宜？由于 L2 到 L2、ETH 到 L2、L2 到 ETH 的交易规模和费用差异很大，我将分别研究这些情况。对于选择哪些 L2，我建议我们看三个最大的：Arbitrum（Arb）、Base、Optimism（OP）。",
           "link": "https://www.web3sj.com/news/113809/",
           "publishedOn": "2024-06-04T07:30:59.000Z",
-          "wordCount": 1126,
+          "wordCount": 1166,
           "title": "谁才是最便宜的跨链桥？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717486242593.png"
         },
@@ -31,7 +61,7 @@
           "description": "Chrome 扩展 (Chrome Extension) 是为谷歌浏览器 (Google Chrome) 设计的插件，能够扩展浏览器的功能和行为。它们可以自定义用户的浏览体验，添加新的特性或内容，或者与网站交互。Chrome 扩展通常由 HTML、CSS、JavaScript 以及其他网页技术构建。",
           "link": "https://www.web3sj.com/news/113804/",
           "publishedOn": "2024-06-04T07:20:47.000Z",
-          "wordCount": 1075,
+          "wordCount": 1077,
           "title": "慢雾：Chrome恶意扩展盗取百万美金解惑",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717485627136.png"
         },
@@ -41,7 +71,7 @@
           "description": "这一提案的价值在于，通过快速试错和高效迭代来促进协议设计创新，同时通过 OffChain 模拟仿真环节提前排查经济安全风险点，提升设计质量并降低试错成本。此外，该模型作为交互性教育工具，旨在增强用户对 GHO 系统的理解与信任，并提升社区参与治理的能力与响应速度。",
           "link": "https://www.web3sj.com/definews/113795/",
           "publishedOn": "2024-06-04T07:14:31.000Z",
-          "wordCount": 1178,
+          "wordCount": 1201,
           "title": "「Trustless」从模型开始：社区友好的GHO（Aave）仿真模型",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717485191841.png"
         },
@@ -51,7 +81,7 @@
           "description": "V2 的部署有利于将 Sei 打造成「首个并行化 EVM 区块链」。此更新使 Sei 代码能够兼容 EVM，并向 EVM 开发者开放。",
           "link": "https://www.web3sj.com/project/113782/",
           "publishedOn": "2024-06-04T06:37:44.000Z",
-          "wordCount": 1094,
+          "wordCount": 1118,
           "title": "推出V2后的Sei还是被低估了？升级对技术和币价影响几何？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717483037765.png"
         },
@@ -61,7 +91,7 @@
           "description": "波动性主要源于美制造业数据弱于预期，这再次引发了关于美联储是否会最早在 9 月启动降息的争论。芝加哥商品交易所的 FedWatch 工具显示，对 9 月降息的预期已从一周前的 49% 上升至 59%。",
           "link": "https://www.web3sj.com/transaction/113775/",
           "publishedOn": "2024-06-04T06:32:09.000Z",
-          "wordCount": 980,
+          "wordCount": 983,
           "title": "Bitfinex分析师：BTC本轮抛压或已接近尾声",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717482704912.png"
         },
@@ -71,39 +101,9 @@
           "description": "NOT 本身通过抵押功能减少了流通供应量，以及生态系统项目方进行的代币销毁也是其上涨的主要原因之一。大约有 1800 万 NOT（约 35 万美元）被销毁并永久退出流通（减少卖压）。加密社区成员 @CryptoStreamHub 表示，虽然这看起来并不多，但投资者可能会预期未来会有更多的销毁，毕竟这是加密货币，估值并不一定要合理。",
           "link": "https://www.web3sj.com/news/113761/",
           "publishedOn": "2024-06-04T06:01:38.000Z",
-          "wordCount": 1116,
+          "wordCount": 1135,
           "title": "一周市值增长20亿美元，复盘NOT的「大规模造富」行动",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717480664958.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113758",
-          "author": "Gao",
-          "description": "Krause 将 BTC 称为州养老基金的「好投资」，强调 BTC 在多样化方面的作用，例如其高潜在的上行回报以及其作为对冲通胀的用途等。",
-          "link": "https://www.web3sj.com/news/113758/",
-          "publishedOn": "2024-06-04T04:51:57.000Z",
-          "wordCount": 904,
-          "title": "美国威斯康星州投资现货BTC ETF，是否会带来下一波跟投热潮？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717476701116.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113755",
-          "author": "Gao",
-          "description": "以开源协议集成的方式切入 Oracle 市场，意味着：更轻量化和定制化，API3 的 Airnode 让满足基本运维能力的「节点」都能以轻量化的方式部署预言机服务，尤其是一些直接拥有数据源的 API 提供方可以通过 Airnode 直接将原始数据供给 DApp 智能合约需求方。",
-          "link": "https://www.web3sj.com/news/113755/",
-          "publishedOn": "2024-06-04T04:45:32.000Z",
-          "wordCount": 1030,
-          "title": "如何看待被誉为预言机赛道黑马的API3？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717476298224.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113726",
-          "author": "Gao",
-          "description": "今天SOFA测试网也是刚刚上线，看到这篇文章的你已经成为最早期的项目参与者了，跟随我的文字攻略进行测试吧。",
-          "link": "https://www.web3sj.com/definews/113726/",
-          "publishedOn": "2024-06-03T15:13:31.000Z",
-          "wordCount": 1050,
-          "title": "【空投教程】链上结构化产品协议，SOFA测试网任务教程",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/image-6.png"
         }
       ]
     },
@@ -128,7 +128,7 @@
           "description": "PANews 6月5日消息，慢雾创始人余弦在X平台发文表示，价值210万美元的再质押资产Balancer ezETH-WETH Stable Pool （ezETH-WETH-BPT）一笔被盗，又是Permit离线授权签名被钓导致。顺便说下，再质押资产里有些支持Permit机制，有些不支持，标准实践就是如此的割裂。",
           "link": "https://panewslab.com/zh/articledetails/0ums34pj.html",
           "publishedOn": "2024-06-05T02:01:26.000Z",
-          "wordCount": 363,
+          "wordCount": 381,
           "title": "某用户价值210万美元的再质押资产ezETH-WETH-BPT被盗",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 6月5日消息，日本DMM.com集团旗下加密交易所DMM Bitcoin发布公告称，其针对5月31日的被盗事件，发布了确保财务基础和采购比特币的信息。关于确保财务基础的计划，按照以下时间表实施：1.6月3日，债务融资50亿日元（已实施）；2.6月7日，增资融资480亿日元；3.6月10日，次级债务融资20亿日元。三种融资共计筹集550亿日元（约3.54亿美元）。关于比特币采购，将继续采购与被盗数量等值的比特币，同时注意不要影响市场。\nDMM Bitcoin表示，目前正在继续进行调查，以确定未经授权的泄漏的原因。一旦了解详情，将发布报告。\n此前5月31日消息，DMMBitcoin的钱包价值约3亿美元的比特币被盗，平台已对部分服务采取限制措施。",
           "link": "https://panewslab.com/zh/articledetails/tcnt8n8r.html",
           "publishedOn": "2024-06-05T01:57:10.000Z",
-          "wordCount": 361,
+          "wordCount": 383,
           "title": "DMM Bitcoin针对被盗事件正筹集约3.54亿美元，并计划购买与被盗数量等值的比特币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 6月5日消息，据HODL15Capital监测，澳大利亚的Monochrome比特币ETF在交易首日（6月4日）仅有1枚比特币流入。据悉，Monochrome比特币ETF系澳大利亚首个比特币现货ETF。",
           "link": "https://panewslab.com/zh/articledetails/20c5zg3t.html",
           "publishedOn": "2024-06-05T01:22:12.000Z",
-          "wordCount": 347,
+          "wordCount": 367,
           "title": "澳大利亚首个比特币现货ETF交易首日资金流入为1枚BTC",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "PANews 6月5日消息，据官方消息，链游Pirate Nation基金会宣布将于2024年6月13日在以太坊网络推出ERC-20代币PIRATE。\nPIRATE总量10亿枚，其中社区分配47%、团队分配28%、生态系统分配13.25%、投资者与顾问分配11.75%。在TGE（代币生成事件）当天，唯一能够申领PIRATE代币的将是Pirate Nation的玩家和收藏家。美国公民将无法申领PIRATE代币。",
           "link": "https://panewslab.com/zh/articledetails/zh6eqc2v.html",
           "publishedOn": "2024-06-05T01:09:50.000Z",
-          "wordCount": 362,
+          "wordCount": 358,
           "title": "Pirate Nation基金会6月13日将推出PIRATE代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "PANews 6月5日消息，彭博ETF分析师Eric Balchunas在X平台表示：“美国首只杠杆以太坊ETF，即Volatility Shares2倍以太坊ETF（ETHU）今日上市，交易量超过500万美元，这对于新上市的ETF来说已经很不错了，而且比所有以太币期货ETF上市首日的交易量总和还要多，但与比特币相比，这仍然微不足道。从背景来看，IBIT和BITO 在第一天都达到了这个交易量的 200 倍。不过公平地说，这些都是由大型发行商推出的仅做多基金。而这是一个由独立公司推出的2倍杠杆产品。所以，再重申一下，好消息是：相对于普通的 ETF，首日交易量很大；坏消息是：与比特币相比，这个交易量微不足道。”",
           "link": "https://panewslab.com/zh/articledetails/na9cn8c0.html",
           "publishedOn": "2024-06-05T00:53:58.000Z",
-          "wordCount": 370,
+          "wordCount": 368,
           "title": "美国首只杠杆以太坊ETF已上市，首日交易量超500万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 6月5日消息，慢雾科技首席信息安全官23pds在X平台发文称：“个人/机构资产丢失原因占比排行榜：1.助记词、私钥泄漏，占32%；2.钱包使用不当，签名钓鱼，占18%；3.下载假钱包、虚假交易软件，占16%；4.首尾号、木马软件钓鱼，占13%；5.专业黑客团伙攻击，占6%；6.虚假聊天软件，中间篡改，占8%；7.存放交易平台被定点攻击、钓鱼，占4%；8.转账、操作错误、旁氏、合约漏洞等，占3%；你觉得自己存资产更安全？简直就是个笑话。99%的人自己保管不好自己的资产，你也别指望你就是那1%。”",
           "link": "https://panewslab.com/zh/articledetails/833yvizm.html",
           "publishedOn": "2024-06-05T00:32:44.000Z",
-          "wordCount": 343,
+          "wordCount": 361,
           "title": "慢雾发布加密资产丢失原因占比排行榜，称99%的人自己保管不好自己的资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -325,7 +325,7 @@
           "description": "6月4日消息，美国交易所交易基金提供商Global X ETFs表示，在2025年1月3日之前，其Global X比特币和以太坊ETP将不收取任何费用，之后费用将变为0.29%。这两款产品最初于2022年3月在法兰克福的Xetra交易所和苏黎世的瑞士证券交易所上市，总费用率为0.65%。",
           "link": "https://www.hellobtc.com/news/202406/22325.html",
           "publishedOn": "2024-06-04T05:29:00.000Z",
-          "wordCount": 304,
+          "wordCount": 314,
           "title": "Global X将在欧洲推出的比特币和以太坊ETP费用降至零",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -427,13 +427,133 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
+          "id": "https://www.techflowpost.com/newsletter/detail_49715.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 6 月 4 日）比特币现货 ETF 总净流入 8.87 亿美元。昨日灰度（Grayscale）ETF GBTC 单日净流入 2819.57 万美元，目前 GBTC 历史净流出为 178.74 亿美元。\n\n昨日单日净流入最多的比特币现货 ETF 为富达（Fidelity）ETF FBTC，单日净流入为 3.79 亿美元，目前 FBTC 历史总净流入达 93.46 亿美元。其次为贝莱德（BlackRock）ETF IBIT，单日净流入为 2.74 亿美元，目前 IBIT 历史总净流入达 169.26 亿美元。\n\n截止发稿前，比特币现货 ETF 总资产净值为 614.60 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.43%，历史累计净流入已达 148.49 亿美元。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49715.html",
+          "publishedOn": "2024-06-05T04:16:28.000Z",
+          "wordCount": 570,
+          "title": "比特币现货 ETF 昨日总净流入 8.87 亿美元，创历史第二高单日净流入",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49714.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据《朝鲜日报》报道，Bithumb 旗下元宇宙公司 Bithumb Meta 的 NFT 交易平台 NAEMO Market 将于 6 月 30 日关闭服务。\n\nNemo Market 此前于 2022 年 8 月份推出。自去年年底以来，NAEMO Market 实际上已停止运营。\n\nBithumb Meta 正在裁减大部分员工，包括 Nemo World 的主要开发人员，并且正在进行重组。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49714.html",
+          "publishedOn": "2024-06-05T03:43:07.000Z",
+          "wordCount": 556,
+          "title": "Bithumb Meta 将于 6 月 30 日关闭 NFT 交易平台 NAEMO Market",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49713.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 10x Research 最新文章表示，美国经济正在放缓，就目前而言，这是一件好事。 GDP仅略高于1%， ISM制造业指数连续几个月处于收缩状态，就业面持续疲软，对消费者支出产生负面影响。昨晚，另一个关键且具有前瞻性的就业指标“职位空缺”显着放缓，所有这些都将导致通胀下降。\n\n本周五我们将获得更多就业数据，较弱的意外可能会导致降息，下周我们将收到 CPI 通胀报告。如果 CPI 同比增长 3.3% 或更低，则可能将比特币推至历史新高。\n\n由美国就业或通胀下降引发的收盘价无疑将在本周五至下周三之间创下历史新高。因此，我们预计到下周末，比特币将创下历史新高（>73,500）。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49713.html",
+          "publishedOn": "2024-06-05T03:17:54.000Z",
+          "wordCount": 499,
+          "title": "10x Research：预计下周比特币将创历史新高",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49712.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Injective 官方表示，5 月是 Injective 生态快速增长的一个月，随着 Injective 代币经济学升级提案 INJ 3.0 的推出，代币销毁拍卖快速加速，仅 5 月份就销毁了超过 60,000 枚代币。此外，超过 5000 万枚 INJ 被质押到链上，导致 Injective 总质押比例创历史新高。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49712.html",
+          "publishedOn": "2024-06-05T03:09:05.000Z",
+          "wordCount": 534,
+          "title": "Injective：5 月已销毁 6 万枚 INJ，超 5000 万枚 INJ 被质押",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49711.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Spotonchain 监测，某鲸鱼在过去一小时内将 1000 枚 WETH（383 万美元）换成了 1493 亿枚 SHIB。\n\n鲸鱼的最后一次 SHIB 活动是 3 年前出售 1670 亿枚 SHIB（613 万美元）。这些代币来自一位超级早期买家，他于 2021 年 3 月 1 日仅用 45 枚 ETH（6.37 万美元）购买了 51600 亿枚 SHIB。该鲸鱼仍持有 1169 枚 WETH（445 万美元）并且可能购买更多 SHIB。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49711.html",
+          "publishedOn": "2024-06-05T03:07:44.000Z",
+          "wordCount": 570,
+          "title": "某鲸鱼在过去 1 小时内花费 1000 枚 WETH 买入 1493 亿枚 SHIB",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49710.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，XT.COM推出端午节活动，活动时间2024年06月05日00:00 - 06月16日24:00（UTC+8），参与活动完成交易任务即可领取端午节奖励和幸运积分，完成组合任务还能获取额外体验金奖励。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49710.html",
+          "publishedOn": "2024-06-05T03:04:08.000Z",
+          "wordCount": 479,
+          "title": "XT.COM 推出端午节活动，用户完成交易任务即可获取海量奖励",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49709.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，TON 突破 7.6 美元，现报 7.6485 美元，24小时涨幅 9.37%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49709.html",
+          "publishedOn": "2024-06-05T02:56:36.000Z",
+          "wordCount": 500,
+          "title": "TON 突破 7.6 美元，24小时涨幅 9.37%",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49708.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据链上分析师 @ai_9684xtpa 监测，过去 5 小时，巨鲸 0x345...48187 疑似建仓 511 万枚 ENA，价值 502 万美元，交易所转出价格为 0.9804 美元。\n\n这是该地址首次交易 ENA，目前已成为其持仓排名第二的资产；近一个月 ENA 币价上涨 18%，现价 0.9575 美元。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49708.html",
+          "publishedOn": "2024-06-05T02:53:20.000Z",
+          "wordCount": 532,
+          "title": "某巨鲸过去 5 小时疑似建仓 511 万枚 ENA，价值 502 万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49707.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 DefiLlama 数据，Solana 生态 LST 流动性聚合协议 Sanctum TVL 突破 10 亿美元，目前已达 10.28 亿美元，创历史新高。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49707.html",
+          "publishedOn": "2024-06-05T02:36:54.000Z",
+          "wordCount": 520,
+          "title": "Solana 生态 LST 流动性聚合协议 Sanctum TVL 突破 10 亿美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49706.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 The Block 报道，据一份声明称，Worldcoin 将暂停其在西班牙的活动直至今年年底，或者直到负责监督该项目根据欧盟通用数据保护条例 (GDPR) 开展活动的德国组织完成审计。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49706.html",
+          "publishedOn": "2024-06-05T01:58:30.000Z",
+          "wordCount": 493,
+          "title": "Worldcoin 将暂停在西班牙的活动至今年底，或直到 GDPR 审计完成",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49705.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，BTC 突破 71,000 美元，现报 71137,85 美元，24 小时涨幅 1.03%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49705.html",
+          "publishedOn": "2024-06-05T01:41:45.000Z",
+          "wordCount": 499,
+          "title": "行情：BTC 突破 71,000 美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_49704.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据币安行情数据，BNB 突破 700 美元，现报价 700.23  美元，24 小时涨幅 5.63%，创历史新高。\n\n据 8marketcap 数据显示，BNB 市值目前已超越平安保险，位列全球资产市值排名第 167 位。",
+          "link": "https://www.techflowpost.com/newsletter/detail_49704.html",
+          "publishedOn": "2024-06-05T01:27:25.000Z",
+          "wordCount": 506,
+          "title": "BNB 突破 700 美元，创历史新高",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
           "id": "https://www.techflowpost.com/newsletter/detail_49703.html",
           "author": null,
-          "description": "深潮 TechFlow 消息，轻量级区块链协议 Mina Protocol 宣布已完成升级，将成为主网上第一个具有通用 ZK 可编程性的 ZK 区块链。\n\n此前消息，Mina计划于6月4日进行Berkeley升级，将增强ZK可编程性等。",
+          "description": "深潮 TechFlow 消息，轻量级区块链协议 Mina Protocol 宣布已完成 Berkeley 升级，将成为主网上第一个具有通用 ZK 可编程性的 ZK 区块链。\n\n此前消息，Mina计划于6月4日进行Berkeley升级，将增强ZK可编程性等。",
           "link": "https://www.techflowpost.com/newsletter/detail_49703.html",
           "publishedOn": "2024-06-05T01:05:46.000Z",
-          "wordCount": 505,
-          "title": "轻量级区块链协议 Mina Protocol 已完成升级",
+          "wordCount": 506,
+          "title": "轻量级区块链协议 Mina Protocol 已完成 Berkeley 升级",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
         {
@@ -442,7 +562,7 @@
           "description": "深潮 TechFlow 消息，Ripple Labs首席执行官Brad Garlinghouse周二在接受福克斯商业频道采访时讨论了XRP现货ETF的未来前景。他表示，以太坊现货ETF获批为未来XRP等其他加密资产ETF的推出打开了大门。美国证券交易委员会（SEC）在与加密货币的战斗中将会失败。人们不想只投资一种商品，应向市场增加更多大宗商品，从而让投资者有更多交易选择。\n\nXRP ETF的推出是不可避免的，XRP现货ETF或将在2025年上市。Garlinghouse此前表示，继比特币和以太坊之后，XRP、SOL和ADA可能是接下来获批的加密现货ETF。",
           "link": "https://www.techflowpost.com/newsletter/detail_49702.html",
           "publishedOn": "2024-06-05T00:55:59.000Z",
-          "wordCount": 496,
+          "wordCount": 497,
           "title": "Ripple CEO：XRP 现货 ETF 的推出不可避免，或将在 2025 年上市",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +572,7 @@
           "description": "深潮 TechFlow 消息，据 CoinDesk 报道，美国证券交易委员会（SEC）的盐湖城办公室，因在加密货币世界中对DEBT Box提起的失败欺诈诉讼而备受争议，将因员工“大量流失”而关闭。据悉，部分员工因此案被解雇。此前，SEC律师Michael Welsh和Joseph Watkins因试图以误导性理由冻结犹他州加密货币公司DEBT Box的资产，被联邦法官以“滥用职权”为由制裁，两人已于4月辞职。\n\n上周，法官驳回了此案，并裁定SEC需向DEBT Box支付180万美元的法律费用。SEC表示，此次关闭是基于预算和组织效率的考虑，且不会关闭其他区域办公室。未来，执法管辖权将转至SEC的丹佛办公室。",
           "link": "https://www.techflowpost.com/newsletter/detail_49701.html",
           "publishedOn": "2024-06-05T00:42:26.000Z",
-          "wordCount": 498,
+          "wordCount": 499,
           "title": "SEC 将关闭在 DEBT Box 加密诉讼案中败诉的办公室",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +582,7 @@
           "description": "深潮 TechFlow 消息，据 CoinDesk 报道，根据美国证券交易委员会（SEC）的文件，贝恩资本计划推出第二只加密基金。\n\n贝恩资本于 2022 年 3 月推出首只加密基金，这只 5.6 亿美元的基金推出时恰逢 Do Kwon 的 Luna 崩盘引发的加密市场大规模暴跌。尽管随后经历了加密寒冬，贝恩资本在 2022 年和 2023 年期间依然是活跃的投资者，参与了如 Sam Altman 的 1.15 亿美元 Worldcoin 融资、隐私协议 Nocturne Labs 以及去中心化交易所聚合器 Flood 的多轮融资。",
           "link": "https://www.techflowpost.com/newsletter/detail_49700.html",
           "publishedOn": "2024-06-05T00:39:42.000Z",
-          "wordCount": 530,
+          "wordCount": 531,
           "title": "贝恩资本计划推出第二只加密基金",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +592,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，链游 Pirate Nation 基金会宣布将于 2024 年 6 月 13 日在以太坊网络推出 ERC-20 代币 PIRATE。\n\nPIRATE 总量 10 亿枚，其中社区分配 47%、团队分配 28%、生态系统分配 13.25%、投资者与顾问分配 11.75%。\n\n在 TGE（代币生成事件）当天，唯一能够申领 PIRATE 代币的将是 Pirate Nation 的玩家和收藏家。美国公民将无法申领 PIRATE 代币。",
           "link": "https://www.techflowpost.com/newsletter/detail_49699.html",
           "publishedOn": "2024-06-05T00:38:25.000Z",
-          "wordCount": 539,
+          "wordCount": 540,
           "title": "链游 Pirate Nation 基金会宣布将于6月13日推出代币 PIRATE",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -482,7 +602,7 @@
           "description": "深潮 TechFlow 消息，据 The Block 报道，根据 6 月 3 日的法律文件，FTX 计划向美国国税局支付 2 亿美元的优先税款和 6.85 亿美元的次级税款债权。优先税收债权（例如税款）是必须在其他债务之前支付的付款，而次级债权仅在履行优先义务后才支付。\n\nFTX 在破产法庭上辩称，其欠的金额远低于美国国税局声称的 240 亿美元。此前，美国国税局声称FTX欠税440亿美元，但后来将金额降至 240 亿美元。\n\n在公司破产期间负责管理公司的 FTX 债务人认为，美国国税局在计算时错误地纳入了 Sam Bankman-Fried 挪用的资金和其他税务责任。美国国税局不同意债务人的论点，并计划在无法达成和解的情况下寻求巨额税务责任。该案件的异议截止日期为 6 月 17 日，听证日期为 2024 年 6 月 25 日。",
           "link": "https://www.techflowpost.com/newsletter/detail_49698.html",
           "publishedOn": "2024-06-05T00:35:48.000Z",
-          "wordCount": 549,
+          "wordCount": 550,
           "title": "FTX：计划向美国国税局缴纳超 2 亿美元税款，而非 240 亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -492,7 +612,7 @@
           "description": "深潮 TechFlow 消息，此前控诉其成为“币圈卧底的牺牲品”的 X 平台用户 @CryptoNakamao 发布了更正说明，称币安事先确实不知情这个插件的情况，KOL 并不是币安的卧底。\n\n对此，币安回应道：“我们对您的遭遇再次表示遗憾，也感谢您能够帮忙澄清上一篇推文中对我们的误解。作为平台，我们深知用户对我们的预期——不只是把币存放在币安，还需要在他们因自身原因出现突发状况的时候，我们也可以帮忙拦截恶意交易。\n\n对于您的案例，我们的安全及风控团队进行了仔细的分析和复盘，对于异常的对敲交易，平台一直有类似的防控措施，但平台的风控确实应该继续提升和优化以在今后及时成功捕获这类情况。此前，我们已经通过我们的“漏洞赏金计划”设置了奖励机制，鼓励社区成员报告潜在的漏洞，提高对潜在威胁的认识，帮助我们更早地发现问题。\n\n您的此次遭遇提醒和帮助我们看到了更好的优化和升级空间，因此我们将给您申请一笔奖励作为回馈，也帮助您在丢失财产之后尽快度过难关。币安的风控和安全团队将继续调查此类事件，目前已对突发价格波动叠加大数据报警和人工双重确认，也会给用户增加提醒；在插件运行、Cookies的授权上会考虑是否增加验证频率，币安会根据具体情况和用户差异性增加安全验证环节。\n\n我们也借此机会提醒所有用户始终保持警惕，使用干净的网络浏览器，不要安装任何第三方插件，并在使用后注销登录。”",
           "link": "https://www.techflowpost.com/newsletter/detail_49697.html",
           "publishedOn": "2024-06-05T00:25:39.000Z",
-          "wordCount": 491,
+          "wordCount": 492,
           "title": "Binance：将申请一笔奖励作为某用户报告因恶意插件损失 100 万美元的回馈",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -502,7 +622,7 @@
           "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，BTC今晨短时突破 71000 美元，现报 70483.63 美元，日内涨幅 0.1%。",
           "link": "https://www.techflowpost.com/newsletter/detail_49696.html",
           "publishedOn": "2024-06-05T00:22:04.000Z",
-          "wordCount": 500,
+          "wordCount": 501,
           "title": "BTC 于今晨短时突破 71,000 美元，现报 70483.63 美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -512,17 +632,17 @@
           "description": "深潮 TechFlow 消息，据官方推文，STEPN 开发商 Find Satoshi Lab 宣布对 Mythos（MYTH）进行战略投资。\n\nFSL 表示，在 Mythical Games 从工作室转型为平台之前，其已经打造了 Blankos、NFL Rivals 和 Nitro Nation World Tour，并在各方面取得了优异的表现和数据。他们理解在 Web3 中二级市场交易的重要性，并认识到移动端普及的意义。\n\nMythos（MYTH）正在扩展，以服务并赋能更多的工作室。凭借团队在传统游戏方面的强大背景和在 Web3 领域多年的经验，了解真正重要的是什么。FSL 深信，投资并与 Mythos 合作具有很强的战略价值。",
           "link": "https://www.techflowpost.com/newsletter/detail_49695.html",
           "publishedOn": "2024-06-05T00:15:25.000Z",
-          "wordCount": 539,
+          "wordCount": 540,
           "title": "STEPN 开发商 Find Satoshi Lab 宣布对 Mythos（MYTH）进行战略投资",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
         {
           "id": "https://www.techflowpost.com/newsletter/detail_49694.html",
           "author": null,
-          "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，BNB 突破 680 美元，现报价 688.59 美元，24 小时涨幅 3.87%。\n\n据 Coingecko 最新数据显示，BNB 市值已突破 1000 亿美元，现为 105,431,997,272  美元，位居加密资产市值排名第 4 位。",
+          "description": "深潮 TechFlow 消息，据币安行情数据显示，BNB 突破 680 美元，现报价 688.59 美元，24 小时涨幅 3.87%。\n\n据 Coingecko 最新数据显示，BNB 市值已突破 1000 亿美元，现为 105,431,997,272  美元，位居加密资产市值排名第 4 位。",
           "link": "https://www.techflowpost.com/newsletter/detail_49694.html",
           "publishedOn": "2024-06-05T00:10:43.000Z",
-          "wordCount": 513,
+          "wordCount": 514,
           "title": "行情：BNB 突破 680 美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -532,7 +652,7 @@
           "description": "深潮 TechFlow 消息，据 Starknet Foundation 官方消息，比特币结算网络Chakra Network的技术团队与 Starknet 签署战略合作条款，共同推进比特币基建发展。\n\n据悉，Chakra 基于 ZK-Starks 的证明能够去信任化地同步与结算比特币状态，为Starknet 主网引入比特币流动性，和支持生态各类协议的资产结算。目前已基于 Babylon 开启第一阶段测试网，为实现未来结算层经济安全做保障。\n\n同时，Chakra 技术团队还将助力 Starknet 落地并行化，推动其共享排序器的发展。\n\n此前今日消息，StarkWare将启动100万美元基金，其相信OP_CAT是比特币扩展的最安全途径。",
           "link": "https://www.techflowpost.com/newsletter/detail_49693.html",
           "publishedOn": "2024-06-04T16:11:35.000Z",
-          "wordCount": 513,
+          "wordCount": 514,
           "title": "Starknet 与 Chakra 达成战略合作伙伴关系，共建比特币结算层",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -542,7 +662,7 @@
           "description": "深潮 TechFlow 消息，以太坊 L2 Fhenix 宣布完成 1500 万美元 A 轮融资，Hack VC 领投，Dao5、Amber Group、Primitive Ventures、GSR、Collider Ventures 和 Stake Capital 参投，截至目前该公司融资总额达到 2200 万美元。\n\n据悉 Fhenix 宣布推出其开放测试网络 Helium（最初计划命名为 Renaissance），允许开发人员在 Fhenix Layer 2 网络上部署“机密”智能合约。Fhenix 主网预计将于明年第一季度推出。\n\n此前2023年9月消息，全同态加密区块链Fhenix完成700万美元种子轮融资，Multicoin Capital等领投。",
           "link": "https://www.techflowpost.com/newsletter/detail_49692.html",
           "publishedOn": "2024-06-04T16:05:34.000Z",
-          "wordCount": 550,
+          "wordCount": 551,
           "title": "Fhenix 完成 1500 万美元 A 轮融资，Hack VC 领投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -552,7 +672,7 @@
           "description": "深潮 TechFlow 消息，据链上分析师余烬监测，在Uniswap Labs发推表示即将迎来大事件后，押注 ETH 生态的鲸鱼/机构继续买进了 29.5 万枚 $UNI ($3.02M)。\n\n他在最近一小时里将 610 万 USDT 转进币安，目前已经买进了 29.5 万枚 $UNI ($3.02M) 然后提回地址。\n\n他自 5/24 (ETH 现货 ETF 19-4 文件被批准后) 以来，已累计买进了 $35.45M 的 ETH 生态相关代币。",
           "link": "https://www.techflowpost.com/newsletter/detail_49691.html",
           "publishedOn": "2024-06-04T16:01:48.000Z",
-          "wordCount": 530,
+          "wordCount": 531,
           "title": "押注ETH生态的鲸鱼在Uniswap Labs称将迎来大事件后购入302万美元UNI",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
