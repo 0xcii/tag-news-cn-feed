@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-06T05:14:46.727Z</id>
+    <id>urn:2024-06-06T06:19:55.026Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-06T05:14:46.727Z</updated>
+    <updated>2024-06-06T06:19:55.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[三分钟速读Usual Protocol：如何构建RWA抵押型稳定币USD0？]]></title>
+        <id>https://www.web3sj.com/?p=113988</id>
+        <link href="https://www.web3sj.com/definews/113988/"/>
+        <updated>2024-06-06T06:11:26.000Z</updated>
+        <summary type="html"><![CDATA[稳定币更是 RWA 第一个用例。不论是法币背书的稳定币，还是被视为皇冠明珠的算法稳定币，都在为圣杯争夺你追我赶。USDT 以其总市值独占鳌头，USDC 以合规打出名声，新星算法稳定币 USDe 则以名人光环加持以及不断地品牌合作集成，走马圈地，闯出一片天地。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于链游：我做了1个调查，聊了62位玩家，得出7个结论]]></title>
+        <id>https://www.web3sj.com/?p=113984</id>
+        <link href="https://www.web3sj.com/gamefinews/113984/"/>
+        <updated>2024-06-06T06:01:11.000Z</updated>
+        <summary type="html"><![CDATA[上半年，我们团队也开始重点调研了链游这个赛道，我带着团队小伙伴也体验了不少游戏，体验下来，我们发现，有的游戏挺「好玩」，有的游戏其实就是 Web2 小游戏搬到了 Web3 上个链没创意，当然，也有一些都不能称之为「游戏」的链游，也拿了融资、上了大所······]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空投新机遇？解析Infinex：DApp破局之作]]></title>
+        <id>https://www.web3sj.com/?p=113978</id>
+        <link href="https://www.web3sj.com/project/113978/"/>
+        <updated>2024-06-06T05:52:03.000Z</updated>
+        <summary type="html"><![CDATA[用户体验（UX）不佳是实现区块链技术大规模应用这一愿景中的关键障碍。当前的去中心化产品和服务虽然功能强大，但由于使用门槛高，导致了用户与产品之间存在巨大鸿沟。许多人不愿跨越这道鸿沟，而 Infinex 试图通过简化用户体验，来帮助用户更轻松地进入去中心化世界。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[详解Sei的并行化执行：革新DeFi产品体验的关键拼图]]></title>
+        <id>https://www.web3sj.com/?p=113961</id>
+        <link href="https://www.web3sj.com/definews/113961/"/>
+        <updated>2024-06-06T05:38:53.000Z</updated>
+        <summary type="html"><![CDATA[当前主流区块链作为许多加密项目的基础，存在显著障碍。Sei Labs 团队认为现有基础设施无法跟上去中心化交易所（DEX）的需求。它们常常在吞吐量（每秒处理的交易数量）和最终确认时间（交易被认为完成和不可逆的时间）上存在限制。这导致性能缓慢，成为高频交易策略和大宗交易活动的主要障碍。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer2可月赚百万美元，拔得头筹的是谁？]]></title>
+        <id>https://www.web3sj.com/?p=113957</id>
+        <link href="https://www.web3sj.com/news/113957/"/>
+        <updated>2024-06-06T05:34:48.000Z</updated>
+        <summary type="html"><![CDATA[据 L2BEAT 数据显示，Base 的利润激增源于总锁定价值（TVL）的快速增长，而这又是由以太坊在三月份通过预期的 Dencun 升级实施 EIP-4844 和 proto-danksharding 所推动的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3新手系列：DEX为啥不做订单匹配也能撮合交易]]></title>
+        <id>https://www.web3sj.com/?p=113953</id>
+        <link href="https://www.web3sj.com/knowledge/113953/"/>
+        <updated>2024-06-06T05:32:12.000Z</updated>
+        <summary type="html"><![CDATA[于是就发明了 AMM（自动化做市商，Automated Market Maker），可以做到不用匹配订单也可以实现交易。大家可能会好奇，这怎么做到的，交易通常就是有人卖才有人能买啊？没错 AMM 就是做到了没人卖你也可以买。接下来就具体展开讲讲 AMM 是如何做到这一点的。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEV税是什么？谁交税？]]></title>
+        <id>https://www.web3sj.com/?p=113949</id>
+        <link href="https://www.web3sj.com/news/113949/"/>
+        <updated>2024-06-06T05:29:29.000Z</updated>
+        <summary type="html"><![CDATA[MEV 税（MEV taxes）是一种允许智能合约通过分析交易中的优先费用（priority fee）自动提取费用的机制。在此框架下，智能合约根据交易的优先费用收取一定比例的 MEV 税。优先费是用户为了加快其交易被网络确认的速度而支付的费用。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[币安新币挖矿上线 IO.NET (IO)，可使用BNB、FDUSD挖矿]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_49801.html</id>
@@ -210,6 +280,76 @@ Coinbase推出智能钱包，支持跨网络和应用程序的无Gas交易
         <summary type="html"><![CDATA[PANews 6月6日消息，据彭博ETF分析师Eric Balchunas监测的数据，美国首只杠杆以太坊ETF，即Volatility Shares 2倍以太坊ETF（ETHU），在第二个交易日的交易量达1500万美元，系首日的三倍。Balchunas对此数据评论称：“该数据令人印象深刻，通常交易量在第一天之后就会下降。”]]></summary>
         <author>
             <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约梅隆银行：39%的家办正在投资或探索加密货币]]></title>
+        <id>https://www.hellobtc.com/news/202406/22351.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22351.html"/>
+        <updated>2024-06-06T01:57:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年纽约梅隆银行财富管理研究显示，家族办公室对加密货币投资的看法存在分歧。接受调查的家族办公室中，约有39%的人正在积极投资加密货币或考虑投资加密货币，这凸显了他们对这一现代资产类别的浓厚兴趣。这些家族办公室的动机是希望跟上数字资产带来的新投资趋势和机会。 相反，同样比例 (38%) 的人表示对加密货币不感兴趣，原因是担心数字资产的高波动性和不明确的监管环境。黑客和网络犯罪等问题进一步阻碍了这些家族办公室参与加密货币。在那些探索或投资加密货币的人中，明显偏爱包含加密货币的公开市场 ETF，有些人则倾向于在交易所直接交易。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashKey Group COO：香港和加密货币关系会变成类似于纳斯达克与互联网的关系]]></title>
+        <id>https://www.hellobtc.com/news/202406/22350.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22350.html"/>
+        <updated>2024-06-06T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[HashKey集团首席运营官Livio Weng在最新采访中表示，AMLO牌照制度的实施，会让香港虚拟资产行业更加严谨规范，提升虚拟资产的接受度，吸引更多机构，特别是传统机构入场。香港将逐渐建设成为亚太地区最重要的虚拟资产市场之一，香港和Crypto（加密货币）的关系，会变成类似于纳斯达克与互联网的关系。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBTC资产管理规模已超过120亿美元]]></title>
+        <id>https://www.hellobtc.com/news/202406/22349.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22349.html"/>
+        <updated>2024-06-06T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The ETF Store总裁Nate Geraci在社交媒体表示，FBTC目前的资产管理规模已超过120亿美元，在ETF年度流入量中排名前七，FBTC已经是富达最大的ETF。不仅如此，富达还将进入所有ETF发行商资产规模的前10名。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmos Hub区块链凌晨开始经历近4小时中断，目前已恢复出块]]></title>
+        <id>https://www.hellobtc.com/news/202406/22348.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22348.html"/>
+        <updated>2024-06-06T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[6月6日消息，Cosmos Hub于今日凌晨4:32在X平台表示，Cosmos Hub正经历暂时的链中断。之后其在后续的帖子中表示，在v17升级期间，Hub验证者修补了Liquid Staking模块 (LSM) 中的安全漏洞。在多数验证者实施该修复漏洞的补丁后，Cosmos Hub于几分钟前表示，之前的问题已经修复，Cosmos Hub正在再次生成区块。Informal Systems和Hypha Cosmos将尽快发布包含所有详细信息的事后分析。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI员工发表公开信，警示人工智能监管缺失风险]]></title>
+        <id>https://www.hellobtc.com/news/202406/22347.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22347.html"/>
+        <updated>2024-06-06T01:56:00.000Z</updated>
+        <summary type="html"><![CDATA[美国开放人工智能研究中心（OpenAI）和谷歌旗下“深层思维”公司的13名现职员及前员工4日发表联名公开信，对人工智能行业在缺乏对“吹哨人”法律保护的背景下快速发展表达担忧。据多家外媒援引信件报道，这些员工认为，人工智能企业受利益驱使缺乏有效监管，现有企业治理架构不足以改变这一点。而不受监管的人工智能会触发虚假信息传播、人工智能系统丧失独立性和社会阶层不平等深化等多重风险。（央视新闻）]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊市场情绪指数达到2023年3月以来的最高水平]]></title>
+        <id>https://www.hellobtc.com/news/202406/22346.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22346.html"/>
+        <updated>2024-06-06T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[据福布斯报道，市场对以太坊的乐观情绪昨日攀升至14个月来的最高点。据加密货币分析提供商The Tie的数据，以太坊的长期情绪指数是通过对比过去50天内与过去200天内X（前称Twitter）上帖子的积极程度来计算得出。6月3日，该指数达到66.69，为自2023年3月24日以来的最高水平。任何高于50的分数都表明近期市场情绪更为乐观。 此外，据CoinMarketCap数据显示，以太坊价格在昨日经历温和波动，维持在3700美元至3900美元之间。而在5月20日，以太坊价格从低于3100美元迅速上涨至近3700美元，随后几周该数字货币的波动性一直保持在较低水平。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌收购虚拟应用交付平台Cameyo]]></title>
+        <id>https://www.hellobtc.com/news/202406/22345.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22345.html"/>
+        <updated>2024-06-06T01:55:00.000Z</updated>
+        <summary type="html"><![CDATA[据外电报道，谷歌今天宣布，已收购用于远程工作的虚拟应用交付平台 Cameyo Inc.，这将带来该公司在为内部员工提供云桌面方面的专业知识。  谷歌的 ChromeOS 团队和 Cameyo 并未透露有关交易条款或价值的任何细节。 Cameyo平台允许通过云将不同平台的不同应用程序交付到任何设备，包括 Windows、Linux、软件即服务和 Web 应用程序。这 很有用，因为采用 ChromeOS 等操作系统意味着放弃对 Windows 应用程序的访问，但 Cameyo允许企业信息技术团队将它们传输到运行新操作系统的台式机和笔记本电脑上。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -583,76 +723,6 @@ Gensler 周三还表示，大多数加密货币公司仍然根本没有发布披
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[韩国金融服务委员会计划设立新虚拟资产部门]]></title>
-        <id>https://www.hellobtc.com/news/202406/22341.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22341.html"/>
-        <updated>2024-06-05T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[韩国金融服务委员会计划在金融创新规划组下设立新的虚拟资产部门，并最迟在6月底之前完成管理人员的任命。金融服务委员会正在对虚拟资产调查人员进行相关培训，该部门将全面负责7月19日生效的《虚拟资产用户保护法》。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetaMask将推出由HyperPlay提供支持的Web3游戏目录]]></title>
-        <id>https://www.hellobtc.com/news/202406/22340.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22340.html"/>
-        <updated>2024-06-05T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[6月5日消息，数字资产钱包MetaMask已与支持Web3的游戏商店HyperPlay达成合作，将在MetaMask Portfolio内推出游戏发现和游戏内资产管理一站式商店“MetaMask游戏目录”。玩家将可直接在MetaMask平台内发现与MetaMask兼容的游戏。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[土耳其财政部长：不打算对股票和加密货币的利润征税]]></title>
-        <id>https://www.hellobtc.com/news/202406/22339.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22339.html"/>
-        <updated>2024-06-05T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[土耳其财政部长Mehmet Simsek表示，土耳其不打算对股票和加密货币的利润征税。政府正在考虑对这些资产征收“非常有限”的交易税，但没有具体说明其潜在规模。 此前土耳其考虑对股票和加密数字货币资产征收利得税。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人权基金会向推动比特币发展的全球项目资助10枚比特币]]></title>
-        <id>https://www.hellobtc.com/news/202406/22338.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22338.html"/>
-        <updated>2024-06-05T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[人权基金会（HRF）在奥斯陆自由论坛上宣布向推动比特币发展的全球项目资助10枚比特币，在撰写本文时目前价值704740美元，将用于全球13个不同的项目。据该新闻稿称，这些资金将用于推动专制制度下的人民教育、隐私和闪电网络开发、去中心化通信，以及为非营利组织和人权团体提供更便捷的金融自由工具。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC主席：ETH ETF批准的下一步“将需要一些时间”]]></title>
-        <id>https://www.hellobtc.com/news/202406/22337.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22337.html"/>
-        <updated>2024-06-05T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Fox Business记者Eleanor Terrett在X平台发文表示，SEC主席Gary Gensler表示，ETH ETF批准的下一步“将需要一些时间”，这可能表明S-1批准过程可能会缓慢进行。“加密货币交易所正在做的事情是法律永远不会允许纽约证券交易所或传统交易所做的事情。”]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大央行宣布降息25个基点至4.75%]]></title>
-        <id>https://www.hellobtc.com/news/202406/22336.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22336.html"/>
-        <updated>2024-06-05T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[加拿大央行宣布降息25个基点至4.75%，为G7国家“首降”。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达总市值达到2.9万亿美元]]></title>
-        <id>https://www.hellobtc.com/news/202406/22335.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22335.html"/>
-        <updated>2024-06-05T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[英伟达盘初涨1.5%，最高报1184美元/股，续刷历史新高，总市值达到2.9万亿美元。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-6.5）]]></title>
         <id>https://www.web3sj.com/?p=113932</id>
         <link href="https://www.web3sj.com/news/113932/"/>
@@ -678,76 +748,6 @@ Gensler 周三还表示，大多数加密货币公司仍然根本没有发布披
         <link href="https://www.web3sj.com/news/113907/"/>
         <updated>2024-06-05T05:22:55.000Z</updated>
         <summary type="html"><![CDATA[账户抽象 (Account Abstraction, AA) 的出现引起了广泛关注，它被视为解决以太坊用户体验问题的一项关键方案。然而，尽管 AA 被认为具有很大潜力，但在实际应用中一直是一个难题，直到最近才有所突破。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[a16z：理解Jolt zkVM相关思考和澄清]]></title>
-        <id>https://www.web3sj.com/?p=113904</id>
-        <link href="https://www.web3sj.com/news/113904/"/>
-        <updated>2024-06-05T05:20:34.000Z</updated>
-        <summary type="html"><![CDATA[在我们继续增强 Jolt 的同时，我想回应外界的质疑和困惑，澄清误解，分享我对一些关键问题的看法。我在本文要探讨的四部分内容是：（1）sum-check 协议与 Binius 承诺方案之间的关系，（2）sum-check 和 lookups 在 Jolt 中的作用，（3）椭圆曲线与哈希，（4）与 zkVM 相关的预编译。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「MEME 游乐园」Pump.fun：代币发行量占Solana超七成，3人团队创造超3000万美元收入]]></title>
-        <id>https://www.web3sj.com/?p=113899</id>
-        <link href="https://www.web3sj.com/news/113899/"/>
-        <updated>2024-06-05T05:12:57.000Z</updated>
-        <summary type="html"><![CDATA[根据 The Block Pro 数据显示，由于较低的准入门槛以及创建热门 MEME 币需求激增，今年 5 月 Solana 区块链上共创建约 45.5 万种代币，远超 Base 的 17.7 万种代币和 BNB Chain 的 3.9 万种代币等。其中，Solana 上创建的代币大多为 MEME 代币，部分原因归功于 Pump.fun。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[揭秘区块链中的速度之王Solana]]></title>
-        <id>https://www.web3sj.com/?p=113896</id>
-        <link href="https://www.web3sj.com/project/113896/"/>
-        <updated>2024-06-05T05:05:51.000Z</updated>
-        <summary type="html"><![CDATA[从这份报告可以看出，性能最好的 Solana 和 Sui 都是非 EVM 兼容的区块链，更进一步，8 个非 EVM 兼容区块链的平均真实 TPS 为 284，17 个 EVM 兼容区块链和以太坊 Layer2 的平均 TPS 仅为 74，非 EVM 兼容区块链的性能是 EVM 兼容区块链的 4 倍左右。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链在过去一年是如何发展的？]]></title>
-        <id>https://www.web3sj.com/?p=113893</id>
-        <link href="https://www.web3sj.com/news/113893/"/>
-        <updated>2024-06-05T04:53:12.000Z</updated>
-        <summary type="html"><![CDATA[今年 5 月，《金融科技时代》（The Fintech Times ）将展示其中一些新方法，并探索数字资产生态系统是如何演变的。在数字资产月的最后，我们将回顾推动这一切的技术：区块链。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个加密货币交易者都应该知道的 5 大图表模式]]></title>
-        <id>https://www.web3sj.com/?p=113885</id>
-        <link href="https://www.web3sj.com/transaction/113885/"/>
-        <updated>2024-06-05T04:22:58.000Z</updated>
-        <summary type="html"><![CDATA[无论你是新手还是有经验的交易者，这些模式都能帮助你在加密货币市场中做出更明智的决策。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[详解Render Network：链接全球GPU能源，引领3D渲染新革命]]></title>
-        <id>https://www.web3sj.com/?p=113874</id>
-        <link href="https://www.web3sj.com/ainews/113874/"/>
-        <updated>2024-06-05T04:15:29.000Z</updated>
-        <summary type="html"><![CDATA[该平台利用未使用的 GPU 周期，将需要计算能力的内容创作者与拥有多余计算能力的 GPU 提供者连接起来，通过利用这些闲置的 GPU，项目实现了更高效的资源利用，使创作者能够以成本效益的方式访问 GPU 资源。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一览2024年代币化资产RWA发展]]></title>
-        <id>https://www.web3sj.com/?p=113859</id>
-        <link href="https://www.web3sj.com/news/113859/"/>
-        <updated>2024-06-05T04:05:08.000Z</updated>
-        <summary type="html"><![CDATA[展望未来，通往一个充满代币化资产的区块链环境的道路似乎越来越可行。资产代币化的增长显而易见，但仅仅将资产数字化并不能完全解决资本市场固有的问题。数字化资产的真正价值将取决于其功能性和在整个金融市场中的流通便利性，资产代币化将成为迈向更加一体化的金融系统的基础性举措。]]></summary>
         <author>
             <name>Gao</name>
         </author>

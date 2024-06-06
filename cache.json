@@ -6,12 +6,82 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=113988",
+          "author": "Gao",
+          "description": "稳定币更是 RWA 第一个用例。不论是法币背书的稳定币，还是被视为皇冠明珠的算法稳定币，都在为圣杯争夺你追我赶。USDT 以其总市值独占鳌头，USDC 以合规打出名声，新星算法稳定币 USDe 则以名人光环加持以及不断地品牌合作集成，走马圈地，闯出一片天地。",
+          "link": "https://www.web3sj.com/definews/113988/",
+          "publishedOn": "2024-06-06T06:11:26.000Z",
+          "wordCount": 996,
+          "title": "三分钟速读Usual Protocol：如何构建RWA抵押型稳定币USD0？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2870-1717578356055.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113984",
+          "author": "Gao",
+          "description": "上半年，我们团队也开始重点调研了链游这个赛道，我带着团队小伙伴也体验了不少游戏，体验下来，我们发现，有的游戏挺「好玩」，有的游戏其实就是 Web2 小游戏搬到了 Web3 上个链没创意，当然，也有一些都不能称之为「游戏」的链游，也拿了融资、上了大所······",
+          "link": "https://www.web3sj.com/gamefinews/113984/",
+          "publishedOn": "2024-06-06T06:01:11.000Z",
+          "wordCount": 1119,
+          "title": "关于链游：我做了1个调查，聊了62位玩家，得出7个结论",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717653654931.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113978",
+          "author": "Gao",
+          "description": "用户体验（UX）不佳是实现区块链技术大规模应用这一愿景中的关键障碍。当前的去中心化产品和服务虽然功能强大，但由于使用门槛高，导致了用户与产品之间存在巨大鸿沟。许多人不愿跨越这道鸿沟，而 Infinex 试图通过简化用户体验，来帮助用户更轻松地进入去中心化世界。",
+          "link": "https://www.web3sj.com/project/113978/",
+          "publishedOn": "2024-06-06T05:52:03.000Z",
+          "wordCount": 1227,
+          "title": "空投新机遇？解析Infinex：DApp破局之作",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717653088513.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113961",
+          "author": "Gao",
+          "description": "当前主流区块链作为许多加密项目的基础，存在显著障碍。Sei Labs 团队认为现有基础设施无法跟上去中心化交易所（DEX）的需求。它们常常在吞吐量（每秒处理的交易数量）和最终确认时间（交易被认为完成和不可逆的时间）上存在限制。这导致性能缓慢，成为高频交易策略和大宗交易活动的主要障碍。",
+          "link": "https://www.web3sj.com/definews/113961/",
+          "publishedOn": "2024-06-06T05:38:53.000Z",
+          "wordCount": 1496,
+          "title": "详解Sei的并行化执行：革新DeFi产品体验的关键拼图",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717652318645.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113957",
+          "author": "Gao",
+          "description": "据 L2BEAT 数据显示，Base 的利润激增源于总锁定价值（TVL）的快速增长，而这又是由以太坊在三月份通过预期的 Dencun 升级实施 EIP-4844 和 proto-danksharding 所推动的。",
+          "link": "https://www.web3sj.com/news/113957/",
+          "publishedOn": "2024-06-06T05:34:48.000Z",
+          "wordCount": 979,
+          "title": "Layer2可月赚百万美元，拔得头筹的是谁？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717652064535.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113953",
+          "author": "Gao",
+          "description": "于是就发明了 AMM（自动化做市商，Automated Market Maker），可以做到不用匹配订单也可以实现交易。大家可能会好奇，这怎么做到的，交易通常就是有人卖才有人能买啊？没错 AMM 就是做到了没人卖你也可以买。接下来就具体展开讲讲 AMM 是如何做到这一点的。",
+          "link": "https://www.web3sj.com/knowledge/113953/",
+          "publishedOn": "2024-06-06T05:32:12.000Z",
+          "wordCount": 990,
+          "title": "Web3新手系列：DEX为啥不做订单匹配也能撮合交易",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717651919619.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=113949",
+          "author": "Gao",
+          "description": "MEV 税（MEV taxes）是一种允许智能合约通过分析交易中的优先费用（priority fee）自动提取费用的机制。在此框架下，智能合约根据交易的优先费用收取一定比例的 MEV 税。优先费是用户为了加快其交易被网络确认的速度而支付的费用。",
+          "link": "https://www.web3sj.com/news/113949/",
+          "publishedOn": "2024-06-06T05:29:29.000Z",
+          "wordCount": 952,
+          "title": "MEV税是什么？谁交税？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717651725313.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=113932",
           "author": "Gao",
           "description": "欧盟选举将于本周开始，加密行业监管政策议程将进入动荡时期。FTX与美国国税局达成8.85亿美元和解，减少税务负债。BNB市值超越星巴克。",
           "link": "https://www.web3sj.com/news/113932/",
           "publishedOn": "2024-06-05T12:21:28.000Z",
-          "wordCount": 871,
+          "wordCount": 897,
           "title": "Web3世界日报（2024-6.5）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024060512144117.jpg"
         },
@@ -21,7 +91,7 @@
           "description": "NOT 的爆发离不开加密市场对 TON 生态的期待。在 NOT 之后，TON 生态其他项目也获得了许多溢出关注。上个月，TON 基金会在官方博客公布了 14 个在 3 月至 4 月获批的资助项目名单，涉及项目涵盖社交、游戏、DeFi 等领域，但等到 NOT 大涨数倍之后，这个名单中的一些项目已经不再更新动态了。",
           "link": "https://www.web3sj.com/project/113915/",
           "publishedOn": "2024-06-05T05:33:04.000Z",
-          "wordCount": 1205,
+          "wordCount": 1210,
           "title": "NOT之后，TON生态还有什么埋伏机会？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717565571538.png"
         },
@@ -31,79 +101,9 @@
           "description": "账户抽象 (Account Abstraction, AA) 的出现引起了广泛关注，它被视为解决以太坊用户体验问题的一项关键方案。然而，尽管 AA 被认为具有很大潜力，但在实际应用中一直是一个难题，直到最近才有所突破。",
           "link": "https://www.web3sj.com/news/113907/",
           "publishedOn": "2024-06-05T05:22:55.000Z",
-          "wordCount": 965,
+          "wordCount": 983,
           "title": "介绍EIP-7702：通过优化账户抽象加速以太坊采用",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024060411285544657081.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113904",
-          "author": "Gao",
-          "description": "在我们继续增强 Jolt 的同时，我想回应外界的质疑和困惑，澄清误解，分享我对一些关键问题的看法。我在本文要探讨的四部分内容是：（1）sum-check 协议与 Binius 承诺方案之间的关系，（2）sum-check 和 lookups 在 Jolt 中的作用，（3）椭圆曲线与哈希，（4）与 zkVM 相关的预编译。",
-          "link": "https://www.web3sj.com/news/113904/",
-          "publishedOn": "2024-06-05T05:20:34.000Z",
-          "wordCount": 1222,
-          "title": "a16z：理解Jolt zkVM相关思考和澄清",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717564805606.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113899",
-          "author": "Gao",
-          "description": "根据 The Block Pro 数据显示，由于较低的准入门槛以及创建热门 MEME 币需求激增，今年 5 月 Solana 区块链上共创建约 45.5 万种代币，远超 Base 的 17.7 万种代币和 BNB Chain 的 3.9 万种代币等。其中，Solana 上创建的代币大多为 MEME 代币，部分原因归功于 Pump.fun。",
-          "link": "https://www.web3sj.com/news/113899/",
-          "publishedOn": "2024-06-05T05:12:57.000Z",
-          "wordCount": 1137,
-          "title": "「MEME 游乐园」Pump.fun：代币发行量占Solana超七成，3人团队创造超3000万美元收入",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717564343605.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113896",
-          "author": "Gao",
-          "description": "从这份报告可以看出，性能最好的 Solana 和 Sui 都是非 EVM 兼容的区块链，更进一步，8 个非 EVM 兼容区块链的平均真实 TPS 为 284，17 个 EVM 兼容区块链和以太坊 Layer2 的平均 TPS 仅为 74，非 EVM 兼容区块链的性能是 EVM 兼容区块链的 4 倍左右。",
-          "link": "https://www.web3sj.com/project/113896/",
-          "publishedOn": "2024-06-05T05:05:51.000Z",
-          "wordCount": 1142,
-          "title": "揭秘区块链中的速度之王Solana",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717563939669.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113893",
-          "author": "Gao",
-          "description": "今年 5 月，《金融科技时代》（The Fintech Times ）将展示其中一些新方法，并探索数字资产生态系统是如何演变的。在数字资产月的最后，我们将回顾推动这一切的技术：区块链。",
-          "link": "https://www.web3sj.com/news/113893/",
-          "publishedOn": "2024-06-05T04:53:12.000Z",
-          "wordCount": 926,
-          "title": "区块链在过去一年是如何发展的？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717563175593.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113885",
-          "author": "Gao",
-          "description": "无论你是新手还是有经验的交易者，这些模式都能帮助你在加密货币市场中做出更明智的决策。",
-          "link": "https://www.web3sj.com/transaction/113885/",
-          "publishedOn": "2024-06-05T04:22:58.000Z",
-          "wordCount": 835,
-          "title": "每个加密货币交易者都应该知道的 5 大图表模式",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717561341398.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113874",
-          "author": "Gao",
-          "description": "该平台利用未使用的 GPU 周期，将需要计算能力的内容创作者与拥有多余计算能力的 GPU 提供者连接起来，通过利用这些闲置的 GPU，项目实现了更高效的资源利用，使创作者能够以成本效益的方式访问 GPU 资源。",
-          "link": "https://www.web3sj.com/ainews/113874/",
-          "publishedOn": "2024-06-05T04:15:29.000Z",
-          "wordCount": 1324,
-          "title": "详解Render Network：链接全球GPU能源，引领3D渲染新革命",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717560902660.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=113859",
-          "author": "Gao",
-          "description": "展望未来，通往一个充满代币化资产的区块链环境的道路似乎越来越可行。资产代币化的增长显而易见，但仅仅将资产数字化并不能完全解决资本市场固有的问题。数字化资产的真正价值将取决于其功能性和在整个金融市场中的流通便利性，资产代币化将成为迈向更加一体化的金融系统的基础性举措。",
-          "link": "https://www.web3sj.com/news/113859/",
-          "publishedOn": "2024-06-05T04:05:08.000Z",
-          "wordCount": 1059,
-          "title": "一览2024年代币化资产RWA发展",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1717560291503.png"
         }
       ]
     },
@@ -128,7 +128,7 @@
           "description": "美SEC主席：披露信息不足以使加密交易所免于诉讼\n据The Block报道，美国证券交易委员会主席Gary Gensler周三表示，如果加密货币交易所“操纵市场”，披露信息也无法帮助其避免被监管机构起诉。他表示，如果这些公司公布“误导性”信息，导致交易者将资金投入他们原本不会投资的产品，交易所将无法免于诉讼。Gensler周三还表示，大多数加密公司仍然根本没有披露信息。他表示，加密货币交易所长期以来的运营方式是传统金融市场的交易平台永远不被允许的。\n美SEC主席：法律永远不会允许传统证券交易所做加密交易所正在做的事情\n美国证券交易委员会主席 Gary Gensler 表示，“加密货币交易所正在做的事情是法律永远不会允许纽约证券交易所或传统交易所做的事情。”\n国内首例发行虚拟币涉刑案引争议：撤回流动性致炒币亏损是否构成诈骗\n据澎湃新闻报道，“00后”大学生杨启超在境外公有链上发行一款简称为BFF的虚拟币，因撤回流动性引来牢狱之灾。检察机关指控，其发行了假的虚拟币，他人受误导充值5万USDT币后，杨启超迅速“撤资”，导致他人损失5万USDT币，其行为构成诈骗罪。 2024年2月20日，河南南阳高新技术产业开发区人民法院一审认定杨启超犯诈骗罪，判处其有期徒刑4年6个月，并处罚金3万元。2024年5月20日，该案在南阳市中级人民法院二审开庭。杨启超的辩护律师仍然为其做无罪辩护认为，本案被告人杨启超发行的虚拟币拥有唯一且不可篡改的合约地址，不存在所谓“假币”，而被告人和报案人都是币圈资深玩家，对于炒作虚拟币的风险有明确认知。此外，平台允许随时添加或撤回流动性，被告人的行为不违反平台规则。而被害人持有的BFF币，在案发后因流动性增加而升值，若交易即可兑回比之前更多的USDT币，则被害人不存在任何损失。\nCoinbase推出智能钱包，支持跨网络和应用程序的无Gas交易\n据Decrypt报…",
           "link": "https://panewslab.com/zh/articledetails/gw610o2a.html",
           "publishedOn": "2024-06-06T02:14:01.000Z",
-          "wordCount": 634,
+          "wordCount": 635,
           "title": "昨夜今晨重要资讯（6月5日-6月6日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/06/06/images/U455pU4oXH.png"
         },
@@ -158,7 +158,7 @@
           "description": "PANews 6月6日消息，据The Block报道，QCP Capital分析师表示，随着6月份到期的比特币看涨期权执行价超过74,000美元，大量买入信号显示许多投资者对月底价格升至74,000美元以上充满信心。分析师指出：“交易部门观察到强劲的看涨势头，大量6月到期的比特币看涨期权买盘，预示期权市场本月将果断突破74,000美元的历史高位。”\n根据Deribit衍生品交易所的数据，6月底到期的比特币期权未平仓合约中，最大一组是执行价格为75,000美元的看涨期权。值得一提的是，周三Deribit上交易量最高的为6月底到期、执行价为80,000美元的看涨期权，总计成交1723份合约，名义价值超过1.23亿美元。",
           "link": "https://panewslab.com/zh/articledetails/0matj25p.html",
           "publishedOn": "2024-06-06T01:53:15.000Z",
-          "wordCount": 348,
+          "wordCount": 349,
           "title": "QCP Capital：期权数据显示比特币或将在月底升至7.4万美元以上",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "PANews 6月6日消息，据澎湃新闻报道，“00后”大学生杨启超在境外公有链上发行一款简称为BFF的虚拟币，因撤回流动性引来牢狱之灾。检察机关指控，其发行了假的虚拟币，他人受误导充值5万USDT币后，杨启超迅速“撤资”，导致他人损失5万USDT币，其行为构成诈骗罪。\n2024年2月20日，河南南阳高新技术产业开发区人民法院一审认定杨启超犯诈骗罪，判处其有期徒刑4年6个月，并处罚金3万元。2024年5月20日，该案在南阳市中级人民法院二审开庭。杨启超的辩护律师仍然为其做无罪辩护认为，本案被告人杨启超发行的虚拟币拥有唯一且不可篡改的合约地址，不存在所谓“假币”，而被告人和报案人都是币圈资深玩家，对于炒作虚拟币的风险有明确认知。此外，平台允许随时添加或撤回流动性，被告人的行为不违反平台规则。而被害人持有的BFF币，在案发后因流动性增加而升值，若交易即可兑回比之前更多的USDT币，则被害人不存在任何损失。",
           "link": "https://panewslab.com/zh/articledetails/4v47j97s.html",
           "publishedOn": "2024-06-06T01:37:34.000Z",
-          "wordCount": 356,
+          "wordCount": 357,
           "title": "国内首例发行虚拟币涉刑案引争议：撤回流动性致炒币亏损是否构成诈骗",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "PANews 6月6日消息，《富爸爸穷爸爸》作者罗伯特·清崎（Robert Kiyosaki）在X平台发文称：“到2024年8月25日，比特币将达到35万美元，这不是谎言。这是一个预测。这是骗人的诱饵，但这不是谎言，因为任何关于未来的预测都不是谎言。我希望35万美元的比特币成为事实，我希望这是真的。但这只是一个预测。我相信比特币将在2024年的某个时候达到35万美元，但这只是一个目标、一个梦想和一个愿望。我一直在购买更多的比特币、以太坊和Solana，因为它们的价格肯定会继续上涨。为什么我如此自信? 是因为我对比特币、以太坊和Solana很确定吗? 并不是。我确信的是美国领导人，拜登总统、财政部长耶林和美联储主席鲍威尔的无能。这三个人就是现实生活中的3-Stooges，我很确定，我对他们的无能很有信心。当心。购买更多的黄金、白银、比特币、Solana和以太坊。保护你自己不受3-Stooges的伤害。",
           "link": "https://panewslab.com/zh/articledetails/5umit7o8.html",
           "publishedOn": "2024-06-06T01:34:32.000Z",
-          "wordCount": 348,
+          "wordCount": 345,
           "title": "《富爸爸穷爸爸》作者称其因美国领导人无能而持续购买更多比特币等加密资产",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 6月6日消息，据CoinDesk报道，周三，美国联邦检察官宣布，Forcount加密货币庞氏骗局的主要推广者之一，46岁的佛罗里达州男子Juan Tacuri（46岁），已就其在该骗局中扮演的角色在纽约南区（SDNY）认罪。该骗局是一场巴西骗局，诈骗了全球西班牙语投资者共计840万美元。Tacuri因电汇欺诈共谋罪认罪，可能面临最高20年监禁。作为认罪协议的一部分，他同意退还近400万美元非法所得及用受害者资金购买的房地产。\nTacuri曾与其他推广者承诺，投资者在所谓的“加密挖矿和交易公司”Forcount的投资将在六个月内翻倍。但据检察官称，Forcount从未进行任何挖矿或交易，而是用新投资者的钱偿还早期投资者并为自己牟利，大肆挥霍于奢侈品和房地产。检察官指出，Tacuri在全美举办“豪华展会”吸引新投资者，以“实现财务自由”的承诺和炫耀个人财富为诱饵。2022年，美国证券交易委员会（SEC）对Tacuri等四人提起民事诉讼，指控其违反《证券法》。去年，另有两名Forcount推广者因此案被捕并被控欺诈。\nTacuri将于9月24日在纽约接受地区法官Analisa Torres的宣判，该法官还负责监督SEC对加密货币公司Ripple的诉讼。",
           "link": "https://panewslab.com/zh/articledetails/gw0w52ps.html",
           "publishedOn": "2024-06-06T00:32:36.000Z",
-          "wordCount": 347,
+          "wordCount": 348,
           "title": "美国司法部：加密庞氏骗局Forcount的主要推广者Juan Tacuri认罪",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 6月6日消息，据CoinDesk报道，VanEck为以太坊设定了新的价格目标：到2030年达到22,000美元，这一价格远高于当前的3,850美元水平。VanEck在最新报告中表示，以太坊的飙升将得益于以太坊的颠覆性力量及其为代币持有者创造的现金流。\n该公司还指出，以太坊正在重塑金融、银行、支付、营销、广告、社交、游戏、基础设施和人工智能等多个行业。此外，VanEck预测以太坊ETF的规模可能超过比特币ETF，并预计该ETF将获得批准上市，这将为财务顾问和机构投资者提供持有以太坊的便捷途径。报告还强调，以太坊技术的低成本、高效率和透明度是推动以太币价格上涨的关键因素。VanEck进一步预测，这种转变将迫使传统金融和科技机构将大量市场份额转移到基于区块链的解决方案上，而这些机构目前拥有高达15万亿美元的总可用市场。\nVanEck还指出，到2030年，持有以太坊所带来的自由现金流预计将达到6600亿美元，这也有助于推动以太坊的估值向预期目标迈进。今年以来，以太币已上涨超过63%。",
           "link": "https://panewslab.com/zh/articledetails/tn69wtlb.html",
           "publishedOn": "2024-06-06T00:24:47.000Z",
-          "wordCount": 341,
+          "wordCount": 339,
           "title": "VanEck预计2030年以太坊价格将达到2.2万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -320,6 +320,76 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202406/22351.html",
+          "author": null,
+          "description": "2024年纽约梅隆银行财富管理研究显示，家族办公室对加密货币投资的看法存在分歧。接受调查的家族办公室中，约有39%的人正在积极投资加密货币或考虑投资加密货币，这凸显了他们对这一现代资产类别的浓厚兴趣。这些家族办公室的动机是希望跟上数字资产带来的新投资趋势和机会。 相反，同样比例 (38%) 的人表示对加密货币不感兴趣，原因是担心数字资产的高波动性和不明确的监管环境。黑客和网络犯罪等问题进一步阻碍了这些家族办公室参与加密货币。在那些探索或投资加密货币的人中，明显偏爱包含加密货币的公开市场 ETF，有些人则倾向于在交易所直接交易。",
+          "link": "https://www.hellobtc.com/news/202406/22351.html",
+          "publishedOn": "2024-06-06T01:57:00.000Z",
+          "wordCount": 305,
+          "title": "纽约梅隆银行：39%的家办正在投资或探索加密货币",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202406/22350.html",
+          "author": null,
+          "description": "HashKey集团首席运营官Livio Weng在最新采访中表示，AMLO牌照制度的实施，会让香港虚拟资产行业更加严谨规范，提升虚拟资产的接受度，吸引更多机构，特别是传统机构入场。香港将逐渐建设成为亚太地区最重要的虚拟资产市场之一，香港和Crypto（加密货币）的关系，会变成类似于纳斯达克与互联网的关系。",
+          "link": "https://www.hellobtc.com/news/202406/22350.html",
+          "publishedOn": "2024-06-06T01:56:00.000Z",
+          "wordCount": 308,
+          "title": "HashKey Group COO：香港和加密货币关系会变成类似于纳斯达克与互联网的关系",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202406/22349.html",
+          "author": null,
+          "description": "The ETF Store总裁Nate Geraci在社交媒体表示，FBTC目前的资产管理规模已超过120亿美元，在ETF年度流入量中排名前七，FBTC已经是富达最大的ETF。不仅如此，富达还将进入所有ETF发行商资产规模的前10名。",
+          "link": "https://www.hellobtc.com/news/202406/22349.html",
+          "publishedOn": "2024-06-06T01:56:00.000Z",
+          "wordCount": 306,
+          "title": "FBTC资产管理规模已超过120亿美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202406/22348.html",
+          "author": null,
+          "description": "6月6日消息，Cosmos Hub于今日凌晨4:32在X平台表示，Cosmos Hub正经历暂时的链中断。之后其在后续的帖子中表示，在v17升级期间，Hub验证者修补了Liquid Staking模块 (LSM) 中的安全漏洞。在多数验证者实施该修复漏洞的补丁后，Cosmos Hub于几分钟前表示，之前的问题已经修复，Cosmos Hub正在再次生成区块。Informal Systems和Hypha Cosmos将尽快发布包含所有详细信息的事后分析。",
+          "link": "https://www.hellobtc.com/news/202406/22348.html",
+          "publishedOn": "2024-06-06T01:56:00.000Z",
+          "wordCount": 315,
+          "title": "Cosmos Hub区块链凌晨开始经历近4小时中断，目前已恢复出块",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202406/22347.html",
+          "author": null,
+          "description": "美国开放人工智能研究中心（OpenAI）和谷歌旗下“深层思维”公司的13名现职员及前员工4日发表联名公开信，对人工智能行业在缺乏对“吹哨人”法律保护的背景下快速发展表达担忧。据多家外媒援引信件报道，这些员工认为，人工智能企业受利益驱使缺乏有效监管，现有企业治理架构不足以改变这一点。而不受监管的人工智能会触发虚假信息传播、人工智能系统丧失独立性和社会阶层不平等深化等多重风险。（央视新闻）",
+          "link": "https://www.hellobtc.com/news/202406/22347.html",
+          "publishedOn": "2024-06-06T01:56:00.000Z",
+          "wordCount": 299,
+          "title": "OpenAI员工发表公开信，警示人工智能监管缺失风险",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202406/22346.html",
+          "author": null,
+          "description": "据福布斯报道，市场对以太坊的乐观情绪昨日攀升至14个月来的最高点。据加密货币分析提供商The Tie的数据，以太坊的长期情绪指数是通过对比过去50天内与过去200天内X（前称Twitter）上帖子的积极程度来计算得出。6月3日，该指数达到66.69，为自2023年3月24日以来的最高水平。任何高于50的分数都表明近期市场情绪更为乐观。 此外，据CoinMarketCap数据显示，以太坊价格在昨日经历温和波动，维持在3700美元至3900美元之间。而在5月20日，以太坊价格从低于3100美元迅速上涨至近3700美元，随后几周该数字货币的波动性一直保持在较低水平。",
+          "link": "https://www.hellobtc.com/news/202406/22346.html",
+          "publishedOn": "2024-06-06T01:55:00.000Z",
+          "wordCount": 300,
+          "title": "以太坊市场情绪指数达到2023年3月以来的最高水平",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202406/22345.html",
+          "author": null,
+          "description": "据外电报道，谷歌今天宣布，已收购用于远程工作的虚拟应用交付平台 Cameyo Inc.，这将带来该公司在为内部员工提供云桌面方面的专业知识。  谷歌的 ChromeOS 团队和 Cameyo 并未透露有关交易条款或价值的任何细节。 Cameyo平台允许通过云将不同平台的不同应用程序交付到任何设备，包括 Windows、Linux、软件即服务和 Web 应用程序。这 很有用，因为采用 ChromeOS 等操作系统意味着放弃对 Windows 应用程序的访问，但 Cameyo允许企业信息技术团队将它们传输到运行新操作系统的台式机和笔记本电脑上。",
+          "link": "https://www.hellobtc.com/news/202406/22345.html",
+          "publishedOn": "2024-06-06T01:55:00.000Z",
+          "wordCount": 319,
+          "title": "谷歌收购虚拟应用交付平台Cameyo",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202406/22344.html",
           "author": null,
           "description": "行情显示，BTC突破71500美元，现报71705.87美元，日内涨幅达到2.25%，行情波动较大，请做好风险控制。",
@@ -347,76 +417,6 @@
           "publishedOn": "2024-06-05T15:15:00.000Z",
           "wordCount": 313,
           "title": "NFT项目“河里人”主体宣布已于2023年7月破产",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22341.html",
-          "author": null,
-          "description": "韩国金融服务委员会计划在金融创新规划组下设立新的虚拟资产部门，并最迟在6月底之前完成管理人员的任命。金融服务委员会正在对虚拟资产调查人员进行相关培训，该部门将全面负责7月19日生效的《虚拟资产用户保护法》。",
-          "link": "https://www.hellobtc.com/news/202406/22341.html",
-          "publishedOn": "2024-06-05T15:11:00.000Z",
-          "wordCount": 300,
-          "title": "韩国金融服务委员会计划设立新虚拟资产部门",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22340.html",
-          "author": null,
-          "description": "6月5日消息，数字资产钱包MetaMask已与支持Web3的游戏商店HyperPlay达成合作，将在MetaMask Portfolio内推出游戏发现和游戏内资产管理一站式商店“MetaMask游戏目录”。玩家将可直接在MetaMask平台内发现与MetaMask兼容的游戏。",
-          "link": "https://www.hellobtc.com/news/202406/22340.html",
-          "publishedOn": "2024-06-05T15:11:00.000Z",
-          "wordCount": 299,
-          "title": "MetaMask将推出由HyperPlay提供支持的Web3游戏目录",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22339.html",
-          "author": null,
-          "description": "土耳其财政部长Mehmet Simsek表示，土耳其不打算对股票和加密货币的利润征税。政府正在考虑对这些资产征收“非常有限”的交易税，但没有具体说明其潜在规模。 此前土耳其考虑对股票和加密数字货币资产征收利得税。",
-          "link": "https://www.hellobtc.com/news/202406/22339.html",
-          "publishedOn": "2024-06-05T15:11:00.000Z",
-          "wordCount": 304,
-          "title": "土耳其财政部长：不打算对股票和加密货币的利润征税",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22338.html",
-          "author": null,
-          "description": "人权基金会（HRF）在奥斯陆自由论坛上宣布向推动比特币发展的全球项目资助10枚比特币，在撰写本文时目前价值704740美元，将用于全球13个不同的项目。据该新闻稿称，这些资金将用于推动专制制度下的人民教育、隐私和闪电网络开发、去中心化通信，以及为非营利组织和人权团体提供更便捷的金融自由工具。",
-          "link": "https://www.hellobtc.com/news/202406/22338.html",
-          "publishedOn": "2024-06-05T15:11:00.000Z",
-          "wordCount": 299,
-          "title": "人权基金会向推动比特币发展的全球项目资助10枚比特币",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22337.html",
-          "author": null,
-          "description": "Fox Business记者Eleanor Terrett在X平台发文表示，SEC主席Gary Gensler表示，ETH ETF批准的下一步“将需要一些时间”，这可能表明S-1批准过程可能会缓慢进行。“加密货币交易所正在做的事情是法律永远不会允许纽约证券交易所或传统交易所做的事情。”",
-          "link": "https://www.hellobtc.com/news/202406/22337.html",
-          "publishedOn": "2024-06-05T15:11:00.000Z",
-          "wordCount": 311,
-          "title": "SEC主席：ETH ETF批准的下一步“将需要一些时间”",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22336.html",
-          "author": null,
-          "description": "加拿大央行宣布降息25个基点至4.75%，为G7国家“首降”。",
-          "link": "https://www.hellobtc.com/news/202406/22336.html",
-          "publishedOn": "2024-06-05T15:11:00.000Z",
-          "wordCount": 302,
-          "title": "加拿大央行宣布降息25个基点至4.75%",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22335.html",
-          "author": null,
-          "description": "英伟达盘初涨1.5%，最高报1184美元/股，续刷历史新高，总市值达到2.9万亿美元。",
-          "link": "https://www.hellobtc.com/news/202406/22335.html",
-          "publishedOn": "2024-06-05T15:11:00.000Z",
-          "wordCount": 300,
-          "title": "英伟达总市值达到2.9万亿美元",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
