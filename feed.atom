@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-06T08:18:10.497Z</id>
+    <id>urn:2024-06-06T09:16:31.325Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-06T08:18:10.497Z</updated>
+    <updated>2024-06-06T09:16:31.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coincall山寨币期权一周播报（5.31~6.6）]]></title>
+        <id>https://www.web3sj.com/?p=114018</id>
+        <link href="https://www.web3sj.com/transaction/114018/"/>
+        <updated>2024-06-06T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[本周虽然加密市场整体向好，但是山寨币期权并没有频繁出现高倍标的，不过KAS却独占鳌头，其中看涨期权搞到 80 倍涨幅，你是否买中了这种彩票呢？。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Campus通过“从生态基金拨款1,000万美元用于收购验证节点”的提案投票]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_49813.html</id>
@@ -205,16 +215,6 @@ PoolX 是 Bitget 推出的质押挖矿平台, 质押指定币种, 赚取热门�
         <link href="https://www.web3sj.com/knowledge/113953/"/>
         <updated>2024-06-06T05:32:12.000Z</updated>
         <summary type="html"><![CDATA[于是就发明了 AMM（自动化做市商，Automated Market Maker），可以做到不用匹配订单也可以实现交易。大家可能会好奇，这怎么做到的，交易通常就是有人卖才有人能买啊？没错 AMM 就是做到了没人卖你也可以买。接下来就具体展开讲讲 AMM 是如何做到这一点的。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEV税是什么？谁交税？]]></title>
-        <id>https://www.web3sj.com/?p=113949</id>
-        <link href="https://www.web3sj.com/news/113949/"/>
-        <updated>2024-06-06T05:29:29.000Z</updated>
-        <summary type="html"><![CDATA[MEV 税（MEV taxes）是一种允许智能合约通过分析交易中的优先费用（priority fee）自动提取费用的机制。在此框架下，智能合约根据交易的优先费用收取一定比例的 MEV 税。优先费是用户为了加快其交易被网络确认的速度而支付的费用。]]></summary>
         <author>
             <name>Gao</name>
         </author>
