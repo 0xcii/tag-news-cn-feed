@@ -6,12 +6,62 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=114601",
+          "author": "Gao",
+          "description": "6 月 10 日，Solana 基金会宣布，因部分验证者参与「三明治攻击」，已将这些主要为俄罗斯人的 30 多个验证者从其委托计划（Delegation Program）中移除。此外，Solana 联创 Anatoly Yakovenko 在推特上提议，增强区块生产者之间的竞争，可能是解决 MEV 问题的潜在方案。",
+          "link": "https://www.web3sj.com/news/114601/",
+          "publishedOn": "2024-06-13T05:45:18.000Z",
+          "wordCount": 1054,
+          "title": "Solana基金会对MEV验证者开刀，社区却不买单反吐槽治理中心化",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718257495815.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=114596",
+          "author": "Gao",
+          "description": "在 ZKsync 正式公布空投规则前，例如 Nansen、TrustGo 或者部分加密 KOL 曾对空投人数做出过预计，在 TrustGo 的报告中，有 290 万个地址达到了合格分数线，即使在严格标准下也有 205 万个地址符合要求。而例如加密 KOL@DefiWimar 通过分析 ZK Nation 网站代码得出结论，符合 ZKsync 空投资格的地址将达 1, 650, 351 个。",
+          "link": "https://www.web3sj.com/news/114596/",
+          "publishedOn": "2024-06-13T05:42:29.000Z",
+          "wordCount": 1096,
+          "title": "ZKsync陷老鼠仓风波：空投条件偏门、女巫地址获大量空投",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718257334282.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=114592",
+          "author": "Gao",
+          "description": "在探索的过程中，Ethereum 提出了 ERC-4337、EIP-3074 和 EIP-7702 等账户抽象解决方案。而其他公链比如 Solana 则存在 Program Derived Addresses (PDA) 这种类似账户抽象的方案，Cosmos 也有 x/authz 这类相似设计。",
+          "link": "https://www.web3sj.com/news/114592/",
+          "publishedOn": "2024-06-13T05:35:26.000Z",
+          "wordCount": 1397,
+          "title": "账户抽象：改善区块链交互体验的关键",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718256913335.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=114579",
+          "author": "Gao",
+          "description": "结论很简单：以太坊 PoW 无利可图，其商业模式从根本上被打破。100% 的交易费用支付给了矿工，因此以太坊的收入为零。更糟糕的是，激励区块链验证的 ETH 发行非常高，使得该链无利可图。当然，我们事后知道 ETH 的价格上涨了，但那些年的价格上涨纯粹是来自投机狂热的逆风，而不是内在因素。",
+          "link": "https://www.web3sj.com/news/114579/",
+          "publishedOn": "2024-06-13T05:29:02.000Z",
+          "wordCount": 1179,
+          "title": "Layer1项目估值和盈利能力、代币增发关系的深度辨析",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718256524335.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=114572",
+          "author": "Gao",
+          "description": "方舟 BTC ETF 高居第 4 名（市占率 6%，Top 3 是贝莱德、灰度和富达），按照市场推测，却是「不太盈利」。 主要是 BTC ETF 的费率相比传统 ETF 比较低，很多在 0.19-0.25% 区间，ETF 也在做「费率竞赛」。",
+          "link": "https://www.web3sj.com/news/114572/",
+          "publishedOn": "2024-06-13T05:24:05.000Z",
+          "wordCount": 972,
+          "title": "为什么SOL ETF很难等到？因为它违背了一个很简单的道理",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718256202012.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=114558",
           "author": "Gao",
           "description": "这是因为订单簿需要复杂的市场制造商来积极提供流动性和快速的订单撮合。尽管前者较容易实现，但后者有时是不可能的。想象一下在以太坊主网上构建一个具有 12 秒区块时间的订单簿。",
           "link": "https://www.web3sj.com/definews/114558/",
           "publishedOn": "2024-06-13T04:57:04.000Z",
-          "wordCount": 945,
+          "wordCount": 1007,
           "title": "探讨意图与链上衍生品的结合：如何塑造DeFi 3.0？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718254604967.png"
         },
@@ -21,7 +71,7 @@
           "description": "考虑到当前再质押赛道 EigenLayer 只支持 ETH 和某些 ETH 衍生品质押，而 Symbiotic 则支持 ERC-20 代币标准的任何资产进行质押，两者或将成为直接竞争对手。据 CoinDesk 此前的报道，此次融资的背后其实也是巨头 VC 间的博弈。几位知情人士透露， EigenLayer 联合创始人 Sreeram Kannan 曾拒绝 Paradigm 的投资，转而选择了 a16z。",
           "link": "https://www.web3sj.com/news/114546/",
           "publishedOn": "2024-06-13T04:52:35.000Z",
-          "wordCount": 1120,
+          "wordCount": 1135,
           "title": "巨头VC间的博弈：一文了解Paradigm及Lido支持的再质押协议Symbiotic",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718254336654.png"
         },
@@ -31,7 +81,7 @@
           "description": "此外，Kwon 必须向 Terraform 破产财产转移各种资产，包括 PYTH 通证的所有者权益和其他资产。这些资产将用于支付罚款，并通过清算信托分配给受损害的投资者。",
           "link": "https://www.web3sj.com/news/114543/",
           "publishedOn": "2024-06-13T04:46:57.000Z",
-          "wordCount": 944,
+          "wordCount": 959,
           "title": "罚款45亿美元，LUNA暴雷事件迎来大结局",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/b96e919ddab3b06659794f0113eec6b5.jpg"
         },
@@ -41,7 +91,7 @@
           "description": "Dencun 升级后，以太坊第二层区块链上的交易成本降低了高达 99%，而 Arbitrum 或成 Dencun 升级最大赢家。在升级前的一周，Arbitrum 上的交易数量仅为 747, 000 笔，升级后的一周，这一数字跃升至 150 万笔。",
           "link": "https://www.web3sj.com/project/114538/",
           "publishedOn": "2024-06-13T03:30:32.000Z",
-          "wordCount": 1308,
+          "wordCount": 1302,
           "title": "Layer2王炸来袭，四大天王开始同台竞技",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718249393488.png"
         },
@@ -51,59 +101,9 @@
           "description": "The Eeacon属于链游中不可多得的精品，0撸免费，非常推荐大家试试，而且反女巫做的不错！",
           "link": "https://www.web3sj.com/show/kongtou/114517/",
           "publishedOn": "2024-06-12T15:49:50.000Z",
-          "wordCount": 797,
+          "wordCount": 787,
           "title": "【0成本必撸】链游The Eeacon空投教程，强烈建议，直接干就完了！",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024061215491088.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114508",
-          "author": "Gao",
-          "description": "MetaMask推出“汇集式质押”功能，降低以太坊质押门槛。56%的财富500强公司正在开展链上项目。Vitalik针对Meme币持续主导叙事的现象提出若干扩展加密货币功能的建议。",
-          "link": "https://www.web3sj.com/news/114508/",
-          "publishedOn": "2024-06-12T12:17:39.000Z",
-          "wordCount": 883,
-          "title": "Web3世界日报（2024-6.12）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024061212153546.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114480",
-          "author": "Gao",
-          "description": "三箭资本在 2021 年 8 月以及 2022 年 3 月总花费约 140 ETH 购入的全套黄金皮肤 BAYC + 2 MAYC + BAKC 总计四件 Yuga Labs NFT 将于 6 月 18 日在苏富比进行拍卖。在 NFT 的巅峰期，这套资产的价格应该是超过了 1000 ETH。而现在，BAYC 的地板价已经不到 12 ETH。",
-          "link": "https://www.web3sj.com/nftnews/114480/",
-          "publishedOn": "2024-06-12T08:26:40.000Z",
-          "wordCount": 1265,
-          "title": "CryptoPunks三年来新低，以太坊NFT时代落幕？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718180740064.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114477",
-          "author": "Gao",
-          "description": "「Protocol RFP」提案申请已于 5 月 31 日结束，6 月 6 日 08:00 前合作伙伴项目地址也已确定。近日，LayerZero 联合创始人兼 CEO Bryan Pellegrino 表示，将于 6 月底前公布最终版女巫地址名单，此前计划于本月进行空投。",
-          "link": "https://www.web3sj.com/project/114477/",
-          "publishedOn": "2024-06-12T08:20:14.000Z",
-          "wordCount": 1886,
-          "title": "LayerZero发币在即，哪些社区项目有机会获得空投？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718180401143.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114451",
-          "author": "Gao",
-          "description": "我们经历过 DeFi Summer、NFT 和元宇宙狂热。下一波热潮是否会转向 DePIN？2020-2021 年间，DeFi 的市值增长了近 100 倍，从 17.5 亿美元最高增长至 1722 亿美元。假设在这轮牛市中，DeFi 总市值增长 10 倍，DePIN 的总市值达到 DeFi 的 50%，那么 DePIN 的总市值将达到 5000 亿美元，至少还有 20 倍的增长空间。",
-          "link": "https://www.web3sj.com/depinnews/114451/",
-          "publishedOn": "2024-06-12T08:10:07.000Z",
-          "wordCount": 1587,
-          "title": "FMG深度研报：DePIN赛道从下至上的5个机会",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718179723865.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114442",
-          "author": "Gao",
-          "description": "把视线从 AI 转到 crypto，在加密市场沉寂了三年之后，终于又迎来了又一轮牛市，比特币价格屡创新高，各种 memecoin 层出不穷。虽然 AI 和 Crypto 作为 buzzword 火了这些年，但人工智能和区块链作为两项重要技术仿佛两条平行线，迟迟没有找到一个「交点」。",
-          "link": "https://www.web3sj.com/ainews/114442/",
-          "publishedOn": "2024-06-12T07:56:34.000Z",
-          "wordCount": 1442,
-          "title": "生于边缘：去中心化算力网络如何赋能Crypto与AI？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718178981294.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "PANews 6月13日消息，链上分析师余烬发推文称，Curve 创始人 5 个地址上抵押 CRV 的借贷仓位已经全部跌破清算线了。目前就是主地址 (0x7a1...428) 上的仓位正在清算进行中，其余几个地址上的仓位虽然也已经跌破清算线，但暂未开始清算。",
           "link": "https://panewslab.com/zh/articledetails/6rn5i3jh.html",
           "publishedOn": "2024-06-13T03:13:27.000Z",
-          "wordCount": 371,
+          "wordCount": 375,
           "title": "Curve创始人5个地址上抵押CRV的借贷仓位已全部跌破清算线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +128,7 @@
           "description": "PANews 6月13日消息，据BloodLoop游戏团队发布的推文，他们的英雄射击游戏BloodLoop将于6月21日启动第一季“Play-To-Airdrop”赛季活动。玩家可以在6月21日至23日和6月28日至30日期间参与游戏，并通过完成每日和每周的任务获取积分。积分将在赛季结束后转换为$BLS代币，空投到玩家的绑定钱包中。想要参与的玩家需先铸造一个7天的战斗通行证，注册截止日期为6月20日。需要注意的是，从第二季开始，注册将需要支付$BLS费用，该费用将直接进入奖励池。",
           "link": "https://panewslab.com/zh/articledetails/9f1eev7g.html",
           "publishedOn": "2024-06-13T03:08:13.000Z",
-          "wordCount": 339,
+          "wordCount": 343,
           "title": "英雄射击游戏BloodLoop将于6月21日启动第1季“Play-To-Airdrop”赛季活动",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 6月13日消息，币安现已完成WazirX（WRX）合约置换，并开放新WRX代币的充值、提现业务。",
           "link": "https://panewslab.com/zh/articledetails/y7w3txpe.html",
           "publishedOn": "2024-06-13T03:02:55.000Z",
-          "wordCount": 337,
+          "wordCount": 341,
           "title": "币安完成WazirX（WRX）合约置换",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 6月13日消息，奥运主题视频游戏《Olympics™ Go! Paris 2024》现已在App Store、Google Play和Epic Games Store上架。该游戏是2024年巴黎奥运会的官方视频游戏，涵盖了艺术体操、田径、自行车等多种奥运项目，并结合了城市建设和个性化定制等元素。玩家可以通过12种迷你游戏体验射箭、滑板、3x3篮球、划船、高尔夫等项目的乐趣，还能建设和升级自己的主办城市。\n此前报道，Animoca Brands子公司nWay将与国际奥委会合作推出奥运主题游戏Olympics™ Go! Paris 2024。",
           "link": "https://panewslab.com/zh/articledetails/fvqlnyev.html",
           "publishedOn": "2024-06-13T03:01:45.000Z",
-          "wordCount": 374,
+          "wordCount": 378,
           "title": "奥运主题游戏Olympics™ Go! Paris 2024现已在移动设备和PC上推出",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +158,7 @@
           "description": "PANews 6月13日消息，链上分析师余烬发推文称，Curve创始人Michael Egorov的多个CRV借贷仓位已开始被清算。目前，Egorov在多个平台上的CRV借贷仓位已跌破清算线，其中他在Inverse Finance上的主要地址已经有部分CRV正在被清算。",
           "link": "https://panewslab.com/zh/articledetails/r48cbi5o.html",
           "publishedOn": "2024-06-13T02:46:15.000Z",
-          "wordCount": 338,
+          "wordCount": 342,
           "title": "Curve创始人的多个CRV借贷仓位已开始被清算",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "PANews 6月13日消息，据Lookonchain监测，IO 代币的价格24小时飙升了近 70%。在这一波上涨中，一名交易者花费了 3,120 枚 SOL（约 48.4 万美元）购买了 85,326 枚 $IO 代币，每枚 $IO 的价格为 5.67 美元。",
           "link": "https://panewslab.com/zh/articledetails/w1ldmtps.html",
           "publishedOn": "2024-06-13T02:44:42.000Z",
-          "wordCount": 383,
+          "wordCount": 387,
           "title": "一地址花费3120枚SOL购买85326枚IO代币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "PANews 6月13日消息，据《明报》报道，澳门经济财政司司长李伟农在立法会回应时表示，澳门政府正探讨在风险可控的情况下开放某些虚拟资产活动的可能性。目前，澳门所有金融机构均不得提供任何与虚拟资产相关的金融服务。政府的跨部门反清洗黑钱及反恐怖融资工作小组将持续关注虚拟资产的国际发展趋势，并考虑制定或修订相关法律和监管指引。此外，李伟农指出，政府并无计划投入数百亿元到元宇宙，而是通过科技基金支持科技企业，创造就业机会。",
           "link": "https://panewslab.com/zh/articledetails/lni8tc5z.html",
           "publishedOn": "2024-06-13T02:40:01.000Z",
-          "wordCount": 336,
+          "wordCount": 340,
           "title": "澳门财政司司长：正探讨在风险可控的情况下开放某些虚拟资产活动",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "PANews 6月13日消息，欧易将于 2024 年 6 月 13 日中午 12:00 (UTC+8) 在网页端、App 端及 API 正式上线 ATHUSDT 永续合约，并于 2024 年 6 月 13 日上午 11:30 (UTC+8) 上线 ATH/USDT 的杠杆交易、简单赚币。",
           "link": "https://panewslab.com/zh/articledetails/21nb9n78.html",
           "publishedOn": "2024-06-13T02:18:14.000Z",
-          "wordCount": 412,
+          "wordCount": 416,
           "title": "欧易将上线ATH杠杆交易、永续合约及简单赚币",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 6月13日消息，据Arbitrum官方公告，其基金会在5月为13个项目提供了资金支持。这些受资助项目涵盖DeFi、游戏和基础设施领域，包括：\n1. DODO：Web3交易协议，推出了DODOchain多功能交易L3。\n2. Double：致力于解决代币项目流动性问题。\n3. DeSyn Protocol：DeFi资产管理协议。\n4. Panoptic：将期权交易引入加密资产领域。\n5. Native：提供统一的流动性层。\n6. Catalyst：通过跨链交换实现即时流动性。\n7. Blade Games：模块化ZK链上游戏引擎。\n8. ZTX：一个构建、游戏和赚钱的平台。\n9. Mithraeum：链上战略游戏。\n10. DUPER：链上社交战争游戏。\n11. Miki：简化跨链交易的链抽象接口。\n12. Blade Labs：提供全面的代币化解决方案。\n13. TAKADAO：一个区块链平台，为社区提供资金汇集和相互保险的功能。",
           "link": "https://panewslab.com/zh/articledetails/l7i484h2.html",
           "publishedOn": "2024-06-13T02:02:50.000Z",
-          "wordCount": 383,
+          "wordCount": 387,
           "title": "Arbitrum基金会在5月为13个项目提供了资金支持",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "美联储维持利率不变\n美联储连续第七次将基准利率维持在5.25%-5.50%区间不变，符合市场预期。美联储点阵图显示2024年将降息25个基点。没有官员认为今年将降息3次或更多，此前为10位。2025年预期将降息四次（三月预计为降息三次）。美联储FOMC声明中，委员会力求在长期内实现最大就业和2%的通胀。委员会判断，实现就业和通胀目标的风险在过去一年已趋向更好的平衡。委员会预计，在对通胀持续向2%迈进更有信心之前，不宜降低利率目标区间。在评估适当的货币政策立场时，委员会将继续监测新信息对经济前景的影响。如果出现可能阻碍委员会目标实现的风险，委员会将准备酌情调整货币政策立场。\n美国5月未季调CPI年率录得3.3%，低于市场预期\n据金十报道，美国5月未季调CPI年率录得3.3%，低于市场预期的3.4%水平，降至3个月低位。美国5月未季调核心CPI年率录得3.4%，低于预期的3.5%水平，为2021年4月以来最低水平。\nTerraform Labs同意向美国SEC支付44.7亿美元罚款\n据The Block报道，Terraform Labs与美国证券交易委员会（SEC）达成和解，同意向SEC支付44.7亿美元的罚款。SEC周三提交了一份\"拟议的最终同意判决\"，要求纽约南区地方法院法官Jed Rakoff批准该计划。根据拟议的判决，Terraform将被追缴35.8亿美元非法所得并支付4.2亿美元的民事罚款，其联合创始人Do Kwon将被禁止担任上市公司的高管或董事。SEC表示，Do Kwon还必须支付2.04亿美元，用于赔偿受到损害的投资者。据此前消息，4月5日，纽约陪审团裁定Terraform和Do Kwon在TerraUSD (UST)、Luna和wLUNA的出售声明中涉嫌欺骗投资者。随后SEC提出了一项动议，要求追缴53亿美元的非法所得和民事罚款。5月底，Terraform及…",
           "link": "https://panewslab.com/zh/articledetails/lssuqgi1.html",
           "publishedOn": "2024-06-13T01:58:06.000Z",
-          "wordCount": 621,
+          "wordCount": 623,
           "title": "昨夜今晨重要资讯（6月12日-6月13日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/06/13/images/g8h3jigA68.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 6月13日消息，据Bankless联合创始人David Hoffman在X平台分享，Bankless社区在Discord上的数据表明，大多数人对zkSync的空投感到满意。然而，那些表达失望的用户通常活跃在zkSync Lite网络或使用Argent钱包，他们认为空投资格检查工具存在问题。这些失望的原因与在X平台上被大量机器人账户推动的虚假信息活动有显著区别。",
           "link": "https://panewslab.com/zh/articledetails/y2gtsvtu.html",
           "publishedOn": "2024-06-13T01:36:18.000Z",
-          "wordCount": 342,
+          "wordCount": 346,
           "title": "Bankless联创：大多数人对zkSync的空投感到满意",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "PANews 6月13日消息，据Arkham Intelligence在X平台披露，Curve创始人Michael Egorov目前面临1.4亿美元CRV代币的清算风险。Egorov在五个不同协议上的五个账户中，以约1.41亿美元的CRV代币为抵押，借入了约9570万美元的稳定币，主要是crvUSD。维持这些借款的年化利息成本高达6000万美元。\n其中，5000万美元的借款来自Llamalend，年利率约为120%。由于Llamalend上几乎没有剩余的crvUSD可供借贷，Egorov的三个账户已经占了该协议上90%以上的借款。如果CRV价格下跌约10%，这些头寸将面临清算的风险。",
           "link": "https://panewslab.com/zh/articledetails/xc28575c.html",
           "publishedOn": "2024-06-13T01:30:08.000Z",
-          "wordCount": 347,
+          "wordCount": 351,
           "title": "Curve创始人Michael Egorov的1.4亿美元CRV代币面临清算风险",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -238,7 +238,7 @@
           "description": "PANews 6月13日消息，链上分析师余烬发推文称，此前在PEPE代币交易中获得243万美元收益的一名鲸鱼，在9小时前将价值848万美元的5种山寨代币转入币安交易所，并从币安提取了244万美元的稳定币。这些转入币安的代币包括：\n• 40,000枚AAVE（约372万美元）\n• 264,836枚XVS（约251万美元）\n• 2,675,700枚MATIC（约173万美元）\n• 798,737枚BLUR（约28万美元）\n• 246,344枚ARB（约24万美元）",
           "link": "https://panewslab.com/zh/articledetails/2qaopqf4.html",
           "publishedOn": "2024-06-13T01:23:00.000Z",
-          "wordCount": 354,
+          "wordCount": 358,
           "title": "某鲸鱼9小时前将价值848万美元的5种山寨代币转入币安",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 6月13日消息，Injective 宣布与稳定币 PYUSD 集成，用户现可将 PYUSD 从以太坊和 Solana 网络转移到 Injective。此次集成将使 Injective 网络上的去中心化应用（DApp）能够利用 PYUSD 进行快速支付、交易和去中心化金融（DeFi）操作。",
           "link": "https://panewslab.com/zh/articledetails/bhmpfe9z.html",
           "publishedOn": "2024-06-13T01:21:03.000Z",
-          "wordCount": 375,
+          "wordCount": 379,
           "title": "Injective宣布与PYUSD稳定币集成，用户可将PYUSD从以太坊和Solana转移至Injective",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 6月13日消息，LayerZero联合创始人兼首席执行官Bryan Pellegrino（臭企鹅）在X平台分享，Sybil赏金计划已接近200个获批报告（有效和部分有效），进展顺利。该计划利用区块链浏览器和Dune SQL分析工具，检测中心化交易所（CEX）中的热钱包地址和集群，标识出可能的Sybil攻击行为。通过自动化和手动验证两层检测机制，团队成功创建并审核了多个地址集群，确保了报告的准确性和详尽分析。",
           "link": "https://panewslab.com/zh/articledetails/9z80nmsn.html",
           "publishedOn": "2024-06-13T01:02:41.000Z",
-          "wordCount": 366,
+          "wordCount": 370,
           "title": "LayerZero CEO：Sybil赏金计划已接近200个获批报告",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "PANews 6月13日消息，Invesco和Galaxy联合推出的以太坊现货ETF已在美国存托信托与结算公司（DTCC）上成功注册，并以代码“QETH”进行交易。",
           "link": "https://panewslab.com/zh/articledetails/3pk10ksk.html",
           "publishedOn": "2024-06-13T00:52:56.000Z",
-          "wordCount": 393,
+          "wordCount": 364,
           "title": "Invesco和Galaxy联合推出的以太坊现货ETF已在DTCC注册",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 6月13日消息，据彭博社报道，本周苹果公司与OpenAI达成合作协议，将ChatGPT整合到iPhone、iPad和Mac设备，但据知情人士透露，苹果没有向OpenAI支付合作费用。相反，苹果认为，将OpenAI的品牌和技术推广到数亿台苹果设备上，其价值相当于甚至高于直接付费。ChatGPT将在苹果设备上免费提供，但OpenAI和苹果可以通过将免费用户转化为付费用户来盈利。OpenAI的订阅计划起价为每月20美元，这笔费用包括了分析数据和生成更多类型图像等额外功能。",
           "link": "https://panewslab.com/zh/articledetails/6z37b1gr.html",
           "publishedOn": "2024-06-13T00:49:15.000Z",
-          "wordCount": 338,
+          "wordCount": 342,
           "title": "知情人士：苹果未向OpenAI支付ChatGPT费用，或通过付费用户进行利润分成",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 6月13日消息，Coinbase首席执行官Brian Armstrong在X平台表示，他在过去48小时内与多位民主党和共和党参议员在华盛顿会面，讨论为加密行业制定明确规则及保护加密用户的措施。Armstrong提到，由于FIT21法案已在众议院通过，现在参议院对推动相关立法有了强烈的两党共识。他强调，随着加密选民声音的日益重要，立法进程也在加速推进中。",
           "link": "https://panewslab.com/zh/articledetails/x50fycgc.html",
           "publishedOn": "2024-06-13T00:39:03.000Z",
-          "wordCount": 352,
+          "wordCount": 356,
           "title": "Coinbase CEO：已与多位参议员在华盛顿会面，讨论为加密行业制定明确规则",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +298,7 @@
           "description": "PANews 6月13日消息，据The Block报道，周三Riot Platforms在一份文件中宣布，它在过去一周通过公开市场购买了近600万股Bitfarms股票，将持股比例提高到13.1%。与此同时，Riot首席执行官Jason Les批评了Bitfarms的“毒丸”计划。Les在声明中表示：“Bitfarms没有私下真诚地与我们接触，而是通过实施一种场外毒丸来回应，且其触发门槛远低于惯例的20%”。上个月，Riot曾试图以大约9.5亿美元的总股本收购Bitfarms的全部股份。Bitfarms拒绝了这一提议。本周早些时候，Bitfarms采取了一项“毒丸”计划，称若某个实体在6月20日之后至9月10日期间累积持有Bitfarms 15%以上的股份，该公司将发行新股，稀释该实体的股份。",
           "link": "https://panewslab.com/zh/articledetails/2691dwsh.html",
           "publishedOn": "2024-06-13T00:36:50.000Z",
-          "wordCount": 354,
+          "wordCount": 358,
           "title": "Riot Platforms已持有超13%的Bitfarms股票，批评Bitfarms的“毒丸”计划触发门槛低于惯例",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "PANews 6月13日消息，埃隆·马斯克在X平台上表示，为用户设置“点赞”为私密后，点赞数量显著增加。\n此外，马斯克还公布了Grok的趣味模式新闻。\n昨日报道，X本周将为所有用户启用“点赞隐私”功能。",
           "link": "https://panewslab.com/zh/articledetails/wao1sgq6.html",
           "publishedOn": "2024-06-13T00:26:05.000Z",
-          "wordCount": 348,
+          "wordCount": 352,
           "title": "马斯克：启用“点赞隐私”功能后，点赞数量显著增加",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -432,7 +432,7 @@
           "description": "深潮 TechFlow 消息，据官方公告显示，风投机构 Pantera Capital 宣布向 Everclear 投资 500 万美元，支持其开发跨链清算层技术。\n\nEverclear（前身为Connext）自2017年以来一直致力于解决区块链网络之间资产转移的问题，该公司最新推出的清算层是一个去中心化网络，旨在通过复杂的意图解决方案和自主研发的乐观卷积技术，实现链间流动性的结算和净化，预计可将跨链交易的成本和复杂性降低五倍。\n\n此外，Everclear的清算层支持自定义结算逻辑，允许任何区块链无障碍接入，推动了网络的广泛增长。",
           "link": "https://www.techflowpost.com/newsletter/detail_50268.html",
           "publishedOn": "2024-06-13T02:25:38.000Z",
-          "wordCount": 493,
+          "wordCount": 488,
           "title": "Pantera Capital：已向 Everclear 投资 500 万美元，支持其开发跨链清算层技术",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +442,7 @@
           "description": "深潮 TechFlow 消息，火币HTX数据监测显示，ATH 快速上涨，最高涨至 0.088 USDT，现报 0.0805 USDT，24H最高涨幅 40%。",
           "link": "https://www.techflowpost.com/newsletter/detail_50267.html",
           "publishedOn": "2024-06-13T02:23:25.000Z",
-          "wordCount": 486,
+          "wordCount": 481,
           "title": "ATH 涨超 30%，现报 0.0805 USDT",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +452,7 @@
           "description": "深潮 TechFlow 消息，XT.COM理财隆重推出RVN云挖矿，最低只需要投入118.18 USDT，便可永续获得RVN挖矿产出。\n\nRavencoin 是一种数字的点对点对网络，旨在使用特定的区块链，以便有效处理一项特定功能：将资产从一方转移到另一方。",
           "link": "https://www.techflowpost.com/newsletter/detail_50266.html",
           "publishedOn": "2024-06-13T02:22:55.000Z",
-          "wordCount": 476,
+          "wordCount": 471,
           "title": "XT 已上线 RVN 云挖矿产品",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +462,7 @@
           "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，BTC 跌破 68,000 美元，现报 67916.02美元，24 小时跌幅 2.59%。",
           "link": "https://www.techflowpost.com/newsletter/detail_50265.html",
           "publishedOn": "2024-06-13T02:17:21.000Z",
-          "wordCount": 487,
+          "wordCount": 482,
           "title": "行情：BTC 跌破 68,000 美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +472,7 @@
           "description": "深潮 TechFlow 消息，据链上分析师余烬监测，此前在 PEPE 上实现 243 万美元收益的鲸鱼，在 9 小时前将价值 848 万美元的 5 种山寨币转进了币安，然后从币安提回 244 万美元的稳定币。\n\n转入币安出售的代币包括：40,000 AAVE（约合 372 万美元）；264,836 XVS（约合 251 万美元）；2,675,700 MATIC（约合 173 万美元）；798,737 BLUR（约合 28 万美元）；246,344 ARB（约合 24 万美元）。",
           "link": "https://www.techflowpost.com/newsletter/detail_50264.html",
           "publishedOn": "2024-06-13T01:58:41.000Z",
-          "wordCount": 529,
+          "wordCount": 524,
           "title": "某巨鲸向币安存入 848 万美元山寨币并买入 244 万美元稳定币",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -482,7 +482,7 @@
           "description": "深潮 TechFlow 消息，Bankless 联创 David Hoffman 在社交平台发文表示，根据我们在 Discord（需要真实身份验证）中所获得的调查数据，大多数人表示对 ZKsync 空投总体满意。\n\n那些表达失望情况的人大多会经常使用 ZKsync Lite 网络，或是使用 Argent 钱包，并觉得空投的检查程序出了问题。用户所失望的原因与 X 上高度机器人化的活动完全不同。",
           "link": "https://www.techflowpost.com/newsletter/detail_50263.html",
           "publishedOn": "2024-06-13T01:44:17.000Z",
-          "wordCount": 503,
+          "wordCount": 498,
           "title": "Bankless 联创：Discord 调查显示大多数人对 ZKsync 空投总体满意",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -492,7 +492,7 @@
           "description": "深潮 TechFlow 消息，Arkham 在社交发文表示，1.4 亿美元的 CRV 接近清算。\n\nCurve 创始人 Michael Egorov 目前在 5 个协议的 5 个账户上以 1.4 亿美元 CRV 作为抵押借入 9570 万美元的稳定币（主要是 crvUSD）。\n\n根据目前的利率，Egorov 每年需支付 6000 万美元，以保持他在 Llamalend 的头寸。Egorov 有 5000 万美元 crvUSD 借款在 Llamalend 上，目前花费其约 120%APY。这是因为几乎没有剩余的 crvUSD 可在 Llamalend 上以 CRV 作为抵押借入，Egorov 的 3 个账户已经占了该协议上所借 crvUSD 的 90%以上。如果 CRV 的价格下跌约 10%，这些头寸可能会开始被清算。",
           "link": "https://www.techflowpost.com/newsletter/detail_50262.html",
           "publishedOn": "2024-06-13T01:32:02.000Z",
-          "wordCount": 573,
+          "wordCount": 568,
           "title": "Arkham：Curve 创始人所持有的 1.4 亿美元 CRV 面临清算风险",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -502,7 +502,7 @@
           "description": "深潮 TechFlow 消息，BNB Chain 于社交平台发文表示，opBNB 主网将于北京时间6月20日16:00进行 Haber 硬分叉升级，引入 secp256r1 曲线预编译。opBNB 节点需在硬分叉之前更新至 v0.4.2 版本。",
           "link": "https://www.techflowpost.com/newsletter/detail_50261.html",
           "publishedOn": "2024-06-13T01:20:32.000Z",
-          "wordCount": 494,
+          "wordCount": 489,
           "title": "BNB Chain：opBNB 主网将于6月20日16:00进行 Haber 硬分叉升级",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -512,7 +512,7 @@
           "description": "深潮 TechFlow 消息，据官网信息显示，Invesco和Galaxy联合推出的以太坊现货ETF已在美国存托信托与结算公司（DTCC）上列出，以代码“QETH”进行交易，创建/赎回（Create/Redeem）一栏显示为 N。",
           "link": "https://www.techflowpost.com/newsletter/detail_50260.html",
           "publishedOn": "2024-06-13T01:14:12.000Z",
-          "wordCount": 485,
+          "wordCount": 480,
           "title": "Invesco 和 Galaxy 联合推出的以太坊现货 ETF 已在 DTCC 上列出",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -522,7 +522,7 @@
           "description": "深潮 TechFlow 消息，XT 已上线合约交易补贴活动，活动时间2024年06月13日00:00 - 06月24日24:00（UTC+8），包含入门福利、爆仓补贴、交易返现和手续费返还四种，助力用户更好的参与合约交易。",
           "link": "https://www.techflowpost.com/newsletter/detail_50259.html",
           "publishedOn": "2024-06-13T01:08:21.000Z",
-          "wordCount": 471,
+          "wordCount": 466,
           "title": "XT 已上线合约交易补贴活动",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -532,7 +532,7 @@
           "description": "深潮 TechFlow 消息，美联储主席鲍威尔在货币政策新闻发布会上表示，美国经济已取得显著进步。通胀已大幅缓解，但仍过高，就业增长持续强劲。正在维持我们的限制性政策立场。近期指标显示经济增长仍以稳健速度扩张，美联储普遍预期今年GDP增速将低于去年水平，预期劳动力市场的强势将持续下去。\n\n影响利率路径预测的重大因素是通胀，由于通胀进展缓慢，降息已经推迟。需要更多的信心以及良好的通胀数据，但不会明确说明需要多少才开始降息。政策取决于整体数据而不仅仅是通胀数据。\n\n目前并未拥有足够的信心来放宽政策。如果经济保持稳定且通胀持续，准备在适当的情况下维持利率不变。如果就业状况出乎意料地疲软，美联储已做好应对准备。将继续逐次会议做出决策，并未承诺进行特定的降息路径。更多近期通胀数据表明，通胀已经在一定程度上放缓。\n\n今年至今，并未对通胀有足够的信心以进行降息。第一季度通胀进程出现停滞，这意味着降息需要等更长时间。将密切关注劳动力市场是否出现疲软迹象，但目前尚未看到这种迹象。",
           "link": "https://www.techflowpost.com/newsletter/detail_50258.html",
           "publishedOn": "2024-06-13T00:54:32.000Z",
-          "wordCount": 465,
+          "wordCount": 460,
           "title": "鲍威尔：需对通胀有更多信心来放宽政策，并未承诺特定降息路径",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -542,7 +542,7 @@
           "description": "深潮 TechFlow 消息，据 Cointelegraph 报道，或受美国总统候选人特朗普承诺加强该国的加密挖矿业务影响，比特币矿企股价周三上涨约 10%。根据谷歌财经的数据，TeraWulf (WULF) 和 Hut 8 Mining (HUT) 是市值最大的十大比特币矿工中涨幅最大的，6 月 12 日分别上涨了 10.5% 和 10.07%。\n\nCore Scientific (CORZ)、Iris Energy (IREN) 和 Cipher Mining (CIFR) 分别以 9.87%、9.72% 和 8.94% 的涨幅位列前五。\n\n行业巨头 CleanSpark (CLSK) 和 Riot Platforms (RIOT) 也分别上涨 8.15% 和 6.5%，但市值最大的比特币矿商Marathon Digital (MARA) 当日仅上涨 2.4%。\n\n中国比特币矿商嘉楠耘智（CAN）是市值前 20 名比特币矿商中唯一一家股价下跌的矿商。\n\n根据Companies Market Cap 的数据，这一强劲走势使比特币挖矿行业的市值升至 264 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_50257.html",
           "publishedOn": "2024-06-13T00:40:23.000Z",
-          "wordCount": 566,
+          "wordCount": 561,
           "title": "或受特朗普支持加密矿业言论影响，前十矿企股价涨约10%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -552,7 +552,7 @@
           "description": "深潮 TechFlow 消息，据The Block报道，区块链工程公司Equilibrium Group已推出其风险投资部门Equilibrium Ventures以及首个早期基金Equilibrium Ventures Fund I。\n\nEquilibrium Ventures Fund I的投资合伙人Mika Honkasalo透露，该基金正寻求筹集3000万欧元（约合3250万美元），并且在首轮融资中已筹集到约20%资金（650万美元），预计今年年底前将完成全部募资。\n\nHonkasalo表示，该基金的支持者包括Equilibrium Group本身以及The Sandbox的Sebastien Borget、Mask Network和Jigeum Capital等。Equilibrium Group成立于2018年，自2020年以来一直从其资产负债表中进行投资，成立专门的风险投资部门一直是长期计划。",
           "link": "https://www.techflowpost.com/newsletter/detail_50256.html",
           "publishedOn": "2024-06-13T00:23:38.000Z",
-          "wordCount": 505,
+          "wordCount": 500,
           "title": "区块链工程集团Equilibrium Group成立风投部门，拟为首支基金筹集超 3000 万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -562,7 +562,7 @@
           "description": "深潮 TechFlow 消息，6月13日，Coinbase创始人 Brian Armstrong在 X 表示，过去的48小时内，其与十几位民主党和共和党参议员在华盛顿特区会面，讨论为加密货币行业制定明确的规则，并为加密货币用户提供消费者保护。随着FIT21法案在众议院获得通过，参议院两党现在都有强大的动力来完成这项工作。\n\nBrian Armstrong表示，很高兴看到加密货币选民的声音正在对立法产生影响。",
           "link": "https://www.techflowpost.com/newsletter/detail_50255.html",
           "publishedOn": "2024-06-13T00:16:08.000Z",
-          "wordCount": 476,
+          "wordCount": 471,
           "title": "Coinbase 创始人：已与十几位议员会面，讨论为加密货币行业制定明确的规则",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -572,7 +572,7 @@
           "description": "深潮 TechFlow 消息，据 The Block 报道，据一份内部电子邮件副本显示，稳定币发行商 Paxos 已裁员约 20%，即 65 人。Paxos 联合创始人兼首席执行官 Charles ‘Chad’ Cascarilla 在邮件中表示，公司财务状况良好，资产负债表上有超过 5 亿美元。裁员是为了将资源更加集中于代币化和稳定币等领域。\n\nPaxos 已为受影响的员工提供了 13 周的遣散费、三个月的医疗保险补贴以及三个月的再就业支持。一位知情人士表示，裁员后 Paxos 的员工人数目前在 200-300 人之间。",
           "link": "https://www.techflowpost.com/newsletter/detail_50254.html",
           "publishedOn": "2024-06-13T00:14:34.000Z",
-          "wordCount": 516,
+          "wordCount": 511,
           "title": "稳定币发行商 Paxos 已裁员约 20%，公司财务状况良好",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -582,7 +582,7 @@
           "description": "深潮 TechFlow 消息，美联储连续第七次将基准利率维持在5.25%-5.50%区间不变，符合市场预期。\n\n美联储点阵图显示2024年将降息25个基点。没有官员认为今年将降息3次或更多，此前为10位。2025年预期将降息四次（三月预计为降息三次）。\n\n美联储FOMC声明中，委员会力求在长期内实现最大就业和2%的通胀。委员会判断，实现就业和通胀目标的风险在过去一年已趋向更好的平衡。委员会预计，在对通胀持续向2%迈进更有信心之前，不宜降低利率目标区间。在评估适当的货币政策立场时，委员会将继续监测新信息对经济前景的影响。如果出现可能阻碍委员会目标实现的风险，委员会将准备酌情调整货币政策立场。",
           "link": "https://www.techflowpost.com/newsletter/detail_50253.html",
           "publishedOn": "2024-06-13T00:04:22.000Z",
-          "wordCount": 464,
+          "wordCount": 459,
           "title": "美联储维持利率不变，符合市场预期",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -592,7 +592,7 @@
           "description": "深潮 TechFlow 消息 6月13日，ZKsync 旗下 ZK Nation 在X表示，X平台上出现了一场针对ZKsync的有组织的大规模传播Sybil错误信息的活动，数千个机器人账号参与其中，意图通过传播虚假信息来误导公众。ZK Nation 针对某虚假信息进行了辟谣分析，同时表示，“还有很多这样的帖子，声称社区分配的资金到了内部人员手中。他们对 ZKsync 知之甚少。敬请期待更多信息。”",
           "link": "https://www.techflowpost.com/newsletter/detail_50252.html",
           "publishedOn": "2024-06-12T23:53:30.000Z",
-          "wordCount": 486,
+          "wordCount": 481,
           "title": "ZKsync ：有人在 X 上发动数千个机器人抹黑 ZKsync 的空投活动",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -602,7 +602,7 @@
           "description": "深潮 TechFlow 消息 据The Block 报道，拜登竞选团队正在讨论通过Coinbase Commerce接受加密货币捐款。消息来源称，这一举措是在特朗普开始通过Coinbase Commerce接受加密货币捐款后不久进行的。拜登团队希望通过这一方式吸引加密货币支持者的选票，并从富有的亲加密货币捐赠者那里获得资金。尽管讨论仍处于探索阶段，但这一动向表明拜登团队正在努力与加密货币社区建立联系，以在即将到来的选举中争取更多支持。",
           "link": "https://www.techflowpost.com/newsletter/detail_50251.html",
           "publishedOn": "2024-06-12T23:34:17.000Z",
-          "wordCount": 477,
+          "wordCount": 472,
           "title": "拜登竞选团队考虑通过 Coinbase Commerce 接受加密货币捐款",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -612,7 +612,7 @@
           "description": "深潮 TechFlow 消息，L1项目Chromia宣布推出激励测试计划，奖励高达25万枚CHR。计划分为HackNet、ProjectNet和QuestNet三个部分，分别面向程序员、开发人员和日常用户。\n\nHackNet持续至6月28日，ProjectNet持续至7月26日，QuestNet从6月18日至8月30日。",
           "link": "https://www.techflowpost.com/newsletter/detail_50250.html",
           "publishedOn": "2024-06-12T16:03:01.000Z",
-          "wordCount": 463,
+          "wordCount": 458,
           "title": "L1项目Chromia推出激励测试计划，奖励高达25万枚CHR",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }

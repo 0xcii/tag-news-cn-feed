@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-13T05:15:11.748Z</id>
+    <id>urn:2024-06-13T06:19:54.578Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-13T05:15:11.748Z</updated>
+    <updated>2024-06-13T06:19:54.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Solana基金会对MEV验证者开刀，社区却不买单反吐槽治理中心化]]></title>
+        <id>https://www.web3sj.com/?p=114601</id>
+        <link href="https://www.web3sj.com/news/114601/"/>
+        <updated>2024-06-13T05:45:18.000Z</updated>
+        <summary type="html"><![CDATA[6 月 10 日，Solana 基金会宣布，因部分验证者参与「三明治攻击」，已将这些主要为俄罗斯人的 30 多个验证者从其委托计划（Delegation Program）中移除。此外，Solana 联创 Anatoly Yakovenko 在推特上提议，增强区块生产者之间的竞争，可能是解决 MEV 问题的潜在方案。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZKsync陷老鼠仓风波：空投条件偏门、女巫地址获大量空投]]></title>
+        <id>https://www.web3sj.com/?p=114596</id>
+        <link href="https://www.web3sj.com/news/114596/"/>
+        <updated>2024-06-13T05:42:29.000Z</updated>
+        <summary type="html"><![CDATA[在 ZKsync 正式公布空投规则前，例如 Nansen、TrustGo 或者部分加密 KOL 曾对空投人数做出过预计，在 TrustGo 的报告中，有 290 万个地址达到了合格分数线，即使在严格标准下也有 205 万个地址符合要求。而例如加密 KOL@DefiWimar 通过分析 ZK Nation 网站代码得出结论，符合 ZKsync 空投资格的地址将达 1, 650, 351 个。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[账户抽象：改善区块链交互体验的关键]]></title>
+        <id>https://www.web3sj.com/?p=114592</id>
+        <link href="https://www.web3sj.com/news/114592/"/>
+        <updated>2024-06-13T05:35:26.000Z</updated>
+        <summary type="html"><![CDATA[在探索的过程中，Ethereum 提出了 ERC-4337、EIP-3074 和 EIP-7702 等账户抽象解决方案。而其他公链比如 Solana 则存在 Program Derived Addresses (PDA) 这种类似账户抽象的方案，Cosmos 也有 x/authz 这类相似设计。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layer1项目估值和盈利能力、代币增发关系的深度辨析]]></title>
+        <id>https://www.web3sj.com/?p=114579</id>
+        <link href="https://www.web3sj.com/news/114579/"/>
+        <updated>2024-06-13T05:29:02.000Z</updated>
+        <summary type="html"><![CDATA[结论很简单：以太坊 PoW 无利可图，其商业模式从根本上被打破。100% 的交易费用支付给了矿工，因此以太坊的收入为零。更糟糕的是，激励区块链验证的 ETH 发行非常高，使得该链无利可图。当然，我们事后知道 ETH 的价格上涨了，但那些年的价格上涨纯粹是来自投机狂热的逆风，而不是内在因素。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么SOL ETF很难等到？因为它违背了一个很简单的道理]]></title>
+        <id>https://www.web3sj.com/?p=114572</id>
+        <link href="https://www.web3sj.com/news/114572/"/>
+        <updated>2024-06-13T05:24:05.000Z</updated>
+        <summary type="html"><![CDATA[方舟 BTC ETF 高居第 4 名（市占率 6%，Top 3 是贝莱德、灰度和富达），按照市场推测，却是「不太盈利」。 主要是 BTC ETF 的费率相比传统 ETF 比较低，很多在 0.19-0.25% 区间，ETF 也在做「费率竞赛」。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[探讨意图与链上衍生品的结合：如何塑造DeFi 3.0？]]></title>
         <id>https://www.web3sj.com/?p=114558</id>
@@ -510,56 +560,6 @@ HackNet持续至6月28日，ProjectNet持续至7月26日，QuestNet从6月18日�
         <link href="https://www.web3sj.com/show/kongtou/114517/"/>
         <updated>2024-06-12T15:49:50.000Z</updated>
         <summary type="html"><![CDATA[The Eeacon属于链游中不可多得的精品，0撸免费，非常推荐大家试试，而且反女巫做的不错！]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-6.12）]]></title>
-        <id>https://www.web3sj.com/?p=114508</id>
-        <link href="https://www.web3sj.com/news/114508/"/>
-        <updated>2024-06-12T12:17:39.000Z</updated>
-        <summary type="html"><![CDATA[MetaMask推出“汇集式质押”功能，降低以太坊质押门槛。56%的财富500强公司正在开展链上项目。Vitalik针对Meme币持续主导叙事的现象提出若干扩展加密货币功能的建议。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoPunks三年来新低，以太坊NFT时代落幕？]]></title>
-        <id>https://www.web3sj.com/?p=114480</id>
-        <link href="https://www.web3sj.com/nftnews/114480/"/>
-        <updated>2024-06-12T08:26:40.000Z</updated>
-        <summary type="html"><![CDATA[三箭资本在 2021 年 8 月以及 2022 年 3 月总花费约 140 ETH 购入的全套黄金皮肤 BAYC + 2 MAYC + BAKC 总计四件 Yuga Labs NFT 将于 6 月 18 日在苏富比进行拍卖。在 NFT 的巅峰期，这套资产的价格应该是超过了 1000 ETH。而现在，BAYC 的地板价已经不到 12 ETH。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LayerZero发币在即，哪些社区项目有机会获得空投？]]></title>
-        <id>https://www.web3sj.com/?p=114477</id>
-        <link href="https://www.web3sj.com/project/114477/"/>
-        <updated>2024-06-12T08:20:14.000Z</updated>
-        <summary type="html"><![CDATA[「Protocol RFP」提案申请已于 5 月 31 日结束，6 月 6 日 08:00 前合作伙伴项目地址也已确定。近日，LayerZero 联合创始人兼 CEO Bryan Pellegrino 表示，将于 6 月底前公布最终版女巫地址名单，此前计划于本月进行空投。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FMG深度研报：DePIN赛道从下至上的5个机会]]></title>
-        <id>https://www.web3sj.com/?p=114451</id>
-        <link href="https://www.web3sj.com/depinnews/114451/"/>
-        <updated>2024-06-12T08:10:07.000Z</updated>
-        <summary type="html"><![CDATA[我们经历过 DeFi Summer、NFT 和元宇宙狂热。下一波热潮是否会转向 DePIN？2020-2021 年间，DeFi 的市值增长了近 100 倍，从 17.5 亿美元最高增长至 1722 亿美元。假设在这轮牛市中，DeFi 总市值增长 10 倍，DePIN 的总市值达到 DeFi 的 50%，那么 DePIN 的总市值将达到 5000 亿美元，至少还有 20 倍的增长空间。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生于边缘：去中心化算力网络如何赋能Crypto与AI？]]></title>
-        <id>https://www.web3sj.com/?p=114442</id>
-        <link href="https://www.web3sj.com/ainews/114442/"/>
-        <updated>2024-06-12T07:56:34.000Z</updated>
-        <summary type="html"><![CDATA[把视线从 AI 转到 crypto，在加密市场沉寂了三年之后，终于又迎来了又一轮牛市，比特币价格屡创新高，各种 memecoin 层出不穷。虽然 AI 和 Crypto 作为 buzzword 火了这些年，但人工智能和区块链作为两项重要技术仿佛两条平行线，迟迟没有找到一个「交点」。]]></summary>
         <author>
             <name>Gao</name>
         </author>
