@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=114686",
+          "author": "Gao",
+          "description": "首先阐述了引入内协议机制处理区块空间分配的必要性，随后通过「谁、什么、何时、何地、如何」（W^4H）的框架来评估和比边现有的分配方案，并进一步深入分析了执行票模型（execution tickets）如何在提高 MEV 感知度和分配公平性之间取得平衡。",
+          "link": "https://www.web3sj.com/news/114686/",
+          "publishedOn": "2024-06-14T05:07:12.000Z",
+          "wordCount": 1432,
+          "title": "以太坊研究员和a16z研究员合著：区块空间分配机制",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718341591562.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=114675",
+          "author": "Gao",
+          "description": "加密货币是货币的未来。这份研究报告是我们自 2023 年 6 月以来的第四份研究报告，也是对企业采用情况的逐年调查，是 Coinbase 在我们的综合活动中发布的最新报告，旨在向公众宣传加密货币、区块链和其他 web3 技术在更新全球金融体系方面可以发挥的作用，以造福企业和消费者。",
+          "link": "https://www.web3sj.com/news/114675/",
+          "publishedOn": "2024-06-14T05:01:16.000Z",
+          "wordCount": 1445,
+          "title": "Coinbase报告全文：财富500强企业的区块链业务现状",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718341182908.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=114669",
+          "author": "Gao",
+          "description": "回想 2 年前的 LUNA 崩盘，8400 万美元的 UST 抛售就引发了 Terra 的恐怖灾难，作为第二大公链生态，仅在短短两天内就蒸发了近 400 亿美元。",
+          "link": "https://www.web3sj.com/project/114669/",
+          "publishedOn": "2024-06-14T04:25:18.000Z",
+          "wordCount": 1258,
+          "title": "LUNA准备交40亿美元罚款，Do Kwon还用坐牢吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718339102056.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=114664",
           "author": "Gao",
           "description": "SOFA.org 的第一个协议主网于 6 月 7 日启动，旨在提供一个透明的、基于请求报价（RFQ）的加密结构化产品市场，通过现成的去中心化应用程序（dApps）和标准化金库实现存款人和做市商之间的执行。该协议通过将资产转移到智能合约金库（作为链上托管人）确保最大安全性，从而消除对手方风险。",
           "link": "https://www.web3sj.com/definews/114664/",
           "publishedOn": "2024-06-14T04:07:00.000Z",
-          "wordCount": 883,
+          "wordCount": 890,
           "title": "OKX Ventures成为SOFA.org创始成员，以支持加密结构化产品链上结算框架的发展",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/image-40.png"
         },
@@ -21,7 +51,7 @@
           "description": "近日，Chromia 宣布正式启动激励测试计划，激励测试计划是主网发布的重要一步，参与者可以在为网络安全做出贡献的同时赢取奖励，并且还能再 Chromia 支持的网络上使用测试网 CHR 代币与官方 Chromia 钱包（Chromia Vault）进行互动。",
           "link": "https://www.web3sj.com/news/114661/",
           "publishedOn": "2024-06-14T04:00:29.000Z",
-          "wordCount": 1004,
+          "wordCount": 1023,
           "title": "三箭齐发，一文看懂 Chromia 激励测试计划",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718337612660.png"
         },
@@ -31,7 +61,7 @@
           "description": "Gensler 出生在一个犹太家庭，从小对金融耳濡目染，毕业后按部就班进入了华尔街巨鳄高盛工作，并在 30 岁时成为当时高盛最年轻的合伙人之一，最终在高盛耕耘了 18 年青春。",
           "link": "https://www.web3sj.com/news/114658/",
           "publishedOn": "2024-06-14T03:43:02.000Z",
-          "wordCount": 1177,
+          "wordCount": 1197,
           "title": "全新视角解读，被误解的SEC主席Gary Gensler",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718336542160.png"
         },
@@ -41,7 +71,7 @@
           "description": "这场直播围绕「构建一个新的用户驱动的人工智能经济（User-Owned AI）」这一前沿议题展开，吸引了超过 5000 名观众实时观看，并在短短 24 小时内就获得上万的总浏览量。",
           "link": "https://www.web3sj.com/ainews/114653/",
           "publishedOn": "2024-06-14T03:14:33.000Z",
-          "wordCount": 1102,
+          "wordCount": 1110,
           "title": "AI炉边谈话笔记：「用户驱动的 AI」如何引领去中心化AI的未来？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718334796524.png"
         },
@@ -51,7 +81,7 @@
           "description": "Curve创始人持有的2020万枚CRV在UwU Lend被清算。美国对以太坊ETF 19b-4申请的批准给韩国监管机构带来压力。Terraform Labs同意向美国SEC支付44.7亿美元罚款。",
           "link": "https://www.web3sj.com/news/114631/",
           "publishedOn": "2024-06-13T12:56:57.000Z",
-          "wordCount": 875,
+          "wordCount": 883,
           "title": "Web3世界日报（2024-6.13）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024061312551827.jpg"
         },
@@ -61,7 +91,7 @@
           "description": "虽然本周加密市场在CPI的消息下出现了反弹，单大部分山寨币的涨幅并不理解，反而在PUT端有非常高的涨幅，基本都出现了10倍的上涨，不知道你有没有吃到这波彩票。",
           "link": "https://www.web3sj.com/transaction/114611/",
           "publishedOn": "2024-06-13T09:17:25.000Z",
-          "wordCount": 966,
+          "wordCount": 979,
           "title": "Coincall山寨币期权一周播报（6.7~6.13）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024042505344022.jpg"
         },
@@ -71,39 +101,9 @@
           "description": "6 月 10 日，Solana 基金会宣布，因部分验证者参与「三明治攻击」，已将这些主要为俄罗斯人的 30 多个验证者从其委托计划（Delegation Program）中移除。此外，Solana 联创 Anatoly Yakovenko 在推特上提议，增强区块生产者之间的竞争，可能是解决 MEV 问题的潜在方案。",
           "link": "https://www.web3sj.com/news/114601/",
           "publishedOn": "2024-06-13T05:45:18.000Z",
-          "wordCount": 1067,
+          "wordCount": 1049,
           "title": "Solana基金会对MEV验证者开刀，社区却不买单反吐槽治理中心化",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718257495815.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114596",
-          "author": "Gao",
-          "description": "在 ZKsync 正式公布空投规则前，例如 Nansen、TrustGo 或者部分加密 KOL 曾对空投人数做出过预计，在 TrustGo 的报告中，有 290 万个地址达到了合格分数线，即使在严格标准下也有 205 万个地址符合要求。而例如加密 KOL@DefiWimar 通过分析 ZK Nation 网站代码得出结论，符合 ZKsync 空投资格的地址将达 1, 650, 351 个。",
-          "link": "https://www.web3sj.com/news/114596/",
-          "publishedOn": "2024-06-13T05:42:29.000Z",
-          "wordCount": 1087,
-          "title": "ZKsync陷老鼠仓风波：空投条件偏门、女巫地址获大量空投",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718257334282.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114592",
-          "author": "Gao",
-          "description": "在探索的过程中，Ethereum 提出了 ERC-4337、EIP-3074 和 EIP-7702 等账户抽象解决方案。而其他公链比如 Solana 则存在 Program Derived Addresses (PDA) 这种类似账户抽象的方案，Cosmos 也有 x/authz 这类相似设计。",
-          "link": "https://www.web3sj.com/news/114592/",
-          "publishedOn": "2024-06-13T05:35:26.000Z",
-          "wordCount": 1410,
-          "title": "账户抽象：改善区块链交互体验的关键",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718256913335.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=114579",
-          "author": "Gao",
-          "description": "结论很简单：以太坊 PoW 无利可图，其商业模式从根本上被打破。100% 的交易费用支付给了矿工，因此以太坊的收入为零。更糟糕的是，激励区块链验证的 ETH 发行非常高，使得该链无利可图。当然，我们事后知道 ETH 的价格上涨了，但那些年的价格上涨纯粹是来自投机狂热的逆风，而不是内在因素。",
-          "link": "https://www.web3sj.com/news/114579/",
-          "publishedOn": "2024-06-13T05:29:02.000Z",
-          "wordCount": 1152,
-          "title": "Layer1项目估值和盈利能力、代币增发关系的深度辨析",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1718256524335.png"
         }
       ]
     },
@@ -112,6 +112,176 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/8995l290.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，据SoSoValue数据，昨日（美东时间 6 月 13 日）比特币现货 ETF 总净流出 2.26 亿美元。昨日灰度（Grayscale）ETF GBTC 单日净流出 6153.28 万美元，目前 GBTC 历史净流出为 181.55 亿美元。\n昨日单日净流入最多的比特币现货 ETF 为贝莱德（BlackRock）ETF IBIT，单日净流入为 1822.73 万美元，目前 IBIT 历史总净流入达 176.40 亿美元。截止发稿前，比特币现货 ETF 总资产净值为 585.35 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.45%，历史累计净流入已达 152.96 亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/8995l290.html",
+          "publishedOn": "2024-06-14T03:58:03.000Z",
+          "wordCount": 437,
+          "title": "比特币现货ETF昨日总净流出2.26亿美元，ETF净资产比率达4.45%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d862ve2i.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，据Lookonchain监测，一名内部人士通过复杂的操作在 Solana 网络上以巨额利润出售了大量 $DADDY 代币。这名内部人士最初仅用 13.2 $SOL（约 $1,950）通过三个钱包购买了 2,980 万枚 $DADDY。\n在 @DaddyTateCTO 发布首个推文前，该内部人士仅花费了不到 $2,000。然后，他卖出了一小部分代币，并通过多个地址多次转移大部分 $DADDY，最终这些代币流向了地址 “DpL2Tm”。18 小时前，该内部人士将大量 $DADDY 转移到新钱包并开始抛售。他共售出 1,514 万枚 $DADDY，换得 11,752 $SOL（约 $1.74M）。他目前还持有 1,470 万枚 $DADDY，价值约 $2.8M。该操作为他带来了约 $5.6M 的总利润，相当于初始投资的 2,875 倍。",
+          "link": "https://panewslab.com/zh/articledetails/d862ve2i.html",
+          "publishedOn": "2024-06-14T03:56:56.000Z",
+          "wordCount": 424,
+          "title": "一内部人士通过出售DADDY代币获利数百万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/398liqe5.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，LBank发布公告称，DADDY U本位合约已于6月13日18:00全网首发上线LBank，最高杠杆为50倍。\nDADDY是一种独特的memecoin，旨在象征着权力和影响力，并通过颠覆传统金融体系的方式为持有者提供财富增长的机会，鼓励用户在链上世界中建立自己的王国，远离MOTHER币统治下的常规生活。",
+          "link": "https://panewslab.com/zh/articledetails/398liqe5.html",
+          "publishedOn": "2024-06-14T03:48:25.000Z",
+          "wordCount": 372,
+          "title": "LBank 已全网首发上线 DADDY U 本位永续合约",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/x3e40k5h.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，模块化的链上 AI 网络 REVOX.ai 宣布成功筹集战略资金，总额达 600 万美元。本轮融资由 SevenX Ventures、Arweave SCP Ventures、Cointelegraph Acceleration、Skyland Ventures、0x Consulting Group 和 7upDAO 等多家机构投资。这些资金将用于进一步推动 REVOX.ai 在去中心化人工智能领域的发展，加速产品创新和市场扩展。\nREVOX.ai 是一个致力于将 AI 技术与去中心化架构相结合的平台，旨在提供更安全和高效的 AI 解决方案。",
+          "link": "https://panewslab.com/zh/articledetails/x3e40k5h.html",
+          "publishedOn": "2024-06-14T03:48:24.000Z",
+          "wordCount": 434,
+          "title": "模块化链上AI网络REVOX.ai已筹集600万美元战略资金",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/y8li8cft.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，据 DefiLlama数据显示，各头部交易平台中，24 小时资金流入量前 4 的平台分别为：币安（1.5 亿美元）、Bybit（9598 万美元）、OKX（8558 万美元）、Bitget（4337 万美元）。\n7 天资金流入量方面，币安以 12.6 亿美元的资金流入位于榜首，OKX 呈现负增长，Bybit 资金流入 2563 万美元，Bitget 以 6508 万美元的资金流入位列第三。此外，在月度资金流入方面，头部交易平台中仅 Bitget 呈现正向增长，以 12.65 亿美元位居榜首。",
+          "link": "https://panewslab.com/zh/articledetails/y8li8cft.html",
+          "publishedOn": "2024-06-14T03:42:44.000Z",
+          "wordCount": 421,
+          "title": "数据：Bitget 月度资金流入量达 12.65 亿美元，居中心化交易平台榜首",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8x92imko.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，据 Wormhole 官方推特，PayPal 的稳定币 $PYUSD 已通过 Wormhole 跨链桥成功集成到 Injective 网络。用户现在可以将 PYUSD 从以太坊和 Solana 网络转移到 Injective。\n昨日报道，Injective宣布与PYUSD稳定币集成，用户可将PYUSD从以太坊和Solana转移至Injective。",
+          "link": "https://panewslab.com/zh/articledetails/8x92imko.html",
+          "publishedOn": "2024-06-14T03:27:07.000Z",
+          "wordCount": 386,
+          "title": "跨链桥Wormhole已支持PayPal稳定币PYUSD",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1ykmxrgq.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，韩国加密货币交易所 Upbit 宣布支持 Ondo Finance (ONDO) 的新交易对，现已上线韩元 (KRW)、比特币 (BTC) 和 USDT 市场。ONDO 是基于以太坊网络的RWA（Real World Asset）项目，其充值和提现功能将在公告发布后三小时内开放。\n交易支持时间如下：\n• USDT 市场：6月14日 15:00（韩国时间）\n• BTC 市场：6月14日 16:00（韩国时间）\n• KRW 市场：6月14日 17:00（韩国时间）",
+          "link": "https://panewslab.com/zh/articledetails/1ykmxrgq.html",
+          "publishedOn": "2024-06-14T03:10:45.000Z",
+          "wordCount": 420,
+          "title": "Upbit将上架Ondo Finance (ONDO)",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5f6hybwx.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，在第135次以太坊共识层核心开发者会议（ACDC）上，开发者们讨论了几项重要议题。据 Galaxy Research 的 Christine Kim 总结，本次会议主要关注以下内容：\n1. 新公告：以太坊 DevOps 团队宣布，ethPandaOps 团队将接管 Kurtosis 模块的维护，这是一个帮助开发者启动测试网及相关工具的软件包。此外，EF 协议支持负责人 Tim Beiko 介绍了新的 EIPs 纳入流程，以提高对 Ethereum Improvement Proposals 的管理效率。\n2. 即将发布的 Electra v1.5.0-alpha.3：开发者们准备在未来几周内发布 Electra 的最新版本，并将在发布后讨论 Pectra Devnet 1 的启动时间。\n3. PeerDAS 实现进展：PeerDAS 作为一种增强节点处理大量数据能力的网络更改，将在单独的开发网上激活，以避免测试干扰。PeerDAS Devnet 1 预计将在2至4周内启动。\n4. Blob 限制讨论：开发者讨论了提高以太坊区块中的 Blob 数据限制，并研究了如何解耦执行层（EL）和共识层（CL）之间的依赖关系，以便更灵活地进行修改。\n5. SSZ 相关 EIPs 的更新：多个客户端团队报告了在实现 SSZ 相关 EIPs 上的进展，计划在未来几周内讨论这些 EIPs 的开发网时间表。\n6. 下一次共识层升级的命名：开发者开始考虑 Electra 之后的下次升级的命名，可能选择以 “F” 字母开头的星名，如 Fulu、Felis、Formosa 和 Funi。",
+          "link": "https://panewslab.com/zh/articledetails/5f6hybwx.html",
+          "publishedOn": "2024-06-14T03:02:48.000Z",
+          "wordCount": 476,
+          "title": "第135次以太坊ACDC会议：ethPandaOps团队将接管Kurtosis模块的维护",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/h3byop5t.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，据官方消息，SevenX Ventures 将与 everVision 和 BuidlerDAO 合作推出 1000 万美金的 AO 生态基金，用于投资和孵化 AO 生态的早期项目，帮助加速整个生态系统的发展。 除资金支持外，everVision 还将提供技术支持，帮助项目更好地在AO生态内进行开发，BuidlerDAO 将会组织黑客松和加速营，降低开发者和创业者进入生态的门槛，引导他们实现可持续发展。\nSevenX Ventures 创始合伙人 Eraser 提到，“作为从2011年起就关注并持续投资Arweave生态的早期支持者，SevenX对AO的前景也同样看好。很高兴能与SevenX的portfolio——everVision 与 BuidlerDAO合作推出第一支AO生态基金，期望能够帮助开发者更好地接入AO生态，同时助力生态的繁荣。”",
+          "link": "https://panewslab.com/zh/articledetails/h3byop5t.html",
+          "publishedOn": "2024-06-14T02:57:44.000Z",
+          "wordCount": 391,
+          "title": "SevenX Ventures将与everVision、BuidlerDAO合作推出1000万美元AO生态基金",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ra4klfjt.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，比特币 Layer2网络AILayer（此前的AINN Layer2）现已接入OKX Web3钱包。用户可以通过 OKX Web3 钱包在AILayer进行质押、赚取积分等等。AILayer专注于将AI技术与比特币Layer2结合，并推动Web3技术与人工智能的深度融合与在全球范围内的广泛采用。\n据悉，OKX Web3 钱包是一站式 Web3 入口，现已支持 95+公链，App、插件、网页三端统一，涵盖钱包、DEX、DeFi、NFT 市场、DApp 探索 5 大板块、并上线比特币铭文和符文交易市场等。",
+          "link": "https://panewslab.com/zh/articledetails/ra4klfjt.html",
+          "publishedOn": "2024-06-14T02:50:04.000Z",
+          "wordCount": 390,
+          "title": "比特币 Layer2网络AILayer已接入OKX Web3钱包",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a02jujw7.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，链上分析师余烬发推文称，某鲸鱼或机构在10小时前通过两个地址将1,294万枚 MATIC（价值约 $7.96M）转入币安交易所。这些 MATIC 是在2023年11月至2024年2月期间以平均 $0.945 的价格购入，而现以 $0.615 的价格转入交易所，估算产生了约 $4.27M 的亏损，相当于35%的跌幅。",
+          "link": "https://panewslab.com/zh/articledetails/a02jujw7.html",
+          "publishedOn": "2024-06-14T02:34:36.000Z",
+          "wordCount": 371,
+          "title": "某鲸鱼10小时前通过两个地址将1,294万枚MATIC转入币安，若出售则亏损35%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fxphz5c4.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，基于 Near 的 DeFi协议 Orderly Network 宣布正式上线以太坊主网。用户现在可以直接从基础层进行交易，实现更加无缝的体验。此外，以太坊主网上的去中心化交易所（DEX）现已能够提供由 Orderly Network 支持的永续合约交易。\n此外，Orderly Network 还宣布将向早期用户分配 10% 的 $ORDER 代币，总计 1 亿枚。这一空投面向 NEAR 生态的交易者，用户需在6月27日之前绑定钱包才能领取代币。\nOrderly是全链衍生品流动性层项目，旨在整合全链衍生品流动性，为任何资产、任何公链、任何产品界面提供流动性和结算支持。",
+          "link": "https://panewslab.com/zh/articledetails/fxphz5c4.html",
+          "publishedOn": "2024-06-14T02:31:43.000Z",
+          "wordCount": 403,
+          "title": "Orderly Network现已在以太坊主网上线，并向早期用户分配10%的ORDER代币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/lof8y7lj.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，去中心化信贷协议 Qiro Finance 宣布完成 120 万美元的 Pre-Seed 轮融资。本轮融资由 Alliance 领投，Druid Ventures、Escape Velocity (EV3)、Trident Digital 和 CMT Digital 等机构参投。Qiro Finance 计划利用这笔资金进一步开发其去中心化信贷协议，并增强代币化真实世界资产（RWA）支持信贷应用的能力。\n此外，Qiro Finance 还获得了由 Polygon 提供的 10 万枚 MATIC 代币和来自 Aptos 基金会的 5 万美元开发资助。Qiro Finance 的创始人 Akshay Poshatwar 和 Nishikant Bahalkar 表示，该公司致力于通过区块链技术和稳定币框架，解决东南亚等新兴市场的信贷缺口问题。",
+          "link": "https://panewslab.com/zh/articledetails/lof8y7lj.html",
+          "publishedOn": "2024-06-14T02:21:55.000Z",
+          "wordCount": 447,
+          "title": "去中心化信贷协议Qiro Finance完成120万美元Pre-Seed轮融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/kt9nyhh0.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，欧易OKX行情显示，TON价格刚刚触达8美元，创历史新高。现报7.969美元/枚，日内上涨8.37%。",
+          "link": "https://panewslab.com/zh/articledetails/kt9nyhh0.html",
+          "publishedOn": "2024-06-14T02:11:54.000Z",
+          "wordCount": 343,
+          "title": "TON价格触达8美元，创历史新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/27a34aa0.html",
+          "author": "PA一线",
+          "description": "美国法官批准Terraform与SEC达成的44.7亿美元和解协议\n据Cointelegraph报道，纽约南区地方法院法官Jed Rakoff批准了Terraform Labs和Do Kwon与美国证券交易委员会（SEC）达成的44.7亿美元和解协议。根据该协议，Terraform将被追缴35.8亿美元非法所得并支付4.2亿美元的民事罚款和近4.67亿美元的判决前利息，其联合创始人Do Kwon将被禁止担任上市公司的高管或董事。\n市场消息：美SEC主席预计以太坊ETF的S1申请将于夏季某个时候获批\n据@tier10k报道，美国证券交易委员会（SEC）主席Gary Gensler预计以太坊ETF的S1申请将于夏季某个时候获批。\n此外，据福克斯记者EleanorTerrett报道，Gensler是在与参议员Bill Hagerty交谈时做出的此番言论，关于细节澄清：Gensler说的是“在今年夏天期间”，而Hagerty说的是“在今年夏天结束前”。\n美SEC主席谈及DeFi在执行反洗钱法方面面临的挑战\n据福克斯记者EleanorTerrett报道，美国证券交易委员会（SEC）主席Gary Gensler刚刚谈到了由于区块链的无需许可的性质，DeFi在执行反洗钱法方面面临的挑战。\n瑞士监管机构关闭加密货币相关银行FlowBank，启动破产程序\n据CoinDesk报道，瑞士金融市场监管局（FINMA）周四宣布关闭加密银行FlowBank，称该银行“不再有足够的资本来维持其银行业务”，并且“严重违反了最低资本要求”。FINMA还表示，“有充分理由担心该银行目前负债过高”且“没有重组前景”。瑞士顶级律师事务所Walder Wyss已被FINMA任命为该银行的破产清算人。\nFlowBank成立于2020年，加密资产管理公司CoinShares在2021年以1180万美元的价格收购了该银行…",
+          "link": "https://panewslab.com/zh/articledetails/27a34aa0.html",
+          "publishedOn": "2024-06-14T02:07:04.000Z",
+          "wordCount": 614,
+          "title": "昨夜今晨重要资讯（6月13日-6月14日）",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2024/06/14/images/0U7F2ukj21.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b5qd3y90.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，链上分析师余烬发推文称，Galaxy Digital 的场外交易（OTC）地址在6小时前将10,000枚以太坊（ETH）转入了 Coinbase 和 Bitstamp 交易所，当时 ETH 的价格为 $3,481，总价值约 $34.81M。",
+          "link": "https://panewslab.com/zh/articledetails/b5qd3y90.html",
+          "publishedOn": "2024-06-14T01:34:18.000Z",
+          "wordCount": 376,
+          "title": "Galaxy Digital的OTC地址6小时前将1万枚ETH转入Coinbase和Bitstamp交易所",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u0eph0s6.html",
+          "author": "PA一线",
+          "description": "PANews 6月14日消息，DeFi资管平台 Zapper 宣布推出 Zapper Protocol，这是一种开放协议，旨在激励用户解读和诠释链上信息。Zapper 希望通过该协议提升全球用户的链上识读能力，让每个人都能理解以太坊的真正潜力。该协议将通过 $ZAP 代币运行，计划于2024年第四季度发布。\nZapper Protocol 的首个阶段将允许任何人贡献力量，使区块链更具可读性。用户可以通过索引模板添加新的DeFi协议集成，或通过事件解释器将复杂的链上交易转化为人类可读的输出。",
+          "link": "https://panewslab.com/zh/articledetails/u0eph0s6.html",
+          "publishedOn": "2024-06-14T01:28:52.000Z",
+          "wordCount": 394,
+          "title": "Zapper宣布推出Zapper Protocol，由Q4发布的ZAP代币提供支持",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/acbiauip.html",
           "author": "PA一线",
@@ -128,7 +298,7 @@
           "description": "PANews 6月14日消息，据The Block报道，根据白宫周四发布的声明，美国总统拜登宣布提名商品期货交易委员会（CFTC）委员Christy Goldsmith Romero领导联邦存款保险公司（FDIC），并提名CFTC委员Kristin Johnson担任财政部金融机构助理部长。两位委员都敦促CFTC发布规则或指导方针，以保护消费者并解决加密货币领域的利益冲突。Romero曾警告称，加密货币市场存在“传染风险”，并将该行业与2008年的金融危机进行了比较。Romero还是CFTC技术咨询委员会的发起人，该委员会今年早些时候投票向委员会提交一份报告，呼吁政府和行业了解去中心化金融。Johnson此前曾表示，CFTC应“立即制定有关资产托管的监管规定”。他还对去中心化金融和人工智能表达了担忧。据路透社报道，拜登政府正在推动于7月8日当周开始首次提名听证会。",
           "link": "https://panewslab.com/zh/articledetails/dps32j81.html",
           "publishedOn": "2024-06-14T00:43:55.000Z",
-          "wordCount": 351,
+          "wordCount": 349,
           "title": "拜登提名CFTC委员担任FDIC和财政部高级职位",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,128 +308,8 @@
           "description": "PANews 6月14日消息，据CoinDesk报道，瑞士金融市场监管局（FINMA）周四宣布关闭加密银行FlowBank，称该银行“不再有足够的资本来维持其银行业务”，并且“严重违反了最低资本要求”。FINMA还表示，“有充分理由担心该银行目前负债过高”且“没有重组前景”。瑞士顶级律师事务所Walder Wyss已被FINMA任命为该银行的破产清算人。\nFlowBank成立于2020年，加密资产管理公司CoinShares在2021年以1180万美元的价格收购了该银行9%的股份。今年早些时候，有报道称币安将允许大型交易商在FlowBank或另一家瑞士加密友好银行Sygnum持有加密资产。根据FINMA网站上发布的一份文件，在FlowBank存款不超过10万瑞士法郎(约合111,710美元)的客户将在七个工作日内收到他们的资金。",
           "link": "https://panewslab.com/zh/articledetails/b3yt18q0.html",
           "publishedOn": "2024-06-14T00:30:47.000Z",
-          "wordCount": 342,
+          "wordCount": 340,
           "title": "瑞士监管机构关闭加密银行FlowBank并启动破产程序",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/bjidb513.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，据纽约时报：马斯克表示，自今年1月以来，X平台上65%的广告客户已回归，目前小公司占据X公司大部分广告收入。\n在特斯拉股东大会上，马斯克还表示，特斯拉在现实世界人工智能领域领先于Meta、谷歌和OpenAI。特朗普是CyberTruck的“铁杆粉丝”。",
-          "link": "https://panewslab.com/zh/articledetails/bjidb513.html",
-          "publishedOn": "2024-06-14T00:27:05.000Z",
-          "wordCount": 348,
-          "title": "X平台上65%的广告客户已回归，目前小公司占据X公司大部分广告收入",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/d7z6z5b3.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，全链NFT协议Holograph推特发文称，操作合约遭到恶意攻击，黑客利用漏洞铸造了额外10亿枚HLG。团队已经修补了最初的漏洞，并正在与交易所合作封锁恶意账户。团队已展开调查，并正在与执法部门联系。该事件导致Holograph协议的原生代币HLG价格一度暴跌超过60%。链上数据显示，ENS钱包acc01ade.eth参与了本次攻击。Github页面表明他们也是项目的贡献者。",
-          "link": "https://panewslab.com/zh/articledetails/d7z6z5b3.html",
-          "publishedOn": "2024-06-14T00:20:06.000Z",
-          "wordCount": 343,
-          "title": "Holograph：操作合约遭恶意攻击，已修补最初漏洞并正与执法部门联系",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/wfhd68hr.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，据The Block报道，在UwU Lend攻击者未能归还资金后，该协议正在采取另一项举措来寻找黑客。根据以太坊上的Input Data Message(IDM)，UwU Lend将为“第一个识别并找到”黑客的人提供价值500万美元的ETH赏金，并补充表示“无需追回资金或费用”。此前，该协议曾向黑客留言，称其只需归还80%的资金，剩余的20%资金可自行保留。该协议将不再进一步追究此事，也不会让执法部门介入此事。黑客必须在美东时间周三下午1点之前归还资金。但在周四发给黑客的消息中，UwU Lend称“归还被盗资金的期限已过”。",
-          "link": "https://panewslab.com/zh/articledetails/wfhd68hr.html",
-          "publishedOn": "2024-06-14T00:07:20.000Z",
-          "wordCount": 363,
-          "title": "UwU Lend将向第一个找到黑客的人提供500万美元赏金",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/kjk31zp5.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，据彭博社报道，OpenAI已任命美国退役陆军上将Paul Nakasone为董事会成员。Nakasone曾担任美国国家安全局（NSA）局长和美国网络司令部领导人。他还将加入OpenAI新成立的安全与保障委员会，该委员会专注于OpenAI的关键安全决策。",
-          "link": "https://panewslab.com/zh/articledetails/kjk31zp5.html",
-          "publishedOn": "2024-06-13T23:53:29.000Z",
-          "wordCount": 344,
-          "title": "OpenAI任命前美国国家安全局局长为董事会成员",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/xly6a1ol.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，据Farside Investors监测，6月13日灰度GBTC资金净流出6150万美元，Ark ARKB净流出5270万美元，Bitwise BITB净流出980万美元。",
-          "link": "https://panewslab.com/zh/articledetails/xly6a1ol.html",
-          "publishedOn": "2024-06-13T23:39:07.000Z",
-          "wordCount": 350,
-          "title": "数据：6月13日灰度GBTC资金净流出6150万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/15i8i4jy.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，据Cointelegraph报道，纽约南区地方法院法官Jed Rakoff批准了Terraform Labs和Do Kwon与美国证券交易委员会（SEC）达成的44.7亿美元和解协议。根据该协议，Terraform将被追缴35.8亿美元非法所得并支付4.2亿美元的民事罚款和近4.67亿美元的判决前利息，其联合创始人Do Kwon将被禁止担任上市公司的高管或董事。",
-          "link": "https://panewslab.com/zh/articledetails/15i8i4jy.html",
-          "publishedOn": "2024-06-13T23:26:48.000Z",
-          "wordCount": 354,
-          "title": "美国法官批准Terraform与SEC达成的44.7亿美元和解协议",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5ofr5nr9.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，Coinbase Assets推特发文称，Coinbase将在以太坊网络（ERC-20代币）上添加对Pirate Nation（PIRATE）的支持。请勿通过其他网络发送此资产，否则资金可能面临丢失风险。Pirate Nation（PIRATE）现已在coinbase.com、Coinbase iOS和安卓应用程序中上线，并带有实验性标签。Coinbase客户可以登录购买、出售、转换、发送、接收或存储这些资产。",
-          "link": "https://panewslab.com/zh/articledetails/5ofr5nr9.html",
-          "publishedOn": "2024-06-13T23:19:10.000Z",
-          "wordCount": 356,
-          "title": "Coinbase已上线Pirate Nation（PIRATE）",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ddy898ig.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，Arweave AO推特发文称，已上线AO代币铸造，AR持有者已经开始收到AO。在6月18日跨链桥奖励启动之前，铸造的AO代币将100%授予AR代币持有者。跨链桥奖励启动后，1/3的AO代币将按比例分配给AR持有者，2/3的AO代币将分配给将资产跨链至AO的用户。用户可以存入stETH以获得代币奖励，未来将支持更多资产。AO代币将保持锁定，直到约15%的供应量被铸造。这将发生在2025年2月8日左右。\n相关阅读：速览去中心化超级计算机AO代币经济学，如何赚取100%公平分发的代币？",
-          "link": "https://panewslab.com/zh/articledetails/ddy898ig.html",
-          "publishedOn": "2024-06-13T23:13:58.000Z",
-          "wordCount": 363,
-          "title": "Arweave AO：已上线AO代币铸造，用户可通过持有AR获取AO",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2beuhqd0.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，据官方博客，Paradigm已为其第三支基金筹集8.5亿美元，专注于早期阶段的加密项目。",
-          "link": "https://panewslab.com/zh/articledetails/2beuhqd0.html",
-          "publishedOn": "2024-06-13T16:08:51.000Z",
-          "wordCount": 343,
-          "title": "Paradigm已为其第三支基金筹集8.5亿美元，专注于早期阶段的加密项目",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/rkslanaq.html",
-          "author": "PA一线",
-          "description": "PANews 6月14日消息，Coinbase International Exchange在X平台发文表示，Coinbase International Exchange和Coinbase Advanced将上线BOME和NOT永续合约。BOME-PERP和NOT-PERP市场将于北京时间2024年6月20日17:30或之后开始开放。",
-          "link": "https://panewslab.com/zh/articledetails/rkslanaq.html",
-          "publishedOn": "2024-06-13T16:06:26.000Z",
-          "wordCount": 368,
-          "title": "Coinbase国际站将上线BOME和NOT永续合约",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/n0cnapsi.html",
-          "author": "PA一线",
-          "description": "PANews 6月13日消息，Coinglass数据显示，过去24小时加密货币市场全网合约爆仓2.26亿美元，共有70,037人被爆仓，其中多单爆仓1.86亿美元，空单爆仓4030.13万美元。BTC爆仓总金额6910.88万美元，ETH爆仓总金额6165.26万美元。",
-          "link": "https://panewslab.com/zh/articledetails/n0cnapsi.html",
-          "publishedOn": "2024-06-13T16:03:13.000Z",
-          "wordCount": 349,
-          "title": "过去24小时全网合约爆仓2.26亿美元，主爆多单",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/z3iy67ag.html",
-          "author": "PA一线",
-          "description": "PANews 6月13日消息，据The Block报道，Paradigm已提拔Georgios Konstantopoulos为普通合伙人。该公司的联合创始人Matt Huang周四在X上发帖称： “很高兴宣布Georgios Konstantopoulos已晋升为Paradigm的普通合伙人（同时兼任CTO）。”",
-          "link": "https://panewslab.com/zh/articledetails/z3iy67ag.html",
-          "publishedOn": "2024-06-13T16:00:55.000Z",
-          "wordCount": 360,
-          "title": "Paradigm任命Georgios Konstantopoulos为普通合伙人",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -377,172 +427,12 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
-          "id": "https://www.techflowpost.com/newsletter/detail_50375.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，受上线 Upbit 消息影响，ONDO 短时突破 1.44 美元，现报 1.332505 美元，24 小时涨幅 9.32%。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50375.html",
-          "publishedOn": "2024-06-14T03:19:55.000Z",
-          "wordCount": 492,
-          "title": "行情：ONDO 短时突破 1.44 美元",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50374.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，韩国加密货币交易所 Upbit 宣布支持 Ondo Finance (ONDO) 的新交易对，现已上线韩元 (KRW)、比特币 (BTC) 和 USDT 市场。ONDO 是基于以太坊网络的数字资产，其充值和提现功能将在公告发布后三小时内开放。\n\n交易支持时间如下：\n\n• USDT 市场：6月14日 15:00 (UTC+8)\n\n• BTC 市场：6月14日 16:00 (UTC+8)\n\n• KRW 市场：6月14日 17:00 (UTC+8)",
-          "link": "https://www.techflowpost.com/newsletter/detail_50374.html",
-          "publishedOn": "2024-06-14T03:13:29.000Z",
-          "wordCount": 525,
-          "title": "Upbit 将上线 Ondo Finance (ONDO)",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50373.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，ZK Nation 针对近日有关空投分配的反馈发推回应称，其空投设计为非常规方式，有不完善之处。但对自己选择的道路感到自豪，并相信我们做出了合理的权衡。此外，很多用户因为收到的空投份额比预期的少而感到沮丧，团队对此非常重视。\n\n我们花了好几天好几个晚上研究报告，反复核对数据，以了解全貌，消除任何可能的错误。结果并未发现重大问题，但团队也意识到，其对空投设计细节的沟通不够清晰，因此制定了一系列常见问题解答（FAQ）来回应社区的疑问，并将继续完善反馈机制，以透明的方式解答所有问题。代币申领将于 6 月 17 日开放。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50373.html",
-          "publishedOn": "2024-06-14T02:59:07.000Z",
-          "wordCount": 489,
-          "title": "ZK Nation：空投设计有不完善之处，代币申领将于 6 月 17 日开放",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50372.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，比特币 Layer2网络AILayer（此前的AINN Layer2）现已接入OKX Web3钱包。用户可以通过 OKX Web3 钱包在AILayer进行质押、赚取积分等等。AILayer专注于将AI技术与比特币Layer2结合，并推动Web3技术与人工智能的深度融合与在全球范围内的广泛采用。\n\n据悉，OKX Web3 钱包是一站式 Web3 入口，现已支持 95+公链，App、插件、网页三端统一，涵盖钱包、DEX、DeFi、NFT 市场、DApp 探索 5 大板块、并上线比特币铭文和符文交易市场等。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50372.html",
-          "publishedOn": "2024-06-14T02:49:14.000Z",
-          "wordCount": 513,
-          "title": "比特币 Layer2 网络 AILayer 现已接入 OKX Web3 钱包",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50371.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，总部位于新加坡的 DeFi 信贷服务公司 Qiro Finance 宣布完成 120 万美元 Pre-Seed 轮融资，Alliance 领投，Druid Ventures、Escape Velocity（EV3）、Trident Digital 和 CMT Digital 参投，具体估值信息暂未披露。\n\nQiro Finance 旨在通过利用区块链技术和稳定币框架来解决东南亚等地区普遍存在的巨大信贷缺口。除了资金之外，Qiro Finance 还从 Polygon 获得了 100,000 MATIC 资助，并从 Aptos 基金会获得了 50,000 美元的开发资助。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50371.html",
-          "publishedOn": "2024-06-14T02:38:52.000Z",
-          "wordCount": 525,
-          "title": "DeFi信贷服务公司Qiro Finance完成120万美元Pre-Seed轮融资，Alliance领投",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50370.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据官方消息，SevenX Ventures 将与 everVision 和 BuidlerDAO 合作推出 1000 万美金的 AO 生态基金，用于投资和孵化 AO 生态的早期项目，帮助加速整个生态系统的发展。 除资金支持外，everVision 还将提供技术支持，帮助项目更好地在AO生态内进行开发，BuidlerDAO 将会组织黑客松和加速营，降低开发者和创业者进入生态的门槛，引导他们实现可持续发展。\n\nSevenX Ventures 创始合伙人 Eraser 提到，“作为从2011年起就关注并持续投资Arweave生态的早期支持者，SevenX对AO的前景也同样看好。很高兴能与SevenX的portfolio——everVision 与 BuidlerDAO合作推出第一支AO生态基金，期望能够帮助开发者更好地接入AO生态，同时助力生态的繁荣。”",
-          "link": "https://www.techflowpost.com/newsletter/detail_50370.html",
-          "publishedOn": "2024-06-14T02:34:02.000Z",
-          "wordCount": 531,
-          "title": "SevenX Ventures 携手 everVision 和 BuidlerDAO 推出 1000万美元 AO 生态基金",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50369.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，6月13日，Bitget推出 VIP 迎新专享活动。他所 VIP 可直升 Bitget VIP+2等级权益，首次成为VIP 的用户，完成充值、交易、邀请等任务均可获得奖励，单人最高可获得 8888 美元。活动时间为6月13日 19:00-6月20日 24:00（UTC+8）。参加活动的用户需点击页面上的“报名”按钮完成报名。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50369.html",
-          "publishedOn": "2024-06-14T02:15:27.000Z",
-          "wordCount": 498,
-          "title": "Bitget 推出 VIP 迎新专享活动，单人最高奖励 8888 美元",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50368.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，Curve Finance 创始人 Michael Egorov 在社交媒体发文称，“我比以往任何时候都更致力于构建 Curve，特别是通过 veTokenomics 游戏理论的应用，目前主要集中在veCRV。计划专注于以下几个方面：\n\n一是通过观察数据确保其借贷产品在所有市场条件下均为业界最安全；\n\n二是为套利交易者制作教育内容，教授他们如何进行清算操作；\n\n三是确保crvUSD的供应自动获得系统激励。”",
-          "link": "https://www.techflowpost.com/newsletter/detail_50368.html",
-          "publishedOn": "2024-06-14T02:10:52.000Z",
-          "wordCount": 483,
-          "title": "Curve 创始人：将进一步发展平台，提升平台稳定性和用户教育",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50367.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据链上分析师余烬检测，Galaxy Digital 的场外交易（OTC）地址在6小时前将10,000枚以太坊（ETH）转入了 Coinbase 和 Bitstamp 交易所，当时 ETH 的价格为 $3,481，总价值约 $34.81M。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50367.html",
-          "publishedOn": "2024-06-14T01:43:53.000Z",
-          "wordCount": 511,
-          "title": "数据：Galaxy Digital OTC 地址将 1 万枚 ETH 转入 CEX，约合 3481 万美元",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50366.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，TON 短时拉升触及 7.89 美元，创历史新高。现报价 7.8481 美元，24 小时涨幅达 6.7%。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50366.html",
-          "publishedOn": "2024-06-14T01:41:26.000Z",
-          "wordCount": 488,
-          "title": "TON 短时拉升触及 7.89 美元，创历史新高",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50365.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据官方消息，去中心化衍生品协议 Particle 宣布完成新一轮战略轮融资，Spirit DAO、XDeGods、dingaling 等参投，具体金额暂未披露。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50365.html",
-          "publishedOn": "2024-06-14T01:40:13.000Z",
-          "wordCount": 481,
-          "title": "去中心化衍生品协议 Particle 完成新一轮战略融资，Spirit DAO 等参投",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50364.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据官方信息，Sui 生态流动性协议 NAVI Protocol 发文称，其生态合作伙伴 Bluefin 将对支持 NAVI 协议并持有 NAVX 代币的用户进行空投。\n\n此次空投将根据 NAVI 排行榜积分和用户钱包中的 NAVX 持有量进行分配，共将分发给 10,000 名社区成员，代币分配将有加权系统决定， 60% 基于排行榜积分，40% 基于 NAVX 持有量（钱包中的 NAVX 和 NAVI 协议中提供的 NAVX）。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50364.html",
-          "publishedOn": "2024-06-14T01:20:53.000Z",
-          "wordCount": 532,
-          "title": "Sui 生态流动性协议 NAVI Protocol 用户将获得 Bluefin 空投",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50363.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据 Bitcoin Magazine 报道，VanEck表示正在投入更多资金来推销其现货比特币ETF，已推出一些商业广告，旨在吸引更多婴儿潮一代投资者。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50363.html",
-          "publishedOn": "2024-06-14T00:51:57.000Z",
-          "wordCount": 467,
-          "title": "VanEck：正在投入更多资金来推销其现货比特币ETF",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50362.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据 The Block 报道，在 UwU Lend 平台攻击者未能归还资金后，该协议正在采取另一项举措来寻找黑客。根据以太坊上的 Input Data Message (IDM)，UwU Lend 为“第一个识别并找到”漏洞利用者的人设立了价值 500 万美元的 ETH 赏金，并补充道，“无需追回资金或费用”。\n\n此前，该协议曾与漏洞利用者直接讨论过设立赏金。攻击者可以保留他们所窃取的 20%，只要他们归还 80%，如果漏洞利用者遵守，该协议表示将不再进一步追究此事，也不会让执法部门介入此事。\n\n据悉，攻击者必须在周三下午 1 点（美国东部时间）之前归还资金。但在周四发给攻击者的消息中，UwU Lend 写道“你所窃取资金的偿还期限已过。”",
-          "link": "https://www.techflowpost.com/newsletter/detail_50362.html",
-          "publishedOn": "2024-06-14T00:41:18.000Z",
-          "wordCount": 521,
-          "title": "UwU Lend 将为首个漏洞披露者设立价值 500 万美元赏金",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50361.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据 The Block 报道，区块链数据索引和查询协议 The Graph 基金会已完成 Sunrise 计划，这标志着 The Graph 过渡到完全去中心化的数据层。\n\nSunrise 完成了一个分为三阶段的去中心化计划，其中子图从中心化托管服务升级为 The Graph 的全球分布式网络，该网络由受代币激励的个人和作为数据索引器的独立公司组成。\n\n据悉，The Graph 于 2018 年引入了子图技术来索引以太坊，但现在已索引超过 55 条链，包括 Optimism、Base、Arbitrum、Avalanche、NEAR 和 Cosmos。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50361.html",
-          "publishedOn": "2024-06-14T00:32:17.000Z",
-          "wordCount": 520,
-          "title": "区块链数据索引和查询协议 The Graph 已完成向去中心化数据层的过渡",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_50360.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，全链 NFT 协议 Holograph 在社交平台平台发文表示，Holograph 合约已被恶意行为者利用，黑客能额外非法铸造 10 亿枚 HLG 代币。\n\n目前，团队已修补了初始漏洞，并正在与各交易平台合作伙伴合作锁定恶意账户，同时已展开调查并正在联系执法部门。",
-          "link": "https://www.techflowpost.com/newsletter/detail_50360.html",
-          "publishedOn": "2024-06-14T00:26:31.000Z",
-          "wordCount": 504,
-          "title": "全链 NFT 协议 Holograph 合约遭攻击，黑客可非法铸造 10 亿枚 HLG 代币",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
           "id": "https://www.techflowpost.com/newsletter/detail_50359.html",
           "author": null,
           "description": "深潮 TechFlow 消息，据 The Block 报道，根据白宫周四发布的声明，美国总统乔·拜登宣布提名商品期货交易委员会（CFTC）委员 Christy Goldsmith Romero 领导联邦存款保险公司（FDIC），并提名 CFTC 委员 Kristin Johnson 担任财政部金融机构助理部长。\n\n两位民主党 CFTC 委员都敦促该机构发布规则或指导方针，以保护消费者并解决加密货币领域的利益冲突。\n\nRomero 曾警告称，加密货币市场存在「传染风险」，并将该行业与 2008 年的金融危机进行了比较。Romero 还赞助了 CFTC 的技术咨询委员会，该委员会今年早些时候投票决定向委员会提交一份报告，呼吁政府和行业努力了解去中心化金融。\n\nKristin Johnson 曾于去年表示，商品期货交易委员会应该「立即制定有关资产托管的监管规定」。拜登政府正在推动于 7 月 8 日当周开始首次提名听证会。",
           "link": "https://www.techflowpost.com/newsletter/detail_50359.html",
           "publishedOn": "2024-06-14T00:18:46.000Z",
-          "wordCount": 528,
+          "wordCount": 524,
           "title": "拜登提名 CFTC 委员出任 FDIC 和财政部高级职位",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -552,7 +442,7 @@
           "description": "深潮 TechFlow 消息，据 The Block 报道，Ripple Labs 的律师试图利用美 SEC 最近对 Terraform Labs 案件的罚款，努力在其与 SEC 的案件中支付较低的罚款。\n\nRipple 公司在过去几年中一直与 SEC 进行漫长的法律斗争，周四在一份「补充权威通知」中表示，监管机构提议的财务罚款不合理。该公司将 SEC 提议对其出售 XRP 给机构投资者的罚款 20 亿美元与对 Terraform Labs 的罚款进行了比较。\n\nRipple 认为，其罚款应接近 1000 万美元。周三，Terraform 同意支付 44.7 亿美元的罚款，周四晚些时候，一名法官批准了和解协议。Ripple 的律师表示：“SEC 在 Terraform 案件中寻求的民事罚款表明了在本案中寻求的民事罚款的不合理性。”\n\n“正如 Ripple 的反对意见所解释的那样，在类似（甚至更严重）的案件中，SEC 同意的民事罚款范围从被告总收入的 0.6% 到 1.8%。Terraform 符合这一模式。”",
           "link": "https://www.techflowpost.com/newsletter/detail_50358.html",
           "publishedOn": "2024-06-14T00:13:29.000Z",
-          "wordCount": 567,
+          "wordCount": 563,
           "title": "Ripple 引用 Terraform 和解案例为依据，要求降低 SEC 提议的 20 亿美元罚款",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -562,7 +452,7 @@
           "description": "深潮 TechFlow 消息，据彭博社报道，OpenAI已任命美国退役陆军上将Paul Nakasone为董事会成员。Nakasone曾担任美国国家安全局（NSA）局长和美国网络司令部领导人。他还将加入OpenAI新成立的安全与保障委员会，该委员会专注于OpenAI的关键安全决策。",
           "link": "https://www.techflowpost.com/newsletter/detail_50357.html",
           "publishedOn": "2024-06-14T00:07:17.000Z",
-          "wordCount": 466,
+          "wordCount": 462,
           "title": "OpenAI 任命前美国国家安全局局长为董事会成员",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -572,7 +462,7 @@
           "description": "深潮 TechFlow 消息，DeFi 资管平台 Zapper 在社交平台上宣布推出 Zapper Protocol，愿景是实现 Onchain Literacy，并将在 Q4 推出代币 ZAP，后续将披露更多细节。",
           "link": "https://www.techflowpost.com/newsletter/detail_50356.html",
           "publishedOn": "2024-06-14T00:05:14.000Z",
-          "wordCount": 499,
+          "wordCount": 495,
           "title": "Zapper 宣布推出 Zapper Protocol，将于 Q4 推出代币 ZAP",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -582,7 +472,7 @@
           "description": "深潮 TechFlow 消息，Coinbase 将在以太坊网络（ERC-20 代币）上增加对 Pirate Nation (PIRATE) 的支持。",
           "link": "https://www.techflowpost.com/newsletter/detail_50355.html",
           "publishedOn": "2024-06-13T16:33:58.000Z",
-          "wordCount": 485,
+          "wordCount": 481,
           "title": "Coinbase 将上线 Pirate Nation (PIRATE)",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -592,7 +482,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，AR跌破29美元，现报价28.757美元，24小时下跌17%。",
           "link": "https://www.techflowpost.com/newsletter/detail_50354.html",
           "publishedOn": "2024-06-13T16:20:11.000Z",
-          "wordCount": 461,
+          "wordCount": 457,
           "title": "AR跌破29美元，24小时下跌17%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -602,7 +492,7 @@
           "description": "深潮 TechFlow 消息，Arweave旗下AI项目AO宣布AO 代币铸造现已上线，Arweave 代币持有者已经开始收到 AO。",
           "link": "https://www.techflowpost.com/newsletter/detail_50353.html",
           "publishedOn": "2024-06-13T16:16:08.000Z",
-          "wordCount": 467,
+          "wordCount": 463,
           "title": "AI项目AO已上线AO代币铸造，Arweave代币持有者已经开始收到AO",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -612,7 +502,7 @@
           "description": "深潮 TechFlow 消息，Paradigm已为其第三只基金筹集8.5亿美元，专注于加密项目的早期阶段。\n\n其表示自2018年成立Paradigm以来，相信加密将成为未来几十年最重要的技术和经济变革之一。比特币市值达到1万亿美元以上，以太坊、Solana等区块链正在扩展，稳定币在全球范围内被采用。",
           "link": "https://www.techflowpost.com/newsletter/detail_50352.html",
           "publishedOn": "2024-06-13T16:10:08.000Z",
-          "wordCount": 462,
+          "wordCount": 458,
           "title": "Paradigm已为其第三只基金筹集8.5亿美元，专注于加密项目早期阶段",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -622,7 +512,7 @@
           "description": "深潮 TechFlow 消息，Coinbase 国际站宣布将在 Coinbase International Exchange 和 Coinbase Advanced 上增加对 BOOK OF MEME 和 Notcoin 永续期货的支持。\n\n BOME-PERP 和 NOT-PERP 市场将于 2024 年 6 月 20 日 UTC 时间上午 9:30 或之后开始开放。",
           "link": "https://www.techflowpost.com/newsletter/detail_50351.html",
           "publishedOn": "2024-06-13T16:02:04.000Z",
-          "wordCount": 522,
+          "wordCount": 518,
           "title": "BOME、NOT永续合约将上线Coinbase 国际站和Coinbase Advanced",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
