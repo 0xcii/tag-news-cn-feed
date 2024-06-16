@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-16T10:15:05.529Z</id>
+    <id>urn:2024-06-16T11:12:05.428Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-16T10:15:05.529Z</updated>
+    <updated>2024-06-16T11:12:05.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2024-6.16）]]></title>
+        <id>https://www.web3sj.com/?p=114866</id>
+        <link href="https://www.web3sj.com/news/114866/"/>
+        <updated>2024-06-16T11:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Tether CEO：全球有超过3亿人使用USDT，Tether是美国国债的主要购买者。拜登将参加比特币圆桌会议。FTX债务人等三个独立组织对SBF被没收的资产提出相互竞争的索赔。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LayerZero 公布临时的Sybil名单，将通过Nansen和Chaos进行二次检查]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_50490.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_50490.html"/>
+        <updated>2024-06-16T09:25:32.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，LayerZero Labs CEO Bryan Pellegrino发布了一个临时的Sybil名单，包括Nansen、Chaos和所有有效和部分有效的赏金猎人提交。
+
+他要求社区在24小时内提供反馈，指出哪些聚类明显错误，以及为什么方法明显错误或如何证明其中包含误报。
+
+他还表示将通过Nansen和Chaos进行二次检查，并在最终名单中更新被二次检查拒绝的所有聚类。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某鲸鱼1小时前从币安提取390万枚CRV]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_50489.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_50489.html"/>
+        <updated>2024-06-16T09:22:53.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据OnchainDataNerd监测，1 小时前，鲸鱼 0xd64 刚刚从Binance中提取了 390 万$CRV (约合 124 万美元)。
+
+此后，他立即将 300 万$CRV （约合 95.4 万美元）投入到Convex Finance中。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase Prime计划为ZKsync（ZK）提供托管服务]]></title>
         <id>https://panewslab.com/zh/articledetails/8g1gfkin.html</id>
@@ -513,16 +549,6 @@ FTX债务人遗产管理机构由John Ray III领导，周五对政府扣押的�
         <link href="https://www.web3sj.com/gamefinews/114751/"/>
         <updated>2024-06-14T14:30:44.000Z</updated>
         <summary type="html"><![CDATA[截至 5 月，Footprint 平台跟踪了 3,153 款游戏，其中 263 款游戏的月活跃用户（MAU）超过 1,000，占总数的 8.2%。如果将标准提高到 10,000 MAU，这个数字会显著减少。需要注意的是，这些数据仅包括链上用户。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3数据访问的发展：索引器及相关项目介绍]]></title>
-        <id>https://www.web3sj.com/?p=114744</id>
-        <link href="https://www.web3sj.com/news/114744/"/>
-        <updated>2024-06-14T14:20:42.000Z</updated>
-        <summary type="html"><![CDATA[数据是区块链技术的关键，是开发去中心化应用程序 (dApp) 的基础。虽然目前的大部分讨论都围绕着数据可用性 (DA)——确保每个网络参与者都可以访问最近的交易数据进行验证——但还有一个同样重要的方面经常被忽视：数据可访问性。]]></summary>
         <author>
             <name>Gao</name>
         </author>
