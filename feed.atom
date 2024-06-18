@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-18T18:19:49.404Z</id>
+    <id>urn:2024-06-18T19:11:45.513Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-18T18:19:49.404Z</updated>
+    <updated>2024-06-18T19:11:45.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -26,79 +26,11 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mysten Labs推出去中心化存储和数据可用性协议Walrus]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50685.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50685.html"/>
-        <updated>2024-06-18T14:43:42.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Sui开发商Mysten Labs宣布推出去中心化存储网络Walrus，为区块链应用程序和自治代理提供支持。
-
-它通过创新的纠删码技术，实现将非结构化数据块编码为更小的片段，并分布存储在存储节点网络中。
-
-Walrus具有低成本的数据存储、高可用性和鲁棒性等优势，可用于存储NFT、AI数据集、区块链历史等。
-
-开发者可以通过Walrus构建多种应用程序，如存储媒体、支持L2、实现全面的去中心化Web体验等。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CleanSpark 以约 2600 万美元收购 60MW 比特币挖矿场]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50684.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50684.html"/>
-        <updated>2024-06-18T14:41:20.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国市值最大的公开比特币挖矿公司之一CleanSpark，计划在乔治亚州农村收购总计60兆瓦的基础设施。
-
-公司表示已签署最终协议，以2580万美元现金购买五个现成的场地，预计每兆瓦成本为43万美元。这些场地的规模从8兆瓦到15兆瓦不等，预计交易将立即完成。
-
-CleanSpark计划部署之前预订的Antminer S21 Pro，预计全面安装后将新增3.7 EH/s的算力。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notcoin创始人认为点击赚钱模式不可持续，计划未来四年通过构建可持续和高效的子系统]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50683.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50683.html"/>
-        <updated>2024-06-18T14:36:05.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Ton生态点击游戏Notcoin创始人Sasha认为点击赚钱模式不可持续，只有拥有可持续模型的游戏才能生存，他提到Catizen等游戏具有可持续的模式。
-
-Sasha希望Notcoin摆脱点击游戏的叙述，未来四年通过构建可持续和高效的子系统，使项目独立于团队。
-
-当前重点是通过与其他Telegram游戏互动让用户赚取Notcoin，并销毁一些代币。他预计这些活动每周将增加到50到100个。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21Shares聘请前贝莱德iShares高管负责其美国ETF业务]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50682.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50682.html"/>
-        <updated>2024-06-18T14:24:18.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据彭博ETF分析师Eric Balchunas表示，21Shares 已聘请 Federico Brokate 负责其美国 ETF 业务。
-
-他之前曾担任贝莱德 iShares Americas 负责人，在将$IBIT和$ETHA推向市场方面发挥了重要作用。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ronin推出 Ronin zkEVM，将允许开发者在Ronin主网上启动自己的L2]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50681.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50681.html"/>
-        <updated>2024-06-18T14:15:55.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息， Ronin宣布推出 Ronin zkEVM，将允许开发者在Ronin主网上启动他们自己的Layer 2链，同时为Ronin上的游戏提供更快速和更便捷的游戏体验。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fox将Verify Beta升级为使用Polygon CDK构建的专用L2，并宣布TIME为首个合作伙伴]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50680.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50680.html"/>
-        <updated>2024-06-18T14:11:19.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，FOX将升级 Verify Beta 至使用 Polygon CDK 构建的专用 L2，并宣布《时代》杂志为其首家出版合作伙伴。
-
-Fox公司表示，Verify协议将是开源的，开发者和他们贡献或分叉源代码。Verify由Fox新兴技术团队开发，Gelato负责实施专用链。未来，Verify表示有机会连接到AggLayer，实现跨链传递。]]></summary>
+        <title type="html"><![CDATA[市值前100的代币中仅ONDO处于上涨状态，21个代币超跌10%]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_50697.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_50697.html"/>
+        <updated>2024-06-18T16:03:59.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据coingecko数据显示，加密货币市值排名前100的代币中仅ONDO上涨状态，24小时涨幅达4.5%；CORE、FTM、WIF等21个代币超跌10%。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
         </author>
@@ -111,90 +43,6 @@ Fox公司表示，Verify协议将是开源的，开发者和他们贡献或分�
         <summary type="html"><![CDATA[6月18日消息，Consensys发布涉及MetaMask隐私声明更新，主要包括： 1、更加清晰地说明隐私声明中的哪些具体元素与 MetaMask 相关，以及每个元素对 MetaMask 用户意味着什么。这包括提高使用 MetaMask 时如何处理 IP 地址的透明度； 2、包括与 Consensys 整个个人信息处理活动相关的其他背景信息； 3、明确隐私声明范围内的产品和服务，删除 Codefi 和 Quorum，添加 MetaMask Institutional、MetaMask Developer、Linea、Teku、Besu 和 Phosphor。 对于 MetaMask 用户来说，Consensy 将： 1、不收集私钥； 2、不出售个人信息； 3、除非为了提供服务和良好的用户体验有必要，否则不收集或保留个人信息； 4、不收集财务支付或银行信息，但是，当用户使用出入金功能时，这些服务可能需要将这些信息提交给第三方提供商。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[曾交易PEPE获利349万美金的聪明钱半小时前亏损7.5万美元清仓4077亿枚PEPE]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50679.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50679.html"/>
-        <updated>2024-06-18T13:49:38.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据AI姨监测，「曾交易 $PEPE 获利 349 万美金的聪明钱」疑似清仓5月14日积累的 4077 亿枚 PEPE，过去半小时内已全部充值进 Binance，转出价格 $0.00001027（成本 $0.00001046），全部卖出将亏损 7.5 万美金，从浮盈 183 万到亏损 7.5 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WIF跌破2美元，较最高点4.86美元下跌59.47%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50678.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50678.html"/>
-        <updated>2024-06-18T13:38:38.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据币安行情数据显示，WIF跌破2美元，现报价1.97美元，24小时跌幅达15.79%，较最高点4.86美元下跌59.47%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeta Markets即将启动ZEX空投，将分发8000万枚ZEX给近8万名真实用户和社区成员]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50677.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50677.html"/>
-        <updated>2024-06-18T13:28:05.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Zeta Markets宣布$ZEX空投即将启动，将分发8000万$ZEX给近8万名真实用户和社区成员。此次空投旨在奖励大量交易、长期使用、早期支持和实际参与Zeta的用户。分配策略包括：
-
-
- 
- 设置最低Z-Score排除低交易量虚假账户。
- 
- 
- 
-确保广泛分布投票权。
- 
- 
- 
-采用线性分配惠及真实用户。
- 
- 
- 
-对早期支持者和持续使用者进行额外提升。
- 
- 
- 
-与Allium合作排除虚假账户。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PancakeSwap于4小时前燃烧约2300万美元CAKE]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50676.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50676.html"/>
-        <updated>2024-06-18T13:18:09.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，PancakeSwap宣布10,068,711 枚CAKE于4小时前被烧毁，价值约 2300 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC跌破65000美元，24小时跌幅达0.43%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50675.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50675.html"/>
-        <updated>2024-06-18T13:15:33.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据HTX行情数据显示，BTC跌破65000美元，24小时跌幅达0.43%，现报价64999美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic 完成 1200 万美元融资，打造首个为游戏而生的Solana L2]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50674.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50674.html"/>
-        <updated>2024-06-18T13:04:08.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，6 月 18 日，Solana 原子化的 SVM Layer 2 Sonic 宣布完成 1200 万美元 A 轮融资，由 Bitkraft 领投，Galaxy Interactive、Big Brain Holdings、Matt Sorg (Solana 创始团队) 、Nom (Bonk) 等多家机构与个人参投。
-
-Sonic 是首个实现与 Solana 原子化互通的 SVM L2，提出创新的扩容框架 HyperGrid，通过凝聚 Solana 上的游戏共识，进一步放大 Solana 主网 Meme、游戏资产与游戏应用的流动性潜力。Sonic 由长期深耕 Solana 生态的游戏公司 Mirror World Labs 打造。
-
-据悉，Sonic 即将启动测试网激励计划，邀请用户在测试网体验其多款生态游戏，并获得代币空投的机会。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -228,120 +76,6 @@ Sonic 是首个实现与 Solana 原子化互通的 SVM L2，提出创新的扩�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[某鲸鱼15分钟前向币安转入307万美元PEPE，将亏损77.8万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50673.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50673.html"/>
-        <updated>2024-06-18T12:48:04.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据AI姨监测，此前加仓 245 万美元的巨鲸 15 分钟前向币安充值 2948 亿枚 PEPE，价值约 307 万美元，转出价格为 0.0000104 美元，该巨鲸平均持仓价格为 0.00001304 美元，若这部分卖出将亏损 77.8 万美元，剩余 1000 亿枚还浮亏 27 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联储威廉姆斯：利率将在未来几年下降，美联储将使通胀率达到2%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50672.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50672.html"/>
-        <updated>2024-06-18T12:43:24.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据金十数据报道，美国纽约联储主席威廉姆斯表示，预计通胀将继续下降。3%的通胀不是新常态，美联储将使通胀率达到2%。
-
-威廉姆斯还提到，在未来几年内，利率预计将逐步下降。他强调，美国经济表现非常强劲，收入水平正在上升。
-
-此外，威廉姆斯明确指出，美联储的决策将取决于经济，政治因素不会影响美联储的利率决策。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国5月零售销售月率录得0.1%，不及市场普遍预期的0.3%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50671.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50671.html"/>
-        <updated>2024-06-18T12:33:40.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国5月零售销售月率录得0.1%，不及市场普遍预期的0.3%。
-
-零售销售数据公布后，现货黄金短线走高7美元，现报2317.73美元/盎司。美元指数DXY短线下跌近20点，现报105.34。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Core DAO向德国投资者推出首个收益型 BTC ETP]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50670.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50670.html"/>
-        <updated>2024-06-18T12:30:08.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Core DAO 宣布加密 ETP 发行商Valour和Core Foundation合作推出首个并且唯一的收益型比特币（BTC）ETP给德国投资者。
-
-这个产品在Börse Frankfurt交易所上线，提供5.65%的年化收益率，通过将比特币委托给Core验证者来简化投资流程，并确保投资者的安全和收益。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X平台计划推出类似Venmo的支付功能，暂无支持加密货币转账的计划]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50668.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50668.html"/>
-        <updated>2024-06-18T12:26:35.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，X（原Twitter）计划推出类似Venmo的支付功能，包括存储资金、向其他用户和企业付款以及在实体店购买商品/服务。
-
-其子公司X Payments已获得28个州的货币传输许可，并计划在今年晚些时候在全国范围内推出支付服务。
-
-其商业模式包括对部分交易收取少量费用，旨在提高用户在X上的参与度和互动，并可能通过商家费用、支票账户等银行服务来产生收入。X告诉监管机构，目前没有允许加密货币在支付网络上进行转账的计划。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50万枚SOL半小时前从未知钱包转至币安，价值超6800万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50667.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50667.html"/>
-        <updated>2024-06-18T12:21:54.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据Whale Alert监测，500,000 枚SOL （价值 68,054,749 美元）于半小时前从未知钱包转移到 Binance。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国银行调查：84%的投资者预计美联储将在今年某个时间点降息]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50666.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50666.html"/>
-        <updated>2024-06-18T12:18:29.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据金十数据报道，美国银行全球基金经理月度调查显示，投资者坚信美联储将在未来 12 个月内至少降息两次，84%的投资者预计美联储将在 2024 年的某个时间点降息。
-
-33%的受访者预计美联储将在未来 12 个月内降息两次，31%的受访者预计降息三次，14%的受访者预计降息三次以上。只有 8%的人认为美联储在此期间不会降息。
-
-就具体时间而言，39%的投资者预计美联储将在 9 月降息，16%的投资者预计在 11 月降息，23%的投资者预计在 12 月降息。只有 6%的投资者预计美联储最快会在 7 月降息。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流动性再质押协议Renzo完成1700万美元融资，Galaxy Ventures 等领投]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50665.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50665.html"/>
-        <updated>2024-06-18T12:04:15.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，流动性再质押协议 Renzo 宣布完成 1700 万美元融资，此次融资分为两轮，第一轮由 Galaxy Ventures 领投，第二轮由总部位于阿布扎比的 Nova Fund – BH Digital 领投。
-
-Maven 11、Figment Capital、Protagonist、SevenX Ventures、BanklessVC、280Capital、Consensys、Antalpha Ventures、L2 Iterative Ventures (L2IV)等参投。
-
-此前，Renzo 通过 Maven11、Figment Capital 和 Binance Labs 获得了 320 万美元的投资。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UXLINK生态项目超100家，过百万独立钱包地址参与生态项目链上交互]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50664.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50664.html"/>
-        <updated>2024-06-18T12:01:53.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据Web3社交平台及基础设施UXLINK生态负责人介绍，“目前已有超过100万独立钱包地址参与过UXLINK的生态内产品，超过80个加入生态合作的项目方对业务表现非常满意，其社区和holders都获得了大幅增长。例如Airdrop2049就非常成功。“
-
-先后三次上线UXDiscover的TON生态游戏项目BOOMUP运营负责人表示，“我们2个月内使用了3次UXDiscover的服务，增长效果是超出我们预期的，会继续和UXLINK一起build“。
-
-UXLINK社区负责人表示，随着Social DEX to Earn的推出，融合了交易返利、盘前交易、快捷跨链等功能，UXLINK将能为更多类型的Web3项目（例如DeFi)提供增长引擎，同时也为社区用户介绍了优秀的Web3项目，让用户获得更多代币空投和实在的利益。随着$UXLINK代币的即将推出，将成为助力生态发展的武器，生态规模将加速壮大。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-6.18）]]></title>
         <id>https://www.web3sj.com/?p=115041</id>
         <link href="https://www.web3sj.com/news/115041/"/>
@@ -349,38 +83,6 @@ UXLINK社区负责人表示，随着Social DEX to Earn的推出，融合了交�
         <summary type="html"><![CDATA[HashKey Group将于2024年Q3上线平台币HSK。FTX受害者寻求刑事没收公司资产。Matrixport跻身2024胡润全球独角兽榜。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火币HTX第38期新币挖矿将于今晚20时上线，锁仓$HTX瓜分2亿枚BEER]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50663.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50663.html"/>
-        <updated>2024-06-18T11:47:55.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据火币HTX官方公告，火币HTX第38期新币挖矿（PrimePool）将于6月18日20:00正式上线，至6月28日20:00（UTC+8）结束。用户可通过锁仓$HTX瓜分200,000,000 BEER奖励金。
-
-第38期新币挖矿活动预热期现已开放，用户可以在活动预热期进行提前锁仓。个人锁仓门槛156,250,000 $HTX（折合200 USDT）即可参与活动。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去7天SocialFi相关代币跌幅达41.3%，AI相关代币下跌31.5%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50662.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50662.html"/>
-        <updated>2024-06-18T11:43:06.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据coingecko数据显示，过去7天SocialFi、TokenFi Launchpad、PolitiFi、BRC-20、AI Agents、Base Meme以及Cat-Themed相关代币跌幅超30%，其中SocialFi跌幅达41.3%，AI相关代币下跌31.5%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETH跌破3400美元，24小时跌幅达3.63%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50661.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50661.html"/>
-        <updated>2024-06-18T11:35:30.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据HTX行情数据显示，ETH跌破3400美元，24小时跌幅达3.63%，现报价3398美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -394,46 +96,6 @@ UXLINK社区负责人表示，随着Social DEX to Earn的推出，融合了交�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[meme项目 Baby Doge 宣布正在开发 Telegram 游戏]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50660.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50660.html"/>
-        <updated>2024-06-18T11:10:03.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，meme项目 Baby Doge 宣布，正在开发 BabyDoge Telegram 游戏，用户有机会成为第一批玩家，可通过填写等候名单表格获得提前体验资格。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Web3 钱包正式推出安全中心，支持用户公开查验]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50659.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50659.html"/>
-        <updated>2024-06-18T10:59:54.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据官方消息，OKX Web3 钱包正式推出安全中心，用户可通过Web3钱包网页点击相关banner前往。该中心涵盖代码开源、多方审计、漏洞赏金计划等五大方面，并支持用户公开查验，旨在打造更安全的 Web3 生态。
-
-
- 
- 第一，在多方审计方面，OKX Web3 钱包的安全标准经过第三方安全审计公司的检测和验证，现已公开慢雾和Certik的审计报告、用户可以随时查看。
- 
- 
- 
-第二，在代码开源方面，OKX Web3 钱包已完成核心代码开源，包括助记词、私钥、MPC 等核心算法，经过了技术社区广泛验证，实现细节接受用户前往GitHub自由查看和审计，更加公开透明。
- 
- 
- 
-第三，在拦截三方风险方面，OKX Web3 钱包通过提供强大的安全监控，可以帮助用户过滤高风险代币和域名，守护资产免受威胁。截止目前，已经为用户拦截恶意域名153K+、相似域名1.5M+、高风险代币1.28M、高风险交易153K+。
- 
- 
- 
-第四，OKX Web3 钱包还推出了漏洞赏金计划，鼓励用户和开发者提交服务错误和安全漏洞，并准备了丰厚的漏洞赏金，旨在携手用户共建钱包安全。
- 
- 
- 
-第五，作为自托管钱包，OKX Web3 钱包的私钥和资产完全由用户掌控，OKX Web3 钱包将为用户的安全和隐私7X24小时保驾护航。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[模糊的正确远胜精确的错误：不想山顶站岗？这里有一份逃顶指南]]></title>
         <id>https://www.web3sj.com/?p=115016</id>
         <link href="https://www.web3sj.com/transaction/115016/"/>
@@ -441,42 +103,6 @@ UXLINK社区负责人表示，随着Social DEX to Earn的推出，融合了交�
         <summary type="html"><![CDATA[卖出，太不甘心，怕卖飞。不卖，死拿，结果市场的残酷教训终于到来，开始跌破成本价，你以为到底了，结果跌去 30%，你再次选择抄底买入，结果又接连跌去 20%。此时，你已被严重套牢且无子弹，就在你忍痛割肉后，恰恰就是市场的底部区间，行情开始缓慢爬升。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[葫芦岛银行两位高管挪用26亿元银行资金，通过虚拟币洗钱 18 亿余元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50658.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50658.html"/>
-        <updated>2024-06-18T10:55:43.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据每日经济新闻报道，2020年8月，葫芦岛银行原党委书记李玉林伙同该行原代行长李晓东，勾结段洪涛（该行原大股东）、周志龙，以化解该行不良资产为由，虚构资管计划挪用该行资金26亿元，供段洪涛挥霍使用。其中18亿余元被非法汇兑成外币转至段洪涛控制的香港公司账户内。
-
-案件涉及多名人员，部分人已被判刑。银行在此期间经历了多次人事变动和信用评级下调。
-
-据悉，2020年9月至10月期间，被告人陈某1参与组织洗钱团伙，通过高价收购虚拟币和境外抛售洗钱所得，涉案金额巨大。被抓获后如实供述犯罪事实，并退出部分违法所得。法院认定其洗钱罪成立，但可以从轻处罚。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrixport：比特币资金费率持续下降，但当前持仓量仍处于较高水平]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50657.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50657.html"/>
-        <updated>2024-06-18T10:44:44.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据Matrixport发布的最新图表显示，比特币资金费率持续下降，反映出市场环境的乐观情绪减弱。虽然资金费率和持仓量在过去存在相关性，但当前持仓量仍处于较高水平。这可能会导致价格出现短暂下跌，然后再创历史新高。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OORT基金会启动第三季度代币回购计划，回收金额不少于60万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50656.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50656.html"/>
-        <updated>2024-06-18T10:32:26.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，6月18日，OORT基金会启动第三季度的代币回购计划，此次资金来自第二季度收入的30%左右，总金额不少于60万美元。自$OORT代币在2024年1月上市以来，OORT基金会总共销毁了325万枚$OORT代币，占总供应量的0.16%和当前流通量的约2.5%。
-
-另外，$OORT将于7月正式上线一个头部DEX，是提升$OORT可访问性和实用性的另一个重要里程碑。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -490,28 +116,6 @@ UXLINK社区负责人表示，随着Social DEX to Earn的推出，融合了交�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DOGE多头过去24小时遭遇6000万美元清算，创 2021 年以来最大损失]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50655.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50655.html"/>
-        <updated>2024-06-18T10:24:37.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，过去24小时内，主要代币下跌多达10%，加密货币多头头寸被清算超过4亿美元。狗狗币（DOGE）期货多头头寸清算了6000万美元，比比特币（BTC）期货的清算金额还多。狗狗币价格下跌超过10%。
-
-比特币多头头寸损失了4700万美元，而以太坊（ETH）多头头寸损失最多，达7600万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana创作者平台DRiP Haus计划7月份发布其Android和iOS移动应用]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50654.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50654.html"/>
-        <updated>2024-06-18T10:17:55.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Solana创作者平台DRiP Haus计划在7月份发布其Android和iOS移动应用。该应用将内置钱包，方便用户使用，目前正在进行alpha测试。DRiP Haus平台允许创作者分发数字作品，并接收付款和小费。该平台计划扩大内容类型，包括新闻和视频，并使用Solana进行支付，数据存储在去中心化存储协议Arweave上。与其他Web2订阅平台不同，用户在DRiP平台上保留对其内容的所有权。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[全球比特币ETF持仓突破100万枚，头部持仓机构都有哪些？]]></title>
         <id>https://www.web3sj.com/?p=115003</id>
         <link href="https://www.web3sj.com/news/115003/"/>
@@ -522,18 +126,6 @@ UXLINK社区负责人表示，随着Social DEX to Earn的推出，融合了交�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meme币beercoin团队相关钱包过去 2 天内已出售100万美元BEER]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50653.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50653.html"/>
-        <updated>2024-06-18T10:02:05.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 LookonChain 监测，另一个与 beercoin 团队相关的钱包正在出售 BEER ，并且 BEER 价格今天已经下跌了 60％以上。
-
-该钱包从 beercoin 项目团队钱包 8VY4LF 收到 88.8 亿枚 BEER ，并在过去 2 天内以 100 万美元的价格出售了 87 亿枚 BEER 。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[币圈「618」大促，山寨币还有救吗？]]></title>
         <id>https://www.web3sj.com/?p=114999</id>
         <link href="https://www.web3sj.com/news/114999/"/>
@@ -541,226 +133,6 @@ UXLINK社区负责人表示，随着Social DEX to Earn的推出，融合了交�
         <summary type="html"><![CDATA[衍生品交易方面，Coinglass 数据显示，仅仅是过去 1 个小时内，全网爆仓金额便已高达 1.78 亿美元，其中绝大部分为多单爆仓，数额达 1.73 亿美元。从币种来看，BTC、ETH 则罕见地被「其他」币种挤至次席，后者以 4120 万美元高居榜首。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meme币Degen 宣布正开发新的激励机制，以奖励长期成员并减少farming行为]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50652.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50652.html"/>
-        <updated>2024-06-18T09:43:47.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Farcaster 生态 Meme 币Degen  宣布，他们听取了社区的意见，认识到当前的打赏激励政策效果并不理想。为此，正在开发一种新的激励机制，以奖励长期成员并减少farming 行为。
-
-团队将快速迭代改进下一个赛季，使代币farming 变得越来越困难。
-
-未来的系统将要求用户通过锁仓或质押来展示对Degen项目的承诺，旨在奖励长期持有Degen代币的用户。目前，这一激励机制正在开发中。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mask Network基金会过去3天向币安转入397万美元MASK]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50651.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50651.html"/>
-        <updated>2024-06-18T09:31:48.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据余烬监测，Mask Network 基金会在最近 3 天里往币安充值了 150 万枚 $MASK ($3.97M)，这可能助推了 $MASK 的价格下跌。
-
-MASK 基金会在过去 5 天里将 180 万枚 MASK 转移至 0xFB3...29c 地址，然后通过 0xFB3...29c 地址将 150 万枚 MASK 转入币安。 最近一次是在 3 小时前将 50 万枚 MASK ($1.22M) 转进币安。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pac Finance推出原生代币PAC，90%协议收入将分享给pLP持有者]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50650.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50650.html"/>
-        <updated>2024-06-18T09:11:15.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Blast网络上DeFi借贷协议Pac Finance推出原生代币$PAC，部分$PAC代币将根据用户累积的Pac积分进行空投。90%的协议收入将分享给pLP持有者，使$PAC成为Blast上最大的实际收益治理代币。
-
-用户通过在Pac上提供和借入资产可赚取Pac积分，积分数量和持有时间决定总积分。
-
-Pac用户可享受提升的APY，并将为Parallel用户进行额外空投，Pac将很快发布白皮书和完整的代币分配详情。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疑似内部人士购买约156万美元DJT，是 DJT 持仓排名第三位]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50649.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50649.html"/>
-        <updated>2024-06-18T09:02:27.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 LookonChain 监测，在特朗普将在 Solana 上推出官方代币 DJT的消息传出之前，一个新钱包（可能是内部人士）花费了 1,363 枚 SOL （价值 18.8 万美元）购买了 5209 万枚 DJT。
-
-消息传出后，该地址又从币安提取了 1,000 枚 SOL （价值 13.8 万美元）购买了 662 万枚 DJT。目前，改地址持有 5871 万枚 DJT （价值 156 万美元），是 DJT 持仓排名第三位。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱达荷州共和党将推行Bitcoin政策并反对创建CBDC]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50648.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50648.html"/>
-        <updated>2024-06-18T08:57:09.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，6月18日，据Bitcoin Magazin报道，爱达荷州共和党将推行Bitcoin政策并反对创建CBDC 。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：某聪明钱3天内低吸高抛DJT已获利超33倍]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50647.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50647.html"/>
-        <updated>2024-06-18T08:50:54.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据链上分析师AI姨监测，聪明钱 5Ffhy...R5msK 三天时间低吸高抛 $DJT 已获利超 33 倍，他在6月16日以均价 $0.001005 买入 1115 万枚 DJT，花费 74.69 $SOL （约 1.1 万美金），随后三小时前以价格 $0.03468 全部清仓，干净利落的获利 37 万美金，回报率达 3349%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babylon将于6月19日17点开启Testnet-4的第 3 章]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50646.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50646.html"/>
-        <updated>2024-06-18T08:44:45.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Babylon宣布比特币质押测试网-4的第三阶段即将开始。这一阶段将持续5天，从2024年6月19日17点开始，到6月24日17点结束。
-
-根据社区反馈，他们在质押网络应用中添加了费用调整功能，允许质押者自定义交易费以增加质押交易被包含在Signet区块中的机会。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某地址因交易DJT代币1分钟亏损34.14万美元，几乎亏掉所有本金]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50645.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50645.html"/>
-        <updated>2024-06-18T08:35:19.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Lookonchain 监测，某地址花费 2500 枚 SOL（价值约 34.21 万美元）购买了 91,705.6 枚 DJT，但卖出时只得到 4.91 枚 SOL（价值 673 美元）。在不到 1 分钟，该地址损失 34.14 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX 受害者申请追回 80 亿美元没收资产，将破产程序视为第二次盗窃]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50644.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50644.html"/>
-        <updated>2024-06-18T08:30:54.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，FTX 破产受害者正在寻求一项裁决，判定这家破产的加密货币交易所被没收的约 80 亿美元资产属于其客户，而不是破产财产。
-
-
-
-上个月，该遗产提出了一项新的重组计划，该计划将使 98% 的债权人在法院批准后的 60 天内以现金形式收回 118% 的债权。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygon过去4个月平均日活为120万，其中MATR1X FIRE约为35万]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50643.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50643.html"/>
-        <updated>2024-06-18T08:17:40.000Z</updated>
-        <summary type="html"><![CDATA[深潮 Techflow 消息， 加密分析平台 DYOR 创始人 Hitesh Malviya（@hmalviya9）于 X 发文表示，Polygon在过去4个月平均拥有120万日活跃用户，其中大部分来自一款名为MATR1X FIRE的手机射击游戏，自过去4个月以来拥有约35万DAU。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析：BTC最近的重要支撑位在64,500美元附近，之前有128万个地址在这个价位买入BTC]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50642.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50642.html"/>
-        <updated>2024-06-18T08:12:31.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据intotheblock数据，比特币今天跌到了65,000美元以下，在这个价格附近遇到了很多卖压。
-
-根据链上数据，显示在价格下跌到61,600美元的过程中，买入需求都很强。最近的一个重要支撑位在64,500美元左右，因为之前有128万个地址在这个价位买入了比特币。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首个消费者 AIoT 网络 GM Network 主网正式上线]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50641.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50641.html"/>
-        <updated>2024-06-18T08:11:19.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，消费者 AIoT 网络 GM Network 主网正式上线，作为首个 AI 驱动的Consumer IoT/DePIN Layer2，GM Network 基于 AltLayer 和 EigenLayer 构建并提供高拓展性和免 Gas 等服务，旨在将 AI 和 IoT 的强大功能整合在无缝的 Layer2 平台上，并通过生态 IoT/DePIN 产品为 AI 提供更多真实数据和用户场景。目前开发人员可通过填写并提交生态申请表格参与生态建设，GM Network 将在审核后与提交者联系，早期参与者将获得广泛支持。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：今日多只TRUMP鲸鱼出售TRUMP以获利]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50640.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50640.html"/>
-        <updated>2024-06-18T07:32:46.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据lookonchain监测，今天有很多$TRUMP鲸鱼出售$TRUMP以获利。
-
-0x52C0 在过去 24 小时内以 8.38 美元的价格卖出了 171,842 枚TRUMP换取了 414 枚ETH (144 万美元)，并且通过$TRUMP获利约 370 万美元 (+1428 %) 。
-
-sighduck.eth 在 8 小时前的一笔交易中以 125 万$USDC的价格卖出了 173,542 枚$TRUMP ，并在$TRUMP上获利 188 万美元 (+1500 %) 。
-
-0x35D1 在 2 小时前的一笔交易中以 204 $ETH 出售128,059 枚TRUMP )（70.36万美元），并在$TRUMP上获利 64.8万美元（+1164 %) 。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国金融监管机构称不直接参与审查虚拟资产交易]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50639.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50639.html"/>
-        <updated>2024-06-18T07:22:48.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，韩国金融服务委员会（FSC）澄清，他们不会直接参与虚拟资产的交易审查，只是支持统一的上币标准。韩国各大交易所表示，大规模下币的可能性很低，并呼吁投资者冷静应对。然而，市场的恐慌情绪依然难以平息，部分虚拟资产价格在短时间内急剧下跌。
-
-金融监管机构提醒投资者应对投资的币种有充分了解，并意识到潜在风险，避免盲目跟风。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：全网 DeFi TVL 跌破1000 亿美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50638.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50638.html"/>
-        <updated>2024-06-18T07:08:08.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 DefiLlama 数据显示，全网 DeFi TVL 跌破1000 亿美元，当前约为 997.3亿美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币现货 ETF 昨日总净流出 1.46 亿美元，ETF 净资产比率达 4.45%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50637.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50637.html"/>
-        <updated>2024-06-18T07:06:32.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 6 月 17 日）比特币现货 ETF 总净流出 1.46 亿美元。昨日灰度（Grayscale）ETF GBTC 单日净流出 295.96 万美元，目前 GBTC 历史净流出为 182.10 亿美元。
-
-昨日单日净流入最多的比特币现货 ETF 为Bitwise ETF BITB，单日净流入为 291.12 万美元，目前 BITB 历史总净流入达 20.44 亿美元。
-
-截止发稿前，比特币现货 ETF 总资产净值为 582.44 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.45%，历史累计净流入已达 149.60 亿美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashKey计划于2024年Q3发行平台币HSK，即将开启社区空投]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50636.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50636.html"/>
-        <updated>2024-06-18T06:50:58.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，亚洲领先的端到端数字资产金融服务集团 HashKey Group ( 「HashKey」或「集团」) 宣布 HashKey 平台币 HSK计划在2024年Q3上币。秉承“HSK for ALL”，HSK将被用于所有HashKey生态核心应用场景，并不断拓展外部社区共建，以形成一个全面的Web3价值版图。上币交易前，HSK将启动社区空投，奖励生态参与者。
-
-HSK是基于ERC-20标准的代币，总供应量为10亿枚，其中65%用于生态建设，30%分配给团队，5%将作为储备基金。
-
-HSK会具备销毁机制，避免持有者的权益因为奖励的HSK流通量增加而被稀释。HashKey将从特定业务的利润中提取最高达20%用于回购HSK，并会将回购的部分进行销毁。
-
-HashKey Group 拥有全面的Web3生态，目前已涵盖Infrastructure、Middleware、AI、DeFi、Metaverse 等多类业态。作为 HashKey 的平台币，HSK 将被应用于生态内社区奖励，独家代币优先购买，跨平台生态合作以及香港最大持牌虚拟资产交易所 HashKey Exchange* 和全球化旗舰虚拟资产交易所 HashKey Global 的手续费抵扣与业务增长活动等广泛场景。另外，HSK还将用来激励L2“生态链”HashKey Chain的生态贡献者，为HashKey Chain 链上用户和资产提供强大的支持和推动力。
-
-HSK预计在6月下旬通过 HashKey 核心业务开启社区空投，鼓励用户参与共建。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安将6月19日下架 LINA/BTC 交叉和逐仓杠杆交易对]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_50635.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_50635.html"/>
-        <updated>2024-06-18T06:07:21.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，币安宣布币安杠杆将于2024-06-19 14点下架 LINA/BTC 交叉和逐仓杠杆交易对。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
