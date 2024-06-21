@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-21T07:14:30.432Z</id>
+    <id>urn:2024-06-21T08:18:32.947Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-21T07:14:30.432Z</updated>
+    <updated>2024-06-21T08:18:32.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[交钱领ZRO，这届空投整出了Pay to Earn的新花活]]></title>
+        <id>https://www.web3sj.com/?p=115275</id>
+        <link href="https://www.web3sj.com/news/115275/"/>
+        <updated>2024-06-21T08:15:48.000Z</updated>
+        <summary type="html"><![CDATA[LayerZero 美其名曰将其称为一种名为 Proof-of-Donation（捐赠证明）的新认领机制，将向以太坊开发者的集体融资机制 Protocol Guild 捐赠高达 1850 万美元。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代币解锁与市值陷阱：如何避免被割韭菜？]]></title>
+        <id>https://www.web3sj.com/?p=115269</id>
+        <link href="https://www.web3sj.com/news/115269/"/>
+        <updated>2024-06-21T07:54:22.000Z</updated>
+        <summary type="html"><![CDATA[$ARB 12 月中旬，其价格约为 $1.1，市值为 $13-14 亿，然后价格上涨到 $2 以上，市值也相应增加。到 4 月至 5 月，价格降至 $1，但 Arbitrum 的市值保持在 $25-30 亿，与 12 月相同！]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[crList，Builder受制实现抗审查]]></title>
+        <id>https://www.web3sj.com/?p=115266</id>
+        <link href="https://www.web3sj.com/news/115266/"/>
+        <updated>2024-06-21T07:45:01.000Z</updated>
+        <summary type="html"><![CDATA[crList 指的是 Proposer 看到的应该被打包的交易列表，即它们的状态里有正确的随机数和充足余额，以及足够被打包的 priority fee 和最高 base fee。这个 crList 只能包含一名 sender ( 发送人 ) 的一笔交易。Proposer 也要对一个 crListSummary 签名和广播，它包含在 crList 上每笔 tx 的 tx.sender 和 tx.gaslimit。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝莱德、富达、摩根大通如何主导RWA？]]></title>
+        <id>https://www.web3sj.com/?p=115262</id>
+        <link href="https://www.web3sj.com/news/115262/"/>
+        <updated>2024-06-21T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[据 Kaiko 分析师称，此举使富达国际与通证化领域的其他主要企业并驾齐驱。这一合作更凸显了人们对利用区块链进行实际应用的兴趣与日俱增。贝莱德的通证化流动性基金 BUIDL 就是这一趋势的例证。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K33 Research：为什么说Telegram是加密采用的「摇篮」]]></title>
+        <id>https://www.web3sj.com/?p=115256</id>
+        <link href="https://www.web3sj.com/project/115256/"/>
+        <updated>2024-06-21T07:29:37.000Z</updated>
+        <summary type="html"><![CDATA[Telegram 结合了其拥有 8 亿月活跃用户的消息应用程序、为 TON 加密货币采用提供轨道的区块链以及名为 Wallet 的原生钱包机器人。许多加密宣传语都模糊地浪漫化了「融合 Web2 和 Web3」的概念，而 Telegram 实际上正在这样做。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VC空投概率论：哪些VC投资的项目，发空投的概率最大？]]></title>
         <id>https://www.web3sj.com/?p=115247</id>
@@ -595,56 +645,6 @@ SEC 律师鼓励 Orrick 法官：不仅要考虑合同，还要考虑整体“�
         <link href="https://www.web3sj.com/show/115181/"/>
         <updated>2024-06-20T07:05:57.000Z</updated>
         <summary type="html"><![CDATA[该项目任务比较简单，看视频加答题即可，最后记得保持代码哦，是未来奖励的重要的条件。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AO的公平空投，和其他项目比公平在哪？]]></title>
-        <id>https://www.web3sj.com/?p=115178</id>
-        <link href="https://www.web3sj.com/project/115178/"/>
-        <updated>2024-06-20T06:44:10.000Z</updated>
-        <summary type="html"><![CDATA[通过比较最近的主要空投，我们可以识别潜在问题和最佳实践。本文将分析这些空投，并将其与 Arweave 生态系统中 AO 代币的独特公平启动进行比较。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上市2个月暴涨70%，现货ETF效应会在以太坊重演吗？]]></title>
-        <id>https://www.web3sj.com/?p=115172</id>
-        <link href="https://www.web3sj.com/news/115172/"/>
-        <updated>2024-06-20T06:38:34.000Z</updated>
-        <summary type="html"><![CDATA[比特币现货 ETF 推出至今，已经吸引各类重要机构投资者的目光。美国州政府投资基金、各大银行、头部对冲基金、知名资管公司、投资咨询公司、其他商业公司纷纷涌入。当前，美国威斯康星州政府基金是贝莱德旗下比特币现货 ETF 的最大持有者之一。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密市场震荡行情下Runes现「小牛市」，Meme「动物园」行情引关注]]></title>
-        <id>https://www.web3sj.com/?p=115166</id>
-        <link href="https://www.web3sj.com/news/115166/"/>
-        <updated>2024-06-20T06:34:00.000Z</updated>
-        <summary type="html"><![CDATA[根据 CoinGecko 的数据，截至 6 月 18 日下午 3 时，加密货币总市值降至 2.48 万亿美元，24 小时内跌幅达 2.2%。其中，比特币（BTC）市场占有率为 52.1%，以太坊（ETH）占 17%。在过去 24 小时内，加密市场全网合约爆仓金额达 4.64 亿美元，其中多单爆仓 4.03 亿美元，空单爆仓 6126.24 万美元。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疑似「大户」出货，两周内卖出超10亿美元BTC]]></title>
-        <id>https://www.web3sj.com/?p=115161</id>
-        <link href="https://www.web3sj.com/news/115161/"/>
-        <updated>2024-06-20T05:59:52.000Z</updated>
-        <summary type="html"><![CDATA[比推数据显示，BTC 早盘前反弹至 65,700 美元的水平，但多头势头未能持续，于美国东部时间午盘时段左右跌至 64,678 美元附近，截止发稿时，比特币的最新交易价格为 65,049.6 美元，24 小时波动率不足 1%。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUNA暴雷事件后续：黑山总理与Do Kwon的秘密交易曝光]]></title>
-        <id>https://www.web3sj.com/?p=115157</id>
-        <link href="https://www.web3sj.com/news/115157/"/>
-        <updated>2024-06-20T05:47:41.000Z</updated>
-        <summary type="html"><![CDATA[2018 年 4 月，他投资 7.5 万美元收购了 75 万枚 Terra（LUNA）通证，在早期投资者中排名第 16 位。这是在 Crypto 资产项目的初始筹资阶段，该项目在四年后以失败告终。]]></summary>
         <author>
             <name>Gao</name>
         </author>
