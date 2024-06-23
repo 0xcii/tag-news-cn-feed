@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-23T10:15:41.415Z</id>
+    <id>urn:2024-06-23T11:10:59.887Z</id>
     <title>web3::cave</title>
-    <updated>2024-06-23T10:15:41.415Z</updated>
+    <updated>2024-06-23T11:10:59.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Web3世界日报（2024-6.23）]]></title>
+        <id>https://www.web3sj.com/?p=115418</id>
+        <link href="https://www.web3sj.com/news/115418/"/>
+        <updated>2024-06-23T11:00:29.000Z</updated>
+        <summary type="html"><![CDATA[IntoTheBlock：比特币长期持有者从1月开始抛售，但以太坊长期持有者仍在累积。贝莱德、灰度、MicroStrategy为全球持有比特币的前三大公司。Mechanism Capital联创：以太坊现货ETF不会推动币价上涨。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IntoTheBlock：比特币长期持有者从1月开始抛售，但以太坊长期持有者仍在累积]]></title>
+        <id>https://www.hellobtc.com/news/202406/22441.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22441.html"/>
+        <updated>2024-06-23T08:34:00.000Z</updated>
+        <summary type="html"><![CDATA[IntoTheBlock 发布报告指出，数据显示，比特币长期持有者从 1 月开始抛售，但以太坊长期持有者仍在累积。目前以太坊总市值的 27.5% 供应量处于质押状态，其中 16.3% 的质押 ETH 通过 Eigenlayer 等协议重新质押。这凸显了 ETH 持有者对原生收益的强烈需求。此外，长期持有者可能正在等待以太坊 ETF 批准和创下历史新高，然后再决定出售。 IntoTheBlock 表示，随着市场价格上涨，长期持有者开始出售他们随着时间的推移积累的资产。历史数据显示，这种获利回吐通常始于牛市的早期阶段，并持续到周期高峰之后，因此监控这一活动有助于更准确地估计市场高峰。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinStats CEO：正采取所有安全措施恢复服务并隔离攻击者]]></title>
+        <id>https://www.hellobtc.com/news/202406/22440.html</id>
+        <link href="https://www.hellobtc.com/news/202406/22440.html"/>
+        <updated>2024-06-23T08:34:00.000Z</updated>
+        <summary type="html"><![CDATA[6月23日消息，CoinStats首席执行官Narek Gevorgyan在社交媒体上就最近发生的安全事件发文表示，我们正在通过采取所有安全措施来恢复生产环境，以确保隔离了攻击者，预计需要24小时。另一方面，我们正在推动CEX将已在Etherscan上被标记的攻击者地址列入黑名单。 今日早些时候消息，CoinStats遭攻击致1590个加密钱包受影响，提醒用户立即转移资金。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EigenLayer增强EigenDA安全性以抵御Sybil攻击]]></title>
+        <id>https://panewslab.com/zh/articledetails/q79558vt.html</id>
+        <link href="https://panewslab.com/zh/articledetails/q79558vt.html"/>
+        <updated>2024-06-23T08:22:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月23日消息，据Cointelegraph报道，EigenLayer 为其在以太坊主网上的 EigenDA 数据可用性服务实现了额外的安全功能，以防止 Sybil 和 DDoS 攻击。 根据 EigenDA 的公告，该白名单安全措施利用IP 地址或以太坊地址ECDSA身份认证来确保增强保护并保证服务的安全访问。ECDSA 身份验证是一种用于验证用户、设备或系统身份的加密方法。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊平均Gas费降至4 Gwei]]></title>
+        <id>https://panewslab.com/zh/articledetails/9efnpec6.html</id>
+        <link href="https://panewslab.com/zh/articledetails/9efnpec6.html"/>
+        <updated>2024-06-23T08:04:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月23日消息，据Ethereum Gas Tracker数据显示，以太坊平均Gas费降至4 Gwei。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mark Cuban：谷歌邮箱被黑客入侵]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_51035.html</id>
@@ -17,6 +67,48 @@
 库班提醒其 880 万 X 平台粉丝：“如果有人在太平洋时间下午 3:30 后收到来自 mcuban@gmail.com 的邮件，那不是我发的。”这距离库班的加密钱包被盗事件仅九个月。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoinStats CEO：正采取措施恢复服务并隔离攻击者，预计需24小时]]></title>
+        <id>https://panewslab.com/zh/articledetails/58mp730o.html</id>
+        <link href="https://panewslab.com/zh/articledetails/58mp730o.html"/>
+        <updated>2024-06-23T07:47:52.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月23日消息，CoinStats 首席执行官 Narek Gevorgyan 在 X 平台表示，正在采取所有安全措施来恢复服务，确保隔离了攻击者。需要一点时间，预计 24 小时。另一方面正在努力推动 CEX 将已在 Etherscan 上被标记的攻击者地址列入黑名单。需要提醒的是，已连接的钱包不会受到影响。
+此前消息，CoinStats遭攻击致1590个加密钱包受影响，已暂时关闭应用程序。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南非税务机关在合规不确定性中严格审查加密货币交易者]]></title>
+        <id>https://panewslab.com/zh/articledetails/goulr06h.html</id>
+        <link href="https://panewslab.com/zh/articledetails/goulr06h.html"/>
+        <updated>2024-06-23T07:19:28.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月23日消息，据News.bitcoin报道，南非加密货币交易者已开始收到南非税务局 (SARS) 的通知，表明他们的税务事宜正在接受审查。税务机关正在从各种加密资产交易所收集信息以评估合规性。未能提供所要求信息的交易者可能会根据《税务管理法》面临刑事指控。南非税务局还可能调查历史上未申报加密货币所有权的情况。南非税务局尚未就加密货币交易是否被视为资本收益或收入提供明确指导。因此，准确记录本地和外国加密货币交易所的收益和损失仍然具有挑战性。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compound通过调整Optimism上cUSDC v3风险参数提案]]></title>
+        <id>https://panewslab.com/zh/articledetails/6pt9518y.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6pt9518y.html"/>
+        <updated>2024-06-23T06:53:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月23日消息，Compound 治理治理页面显示，Gauntlet 发起的调整风险参数以提高 Comet 的资本效率提案获得通过。Gauntlet 提议对 Optimism v3 USDC comet 进行以下风险参数更新：将 WBTC 清算惩罚从 5% 增加至 10%；将 WBTC 供应上限从 60 增加至 120；将 OP 供应上限从 70 万增加至 140 万。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Kang：ETH ETF的影响不及BTC ETF明显，ETH上行空间有限]]></title>
+        <id>https://panewslab.com/zh/articledetails/8w4722nl.html</id>
+        <link href="https://panewslab.com/zh/articledetails/8w4722nl.html"/>
+        <updated>2024-06-23T06:32:51.000Z</updated>
+        <summary type="html"><![CDATA[PANews 6月23日消息，Mechanism Capital联合创始人Andrew Kang在X发文对以太坊现货ETF对市场的影响进行了分析。Andrew Kang认为，BTC ETF 为许多新买家打开了大门，让他们可以在投资组合中配置比特币。ETH ETF 的影响则不那么明显。除非以太坊开发出一条令人信服的途径来改善其经济状况，否则ETH价格不会有太大的上行空间。预计以太坊现货 ETF 的资金流量会低于市场的普遍预期，因为 ETF 的批准令人意外，发行方没有太多时间说服大额持有者将其 ETH 转换为 ETF。
+Andrew Kang 预计 ETH/BTC 将继续呈下降趋势，未来一年的比率将在 0.035 至 0.06 之间。尽管样本量很小，但市场确实看到 ETH/BTC 在每个周期中都创下更低的高点，因此这应该不足为奇。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -139,7 +231,7 @@ SoSoValue 联合创始人 Jivvva 表示，“此轮融资将用于推动 SoSoV
         <id>https://panewslab.com/zh/articledetails/ursz2y8b.html</id>
         <link href="https://panewslab.com/zh/articledetails/ursz2y8b.html"/>
         <updated>2024-06-23T03:59:10.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月23日消息，新加坡加密金融研究初创公司SoSoValue宣布完成415万美元种子轮融资，HongShan、GSR Markets、Alumni Ventures、CoinSummer Labs 和One Piece Labs领投，一些以太坊早期投资者以及头部 Web3和AI科技公司创始人参投。新资金将用于支持发展人工智能驱动的数据服务，为投资者提供其所需的资源，使他们能够做出明智的投资决策。]]></summary>
+        <summary type="html"><![CDATA[PANews 6月23日消息，新加坡加密金融研究初创公司SoSoValue宣布完成415万美元种子轮融资，HongShan领投，GSR Markets、Alumni Ventures、CoinSummer Labs 和One Piece Labs参投，一些以太坊早期投资者以及头部Web3和AI科技公司创始人也参与本轮融资。新资金将用于支持发展人工智能驱动的数据服务，为投资者提供其所需的资源，使他们能够做出明智的投资决策。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -344,16 +436,6 @@ ARK 21Shares Bitcoin ETF（ARKB）：46335 枚 BTC。]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZachXBT：继BtcTurk之后Sportsbet再遭攻击，损失超350万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/e0hcb1iy.html</id>
-        <link href="https://panewslab.com/zh/articledetails/e0hcb1iy.html"/>
-        <updated>2024-06-23T00:35:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月23日消息，据链上侦探ZachXBT监测，昨晚线上博彩平台 Sportsbet疑似同样遭到BtcTurk黑客的攻击，损失超350万美元。据此前消息，土耳其加密交易所BtcTurk表示于6月22日遭到网络攻击。此次攻击影响了10种加密货币的热钱包部分余额，但大部分资产存放在安全的冷钱包中。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数据：6 月以来比特币矿工已抛售逾 3 万枚 BTC，为一年多以来最快速度]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_51026.html</id>
         <link href="https://www.techflowpost.com/newsletter/detail_51026.html"/>
@@ -374,16 +456,6 @@ ARK 21Shares Bitcoin ETF（ARKB）：46335 枚 BTC。]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：自6月以来比特币矿工已抛售超过3万枚BTC]]></title>
-        <id>https://panewslab.com/zh/articledetails/3nm99iqx.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3nm99iqx.html"/>
-        <updated>2024-06-22T23:39:11.000Z</updated>
-        <summary type="html"><![CDATA[PANews 6月23日消息，IntoTheBlock数据显示，自6月以来，比特币矿工已售出超过3万枚BTC（约20亿美元），为一年多以来最快速度。最近的减半导致利润下降，引发了此次抛售。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Binance CEO：正协助BtcTurk进行调查，已冻结超530万美元被盗资金]]></title>
         <id>https://www.hellobtc.com/news/202406/22433.html</id>
         <link href="https://www.hellobtc.com/news/202406/22433.html"/>
@@ -399,16 +471,6 @@ ARK 21Shares Bitcoin ETF（ARKB）：46335 枚 BTC。]]></summary>
         <link href="https://www.hellobtc.com/news/202406/22432.html"/>
         <updated>2024-06-22T15:44:00.000Z</updated>
         <summary type="html"><![CDATA[据HODL15Capital监测，美国现货比特币ETF于1月10日上线至今，约250,000枚BTC从交易所流出。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArbitrumDAO发起ArbitrumHub新活动计划提案，遭社区多数反对]]></title>
-        <id>https://www.hellobtc.com/news/202406/22431.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22431.html"/>
-        <updated>2024-06-22T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[6月22日消息，ArbitrumDAO发起ArbitrumHub新活动计划提案，提案表示ArbitrumHub将专注于促进网络的项目活动、信息更新和社区参与，为前六个月启动活动申请47.4万美元资金。当前该提案遭社区多数反对，反对率达93%，主要意见为该提案无法量化成果、成本不明、要价过高。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
@@ -474,16 +536,6 @@ ARK 21Shares Bitcoin ETF（ARKB）：46335 枚 BTC。]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美说唱歌手50 Cent X账户被盗，黑客推广GUNIT币骗取3亿美元]]></title>
-        <id>https://www.hellobtc.com/news/202406/22430.html</id>
-        <link href="https://www.hellobtc.com/news/202406/22430.html"/>
-        <updated>2024-06-22T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[美说唱歌手Curtis James Jackson III（艺名“50 Cent”）声称他的X账户和网站遭到黑客攻击，导致黑客推广一种加密货币从受害者手中骗取了3亿美元。黑客创建了一个新的加密代币“GUNIT”，利用50 Cent约1290万粉丝吸引更多投资者并抬高价格，然后耗尽其价值，代币价格暴跌至0.00016美元。 6月21日，50 Cent在Instagram上向他的3280万粉丝发帖声称他的X帐户和网站遭到黑客攻击，并承认受害者的大量资金已从项目中流失。“Twitter迅速锁定了我的账户。不管是谁干的，他在30分钟内就赚了3亿美元，”50 Cent宣称“与这种加密货币没有任何关系”。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Variant合伙人：Web3项目如何用代币激励引导市场供应？]]></title>
         <id>https://www.web3sj.com/?p=115315</id>
         <link href="https://www.web3sj.com/news/115315/"/>
@@ -509,16 +561,6 @@ ARK 21Shares Bitcoin ETF（ARKB）：46335 枚 BTC。]]></summary>
         <link href="https://www.web3sj.com/news/115304/"/>
         <updated>2024-06-21T11:49:18.000Z</updated>
         <summary type="html"><![CDATA[据 SoSoValue 数据，比特币现货 ETF 自 5 月中旬以来，还是呈现新一轮的资金流入浪潮，持续近一个月之久，其中 6 月 4 日更是达到 8.86 亿美元的历史次高值（仅次于 3 月 12 日的 10.5 亿美元）。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20多亿美元比特币遭抛售，散户该跟随还是坚守？]]></title>
-        <id>https://www.web3sj.com/?p=115298</id>
-        <link href="https://www.web3sj.com/transaction/115298/"/>
-        <updated>2024-06-21T11:46:37.000Z</updated>
-        <summary type="html"><![CDATA[技术创新和人类心理（特别是贪婪和恐惧的相互作用）这两大因素，是加密货币周期性市场的关键催化剂。尽管如此，市场本质上是一种动量游戏——大多数参与者积极地推动价格上涨，并保持一贯的看涨立场。]]></summary>
         <author>
             <name>Gao</name>
         </author>
