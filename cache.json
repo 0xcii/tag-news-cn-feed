@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=115860",
+          "author": "Gao",
+          "description": "Wintermute 创始人 Evgeny Gaevoy 率先发言浇了一盆冷水，其表示：「SOL ETF 今年获得批准的可能性几乎为零，一厢情愿地认为这会成为特朗普政府的优先事项是相当愚蠢的；一旦你真正看到了 ETH ETF 的资金流入情况，你就会明白，即使 SOL ETF 获批，流入的资金只会更少。」",
+          "link": "https://www.web3sj.com/project/115860/",
+          "publishedOn": "2024-06-28T04:15:37.000Z",
+          "wordCount": 1048,
+          "title": "VanEck提交美国首个Solana ETF申请，获批还有多远？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719548106684.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=115855",
+          "author": "Gao",
+          "description": "Blast 在上市前曾有多个分析师为代币估值，即便较为悲观的估值也都在 0.03 美元以上。代币推出后，Blast 的 FDV 仅为 20 亿美元左右，对比之下，Arbitrum、Optimism 等 L2 在发布时 FDV 都是近百亿美元（也一定程度上说明散户不再为高 FDV 的 VC 币买单了）。",
+          "link": "https://www.web3sj.com/news/115855/",
+          "publishedOn": "2024-06-28T04:02:19.000Z",
+          "wordCount": 1098,
+          "title": "ZRO、BLAST空投后，项目方和撸毛党也「互不接盘」了",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/5-1719543611777.webp"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=115850",
+          "author": "Gao",
+          "description": "其次，从项目差异上来说，通常涉及到与交易买卖、挂单操作、流动性锁定等环节的项目更倾向于采用积分制。一方面是明确用户的行为轨迹及投入成本，另外一方面则是给到用户相对直观清晰的「数值激励」，相信很多人都感受过积分数值不断跳动着增长带来的视觉刺激。",
+          "link": "https://www.web3sj.com/project/115850/",
+          "publishedOn": "2024-06-28T04:00:07.000Z",
+          "wordCount": 1071,
+          "title": "杀死积分制，Berachain的Proof Of Liquidity机制会是未来吗？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719547187956.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=115839",
           "author": "Gao",
           "description": "Sonic游戏生态空投教程，详细撸毛教程",
           "link": "https://www.web3sj.com/show/115839/",
           "publishedOn": "2024-06-27T14:00:09.000Z",
-          "wordCount": 780,
+          "wordCount": 784,
           "title": "【0撸系列】1200W美金融资Sonic游戏生态空投教程（细！细！细！）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024062713595978.jpg"
         },
@@ -21,7 +51,7 @@
           "description": "本周山寨币并没有较大起伏，部分山寨币期权有较好的表现，KAS再次独占鳌头，上涨36倍，已经上榜好多次了，值得长期关注。",
           "link": "https://www.web3sj.com/transaction/115827/",
           "publishedOn": "2024-06-27T13:48:50.000Z",
-          "wordCount": 884,
+          "wordCount": 954,
           "title": "Coincall山寨币期权一周播报（6.21~6.27）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/04/2024042505344022.jpg"
         },
@@ -31,7 +61,7 @@
           "description": "Ripple首席法务官：法院裁定SEC撤销代理顾问公司规则违反程序法。灰度以太坊信托 ETHE 负溢价率收窄至1.24%。Polkadot社区提案开发Polkadot和Cardano互操作桥梁。",
           "link": "https://www.web3sj.com/news/115822/",
           "publishedOn": "2024-06-27T11:15:31.000Z",
-          "wordCount": 893,
+          "wordCount": 928,
           "title": "Web3世界日报（2024-6.27）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024062711122838.jpg"
         },
@@ -41,7 +71,7 @@
           "description": "MEV 的实例还有许多，但本质上都是对交易顺序的抢占而最大化个人收益。对 MEV 的讨论最初集中在以太坊上，但在 Solana 等区块链网络中同样存在，因为 Solana 网络本身的交易处理机制，Solana 上的 MEV 问题与以太坊不完全相同。",
           "link": "https://www.web3sj.com/project/115786/",
           "publishedOn": "2024-06-27T09:08:23.000Z",
-          "wordCount": 1787,
+          "wordCount": 1782,
           "title": "激烈竞争中的Solana LSD赛道，Jito能否脱颖而出？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719479290792.png"
         },
@@ -51,7 +81,7 @@
           "description": "Movement 将 Move 语言引入 EVM ，使得以太坊开发者能够将应用无缝迁移部署到 Movement 网络，同时还可以与基于 Move 语言开发的 Sui 和 Aptos 网络进行资产跨链和数据转移。",
           "link": "https://www.web3sj.com/project/115769/",
           "publishedOn": "2024-06-27T08:57:33.000Z",
-          "wordCount": 1230,
+          "wordCount": 1245,
           "title": "机会前瞻：一文梳理巨额融资L2 Movement的生态版图",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719478610241.png"
         },
@@ -61,7 +91,7 @@
           "description": "华尔街并没有止步于比特币。美国证券交易委员会（SEC）最终于 5 月批准了 8 只以太坊现货 ETF 关键文件，进一步验证了整个加密生态系统，为更广泛的机构采用打开了大门。",
           "link": "https://www.web3sj.com/news/115760/",
           "publishedOn": "2024-06-27T08:35:57.000Z",
-          "wordCount": 987,
+          "wordCount": 992,
           "title": "Bankless 2024年中回顾：牛市「接着奏乐接着舞」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719477341641.png"
         },
@@ -71,39 +101,9 @@
           "description": "此外，25.5% 分配给核心贡献者，16.5% 分配给投资者，8% 分配给 Blast 基金会。作为向去中心化治理结构过渡的一部分，官方表示项目 Twitter、网站和 Blast 协议的治理正在转向基金会控制。",
           "link": "https://www.web3sj.com/news/115748/",
           "publishedOn": "2024-06-27T08:27:01.000Z",
-          "wordCount": 1121,
+          "wordCount": 1099,
           "title": "9张数据图剖析：Blast发展得怎么样了？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719476806062.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=115729",
-          "author": "Gao",
-          "description": "大多数主要的代币持有者（2020 年的 Large Givers 矿工）仍持有这些代币。他们中的一部分可能对 TON 生态系统有长期计划，但在撰写本文时，市场上没有出售代币的退出流动性。根据 CoinMarketCap 的数据，TON 代币在中心化交易所的深度 -2% 和 +2% 约为 20 万至 40 万美元（链接）。",
-          "link": "https://www.web3sj.com/project/115729/",
-          "publishedOn": "2024-06-27T08:12:32.000Z",
-          "wordCount": 2117,
-          "title": "研究：相互关联的巨鲸掌控了85%的TON代币",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719475931759.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=115724",
-          "author": "Gao",
-          "description": "NFT 版税从未在链上真正执行过；这一点一直被误解。对强制执行链上版税的需求超过了将其变为现实的进度。面临的挑战是，很难区分应支付版税的 NFT 转移销售和其他类型的转移，例如用户自己钱包之间的自我转移、作为礼物发送 NFT 等。",
-          "link": "https://www.web3sj.com/nftnews/115724/",
-          "publishedOn": "2024-06-27T08:01:58.000Z",
-          "wordCount": 1214,
-          "title": "a16z：NFT版税如何运作？设计，挑战和新想法",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719475301299.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=115700",
-          "author": "Gao",
-          "description": "可以这样理解，在游戏中，总会有那种过于强大的作弊手段或策略，当太多玩家开始使用或滥用它时，它们最终会被削弱。",
-          "link": "https://www.web3sj.com/news/115700/",
-          "publishedOn": "2024-06-27T07:49:26.000Z",
-          "wordCount": 1164,
-          "title": "空投未死，但请勿过度追逐热门项目",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719474532288.png"
         }
       ]
     },
@@ -112,6 +112,166 @@
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/60la6b4c.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，Wen(@wenwencoin)在X平台宣布其现在是@ShouldHaveCat账号的拥有者，这是X平台上最大的猫咪页面，每月获得20到30亿次以上的浏览量。Wen表示，他们期待将其打造成一个全球品牌，让所有爱猫人士都能享受，而不仅仅是Web3社区。但目前尚未启动任何与该账号相关的活动。",
+          "link": "https://panewslab.com/zh/articledetails/60la6b4c.html",
+          "publishedOn": "2024-06-28T03:18:04.000Z",
+          "wordCount": 341,
+          "title": "Wen宣布拥有最大的猫咪主题X账号@ShouldHaveCat",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ju5n5i03.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，模块化算力层和ZK-RaaS平台Lumoz宣布，zkVerifier节点售卖的前五个Tier已全部售罄，截至发稿共售出节点数量51033个（约占节点总量的51 %）。当前正在销售的是Tier6 节点，单个节点售价为402U。白名单用户及持有白名单用户邀请码的用户均可享受九折购买，使用ZKF 支付还可以获得折上折（共19%折扣），但每日限量200个。\nLumoz 于6月25日同步启动节点售卖的白名单轮和预售轮尾款支付，目前完成预售轮80%尾款支付以及参与白名单轮购买完成的用户均可第一时间参与到Lumoz 4000万积分挖矿活动，共40天，每天瓜分100万积分。用户也可通过参与战队来获得积分奖励加成，具体规则参见Lumoz官网。白名单轮和预售轮尾款支付将在公售（7月3号）开始前一天截至，请大家尽早参与购买/尾款支付，以便更早获得积分挖矿奖励！\nLumoz zkVerifier节点总量为100,000个，共分为10个Tier，先到先得。后期不满意还可享受80%的无条件退款。节点持有者奖励包括：4000万Lumoz积分（主网上线前）、25%的Lumoz Token挖矿奖励（主网上线后）以及Lumoz生态新链潜在代币空投等多重奖励。",
+          "link": "https://panewslab.com/zh/articledetails/ju5n5i03.html",
+          "publishedOn": "2024-06-28T03:09:30.000Z",
+          "wordCount": 363,
+          "title": "Lumoz zkVerifier节点前五个Tier已售罄，现在购买即可参与积分挖矿",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/h1iczqiu.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，拜登和特朗普的首场大选电视辩论已结束，但未提及任何与加密货币相关的内容。\n财经网站Forexlive分析师Arno V Venter表示，首场总统辩论结束了，我们可以从政治方面获得很多结论，但这对市场并没有太大价值。美元最初出现了一些上涨，但随着辩论的深入，走势有所回落。对市场而言，最引人注目的评论是：特朗普称，关税计划将减少赤字，不会增加问题性通胀；他还称将在上任前解决俄乌冲突问题。总的来说，这90分钟的辩论没有让我们学到什么，甚至还得听关于高尔夫差点（衡量业余高尔夫球手潜在能力的数值）的争论，而最重要的总统职位却悬而未决。",
+          "link": "https://panewslab.com/zh/articledetails/h1iczqiu.html",
+          "publishedOn": "2024-06-28T03:08:26.000Z",
+          "wordCount": 340,
+          "title": "拜登和特朗普的首场辩论已结束，未提及加密货币相关内容",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/88yi6p9q.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据Token Unlocks数据，7月将有价值约8.6亿美元的代币解锁，涉及约40个加密项目。Xai、AltLayer、Arbitrum和Aptos将在下月解锁超3.5亿美元的代币。Xai将于7月9日释放1.98亿XAI代币，Aptos将于7月12日解锁1130万APT代币，Arbitrum将于7月16日释放9260万ARB代币，AltLayer将于7月25日解锁6.84亿ALT代币。其他重要解锁项目包括Io.net、Starknet和Sui等。",
+          "link": "https://panewslab.com/zh/articledetails/88yi6p9q.html",
+          "publishedOn": "2024-06-28T03:05:43.000Z",
+          "wordCount": 345,
+          "title": "7月将有价值约8.6亿美元的代币解锁，涉及约40个加密项目",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/qpw2xo9i.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据Polymarket 2024年美国总统大选预测页面提供的实时预测，当前数据显示，唐纳德·特朗普的胜率升至67%，乔·拜登降为24%。",
+          "link": "https://panewslab.com/zh/articledetails/qpw2xo9i.html",
+          "publishedOn": "2024-06-28T02:58:04.000Z",
+          "wordCount": 353,
+          "title": "Polymarket上特朗普的胜率已达到67%，创新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fzwo6hv7.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，去中心化预测市场平台Polymarket在X平台发文表示，对于“Barron Trump是否参与了$DJT？”的市场，第三方预言机UMA将其决议为“否”。实际上，他确实以某种方式参与了。随着Polymarket开始达到关键规模，我们的价格预测成为许多信息的关键来源。因此，市场必须以最好的方式解决真相，即使这不是一个受欢迎的决定。我们决定退款给市场中的“是”持有者，并正在进行支付。我们也在积极改进我们的预言机和决议方法。\n昨日报道，Polymarket与其预言机服务UMA在关于Barron Trump是否参与DJT代币的问题上相矛盾。",
+          "link": "https://panewslab.com/zh/articledetails/fzwo6hv7.html",
+          "publishedOn": "2024-06-28T02:52:22.000Z",
+          "wordCount": 360,
+          "title": "Polymarket：在“Barron Trump是否参与DJT代币”一事中决定给市场中的“是”持有者退款，并正在进行支付",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/k347j35t.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，Web3钱包Zerion发推宣布，其由ZKsync支持的ZERϴ Network测试网已上线。Zerion表示，ZERϴ网络上的开发人员能够为用户抽象出Gas费用，使任何代币都可用于支付网络费用。Zerion钱包用户将能够进行交易和铸造，而无需支付任何Gas费用。Zerion计划通过向每月70万个钱包提供补助、API积分和分发，来激励DApp在ZERϴ上进行构建，并与多个合作伙伴共同支持今年晚些时候的主网启动。Zerion还设计了一个名为Onchain DNA的垃圾防护系统，以区分真实用户和机器人。",
+          "link": "https://panewslab.com/zh/articledetails/k347j35t.html",
+          "publishedOn": "2024-06-28T02:34:09.000Z",
+          "wordCount": 375,
+          "title": "Zerion：由ZKsync支持的ZERϴ Network测试网已上线",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2t4w352p.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，币安已新增FDUSD全仓和逐仓杠杆交易对。",
+          "link": "https://panewslab.com/zh/articledetails/2t4w352p.html",
+          "publishedOn": "2024-06-28T02:08:43.000Z",
+          "wordCount": 349,
+          "title": "币安已新增FDUSD全仓和逐仓杠杆交易对",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/srm5fuy4.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，美国2024年总统选举当地时间27日21时许（北京时间28日9时许）迎来首场候选人电视辩论，此前一直隔空打“口水仗”的现任总统、民主党人拜登和前任总统、共和党人特朗普时隔近4年再次登台交锋。据美国广播公司（ABC）报道，拜登和特朗普两人在辩论开始时没有握手。该媒体称，这似乎打破了传统，但此前也曾出现过辩论双方不握手的情况。比如在2020年疫情期间，他们两人当时辩论就没有握手。在2016年特朗普与希拉里辩论时也没有握手。\n美国总统拜登和前总统特朗普展开首场总统大选辩论，双方先从经济问题展开攻防，两位候选人都指责对方要为杂货和住房成本上涨负责。选民将经济视为这场选战的决定性议题之一。民调显示，尽管就业增长强劲，制造业和基础设施投资强劲，但随着处于历史高位的通胀水平重创美国家户，选民对拜登的记录持怀疑态度。“我们的经济直线下滑，疫情处理得如此糟糕。”拜登指责特朗普称。拜登承诺将采取更多行动来解决家庭用品和住房的高成本问题，而该问题是选民对他处理经济议题评价较低的一个原因。特朗普为减税政策（定于明年到期）辩护，称这为股市繁荣铺平了道路。",
+          "link": "https://panewslab.com/zh/articledetails/srm5fuy4.html",
+          "publishedOn": "2024-06-28T02:04:08.000Z",
+          "wordCount": 342,
+          "title": "拜登特朗普在辩论开始时没有握手 “似乎打破传统”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3ufijls9.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据Cointelegraph报道，Aptos Foundation和阿里云合作在日本推动Web3生态系统的发展，提升区域可访问性。他们共同推出了Alcove，这是亚洲首个联合品牌的Move开发者社区，旨在推广智能合约编程语言。Aptos Foundation将利用阿里云的技术举办黑客松和教育活动，支持日本Alcove社区的新兴Web3人才，加速日本链上生态系统的发展。",
+          "link": "https://panewslab.com/zh/articledetails/3ufijls9.html",
+          "publishedOn": "2024-06-28T01:44:55.000Z",
+          "wordCount": 345,
+          "title": "Aptos基金会和阿里云合作推出Move开发者社区Alcove，以推动日本的Web3生态系统",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/x84al51u.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，据Cointelegraph报道，风投公司Paradigm对欧洲证券和市场管理局（ESMA）针对加密市场滥用的措施表示批评。Paradigm认为，ESMA将传统金融市场的滥用行为与加密市场中的行为类比是不准确的，特别是关于最大可提取价值（MEV）的监管。Paradigm指出，目前缺乏普遍接受的标准来确定哪些MEV活动是有害的，因此要求整个生态系统监控和预防主观行为会导致不一致的应用和意外后果。Paradigm呼吁ESMA采取更为细致的监管方式。",
+          "link": "https://panewslab.com/zh/articledetails/x84al51u.html",
+          "publishedOn": "2024-06-28T01:38:25.000Z",
+          "wordCount": 340,
+          "title": "Paradigm呼吁欧洲市场监管机构对MEV采取更为细致的监管方式",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/t5u4sj7p.html",
+          "author": "PA一线",
+          "description": "玻利维亚解除对比特币和其他加密货币的禁令\n据Cryptopolitan报道，玻利维亚已解除对比特币和其他加密货币的禁令。该禁令于2020年12月生效。6月26日，玻利维亚央行（BCB）正式宣布，银行现在可以进行加密货币交易。尽管加密货币现可通过授权的电子渠道交易，但玻利维亚央行提醒公民，加密货币不被视为法定货币。\n21Shares向美国SEC提交以太坊现货ETF注册申请\nETF分析师Henry Jim推特发文称，21Shares向美国SEC提交了以太坊现货ETF证券注册申请（8-A12B表格）。8-A表格文件的提交意味着发行人一旦产品获批即可在交易所交易。\n美国最高法院裁定SEC使用内部司法程序提起指控是违宪的\n据福克斯商业频道记者Eleanor Terrett报道，最高法院刚刚以6比3的投票结果裁定，当美国证券交易委员会（@SECGov）寻求对欺诈行为进行处罚时，被告有权在联邦法院接受陪审团审判，而不是接受该机构的“内部”法律程序。这一举措实际上束缚了所有联邦机构，而不仅仅是美国证券交易委员会（@SECGov），因为它们必须设法在联邦法院审理案件。最高法院裁定，美国证券交易委员会使用内部司法程序提起指控是违宪的。\n土耳其对未经授权的加密货币提供商判处最高22年监禁\n据turkiyetoday报道，土耳其议会通过了《资本市场法修正案》，引入了有关加密资产的新法规，主要内容包括：\n1.资本市场委员会 (SPK) 现在有权监督加密货币交易并“采取措施和制裁”，例如冻结和没收资金，平台必须制定书面上市程序，以确定哪些加密资产将被交易或首次提供和分发，并遵守SPK的原则和规定。\n2.未经授权经营加密资产服务的个人和法人将面临3至5年监禁；服务提供商挪用包括加密资产在内的受托资金或资产，将面临8至14年的监禁，并赔偿损失；如果犯罪涉及欺骗行为以隐瞒挪用公款，犯罪者将面临14至20年的…",
+          "link": "https://panewslab.com/zh/articledetails/t5u4sj7p.html",
+          "publishedOn": "2024-06-28T01:31:01.000Z",
+          "wordCount": 514,
+          "title": "昨夜今晨重要资讯（6月27日-6月28日）",
+          "imageUrl": "https://cdn-img.panewslab.com/panews/2024/06/28/images/9XI8HkyqN6.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9oqhf5gg.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，苹果Vision Pro国行版今日正式发售，可选256GB、512GB、1TB三种版本，售价29999元起。",
+          "link": "https://panewslab.com/zh/articledetails/9oqhf5gg.html",
+          "publishedOn": "2024-06-28T01:14:39.000Z",
+          "wordCount": 348,
+          "title": "苹果Vision Pro国行版今日发售",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e3u8cz47.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，Scroll联合创始人Ye Zhang在X发文表示：对Blast失望的大户，建议将资金存入Scroll。Scroll的session one通过参与DeFi生态积累mark，风险低的可参与AAVE等OG DeFi。资金可随时提取，30分钟到账，不影响已积累的mark。尽管有些人对Point PUA有不同看法，但Scroll不限制用户资金自由。",
+          "link": "https://panewslab.com/zh/articledetails/e3u8cz47.html",
+          "publishedOn": "2024-06-28T00:55:50.000Z",
+          "wordCount": 364,
+          "title": "Scroll联创：对Blast失望的大户可以存Scroll，我们不会PUA",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/i1pvsl0a.html",
+          "author": "PA一线",
+          "description": "PANews 6月28日消息，链上分析师余烬发推文称，一地址在1小时前将1771万枚BLUR（价值371万美元）转入币安。这些BLUR是该地址在去年底和今年3月初从Coinbase Prime提取的，当时价值948万美元（提取均价0.535美元）。目前仅价值371万美元，损失577万美元，跌幅达61%。",
+          "link": "https://panewslab.com/zh/articledetails/i1pvsl0a.html",
+          "publishedOn": "2024-06-28T00:49:20.000Z",
+          "wordCount": 340,
+          "title": "一地址在1小时前将1771万枚BLUR转入币安",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/o8j4wj4f.html",
+          "author": "PA一线",
+          "description": "PANews 6月27日消息，Cathie Wood旗下ARK Invest（ARKW）于6月26日减持3276股Coinbase股票，按当日每股224美元收盘价计算，约合73.38万美元。",
+          "link": "https://panewslab.com/zh/articledetails/o8j4wj4f.html",
+          "publishedOn": "2024-06-28T00:22:51.000Z",
+          "wordCount": 350,
+          "title": "ARK Invest昨日减持约73万美元的Coinbase股票",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/57nur550.html",
           "author": "PA一线",
@@ -150,76 +310,6 @@
           "publishedOn": "2024-06-27T23:52:12.000Z",
           "wordCount": 344,
           "title": "21Shares向美国SEC提交以太坊现货ETF注册申请",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/fvibwuwd.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据The Block报道，一只拟议的ETF于周四提交了招股说明书，旨在让交易者和投资者无需购买任何一种资产即可同时投资比特币和黄金。STKD STKD Bitcoin&Gold ETF由Tidal Investments和Quantify Chaos Advisors共同推出，旨在通过比特币期货和ETF以及黄金期货和ETF同时提供比特币和黄金敞口。根据招股说明书，通过混合低相关性的资产，该基金旨在减少短期市场波动对整体投资结果的影响，可能提供更稳定的投资收益。该ETF将使用杠杆，不会直接投资于比特币或其他数字资产，也不会直接投资于黄金或金条。文件指定该ETF的生效日期为2024年9月9日，但未包括股票代码或任何相关费用。",
-          "link": "https://panewslab.com/zh/articledetails/fvibwuwd.html",
-          "publishedOn": "2024-06-27T23:48:16.000Z",
-          "wordCount": 362,
-          "title": "一只拟议的比特币与黄金杠杆ETF将于9月9日推出",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/w56g9t6d.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据官方消息，去中心化预言机网络开发商AnchorZero宣布完成800万美元种子轮融资，Bain Capital Crypto和Spark Capital领投，Ethereal Ventures、Mischief Fund、Pascal Capital、Robot Ventures以及Sarah Meyohas参投。AnchorZero是一家专门开发去中心化跨链预言机网络的区块链技术公司，为智能合约提供安全可靠的喂价数据服务，允许在多个平台上访问智能合约的外部数据。此外他们还提供Web3税务规划解决方案。",
-          "link": "https://panewslab.com/zh/articledetails/w56g9t6d.html",
-          "publishedOn": "2024-06-27T23:35:30.000Z",
-          "wordCount": 373,
-          "title": "去中心化预言机网络开发商AnchorZero完成800万美元种子轮融资",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/9rjsy7n4.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据Cryptopolitan报道，玻利维亚已解除对比特币和其他加密货币的禁令。该禁令于2020年12月生效。6月26日，玻利维亚央行（BCB）正式宣布，银行现在可以进行加密货币交易。尽管加密货币现可通过授权的电子渠道交易，但玻利维亚央行提醒公民，加密货币不被视为法定货币。",
-          "link": "https://panewslab.com/zh/articledetails/9rjsy7n4.html",
-          "publishedOn": "2024-06-27T23:31:39.000Z",
-          "wordCount": 345,
-          "title": "玻利维亚解除对比特币和其他加密货币的禁令",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/3gbvoly8.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据Farside Investors监测，6月27日灰度GBTC资金净流出1140万美元，Bitwise BITB净流入800万美元。",
-          "link": "https://panewslab.com/zh/articledetails/3gbvoly8.html",
-          "publishedOn": "2024-06-27T23:21:25.000Z",
-          "wordCount": 351,
-          "title": "数据：6月27日灰度GBTC资金净流出1140万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/2d71zegd.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据The Hill报道，拜登竞选团队聘请Keisha Lance Bottoms担任2024年大选高级顾问。Lance Bottoms曾于2018年至2022年担任亚特兰大市长，并于2024年4月加入Coinbase顾问委员会，此前她于2023年辞去白宫顾问职务。Lance Bottoms在拜登竞选期间将不会辞去她在Coinbase全球顾问委员会的职务。Lance Bottoms曾在Stand With Crypto Atlanta活动上表示，加密货币为没有银行账户的社区提供了一个加强金融自由的机会。",
-          "link": "https://panewslab.com/zh/articledetails/2d71zegd.html",
-          "publishedOn": "2024-06-27T23:16:51.000Z",
-          "wordCount": 368,
-          "title": "拜登竞选团队聘请Coinbase顾问委员会成员担任大选高级顾问",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/c5r047h7.html",
-          "author": "PA一线",
-          "description": "PANews 6月28日消息，据The Block报道，加密钱包提供商Zerion已推出其即将推出的 Layer 2 Rollup ZERO Network的测试网络。该测试网使用ZKSync的软件包ZK Stack开发，将成为不断扩展的ZKSync生态系统的一部分。ZERO主网计划于今年晚些时候推出。\n包括1inch、Philand和Dodo Finance在内的合作伙伴正准备在ZERO测试网上部署，并最终在主网上线。该团队表示将全力支持ZERO生态系统中的建设者，包括免费API积分和Zerion钱包内的优先安置。这个ZK Rollup网络对于用户来说基本上是无gas的，允许使用任何代币来支付网络费用。为了实现这一点，Zerion开发了一个定制的付款人合约来支付其钱包用户的交易费用。",
-          "link": "https://panewslab.com/zh/articledetails/c5r047h7.html",
-          "publishedOn": "2024-06-27T16:09:48.000Z",
-          "wordCount": 383,
-          "title": "Zerion部署使用ZK Stack开发的Layer 2 Rollup测试网",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/e6j7dhcn.html",
-          "author": "PA一线",
-          "description": "PANews 6月27日消息，据The Block报道，新区块链MegaETH的开发商MegaLabs宣布完成2000万美元种子轮融资，Dragonfly领投，Figment Capital、Robot Ventures、Big Brain Holdings等公司参投，此轮融资的天使投资者包括E以太坊联合创始人Vitalik Buterin、ConsenSys创始人兼首席执行官Joseph Lubin、EigenLayer创始人兼首席执行官Sreeram Kannan、ETHGlobal联合创始人Kartik Talwar、Helius Labs联合创始人兼首席执行官Mert Mumtaz、Santiago Santos、Hasu和Jordan Fish（又名Cobie）。\nMegaLabs联合创始人兼首席商务官Shuyao Kong表示，该公司去年12月开始为种子轮融资，并于5月结束融资。Kong 表示，这轮融资采用股权加代币认股权证的结构，使MegaETH的完全摊薄代币估值达到“9位数”，这意味着至少1亿美元。\n据介绍，MegaLabs成立于2023年初，创始人是Consensys前全球业务发展主管Shuyao Kong、以及拥有斯坦福大学计算机科学博士学位、曾在软件公司Runtime Verification Inc.工作的Yilong Li。Kong补充说，他仍继续担任Consensys的顾问。MegaETH的两项关键技术——异构区块链架构和“超优化”的EVM执行环境——帮助它实时实现100,000 TPS。MegaETH的公共测试网将于初秋上线，主网预计于年底上线。当被问及MegaETH的原生代币是否会与主网同时推出时，Kong表示尚未做出决定。",
-          "link": "https://panewslab.com/zh/articledetails/e6j7dhcn.html",
-          "publishedOn": "2024-06-27T16:05:44.000Z",
-          "wordCount": 400,
-          "title": "MegaETH的开发商MegaLabs完成2000万美元种子轮融资，Dragonfly领投，Vitalik等参投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
@@ -342,7 +432,7 @@
           "description": "深潮 TechFlow 消息，Bitget PoolX 上线 Blast（BLAST），质押 BLAST 获得本币收益。截止发稿，当前收益率暂报152.45% APR，该收益率跟随 BLAST总质押量的增长而浮动。",
           "link": "https://www.techflowpost.com/newsletter/detail_51516.html",
           "publishedOn": "2024-06-28T02:02:49.000Z",
-          "wordCount": 501,
+          "wordCount": 506,
           "title": "Bitget PoolX 上线 Blast（BLAST），收益率暂报 152.45% APR",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -352,7 +442,7 @@
           "description": "深潮 TechFlow 消息，据 Dexscreener 行情数据显示，拜登概念 MEME 币 BODEN 现报 0.1054 美元，近 1 小时跌幅 26.35%；\n\n特朗普概念 MEME 币 TRUMP 暂报 8.09 美元，近 1 小时跌幅 11.24%。\n\n此前消息，拜登和特朗普首场大选电视辩论已开始。",
           "link": "https://www.techflowpost.com/newsletter/detail_51515.html",
           "publishedOn": "2024-06-28T02:01:57.000Z",
-          "wordCount": 538,
+          "wordCount": 543,
           "title": "BODEN 近 1 小时跌幅达 26.35%，TRUMP 近 1 小时跌幅 11.24%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -362,7 +452,7 @@
           "description": "深潮 TechFlow 消息，据官方博客消息，StackingDAO 宣布与 Wintermute 达成合作，Wintermute 将通过OTC 购买大量 stSTX 代币。\n\n据悉，Stacking DAO 是基于 Stacks 的流动性质押平台，总锁定价值约为 1.2 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51514.html",
           "publishedOn": "2024-06-28T01:48:15.000Z",
-          "wordCount": 520,
+          "wordCount": 525,
           "title": "StackingDAO 宣布与 Wintermute 达成合作，Wintermute 将通过OTC 购买大量 stSTX 代币",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -372,7 +462,7 @@
           "description": "深潮 TechFlow 消息，dYdX推出 App 内质押功能，此前 $DYDX 持有者需要使用第三方钱包进行质押，而现在用户可以将持有的  $DYDX 发送到在 dYdX Chain 上进行交易的同一钱包地址，并直接在 dYdX 官网参与质押获取收益。根据 Mintscan 显示，用户目前可以通过质押 $DYDX 获得约 14% 的年化收益率，且 USDC 质押奖励会自动分发到用户钱包。\n\n据悉，dYdX 旨在为用户构建生态正向飞轮，用户可通过质押 $DYDX 获得 $USDC 奖励，然后可通过使用 $USDC 在 dYdX 上交易获得 $DYDX 交易奖励，如此循环为用户带来更高的资金效率以及更丰富的收益。",
           "link": "https://www.techflowpost.com/newsletter/detail_51512.html",
           "publishedOn": "2024-06-28T01:28:48.000Z",
-          "wordCount": 551,
+          "wordCount": 556,
           "title": "dYdX 推出 App 内质押功能，质押 $DYDX 年化收益率约 14%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -382,7 +472,7 @@
           "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，BTC 重回 62,000 美元上方，现报 62142.87 美元，24小时涨幅 0.9%。",
           "link": "https://www.techflowpost.com/newsletter/detail_51511.html",
           "publishedOn": "2024-06-28T01:27:24.000Z",
-          "wordCount": 497,
+          "wordCount": 502,
           "title": "行情：BTC 重回 62,000 美元上方",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -392,7 +482,7 @@
           "description": "深潮 TechFlow 消息，拜登和特朗普在 CNN 的关于美国总统选举辩论现已正式开始。",
           "link": "https://www.techflowpost.com/newsletter/detail_51510.html",
           "publishedOn": "2024-06-28T01:18:45.000Z",
-          "wordCount": 476,
+          "wordCount": 481,
           "title": "拜登和特朗普首场大选电视辩论已开始",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -402,7 +492,7 @@
           "description": "深潮 TechFlow 消息，据The Hill报道，拜登竞选团队聘请Keisha Lance Bottoms担任2024年大选高级顾问。Lance Bottoms曾于2018年至2022年担任亚特兰大市长，并于2024年4月加入Coinbase顾问委员会，此前她于2023年辞去白宫顾问职务。Lance Bottoms在拜登竞选期间将不会辞去她在Coinbase全球顾问委员会的职务。Lance Bottoms曾在Stand With Crypto Atlanta活动上表示，加密货币为没有银行账户的社区提供了一个加强金融自由的机会。",
           "link": "https://www.techflowpost.com/newsletter/detail_51509.html",
           "publishedOn": "2024-06-28T00:50:36.000Z",
-          "wordCount": 502,
+          "wordCount": 507,
           "title": "拜登竞选团队聘请 Coinbase 顾问委员会成员担任 2024 年大选高级顾问",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -412,7 +502,7 @@
           "description": "深潮 TechFlow 消息，据 cryptopolitan 报道，玻利维亚中央银行（BCB）于6月26日正式宣布，银行现可进行加密货币交易，废除了自2020年12月实施的144/2020号决议。\n\n此举是在玻利维亚中央银行、金融系统监督管理局（ASFI）及金融调查单位（UIF）合作下作出的调整，以符合拉丁美洲金融行动特别工作组（GAFILAT）的建议。\n\n此外，BCB计划将加密货币相关风险信息纳入其经济金融教育计划，旨在教育公众安全处理加密货币并理解潜在风险。",
           "link": "https://www.techflowpost.com/newsletter/detail_51508.html",
           "publishedOn": "2024-06-28T00:45:36.000Z",
-          "wordCount": 478,
+          "wordCount": 483,
           "title": "玻利维亚解除比特币及其他加密货币禁令",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -422,7 +512,7 @@
           "description": "深潮 TechFlow 消息，风险投资公司Paradigm在回应欧洲证券市场管理局（ESMA）关于加强加密资产市场滥用预防的咨询文件时提交了评论信。ESMA的文件涉及实施《加密资产市场法》（MiCA）的措施，首项措施将于6月30日生效。\n\nParadigm主要反对ESMA对“市场滥用，例如众所周知的最大可提取价值（MEV）”的立场。Paradigm指出，目前尚无公认的方法确定哪些与MEV相关的活动是有害或可疑的，因此要求生态系统监控和预防本质上主观的行为，这将导致应用不一致和意外后果。Paradigm强调，需要对MEV有更清晰的理解，并且进一步指出，监管基础层区块链的微观结构本身就是错误的。",
           "link": "https://www.techflowpost.com/newsletter/detail_51507.html",
           "publishedOn": "2024-06-28T00:28:50.000Z",
-          "wordCount": 479,
+          "wordCount": 484,
           "title": "Paradigm：欧洲监管机构需要对 MEV 的理解更透彻",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -432,7 +522,7 @@
           "description": "深潮 TechFlow 消息，据官方公告显示，Aptos 基金会正在与阿里巴巴云合作，以推动日本及亚太区Web3生态系统的发展。双方共同启动了亚洲首个共同品牌的Move开发者社区“Alcove”，旨在推广Move智能合约编程语言，加速日本链上生态系统的发展。Aptos基金会将利用阿里巴巴云的技术，举办黑客松和教育活动，支持“Alcove Japan”社区中新兴的Web3人才。此举标志着亚洲Web3景观进一步演化的重要里程碑。",
           "link": "https://www.techflowpost.com/newsletter/detail_51506.html",
           "publishedOn": "2024-06-28T00:23:25.000Z",
-          "wordCount": 479,
+          "wordCount": 484,
           "title": "Aptos 基金会正在与阿里巴巴云合作，以推动日本及亚太区Web3生态系统发展",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +532,7 @@
           "description": "深潮 TechFlow 消息，据The Block报道，一只拟议的ETF于周四提交了招股说明书，旨在让交易者和投资者无需购买任何一种资产即可同时投资比特币和黄金。STKD STKD Bitcoin&Gold ETF由Tidal Investments和Quantify Chaos Advisors共同推出，旨在通过比特币期货和ETF以及黄金期货和ETF同时提供比特币和黄金敞口。\n\n根据招股说明书，通过混合低相关性的资产，该基金旨在减少短期市场波动对整体投资结果的影响，可能提供更稳定的投资收益。该ETF将使用杠杆，不会直接投资于比特币或其他数字资产，也不会直接投资于黄金或金条。文件指定该ETF的生效日期为2024年9月9日，但未包括股票代码或任何相关费用。",
           "link": "https://www.techflowpost.com/newsletter/detail_51505.html",
           "publishedOn": "2024-06-28T00:16:54.000Z",
-          "wordCount": 505,
+          "wordCount": 510,
           "title": "一只拟议的比特币与黄金混合 ETF 或将于今年 9 月 9 日推出",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +542,7 @@
           "description": "深潮 TechFlow 消息，去中心化预言机网络开发商 AnchorZero 宣布完成 800 万美元种子轮融资，Bain Capital Crypto 和 Spark Capital 领投，Ethereal Ventures、Robot Ventures、Mischief Fund、Pascal Capital、以及 Sarah Meyohas 参投，具体估值信息暂未披露。\n\n据悉，AnchorZero 是一家专门开发去中心化跨链预言机网络的区块链技术公司，为智能合约提供安全可靠的喂价数据服务，允许在多个平台上访问智能合约的外部数据。此外，他们还提供 Web3 税务规划解决方案。",
           "link": "https://www.techflowpost.com/newsletter/detail_51504.html",
           "publishedOn": "2024-06-28T00:09:54.000Z",
-          "wordCount": 540,
+          "wordCount": 545,
           "title": "去中心化跨链预言机 AnchorZero 完成 800 万美元种子轮融资，Bain Capital 和 Spark Capital 领投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +552,7 @@
           "description": "深潮 TechFlow 消息，ETF分析师Henry Jim在社交平台发文称，21Shares向美国SEC提交了以太坊现货ETF证券注册申请（8-A12B表格）。\n\n8-A表格文件的提交意味着发行人一旦产品获批即可在交易所交易。",
           "link": "https://www.techflowpost.com/newsletter/detail_51503.html",
           "publishedOn": "2024-06-28T00:08:09.000Z",
-          "wordCount": 490,
+          "wordCount": 495,
           "title": "21Shares 已向 SEC 提交以太坊现货 ETF 注册申请",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +562,7 @@
           "description": "深潮 TechFlow 消息，据 The Block 报道，MegaETH 开发商 MegaLabs 近日宣布完成 2000 万美元的种子轮融资，投资方包括 Dragonfly、以太坊联合创始人 Vitalik Buterin、Joseph Lubin 等知名人士。此次融资使 MegaETH 的完全稀释代币估值达到至少 1 亿美元。\n\nMegaLabs 由 ConsenSys 前全球业务开发主管 Kong 和拥有斯坦福大学计算机科学博士学位的 Yilong Li 于 2023 年初创立。MegaETH 自称为第一个完全兼容以太坊的实时区块链，能够在交易到达后立即处理并实时发布结果更新，计划在今年秋季推出公测网，并在年底前上线主网。",
           "link": "https://www.techflowpost.com/newsletter/detail_51502.html",
           "publishedOn": "2024-06-27T16:18:01.000Z",
-          "wordCount": 541,
+          "wordCount": 546,
           "title": "MegaLabs 完成 2000 万美元种子轮融资，Dragonfly 领投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
