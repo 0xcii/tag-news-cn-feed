@@ -6,12 +6,42 @@
       "siteUrl": "https://www.web3sj.com",
       "articles": [
         {
+          "id": "https://www.web3sj.com/?p=116091",
+          "author": "Gao",
+          "description": "现在以太坊的 Gasper 共识采用 slot 和 epoch 架构。每隔 12 秒（单个 slot 的时长），验证者子集会在区块链的最新区块上发布投票，在 32 个 slot（6.4 分钟，一个 epoch 包含 32 个 slot）内，所有验证者都有机会投票一次。",
+          "link": "https://www.web3sj.com/news/116091/",
+          "publishedOn": "2024-07-01T07:13:35.000Z",
+          "wordCount": 1179,
+          "title": "Vitalik新作：如何缩短以太坊的交易确认时间？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1719817997099.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=116086",
+          "author": "Gao",
+          "description": "这个想法是尽可能多地问自己问题，以清楚地定义每个部分的功能及其限制。这也是为什么会有新的初创公司被创建，为了解决现有解决方案的问题。",
+          "link": "https://www.web3sj.com/transaction/116086/",
+          "publishedOn": "2024-07-01T07:10:46.000Z",
+          "wordCount": 898,
+          "title": "加密投研方法论：拆开大叙事，再重新组装起来",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1719817830880.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=116073",
+          "author": "Gao",
+          "description": "扩展解决方案是一种旨在提高区块链网络容量和效率的技术，以处理更高交易量的设计。扩展解决方案的主要目标是增加网络的吞吐量，即每秒交易数（TPS），同时保持或改进安全性、去中心化和成本效益。",
+          "link": "https://www.web3sj.com/project/116073/",
+          "publishedOn": "2024-07-01T06:55:14.000Z",
+          "wordCount": 1030,
+          "title": "以太坊与Solana，哪家ZK技术更强？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1719816650106.png"
+        },
+        {
           "id": "https://www.web3sj.com/?p=116066",
           "author": "Gao",
           "description": "谈论冲突或许听起来并不乐观，但这恰恰揭示了这种亚文化是如何复制过去（以及现在）的宗教冲突的。如果说加密货币是一种宗教，那么它便是一种以货币、金融和商业革命为核心信仰的宗教。在这个宗教中，神祇是可以被替代的，叙事是灵活的，金融预期则是可扩展的。",
           "link": "https://www.web3sj.com/news/116066/",
           "publishedOn": "2024-07-01T06:08:56.000Z",
-          "wordCount": 884,
+          "wordCount": 889,
           "title": "加密货币：乐观者的革命盛宴，草根也能逆天改命",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1719814111367.png"
         },
@@ -21,7 +51,7 @@
           "description": "根据大多数可衡量的数据点来看，BTC ETF 取得了巨大成功。迄今为止，我们看到了大约 150 亿美元的净流入，涉及约 26 万枚 BTC。这些 ETF 的交易量也非常惊人，11 种 ETF 产品自今年 1 月初开始交易以来，累计交易量达到了 3000 亿美元。",
           "link": "https://www.web3sj.com/news/116057/",
           "publishedOn": "2024-07-01T05:56:50.000Z",
-          "wordCount": 1088,
+          "wordCount": 1085,
           "title": "以太坊ETF与比特币ETF有什么不同？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1719813388962.png"
         },
@@ -31,7 +61,7 @@
           "description": "Story Protocol 一直尝试解决「版权保护、版税分红、数据隐私」等问题，眼下随着生成式 AI 的繁荣，可编程 IP 层的需求也愈发刚性了，为什么？",
           "link": "https://www.web3sj.com/news/116048/",
           "publishedOn": "2024-07-01T04:12:25.000Z",
-          "wordCount": 909,
+          "wordCount": 920,
           "title": "生成式AI繁荣，Story Protocol可编程IP层将迎来春天？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1719807128457.png"
         },
@@ -41,7 +71,7 @@
           "description": "Lake 放弃了成功的房地产律师生涯，经营着一家拥有五个分支机构的律师事务所，开始开拓电子竞技的新领域，当时很少有人理解这个词的含义，2003 年，他用自己的钱创办了 Complexity Gaming，这是一家专业游戏公司。",
           "link": "https://www.web3sj.com/gamefinews/116042/",
           "publishedOn": "2024-07-01T03:58:33.000Z",
-          "wordCount": 1057,
+          "wordCount": 1012,
           "title": "电竞巨头Complexity进军Web3游戏，一文解读其前世今生",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/93ae5e6675296bc712a9ecc4efdac2ff.png"
         },
@@ -51,7 +81,7 @@
           "description": "SEC 表示，Consensys「将自己定位为买卖加密资产（包括加密资产证券）的场所，推荐具有『最佳』价值的交易（正如 Consensys 自己所说的那样），接受投资者订单，路由投资者订单，处理客户资产，代表客户执行交易参数和指令，并获得基于交易的报酬。」",
           "link": "https://www.web3sj.com/news/116036/",
           "publishedOn": "2024-07-01T03:47:35.000Z",
-          "wordCount": 1043,
+          "wordCount": 1028,
           "title": "Consensys被起诉，美SEC再拿质押「开刀」",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1719805630801.png"
         },
@@ -61,7 +91,7 @@
           "description": "本文将探讨 Vitalik Buterin（以太坊创始人）的净资产及其随时间的波动情况。我们将研究这位以太坊联合创始人已知的加密货币持有量，并与其他顶级 ETH 持有者以及其他以太坊联合创始人的持有量进行比较。此外，还将审视 Buterin 可能的其他财富来源，并提供这些财富的规模背景。",
           "link": "https://www.web3sj.com/news/116021/",
           "publishedOn": "2024-07-01T03:40:25.000Z",
-          "wordCount": 1457,
+          "wordCount": 1425,
           "title": "Vitalik Buterin和以太坊联合创始人资产分析：他们到底拥有多少财富？",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/ab1c339eb46fa708e3565409306c5c1f.png"
         },
@@ -71,39 +101,9 @@
           "description": "WORLD3虽然是国人项目，但是目前看不算太卷，反正免费0撸，做点积分就当摸奖了！",
           "link": "https://www.web3sj.com/show/116018/",
           "publishedOn": "2024-07-01T03:34:46.000Z",
-          "wordCount": 786,
+          "wordCount": 799,
           "title": "【不卷空投】550万美金融资WORLD3游戏生态,空投任务教程",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/2024070103315997.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=116010",
-          "author": "Gao",
-          "description": "数据：比特币周末交易量降至总交易量的16%。Kingsway Capital：迄今为止其持有量最大的代币是TON。Vitalik：加密监管已造成“无政府暴政”，诚信的加密开发人员被逼入绝境。",
-          "link": "https://www.web3sj.com/news/116010/",
-          "publishedOn": "2024-06-30T11:54:51.000Z",
-          "wordCount": 854,
-          "title": "Web3世界日报（2024-6.30）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2024063011530029.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=115996",
-          "author": "Gao",
-          "description": "在 Sonic 第二个提案中提到，希望通过空投来激励 Fantom Opera 用户和 Sonic 的新用户。空投积分活动预计将会持续 6 个月以上。空投目标是激励 Opera 和 Sonic 生态系统的活动、应用程序收入和 Gas 费收入，以推动 TVL 的增长。",
-          "link": "https://www.web3sj.com/project/115996/",
-          "publishedOn": "2024-06-29T12:05:06.000Z",
-          "wordCount": 1034,
-          "title": "关于FTM和S 1:1转换的一些细节阐述",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/2f416542-79aa-44d6-8ec7-e34edbcca52b_3500x1961.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=115987",
-          "author": "Gao",
-          "description": "可预测性能是指为 DApp 提供可预测的 TPS，这对于某些业务场景的 DApps 至关重要。部署在公链上的 DApp，在一般情况下，必须与其他 DApps 竞争区块链的计算能力与储存空间，因此在网络拥堵的情况下，会对业务运行上带来比较高的交易执行成本和交易时延，极大地制约了 DApp 的快速发展。",
-          "link": "https://www.web3sj.com/news/115987/",
-          "publishedOn": "2024-06-29T11:53:29.000Z",
-          "wordCount": 1063,
-          "title": "DApp的可预测性能：从应用链到弹性区块空间",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/06/1719661986654.png"
         }
       ]
     },
@@ -118,7 +118,7 @@
           "description": "PANews 7月1日消息，关于“LayerZero疑出现严重漏洞”一闻，LayerZero Labs联合创始人兼首席执行官Bryan Pellegrino在X平台回应称：“这一指控完全是毫无根据的。首先，提到的代码是2022年推送的，且均属于应用配置而非协议配置。有效负载大小限制是应用安全配置的一部分，用于设置DVNs。即便在最新版本中，应用程序也可覆盖此限制。若应用程序无法覆盖该配置，LayerZero可以通过将‘有效负载限制’设为0来阻止应用消息传递，但这与协议设计原则相悖。”\n他进一步指出：“如之前回应所述，通过分叉并测试来验证这一漏洞是行不通的。若真能实现，那也只是某个应用程序的特殊设置，类似于以太坊上某些应用编写错误的合约配置。这并非漏洞，而是协议设计的一部分。任何将此类配置铭刻在协议中的消息传递协议，都应具备审查任何应用程序的能力。两者紧密相连，不可分割。”LayerZero Labs强调其技术的稳健性，并坚信审查抵抗技术轨道的可靠性。",
           "link": "https://panewslab.com/zh/articledetails/d0509qi1.html",
           "publishedOn": "2024-07-01T03:27:47.000Z",
-          "wordCount": 372,
+          "wordCount": 377,
           "title": "LayerZero CEO否认漏洞传闻：所指应用配置并非漏洞，而是协议设计的一部分",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -128,7 +128,7 @@
           "description": "PANews 7月1日消息，据官方消息，美国风险投资公司Kleiner Perkins宣布设立第二十一支风险投资基金KP21，这是一支8.25亿美元的基金，用于支持初创公司；此外，该公司还设立了第三支精选基金KP Select III，这是一支12亿美元的基金，用于支持高影响力投资。\n该公司在新闻稿中表示：“有了这些新基金，我们团队对企业软件、消费者、医疗保健、金融科技和硬科技的关注保持不变。每个领域都将因人工智能而得到极大的加速。医疗保健、法律、金融等需要人类进行低级工作且软件采用速度较慢的行业将迅速转型。新的体验和计算需求将为硬件和物理基础设施带来机会。如今，想象力是制约技术未来的因素。”\n此前，Kleiner Perkins曾投资NFT平台Autograph、加密交易所Rain Financial、NFT认证公司Optic、生成式AI初创公司Together等。",
           "link": "https://panewslab.com/zh/articledetails/tptnsucz.html",
           "publishedOn": "2024-07-01T03:20:52.000Z",
-          "wordCount": 368,
+          "wordCount": 372,
           "title": "Kleiner Perkins推出规模分别为8.25亿美元和12亿美元的两只新基金",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 7月1日消息，Token.unlocks数据显示，自7月24日起，WLD将迎来大额线性解锁，每日解锁达662万枚WLD代币（约1694万美元），解锁将持续730天。解锁包括社区解锁、初始开发团队解锁及投资人解锁。",
           "link": "https://panewslab.com/zh/articledetails/wpslfuhi.html",
           "publishedOn": "2024-07-01T03:05:18.000Z",
-          "wordCount": 343,
+          "wordCount": 347,
           "title": "WLD将从7月24日起迎来大额线性解锁，730天每天解锁662万枚",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 7月1日消息，据Coinpost报道，运营加密货币交易服务“WhaleFin”的Amber Japan Co., Ltd.于2024年7月1日将公司名称更改为S.BLOX Co., Ltd.。它于2022年2月被新加坡做市商Amber Group的子公司收购，随后于2023年8月被索尼集团全资子公司Quetta Web Co., Ltd.收购。\n“WhaleFin”计划未来进行更新，计划进行以下改进：1.UI屏幕重新设计；2.新应用程序发布；3.支持的货币和功能的扩展。\n此前消息，索尼集团已收购Amber Group旗下日本加密交易平台Amber Japan。",
           "link": "https://panewslab.com/zh/articledetails/kd4kvq4l.html",
           "publishedOn": "2024-07-01T02:53:57.000Z",
-          "wordCount": 393,
+          "wordCount": 412,
           "title": "索尼此前从Amber Group处收购的Amber Japan今日起更名为S.BLOX",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -158,7 +158,7 @@
           "description": "PANews 7月1日消息，Greeks.live宏观研究员Adam在X平台发文表示，本周是宏观大周，最核心的是周五的美国失业率与非农数据，沉寂多日的宏观市场卷土重来，每个工作日都有重要宏观事件。加密方面，本周SEC大概率会对ETH ETF给出回应，虽然直接通过的可能性不大，但是利好消息是大概率的。季度交割刚结束，各主要期限IV都很低，是建仓是的好机会。\n关于加密市场展望，加密货币市场经历了艰难的一个月，今年自三月中旬进入调整后，BTC和ETH大多数时间都是在震荡下降，加密市场较为低迷。目前整体IV处于较低水平，季度大交割释放的保证金会逐渐回到市场，择时选择较低的IV可以建仓买单了。关于加密利率市场方面，Bitfinex利率市场较为安静，偶有不错的利率订单，遇到合适的利率订单可以积极成交。",
           "link": "https://panewslab.com/zh/articledetails/2elozm74.html",
           "publishedOn": "2024-07-01T02:44:57.000Z",
-          "wordCount": 351,
+          "wordCount": 355,
           "title": "Greeks.live：本周是宏观大周，季度交割结束系加密投资者建仓是的好机会",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -168,7 +168,7 @@
           "description": "PANews 7月1日消息，据币安行情显示，24小时涨幅排名靠前的几个代币为：ENS现报32.52美元，24小时涨幅为28.59%；ZRO现报3.47美元，24小时涨幅为27.38%；UNFI现报4.99美元，24小时涨幅为17.03%；BNX现报0.8357美元，24小时涨幅为16.51%；BOND现报2.51美元，24小时涨幅为15.48%。",
           "link": "https://panewslab.com/zh/articledetails/xn2oz215.html",
           "publishedOn": "2024-07-01T02:39:04.000Z",
-          "wordCount": 352,
+          "wordCount": 356,
           "title": "行情：ENS 24小时涨幅达28.59%，ZRO 24小时涨幅达27.38%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -178,7 +178,7 @@
           "description": "PANews 7月1日消息，据CryptoGlobe报道，知名宏观投资者、Real Vision和Global Macro Investor的首席执行官Raoul Pal在其YouTube频道上宣布，他个人持有的加密货币中，有90%投资于Solana（SOL）。帕尔解释道，尽管SOL价格波动较大，但它表现出了非凡的韧性。\n他指出，Solana发行低成本NFT的能力和快速的交易速度，是确立其作为领先区块链技术的关键因素。Pal还强调了在市场活跃期进行投资的重要性。他提到，Coinbase上的SOL/USD日线图显示出一种上升楔形模式。随着近期波动性的降低，Solana可能会迎来与比特币过去表现类似的上涨趋势。",
           "link": "https://panewslab.com/zh/articledetails/uc93ih6z.html",
           "publishedOn": "2024-07-01T02:26:48.000Z",
-          "wordCount": 370,
+          "wordCount": 374,
           "title": "Raoul Pal称其个人加密货币投资组合中的90%投资于SOL",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -188,7 +188,7 @@
           "description": "PANews 7月1日消息，据Bitcoin.com报道，夏威夷州商务部和消费者事务部以及夏威夷技术发展公司（HTDC）周五宣布，该州的监管沙盒——数字货币创新实验室（DCIL）于6月30日结束。DCIL是一个为期两年的试点计划，允许参与的数字货币公司在夏威夷运营而无需州货币传输许可。该项目的结束意味着，这些公司在夏威夷开展业务将不再需要此许可，但仍需遵守联邦的许可、注册要求及消费者保护和反洗钱法规。\n共有11家公司参与了这一沙盒计划，包括Apex Crypto、Bitflyer USA等，它们将在7月1日至12月30日之间过渡。值得注意的是，曾申请破产保护的Blockfi也在其中。\n在此之前，夏威夷州的加密公司必须获得货币传输许可才能运营。沙盒计划的结束标志着夏威夷对数字货币公司的监管政策有了新的调整。",
           "link": "https://panewslab.com/zh/articledetails/5zluhxcc.html",
           "publishedOn": "2024-07-01T02:06:46.000Z",
-          "wordCount": 357,
+          "wordCount": 369,
           "title": "夏威夷完成监管沙盒，加密公司不再需要州内货币传输许可",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -198,7 +198,7 @@
           "description": "PANews 7月1日消息，据链上分析师@ai_9684xtpa监测，过去四小时新地址0x6a5...5c9C0已从Coinbase累计转出6215枚ETH，价值2121万美元，平均转出价格3414美元。",
           "link": "https://panewslab.com/zh/articledetails/kz96f4p6.html",
           "publishedOn": "2024-07-01T01:53:35.000Z",
-          "wordCount": 344,
+          "wordCount": 357,
           "title": "某新地址近4小时从Coinbase累计转出6215枚ETH，价值2121万美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -208,7 +208,7 @@
           "description": "PANews 7月1日消息，OP_CAT支持者、Taproot Wizards首席执行官Udi Wertheimer在参加Xverse播客节目时表示，OP_CAT被激活概率“接近100%”。\n据悉，OP_CAT功能由Ethan Heilman和Armin Sabouri于去年10月提出，今年5月初在比特币测试网络Signet上推出，并被分配BIP-420编号。OP_CAT可以实现多个UTXO解锁脚本字节串的组合连接处理，可以提升BTC主网的可编程特性，程序扩展性以及链上验证计算复杂性。\n相关阅读：被热议的新提案OP_CAT，将如何改变BTC生态？",
           "link": "https://panewslab.com/zh/articledetails/5r70b09u.html",
           "publishedOn": "2024-07-01T01:52:01.000Z",
-          "wordCount": 370,
+          "wordCount": 376,
           "title": "Taproot Wizards CEO：OP_CAT被激活概率“接近100%”",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -218,7 +218,7 @@
           "description": "PANews 7月1日消息，据Cointelegraph报道，2021年因GameStop逼空大战而知名的股票交易者Keith Gill，近期因一系列社交媒体帖子导致GameStop（GME）股票价格在5月至6月间剧烈波动，面临一起集体诉讼中的证券欺诈指控。然而，一位前联邦检察官认为这起诉讼很可能注定失败。\n6月28日，该诉讼在纽约东区提起，指控Gill自5月13日起通过社交媒体策划“拉高出货”计划，未能充分披露其GameStop期权交易情况，误导追随者并导致投资者损失。原告Martin Radev表示因“拉高出货”行为受损。Gill在5月13日结束两年社交媒体沉寂后发帖引发股价飙升，6月2日又在Reddit上披露大量持仓，再次推高股价，并透露已行使全部看涨期权实现数百万美元收益。诉状指控Gill未能提前披露出售期权意图，误导市场并导致投资者损失。\n但前联邦检察官Eric Rosen认为，该诉讼从一开始就注定失败，因为指控Gill应披露出售期权意图在法庭上站不住脚，且原告只是试图从Gill帖子对价格的影响中获利，而非帖子内容。Rosen表示，证明欺诈需证明欺诈者已彻底撒谎或故意隐瞒重要信息，而Gill的社交媒体帖子并非包含可证明或反驳的信息的陈述。",
           "link": "https://panewslab.com/zh/articledetails/yk4wbbqz.html",
           "publishedOn": "2024-07-01T01:45:17.000Z",
-          "wordCount": 360,
+          "wordCount": 364,
           "title": "Keith Gill因GameStop交易活动在集体诉讼中面临欺诈指控，但前检察官称诉讼“注定失败”",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -228,7 +228,7 @@
           "description": "索尼集团已收购Amber Group旗下日本加密交易平台Amber Japan\n据吴说报道，日本最大的公司之一Sony Group(索尼集团)已收购Amber Japan，金额为数十亿日元。新加坡做市商Amber Group曾于2022年初收购日本受监管的加密货币交易平台DeCurret 并更名为Amber Japan。后续由于FTX暴雷，Amber Group陷入困境并疑似与分布式完全债转股交易。Amber Group投资者包括淡马锡 红杉中国Pantera Tiger Coinbase等。 Yijin Li已辞任Amber Japan公司代表，Jun Watanabe作为Sony Network Communications Inc.主席担任收购后的公司代表。\nVitalik发文《深入slot-and-epoch构架，为以太坊用户提供更快交易确认时间的方法》\n以太坊联合创始人Vitalik Buterin发文《深入slot-and-epoch构架，为以太坊用户提供更快交易确认时间的方法》。文章称，尽管与五年前相比，得益于EIP-1559与合并后的稳定区块时间，以太坊L1上的交易确认时间已缩短至5-20秒，与信用卡支付体验相当，但进一步缩减延迟仍具重要价值，尤其是对于那些要求几百毫秒甚至更少延迟的应用。\nButerin强调，slot-and-epoch架构显然是正确的，但并非所有slot-and-epoch架构都平等。他提倡更全面地探索设计空间，特别是那些在这两种机制之间有更强关注点分离的选项，以降低交易确认时间，提升用户体验。Buterin表示，L2目前可采取三种策略：一是技术和精神层面都基于以太坊，优化自身以传递以太坊的技术特性和价值观；二是作为“带有区块链Scaffold的服务器”，通过添加有效性证明、保障用户权利等机制，充分利用服务器效率的同时获得链上的好处；三是…",
           "link": "https://panewslab.com/zh/articledetails/b3jlet17.html",
           "publishedOn": "2024-07-01T01:35:25.000Z",
-          "wordCount": 656,
+          "wordCount": 667,
           "title": "昨夜今晨重要资讯（6月30日-7月1日）",
           "imageUrl": "https://cdn-img.panewslab.com/panews/2024/07/01/images/zzaH7K9VT1.png"
         },
@@ -238,7 +238,7 @@
           "description": "PANews 7月1日消息，欧易OKX行情显示，以太坊短时突破3500美元，现报3497.35美元，日内涨幅2.86%。",
           "link": "https://panewslab.com/zh/articledetails/6g908q2o.html",
           "publishedOn": "2024-07-01T01:30:30.000Z",
-          "wordCount": 349,
+          "wordCount": 353,
           "title": "以太坊短时突破3500美元，目前日内涨幅达2.86%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -248,7 +248,7 @@
           "description": "PANews 7月1日消息，据Cointelegraph报道，随着美国总统竞选的升温，去中心化预测市场平台Polymarket的6月份交易量达到1亿美元，创历史记录。\n现在，关于谁将赢得美国总统大选的赌注价值超过2亿美元，现在距离大选只有四个月。",
           "link": "https://panewslab.com/zh/articledetails/kb4bty1t.html",
           "publishedOn": "2024-07-01T01:28:44.000Z",
-          "wordCount": 349,
+          "wordCount": 353,
           "title": "Polymarket 6月份交易量达1亿美元创历史记录，或由美国总统竞选升温所推动",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -258,7 +258,7 @@
           "description": "PANews 7月1日消息，据 Beosin Alert 监控及预警显示，2024 年上半年 Web3 领域因黑客攻击、钓鱼诈骗和项目方 Rug Pull 造成的总损失达到了 15.4 亿美元。其中主要攻击事件 78 起，总损失金额约 11.93 亿美元；项目方 Rug Pull 事件 64 起，总损失约 1.19 亿美元；钓鱼诈骗总损失金额约 2.32 亿美元。\n2024 上半年共发生 3 起损失金额超过 1 亿美元的安全事件。5 月的总损失金额达到了 4.5 亿美元，为 2024 年上半年损失金额最高的月份。\n从被攻击项目类型来看，损失最高的项目类型为 CEX，4 次针对 CEX 的攻击共造成了约 3.92 亿美元的损失，占所有攻击损失金额的 32.8%。\n从各链损失金额来看，Ethereum 依旧为损失金额最高、攻击事件最多的链。32 次 Ethereum 上的攻击事件造成了 4.7 亿美元的损失，占到了总损失的 39.4%。\n从攻击手法来看，上半年共发生 22 次私钥泄露事件，造成损失达到了 8.94 亿美元，约占总攻击损失金额的 75%，是占比最高的攻击类型。\n从资金流向来看，约有 4.7 亿美元（39.3%）被盗资金被冻结或追回。该比例较 2023 年有了显著提升。\n上半年 78 起攻击事件中，依然有 43 起来自合约漏洞利用，建议项目方在上线前寻求专业的安全公司进行审计。",
           "link": "https://panewslab.com/zh/articledetails/sos5gp71.html",
           "publishedOn": "2024-07-01T01:18:38.000Z",
-          "wordCount": 498,
+          "wordCount": 504,
           "title": "Beosin：2024年上半年Web3领域因黑客攻击等造成的总损失达15.4亿美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "PANews 7月1日消息，据央视新闻7月1日消息，当地时间6月30日，美国哥伦比亚广播公司和民调机构YouGov联合进行的一份民意调查结果显示，近一半（46%）的民主党选民认为美国现任总统拜登不应该继续参加11月即将举行的美国总统大选，这一数字较今年2月份上升了10个百分点。与此同时，仍然有54%的民主党选民表示拜登应该继续参选。\n据悉，这一民意调查是在6月28日至29日期间对1130名登记选民进行的，美国总统拜登和前总统特朗普于6月27日晚举行了第一场电视辩论，拜登在辩论中的不稳定表现引发部分民主党人对拜登是否应继续参与总统竞选的担忧。\n另据参考消息援引美国有线电视新闻网网站6月29日报道，在与美国前总统特朗普对垒的辩论中，美国总统拜登的糟糕表现在全世界引发震动，外国外交官们表达了震惊和担忧。如果特朗普再度当选总统，这场美国选举可能颠覆外交政策现状。据参考消息援引美国有线电视新闻网网站6月28日发表的文章，现在最重要的人物是副总统卡玛拉·哈里斯。一直备受关注和批评的哈里斯是唯一能在此时拯救拜登的候选人资格的重要人物。",
           "link": "https://panewslab.com/zh/articledetails/c79v64kk.html",
           "publishedOn": "2024-07-01T01:17:00.000Z",
-          "wordCount": 346,
+          "wordCount": 350,
           "title": "美国最新民调：近一半民主党选民认为，拜登不应继续参加总统竞选",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -278,7 +278,7 @@
           "description": "PANews 7月1日消息，RootData数据显示，2024年6月加密市场总融资额为6.88亿美元，较2023年6月的5.1亿美元增长35%，较2024年5月的10.2亿美元下降32.5%。此外，2024年6月份融资数量为91笔，环比下降35.4%。以赛道融资总额来看，前三的赛道分别是其他类别、Cefi和Defi。",
           "link": "https://panewslab.com/zh/articledetails/8hrxkp1i.html",
           "publishedOn": "2024-07-01T01:02:07.000Z",
-          "wordCount": 344,
+          "wordCount": 348,
           "title": "6月加密市场总融资额为6.88亿美元，环比下降32.5%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -288,7 +288,7 @@
           "description": "PANews 7月1日消息，据Crypto Potato报道，Cryptoslam数据显示，与2024年第一季度相比，第二季度NFT市场的月交易量显著减少，销售量环比下降了45%。2024年第一季度，NFT市场的总销售量超过41亿美元，较2023年第一季度的29亿美元大幅增长。然而，在2024年第二季度，NFT交易量出现了显著下滑，季度交易量约为22.8亿美元，为2023年第三季度以来的最低水平。据分析，比特币市场的持续动荡是导致NFT交易量下降的主要原因。\n此外，6月份NFT的平均售价也大幅下降，从3月份的193美元跌至78美元，降幅达60%，截至6月28日，销售量约为4.19亿美元，6月份有望成为自2023年10月以来销售量最低的月份。而5月份的销售量略高于6.16亿美元，较4月份的12亿美元下降了50%以上。不仅是销售量在下降，其他指标如卖家和买家数量也在下降。第一季度有约2,238,925名卖家，买家数量为3,316,014名。第二季度，卖家和买家的数量分别为1,785,367名和3,300,566名，较第一季度略有下降。\n值得注意的是，尽管NFT市场面临挑战，但在2024年仍取得了显著里程碑，如基于Solana的NFT总销售量在2月23日突破了50亿美元，此外，本月早些时候，且基于比特币的NFT在全时销售量上攀升至第三位，超越了Ronin网络。",
           "link": "https://panewslab.com/zh/articledetails/w13tr0cw.html",
           "publishedOn": "2024-07-01T00:54:26.000Z",
-          "wordCount": 365,
+          "wordCount": 369,
           "title": "今年第二季度NFT总销售量环比下降45%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -298,7 +298,7 @@
           "description": "PANews 7月1日消息，据链上分析师余烬监测，Arkham标注为Abraxas Capital的巨鲸地址在过去的15个小时里一共从Bitfinex提出了6万枚ETH (约合2.0306亿美元)。\n然后这些ETH被存入了Spark作为抵押品铸造借出了1.01亿DAI，在链上兑换成1.01亿USDC后转入币安。\n余烬估计，此交易行为疑似系该巨鲸想要在ETH上加杠杆，或是借出这些稳定币用于投资其它币种。",
           "link": "https://panewslab.com/zh/articledetails/v092uz0i.html",
           "publishedOn": "2024-07-01T00:43:48.000Z",
-          "wordCount": 355,
+          "wordCount": 368,
           "title": "Abraxas Capital近15小时共从Bitfinex提出6万枚ETH，并存入Spark作为抵押品借款",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "PANews 7月1日消息，据吴说报道，日本最大的公司之一Sony Group(索尼集团)已收购Amber Japan，金额为数十亿日元。新加坡做市商Amber Group曾于2022年初收购日本受监管的加密货币交易平台DeCurret 并更名为Amber Japan。Amber Group投资者包括淡马锡 红杉中国Pantera Tiger Coinbase等。\nYijin Li已辞任Amber Japan公司代表，Jun Watanabe作为Sony Network Communications Inc.主席担任收购后的公司代表。",
           "link": "https://panewslab.com/zh/articledetails/cueeax3v.html",
           "publishedOn": "2024-07-01T00:37:30.000Z",
-          "wordCount": 396,
+          "wordCount": 419,
           "title": "索尼集团已收购Amber Group旗下日本加密交易平台Amber Japan",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
@@ -319,6 +319,76 @@
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202407/22467.html",
+          "author": null,
+          "description": "日本上市公司Metaplanet在X平台称，额外购买20.20枚BTC。",
+          "link": "https://www.hellobtc.com/news/202407/22467.html",
+          "publishedOn": "2024-07-01T06:25:00.000Z",
+          "wordCount": 306,
+          "title": "日本上市公司Metaplanet再次增持20.20枚BTC",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202407/22466.html",
+          "author": null,
+          "description": "马斯克表示，XAI的GROK 2大模型将于八月推出。",
+          "link": "https://www.hellobtc.com/news/202407/22466.html",
+          "publishedOn": "2024-07-01T04:57:00.000Z",
+          "wordCount": 314,
+          "title": "马斯克：XAI的GROK 2大模型将于八月推出",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202407/22465.html",
+          "author": null,
+          "description": "The Data Nerd监测，在将30,000枚ETH质押到Spark后，该鲸鱼从Spark借入了5100万DAI，并换成了5200万USDC，然后将所有USDC 存入Binance。通过这种做法，他从Binance提取另外30,000枚ETH（约合1.017亿美元）。",
+          "link": "https://www.hellobtc.com/news/202407/22465.html",
+          "publishedOn": "2024-07-01T04:57:00.000Z",
+          "wordCount": 308,
+          "title": "此前质押3万枚ETH的巨鲸从Binance提取3万枚ETH",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202407/22464.html",
+          "author": null,
+          "description": "Nansen首席执行官Alex Svanevik在X平台发文称，Base 采取的非常明智的举措是在以太坊上构建 L2，可以利用加密货币领域最强大的开发生态系统，以及Coinbase上1 亿以上终端用户分布。从品牌角度来看，Base对开发者来说高度“以太坊化”， 远比 BNB Chain 等更甚，后者在历史上吸引的开发者较少。大多数其他区块链必须在开发者或终端用户之间做出选择，但Base可能是目前在开发者和终端用户之间平衡最好的L2。",
+          "link": "https://www.hellobtc.com/news/202407/22464.html",
+          "publishedOn": "2024-07-01T04:57:00.000Z",
+          "wordCount": 314,
+          "title": "Nansen CEO：Base可能是目前在开发者和终端用户之间平衡最好的L2",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202407/22463.html",
+          "author": null,
+          "description": "7月1日消息，LayerZero首席执行官Bryan Pellegrino发推回应代码质疑，称这些指控毫无依据。其表示，社区所引用的代码于2022年发布，且这些配置是应用程序的安全配置，而非协议配置。即使在最新版本中，应用程序仍可覆盖此限制，防止 LayerZero 通过配置负载限制为0来阻止消息传递。这不是漏洞，而是协议的设计原则，旨在确保技术轨道的抗审查性。",
+          "link": "https://www.hellobtc.com/news/202407/22463.html",
+          "publishedOn": "2024-07-01T04:57:00.000Z",
+          "wordCount": 314,
+          "title": "LayerZero CEO回应代码质疑：非漏洞，而是协议的设计原则",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202407/22462.html",
+          "author": null,
+          "description": "Greeks.live发文称，本周是宏观大周，最核心的是周五的美国失业率与非农数据，沉寂多日的宏观市场卷土重来，每个工作日都有重要宏观事件。 加密方面，本周SEC大概率会对ETH ETF给出回应，虽然直接通过的可能性不大，但是利好消息是大概率的。季度交割刚结束，各主要期限IV都很低，是建仓是的好机会。 本周重磅事件： 7/1 周一 * 美国6月ISM制造业PMI 7/2 周二 * 美联储主席鲍威尔、欧洲央行行长拉加德和巴西央行行长内托在欧洲央行举行的中央银行论坛上发表讲话。 澳洲联储公布6月货币政策会议纪要 7/3 周三 ** 美国6月ADP就业人数 美国当周初请失业金人数 7/4 周四 ** 美联储公布货币政策会议纪要 英国举行大选 欧洲央行公布6月货币政策会议纪要 美国SEC或最早于今日批准以太坊现货ETF 7/5 周五 *** 美国6月失业率 美国6月非农就业人口",
+          "link": "https://www.hellobtc.com/news/202407/22462.html",
+          "publishedOn": "2024-07-01T04:56:00.000Z",
+          "wordCount": 336,
+          "title": "本周重点关注宏观数据与SEC对ETH ETF的回应",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202407/22461.html",
+          "author": null,
+          "description": "GMP看涨期权持有者Martin Radev通过其代理律师事务所Pomerantz于6月28日在纽约东区向Roaring Kitty提起诉讼，指控其从5月13日起通过一系列社交媒体帖子策划哄抬股价并抛售计划。 前联邦检察官、Dynamis LLP律师事务所创始合伙人Eric Rosen表示，这起诉讼从一开始就注定要失败。因为Roaring Kitty 应该披露其出售期权的意图的说法在法庭上站不住脚，因为没有理性的人，更不用说理性的投资者，会期望Roaring Kitty持有所有期权直到到期日。",
+          "link": "https://www.hellobtc.com/news/202407/22461.html",
+          "publishedOn": "2024-07-01T04:56:00.000Z",
+          "wordCount": 315,
+          "title": "Roaring Kitty遭某投资者证券欺诈指控",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
         {
           "id": "https://www.hellobtc.com/news/202407/22460.html",
           "author": null,
@@ -348,76 +418,6 @@
           "wordCount": 326,
           "title": "白话区块链早报:美财政部发布2025年加密税收制度，推迟非托管商相关规则",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22457.html",
-          "author": null,
-          "description": "1. Galaxy Digital：预计前五个月内将有75亿美元资金流入现货以太坊ETF。\n\n2. Aptos基金会与阿里云合作以增强日本Web3生态系统。\n\n3. 观点：以太坊L2生态系统5年内交易吞吐量将超Solana 100倍。\n\n4. 前美议员Tulsi Gabbard：BTC是一种“不受政府控制的独立、透明货币形式”。\n\n5. 玻利维亚解除对比特币和加密支付的禁令。\n\n6. 创新加密委员会英国负责人：英国需快速行动监管加密公司。\n\n7. Helium联创：DePIN简化了Web3的复杂性。\n\n8. 贝莱德：投资者用比特币来对冲地缘政治不确定性。\n\n9. 国际货币基金组织：美联储应至少等到2024年底前才降低政策利率。\n\n10. Wintermute创始人：SOL ETF今年很难获批。\n\n11. 昨日GBTC资金净流出1140万美元。",
-          "link": "https://www.hellobtc.com/news/202406/22457.html",
-          "publishedOn": "2024-06-28T00:51:00.000Z",
-          "wordCount": 333,
-          "title": "白话区块链早报:Galaxy Digital：预计前五个月内将有75亿美元资金流入现货以太坊ETF",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22456.html",
-          "author": null,
-          "description": "1. 尼日利亚SEC要求加密货币公司在30天内完成注册，否则将面临执法行动。\n\n2. Coinbase：不会支持Ocean-Fetch AI合并。\n\n3. 美联储8月维持利率不变的概率为90.7%。\n\n4. 道富银行与Galaxy合作推出数字资产新策略。\n\n5. 若特朗普当选，他将选择Vivek Ramaswamy担任副总统。\n\n6. CryptoQuant CEO：美政府出售4000枚比特币不太可能对市场产生影响。\n\n7. 路透社：美SEC或于7月4日前批准以太坊现货ETF。\n\n8. pump.fun日均手续费较上周下跌30%，受制于整体市场下跌等因素。\n\n9. Polygon联创提倡通过区块链实现开放世界，使AI更加透明。\n\n10. 数据：波场网络日均活跃地址接近250万，暂列Layer 1网络排行第一。\n\n11. NFT市场2024年第二季度销售额下滑45%。",
-          "link": "https://www.hellobtc.com/news/202406/22456.html",
-          "publishedOn": "2024-06-27T01:09:00.000Z",
-          "wordCount": 328,
-          "title": "白话区块链早报:尼日利亚SEC要求加密货币公司在30天内完成注册，否则将面临执法行动",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22455.html",
-          "author": null,
-          "description": "1.美SEC主席：现货以太坊ETF审批过程顺利。\n\n2. Solana Mobile Chapter 2预购代币持有者超14万。\n\n3. Gary Gensler：现行证券法适用于加密领域，大量行业实体并未遵守法规。\n\n4. Ripple总裁：Ripple即将推出的稳定币将“补充”XRP。\n\n5. 报告：Tether供应放缓显示加密市场降温。\n\n6. 数据：过去六周内，10.3万枚比特币被添加至OTC钱包。\n\n7. VanEck推出零费用计划，旨在力争成为加密货币ETF领军者。\n\n8. 美众议院金融服务委员会副主席牵头推动在尼日利亚被拘留的币安高管返回美国。\n\n9. 美议员：非常看好比特币，德克萨斯州应该欢迎比特币挖矿。\n\n10. 美国消费者研究组织：Tether存在“巨大欺诈风险”。\n\n11. Rollup部署平台Conduit完成3700万美元A轮融资。\n\n12. friend.tech：FRIEND可转让白名单已向所有EOA和智能合约开放。\n\n13. 「Mr.100」地址昨日共增持317枚BTC。",
-          "link": "https://www.hellobtc.com/news/202406/22455.html",
-          "publishedOn": "2024-06-26T01:08:00.000Z",
-          "wordCount": 322,
-          "title": "白话区块链早报:SEC主席：现货以太坊ETF审批过程顺利",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22454.html",
-          "author": null,
-          "description": "1. Pomp Investments创始人：未来十年比特币将保护人工智能所创造财富。\n\n2. 苹果几个月前否决了与Meta在人工智能方面开展合作的想法。\n\n3. 自欧洲杯2024开赛以来，球迷代币市值已下跌13%。\n\n4. 报告：DePIN和SwanChain将颠覆云计算行业。\n\n5. 欧洲央行发布首份CBDC进展报告。\n\n6. 《富爸爸穷爸爸》作者：正等待购买更多比特币。\n\n7. Allora Network的贡献者Allora Labs完成新一轮战略融资。\n\n8. 美联储戴利：若通胀迅速下降或就业市场疲软超预期，有必要降息。\n\n9. 积累2274万美元PEPE的巨鲸三小时前疑似抛售45%的持仓。\n\n10. 维基解密创始人阿桑奇已离开英国，最终将返回澳大利亚。\n\n11. 知情人士：特朗普计划在7月份的比特币2024大会上发表讲话。\n\n12. Jupiter推出Swap V3，可实现即时路由、动态滑点等功能。",
-          "link": "https://www.hellobtc.com/news/202406/22454.html",
-          "publishedOn": "2024-06-25T01:07:00.000Z",
-          "wordCount": 332,
-          "title": "白话区块链早报:Pomp Investments创始人：未来十年比特币将保护人工智能所创造财富",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22453.html",
-          "author": null,
-          "description": "Pomp Investments创始人Anthony Pompliano接受CNBC采访时表示，未来十年，比特币将成为确保人工智能创造财富的首选资产，我们正在进入一个自动化的世界，人工智能将创造大量财富，而比特币将保护这些财富。 Pompliano驳斥了人工智能已经取代比特币和更广泛加密货币行业、并成为新热门技术趋势的观点，他解释说，这两种技术将在未来10年内协同工作。",
-          "link": "https://www.hellobtc.com/news/202406/22453.html",
-          "publishedOn": "2024-06-25T00:57:00.000Z",
-          "wordCount": 310,
-          "title": "Pomp Investments创始人：未来十年比特币将保护人工智能所创造财富",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22452.html",
-          "author": null,
-          "description": "《富爸爸穷爸爸》作者罗伯特·清崎（Robert Kiyosaki）在社交媒体发文表示，比特币正在暴跌。大多数人应该卖掉。我则在等待购买更多。所有市场都有涨有跌。许多人通过交易市场赚了很多钱，这意味着低买高卖。交易任何资产的问题在于税收，特别是短期资本利得税。我的策略类似于沃伦·巴菲特的买入并永远持有。",
-          "link": "https://www.hellobtc.com/news/202406/22452.html",
-          "publishedOn": "2024-06-25T00:57:00.000Z",
-          "wordCount": 305,
-          "title": "《富爸爸穷爸爸》作者：正等待购买更多比特币",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202406/22451.html",
-          "author": null,
-          "description": "Galaxy 研究主管 Alex Thorn 在 X 平台发文称，债权人已在 Mt.Gox 破产案中受困十多年，BTC 和 BCH 实物赔偿预计将于七月开始，但最终分配的代币数量将比人们想象的要少，Mt.Gox 引发的比特币抛压将小于预期。Mt.Gox 当年损失了约 94 万枚比特币，当时价值 4.24 亿美元，截至目前收回了 15%，即 141,868 枚比特币，虽然只收回了 15%，但对于以美元计算的债权人来说，却获得了 140 倍的收益。 债权人需要承受约 10% 的损失，预计 75% 的 BTC 会选择承受 10% 的损失，这意味着会有约 9.5 万枚比特币用于支付索赔，其中约 2 万枚代币是欠给申领基金的，1 万枚代币欠给 Bitcoinica BK，还剩约 6500 枚是欠个人债权人的（6500这一数字远低于此前媒体发布的141868枚），最终赔偿分配的代币数量会低于市场预期。 债权人明显偏向于长期比特币持有者，但也有理由相信，个别债权人出手将比市场预期的更加阔绰，一旦这些代币被分配，很大一部分将被债权人出售到流动性更差的市场中，所有代币将分配到 Kraken、Bitstamp 或 Bitgo 的债权人账户中，一旦硬币转移到这些实体上，预计需要 24-72 小时才能出现在用户帐户中。",
-          "link": "https://www.hellobtc.com/news/202406/22451.html",
-          "publishedOn": "2024-06-24T15:56:00.000Z",
-          "wordCount": 358,
-          "title": "Galaxy研究主管：Mt.Gox引发的比特币抛压将小于预期",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
     },
@@ -427,12 +427,142 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
+          "id": "https://www.techflowpost.com/newsletter/detail_51664.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据dexscreener数据，Solana链上meme项目HERO 突破0.046美元，现报价0.04601美元，最高涨至0.07美元，24小时上涨超875倍，市值已超5000万美元，其流动性为170万美元。\n\n该代币波动幅度较大，请注意资金安全，非投资建议，DYOR。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51664.html",
+          "publishedOn": "2024-07-01T04:55:26.000Z",
+          "wordCount": 478,
+          "title": "Solana链上meme项目HERO市值突破5000万美元，24h上涨超875倍",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51663.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据OnchainDataNerd数据，在将 3万枚ETH质押到Spark之后，这名鲸鱼从Spark借入了 5100 万$DAI并换成了 5200 万$USDC ，然后将所有 USDC 存入Binance 。 通过利用这一惯例，他从Binance中提取了另外 3万枚ETH (约合 1.017 亿美元)。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51663.html",
+          "publishedOn": "2024-07-01T04:38:09.000Z",
+          "wordCount": 503,
+          "title": "某鲸鱼将3万枚ETH质押在Spark后再次从币安提取3万枚ETH",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51662.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Deribit 亚太商务负责人 LinChen 发布推文称，今日最大的 ETH 大宗期权为某交易员购买了 9 月底（到期行权价）3400 美元的看涨期权+卖出了 9 月底 4400 美元的看涨期权，共计 2500 个 ETH，支付 73.8 万美元权利金。\n\n其表示该交易员买入 9 月 3400 美元-4400 美元 的牛市差价来降低成本，到期时以太坊价格只要大于 3700 美元就是盈利的。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51662.html",
+          "publishedOn": "2024-07-01T04:35:03.000Z",
+          "wordCount": 526,
+          "title": "某交易员买入9月底3400美元的看涨期权，卖出9月底4400美元的看涨期权",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51661.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Ordinals创始人Casey发布推文称，符文和铭文与比特币一样具有可编程性，比特币表现力的提升也同样提升了符文和铭文的表现力。\n\n例如，OP_CHECKTEMPLATEVERIFY可将开放铸币组织为OP_CTV树，展开至包含符文的叶UTXO。\n\nSIGHASH_GROUP可灵活地用签名承诺多个输入和输出的组合，更容易将符文转移到闪电网络。\n\n标准化Taproot签名附录并允许非结构化数据的雕刻，可在单笔交易中进行铭文，而无需提交和揭示两个交易。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51661.html",
+          "publishedOn": "2024-07-01T04:13:40.000Z",
+          "wordCount": 484,
+          "title": "Ordinals 创始人 Casey：符文和铭文与比特币一样具有可编程性",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51660.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Polygon链上最大的AI Meme社区AI PEPE KING（$AIPEPE）上线AI币价预测功能，首发支持CMC TOP100币种。\n\n据悉，AI币价预测功能的1h币价预测模型的R2决定系数平均可以达到92%。(R2决定系数常用于衡量AI模型的拟合程度。)\n\nAIPEPE此前上线的AI客服机器人已经支持Bitget Wallet，NFTFeed，Bitgert，zkSyncID等60多家知名项目，仍在面向Web3项目免费提供服务中。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51660.html",
+          "publishedOn": "2024-07-01T04:13:29.000Z",
+          "wordCount": 517,
+          "title": "AI Meme 社区 AI PEPE KING（$AIPEPE）上线 AI 币价预测功能，首发支持 CMC TOP100 币种",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51659.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，美国SEC主席Gary Gensler表示，加密货币领域的一些领军人物要么已经入狱，要么即将入狱，要么正在等待引渡。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51659.html",
+          "publishedOn": "2024-07-01T04:03:46.000Z",
+          "wordCount": 477,
+          "title": "SEC主席：加密货币领域的一些领军人物要么已入狱，要么即将入狱",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51658.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Mint Cash计划在8月发布私人演示和测试网络，对架构、白皮书、合作伙伴关系和品牌进行重大改革。\n\n他们强调项目成员都有建设者背景，不是像Ethena Labs那样的degen项目，也不打算成为这样的项目。他们将在私人演示/测试网络日期更近时发布更多官方更新。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51658.html",
+          "publishedOn": "2024-07-01T03:30:32.000Z",
+          "wordCount": 483,
+          "title": "Mint Cash计划在8月对架构、白皮书和品牌进行重大改革",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51657.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Asymmetric创始人Joe McCann表示，2024 年第一季度 $SOL上涨了99％、BONK 上涨了112％，但2024 年第二季度 SOL下跌了27％、BONK下跌19％。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51657.html",
+          "publishedOn": "2024-07-01T03:24:33.000Z",
+          "wordCount": 490,
+          "title": "2024年第二季度 SOL下跌27％、BONK下跌19％",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51656.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Greeks.live 宏观研究员 Adam 在 X 平台发文表示，本周是宏观大周，最核心的是周五的美国失业率与非农数据，本周 SEC 大概率会对 ETH ETF 给出回应，虽然直接通过的可能性不大，但是利好消息是大概率的。季度交割刚结束，各主要期限IV都很低，是建仓是的好机会。\n\n本周重磅事件：\n\n\n \n 7/1 周一：美国6月ISM制造业PMI；\n \n \n \n7/2 周二：美联储主席鲍威尔、欧洲央行行长拉加德和巴西央行行长内托在欧洲央行举行的中央银行论坛上发表讲话。澳洲联储公布6月货币政策会议纪要；\n \n \n \n7/3 周三：美国6月ADP就业人数，美国当周初请失业金人数；\n \n \n \n7/4 周四：美联储公布货币政策会议纪要，英国举行大选，欧洲央行公布6月货币政策会议纪要，美国SEC或最早于今日批准以太坊现货ETF；\n \n \n \n7/5 周五：美国6月失业率，美国6月非农就业人口；\n \n\n\n加密货币市场经历了艰难的一个月，今年自三月中旬进入调整后，BTC和ETH大多数时间都是在震荡下降，加密市场较为低迷。目前整体IV处于较低水平，季度大交割释放的保证金会逐渐回到市场，择时选择较低的IV可以建仓买单了。加密利率市场方面，Bitfinex利率市场较为安静，偶有不错的利率订单，遇到合适的利率订单可以积极成交。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51656.html",
+          "publishedOn": "2024-07-01T02:54:56.000Z",
+          "wordCount": 512,
+          "title": "Greeks.live：季度大交割释放的保证金会逐渐回到市场，择时选择较低的IV可以建仓买单",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51655.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，LayerZero 首席执行官 Bryan Pellegrino 发布推文回应代码质疑，称这些指控毫无依据。Pellegrino 表示，社区所引用的代码于 2022 年发布，且这些配置是应用程序的安全配置，而非协议配置。\n\n即使在最新版本中，应用程序仍可覆盖此限制，防止 LayerZero 通过配置“负载限制”为 0 来阻止消息传递。Pellegrino 强调，这不是漏洞，而是协议的设计原则，旨在确保技术轨道的抗审查性。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51655.html",
+          "publishedOn": "2024-07-01T02:47:59.000Z",
+          "wordCount": 503,
+          "title": "LayerZero CEO回应代码质疑：这不是漏洞，而是协议的设计原则",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51654.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据预测市场Polymarket数据，“2024 年总统选举获胜者”的赌注已超2亿美元，特朗普当选概率为62%，拜登的当选概率为18%，Gavin Newsom和Kamala Harris当选概率为5%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51654.html",
+          "publishedOn": "2024-07-01T02:37:21.000Z",
+          "wordCount": 484,
+          "title": "Polymarket上“2024 年总统选举获胜者”的赌注已超2亿美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51653.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，火币HTX数据监测显示，ENS 快速上涨，最高涨至 32.55 USDT，现报 32.33 USDT，24H最高涨幅 20%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51653.html",
+          "publishedOn": "2024-07-01T02:24:05.000Z",
+          "wordCount": 499,
+          "title": "ENS 涨超 19%，现报 32.33 USDT",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_51652.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，因 2021 年 GameStop 短线交易闻名的 Keith Gill（Roaring Kitty）因一系列社交媒体帖子引发 GME 股价剧烈波动，面临证券欺诈集体诉讼。6 月 28 日，纽约东区法院提起诉讼，指控 Gill 未充分披露其期权交易，涉嫌“拉高出货”计划，误导投资者。\n\n原告 Martin Radev 称其因 Gill 的行为受损。Gill 在 5 月 13 日发布帖子后，GME 股价飙升 180%。6 月 2 日，Gill 在 Reddit 上披露持有大量 GME 股票和期权，再次推高股价。6 月 13 日，Gill 表示已行使所有期权，获利数百万美元。\n\n前联邦检察官 Eric Rosen 认为，该诉讼可能会被驳回，因为 Gill 无需提前披露其交易意图，且帖子内容难以证明存在误导。",
+          "link": "https://www.techflowpost.com/newsletter/detail_51652.html",
+          "publishedOn": "2024-07-01T02:22:21.000Z",
+          "wordCount": 566,
+          "title": "前联邦检察官：“Roaring Kitty因GameStop交易活动面临证券欺诈集体诉讼”可能会被驳回",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
           "id": "https://www.techflowpost.com/newsletter/detail_51651.html",
           "author": null,
           "description": "深潮 TechFlow 消息，据coingecko数据，以太坊生态出现普涨行情，其中：\n\nENS 24小时涨幅达27.3%，现报价32.44美元；\n\nZRO 24小时涨幅达25.4%，现报价3.41美元；\n\nPEPECOIN 24小时涨幅达16.3%，现报价3.63美元；\n\nSSV 24小时涨幅达13.41%，现报价41美元；\n\nMOG 24小时涨幅达13.3%；\n\nENA 24小时涨幅达13%，现报价0.551美元；\n\nAXL 24小时涨幅达12.7%，现报价0.6365美元；\n\nFTM 24小时涨幅达12.1%，现报价0.6美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51651.html",
           "publishedOn": "2024-07-01T02:11:57.000Z",
-          "wordCount": 493,
+          "wordCount": 499,
           "title": "以太坊生态出现普涨行情，ENS、ZRO等超涨20%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +572,7 @@
           "description": "深潮 TechFlow 消息，据链上分析师AI姨监测，过去四小时新地址 0x6a5...5c9C0 已从 Coinbase 累计转出 6215 枚 ETH，价值 2121 万美元，平均转出价格 3414 美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51650.html",
           "publishedOn": "2024-07-01T02:01:49.000Z",
-          "wordCount": 491,
+          "wordCount": 497,
           "title": "某新地址以3414美元均价从Coinbase转出6215枚ETH",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +582,7 @@
           "description": "深潮 TechFlow 消息，Vitalik 发布了一篇关于如何提高以太坊用户交易确认时间的文章。他提到，尽管以太坊已经通过 EIP-1559 和合并后的稳定区块时间将交易确认时间缩短到 5-20 秒，但仍有进一步改进的空间。\n\n文章概述了几种实际可行的改进方案，包括单槽最终性和Rollup 预确认机制。Vitalik 还讨论了基于预确认的方式，认为这种方式可以为 L1 和 L2 提供更快的交易确认保障。",
           "link": "https://www.techflowpost.com/newsletter/detail_51649.html",
           "publishedOn": "2024-07-01T01:52:11.000Z",
-          "wordCount": 492,
+          "wordCount": 498,
           "title": "Vitalik：单槽最终性和Rollup预确认机制在提高以太坊交易确认速度和用户体验方面具有重要意义",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +592,7 @@
           "description": "深潮 TechFlow 消息，据 Dune 数据显示，预测市场平台 Polymarket 6 月交易额达 1.09 亿美元，创历史新高。此外，平台月度活跃用户达 29266，亦创历史新高。",
           "link": "https://www.techflowpost.com/newsletter/detail_51648.html",
           "publishedOn": "2024-07-01T01:41:57.000Z",
-          "wordCount": 488,
+          "wordCount": 494,
           "title": "预测市场平台Polymarket 6月交易额以及月活用户均创历史新高",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +602,7 @@
           "description": "深潮 TechFlow 消息，据sosovalue数据，POPCAT为过去一个月内市值前500的加密货币中投资回报率（ROI）表现最好的加密货币，ROI为78.24%。\n\n第二名为BRETT，月投资回报率为65.03%，第三名为KAS，投资回报率为40.98%。",
           "link": "https://www.techflowpost.com/newsletter/detail_51647.html",
           "publishedOn": "2024-07-01T01:35:40.000Z",
-          "wordCount": 470,
+          "wordCount": 476,
           "title": "POPCAT为过去1个月市值前500中表现最好的代币，ROI为78.24%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -482,7 +612,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，ETH突破3500美元，24小时涨幅达3.69%，现报价3502美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51646.html",
           "publishedOn": "2024-07-01T01:28:17.000Z",
-          "wordCount": 469,
+          "wordCount": 475,
           "title": "ETH突破3500美元，24小时涨幅达3.69%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -492,7 +622,7 @@
           "description": "深潮 TechFlow 消息，据 RootData 数据，2024 年 6 月加密市场总融资额为 6.8 亿美元，较 2024 年 5 月的 9.95 亿美元下降 31.66%。\n\n此外，2024 年 6 月份融资数量为 89 笔，较 2024 年 5 月的 153笔下降 41.83%。以赛道融资总额来看，前三赛道分别为其他类别、CeFi 和 DeFi。",
           "link": "https://www.techflowpost.com/newsletter/detail_51645.html",
           "publishedOn": "2024-07-01T01:25:37.000Z",
-          "wordCount": 524,
+          "wordCount": 530,
           "title": "6月加密市场总融资额为6.8亿美元，环比下降31.66%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -502,7 +632,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，BTC突破63500美元，24小时涨幅扩大至4.25%，现报价63566美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51644.html",
           "publishedOn": "2024-07-01T01:13:18.000Z",
-          "wordCount": 469,
+          "wordCount": 475,
           "title": "BTC突破63500美元，24小时涨幅扩大至4.25%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -512,7 +642,7 @@
           "description": "深潮 TechFlow 消息，韩国第二大芯片制造商 SK Hynix 将在未来三年内投资 746 亿美元，专注于人工智能 (AI) 内存芯片技术的开发。母公司 SK 集团还计划在 2026 年前再筹集 578 亿美元，以进一步支持其 AI 业务。\n\n据路透社报道，SK 集团近期在 Hynix 和其电动车电池子公司上遭受了重大损失。若能成功筹集第二笔资金，总投资将接近 1330 亿美元，而 SK Hynix 目前的市值仅约为 1180 亿美元。SK 集团认为，这些投资和对 AI 技术的高度关注将有助于弥补损失，并确保公司的财务未来。\n\n此外，SK 集团计划将目前超过 175 家的子公司数量减少，以精简运营并实现其目标。SK 集团预计，通过当前的投资策略，其利润将从 2024 年的预计 160 亿美元增加到 2025 年底的近 300 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51643.html",
           "publishedOn": "2024-07-01T01:04:44.000Z",
-          "wordCount": 572,
+          "wordCount": 578,
           "title": "韩国 SK Hynix 将投资 746 亿美元开发 AI 内存芯片技术",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -522,7 +652,7 @@
           "description": "深潮 TechFlow 消息，据余烬监测，Arkham 标注为 Abraxas Capital 的巨鲸地址在过去的 15 个小时里一共从 Bitfinex 提出了 6 万枚 ETH ($203.06M)。 然后这些 ETH 被存入了 Spark 作为抵押品铸造借出了 1.01 亿 DAI，在链上兑换成 1.01 亿 USDC 后转入币安。",
           "link": "https://www.techflowpost.com/newsletter/detail_51642.html",
           "publishedOn": "2024-07-01T00:53:07.000Z",
-          "wordCount": 520,
+          "wordCount": 526,
           "title": "Abraxas Capital过去15小时将6万枚ETH存入Spark作为抵押品",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -532,7 +662,7 @@
           "description": "深潮 TechFlow 消息，据Tensor数据，Backpack旗下NFT项目Mad Lads地板价现报106.7 SOL，过去24小时上涨13.65%。\n\n此前今日消息，某地址4小时前购入59枚Mad Lads NFT，价值约80万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51641.html",
           "publishedOn": "2024-07-01T00:50:16.000Z",
-          "wordCount": 487,
+          "wordCount": 493,
           "title": "Mad Lads 地板价现报106.7 SOL，过去24小时上涨13.65%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -542,7 +672,7 @@
           "description": "深潮 TechFlow 消息，据Tensor数据，9DUW开头地址4小时前购入59枚Mad Lads NFT，价值约80万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51640.html",
           "publishedOn": "2024-07-01T00:43:01.000Z",
-          "wordCount": 479,
+          "wordCount": 485,
           "title": "某地址4小时前购入59枚Mad Lads NFT，价值约80万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -552,7 +682,7 @@
           "description": "深潮 TechFlow 消息，据吴说区块链报道，日本最大公司之一索尼集团收购Amber Japan，正式进军加密货币交易所领域。\n\n新加坡做市商Amber Group于2022年初收购日本受监管的加密货币交易平台DeCurret，并更名为Amber Japan。后来由于FTX的倒闭，Amber Group陷入困境，并被怀疑与Fenbushj进行了彻底的债转股交易。Amber Group投资者包括淡马锡、红杉中国、Pantera、Tiger、Coinbase等。\n\n据悉，索尼业务包括游戏、音乐、相机等，市值超过1000亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51639.html",
           "publishedOn": "2024-07-01T00:31:36.000Z",
-          "wordCount": 484,
+          "wordCount": 490,
           "title": "索尼收购Amber Japan，进军加密货币交易业务",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -562,7 +692,7 @@
           "description": "深潮 TechFlow 消息，据 Alternative 数据显示，今日加密货币恐慌与贪婪指数为 53，目前市场情绪为中性，昨日指数为47。\n\n注：恐慌指数阈值为 0-100，0表示“极度恐惧”，100表示“极度贪婪”，通过分析市场波动性、市场动量/成交量、社交媒体互动、市场主导地位和趋势数据来计算。",
           "link": "https://www.techflowpost.com/newsletter/detail_51638.html",
           "publishedOn": "2024-07-01T00:26:04.000Z",
-          "wordCount": 478,
+          "wordCount": 484,
           "title": "今日恐慌与贪婪指数为53，维持在中性水平",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -572,7 +702,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，BTC今晨突破63000美元，24小时涨幅达2.88%，现报价62725美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51637.html",
           "publishedOn": "2024-07-01T00:04:54.000Z",
-          "wordCount": 469,
+          "wordCount": 475,
           "title": "BTC今晨突破63000美元，24小时涨幅达2.88%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -582,7 +712,7 @@
           "description": "深潮 TechFlow 消息 据HTX行情数据显示，以太坊域名服务系统 ENS 突破30美元，24小时上涨超13%。此前消息，ENS 宣布在ETHCC 举行活动，向与会者特别介绍新品牌。",
           "link": "https://www.techflowpost.com/newsletter/detail_51636.html",
           "publishedOn": "2024-06-30T23:55:25.000Z",
-          "wordCount": 479,
+          "wordCount": 485,
           "title": "ENS 突破30美元，24小时上涨超13%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -592,7 +722,7 @@
           "description": "深潮 TechFlow 消息 Token Unlocks数据显示，本周SUI、IO、MAV、DYDX等代币将迎来一次性大额解锁，总计释放价值超1.25亿美元。其中主要有：\n\nSui（SUI）将于北京时间7月1日上午8时解锁约6419万枚代币，与现流通量的比例为2.65%，价值约5070万美元；\n\nio.net（IO）将于北京时间7月1日晚上9时解锁约750万枚代币，与现流通量的比例为7.89%，价值约2400万美元；\n\ndydx（DYDX）将于北京时间7月1日上午8时解锁约833万枚代币，与现流通量的比例为3.12%，价值约1130万美元；\n\nMaverick Protocol（MAV）将于北京时间7月1日上午8时解锁约3640万枚代币，与现流通量的比例为14.56%，价值约960万美元；\n\nEthena（ENA）将于北京时间7月7日下午3时解锁约1489万枚代币，与现流通量的比例为0.92%，价值约760万美元；\n\nGalxe（GAL）将于北京时间7月5日上午8时解锁约300万枚代币，与现流通量的比例为2.60%，价值约660万美元；\n\nZetaChain（ZETA）将于北京时间7月1日上午8时解锁约529万枚代币，与现流通量的比例为1.92%，价值约420万美元；\n\nHashflow（HFT）将于北京时间7月7日上午8时解锁约1362万枚代币，与现流通量的比例为3.28%，价值约280万美元；\n\nAcala（ACA）将于北京时间7月1日下午3时解锁约2743万枚代币，与现流通量的比例为2.69%，价值约185万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51635.html",
           "publishedOn": "2024-06-30T23:48:29.000Z",
-          "wordCount": 482,
+          "wordCount": 488,
           "title": "价值超1.25亿美元的代币将在本周解锁，其中SUI解锁约5070万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
