@@ -128,7 +128,7 @@
           "description": "PANews 7月1日消息，据吴说报道，日本最大的公司之一Sony Group(索尼集团)已收购Amber Japan，金额为数十亿日元。新加坡做市商Amber Group曾于2022年初收购日本受监管的加密货币交易平台DeCurret 并更名为Amber Japan。后续由于FTX暴雷，Amber Group陷入困境并疑似与分布式完全债转股交易。Amber Group投资者包括淡马锡 红杉中国Pantera Tiger Coinbase等。\nYijin Li已辞任Amber Japan公司代表，Jun Watanabe作为Sony Network Communications Inc.主席担任收购后的公司代表。",
           "link": "https://panewslab.com/zh/articledetails/cueeax3v.html",
           "publishedOn": "2024-07-01T00:37:30.000Z",
-          "wordCount": 394,
+          "wordCount": 393,
           "title": "索尼集团已收购Amber Group旗下日本加密交易平台Amber Japan",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -138,7 +138,7 @@
           "description": "PANews 7月1日消息，以太坊联合创始人Vitalik Buterin发文《深入slot-and-epoch构架，为以太坊用户提供更快交易确认时间的方法》。文章称，尽管与五年前相比，得益于EIP-1559与合并后的稳定区块时间，以太坊L1上的交易确认时间已缩短至5-20秒，与信用卡支付体验相当，但进一步缩减延迟仍具重要价值，尤其是对于那些要求几百毫秒甚至更少延迟的应用。\n论文中，Buterin介绍了以太坊为加快交易确认速度所探索的实用选项，其中重点阐述了现有技术中的单时隙确定性（single-slot finality）。当前，以太坊的Gasper共识机制采用slot-and-epoch架构，但此机制复杂且终结性确认时间过长（12.8分钟）。SSF则通过类似Tendermint的机制，使区块在下一区块生成前即被终结，同时保留了“不活跃泄露”机制，确保链的稳定运行和恢复能力。SSF的主要挑战在于它会给链带来很大的负载，但新提案如Orbit SSF正致力于缓解此问题。此外，论文还探讨了rollup预确认和基于预确认的机制。以太坊正遵循以rollup为中心的发展路线，设计L1以支持数据可用性和其他功能，而L2协议则为用户提供更大规模的服务。然而，L2面临提供更快确认速度的挑战。为此，基于预确认的机制应运而生，通过激励专业的提议者提供预确认服务，为用户换取交易将被包含在下一个区块中的即时保证。\nButerin强调，slot-and-epoch架构显然是正确的，但并非所有slot-and-epoch架构都平等。他提倡更全面地探索设计空间，特别是那些在这两种机制之间有更强关注点分离的选项，以降低交易确认时间，提升用户体验。Buterin表示，L2目前可采取三种策略：一是技术和精神层面都基于以太坊，优化自身以传递以太坊的技术特性和价值观；二是作为“带有区块链Scaffold的服务器”，通过添加有效性证明、保障用户权利等机制，充分利用服务器效率的同时获得链上的好处；三是采取折衷策略，建立一个由一百个节点组成的快速链，由以太坊提供互操作性和安全性。在slot-and-epoch架构下，“epochs”代表以太坊的SSF，而“slots”的含义在不同情况下有所不同。关键问题在于我们能将基于以太坊原生的slot-and-epoch架构优化到何种程度，以及这是否会影响其他类型的预确认机制的应用空间。目前，关于区块提议者的复杂性和slot-and-epoch架构的设计空间仍存在不确定性。拥有更多选项将有助于更好地服务于L1和L2用户，并简化L2开发者的工作。",
           "link": "https://panewslab.com/zh/articledetails/damlm71l.html",
           "publishedOn": "2024-07-01T00:29:16.000Z",
-          "wordCount": 362,
+          "wordCount": 361,
           "title": "Vitalik发文《深入slot-and-epoch构架，为以太坊用户提供更快交易确认时间的方法》",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -148,7 +148,7 @@
           "description": "PANews 7月1日消息，欧易OKX行情显示，今日凌晨6点多，比特币短时突破63000美元，现报62813.5美元，日内涨幅1.77%。\n此外，以太坊突破3400美元，现报3439.99美元，日内涨幅1.17%。",
           "link": "https://panewslab.com/zh/articledetails/gw1ffzcp.html",
           "publishedOn": "2024-07-01T00:02:16.000Z",
-          "wordCount": 345,
+          "wordCount": 352,
           "title": "比特币短时突破63000美元，以太坊突破3400美元",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -282,7 +282,7 @@
           "description": "深潮 TechFlow 消息，据coingecko数据，以太坊生态出现普涨行情，其中：\n\nENS 24小时涨幅达27.3%，现报价32.44美元；\n\nZRO 24小时涨幅达25.4%，现报价3.41美元；\n\nPEPECOIN 24小时涨幅达16.3%，现报价3.63美元；\n\nSSV 24小时涨幅达13.41%，现报价41美元；\n\nMOG 24小时涨幅达13.3%；\n\nENA 24小时涨幅达13%，现报价0.551美元；\n\nAXL 24小时涨幅达12.7%，现报价0.6365美元；\n\nFTM 24小时涨幅达12.1%，现报价0.6美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51651.html",
           "publishedOn": "2024-07-01T02:11:57.000Z",
-          "wordCount": 489,
+          "wordCount": 491,
           "title": "以太坊生态出现普涨行情，ENS、ZRO等超涨20%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -292,7 +292,7 @@
           "description": "深潮 TechFlow 消息，据链上分析师AI姨监测，过去四小时新地址 0x6a5...5c9C0 已从 Coinbase 累计转出 6215 枚 ETH，价值 2121 万美元，平均转出价格 3414 美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51650.html",
           "publishedOn": "2024-07-01T02:01:49.000Z",
-          "wordCount": 487,
+          "wordCount": 489,
           "title": "某新地址以3414美元均价从Coinbase转出6215枚ETH",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -302,7 +302,7 @@
           "description": "深潮 TechFlow 消息，Vitalik 发布了一篇关于如何提高以太坊用户交易确认时间的文章。他提到，尽管以太坊已经通过 EIP-1559 和合并后的稳定区块时间将交易确认时间缩短到 5-20 秒，但仍有进一步改进的空间。\n\n文章概述了几种实际可行的改进方案，包括单槽最终性和Rollup 预确认机制。Vitalik 还讨论了基于预确认的方式，认为这种方式可以为 L1 和 L2 提供更快的交易确认保障。",
           "link": "https://www.techflowpost.com/newsletter/detail_51649.html",
           "publishedOn": "2024-07-01T01:52:11.000Z",
-          "wordCount": 488,
+          "wordCount": 490,
           "title": "Vitalik：单槽最终性和Rollup预确认机制在提高以太坊交易确认速度和用户体验方面具有重要意义",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -312,7 +312,7 @@
           "description": "深潮 TechFlow 消息，据 Dune 数据显示，预测市场平台 Polymarket 6 月交易额达 1.09 亿美元，创历史新高。此外，平台月度活跃用户达 29266，亦创历史新高。",
           "link": "https://www.techflowpost.com/newsletter/detail_51648.html",
           "publishedOn": "2024-07-01T01:41:57.000Z",
-          "wordCount": 484,
+          "wordCount": 486,
           "title": "预测市场平台Polymarket 6月交易额以及月活用户均创历史新高",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -322,7 +322,7 @@
           "description": "深潮 TechFlow 消息，据sosovalue数据，POPCAT为过去一个月内市值前500的加密货币中投资回报率（ROI）表现最好的加密货币，ROI为78.24%。\n\n第二名为BRETT，月投资回报率为65.03%，第三名为KAS，投资回报率为40.98%。",
           "link": "https://www.techflowpost.com/newsletter/detail_51647.html",
           "publishedOn": "2024-07-01T01:35:40.000Z",
-          "wordCount": 466,
+          "wordCount": 468,
           "title": "POPCAT为过去1个月市值前500中表现最好的代币，ROI为78.24%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -332,7 +332,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，ETH突破3500美元，24小时涨幅达3.69%，现报价3502美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51646.html",
           "publishedOn": "2024-07-01T01:28:17.000Z",
-          "wordCount": 465,
+          "wordCount": 467,
           "title": "ETH突破3500美元，24小时涨幅达3.69%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -342,7 +342,7 @@
           "description": "深潮 TechFlow 消息，据 RootData 数据，2024 年 6 月加密市场总融资额为 6.8 亿美元，较 2024 年 5 月的 9.95 亿美元下降 31.66%。\n\n此外，2024 年 6 月份融资数量为 89 笔，较 2024 年 5 月的 153笔下降 41.83%。以赛道融资总额来看，前三赛道分别为其他类别、CeFi 和 DeFi。",
           "link": "https://www.techflowpost.com/newsletter/detail_51645.html",
           "publishedOn": "2024-07-01T01:25:37.000Z",
-          "wordCount": 520,
+          "wordCount": 522,
           "title": "6月加密市场总融资额为6.8亿美元，环比下降31.66%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -352,7 +352,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，BTC突破63500美元，24小时涨幅扩大至4.25%，现报价63566美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51644.html",
           "publishedOn": "2024-07-01T01:13:18.000Z",
-          "wordCount": 465,
+          "wordCount": 467,
           "title": "BTC突破63500美元，24小时涨幅扩大至4.25%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -362,7 +362,7 @@
           "description": "深潮 TechFlow 消息，韩国第二大芯片制造商 SK Hynix 将在未来三年内投资 746 亿美元，专注于人工智能 (AI) 内存芯片技术的开发。母公司 SK 集团还计划在 2026 年前再筹集 578 亿美元，以进一步支持其 AI 业务。\n\n据路透社报道，SK 集团近期在 Hynix 和其电动车电池子公司上遭受了重大损失。若能成功筹集第二笔资金，总投资将接近 1330 亿美元，而 SK Hynix 目前的市值仅约为 1180 亿美元。SK 集团认为，这些投资和对 AI 技术的高度关注将有助于弥补损失，并确保公司的财务未来。\n\n此外，SK 集团计划将目前超过 175 家的子公司数量减少，以精简运营并实现其目标。SK 集团预计，通过当前的投资策略，其利润将从 2024 年的预计 160 亿美元增加到 2025 年底的近 300 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51643.html",
           "publishedOn": "2024-07-01T01:04:44.000Z",
-          "wordCount": 568,
+          "wordCount": 570,
           "title": "韩国 SK Hynix 将投资 746 亿美元开发 AI 内存芯片技术",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -372,7 +372,7 @@
           "description": "深潮 TechFlow 消息，据余烬监测，Arkham 标注为 Abraxas Capital 的巨鲸地址在过去的 15 个小时里一共从 Bitfinex 提出了 6 万枚 ETH ($203.06M)。 然后这些 ETH 被存入了 Spark 作为抵押品铸造借出了 1.01 亿 DAI，在链上兑换成 1.01 亿 USDC 后转入币安。",
           "link": "https://www.techflowpost.com/newsletter/detail_51642.html",
           "publishedOn": "2024-07-01T00:53:07.000Z",
-          "wordCount": 516,
+          "wordCount": 518,
           "title": "Abraxas Capital过去15小时将6万枚ETH存入Spark作为抵押品",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -382,7 +382,7 @@
           "description": "深潮 TechFlow 消息，据Tensor数据，Backpack旗下NFT项目Mad Lads地板价现报106.7 SOL，过去24小时上涨13.65%。\n\n此前今日消息，某地址4小时前购入59枚Mad Lads NFT，价值约80万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51641.html",
           "publishedOn": "2024-07-01T00:50:16.000Z",
-          "wordCount": 483,
+          "wordCount": 485,
           "title": "Mad Lads 地板价现报106.7 SOL，过去24小时上涨13.65%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -392,7 +392,7 @@
           "description": "深潮 TechFlow 消息，据Tensor数据，9DUW开头地址4小时前购入59枚Mad Lads NFT，价值约80万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51640.html",
           "publishedOn": "2024-07-01T00:43:01.000Z",
-          "wordCount": 475,
+          "wordCount": 477,
           "title": "某地址4小时前购入59枚Mad Lads NFT，价值约80万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -402,7 +402,7 @@
           "description": "深潮 TechFlow 消息，据吴说区块链报道，日本最大公司之一索尼集团收购Amber Japan，正式进军加密货币交易所领域。\n\n新加坡做市商Amber Group于2022年初收购日本受监管的加密货币交易平台DeCurret，并更名为Amber Japan。后来由于FTX的倒闭，Amber Group陷入困境，并被怀疑与Fenbushj进行了彻底的债转股交易。Amber Group投资者包括淡马锡、红杉中国、Pantera、Tiger、Coinbase等。\n\n据悉，索尼业务包括游戏、音乐、相机等，市值超过1000亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51639.html",
           "publishedOn": "2024-07-01T00:31:36.000Z",
-          "wordCount": 480,
+          "wordCount": 482,
           "title": "索尼收购Amber Japan，进军加密货币交易业务",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -412,7 +412,7 @@
           "description": "深潮 TechFlow 消息，据 Alternative 数据显示，今日加密货币恐慌与贪婪指数为 53，目前市场情绪为中性，昨日指数为47。\n\n注：恐慌指数阈值为 0-100，0表示“极度恐惧”，100表示“极度贪婪”，通过分析市场波动性、市场动量/成交量、社交媒体互动、市场主导地位和趋势数据来计算。",
           "link": "https://www.techflowpost.com/newsletter/detail_51638.html",
           "publishedOn": "2024-07-01T00:26:04.000Z",
-          "wordCount": 474,
+          "wordCount": 476,
           "title": "今日恐慌与贪婪指数为53，维持在中性水平",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -422,7 +422,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，BTC今晨突破63000美元，24小时涨幅达2.88%，现报价62725美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51637.html",
           "publishedOn": "2024-07-01T00:04:54.000Z",
-          "wordCount": 465,
+          "wordCount": 467,
           "title": "BTC今晨突破63000美元，24小时涨幅达2.88%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -432,7 +432,7 @@
           "description": "深潮 TechFlow 消息 据HTX行情数据显示，以太坊域名服务系统 ENS 突破30美元，24小时上涨超13%。此前消息，ENS 宣布在ETHCC 举行活动，向与会者特别介绍新品牌。",
           "link": "https://www.techflowpost.com/newsletter/detail_51636.html",
           "publishedOn": "2024-06-30T23:55:25.000Z",
-          "wordCount": 475,
+          "wordCount": 477,
           "title": "ENS 突破30美元，24小时上涨超13%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +442,7 @@
           "description": "深潮 TechFlow 消息 Token Unlocks数据显示，本周SUI、IO、MAV、DYDX等代币将迎来一次性大额解锁，总计释放价值超1.25亿美元。其中主要有：\n\nSui（SUI）将于北京时间7月1日上午8时解锁约6419万枚代币，与现流通量的比例为2.65%，价值约5070万美元；\n\nio.net（IO）将于北京时间7月1日晚上9时解锁约750万枚代币，与现流通量的比例为7.89%，价值约2400万美元；\n\ndydx（DYDX）将于北京时间7月1日上午8时解锁约833万枚代币，与现流通量的比例为3.12%，价值约1130万美元；\n\nMaverick Protocol（MAV）将于北京时间7月1日上午8时解锁约3640万枚代币，与现流通量的比例为14.56%，价值约960万美元；\n\nEthena（ENA）将于北京时间7月7日下午3时解锁约1489万枚代币，与现流通量的比例为0.92%，价值约760万美元；\n\nGalxe（GAL）将于北京时间7月5日上午8时解锁约300万枚代币，与现流通量的比例为2.60%，价值约660万美元；\n\nZetaChain（ZETA）将于北京时间7月1日上午8时解锁约529万枚代币，与现流通量的比例为1.92%，价值约420万美元；\n\nHashflow（HFT）将于北京时间7月7日上午8时解锁约1362万枚代币，与现流通量的比例为3.28%，价值约280万美元；\n\nAcala（ACA）将于北京时间7月1日下午3时解锁约2743万枚代币，与现流通量的比例为2.69%，价值约185万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_51635.html",
           "publishedOn": "2024-06-30T23:48:29.000Z",
-          "wordCount": 478,
+          "wordCount": 480,
           "title": "价值超1.25亿美元的代币将在本周解锁，其中SUI解锁约5070万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
