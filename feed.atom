@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-04T05:15:21.435Z</id>
+    <id>urn:2024-07-04T06:20:35.458Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-04T05:15:21.435Z</updated>
+    <updated>2024-07-04T06:20:35.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sofa交易大赛开幕，每周都有奖励拿]]></title>
+        <id>https://www.web3sj.com/?p=116387</id>
+        <link href="https://www.web3sj.com/transaction/116387/"/>
+        <updated>2024-07-04T06:13:05.000Z</updated>
+        <summary type="html"><![CDATA[本次比赛分两个部分，一个是Surge的交易量，一个是用户推荐。即使是参与1次Surge的用户也能参与每日的抽奖。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定币本质是银行即服务，用途远未被真正探索]]></title>
+        <id>https://www.web3sj.com/?p=116368</id>
+        <link href="https://www.web3sj.com/news/116368/"/>
+        <updated>2024-07-04T05:36:01.000Z</updated>
+        <summary type="html"><![CDATA[这些 BaaS 公司充当中间件，简化了与传统银行交互的复杂性。 例如 @Venmo、@wise、@CashApp、@Affirm 等公司都受益于 BaaS，并推出了新类型的产品，如新的 P2P 支付、先买后付（BNPL）和跨境支付等。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读懂共享排序器网络Astria：Rollup的丝滑利器？]]></title>
         <id>https://www.web3sj.com/?p=116360</id>
@@ -596,26 +616,6 @@ Compute Labs 将利用这笔资金扩充核心团队，并推进完成AI算力�
         <link href="https://www.web3sj.com/definews/116279/"/>
         <updated>2024-07-03T05:28:38.000Z</updated>
         <summary type="html"><![CDATA[近期，Tether 宣布推出新平台 Alloy by Tether，并引入了一种新型数字资产 Tethered Assets。这类资产旨在通过稳定策略（如流动资产和二级市场流动性池的超额抵押）来跟踪参考资产的价格。Tethered Assets 可以接受单一或多种类型的抵押品，并且可以跟踪大多数已知资产的价格，例如法定货币、大宗商品和其他类似产品。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从VC和Builder的角度聊聊链游的未来发展]]></title>
-        <id>https://www.web3sj.com/?p=116276</id>
-        <link href="https://www.web3sj.com/gamefinews/116276/"/>
-        <updated>2024-07-03T05:26:08.000Z</updated>
-        <summary type="html"><![CDATA[先说第一个。最开始链游的火爆是从农民世界，飞船之类的项目开始，说白了，没有任何可玩性，就是一个虚拟挖矿的旁氏资金盘。但大家认为是游戏的可玩性不够，所以 2020 年 -2022 年期间各个 VC 巨额投资能制作优良游戏的传统工作室。那么是不是游戏达到 3A 级别的可玩性，就能破圈，成为一个成功的链游呢？不一定。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[并行执行时代来临，一览Monad上的MEV格局]]></title>
-        <id>https://www.web3sj.com/?p=116260</id>
-        <link href="https://www.web3sj.com/project/116260/"/>
-        <updated>2024-07-03T05:18:31.000Z</updated>
-        <summary type="html"><![CDATA[在以太坊中，共识需要先执行。当节点同意一个区块时，他们同意的不仅是区块中的交易列表，还包括区块执行后总结的 Merkle 根。因此，提案者必须在传播提案之前执行区块中的所有交易。同时，验证节点在投票前也需要执行这些交易。]]></summary>
         <author>
             <name>Gao</name>
         </author>
