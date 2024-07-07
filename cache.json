@@ -61,7 +61,7 @@
           "description": "灰度：若以太坊 ETF 获批，近1/4的潜在选民将更有兴趣投资ETH。CryptoQuant创始人：目前政府出售的比特币仅占2240亿美元牛市资金流入的4%。以太坊流动性再质押协议TVL为112.25亿美元。",
           "link": "https://www.web3sj.com/news/116659/",
           "publishedOn": "2024-07-06T13:02:08.000Z",
-          "wordCount": 888,
+          "wordCount": 903,
           "title": "Web3世界日报（2024-7.6）",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/2024070612591133.jpg"
         },
@@ -71,7 +71,7 @@
           "description": "行业的重要动态包括围绕 Web3 游戏未来的广泛讨论、Ronin 宣布即将推出其 Layer 2，以及 Pixels 和 Matr1x FIRE 等游戏中用户参与度的显著变化。随着区块链游戏行业的不断演进，其核心关注点始终在于利用区块链技术打造可持续且引人入胜的游戏体验。",
           "link": "https://www.web3sj.com/gamefinews/116631/",
           "publishedOn": "2024-07-05T15:39:29.000Z",
-          "wordCount": 1263,
+          "wordCount": 1265,
           "title": "6月区块链游戏研报：Pixels引发DAU波动，行业用户留存率差异显著",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1720193931944.png"
         },
@@ -81,7 +81,7 @@
           "description": "Celestia 并非优化虚拟机本身，而是通过允许开发人员构建使用 Celestia 作为 DA（数据可用性）的主权 Rollup，赋予开发人员大幅降低成本和提高吞吐量的能力。当您意识到交易成本可能只有几分之一美分时，加密货币的设计空间就完全打开了。",
           "link": "https://www.web3sj.com/news/116628/",
           "publishedOn": "2024-07-05T15:34:39.000Z",
-          "wordCount": 972,
+          "wordCount": 965,
           "title": "Omni Network联创：对加密VM未来格局的三个预测",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1720193627698.png"
         },
@@ -91,7 +91,7 @@
           "description": "Actions 可简单理解为待签署交易，展开来讲在 Solana 网络中，Actions 可以理解为对交易处理机制的抽象描述，涵盖了交易处理、合约执行和数据操作等多种任务。在应用方面，用户可以通过 Actions 发送交易，包括代币转账、购买数字资产等，同样开发者也是利用 Actions 来调用和执行智能合约，实现复杂的链上逻辑。",
           "link": "https://www.web3sj.com/project/116625/",
           "publishedOn": "2024-07-05T15:31:25.000Z",
-          "wordCount": 1194,
+          "wordCount": 1193,
           "title": "SocialFi探索：Solana Actions&Blinks对决Ethereum Farcaster&Lens",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1720193468732.png"
         },
@@ -101,7 +101,7 @@
           "description": "未来市场走势难预测，但无论如何我们总要学会面对亏损。能否正确度过亏损期，将决定是否能成为市场最终赢家。加密教育者和技术分析师 Duo Nine 分享 6 个应对亏损的策略，供读者参考。",
           "link": "https://www.web3sj.com/transaction/116620/",
           "publishedOn": "2024-07-05T15:26:41.000Z",
-          "wordCount": 938,
+          "wordCount": 988,
           "title": "一夜熊回，收下应对亏损的6个策略",
           "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1720193186899.png"
         }
@@ -427,12 +427,32 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
+          "id": "https://www.techflowpost.com/newsletter/detail_52238.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Coin98 Analytics 报告，Solana 在 Q2 2024 收入超 2600 万美元，同比增长 42 倍。SOL 交易总量达 2920 亿美元，同比增加近 7 倍。\n\nQ2 2024 关键数据：\n\n\n \n 交易量超 153 亿笔\n \n \n \nTVL 达 34 亿美元\n \n \n \n新创建 NFT 超 9800 万个\n \n \n \nUSDC 市值达 21.5 亿美元，占比约 70%",
+          "link": "https://www.techflowpost.com/newsletter/detail_52238.html",
+          "publishedOn": "2024-07-07T10:23:40.000Z",
+          "wordCount": 529,
+          "title": "Solana Q2收入激增42倍，交易总量达 2920 亿美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_52237.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Celo 基金会宣布成功上线 Layer-2 测试网 Dango，基于 Optimism 的 OP Stack 构建，并使用 EigenDA 保持低交易费用。\n\n此次上线保留了 Alfajores 测试网的所有历史数据，核心特点包括：桥接 WETH 和 ERC-20 代币、区块时间减少到 2 秒、支持多种 ERC-20 代币作为燃气货币、通过 SocialConnect 发送资金、保持低燃气费用。预计 2024 年初冬季，Celo Layer-2 主网将正式上线。",
+          "link": "https://www.techflowpost.com/newsletter/detail_52237.html",
+          "publishedOn": "2024-07-07T08:53:19.000Z",
+          "wordCount": 520,
+          "title": "Celo 基金会宣布成功上线 Layer-2 测试网 Dango",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
           "id": "https://www.techflowpost.com/newsletter/detail_52236.html",
           "author": null,
           "description": "深潮 TechFlow 消息，加密研究公司 10x Research 发文表示，比特币在过去一个月内下跌了 20%，其中在亚洲交易时段下跌 13%，表明亚洲许多散户交易者已被清算。\n\n同样；以太坊下跌了 22%，其中在亚洲交易时段下跌 16%。",
           "link": "https://www.techflowpost.com/newsletter/detail_52236.html",
           "publishedOn": "2024-07-07T06:06:18.000Z",
-          "wordCount": 469,
+          "wordCount": 471,
           "title": "10x Research：过去一个月BTC在亚洲交易时段下跌13%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +462,7 @@
           "description": "深潮 TechFlow 消息，ether.fi 宣布已上线 Season 2 空投申领查询界面，据 ether.fi 基金会称，部分（但并非所有）用户如果希望领取其全部补充配额，需要按照相关提示填写一份证明，证明自己不是女巫，提供虚假证明的不良行为者将被取消其分配。",
           "link": "https://www.techflowpost.com/newsletter/detail_52235.html",
           "publishedOn": "2024-07-07T05:21:15.000Z",
-          "wordCount": 463,
+          "wordCount": 465,
           "title": "ether.fi基金会：部分用户申领全部空投配额需提交非女巫证明",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +472,7 @@
           "description": "深潮 TechFlow 消息，MicroStrategy 联合创始人 Michael Saylor发布推文称，比特币设计初衷就是为了“继续获胜”，据其披露数据显示，比特币是自 2011 年以来表现最好的资产，截至 2024 年 7 月 5 日，比特币累计回报率高达18881969%，年化回报率为145.9%，排名第一，其他排名重要资产涨幅分别是：US Growth（16.3%）、US NASDAQ 100（18.99%）、US Large Caps（13.7%）、黄金（3.5%）。",
           "link": "https://www.techflowpost.com/newsletter/detail_52234.html",
           "publishedOn": "2024-07-07T00:29:31.000Z",
-          "wordCount": 483,
+          "wordCount": 485,
           "title": "MicroStrategy联创：BTC是2011年以来表现最好的资产，年化回报率为145.9%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +482,7 @@
           "description": "深潮 TechFlow 消息，10x Research表示，其最初的比特币下跌目标55000美元已达成。比特币短期内似乎超卖，可能出现反弹行情，且预计下周将有宏观经济利好。\n\n此外，SEC可能批准以太坊ETF，这可能短期内带来积极影响。然而，中期来看，他们认为这并不是一个重要的买入机会。",
           "link": "https://www.techflowpost.com/newsletter/detail_52233.html",
           "publishedOn": "2024-07-07T00:06:48.000Z",
-          "wordCount": 457,
+          "wordCount": 459,
           "title": "10x Research：预计下周将有宏观经济利好，中期来看并不是重要买入机会",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +492,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，TURBO 短时突破0.0048美元，现报价0.004778美元，24小时上涨53%。",
           "link": "https://www.techflowpost.com/newsletter/detail_52232.html",
           "publishedOn": "2024-07-06T23:57:51.000Z",
-          "wordCount": 456,
+          "wordCount": 458,
           "title": "TURBO 短时突破0.0048美元，24小时上涨53%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
