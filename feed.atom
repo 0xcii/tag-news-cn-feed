@@ -1,26 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-12T08:19:20.965Z</id>
+    <id>urn:2024-07-12T09:16:25.504Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-12T08:19:20.965Z</updated>
+    <updated>2024-07-12T09:16:25.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[SlowMist创始人：@jeazy_eth不是我们的人，不要接受他的私聊]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52793.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52793.html"/>
-        <updated>2024-07-12T06:59:24.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，SlowMist 创始人余弦分享了一位朋友被钓鱼的案例，并详细解析了两种常见的钓鱼手法。
-
-第一种手法涉及通过 create2 机制创建的新合约地址，受害者在不注意的情况下，被诱导发送了 7.07 ETH 到臭名昭著的 Inferno Drainer 相关地址。
-
-第二种手法是经典的零元购，通过 Blur 市场合约的 bulkExecute 函数批量完成 NFT 转移。
-
-余弦提醒用户，黑暗森林里能保护资产的最终防线是自身的安全知识。并警告大家注意假冒的“安全人员”，SlowMist 安全警报澄清与 @jeazy_eth 无关，谨防其“私信”帮助。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI制定AI五级分类系统，目前其正接近第二级“推理者”]]></title>
         <id>https://panewslab.com/zh/articledetails/xzzdznrd.html</id>
@@ -30,52 +14,6 @@
 OpenAI计划向投资者和外界分享这一分类系统，以帮助人们更好地理解其对AI安全和未来的思考。该分类系统由OpenAI高管和高级领导团队制定，将从员工、投资者和董事会等方面收集反馈，并可能随时间进行调整。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aave Labs发起的“将65万枚GHO用于活动和赞助”的温度检测提案投票即将结束]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52792.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52792.html"/>
-        <updated>2024-07-12T06:32:50.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Aave Labs 发起的“2024 Aave 活动和赞助补助金 ”温度检测提案投票即将结束，目前96.89%投票赞成，提案目标是加强 Aave Protocol 的文化，分享技术知识，并吸引新社区成员。
-
-Aave Labs 请求 650,000 GHO 资助，用于 2024 年余下时间的活动，包括布鲁塞尔的 EthCC（45%）和曼谷的 Devcon（55%）。主要活动包括黑客马拉松、开放金融日、侧活动和 rAAVE 活动等。
-
-Aave Labs 将承担其团队成员的所有费用，本提案不包括这些费用或 Aave Labs 的工作补偿。若提案通过，将进入 AIP 阶段。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XT 夏日迎新季：邀请新用户，最高可得 150U 现金 + 25 枚 XT + 1,000U 体验金奖励]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52791.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52791.html"/>
-        <updated>2024-07-12T06:26:57.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，XT.COM平台推出夏日迎新季活动，邀请新用户参与，即有机会赢取最高150美元现金奖励、25张XT、以及价值1,000美元的体验金。活动期间，用户完成相关任务即可参与抽奖，]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BounceBit 推出 BounceBit Easy，简化比特币和稳定币收益生成]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52790.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52790.html"/>
-        <updated>2024-07-12T06:25:35.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，BTC原生再质押链BounceBit 宣布推出 BounceBit Easy，简化比特币和稳定币收益生成。用户只需一次钱包交互，即可通过无风险套利获得固定收益。无需跨链桥接、无延迟、无清算。固定收益率为 30 天，收益按周分配。
-
-为庆祝推出，所有存款将获得额外 $BB 奖励，年化收益率每日更新，奖励按周分配。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SATS突破0.0(6)21美元，24小时上涨8.51%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52789.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52789.html"/>
-        <updated>2024-07-12T06:21:07.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据HTX行情数据显示，SATS突破0.0(6)21美元，24小时上涨8.51%，创7月以来新高，现报价0.0(6)212美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -89,18 +27,6 @@ Aave Labs 将承担其团队成员的所有费用，本提案不包括这些费�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XT 上线 DOGS 盘前交易活动，赢取 20,000 大奖和 666 XT 红包]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52787.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52787.html"/>
-        <updated>2024-07-12T06:03:19.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，XT推出DOGS盘前交易活动，参与即有机会赢取总额20,000 USDT的大奖和666 XT的红包。
-
-活动时间：2024年7月12日00:00——2024年7月19日24:00（UTC+8）。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MakerDAO正式启动Spark Tokenization Grand Prix大奖赛，旨在将10亿美元的RWA代币化]]></title>
         <id>https://panewslab.com/zh/articledetails/7lc56ito.html</id>
         <link href="https://panewslab.com/zh/articledetails/7lc56ito.html"/>
@@ -108,18 +34,6 @@ Aave Labs 将承担其团队成员的所有费用，本提案不包括这些费�
         <summary type="html"><![CDATA[PANews 7月12日消息，据MakerDAO官方推特宣布，Spark Tokenization Grand Prix大奖赛正式启动，目标是将10亿美元的真实世界资产（RWA）代币化并引入MakerDAO。大赛面向所有创新者和发行人，入选的合作伙伴将获得高达10亿美元的流动性支持。比赛将于2024年8月12日开放申请，由Phoenix Labs和Steakhouse Financial等评委评选，评估标准包括定价、流动性和战略对齐度。最终，MKR代币持有者将通过治理投票选出获胜者。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arbitrum DAO 社区已投票通过「将 3500 万枚 ARB 投资到 RWA 中」提案]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52786.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52786.html"/>
-        <updated>2024-07-12T06:01:02.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Arbitrum DAO 社区已投票通过「将 3500 万枚 ARB 投资到 RWA 中」提案，赞成率为 99.44%。
-
-该提案内容包括将 3500 万枚 ARB 投资到 RWA 中，通过 Securitize 向 BlackRock 的 BUIDL 投资 1100 万枚 ARB，向 Ondo USDY 和 Superstate USTB 分别投资 600 万枚 ARB，向 Mountain USDM、OpenEden TBill 和 Backed Finance blB01 分别投资 400 万枚 ARB。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -133,52 +47,6 @@ Aave Labs 将承担其团队成员的所有费用，本提案不包括这些费�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[孙宇晨：未在6.9万美元价位做多BTC]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52785.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52785.html"/>
-        <updated>2024-07-12T05:51:05.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，波场 TRON 创始人孙宇晨发推称，他对比特币的发展持乐观态度，并对其未来充满信心。然而，他澄清自己并未在 $69,000 价位做多比特币。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nillion 公测结束，现可构建和部署 Blind Apps]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52784.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52784.html"/>
-        <updated>2024-07-12T05:47:26.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Nillion宣布Incentivized Genesis Sprint 已结束，社区完成了协调层公测网的负载测试和性能评估。
-
-Nillion 现已进入 Catalyst Convergence 阶段，实现 Petnet 与协调层的无缝集成，为 DApp 开发带来新可能。用户可在 Nillion 网络上构建和部署 Blind Apps，使用 $NIL 测试代币，并利用 Petnet 进行安全存储和计算。
-
-此外，Nillion 发布了 Nada AI 和 Nada Numpy 库，帮助开发者构建隐私保护的 AI 应用。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polyhedra Network 推出新 L1 区块链 ZKJ Chain]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52783.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52783.html"/>
-        <updated>2024-07-12T05:41:22.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，ZK 互操作基础设施 Polyhedra Network 发推称，推出 ZKJ Chain —— 一种通过零知识（ZK）实现联合计算的新 Layer-1 区块链。其表示，世界上最强大的超级计算机即将到来。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter联创：作为华侨想与中文社区多交流，探讨JUP、PPP的发展等]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52782.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52782.html"/>
-        <updated>2024-07-12T05:38:18.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Jupiter 联合创始人 meow 在社交媒体上表示，希望与中文社区的朋友们多多交流，并深入解析 PPP、J4J、UGM、GUM、JUP 的长期发展等想法。meow 还提到自己是华侨，因此讲华语让他感到开心。
-
-meow 正考虑开设一个中文的 Twitter 或其他平台，但不知如何开始。他希望得到大家的建议和指教。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Variant前投资合伙人Mason Nystrom已加入Pantera Capital的投资团队]]></title>
         <id>https://panewslab.com/zh/articledetails/pzon2xq3.html</id>
         <link href="https://panewslab.com/zh/articledetails/pzon2xq3.html"/>
@@ -186,74 +54,6 @@ meow 正考虑开设一个中文的 Twitter 或其他平台，但不知如何开
         <summary type="html"><![CDATA[PANews 7月12日消息，据Mason Nystrom推特宣布，他已加入Pantera Capital的投资团队，将专注于投资推动加密行业发展的创始人。Mason此前是Variant的投资合伙人，也曾在Messari和ConsenSys工作，专注于加密应用层。他在Pantera的初步关注点是投资下一代加密应用，旨在吸引数千万用户。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compound Labs网站已恢复安全，建议重启浏览器以确保访问正确的网站]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52781.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52781.html"/>
-        <updated>2024-07-12T05:09:48.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Compound Labs 发布推文称，目前 compound.finance 网站已恢复安全。用户在点击链接时需始终保持警惕，以避免网络钓鱼诈骗。
-
-用户需要重启浏览器以确保访问正确的网站，并注意核对 URL 信息。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第137次以太坊ACDC会议：Pectra Devnet 1 准备下周启动]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52780.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52780.html"/>
-        <updated>2024-07-12T05:08:19.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Galaxy 研究副总裁 Christine Kim 发文总结第 137 次 ACDC 电话会议主要内容，开发人员讨论了 Pectra Devnet 1 和 PeerDAS Devnet 1 的进展。会议由以太坊基金会研究员 Alex Stokes 主持。
-
-Pectra Devnet 1 准备下周启动，开发者正在测试不同客户端组合。PeerDAS Devnet 1 正在修复错误，预计本周末重新启动。
-
-此外，Consensys 的 TxRx 团队介绍了分叉选择测试生成器的初始版本，旨在识别可能导致链分叉的客户端软件错误。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeta Markets：已有13456名早期质押者获得2000万枚ZEX空投资格]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52779.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52779.html"/>
-        <updated>2024-07-12T05:03:52.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，基于 Solana 构建的 DeFi 衍生品Zeta Markets 宣布，两周内已有超过 1970 万枚 ZEX 被质押。
-
-13456 名早期质押者已经有资格获得 2000 万枚 ZEX（占供应量的 2%）质押空投。用户可在 7 月 25 日（Genesis Epoch 结束）之前质押 ZEX 来获取空投资格。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etherscan推出Blockscan多链浏览器Beta版本，已支持26 条主流链]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52778.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52778.html"/>
-        <updated>2024-07-12T05:01:48.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Etherscan 宣布推出 Blockscan Multichain Explorer（Blockscan 多链浏览器）Beta 版本，可供用户查看日常链上交互信息。
-
-据悉，当前该浏览器支持 26 条主流链，未来还将新增更多支持。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mode宣布$MODE在LayerZero的帮助下成为全链资产，已扩展至以太坊和OP主网]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52777.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52777.html"/>
-        <updated>2024-07-12T05:00:08.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，模块化L2网络Mode宣布$MODE代币已成为全链资产，首批扩展至以太坊和OP主网。此举由LayerZero的全链可替代代币（OFT）标准支持，增加了$MODE在DeFi中的可访问性。
-
-
- 
- 在以太坊上，$MODE可作为Uniswap V3上的流动性使用；
- 
- 
- 
-在Optimism上，Mode与Velodrome合作推出新池。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -277,40 +77,6 @@ Pectra Devnet 1 准备下周启动，开发者正在测试不同客户端组合�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前Variant Fund投资合伙人Mason Nystrom加入Pantera Capital投资团队]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52776.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52776.html"/>
-        <updated>2024-07-12T04:43:23.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，前 Messari 分析师、Variant Fund 投资合伙人 Mason Nystrom 发布推文称，其已加入 Pantera Capital 投资团队，帮助投资推动加密行业发展的创始人，并与Paul、Dan、Franklin、Lauren、Ryan、Nihal及其他成员合作，将专注于投资下一代加密应用。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEPE早期投资者转移424万美元PEPE至新地址，已浮盈5070 倍]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52775.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52775.html"/>
-        <updated>2024-07-12T04:22:38.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据AI姨监测，PEPE 早期投资者在沉睡四个月后将 4511 亿枚 $PEPE 转移至新地址 0xd0f...8aa69，价值 424 万美金，已浮盈 5070 倍。
-
-该巨鲸在 PEPE 上线三天后花费 1.86 ETH（3889 美金）买入了 22360 万亿枚代币，均价仅 $0.000000001739；他卖出大部分代币后已将剩余部分分发至三个地址。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOGS推出法币购买Stars功能，引发社区对官方卖币和代币无限增发的质疑]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52774.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52774.html"/>
-        <updated>2024-07-12T04:16:52.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Telegram原生Meme项目DOGS内置Telegram Stars购买功能，可直接通过法币购买。此举引起加密社区广泛讨论，称这或许是官方卖币行为，而代币总量则可无限增发，引发社区质疑。
-
-据悉，Telegram Stars 是虚拟物品，允许用户在 Telegram 生态系统内从机器人和小程序购买数字商品和服务，向 Telegram 平台上的内容创作者赠送礼物等。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第137次以太坊ACDC会议：讨论Pectra Devnet 1和PeerDAS Devnet 1进展]]></title>
         <id>https://panewslab.com/zh/articledetails/v9zo7um3.html</id>
         <link href="https://panewslab.com/zh/articledetails/v9zo7um3.html"/>
@@ -321,34 +87,6 @@ PeerDAS Devnet 1方面，EF DevOps工程师Barnabas Busa表示CL客户端团队�
 TxRx研究团队实施了初版分叉选择测试生成器，旨在识别可能导致链分裂的客户端软件错误，并请求反馈以完善测试套件。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1confirmation创始人：未来十年加密应用将渗透各领域，Polymarket、dYdX等成功案例值得借鉴]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_52773.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_52773.html"/>
-        <updated>2024-07-12T04:06:23.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，1confirmation 创始人 Nick Tomaino 表示，未来十年加密应用将渗透文化的各个方面。过去十年专注于深度技术和金融，未来十年将看到加密消费应用与新闻、政治、体育、健康/健身、音乐、直播视频和播客等领域的融合。
-
-Tomaino 认为，尽管资本分配者仍在投资无创意的零和产品，但实际上，开发者正在静静地开发能够促进新消费行为的产品，目标是尽快达到 10 亿用户并造福世界。他还分享了下一代消费加密应用的四大经验教训：
-
-
- 
- Polymarket：坚持信念，专注于超越赚钱的目标，并长期坚持。
- 
- 
- 
-Coinbase：平衡专业和大众用户，找到两者之间的平衡。
- 
- 
- 
-Opensea：深入了解用户和市场文化，理解用户需求。
- 
- 
- 
-dYdX：创造自己的用户群体，独立创新，避免依赖现有链。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
