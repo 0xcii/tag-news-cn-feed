@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-13T04:17:10.335Z</id>
+    <id>urn:2024-07-13T05:14:30.427Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-13T04:17:10.335Z</updated>
+    <updated>2024-07-13T05:14:30.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[比特币现货ETF昨日总净流入3.10亿美元，历史累计净流入达158.11亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/eqrtc5sq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/eqrtc5sq.html"/>
+        <updated>2024-07-13T04:08:37.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，SoSoValue数据显示，昨日（美东时间7月12日）比特币现货ETF总净流入3.10亿美元，其中灰度GBTC单日净流入2300.81万美元，目前GBTC历史净流出为186.38亿美元。单日净流入最多的比特币现货ETF为贝莱德IBIT，单日净流入为1.20亿美元，目前IBIT历史总净流入达182.62亿美元。其次为富达FBTC，单日净流入为1.15亿美元，目前FBTC历史总净流入达97.19亿美元。截至目前，比特币现货ETF总资产净值为513.38亿美元，ETF净资产比率（市值较比特币总市值占比）达4.52%，历史累计净流入已达158.11亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法官将针对Tornado Cash开发者Roman Storm的审判推迟至12月]]></title>
+        <id>https://panewslab.com/zh/articledetails/gmklwqhk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/gmklwqhk.html"/>
+        <updated>2024-07-13T04:02:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，据CoinDesk报道，在周五的听证会上，美国法官将原定于9月举行的对Tornado Cash开发者Roman Storm的审判推迟到12月2日。检察官Thane Rehn表示，预计审判将持续两周。美国司法部针对Roman Storm案件的核心问题是他是否创建了该软件或控制了服务。在周五的听证会上，Waymaker LLP的辩护律师Brian Klein辩称，Storm在2020年5月之后就不再控制Tornado Cash了。在这段时间里，司法部指控Storm运行Tornado Cash违反了法律。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lava Network重新上线Vesuvius空投申领资格检查页面]]></title>
+        <id>https://panewslab.com/zh/articledetails/1rqtpc7m.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1rqtpc7m.html"/>
+        <updated>2024-07-13T03:33:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，模块化区块链基础设施开发商Lava Network推特发文称，Vesuvius空投申领资格检查页面已重新上线，其变更如下：
+-代码现在会验证用户提交的钱包是否为Lava有效钱包（检查是否合格并查看消息）；
+-对于那些提交了无效地址的用户，新页面现在提供了另一个流程来回收和覆盖地址；
+-这是LAVA在公共主网上推出时被发送到的地址；
+-不再允许粘贴地址，为了改进UX，用户必须连接一个有效的Keplr Wallet/Leap Cosmos钱包。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[持有1万-100万枚LINK的鲸鱼群体自6月24日以来共计增持920万枚LINK]]></title>
+        <id>https://panewslab.com/zh/articledetails/ne9fytxk.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ne9fytxk.html"/>
+        <updated>2024-07-13T03:22:32.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，Santiment推特发文称，在当前市场中，持有1万-100万枚LINK的Chainlink主要利益相关者一直在大量积累。自6月24日以来，该群体已经增持920万枚LINK，总持仓增加了4.65%。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OTF今日将完全开放Bittensor主网，并发布Bittensor 7.3.0版本]]></title>
+        <id>https://panewslab.com/zh/articledetails/0dh1e6qr.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0dh1e6qr.html"/>
+        <updated>2024-07-13T03:18:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，OpenTensor基金会今日凌晨推特发布关于Bittensor的最新进展：1、恢复Bittensor正常运作：在不到一个小时的时间里，OTF将完全开放Bittensor主网；2、测试网今日无需更新；3、Bittensor 7.3.0将于今日发布，该版本将引入以下变更：-基于共识的权重特性现在可以在“主（master）”分支中使用；-新增btcli 命令选项check_coldkey_swap，将使用户能够检查在链上执行预定的coldkey swap之前的剩余时间，或者查看其是否处于仲裁状态。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta将解除对特朗普Facebook和Instagram账户的封禁]]></title>
+        <id>https://panewslab.com/zh/articledetails/ztoo14on.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ztoo14on.html"/>
+        <updated>2024-07-13T02:48:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，据CNBC报道，随着2024年美国总统大选的临近，Meta周五表示将取消之前对前总统特朗普Facebook和Instagram账户实施的任何处罚和限制。该公司首次对特朗普的社交媒体账户采取行动是在2021年，也就是1月6日华盛顿特区发生骚乱后不久。当时，Meta认为特朗普的一些行为存在煽动暴力的潜在风险，因此暂停了其账户，为期两年。2023年1月，Meta 表示将恢复特朗普在其平台上的身份，他在次月重新获得了对账户的访问权。但特朗普仍然受到剩余的处罚和限制，这可能导致他的社交媒体账户面临长期封禁。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国CFTC、司法部、FBI等多家联邦机构将联合打击加密诈骗]]></title>
+        <id>https://panewslab.com/zh/articledetails/qzkw865g.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qzkw865g.html"/>
+        <updated>2024-07-13T01:56:21.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，据Bitcoin.com报道，美国CFTC和司法部（DOJ）国家加密货币执法小组（NCET）本周举行了首届打击诈骗（Fraud Disruption）会议，以解决杀猪盘等加密骗局。此类骗局每年导致美国民众损失数十亿美元，使其成为关键的执法重点。参与此次会议的机构包括美国联邦调查局（FBI）、社会保障局、美国财政部、美国缉毒局（DEA）、美国邮政检查局、美国特勤局、美国哥伦比亚特区检察官办公室、美国马萨诸塞州检察官办公室和美国SEC等。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某Uniswap团队/投资人/顾问地址3小时前向Coinbase Prime转移119万枚UNI]]></title>
+        <id>https://panewslab.com/zh/articledetails/x84ji7dn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/x84ji7dn.html"/>
+        <updated>2024-07-13T01:35:39.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，据链上分析师余烬监测，某Uniswap团队/投资人/顾问地址在3小时前继续向Coinbase Prime转移了119万枚UNI（962万美元）。该地址在最近9天里一共将355万枚UNI（2982万美元）转入Coinbase Prime。在2020年9月从Uniswap团队/投资人/顾问代币分发合约获得的900万枚UNI目前还剩余545万枚（4424万美元）。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝莱德BUIDL和Ondo等发行商计划申请MakerDAO 10亿美元国债代币化计划]]></title>
+        <id>https://panewslab.com/zh/articledetails/qa131430.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qa131430.html"/>
+        <updated>2024-07-13T01:13:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 7月13日消息，据CoinDesk报道，贝莱德旗下BUIDL、Superstate和Ondo Finance计划申请MakerDAO的10亿美元国债代币化计划。据此前消息，MakerDAO宣布正式启动Spark Tokenization Grand Prix大奖赛，目标是将10亿美元的真实世界资产（RWA）代币化并引入MakerDAO。大赛面向所有创新者和发行人，入选的合作伙伴将获得高达10亿美元的流动性支持。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI 正在开发代号为“草莓”的新人工智能模型]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_52853.html</id>
