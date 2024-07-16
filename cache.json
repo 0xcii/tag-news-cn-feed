@@ -113,13 +113,203 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
-          "id": "https://panewslab.com/zh/articledetails/o8xed3xi.html",
+          "id": "https://panewslab.com/zh/articledetails/yq8h2g9f.html",
           "author": "PA一线",
-          "description": "PANews 7月17日消息，据CoinDesk报道，基于意图的基础设施协议Ava Protocol（前身为OAK Network）已在以太坊上推出主网。团队表示，这将使开发人员能够在没有自定义代码的情况下集成事件驱动的超级交易，简化复杂的链上操作，提供以太坊虚拟机之外的高级功能，支持支付和动态NFT铸造等自动化任务。据此前消息，Ava Protocol完成了1000万美元种子轮融资，投资者包括Electric Capital、Taisu Ventures和Polygon创始人Sandeep Nailwal。",
-          "link": "https://panewslab.com/zh/articledetails/o8xed3xi.html",
-          "publishedOn": "2024-07-16T16:56:47.000Z",
-          "wordCount": 360,
-          "title": "Ava Protocol已在以太坊推出主网",
+          "description": "PANews 7月16日消息，跨链交易聚合器LI.FI发文表示，今日早些时候发生的智能合约漏洞已被遏制，受影响的智能合约部分已被禁用。目前用户不再面临风险。受影响的钱包仅限于设置了无限授权的钱包，且数量非常少。LI.FI团队正在与适当的执法机构和相关第三方（包括来自行业的安全团队）合作，以追踪被盗资金。团队将尽快发布更详细的事后分析。",
+          "link": "https://panewslab.com/zh/articledetails/yq8h2g9f.html",
+          "publishedOn": "2024-07-16T15:53:15.000Z",
+          "wordCount": 340,
+          "title": "LI.FI：智能合约漏洞已被遏制，目前用户不再面临风险",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/mjrodd86.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，Coinglass数据显示，过去24小时加密货币市场全网合约爆仓2.30亿美元，共有73,037人被爆仓，其中多单爆仓9243.75万美元，空单爆仓1.37亿美元。BTC爆仓总金额7691.22万美元，ETH爆仓总金额4342.90万美元。最大单笔爆仓单发生在Binance - BTCUSDT，价值541.95万美元。",
+          "link": "https://panewslab.com/zh/articledetails/mjrodd86.html",
+          "publishedOn": "2024-07-16T15:46:20.000Z",
+          "wordCount": 354,
+          "title": "过去24小时全网合约爆仓2.3亿美元，主爆空单",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dkh1a5xq.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据华尔街日报报道，知情人士说，美国证交会已告知几家资产管理公司，首批现货以太坊ETF可能于下周二（7月23日）推出。在资产管理公司本周提交最后一轮申报文件后，预计该机构将于下周一宣布ETF注册声明生效。一旦声明生效，现货以太坊ETF就可以开始交易了。",
+          "link": "https://panewslab.com/zh/articledetails/dkh1a5xq.html",
+          "publishedOn": "2024-07-16T15:28:01.000Z",
+          "wordCount": 344,
+          "title": "知情人士：首批以太坊现货ETF可能于7月23日推出",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1tnp9eh4.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据《爱尔兰独立报》报道，在线支付巨头Stripe将其加密货币购买服务扩展到欧盟市场，使欧洲用户可以使用信用卡或借记卡购买比特币、以太坊、Solana等加密货币。Stripe最近宣布支持稳定币支付，交易可以即时结算并自动转换为非加密货币（如欧元或美元）。Stripe将为在线供应商提供一个加密货币购买“小部件”，处理相关的费用、争议和KYC监管责任。",
+          "link": "https://panewslab.com/zh/articledetails/1tnp9eh4.html",
+          "publishedOn": "2024-07-16T15:18:02.000Z",
+          "wordCount": 344,
+          "title": "Stripe将其加密货币购买服务拓展至欧洲市场",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/h1exmfg9.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据Beosin Alert监控预警发现，跨链协议LI.FI遭受攻击。Beosin安全团队发现漏洞原因是攻击者利用项目合约的call注入将授权给合约的用户资产转移走。LI.FI项目合约中的depositToGasZipERC20函数可将指定代币兑换为平台币并存入GasZip合约，但在兑换逻辑处的代码未对call调用的数据进行限制，导致攻击者可利用此函数进行call注入攻击，提取走给合约授权用户的资产。总损失金额约1000万美元，其中包括633.59万USDT、319.19万USDC、16.95万DAI。\n攻击者地址：0x8B3Cb6Bf982798fba233Bca56749e22EEc42DcF3\n被攻击合约：0x1231DEB6f5749EF6cE6943a275A1D3E7486F4EaE",
+          "link": "https://panewslab.com/zh/articledetails/h1exmfg9.html",
+          "publishedOn": "2024-07-16T15:12:26.000Z",
+          "wordCount": 357,
+          "title": "Beosin：跨链协议LI.FI遭受攻击事件分析",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/g9ov1qgt.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据Revoke.cash推特，LI.FI协议今日早些时候遭遇了代币授权漏洞。Revoke.cash已经发布了轻松检查和撤销单个地址权限的漏洞检查工具，用户可以快速检查自己（的地址）是否受到影响。目前已知主要受影响的是以太坊网络，其他链上的部分合约也存在类似问题。\n今日稍早报道，LI.FI因漏洞已损失超1000万美元。",
+          "link": "https://panewslab.com/zh/articledetails/g9ov1qgt.html",
+          "publishedOn": "2024-07-16T14:58:22.000Z",
+          "wordCount": 354,
+          "title": "Revoke.cash就“LI.FI协议漏洞”推出漏洞检查工具",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1sp10cep.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据Chainwire报道，位于新加坡的金融科技初创公司PEXX宣布成功完成450万美元的种子轮融资。此次融资由TNB Aura领投，Antler和EMO Capital等多家知名风投和加密投资者参与。PEXX将利用这笔资金开发其创新的稳定币到法币支付平台，旨在简化跨境货币转移流程。\n该平台允许用户将Tether（USDT）和Circle（USDC）直接转账至全球银行账户，无需中介或银行账户。融资将用于加强公司的工程和产品团队，并扩大其在东南亚的市场营销和业务发展。此外，EMO Capital将协助PEXX进行Web3营销、品牌推广和战略合作。\nPEXX已获得澳大利亚交易报告和分析中心（AUSTRAC）的注册认证，确保其作为独立汇款商和数字货币交易提供商的合规运营。PEXX平台支持将稳定币转换为16种不同的法币，并直接转入银行账户，大大简化了加密货币到法币的转换过程。",
+          "link": "https://panewslab.com/zh/articledetails/1sp10cep.html",
+          "publishedOn": "2024-07-16T14:45:01.000Z",
+          "wordCount": 383,
+          "title": "稳定币跨境支付平台PEXX完成450万美元的种子轮融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fss8qlbh.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据华尔街日报报道，美国前总统唐纳德·特朗普的竞选活动在上季度通过加密货币筹集了300万美元，总筹款额达到3.31亿美元。约有100人通过比特币和以太坊等加密货币向其竞选活动捐款，其中包括Winklevoss兄弟和Kraken联合创始人Jesse Powell等高知名度行业人物。",
+          "link": "https://panewslab.com/zh/articledetails/fss8qlbh.html",
+          "publishedOn": "2024-07-16T14:36:34.000Z",
+          "wordCount": 370,
+          "title": "特朗普竞选团队上季度共筹款约3.31亿美元，其中加密货币捐款达300万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/hl6xtuw8.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据MistTrack，LI.FI协议的当前资金泄露总额已超过1000万美元，调查仍在进行中，资金可能会再次转移。建议尚未撤销授权的用户立即使用Revoke.cash进行操作。以下是需要加入黑名单的地址列表：\n- 0x9cc9305cb588a001ced32bc6c9d752d3d8b279e6\n- 0x8a93360f6c9830210a4cf835fca943286221a349\n- 0xcb7c341dc6172b642dcf4a14015be70a27e5b31e\n- 0x8b3cb6bf982798fba233bca56749e22eec42dcf3\n- 0x5367159bcbb2cda37526171a1d3439dea5dbf4e7\n- 0x6a6df7cf485fdc6e6f7d4a8b818e1eacc31e664e\n- 0xcb7c341dc6172b642dcf4a14015be70a27e5b31e",
+          "link": "https://panewslab.com/zh/articledetails/hl6xtuw8.html",
+          "publishedOn": "2024-07-16T14:31:18.000Z",
+          "wordCount": 384,
+          "title": "MistTrack：LI.FI因漏洞已损失超1000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/24wugnov.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据Uniswap Labs官方推特宣布，Uniswap扩展程序现已面向所有用户开放，可在Google Chrome应用商店下载。该扩展程序支持11个区块链网络，包括以太坊、Base、Arbitrum、Optimism、Polygon、Blast、ZKsync、Zora Network、BNB Chain、Avalanche和Celo。该插件允许用户在浏览器侧边栏内进行加密货币交换、铸币和查看所有代币。扩展程序提供MEV保护、更快的报价和跨链资产查看功能，旨在为用户提供最佳的交换体验。用户可通过按cmd/ctrl + shift + U来调用扩展程序。",
+          "link": "https://panewslab.com/zh/articledetails/24wugnov.html",
+          "publishedOn": "2024-07-16T14:10:10.000Z",
+          "wordCount": 374,
+          "title": "Uniswap Labs：Uniswap扩展程序现已面向所有用户开放",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/m6l4j9p5.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据The Information报道，著名风险投资家马克·安德里森（Marc Andreessen）和本·霍罗威茨（Ben Horowitz）计划向特朗普政治行动委员会（PAC）捐款。",
+          "link": "https://panewslab.com/zh/articledetails/m6l4j9p5.html",
+          "publishedOn": "2024-07-16T13:38:51.000Z",
+          "wordCount": 386,
+          "title": "Marc Andreessen和Ben Horowitz计划向特朗普政治行动委员会捐款",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/g4qo4k5h.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据CoinDesk报道，Loka与可持续矿业公司Hashlabs合作，推出了面向机构投资者的比特币挖矿池。该协议允许矿工以折扣价向机构投资者出售其未来的比特币奖励，获取即时现金流以用于运营。通过远期算力合约，投资者可以以低于市场的价格获得比特币，而矿工则可以对冲市场波动风险。\nLoka创始人Andy Fajar Handika表示，该协议为矿工提供了非托管、信任最小化的比特币访问方式，回报他们为网络提供的必要服务。Loka的投资者和支持者包括BTC Startup Lab、Dfinity Foundation、Outlier Ventures和Kilonova Ventures。",
+          "link": "https://panewslab.com/zh/articledetails/g4qo4k5h.html",
+          "publishedOn": "2024-07-16T13:34:54.000Z",
+          "wordCount": 382,
+          "title": "Loka与矿企Hashlabs合作推出面向机构投资者的比特币挖矿池",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ekmy4zfj.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，The Open Platform (TOP)今日宣布对 PLUTO Studio 进行重大投资。PLUTO Studio 是 Catizen.AI 的发行平台。作为 TON 生态系统中最大的建设者之一，此项战略投资强调了 TOP 对 TON 区块链生态系统的早期和大力支持，并重申了其促进内部创新的承诺。\nCatizen 是 PLUTO Studio 发行的首个项目，已在 Telegram 小应用生态系统中取得显著成功，并获得多方高度评价。TOP 创始人兼 CEO Andrew Rogozov 表示：“Catizen 团队推出的社交游戏在 Telegram 小应用生态系统中树立了新标准，与这个杰出的团队合作是一种荣誉。”\n此次投资标志着 TOP 对 Catizen 和 PLUTO Studio 潜力的高度认可，并对 TON 生态系统中游戏部门的未来发展充满信心。PLUTO Studio 将致力于将 Catizen 打造成注意力经济中心，并通过该平台不断推出更多小游戏，推动生态系统的整体增长和发展。",
+          "link": "https://panewslab.com/zh/articledetails/ekmy4zfj.html",
+          "publishedOn": "2024-07-16T13:30:39.000Z",
+          "wordCount": 522,
+          "title": "The Open Platform (TOP) 宣布投资 Catizen.AI 发行平台 PLUTO Studio",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/92bj52ax.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据Worldcoin官方博客，Tools for Humanity宣布延长早期Worldcoin贡献者的代币锁定期。自2024年7月24日起，Tools for Humanity团队成员和投资者的WLD代币锁定期从原定的3年延长至5年。",
+          "link": "https://panewslab.com/zh/articledetails/92bj52ax.html",
+          "publishedOn": "2024-07-16T13:16:49.000Z",
+          "wordCount": 367,
+          "title": "Tools for Humanity宣布延长早期Worldcoin贡献者的代币锁定期",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/lh630gk8.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据CoinDesk报道，Polygon Labs推出了最新的零知识证明系统“Plonky3”，作为开源工具包发布。Plonky3设计更灵活，允许ZK开发人员构建基于ZK密码学的虚拟机。Polygon联合创始人Daniel Lubarov表示，Plonky3比2022年推出的Plonky2更具普适性。该系统旨在通过生成摘要证明链下交易，从而确保交易执行正确或区块链状态更新。",
+          "link": "https://panewslab.com/zh/articledetails/lh630gk8.html",
+          "publishedOn": "2024-07-16T13:13:42.000Z",
+          "wordCount": 355,
+          "title": "Polygon推出全新ZK证明系统“Plonky3”作为开源工具包",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/q0lhavy6.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据Bitcoinist报道，去中心化永续合约交易平台MYX Finance今日宣布启动新一轮空投活动：“起源计划——志留纪”。预计活动将空投500万枚$MYX代币和500万枚$ZKP代币，用户可通过社交媒体互动、好友邀请等方式0成本赚空投，或通过完成交易任务赢得金币、银币，并有机会在活动结束后按比例获得代币空投。此次活动与平台长期空投积分活动同步进行，用户交易、持有$MLP还可赢得积分。志留纪活动预计将于8月14日结束，长期空投积分活动将持续进行，目前生态用户正积极参与中。\nMYX Finance作为第三代新型DDEX，自2月份上线以来，凭借其创新的MPM机制实现了零滑点、低手续费的卓越交易体验，迅速崛起于Perp DEX市场，被誉为“有史以来增速最快的衍生品协议”。目前，MYX Finance的日交易量已突破2亿美元，并受到行业资本和用户的广泛关注。去年11月，MYX Finance以5000万美元估值完成种子轮融资，由HongShan（Sequoia China）领投，Consensys、Hack VC、OKX Ventures等资本参与。自那时起，MYX Finance与OKX、Izumi、zkPASS、Pyth等机构达成多项战略合作，持续为生态与用户提供增值服务。",
+          "link": "https://panewslab.com/zh/articledetails/q0lhavy6.html",
+          "publishedOn": "2024-07-16T13:06:28.000Z",
+          "wordCount": 416,
+          "title": "MYX Finance开启“起源计划——志留纪”活动：零成本可赢500万枚$MYX、500万枚$ZKP、Airdrop Gems等多重福利",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ch66o468.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，跨链桥聚合器LI.FI官推发文表示，目前正在调查潜在漏洞，建议用户暂时不要使用任何由LI.FI驱动的应用程序。只有手动设置了无限授权的用户受到影响，建议这些用户立即撤销对以下地址的所有授权：0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae, 0x341e94069f53234fE6DabeF707aD424830525715, 0xDE1E598b81620773454588B85D6b5D4eEC32573e, 0x24ca98fB6972F5eE05f0dB00595c7f68D9FaFd68。用户可使用revoke.cash进行授权撤销。\n随后，加密钱包Phantom表示：因LI.FI漏洞，将关闭跨链交易，直至另行通知。并建议用户撤销对以上四个地址的所有授权。\n今日稍早报道，LI.FI协议有可疑交易，导致用户损失超800万美元",
+          "link": "https://panewslab.com/zh/articledetails/ch66o468.html",
+          "publishedOn": "2024-07-16T13:01:43.000Z",
+          "wordCount": 367,
+          "title": "LI.FI：正在调查可能的漏洞问题，只有手动设置了无限授权的用户受到影响",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2vs26p79.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，区块链安全机构Cyvers Alerts发推称，LI.FI协议被发现有可疑交易，导致用户损失超过800万美元，主要是稳定币。攻击者正在将USDC和USDT兑换成ETH。建议用户立即撤销对地址0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae的授权。\n据PeckShield分析，该漏洞与其2022年3月20日遭受的早期黑客攻击基本相同。",
+          "link": "https://panewslab.com/zh/articledetails/2vs26p79.html",
+          "publishedOn": "2024-07-16T12:52:00.000Z",
+          "wordCount": 354,
+          "title": "Cyvers：LI.FI协议有可疑交易，导致用户损失超800万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/s52fopbt.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据美国联邦选举委员会（FEC）文件显示，独立支出政治行动委员会（Super PAC）Commonwealth Unity Fund在2024年4月15日和5月15日分别收到来自Ludlow Street Advisors LLC创始人James Murphy的5万美元捐款以及来自Ripple Labs Inc的100万美元捐款。\n据悉，该委员会将支持Ripple律师John Deaton参与马萨诸塞州参议院席位竞选，以取代参议员 Elizabeth Warren。此前还报道，亲加密货币律师John Deaton在第一季度的竞选筹款中超过沃伦。\n此前5月报道，Ripple再次向加密政治行动委员会Fairshake捐赠2500万美元。",
+          "link": "https://panewslab.com/zh/articledetails/s52fopbt.html",
+          "publishedOn": "2024-07-16T12:45:11.000Z",
+          "wordCount": 407,
+          "title": "Ripple Labs曾于5月15日捐款100万美元以支持其律师竞选州参议院席位",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ockpu5sl.html",
+          "author": "PA一线",
+          "description": "PANews 7月16日消息，据The Block报道，专注于去中心化机器学习基础设施的加密AI初创公司Mira从隐秘模式中浮现，完成了由Bitkraft Ventures和Framework Ventures共同领投的900万美元种子轮融资。Mira的联合创始人Sidhartha Doddipalli和Karan Sirdesai表示，该平台旨在帮助开发者快速构建AI原生应用，已有十多个项目使用Mira的基础设施开发AI应用。Mira计划在未来推出区块链记录平台交易。Mira目前在新加坡和印度拥有25名员工，Sirdesai计划再招聘至少5名工程人员来扩大团队。",
+          "link": "https://panewslab.com/zh/articledetails/ockpu5sl.html",
+          "publishedOn": "2024-07-16T12:33:19.000Z",
+          "wordCount": 364,
+          "title": "加密AI初创公司Mira完成900万美元种子轮融资，Bitkraft Ventures和Framework Ventures共同领投",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
