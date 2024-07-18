@@ -427,13 +427,503 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
-          "id": "https://www.techflowpost.com/newsletter/detail_53393.html",
+          "id": "https://www.techflowpost.com/newsletter/detail_53386.html",
           "author": null,
-          "description": "深潮 TechFlow 消息，据官方消息，Coinbase International Exchange 和 Coinbase Advanced 将支持 Bittensor (TAO)、Toncoin (TON) 和 Tellor (TRB) 的永续合约交易。TAO-PERP、TON-PERP 和 TRB-PERP 市场将于 2024 年 7 月 25 日 UTC 时间上午 9:30（北京时间下午 17:30）或之后开始交易。",
-          "link": "https://www.techflowpost.com/newsletter/detail_53393.html",
-          "publishedOn": "2024-07-18T16:12:24.000Z",
-          "wordCount": 540,
-          "title": "Coinbase International 将上线 TAO、TON 和 TRB 永续合约交易",
+          "description": "深潮 TechFlow 消息，7月18日，据 Crypto.news 报道，新加坡加密货币交易所 Bitrue 宣布设立 4000 万美元投资基金，旨在支持新兴 Web3 公司。Bitrue Ventures 将为初创公司提供最高 20 万美元的资金支持，以及开发专业知识、行业连接和管理支持。该基金优先考虑人工智能 (AI)、现实资产代币化 (RWA)、GameFi、去中心化物理基础设施网络 (DePIN) 和去中心化金融 (DeFi) 等领域的项目。此外，Bitrue Ventures 还表示，有意发行自身代币的初创公司有机会在 Bitrue 上市。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53386.html",
+          "publishedOn": "2024-07-18T14:42:53.000Z",
+          "wordCount": 532,
+          "title": "加密交易所 Bitrue 推出 4000 万美元基金支持 Web3 初创公司",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53385.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据 CNBC 报道，OpenAI 周四推出了新 AI 模型“GPT-4o mini”，OpenAI 称其为“目前最强大且成本效益最高的小模型”，并计划未来集成图像、视频和音频功能。\n\nGPT-4o mini 是 GPT-4o 的衍生版本，具备更快的速度和更高的质量，支持 50 种语言。GPT-4o mini 从周四起对所有 ChatGPT 用户开放，下周将向企业用户开放。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53385.html",
+          "publishedOn": "2024-07-18T14:38:32.000Z",
+          "wordCount": 510,
+          "title": "OpenAI 发布新版 AI 模型 GPT-4o mini",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53384.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Yahoo Finance 报道，Grayscale Investments 宣布将于 7 月 18 日为 Grayscale Ethereum Trust（ETHE）股东创建并分发 Grayscale Ethereum Mini Trust (ETH Trust) 的股份。该信托计划在 NYSE Arca 上市，股票代码为 \"ETH\"。从 7 月 18 日起购买 ETHE 股份的股东将不再有资格获得初始分配的 ETH 股份。预计分配日期为 2024 年 7 月 23 日，具体取决于监管审批。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53384.html",
+          "publishedOn": "2024-07-18T14:34:33.000Z",
+          "wordCount": 559,
+          "title": "灰度：将为7月18日前购买 ETHE 的股东分配 ETH Trust 股份",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53383.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据 The Block 报道，社交网络图谱协议 Lens 计划在未来一到两个月内发布其 ZKsync 版本的公共测试网，并在三到四个月后上线主网。Lens V3 将在主网发布后不久上线，初期将包括一些隐私功能，最终目标是通过 AI 训练模型实现用户数据变现。\n\nLens 创始人兼 CEO Stani Kulechov 表示，Lens 专注于隐私，将让用户选择是否允许 AI 模型访问其数据，并在选择参与时获得奖励。Lens 正从 Polygon 迁移到 ZKsync，并考虑使用多个数据可用性网络以降低成本。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53383.html",
+          "publishedOn": "2024-07-18T14:12:16.000Z",
+          "wordCount": 523,
+          "title": "Lens：计划 Q4 在 ZKsync 推出主网，目标通过 AI 实现用户数据变现",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53382.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，跨链桥协议LI.FI宣布将于明天开始联系受影响用户，提供自愿补偿方案的详细信息。参与补偿方案的用户需填写相关表格。此次补偿计划旨在解决之前的跨链桥事件对用户造成的影响，确保用户权益得到保障。\n\n此前消息，7月16日，跨链桥协议 LI.FI 官方发文确认协议遭遇攻击，损失超 1000 万美元。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53382.html",
+          "publishedOn": "2024-07-18T14:05:12.000Z",
+          "wordCount": 475,
+          "title": "LI.FI：将向用户提供自愿补偿方案，需填写相关表格",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53381.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据 investing 报道，现实世界资产（RWA）信贷协议Zivoe宣布完成835万美元的新一轮融资，由Andrew Keys领投，Iceberg Capital和Concave参投。据悉，Zivoe将于7月31日启动其信贷协议，通过区块链技术连接链上流动性与现实世界借款人，初期将向战略合作的受监管贷款机构发放链上贷款，以提供更优的利率。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53381.html",
+          "publishedOn": "2024-07-18T13:58:16.000Z",
+          "wordCount": 499,
+          "title": "RWA 信贷协议 Zivoe 完成 835 万美元融资，Andrew Keys 领投",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53380.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Arkham 监测，灰度在约16分钟前通过两笔交易向Coinbase Prime地址转入861.502枚比特币，价值约5606万美元。同时，灰度还向一个bc1qsf开头的地址转入476.847枚比特币。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53380.html",
+          "publishedOn": "2024-07-18T13:46:44.000Z",
+          "wordCount": 497,
+          "title": "灰度向 Coinbase Prime 地址转入约 861 枚比特币，价值 5606 万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53379.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据 Bloomberg 报道，Kraken 的机构业务部门 Kraken Institutional 已开始向英国和澳大利亚的客户提供托管服务。该部门于今年3月在美国推出，主要面向对冲基金和交易所交易基金发行人。Kraken计划在2024年扩展至更多市场，包括欧盟、瑞士、开曼群岛和英属维尔京群岛。Kraken的零售交易服务已经全球可用，其新推出的机构服务为大型用户提供更多控制和功能。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53379.html",
+          "publishedOn": "2024-07-18T13:41:15.000Z",
+          "wordCount": 488,
+          "title": "Kraken Institutional 向英国和澳大利亚客户提供托管服务",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53378.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，Animoca Brands 宣布和渣打银行（香港）有限公司、香港电讯（HKT）联合参与香港金融管理局（HKMA）稳定币发行沙盒计划。该计划于今年3月宣布，旨在推动稳定币在金融和支付市场中的应用。合作方将利用 Zodia Custody 的数字资产托管能力，共同探索稳定币在推动香港及全球数字资产市场发展的潜力。\n\n渣打银行表示，参与沙盒计划将有助于更好地理解和支持香港数字资产生态系统的机会和风险。Animoca Brands 和 HKT 也表示，将通过沙盒计划推动数字资产的大规模应用和支付系统的创新，助力香港成为全球数字资产中心。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53378.html",
+          "publishedOn": "2024-07-18T13:35:23.000Z",
+          "wordCount": 494,
+          "title": "Animoca Brands 与渣打银行、HKT 联手参与香港金管局稳定币发行人沙盒",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53377.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据 The Block 报道，区块链数据网络开发商 Chainbase 完成了由某互联网公司和 Matrix Partners China 共同领投的1500万美元A轮融资。其他投资者包括 Folius Ventures、Hash Global、JSquare、Mask Network 和 Bodl Ventures。据悉，继种子轮和天使轮融资 300 万美元之后，本轮融资使 Chainbase 的总资金达到 1800 万美元。\n\nChainbase 联合创始人兼首席运营官 Chris Feng 表示，该轮融资的结构为带有代币认股权证的股权，并于去年第四季度完成。Chainbase 网络主网及其治理代币 CBT 预计将于今年第四季度上线。该代币将用于奖励 Chainbase 贡献者和用户，包括数据提供商、节点运营商和早期采用者。\n\nFeng 表示，随着新的资金到位，Chainbase 将在未来六个月内“大力投资”，在全球主要加密货币中心建设当地社区。他补充说，这将使 Chainbase 能够更好地与当地的开发者、用户和其他利益相关者互动，提高其网络的认知度和采用率。目前，Chainbase的网络支持超过1.5万名开发者和8000个项目，管理超过5000亿次数据调用。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53377.html",
+          "publishedOn": "2024-07-18T13:06:50.000Z",
+          "wordCount": 553,
+          "title": "Chainbase 完成 1500 万美元 A 轮融资，Matrix Partners China 领投",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53376.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据火币HTX官方公告，即日起，火币HTX面向未进行过合约交易的新用户推出专属任务。合约新用户在报名成功后的14天内，向U本位合约账户转入资金，并进行U本位合约交易，即有机会赢得最高2,000 USDT合约体验金。需要注意的是，用户须在活动页面报名，并完成KYC L3认证。\n\n同时，火币HTX推出合约跟单新人礼活动，合约跟单新用户在报名后7天内，向跟单账户净划入≥50 USDT，并完成首笔任意金额的带单/跟单交易，即可得5 USDT跟单体验金。此外，合约用户还可参与每日打卡，报名后每日合约交易额（含合约跟单交易额）达到100 USDT即为打卡成功，每日前10,000名完成打卡任务的报名用户，可获得$HTX、USDT合约体验金等打卡奖励。\n\n活动详情：\n\nhttps://www.htx.com.se/zh-cn/support/84975426832540",
+          "link": "https://www.techflowpost.com/newsletter/detail_53376.html",
+          "publishedOn": "2024-07-18T12:55:08.000Z",
+          "wordCount": 486,
+          "title": "火币HTX推出合约新用户专属活动 最高赢2,000 USDT合约体验金",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53375.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据 ai_9684xtpa 监测，WazirX黑客地址于两分钟前将剩余3.6万亿枚SHIB全部转移至出货地址0x35fe...745CA，价值高达6332万美元，或在接下来的几小时内全部抛售，需注意币价波动，至此 5.43 万亿枚 SHIB（近 1 亿美元）已全部转移完毕。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53375.html",
+          "publishedOn": "2024-07-18T12:40:22.000Z",
+          "wordCount": 496,
+          "title": "WazirX 黑客转移剩余 3.6万亿枚 SHIB 至出货地址，价值6332万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53374.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据金十数据，美国至7月13日当周初请失业金人数录得24.3万人，为6月8日当周以来新高，预期23万人，前值22.2万人。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53374.html",
+          "publishedOn": "2024-07-18T12:34:28.000Z",
+          "wordCount": 470,
+          "title": "美国至7月13日当周初请失业金人数24.3万人，为6月8日当周以来新高",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53373.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据火币HTX官方公告，火币HTX将限时开启合约转盘抽奖活动，每日完成合约交易打卡，即有机会抽取TOKEN2049机酒门票以及iPhone 15 Pro Max 、AirPods Pro、Switch等大奖。公告显示，活动自每日UTC+0开始进行任务更新。完成入金≥100 USDT、合约跟单≥100 USDT即可分别获得1次抽奖机会。另外，每天完成合约交易≥100 USDT、1000 USDT、10,000 USDT还可分别额外获得1次抽奖机会，最多3次。值得注意的是，用户需点击活动页立即报名参与此活动，活动奖励不累计，按照最高奖励进行发放。\n\n活动详情：\nhttps://www.htx.com.se/zh-cn/support/34975612866061",
+          "link": "https://www.techflowpost.com/newsletter/detail_53373.html",
+          "publishedOn": "2024-07-18T12:18:50.000Z",
+          "wordCount": 495,
+          "title": "火币HTX开启合约交易打卡活动：参与抽取最高10,000 USDT奖励",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53372.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据官方信息，Lambda L2宣布推出品牌战略升级百万空投活动，目前活动已开启24小时，活动一的快照时间将在X上提前公布。\n\n活动二目前已收到超1000份表单。目前活动仍在进行中，UID重复将视为无效。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53372.html",
+          "publishedOn": "2024-07-18T12:10:02.000Z",
+          "wordCount": 476,
+          "title": "Lambda L2宣布推出品牌战略升级百万空投活动",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53371.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据CoinDesk报道，区块链数据提供商Allium Labs完成了1650万美元的A轮融资，由Theory Ventures领投，其创始人Tomasz Tunguz将加入董事会。Kleiner Perkins和Amplify Partners也参与了此次融资。\n\nAllium Labs为Visa、Stripe和Uniswap Foundation等公司提供企业级区块链数据，计划将资金用于数据基础设施建设和市场拓展。最新数据显示，2024年稳定币需求回升，流通供应接近1500亿美元，月活跃用户达到2750万。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53371.html",
+          "publishedOn": "2024-07-18T12:08:05.000Z",
+          "wordCount": 495,
+          "title": "区块链数据提供商 Allium Labs完成1650万美元A轮融资，Theory Ventures 领投",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53370.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，Chainlink 在 X 平台宣布推出由跨链互操作协议（CCIP）支持的数字资产沙盒（DAS）Chainlink Digital Assets Sandbox，这是一个加速资本市场创新的交钥匙解决方案。新的沙箱使金融机构能够在几天内（而不是几个月）进行代币化试验和协作 PoC，旨在推动金融科技的发展和应用。\n\n预计到 2030 年，资产代币化市场将达到 16 万亿美元，占全球 GDP 的 10%。Chainlink DAS 还提供专家支持和咨询服务，帮助金融机构快速完成概念验证（PoC），应对区块链技术集成的复杂性和高成本问题。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53370.html",
+          "publishedOn": "2024-07-18T12:06:57.000Z",
+          "wordCount": 509,
+          "title": "Chainlink 推出数字资产沙盒 Chainlink Digital Assets Sandbox",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53369.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，链上侦探 ZachXBT 在 X 平台发文，通过链上数据分析，WazirX 黑客攻击事件具有朝鲜黑客组织 Lazarus Group 的攻击特征。\n\nZachXBT 表示，他追踪了超过 2.3 亿美元的 WazirX 黑客事件，发现黑客在 7 月 10 日通过 Tornado Cash 进行测试交易，并从多个地址转移资金，最终指向 Lazarus Group 的作案手法。\n\nZachXBT 希望 WazirX 团队能够公开调查结果，并指出虽然解决了 Arkham 悬赏任务，但由于 KYC 账户可以轻松在线购买，发现黑客进行的 KYC 兑换存款可能帮助有限。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53369.html",
+          "publishedOn": "2024-07-18T11:34:01.000Z",
+          "wordCount": 548,
+          "title": "ZachXBT：WazirX 事件具有朝鲜黑客组织 Lazarus Group 的攻击特征",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53368.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，据香港证监会官方网站更新数据显示，HKX 向香港证监会提交的虚拟资产交易平台牌照申请已于7月17日被撤回。HKX提交的虚拟资产交易平台运营者公司名称为“hi5 (Hong Kong) Limited”，中文名称不适用。OKX曾于2024年2月29日首次向香港证监会递交了虚拟资产交易平台牌照申请。\n\n截至目前，香港证监会公布的虚拟资产交易平台牌照撤回和退回的申请者数量共计12家，其中被退回1家；虚拟资产交易平台申请中名单数量为16家，其中被当作获发牌的虚拟资产交易平台申请者11家；持牌虚拟资产交易平台名单仍为2家。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53368.html",
+          "publishedOn": "2024-07-18T11:18:39.000Z",
+          "wordCount": 481,
+          "title": "HKX 香港虚拟资产交易平台牌照申请已于7月17日被撤回",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53367.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，OKX 首席执行官 Star Xu 在 X 平台发文称，OKX 最近在澳大利亚推出了 OKX Australia 平台。该平台提供现货交易、保证金交易、期货交易以及澳元的入金和出金服务。Star Xu 表示，OKX 将继续深入学习和改进，以更好地服务澳大利亚的加密社区。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53367.html",
+          "publishedOn": "2024-07-18T11:06:24.000Z",
+          "wordCount": 511,
+          "title": "Star Xu：OKX 在澳大利亚推出 OKX Australia 平台",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53366.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 The Crypto Basic 报道，国际清算银行（BIS）发布了对希望持有 XRP、ETH、BTC 等加密资产的银行的新要求准则。\n\n根据最新要求，银行对二级加密资产的总敞口不得超过其一级资本总量的 1%；任何单一的二级加密资产不得占二级资产总持有的 5%以上。\n\n该准则预计于 2026 年 1 月 1 日前实施。国际清算银行将包括 XRP、BTC、ETH 和一些缺乏有效稳定机制的稳定币视为二级加密资产，以此区分于其他加密货币。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53366.html",
+          "publishedOn": "2024-07-18T11:00:14.000Z",
+          "wordCount": 510,
+          "title": "国际清算银行发布银行持有 XRP、ETH、BTC 等加密资产新要求",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53365.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Arkham 于 X 发文表示，WazirX 被盗 2.35 亿美元攻击事件悬赏任务已由链上侦探 ZachXBT 完成。ZachXBT 提交了明确的证据，证明攻击者使用 KYC 链接的存款地址从 WazirX 漏洞中获取资金。这满足了悬赏任务的标准之一——“识别 KYC CEX 存款”。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53365.html",
+          "publishedOn": "2024-07-18T10:55:09.000Z",
+          "wordCount": 517,
+          "title": "Arkham：ZachXBT 已完成 WazirX 攻击事件悬赏任务，提交 KYC 存款地址证据",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53364.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，香港金融管理局公布稳定币发行人沙盒参与者名单。以下机构将参与沙盒，由今日起生效：\n\n京东币链科技（香港）有限公司、圆币创新科技有限公司、渣打银行（香港）有限公司、安拟集团有限公司、Hong Kong Telecommunications (HKT) Limited。\n\n这些机构在评估过程中展示了在香港发展稳定币发行业务的真实意愿和合理计划，并将在沙盒下以风险可控的方式进行拟议运作。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53364.html",
+          "publishedOn": "2024-07-18T10:52:25.000Z",
+          "wordCount": 480,
+          "title": "香港金管局公布稳定币发行人沙盒参与者名单",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53363.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据余烬监测，WazirX黑客已售出价值6230万美元的山寨代币，换成18111枚ETH。目前黑客仍持有价值1.069亿美元盗取的山寨币，其中主要为价值8033万美元的SHIB。\n\n黑客持有的ETH总量已达33409枚（约1.15亿美元），包括从WazirX盗取的15298枚ETH和出售山寨币换得的18111枚ETH。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53363.html",
+          "publishedOn": "2024-07-18T10:48:57.000Z",
+          "wordCount": 489,
+          "title": "WazirX 黑客已售出价值 6230 万美元山寨币，换得 18111 枚 ETH",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53362.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Ordinals 借贷协议 Liquidium 宣布完成 275 万美元的种子轮融资。本轮融资由 Wise 3 Ventures 领投，Portal Ventures、Asymmetric Capital、AGE Fund、Newman Capital 等参投。Liquidium 作为比特币 DeFi 平台，支持点对点比特币借贷，用户可以使用 Ordinals（比特币 NFT）和 Runes 等独特的基于比特币的资产作为抵押品借入或借出比特币。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53362.html",
+          "publishedOn": "2024-07-18T10:45:18.000Z",
+          "wordCount": 527,
+          "title": "Ordinals 借贷协议 Liquidium 完成275万美元种子轮融资，Wise 3 Ventures领投",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53361.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据火币HTX官方社媒消息，杰克船长、加密农场火鸡分析师、NihaoVand、陈大山等加密KOL将于今日20时（UTC+8）做客火币直播。此次直播以“以太坊现货ETF上线在即，价格起飞还是Sell The News？”为主题，探讨ETH现货ETF上线后对其价格的影响以及值得关注的以太坊生态项目。本次直播还将通过火币HTX推特Space同步进行，更有大量空投活动，敬请期待。\n\n预约此次直播：\n\nhttps://www.htx.com.de/zh-cn/live/detail/h5?id=43979&invite_code=7dis6223&inviter_id=11351630",
+          "link": "https://www.techflowpost.com/newsletter/detail_53361.html",
+          "publishedOn": "2024-07-18T10:33:25.000Z",
+          "wordCount": 476,
+          "title": "数位加密KOL将于今日做客火币直播：探讨ETH现货ETF对加密市场的影响",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53360.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据链上分析师@ai_9684xtpa监测，过去两小时 WazirX 黑客地址已向地址0x35fe...745CA转移8010亿枚SHIB，占被盗SHIB数量的14.74%，价值1402万美元，正在持续分批抛售。目前黑客地址仍持有4.9万亿枚SHIB，总价值8652万美元。因大额链上抛售和恐慌情绪影响，SHIB 币价下跌9%，现价0.000017255美元。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53360.html",
+          "publishedOn": "2024-07-18T10:29:03.000Z",
+          "wordCount": 497,
+          "title": "过去两小时 WazirX 黑客地址已转移 8010 亿枚 SHIB，价值 1402 万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53359.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7 月 18 日，据 The Block Pro 报道，区块链分析提供商 Elliptic 表示，与朝鲜有关的黑客组织可能是“WazirX 2.35亿美元黑客攻击事件”的幕后黑手。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53359.html",
+          "publishedOn": "2024-07-18T10:16:01.000Z",
+          "wordCount": 493,
+          "title": "Elliptic：朝鲜黑客可能是 WazirX 黑客事件幕后黑手",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53358.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据火币HTX官方公告，火币HTX第44期新币挖矿（PrimePool）将于7月18日20:00上线，至7月25日20:00（UTC+8）结束。挖矿7日总奖池为85,714 XR。用户可通过锁仓$HTX、SUN瓜分85,714 XR奖励金，其中$HTX矿池占总奖池的70%，SUN矿池占30%。\n\n据悉，XRADERS是一个为用户提供在加密货币市场做出明智决策所需的工具和见解的透明平台。XR/USDT现已在火币HTX上交易。\n\n新币挖矿活动个人锁仓门槛为156,250,000 $HTX（折合200 USDT）或者15,650 SUN，用户可在“新币专区” PrimePool 活动进行提前锁仓。\n\n活动详情：https://www.htx.com.fj/zh-cn/support/54975504700414",
+          "link": "https://www.techflowpost.com/newsletter/detail_53358.html",
+          "publishedOn": "2024-07-18T10:11:06.000Z",
+          "wordCount": 485,
+          "title": "火币HTX第44期新币挖矿将于今晚20时上线，双矿池同步开挖，锁仓$HTX、SUN瓜分85,714 XR奖励",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53357.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，DWF Labs 合伙人 Andrei Grachev 于 X 平台发文表示：“我们的投资组合中包括超过5个Meme项目，总市值超2亿美元。我们正在锁定一些热门趋势，比如PolitFi项目，这些项目可能利用即将到来的选举的影响力。”",
+          "link": "https://www.techflowpost.com/newsletter/detail_53357.html",
+          "publishedOn": "2024-07-18T10:10:10.000Z",
+          "wordCount": 508,
+          "title": "DWF Labs 合伙人：投资组合中有超 5 个 Meme 项目，正在关注 PolitFi 等热门趋势",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53356.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，CryptoQuant CEO Ki Young Ju于X平台发文表示，稳定币开始流入市场。自7月初以来，其市值一直在上升，上周达到历史新高。USDT占稳定币总市值的70%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53356.html",
+          "publishedOn": "2024-07-18T10:02:54.000Z",
+          "wordCount": 481,
+          "title": "CryptoQuant CEO：稳定币开始流入市场，市值上周创历史新高",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53355.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，WazirX 于 X 平台发布安全事件更新：“此次安全问题似乎涉及我们的一个Liminal多签钱包。我们的团队正在积极处理此事，之后将提供进一步更新。”",
+          "link": "https://www.techflowpost.com/newsletter/detail_53355.html",
+          "publishedOn": "2024-07-18T09:55:06.000Z",
+          "wordCount": 476,
+          "title": "WazirX：此次安全问题涉及Liminal多签钱包",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53354.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Arkham 发布 WazirX 被盗2.35亿美元攻击事件悬赏，将奖励以下贡献：识别KYC CEX存款、揭露攻击者身份、成功追回资金。参与者提交的任何信息都将与 WazirX 团队共享。与黑客相关的地址包括：\n\n0x6EeDF92Fb92Dd68a270c3205e96DCCc527728066\n\n0x04b21735E93Fa3f8df70e2Da89e6922616891a88\n\n0x35febC10112302e0d69F35F42cCe85816f8745CA\n\n0x90ca792206eD7Ee9bc9da0d0dF981FC5619F91Fd\n\n0x361384e2761150170D349924A28d965f0Dd3F092",
+          "link": "https://www.techflowpost.com/newsletter/detail_53354.html",
+          "publishedOn": "2024-07-18T09:51:54.000Z",
+          "wordCount": 496,
+          "title": "Arkham 发布 WazirX 攻击事件悬赏",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53353.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，7月18日，Coinbase 国际站于X平台宣布，Coinbase 国际站和 Coinbase Advanced 已上线 CRV、ENS、PEOPLE 永续合约，相关市场进入全面交易模式。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53353.html",
+          "publishedOn": "2024-07-18T09:48:59.000Z",
+          "wordCount": 493,
+          "title": "Coinbase 国际站上线 CRV、ENS、PEOPLE 永续合约",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53352.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据官方公告显示，OKX现已推出 Sui 边学边赚活动，让用户在深入了解 Sui 的同时，赚取额外奖励。在活动期间，首次参与 Sui 边学边赚活动的用户，完成身份认证以及指定的活动任务，即可获取奖励。限额前 12,400名用户，先到先得。更多活动内容，可查看公告详情。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53352.html",
+          "publishedOn": "2024-07-18T09:22:58.000Z",
+          "wordCount": 490,
+          "title": "OKX独家上线 SUI 活动，参与可赚取额外奖励",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53351.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据余烬监测，WazirX被盗资产目前正在链上出售换成ETH，目前已通过抛售多种代币换得9956枚ETH（约3436万美元）。这些被盗资产正在通过0x35f...5ca（WazirX Exploiter 2）和0x90c...1fd（WazirX Exploiter 3）地址被出售换成ETH，然后转移至0x361...092（WazirX Exploiter 4）地址。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53351.html",
+          "publishedOn": "2024-07-18T09:12:10.000Z",
+          "wordCount": 500,
+          "title": "WazirX 攻击者通过抛售多种代币已换得 9,956 枚 ETH，约合 3436 万美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53350.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据官网显示，Sanctum现已接入OKX Web3钱包。用户可以通过OKX Web3钱包在Sanctum提供流动性、加密资产兑换等。Sanctum是Solana生态流动性质押服协议，旨在解决当前 Solana 生态内各大流动性质押代币的流动性割裂问题。\n\n据悉，OKX Web3 钱包是行业领先的一站式 Web3 入口，现已支持100条公链，App、插件、网页三端统一，涵盖钱包、DEX、DeFi、NFT 市场、DApp 探索 5 大板块、并上线比特币铭文和符文交易市场等。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53350.html",
+          "publishedOn": "2024-07-18T08:59:53.000Z",
+          "wordCount": 507,
+          "title": "Sanctum 现已接入 OKX Web3 钱包",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53349.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Lookonchain 监测，WazirX攻击者已开始抛售SHIB，目前已售出价值61.8万美元的SHIB，仍剩余价值9545万美元的SHIB。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53349.html",
+          "publishedOn": "2024-07-18T08:43:52.000Z",
+          "wordCount": 489,
+          "title": "WazirX 攻击者已开始抛售 SHIB，仍剩余价值 9545 万美元 SHIB",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53348.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，加密交易所 WazirX 在 X 平台表示，其一个多重签名钱包出现了安全漏洞。为确保资产安全，WazirX 将暂时停止印度卢比和加密货币提现。目前团队正在积极调查此事件。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53348.html",
+          "publishedOn": "2024-07-18T08:24:23.000Z",
+          "wordCount": 483,
+          "title": "WazirX 确认多签钱包安全漏洞，将暂停提现",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53347.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，WazirX 交易所在以太坊网络上的 Safe Multisig 钱包出现多笔可疑交易，总计超2.34亿美元资金已转移到新地址，涉及SHIB、MATIC、GALA、PEPE等资产，行情显示相关资产代币价格短时出现普跌：\n\nSHIB 1小时跌幅 5%，现报0.00001778 美元；GALA 1小时跌幅 4.8%，现报0.025美元；MATIC 1小时跌幅1.7%，现报0.5415美元。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53347.html",
+          "publishedOn": "2024-07-18T08:21:35.000Z",
+          "wordCount": 500,
+          "title": "WazirX 被盗代币资产价格普跌：SHIB 1小时跌超 5%",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53346.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Lookonchain发布更新称，WazirX被盗资产约2.3亿美元，其中包括5.43万亿枚SHIB（约合1.02亿美元），15,298枚ETH（约5250万美元），2050万枚MATIC（约合1124万美元），6402.7亿枚PEPE（约合760万美元），579万枚USDT，135万枚GALA（约合350万美元）。\n\n此前消息，链上侦探ZachXBT分析，WazirX疑似被盗超2.3亿美元。超过 2.3 亿美元的加密资产被异常地从 WazirX 钱包转移到“0x04b2”钱包。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53346.html",
+          "publishedOn": "2024-07-18T08:12:26.000Z",
+          "wordCount": 499,
+          "title": "Lookonchain：WazirX 被盗 2.3 亿美元资产中包括 5.43 万亿枚 SHIB，约合 1.02 亿美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53345.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Polygon 基金会于 X 平台宣布，Polygon的主网升级计划于2024年9月4日进行，在获得社区批准后，POL 将取代 MATIC 成为 Polygon PoS 的原生 gas 和质押代币，后续阶段 POL 将在 AggLayer 中发挥关键作用。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53345.html",
+          "publishedOn": "2024-07-18T08:07:49.000Z",
+          "wordCount": 512,
+          "title": "Polygon 计划于9月4日将 MATIC 迁移至 POL",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53344.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，Bitget 在尼日利亚地区的 Google Play 应用商店免费榜单中上升至第五位，排名超越币安等交易平台。\n\n注：OKX 近期宣布将退出尼日利亚市场，并将于 8 月 16 日日停止大部分服务。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53344.html",
+          "publishedOn": "2024-07-18T08:06:52.000Z",
+          "wordCount": 496,
+          "title": "Bitget 进入尼日利亚地区 Google Play 应用商店免费榜单前五位",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53343.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，在Linea Culture SZN活动中TownStoryGalaxy的miniSanto受到广泛欢迎，目前已经完成54万个MINT，目前距离活动截止还有5小时。\n\nminiSanto本次为限时freemint，miniSanto持有者将拥有特殊蓝色头像框，优惠提现汇率，每日能量包，图纸礼包等多种权益，活动结束后将不再发行。\n\nTownStoryGalaxy是一款基于web3的社交经营游戏，由硅谷知名游戏公司Zynga的核心开发团队打造而成。玩家可以在游戏中建造自己的小镇，与全球玩家交流互动，体验无与伦比的社交体验和冒险乐趣！\n\n作为Linea公链头部游戏项目，TownStoryGalaxy已经拥有近两百万个注册地址，并已经完成第二轮融资，预计将于2024年第三季度开启IDO。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53343.html",
+          "publishedOn": "2024-07-18T07:53:35.000Z",
+          "wordCount": 504,
+          "title": "TownStoryGalaxy 推出的 miniSanto 系列在 Linea Culture SZN 活动中已经完成 54 万次铸造",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53342.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据Spot On Chain监测，11个小时前，风投机构Placeholder向Coinbase存入价值共3275万美元的MKR和UMA。这些代币来自两个钱包，其中包括来自“0x4fa”的7250枚MKR（2090万美元）和来自“0xb0a”的500万枚UMA（1190万美元）。\n\nPlaceholder是这两个项目的投资者，并以低价获得了代币：以均价765美元获得MKR；以均价0.382美元获得UMA。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53342.html",
+          "publishedOn": "2024-07-18T07:41:03.000Z",
+          "wordCount": 475,
+          "title": "Placeholder于11小时前向Coinbase存入3275万美元的MKR和UMA",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53341.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，LayerZero基金会表示，赏金猎人临时名单及其他详细信息已上传至Commonwealth平台。赏金猎人可在7月21日00:00 UTC之前审查此临时名单。最终分发将在7月23日（星期二）当天结束前进行。\n\n分配由LayerZero基金会自行决定，并可能发生变化。此名单不应被视为最终的sybil名单或原封不动地重复使用。该名单并未考虑未经审查的报告或后来被判定为误报的报告。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53341.html",
+          "publishedOn": "2024-07-18T07:38:30.000Z",
+          "wordCount": 473,
+          "title": "LayerZero基金会：将在7月23日进行赏金猎人的最终分发",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53340.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据链上侦探ZachXBT分析，WazirX疑似被盗超2.3亿美元。超过 2.3 亿美元的加密资产被异常地从 WazirX 钱包转移到“0x04b2”钱包。目前，钱包“0x04b2”正在抛售这些资产，并已出售 6402.7 亿枚 PEPE（760 万美元）。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53340.html",
+          "publishedOn": "2024-07-18T07:31:09.000Z",
+          "wordCount": 486,
+          "title": "ZachXBT：WazirX疑似被盗超2.3亿美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53339.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据CoinGecko数据，截至7月18日10:00，火币HTX过去24h现货交易量为25.28亿美元，位居全球交易所Top3。另根据CoinGecko提供的每日交易量数据，过去1个月，火币HTX的平均日交易量为20.6亿美元，稳定在第三位，已有回归“三大”的迹象。但在合约交易量方面，相比其他平台仍有一定差距。\n\n据悉，火币HTX最近一个月发展势头迅猛：包括上新13个代币，其中三个涨幅超过或接近100%；更与新加坡国家足球队守门员哈桑·桑尼达成合作，由其出任火币HTX首席安保官和品牌代言人。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53339.html",
+          "publishedOn": "2024-07-18T07:28:36.000Z",
+          "wordCount": 482,
+          "title": "火币 HTX 现货交易量回归全球 Top3",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53338.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，ether.fi 创始人 Mike Silagadze 发布推文表示，经过团队筛查，成功从女巫地址收回面向超 1 万名合格用户的逾 150 万枚 ETHFI。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53338.html",
+          "publishedOn": "2024-07-18T07:26:19.000Z",
+          "wordCount": 488,
+          "title": "ether.fi已从女巫地址收回超150万枚ETHFI",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_53336.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，XRP 在韩国五大交易所 24小时交易量超 6.5 亿美元，约为比特币交易量的 2.3 倍。\n\n比特币在 Upbit 上的交易量为 2.0357 亿美元，在韩国五大交易所的顶级加密资产总交易量达 2.82 亿美元。\n\n而 XRP 仅在 Upbit 上的交易量就达 5.268 亿美元，超过了比特币在韩国前五大交易所的交易量。",
+          "link": "https://www.techflowpost.com/newsletter/detail_53336.html",
+          "publishedOn": "2024-07-18T07:23:05.000Z",
+          "wordCount": 508,
+          "title": "XRP在韩国五大交易所的24小时交易量超越BTC",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
       ]
