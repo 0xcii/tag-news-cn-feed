@@ -1,117 +1,120 @@
 {
   "sources": [
     {
-      "title": "Web3世界",
-      "feedUrl": "https://www.web3sj.com/feed/",
-      "siteUrl": "https://www.web3sj.com",
-      "articles": [
-        {
-          "id": "https://www.web3sj.com/?p=118574",
-          "author": "Gao",
-          "description": "撸毛、或者撸空投，是指在 Web3 项目运营初期，用户通过参与项目交互获得领取空投的资格，待后续项目上线后，项目方会向用户发放代币（Token）奖励。用户获得代币之后，可以通过场外交易或者等币上交易所之后卖出等方式变现。",
-          "link": "https://www.web3sj.com/news/118574/",
-          "publishedOn": "2024-07-27T13:19:07.000Z",
-          "wordCount": 835,
-          "title": "成立Web3撸毛工作室，需要关注哪些法律风险？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1722086338.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118571",
-          "author": "Gao",
-          "description": "自 2018 年以来，Immutable 一直处于 Web3 游戏的前沿。我们见证了趋势的兴衰，经历了市场的起伏，目睹了区块链技术在游戏中的演变（我们甚至构建了最早的以太坊游戏之一！）。",
-          "link": "https://www.web3sj.com/gamefinews/118571/",
-          "publishedOn": "2024-07-27T13:11:05.000Z",
-          "wordCount": 966,
-          "title": "事实还是虚构：破解5个Web3游戏的谬误",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1722085849.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118567",
-          "author": "Gao",
-          "description": "事实上，Aave 早在 2020 年便推出了安全模块，允许 AAVE 和 AAVE/WETH Balancer LP 持有者抵押其代币并获得奖励，以增强协议的韧性与安全性。在协议遭遇如智能合约漏洞、清算风险或预言机故障等导致的 shortfall 事件时，锁定的部分代币可能被用于拍卖，以弥补潜在的损失，为协议构建额外的防护屏障。",
-          "link": "https://www.web3sj.com/definews/118567/",
-          "publishedOn": "2024-07-27T12:56:03.000Z",
-          "wordCount": 1027,
-          "title": "Aave将激活费用开关！新安全模块和AAVENomics有何更新？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/17220848311.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118557",
-          "author": "Gao",
-          "description": "实际上，意图并不是一个新颖的叙事。这个概念最早被应用于 DeFi 领域，由于对 AMM 以及订单簿等交易撮合方式的不同看法，DeFi 协议在发展路径上逐渐演进出两种技术发展方向，一种是以 Uniswap 为代表的 AMM 链上 LP 交易对，另一种则是以 Cowswap 为代表的链上 + 链下订单簿结算。",
-          "link": "https://www.web3sj.com/news/118557/",
-          "publishedOn": "2024-07-27T12:44:09.000Z",
-          "wordCount": 1283,
-          "title": "链上盈收除了MEV，你还能在Everclear上跑滴滴",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/17220842281.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118554",
-          "author": "Gao",
-          "description": "周四，在田纳西州纳什维尔举行的 2024 年比特币大会上，贝莱德数字资产主管罗伯特·米奇尼克 (Robert Mitchnick) 与他进行了交谈，发表了上述言论。彭博研究分析师詹姆斯·塞法特 (James Seyffart) 向米奇尼克提问。",
-          "link": "https://www.web3sj.com/news/118554/",
-          "publishedOn": "2024-07-27T12:21:26.000Z",
-          "wordCount": 882,
-          "title": "贝莱德：ETH ETF是BTC ETF的补充而非替代品",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1721984499409132.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118551",
-          "author": "Gao",
-          "description": "Vitalik反驳“以太坊研究团队接受将一切中心化的想法”言论。以太坊团队负责人：以太坊正在失去其“主线“，研究团队似乎接受了将一切中心化的想法。小罗伯特·肯尼迪四项比特币政策总结，含BTC-USD交易无需向美国国税局报告或征税等。",
-          "link": "https://www.web3sj.com/news/118551/",
-          "publishedOn": "2024-07-27T11:47:07.000Z",
-          "wordCount": 907,
-          "title": "Web3世界日报（2024-7.27）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/2024072711423241.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118527",
-          "author": "Gao",
-          "description": "运用在币圈，可以把大部分资产投入 BTC 和 ETH 等安全性比较好的资产中，少部分资金投入到 Meme 币这样的高风险资产中，中间的大部分山寨币尽量少参与。",
-          "link": "https://www.web3sj.com/transaction/118527/",
-          "publishedOn": "2024-07-26T16:10:48.000Z",
-          "wordCount": 953,
-          "title": "本轮牛市用哑铃策略能赚钱吗？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1722010198474.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118524",
-          "author": "Gao",
-          "description": "链抽象是模块化到一定阶段之后的必然，因为区块链技术架构就大致包括共识层、执行层、DA 层、可交互操作性、结算层等等。传统意义上 monolithic 单一链要协调好各个分层综合强化，而模块化打破了这一局面。",
-          "link": "https://www.web3sj.com/news/118524/",
-          "publishedOn": "2024-07-26T16:03:18.000Z",
-          "wordCount": 822,
-          "title": "为什么「链抽象」会成为「模块化」之后的热门叙事？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1722009759205.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118518",
-          "author": "Gao",
-          "description": "Coinbase 官网相关解释说明，视各州法律，3~5 年未有活动的帐户会被归类为 Unclaim Property，然而，该名网友今年 2 月和 3 月均有登陆，所以他认为 Coinbase 客服给的理由纯属胡扯。在网友持续询问并且提供登入证明后，Coinbase 客服表示，他们也爱莫能助，只能请网友自行去找怀俄明州无人认领财产部门（Wyoming’s Division）要回资产。",
-          "link": "https://www.web3sj.com/uncategorized/118518/",
-          "publishedOn": "2024-07-26T15:59:59.000Z",
-          "wordCount": 887,
-          "title": "囤币囤成「僵尸粉」，Coinbase注销用户账户并充公其资产惹争议",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1722009570745.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=118512",
-          "author": "Gao",
-          "description": "由于现货 ETH ETF 几个月前就获得批准，所有想要购买 ETH 的人都有足够的时间这样做。因此，提前知道的催化剂往往会成为「卖消息」事件。",
-          "link": "https://www.web3sj.com/news/118512/",
-          "publishedOn": "2024-07-26T15:52:48.000Z",
-          "wordCount": 895,
-          "title": "ETF推出后ETH短期走跌，但质押获批和UX升级将成为长期催化剂",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/07/1722009105025.png"
-        }
-      ]
-    },
-    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/v5g7n1tm.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，据Coindesk报道，包括Ro Khanna在内的14名民主党国会议员致函美国民主党全国委员会，信函内容中要求将支持加密货币的内容添加到党纲中，此外还提出需要选择一位支持加密货币并了解数字资产的副总统和一位支持创新的美国证券交易委员会主席取代现任主席Gary Gensler。",
+          "link": "https://panewslab.com/zh/articledetails/v5g7n1tm.html",
+          "publishedOn": "2024-07-27T15:52:17.000Z",
+          "wordCount": 356,
+          "title": "14名议员致函美国民主党全国委员会推动加密创新并要求更换现任美SEC主席",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1c3gndmt.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，据Cointelegraph报道，美国民主党议员Ro Khanna在比特币2024大会上表示，已经正式致函美国民主党全国委员会敦促他们重新制定数字资产政策，其中希望主张采取支持创新的方法支持数字资产的增长和发展。",
+          "link": "https://panewslab.com/zh/articledetails/1c3gndmt.html",
+          "publishedOn": "2024-07-27T15:29:07.000Z",
+          "wordCount": 358,
+          "title": "美议员Ro Khanna：已致函美国民主党全国委员会敦促重新制定数字资产政策",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/yq58brsg.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，据福布斯记者Eleanor Terrett在X平台披露，美民主党议员Ro Khanna表示，相信美国两党新一代政治家的价值观是支持创新、支持赋予个人更多自由、去中心化经济机会并了解比特币和许多加密货币的价值。另据Bitcoin Magazine报道，Ro Khanna还表示美国需要在比特币领域发挥领导作用。",
+          "link": "https://panewslab.com/zh/articledetails/yq58brsg.html",
+          "publishedOn": "2024-07-27T15:05:48.000Z",
+          "wordCount": 365,
+          "title": "美议员Ro Khanna：美国需要在比特币领域发挥领导作用",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ynp3xp06.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，据金十报道，自美联储将利率提高至20多年高点以来的一年里，其成功地为过热的美国经济降温。但更高的借贷成本也产生了一些意想不到的影响。高收入家庭正从股市和房价上涨中获益。企业正在快速借贷，消费者也在继续消费。但在其他方面，一年的高利率终于开始造成损失。美国人找工作的时间更长了，失业率也有所上升。小企业正感受到贷款成本上升带来的痛苦。低收入家庭正在拖欠汽车贷款和信用卡。花旗集团经济学家维罗妮卡·克拉克说：“过去几个月，经济已经走软，美联储官员将非常担心经济是否开始更快地走软。这将导致官员们更快地降息。”",
+          "link": "https://panewslab.com/zh/articledetails/ynp3xp06.html",
+          "publishedOn": "2024-07-27T15:02:54.000Z",
+          "wordCount": 350,
+          "title": "花旗经济学家：美联储官员非常担心经济是否更快走软，或将导致更快降息",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/u8az42ki.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，Coinglass数据显示，过去4小时全网爆仓金额达到3084.39万美元，其中空单爆仓达到2638.98万美元，多单爆仓445.41万美元。",
+          "link": "https://panewslab.com/zh/articledetails/u8az42ki.html",
+          "publishedOn": "2024-07-27T14:35:41.000Z",
+          "wordCount": 350,
+          "title": "过去4小时全网爆仓超3000万美元，主爆空单",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7urunfz0.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，据Bitcoin Magazine报道，美国马萨诸塞州参议员候选人John Deaton宣布其净资产的82%投资于比特币。 John Deaton称其反对Elizabeth Warren声称要禁止自我托管。",
+          "link": "https://panewslab.com/zh/articledetails/7urunfz0.html",
+          "publishedOn": "2024-07-27T14:32:05.000Z",
+          "wordCount": 375,
+          "title": "马萨诸塞州参议员候选人John Deaton宣布其净资产的82%投资于比特币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/qaiq47vk.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，据@ai_9684xtpa监测，ETH重回3300美元链上又看到巨鲸大额建仓，多签地址0x113...439a4一小时前从OKX和币安提出796万枚USDT，随后在链上以均价3294美元建仓2580枚ETH，价值850万美元；多签地址0xc72...a839D三小时前从Aave提出2034万枚稳定币，随后同样使用1inch以均价3278美元买入6613枚ETH，价值2168万美元。\n两位巨鲸在过去三小时内累计买入9,193 ETH（约3,018万美元），助推ETH币价短时上涨60美元，且操作手法有些许类似，或许归属于同一个人/实体。",
+          "link": "https://panewslab.com/zh/articledetails/qaiq47vk.html",
+          "publishedOn": "2024-07-27T14:30:30.000Z",
+          "wordCount": 380,
+          "title": "两巨鲸在过去三小时内累计买入9,193枚ETH，价值超3000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0jn3htkc.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，ether.fi 基金会在X平台上发文表示，ETHFI将在未来2天内转移到单独的多签钱包中，以更好地隔离基金会持有的资金，并为社区提供更高的透明度。",
+          "link": "https://panewslab.com/zh/articledetails/0jn3htkc.html",
+          "publishedOn": "2024-07-27T14:22:59.000Z",
+          "wordCount": 351,
+          "title": "ether.fi基金会：ETHFI将在未来2天内转移到单独的多签钱包，以隔离基金会持有的资金",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fqkl60p6.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，OKX行情显示，ETH突破3300 USDT，现报3313.43 USDT，24小时涨幅2.08%。",
+          "link": "https://panewslab.com/zh/articledetails/fqkl60p6.html",
+          "publishedOn": "2024-07-27T13:39:59.000Z",
+          "wordCount": 356,
+          "title": "ETH突破3300 USDT，24小时涨幅2.08%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fne4loot.html",
+          "author": "PA一线",
+          "description": "PANews 7月27日消息，OKX行情显示，BTC突破69000 USDT，现报68965.3 USDT，24小时涨幅1.89%。",
+          "link": "https://panewslab.com/zh/articledetails/fne4loot.html",
+          "publishedOn": "2024-07-27T13:38:38.000Z",
+          "wordCount": 354,
+          "title": "BTC短线突破69000 USDT，24小时涨幅1.89%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/l4h3062e.html",
+          "author": "PA一线",
+          "description": "金色财经报道，据Glassnode分析报告显示，2024年比特币永续期货的未平仓合约基本上在22万至24万枚BTC之间波动，在去杠杆化事件期间这一数值通常迅速下降，而在投机性较强的时期则上升，但最近未平仓合约已上升至26万至28万枚BTC范围，这表明自六月初以来投机需求增加，币安、Bybit和OKX占市场份额的约84%。此前当BTC价格下跌至5.3万美元区域时导致了有意义的去杠杆事件，许多多头偏见的交易者在低点附近被清算，但随后反弹价格回升也非常强劲，使大多数短期持有者恢复到未实现利润状态，这为近期几周的净正资本流入提供了急需的财务缓解。",
+          "link": "https://panewslab.com/zh/articledetails/l4h3062e.html",
+          "publishedOn": "2024-07-27T13:34:46.000Z",
+          "wordCount": 341,
+          "title": "Glassnode：比特币未平仓合约最近升至26-28万枚BTC范围，币安、Bybit和OKX占约84%市场份额",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
         {
           "id": "https://panewslab.com/zh/articledetails/m1749px2.html",
           "author": "PA一线",
@@ -201,116 +204,6 @@
           "wordCount": 350,
           "title": "中行报告：金融研究机构可总结香港稳定币试点经验，研究挂钩离岸人民币可行性",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/z8xccnv1.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据Arkham监测，贝莱德BUIDL基金地址于13小时前从Circle收到1100万枚USDC。",
-          "link": "https://panewslab.com/zh/articledetails/z8xccnv1.html",
-          "publishedOn": "2024-07-27T10:43:50.000Z",
-          "wordCount": 357,
-          "title": "贝莱德BUIDL基金地址于13小时前从Circle收到1100万枚USDC",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ucfyr535.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据CryptoSlam数据显示，以太坊链上NFT销售总额突破440亿美元，当前触及44,019,257,937美元，链上交易总量超过4900万笔，链上买家数量约为327.8万个，链上卖家数量超过190.1万笔。",
-          "link": "https://panewslab.com/zh/articledetails/ucfyr535.html",
-          "publishedOn": "2024-07-27T10:31:38.000Z",
-          "wordCount": 357,
-          "title": "以太坊链上NFT销售总额突破440亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/fd7w8zye.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据Arkham在X平台发文称，MicroStrategy的比特币仍为持有状态，未有比特币抛售行为。",
-          "link": "https://panewslab.com/zh/articledetails/fd7w8zye.html",
-          "publishedOn": "2024-07-27T09:58:58.000Z",
-          "wordCount": 347,
-          "title": "Arkham：MicroStrategy仍持有比特币，暂未抛售",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/4ys9vya1.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据@ai_9684xtpa监测，Solana Meme 代币MOTHER 24 小时涨幅超 25%，币价已突破0.08美元，聪明钱 F4Kpk...VHRkB 仿佛预言家一般在7月11日币价横盘时花费73万美元买入了1943万枚MOTHER，平均成本仅为0.03756美元且建仓后至今没有任何转移或卖出操作，目前已浮盈92.3万美元（现价0.08505美元），回报率达126%。",
-          "link": "https://panewslab.com/zh/articledetails/4ys9vya1.html",
-          "publishedOn": "2024-07-27T09:48:22.000Z",
-          "wordCount": 383,
-          "title": "某聪明钱在7月11日买入1943万枚MOTHER，当前已浮盈92.3万美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/n5uszunj.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据Farside Investors监测，美国比特币现货ETF自推出以来累计净流入超175亿美元。其中，贝莱德IBIT累计净流入约197.27亿美元；富达FBTC累计净流入约99.92亿美元；灰度GBTC累计净流出约188.14亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/n5uszunj.html",
-          "publishedOn": "2024-07-27T09:42:07.000Z",
-          "wordCount": 350,
-          "title": "美国比特币现货ETF自推出以来累计净流入超175亿美元",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5zvd702h.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据CoinGecko数据显示，或受特朗普拟出席比特币大会影响，多个与特朗普相关的概念币出现普涨，其中：\nMAGA（TRUMP） 24小时涨幅达14.7%，现报价7.24美元；\nMAGA Hat 24小时涨幅达1.6%，现报价0.0001428美元；\nTREMP 24小时涨幅达19.3%，现报价0.5414美元；\nSuper Trump 24小时涨幅达5.2%，现报价0.01195美元；\nBABY TRUMP 24小时涨幅达4.2%，现报价0.03898美元。",
-          "link": "https://panewslab.com/zh/articledetails/5zvd702h.html",
-          "publishedOn": "2024-07-27T09:32:58.000Z",
-          "wordCount": 379,
-          "title": "或受特朗普拟出席比特币大会影响相关概念币普涨，TREMP 24小时涨幅19.3%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zuwa2dm1.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据Arkham监测，灰度地址于15小时前累计从Coinbase Prime收到约10120枚ETH，约合3285万美元。",
-          "link": "https://panewslab.com/zh/articledetails/zuwa2dm1.html",
-          "publishedOn": "2024-07-27T09:18:44.000Z",
-          "wordCount": 352,
-          "title": "灰度地址于15小时前累计从Coinbase Prime收到约10120枚ETH",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/5aqu6675.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据香港文汇报报道，香港无线科技商会席李劲华表示，调查发现尽管港企在应用新兴技术如人工智能/机器学习、扩增实境(AR)/虚拟实境(VR)/混合实境(MR)及区块链方面，比亚洲其他地区的同业有所落后，但85% 的受访港企仍表示正计划或已采用人工智能，与亚洲其他地区的93%比例相当接近，但仍稍为落后。其他方面，调查发现有21%受访港企有开发首次列入调查范围的区块链/智能合约/GameFi。",
-          "link": "https://panewslab.com/zh/articledetails/5aqu6675.html",
-          "publishedOn": "2024-07-27T09:14:59.000Z",
-          "wordCount": 349,
-          "title": "香港无线科技商会：21%受访港企有开发区块链/智能合约/GameFi",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0dvj6tkv.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据香港文汇报报道，全国政协委员、立法会议员谭岳衡刊文《巩固金融中心地位分享深化改革红利》，其中指出数字金融方面，特区政府须继续发展数字金融和合资格的虚拟产品，对新型金融业态进行有益探索，推动金融业自身发展新质生产力。香港须推动金融科技公司参与稳定币沙盒机制，加快推出匹配联系汇率制度特色的稳定币发行和交易；扩大数字人民币作为跨境支付工具的测试范围和落地场景；重点发展虚拟资产与底层实际资产挂钩的产品，将艺术品、房地产、股权以及碳排放等通过区块链技术转化为数字代币。",
-          "link": "https://panewslab.com/zh/articledetails/0dvj6tkv.html",
-          "publishedOn": "2024-07-27T09:09:10.000Z",
-          "wordCount": 347,
-          "title": "香港立法会议员建议特区政府须重点发展虚拟资产与底层实际资产挂钩的产品",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/o484rnlb.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，据Coinglass数据显示，Bitstamp交易所比特币钱包余额过去24小时减少2166.86枚BTC，昨日Bitstamp宣布已完成Mt. Gox债权人的BTC与BCH分配，英国客户将有单独分配计划。另一家参与Mt. Gox债权人BTC与BCH分配的加密货币交易所Kraken比特币钱包余额过去24小时减少1791.53枚BTC，这两家交易所的比特币钱包余额减少数量均高于其他主流交易所。",
-          "link": "https://panewslab.com/zh/articledetails/o484rnlb.html",
-          "publishedOn": "2024-07-27T09:02:34.000Z",
-          "wordCount": 361,
-          "title": "Bitstamp交易所比特币钱包余额过去24小时减少2166.86枚BTC",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/nhb55k89.html",
-          "author": "PA一线",
-          "description": "PANews 7月27日消息，预测市场Polymarket新增“奥运会”类别，当前预测巴黎奥运会金牌获得最多的国家中，美国为79%，中国为20%，该项预测市场项目金额已达到120万美元；在获得奖牌数量最多的国家中，美国为94%，中国为6%，该项预测市场项目金额已达到130万美元；此外奥运会男子篮球冠军的预测中，美国男篮获得金牌为80%，加拿大为6%。",
-          "link": "https://panewslab.com/zh/articledetails/nhb55k89.html",
-          "publishedOn": "2024-07-27T09:00:00.000Z",
-          "wordCount": 349,
-          "title": "预测市场Polymarket新增“奥运会”类别",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
       ]
     },
@@ -325,9 +218,9 @@
           "description": "7月27日消息，据链上分析师Ali称，数据显示比特币哈希带（Hash Ribbon）指标显示矿工投降已结束，表明比特币价格势头或将从负转正。",
           "link": "https://www.hellobtc.com/news/202407/22633.html",
           "publishedOn": "2024-07-27T14:28:00.000Z",
-          "wordCount": 306,
+          "wordCount": null,
           "title": "分析师：比特币哈希带显示矿工投降结束，价格势头或将转正",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202407/22632.html",
@@ -335,9 +228,9 @@
           "description": "最新数据显示，已基本锁定民主党总统候选人提名的美国副总统哈里斯和共和党总统候选人、前总统特朗普的民调接近，目前选情胶着。 据美国选举信息网站“真正透明政治”汇总的民调数据，截至 25 日，特朗普在全国民调中平均领先哈里斯 1.7 个百分点。《华尔街日报》25 日发布的最新民调显示，特朗普领先哈里斯 2 个百分点。该报在报道中说，哈里斯与特朗普的支持率“不相上下”，这表明非白人选民对哈里斯的支持率有所上升，民主党人对本次大选的热情也大幅提升。在几个可能决定选举最终结果的关键摇摆州，两人的支持率也非常接近。（金十）",
           "link": "https://www.hellobtc.com/news/202407/22632.html",
           "publishedOn": "2024-07-27T14:28:00.000Z",
-          "wordCount": 317,
+          "wordCount": null,
           "title": "哈里斯和特朗普民调数据“不相上下”",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202407/22631.html",
@@ -375,9 +268,9 @@
           "description": "Microstrategy执行董事长迈克尔·塞勒 (Michael Saylor) 认为，美国政府应该持有全球大部分比特币，并认为这将增强美元的实力。与历史上的收购类似，他认为比特币是未来的关键资产。塞勒强调：“国家必须放眼未来，而国家的未来在网络空间，而比特币本质上就是网络曼哈顿。”",
           "link": "https://www.hellobtc.com/news/202407/22628.html",
           "publishedOn": "2024-07-27T10:20:00.000Z",
-          "wordCount": 314,
+          "wordCount": null,
           "title": "Microstrategy执行董事长：美国政府应拥有世界上大部分比特币",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202407/22627.html",
@@ -385,9 +278,9 @@
           "description": "美国总统候选人小罗伯特·肯尼迪在比特币2024大会上赞扬了比特币在在改善美国经济方面可能发挥的作用，并提议对美国货币政策进行全面改革，并补充表示 BTC 可以让美国经济恢复到尼克松时代之前的状态，他承诺在如果当选将发布四项与比特币相关的行政命令： 1、将美国持有的 204,000枚比特币作为“战略资产”并将每天购买550枚比特币； 2、建立至少 400 万枚比特币储备，声称这将使美国占据经济主导地位； 3、使 BTC-USD 交易无需向美国国税局报告或征税； 4、允许 BTC 作为符合 1031 条件的资产兑换成不动产。",
           "link": "https://www.hellobtc.com/news/202407/22627.html",
           "publishedOn": "2024-07-27T10:20:00.000Z",
-          "wordCount": 319,
+          "wordCount": null,
           "title": "小罗伯特·肯尼迪四项比特币政策总结，含BTC-USD交易无需向美国国税局报告或征税等",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202407/22626.html",
@@ -395,9 +288,9 @@
           "description": "7月27日消息，Vitalik Buterin 就以太坊团队负责人 Péter Szilágyi 有关“研究团队完全接受只要能够被验证便将一切中心化的想法”的说法进行了反驳：“我刚刚参加了上周的 EF 研究研讨会，我可以证实这是错误的，我们就最小化集中化进行了各种讨论。这包括： *深入分析多提议者，看看是否可以完全消除构建者角色； *最大化包含列表（inclusion lists）的力量（FOCIL）； *关于分叉选择的想法取决于交易的包容性； *对 Orbit SSF 的分析和关于加速部署 Orbit 机制的想法，这可能会在我们进行 SSF 之前将最小存款规模降低 10 倍以上； *针对 PeerDAS 的分布式区块构建； *PeerDAS 和 fullDAS 的组网分析和带宽优化； *使从 51%攻击中恢复更加部分自动化，减少对‘社会层’依赖的方法； *确保包含列表完全适用于（i） blobs 和（ii）原生账户抽象（例如 EIP-7560）交易。” 今日早些时候消息，以太坊团队负责人（Team Lead）Péter Szilágyi 在社交媒体表达了对以太坊发展方向的担忧，其观点涉及以太坊 PeerDAS 提案，该提案提议将以太坊 blob 大小增至 32 MB。Szilágyi 认为，PeerDAS 升级将阻碍家庭质押者（通常是那些拥有较简单算力设置的质押者）参与以太坊网络，而这违背了去中心化精神。 Szilágyi 在 X 上写道：“以太坊研究人员正在当着所有人的面‘谋害’家庭质押者。这不是我加入以太坊时所期望的事情。现在我很乐意证明事实并非如此，但我觉得以太坊正在失去其主线。研究团队似乎完全接受了将一切中心化的想法，只要它能够被验证。这是一个笑话：去中心化验证但中心化控制。”",
           "link": "https://www.hellobtc.com/news/202407/22626.html",
           "publishedOn": "2024-07-27T10:19:00.000Z",
-          "wordCount": 360,
+          "wordCount": null,
           "title": "Vitalik反驳Péter Szilágyi有关“以太坊研究团队接受将一切中心化的想法”言论",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202407/22625.html",
@@ -405,9 +298,9 @@
           "description": "全国政协委员、立法会议员谭岳衡刊文《巩固金融中心地位分享深化改革红利》，其中指出数字金融方面，特区政府须继续发展数字金融和合资格的虚拟产品，对新型金融业态进行有益探索，推动金融业自身发展新质生产力。香港须推动金融科技公司参与稳定币沙盒机制，加快推出匹配联系汇率制度特色的稳定币发行和交易；扩大数字人民币作为跨境支付工具的测试范围和落地场景；重点发展虚拟资产与底层实际资产挂钩的产品，将艺术品、房地产、股权以及碳排放等通过区块链技术转化为数字代币。",
           "link": "https://www.hellobtc.com/news/202407/22625.html",
           "publishedOn": "2024-07-27T10:19:00.000Z",
-          "wordCount": 305,
+          "wordCount": null,
           "title": "香港立法会议员谭岳衡：加快推出匹配联系汇率制度特色的稳定币发行和交易",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         },
         {
           "id": "https://www.hellobtc.com/news/202407/22624.html",
@@ -415,9 +308,9 @@
           "description": "1. 美国总统候选人肯尼迪：特朗普或于明天宣布美国政府购买比特币的计划。\n\n2. 灰度ETHE过去4天已流出超17%，预计12天内流出50%。\n\n3. Michael Saylor：每枚比特币到2045年或将达到1300万美元，牛市情况下可能达到4900万美元。\n\n4. 调查：73%的美国加密持有者计划在总统投票中考虑候选人对加密货币的立场。\n\n5. 美议员Bill Hagerty：正在努力推动支持比特币的立法。\n\n6. 美国泽西市市长：比特币是通胀对冲工具，个人还持有ETH。\n\n7. CryptoQuant创始人：本轮比特币牛市可能持续到2025年中期。\n\n8. 市场预计年底前美联储将降息三次，因近期通胀数据好转。\n\n9. 《财富》：哈里斯可能会在未来几周内分享她对比特币的立场。\n\n10. 美议员Cynthia Lummis在比特币2024大会上未宣布比特币战略储备立法。\n\n11. EigenLayer：即将推出AVS奖励和EIGEN程序化激励。",
           "link": "https://www.hellobtc.com/news/202407/22624.html",
           "publishedOn": "2024-07-27T00:36:00.000Z",
-          "wordCount": 327,
+          "wordCount": null,
           "title": "白话区块链早报:美国总统候选人肯尼迪：特朗普或于明天宣布美国政府购买比特币的计划",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+          "imageUrl": null
         }
       ]
     },
@@ -426,56 +319,6 @@
       "feedUrl": "https://rsshub.app/techflowpost/express",
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_54127.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，据 HTX 行情数据，BTC 上涨突破 69,000 美元，现报价 68931 美元，24 小时涨幅 2.03%。",
-          "link": "https://www.techflowpost.com/newsletter/detail_54127.html",
-          "publishedOn": "2024-07-27T13:39:49.000Z",
-          "wordCount": 491,
-          "title": "BTC 短时突破 69,000 美元",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_54126.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，HTX 行情显示，ETH 回升至 3300 美元上方，现报价 3304 美元，24小时上涨 1.5%。",
-          "link": "https://www.techflowpost.com/newsletter/detail_54126.html",
-          "publishedOn": "2024-07-27T13:15:07.000Z",
-          "wordCount": 487,
-          "title": "ETH 回升至 3300 美元上方",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_54125.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，7 月 27 日，据链上分析师余烬监测，某巨鲸地址过去 50 分钟再次以 3,279 美元的价格全仓买进了 6,206 枚 ETH（2035 万美元）。\n\n该巨鲸此前曾在 5 月 17 日至 5 月 18 日以 3,110 美元的价格买进 6,001.7 枚 ETH，并在 6 月 26 日以 3,384 美元的价格卖出，获利 164 万美元（+8.8%）。",
-          "link": "https://www.techflowpost.com/newsletter/detail_54125.html",
-          "publishedOn": "2024-07-27T12:24:47.000Z",
-          "wordCount": 547,
-          "title": "某巨鲸地址获利 164 万美元后再次建仓 6,206 枚 ETH，约合 2035 万美元",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_54124.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，7 月 27 日，据新华社报道，最新数据显示，美国副总统哈里斯和前总统特朗普的民调数据接近，选情胶着。\n\n据美国选举信息网站“真正透明政治”汇总的民调数据，截至25日，特朗普在全国民调中平均领先哈里斯1.7个百分点。\n\n《华尔街日报》25日发布的最新民调显示，特朗普领先哈里斯2个百分点。该报在报道中说，哈里斯与特朗普的支持率“不相上下”，这表明非白人选民对哈里斯的支持率有所上升，民主党人对本次大选的热情也大幅提升。\n\n在几个可能决定选举最终结果的关键摇摆州，两人的支持率也非常接近。据“真正透明政治”汇总的数据，截至24日，特朗普在威斯康星州、密歇根州、宾夕法尼亚州分别领先哈里斯0.7个百分点、1个百分点、3个百分点。",
-          "link": "https://www.techflowpost.com/newsletter/detail_54124.html",
-          "publishedOn": "2024-07-27T12:13:22.000Z",
-          "wordCount": 470,
-          "title": "哈里斯和特朗普民调数据“不相上下”",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
-        {
-          "id": "https://www.techflowpost.com/newsletter/detail_54123.html",
-          "author": null,
-          "description": "深潮 TechFlow 消息，7 月 27 日，据 Arkham 监测，贝莱德 BUIDL 基金地址于 13 小时前从 Circle 收到 1100 万枚 USDC。",
-          "link": "https://www.techflowpost.com/newsletter/detail_54123.html",
-          "publishedOn": "2024-07-27T10:59:15.000Z",
-          "wordCount": 516,
-          "title": "贝莱德 BUIDL 基金地址 13 小时前从 Circle 收到 1100 万枚 USDC",
-          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
-        },
         {
           "id": "https://www.techflowpost.com/newsletter/detail_54122.html",
           "author": null,
