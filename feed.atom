@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-28T12:26:48.524Z</id>
+    <id>urn:2024-07-28T13:15:43.260Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-28T12:26:48.524Z</updated>
+    <updated>2024-07-28T13:15:43.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -397,6 +397,520 @@
         <summary type="html"><![CDATA[7月27日消息，Vitalik Buterin 就以太坊团队负责人 Péter Szilágyi 有关“研究团队完全接受只要能够被验证便将一切中心化的想法”的说法进行了反驳：“我刚刚参加了上周的 EF 研究研讨会，我可以证实这是错误的，我们就最小化集中化进行了各种讨论。这包括： *深入分析多提议者，看看是否可以完全消除构建者角色； *最大化包含列表（inclusion lists）的力量（FOCIL）； *关于分叉选择的想法取决于交易的包容性； *对 Orbit SSF 的分析和关于加速部署 Orbit 机制的想法，这可能会在我们进行 SSF 之前将最小存款规模降低 10 倍以上； *针对 PeerDAS 的分布式区块构建； *PeerDAS 和 fullDAS 的组网分析和带宽优化； *使从 51%攻击中恢复更加部分自动化，减少对‘社会层’依赖的方法； *确保包含列表完全适用于（i） blobs 和（ii）原生账户抽象（例如 EIP-7560）交易。” 今日早些时候消息，以太坊团队负责人（Team Lead）Péter Szilágyi 在社交媒体表达了对以太坊发展方向的担忧，其观点涉及以太坊 PeerDAS 提案，该提案提议将以太坊 blob 大小增至 32 MB。Szilágyi 认为，PeerDAS 升级将阻碍家庭质押者（通常是那些拥有较简单算力设置的质押者）参与以太坊网络，而这违背了去中心化精神。 Szilágyi 在 X 上写道：“以太坊研究人员正在当着所有人的面‘谋害’家庭质押者。这不是我加入以太坊时所期望的事情。现在我很乐意证明事实并非如此，但我觉得以太坊正在失去其主线。研究团队似乎完全接受了将一切中心化的想法，只要它能够被验证。这是一个笑话：去中心化验证但中心化控制。”]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳定币发行商 Mountain Protocol 宣布其已获得百慕大数字资产业务最高许可证]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54122.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54122.html"/>
+        <updated>2024-07-27T09:56:43.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，7 月 26 日，收益型稳定币发行商 Mountain Protocol 宣布，其许可证已被百慕大金融管理局（F 类）升级为完整许可证，这是百慕大数字资产业务可获得的最高许可证。只有少数公司如 Coinbase、Circle、Hashkey 和 Zero Hash 等获得过此类许可证，这是百慕大数字资产初创公司首次在运营不到一年的时间内从 M 类晋升为 F 类。
+
+此前消息，Mountain Protocol 于 6 月完成 800 万美元 A 轮融资，由 Multicoin Capital 领投。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：比特币现货 ETF 自推出以来累计净流入达 175.89 亿美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54121.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54121.html"/>
+        <updated>2024-07-27T09:53:39.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，7 月 27 日，据 Farside Investors 监测，美国比特币现货 ETF 自推出以来累计净流入达 175.89 亿美元。其中：
+
+
+ 贝莱德 IBIT 累计净流入 197.27 亿美元  
+ 
+富达 FBTC 累计净流入 99.92 亿美元  
+ 
+灰度 GBTC 累计净流出 188.14 亿美元]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某聪明钱于 7 月 11 日买入 1943 万枚 MOTHER，目前浮盈 92.3 万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54120.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54120.html"/>
+        <updated>2024-07-27T09:50:01.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，7 月 27 日，据 @ai_9684xtpa 监测，Solana Meme 代币 MOTHER 24 小时涨幅超 25%，币价突破 0.08 美元。聪明钱 F4Kpk...VHRkB 于 7 月 11 日在横盘时花费 73 万美元买入 1943 万枚 MOTHER，平均成本仅为 0.03756 美元。建仓后至今未进行任何转移或卖出操作，目前浮盈 92.3 万美元，回报率达 126%。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[预测市场 Polymarket 新增「奥运会」类别]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54119.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54119.html"/>
+        <updated>2024-07-27T08:57:24.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，7 月 27 日，预测市场 Polymarket 新增「奥运会」类别，包括以下预测：
+
+
+ 在巴黎奥运会金牌获得最多的国家中，美国的预测概率为 79%，中国为 21%，该项目预测金额已达到 120 万美元；
+ 
+在获得奖牌数量最多的国家中，美国的预测概率为 95%，中国为 6%，该项目预测金额已达到 130 万美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitalik：以太坊研究团队并未接受"只要可验证就可中心化一切"的想法]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54118.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54118.html"/>
+        <updated>2024-07-27T06:48:30.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，以太坊联合创始人Vitalik Buterin近日回应了以太坊团队负责人Péter Szilágyi关于PeerDAS可能导致网络中心化的担忧。Buterin强调，以太坊研究团队并未接受"只要可验证就可以中心化一切"的想法。
+
+他表示，刚刚结束的以太坊基金会研究研讨会上，团队讨论了多项最小化中心化的措施，包括分析多提议者机制、优化包含列表功能、探索Orbit机制等。
+
+此前消息，以太坊团队负责人表示，如果以太坊无法成为被各国信任的"全球结算层"，那么以太坊就失败了。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEX与CEX现货交易量比例创历史新高，达14.55%]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54117.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54117.html"/>
+        <updated>2024-07-27T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据The Block数据显示，去中心化交易所（DEX）与中心化交易所（CEX）现货交易量比例指标已达到14.55%，创下历史新高。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONDO早期投资者11小时前将133万枚ONDO存入Bybit]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54116.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54116.html"/>
+        <updated>2024-07-27T05:26:11.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 The Data Nerd 监测，11 个小时前，ONDO 的早期投资者向 Bybit 存入 133 万枚 ONDO（133 万美元），这些代币是在过去 4 个月内归属的。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitget 即将上线 Layer3（L3）Launchpool 及交易挖矿]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54115.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54115.html"/>
+        <updated>2024-07-27T04:50:50.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Bitget 即将上线 Launchpool 项目 Layer3（L3），总奖池为 6,163,000 枚 L3。本轮 Launchpool 共开放三个质押挖矿池，分别为BGB 奖池，个人质押上限 20,000 万枚 BGB；新用户专享 USDT 奖池，个人质押上限为2,000 枚 USDT；L3 奖池，个人质押上限为5,720,000 枚 L3 。质押开放时间为7月30日18:00至8月9日18:00（UTC+8）。L3/USDT现货交易对将于7月30日18:00（UTC+8）开放。
+
+此外，将推出 CandyBomb 交易挖矿 Layer3（L3）专场活动，活动期间完成 L3 现货交易和合约交易任务即可获得奖签并瓜分奖池，总奖池725,000 枚 L3。活动时间为7月30日18:00至8月6日18:00（UTC+8）。
+
+Layer3 是一个学习、发现和贡献 Web3 生态系统和社区的平台。用户可以探索不同的社区并以赏金、竞赛和项目的形式完成任务，以加密货币 或 XP 获得奖励。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini联创呼吁美国政府在大选前明确SEC主席人选]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54114.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54114.html"/>
+        <updated>2024-07-27T04:39:56.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，加密货币交易所Gemini联合创始人Tyler Winklevoss在X平台发表长文，批评拜登政府对加密行业的态度。
+
+Tyler透露，他和兄弟Cameron因公开支持特朗普而被取消白宫加密圆桌会议邀请。他认为这反映了政府不愿真诚与行业对话，仅停留在口头承诺层面。
+
+Tyler呼吁行业要求两党在11月大选前采取实际行动支持加密行业，特别是公布下一任SEC主席人选。他强调，这是确保行业公平对待的关键，并希望未来加密货币能成为普遍接受的主流，不再需要成为政治议题。
+
+Tyler表示，拜登-哈里斯政府有101天时间来扭转过去4年对行业造成的负面影响。
+
+值得注意的是，现任SEC主席Gary Gensler的五年任期将于2026年6月结束。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XT.COM上线MAX，盘前交易赢取$20,000大奖+666 XT红包]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54113.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54113.html"/>
+        <updated>2024-07-27T04:31:11.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，加密货币交易所XT宣布把改变整合行业赛道生态作为发展天花板的项目Matr1x上线XT.COM并开展交易活动，参与MAX盘前交易赢取$20,000大奖，快来参与到这个现象级的Web3娱乐项目抽取666XT大奖，To be first。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊现货 ETF 昨日总净流出 1.63 亿美元，灰度以太坊信托 ETHE 单日净流出 3.56 亿美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54112.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54112.html"/>
+        <updated>2024-07-27T04:25:39.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 7 月 26 日）以太坊现货 ETF 总净流出 1.63 亿美元。
+
+昨日灰度（Grayscale）以太坊信托 ETF ETHE 单日净流出 3.56 亿美元，目前 ETHE 历史净流出为 15.14 亿美元。灰度（Grayscale）以太坊迷你信托 ETF ETH 单日净流入 4494.26 万美元，目前灰度以太坊迷你信托 ETH 历史总净流入为 1.64 亿美元。昨日单日净流入最多的以太坊现货 ETF 为贝莱德（BlackRock） ETF ETHA，单日净流入为 8721.78 万美元，目前 ETHA 历史总净流入达 4.42 亿美元。其次为灰度（Grayscale） ETF ETH，单日净流入为 4494.26 万美元，目前 ETH 历史总净流入达 1.64 亿美元。
+
+截止发稿前，以太坊现货 ETF 总资产净值为 92.38 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 2.36%，历史累计净流出已达 3.41 亿美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代币分发协议ZAP与Nansen合作推出"Zap Value Index"（ZVI）钱包声誉评分系统]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54111.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54111.html"/>
+        <updated>2024-07-27T03:07:03.000Z</updated>
+        <summary type="html"><![CDATA[深潮TechFlow消息，代币分发协议ZAP宣布与Nansen合作推出"Zap Value Index"（ZVI）钱包声誉评分系统。
+
+ZVI通过追踪用户链上活动，如gas费用支出、钱包年龄和交易次数等，实时更新评分。该系统旨在促进用户参与，帮助项目更有效分配奖励，并鼓励良好的链上行为。用户可快速验证钱包获得评分，高分或带来更多奖励机会。
+
+ZAP表示，ZVI将于8月正式推出，标志着平台开始重视和奖励真实的链上参与。
+
+此前消息，代币分发协议 ZAP 完成 1510 万美元融资，估值达到 1 亿美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XT交易所推出第四期邀请活动，奖池高达6000美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54110.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54110.html"/>
+        <updated>2024-07-27T03:00:33.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，加密货币交易所XT宣布推出第四期"邀请有礼"活动，总奖池高达6000美元。用户只需邀请好友加入XT平台，即有机会赢取奖励。XT鼓励现有用户积极参与，与好友一同享受交易乐趣并分享奖励。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密消费者应用Abstract已上线测试网，曾获Founders Fund领投1100万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54109.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54109.html"/>
+        <updated>2024-07-27T02:56:50.000Z</updated>
+        <summary type="html"><![CDATA[深潮TechFlow消息，区块链项目Abstract宣布其测试网已正式上线。Abstract测试网由ZK Stack提供支持，作为以太坊Sepolia测试网上的Layer 2（L2）网络运行。
+
+开发者可以利用这个测试网来测试他们的应用程序，确保在今年晚些时候主网启动前一切运行顺畅。
+
+此前消息，Pudgy Penguins背后的公司Igloo, Inc.宣布完成1100万美元融资，由Founders Fund领投，Fenbushi Capital、1kx、Everest Ventures Group和Selini Capital参投。Igloo计划利用这笔资金成立新实体Cube Labs，专注于区块链技术开发。Cube Labs将重点开发名为Abstract的区块链，旨在简化加密货币在消费应用中的采用。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QCP Capital：现货ETH ETF缺乏质押功能降低了投资者购买的动力]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54108.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54108.html"/>
+        <updated>2024-07-27T02:45:27.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，加密货币交易公司QCP Capital发布报告，指出现货ETH ETF首周交易情况与BTC现货ETF发布时极为相似，ETH价格从3563美元高点回落至3086美元低点。
+
+QCP Capital分析了这一现象的原因，主要包括Grayscale的高额费用导致资金持续流出，以及加密货币市场出现经典的"炒作买入、利好卖出"行为。
+
+报告还指出，与BTC不同，ETH对传统金融界来说是一个较为抽象的概念，需要时间进一步普及；此外，缺乏质押功能也降低了投资者购买现货ETH ETF的动力。
+
+在期权市场方面，QCP Capital表示，本周BTC意外成为焦点，市场对即将到来的特朗普演讲充满期待，期权隐含波动率大幅上升。
+
+该公司还提出了一些交易建议，包括押注BTC在8月2日到期时达到72000美元的看涨策略。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneMedNet完成460万美元私募融资，已将180万美元净收益用于购买BTC]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54107.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54107.html"/>
+        <updated>2024-07-27T02:41:35.000Z</updated>
+        <summary type="html"><![CDATA[深潮TechFlow消息，现实界数据（RWD）提供商OneMedNet Corporation完成一轮私募融资，总额约460万美元。参与此轮融资的机构投资者包括Off the Chain Capital和Discovery Capital Management的关联公司。
+
+公司计划将净募集资金用于营运资金和一般公司用途，已将180万美元净收益用于购买比特币（$BTC）。
+
+此次私募中，OneMedNet以不同价格向投资者发行了普通股和预付权证。公司承诺将向美国证券交易委员会提交相关股份的注册声明。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradigm Capital于5小时前向Anchorage Digital转入6221枚ETH]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54106.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54106.html"/>
+        <updated>2024-07-27T02:32:36.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Arkham 监测，Paradigm Capital（0x115 开头地址）5 小时前向 Anchorage Digital 转入约 6221 枚 ETH，约合 2031 万美元，目前 Paradigm 还持有 47,441 枚 ETH，约合 1.55 亿美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WazirX用户赔偿方案：可立即获得55%的资产，45%将转换为USDT等值代币并锁定]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54105.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54105.html"/>
+        <updated>2024-07-27T02:30:56.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，加密货币交易所WazirX近日遭遇严重网络攻击，约2.3亿美元（相当于45%的用户资金）被盗。为应对此次危机，WazirX宣布采取"社会化损失"策略，以公平透明的方式分摊损失。具体措施如下：
+
+
+ 
+ 55/45分配方案：用户可立即获得55%的资产，剩余45%将转换为USDT等值代币并锁定。
+ 
+ 
+ 
+两种选择：用户可在WazirX应用或网站上选择不同的资产管理方案。
+ 
+ 
+ 
+资产重组：未锁定部分（55%）将使用平台上可用的加密资产组合进行平衡。
+ 
+ 
+ 
+继续追回：WazirX承诺继续努力追回被盗资金，并探索空投等其他恢复方案。
+ 
+ 
+ 
+价格计算：解锁资产组合（55%）的价值将基于2024年7月21日20:30（印度标准时间）CoinMarketCap和全球主要交易所的平均价格计算。
+ 
+
+
+WazirX将通过电子邮件向注册用户发送详细说明和投票链接。用户需在2024年8月3日07:00（印度标准时间）前完成投票。WazirX强调，此次投票不具有法律约束力，最终决策将考虑投票结果、调查发现、平台流动性等多方面因素。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop著名空头Andrew Left被SEC和司法部指控欺诈]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54104.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54104.html"/>
+        <updated>2024-07-27T02:27:06.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国证券交易委员会（SEC）和司法部于周五同时对Andrew Left及其公司Citron Capital提出指控，称其涉嫌数百万美元的欺诈计划。
+
+SEC指控Left和Citron Capital在2018年至2020年期间发布虚假和误导性的股票推荐声明。据称，Left至少26次利用Citron的通讯推荐做多或做空与自身持仓一致的股票，随后股价平均波动12%。SEC称，Left和他的公司随后会反向操作，从新的股价走势中获利，累计获利约2000万美元。
+
+SEC洛杉矶地区办公室主任Kate Zoladz表示，Left利用读者的信任，诱导他们基于虚假信息进行交易，以便他能迅速反向操作并从价格变动中获利。
+
+SEC正寻求对Left和Citron施加各种财务处罚，包括行为禁令、禁止担任高管和董事，以及禁止参与细价股交易。司法部的指控类似，但将欺诈所得估计为1600万美元，且可能导致Left面临刑事指控。
+
+值得注意的是，GameStop的狂热粉丝和Roaring Kitty的追随者们在社交媒体上对此消息表示庆祝。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币侧链Rootstock宣布在比特币主网首次成功验证SNARK证明]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54103.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54103.html"/>
+        <updated>2024-07-27T02:22:52.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，比特币侧链Rootstock Labs（RIF）和Fairgate的开发团队宣布，他们已在比特币主网上成功实现了交互式验证SNARK（简洁非交互式知识论证）证明的技术突破。
+
+这一演示于周四在比特币主网上完成，此前一天已在测试网环境中完成。该团队使用了他们独立开发的BitVMX系统，这是Robin Linus的BitVM设计的修改版本。
+
+Rootstock团队表示，这一发展代表了BitVMX证明系统的重大进步，展示了在链上挑战和验证SNARK验证器执行的能力。这一突破可能为比特币网络适应更快、更便宜的二层网络铺平道路，使其具备类似以太坊的可编程性。零知识SNARK是一种强大的加密技术，允许在不泄露信息且无需证明者和验证者交互的情况下证明知识。
+
+Rootstock团队表示，这一突破为使用BitVMX通用虚拟CPU复制RISC-V架构编译的任何程序打开了大门。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARA CEO：特朗普执政下比特币挖矿将蓬勃发展]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54102.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54102.html"/>
+        <updated>2024-07-27T02:13:11.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，在纳什维尔举行的比特币2024会议上，MARA（前Marathon Digital Holdings）董事长兼CEO Fred Thiel表示，加密货币面临的主要威胁仍将来自能源政策和银行业。
+
+Thiel预测，在特朗普政府下，比特币挖矿可能会蓬勃发展；而在潜在的Kamala Harris政府下，能源政策走向尚不明确。
+
+Riot Platforms的CEO Jason Les对Kamala Harris政府可能采取亲加密政策表示怀疑，认为其政策可能不会偏离现任政府的反加密立场。
+
+随着拜登退出2024年总统竞选，副总统Kamala Harris被广泛预期成为民主党2024年的领跑者。虽然Kamala Harris尚未透露其加密货币立场，但投资者Mark Cuban称她对加密行业的态度"远比普遍认为的更开放"。
+
+与此同时，前总统特朗普继续将自己标榜为"加密总统"，承诺保护自我托管和美国比特币挖矿行业。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法官批准推迟没收 FTX 资助的约 4000 万美元 PAC 捐款]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54101.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54101.html"/>
+        <updated>2024-07-27T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国纽约南区地方法院法官Lewis Kaplan于7月26日批准了司法部的请求，将评估前FTX CEO Sam Bankman-Fried（SBF）向多个政治行动委员会（PACs）捐款的可没收性期限延长至9月13日。
+
+这些主要面向民主党的PACs包括众议院多数党PAC、参议院多数党PAC等。SBF据报在2022年向政治候选人和PACs直接捐款约4000万美元。
+
+在其2023年刑事审判中，SBF称这些政治捐款来自"Alameda Research的贷款"，旨在影响美国政府的加密货币政策。
+
+SBF已被判25年监禁，目前仍在布鲁克林大都会拘留中心服刑，其法律团队已于4月提出上诉。前FTX高管Nishad Singh和Gary Wang预计将于10月和11月接受量刑。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊团队负责人：如果以太坊无法成为被各国信任的"全球结算层"，那么以太坊就失败了]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54100.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54100.html"/>
+        <updated>2024-07-27T02:04:49.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，以太坊核心开发团队负责人 Péter Szilágyi 近日在社交媒体上发出警告，认为即将到来的 PeerDAS 升级可能严重威胁以太坊的去中心化。Szilágyi 指出，PeerDAS 计划将 blob 大小增加到 32MB，这将导致区块生产对网络带宽要求极高，可能达到 2.5Gbit/s。他表示："这实际上正在扼杀家庭质押者，这不是我加入以太坊时所期望的。"
+
+Szilágyi 质疑以太坊研究团队的动机，认为他们"完全接受了只要可以验证就可以将一切中心化的想法"。
+
+他呼吁社区询问研究人员关于以太坊未来 5 年的具体愿景，包括谁将创建区块、存储状态，以及普通用户在没有第三方运营商的情况下能做什么。Szilágyi 强调，如果最终的系统无法成为被各国信任的"全球结算层"，那么以太坊就已经失败了。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marathon Digital寻求合作开发比特币L2跨境支付解决方案，并关注RWA领域拟代币化威士忌桶]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54099.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54099.html"/>
+        <updated>2024-07-27T01:45:34.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，比特币矿业公司 Marathon Digital 正在寻求与区块链开发者合作，以构建比特币L2跨境支付解决方案。该公司侧链产品负责人 Julian Duran 在7月26日的 Bitcoin 2024 大会上透露了这一信息。
+
+Duran 表示，跨境支付是"区块链，特别是比特币最大的用例"。他指出，在新兴市场，海外汇款的平均成本为交易价值的8%至10%，结算通常需要3-4天。相比之下，比特币转账通常在10分钟内完成，而二层解决方案可能更快。
+
+Marathon 还关注实物资产代币化（RWA）领域，已开始在美国计划代币化威士忌桶，并与一个 RWA 平台合作保护法国城堡。
+
+值得注意的是，Marathon 是比特币最大的企业持有者之一，其比特币储备约为20,000枚，价值超过10亿美元。仅在7月份，公司就购入了价值约1亿美元的比特币。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币网络的 OP_CAT 升级或将重新引入中本聪于2010年移除的功能]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54098.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54098.html"/>
+        <updated>2024-07-27T01:37:02.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Bitcoin 网络的 OP_CAT 升级引发了开发者对比特币应用开发的新兴趣。这一升级可能会重新引入中本聪于2010年移除的功能。在 Bitcoin2024 大会上，无需支付 gas 费的比特币 NFT（Ordinals）交易平台Bioniq首席执行官 Bob Bodily 表示，数百名开发者正在"大声疾呼"这一升级的潜在好处。
+
+Bodily 对比特币改进提案420（BIP 420）持乐观态度，该提案可能会在2025年将操作连接（OP_CAT）功能恢复到比特币网络中。OP_CAT 将为比特币网络引入智能合约功能，目前已在比特币 Signet 测试网上可用。
+
+OP_CAT 将启用契约（covenants），进而实现共享未花费交易输出（UTXO）等技术进步，这将提高闪电网络等的可扩展性。尽管存在保守的"固化阵营"和对不可预见影响的担忧，但 Bodily 认为保持比特币网络现状的风险更大。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前 FTX 高管 Ryan Salame 因被狗咬伤请求推迟入狱至10月13日]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54097.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54097.html"/>
+        <updated>2024-07-27T01:26:07.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，前 FTX Digital Markets 联合 CEO Ryan Salame 的律师向纽约法院提出请求，希望推迟其入狱时间，以便进行紧急手术。据律师称，Salame 于6月29日在朋友家中被一只德国牧羊犬"严重咬伤"。
+
+Salame 原定于今年8月29日开始服刑，但其律师要求将日期推迟至10月13日。医生的诊断信显示，Salame 于7月3日就面部狗咬伤进行了评估。
+
+去年9月，Salame 承认犯有串谋进行非法政治捐款和串谋经营无牌汇款业务的罪行，被判处七年半监禁。他曾与前 FTX CEO Sam Bankman-Fried 密切合作。Bankman-Fried 今年3月因欺诈罪被判近25年监禁。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链游BLOCKLORDS于7月24日的日活用户突破27万，成为Base链上主要游戏之一]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54096.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54096.html"/>
+        <updated>2024-07-27T01:23:45.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据dune数据显示，区块链游戏 BLOCKLORDS 于7月24日在 Base 链上日活用户数一度突破27 万，创历史新高，成为该链上主要游戏之一。
+
+此前7月24日消息，Coinbase 将上线 BLOCKLORDS（LRDS）。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicroStrategy联创：比特币将在2045年达到1300万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54095.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54095.html"/>
+        <updated>2024-07-27T00:49:10.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，MicroStrategy 联合创始人 Michael Saylor 于7月26日在纳什维尔举行的 Bitcoin 2024 大会上发表演讲，预测比特币价格将在2045年达到1300万美元，较其6月份的1000万美元预测有所上调。Saylor 表示，这只是基准情况，悲观情况下可能为300万美元，乐观情况下可达4900万美元。
+
+Saylor 建议个人、企业和国家将资产全面转换为比特币。他认为，所有实物资本都受熵增定律影响，价值会随时间消散，而比特币作为"不朽、不可变和非物质"的资产，是经济困境的解决方案。
+
+截至6月20日，MicroStrategy 持有226,331个比特币，总投资约83.3亿美元，平均每枚成本36,798美元，是全球最大的上市公司比特币持有者之一。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灰度BTC迷你信托基金获批，正等待S-1注册声明生效]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54094.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54094.html"/>
+        <updated>2024-07-27T00:35:22.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国证券交易委员会（SEC）批准了 Grayscale 比特币迷你信托基金（Grayscale Bitcoin Mini Trust）的 19b-4 表格。该基金计划以代码"BTC"上市，作为 Grayscale 比特币信托基金（GBTC）的衍生产品。Grayscale 发言人表示，公司正等待该基金的 S-1 注册声明生效，这将使其作为美国现货比特币 ETP 与 GBTC 并行运作。
+
+Grayscale 表示将尽快公布比特币迷你信托基金在纽约证券交易所 Arca 的上市日期。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国参议员Cynthia Lummis在比特币大会上未提及比特币作为战略储备资产]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54093.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54093.html"/>
+        <updated>2024-07-27T00:32:05.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国参议员 Cynthia Lummis 和 Tim Scott 于7月26日在纳什维尔举行的 Bitcoin 2024 大会上发表演讲。与此前传言不同，Lummis 并未提出将比特币列为美国战略储备资产的立法。Lummis 批评了 SEC 通过执法而非法规来监管行业的做法，并强调了共和党修订后的保护数字资产所有权和托管的政纲。
+
+Scott 则提出了利用比特币创建"机会区"的构想。两位参议员还讨论了比特币挖矿对美国能源基础设施的潜在贡献。
+
+此前，对于比特币成为战略储备资产的可能性，业内人士如 Mark Cuban 和 Bryan Courchesne 持乐观态度，而 BlockTower Capital 的 Ari Paul 则持相反观点。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共和党参议员Tim Scott：若当选银行委员会主席将推动亲比特币立法]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54092.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54092.html"/>
+        <updated>2024-07-27T00:26:59.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国共和党参议员 Cynthia Lummis 和 Tim Scott 于7月26日在比特币2024 大会上发表讲话，声称当前参议院银行委员会的领导层正"阻碍"美国创新，特别是在比特币相关领域。
+
+Lummis 表示，如果共和党在11月选举中赢得多数席位，他们将任命 Scott 为银行委员会主席，从而终止该委员会出台的反比特币立法。
+
+Scott 承诺，一旦当选主席，将利用职权推动亲比特币立法投票并尽可能在参议院通过。
+
+两位参议员还批评了美国证券交易委员会（SEC）主席 Gary Gensler，Scott 表示若他担任银行委员会主席，将告诉 Gensler "走人"。
+
+Lummis 强调，SEC 受银行委员会制定的法规约束，如果共和党能控制委员会，将限制 Gensler 的行动。
+
+Scott 承诺对加密货币采取"轻触式"监管，认为个人应有权决定是否投资加密货币及投资多少。目前，参议院银行委员会由民主党人 Sherrod Brown 担任主席。选举预测平台 270toWin 预测共和党将在11月赢得50个席位，民主党48个，2个席位悬而未决，意味着竞争将非常激烈。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[昨日灰度ETHE净流出3.563亿美元，Bitwise ETHW净流入1600万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54091.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54091.html"/>
+        <updated>2024-07-27T00:20:08.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Farside Investors 数据，昨日以太坊ETF资金动态一览：
+
+
+ 
+ 灰度 ETHE 净流出 3.563 亿美元；
+ 
+ 
+ 
+灰度 ETH 净流入 4490 万美元。
+ 
+ 
+ 
+Bitwise ETHW 净流入 1600 万美元；
+ 
+ 
+ 
+Franklin EZET 净流入 620 万美元；]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据：USDC Treasury今晨铸造1亿枚USDC]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54090.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54090.html"/>
+        <updated>2024-07-27T00:14:49.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Whale Alert 监测，USDC Treasury 于今晨 0:57 左右铸造 5000 万枚 USDC，今晨5:15铸造 5000 万枚 USDC。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小罗伯特·肯尼迪承诺建立比特币战略储备：若当选将每日购买500枚BTC直至400万枚]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54089.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54089.html"/>
+        <updated>2024-07-27T00:09:40.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，独立总统候选人小罗伯特·F·肯尼迪（Robert F. Kennedy Jr.）于7月26日北京时间在Bitcoin2024活动上发表演讲，高度赞扬了比特币在改善美国经济和生活方式方面可能发挥的作用。
+
+他承诺，一旦就职将签署多项行政命令以启动相关进程。肯尼迪表示，他将要求司法部和美国法警将美国持有的204,000个比特币转移至美联储作为"战略资产"，并指示财政部每天购买500个比特币，直到储备达到至少 400 万 BTC。
+
+他预测，美国将达到"其他国家无法超越的主导地位"，其比特币储备最终价值将达到"数百万亿美元"。
+
+此外，肯尼迪还计划下令所有比特币与美元之间的交易无需向美国国税局（IRS）报告和纳税，并将比特币纳入1031交换计划，以鼓励投资。
+
+他强调，交易自由与言论自由同等重要，比特币可以提供这种自由并帮助恢复美国经济。肯尼迪还表示，如果世界采用比特币标准，将不会再有战争，因为"无法印刷比特币"。
+
+他计划聘请Space Force少校Jason Lowery担任国家安全顾问，并承诺用包括贵金属和比特币在内的硬资产支持美国国债，以加强美元，控制通胀，开启新的金融稳定时代。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
