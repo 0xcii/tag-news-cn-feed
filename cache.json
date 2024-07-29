@@ -320,6 +320,16 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202407/22636.html",
+          "author": null,
+          "description": "1. 比特币算力7日SMA上周一度达677 EH/s，创历史新高。\n\n2. The ETF Store总裁：灰度本周将拥有最低成本的现货比特币和以太坊ETF。\n\n3. Compound向“Golden Boys”设计协议拨款2400万美元COMP提案治理攻击指控。\n\n4. 分析师：投资者应增加风险，不要忽视当前利好信号和市场叙。\n\n5. 怀俄明大学创建比特币研究所，旨在输出经同行评审的比特币学术研究成果。\n\n6. VanEck顾问：美联储购买比特币而非国债的逻辑基于比特币总量固定。\n\n7. 加密律师：哈里斯应要求SEC主席辞职以表明在执政期间促进加密经济发展的态度。\n\n8. Celo链上USDT供应量接近2亿美元，过去30天增长了85.4%。\n\n9. 美联储本周维持利率不变的概率为95.9%。",
+          "link": "https://www.hellobtc.com/news/202407/22636.html",
+          "publishedOn": "2024-07-29T00:49:00.000Z",
+          "wordCount": 334,
+          "title": "白话区块链早报：比特币算力7日SMA上周一度达677 EH/s，创历史新高",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202407/22635.html",
           "author": null,
           "description": "1. 特朗普宣布比特币战略储备计划。\n\n2. 特朗普：将成为美国需要的支持创新和比特币的总统。\n\n3. 知情人士：特朗普已与马斯克讨论加密货币政策。\n\n4. 参议员Cynthia Lummis将提出让美国财政部购买100万枚比特币的法案。\n\n5. 特朗普：若当选，比特币和加密货币将以前所未有的方式飙升。\n\n6. 比特币政策小组建议英国保留比特币持有量。\n\n7. 消息人士：哈里斯顾问已与Coinbase、Circle等加密公司接触。\n\n8. 特朗普：参加2024年比特币大会的原因是想让美国在加密货币保持领先地位。\n\n9. 特朗普：正在制定计划使美国成为世界比特币超级大国。\n\n10. 特朗普：当选总统后将命令财政部停止创建中央银行数字货币CBDC。\n\n11. 特朗普：当选后将使美国成为能源和电力成本最低的国家。",
@@ -408,16 +418,6 @@
           "wordCount": 319,
           "title": "小罗伯特·肯尼迪四项比特币政策总结，含BTC-USD交易无需向美国国税局报告或征税等",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202407/22626.html",
-          "author": null,
-          "description": "7月27日消息，Vitalik Buterin 就以太坊团队负责人 Péter Szilágyi 有关“研究团队完全接受只要能够被验证便将一切中心化的想法”的说法进行了反驳：“我刚刚参加了上周的 EF 研究研讨会，我可以证实这是错误的，我们就最小化集中化进行了各种讨论。这包括： *深入分析多提议者，看看是否可以完全消除构建者角色； *最大化包含列表（inclusion lists）的力量（FOCIL）； *关于分叉选择的想法取决于交易的包容性； *对 Orbit SSF 的分析和关于加速部署 Orbit 机制的想法，这可能会在我们进行 SSF 之前将最小存款规模降低 10 倍以上； *针对 PeerDAS 的分布式区块构建； *PeerDAS 和 fullDAS 的组网分析和带宽优化； *使从 51%攻击中恢复更加部分自动化，减少对‘社会层’依赖的方法； *确保包含列表完全适用于（i） blobs 和（ii）原生账户抽象（例如 EIP-7560）交易。” 今日早些时候消息，以太坊团队负责人（Team Lead）Péter Szilágyi 在社交媒体表达了对以太坊发展方向的担忧，其观点涉及以太坊 PeerDAS 提案，该提案提议将以太坊 blob 大小增至 32 MB。Szilágyi 认为，PeerDAS 升级将阻碍家庭质押者（通常是那些拥有较简单算力设置的质押者）参与以太坊网络，而这违背了去中心化精神。 Szilágyi 在 X 上写道：“以太坊研究人员正在当着所有人的面‘谋害’家庭质押者。这不是我加入以太坊时所期望的事情。现在我很乐意证明事实并非如此，但我觉得以太坊正在失去其主线。研究团队似乎完全接受了将一切中心化的想法，只要它能够被验证。这是一个笑话：去中心化验证但中心化控制。”",
-          "link": "https://www.hellobtc.com/news/202407/22626.html",
-          "publishedOn": "2024-07-27T10:19:00.000Z",
-          "wordCount": 360,
-          "title": "Vitalik反驳Péter Szilágyi有关“以太坊研究团队接受将一切中心化的想法”言论",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
     },
@@ -432,7 +432,7 @@
           "description": "深潮 TechFlow 消息，怀俄明大学（University of Wyoming）宣布将于8月成立比特币研究所（UW Bitcoin Research Institute）。该研究所旨在提供关于比特币的\"高质量同行评审\"研究。研究所主任Bradley Rettler表示，当前比特币研究质量较差，业界需要更多高质量的同行评审出版物，以确保公众正确了解比特币的本质和运作机制。\n\n研究所计划开展年度夏季工作坊、提供学术奖项并举办每周研讨会。作为非营利机构，研究所接受比特币捐赠以支持研究工作。\n\n值得注意的是，怀俄明州正迅速成为美国领先的比特币友好州，这在很大程度上得益于亲比特币参议员Cynthia Lummis和Custodia Bank创始人兼CEO Caitlin Long的推动。Lummis近日还在比特币2024大会上宣布了一项战略性比特币储备法案，提议美国购买总量5%的比特币用于减少国债。",
           "link": "https://www.techflowpost.com/newsletter/detail_54181.html",
           "publishedOn": "2024-07-29T01:13:51.000Z",
-          "wordCount": 472,
+          "wordCount": 482,
           "title": "怀俄明大学将于8月成立比特币研究所",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +442,7 @@
           "description": "深潮 TechFlow 消息，加密货币研究机构10x Research发布最新分析报告。根据历史数据分析，比特币在8月回报率通常持平，9月则呈下跌趋势。然而，美国利率政策、通胀降低以及选举日程等利好因素可能会缓解8月份约10亿美元代币解锁带来的下行压力。\n\n报告指出，比特币市场主导地位正创下本轮周期新高，这一现象值得关注。10x Research预计，比特币最终突破可能需要宏观层面的助力，如美联储预期降息或通胀进一步下降。分析师建议交易者密切关注比特币价格接近区间上限时的表现。\n\n报告特别强调，7月31日的美联储FOMC会议和8月14日的美国CPI报告将是关键事件，可能影响比特币是否会继续在当前宽幅区间内震荡或突破现有价格区间。",
           "link": "https://www.techflowpost.com/newsletter/detail_54180.html",
           "publishedOn": "2024-07-29T01:10:57.000Z",
-          "wordCount": 459,
+          "wordCount": 469,
           "title": "10x Research：历史数据显示BTC在8月回报率通常持平，9月则呈下跌趋势",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +452,7 @@
           "description": "深潮 TechFlow 消息，游戏和AI模块化数据层CARV宣布与Telegram游戏Banana合作，允许玩家通过提交工作证明(POW)在跨平台成就系统CARV Play赢取额外PEEL代币，将游戏成就转化为可验证的Soulbound Tokens (SBTs)，实现跨平台保存玩家游戏记忆和成就。\n\n据悉，CARV Play已收录超过810款游戏，提供游戏评测、独家活动和奖励体验。玩家可通过完成任务获得平台货币GEMs，用于兑换游戏物品和奖品。",
           "link": "https://www.techflowpost.com/newsletter/detail_54179.html",
           "publishedOn": "2024-07-29T01:07:03.000Z",
-          "wordCount": 459,
+          "wordCount": 469,
           "title": "游戏和AI模块化数据层CARV与Telegram游戏Banana合作，提交POW以赚取PEEL代币",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +462,7 @@
           "description": "深潮 TechFlow 消息，苹果公司(Apple Inc.)即将推出的人工智能功能将晚于预期发布，无法赶上即将发布的iPhone和iPad软件大更新的首发时间。据知情人士透露，苹果计划在10月前将Apple Intelligence作为软件更新的一部分向用户推出。这意味着AI功能将在原定于9月发布的iOS 18和iPadOS 18初始版本推出几周后才会到来。知情人士因讨论未公开的发布细节而要求匿名。",
           "link": "https://www.techflowpost.com/newsletter/detail_54178.html",
           "publishedOn": "2024-07-29T00:52:55.000Z",
-          "wordCount": 458,
+          "wordCount": 468,
           "title": "知情人士：苹果AI功能延期发布",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +472,7 @@
           "description": "深潮 TechFlow 消息，据HTX行情数据显示，ETH回升至3300美元上方，24小时上涨1.67 %，现报价3301美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54177.html",
           "publishedOn": "2024-07-29T00:28:30.000Z",
-          "wordCount": 455,
+          "wordCount": 465,
           "title": "ETH回升至3300美元上方，24小时上涨1.67 %",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -482,7 +482,7 @@
           "description": "深潮 TechFlow 消息，据 Token Unlocks 数据显示，W、SUI、OP等多个项目本周将迎来代币一次性大额解锁，其中：\n\n\n \n Echelon 将于 7月 31日解锁 75万枚 PRIME，价值约 559万美元，占流通供应量的 1.75%；\n \n \n \nOptimism将于 7月31日解锁 3134万枚 OP，价值约 5485万美元，占流通供应量的 2.79%；\n \n \n \ndydx将于8月 1日解锁 833万枚 DYDX，价值约 1083万美元，占流通供应量的 3.65%；\n \n \n \nSui将于8月 1日解锁 6419万枚 SUI，价值约 5048万美元，占流通供应量的 2.56%；\n \n \n \nZetachain将于8月 1日解锁 5389万枚 ZETA，价值约 3458万美元，占流通供应量的 18.92%；\n \n \n \nGalxe将于8月2 日解锁 417万枚 GAL，价值约 1310万美元，占流通供应量的 3.52%；\n \n \n \nWormhole将于8月3 日解锁 6亿枚 W，价值约 1.8亿美元，占流通供应量的 33.33%；\n \n \n \nEthena将于8月 4日解锁 1489万枚 ENA，价值约 701万美元，占流通供应量的 0.87%；",
           "link": "https://www.techflowpost.com/newsletter/detail_54176.html",
           "publishedOn": "2024-07-29T00:27:50.000Z",
-          "wordCount": 548,
+          "wordCount": 558,
           "title": "W、SUI、OP等本周将迎来大额解锁，W将解锁超1.8亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -492,7 +492,7 @@
           "description": "深潮 TechFlow 消息，去中心化借贷协议Compound Finance近日通过的提案289引发社区争议。该提案将分配约2400万美元worth的COMP代币用于\"Golden Boys\"设计的收益协议。\n\n多位社区成员，包括安全顾问Michael Lewellen，指出这可能是一次\"治理攻击\"，质疑有小群体通过大量收购代币强行通过提案。提案发起人Humpy否认资金会被挪用，但未能完全消除社区疑虑。",
           "link": "https://www.techflowpost.com/newsletter/detail_54175.html",
           "publishedOn": "2024-07-29T00:17:08.000Z",
-          "wordCount": 460,
+          "wordCount": 470,
           "title": "Compound向“Golden Boys”拨款2400万美元COMP提案被指控无视DAO反对通过",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -502,7 +502,7 @@
           "description": "深潮 TechFlow 消息，Tether首席执行官Paolo Ardoino在社交平台X（原Twitter）上发文透露，Tether正在酝酿一个新的开源项目。Ardoino表示，这个项目将成为Tether未来生态系统的重要组成部分。",
           "link": "https://www.techflowpost.com/newsletter/detail_54174.html",
           "publishedOn": "2024-07-29T00:06:47.000Z",
-          "wordCount": 455,
+          "wordCount": 465,
           "title": "Tether CEO：正在酝酿一个新的开源项目",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-29T02:35:45.795Z</id>
+    <id>urn:2024-07-29T03:17:27.445Z</id>
     <title>web3::cave</title>
-    <updated>2024-07-29T02:35:45.795Z</updated>
+    <updated>2024-07-29T03:17:27.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -53,6 +53,32 @@
         <summary type="html"><![CDATA[深潮 TechFlow 消息，苹果公司(Apple Inc.)即将推出的人工智能功能将晚于预期发布，无法赶上即将发布的iPhone和iPad软件大更新的首发时间。据知情人士透露，苹果计划在10月前将Apple Intelligence作为软件更新的一部分向用户推出。这意味着AI功能将在原定于9月发布的iOS 18和iPadOS 18初始版本推出几周后才会到来。知情人士因讨论未公开的发布细节而要求匿名。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白话区块链早报：比特币算力7日SMA上周一度达677 EH/s，创历史新高]]></title>
+        <id>https://www.hellobtc.com/news/202407/22636.html</id>
+        <link href="https://www.hellobtc.com/news/202407/22636.html"/>
+        <updated>2024-07-29T00:49:00.000Z</updated>
+        <summary type="html"><![CDATA[1. 比特币算力7日SMA上周一度达677 EH/s，创历史新高。
+
+2. The ETF Store总裁：灰度本周将拥有最低成本的现货比特币和以太坊ETF。
+
+3. Compound向“Golden Boys”设计协议拨款2400万美元COMP提案治理攻击指控。
+
+4. 分析师：投资者应增加风险，不要忽视当前利好信号和市场叙。
+
+5. 怀俄明大学创建比特币研究所，旨在输出经同行评审的比特币学术研究成果。
+
+6. VanEck顾问：美联储购买比特币而非国债的逻辑基于比特币总量固定。
+
+7. 加密律师：哈里斯应要求SEC主席辞职以表明在执政期间促进加密经济发展的态度。
+
+8. Celo链上USDT供应量接近2亿美元，过去30天增长了85.4%。
+
+9. 美联储本周维持利率不变的概率为95.9%。]]></summary>
+        <author>
+            <name>白话区块链 - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -536,16 +562,6 @@ Ethena（ENA）将于北京时间8月4日下午3点解锁约1489万枚代币，�
         <link href="https://www.hellobtc.com/news/202407/22627.html"/>
         <updated>2024-07-27T10:20:00.000Z</updated>
         <summary type="html"><![CDATA[美国总统候选人小罗伯特·肯尼迪在比特币2024大会上赞扬了比特币在在改善美国经济方面可能发挥的作用，并提议对美国货币政策进行全面改革，并补充表示 BTC 可以让美国经济恢复到尼克松时代之前的状态，他承诺在如果当选将发布四项与比特币相关的行政命令： 1、将美国持有的 204,000枚比特币作为“战略资产”并将每天购买550枚比特币； 2、建立至少 400 万枚比特币储备，声称这将使美国占据经济主导地位； 3、使 BTC-USD 交易无需向美国国税局报告或征税； 4、允许 BTC 作为符合 1031 条件的资产兑换成不动产。]]></summary>
-        <author>
-            <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitalik反驳Péter Szilágyi有关“以太坊研究团队接受将一切中心化的想法”言论]]></title>
-        <id>https://www.hellobtc.com/news/202407/22626.html</id>
-        <link href="https://www.hellobtc.com/news/202407/22626.html"/>
-        <updated>2024-07-27T10:19:00.000Z</updated>
-        <summary type="html"><![CDATA[7月27日消息，Vitalik Buterin 就以太坊团队负责人 Péter Szilágyi 有关“研究团队完全接受只要能够被验证便将一切中心化的想法”的说法进行了反驳：“我刚刚参加了上周的 EF 研究研讨会，我可以证实这是错误的，我们就最小化集中化进行了各种讨论。这包括： *深入分析多提议者，看看是否可以完全消除构建者角色； *最大化包含列表（inclusion lists）的力量（FOCIL）； *关于分叉选择的想法取决于交易的包容性； *对 Orbit SSF 的分析和关于加速部署 Orbit 机制的想法，这可能会在我们进行 SSF 之前将最小存款规模降低 10 倍以上； *针对 PeerDAS 的分布式区块构建； *PeerDAS 和 fullDAS 的组网分析和带宽优化； *使从 51%攻击中恢复更加部分自动化，减少对‘社会层’依赖的方法； *确保包含列表完全适用于（i） blobs 和（ii）原生账户抽象（例如 EIP-7560）交易。” 今日早些时候消息，以太坊团队负责人（Team Lead）Péter Szilágyi 在社交媒体表达了对以太坊发展方向的担忧，其观点涉及以太坊 PeerDAS 提案，该提案提议将以太坊 blob 大小增至 32 MB。Szilágyi 认为，PeerDAS 升级将阻碍家庭质押者（通常是那些拥有较简单算力设置的质押者）参与以太坊网络，而这违背了去中心化精神。 Szilágyi 在 X 上写道：“以太坊研究人员正在当着所有人的面‘谋害’家庭质押者。这不是我加入以太坊时所期望的事情。现在我很乐意证明事实并非如此，但我觉得以太坊正在失去其主线。研究团队似乎完全接受了将一切中心化的想法，只要它能够被验证。这是一个笑话：去中心化验证但中心化控制。”]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
         </author>
