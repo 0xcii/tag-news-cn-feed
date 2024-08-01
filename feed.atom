@@ -1,141 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-01T19:11:27.823Z</id>
+    <id>urn:2024-08-01T20:16:55.584Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-01T19:11:27.823Z</updated>
+    <updated>2024-08-01T20:16:55.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[DeFi 协议 Convergence 遭遇攻击，损失约 21 万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54606.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54606.html"/>
-        <updated>2024-08-01T15:57:24.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据派盾监测，DeFi 协议 Convergence 遭遇攻击，损失约 21 万美元。黑客利用 CvxRewardDistributor 合约的漏洞，铸造了约 5800 万枚 CVG，并将其兑换为 60 WETH 和 15,900 枚 crvFRAX。该漏洞源于合约未能对不受信任的用户输入进行验证，从而允许恶意操作。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日加密货币市值前100代币涨跌：AAVE 涨1.65%，WIF 跌15.61%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54605.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54605.html"/>
-        <updated>2024-08-01T15:54:15.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8月1日，据 Coinmarketcap 数据，今日加密货币市场市值前100代币表现如下：
+        <title type="html"><![CDATA[Solana生态AI+RWA项目 Compute Labs 宣布其 H100 GNFT 预售正式开启]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54608.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54608.html"/>
+        <updated>2024-08-01T17:33:00.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，8月2日，据官方社媒消息，Compute Labs 宣布其 H100 GNFT 预售正式开启，预售金额上限为 100 万 USDC，最低认购额为100 USDC。本次预售将为用户提供参与投资H100 SXM5芯片的机会。
 
-Top 100 24小时涨幅：
+据悉，本次预售已经吸引了超过 10 万名用户加入Waitlist，由于反响热烈且需要进行大量的 KYC 验证工作，Compute Labs 最终将预售时间定在 8月2日凌晨1点（UTC+8）进行，以确保用户的最佳体验。
 
-AIOZ Network (AIOZ) 涨1.75%，现价$0.6127  
-Aave (AAVE) 涨1.65%，现价$110.63  
-UNUS SED LEO (LEO) 涨1.09%，现价$5.74  
+此前消息， Compute Labs 已完成 300 万美元 Pre-Seed 轮融资， Protocol Labs 领投，Blockchain Coinvestors、OKX Ventures、P2 Ventures（原 Polygon Ventures）等机构参投。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日 10 家比特币 ETF 净流出 1,500 枚 BTC，9 家以太坊 ETF 净流出 23,382 枚 ETH]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_54607.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_54607.html"/>
+        <updated>2024-08-01T16:07:36.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Lookonchain 数据，10 家比特币 ETF 净流出 1,500 枚 BTC（约 9425 万美元），其中灰度 GBTC 流出 1,127 枚 BTC（约 7086 万美元），当前持有 241,285 枚 BTC（约 151.6 亿美元）。
 
-Top 100 24小时跌幅：
-
-dogwifhat (WIF) 跌15.61%，现价$1.94  
-THORChain (RUNE) 跌12.68%，现价$3.92  
-Bonk (BONK) 跌12.09%，现价$0.00002334  
-FLOKI (FLOKI) 跌11.85%，现价$0.0001514  
-Pepe (PEPE) 跌11.48%，现价$0.00001018  
-Render (RNDR) 跌11.47%，现价$5.22  
-XRP (XRP) 跌10.64%，现价$0.5855  
-ORDI (ORDI) 跌10.35%，现价$33.34]]></summary>
+9 家以太坊 ETF 净流出 23,382 枚 ETH（约 7269 万美元），灰度 ETHE 流出 36,915 枚 ETH（约 1.15 亿美元），当前持有 2,070,849 枚 ETH（约 64.4 亿美元）。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派盾：DeFi协议Convergence遭遇攻击，损失约21万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/xygtakaq.html</id>
-        <link href="https://panewslab.com/zh/articledetails/xygtakaq.html"/>
-        <updated>2024-08-01T15:53:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，据派盾监测，DeFi协议Convergence遭遇攻击，损失约21万美元。黑客铸造了约5800万枚CVG，然后兑换成60枚WETH和15,900枚crvFRAX。
-该漏洞是CvxRewardDistributor合约的一部分，它没有验证（不受信任的）用户输入来领取奖励。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去1小时全网合约爆仓6365.60万美元，主爆多单]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54604.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54604.html"/>
-        <updated>2024-08-01T15:46:23.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Coinglass 数据，过去1小时加密货币市场全网合约爆仓金额为6365.60万美元，其中多单爆仓6282.55万美元，空单爆仓83.05万美元；BTC 爆仓总金额为1640.42万美元，ETH 爆仓总金额为2095.94万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑山法院裁定 Do Kwon 应被遣返韩国，拒绝将其引渡至美国的请求]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54603.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54603.html"/>
-        <updated>2024-08-01T15:43:18.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据彭博社报道，黑山上诉法院维持裁决，Terraform Labs 联合创始人 Do Kwon 应被遣返回韩国，拒绝了将其引渡至美国的请求。这一裁决是黑山面对美国和韩国双重引渡要求的最新进展。
-
-波德戈里察法院声明称，未有人对此判决提出上诉，并维持了快速引渡程序。Do Kwon 的律师表示，黑山将与国际刑警组织合作，力争尽快完成引渡。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jupiter 启动减少 JUP 代币供应提案投票]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54602.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54602.html"/>
-        <updated>2024-08-01T15:37:47.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，Jupiter 宣布“减少 JUP 代币供应”的提案现已启动投票，旨在为所有 JUP 持有者及社区提供更多的确定性、一致性和透明度。
-
-此次投票为三轮 J4J 投票中的第一次，后续将进行 Jupuaries 和 ASRs 的延长投票。提案建议将总供应量从 100 亿减少至 70 亿，团队也自愿削减其分配的 30%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑山法院为将Do Kwon引渡至韩国铺平道路]]></title>
-        <id>https://panewslab.com/zh/articledetails/l47gelv8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/l47gelv8.html"/>
-        <updated>2024-08-01T15:34:26.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，据彭博社报道，黑山上诉法院维持裁决，Terraform Labs Pte.联合创始人Do Kwon应被遣返回他的祖国韩国，从而拒绝了将其遣送至美国的建议。周四的裁决是黑山一系列裁决中的最新一项，黑山一直面临着美国和韩国引渡这位声名狼藉的前加密货币大亨的双重要求。
-波德戈里察法院周四在其网站上发表声明称，没有人对该判决提出上诉。该判决还维持了黑山另一家法院此前颁布的快速引渡程序。判决公布后，Do Kwon的律师Goran Rodic在回应彭博社时表示，黑山将在国际刑警组织的协助下安排引渡，并表示希望引渡能够“尽快”完成。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Digital 第二季度净亏损达 1.77 亿美元，几乎是去年同期四倍]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54601.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54601.html"/>
-        <updated>2024-08-01T15:32:50.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 CoinDesk 报道，加密金融服务公司 Galaxy Digital 报告显示，因加密市场回撤，公司第二季度净亏损达到 1.77 亿美元，几乎是去年同期的四倍。报告指出，数字资产市场的下滑导致其数字资产持有的净实现损失为 1.617 亿美元。比特币在该季度下跌 12%，此前三个月曾上涨近 70%。尽管如此，Galaxy 上半年净收入接近 2.45 亿美元，同比增长超过 175%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某聪明钱将价值1567万美元的PEPE和MOG转至新地址]]></title>
-        <id>https://panewslab.com/zh/articledetails/0vc25ire.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0vc25ire.html"/>
-        <updated>2024-08-01T15:31:19.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，据链上分析师@ai_9684xtpa监测，聪明钱0x7ea...41416两小时前将总价值1,567万美元的PEPE和MOG转移至新地址，而两个代币的总浮盈已达1486万美元，该地址曾在一年前以均价0.000001671美元从交易所提出5154万枚PEPE（约86万美元），目前已增值超五倍。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC 跌破 63,000 美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54600.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54600.html"/>
-        <updated>2024-08-01T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 HTX 行情数据，BTC 跌破 63,000 美元，现报 62996.44 美元，24 小时跌幅达 5.12%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去24小时全网合约爆仓2.77亿美元，主爆多单]]></title>
-        <id>https://panewslab.com/zh/articledetails/cv0z8qgr.html</id>
-        <link href="https://panewslab.com/zh/articledetails/cv0z8qgr.html"/>
-        <updated>2024-08-01T15:28:15.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，Coinglass数据显示，过去24小时加密货币市场全网合约爆仓2.77亿美元，其中多单爆仓2.53亿美元，空单爆仓2330.42万美元。BTC爆仓总金额7371.09万美元，ETH爆仓总金额7598.58万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -146,99 +39,6 @@ ORDI (ORDI) 跌10.35%，现价$33.34]]></summary>
         <summary type="html"><![CDATA[今日的下跌行情中，各大山寨都出现了不同幅度的下跌，SOL的下跌由其严重，但其PUT端高达 20倍 涨幅。ICP的PUT端也出现了接近 10倍 涨幅，其它山寨币期权PUT端均出现 5-7倍 的上涨。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币短时跌破63000美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/wvnbo0h5.html</id>
-        <link href="https://panewslab.com/zh/articledetails/wvnbo0h5.html"/>
-        <updated>2024-08-01T15:22:41.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，欧易OKX行情显示，比特币短时跌破63000美元，现报63117.3美元，日内跌幅达4.93%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某聪明钱转移价值 1,567 万美元的 PEPE 和 MOG，浮盈 1,486 万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54599.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54599.html"/>
-        <updated>2024-08-01T15:22:37.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 @ai_9684xtpa 监测，聪明钱地址 0x7ea...41416 两小时前将总价值 1,567 万美元的 PEPE 和 MOG 转移至新地址，总价值达 1,567 万美元，浮盈高达 1,486 万美元。
-
-该地址一年前以均价 $0.000001671 提取 5154 万枚 PEPE，花费约 86 万美元，目前增值超五倍；MOG 也在一年前低点建仓，花费 24.6 万美元买入 7.06 万亿枚，成本仅 $0.000000003487，回报率超 478 倍。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOL跌破165美元，日内跌幅达9.32%]]></title>
-        <id>https://panewslab.com/zh/articledetails/3domwisi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3domwisi.html"/>
-        <updated>2024-08-01T15:20:48.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，欧易OKX行情显示，SOL跌破165美元，现报163.41美元，日内跌幅达9.32%。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOL 跌破 165 美元，24 小时跌近 10%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54598.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54598.html"/>
-        <updated>2024-08-01T15:19:11.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 HTX 行情数据，SOL 价格跌破 165 美元，现报 162.94 美元，24 小时跌幅达 9.87%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEME 币板块普跌，WIF 24 小时跌超 16%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54597.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54597.html"/>
-        <updated>2024-08-01T15:15:25.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，受市场行情下行影响，MEME 币板块普遍下跌。其中，WIF 24 小时跌幅超 16%；SATS 跌幅超 13%；BONK、PEPE、FLOKI 和 PEOPLE 均下跌超 12%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxy Digital第二季度净亏损1.77亿美元，几乎是去年同期的四倍]]></title>
-        <id>https://panewslab.com/zh/articledetails/lrqx97qm.html</id>
-        <link href="https://panewslab.com/zh/articledetails/lrqx97qm.html"/>
-        <updated>2024-08-01T15:15:15.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，据CoinDesk报道，由于加密货币市场回落，数字资产金融服务公司Galaxy Digital (GLXY) 公布第二季度净亏损1.77亿美元，几乎是去年同期的四倍。Galaxy的数字资产持有量净亏损1.617亿美元。根据Coinglass的数据，比特币在前三个月飙升近70%后，本季度下跌12%。上半年，Galaxy净收入近2.45亿美元，比2023年上半年增长175%以上。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kujira回应清算：将成立运营DAO负责管理财库和核心协议]]></title>
-        <id>https://panewslab.com/zh/articledetails/7i9qmwv2.html</id>
-        <link href="https://panewslab.com/zh/articledetails/7i9qmwv2.html"/>
-        <updated>2024-08-01T15:09:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月1日消息，Kujira团队在X平台表示，曾决定将部分运营资金用于生态系统的流动性和活动促进，这一决策在当时被视为合理。然而，随后发生的一系列事件，包括安全漏洞和社会工程攻击，导致市场出现不稳定。部分社交媒体上的“影响者”错误地将此情况称为“跑路”，这并不属实，但无疑加剧了市场的恐慌情绪。团队强调，基金会财库中仍有1400万枚KUJI安全无虞，关于整个财库处于风险之中的说法是不准确的。为了增强透明度和问责机制，Kujira将成立运营DAO，负责管理财库和核心协议。
-此前消息，由于Kujira基金会的运营钱包被清算，KUJI代币下跌40％。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC 跌破 64,000 美元，24 小时下跌 4.03%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54596.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54596.html"/>
-        <updated>2024-08-01T15:08:17.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 HTX 行情数据，BTC 跌破 64,000 美元，24 小时下跌 4.03%，现报价 63709.08 美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某巨鲸从 Aave 提取 45,718 枚 AAVE 存入币安，价值约 521 万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54595.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54595.html"/>
-        <updated>2024-08-01T15:05:08.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Lookonchain 监测，过去两小时，一位巨鲸从 Aave 提取 45,718 枚 AAVE，价值约 521 万美元，并将其存入币安。该巨鲸在 2 月 21 日至 6 月 21 日期间以 95.38 美元的价格购买了 74,656 枚 AAVE，总价值约 712 万美元，目前仍持有 28,938 枚 AAVE，价值约 328 万美元，其在 AAVE 上的利润约为 137 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -253,18 +53,6 @@ ORDI (ORDI) 跌10.35%，现价$33.34]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crypto.com 成为 7 月份现货加密货币交易量最大的美元支持交易所]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54594.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54594.html"/>
-        <updated>2024-08-01T14:54:25.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 The Block 报道，Crypto.com 在七月份的美元支持现货加密交易量中占据最高市场份额，达到 38.5%，这是两年多来的首次排名第一，Coinbase 列第二，市场份额为 35.8%。
-
-Crypto.com 交易所总监朱塞佩·朱利安尼表示，过去 18 个月市场份额逐月增长，主要得益于新客户的增加，包括大型机构和高级零售交易者。上次 Crypto.com 在此类交易中领先是在 2022 年 4 月，当时市场份额为 27%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto.com是7月份现货加密货币交易量最大的美元支持的交易所]]></title>
         <id>https://panewslab.com/zh/articledetails/62wrh5tz.html</id>
         <link href="https://panewslab.com/zh/articledetails/62wrh5tz.html"/>
@@ -273,22 +61,6 @@ Crypto.com 交易所总监朱塞佩·朱利安尼表示，过去 18 个月市场
 根据 Block Data Dashboard 的数据，Crypto.com上次在支持美元的交易所中领先现货加密货币交易量是在2022年4月。当月，它以27%的市场份额勉强超过Coinbase。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kujira 团队回应近期基金会运营钱包遭清算事件，将成立运营 DAO 负责管理国库和核心协议]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54593.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54593.html"/>
-        <updated>2024-08-01T14:43:09.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，Kujira 团队在 X 平台发文，针对近期流动性危机及市场恐慌进行了详细阐述。团队表示，曾决定将部分运营资金用于生态系统的流动性和活动促进，这一决策在当时被视为合理。然而，随后发生的一系列事件，包括安全漏洞和社会工程攻击，导致市场出现不稳定。
-
-团队承认，在保护资金方面面临重大挑战，持续的抛售压力使得这一目标难以实现。尽管部分情况源于个别人士的行为，团队对当前局面承担全部责任，并对价格受到影响表示诚挚歉意。部分社交媒体上的“影响者”错误地将此情况称为“跑路”，这并不属实，但无疑加剧了市场的恐慌情绪。团队重申，基金会国库中仍有 1400 万枚 KUJI 安全无虞，关于整个国库处于风险之中的说法是不准确的。
-
-为了增强透明度和问责机制，Kujira 将成立运营 DAO（Kujira Operational DAO），负责管理国库和核心协议。该 DAO 的首要任务是安全地减少债务，计划通过 Fuzion 的债券产品向社区提供折扣 KUJI，并设定多种到期和归属计划，以降低对长期价格的影响。此外，团队提议将社区池迁移至运营 DAO，以延长资助请求的投票时间，确保更充分的讨论与考虑。未来，Kujira 基金会的质押位置也将转移至 DAO，为可持续收入提供保障。
-
-此前消息，Kujira 基金会运营钱包遭清算，致代币下跌40%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -313,20 +85,6 @@ Crypto.com 交易所总监朱塞佩·朱利安尼表示，过去 18 个月市场
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blockchain.com 已在全美 50 个州提供加密交易服务]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54592.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54592.html"/>
-        <updated>2024-08-01T14:33:59.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Crowdfundinsider 报道，数字资产平台 Blockchain.com 与 Bakkt 合作，现已在美国所有 50 个州提供加密交易服务。Bakkt 是一家受监管的数字资产交易所，提供托管等基础设施服务。此前，由于监管障碍，Blockchain.com 在八个州无法提供服务。该公司总裁 Lane Kassleman 表示，此举使其能够进入纽约、弗吉尼亚和德克萨斯等重要市场。
-
-新增服务的州还包括新泽西、路易斯安那、夏威夷、田纳西和内华达州。美国的加密交易在州级受到监管，国会和证券交易委员会尚未提供联邦层面的明确监管路径。尽管国会试图通过新立法，但 SEC 对加密货币持敌对态度。Bakkt 首席执行官 Andy Main 称此次合作为“激动人心的下一步”，并表示将共同捕捉不断增长的市场。
-
-自 2011 年成立以来，Blockchain.com 已添加超过 9000 万个钱包和 4000 万个经过验证的用户，促进了超过 1 万亿美元的加密交易。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blockchain.com宣布其现已在美国全部50个州提供加密货币交易服务]]></title>
         <id>https://panewslab.com/zh/articledetails/68x4iadf.html</id>
         <link href="https://panewslab.com/zh/articledetails/68x4iadf.html"/>
@@ -338,30 +96,6 @@ Blockchain.com总裁Lane Kassleman表示，此举非常重要，因为它让他�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[分析：哈里斯选情改善可能对比特币造成压力]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54591.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54591.html"/>
-        <updated>2024-08-01T14:31:00.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 The Block 报道，YouHodler 分析师 Ruslan Lienkha 表示，随着哈里斯在关键摇摆州的支持率上升，比特币价格可能受到负面影响。当前在线预测市场显示，哈里斯在即将到来的美国总统选举中成为领先候选人，这可能引发加密货币投资者的担忧。
-
-Lienkha 指出，投资者担心如果哈里斯胜选，可能会面临更严格的加密货币监管。他表示：“如果投资者认为民主党政府可能会实施更严格的加密货币法规，比特币的价格可能会受到压力。”最新的民意调查显示，哈里斯在四个关键州领先特朗普，而特朗普在两个州领先。哈里斯在 Polymarket 投注平台上的胜算已上升至 44%，但仍落后于特朗普的 55%。
-
-QCP Capital 的分析师认为，如果特朗普在选举中获胜，关于建立主权比特币储备的讨论可能会根本改变加密货币市场。分析师指出：“在比特币价格上建立美国或主权的‘保护’可能会有重大影响，使得在市场回调时的积累成为一种战略投资方式。”]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manta Network 币本位真实收益平台 CeDeFi 首期奖励已开放领取]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54590.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54590.html"/>
-        <updated>2024-08-01T14:25:36.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，Manta Network CeDeFi 第一期奖励目前已开放领取。Manta CeDeFi 产品是 Manta Network 推出的真实币本位收益产品，聚合了 RWA、链上、CEX 多种收益策略，用户可存入 BTC、ETH、稳定币参与，获得包括 RWA、Ethena、机构 CeFi 收益及资金费率套利收益等多种不同收益。用户存入资产后，可获得流动性资产 mToken，可进一步参与 Manta Pacific 链上 DeFi 或 Fuel Network 空投活动等，叠加收益。首期奖励结束后，用户仍可照常参与 CeDeFi 产品。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crypto.com近24小时交易量超越Coinbase，受机构需求增长所推动]]></title>
         <id>https://panewslab.com/zh/articledetails/yn3xw6pj.html</id>
         <link href="https://panewslab.com/zh/articledetails/yn3xw6pj.html"/>
@@ -369,26 +103,6 @@ QCP Capital 的分析师认为，如果特朗普在选举中获胜，关于建�
         <summary type="html"><![CDATA[PANews 8月1日消息，据Cointelegraph报道，受机构客户数量的不断增加以及美国首个现货以太坊ETF推出的推动，Crypto.com的交易量已超过Coinbase交易所。根据Messari的数据，中心化加密交易所 (CEX) Crypto.com报告的24小时交易量增长了23%，在8月1日升至31.6亿美元，超过Coinbase的21.2亿美元。Crypto.com董事总经理Giuseppe Giuliani表示，交易量的增长主要归功于该交易所的机构客户名单不断增加。]]></summary>
         <author>
             <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle 发行的欧元稳定币 EURC 现已在 Base 主网上线]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54589.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54589.html"/>
-        <updated>2024-08-01T14:19:10.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，Circle 宣布 EURC 稳定币正式上线 Base，现已可供开发者和用户使用，支持在 Base 上铸造和兑换。EURC 是首批符合欧盟新市场加密资产（MiCA）法规的稳定币之一，合作伙伴包括 Aerodrome、Coinbase 和 Uniswap Labs，支持多种应用场景，包括：
-
-
- 跨境支付，提供近乎即时的国际汇款、点对点支付及市场支付，显著降低交易成本。
- 
-访问加密资本市场，支持 24/7 交易、借贷及融资，推动强大的 DeFi 生态系统发展。
- 
-为用户提供欧元和美元的价值储存，帮助对抗本地货币通胀风险。
-
-
-Circle 去年在 Base 上推出了 USDC，目前已是 Base 上最大的稳定币，流通量近 30 亿美元，稳定币市场份额达 97%。截至 2024 年 7 月，Base 稳定币市值在所有区块链中排名第五。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -434,28 +148,6 @@ Bertram 表示，最近宣布的Tally协议将在未来几周内投入测试网�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi 借贷协议 Morpho 完成 5000 万美元融资，Ribbit Capital 领投]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54588.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54588.html"/>
-        <updated>2024-08-01T14:05:19.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Coindesk 报道，DeFi 借贷协议 Morpho 完成 5000 万美元融资，本轮融资由 Ribbit Capital 领投，参与私募代币销售的还有 a16z crypto、Coinbase Ventures、Variant、Pantera、Brevan Howard、BlockTower 和 Kraken Ventures 等重量级人物。
-
-Morpho 先前在 2022 年获得 1800 万美元融资，CEO Paul Frambot 彼时仍在大学三年级。Morpho 旨在将去中心化金融与互联网基础协议层融合，推动私有金融基础设施向公共产品转型，借助 Ribbit 等金融科技投资者的支持，开发灵活的借贷应用场景。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灰度向 Coinbase Prime 地址转入 40838 枚 ETH，价值约 1.3 亿美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54587.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54587.html"/>
-        <updated>2024-08-01T14:01:12.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Arkham 监测，灰度地址于大约 30 分钟前向 Coinbase Prime 地址转入 40838 枚 ETH，价值约 1.3 亿美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普推出部分商品已售罄，包括带有比特币字样的橙色高帮鞋]]></title>
         <id>https://panewslab.com/zh/articledetails/8ybriunw.html</id>
         <link href="https://panewslab.com/zh/articledetails/8ybriunw.html"/>
@@ -473,32 +165,6 @@ Morpho 先前在 2022 年获得 1800 万美元融资，CEO Paul Frambot 彼时�
         <summary type="html"><![CDATA[最初，社交平台上的身份主要通过「工作证明」来获得，那些增加价值的人成为网络的精英。然而，像 Friendtech 这样的 SocialFi 平台用金融激励取代了实际价值，导致了问题的动态。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aevo 宣布 7 月共回购 100 万枚 AEVO]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54586.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54586.html"/>
-        <updated>2024-08-01T13:52:21.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，Aevo 宣布已启动 AEVO 代币的回购流程。7 月的回购中，共回购了 100 万枚 AEVO，平均价格为 0.446 美元。回购流程如下：从 Aevo 的保险基金提取资金 → 在 Binance 上购买 AEVO → 将 AEVO 从 Binance 转至 DAO 地址。
-
-Aevo 承诺从 7 月到 12 月每月回购至少 100 万枚 AEVO。随着 AEVO 的供应几乎完全解锁及回购的启动，Aevo 认为这是为 AEVO 代币持有者创造长期价值的良好开端。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普的比特币主题运动鞋在上市后迅速售罄，目前在 eBay 上二手价格高达 2,500 美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54585.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54585.html"/>
-        <updated>2024-08-01T13:47:48.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Decrypt 报道，特朗普的比特币主题运动鞋在上市后迅速售罄，目前在 eBay 上的二次销售价格高达 2,500 美元。这款名为“加密总统特朗普-高帮-比特币橙”的运动鞋，官网标价为 499 美元。
-
-这些运动鞋通过与 CIC Ventures LLC 的许可协议进行销售，网站声明这些鞋子并非由特朗普本人设计或制造，而是由 45Footwear LLC 根据许可协议使用特朗普的名字和形象。运动鞋限量 1,000 双，其中随机选择的五双将由特朗普签名。营销材料强调这些鞋子“庆祝了金融的未来”，并特别适合加密货币爱好者和特朗普支持者。
-
-此前消息，特朗普在社交媒体 Truth Social 平台发文，推出支持比特币或其他加密货币支付的限量版运动鞋，鞋身印刷有「Trump，Crypto President」，售价为 499 美元，每人限购 3 双，总量 1000 双。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -532,15 +198,25 @@ Aevo 承诺从 7 月到 12 月每月回购至少 100 万枚 AEVO。随着 AEVO �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[菲律宾政府与 Venom 基金会合作，计划百亿规模可追溯表单数字化]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54584.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54584.html"/>
-        <updated>2024-08-01T13:32:39.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Decrypt 报道，Layer 1 区块链 Venom 基金会宣布，菲律宾政府与 Venom 基金会签署历史性协议，计划利用其先进的区块链技术数字化约 100 亿份可追溯表单，包括发票、收据和特殊银行收据等。
-
-此次数字化举措将显著改善金融交易的透明度，降低成本，并提高安全性。预计到 2030 年，数字转型将为菲律宾每年创造高达 1013 亿美元（约合 PHP 5 万亿）的经济价值，相当于 2020 年 GDP 的 27%。菲律宾国家印刷局负责此项目，马科斯总统已将数字化作为国家优先事项，以改善公共服务并打击腐败。]]></summary>
+        <title type="html"><![CDATA[Wormhole将于8月3日解锁占总量6%的W代币]]></title>
+        <id>https://panewslab.com/zh/articledetails/ze1o0g0x.html</id>
+        <link href="https://panewslab.com/zh/articledetails/ze1o0g0x.html"/>
+        <updated>2024-08-01T13:35:26.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，Wormhole在X平台发文称，将于2024年8月3日解锁6%的W代币，届时社区总计17%的代币将全部解锁。这些代币将由Wormhole基金会托管，仅用于未来的社区相关项目。
+解锁后，W代币的流通情况为：社区与启动（17%中的17%已解锁）；基金会财政（23.3%中的3.78%已解锁）；生态系统与孵化（31%中的5%已解锁）；战略网络参与者（11.6%未解锁）；核心贡献者（12%未解锁）；监护节点（5.1%未解锁）。
+总解锁比例约为25.78%。根据代币经济学，战略网络参与者、核心贡献者、监护节点和生态系统的下一次解锁将于2025年 4月3日进行。]]></summary>
         <author>
-            <name>深潮TechFlow - 快讯</name>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deribit：以太坊稳固的2860美元支撑位预示着其将上涨至4500美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/vm24b3sm.html</id>
+        <link href="https://panewslab.com/zh/articledetails/vm24b3sm.html"/>
+        <updated>2024-08-01T13:32:07.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据Cointelegraph报道，Deribit在一份报告中指出，以太坊稳固的2860美元支撑位预示着其将上涨至4500美元。Deribit称，2860美元的支撑位自7月5日以来已经过多次测试，现在所有人的目光都集中在以太坊上。7月份的强劲支撑表明买家需求旺盛，可能为4,500美元的高位奠定基础。Deribit强调，以太坊ETF推出后，监管部门的“绿灯”有望推动机构对以太坊的关注和投资的增加。]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -554,24 +230,13 @@ Aevo 承诺从 7 月到 12 月每月回购至少 100 万枚 AEVO。随着 AEVO �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wormhole 将于 8 月 3 日解锁 6% 的 W 代币，届时社区 17% 的代币将全部解锁]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54583.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54583.html"/>
-        <updated>2024-08-01T13:23:09.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，跨链互操作平台 Wormhole 将于 2024 年 8 月 3 日解锁 6% 的 W 代币，届时社区总计 17% 的代币将全部解锁。这些代币将由 Wormhole 基金会托管，仅用于未来的社区相关项目。解锁后，W 代币的流通情况如下：
-
-社区与启动：17% 中的 17% 已解锁
-基金会财政：23.3% 中的 3.78% 已解锁
-生态系统与孵化：31% 中的 5% 已解锁
-战略网络参与者：11.6%  未解锁
-核心贡献者：12%  未解锁
-监护节点：5.1%  未解锁
-
-总解锁比例约为 25.78%。根据代币经济学，战略网络参与者、核心贡献者、监护节点和生态系统的下一次解锁将于 2025 年 4 月 3 日进行。
-
-此前消息，W 的代币经济学于 2024 年 2 月 7 日发布。]]></summary>
+        <title type="html"><![CDATA[Solana在7月份月度DEX交易量首次超越以太坊]]></title>
+        <id>https://panewslab.com/zh/articledetails/d1qgezt8.html</id>
+        <link href="https://panewslab.com/zh/articledetails/d1qgezt8.html"/>
+        <updated>2024-08-01T13:24:59.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，DefiLlama数据显示，7月份，Solana区块链首次在月度DEX交易量上超越以太坊。Solana上DEX 7月交易量为558.76亿美元，相比之下同期以太坊上DEX的交易量为538.67亿美元。]]></summary>
         <author>
-            <name>深潮TechFlow - 快讯</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -585,71 +250,59 @@ Aevo 承诺从 7 月到 12 月每月回购至少 100 万枚 AEVO。随着 AEVO �
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基于 Solana 的治理实验 MetaDAO 获 220 万美元融资，Paradigm 领投]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54582.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54582.html"/>
-        <updated>2024-08-01T13:14:38.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 CoinDesk 报道，基于 Solana 的治理实验 MetaDAO 获风险投资巨头 Paradigm 领投的 220万美元融资。
-
-MetaDAO旨在通过市场力量而非投票来构建治理结构，这种结构被称为“未来治理”（futarchy）。随着2024年选举的临近，预测市场的热度持续上升，市场领头羊 Polymarket 目前拥有近 9000 万美元的未平仓合约。其支持者认为，市场参与者会比政客等做出更好的选择。
-
-据MetaDAO匿名创始人Proph3t称，Paradigm将持有3,035枚META代币，成为META最大的单一持有者，占总供应量的14.6%。约30名天使投资者又购买了965枚META代币，总融资额为2,229,950美元。]]></summary>
+        <title type="html"><![CDATA[加密贷款机构Ledn在2024年上半年发放了价值11.6亿美元的贷款]]></title>
+        <id>https://panewslab.com/zh/articledetails/0ubxvzoz.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0ubxvzoz.html"/>
+        <updated>2024-08-01T13:12:03.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据CoinDesk报道，加密借贷平台Ledn周四表示，该公司在2024年上半年处理了超过11.6亿美元的数字资产贷款。该公司在一份新闻稿中表示，最近比特币减半以及亚洲推出以太坊ETF等事件推动了第二季度对该公司服务的需求不断增长。在总额11.6亿美元的贷款中，机构客户贷款占9.69亿美元。今年1月，美国批准了现货比特币ETF，随后全球最大加密货币比特币价格上涨，这刺激了机构客户采用该技术，并让Ledn能够处理数亿美元的ETF做市商贷款。
+Ledn 表示，从人口统计数据来看，第二季度北美零售贷款规模达1,760万美元，居于首位；拉丁美洲零售客户数量位居第二。该公司表示，由于经济压力、政治动荡和其他原因，近几个月来加密货币在拉丁美洲国家的采用蓬勃发展。该公司指出，越来越多的客户出于税收原因使用数字资产支持贷款，因为以加密货币作为抵押借贷通常属于免税行为。]]></summary>
         <author>
-            <name>深潮TechFlow - 快讯</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[币安拟于 8 月 6 日升级现货和杠杆交易系统]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54581.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54581.html"/>
-        <updated>2024-08-01T13:10:39.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，币安宣布将于 2024 年 8 月 6 日 15:00 升级现货和杠杆交易系统，预计升级时长为 10 分钟。升级期间，币安现货和杠杆交易将不受影响，但 App 端、Web 端和客户端用户将无法查看升级期间内成交订单的交易历史；API 用户仍可收到交易历史数据。]]></summary>
+        <title type="html"><![CDATA[基于Solana的治理实验MetaDAO完成约220万美元融资，Paradigm领投]]></title>
+        <id>https://panewslab.com/zh/articledetails/5pzu3c6z.html</id>
+        <link href="https://panewslab.com/zh/articledetails/5pzu3c6z.html"/>
+        <updated>2024-08-01T13:09:10.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据CoinDesk报道，风险投资巨头Paradigm最近领投了对基于Solana的治理实验MetaDAO的220万美元融资。MetaDAO是一个为时数月的项目，旨在建立依赖市场力量而非投票的治理结构，即通过“未来治理”（futarchy）结构让预测市场决定事件结果。其支持者认为，市场参与者会比政客等做出更好的选择。
+据MetaDAO匿名创始人Proph3t称，Paradigm将持有3,035枚META代币，成为META最大的单一持有者，占总供应量的14.6%。约30名天使投资者又购买了965枚META代币，总融资额为2,229,950美元。据介绍，该项目于一个月前启动，正在构建依赖市场力量而非投票的治理结构。]]></summary>
         <author>
-            <name>深潮TechFlow - 快讯</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kujira 基金会运营钱包遭清算，致代币下跌40%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54580.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54580.html"/>
-        <updated>2024-08-01T12:59:34.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 The Block 报道，KUJI 代币因 Kujira 基金会未能妥善管理数百万美元的杠杆流动性提供头寸而导致清算，价格今日下跌 40%，从 $0.97 降至 $0.57。
-
-此次清算是由于该团队使用自己的 Kujira (KUJI) 代币储备获得的贷款在动荡的环境下抵押不足而发生的。当前团队钱包仍有 200 万美元的债务，团队承认责任并对此次价格影响表示歉意。
-
-Kujira 是基于 Cosmos 网络的去中心化金融平台，主要功能包括去中心化交易和借贷平台，总锁仓价值超过 4200 万美元。]]></summary>
+        <title type="html"><![CDATA[欧盟监管机构警告MiCA监管下的离岸加密货币风险]]></title>
+        <id>https://panewslab.com/zh/articledetails/n0p1boz4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/n0p1boz4.html"/>
+        <updated>2024-08-01T12:59:04.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据Cointelegraph报道，欧洲证券和市场管理局（ESMA）发布了一份新的意见，强调了在《加密资产市场》（MiCA）法规下寻求部分授权的同时在境外进行大量业务的全球加密货币公司所带来的巨大风险。7月31日，ESMA发布了与MiCA相关的意见声明，在过去实施新的全行业法规（如英国脱欧后）后，ESMA也曾多次发布过此类声明。ESMA的最新警告聚焦于许多全球加密货币公司复杂的组织结构，这些公司被曝利用获得欧盟授权的经纪商将订单路由至欧盟境外的执行场所，通常是在离岸司法管辖区。欧盟市场监管机构表示，这种做法可能会破坏消费者保护，并造成不公平的竞争环境，对欧盟境内的执行场所不利。
+为了解决这些问题，ESMA在其意见中呼吁欧盟各成员国的国家主管机构（NCAs）在授权过程中对这些全球公司的业务模式进行严格审查。ESMA表示，加密资产执行场所在加密资产生态系统的整体功能中发挥着至关重要的作用。根据该意见，这可能表现为：“虽然大多数加密资产企业集团预计将在欧盟境外运营多边交易平台，但也可能存在非欧盟实体将订单流内部化，以自有账户执行来自欧盟客户的订单的情况。”因此，其目标是确保这些公司完全遵守MiCA法规，以保护消费者并维护加密行业的完整性。
+ESMA还强调了对于寻求MiCA授权的公司进行细致入微的逐案评估的重要性。ESMA已概述了这些公司必须满足的具体要求，包括确保最佳执行实践、有效管理利益冲突的手段以及履行以客户最佳利益行事的职责。此外，公司还必须遵守关于代表其客户保管和管理加密资产的严格准则。]]></summary>
         <author>
-            <name>深潮TechFlow - 快讯</name>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于Kujira基金会的运营钱包被清算，KUJI代币下跌40％]]></title>
+        <id>https://panewslab.com/zh/articledetails/jliw0k75.html</id>
+        <link href="https://panewslab.com/zh/articledetails/jliw0k75.html"/>
+        <updated>2024-08-01T12:53:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据The Block报道，由于Kujira基金会的运营钱包被清算，Kujira代币的价格今日下跌了40%，从0.97美元跌至0.57美元。该基金会已承担了价值数百万美元的杠杆流动性提供头寸，但未能在自己的DeFi平台上妥善管理。该团队在一份声明中声称，使用杠杆头寸的运营资金旨在提高流动性并刺激其DEX上的活动。
+清算发生的原因是由于该团队使用自己的Kujira (KUJI) 代币储备获得的贷款在动荡的环境中抵押不足。这导致自动清算，引发连锁抛售并导致抵押资产价格下跌。Pulsar Finance的数据显示，该团队的钱包仍有200万美元的债务。
+该团队在Telegram帖子中表示： “作为一个团队，我们认为运营资金的一部分的最佳用途是利用和部署整个生态系统来提升流动性和活动。”它进一步声称，某些人瞄准其头寸，故意造成一系列清算。该团队进一步补充说，他们愿意对自己的立场负责，并对价格受到的影响表示歉意：“虽然这只是暂时的，但我们意识到这很伤人，我们很抱歉。”]]></summary>
+        <author>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[英国央行降息25个基点至5.00%，为2020年3月以来首次降息]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54579.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54579.html"/>
-        <updated>2024-08-01T12:52:34.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据金十数据，英国央行降息25个基点至5.00%，符合市场预期，为2020年3月以来首次降息。行长贝利表示，货币政策委员会将谨慎行事，确保通胀维持在低位，强调降息需谨慎，避免过快或过多。]]></summary>
+        <id>https://panewslab.com/zh/articledetails/svuk9cs7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/svuk9cs7.html"/>
+        <updated>2024-08-01T12:48:30.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月1日消息，据金十报道，英国央行降息25个基点至5.00%，符合市场预期，为2020年3月以来首次降息。英国央行行长贝利表示，英国央行货币政策委员会将谨慎行事。他在声明中称，我们需要确保通胀保持在低位，并注意降息不要过快或过多。]]></summary>
         <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国至 7 月 27 日当周初请失业金人数录得 24.9 万人，为 2023 年 8 月 5 日当周以来新高]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54578.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54578.html"/>
-        <updated>2024-08-01T12:32:51.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据金十数据，美国截至 7 月 27 日当周初请失业金人数录得 24.9 万人，为 2023 年 8 月 5 日当周以来新高，预期为 23.6 万人，前值为 23.5 万人。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：7 月 Solana 月度 DEX 交易量首次超越以太坊]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54577.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54577.html"/>
-        <updated>2024-08-01T12:23:05.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 DefiLlama 数据显示，7 月 Solana 历史上首次在月度 DEX 交易量上超越以太坊，达 558.76 亿美元，而以太坊为 538.68 亿美元，标志着 Solana 在流动性和用户活跃度方面的显著增长。此外，其他表现突出的链包括 Arbitrum（245.69 亿美元）、BSC（178.88 亿美元）和 Base（155.54 亿美元）。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
+            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -660,239 +313,6 @@ Kujira 是基于 Cosmos 网络的去中心化金融平台，主要功能包括�
         <summary type="html"><![CDATA[灰度7月底持仓数据更新：GBTC降至约24.1万枚BTC，ETHE持有约207万枚ETH。Galaxy发布2024年比特币挖矿年中报告：Q1上市矿企融资18亿美元，创过去三年季度融资最高额。Bitwise CIO：市场对比特币“不够乐观”，投资者需重新思考主流加密货币的潜在上涨空间。]]></summary>
         <author>
             <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某鲸鱼再次增持 550 万枚 CRV，昨日已增持 1800 万枚 CRV]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54576.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54576.html"/>
-        <updated>2024-08-01T12:06:42.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据余烬监测，昨天从 CEX 提出 CRV 的鲸鱼 1 小时前再度从 Binance 提出 550 万枚 CRV（价值 151 万美元）。该鲸鱼在过去 30 小时内累计从 Binance 和 OKX 提取了 1800 万枚 CRV（价值 468 万美元），均价为 0.26 美元。CRV 价格从他昨日开始提取时的 0.253 美元上涨至现时的 0.284 美元，涨幅达 12%。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[积分交易协议Pichi Finance完成250万美元种子轮融资，DWF Ventures 等参投]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54575.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54575.html"/>
-        <updated>2024-08-01T12:01:51.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，积分交易协议Pichi Finance宣布完成250万美元种子轮融资，Signum Capital、UOB Venture Management和Mantle Network共同领投，DWF Ventures、Wise3 Ventures、Genesis Block Ventures等参投。
-
-Pichi Finance提供无需信任的积分交易服务，推出ERC-6551账户解决方案，支持TGE前后代币的价格发现。此轮融资将助力Pichi Finance拓展新积分计划，实现交易，并创建收益和积分共享的保险库，未来还将扩展至其他EVM链。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ola 宣布 Massive 第二赛季代币分配快照将于 8 月 8 日进行]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54574.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54574.html"/>
-        <updated>2024-08-01T11:49:23.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，Layer 2 模块化 ZKVM 项目 Ola 宣布其移动端 ZKP 验证网络 Massive 第二赛季的代币分配快照将于 8 月 8 日晚 8 点（UTC+8）进行。第二赛季积累的积分将被记录，作为获得 Ola 代币资格及比例的依据。同时，Ola 向社区征集关于 Massive 第二赛季代币分配方式的提案，并提供 10,000 OVP（Ola 社区积分）作为奖励，以践行公平原则，进一步完善代币分配方案。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animoca Brands 旗下子公司推出 Web3 动作游戏《Cosmic Bomber》公开测试版]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54573.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54573.html"/>
-        <updated>2024-08-01T11:46:36.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，Animoca Brands 旗下子公司、游戏开发工作室 nWay 推出 Web3 动作游戏《Cosmic Bomber》公开测试版，该游戏由索尼、艺电、任天堂、卢卡斯艺术和暴雪的行业资深人士开发，现已向超过 177 万 Moca ID（Animoca Brands 网络的身份层）持有者开放。Cosmic Bomber 提供战略游戏、实时 PvP 战斗和数字资产所有权，标志着 Mocaverse 社交游戏化中心 Cosmic Club 的补充。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[田纳西州参议员 Bill Hagerty 支持特朗普，希望“确保”美国成为加密货币中心]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54572.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54572.html"/>
-        <updated>2024-08-01T11:39:08.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Decrypt 报道，田纳西州参议员比尔·哈格蒂（Bill Hagerty）本周宣布支持总统候选人唐纳德·特朗普，推动美国成为加密货币中心。他在接受彭博社采访时表示：“我们需要确保这种创新在美国发生。”哈格蒂将加密货币比作半导体行业，认为后者的外流削弱了美国的地缘政治地位，并指责拜登政府将加密行业推向海外，未能提供必要的监管框架。
-
-哈格蒂还重申，特朗普承诺如果当选将解雇美国证券交易委员会（SEC）主席加里·詹斯勒（Gary Gensler），并表示特朗普将“结束阻塞点行动”，指控政府对加密行业进行复杂的镇压。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEME 币发行平台 makenow.meme 宣布将进行 MNM 回溯性空投]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54571.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54571.html"/>
-        <updated>2024-08-01T11:29:14.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，MEME 币发行平台 makenow.meme 宣布将进行 MNM 回溯性空投，宣称无顾问代币、无幕后交易、无 KOL 折扣。空投将依据用户互动的早晚及个人资料页面的相关指标进行分配，市值更高的代币持有者将获得更多 MNM 奖励。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neo EVM兼容侧链Neo X通过BlockSec审计]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54570.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54570.html"/>
-        <updated>2024-08-01T11:19:39.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，知名区块链安全公司BlockSec宣布完成对Neo X的安全审计。Neo X是Neo发布的EVM兼容侧链，采用Neo的dBFT共识机制，具有抗恶意MEV的特性，已于7月25日主网正式上线。
-
-BlockSec官网已公布完整审计报告。作为全栈区块链安全服务供应商，BlockSec提供EVM链和智能合约审计服务，以及黑客攻击阻断系统Phalcon保障项目上线后的安全。
-
-审计报告：https://blocksec.com/audit-report/audit-report-neo-x]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DWF Labs 联创：正在开发 CeDeFi 合成稳定币]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54569.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54569.html"/>
-        <updated>2024-08-01T11:13:28.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，DWF Labs 联合创始人 Andrei Grachev 宣布其公司正在开发 CeDeFi 合成稳定币。他在 X 平台发文表示：“按照我们成为全球性 Web3 金融机构的计划，我很高兴地宣布：DWF Labs 正在开发 CeDeFi 合成稳定币，它将允许用户获得可观收益，同时保持资产的灵活性。敬请期待。”]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LI.FI 攻击者将 198 枚 ETH 转至新地址]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54568.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54568.html"/>
-        <updated>2024-08-01T11:08:37.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Cyvers Alerts 监测，LI.FI 攻击者将 198 枚 ETH 转至新地址，约合 63.2 万美元。
-
-此前消息，LI.FI 发布了安全事件报告，显示在智能合约更新期间发生的“个人人为错误”导致该协议遭到不良行为者攻击。此次事件估计影响了 153 个钱包，损失了价值近 1200 万美元的 USDC、USDT 和 DAI 稳定币。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火币HTX开启合约热币交易挖矿第二期：免费交易TON瓜分100,000 USDT奖池]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54567.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54567.html"/>
-        <updated>2024-08-01T11:06:35.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方公告，火币HTX自8月1日20:00:00至8月6日19:59:59（UTC+8）上线TON/USDT永续合约交易挖矿，总奖池高达100,000 USDT。公告显示，每日挖矿活动从T日20:00（UTC+8）开始，至T+1日19:59（UTC+8）结束。每日奖池20,000 USDT，不分时段，挖完即止。其中，Maker订单奖励比例为115%，Taker订单奖励比例为107%，单人每日最高奖励2,000 USDT。
-
-值得注意的是，参与用户火箭值须≥100，并在活动页面成功报名。报名用户在活动期间内合约热币交易挖矿金额≥10,000 USDT，可额外获得10 USDT合约体验金奖励。另外，活动期间，报名用户参与该活动产生的所有手续费收入，将用于$HTX回购，以支持$HTX价值的稳定增长。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethena Labs 创始人：已采取充分预防措施规避 USDe 作为抵押品交易的潜在风险]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54566.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54566.html"/>
-        <updated>2024-08-01T11:05:51.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 DL News 报道，Ethena 此前宣布将允许衍生品交易者使用其合成美元 USDe 作为抵押，尽管这可能带来风险。Ethena Labs 创始人 Guy Young 在接受采访时表示，公司及其合作伙伴已采取充分的预防措施。Ethena 将支持 USDe 的看跌押注分散到与其合作的五个交易所。根据 Ethena 的网站，支持 USDe 的空头中有 48% 在 Binance，23% 在 ByBit，20% 在 OKX，5% 在 Deribit，1% 在 Bitget。
-
-通过这种方式，Ethena 旨在最大程度地减少不可预见事件对单一交易所的影响。同样的理论也适用于在不同支持资产上分散风险。50% 的 USDe 由比特币支持，30% 由以太币支持，11% 由以太坊流动质押代币支持，8% 由 Tether 的 USDT 稳定币支持。
-
-此前消息，Ethena Labs 宣布自 8 月 2 日起，Bybit 用户将能够通过持有 USDe 或以 USDe 作为保证金交易衍生品，获得每日高达 20% 的年化收益率（APR）。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QCP Capital：美联储鸽派倾向未能提振加密货币市场，建议在价格回调时采用累积策略]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54565.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54565.html"/>
-        <updated>2024-08-01T10:49:32.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，QCP Capital 最新报告指出，昨日 FOMC 会议的关键要点是美联储明显倾向于鸽派，9 月降息已被市场完全定价。然而，股市的反弹并未对加密货币市场产生积极影响，昨日夜间及今晨加密货币普遍遭遇抛售。市场情绪依然紧张，交易者密切关注每日以太坊 ETF 的资金流出情况，以及来自 Mt Gox 和美国政府的进一步供应压力。
-
-从长远来看，美国总统候选人和参议员之间关于主权比特币储备的讨论，以及其他国家可能跟随的潜在动向，可能会根本性地改变加密货币的市场格局。美国或主权国家对 BTC 价格的“保护”措施将可能产生深远影响，鉴于市场在下一个催化剂之前可能维持区间震荡，QCP Capital 建议在价格回调时采用累积策略。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BNB Chain 公布最新获奖者及资助流程更新]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54564.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54564.html"/>
-        <updated>2024-08-01T10:36:28.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，为了强化对开发者的支持，BNB Chain 宣布了最新的资助得奖者，包括 Cakepie、Stake DAO、DappRadar、Dinero 和 Ginco。这些项目将获得资助以推进他们的计划。此次公告还包括对 BNB Chain 资助流程的更新，旨在更好地与 BNB Chain 推动 Web3 采用的愿景相契合，并支持开发者实现真正的商业成功。
-
-更新后的资助流程包括更高的透明度、更新的网站和愿望清单，以及 BNB Incubation Alliance 的推出，这是一条获得资助的新途径。每个项目最多可获得 20 万美元的资助，并可获得市场曝光、技术支持和生态系统连接，进一步巩固了 BNB Chain 在促进创新和赋能开发者与初创企业方面的承诺。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈里斯软化加密货币立场，赢得多位加密行业人士支持]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54563.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54563.html"/>
-        <updated>2024-08-01T10:29:45.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 Fortune 报道，卡马拉·哈里斯（Kamala Harris）正在软化民主党对加密货币的立场，成功赢得硅谷部分支持。她与比特币支持者、亿万富翁马克·库班的联系，以及参加比特币2024大会的邀请，显示出她的竞选团队正在重新考虑加密货币问题。
-
-与此同时，硅谷也在重新审视哈里斯。尽管许多科技界人士在拜登竞选期间转向反对民主党，但约100名风险投资家和创始人，包括一些加密货币领域的人士，已公开表示支持哈里斯。这些签署支持声明的科技领袖表示，他们支持商业、美国梦、创业和技术进步，旨在将硅谷和商业界从特朗普及其盟友那里拉回来。
-
-以下是六位支持哈里斯的加密货币风险投资者：
-1. 罗恩·康威（Ron Conway） - SV Angel的创始合伙人，投资了包括Coinbase和Uniswap在内的多家加密公司。他表示，哈里斯是科技生态系统的坚定支持者，并为其竞选捐款近45万美元。
-2. 瑞安·莫里森（Ryan Morrison） - Founders Circle Capital的合伙人，投资了提供加密服务的Robinhood和数字资产经纪公司FalconX。
-3. 瑞贝卡·凯登（Rebecca Kaden） - Union Square Ventures的首位女性管理合伙人，该公司投资了24家加密公司，包括Coinbase和Dapper Labs。
-4. 马克·库班（Mark Cuban） - 投资了20家区块链公司，公开批评特朗普，并幻想比特币成为“全球货币”。
-5. 里德·霍夫曼（Reid Hoffman） - LinkedIn的共同创始人，Greylock的合伙人，曾称比特币为“变革性”的投资，并表示支持哈里斯是对民主未来的投资。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX已正式开启HMSTR/USDT交割合约盘前交易]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54562.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54562.html"/>
-        <updated>2024-08-01T10:26:57.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，OKX盘前交易功能已正式开放，首期上线HMSTR/USDT交割合约。用户通过OKX盘前交易可以在币种正式上线前进行交易，抢先买卖平台精选的数字货币交割合约，同时享受 2 倍杠杆加持。
-
-据悉，盘前交易交割合约本质是USDT本位交割合约，通常情况下会在新代币在现货交易市场上线前进行交割，旨在支持用户抢先一步参与新代币的价格发现。另据OKX提示，盘前交易上线的代币价格由市场决定，风险波动较大，用户需要谨慎参与。盘前交割的合约并不保证其币种最终会在现货交易中上线，具体上币详情请关注OKX公告。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BingX 宣布成立 BingX Labs 支持有前景的加密项目]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54561.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54561.html"/>
-        <updated>2024-08-01T10:11:27.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，加密货币交易所 BingX 宣布成立 BingX Labs，旨在寻找高潜力的区块链项目并协助其有效部署代币。该实验室将提供包括做市、技术支持和战略咨询在内的多项服务，确保项目开发的强大支持。BingX Labs 由首席产品官 Vivien Lin 领导，致力于为新兴企业提供全面的资源和专业知识，推动产品创新和战略方向。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10x Research：预计通胀下降将增加降息可能性，黄金创新高预示比特币乐观前景]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54560.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54560.html"/>
-        <updated>2024-08-01T10:05:54.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，加密货币研究机构 10x Research 发布最新分析报告，尽管美联储的声明保持灵活性，没有明确暗示9月降息，但鲍威尔主席在随后的问答环节中提到，若通胀预期下降，降息的可能性将增加。
-
-10x Research 预计8月14日发布的通胀报告将显示通胀降至3%以下，进入8月至10月的时期，同比通胀比较将变得有利。与此同时，黄金价格创下历史新高，市场开始关注比特币是否会随之上涨，投资者对比特币的前景持乐观态度。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase 国际站已上线 DYM、MKR 和 AAVE 永续合约]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54559.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54559.html"/>
-        <updated>2024-08-01T09:53:42.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据官方消息，Coinbase 国际站和 Coinbase Advanced 已上线 DYM-PERP、MKR-PERP 和 AAVE-PERP 永续合约，相关市场进入全面交易模式。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据：7 月 NFT 销售额约 4.3 亿美元，环比下降2%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54558.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54558.html"/>
-        <updated>2024-08-01T09:48:17.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 CryptoSlam 数据，7 月 NFT 销售额约为 4.3 亿美元，较 6 月份的 4.39 亿美元下降2%。以太坊链销售额占比 33.07%，约 1.42 亿美元，排名第一；Solana 占比 22.69%，约 9765.81 万美元，位居第二。比特币、Polygon 和 Immutable 分别为 7731 万美元、3392 万美元和 2103 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某巨鲸 2 小时前向 Bybit 转入 264 万枚 ONDO，约合 245 万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_54557.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_54557.html"/>
-        <updated>2024-08-01T09:44:19.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，8 月 1 日，据 @ai_9684xtpa 监测，三月重仓 1728 万美元的巨鲸再次减仓 ONDO，该巨鲸在 03.26 至 03.28 期间以均价 $0.9817 提出 1857 万枚 ONDO，五个月内分批减仓，最近两小时前向 Bybit 转入 264 万枚 ONDO，约 245 万美元，目前仍持有 925 万枚 ONDO，总价值 860 万美元，累计浮亏 44 万美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
