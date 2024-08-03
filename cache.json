@@ -1,6 +1,113 @@
 {
   "sources": [
     {
+      "title": "Web3世界",
+      "feedUrl": "https://www.web3sj.com/feed/",
+      "siteUrl": "https://www.web3sj.com",
+      "articles": [
+        {
+          "id": "https://www.web3sj.com/?p=119137",
+          "author": "Gao",
+          "description": "这些文章分析了用于创建 Banana Gun Bot 的资金在链上的流动，并引发了一些关于开发者背景的令人不安的问题。当一个领先交易机器人的匿名开发者背景显得可疑时，随之而来的问题是，Banana Gun Bot 为谁的利益而运作？",
+          "link": "https://www.web3sj.com/project/119137/",
+          "publishedOn": "2024-08-03T15:25:22.000Z",
+          "wordCount": 1375,
+          "title": "Banana Gun如何从用户和以太坊验证者手中吸走数百万美元？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722699167152.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119126",
+          "author": "Gao",
+          "description": "近期最著名的几次 TGE 和空投事件就包括 6 月的 ZKsync 空投，虽然其 Airdrop 份额占 Token 总供应量约 17%，空投权重占比在知名项目中算是较高的，但其分配细则和空投效果依然引发社区不满，原因可以简要归结为三点。",
+          "link": "https://www.web3sj.com/news/119126/",
+          "publishedOn": "2024-08-03T15:11:26.000Z",
+          "wordCount": 1157,
+          "title": "对空投政策的深度反思：撸毛致富的时代结束了",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722697844109.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119121",
+          "author": "Gao",
+          "description": "7 月 27 日有消息称，哈里斯团队的成员最近几天已经联系了与加密货币公司关系密切的人士，商讨会面事宜。这些公司包括领先的交易所 Coinbase、稳定币公司 Circle 和区块链支付集团 Ripple Labs。但随后，哈里斯竞选团队的顾问澄清说，重新与加密货币行业建立联系的举措主要不是出于获得选举捐款目的，而是要与加密行业建立积极的关系，为合理的监管框架铺平道路。",
+          "link": "https://www.web3sj.com/news/119121/",
+          "publishedOn": "2024-08-03T15:02:04.000Z",
+          "wordCount": 889,
+          "title": "哈里斯为何在预测市场Polymarket上的胜选概率创新高？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722697227767.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119116",
+          "author": "Gao",
+          "description": "继 Pump.fun 大火后，DEX Raydium 也最新推出了竞品 MakeNow.Meme，CTO 就是官方发行 MEME 币之一。市场狂热情绪下，CTO 在上线一天内获得约 3000 万美元资金的参与，自然也有聪明钱吃到高倍盈利。",
+          "link": "https://www.web3sj.com/news/119116/",
+          "publishedOn": "2024-08-03T14:59:37.000Z",
+          "wordCount": 929,
+          "title": "同名MEME炒作加剧内卷，Rug频发下社区接管「CTO」成胜负手",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722697145873.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119114",
+          "author": "Gao",
+          "description": "老高发现Movement的测试环境实在太烂，各种突发情况让视频的录制难度急剧上升，希望大家谅解，本期只做了几个简单的swap任务，等待项目方的问题修复吧！",
+          "link": "https://www.web3sj.com/show/119114/",
+          "publishedOn": "2024-08-03T14:54:50.000Z",
+          "wordCount": 714,
+          "title": "【0撸连续剧】老高勇闯Movement第二集：斯巴达勇士随崩溃的测试网络而倒下，只能做做几个简单SWAP任务",
+          "imageUrl": "https://www.web3sj.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119110",
+          "author": "Gao",
+          "description": "特朗普提出用比特币或“加密支票”偿还35万亿美元国债。Benchmark 将 MicroStrategy (MSTR) 目标价上调至 2150 美元。CFTC向Ben Armstrong前公司Hit Network发出传票，要求提供与15种代币相关的活动信息。",
+          "link": "https://www.web3sj.com/news/119110/",
+          "publishedOn": "2024-08-03T12:04:50.000Z",
+          "wordCount": 895,
+          "title": "Web3世界日报（2024-8.3）",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/2024080312014096.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119085",
+          "author": "Gao",
+          "description": "两年前，「专用」 ZK 基础设施意味着诸如 circom、Halo2 和 arkworks 之类的低级电路框架。使用这些框架构建的 ZK 应用本质上是手写的 ZK 电路。它们对于特定的任务来说速度快且成本低，但通常难以开发和维护。它们类似于当今 IC（集成电路）行业中的各种专用集成电路芯片（物理硅片），例如 NAND 芯片和控制器芯片。",
+          "link": "https://www.web3sj.com/news/119085/",
+          "publishedOn": "2024-08-02T12:18:15.000Z",
+          "wordCount": 895,
+          "title": "专用ZK与通用ZK，谁才是未来？",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722601057327.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119076",
+          "author": "Gao",
+          "description": "而美国比特币 ETF 在美国 ETF 市场上也创造了奇迹。推出仅半年，在过去 5 年推出的近 2000 只 ETF 中，就资金流入量而言，有两支比特币现货 ETF （ IBIT 和 FBTC ）挤入前 10 名。贝莱德 IBIT 成为美国最快达到 200 亿美元的 ETF，仅用时 137 天（此前记录保持者是摩根大通发行的 JEPI 主动管理基金，达到 200 亿美元用时 985 天）。",
+          "link": "https://www.web3sj.com/news/119076/",
+          "publishedOn": "2024-08-02T12:11:46.000Z",
+          "wordCount": 1320,
+          "title": "被低估的「以太坊现货 ETF」",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722600683144.png"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119068",
+          "author": "Gao",
+          "description": "GCR：「你能做的最糟糕的事情就是放弃或退出；将损失与未来的机会损失叠加；无论你剩余的资本是多少，对这个领域的熟悉度都是无价的。",
+          "link": "https://www.web3sj.com/transaction/119068/",
+          "publishedOn": "2024-08-02T12:07:27.000Z",
+          "wordCount": 823,
+          "title": "积累优势，避免成为市场震荡中的待宰羔羊",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/2024080214345895462248.jpg"
+        },
+        {
+          "id": "https://www.web3sj.com/?p=119062",
+          "author": "Gao",
+          "description": "Memecoin 狂欢之下，基于真实业务的价值投资逻辑是否还被市场认可？VC、项目方、KOL、大户、小散等对市场的偏差是否罅隙更深？如何定位自身生态位置，选择合适的投资逻辑，狂欢之下更需冷静的反思。",
+          "link": "https://www.web3sj.com/news/119062/",
+          "publishedOn": "2024-08-02T12:03:20.000Z",
+          "wordCount": 920,
+          "title": "MakeNow.Meme狂欢之下：Memecoin的傲慢与偏见",
+          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722600172387.png"
+        }
+      ]
+    },
+    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
