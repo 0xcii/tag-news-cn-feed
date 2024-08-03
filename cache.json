@@ -1,113 +1,6 @@
 {
   "sources": [
     {
-      "title": "Web3世界",
-      "feedUrl": "https://www.web3sj.com/feed/",
-      "siteUrl": "https://www.web3sj.com",
-      "articles": [
-        {
-          "id": "https://www.web3sj.com/?p=119126",
-          "author": "Gao",
-          "description": "近期最著名的几次 TGE 和空投事件就包括 6 月的 ZKsync 空投，虽然其 Airdrop 份额占 Token 总供应量约 17%，空投权重占比在知名项目中算是较高的，但其分配细则和空投效果依然引发社区不满，原因可以简要归结为三点。",
-          "link": "https://www.web3sj.com/news/119126/",
-          "publishedOn": "2024-08-03T15:11:26.000Z",
-          "wordCount": 1173,
-          "title": "对空投政策的深度反思：撸毛致富的时代结束了",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722697844109.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119121",
-          "author": "Gao",
-          "description": "7 月 27 日有消息称，哈里斯团队的成员最近几天已经联系了与加密货币公司关系密切的人士，商讨会面事宜。这些公司包括领先的交易所 Coinbase、稳定币公司 Circle 和区块链支付集团 Ripple Labs。但随后，哈里斯竞选团队的顾问澄清说，重新与加密货币行业建立联系的举措主要不是出于获得选举捐款目的，而是要与加密行业建立积极的关系，为合理的监管框架铺平道路。",
-          "link": "https://www.web3sj.com/news/119121/",
-          "publishedOn": "2024-08-03T15:02:04.000Z",
-          "wordCount": 913,
-          "title": "哈里斯为何在预测市场Polymarket上的胜选概率创新高？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722697227767.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119116",
-          "author": "Gao",
-          "description": "继 Pump.fun 大火后，DEX Raydium 也最新推出了竞品 MakeNow.Meme，CTO 就是官方发行 MEME 币之一。市场狂热情绪下，CTO 在上线一天内获得约 3000 万美元资金的参与，自然也有聪明钱吃到高倍盈利。",
-          "link": "https://www.web3sj.com/news/119116/",
-          "publishedOn": "2024-08-03T14:59:37.000Z",
-          "wordCount": 951,
-          "title": "同名MEME炒作加剧内卷，Rug频发下社区接管「CTO」成胜负手",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722697145873.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119114",
-          "author": "Gao",
-          "description": "老高发现Movement的测试环境实在太烂，各种突发情况让视频的录制难度急剧上升，希望大家谅解，本期只做了几个简单的swap任务，等待项目方的问题修复吧！",
-          "link": "https://www.web3sj.com/show/119114/",
-          "publishedOn": "2024-08-03T14:54:50.000Z",
-          "wordCount": 715,
-          "title": "【0撸连续剧】老高勇闯Movement第二集：斯巴达勇士随崩溃的测试网络而倒下，只能做做几个简单SWAP任务",
-          "imageUrl": "https://www.web3sj.com/wp-content/plugins/jm-twitter-cards/admin/img/Twitter_logo_blue.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119110",
-          "author": "Gao",
-          "description": "特朗普提出用比特币或“加密支票”偿还35万亿美元国债。Benchmark 将 MicroStrategy (MSTR) 目标价上调至 2150 美元。CFTC向Ben Armstrong前公司Hit Network发出传票，要求提供与15种代币相关的活动信息。",
-          "link": "https://www.web3sj.com/news/119110/",
-          "publishedOn": "2024-08-03T12:04:50.000Z",
-          "wordCount": 893,
-          "title": "Web3世界日报（2024-8.3）",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/2024080312014096.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119085",
-          "author": "Gao",
-          "description": "两年前，「专用」 ZK 基础设施意味着诸如 circom、Halo2 和 arkworks 之类的低级电路框架。使用这些框架构建的 ZK 应用本质上是手写的 ZK 电路。它们对于特定的任务来说速度快且成本低，但通常难以开发和维护。它们类似于当今 IC（集成电路）行业中的各种专用集成电路芯片（物理硅片），例如 NAND 芯片和控制器芯片。",
-          "link": "https://www.web3sj.com/news/119085/",
-          "publishedOn": "2024-08-02T12:18:15.000Z",
-          "wordCount": 882,
-          "title": "专用ZK与通用ZK，谁才是未来？",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722601057327.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119076",
-          "author": "Gao",
-          "description": "而美国比特币 ETF 在美国 ETF 市场上也创造了奇迹。推出仅半年，在过去 5 年推出的近 2000 只 ETF 中，就资金流入量而言，有两支比特币现货 ETF （ IBIT 和 FBTC ）挤入前 10 名。贝莱德 IBIT 成为美国最快达到 200 亿美元的 ETF，仅用时 137 天（此前记录保持者是摩根大通发行的 JEPI 主动管理基金，达到 200 亿美元用时 985 天）。",
-          "link": "https://www.web3sj.com/news/119076/",
-          "publishedOn": "2024-08-02T12:11:46.000Z",
-          "wordCount": 1312,
-          "title": "被低估的「以太坊现货 ETF」",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722600683144.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119068",
-          "author": "Gao",
-          "description": "GCR：「你能做的最糟糕的事情就是放弃或退出；将损失与未来的机会损失叠加；无论你剩余的资本是多少，对这个领域的熟悉度都是无价的。",
-          "link": "https://www.web3sj.com/transaction/119068/",
-          "publishedOn": "2024-08-02T12:07:27.000Z",
-          "wordCount": 821,
-          "title": "积累优势，避免成为市场震荡中的待宰羔羊",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/2024080214345895462248.jpg"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119062",
-          "author": "Gao",
-          "description": "Memecoin 狂欢之下，基于真实业务的价值投资逻辑是否还被市场认可？VC、项目方、KOL、大户、小散等对市场的偏差是否罅隙更深？如何定位自身生态位置，选择合适的投资逻辑，狂欢之下更需冷静的反思。",
-          "link": "https://www.web3sj.com/news/119062/",
-          "publishedOn": "2024-08-02T12:03:20.000Z",
-          "wordCount": 921,
-          "title": "MakeNow.Meme狂欢之下：Memecoin的傲慢与偏见",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/1722600172387.png"
-        },
-        {
-          "id": "https://www.web3sj.com/?p=119057",
-          "author": "Gao",
-          "description": "老高这次把所有赞助费用来给大家抽奖，交互完记得填写表单，8月11日 23:59 结束。为了避免有人多刷，一定要加入我们的社群，最终要核实账户哦！希望大家能有好运气！",
-          "link": "https://www.web3sj.com/show/119057/",
-          "publishedOn": "2024-08-02T11:43:29.000Z",
-          "wordCount": 720,
-          "title": "【福利抽奖】老高社群抽奖活动，参与Sofa交互即可抽奖，最高100U奖励，回馈水友快来撸毛",
-          "imageUrl": "https://www.web3sj.com/wp-content/uploads/2024/08/2024080211443868.jpg"
-        }
-      ]
-    },
-    {
       "title": "PANews - 快讯",
       "feedUrl": "https://rsshub.app/panewslab/news",
       "siteUrl": "https://panewslab.com/zh/news/index.html",
@@ -320,6 +213,26 @@
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
         {
+          "id": "https://www.hellobtc.com/news/202408/22669.html",
+          "author": null,
+          "description": "预测市场Polymarket上巴黎奥运资金池总规模已突破1000万美元，截至目前，巴黎奥运会奖牌最多国家的预测池资金规模达到390万美元，巴黎奥运会金牌最多国家的预测池资金规模达到330万美元，男子篮球金牌预测池资金规模达到140万美元。",
+          "link": "https://www.hellobtc.com/news/202408/22669.html",
+          "publishedOn": "2024-08-03T12:54:00.000Z",
+          "wordCount": 303,
+          "title": "Polymarket上巴黎奥运预测市场的资金池总规模突破1000万美元",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202408/22668.html",
+          "author": null,
+          "description": "香港民建联立法会议员黄俊硕建议港府加快建设香港居民为基础的数字身份体系与标准，逐步建立一套公私营机构之间更广泛采用数码身份的应用，推动各界广泛采用，例如可在智方便平台中纳入数码身份。港府在Web3.0的监管与发展方面要取得平衡，并建议利用Web3.0技术向旅客派发电子消费券，因为使用Web3.0平台交易发放消费券成本仅为总数的千分之0.15 ，交易成本比以传统银行业务方式发放便宜不少。",
+          "link": "https://www.hellobtc.com/news/202408/22668.html",
+          "publishedOn": "2024-08-03T12:54:00.000Z",
+          "wordCount": 304,
+          "title": "香港立法会议员建议利用Web3.0技术建设居民数字身份体系与标准",
+          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
+        },
+        {
           "id": "https://www.hellobtc.com/news/202408/22667.html",
           "author": null,
           "description": "纳斯达克上市的 Microstrategy 在第二季度收购了12,222枚比特币，使其总持有量达到226,500枚BTC 。首席执行官Phong Le和首席财务官 Andrew Kang对未来比特币的支持表示乐观，并强调了公司的财务战略。尽管净亏损，Microstrategy仍致力于其比特币战略。",
@@ -398,26 +311,6 @@
           "wordCount": 299,
           "title": "美国银行预计美联储将在九月份开始降息",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202408/22659.html",
-          "author": null,
-          "description": "“美联储传声筒”Nick Timiraos 披露，美联储主席鲍威尔周三表示，美联储官员不希望从降息 50 个基点开始，但他表示，“看起来更严重的衰退……是我们想要作出回应的事情。” 据悉，美国参议员沃伦在 X 上发帖敦促鲍威尔 现在 降息，并称鲍威尔不降息犯了一个严重错误。",
-          "link": "https://www.hellobtc.com/news/202408/22659.html",
-          "publishedOn": "2024-08-02T14:03:00.000Z",
-          "wordCount": 312,
-          "title": "美联储传声筒：鲍威尔表示官员不希望从降息50个基点开始",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202408/22658.html",
-          "author": null,
-          "description": "据Bitcoin Magazine披露，美国密歇根州的独立国会议员Justin Amash在与比特币用户进行“精彩会面”后发布了自己换上激光眼的照片。",
-          "link": "https://www.hellobtc.com/news/202408/22658.html",
-          "publishedOn": "2024-08-02T14:03:00.000Z",
-          "wordCount": 308,
-          "title": "美国独立国会议员Justin Amash发布激光眼照片",
-          "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         }
       ]
     },
@@ -427,12 +320,72 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
+          "id": "https://www.techflowpost.com/newsletter/detail_54764.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据DefiLlama 数据，稳定币总市值过去一周下降 0.33%，现报 1640.2 亿美元。\n\n其中 USDT 总市值增长 0.07%，现报 1145.18 亿美元，市占率达 69.82%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_54764.html",
+          "publishedOn": "2024-08-03T14:45:27.000Z",
+          "wordCount": 484,
+          "title": "过去一周稳定币总市值下降0.33%",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_54763.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Arkham 监测，灰度于周五将 24900 枚 ETH（7840 万美元）转移至 Coinbase，较周一转入 Coinbase 的 108,800 枚 ETH（3.676 亿美元）下降约 80%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_54763.html",
+          "publishedOn": "2024-08-03T13:23:07.000Z",
+          "wordCount": 504,
+          "title": "灰度于本周五将 24,900 枚 ETH 转移至 Coinbase，较周一下降约80%",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_54762.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，8月3日，据 Cellula官方，Cellula BitCell NFT 幸运白用户持有者在一个区块高度内完成 1065 个 BitCell NFT 免费铸造。其中 2001 个保证白于7月 31号至8月1日完成铸造。\n\n据悉，目前BitCell NFT已经上架Dobby Market，用户可前往交易，由于比特币交易确认速度缓慢，用户 NFT 会在8月6日晚上10点前全部发送至成功铸造用户钱包。该 NFT 持有者将获得空投总量的 20%，Cellula 计划在 2024 年下半年进行 TGE，用户可在 TGE 后质押 BitCell 获得额外激励，同时也会获得生态合作伙伴激励。\n\nCellula 至上线以来获取了21万链上用户，100多万个 BitLife 被铸造。",
+          "link": "https://www.techflowpost.com/newsletter/detail_54762.html",
+          "publishedOn": "2024-08-03T13:21:55.000Z",
+          "wordCount": 529,
+          "title": "Cellula BitCell NFT于8月3日全部3066枚被铸造完毕，其中幸运白在一个区块高度内全部铸造完毕",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_54761.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据链上分析师余烬监测，Justin Sun 相关地址于 5 小时前将 1.1 亿枚 USDT 转入 HTX。\n\n· 通过 TT2...U9N 地址从 JustLend 取回 6510 万 USDT，然后将 7000 万 USDT 转进 HTX；\n\n· 通过 0xdbf...ec8 地址从 Aave 取回 4024 万 USDT，然后转进 HTX。",
+          "link": "https://www.techflowpost.com/newsletter/detail_54761.html",
+          "publishedOn": "2024-08-03T12:51:46.000Z",
+          "wordCount": 552,
+          "title": "Justin Sun 相关地址于 5 小时前将 1.1 亿枚 USDT 转入 HTX",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_54760.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，BTC 回升至 62,000 美元上方， 据 HTX 行情数据显示，BTC 回升至 62,000 美元上方，现报 62005.09 美元，24 小时跌幅缩窄至 2.23%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_54760.html",
+          "publishedOn": "2024-08-03T12:21:04.000Z",
+          "wordCount": 502,
+          "title": "BTC 回升至 62,000 美元上方，24 小时跌幅缩窄至 2.23%",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_54759.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据官方消息，dYdX 社区已投票决定在第五季激励计划中向交易者分发价值 500 万美元的 DYDX 代币。",
+          "link": "https://www.techflowpost.com/newsletter/detail_54759.html",
+          "publishedOn": "2024-08-03T12:12:59.000Z",
+          "wordCount": 486,
+          "title": "dYdX 社区投票决定将在第五季激励计划中向交易者分发价值 500 万美元 DYDX 代币",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
           "id": "https://www.techflowpost.com/newsletter/detail_54758.html",
           "author": null,
           "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，ETH 回升至 3000 美元上方，现报 3000.84 美元，24 小时跌幅缩窄至 1.28%。",
           "link": "https://www.techflowpost.com/newsletter/detail_54758.html",
           "publishedOn": "2024-08-03T12:08:22.000Z",
-          "wordCount": 501,
+          "wordCount": 494,
           "title": "ETH 回升至 3000 美元上方，24 小时跌幅缩窄至 1.28%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +395,7 @@
           "description": "深潮 TechFlow 消息，据Arkham监测，美国前总统唐纳德·特朗普地址持有的加密资产价值已跌破700万美元关口，当前跌至6,414,772.48美元，但较六月初超3100万美元高点下降约80%，该地址当前持仓主要包括： \n\n2103.45亿枚TROG，价值约46.06万美元；\n\n57.929万枚TRUMP，价值约272万美元；\n\n492.449枚ETH，价值约148万美元；\n\n377.415枚WETH，价值约113万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54757.html",
           "publishedOn": "2024-08-03T12:06:05.000Z",
-          "wordCount": 479,
+          "wordCount": 472,
           "title": "特朗普地址加密货币持仓总价值跌破 700 万美元关口，较六月初高点下降约80%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +405,7 @@
           "description": "深潮 TechFlow 消息，据 Whale Alert 监测，USDC Treasury 于今日 17:50 左右在以太坊链上新增铸造 5000 万枚 USDC，价值约合 50,056,800 美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54756.html",
           "publishedOn": "2024-08-03T10:03:51.000Z",
-          "wordCount": 513,
+          "wordCount": 506,
           "title": "USDC Treasury 于今日 17:50 左右新增铸造 5000 万枚 USDC",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +415,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，OKX 将于 2024 年 8 月 5 日 11:00 (UTC+8) 上线 DOGS/USDT 盘前交易 (USDT 保证金交割合约)。\n\nDOGS 的形象灵感来自 TON 创始人帕维尔-杜罗夫（Pavel Durov）为 Telegram 社区设计的吉祥物 Spotty，体现了 Telegram 社区独特的精神和文化。",
           "link": "https://www.techflowpost.com/newsletter/detail_54755.html",
           "publishedOn": "2024-08-03T09:55:40.000Z",
-          "wordCount": 515,
+          "wordCount": 508,
           "title": "OKX将于8月5日上线DOGS/USDT交割合约盘前交易",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +425,7 @@
           "description": "深潮 TechFlow 消息，据 CME「美联储观察」数据，美联储 9 月降息 25 个基点的概率为 78%，降息 50 个基点的概率为 22%。美联储到 11 月累计降息 25 个基点的概率为 3.7%，累计降息 50 个基点的概率为 75.3%，累计降息 75 个基点的概率为 21%。",
           "link": "https://www.techflowpost.com/newsletter/detail_54754.html",
           "publishedOn": "2024-08-03T09:48:11.000Z",
-          "wordCount": 523,
+          "wordCount": 516,
           "title": "CME 美联储观察：9 月降息 50 个基点的概率为 22%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -482,7 +435,7 @@
           "description": "深潮 TechFlow 消息，美国共和党总统候选人特朗普表示，他已与福克斯新闻达成协议，9 月 4 日将与副总统哈里斯辩论，如果她「不愿意或无法」在那一天出席，他将在网络上召开公民大会。特朗普在 Truth Social 上发表的一篇贴文中表示，辩论将在宾夕法尼亚州举行，地点待定。\n\n特朗普原订在一场由 ABC 新闻主办的辩论会上与总统拜登对垒，哈里斯一直敦促特朗普依旧参加。特朗普在贴文称，ABC 的辩论会「部分已终止，因为拜登不再参选。",
           "link": "https://www.techflowpost.com/newsletter/detail_54753.html",
           "publishedOn": "2024-08-03T08:46:53.000Z",
-          "wordCount": 489,
+          "wordCount": 482,
           "title": "特朗普：已与福克斯新闻达成协议，9月4日与哈里斯辩论",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -492,7 +445,7 @@
           "description": "深潮 TechFlow 消息，据链上分析师@ai_9684xtpa 监测，约半小时前，0xDBf 开头孙宇晨地址从 Aave 中取出 4025 万枚 USDT，随后转移至 0xf1f 开头新地址。",
           "link": "https://www.techflowpost.com/newsletter/detail_54752.html",
           "publishedOn": "2024-08-03T08:02:10.000Z",
-          "wordCount": 513,
+          "wordCount": 506,
           "title": "孙宇晨地址从 Aave 取出 4025 万 USDT 转移 至 0xf1f 开头新地址",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -502,7 +455,7 @@
           "description": "深潮 TechFlow 消息，据 The Data Nerd 监测，疑似 Am­ber Group 地址于 12 小时前将 1800 枚 MKR（价值约合 454 万美元）存入币安，目前该地址仅剩余 412.6 枚 MKR （价值约合 99.7 万美元）。",
           "link": "https://www.techflowpost.com/newsletter/detail_54751.html",
           "publishedOn": "2024-08-03T07:15:00.000Z",
-          "wordCount": 511,
+          "wordCount": 504,
           "title": "疑似Amber Group地址于12小时向币安存入1800枚MKR",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -512,7 +465,7 @@
           "description": "深潮 TechFlow 消息，Lista DAO 在 X 平台发文宣布，已推出 slis­B­NB 桥 V2 版，以进一步增强用户体验。",
           "link": "https://www.techflowpost.com/newsletter/detail_54750.html",
           "publishedOn": "2024-08-03T07:05:39.000Z",
-          "wordCount": 499,
+          "wordCount": 492,
           "title": "Lista DAO：现已推出 slisBNB 桥 V2 版",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -522,7 +475,7 @@
           "description": "深潮 TechFlow 消息，据 Lookonchain 监测，1 小时前，一位 Memecoin 预售投资者向Binance存入了 1.275 亿枚 MEME（价值约合 155 万美元），赚取了 141 万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54749.html",
           "publishedOn": "2024-08-03T06:02:25.000Z",
-          "wordCount": 492,
+          "wordCount": 485,
           "title": "某Memecoin预售投资者向Binance存入1.275亿枚MEME",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -532,7 +485,7 @@
           "description": "深潮 TechFlow 消息，Mantle 生态 Meme 项目 Puff 推出的 NFT 合集 Puff Dragons 即将于北京时间8月6日（星期二）8:30推出“TOP-UP Mint”活动，届时将提供3667个Puff Dealer NFT和87个传奇级Puff Escobars供用户铸造和抢购，无需特殊资格即可参与。\n\n其中，Puff Deale 系列每个钱包可铸造 1 个，需持有至少 1 瓶神秘药水，铸造价格为500 $Puff + 100K $BMT，将获得约 4,000 $COOK 奖励；\n\nPuff Escobars 系列需要钱包有 100 万以上的 $BMT，铸造价格为8888 $Puff + 10M $BMT，将获得 50,000 $COOK 奖励。（$COOK 为 Mantle LSP 的治理代币 ）\n\n另据 Element 数据显示，Puff Dragons NFT 现报地板价为220 $MNT（约 $147 美元）",
           "link": "https://www.techflowpost.com/newsletter/detail_54748.html",
           "publishedOn": "2024-08-03T05:20:41.000Z",
-          "wordCount": 590,
+          "wordCount": 583,
           "title": "NFT 合集 Puff Dragons 将于8月6日推出“TOP-UP Mint”活动",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -542,7 +495,7 @@
           "description": "深潮 TechFlow 消息，据 Look On Chain 监测，或属于同一实体的 5 钱包于 7 小时前售出 1453 万 WIF ( 约 2400 万美元 ) 。这些在 2023 年 11 月 30 日购买的 WIF 总成本仅为 5,340 美元，获得了 4,497 倍的回报。",
           "link": "https://www.techflowpost.com/newsletter/detail_54747.html",
           "publishedOn": "2024-08-03T04:28:42.000Z",
-          "wordCount": 556,
+          "wordCount": 549,
           "title": "或属于同一实体的 5 钱包于 7 小时前售出 1453 万枚 WIF ，获 4,497 倍回报",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -552,7 +505,7 @@
           "description": "深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 8 月 2 日）以太坊现货 ETF 总净流出 5427.04 万美元。昨日灰度（Grayscale）以太坊信托 ETF ETHE 单日净流出 6143.14 万美元，目前 ETHE 历史净流出为 21.17 亿美元。\n\n灰度（Grayscale）以太坊迷你信托 ETF ETH 单日净流出 0.00 美元，目前灰度以太坊迷你信托 ETH 历史总净流入为 2.01 亿美元。昨日单日净流入最多的以太坊现货 ETF 为富达（Fidelity） ETF FETH，单日净流入为 601.76 万美元，目前 FETH 历史总净流入达 2.97 亿美元。\n\n其次为富兰克林邓普顿（Franklin） ETF EZET，单日净流入为 114.33 万美元，目前 EZET 历史总净流入达 3067.33 万美元。截止发稿前，以太坊现货 ETF 总资产净值为 83.32 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 2.29%，历史累计净流出已达 5.11 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54746.html",
           "publishedOn": "2024-08-03T04:07:26.000Z",
-          "wordCount": 605,
+          "wordCount": 598,
           "title": "以太坊现货 ETF 昨日总净流出 5427.04 万美元，灰度 ETF ETHE 单日净流出 6143.14 万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -562,7 +515,7 @@
           "description": "深潮 TechFlow 消息，QCP Capital 在官方频道发文表示，本周市场粗暴地逆转了特朗普为加密货币市场带来的的利好上涨，BTC 价格从演讲后的 70,000 高点回落至今天早上的接近 60,000。促成下跌的原因包括来自美国政府（约 28,000 BTC）、Mt. Gox（33,960 BTC）以及 Genesis（价值 15 亿美元的 BTC 和 ETH）的抛压；比特币挖矿难度上调至历史新高，以及人们对衰退预期的增加。从期权市场数据来看，预计价格波动将在夏季稳定下来。",
           "link": "https://www.techflowpost.com/newsletter/detail_54745.html",
           "publishedOn": "2024-08-03T04:04:16.000Z",
-          "wordCount": 518,
+          "wordCount": 511,
           "title": "QCP Capital：美国政府转移 BTC、Mt. Gox 以及 Genesis 还款共同为市场带来恐慌抛压",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -572,7 +525,7 @@
           "description": "深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 8 月 2 日）比特币现货 ETF 总净流出 2.37 亿美元。昨日灰度（Grayscale）ETF GBTC 单日净流出 4594.62 万美元，目前 GBTC 历史净流出为 190.59 亿美元。昨日流出最多的为富达（Fidelity）ETF  FBTC，单日净流出 1.04 亿美元。\n\n灰度（Grayscale）比特币迷你信托 ETF BTC 单日净流入 987.88 万美元，目前灰度比特币迷你信托 BTC 历史总净流入为 2.19 亿美元。昨日单日净流入最多的比特币现货 ETF 为贝莱德（BlackRock）ETF IBIT，单日净流入为 4281.42 万美元，目前 IBIT 历史总净流入达 200.97 亿美元。\n\n截止发稿前，比特币现货 ETF 总资产净值为 572.04 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.63%，历史累计净流入已达 175.07 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54744.html",
           "publishedOn": "2024-08-03T04:01:44.000Z",
-          "wordCount": 585,
+          "wordCount": 578,
           "title": "比特币现货 ETF 昨日总净流出 2.37 亿美元，FBTC 单日净流出 1.04 亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -582,7 +535,7 @@
           "description": "深潮 TechFlow 消息，据 politico 报道，前白宫高级顾问 David Plouffe 加入哈里斯竞选团队。Plouffe 将被允许保留现有的私营部门客户，但他将终止与 TikTok 的顾问关系。\n\n据悉，Plouffe 曾于 2008 年担任奥巴马的竞选经理，并于 2012 年以白宫高级顾问的身份在奥巴马的连任中发挥了同样的作用。\n\n此前，David Plouffe 曾于今年 3 月宣布加入全球加密支付服务商 Alchemy Pay 管理顾问委员会，担任全球战略顾问，负责 Alchemy Pay 的北美战略、合规、政府关系等事务。",
           "link": "https://www.techflowpost.com/newsletter/detail_54743.html",
           "publishedOn": "2024-08-03T03:21:41.000Z",
-          "wordCount": 531,
+          "wordCount": 524,
           "title": "Alchemy Pay 全球战略顾问 David Plouffe 加入哈里斯竞选团队",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -592,7 +545,7 @@
           "description": "深潮 TechFlow 消息，邀请有礼第五期来袭，XT特别推出“三人成团”赢取 $10,000 奖池的邀请好友感恩回馈活动。立即邀请您的好友加入XT，三人成团，一起狂欢，$10,000大奖等您来拿！\n\n活动时间：2024年08月02日18:00 - 08月08日18:00（UTC+8）",
           "link": "https://www.techflowpost.com/newsletter/detail_54742.html",
           "publishedOn": "2024-08-03T03:17:32.000Z",
-          "wordCount": 483,
+          "wordCount": 476,
           "title": "邀请有礼：三人成团！ $10,000 升级奖金池等你",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -602,7 +555,7 @@
           "description": "深潮 TechFlow 消息，据彭博社报道，针对比特币近几日的下跌，瑞穗证券高级分析 Dan Dolev 认为，“比特币目前还不是人们希望的那个避险工具。如果失业率上升，人们失业，投资者将不得不变现手中的代币。”\n\nRyze Labs 创始人兼执行合伙人 Matthew Graham 表示，“短期内有几个因素正在影响比特币的价格，包括利率降低的可能性、特朗普在即将到来的大选中获胜的可能性，以及哈里斯政府对加密货币政策进行改革的潜在影响。市场正在敏锐地评估这种政策转变的可能性和潜在后果。”",
           "link": "https://www.techflowpost.com/newsletter/detail_54741.html",
           "publishedOn": "2024-08-03T03:16:04.000Z",
-          "wordCount": 485,
+          "wordCount": 478,
           "title": "瑞穗分析师：失业率上升导致投资者不得不变现手中的加密货币",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -612,7 +565,7 @@
           "description": "深潮 TechFlow 消息，据 The Information 报道，两名帮助生产芯片和服务器硬件的人士透露，英伟达(NVDA.O)的新款人工智能芯片将由于设计缺陷而推迟三个月或更长时间发布，这可能会对Meta Platforms(META.O)、谷歌(GOOG.O)和微软(MSFT.O)等客户造成影响，这些客户总共订购了价值数百亿美元的芯片。",
           "link": "https://www.techflowpost.com/newsletter/detail_54740.html",
           "publishedOn": "2024-08-03T03:08:04.000Z",
-          "wordCount": 473,
+          "wordCount": 466,
           "title": "英伟达新款人工智能芯片因设计缺陷而推迟发布",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -622,7 +575,7 @@
           "description": "深潮 TechFlow 消息，据 News.bitcoin 报道，纽约地方检察官办公室发布招聘信息，招聘一名全职加密货币分析师，加入其位于曼哈顿的网络犯罪和身份盗窃局（CITB）。\n\n该职位涉及评估加密货币盗窃投诉、使用各种工具进行交易分析以及在法律诉讼中提供专家证词。\n\n此外，该职位要求保持区块链分析的熟练程度、与执法部门联络以及培训其他分析师。这一关键职位旨在打击先进的网络犯罪和身份盗窃，保护公众免受复杂的数字威胁。",
           "link": "https://www.techflowpost.com/newsletter/detail_54739.html",
           "publishedOn": "2024-08-03T03:01:17.000Z",
-          "wordCount": 474,
+          "wordCount": 467,
           "title": "纽约地方检察官办公室正在为网络犯罪局招聘全职加密货币分析师",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -632,7 +585,7 @@
           "description": "深潮 TechFlow 消息，为支持所有用户在热闹的市场氛围中进行交易，XT联合第三方支付平台Unlimit Crypto推出零手续费买卖加密货币的活动，支持多种付款方式，实现0手续费！\n\n活动时间：2024年08月02日16:00 - 08月17日16:00（UTC+8）",
           "link": "https://www.techflowpost.com/newsletter/detail_54738.html",
           "publishedOn": "2024-08-03T02:58:12.000Z",
-          "wordCount": 487,
+          "wordCount": 480,
           "title": "XT 推出 Unlimit Crypto 零手续费加密货币交易活动",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -642,7 +595,7 @@
           "description": "深潮 TechFlow 消息，据官方数据，截至 8 月 1 日，Circle 近一周发行约 24 亿 USDC，赎回约 33 亿 USDC，流通量约减少 9 亿枚。USDC 总流通量为 329 亿美元，储备量约为 330 亿美元，其中现金 34 亿美元，Circle Reserve Fund 持有 296 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54737.html",
           "publishedOn": "2024-08-03T02:47:23.000Z",
-          "wordCount": 536,
+          "wordCount": 529,
           "title": "数据：过去 7 天 USDC 流通量约减少 9 亿枚",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -652,7 +605,7 @@
           "description": "深潮 TechFlow 消息，加密市场分析机构 Santiment 在社交媒体上发文表示，本次下跌在数据上来看与 7 月初的下跌大致相当，但目前还没有出现同样的逢低买入热情。预计 60,000 美元 BTC 或 2,900 美元 ETH 将成为关键心理水平，可能足以让交易者开始抄底。",
           "link": "https://www.techflowpost.com/newsletter/detail_54736.html",
           "publishedOn": "2024-08-03T01:54:43.000Z",
-          "wordCount": 498,
+          "wordCount": 491,
           "title": "Santiment：此次下跌与 7 月初的下跌相当，但当前未出现同样的逢低买入热情",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -662,7 +615,7 @@
           "description": "深潮 TechFlow 消息，据链上数据分析师余烬监测，近期持续将 UNI 转入 Coinbase Prime 的 Uniswap 团队/投资人/顾问地址，于 1 小时前继续将 113.1 万枚 UNI (约合 747 万美元) 转入 Coinbase Prime。\n\n该地址在最近 30 天里一共向 Coinbase Prime 转移了 830 万枚 UNI (约合 6598 万美元)，转出均价 7.95 美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54735.html",
           "publishedOn": "2024-08-03T01:29:43.000Z",
-          "wordCount": 561,
+          "wordCount": 554,
           "title": "Uniswap Labs 关联地址 1 小时前将 113.1 万枚 UNI 转入 Coinbase Prime",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -672,7 +625,7 @@
           "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，BTC 跌破 61,000 美元，现报 60993.52 美元，24 小时跌幅 3.82%。",
           "link": "https://www.techflowpost.com/newsletter/detail_54734.html",
           "publishedOn": "2024-08-03T00:57:01.000Z",
-          "wordCount": 495,
+          "wordCount": 488,
           "title": "行情：BTC 跌破 61,000 美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -682,7 +635,7 @@
           "description": "深潮 TechFlow 消息，据彭博社报道，知情人士透露，加密货币行业高管计划下周与白宫助手和众议员Ro Khanna会面，讨论对数字资产的担忧，并为下一届政府提出政策变化。据这位因会议属于私人性质而不愿透露姓名的人士透露，即将离任的白宫高级顾问Anita Dunn、国家经济顾问Lael Brainard和副幕僚长Bruce Reed预计将出席会议。\n\n这将是加密货币行业与白宫官员之间最近举行的至少第二次会议，此前 7 月举行了一次圆桌会议，出席会议的有 Ripple 和 Coinbase Global Inc. 等公司的高管以及 Dunn 和加州民主党人 Khanna。",
           "link": "https://www.techflowpost.com/newsletter/detail_54733.html",
           "publishedOn": "2024-08-03T00:54:39.000Z",
-          "wordCount": 499,
+          "wordCount": 492,
           "title": "彭博社：加密行业高管计划下周与白宫顾问会面，为下一届政府提出政策变化",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -692,7 +645,7 @@
           "description": "深潮 TechFlow 消息，据 TheBlock 报道，加密风投公司 Paradigm 任命前 Instagram 和 Facebook 高管 David Swain 为首席营销官（CMO），此次任命发生在 Paradigm 于今年 6 月为其第三支基金筹集 8.5 亿美元后不久。\n\n根据 LinkedIn 个人资料，Swain 曾在 Instagram 担任全球传播主管，并在 Facebook 担任高级技术传播总监。",
           "link": "https://www.techflowpost.com/newsletter/detail_54732.html",
           "publishedOn": "2024-08-03T00:52:33.000Z",
-          "wordCount": 541,
+          "wordCount": 534,
           "title": "Paradigm 任命前 Instagram 和 Facebook 高管 David Swain 为首席营销官",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -702,7 +655,7 @@
           "description": "深潮 TechFlow 消息，据 Cointelegraph 报道，前美国总统唐纳德·特朗普在接受福克斯采访时提议可以使用比特币或“加密支票”来偿还美国政府高达 35 万亿美元的国债，避免迫在眉睫的债务危机。“谁知道呢，也许我们会偿还 35 万亿美元的（国家债务），给他们一张小小的加密货币支票，对吧？我们会给他们一点比特币，然后抹去我们的 35 万亿美元。”\n\n特朗普并重申了他的立场：如果美国不在数字资产方面进行创新， 其他国家就会这样做。",
           "link": "https://www.techflowpost.com/newsletter/detail_54731.html",
           "publishedOn": "2024-08-03T00:45:30.000Z",
-          "wordCount": 493,
+          "wordCount": 486,
           "title": "特朗普提议使用比特币或“加密支票”来偿还 35 万亿美元国债",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -712,7 +665,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，dYdX Chain 累计交易量已突破 2000 亿美元，为此特推出奖励金额为 2 万美元的社区活动。",
           "link": "https://www.techflowpost.com/newsletter/detail_54730.html",
           "publishedOn": "2024-08-03T00:37:00.000Z",
-          "wordCount": 492,
+          "wordCount": 485,
           "title": "dYdX Chain 累计交易量已突破 2000 亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -722,7 +675,7 @@
           "description": "深潮 TechFlow 消息，据 The Block 报道，Genesis Global 及其相关实体于本周五（8月2日）宣布完成破产重组，该公司于 2023 年 1 月申请破产保护，现已开始分发价值约 40 亿美元的数字资产和美元以偿还债权人。\n\n去年申请破产时，Genesis 披露其债权人超过 10 万，负债高达 100 亿美元。该公司欠其前 50 名债权人约 30 亿美元，其中包括加密货币交易平台 Gemini、资产管理公司 VanEck 和贸易公司 Cumberland。\n\n平均而言，Genesis 债权人将收回 64% 的实物加密货币偿还款，每个币种的情况略有不同。比特币债权人将收回 51.28% 的 BTC，以太坊及 Solana 债权人将分别收回 65.87% 的 ETH 和 29.58% 的 SOL，而稳定币或美元的债权人将获得 100% 的缺失资金。",
           "link": "https://www.techflowpost.com/newsletter/detail_54729.html",
           "publishedOn": "2024-08-03T00:31:43.000Z",
-          "wordCount": 561,
+          "wordCount": 554,
           "title": "Genesis 现已开始分发价值约 40 亿美元的数字资产和美元以偿还债权人",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -732,7 +685,7 @@
           "description": "深潮 TechFlow 消息，据 Big Crypto Alert 监测，CZ X 平台账号新增关注 SolanaNews.sol（@solananew），为 CZ 入狱以来 X 平台账号首次变动。",
           "link": "https://www.techflowpost.com/newsletter/detail_54728.html",
           "publishedOn": "2024-08-03T00:22:03.000Z",
-          "wordCount": 496,
+          "wordCount": 489,
           "title": "CZ 社媒账号新增关注 SolanaNews.sol",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -742,7 +695,7 @@
           "description": "深潮 TechFlow 消息，据官方消息，Coinbase 将 Gravity（G）加入上币路线图。",
           "link": "https://www.techflowpost.com/newsletter/detail_54727.html",
           "publishedOn": "2024-08-03T00:16:30.000Z",
-          "wordCount": 478,
+          "wordCount": 471,
           "title": "Coinbase 已将 Gravity（G）加入上币路线图",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -752,7 +705,7 @@
           "description": "深潮 TechFlow 消息，据 Coinglass 数据显示，过去 24 小时加密货币市场全网合约爆仓 2.7 亿美元，其中多单爆仓 2.3 亿美元，空单爆仓 4001.77 万美元；BTC 爆仓总金额为 8293.47 万美元，ETH 爆仓总金额为 7375.8 万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_54726.html",
           "publishedOn": "2024-08-03T00:14:11.000Z",
-          "wordCount": 506,
+          "wordCount": 499,
           "title": "过去 24 小时全网合约爆仓 2.7 亿美元，主爆多单",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -762,7 +715,7 @@
           "description": "深潮 TechFlow 消息，据 HTX 行情数据显示，BTC 跌破 62,000 美元，现报 61,529.46 美元，24 小时跌幅 2.98%。",
           "link": "https://www.techflowpost.com/newsletter/detail_54725.html",
           "publishedOn": "2024-08-03T00:08:09.000Z",
-          "wordCount": 501,
+          "wordCount": 494,
           "title": "行情：BTC 跌破 62,000 美元，24 小时跌幅 2.98%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
