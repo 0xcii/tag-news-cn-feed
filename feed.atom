@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-06T13:18:20.672Z</id>
+    <id>urn:2024-08-06T14:14:03.243Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-06T13:18:20.672Z</updated>
+    <updated>2024-08-06T14:14:03.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[消息人士：美国副总统哈里斯已确定其竞选搭档，结果将于几小时后公布]]></title>
+        <id>https://panewslab.com/zh/articledetails/0tcg47w7.html</id>
+        <link href="https://panewslab.com/zh/articledetails/0tcg47w7.html"/>
+        <updated>2024-08-06T12:51:33.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据美联社报道，消息人士表示，美国副总统卡马拉·哈里斯已经确定了其竞选搭档，几个小时后就会宣布这一消息。最近几天，她已经锁定了三位潜在的最终候选人：宾夕法尼亚州州长Josh Shapiro、亚利桑那州参议员 Mark Kelly和明尼苏达州州长 Tim Walz。目前还不清楚她选择了谁。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师：比特币巨鲸们在过去48小时内共收购超3万枚BTC]]></title>
+        <id>https://panewslab.com/zh/articledetails/klyffrvv.html</id>
+        <link href="https://panewslab.com/zh/articledetails/klyffrvv.html"/>
+        <updated>2024-08-06T12:47:17.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，加密分析师Ali在X平台发文称，从交易所流出量的激增和交易所持有的BTC供应量的减少可以看出，在过去的48小时内，比特币巨鲸们收购了超过30,000枚BTC，价值约合16.2亿美元。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC Treasury于Solana网络新增铸造2.5亿枚USDC]]></title>
+        <id>https://panewslab.com/zh/articledetails/rf053c02.html</id>
+        <link href="https://panewslab.com/zh/articledetails/rf053c02.html"/>
+        <updated>2024-08-06T12:19:24.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据Whale Alert监测，USDC Treasury于北京时间今日20：12左右于Solana网络新增铸造2.5亿枚USDC。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博分析师：相较于进一步下跌，比特币横盘整理的可能性更大]]></title>
+        <id>https://panewslab.com/zh/articledetails/v1trb4jq.html</id>
+        <link href="https://panewslab.com/zh/articledetails/v1trb4jq.html"/>
+        <updated>2024-08-06T12:16:54.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，彭博加密分析师Jamie Coutts在X平台表示，自日元套利交易开始解除以来，比特币经历了显著的价格波动。8月5日，比特币价格下跌了8%，并在短短一周内累计下跌了30%，这是自2022年底FTX崩盘以来的最差表现。
+Coutts指出了几个关键点：他今年早些时候低估了未平仓合约（OI）和永续合约资金费率迅速上升的影响；日元套利交易解除前市场的中性立场限制了迄今为止清算的程度；尽管比特币价格可能进一步下跌，但未平仓合约的减少和负资金费率表明比特币横盘整理的可能性更大；预计央行将很快进行干预，这使得比特币在当前价格水平上显得具有吸引力。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beosin发布Ronin Bridge项目出现异常提取跨链资产行为的分析]]></title>
+        <id>https://panewslab.com/zh/articledetails/lj1mzjag.html</id>
+        <link href="https://panewslab.com/zh/articledetails/lj1mzjag.html"/>
+        <updated>2024-08-06T12:10:19.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据区块链安全审计公司Beosin Alert监测显示，Ronin Bridge项目出现异常提取跨链资产的行为。据Beosin安全团队分析，此次异常行为的根本原因在于项目方升级合约时，未正常初始化配置跨链交易确认所需的operator权重，导致合约中的minimumVoteWeight参数为零，从而使得任何人的签名都能通过跨链验证。目前，Ronin bridge已经流失3,996个ETH，资金存放在0xc6aec68dd6272efcbc74fb5308fe7f070437465e(该地址是MEV bot，故推测可能是白帽行为)。Beosin目前正与项目方合作处理此次事件。
+攻击交易链接：https://etherscan.io/tx/0x2619570088683e6cc3a38d93c3d98899e5783864e15525d5f5810c11189ba6cb]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiln推出可为稳定币提供奖励的DeFi服务，首个集成商为Crypto.com的Web3钱包]]></title>
+        <id>https://panewslab.com/zh/articledetails/6qynqdr4.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6qynqdr4.html"/>
+        <updated>2024-08-06T12:08:56.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据The Block报道，机构加密货币质押平台Kiln推出了“Kiln DeFi”，旨在简化重新质押的访问并让用户从其数字资产中获得额外收益。Kiln DeFi允许其集成商通过其钱包或平台内的本机工作流程，从多个DeFi借贷协议（例如Aave、Morpho和Compound）向用户提供稳定币奖励。Crypto.com DeFi钱包是由中心化加密货币交易所开发的非托管Web3钱包，是首个推出Kiln新服务的集成商。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币安CEO：币安在过去24小时内录得12亿美元的净资金流入]]></title>
+        <id>https://panewslab.com/zh/articledetails/tfl91fog.html</id>
+        <link href="https://panewslab.com/zh/articledetails/tfl91fog.html"/>
+        <updated>2024-08-06T12:04:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，币安首席执行官Richard Teng在X平台表示，在宏观经济环境和昨日市场下跌的背景下，根据DefiLlama的CEX透明度指标，币安在过去24小时内记录了12亿美元的净资金流入。这标志着2024年净资金流入量最高的一天之一，显示出投资者信心强劲。昨日，币安还见证了今年迄今为止交易量最高的一天之一。我们目前正在目睹主要代币价格的反弹，当前市场趋势证实了这一点。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaplanet宣布无偿配发约6944万美元股票收购权，所得款项将用于额外购买BTC]]></title>
+        <id>https://panewslab.com/zh/articledetails/eto5qtvo.html</id>
+        <link href="https://panewslab.com/zh/articledetails/eto5qtvo.html"/>
+        <updated>2024-08-06T11:56:53.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，日本上市公司Metaplanet在X平台宣布无偿配发100.8亿日元（约合6944万美元）股票收购权；所得款项将用于额外购买BTC。]]></summary>
+        <author>
+            <name>PA一线</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3世界日报（2024-8.6）]]></title>
         <id>https://www.web3sj.com/?p=119316</id>
@@ -16,149 +98,128 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[特朗普主题Meme币DJT 24小时跌幅超90%]]></title>
-        <id>https://panewslab.com/zh/articledetails/0v1ri8q7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/0v1ri8q7.html"/>
-        <updated>2024-08-06T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，Coinmarketcap数据显示，特朗普主题Solana链上代币DJT 24小时跌幅达90.74%，现报0.000461美元。]]></summary>
+        <title type="html"><![CDATA[慢雾：Ronin Bridge漏洞系权重被修改为意外值，资金无需多签同意即可提取]]></title>
+        <id>https://panewslab.com/zh/articledetails/vf7o96xs.html</id>
+        <link href="https://panewslab.com/zh/articledetails/vf7o96xs.html"/>
+        <updated>2024-08-06T11:41:14.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，慢雾在X平台表示，Ronin Bridge遭攻击的漏洞原因是由于权重被修改为意外值，资金无需经过任何多重签名阈值检查即可提取。
+此前消息，派盾披露，游戏区块链Ronin疑似被黑，涉及资金933万美元；随后Ronin COO表示，正调查白帽黑客关于MEV潜在漏洞的报告，Ronin桥已暂停。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethena的稳定币USDe本周赎回额已接近1亿美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/bxtd9ror.html</id>
-        <link href="https://panewslab.com/zh/articledetails/bxtd9ror.html"/>
-        <updated>2024-08-06T09:40:34.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据The Block报道，自周一以来，Ethena的USDe稳定币的赎回额已接近1亿美元。市场的剧烈动荡可能引发了用户的赎回，给该协议带来了一些压力。与此同时，USDe能够保持与美元挂钩。 然而， The Block的Ethena价格页面显示，其价格略有波动，一度触及0.997美元，然后回升至1美元大关 。USDe目前的供应量超过31亿枚代币，比4月份的20亿枚供应量高出50%。
-Ethena创始人Guy Young在X平台上表示：“在Ethena方面，我可以确认，隔夜处理的超过5000万美元的赎回没有任何问题，这是迄今为止最大的赎回额，虽然过程令人痛苦，但我希望今年我们经历过的每一个这样的压力测试和其他压力测试都能为系统未来的韧性提供额外的保障。”这5000万美元的赎回只是其中的一部分。根据分析平台Parsec的数据，自周一以来，随着主要加密货币的大幅抛售，近9600万USDe代币（合9600万美元）已被赎回为底层抵押资产。]]></summary>
+        <title type="html"><![CDATA[QCP Capital：预计市场在美联储和日本银行政策明朗之前仍保持动荡，紧急降息不太可能]]></title>
+        <id>https://panewslab.com/zh/articledetails/i1gle19x.html</id>
+        <link href="https://panewslab.com/zh/articledetails/i1gle19x.html"/>
+        <updated>2024-08-06T11:24:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，新加坡加密投资机构QCP Capital发文称，美国再次在一夜之间出手相救，为恐慌的市场提供了急需的支持和流动性。这在加密货币领域尤其明显，Coinbase的订单簿上出现了强劲的现货买入。在美国交易时段结束时，比特币回升至56,000美元，以太坊回升至2,500美元。宏观市场今日强劲反弹，日本股市在昨日下跌12%后，今日上涨9%。此外，美国期货也预示着可能出现反弹，因为美国ISM数据显示7月服务业扩张。“恢复正常了吗？”现在说这句话还为时过早。虽然VIX指数已从昨天的峰值65以上回落，但仍保持在30以上。在美联储和日本银行政策明朗之前，资产价格可能会继续波动，市场也仍将保持动荡，预计日本银行副行长内田真一将于周三发表重要讲话，美联储也将于8月22日至24日举行杰克逊霍尔会议。关于紧急降息的讨论……我们认为这不太可能，因为这将严重损害美联储的信誉，加剧市场恐慌，加剧人们对即将到来的衰退的信念。昨天的避险抛售潮清除了相当一部分杠杆。随着价格暴跌，现在可能是时候开始考虑积累比特币和以太坊现货了。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[两巨鲸共向币安转入价值约388万美元的CRV，预计亏损317万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/oqlw6g78.html</id>
-        <link href="https://panewslab.com/zh/articledetails/oqlw6g78.html"/>
-        <updated>2024-08-06T09:34:05.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据Spot On Chain监测，过去20小时内，两巨鲸（可能是一个实体）共向币安转入1763万枚CRV，价值约388万美元。两巨鲸在于清算期间在Curve创始人Michael Egorov手中以0.4美元的买入CRV，若现在出售将损失317万美元。]]></summary>
+        <title type="html"><![CDATA[ether.fi推出Diamond活动，将在Season 3中加入更多ETHFI奖励]]></title>
+        <id>https://panewslab.com/zh/articledetails/83kyoh4d.html</id>
+        <link href="https://panewslab.com/zh/articledetails/83kyoh4d.html"/>
+        <updated>2024-08-06T11:17:31.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，以太坊再质押协议ether.fi于X平台宣布推出Diamond活动，将在Season 3加入更多ETHFI 奖励，除了向所有符合条件的Season 3参与者分发2500万枚ETHFI外，用户还可从Diamond活动中获得更多ETHFI。
+活动期间，用户每天每质押一枚ETH可以获得0.1枚ETHFI；官方还将匹配等量ETHFI来奖励所有现有质押者，至少增加100万枚ETHFI；活动时间为7月29日至9月14日；Season 1和Season 2的Perks Passport加成将被应用，其他Perks Passport加成无效。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一新巨鲸凌晨从Coinbase Prime提取18942.67枚ETH，目前价值约4650万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/j44tmi6e.html</id>
-        <link href="https://panewslab.com/zh/articledetails/j44tmi6e.html"/>
-        <updated>2024-08-06T09:31:44.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，Etherscan数据显示，0x6101开头新建地址于今日凌晨3:16至3:45通过3笔交易从Coinbase Prime地址共计提取18942.67枚ETH，按照目前的价格，约合4650万美元。]]></summary>
+        <title type="html"><![CDATA[gm.ai：用户还有6个小时将其钻石兑换成GM代币以参与GM空投第一阶段]]></title>
+        <id>https://panewslab.com/zh/articledetails/4xkeircw.html</id>
+        <link href="https://panewslab.com/zh/articledetails/4xkeircw.html"/>
+        <updated>2024-08-06T11:13:08.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，Whales Market创始人dexter推出的Solana链上AI概念项目gm.ai在X平台表示，仅剩6小时，在时间耗尽之前，用户可将其钻石（diamonds）兑换成GM代币，参与GM空投第一阶段，并准备好迎接GM空投第二阶段：Solana链上夏天(Solana On-chain Summer)。
+此前昨日消息，gm.ai创始人称，可能会再次推迟GM代币的上线时间。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stride：用户可选择付出30%损失以提前领取STRD空投]]></title>
-        <id>https://panewslab.com/zh/articledetails/ultasixu.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ultasixu.html"/>
-        <updated>2024-08-06T09:15:52.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，Cosmos生态流动性质押协议Stride在X平台表示，距离stTIA空投全部发放还剩142天，用户可以选择即时解锁，付出30%的损失立即领取全额空投。
-此前7月30日，Stride表示2月1日以来共分配给stTIA持有者500万枚STRD，这些代币将在未来150天内分发。]]></summary>
+        <title type="html"><![CDATA[“7 Siblings”以2305美元均价买入56093枚ETH，约合1.29亿美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/6vw7xjvu.html</id>
+        <link href="https://panewslab.com/zh/articledetails/6vw7xjvu.html"/>
+        <updated>2024-08-06T11:06:11.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据Lookonchain监测，当大家因为市场崩盘而恐慌抛售时，拥有15.7亿美元资产的实体“7 Siblings”悄悄在底部买入了56,093枚ETH （约合1.29亿美元）。
+7 Siblings在价格跌至2,600美元时开始买入，一直持续到价格跌至2,191美元，总共12个小时的买入。平均买入价格为2,305美元。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeFi基础设施公司Zoth宣布已将其战略融资额扩大至400万美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/tsc4qj5o.html</id>
-        <link href="https://panewslab.com/zh/articledetails/tsc4qj5o.html"/>
-        <updated>2024-08-06T09:09:52.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据Chainwire报道，DeFi基础设施公司Zoth宣布其已将将其战略融资额增加至400万美元，本轮融资投资者包括aisu Ventures、G20、Fat Cat Ventures、GemHead Capital、Foundership Ventures、DCI Capital、Absolute Digital VC、Gydra Capital和AstraX Capital。Zoth还获得Coinbase和Hedera等公司和加密天使投资者的支持，以及Ripple的XRPL基金会的资助。新闻稿指出，Zoth已部署了1300万美元的私人信贷，其中已发放超过1亿美元，还有2亿美元正在筹备中。Zoth Tokenized Liquid Note (ZTLN) 规模为1亿美元，投资于短期优质工具，它通过每周资产净值更新、详细披露和Chainlink上的实时储备证明提供透明度。
-据介绍，Zoth是一家DeFi基础设施公司，将许可型RWA和无需许可的DeFi金融产品引入链上。首发产品Zoth—Fixed Income（Zoth-Fi）是一个与区块链无关的机构级平台，为机构和合格投资者提供通过稳定币获得金融资产的渠道。Zoth旨在扩大其金融产品范围，包括代币化流动票据和绿色金融，以及无需许可的DeFi产品。
-此前4月消息，Zoth完成250万美元融资，Blockchain Founders Fund领投。]]></summary>
+        <title type="html"><![CDATA[疑似Amber Group地址8小时前出售1150枚MKR，约合220万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/qj2915sh.html</id>
+        <link href="https://panewslab.com/zh/articledetails/qj2915sh.html"/>
+        <updated>2024-08-06T11:03:09.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据链上分析师@ai_9684xtpa监测，曾交易MKR获利851万美元的聪明钱疑似在8小时前出售1150枚MKR（约220万美元），截至目前两轮波段已获利923万美元。该地址当前仍持有6919枚MKR，价值1326万美元，建仓价格1997美元。 根据Arkham地址标签显示，该地址或归属于 Amber Group。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[数据：香港虚拟资产ETF今日成交额约约7584万港元]]></title>
-        <id>https://panewslab.com/zh/articledetails/fvg6u26o.html</id>
-        <link href="https://panewslab.com/zh/articledetails/fvg6u26o.html"/>
-        <updated>2024-08-06T09:00:32.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，港股行情数据显示，截至收盘，今日所有香港虚拟资产ETF成交额约7584万港元。其中，华夏比特币ETF（3042.HK/9042.HK/83042.HK）成交额为5664.01万港元，华夏以太币ETF（03046.HK/09046.HK/83046.HK）成交额为506.36万港元，嘉实比特币ETF（03439.HK/09439.HK）成交额为629.37万港元，嘉实以太币ETF（03179.HK/09179.HK）成交额124.07万港元，博时比特币ETF（03008.HK/09008.HK）成交额539.91万港元，博时以太币ETF（03009.HK/09009.HK）成交额为120.2万港元。
-注：以上虚拟资产EFT均设有港币柜台和美元柜台，仅华夏两只ETF还设有人民币柜台。]]></summary>
+        <title type="html"><![CDATA[Ronin COO：正调查白帽黑客关于MEV潜在漏洞的报告，Ronin桥已暂停]]></title>
+        <id>https://panewslab.com/zh/articledetails/l1fzn44x.html</id>
+        <link href="https://panewslab.com/zh/articledetails/l1fzn44x.html"/>
+        <updated>2024-08-06T11:00:34.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，Ronin COO Psycheout在X平台发文表示，正在调查白帽黑客关于MEV潜在漏洞的报告，因此Ronin Network桥已暂停。将很快发布更多信息。Ronin桥目前安全保障了超过8.5亿美元的资金。
+此前消息，派盾称，游戏区块链Ronin疑似被黑，涉及资金933万美元。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BTC跌破55000美元，ETH跌破2500美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/cm6c7h8l.html</id>
-        <link href="https://panewslab.com/zh/articledetails/cm6c7h8l.html"/>
-        <updated>2024-08-06T08:41:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，欧易OKX行情显示，BTC跌破55000美元，现报54990美元/枚，日内仍上涨1.36%。ETH跌破2500美元，现报2463美元/枚，日内仍上涨0.5%。]]></summary>
+        <title type="html"><![CDATA[派盾：游戏区块链Ronin疑似被黑，涉及资金933万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/1blp851o.html</id>
+        <link href="https://panewslab.com/zh/articledetails/1blp851o.html"/>
+        <updated>2024-08-06T10:35:29.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据派盾预警监测，游戏区块链Ronin疑似被黑（尚不清楚系白帽黑客还是黑客所为），涉及资金933万美元。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI今年的DevDay活动将分别在旧金山、伦敦和新加坡举行]]></title>
-        <id>https://panewslab.com/zh/articledetails/abg87ie7.html</id>
-        <link href="https://panewslab.com/zh/articledetails/abg87ie7.html"/>
-        <updated>2024-08-06T08:03:00.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，OpenAI宣布今年的DevDay活动将于10月1日在旧金山、10月30日在伦敦、11月21日在新加坡举行。此次活动将不会发布GPT-5，而是专注于API和开发者服务的更新。活动包括研讨会、分组讨论和现场演示，注册费用为450美元，报名截止日期为8月15日。]]></summary>
+        <title type="html"><![CDATA[某巨鲸5小时前清仓其300枚BTC，预计亏损364万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/zvs0qlhn.html</id>
+        <link href="https://panewslab.com/zh/articledetails/zvs0qlhn.html"/>
+        <updated>2024-08-06T10:25:48.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据链上分析师@ai_9684xtpa监测，三周前以均价64948美元建仓300枚BTC的巨鲸0xF2f...ee310，五小时前向币安充值全部代币清仓离场，价值1585万美元，预计亏损364万美元。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZetaChain 已将 PEPE 添加为 ZRC-20 资产支持]]></title>
-        <id>https://panewslab.com/zh/articledetails/doz44ynz.html</id>
-        <link href="https://panewslab.com/zh/articledetails/doz44ynz.html"/>
-        <updated>2024-08-06T07:31:29.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据官方消息，ZetaChain 已将 PEPE 添加为 ZRC-20 资产支持，开发者现可构建涉及 PEPE 和包括比特币在内的其他连接链上的原生资产的dApp，以太坊上的 PEPE 持有者可以一键将 PEPE 直接兑换为原生 BTC，反之亦然。此外，ZetaChain 还宣布原生地连接到了 Polygon，其链上的 840 万活跃钱包现在可以访问 ZetaChain 上的通用应用程序。]]></summary>
+        <title type="html"><![CDATA[Cyvers Alerts：OMPx项目疑似遭遇攻击，总损失约10.7万美元]]></title>
+        <id>https://panewslab.com/zh/articledetails/2yi1av9u.html</id>
+        <link href="https://panewslab.com/zh/articledetails/2yi1av9u.html"/>
+        <updated>2024-08-06T10:22:12.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据Cyvers Alerts监测，其系统已检测到涉及OMPx（@OMPxDapp）的可疑交易，总损失约为10.7万美元。攻击者通过Railgun获得初始资金，被盗资金已存入Railgun。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WazirX：已向新德里警方报案，警方已就“多签钱包遭遇网络攻击”一事立案]]></title>
-        <id>https://panewslab.com/zh/articledetails/r3dd1r2a.html</id>
-        <link href="https://panewslab.com/zh/articledetails/r3dd1r2a.html"/>
-        <updated>2024-08-06T07:21:40.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据WazirX官方消息，因其多签钱包遭遇网络攻击，WazirX已向警方报案，警方对此事已立案。该案件于2024年8月5日在新德里Lodhi Colony特别小组警察局根据BNS和IT法案备案，由德里警察情报融合与战略行动部门（IFSO）处理。WazirX表示对调查机构充满信心，并将全力配合调查，目前正积极努力追回被盗资金，并希望将责任人绳之以法。
-相关阅读：印度头部交易所WazirX被盗2.3亿美元：曾因涉嫌洗钱被币安切断合作，年交易量下滑90%]]></summary>
+        <title type="html"><![CDATA[Hamster Kombat今日起将增加新游戏以扩展生态系统]]></title>
+        <id>https://panewslab.com/zh/articledetails/wm6x1ezb.html</id>
+        <link href="https://panewslab.com/zh/articledetails/wm6x1ezb.html"/>
+        <updated>2024-08-06T10:17:41.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，TON生态游戏Hamster Kombat（仓鼠快打）在X平台表示，团队正在构建一个结合Web2和Web3的游戏平台，该平台将支持并扩展HMSTR代币的实用性。因此，从今天起将增加新游戏，让玩家有多种选择并扩展其生态系统。]]></summary>
         <author>
             <name>PA一线</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消息人士：Binance已对印度DGGI发出的近8600万美元税务通知提出异议]]></title>
-        <id>https://panewslab.com/zh/articledetails/t076aada.html</id>
-        <link href="https://panewslab.com/zh/articledetails/t076aada.html"/>
-        <updated>2024-08-06T07:13:03.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据CoinDesk报道，全球最大加密货币交易所Binance已对印度总商品及服务税情报局（DGGI）发出的近8600万美元（72.2亿卢比）税务通知提出异议。该通知由DGGI位于艾哈迈达巴德的分局上周发出，指控Binance在2017年7月至2024年3月期间，通过其平台向印度客户收取交易费用但未缴纳税款。DGGI是隶属于印度财政部的机构，负责收集、整理和传播与间接税逃避相关的情报。
-据《经济时报》援引一位知情人士的话称，币安据称从转移到位于塞舌尔的币安集团公司 Nest Services Limited 的交易费用中赚取了超过 4.76 亿美元（400亿卢比）。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pendle过去24小时上涨超40%，现报2.67美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/zi2jd0aw.html</id>
-        <link href="https://panewslab.com/zh/articledetails/zi2jd0aw.html"/>
-        <updated>2024-08-06T06:49:20.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，Coingecko行情数据显示，Pendle价格在过去24小时上涨超40%，现报2.67美元。
-今日稍早，韩国加密交易所Upbit宣布上线PENDLE。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国加密交易所Upbit将上线PENDLE的韩元和BTC交易市场]]></title>
-        <id>https://panewslab.com/zh/articledetails/ls6r48vr.html</id>
-        <link href="https://panewslab.com/zh/articledetails/ls6r48vr.html"/>
-        <updated>2024-08-06T06:35:30.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据韩国加密交易所Upbit公告，PENDLE将于今日上线KRW和BTC交易市场，充值将于公告发布后2小时内开启，交易预计于18时（韩国时间）开启。仅支持指定网络（PENDLE-Ethereum）的存款和取款。PENDLE的提现手续费在开启后的24小时内免费，之后将开始收取手续费。]]></summary>
+        <title type="html"><![CDATA[Coinbase分析师：加密市场略有复苏，但可能会出现空头挤压]]></title>
+        <id>https://panewslab.com/zh/articledetails/x5xde0wm.html</id>
+        <link href="https://panewslab.com/zh/articledetails/x5xde0wm.html"/>
+        <updated>2024-08-06T10:11:27.000Z</updated>
+        <summary type="html"><![CDATA[PANews 8月6日消息，据The Block报道，在周一市场剧烈动荡之后，加密货币市场出现了试探性复苏的迹象，当时超过10亿美元的加密货币杠杆头寸被清算，主要代币的价值大幅下跌了高达20%。Coinbase研究员David Duong表示，周二的市场状况表明，在中心化交易所交易活动增加的情况下，存在逼空的可能性。Duong表示：“我们认为市场短期内仍将动荡不安，但空头可能在这里受到挤压，这可能导致市场在未来几天内反弹。”目前，过去24小时内加密货币的多头和空头头寸清算量大致相当。根据Coinglass的数据，截至撰写本文时，总计4.25亿美元的清算额中，约2.12亿美元是多头头寸，略高于2.12亿美元的是空头头寸。
+Coinbase的研究人员强调，特定因素仍在影响加密货币市场。Duong补充道：“Genesis在其破产清算计划中以实物形式发放比特币和以太坊。日元套利交易的解除也可能影响Mt. Gox债权人目前接收比特币的决定。”
+Duong还表示，加密货币市场近期的下跌并不代表新的长期趋势或市场周期的开始。Duong说道：“加密货币市场目前的回调并不代表新市场周期的开始。相反，当前的抛售与我们在2024年第三季度采取的防御性策略以及对2024年第四季度更具建设性的展望一致，尽管这一举措的力度考验了我们的信念。”]]></summary>
         <author>
             <name>PA一线</name>
         </author>
@@ -181,37 +242,6 @@ Ethena创始人Guy Young在X平台上表示：“在Ethena方面，我可以确�
         <summary type="html"><![CDATA[8月6日消息，BitMEX 联合创始人 Arthur Hayes于X发文表示，金融市场的第一波冲击已过，现在等待传统金融领域过度杠杆化投资者的问题浮现。 他预计第二波冲击即将开始，并暗示若要出现救市，市场可能需要在本周五前经历更多调整。当前的喘息仅是暂时的，市场波动还将持续。]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoinShares公布Q2财报：收入2250万英镑，同比增加110%]]></title>
-        <id>https://panewslab.com/zh/articledetails/uhujsf33.html</id>
-        <link href="https://panewslab.com/zh/articledetails/uhujsf33.html"/>
-        <updated>2024-08-06T06:05:58.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，欧洲数字资产投资公司CoinShares公布了2024年第二季度财报。财务亮点包括：Q2收入2250万英镑，同比增加110%；综合收入2580万英镑，同比增长387%；调整后EBITDA为2660万英镑，同比增长133%。公司成功完成对FTX索赔的出售，回收率为116%，带来2870万英镑回报。CoinShares还宣布支付特别股息，以回馈股东信任。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USDC Treasury铸造5000万枚USDC，并转移到Coinbase]]></title>
-        <id>https://panewslab.com/zh/articledetails/4wu0futf.html</id>
-        <link href="https://panewslab.com/zh/articledetails/4wu0futf.html"/>
-        <updated>2024-08-06T05:54:33.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，Whale Alert监测显示，北京时间13:31，USDC Treasury铸造了5000万枚USDC（价值5000万美元），随后13:33，这5000万枚USDC被转移到Coinbase。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊主网的交易数量已降至五个月低点，为112万笔/天]]></title>
-        <id>https://panewslab.com/zh/articledetails/37448cfb.html</id>
-        <link href="https://panewslab.com/zh/articledetails/37448cfb.html"/>
-        <updated>2024-08-06T05:48:12.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据The Block报道，以太坊网络的交易数量已降至五个月低点，七日移动平均交易量降至112万笔/天，活跃钱包地址也降至约40万个。然而，这并不意味着以太坊生态系统陷入困境。相反，Layer 2解决方案的交易活动显著增加。
-Coinbase的Layer 2平台Base成为领先者，交易量达到383万笔。这种过渡可能导致以太坊主链的gas费用更具可持续性，使其更适合大额交易或关键智能合约交互，同时也提高了基础层资源的利用效率。然而，这也引发了关于ETH长期价值主张的问题。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
@@ -245,16 +275,6 @@ SynthaMan称：“一觉醒来，感觉这都是一场梦，但没想到是真�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEC敦促法院拒绝Coinbase的文件传票请求]]></title>
-        <id>https://panewslab.com/zh/articledetails/1b5l2er0.html</id>
-        <link href="https://panewslab.com/zh/articledetails/1b5l2er0.html"/>
-        <updated>2024-08-06T04:46:33.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据The Block报道，美国证券交易委员会（SEC）请求纽约法院驳回Coinbase要求提供与加密资产相关文件的传票请求。SEC称，Coinbase寻求的材料“完全无关紧要”，并指出已满足Coinbase的许多文件披露请求，包括公平通知和调查文件。SEC表示，Coinbase继续要求广泛搜索所有机构记录，包括内部文件和与政府机构及市场参与者的通信，这些请求缺乏支持。去年，SEC起诉Coinbase运营未注册证券交易所，核心争议在于加密货币是否为证券。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[26,134美元均价购入720.75枚WBTC的鲸鱼以55111美元均价出售190枚WBTC]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_54978.html</id>
         <link href="https://www.techflowpost.com/newsletter/detail_54978.html"/>
@@ -265,17 +285,6 @@ SynthaMan称：“一觉醒来，感觉这都是一场梦，但没想到是真�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[某巨鲸过去14小时在链上卖出190枚WBTC，仍持有380枚WBTC]]></title>
-        <id>https://panewslab.com/zh/articledetails/3j7iocb8.html</id>
-        <link href="https://panewslab.com/zh/articledetails/3j7iocb8.html"/>
-        <updated>2024-08-06T04:44:35.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据链上分析师余烬监测，一位在2023年8月以每枚$26,134的均价从币安提出720.75枚WBTC的鲸鱼，在过去14个小时内在链上卖出了190枚WBTC，换取了1047万美元的稳定币，均价为$55,111。
-该鲸鱼目前还持有380枚WBTC，价值约2111万美元。]]></summary>
-        <author>
-            <name>PA一线</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lookonchain：Jump Trading将4.4 亿USDC存入Coinbase或将兑换成美元]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_54977.html</id>
         <link href="https://www.techflowpost.com/newsletter/detail_54977.html"/>
@@ -283,16 +292,6 @@ SynthaMan称：“一觉醒来，感觉这都是一场梦，但没想到是真�
         <summary type="html"><![CDATA[深潮 TechFlow 消息，据lookonchain监测，由于 Jump Trading 在 7 月 24 日开始卖出$ETH ，他从Binance中提取了 6.06 亿$USDC ，并将 4.4 亿$USDC存入Coinbase 。其猜测存入Coinbase的$USDC很可能以 1：1 的比率兑换成美元。]]></summary>
         <author>
             <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jump Trading向Coinbase存入4.4亿美元的USDC，或将兑换为美元]]></title>
-        <id>https://panewslab.com/zh/articledetails/k4f921gi.html</id>
-        <link href="https://panewslab.com/zh/articledetails/k4f921gi.html"/>
-        <updated>2024-08-06T04:26:10.000Z</updated>
-        <summary type="html"><![CDATA[PANews 8月6日消息，据Lookonchain监测，自7月24日开始出售以太坊以来，Jump Trading从币安提现了6.06亿美元的USDC，并向Coinbase存入了4.4亿美元的USDC。这些存入Coinbase的USDC可能会以1:1的比例兑换为美元。]]></summary>
-        <author>
-            <name>PA一线</name>
         </author>
     </entry>
     <entry>
