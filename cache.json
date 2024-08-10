@@ -108,213 +108,6 @@
       ]
     },
     {
-      "title": "PANews - 快讯",
-      "feedUrl": "https://rsshub.app/panewslab/news",
-      "siteUrl": "https://panewslab.com/zh/news/index.html",
-      "articles": [
-        {
-          "id": "https://panewslab.com/zh/articledetails/r8bq04s3.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据PeckShieldAlert报道，标记为Nomad Bridge攻击者的地址已将14,500枚ETH（价值约3520万美元）转移至Tornado Cash。",
-          "link": "https://panewslab.com/zh/articledetails/r8bq04s3.html",
-          "publishedOn": "2024-08-08T07:18:04.000Z",
-          "wordCount": null,
-          "title": "PeckShield：Nomad Bridge攻击者地址已将14500枚ETH转至Tornado Cash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/j9fv6fnk.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据CoinDesk报道，由于美国消费者债务增长放缓以及信用卡拖欠率上升，比特币面临风险。10x Research创始人Markus Thielen表示，尽管日元套利交易的平仓可能已经暂停，稳定了包括比特币在内的风险资产，但美国消费者借贷放缓仍是一个问题。6月美国总信用余额增加了89亿美元，低于预期的100亿美元，信用卡债务减少了17亿美元，是自2021年初以来最大降幅。信用卡拖欠率达到10.93%，为2012年以来最高，汽车贷款拖欠率也达到4.43%，为2021年以来最高。Thielen指出，这些因素表明美国消费者借贷能力已达极限，可能对加密货币市场构成挑战。此外，美国大选的不确定性、经济放缓和人工智能热潮减退也是潜在风险。",
-          "link": "https://panewslab.com/zh/articledetails/j9fv6fnk.html",
-          "publishedOn": "2024-08-08T07:07:22.000Z",
-          "wordCount": null,
-          "title": "10x Research创始人：美国消费者借贷能力已达极限，可能对加密货币市场构成挑战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ld9elyz4.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据CNBC报道，苹果计划在今年晚些时候推出其AI系统Apple Intelligence，预计将增强Siri语音助手，并包括自动生成邮件和图像等功能。分析师Neil Shah表示，由于AI投资成本高，苹果可能会将这些成本转嫁给用户，预计收费在10到20美元之间，可能作为Apple One订阅的一部分。苹果的服务部门在2023年第二季度创造了242亿美元的收入。",
-          "link": "https://panewslab.com/zh/articledetails/ld9elyz4.html",
-          "publishedOn": "2024-08-08T06:55:52.000Z",
-          "wordCount": null,
-          "title": "分析师：苹果可能对其高级人工智能功能收费高达20美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qudr38b8.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，AI的模块化数据基础设施Covalent宣布与Layer1公链Sei达成合作，将为其提供结构化和可验证的数据解决方案，以提升开发者在 Sei 生态系统中访问和利用链上数据的能力。\n据悉，通过集成 Covalent 的数据解决方案，Sei 平台上的开发者可以通过 GoldRush.dev 栈轻松访问链上数据。该栈包括 API、SDK 和 UI 工具包，使开发者能够创建高效且可扩展的应用程序。Sei 将因此能够从 Covalent 支持的 230 多个区块链中探索和提取见解。",
-          "link": "https://panewslab.com/zh/articledetails/qudr38b8.html",
-          "publishedOn": "2024-08-08T06:47:51.000Z",
-          "wordCount": null,
-          "title": "Covalent与Sei建立合作，将为其提供结构化和可验证的数据解决方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/t3n8qqy3.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据官方消息，链游基础设施提供商 UniWorlds宣布已完成种子轮融资，领投方包括UniSat及一家UGC平台厂商。\n据悉，UniWorlds是UniSat团队研发的BTC扩展方案Fractal Bitcoin上的第一个大型应用，其将推出业内首个BTC生态游戏创作平台。凭借海量的Web2用户资源及游戏内容供给能力，UniWorlds将为BTC生态各个社区提供可高度定制化的内容和完全自主的游戏化互动空间，为Web3社区的互动、资产展示和资产应用提供多样化的应用场景。",
-          "link": "https://panewslab.com/zh/articledetails/t3n8qqy3.html",
-          "publishedOn": "2024-08-08T06:22:04.000Z",
-          "wordCount": null,
-          "title": "链游基础设施提供商 UniWorlds完成种子轮融资，UniSat领投",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/bxzgozcl.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据CoinDesk报道，香港虚拟银行Mox（由渣打银行子公司运营）已开始向客户提供比特币（BTC）和以太坊（ETH）交易所交易基金（ETFs）。该公司还计划在未来提供直接加密投资。Mox计划通过与持牌交易所的合作，在其平台上提供直接的加密货币投资。目前，只有HashKey和OSL两家交易所获准在香港提供加密货币交易。Mox对香港上市的ETFs收取0.12%交易量的费用（最低30港元）和对美国上市的ETFs收取0.01%交易量的费用（最低5美元），这是该地区银行中最低的费用。\n虽然美国上市的现货比特币和以太坊ETFs自今年年初以来获得了显著的资金流入，但其香港对应产品的需求较低。据Coinglass数据，博时HashKey、华夏基金和嘉实全球这三家发行商本月没有任何资金流入。",
-          "link": "https://panewslab.com/zh/articledetails/bxzgozcl.html",
-          "publishedOn": "2024-08-08T06:01:34.000Z",
-          "wordCount": null,
-          "title": "香港虚拟银行Mox已开始向客户提供比特币和以太坊ETF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/qwnca4bd.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，欧易OKX行情显示，TON上涨突破6美元，现报6.054美元/枚，日内上涨10.96%。",
-          "link": "https://panewslab.com/zh/articledetails/qwnca4bd.html",
-          "publishedOn": "2024-08-08T05:59:05.000Z",
-          "wordCount": null,
-          "title": "TON突破6美元，日内上涨超10%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/02wqyr5x.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据Binance公告，Binance将于2024年8月8日18:00（UTC +8）上线Toncoin（TON）并开放现货交易对，包括TON/BTC、TON/USDT、TON/FDUSD和TON/TRY。用户现在可以开始存入TON以准备交易，提款将于2024年8月9日18:00（UTC +8）开放。",
-          "link": "https://panewslab.com/zh/articledetails/02wqyr5x.html",
-          "publishedOn": "2024-08-08T05:43:14.000Z",
-          "wordCount": null,
-          "title": "Binance将上线Toncoin (TON)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/zd3s2jr8.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，Elon Musk在X平台表示，X应用在App Store的新闻类应用中排名第一，成为美国免费和“grossing”类别排名最高的新闻应用。目前，X应用在全球多个国家和地区均位列新闻类应用榜首。\n据了解，“grossing”类别指的是应用程序的总收入排名。这一排名基于应用程序通过应用内购买和付费下载获得的总收入，而不包括广告收入。一个应用程序即使下载量较少，但如果其收入较高，也可能在“grossing”排名中名列前茅。",
-          "link": "https://panewslab.com/zh/articledetails/zd3s2jr8.html",
-          "publishedOn": "2024-08-08T05:37:37.000Z",
-          "wordCount": null,
-          "title": "X应用在App Store的新闻类应用中排名第一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0x0oeb0p.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，Blast创始人Pacman在X平台表示：Blast基金会团队将扩展支持范围，直接支持本地资产的激励分配。这些变化包括两个主要方面：\n1. 新文化类别：文化类别项目（如迷因币和NFT集合）现在将直接获得Gold激励。\n2. 资产激励：此前，项目无法将Gold分配给本地资产。现在，项目可以在Blast基金会审核后，将Gold分配给资产。\n此外，Pacman提到，尽管Pacmoon在这一分配发布前决定迁移（至Solana），每个项目都需要做出适合他们的决定，并对此表示尊重。Pacmoon预留的分配将根据TGE前两周和TGE后两周的快照，分配给之前的持有者。",
-          "link": "https://panewslab.com/zh/articledetails/0x0oeb0p.html",
-          "publishedOn": "2024-08-08T05:23:04.000Z",
-          "wordCount": null,
-          "title": "Blast创始人：团队将扩大Gold激励支持范围，对Pacmoon迁出表示尊重",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/0x3htrg1.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据链上分析师余烬监测，Genesis Trading在8月2日通过清算分发地址向203个地址分发了价值18.17亿美元的BTC和ETH。根据数据显示，约15%的BTC和ETH被转出或出售，另外85%没有移动。\n具体分发和转移情况如下：\nBTC：\n• 分发数量：Genesis在BTC网络通过地址bc1…mux向154个地址分发了24,073枚BTC，价值约13.77亿美元。\n• 转移数量：过去6天里约有3,558枚BTC（价值2.035亿美元）被转出或出售，占总分发数量的15%。\n• 未转移数量：20,414枚BTC（价值约11.67亿美元）在接收后没有移动。\nETH：\n• 分发数量：Genesis在ETH网络通过地址0xC62…6C4向49个地址分发了179,690枚ETH，价值约4.40亿美元。\n• 转移数量：过去6天里约有27,548枚ETH（价值6,750万美元）被转出或出售，占总分发数量的15%。\n• 未转移数量：152,142枚ETH（价值约3.727亿美元）在接收后没有移动。",
-          "link": "https://panewslab.com/zh/articledetails/0x3htrg1.html",
-          "publishedOn": "2024-08-08T05:15:46.000Z",
-          "wordCount": null,
-          "title": "Genesis Trading清算分发的18.17亿美元BTC和ETH中的约15%被转出或出售",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/vrhxt7y0.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据Cointelegraph报道，纽约法官正式批准了FTX、Alameda Research与美国商品期货交易委员会（CFTC）之间的127亿美元和解协议。这意味着FTX债权人将获得127亿美元的赔偿。美国地方法官彼得·卡斯特尔在8月7日签署了该和解协议，这是为了解决CFTC长达20个月的诉讼。根据协议，FTX和Alameda将向被创始人Sam Bankman-Fried欺诈的投资者支付87亿美元，并追加支付40亿美元。\n该命令还永久禁止FTX和Alameda Research欺诈商品客户、参与数字资产商品交易，并禁止它们以第三方名义买卖数字资产商品。CFTC未寻求民事罚款，这意味着全部127亿美元将直接用于偿还FTX债权人。目前，债权人正在投票决定如何接受赔偿，他们有直到8月16日提出请求，美国破产法院法官约翰·多尔西将在10月7日做出最终决定。\n上月曾报道，FTX与美国CFTC达成127亿美元的和解协议。",
-          "link": "https://panewslab.com/zh/articledetails/vrhxt7y0.html",
-          "publishedOn": "2024-08-08T05:02:45.000Z",
-          "wordCount": null,
-          "title": "纽约法官正式批准FTX、Alameda Research与CFTC之间的127亿美元和解协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/421zhv9l.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据CoinCecko显示，HashKey Global比特币合约持仓量超越Coinbase International，目前比特币合约持仓量达到2175万美金，Coinbase International的比特币合约持仓量为2043万美金。HashKey Global表示，平台将继续致力于为用户提供更多元化的产品选择和优质的交易体验，并持续保持全球持牌合约平台的领先地位。",
-          "link": "https://panewslab.com/zh/articledetails/421zhv9l.html",
-          "publishedOn": "2024-08-08T04:13:56.000Z",
-          "wordCount": null,
-          "title": "HashKey Global比特币合约持仓量超越Coinbase International",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/00226l8e.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据SoSoValue数据，昨日（美东时间 8 月 7 日）比特币现货 ETF 总净流入 4513.87 万美元。昨日灰度（Grayscale）ETF GBTC 单日净流出 3058.01 万美元，目前 GBTC 历史净流出为 191.91 亿美元。灰度（Grayscale）比特币迷你信托 ETF BTC 单日净流入 971.12 万美元，目前灰度比特币迷你信托 BTC 历史总净流入为 2.51 亿美元。昨日单日净流入最多的比特币现货 ETF 为贝莱德（BlackRock）ETF IBIT，单日净流入为 5251.57 万美元，目前 IBIT 历史总净流入达 201.50 亿美元。\n其次为WisdomTree ETF BTCW，单日净流入为 1049.89 万美元，目前 BTCW 历史总净流入达 8306.21 万美元。\n截止发稿前，比特币现货 ETF 总资产净值为 498.21 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.58%，历史累计净流入已达 172.35 亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/00226l8e.html",
-          "publishedOn": "2024-08-08T03:59:50.000Z",
-          "wordCount": null,
-          "title": "比特币现货ETF昨日总净流入4513.87万美元，ETF净资产比率达4.58%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/unkne8jp.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据@ai_9684xtpa监测，据SoSoValue数据，昨日（美东时间 8 月 7 日）以太坊现货 ETF 总净流出 2367.66 万美元。昨日灰度（Grayscale）以太坊信托 ETF ETHE 单日净流出 3185.71 万美元，目前 ETHE 历史净流出为 22.35 亿美元。灰度（Grayscale）以太坊迷你信托 ETF ETH 单日净流出 0.00 美元，目前灰度以太坊迷你信托 ETH 历史总净流入为 2.13 亿美元。昨日单日净流入最多的以太坊现货 ETF 为富达（Fidelity） ETF FETH，单日净流入为 470.46 万美元，目前 FETH 历史总净流入达 3.40 亿美元。其次为富兰克林邓普顿（Franklin） ETF EZET，单日净流入为 178.80 万美元，目前 EZET 历史总净流入达 3432.00 万美元。\n截止发稿前，以太坊现货 ETF 总资产净值为 66.26 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 2.35%，历史累计净流出已达 3.87 亿美元。",
-          "link": "https://panewslab.com/zh/articledetails/unkne8jp.html",
-          "publishedOn": "2024-08-08T03:57:31.000Z",
-          "wordCount": null,
-          "title": "以太坊现货ETF昨日总净流出2367.66万美元，ETF净资产比率达2.35%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/99b7h61g.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，Payman创始人Tyllen发推称，PaymanAI已完成300万美元的pre-seed轮融资，投资方包括Visa、Coinbase Ventures、Boost VC、Deepwater Management、The Spartan Group、Untapped VC、Theory Forge VC等。其他投资者还包括Protofund VC、Systemic Ventures、Metropolis DAO以及奥运金牌得主Viktor Axelsen、Devin Walsh、Kenneth Kuo等天使投资者。PaymanAI致力于开创AI向人类支付的新时代，使AI能够支付人类完成任务，例如市场营销等。\nPaymanAI的愿景是让AI与人类协同工作，平台使AI能够向人类付款以获取信息和完成任务。公司认为，AI代理未能成功的关键原因之一是无法向人类寻求帮助并激励他们提供帮助。PaymanAI的支付基础设施解决了这一问题，并将在全球经济中发挥重要作用。自几个月前宣布Payman以来，已有超过15,000人加入等待名单，团队也在逐步招聘优秀人才并开始接纳开发者和用户。",
-          "link": "https://panewslab.com/zh/articledetails/99b7h61g.html",
-          "publishedOn": "2024-08-08T03:45:40.000Z",
-          "wordCount": null,
-          "title": "AI代理工具Payman完成300万美元的pre-seed轮融资，Visa、Coinbase Ventures等参投",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/olmgvxkv.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据 DefiLlama 数据显示，主流交易平台中，24 小时资金流入量前三的平台分别为：币安（7,252万美元）、 Deribit（2,229 万美元）、Bitget（1,945万美元）。",
-          "link": "https://panewslab.com/zh/articledetails/olmgvxkv.html",
-          "publishedOn": "2024-08-08T03:41:47.000Z",
-          "wordCount": null,
-          "title": "数据：CEX 24小时资金流入量排名前三为 Binance、Deribit 和 Bitget",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ru3sn6p3.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，Whale Insider在X平台上发文称，顶级加密做市商Wintermute现在是以太坊迷因币$NEIRO的最大持有者。",
-          "link": "https://panewslab.com/zh/articledetails/ru3sn6p3.html",
-          "publishedOn": "2024-08-08T03:26:14.000Z",
-          "wordCount": null,
-          "title": "做市商Wintermute现已成为Meme币NEIRO的最大持有者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/m8mvyi4m.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，加密货币托管公司BitGo宣布已获得新加坡金融管理局（MAS）颁发的主要支付机构许可证。该许可证使BitGo能够在新加坡提供受监管的数字支付代币服务，包括托管和交易服务。",
-          "link": "https://panewslab.com/zh/articledetails/m8mvyi4m.html",
-          "publishedOn": "2024-08-08T03:23:41.000Z",
-          "wordCount": null,
-          "title": "BitGo获得新加坡金管局颁发的主要支付机构许可证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/ed1qv7ut.html",
-          "author": "PA一线",
-          "description": "PANews 8月8日消息，据Scroll官方公告，以太坊Layer2网络Scroll将于2024年8月21日推出备受期待的Darwin（达尔文）升级。此次升级旨在通过单一的聚合证明来减少多个批次的Gas费用，从而降低34%的Gas费用。Darwin升级将多批次的证明捆绑成单一的有效性证明，减少了验证成本。这一改进将通过引入新的批次编码格式和捆绑概念来实现。\n此次升级的具体时间表包括：\n1. 8月14日在Scroll Sepolia测试网上部署升级。\n2. 8月21日在Scroll主网上执行合约升级。\n该升级的安全性已由Trail of Bits进行审计。",
-          "link": "https://panewslab.com/zh/articledetails/ed1qv7ut.html",
-          "publishedOn": "2024-08-08T03:18:40.000Z",
-          "wordCount": null,
-          "title": "Scroll将于8月21日推出达尔文升级，有望降低34%的Gas费用",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
@@ -432,7 +225,7 @@
           "description": "深潮 TechFlow 消息， 据 Defillama 数据显示，以太坊 TVL 约 486.51 亿美元，7 日降幅为 11.1%；Solana TVL 约 49.44 亿美元，7 日涨幅为 2.12%；Tron TVL 约 77.81 亿美元，7 日涨幅为 1.06%；Arbitrum TVL 约 26.99 亿美元，7 日跌幅为 9.38%。",
           "link": "https://www.techflowpost.com/newsletter/detail_55431.html",
           "publishedOn": "2024-08-10T08:00:50.000Z",
-          "wordCount": 522,
+          "wordCount": 521,
           "title": "以太坊 TVL 约 486.51 亿美元，7 日降幅为 11.1%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -442,7 +235,7 @@
           "description": "深潮 TechFlow 消息，Eigen Foundation 官方在社交媒体上发文提醒，距离 EIGEN 第一季空投领取截止还剩不足 30 天，用户需在北京时间2024年9月8日2:59分之前领取。本月晚些时候将公布第 2 季的更多细节。",
           "link": "https://www.techflowpost.com/newsletter/detail_55430.html",
           "publishedOn": "2024-08-10T07:34:38.000Z",
-          "wordCount": 482,
+          "wordCount": 481,
           "title": "Eigen Foundation：距离 EIGEN 第一季空投领取截止还剩不足 30 天",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -452,7 +245,7 @@
           "description": "深潮 TechFlow 消息，顶级交易员 Eugene Ng Ah Sio 在社交媒体上发文表达了其对「Solana 杀手」叙事的观点，主要包括：\n\n· 价格通常领先基本面；\n\n· 大多数链上的有机开发活动仍处于起步阶段；\n\n· 除了“更便宜、更快捷”之外，可能需要额外的卖点；\n\n当前有几个潜在项目正在进行尽职调查。",
           "link": "https://www.techflowpost.com/newsletter/detail_55429.html",
           "publishedOn": "2024-08-10T07:29:26.000Z",
-          "wordCount": 479,
+          "wordCount": 478,
           "title": "顶级交易员 Eugene：「SOL 杀手」叙事需要价格和速度之外的新卖点",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -462,7 +255,7 @@
           "description": "深潮 TechFlow 消息，据 Kroll 投票界面显示，FTX 客户索赔计划投票将于 8 月 16 日下午 4 时截止。\n\n此前消息，FTX 债务人正通过 Kroll 公司向客户和债权人发送征求意见并寻求投票表决。如果用户因仅持有 FTT 而提出索赔，则被视为拒绝该计划，无权投票，但可以选择参与该计划的发布。",
           "link": "https://www.techflowpost.com/newsletter/detail_55428.html",
           "publishedOn": "2024-08-10T06:26:50.000Z",
-          "wordCount": 501,
+          "wordCount": 500,
           "title": "FTX 客户索赔计划投票将于 8 月 16 日下午 4 时截止",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -472,7 +265,7 @@
           "description": "深潮 TechFlow 消息，苍井空在社交平台发文，出席加密货币交易平台线下活动。\n\n据悉，Bitget 今日在东京举办优秀合伙人线下活动，苍井空空降并为华语用户送上情人节祝福。",
           "link": "https://www.techflowpost.com/newsletter/detail_55427.html",
           "publishedOn": "2024-08-10T05:32:40.000Z",
-          "wordCount": 454,
+          "wordCount": 453,
           "title": "苍井空出席加密货币交易平台线下活动",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -482,7 +275,7 @@
           "description": "深潮 TechFlow 消息，链上侦探 ZachXBT 在 X 平台表示，疑似内部人士通过四个钱包交易 Restore The Republic（RTR）获利 380 万美元。其中 9G1ELG 开头地址和 GHoW2 开头地址显然是同一人，因为这俩地址在 TGE 后的几分钟内获得 500 枚 SOL 的新资金，并同时卷走了 SOL 的利润。",
           "link": "https://www.techflowpost.com/newsletter/detail_55426.html",
           "publishedOn": "2024-08-10T05:12:14.000Z",
-          "wordCount": 495,
+          "wordCount": 494,
           "title": "ZachXBT：疑似内部人士在RTR上获利380万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -492,7 +285,7 @@
           "description": "深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 8 月 9 日）以太坊现货 ETF 总净流出 1571.48 万美元。\n\n昨日灰度（Grayscale）以太坊信托 ETF ETHE 单日净流出 4168.32 万美元，目前 ETHE 历史净流出为 22.96 亿美元。灰度（Grayscale）以太坊迷你信托 ETF ETH 单日净流入 244.15 万美元，目前灰度以太坊迷你信托 ETH 历史总净流入为 2.21 亿美元。昨日单日净流入最多的以太坊现货 ETF 为贝莱德（BlackRock） ETF ETHA，单日净流入为 1963.81 万美元，目前 ETHA 历史总净流入达 9.01 亿美元。其次为富达（Fidelity） ETF FETH，单日净流入为 388.88 万美元，目前 FETH 历史总净流入达 3.42 亿美元。\n\n截止发稿前，以太坊现货 ETF 总资产净值为 72.83 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 2.34%，历史累计净流出已达 4.06 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_55425.html",
           "publishedOn": "2024-08-10T04:06:56.000Z",
-          "wordCount": 579,
+          "wordCount": 578,
           "title": "以太坊现货 ETF 昨日总净流出 1571.48 万美元，ETF 净资产比率达 2.34%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -502,7 +295,7 @@
           "description": "深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 8 月 9 日）比特币现货 ETF 总净流出 8973.12 万美元。\n\n昨日灰度（Grayscale）ETF GBTC 单日净流出 7699.62 万美元，目前 GBTC 历史净流出为 194.51 亿美元。灰度（Grayscale）比特币迷你信托 ETF BTC 单日净流入 1561.01 万美元，目前灰度比特币迷你信托 BTC 历史总净流入为 2.66 亿美元。其次为贝莱德（BlackRock）ETF IBIT，单日净流入为 964.54 万美元，目前 IBIT 历史总净流入达 203.17 亿美元。\n\n截止发稿前，比特币现货 ETF 总资产净值为 551.14 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.6%，历史累计净流入已达 173.38 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_55424.html",
           "publishedOn": "2024-08-10T04:04:46.000Z",
-          "wordCount": 555,
+          "wordCount": 554,
           "title": "比特币现货 ETF 昨日总净流出 8973.12 万美元，ETF 净资产比率达 4.6%",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -512,7 +305,7 @@
           "description": "深潮 TechFlow 消息，据 Bitcoin Magazine 报道，在最近的市场下跌中，长期比特币持有者买入超过 184,500 枚 BTC，价值 111 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_55423.html",
           "publishedOn": "2024-08-10T02:51:24.000Z",
-          "wordCount": 482,
+          "wordCount": 481,
           "title": "长期比特币持有者在此次市场下跌中买入超 184,500 枚 BTC，价值 111 亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -522,7 +315,7 @@
           "description": "深潮 TechFlow 消息，据 Trad­er T 监测，昨日美国比特币现货 ETF 净流出 8980 万美元，其中：\n\n贝莱德 IBIT：净流入 960 万美元；\n\n灰度 GBTC：净流出 7700 万美元；\n\n灰度 BTC：净流入 1560 万美元；\n\n富达 FBTC：净流出 1980 万美元；\n\nBitwise BIT­B：净流出 1810 万美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_55422.html",
           "publishedOn": "2024-08-10T01:48:33.000Z",
-          "wordCount": 512,
+          "wordCount": 511,
           "title": "数据：昨日美国比特币现货 ETF 净流出 8980 万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -532,7 +325,7 @@
           "description": "深潮 TechFlow 消息，据 CoinDesk 报道，美国国税局（IRS）昨日发布了加密货币经纪商和投资者用于报告某些交易收益的税务表格 1099-DA 的更新草案版本，公众有 30 天的时间向 IRS 提供有关该版本的意见。\n\n从 2026 年开始，使用经纪商的加密货币投资者（目前主要是指 Coinbase 和 Kraken 等 CEX）将从这些经纪商那里收到 1099-DA，向国税局报告某些加密货币销售和交易作为应税事件。国税局官员表示，此表格将为缴纳美国加密税的用户“带来更多便利和清晰度”。\n\n新发布的 1099-DA 更新版本比国税局 4 月份提出的纳税申报表初稿更加精简。投资者填写钱包地址和交易 ID 的项目已被删除（曾在表格首次公布时引发隐私相关争议），此外也不再要求填写相关交易的时间，只需填写日期。",
           "link": "https://www.techflowpost.com/newsletter/detail_55421.html",
           "publishedOn": "2024-08-10T01:28:11.000Z",
-          "wordCount": 500,
+          "wordCount": 499,
           "title": "美国国税局发布新版加密税表草案，不再要求投资者填写钱包地址和交易 ID",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -542,7 +335,7 @@
           "description": "深潮 TechFlow 消息，据 Decrypt 报道，运动服装巨头阿迪达斯（Adidas）与以太坊 NFT 系列 Doodles 合作出售虚拟礼品包，支持买家购买独家实体服装。\n\n阿迪达斯和 Doodles 在一份联合声明中表示，这些限量版收藏包将在 8 月 16 日之前开放购买，每个包中有两件物品。Adidas Originals x Doodles 网店显示，单包零售价为 4.99 美元，而 2 包到 100 包的价格在 8.49 美元到 374.99 美元区间。\n\n一些联名套装包括印有 Deysi 的实物收藏品，Deysi 是 Pharrell Williams 和 Coi Leray 新歌“Not in the Store”中的数字吉祥物。这些收藏品包括 Deysi 运动服和 Superstar 鞋，每种限量 200 件。",
           "link": "https://www.techflowpost.com/newsletter/detail_55420.html",
           "publishedOn": "2024-08-10T01:19:55.000Z",
-          "wordCount": 556,
+          "wordCount": 555,
           "title": "Adidas 与 Doodles 合作推出联名限量版 NFT 收藏包",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -552,7 +345,7 @@
           "description": "深潮 TechFlow 消息，据 CoinDesk 报道，两大稳定币 Tether（USDT）和Circle（USDC）的总供应量在一周内增长近 30 亿美元，这表明在周一（8月5日）暴跌之后，投资者纷纷以较低的价格购买加密货币。\n\n链上数据显示，自周一以来，Tether 已向交易所和做市商转移了价值 13 亿美元的 USDT 。随着最新一次发行，USDT 的市值攀升至 1150 亿美元以上，创下历史新高。\n\n同时，据 TradingView 数据显示，第二大稳定币 USDC 的市值本周也增长了约 16 亿美元，达 345 亿美元，创下 2023 年 3 月以来的最高水平。\n\n此外，据 DefiLlama 数据显示，在周一崩盘后的四天内，币安的 USDT 存款超过 15 亿美元，USDC 存款超过 8.2 亿美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_55419.html",
           "publishedOn": "2024-08-10T01:12:07.000Z",
-          "wordCount": 537,
+          "wordCount": 536,
           "title": "数据：USDT 和 USDC 总供应量在一周内增长近 30 亿美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -562,7 +355,7 @@
           "description": "深潮 TechFlow 消息，据 Whale Alert 监测，北京时间今日凌晨3:23:08，某比特币地址在休眠 11.4 年之后被激活，其持有 190 枚 BTC（11,490,704 美元），这些 BTC 在 2013 年仅价值 12,125 美元。",
           "link": "https://www.techflowpost.com/newsletter/detail_55418.html",
           "publishedOn": "2024-08-10T00:39:24.000Z",
-          "wordCount": 505,
+          "wordCount": 504,
           "title": "某持有 190 枚 BTC 的地址在休眠 11.4 年后被激活，浮盈超 1147 万美元",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -572,7 +365,7 @@
           "description": "深潮 TechFlow 消息，据 Cointelegraph 报道，根据 8 月 9 日的一份监管文件，美国监管机构表示，需要更多时间来决定决定是否可以将设计为一站式加密货币投资组合的交易所交易基金 (ETF) 列入纳斯达克电子证券交易所，这一决定是对纳斯达克6月份提交的上市申请的回应。\n\n如果获批，该ETF将成为美国市场上第一只多元化现货加密货币ETF，也将是首个包含替代加密货币（即“山寨币”）的美国ETF。此ETF旨在追踪Nasdaq Crypto US Index（NCIUS），该指数包括由市值加权的多样化加密货币组合。",
           "link": "https://www.techflowpost.com/newsletter/detail_55417.html",
           "publishedOn": "2024-08-10T00:36:58.000Z",
-          "wordCount": 483,
+          "wordCount": 482,
           "title": "美国监管机构推迟对 Hashdex 推出的美国“山寨币”ETF 上市做出决定",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -582,7 +375,7 @@
           "description": "深潮 TechFlow 消息，据 Decrypt 报道，游戏发行商雅达利（Atari）在 Base 链上推出旗下经典街机游戏 Breakout，由Atari联合创始人Nolan Bushnell和早期的苹果员工Steve Wozniak设计，此次复兴版支持链上积分记录与NFT铸造。\n\n作为 Base 的“OnChain Summer”的一部分，玩家可以与他人竞争雅达利 Breakout 排行榜的第一名。得分最高的玩家将有机会赢得每周奖励，包括复古 2600+游戏机，礼品卡等。\n\n玩家可通过连接Coinbase、MetaMask等钱包参与，并以 0.0015 ETH（约合 3.6 美元）的价格铸造Breakout NFT，收益将分配给每款游戏的开发者和艺术家。",
           "link": "https://www.techflowpost.com/newsletter/detail_55416.html",
           "publishedOn": "2024-08-10T00:27:51.000Z",
-          "wordCount": 498,
+          "wordCount": 497,
           "title": "游戏发行商雅达利在 Base 链上推出旗下经典街机游戏 Breakout",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -592,7 +385,7 @@
           "description": "深潮 TechFlow 消息，8 月 9 日，Ripple 官方在社交媒体上警告用户注意骗局。自周三Ripple在案件裁决上取得胜利后，与 Ripple 相关的诈骗活动有所增多。Ripple 提醒用户请警惕冒充 Ripple 的账户、假冒高管的账户或其他宣传“XRP Giveaways”或“XRP Airdrops”的行为。Ripple 及其高管绝不会要求用户汇款到任何地方。",
           "link": "https://www.techflowpost.com/newsletter/detail_55415.html",
           "publishedOn": "2024-08-09T16:01:59.000Z",
-          "wordCount": 478,
+          "wordCount": 477,
           "title": "Ripple：近期与 Ripple 相关的诈骗活动增加，警惕假冒账户和空投",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
