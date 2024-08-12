@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-12T07:14:59.559Z</id>
+    <id>urn:2024-08-12T08:20:54.382Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-12T07:14:59.559Z</updated>
+    <updated>2024-08-12T08:20:54.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[意图抽象 vs. 链抽象：如何平衡用户体验与系统扩展性？]]></title>
+        <id>https://www.web3sj.com/?p=119723</id>
+        <link href="https://www.web3sj.com/uncategorized/119723/"/>
+        <updated>2024-08-12T08:01:03.000Z</updated>
+        <summary type="html"><![CDATA[链抽象和以意图为中心的解决方案是两种旨在解决相同基本问题的架构方法：在异构信任域之间实现自动化的异步互操作性。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【0撸连续剧】老高勇闯Movement第四集：慢有慢的好，任务越来越流畅了，删除了好多垃圾任务]]></title>
+        <id>https://www.web3sj.com/?p=119720</id>
+        <link href="https://www.web3sj.com/show/119720/"/>
+        <updated>2024-08-12T07:17:53.000Z</updated>
+        <summary type="html"><![CDATA[关注我的推特：https://x.com/GaoHeadmaster Move任务地址：https://testnet.movementlabs.xyz/]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以太坊是否应该放弃「超声波货币」概念？]]></title>
         <id>https://www.web3sj.com/?p=119710</id>
@@ -554,16 +574,6 @@ BitGo CEO Mike Belshe强调公司安全承诺，淡化Sun参与度。Sun称其�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coincall山寨币期权一周播报（8.1~8.10）]]></title>
-        <id>https://www.web3sj.com/?p=119631</id>
-        <link href="https://www.web3sj.com/transaction/119631/"/>
-        <updated>2024-08-10T14:05:56.000Z</updated>
-        <summary type="html"><![CDATA[本周在如此大波动下，山寨期权非常有看点，TON XRP都出现了重大利好，分别上涨了126倍与40倍，涨幅夸张，其余山寨币在PUT端都出现了接近10倍的涨幅，非常刺激。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[美国前财长：9月降息50个基点是合适的]]></title>
         <id>https://www.hellobtc.com/news/202408/22703.html</id>
         <link href="https://www.hellobtc.com/news/202408/22703.html"/>
@@ -621,16 +631,6 @@ BitGo CEO Mike Belshe强调公司安全承诺，淡化Sun参与度。Sun称其�
         <summary type="html"><![CDATA[加密货币交易所 Gemini 已敦促美国监管机构撤回一项拟议的法规，该法规一旦通过，将禁止去中心化预测市场上的所有事件合约。 Gemini 在 8 月 8 日致美国商品期货交易委员会 (CFTC) 秘书克里斯托弗·柯克帕特里克 (Christopher Kirkpatrick) 的一封信中表示：“我们强调这项规则将对预测市场产生的不利影响，包括用于预测选举的预测市场。”]]></summary>
         <author>
             <name>白话区块链 - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文详解 Particle Network：如何通过多元化堆栈实现「通用」链抽象]]></title>
-        <id>https://www.web3sj.com/?p=119618</id>
-        <link href="https://www.web3sj.com/project/119618/"/>
-        <updated>2024-08-10T12:56:37.000Z</updated>
-        <summary type="html"><![CDATA[链上用户体验的终极目标是，在用户无需了解任何底层区块链基础设施的情况下，允许任何人在任何区块链上做任何事情，且无复杂的门槛及后续繁琐的跨链流程。为了更好地理解这种设计的意义，我们有必要了解以下当前的链上账户状况。]]></summary>
-        <author>
-            <name>Gao</name>
         </author>
     </entry>
     <entry>
