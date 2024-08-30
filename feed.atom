@@ -1,10 +1,172 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-30T14:15:42.953Z</id>
+    <id>urn:2024-08-30T15:16:58.365Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-30T14:15:42.953Z</updated>
+    <updated>2024-08-30T15:16:58.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase：自 8 月初去杠杆事件以来，比特币的表现一直落后于股票]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57359.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57359.html"/>
+        <updated>2024-08-30T15:16:07.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据Coinbase最新周报，比特币近期表现不及美国股市和其他宏观资产。自8月初去杠杆化以来，比特币的表现一直落后于股票指数。
+
+Coinbase分析师David Duong和David Han指出："从风险调整后的角度来看，比特币价格目前比其三个月平均水平低0.50个标准差，而标准普尔500指数实际上比其三个月平均水平高1.41个标准差。"
+
+分析师们认为，比特币近期价格表现波动，在相对狭窄的区间内交易，这与缺乏新的特定叙事来推动资产价格表现的担忧一致。他们表示："比特币价格自8月初以来一直难以完全恢复。缺乏新叙事，加上9月历来是加密货币的艰难时期，使交易者保持观望。"
+
+造成这种情况的主要原因包括ETF资金流入减少、比特币特有的供应过剩，以及美元指数的回升可能对加密货币表现产生拖累。
+
+分析师还指出，以太坊的表现继续落后于比特币，ETH/BTC比率达到今年以来新低，这与现货以太坊ETF资金外流有关。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robot Ventures为其新风险投资基金筹集7500万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57358.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57358.html"/>
+        <updated>2024-08-30T15:04:20.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据彭博社报道，早期加密创业投资机构Robot Ventures宣布为其最新风险投资基金筹集了7500万美元，基金投资者包括 Marc Andreessen、TrueBridge Capital等。
+
+该公司此前曾投资EigenLayer、Lido Finance和Flashbots等知名加密项目。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BNB Chain：opBNB吞吐量翻倍至10,000 TPS]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57357.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57357.html"/>
+        <updated>2024-08-30T14:59:17.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，BNB Chain宣布其Layer 2解决方案opBNB已将吞吐量提升至10,000 TPS，较此前的5,000 TPS翻了一番。这一性能提升是通过将区块gas限制从100M/s提高到200M/s实现的。为达成这一里程碑，opBNB团队进行了多项优化：
+
+
+ 
+ 改进调度逻辑，移除了之前600ms的硬性时间限制。
+ 
+ 
+ 
+引入L1状态预取和缓存机制，将L1状态检索时间从200ms以上缩短至不到10ms。
+ 
+ 
+ 
+优化区块生产过程，包括交易执行缓存和并发区块提交。
+ 
+
+
+这些改进使opBNB能够更好地支持高性能应用，如交易dApp和区块链游戏。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic Labs宣布与Pyth Network合作，将在Sonic上线时提供Pyth的数据源]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57356.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57356.html"/>
+        <updated>2024-08-30T14:56:27.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Sonic Labs（前称 Fantom）宣布与 Pyth Network 合作，将在 Sonic 上线时提供 Pyth 的数据源。这将为开发者带来更快速、更可靠的金融市场数据，并提供消除 MEV、生成随机数等功能，助力开发者在 DeFi、游戏等领域构建下一代应用。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USDC Treasury于20分钟前在以太坊铸造5000万枚USDC]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57355.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57355.html"/>
+        <updated>2024-08-30T14:52:19.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据Whale Alert数据监测，USDC Treasury 于今日22:30 在以太坊链铸造总计 5000 万枚 USDC。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmos Hub提议对无许可ICS进行第三方审计，审计费用预计为121,500美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57354.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57354.html"/>
+        <updated>2024-08-30T14:45:12.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Cosmos Hub发布新提案，由Simply Staking委托Zellic对无需许可ICS功能进行第三方审计。
+
+该提案旨在使用社区资金池资金，审计允许任何人创建选择加入的消费者链的无需许可ICS功能。审计将由知名安全公司Zellic进行，预计耗时2.4个日历周，费用为90,000美元。提案还包括10%的协调费用，总预算约为121,500美元（约24,850 ATOM）。
+
+资金将通过多重签名钱包管理，以确保透明度。此次审计旨在提高Cosmos生态系统的安全性和可靠性，促进更快速、更便捷的链启动。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国8月一年期通胀率预期终值录得2.8%，为2020年以来最低水平]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57353.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57353.html"/>
+        <updated>2024-08-30T14:28:37.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国8月密歇根大学消费者信心指数终值录得 67.9，预期68，前值67.8。
+
+美国8月一年期通胀率预期终值录得 2.8%，为2020年以来最低水平。预期2.9%，前值2.90%。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALEX宣布推出V2版本，整合AMM与订单簿交易等]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57352.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57352.html"/>
+        <updated>2024-08-30T14:23:36.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，比特币 DeFi 平台ALEX昨日宣布推出ALEX V2，旨在打造一个全面的比特币金融层。新版本整合了AMM与订单簿交易，并通过XLink聚合比特币L2网络流动性。
+
+ALEX V2主要功能包括统一比特币生态系统交易、优化订单匹配、支持单边流动性提供，以及简化用户体验的链抽象。
+
+此外，平台集成了XLink、Bitcoin Oracle、LISA和Gaze.network等创新组件，以解决比特币DeFi生态中的流动性分散、交易效率低下等问题。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过去1小时全网爆仓1021万美元，多单爆仓760万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57351.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57351.html"/>
+        <updated>2024-08-30T14:05:59.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据coinglass数据，过去1小时全网爆仓1021万美元，多单爆仓760万美元，空单爆仓260万美元，BTC爆仓435万美元，ETH爆仓164万美元，SOL爆仓22万美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以太坊研究人员数量Q2略有下降至约450名，2019年以来激增2,100％]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57350.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57350.html"/>
+        <updated>2024-08-30T14:01:06.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，以太坊网络的研究人员数量在过去五年中呈现显著增长。数据显示，从2019年第一季度的约25人增长到2024年第一季度的550人峰值，增幅达2,100%。
+
+虽然2024年第二季度研究人员数量略有下降至约450名，但整体增长趋势仍然明显。
+
+根据开发者报告数据，截至2024年7月1日，以太坊在区块链领域拥有最多的月活跃开发者，共有2,788名全职开发者，总开发者人数超过8,865名。
+
+紧随其后的是Base区块链，拥有889名全职开发人员，总开发人员数量为3,991名。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTC短时跌破59000美元，24小时下跌2.23%]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57348.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57348.html"/>
+        <updated>2024-08-30T13:54:37.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据HTX数据显示，BTC短时跌破59000美元，24小时下跌2.23%，现报价59213美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH跌破2500美元，24小时下跌2.37%]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57347.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57347.html"/>
+        <updated>2024-08-30T13:52:33.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据HTX数据显示，ETH跌破2500美元，24小时下跌2.37%，现报价2498美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[比特币熊市或2025年开始？那么现在未雨绸缪]]></title>
         <id>https://www.web3sj.com/?p=121222</id>
@@ -13,6 +175,82 @@
         <summary type="html"><![CDATA[在这篇文章中，我们探讨有哪些真正预示市场见顶的信号？这些信号其实很明显，却经常被忽视或误解。YouTube 和推特（X）上的技术分析并不一定靠谱，因为大多数所谓的「专家」不过是瞎猜而已。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灰度12分钟前向Coinbase Prime转移535万美元ETH]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57346.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57346.html"/>
+        <updated>2024-08-30T13:40:39.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Arkham 监测，灰度于 12 分钟前向 Coinbase Prime 地址转移 2114 枚 ETH，价值约535万美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[a16z合伙人：LLM类产品有潜力成为搜索业务的颠覆者，并可能实现相当的变现能力]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57345.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57345.html"/>
+        <updated>2024-08-30T13:37:50.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，a16z普通合伙人Andrew Chen在社交媒体上探讨了ChatGPT的商业潜力。Chen指出，OpenAI的ChatGPT在短短几年内就达到了每周2亿多用户的惊人规模。他提出了几个值得思考的问题：
+
+是否有人分析过ChatGPT的人均搜索次数和单次展示收入？如果采用类似Google的广告变现模式，ChatGPT这样的业务可能会有怎样的表现？
+
+Chen认为，有些用户基数相近的产品（如Firefox浏览器）在巅峰时期的年收入接近10亿美元。如果ChatGPT免费使用，其月活用户可能会大幅增加。
+
+他表示，大语言模型（LLM）类产品有潜力成为搜索业务的颠覆者，并可能实现相当的变现能力。
+
+Chen还指出，值得思考的是LLM是否会增加总体搜索量，还是仅仅从Google等现有搜索引擎那里抢占市场份额。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arbitrum：Stylus主网将于9月3日上线]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57344.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57344.html"/>
+        <updated>2024-08-30T13:26:34.000Z</updated>
+        <summary type="html"><![CDATA[深潮TechFlow 消息，Layer 2扩容解决方案Arbitrum宣布，为迎接即将到来的"Stylus季"，他们已经更新了官方网站的外观设计。Stylus是Arbitrum的新功能，计划于9月3日在主网上线。该网站提供了以下内容：开发库和代码示例、文档和视频教程以及用户使用体验分享。
+
+此前消息，Offchain Labs发布Arbitrum技术路线图：Stylus将于9月在Arbitrum One上线等。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soneium Spark 孵化计划将在未来几天开放公众申请]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57343.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57343.html"/>
+        <updated>2024-08-30T13:07:52.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，Startale首席执行官Sota Watanabe发布推文称，已宣布Soneium Spark 孵化计划，将在未来几天开放公众申请。
+
+ 
+
+其表示，拥有超过 55 个合作伙伴，包括索尼音乐、索尼影视和索尼创新基金。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国7月核心PCE物价指数年率2.6%，预期2.70%]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57342.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57342.html"/>
+        <updated>2024-08-30T12:33:52.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，美国7月个人支出月率 0.5%，预期0.50%，前值0.30%。美国7月核心PCE物价指数年率 2.6%，预期2.70%，前值2.60%。美国7月核心PCE物价指数月率 0.2%，预期0.20%，前值0.20%。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKX Ventures合伙人Jeff Ren： 将一如既往地支持创新项目]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57341.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57341.html"/>
+        <updated>2024-08-30T12:31:14.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，2024年8月29日，OKX Ventures 合伙人 Jeff Ren 受邀出席在日本东京举办的 WebX2024，并参加了主题为“VC 视角”的圆桌论坛。论坛由与Shinlabs创始人 Alex Shin主持，其他嘉宾包括Eight Roads Ventures合伙人Nao Kitazawa、1kx合伙人Diana Biggs等知名Web3投资人。Jeff与大家深入探讨了OKX Ventures的投资策略以及在投资趋势、新兴技术和区块链及加密风投整体格局方面的见解。
+
+Jeff强调了OKX Ventures对“加密原生”项目的关注。他表示，团队在选择投资标的时，非常注重代币在区块链生态系统中的实际效用，并希望所投资的代币能够真正融入其所在的Web3生态系统中。此外作为投资者，OKX Ventures会保持适度参与，不会对项目进行过度干预。另外他认为，比特币生态系统的发展将带来更多复杂的金融操作和价值创造。随着比特币与其他加密货币之间界限的逐渐模糊，新机会和创新也会随之而来。最后，Jeff鼓励所有从业者继续保持对创新的信仰，积极寻找志同道合的合作伙伴，共同推动区块链技术的发展。他坚信，在这个充满可能性的领域，天花板尚未出现，真正的创新才刚刚开始。未来， OKX Ventures将一如既往地支持创新项目。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +281,28 @@
         <summary type="html"><![CDATA[人们普遍倾向于前往那些已有一定用户基础的地方。有社区成员宣传你的项目本身就是一个公开的信号，意味着应用程序开发人员和基础设施提供商更容易做出加入你的生态系统的决定，因为风险会更低。这些新的基础设施和应用程序又吸引了新的社区成员和用户，良性循环、不断重复。]]></summary>
         <author>
             <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨境转账平台Kredete完成225万美元种子轮融资，BFF 领投]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57340.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57340.html"/>
+        <updated>2024-08-30T12:10:25.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，跨境转账平台 Kredete 宣布完成 225 万美元的种子轮融资，BFF 领投，Techstars、Tezos 基金会、Polymorphic Capital、Launch Africa、Neer Venture Partners、SDF 和 DNA Fund 等参投。
+
+据悉，Kredete 是一个金融平台，致力于帮助非洲移民建立信用并以低费用将钱汇回家。Kredete 使用稳定币，将转账费用大幅降低至不到一美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疑似Amber Group地址从币安转出8000枚ETH，价值超2000万美元]]></title>
+        <id>https://www.techflowpost.com/newsletter/detail_57339.html</id>
+        <link href="https://www.techflowpost.com/newsletter/detail_57339.html"/>
+        <updated>2024-08-30T12:07:33.000Z</updated>
+        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Arkham 监测，大约 8 分钟前，约 8000 枚 ETH 从币安转移至疑似 Amber Group 地址，价值约 2009 万美元。]]></summary>
+        <author>
+            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
@@ -487,214 +747,6 @@ Gnosis目前运营的侧链使用xDAI（DAI的桥接版本）作为网络gas费�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pendle 与 dappOS 达成合作，将提供意图资产收益]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57308.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57308.html"/>
-        <updated>2024-08-30T06:01:45.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Pendle与dappOS达成合作，用户持有意图资产将自动获取多种来自Pendle PT的收益，同时保持原生资产的使用灵活性。
-
-dappOS意图资产在去中心化非托管的前提下，允许用户在获取收益的同时，像原生资产一样无缝的在链上直接使用。例如intentETH可以直接在DEX中用于添加ETH/USDT的流动性，或者直接作为ETH充值到CEX交易，还可以实时产生年化6-12%的利息。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX CEO 回应借贷机制问题：当借币额度超出存币额度时，将触发平台的自动换币机制]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57307.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57307.html"/>
-        <updated>2024-08-30T05:53:54.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，OKX 首席执行官 Star 在 X 平台回复 OKX 借贷机制的问题。
-
-其表示：
-
-1. OKX 活期抵押借币是一个用户之间 C2C 市场，OKX 只提供一个平台来帮助有借币需求和赚币需求的用户进行匹配
-
-2. 100% 准备金是 OKX 的一条基本原责，当借币额度超出存币额度以后，由于 100% 准备金的要求，将触发平台的自动换币机制
-
-3. OKX 对最大借币额度进行了限制，不允许超出 100%
-
-4.由于 Floki 币种的市场活动，当时出现了大量存币方赎回，导致借币额度超过了 100%，进而触发了自动换币
-
-5. OKX 团队将复盘抵押借币平台的底层设计机制，看看是否有优化方案，也欢迎大家多提意见。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孙宇晨：SUN DAO 与我本人目前没有任何 SUN 的出售行为]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57306.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57306.html"/>
-        <updated>2024-08-30T05:31:26.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，孙宇晨在社交媒体发文表示：“SUN DAO 与我本人目前没有任何对于 SUN 的出售行为，网传的地址与官方没有任何关系。”]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴尔在今年 Q2 财报和收益电话会议中未提及比特币]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57305.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57305.html"/>
-        <updated>2024-08-30T05:23:37.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据Cointelegraph报道，尽管戴尔科技集团首席执行官Michael Dell最近发表了一些有关加密主题的神秘帖子，但该公司似乎并没有在今年第二季度将比特币纳入其资产负债表。
-
-此前6月份，Dell在社交媒体上的一系列帖子中明确表示他看好加密货币后，人们纷纷猜测这家科技巨头可能正在考虑购买一些比特币。而在8月29日的文件中，该公司披露了基于不断增长的人工智能需求的强劲盈利，但它在其收益电话会议或业绩文件中并未提及比特币。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普：若扎克伯格再阻扰美国总统选举，他将“在监狱中度过余生”]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57304.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57304.html"/>
-        <updated>2024-08-30T04:37:09.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 POLITICO 报道，美国前总统唐纳德·特朗普在下周即将出版的新书中写道，Meta 董事长马克·扎克伯格在 2020 年美国大选期间密谋反对他，并表示如果扎克伯格再这么做，他将在监狱中度过余生。
-
-这代表了特朗普对扎克伯格的最新攻击，他多次指责扎克伯格干预了上一届美国总统选举。这一言论也出现在 Meta 公司采取措施向保守派保证其不会影响今年竞选活动的背景下。
-
-《Save America》是一本由特朗普撰写的书籍，将于 9 月 3 日出版，其中包括一张特朗普在白宫与扎克伯格会面的未注明日期的照片。特朗普提到扎克伯格和他的妻子普莉希拉·陈在 2020 年大选期间捐赠了 4.2 亿美元，用于资助选举基础设施。
-
-Meta 发言人没有立即回应置评请求。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安将支持Cardano（ADA）网络升级及硬分叉]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57303.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57303.html"/>
-        <updated>2024-08-30T04:34:30.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据官方公告，Binance 预计将于 2024 年 09 月 02 日 04:45（东八区时间）暂停 Cardano（ADA）网络的代币充值、提现业务，以支持其网络升级及硬分叉。
-
-项目方将于预计 2024 年 09 月 02 日 05:45（东八区时间）进行网络升级及硬分叉。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniquid Layer 完成多家投资机构融资，并推出全新 BTC Staking 产品]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57302.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57302.html"/>
-        <updated>2024-08-30T04:33:39.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，Uniquid Layer 宣布成功获得 Amber Group、DWF Labs、ArkStream Capital 等多家投资机构的资金支持。与此同时，Uniquid Layer 推出了全新 BTC Staking 产品，旨在简化比特币流动性管理，提升用户收益，为 BTCFi 初学者提供易用的入门方案和教育。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over Protocol 将推迟发布空投详细标准及空投日期]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57301.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57301.html"/>
-        <updated>2024-08-30T04:09:09.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，L1 区块链轻量级节点协议 Over Protocol 发推称，其将推迟发布空投详细标准、空投日期、OverNode/OverWallet 更新以及 Nethers NFT 跨链内容，并计划延后至 9 月下旬。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以太坊现货 ETF 昨日总净流出 177.14 万美元，ETF 净资产比率达 2.3%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57300.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57300.html"/>
-        <updated>2024-08-30T03:54:15.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 8 月 29 日）以太坊现货 ETF 总净流出 177.14 万美元。
-
-昨日灰度（Grayscale）以太坊信托 ETF ETHE 单日净流出 534.56 万美元，目前 ETHE 历史净流出为 25.61 亿美元。灰度（Grayscale）以太坊迷你信托 ETF ETH 单日净流入 357.42 万美元，目前灰度以太坊迷你信托 ETH 历史总净流入为 2.39 亿美元。
-
-截止发稿前，以太坊现货 ETF 总资产净值为 70.30 亿美元，ETF 净资产比率（市值较以太坊总市值占比）达 2.3%，历史累计净流出已达 4.77 亿美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币现货 ETF 昨日总净流出 7173.01 万美元，ETF 净资产比率达 4.62%]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57299.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57299.html"/>
-        <updated>2024-08-30T03:53:31.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，根据 SoSoValue 数据，昨日（美东时间 8 月 29 日）比特币现货 ETF 总净流出 7173.01 万美元。
-
-昨日灰度（Grayscale）ETF GBTC 单日净流出 2267.60 万美元，目前 GBTC 历史净流出为 197.82 亿美元。灰度（Grayscale）比特币迷你信托 ETF BTC 单日净流出 0.00 美元，目前灰度比特币迷你信托 BTC 历史总净流入为 3.48 亿美元。昨日单日净流入最多的比特币现货 ETF 为Ark Invest和21Shares的ETF ARKB，单日净流入为 533.63 万美元，目前 ARKB 历史总净流入达 23.74 亿美元。
-
-截止发稿前，比特币现货 ETF 总资产净值为 543.62 亿美元，ETF 净资产比率（市值较比特币总市值占比）达 4.62%，历史累计净流入已达 177.75 亿美元。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定币协议 Frax Finance 推出域名服务 FNS，已向用户开放申请]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57298.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57298.html"/>
-        <updated>2024-08-30T03:52:02.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，稳定币协议 Frax Finance 宣布推出域名服务 FNS，目前已向用户开放申请。FNS 是 Frax 生态系统中的以太坊域名服务（ENS）的一个分支。它保留了 ENS 的核心功能，但 FNS 销毁的是 FXS 代币。
-
-每年 1000 个三字母的 FNS 域名将燃烧 100 万枚 FXS 代币。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海市徐汇区检察院：涉虚拟货币刑事案件受理数量连续三年呈上升趋势]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57297.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57297.html"/>
-        <updated>2024-08-30T03:35:41.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据澎湃新闻报道，上海市徐汇区人民检察院发布涉虚拟货币犯罪情况通报。2022 年以来，该院共办理涉虚拟货币刑事案件 23 件 45 人，案件受理数量连续三年呈上升趋势。同时，相关案件显示出作案手段复杂化、技术专业化和隐匿化、犯罪金额高等特点。在既办案件中，犯罪分子平均违法所得在 100 万元以上，部分案件犯罪分子违法所得在 500 万元以上。
-
-此外，据新民晚报报道，针对近几年来涉虚拟货币犯罪案件数量增加且金额较大的态势，徐汇区检察院和徐汇区公安分局会签《涉刑事诉讼虚拟币处置规范指引》，对办理虚拟货币案件中涉及的查询固证、扣押保管、移送处置等全过程、各环节进行了更为细致、明确的规定，为依法处置涉案虚拟货币提供了具体指南。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去中心化 AI 搜索网络 Adot 获得 Aptos 战略融资]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57296.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57296.html"/>
-        <updated>2024-08-30T03:28:32.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，由前谷歌工程师创办的去中心化AI搜索网络Adot (a.xyz) 宣布与Aptos达成战略合作，并获得其战略投资。此举将帮助Adot深入布局Aptos生态，进一步优化搜索技术，以创新的方式支持Aptos生态系统的建设和发展，为其在Web3领域的长远成功奠定基础。
-
-在此之前，Adot已通过前序融资轮累计筹集了600万美元的资金，这些早期投资者包括gumi Cryptos Capital、Hash Global、SevenX Ventures、Mask Network等投资机构和个人投资者。Adot已在官方社交媒体上发布了与Aptos的合作视频。通过此次合作，Adot将为Aptos用户带来更便捷、高效的搜索体验，共同推动Aptos生态的繁荣发展。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OKX Web3 钱包与 Sonic(SVM) 联合开启 Sonic 大冒险活动]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57295.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57295.html"/>
-        <updated>2024-08-30T03:17:20.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据官方消息，OKX Web3钱包与Sonic（SVM）联合开启为期一个月的Sonic大冒险活动。用户可以参与不同活动，赚取更多 Ring，解锁即将到来的空投参与资格。
-
-据悉，Sonic(SVM)是Solana链上的第一个游戏链项目，通过利用Solana的高速和低成本交易优势，提供一个专门用于游戏开发和运行的区块链平台。OKX Web3钱包是行业领先的一站式 Web3 入口，现已支持100+条热门公链，App、插件、网页三端统一。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 服务提供商 Verofax 完成 300 万美元过桥融资]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57294.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57294.html"/>
-        <updated>2024-08-30T03:07:08.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Assiyaq 报道，总部位于阿联酋的 Web3 服务提供商 Verofax 宣布完成 300 万美元过桥融资。此轮融资由阿卜杜拉国王科技大学、Plug & Play Tech Center、Navig8 Group 和 Trove Capital UK 等投资者领投。此轮融资的其他参与者包括 Jawa Brothers Advisory、Alzamil Pedco CVC 和 Tracecore CVC。
-
-新获得的资金将用于推进 Verofax 在中东和欧盟的项目。这些项目包括为海湾合作委员会地区量身定制的人工智能指南以及为欧盟和北美观众提供的体育迷指南。
-
-Verofax 由 Wassim Merheby 和 Jamil Zablah 于 2018 年创立，利用 Web3 技术（例如增强现实、区块链和人工智能）来增强游客、购物者和品牌的营销体验。
-
-据悉，2022 年 Verofax 在由 Benson Oak Ventures 领投的 A 轮前融资中筹集了 150 万美元，500 Global、Wami Capital 和 Vernalis Capital 也参与其中。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4个鲸鱼地址过去24小时将1586万枚ENA存入Binance，若卖出将亏损超过 500 万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57293.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57293.html"/>
-        <updated>2024-08-30T02:46:52.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Spot on Chain 监测，4 个鲸鱼地址过去 24 小时以巨额亏损价将共计 1586 万枚 ENA（约合 400 万美元）存入 Binance，若卖出损失将超过 500 万美元。
-
-值得注意的是，这些鲸鱼都在 2024 年 4 月至 8 月期间从 Binance 提取 ENA，然后将代币投入 Pendel 参与质押以额外赚取数十万枚 ENA。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[toly 青睐之选：SOON 解锁所有 L1 的终极 L2 Rollup Stack?]]></title>
         <id>https://www.web3sj.com/?p=121153</id>
         <link href="https://www.web3sj.com/project/121153/"/>
@@ -712,48 +764,6 @@ Verofax 由 Wassim Merheby 和 Jamil Zablah 于 2018 年创立，利用 Web3 技
         <summary type="html"><![CDATA[超千亿美元的融资，三大科技巨头争先抢投，Altman 成科技界有史以来最强融资者。 据华尔街日报此前报道，在由 Thrive Capital 领投的新一轮融资中，OpenAI 的估…]]></summary>
         <author>
             <name>Merlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[过去 7 小时 Wintermute 再次向 Coinbase 充值 8006 枚 ETH，价值 2053 万美元]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57292.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57292.html"/>
-        <updated>2024-08-30T02:15:01.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据链上数据分析师 @ai_9684xtpa 监测，过去 7 小时 Wintermute 再次向 Coinbase 充值 8006 枚 ETH，价值 2053 万美元，均价 2529 美元。
-
-自 8 月 27 日以来，Wintermute 已累计向交易平台转移 24007 枚 ETH（约 6012 万美元），目前钱包仍持有 6000 枚 ETH。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[币安新增 TON/USDC, BLUR/USDC 和 DOGS/USDC 等 USDC 全仓和逐仓杠杆交易对]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57291.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57291.html"/>
-        <updated>2024-08-30T02:13:13.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，币安杠杆交易新增 USDC 全仓和逐仓杠杆交易对。新增交易对包括：ALGO/USDC、APT/USDC、ARKM/USDC、BLUR/USDC、DOGS/USDC、JUP/USDC、ONT/USDC、RARE/USDC、REZ/USDC、TNSR/USDC、TON/USDC。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日恐惧与贪婪指数从昨日的 29 点升至 34 点]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57290.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57290.html"/>
-        <updated>2024-08-30T02:12:12.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Alternative.me 数据，加密货币恐惧与贪婪指数今日为 34（昨日该指数为 29「恐惧状态」），仍处于「恐惧状态」。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：正在将 Polymarket 选举赔率数据添加至其终端]]></title>
-        <id>https://www.techflowpost.com/newsletter/detail_57289.html</id>
-        <link href="https://www.techflowpost.com/newsletter/detail_57289.html"/>
-        <updated>2024-08-30T02:10:06.000Z</updated>
-        <summary type="html"><![CDATA[深潮 TechFlow 消息，据 Cointelegraph 报道，彭博金融产品首席经济学家迈克尔·麦克多诺（Michael McDonough）8 月 29 日表示，金融数据和新闻服务公司彭博社（Bloomberg LP）正在将加密预测平台 Polymarket 的选举赔率数据添加到其终端。此次整合凸显了预测市场在分析政治趋势和选举赔率方面日益重要。它也凸显了传统金融机构越来越多地采用 Web3。]]></summary>
-        <author>
-            <name>深潮TechFlow - 快讯</name>
         </author>
     </entry>
     <entry>
