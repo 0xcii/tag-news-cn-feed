@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-02T03:17:55.205Z</id>
+    <id>urn:2024-09-02T04:19:51.290Z</id>
     <title>web3::cave</title>
-    <updated>2024-09-02T03:17:55.205Z</updated>
+    <updated>2024-09-02T04:19:51.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[应用为王，本轮牛市Meme与DePIN或平分秋色]]></title>
+        <id>https://www.web3sj.com/?p=121323</id>
+        <link href="https://www.web3sj.com/depinnews/121323/"/>
+        <updated>2024-09-02T03:54:37.000Z</updated>
+        <summary type="html"><![CDATA[本轮牛市以来，出现不少热点，比如 AI、全链游戏、连抽象、DePIN、以及 Layer2、再质押、比特币二层等等。这些赛道都具有一定技术能力，但热度和持续时间都非常有限。反而是 MEME，从最初比特币生态上的铭文、符文，然后到 Solana 上的 WIF、BONK 等，以及近期持续热火的 Pump.fun 和 SunPump 等，MEME 赛道持续许久，而且破圈而出。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TON网络为何出块中断？详解底层设计局限与验证者问题]]></title>
+        <id>https://www.web3sj.com/?p=121319</id>
+        <link href="https://www.web3sj.com/news/121319/"/>
+        <updated>2024-09-02T03:52:00.000Z</updated>
+        <summary type="html"><![CDATA[作为一个 PoS 公链，TON 依赖其验证者节点来处理和确认交易，并将这些交易打包成区块。在正常情况下，区块链网络会按设定的时间间隔生成新区块，但当系统无法及时处理所有待处理的交易时，出块过程就会延迟，甚至可能中断。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十条加密行业生存法则]]></title>
+        <id>https://www.web3sj.com/?p=121316</id>
+        <link href="https://www.web3sj.com/news/121316/"/>
+        <updated>2024-09-02T03:42:44.000Z</updated>
+        <summary type="html"><![CDATA[我在 @MessariCrypto 的 6 年里学到了一些经验，这些经验帮助将 Protocol Services 从一个想法发展到 100 个满意的客户，并创造了一个八位数的业务…]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Greeks.live：11月8日到期的期权IV显著高于其他期限，投资者信心严重不足]]></title>
         <id>https://www.techflowpost.com/newsletter/detail_57445.html</id>
@@ -533,36 +563,6 @@ Firo 核心团队承诺，在达到尾部发行前不再提议更改代币经济
         <link href="https://www.web3sj.com/project/121250/"/>
         <updated>2024-08-31T10:47:10.000Z</updated>
         <summary type="html"><![CDATA[事实上，Bridge 从开始构建至今已有两年多时间。Bridge 的两位联合创始人，均拥有在 Coinbase 及其他知名金融科技公司的深厚背景。其中， CEO Zach Abrams 曾在金融科技公司 Brex 担任首席产品官，在 Coinbase 担任过消费者主管，在 Square 担任过过总经理。CTO Sean Yu 曾在 Airbnb、Coinbase、Doordash 和 Square 担任过资深工程师或工程经理。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradigm：为什么说区块链是未来金融的基石？]]></title>
-        <id>https://www.web3sj.com/?p=121247</id>
-        <link href="https://www.web3sj.com/news/121247/"/>
-        <updated>2024-08-31T10:43:46.000Z</updated>
-        <summary type="html"><![CDATA[我的职业生涯跨越了两个截然不同的领域，从金融系统的核心（联邦储备系统）到尖端加密领域（Paradigm）。我一直对货币和自由作为社会现象充满兴趣，并希望让这两个理念为普通人更好地服务。我将金融系统视为资本主义的中间件，对未来的形态持相当中立的态度，只要它比过去更好。这也是我至今对加密政策的看法，我相信我以前的一些政府同事也有类似的观点。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【撸毛空投】索尼下场Web3了，Soneium Layer3任务详解，包括DC早期角色领取]]></title>
-        <id>https://www.web3sj.com/?p=121243</id>
-        <link href="https://www.web3sj.com/show/121243/"/>
-        <updated>2024-08-31T10:38:54.000Z</updated>
-        <summary type="html"><![CDATA[索尼下场做L2了，做为一个PS游戏老玩家还必须要去做一做相关任务，老高后续会持续跟踪相关任务。Layer3积分领取要Gas，不过不多，有条件建议做一下。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-8.31）]]></title>
-        <id>https://www.web3sj.com/?p=121240</id>
-        <link href="https://www.web3sj.com/news/121240/"/>
-        <updated>2024-08-31T10:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Vitalik：Optimism 和 Arbitrum 都符合安全委员会投票门槛要求，无法单方面窃取资金。美国以太坊现货 ETF 上线 30 个交易日以来内首次总净流入为零。万事达卡拟取消信用卡号，转用代币化技术以降低信息泄露风险。]]></summary>
         <author>
             <name>Gao</name>
         </author>
