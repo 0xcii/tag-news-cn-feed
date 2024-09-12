@@ -108,6 +108,12 @@
       ]
     },
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": []
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
@@ -118,7 +124,7 @@
           "description": "9月11日消息，据彭博终端数据显示，美国30年期平均抵押贷款利率下跌14个基点至6.29%，系2023年2月以来的最低水平。",
           "link": "https://www.hellobtc.com/news/202409/22929.html",
           "publishedOn": "2024-09-11T11:51:00.000Z",
-          "wordCount": 295,
+          "wordCount": 296,
           "title": "美国抵押贷款利率降至2023年2月以来的最低水平",
           "imageUrl": "https://www.hellobtc.com/d/file/202106/bff70034ff497aeca9460d3429e7d08f.jpg"
         },
@@ -220,12 +226,122 @@
       "siteUrl": "https://www.techflowpost.com/newsletter/index.html",
       "articles": [
         {
+          "id": "https://www.techflowpost.com/newsletter/detail_58511.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据 Coindesk 报道，CryptoQuant 最新数据显示，比特币自 2024 年 8 月 27 日起与黄金价格走势出现明显脱钩。当前，黄金价格创下历史新高，突破每盎司 2500 美元，而比特币价格则较几个月前的历史高点下跌超过 20%。CryptoQuant 报告指出，比特币与黄金的相关性近期转为显著负值。自 8 月 30 日以来，标准普尔 500 指数下跌 3.6%，投资者似乎更青睐黄金等传统避险资产，而非比特币。\n\n技术指标方面，比特币的市值实现值比率（MVRV）自 8 月 26 日起跌破 365 日移动平均线，这可能预示着未来价格将进一步回调。值得注意的是，2021 年 5 月，MVRV 比率跌破移动平均线后，比特币价格随即下跌了 36%。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58511.html",
+          "publishedOn": "2024-09-12T00:52:48.000Z",
+          "wordCount": 525,
+          "title": "分析：比特币走势与黄金脱钩，投资者似乎更青睐黄金",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58510.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据财联社报道，美东时间周三上午，在被福克斯新闻问及是否会再参与一场竞选辩论时，美国共和党总统候选人特朗普表示，他不太倾向于这样做，并指责 ABC 新闻在他与哈里斯的辩论中存在偏见，称辩论“完全被操纵”，并认为ABC是“最不诚实的新闻机构”。\n\n特朗普表示：“我不倾向于再次辩论，因为我们度过了一个美好的夜晚，我们赢得了辩论。”但他也未完全排除参与的可能性。特朗普声称：“如果是在一个公平的新闻网上，我也许会这么做。”特朗普此前一再要求由福克斯新闻举办辩论。\n\n此前，特朗普与现任总统哈里斯在费城进行了首场电视辩论，双方就经济、堕胎权、移民政策等多个热点话题展开激辩。周二早些时候，福克斯新闻已正式邀请特朗普和哈里斯竞选团队在10月举行第二场辩论。首场辩论结束后，哈里斯团队立即表示准备参加第二场辩论，而特朗普则未作明确表态。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58510.html",
+          "publishedOn": "2024-09-12T00:49:15.000Z",
+          "wordCount": 481,
+          "title": "特朗普：倾向不再辩论，因为我已经赢了",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58509.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据 Coindesk 报道，美国劳工统计局于 2024 年 9 月 12 日发布的 8 月消费者价格指数（CPI）数据显示，通胀压力继续缓解，这可能为加密货币市场带来利好。8 月年化总体通胀率降至 2.5%，低于 7 月的 2.9%，创下自 2021 年 3 月以来的最低水平。这一数据表明美联储正在接近其 2% 的通胀目标。\n\n金融分析师 Scott Garliss 在其观点文章中指出，这份 CPI 报告是美联储 9 月 17-18 日货币政策会议前的最后一个关键经济增长指标。结合此前发布的疲软的褐皮书调查和令人失望的就业增长数据，如果通胀增速足够疲软，可能会促使美联储采取更加鸽派（倾向于降息）的立场。\n\nGarliss 认为，虽然核心个人消费支出（PCE）是美联储首选的通胀指标，但 CPI 仍是影响股市情绪的重要因素。8 月 CPI 数据符合华尔街 2.5% 的预期，进一步支持了美联储可能降息的观点，降息幅度甚至可能达到 50 个基点。他预测，美联储降息将导致美元贬值，从而推高以美元计价的风险资产价格。这一趋势将支持加密货币市场，尤其是比特币和以太坊的长期稳定上涨。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58509.html",
+          "publishedOn": "2024-09-12T00:38:22.000Z",
+          "wordCount": 530,
+          "title": "观点：通胀增速持续放缓，加密市场或迎更多上涨机会",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58508.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据 Cointelegraph 报道，根据 GlobalData 专利分析和 Just Auto 的最新数据，福特和丰田在 2024 年第二季度继续引领汽车行业区块链技术专利申请。尽管整个行业的专利申请数量较第一季度有所下降，这两家汽车制造巨头逆势增长。福特的专利申请从第一季度的 3 项增至第二季度的 14 项，而丰田则从 25 项增至 29 项。\n\n福特最近申请了一项专利，旨在为车辆所有权提供不可篡改的来源证明。该系统将通过智能合约自动响应实时事件数据，管理车辆所有权数据，包括所有权变更。丰田正在探索开发基于区块链的内部系统，用于管理与其车辆相关的非同质化代币（NFTs）。该系统将确保存储中的车辆（如经销商持有的待售车辆）在区块链账本上得到准确反映。\n\n与此同时，自动驾驶汽车技术的发展似乎陷入停滞。福特和丰田都显示出将战略重点转向\"驾驶辅助\"技术的迹象。最近一次行业内部聚会显示，尽管参与公司保持乐观，但业界普遍认为尚未解决阻碍无人驾驶出租车公开上路的挑战。专家认为，转向更成熟的区块链技术可能为福特和丰田提供竞争优势，甚至在自动驾驶领域也是如此。两个行业都在探索基于区块链的城市基础设施对无人驾驶车辆技术的潜在影响。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58508.html",
+          "publishedOn": "2024-09-12T00:32:02.000Z",
+          "wordCount": 511,
+          "title": "汽车制造巨头福特和丰田加码区块链技术，因自动驾驶汽车技术发展停滞",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58506.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 Ark Invest Daily 数据，ARK Invest 于 9 月 11 日通过其 ARKK 基金买入 38475 股 Coinbase 股票，通过其 ARKW 基金买入 9349 股 Coinbase 股票，通过其 ARKF 基金买入 5884 股 Coinbase 股票，按当日 157.22 美元的收盘价，价值约 844.4 万美元。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58506.html",
+          "publishedOn": "2024-09-12T00:20:00.000Z",
+          "wordCount": 554,
+          "title": "ARK Invest 昨日增持约 844 万美元 Coinbase 股票",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58505.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 The Block 报道，美国商品期货交易委员会（CFTC）客户拓展和教育办公室（OCEO）宣布与多家机构建立合作伙伴关系，旨在针对加密货币关系投资诈骗（俗称“杀猪盘”）开展信息宣传活动。合作伙伴包括美国银行家协会基金会、一家私人监管机构以及其他联邦机构。\n\n据 CFTC 公告，OCEO 将与合作伙伴共同制作并发布信息图表，帮助公众识别和防范“杀猪盘”骗局。此外，OCEO 还与美国证券交易委员会（SEC）投资者教育和宣传办公室等机构合作，开发针对\"杀猪盘\"诈骗的投资者警示。OCEO 主任 Melanie Devoe 表示，与联邦和州监管机构、消费者保护组织等合作有助于传播 CFTC 的客户教育信息，有望在公众遭受诈骗前提供预警。这些合作关系聚焦于一种被称为\"杀猪盘\"的关系信任欺诈，据估计每年给美国人造成数十亿美元的损失。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58505.html",
+          "publishedOn": "2024-09-12T00:16:25.000Z",
+          "wordCount": 492,
+          "title": "CFTC 携手多方合作伙伴共同打击加密货币“杀猪盘”诈骗",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58504.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，据 The Block 报道，由知名风投 Paradigm 支持的初创公司 Succinct Labs 宣布与 Optimism 协议的主要贡献者 OP Labs 展开合作，旨在攻克零知识卷叠（ZK Rollup）技术难题。Succinct Labs 在社交平台 X 上表示，双方过去数月密切协作，共同开发了 OP Succinct，这是一种能在 1 小时内将任何 OP Stack 链升级为使用零知识证明的无缝解决方案。\n\n此前消息，Succinct Labs 于 2024 年 3 月完成由 Paradigm 领投的 5500 万美元种子轮和 A 轮融资。该公司声称，其新方法较标准乐观卷叠的 7 天欺诈证明窗口期大幅缩短，平均每笔交易成本仅为几分之一美分。Succinct Labs 在其博客中强调，OP Succinct 的两步集成过程仅需少量代码修改，易于融入现有部署，包括即服务型卷叠（rollup-as-a-service）设置。这一突破性进展有望为以太坊扩容解决方案带来重大改进，提高交易处理速度并降低成本。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58504.html",
+          "publishedOn": "2024-09-12T00:14:56.000Z",
+          "wordCount": 568,
+          "title": "Paradigm 支持的 Succinct 与 OP Labs 合作，致力解决 ZK Rollup 技术难题",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58503.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据 Coindesk 报道，总部位于斯德哥尔摩的区块链协议 Wingbits 宣布完成 350 万美元种子轮融资。本轮融资由知名加密投资机构 Borderless Capital 和 Tribe Capital 联合领投，早期风险投资公司 Antler 及多位天使投资人跟投。Wingbits 专注于在 Solana 公链上构建去中心化物理基础设施网络（DePIN），旨在扩展并优化全球飞行追踪系统。\n\n据 Wingbits 团队介绍，该协议采用激励机制，根据数据质量、覆盖范围和在线时间等指标，奖励由业余爱好者维护的天线设备所采集的飞行数据。协议还设有全球性能排行榜，以激励用户持续提升设备性能。数据显示，Wingbits 平台的节点数量从 2023 年底的 40 个迅速增长至目前的近 2000 个，体现了该项目的显著发展势头。此轮融资将为 Wingbits 提供关键资金支持，用于进一步完善其去中心化飞行追踪网络的技术架构和市场拓展。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58503.html",
+          "publishedOn": "2024-09-12T00:11:17.000Z",
+          "wordCount": 539,
+          "title": "区块链航空解决方案 Wingbits 完成 350 万美元种子轮融资，Borderless Capital 等领投",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58502.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据 The Block 报道，去中心化交易所（DEX）格局正在经历多元化变革，Uniswap 的市场份额已从 2023 年 10 月的 50% 以上降至目前的 36%。与此同时，新兴交易所迅速崛起，如基于 Base Layer 2 的 Aerodrome 已占据 7% 的市场份额，Orca 的市场占有率则从 2024 年初的 9% 增长到 8 月的 12%。\n\n分析师指出，较小规模 DEX 逐渐侵蚀 Uniswap 市场份额，表明用户正转向具有长期优势的更具竞争力的交易所，而非短期激励驱动的平台。这种市场份额的变化可能预示着去中心化交易领域竞争加剧和创新增多。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58502.html",
+          "publishedOn": "2024-09-12T00:08:41.000Z",
+          "wordCount": 558,
+          "title": "Uniswap 在 DEX 的市场份额从去年 10 月的 50% 降至 36%",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58501.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据 The Block 报道，英国政府于 9 月 11 日向议会提交一项法案，旨在正式将加密资产（包括 NFT 和 RWA）定义为财产。司法部国务大臣海蒂·亚历山大表示，此前数字资产在英格兰和威尔士的财产法范畴内并未明确界定，导致资产所有者处于法律灰色地带。该法案若获通过，将在现有的\"实物财产\"和\"权利财产\"之外，引入第三类财产，使特定数字资产获得个人财产权。\n\n亚历山大强调，该法案旨在保持英国在全球加密领域的领先地位，吸引更多企业和投资。据悉，数字资产每年为英国经济贡献 340 亿英镑。该法案是对英国法律委员会 2023 年报告的回应，该报告指出数字资产虽不属于实物财产或权利财产，但应被视为财产。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58501.html",
+          "publishedOn": "2024-09-12T00:05:43.000Z",
+          "wordCount": 512,
+          "title": "英国政府拟将 NFT 和 RWA 等加密资产正式定义为新型财产",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
+          "id": "https://www.techflowpost.com/newsletter/detail_58500.html",
+          "author": null,
+          "description": "深潮 TechFlow 消息，9 月 12 日，据彭博社报道，知情人士透露，OpenAI 正在与投资者洽谈以 1500 亿美元的估值筹集 65 亿美元资金。新的估值显著高于该公司今年早些时候招标要约中的 860 亿美元估值。\n\n同时，知情人士透露，OpenAI 还在与银行洽谈以循环信贷额度的形式筹集 50 亿美元的债务融资。讨论仍在进行中，条款可能会发生变化。本轮融资预计将由 Thrive Capital 领投。该公司最大的投资者微软也将参与其中，苹果和英伟达也一直在就投资事宜进行谈判。",
+          "link": "https://www.techflowpost.com/newsletter/detail_58500.html",
+          "publishedOn": "2024-09-12T00:03:06.000Z",
+          "wordCount": 511,
+          "title": "知情人士：OpenAI 正洽谈以 1500 亿美元估值融资 65 亿美元",
+          "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
+        },
+        {
           "id": "https://www.techflowpost.com/newsletter/detail_58499.html",
           "author": null,
           "description": "深潮 TechFlow 消息，由TONScale Labs和Arbitrum支持的TON生态首个Layer 2项目DuckChain的Telegram频道用户数在一周内从100万增长至200万。\n\n据悉，DuckChain通过整合TON用户与EVM基础设施及流动性解决方案，致力于解决TON生态中开发架构复杂和流动性不足等问题，从而推动TON的大规模采用。\n\n此前消息，DuckChain 用户数突破百万，成为 Telegram 上用户最多的 Layer2 项目。",
           "link": "https://www.techflowpost.com/newsletter/detail_58499.html",
           "publishedOn": "2024-09-11T16:21:46.000Z",
-          "wordCount": 486,
+          "wordCount": 489,
           "title": "首个TON L2项目DuckChain Telegram频道用户数突破200万",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         },
@@ -235,7 +351,7 @@
           "description": "深潮 TechFlow 消息，dVIN协议的开发团队dVIN Labs今日宣布，Real Vision联合创始人兼CEO、资深葡萄酒爱好者Raoul Pal加入其董事会。\n\ndVIN Labs联合创始人兼CEO David Garrett表示，Pal一直是dVIN的热情支持者，认同通过区块链、数据、DePIN和代币化革新葡萄酒行业的愿景。\n\nPal此前是原始葡萄酒俱乐部Club dVIN的成员，该俱乐部约1000名早期采用者帮助塑造了dVIN协议的体验。\n\nPal表示，很荣幸被任命为dVIN Labs的董事会成员，期待利用自己的商业经验、葡萄酒热情和加密行业网络，帮助dVIN将葡萄酒资产类别代币化。",
           "link": "https://www.techflowpost.com/newsletter/detail_58498.html",
           "publishedOn": "2024-09-11T16:03:39.000Z",
-          "wordCount": 503,
+          "wordCount": 506,
           "title": "Real Vision CEO Raoul Pal加入葡萄酒代币化项目dVIN Labs董事会",
           "imageUrl": "https://upload.techflowpost.com/upload/images/20230331/2023033111502613443948.png"
         }
