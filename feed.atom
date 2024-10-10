@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-10T08:21:41.973Z</id>
+    <id>urn:2024-10-10T09:18:25.129Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-10T08:21:41.973Z</updated>
+    <updated>2024-10-10T09:18:25.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[崛起中的Sui：这一新兴区块链如何塑造加密货币的未来]]></title>
+        <id>https://www.web3sj.com/?p=124297</id>
+        <link href="https://www.web3sj.com/news/124297/"/>
+        <updated>2024-10-10T08:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Sui 的核心创新在于其对并行交易处理的独特方式，这使其有别于其他 Layer1 区块链。Solana 采用的是乐观并行处理——同时处理交易，假设不会发生冲突；而 Sui 则选择了确定性并行处理，预先排列交易以避免冲突。这一方法增强了系统的可预测性和扩展性，使 Sui 能够处理超过每秒 10000 笔交易（TPS）。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三分钟读懂Metaplex：基于Solana的去中心化基础设施平台]]></title>
+        <id>https://www.web3sj.com/?p=124291</id>
+        <link href="https://www.web3sj.com/project/124291/"/>
+        <updated>2024-10-10T08:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Metaplex 为包括 NFT、FA、RWA、游戏资产、DePIN 资产等在内的各类数字资产铸造提供支持，已在 5500 万个独立地址中铸造了超过 5.5 亿种资产，是当前应用最广泛的区块链协议和开发者平台之一。]]></summary>
+        <author>
+            <name>Gao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DApp使用量激增70%，第三季度活跃水平再创新高]]></title>
         <id>https://www.web3sj.com/?p=124280</id>
@@ -81,26 +101,6 @@
         <link href="https://www.web3sj.com/news/124229/"/>
         <updated>2024-10-09T11:27:04.000Z</updated>
         <summary type="html"><![CDATA[任何一个撸毛党都不会满足于猪脚饭式空投，但也并不至于反目成仇，真正难以接受的则是「你说你是我的甜心糖，但你背着我做起了老鼠仓；你说你是背景深厚的高富帅，但你只想骗我去缅甸；你的预期不兑现，你还说我是大混蛋」。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3世界日报（2024-10.9）]]></title>
-        <id>https://www.web3sj.com/?p=124226</id>
-        <link href="https://www.web3sj.com/news/124226/"/>
-        <updated>2024-10-09T10:26:16.000Z</updated>
-        <summary type="html"><![CDATA[数据：MicroStrategy 股价今年上涨 185%，MARA 过去 12 个月上涨 107%.若比特币突破6.4万美元，主流CEX累计空单清算强度将达4.01亿。谷歌搜索已集成 ENS，用户可搜索 .eth 域名并查看余额。]]></summary>
-        <author>
-            <name>Gao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三箭资本归来设立Meme基金，但8成供应量都集中在内部人士手中]]></title>
-        <id>https://www.web3sj.com/?p=124211</id>
-        <link href="https://www.web3sj.com/news/124211/"/>
-        <updated>2024-10-09T04:07:57.000Z</updated>
-        <summary type="html"><![CDATA[3AC 代币的发行颇具吸引力。3AC 团队将私募销售的收入大致分成两半。他们将 317 ETH（85 万美元）分配用于 Uniswap V2 的流动性，并锁定一年期。剩余的 336 ETH（88 万美元）分散在八个钱包中，这些钱包属于抢先购买 $3AC 上市的团队。]]></summary>
         <author>
             <name>Gao</name>
         </author>
