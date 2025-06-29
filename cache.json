@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/jcybkved.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据链上分析师余烬监测，AguilaTrades 开始浮盈滚仓，将仓位增至 2.16 亿美元，现在他持有 2000 枚 BTC 多仓，价值 2.16 亿美元，开仓价在 107459 美元，清算价在 104020 美元，目前浮盈 122 万美元。",
+          "link": "https://panewslab.com/zh/articledetails/jcybkved.html",
+          "publishedOn": "2025-06-29T10:13:07.000Z",
+          "wordCount": 940,
+          "title": "AguilaTrades开始浮盈滚仓，已将比特币多单仓位增至2.16亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3awgu29y.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，欧易OKX行情显示，BTC刚刚突破108000美元，现报108018.00美元/枚，日内涨幅 0.53%。",
+          "link": "https://panewslab.com/zh/articledetails/3awgu29y.html",
+          "publishedOn": "2025-06-29T10:04:10.000Z",
+          "wordCount": 865,
+          "title": "BTC突破108000美元，日内涨幅 0.53%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/y9j51llr.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，特朗普家族加密项目 WLFI 在 X 平台转发数据显示，旗下稳定币 USD1 过去 24 小时交易量达 12.5 亿美元，创历史新高，仅次于 Tether（USDT）和 USDC。",
+          "link": "https://panewslab.com/zh/articledetails/y9j51llr.html",
+          "publishedOn": "2025-06-29T09:54:53.000Z",
+          "wordCount": 929,
+          "title": "数据：USD1过去24小时交易量达12.5亿美元创下新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wjttkbfq.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，根据金融时报报道，英国上市公司 Vinanz 目前正在更名为伦敦比特币公司（London BTC Company）。该公司首席执行官 Hewie Rattray 表示，投资者显然对比特币感兴趣，Vinanz 将提供这项服务，并且提供受监管的比特币投资渠道。此前消息，Vinanz本周再购入5.85枚比特币，总持仓增至65.03枚。",
+          "link": "https://panewslab.com/zh/articledetails/wjttkbfq.html",
+          "publishedOn": "2025-06-29T09:49:09.000Z",
+          "wordCount": 923,
+          "title": "英国上市公司Vinanz拟更名为London BTC Company",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/rg61df44.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据Cointelegraph报道， 一些加密货币初创公司对肯尼亚提出的虚拟资产服务提供商（VASP）法案表示担忧，警告称该法案可能会给与币安相关的游说团体带来过大的影响力，从而可能破坏该国数字资产行业的公平竞争。据悉，一个名为“虚拟资产商会（VAC）”的私人智库将被纳入根据该法律草案设立的监管委员会。肯尼亚的一些加密货币利益相关者声称，VAC 进行了由币安赞助的监管谈判，缺乏独立性并充当了该交易所的代理人，缺乏独立性并充当了该交易所的代理人。报道称，币安以保密协议为由，每月向 VAC 支付每个国家 6000 美元的政策宣传费用，这引发了市场担忧，即该游说团体可能会歪曲肯尼亚的加密货币规则，使币安受益，并排挤当地参与者。",
+          "link": "https://panewslab.com/zh/articledetails/rg61df44.html",
+          "publishedOn": "2025-06-29T09:39:47.000Z",
+          "wordCount": 908,
+          "title": "观点：与币安相关游说团体或主导肯尼亚加密新法案监管，引发破坏公平竞争担忧",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/is0ueu43.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据 Onchain Lens 监测，James Wynn 已平仓 40 倍比特币空单，亏损 3,015.97 美元，同时再次开设 40 倍比特币多单。",
+          "link": "https://panewslab.com/zh/articledetails/is0ueu43.html",
+          "publishedOn": "2025-06-29T09:09:07.000Z",
+          "wordCount": 929,
+          "title": "James Wynn已平仓40倍比特币空单，亏损约3000美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cd6xsckv.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，CICADA Finance宣布完成Fair Launch，实现1800万美元超募，成为首个基于USD1的DeFi融资案例，致力于打造协议资管和稳定币应用拓展的头部平台。联合Metalpha提供技术支持推出无质押杠杆打新机制，让所有参与者按照同样的估值参与，自主选择配资方案。参与的机构包括CLabs, Comma3, Eureka, FBG, Kronos, MetaEra, PEER.VC, RaveDAO, SNZ, Stratified, Taihill, Waterdrip等数十家。",
+          "link": "https://panewslab.com/zh/articledetails/cd6xsckv.html",
+          "publishedOn": "2025-06-29T09:06:49.000Z",
+          "wordCount": 920,
+          "title": "首个使用USD1完成1800万美元超募的DeFi项目CICADA Finance引爆市场",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dkyq4p1l.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据金十报道，国际清算银行表示，特朗普对美联储利率决策的批评并不威胁其独立性，全球经济和金融体系已进入一个不确定性增强的新时代，尚未发现任何与美元汇率下跌相关的“值得担忧的”迹象，保护主义上升和贸易碎片化“尤为令人担忧”。",
+          "link": "https://panewslab.com/zh/articledetails/dkyq4p1l.html",
+          "publishedOn": "2025-06-29T09:06:22.000Z",
+          "wordCount": 859,
+          "title": "国际清算银行：特朗普对美联储利率决策的批评并不威胁其独立性",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/yazo6860.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据大公报报道，香港财经事务及库务局局长许正宇今日（29 日）在电视节目表示，数字资产是大势所趋，强调稳定币不是生财或发财工具，而是金融发展工具。许正宇表示，目前金融活动透过不同中介或机构资金流转，而稳定币在区块链上流转，有助提升金融活动效率及运转速度，令实体经济更有效率。被问及稳定币可能削弱国际货币主权，许正宇表示，政府充分了解相关风险，监管理念清晰，要求稳定币发行人有一定资本或储备，及规管稳定币赎回时间，以确保购买者或机构能够赎回货币。",
+          "link": "https://panewslab.com/zh/articledetails/yazo6860.html",
+          "publishedOn": "2025-06-29T09:04:23.000Z",
+          "wordCount": 899,
+          "title": "香港财库局局长：稳定币是金融发展工具，不是发财工具",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/p57gqbm5.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据Alternative数据，今日加密恐慌与贪婪指数升至68，昨日为65，市场情绪仍为“贪婪”状态。\n注：恐慌指数阈值为 0-100，包含指标：波动性（25%）＋市场交易量（25%）＋社交媒体热度（15%）＋市场调查（15%）＋比特币在整个市场中的比例（10%）＋谷歌热词分析（10%）。",
+          "link": "https://panewslab.com/zh/articledetails/p57gqbm5.html",
+          "publishedOn": "2025-06-29T08:50:16.000Z",
+          "wordCount": 897,
+          "title": "今日恐慌与贪婪指数为68，市场情绪仍处于贪婪状态",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/iuakp3kf.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据金融界报道，民生证券发布研报称，至少短期内，稳定币并不能救美元信用于水火。美元的问题在于弄清楚对手方，不考虑美国本土和民间的喜好，单单是海外的官方储备可能就够美元提心吊胆。稳定币和黄金的区别在于，一是它的供给同样可能失控，缺乏客观的约束机制;二是它并不被全球认可为可靠的储备资产。\n极端情况下，稳定币能接住海外美元储备的抛售吗?确实近年来稳定币的市值快速上涨，当前已经超过2400亿美元，但与全球美元储备相比还相差较远，截至2024年第二季度，全球“探明”的官方美元储备就有约6.7万亿美元。也许时间可以解决问题，但是至少最近几年稳定币并不能真正稳定美元。",
+          "link": "https://panewslab.com/zh/articledetails/iuakp3kf.html",
+          "publishedOn": "2025-06-29T08:25:34.000Z",
+          "wordCount": 895,
+          "title": "民生证券：短期内稳定币并不能救美元信用于水火",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ux5f6x20.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据金十报道，受美国独立纪念日假期影响，美国6月非农就业报告提前于7月3日（周四）20:30公布，当天，美股及CME股指期货交易提前收市。7月4日，美股休市一日，CME旗下贵金属、美油、外汇、股指期货合约交易提前于北京时间5日01:00结束。",
+          "link": "https://panewslab.com/zh/articledetails/ux5f6x20.html",
+          "publishedOn": "2025-06-29T08:23:02.000Z",
+          "wordCount": 858,
+          "title": "美国6月非农报告下周提前公布",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2b5w5f5t.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，伊朗加密交易所 Nobitex 发推表示，将开始分阶段恢复显示用户钱包余额。这个过程正在逐步进行，首先从已验证用户开始，最初针对现货钱包，然后再到其他类型的钱包。此外，两天前开始的身份验证过程是访问钱包的前提条件。如果暂时无法查看钱包余额，请等待账户验证完成。正如之前的公告所述，该流程预计将于本周中旬完成。但是，根据技术条件和进一步安全检查的需要，时间表可能会发生变化或延迟。\n此前消息，伊朗交易所Nobitex在Tron、EVM和BTC链上共损失约8170万美元。",
+          "link": "https://panewslab.com/zh/articledetails/2b5w5f5t.html",
+          "publishedOn": "2025-06-29T07:44:50.000Z",
+          "wordCount": 902,
+          "title": "伊朗加密交易所Nobitex将开始分阶段恢复显示用户钱包余额",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/emac9i9h.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据 Cointelegrap 报道，根据韩亚金融研究所发布的一份新报告《2050 世代虚拟资产投资趋势》，超过四分之一（27%）的 20-50 岁韩国人现在拥有数字资产，加密货币投资占其总金融投资组合的 14%。研究表明，不同年龄段的人对加密货币的兴趣各不相同。40 多岁的人群参与度最高，为 31%，其次是 30 多岁的人群，为 28%，50 多岁的人群为 25%。78% 的 50 多岁受访者表示，他们使用加密货币作为积累资金的一种方式，而 53% 的受访者表示，他们正在通过加密货币投资为退休做准备。如今，越来越多的受访者将增长潜力、投资多元化和结构化储蓄计划视为投资的主要动机。\n与此同时，70% 的受访者表示有兴趣在未来扩大加密货币投资。42% 的受访者表示，如果传统金融机构在加密货币市场中发挥更大作用，他们愿意增加投资；35% 的受访者认为，更强有力的法律保护是增强信心的关键因素。\n投资模式也日趋成熟。定期购买的投资者比例从 10% 上升至 34%，中期交易的比例从 26% 上升至 47%，而短期交易的比例略有下降。投资者获取信息的方式也在发生变化。报告显示，投资者对口碑的依赖有所下降，而使用官方交易所和分析平台的现象有所增加。\n比特币仍然是首选，六成投资者持有比特币。然而，随着经验的增长，许多人开始将投资多元化，转向山寨币或稳定币。一个突出的痛点是加密货币交易所与多个银行账户关联受限。七成投资者表示，如果这项规定放宽，他们会选择其主要银行。",
+          "link": "https://panewslab.com/zh/articledetails/emac9i9h.html",
+          "publishedOn": "2025-06-29T07:26:19.000Z",
+          "wordCount": 967,
+          "title": "报告：27%的20-50岁韩国人持有加密货币，70%的人有兴趣扩大投资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/znsm7epb.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，香港特区政府财政司司长陈茂波发文表示，金融科技在跨境贸易应用的潜力巨大，目标是解决跨境支付速度慢、成本高等长期存在的痛点，在支付领域更好地服务实体经济。而上周发布的《数字资产发展政策宣言2.0》，四个支柱之一便是「推进应用场景及跨界别合作」，当中提到稳定币是在传统金融系统以外提供具成本效益的替代方案，有潜力为支付及资本市场活动带来变革，包括跨境支付。稳定币的法例将在今年8月1日生效，特区政府及金融监管机构将致力营造有利的市场环境，配以必要的监管措施，推动发行人把稳定币应用推展至不同场景，助力解决企业经商以至市民生活中的实质痛点。",
+          "link": "https://panewslab.com/zh/articledetails/znsm7epb.html",
+          "publishedOn": "2025-06-29T07:04:35.000Z",
+          "wordCount": 894,
+          "title": "香港财政司：稳定币有潜力为支付及资本市场活动带来变革，包括跨境支付",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a83w4dun.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据 CrowdfundInsider 报道，数字银行 Revolut 宣布收购阿根廷 Cetelem 银行（Banco Cetelem Argentina），这是一家由法国银行巨头法国巴黎银行（BNP Paribas）旗下的小型本地银行。这笔交易标志着 Revolut 正式进军南美第二大经济体阿根廷。此次收购涵盖了 Cetelem 银行的银行牌照及其约 640 万美元的资产。该公司持有英国限制性银行牌照和墨西哥全面银行牌照。根据阿根廷中央银行 3 月份的数据，Cetelem 银行在阿根廷 73 家金融机构中规模最小。",
+          "link": "https://panewslab.com/zh/articledetails/a83w4dun.html",
+          "publishedOn": "2025-06-29T06:46:37.000Z",
+          "wordCount": 946,
+          "title": "数字银行Revolut收购阿根廷Cetelem银行",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2p8o4hbw.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据 Redstone报告，风险资产代币化（RWA）规模从 2022 年的 50 亿美元激增至 2025 年 6 月的 240 亿美元以上（增长 380%），成为继稳定币之后，加密货币领域增长第二快的领域。行业预测表明，到 2030 年至 2034 年，全球 10% 至 30% 的资产可能会被代币化。\n资产代币化已在 2024-2025 年从实验性试点过渡到规模化的机构采用。到 2024 年 12 月，代币化的现实世界资产市场规模达到 152 亿美元（不包括稳定币），并继续增长，到 2025 年 6 月超过 240 亿美元，同比增长 85%。截至 2025 年 6 月，私人信贷已成为最大的 RWA 代币化领域，规模达 140 亿美元，这表明机构对区块链原生信贷市场的需求。",
+          "link": "https://panewslab.com/zh/articledetails/2p8o4hbw.html",
+          "publishedOn": "2025-06-29T06:03:31.000Z",
+          "wordCount": 1007,
+          "title": "报告：RWA市场规模同比增长85%至240亿美元，成为继稳定币之后增长第二快的领域",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/z39i7hfj.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据链上侦探 ZachXBT 监测，5 月 16 日，疑似 Lazarus Group 发起的攻击导致一名受害者在 Solana 上的多个地址被盗取 320 万美元。这些资产在市场上出售，被盗资金从 Solana 转移到以太坊。6 月 25 日 400 枚 ETH 被存入 Tornado Cash；6 月 27 日 400 枚 ETH 被存入 Tornado Cash。",
+          "link": "https://panewslab.com/zh/articledetails/z39i7hfj.html",
+          "publishedOn": "2025-06-29T05:49:16.000Z",
+          "wordCount": 994,
+          "title": "ZachXBT：某用户疑遭Lazarus Group攻击，被盗的320万美元加密资产在市场上被出售",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/hnc4d704.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，加密分析师 Scott Melker 发推表示，目前山寨币及机构比特币热钱正流向比特币财库战略公司和加密相关股票。未来这些钱或将流入华尔街代币化计划。",
+          "link": "https://panewslab.com/zh/articledetails/hnc4d704.html",
+          "publishedOn": "2025-06-29T05:43:15.000Z",
+          "wordCount": 903,
+          "title": "分析师：山寨币及机构比特币热钱正流向比特币财库公司和加密相关股票",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/uojj0pcy.html",
+          "author": "PA一线",
+          "description": "PANews 6月29日消息，据 News.bitcoin 报道，最新的TRM加密货币犯罪报告显示，2025 年上半年加密货币盗窃案激增，至少 75 起攻击导致超过 21 亿美元被盗，几乎与 2024 年的总额持平，并超过了 2022 年创下的上半年纪录。然而，该报告显示，2月份发生的15亿美元Bybit黑客攻击事件占总损失的近70%。除了 2 月份的巨额亏损外，1月、4月、5月和6月是仅有的四个亏损超过1亿美元的月份。只有3月份的亏损低于1亿美元。\n报告总结道：“2025 年上半年，与朝鲜有关的团体所犯下的罪行占被盗资金总额的 16 亿美元，约占所有被盗资金的 70%。”与此同时，TRM 团队发现，2025 年上半年，私钥和助记词盗窃或前端入侵等基础设施攻击占被盗资金的 80% 以上。另一方面，协议漏洞又占了 12%，凸显了 DeFi 智能合约中持续存在的漏洞。",
+          "link": "https://panewslab.com/zh/articledetails/uojj0pcy.html",
+          "publishedOn": "2025-06-29T05:19:02.000Z",
+          "wordCount": 950,
+          "title": "报告：上半年75起加密货币盗窃案共导致21亿美元被盗，超过2022年创下的上半年纪录",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
