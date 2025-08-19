@@ -1,4 +1,22 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/6zaubv5w.html",
+          "author": "PA一线",
+          "description": "PANews 8月20日消息，欧易OKX行情显示，ETH刚刚突破4200美元，现报4201.26美元/枚，日内涨幅 0.23%。",
+          "link": "https://panewslab.com/zh/articledetails/6zaubv5w.html",
+          "publishedOn": "2025-08-19T16:10:10.000Z",
+          "wordCount": 579,
+          "title": "ETH突破4200美元，日内涨幅 0.23%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
