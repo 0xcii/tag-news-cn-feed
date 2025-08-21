@@ -1,4 +1,32 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/5112388e-c472-4384-9c02-1394d39aed97.html",
+          "author": "PA一线",
+          "description": "PANews 8月21日消息，以太坊财库协议ETH Strategy宣布与以太坊流动质押协议Lido合作，将部分财库资金投入stETH以实现ETH收益复利，同时保持链上托管和可验证性。\n此前消息，ETH Strategy宣布与Ether.Fi达成质押合作。",
+          "link": "https://panewslab.com/zh/articledetails/5112388e-c472-4384-9c02-1394d39aed97.html",
+          "publishedOn": "2025-08-21T16:07:25.000Z",
+          "wordCount": 580,
+          "title": "ETH Strategy与Lido合作，将部分财库资金投入stETH以实现ETH收益复利",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/045f84b1-788d-4ba6-be1e-e530d0f2ba0c.html",
+          "author": "PA一线",
+          "description": "PANews 8月21日消息，全球投资平台Republic宣布与Injective进行全面整合，推出支持Injective的Republic Wallet和专属Launchpad，为基于Injective的项目提供机构级代币化能力。\n据悉，Republic已部署超过30亿美元资金，拥有超过3000次融资经验，并覆盖150多个国家的300万社区成员。",
+          "link": "https://panewslab.com/zh/articledetails/045f84b1-788d-4ba6-be1e-e530d0f2ba0c.html",
+          "publishedOn": "2025-08-21T16:03:58.000Z",
+          "wordCount": 615,
+          "title": "Republic推出支持Injective的钱包和Launchpad",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
