@@ -1,4 +1,42 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/3x19s05e.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，欧易OKX行情显示，BTC刚刚跌破110000美元，现报109857.10美元/枚，日内下跌 2.09%。",
+          "link": "https://panewslab.com/zh/articledetails/3x19s05e.html",
+          "publishedOn": "2025-08-25T20:33:50.000Z",
+          "wordCount": 568,
+          "title": "BTC跌破110000美元，日内下跌 2.09%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/wftohow4.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，欧易OKX行情显示，ETH刚刚跌破4400美元，现报4394.62美元/枚，日内下跌 4.72%。",
+          "link": "https://panewslab.com/zh/articledetails/wftohow4.html",
+          "publishedOn": "2025-08-25T20:10:10.000Z",
+          "wordCount": 566,
+          "title": "ETH跌破4400美元，日内下跌 4.72%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9nrztp6u.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，欧易OKX行情显示，ETH刚刚跌破4500美元，现报4494.96美元/枚，日内下跌 2.55%。",
+          "link": "https://panewslab.com/zh/articledetails/9nrztp6u.html",
+          "publishedOn": "2025-08-25T19:31:20.000Z",
+          "wordCount": 566,
+          "title": "ETH跌破4500美元，日内下跌 2.55%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
