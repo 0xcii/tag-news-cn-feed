@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/34435fdd-f3ab-4251-a630-89fe475b42ce.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，链上分析师Murphy表示，短期持有者成本基础（STH-RP，当前为10.88万美元）是情绪上的“牛熊分界线”，反映短期筹码平均换手成本。若BTC价格跌破该线，短期投资者将从浮盈转为浮亏，可能导致市场情绪从焦虑转向恐慌，并破坏前期上升趋势。\n历史数据显示，跌破后市场修复时间较长，价格可能出现宽幅震荡或快速下跌两种情况，具体表现依赖市场情绪和宏观事件影响。当前支撑位区间为11.2万至10.8万美元，若跌破，理论仍有10%-15%下跌空间，但需结合实际宏观环境判断。分析师建议投资者提前制定交易计划，灵活应对市场变化，同时强调当前宏观周期仍处宽松阶段，BTC筹码结构健康，无明显转熊迹象。",
+          "link": "https://panewslab.com/zh/articledetails/34435fdd-f3ab-4251-a630-89fe475b42ce.html",
+          "publishedOn": "2025-08-26T07:21:56.000Z",
+          "wordCount": 609,
+          "title": "分析：BTC短期成本线10.88万美元成情绪牛熊分界",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e63921a3-471c-47c6-911c-2488dd5886ed.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，Sui基金会发布安全警示，近期出现名为SuiPro、SuiBank、银河101、YY等项目，冒用“Sui基金会官方支持”名义在线下活动及社交平台进行推广，涉嫌诱导用户参与投资或相关行为。基金会郑重声明，这些项目与Sui基金会无任何关联或授权，可能涉及非法集资或诈骗行为。社区成员需保持警惕，核实信息，并通过官方渠道验证活动真实性。若发现可疑行为，请及时向执法部门报告并保护个人资产安全。",
+          "link": "https://panewslab.com/zh/articledetails/e63921a3-471c-47c6-911c-2488dd5886ed.html",
+          "publishedOn": "2025-08-26T07:06:03.000Z",
+          "wordCount": 624,
+          "title": "Sui基金会：警惕SuiPro、SuiBank等冒用“Sui基金会支持”名义的诈骗项目",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0cd7662e-ea8a-4a62-b267-f124bcec2094.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据Matrixport分析，比特币ETF或将连续五个月出现净流出，本月预计流出规模约为12亿美元，位居历史次高，仅次于2月的35亿美元。尽管以太坊仍吸引资金流入，但夏季机构资金大多退场，季节性因素对市场的影响显著。分析师提醒，资金流向与季节性因素同样重要，当前市场需保持谨慎。",
+          "link": "https://panewslab.com/zh/articledetails/0cd7662e-ea8a-4a62-b267-f124bcec2094.html",
+          "publishedOn": "2025-08-26T06:45:47.000Z",
+          "wordCount": 614,
+          "title": "分析：比特币ETF或将连续五个月出现净流出，本月预计流出规模约为12亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/26fc84ef-7ca2-45ed-8401-522f6b49388a.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，CryptoQuant 分析师 Axel Adler Jr 发文表示，比特币近期的强支撑区间位于10万至10.7万美元之间，该区间为短期持有者的实际价格与200日简单移动平均线的交汇点。\n若跌破该区间，市场可能在9.2万至9.3万美元处获得更深层次支撑，该区间反映了持币3至6个月的短期投资者的成本基准，或成为市场的第二道防线。",
+          "link": "https://panewslab.com/zh/articledetails/26fc84ef-7ca2-45ed-8401-522f6b49388a.html",
+          "publishedOn": "2025-08-26T06:35:14.000Z",
+          "wordCount": 634,
+          "title": "CryptoQuant分析师：比特币强支撑区间或在10万至10.7万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9676b185-76e1-4243-b6a6-f79ab1d666b4.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据Bitlayer官方消息，BTR代币的首次公开发行（TGE）即将启动。BTR是Bitlayer生态系统的治理代币，总供应量固定为10亿枚，初始流通量为2.616亿枚（占总量的26.16%）。代币将在Bitlayer网络上铸造，并通过以太坊主网和BNB智能链分发，实现跨链兼容性。\nBTR代币用途包括质押与节点投票、链上治理及费用分配机制。代币分配计划如下：生态激励占40%、投资者及顾问占20.25%、核心团队占12%、公开分发占11%、节点激励占7.75%、国库占6%、流动性占3%。\n此前消息，币安Alpha和币安合约将于8月27日上线Bitlayer (BTR)。",
+          "link": "https://panewslab.com/zh/articledetails/9676b185-76e1-4243-b6a6-f79ab1d666b4.html",
+          "publishedOn": "2025-08-26T06:30:34.000Z",
+          "wordCount": 632,
+          "title": "Bitlayer公布BTR代币经济学：40%用于生态激励、7.75%用于节点激励",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/965d284a-fff5-4f08-a504-beb4da8f1f18.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据OKX行情数据显示，SD短时上涨42.3%，现报价0.94美元，最高涨至0.98美元。\n此前消息，Stader（SD）将上线Bithumb韩元交易市场。",
+          "link": "https://panewslab.com/zh/articledetails/965d284a-fff5-4f08-a504-beb4da8f1f18.html",
+          "publishedOn": "2025-08-26T06:25:46.000Z",
+          "wordCount": 584,
+          "title": "或受Bithumb上线影响，SD短时上涨42.3%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/df6ef36f-d1d0-4df6-8b83-aa7f32890776.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据Bithumb公告，Stader（SD）将于2025年8月26日正式上线韩元交易市场。支持网络为Ethereum，其他网络的充值暂不支持。",
+          "link": "https://panewslab.com/zh/articledetails/df6ef36f-d1d0-4df6-8b83-aa7f32890776.html",
+          "publishedOn": "2025-08-26T06:22:36.000Z",
+          "wordCount": 614,
+          "title": "Stader（SD）将上线Bithumb韩元交易市场",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/95940f10-dd3f-4b0f-acca-d664bd7c353a.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据Bybit月度报告显示，2025年7月以太坊价格从2400美元飙升至接近4000美元，涨幅达58%，推动ETH/BTC的平值期权隐含波动率比率从1.63升至2.2。尽管比特币创下12.3万美元的历史新高，但其波动率持续下降，30天平值期权隐含波动率保持在历史低点。这表明市场对BTC价格剧烈波动的预期显著降低，而ETH凭借其更高的波动性和投机性吸引了更多投资者关注。报告预测，随着ETH表现趋缓，ETH/BTC波动率比率可能逐步回归。",
+          "link": "https://panewslab.com/zh/articledetails/95940f10-dd3f-4b0f-acca-d664bd7c353a.html",
+          "publishedOn": "2025-08-26T06:12:35.000Z",
+          "wordCount": 608,
+          "title": "Bybit报告：随着ETH表现趋缓，ETH/BTC波动率比率可能逐步回归",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/eb93d6aa-7183-4ca1-8096-6e3e2a44f325.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据官方公告，伦敦上市科技公司The Smarter Web Company（SWC）通过最新认购批次筹得370万英镑（约500万美元），发行1,898,201股普通股。虽然官方公告未明确资金用途，但有消息称该公司可能计划将部分资金用于购买比特币。股份发行价格约为每股1.93英镑，公司预计将于本周收到约97%的净收益。此次认购活动于8月11日至22日完成，后续未发行的2,591,799股普通股完成后将签署新认购协议。",
+          "link": "https://panewslab.com/zh/articledetails/eb93d6aa-7183-4ca1-8096-6e3e2a44f325.html",
+          "publishedOn": "2025-08-26T06:09:40.000Z",
+          "wordCount": 635,
+          "title": "The Smarter Web Company筹集约500万美元或用于购买比特币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/64d50e9a-6168-47ec-9118-32ebe628cbe6.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，币安钱包推出全新插件（Beta版），用户可通过谷歌Chrome浏览器安全管理加密资产、连接去中心化应用（dApps）并探索Web3生态。插件采用无私钥（MPC多方安全计算）技术，将私钥分片独立存储，提升安全性，同时支持EVM、Solana和TRON等多链资产管理。用户可通过币安App扫码登录或导入现有钱包，无需复杂设置即可开始使用。此外，插件提供移动端与浏览器端的同步体验，目前仅支持谷歌Chrome浏览器，未来将扩展至其他浏览器。",
+          "link": "https://panewslab.com/zh/articledetails/64d50e9a-6168-47ec-9118-32ebe628cbe6.html",
+          "publishedOn": "2025-08-26T06:06:35.000Z",
+          "wordCount": 617,
+          "title": "币安钱包插件测试版上线，支持无私钥安全访问",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/51a089fc-f4f4-412c-9e3f-cd4f0b06d17b.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据Decrypt报道，两名MIT毕业的兄弟Anton和James Peraire-Bueno因涉嫌通过区块链漏洞窃取2500万美元加密资产，向纽约曼哈顿联邦法院提交动议，要求排除其谷歌搜索记录作为证据。\n检方试图使用他们搜索“顶级加密律师”和“电汇欺诈诉讼时效”等内容来证明犯罪意图，但辩护方表示这些搜索发生在律师咨询期间，受律师-客户保密特权保护。此案被认为是首例涉及MEV-boost区块链漏洞的刑事案件，若罪名成立，两人每项指控最高可面临20年监禁。美国地区法官Jessica G.L. Clarke将决定这些搜索记录是否能作为罪证或仅反映合理法律咨询行为。",
+          "link": "https://panewslab.com/zh/articledetails/51a089fc-f4f4-412c-9e3f-cd4f0b06d17b.html",
+          "publishedOn": "2025-08-26T06:03:16.000Z",
+          "wordCount": 633,
+          "title": "两名MIT毕业的兄弟申请排除“涉2500万美元加密盗窃案”的谷歌搜索记录",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c61db9fa-9ce8-428a-8be2-fd048d4ccbba.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据金十数据报道，摩根士丹利最新预测显示，美联储可能在2025年9月和12月分别降息25个基点，此前其预测是2025年不会降息。",
+          "link": "https://panewslab.com/zh/articledetails/c61db9fa-9ce8-428a-8be2-fd048d4ccbba.html",
+          "publishedOn": "2025-08-26T05:53:58.000Z",
+          "wordCount": 621,
+          "title": "摩根士丹利预计美联储将在9月和12月分别降息25个基点",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/43fc203e-2a6b-4f4d-a2f7-26c29c8f5698.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据官方消息，普普文化集团（纳斯达克代码：CPOP）宣布向Hyperbot.Network进行675万美元战略投资。\n此前，Hyperbot曾完成由ACE Redpoint Ventures领投的365万美元种子轮融资，其他参与机构包括Antalpha、Cyber、Cobo Ventures、Gate Labs、Sky9 Capital、NGC、SNZ Holding及Redline Labs等。\n据悉，Hyperbot是一款AI驱动的链上交易终端，支持多链及多去中心化交易所（DEX）执行，已集成Hyperliquid和Aster。其功能包括追踪巨鲸及智能资金流动、AI分析辅助识别链上信号以及通过PC及Telegram Bot执行智能跟单交易。",
+          "link": "https://panewslab.com/zh/articledetails/43fc203e-2a6b-4f4d-a2f7-26c29c8f5698.html",
+          "publishedOn": "2025-08-26T05:47:53.000Z",
+          "wordCount": 676,
+          "title": "AI链上交易终端Hyperbot获纳斯达克上市公司普普文化集团675万美元战略投资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/940ae03a-4019-4d58-a1f6-8480b6089f87.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，币安Alpha成为首个上线Alttown (TOWN)的交易平台，交易将于2025年8月26日15:00（北京时间）开始。活动期间，持有至少200个币安Alpha积分的用户可申领1600个TOWN代币空投，空投申领需消耗15个Alpha积分。",
+          "link": "https://panewslab.com/zh/articledetails/940ae03a-4019-4d58-a1f6-8480b6089f87.html",
+          "publishedOn": "2025-08-26T05:44:14.000Z",
+          "wordCount": 631,
+          "title": "持有至少200个币安Alpha积分的用户可申领1600枚TOWN代币空投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/67b967d7-cac9-4a68-96dc-594c5a1813de.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据港交所公告，港股上市公司瑞和数智发布通过开展加密货币业务扩展收入来源自愿性公告，其中披露该公司计划通过比特大陆提供的服务开展加密货币业务，具体形式为云挖矿服务并按约定周期分配的比特币挖矿奖励，据悉比特币挖矿将作为瑞和数智的独立业务板块。",
+          "link": "https://panewslab.com/zh/articledetails/67b967d7-cac9-4a68-96dc-594c5a1813de.html",
+          "publishedOn": "2025-08-26T05:28:55.000Z",
+          "wordCount": 623,
+          "title": "港股上市公司瑞和数智将开展加密货币业务并启动比特币云挖矿",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7d56826b-3292-4239-a1d1-1431ca649889.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据Coincentral报道，高盛近期增持1.94亿美元比特币，总持仓达到4.7亿美元，同时显著增加了比特币ETF的投资规模。\n2024年第四季度，高盛向比特币ETF投资15亿美元，其中iShares Bitcoin Trust（IBIT）持仓增长88%，总额达12.7亿美元；Fidelity Wise Origin Bitcoin Fund（FBTC）持仓增长105%，总额达2.88亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/7d56826b-3292-4239-a1d1-1431ca649889.html",
+          "publishedOn": "2025-08-26T05:15:31.000Z",
+          "wordCount": 645,
+          "title": "高盛近期增持1.94亿美元BTC，总持仓达到4.7亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/860521b0-e050-4178-92db-19e1373fbaaa.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据Onchain Lens监测，过去40分钟内，一位巨鲸向HyperLiquid平台存入749万美元USDC，并开设了ETH（20倍杠杆）和HYPE（10倍杠杆）的空头仓位。同时，该巨鲸还在现货市场购买了ETH和HYPE。",
+          "link": "https://panewslab.com/zh/articledetails/860521b0-e050-4178-92db-19e1373fbaaa.html",
+          "publishedOn": "2025-08-26T05:06:29.000Z",
+          "wordCount": 613,
+          "title": "某巨鲸开设约750万美元ETH和HYPE高倍杠杆空头仓位，并在现货市场购买ETH和HYPE",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/eef8a352-cbce-42ba-adbd-c51f07701920.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，YZi Labs旗下全球孵化计划EASY Residency首季圆满结束，16家初创企业在纽约证券交易所Demo Day上向200多位投资者和行业领袖展示成果。项目重点关注Web3、AI和生物科技领域的长期创新，涵盖AI原生应用、去中心化基础设施及传统金融与Web3融合的新模式。\n首季团队包括AMMO、APRO、Bitway、Byte AI等，解决了金融、数据和消费者采纳等领域的瓶颈。第二季将于10月6日启动，扩展至迪拜、新加坡、旧金山和纽约，并在迪拜的币安区块链周期间举办Demo Day。申请截止日期为9月6日，入选项目将获得最高50万美元资助及全球网络支持。",
+          "link": "https://panewslab.com/zh/articledetails/eef8a352-cbce-42ba-adbd-c51f07701920.html",
+          "publishedOn": "2025-08-26T04:41:13.000Z",
+          "wordCount": 657,
+          "title": "YZi Labs公布EASY Residency首季成果，Bitway、AMMO等项目入选",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0d8a5e0b-2017-4713-9734-6a15046813d9.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，据官方公告，OKX现已正式上线 “USDC 交易账户自动赚币” 产品。该产品面向 VIP 1 及以上用户开放，在不影响资产作为质押与交易保证金的前提下，支持将交易账户中的 USDC（币种全仓正权益）自动出借以获取收益，主账户限额为 1,000,000 USDC。\n据悉，开启OKX交易账户自动赚币功能后，用户无需手动申购，全仓权益变动将实时体现在赚币资产中，而且资产始终留在交易账户内，不影响任何交易操作。此外，全仓保证金与挂单占用亦可计入赚币资产，从而提升资金利用率。此前，OKX 已上线 USDT 交易账户自动赚币，后续将拓展至 ETH 与 SOL。",
+          "link": "https://panewslab.com/zh/articledetails/0d8a5e0b-2017-4713-9734-6a15046813d9.html",
+          "publishedOn": "2025-08-26T04:34:37.000Z",
+          "wordCount": 692,
+          "title": "OKX 上线 USDC 交易账户自动赚币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/80e0d58c-f508-4f01-bde8-e25bf5c4305d.html",
+          "author": "PA一线",
+          "description": "PANews 8月26日消息，加密货币自营公司Breakout创始人Mayne表示，比特币可能即将迎来反弹，可能在11万至12万美元区间内继续横盘整理，前提是未完全回到此前区间。\n此外，SOL/ETH目前处于重要的月度支撑位，而ETH/BTC已突破高点，ETH/USD则出现周线级别的扫盘迹象。基于此，他倾向于在SOL/USD价格回调时布局多单，认为$190是一个关键水平。",
+          "link": "https://panewslab.com/zh/articledetails/80e0d58c-f508-4f01-bde8-e25bf5c4305d.html",
+          "publishedOn": "2025-08-26T04:19:21.000Z",
+          "wordCount": 621,
+          "title": "Breakout创始人：比特币或将在11万至12万美元区间震荡",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
