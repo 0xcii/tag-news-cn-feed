@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/f99aaf8d-42a0-4d56-8ed2-2ad8885e2ce8.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据云锋金融公告，公司董事会已批准于公开市场购买ETH作为储备资产。截至公告日期，集团已于公开市场累计购买10000枚ETH，总投资成本（含费用及开支）为4400万美元。此次购买资金来自集团内部现金储备，所购ETH在集团财务报表中列为投资资产。",
+          "link": "https://panewslab.com/zh/articledetails/f99aaf8d-42a0-4d56-8ed2-2ad8885e2ce8.html",
+          "publishedOn": "2025-09-02T12:19:55.000Z",
+          "wordCount": 577,
+          "title": "云锋金融：购买10000枚ETH，总投资成本4400万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e034dcf7-1832-47f7-a509-a2461245daf1.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据PR Newswire报道，ETHZilla（纳斯达克代码：ETHZ）宣布计划将约1亿美元ETH部署至DeFi协议EtherFi进行再质押，以提升其金库收益并强化以太坊安全。公司目前持有102,246枚ETH，价值约4.56亿美元，平均购入价为3,948.72美元。此外，ETHZilla已完成Elray Resources, Inc.所持131.8万股普通股注销。公司表示将持续推进DeFi集成及金库管理创新。",
+          "link": "https://panewslab.com/zh/articledetails/e034dcf7-1832-47f7-a509-a2461245daf1.html",
+          "publishedOn": "2025-09-02T12:18:59.000Z",
+          "wordCount": 595,
+          "title": "ETHZilla宣布1亿美元ETH将用于EtherFi再质押",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cc12f223-669e-4ade-83f6-237309f10233.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，BNB Network Company (BNC)宣布已将BNB持仓扩大至388,888枚，市值约3.3亿美元，并计划于年底前将持仓提升至BNB总供应量的1%。",
+          "link": "https://panewslab.com/zh/articledetails/cc12f223-669e-4ade-83f6-237309f10233.html",
+          "publishedOn": "2025-09-02T12:16:24.000Z",
+          "wordCount": 595,
+          "title": "BNC的BNB持有量增至388,888枚，目标年底达供应量1%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/67fc69e7-81fb-49e7-b588-4935b513dba5.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据Fortune报道，AI区块链初创公司Kite宣布完成1800万美元A轮融资，领投方为PayPal Ventures和General Catalyst，8VC、Samsung Next等参投。Kite旨在打造支持AI应用间通信的区块链基础设施，累计融资达3300万美元。Kite计划通过区块链为AI代理提供身份认证和信任机制，推动AI代理在互联网自动化购物等场景的应用。",
+          "link": "https://panewslab.com/zh/articledetails/67fc69e7-81fb-49e7-b588-4935b513dba5.html",
+          "publishedOn": "2025-09-02T12:12:15.000Z",
+          "wordCount": 613,
+          "title": "Kite获PayPal及General Catalyst领投1800万美元融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/f10df14e-cb10-4b4e-85bd-343140cf0183.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，SharpLink宣布以约4,531美元均价购入39,008枚ETH，总持仓升至837,230枚，价值约36亿美元。同期通过ATM设施筹集资金4,660万美元，质押奖励累计2,318枚ETH，库存现金超7,160万美元。",
+          "link": "https://panewslab.com/zh/articledetails/f10df14e-cb10-4b4e-85bd-343140cf0183.html",
+          "publishedOn": "2025-09-02T12:08:27.000Z",
+          "wordCount": 550,
+          "title": "SharpLink新增39,008枚ETH，总持仓达837,230枚",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9a6af9a3-eae2-4099-b01c-25c687d0b54b.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，Strategy（原MicroStrategy）在8月26日至9月1日期间以总价4.493亿美元购入4,048枚比特币，目前公司总持仓达到636,505枚BTC。",
+          "link": "https://panewslab.com/zh/articledetails/9a6af9a3-eae2-4099-b01c-25c687d0b54b.html",
+          "publishedOn": "2025-09-02T12:04:05.000Z",
+          "wordCount": 580,
+          "title": "Strategy新增购入4048枚BTC，持仓总量达636,505枚",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9066d881-c528-4d0d-b460-df8c5fcd8c8c.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，PANews 今晚 20 时举办 Space「RWA 崛起：从链上资产到全球金融新秩序」随着稳定币市值突破$2700亿，RWA赛道规模逼近$280亿，全球合规进程与机构参与正将 RWA 推向新的临界点。从美国《GENIUS 法案》到香港稳定币条例，RWA 如何在监管框架、流动性挑战和跨境合规的博弈中找到突破口？\n本期 PANews 特邀 Libeara、Story Protocol、DigiFT、MyStonks、Pharos等一线构建者，共同探讨 RWA 的合规路径与市场前景。\nSpace 直播地址：https://twitter.com/i/spaces/1YqGolMYLokJv",
+          "link": "https://panewslab.com/zh/articledetails/9066d881-c528-4d0d-b460-df8c5fcd8c8c.html",
+          "publishedOn": "2025-09-02T12:00:00.000Z",
+          "wordCount": 662,
+          "title": "PANews 主题 X Space「 RWA 崛起：从链上资产到全球金融新秩序」直播中",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b8272a36-4f46-4067-8c7f-c782830cbc47.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据PR Newswire报道，BitMine Immersion Technologies（BMNR）宣布发布8月投资者演示及董事长Tom Lee视频，披露截至8月31日，其加密货币及现金总持有量达89.8亿美元，包括1,866,974枚ETH（每枚4,458美元）、192枚BTC及6.35亿美元现金。BitMine为全球最大ETH金库及第二大加密资产金库，仅次于Strategy Inc.（MSTR）。BitMine的机构投资者包括ARK、Founders Fund、Pantera等。公司强调GENIUS Act与SEC Project Crypto将推动以太坊长期发展，相关演示及视频已上线官网。",
+          "link": "https://panewslab.com/zh/articledetails/b8272a36-4f46-4067-8c7f-c782830cbc47.html",
+          "publishedOn": "2025-09-02T11:48:33.000Z",
+          "wordCount": 593,
+          "title": "BitMine公布持仓数据：加密货币及现金总持有量达89.8亿美元，包括约186.7万枚ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/230887cf-f4f4-49e6-93ac-1381e654d2fd.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据PRNewswire报道，Sharps Technology（纳斯达克代码：STSS）首次收购Solana（SOL）作为数字资产金库战略核心，目前持有超200万枚SOL，总价值逾4亿美元。公司此次收购资金来自近期PIPE股权融资。",
+          "link": "https://panewslab.com/zh/articledetails/230887cf-f4f4-49e6-93ac-1381e654d2fd.html",
+          "publishedOn": "2025-09-02T11:39:50.000Z",
+          "wordCount": 583,
+          "title": "Sharps Technology宣布已收购逾200万枚SOL",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/f6497e31-3510-48bb-8963-d2725845526b.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据官方公告，Gate Wallet BountyDrop 已上线 MOMO.FUN 空投活动，用户可通过 Gate Wallet App“发现”页面进入 BountyDrop 板块参与任务，完成任务即有机会赢取奖励。BountyDrop 是 Gate Wallet “发现”页面中的专属赚币活动专区，用户通过完成简单任务，即有机会赢取奖励或参与抽签获取空投代币。\n此外，Gate Wallet 推出系列活动：BTC 与 ETH 涨跌预测赛，参与交易并提交预测可赢 5 USDT；WLFI 链上交易季，9 月 1 日至 9 月 22 日，连续 3 天每日交易 WLFI ≥ 1,000 U 或累计交易 ≥1,000 U 可获最高 150 USDT 奖励，奖池总额 10,000 USDT。",
+          "link": "https://panewslab.com/zh/articledetails/f6497e31-3510-48bb-8963-d2725845526b.html",
+          "publishedOn": "2025-09-02T11:31:38.000Z",
+          "wordCount": 693,
+          "title": "Gate Wallet BountyDrop 新上线 MOMO.FUN 空投活动",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9cc25dd1-b6aa-4b86-a703-62079081533d.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，Sui生态AI基础设施DeAgentAI宣布与SIRAYA Technologies及字节跳动旗下云服务平台BytePlus达成战略合作。三方将结合DeAgentAI的链上AI代理网络、SIRAYA的解决方案交付能力及BytePlus的AI与云算力，共同推动GPU驱动的智能工作流，赋能金融科技与Web3应用，加速去中心化AI解决方案落地。",
+          "link": "https://panewslab.com/zh/articledetails/9cc25dd1-b6aa-4b86-a703-62079081533d.html",
+          "publishedOn": "2025-09-02T11:28:03.000Z",
+          "wordCount": 551,
+          "title": "DeAgentAI携手SIRAYA与BytePlus，共建Web3 GPU应用生态",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/15c41277-8477-41a9-ab57-312019951772.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据PR Newswire报道，加密货币交易平台Gemini宣布启动首次公开募股（IPO），拟发行16,666,667股A类普通股，发行价区间为每股17至19美元。承销商可行使超额配售权，最多额外增发2,500,000股。Gemini已申请以“GEMI”为代码在纳斯达克上市。Goldman Sachs、Citigroup等为主承销商。",
+          "link": "https://panewslab.com/zh/articledetails/15c41277-8477-41a9-ab57-312019951772.html",
+          "publishedOn": "2025-09-02T11:26:36.000Z",
+          "wordCount": 578,
+          "title": "Gemini启动IPO，拟募资最多3.17亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/69c41bd9-ed81-4104-b00c-387c68044bf9.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，Starknet官推发文称，Starknet网络再次发生宕机，工程师团队已着手修复，目前尚未公布详细原因，后续将持续更新进展。",
+          "link": "https://panewslab.com/zh/articledetails/69c41bd9-ed81-4104-b00c-387c68044bf9.html",
+          "publishedOn": "2025-09-02T11:10:33.000Z",
+          "wordCount": 574,
+          "title": "Starknet再度出现宕机，工程师正修复相关问题",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/76f298ed-d3b5-4782-9741-2d04f6c070b1.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据慢雾创始人Cos(余弦)称，Venus协议及前端未发现异常，合作方分析认为大户虽使用硬件钱包，但电脑中钱包扩展被恶意替换，redeemUnderlying操作被篡改为updateDelegate，导致资产被盗。黑客资金部分来自XMR兑换及被制裁暗网交易所eXch。",
+          "link": "https://panewslab.com/zh/articledetails/76f298ed-d3b5-4782-9741-2d04f6c070b1.html",
+          "publishedOn": "2025-09-02T11:09:19.000Z",
+          "wordCount": 576,
+          "title": "分析：Venus协议大户因钱包扩展被替换遭定点攻击",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/61db3684-8ad7-42de-afa6-871940d9fe53.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，Binance Alpha将于今晚21:30上线Somnia（SOMI），用户可在交易开启后24小时内用Alpha积分申领100枚SOMI空投。前18小时需持有235分，后6小时门槛降至220分且先到先得，若奖励未发放完毕，积分要求每小时自动降低15分。申领需消耗15分。\n此前报道，币安HODLer空投上线Somnia，SOMI将于9月2日开通现货交易。",
+          "link": "https://panewslab.com/zh/articledetails/61db3684-8ad7-42de-afa6-871940d9fe53.html",
+          "publishedOn": "2025-09-02T11:05:36.000Z",
+          "wordCount": 584,
+          "title": "Binance：Somnia（SOMI）空投的Alpha积分门槛分别为235分和220分",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/f4cbdc04-8a14-40a3-aef6-b485ad87c95d.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据Newsfile Corp报道，Sequans Communications宣布以约3,800万美元购入34枚比特币，平均价格为每枚111,374美元（含手续费）。截至2025年9月1日，公司共持有3,205枚比特币，总净投资约3.74亿美元，平均购入价为116,653美元。Sequans表示将继续以比特币为主要储备资产，资金来源包括股权、债务发行及运营现金流。",
+          "link": "https://panewslab.com/zh/articledetails/f4cbdc04-8a14-40a3-aef6-b485ad87c95d.html",
+          "publishedOn": "2025-09-02T10:50:31.000Z",
+          "wordCount": 585,
+          "title": "Sequans增持34枚比特币持仓增至3205枚，总投资约3.74亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/44462776-deb2-4cfa-85c6-1d7ddb36eda5.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，Venus Protocol发推称，平台并未被攻击，仅有单一用户遭到攻击，智能合约保持安全。\n20分钟前慢雾创始人Cos(余弦)表示，Venus协议本身未被攻击，但不排除前端可能被劫持，黑客针对大户实施钓鱼，部分资金通过XMR兑换获取gas。大户电脑疑遭定向投毒，目前损失金额或未超过2000万美元，相关细节仍在调查。",
+          "link": "https://panewslab.com/zh/articledetails/44462776-deb2-4cfa-85c6-1d7ddb36eda5.html",
+          "publishedOn": "2025-09-02T10:42:29.000Z",
+          "wordCount": 584,
+          "title": "Venus Protocol澄清未遭受攻击，智能合约安全",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/33bb5561-7c0c-4bac-ac49-2984fcd175dc.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据路透社报道，Ether Machine宣布通过私募融资获得150,000枚以太坊（约6.54亿美元），由长期支持者Jeffrey Berns投资，并将于本周转入公司钱包。Berns将加入董事会。该公司由Ether Reserve与Dynamix Corporation合并成立，计划纳斯达克上市，当前持有逾495,362枚以太坊（约21.6亿美元）及3.67亿美元资金，继续由Citibank领投新一轮5亿美元融资。",
+          "link": "https://panewslab.com/zh/articledetails/33bb5561-7c0c-4bac-ac49-2984fcd175dc.html",
+          "publishedOn": "2025-09-02T10:40:58.000Z",
+          "wordCount": 596,
+          "title": "Ether Machine获6.54亿美元以太坊私募融资，由Jeffrey Berns投资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3807d8e8-53e2-4ddb-a30f-5b4f6c7723e5.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，消息人士：美国货币监理署、美联储和消费者金融保护局已推迟、缩减或取消了对银行的审查。监管机构已缩小审查范围。这些调整影响大型和中型银行。\n逾六位行业高层表示，美国监管当局正在减少部分银行测试并减少动用纪律处分信，这些迹象表明银行已经从特朗普政府松绑监管的政策中受益。近几个月来，美国货币监理署、美联储、美国消费者金融保护局已经推迟、缩减或取消银行测试。知情人士表示，新的、更轻松的审核方式主要适用于非核心的银行业问题，例如信誉风险、气候变迁风险以及多元化和包容性。监管机构还限制了测试范围，其中包括一些与关键的银行业务问题相关的测试。监管当局在指示银行解决问题时也采取了更温和的方式。长期以来，官员们的做法通常是发出正式的纪律处分信，警告银行需要尽速处理的问题。银行曾抱怨称，这类通知信函在数量上或者语气上往往过于强烈。监管机构已开始减少发出这类信函，转而采用非正式的沟通方式来指导银行纠正问题。",
+          "link": "https://panewslab.com/zh/articledetails/3807d8e8-53e2-4ddb-a30f-5b4f6c7723e5.html",
+          "publishedOn": "2025-09-02T10:36:21.000Z",
+          "wordCount": 581,
+          "title": "美监管机构缩减银行审查范围，部分审查被推迟或取消",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d6e9b83f-dd7c-4ab0-9b4f-8801de247b35.html",
+          "author": "PA一线",
+          "description": "PANews 9月2日消息，据Bitget公告，Bitget将团队持有的全部4.4亿枚BGB转移至Morph基金会，Morph将销毁2.2亿枚BGB，剩余2.2亿枚锁仓，每月解锁2%，用于生态激励。BGB将成为Morph链的Gas及治理代币，Morph基金会负责BGB未来发展，并将更新BGB销毁机制，目标总供应量降至1亿枚。Morph主网已于2024年Q4上线，峰值TVL突破1.5亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/d6e9b83f-dd7c-4ab0-9b4f-8801de247b35.html",
+          "publishedOn": "2025-09-02T10:24:50.000Z",
+          "wordCount": 593,
+          "title": "BGB 升级为 Morph 公链代币，一次性销毁 2.2 亿枚",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
