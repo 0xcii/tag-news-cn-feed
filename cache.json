@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/8cdcac58-b303-46a0-85fa-ed60293c158f.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，据Newsfilecorp报道，Pineapple Financial宣布完成1亿美元私募融资，将设立专门的Injective（INJ）金库并购入INJ，成为首家持有INJ的上市公司。该策略预计带来约12%年化收益，投资方包括FalconX、Kraken、Blockchain.com等。INJ作为Injective公链原生资产，近期网络使用量同比增长超1000%。",
+          "link": "https://panewslab.com/zh/articledetails/8cdcac58-b303-46a0-85fa-ed60293c158f.html",
+          "publishedOn": "2025-09-05T13:29:33.000Z",
+          "wordCount": 602,
+          "title": "Pineapple Financial完成1亿美元私募并启动INJ金库",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/57132e85-2c25-4b3d-9a25-24e846b29faa.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，Bokeh Capital Partners首席投资官金·福雷斯特：刚刚公布的疲弱数据给了美联储足够的降息空间。这其中有一些令人不安的趋势：工作岗位不足、总体数据不及预期以及U-6未充分就业人数的增加也令人不安。看起来美联储可能会降息50个基点，而且看起来在接下来的三次会议中，美联储可能不得不降息以支持经济。",
+          "link": "https://panewslab.com/zh/articledetails/57132e85-2c25-4b3d-9a25-24e846b29faa.html",
+          "publishedOn": "2025-09-05T13:25:56.000Z",
+          "wordCount": 605,
+          "title": "分析师：美联储可能会降息50个基点并连续三次降息",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/33054e40-b06e-45bb-80b9-57a91c2a3ef9.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，官方消息，Web3 首个玄学项目 SUPERFORTUNE 连连有盈正式推出 v2 版本，上线功德箱模块，包含请香、请守护、焚烧厄运三种方式积累功德。用户可赛博请香烧香，也可在请守护购买转运水晶、太岁符、福兽，还可烧掉自己已归零的 MEME，将厄运焚烧。此外，Fortune 值将按比例兑换为 QIAN，QIAN 可直接用于财运符升级、加速。\nSUPERFORTUNE 是 Manta Network 深度孵化的 Web3 首个玄学项目，通过 AI 将中国传统玄学理论与加密资产结合，并与 Wello 的 PayFi 结合，提供个人运势测试、代币运势测试、前世今生测试，以及打小人等功能。",
+          "link": "https://panewslab.com/zh/articledetails/33054e40-b06e-45bb-80b9-57a91c2a3ef9.html",
+          "publishedOn": "2025-09-05T13:23:18.000Z",
+          "wordCount": 664,
+          "title": "Web3 玄学项目 SUPERFORTUNE 上线功德箱模块，支持赛博烧香、破太岁、焚烧厄运等",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b52bebcd-8c05-4044-96c2-032478bc66bf.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，据GlobeNewswire报道，Trump Media已与Crypto.com达成协议，收购6.844亿枚Cronos（CRO）代币，价格约为每枚0.153美元，交易以50%股票和50%现金进行。该代币占CRO流通量约2%，并将通过Crypto.com Custody进行托管和质押。双方将推动CRO集成至Truth Social及Truth+平台，作为奖励系统的一部分。协议涉及锁定期，并包含战略合作及数字资产金库业务布局。",
+          "link": "https://panewslab.com/zh/articledetails/b52bebcd-8c05-4044-96c2-032478bc66bf.html",
+          "publishedOn": "2025-09-05T13:17:40.000Z",
+          "wordCount": 601,
+          "title": "Trump Media完成与Crypto.com的CRO代币收购协议",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d82a2ee4-ed4e-453d-be2a-51cabef352d3.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，SharpLink宣布公司完全符合纳斯达克规则，若启动ATM计划用于购买ETH，无需进一步股东批准。公司强调仅在资本能为股东增值时才筹资，并持续保持合规与透明。",
+          "link": "https://panewslab.com/zh/articledetails/d82a2ee4-ed4e-453d-be2a-51cabef352d3.html",
+          "publishedOn": "2025-09-05T13:14:46.000Z",
+          "wordCount": 591,
+          "title": "SharpLink称无需股东批准即可执行ATM购ETH计划",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/68171a95-4440-47b4-ba5a-c2181614f2f7.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，据AggrNews报道，美国SEC与CFTC正在考虑采取措施，将永续合约引入美国本土合规市场。目前永续合约多在离岸加密市场流通，美国受限于监管与定义约束未能开放。若新规落地，将允许符合投资者保护和风险管理标准的永续合约在SEC及CFTC监管下的交易平台上线，从而减少资金外流至海外平台，并为美国交易者提供具透明杠杆限制与稳健风险管理的产品。",
+          "link": "https://panewslab.com/zh/articledetails/68171a95-4440-47b4-ba5a-c2181614f2f7.html",
+          "publishedOn": "2025-09-05T13:12:31.000Z",
+          "wordCount": 599,
+          "title": "SEC与CFTC或考虑在美合规引入永续合约",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/46f7c50c-4686-4142-8418-60270b1df0b0.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，美国证券交易委员会（SEC）与商品期货交易委员会（CFTC）发布联合声明，宣布将于9月29日联合举办圆桌会议，讨论监管协调、产品与场所定义统一、数据标准简化及创新豁免等议题。会议将向公众开放并在SEC官网直播。",
+          "link": "https://panewslab.com/zh/articledetails/46f7c50c-4686-4142-8418-60270b1df0b0.html",
+          "publishedOn": "2025-09-05T13:08:46.000Z",
+          "wordCount": 590,
+          "title": "美SEC与CFTC将于9月29日举行联合圆桌会议推动监管协调",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dd114b9f-e345-4663-aa78-808c75a593a2.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，币安 Alpha 将于 9 月 8 日率先上线Black Mirror（MIRROR）。 符合条件的用户可在交易开放后，使用币安 Alpha 积分在 Alpha 活动页面领取空投。",
+          "link": "https://panewslab.com/zh/articledetails/dd114b9f-e345-4663-aa78-808c75a593a2.html",
+          "publishedOn": "2025-09-05T13:06:17.000Z",
+          "wordCount": 631,
+          "title": "币安Alpha将于9月8日上线Black Mirror（MIRROR）",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/bb85509b-a866-46ed-9681-7f28abe0305b.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，据The Block报道，DeFi借贷协议Wildcat Labs宣布完成由Robot Ventures领投的350万美元种子扩展轮融资，估值达到3500万美元。Triton Capital、Polygon Ventures等机构及多位天使投资人参投。新资金将用于扩展团队、推动协议在以太坊生态的集成，并开发新型市场与机制。Wildcat Labs已累计融资530万美元，目前管理1.5亿美元未偿信贷，自上线以来信贷总额达3.68亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/bb85509b-a866-46ed-9681-7f28abe0305b.html",
+          "publishedOn": "2025-09-05T13:01:44.000Z",
+          "wordCount": 614,
+          "title": "Wildcat Labs完成350万美元融资，估值达3500万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/724319af-95d6-4655-9392-eee856aae68d.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，据CME“美联储观察”：美联储9月维持利率不变的概率为0，降息25个基点的概率为88.3%，降息50个基点的概率为11.7%（数据公布前概率为0）。美联储10月维持利率不变的概率为0.4%，累计降息25个基点的概率为36.2%，累计降息50个基点的概率为63.4%。",
+          "link": "https://panewslab.com/zh/articledetails/724319af-95d6-4655-9392-eee856aae68d.html",
+          "publishedOn": "2025-09-05T12:51:53.000Z",
+          "wordCount": 587,
+          "title": "非农公布后：美联储9月降息50个基点的概率从0升至11.7%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/32d2aa03-a26b-4356-938b-f677c63d8e7c.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，美国三大股指在非农报告后扩大涨幅。现货黄金继续走高，向上触及3580美元/盎司，日内涨1.05%。现货白银突破41美元/盎司，日内涨0.86%。",
+          "link": "https://panewslab.com/zh/articledetails/32d2aa03-a26b-4356-938b-f677c63d8e7c.html",
+          "publishedOn": "2025-09-05T12:34:38.000Z",
+          "wordCount": 557,
+          "title": "现货黄金走高向上触及3580美元/盎司，现货白银突破41美元/盎司",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3b2d8a59-dcb4-4b09-a753-5c84f2baf62a.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，美国劳工统计局：6月份非农新增就业人数从1.4万人下修2.7万人至-1.3万人；7月份非农新增就业人数从7.3万人上修0.6万至7.9万人。修正后，6月和7月新增就业人数合计较修正前低2.1万人。",
+          "link": "https://panewslab.com/zh/articledetails/3b2d8a59-dcb4-4b09-a753-5c84f2baf62a.html",
+          "publishedOn": "2025-09-05T12:33:18.000Z",
+          "wordCount": 590,
+          "title": "美国6月和7月非农就业人数合计下修2.1万人",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/53b940d2-ec2b-42c3-9065-b973d47fc894.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，美国8月季调后非农就业人口录得增加2.2万人，低于市场预期的7.5万人。美国8月失业率录得4.3%，符合市场预期，为2021年10月以来新高。",
+          "link": "https://panewslab.com/zh/articledetails/53b940d2-ec2b-42c3-9065-b973d47fc894.html",
+          "publishedOn": "2025-09-05T12:31:37.000Z",
+          "wordCount": 554,
+          "title": "非农数据大幅低于预期，失业率创近4年来新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/de52e18d-590e-4d41-96de-b1295e3d58bc.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，据金十数据，美国8月季调后非农就业人口 2.2万人，预期7.5万人，前值7.3万人。美国8月失业率 4.3%，预期4.30%，前值4.20%。",
+          "link": "https://panewslab.com/zh/articledetails/de52e18d-590e-4d41-96de-b1295e3d58bc.html",
+          "publishedOn": "2025-09-05T12:30:33.000Z",
+          "wordCount": 567,
+          "title": "美国8月季调后非农就业人口2.2万人，失业率4.3%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b4975061-1637-4666-87d4-91307a10c27d.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，云锋金融集团（376.HK）宣布委任梁信军为独立非执行董事，任职自2025年9月5日生效。梁信军现为信家族办公室董事长兼CEO，曾任复星集团联合创始人，并在Web3、人工智能等领域拥有投资经验。",
+          "link": "https://panewslab.com/zh/articledetails/b4975061-1637-4666-87d4-91307a10c27d.html",
+          "publishedOn": "2025-09-05T12:23:32.000Z",
+          "wordCount": 554,
+          "title": "云锋金融：委任梁信军先生为独立非执行董事",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/afd381c1-9efd-4d37-af1e-d458b5f04497.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，据Crypto in America报道，美参议院银行委员会正敲定加密市场结构改革草案，预计本月提交银行委员会审议，年底前或全院投票。草案吸收行业及游说团体反馈，民主党将首次深入参与。同期，SEC内部调查显示，前主席Gary Gensler自2022年10月至2023年9月期间近一年短信因IT操作失误被永久删除，涉及加密执法、银行和白宫协调等关键内容。SEC已禁用员工短信功能并加强记录培训。",
+          "link": "https://panewslab.com/zh/articledetails/afd381c1-9efd-4d37-af1e-d458b5f04497.html",
+          "publishedOn": "2025-09-05T12:19:29.000Z",
+          "wordCount": 604,
+          "title": "美参议院银行委员会正敲定加密市场结构改革草案",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ef4cc972-b07d-46d9-a04e-29426a929b90.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，美国国债收益率在非农就业报告前因劳工统计局技术问题而下跌，新兴市场货币指数触及日内高点。",
+          "link": "https://panewslab.com/zh/articledetails/ef4cc972-b07d-46d9-a04e-29426a929b90.html",
+          "publishedOn": "2025-09-05T12:16:27.000Z",
+          "wordCount": 589,
+          "title": "美国国债收益率在非农就业报告前下跌",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/43d712e8-9c02-48ee-905d-06f1fa08ee25.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，德国商业银行外汇与大宗商品研究主管Thu Lan Nguyen指出，世界黄金协会提出了一项旨在推动黄金市场现代化的新构想，计划推出一种数字黄金形式。其背后的动机可能是担心稳定币和/或央行数字货币可能成为黄金的替代投资品。但在我们看来，这种担忧并无根据。稳定币和央行数字货币都与法币挂钩——稳定币因由美元背书，而央行数字货币由央行直接发行，实际上与现金功能类似。另一方面，黄金是‘无政治属性’的，即它并非由任何央行或其他政治机构发行。黄金的总量主要由矿产供应决定，而矿产供应的变化较为缓慢。对于那些为对冲政治风险而投资黄金的投资者而言，法币能否更便捷、低成本地转账，可能并非他们关注的重点。",
+          "link": "https://panewslab.com/zh/articledetails/43d712e8-9c02-48ee-905d-06f1fa08ee25.html",
+          "publishedOn": "2025-09-05T12:15:33.000Z",
+          "wordCount": 601,
+          "title": "德商银行：数字货币很难替代黄金 后者具备“无政治性”特征",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/be2ce0fd-4d7f-4f58-a792-5b395f9ca106.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，国际反洗钱组织FATF(金融行动特别工作组)、Egmont Group、INTERPOL及联合国毒品与犯罪问题办公室（UNODC）联合发布《国际反洗钱合作手册》，推动各国分析师、调查员和检察官加强跨境协作。手册强调通过非正式合作方式加快调查进度，并辅以三份实务指南。实际案例包括意大利、西班牙与荷兰联合侦破9500万欧元洗钱案、澳大利亚AVARUS-X行动打击年转数十亿澳元的网络、以及美印实时协作查获1.5亿美元加密资产等。",
+          "link": "https://panewslab.com/zh/articledetails/be2ce0fd-4d7f-4f58-a792-5b395f9ca106.html",
+          "publishedOn": "2025-09-05T12:13:35.000Z",
+          "wordCount": 591,
+          "title": "金融行动特别工作组等国际组织联合发布反洗钱合作手册",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/92eba9a4-7e47-4df4-bac8-615d40fac967.html",
+          "author": "PA一线",
+          "description": "PANews 9月5日消息，美国劳工统计局表示，在就业报告发布前，其网站上的数据检索工具目前无法使用，遇到了技术困难。",
+          "link": "https://panewslab.com/zh/articledetails/92eba9a4-7e47-4df4-bac8-615d40fac967.html",
+          "publishedOn": "2025-09-05T12:04:56.000Z",
+          "wordCount": 591,
+          "title": "非农报告发布前，美国劳工统计局网站出现技术问题",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
