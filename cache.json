@@ -1,42 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "PANews - 快讯",
-      "feedUrl": "https://rsshub.app/panewslab/news",
-      "siteUrl": "https://panewslab.com/zh/news/index.html",
-      "articles": [
-        {
-          "id": "https://panewslab.com/zh/articledetails/nt0yu759.html",
-          "author": "PA一线",
-          "description": "PANews 9月9日消息，欧易OKX行情显示，ETH刚刚跌破4300美元，现报4297.32美元/枚，日内下跌 1.70%。",
-          "link": "https://panewslab.com/zh/articledetails/nt0yu759.html",
-          "publishedOn": "2025-09-08T19:34:30.000Z",
-          "wordCount": 565,
-          "title": "ETH跌破4300美元，日内下跌 1.70%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/c595d753-c5b7-4391-943a-5a20d0d05a92.html",
-          "author": "PA一线",
-          "description": "PANews 9月8日消息，据Blockworks报道，前Symbolic Capital合伙人Sam Lehman已加入Pantera Capital，担任初级合伙人一职。 Lehman表示，Pantera引入他，是看中其在加密与人工智能交叉领域投资方面的专业知识。Pantera Capital在完成Pantera第五期基金的首轮募资后不久便吸纳了Lehman，该基金目标募资规模为10亿美元。Pantera普通合伙人兼投资组合经理Cosmo Jiang曾暗示，新基金将有相当一部分资金用于加密-人工智能领域的投资。Lehman将成为Pantera的第四位初级合伙人。该公司还拥有两位管理合伙人、两位普通合伙人和两位合伙人。Lehman表示，他之所以被Pantera吸引，部分原因在于有机会“陪伴公司整个发展历程，而不仅仅是在早期阶段”。他还表示，做出这一决定也是因为他将共事的团队。",
-          "link": "https://panewslab.com/zh/articledetails/c595d753-c5b7-4391-943a-5a20d0d05a92.html",
-          "publishedOn": "2025-09-08T16:08:58.000Z",
-          "wordCount": 637,
-          "title": "前Symbolic合伙人Sam Lehman加入Pantera Capital担任初级合伙人",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/37ef9717-954e-4c8e-b37a-3473dd40c14d.html",
-          "author": "PA一线",
-          "description": "PANews 9月8日消息，据The Block报道，由MegaLabs开发的以太坊扩容方案MegaETH，正在链上推出一款名为USDm的稳定币，该稳定币旨在取代传统排序器保证金，并将储备收益用于覆盖网络运营成本。该模型由MegaETH与去中心化金融协议Ethena合作构建，旨在通过按成本运行排序器、保持用户和开发者交易费用低廉且稳定，来协调链上与生态系统激励。当前，多个Layer2网络通过在排序器费用上加价来获取收入。而USDm旨在解决这一问题：当项目在主网上线时，它将把稳定币储备收益用于支付共享网络成本。\nUSDm的首个版本将在Ethena的USDtb协议层上发行。一位MegaETH代表向The Block透露，USDm在推出时将兑换为USDtb，而非直接提供法币赎回。该团队未透露覆盖日常运营费用的目标浮动金额，表示这些参数将随时间确定。关于其他收入来源（如MEV），MegaETH表示，相关细节将在主网上线前公布。",
-          "link": "https://panewslab.com/zh/articledetails/37ef9717-954e-4c8e-b37a-3473dd40c14d.html",
-          "publishedOn": "2025-09-08T16:06:08.000Z",
-          "wordCount": 607,
-          "title": "MegaETH与Ethena联合推出原生稳定币USDm，以补贴排序器费用",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
