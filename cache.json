@@ -1,4 +1,32 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/f26cf038-feb4-4d07-869b-bcd0faa3f78f.html",
+          "author": "PA一线",
+          "description": "PANews 9月10日消息，据官方公告，Coinbase宣布将于2025年9月11日上线Kamino(KMNO)和Dolomite(DOLO)现货交易。在流动性条件满足且支持交易的地区，KMNO-USD和DOLO-USD交易对将于太平洋时间上午9点或之后开放。",
+          "link": "https://panewslab.com/zh/articledetails/f26cf038-feb4-4d07-869b-bcd0faa3f78f.html",
+          "publishedOn": "2025-09-10T16:09:55.000Z",
+          "wordCount": 595,
+          "title": "Coinbase将上线KMNO与DOLO",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/01eccbdd-b747-4186-bd1a-9ef5e56dfcbb.html",
+          "author": "PA一线",
+          "description": "PANews 9月10日消息，据The Block报道，Ledger为其企业客户推出了一款iOS应用程序，并新增了对波场（TRON）区块链的原生支持，旨在加强自身在机构稳定币业务中的作用。Ledger表示，这款新的iOS企业应用能在保持严格安全控制的同时，为对时间敏感的稳定币转账提供快速审批。其功能包括硬件级清晰签名、硬件层面执行的多重审批管理规则，以及使用防篡改的Ledger Stax设备进行授权操作。\nLedger企业业务副总裁塞Sebastien Badault表示，零售用户可通过Yield.xyz进行波场质押，而此次新更新仅适用于其机构平台Ledger Enterprise。此前，Ledger Enterprise仅提供桌面版。Badault表示，此次移动版优先推出iOS版本，是因为大多数客户使用苹果设备，未来会考虑推出安卓版本。",
+          "link": "https://panewslab.com/zh/articledetails/01eccbdd-b747-4186-bd1a-9ef5e56dfcbb.html",
+          "publishedOn": "2025-09-10T16:06:55.000Z",
+          "wordCount": 605,
+          "title": "Ledger为企业客户推出移动iOS应用程序，并新增对波场区块链的支持",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
