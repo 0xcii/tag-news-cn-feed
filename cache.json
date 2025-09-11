@@ -1,4 +1,212 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/23e8a469-8f2c-417f-a197-2abb23a17f6f.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据Coinbase Support称，Coinbase已修复导致用户无法进行加密货币转账的故障，目前服务已恢复正常。官方表示将持续监控平台运行状况，用户资金安全未受影响。",
+          "link": "https://panewslab.com/zh/articledetails/23e8a469-8f2c-417f-a197-2abb23a17f6f.html",
+          "publishedOn": "2025-09-11T04:38:23.000Z",
+          "wordCount": 598,
+          "title": "Coinbase已修复导致用户无法转账的故障",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5e1ed88a-dedf-40d7-835b-5f0a9b044c64.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据Onchain Lens称，一个新创建的钱包再次从OKX提取7766枚ETH，价值约3402万美元。目前该钱包共持有15543枚ETH，总价值约6841万美元。",
+          "link": "https://panewslab.com/zh/articledetails/5e1ed88a-dedf-40d7-835b-5f0a9b044c64.html",
+          "publishedOn": "2025-09-11T04:35:32.000Z",
+          "wordCount": 606,
+          "title": "一新建地址再次从OKX提取7766枚ETH，价值约3402万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/30278f52-f3fb-424f-b34a-bd2ed9032c57.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据Financial Times报道，Avalanche基金会正与投资者洽谈，计划在美国设立两家加密资产储备公司，目标总融资约10亿美元。资金将用于以折扣价购买数百万枚Avax代币。首家由Hivemind Capital主导，拟通过纳斯达克上市公司私募融资5亿美元，Anthony Scaramucci参与顾问；第二家由Dragonfly Capital发起的SPAC，目标融资5亿美元，预计10月完成。两家公司将从Avalanche Foundation购入低价Avax。",
+          "link": "https://panewslab.com/zh/articledetails/30278f52-f3fb-424f-b34a-bd2ed9032c57.html",
+          "publishedOn": "2025-09-11T04:29:06.000Z",
+          "wordCount": 612,
+          "title": "Avalanche拟筹集10亿美元设立加密资产储备公司",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/99bf6ff8-11c3-4bb3-ad60-838e0f0087b6.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，Consensys创始人Joseph Lubin发推称，持有Linea代币将有机会获得更多奖励，主要以其他代币形式发放，部分来自Consensys，部分来自合作协议。",
+          "link": "https://panewslab.com/zh/articledetails/99bf6ff8-11c3-4bb3-ad60-838e0f0087b6.html",
+          "publishedOn": "2025-09-11T04:06:28.000Z",
+          "wordCount": 604,
+          "title": "Consensys创始人：持有Linea代币将有机会获得更多奖励",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/de2578b5-2c33-4507-88fb-67391a003423.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据SoSoValue数据，美东时间9月10日，以太坊现货ETF总净流入1.72亿美元，连续录得资金流入。其中，贝莱德ETF ETHA单日流入7449.86万美元，历史总净流入达127.38亿美元；富达ETF FETH流入4954.79万美元，历史总净流入达26.02亿美元。截至目前，以太坊现货ETF总资产净值为277.34亿美元，占以太坊总市值的5.31%，累计净流入128.45亿美元",
+          "link": "https://panewslab.com/zh/articledetails/de2578b5-2c33-4507-88fb-67391a003423.html",
+          "publishedOn": "2025-09-11T03:59:14.000Z",
+          "wordCount": 576,
+          "title": "以太坊现货ETF单日净流入1.72亿美元，贝莱德ETHA居首",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6ea53380-41e7-435e-accd-1049ccd43655.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据SoSoValue数据，美东时间9月10日，比特币现货ETF总净流入7.57亿美元，已连续三日录得净流入。其中，富达ETF FBTC单日流入2.99亿美元，历史总净流入达121.77亿美元；贝莱德ETF IBIT单日流入2.11亿美元，历史总净流入达591.47亿美元。截至目前，比特币现货ETF总资产净值达1478.29亿美元，占比特币总市值的6.53%，累计净流入556.36亿美元",
+          "link": "https://panewslab.com/zh/articledetails/6ea53380-41e7-435e-accd-1049ccd43655.html",
+          "publishedOn": "2025-09-11T03:57:33.000Z",
+          "wordCount": 578,
+          "title": "比特币现货ETF单日净流入7.57亿美元，连续三日净流入",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c9ca40d3-4b15-44a7-ae75-8423a9d33273.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，近日，针对小红书平台未落实信息内容管理主体责任，在热搜榜单重点环节频繁呈现多条炒作明星个人动态和琐事类词条等不良信息内容，破坏网络生态问题，国家网信办指导上海市网信办，依据《网络信息内容生态治理规定》等有关规定，对小红书平台采取约谈、责令限期改正、警告、从严处理责任人等处置处罚措施。",
+          "link": "https://panewslab.com/zh/articledetails/c9ca40d3-4b15-44a7-ae75-8423a9d33273.html",
+          "publishedOn": "2025-09-11T03:56:17.000Z",
+          "wordCount": 598,
+          "title": "网信部门依法查处小红书平台破坏网络生态案件",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ro93852f.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，欧易OKX行情显示，ETH刚刚突破4400美元，现报4400.71美元/枚，日内下跌 0.10%。",
+          "link": "https://panewslab.com/zh/articledetails/ro93852f.html",
+          "publishedOn": "2025-09-11T03:56:10.000Z",
+          "wordCount": 578,
+          "title": "ETH突破4400美元，日内下跌 0.10%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6ec7f0fd-5c27-430d-afad-619c62cb4bc8.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，Coinbase研究负责人David Duong表示，当前数字资产金库（DAT）已进入“玩家对玩家”竞争阶段，早期稀缺溢价消退，市场对执行力和差异化要求提升。BTC专属DAT持有量已超100万枚，占流通量约5%；ETH专属DAT持有量约490万枚，价值约213亿美元，占流通量逾4%。MicroStrategy等早期参与者曾获净资产溢价，但随着竞争加剧及监管约束，溢价已收窄。",
+          "link": "https://panewslab.com/zh/articledetails/6ec7f0fd-5c27-430d-afad-619c62cb4bc8.html",
+          "publishedOn": "2025-09-11T03:31:05.000Z",
+          "wordCount": 600,
+          "title": "Coinbase研究负责人：数字资产金库进入PvP阶段，BTC与ETH持仓占比提升",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/09bd2fde-6dee-4aea-a348-769fc2d6bc42.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，Coinbase：已知目前部分用户可能无法发起加密货币转账；我们的团队正在调查此问题，不久后将提供最新进展。",
+          "link": "https://panewslab.com/zh/articledetails/09bd2fde-6dee-4aea-a348-769fc2d6bc42.html",
+          "publishedOn": "2025-09-11T03:23:49.000Z",
+          "wordCount": 598,
+          "title": "Coinbase：正在调查部分用户无法发起加密货币转账的问题",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a0a2d96a-077e-421d-8713-f0beed70b833.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，阿里云创始人王坚在2025 Inclusion外滩大会上表示，开源模型和闭源模型的选择变成了AI竞争的关键因素。在如今的人工智能时代，只是开放源代码已难以解决问题，当前模型权重的开放实际上就是数据资源和计算资源的开放，不仅是Open Source，而且是Open Resource，已超越源代码，进入资源开放时代。",
+          "link": "https://panewslab.com/zh/articledetails/a0a2d96a-077e-421d-8713-f0beed70b833.html",
+          "publishedOn": "2025-09-11T03:22:43.000Z",
+          "wordCount": 587,
+          "title": "阿里云创始人王坚：人工智能进入资源开放时代",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ghkoz2jw.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，欧易OKX行情显示，BTC刚刚突破114000美元，现报114000.00美元/枚，日内涨幅 0.13%。",
+          "link": "https://panewslab.com/zh/articledetails/ghkoz2jw.html",
+          "publishedOn": "2025-09-11T03:16:40.000Z",
+          "wordCount": 580,
+          "title": "BTC突破114000美元，日内涨幅 0.13%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8bcebbe0-e562-408e-a769-e5c89d30562e.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据Monad联合创始人Keone Hon披露，Monad区块链网络原生gas代币的初始总供应量将为1000亿枚。",
+          "link": "https://panewslab.com/zh/articledetails/8bcebbe0-e562-408e-a769-e5c89d30562e.html",
+          "publishedOn": "2025-09-11T03:13:22.000Z",
+          "wordCount": 601,
+          "title": "Monad联创：Monad原生gas代币的初始总供应量为1000亿枚",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b991b6ff-7588-477c-a67c-c8b72afb2af4.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，Scroll DAO今日宣布暂停治理流程，领导团队已全部辞职，但现有治理提案仍在进行中。官方表示正在“重新设计治理”，未明确是否终止或撤销当前提案，包括DAO金库管理等关键议题。团队成员称暂停而非终止，具体原因及后续安排尚未公布。会议中多次提及“实验”一词，未来治理路径暂不明朗。",
+          "link": "https://panewslab.com/zh/articledetails/b991b6ff-7588-477c-a67c-c8b72afb2af4.html",
+          "publishedOn": "2025-09-11T03:07:40.000Z",
+          "wordCount": 602,
+          "title": "Scroll DAO治理宣布“暂停”，领导团队集体辞职",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2601f844-3e6b-4aac-bb62-98bae26b1df3.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据X平台用户“憨厚的麦总”称，Pump项目在不到30天内已完成6.15%流通筹码的回购，目前市场流通筹码仅剩33%。下一次解锁预计将在2026年年中，流通盘持续收紧。",
+          "link": "https://panewslab.com/zh/articledetails/2601f844-3e6b-4aac-bb62-98bae26b1df3.html",
+          "publishedOn": "2025-09-11T03:00:33.000Z",
+          "wordCount": 608,
+          "title": "Pump已回购6.15%流通筹码",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fc879409-0633-4aac-b507-b0e5dcc9f636.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，纽约AI初创公司JoJoWorld完成800万美元融资，投资方包括全球第三大稳定币发行结算机构Stellar发展基金会、硅谷风投教父Tim Draper旗下DraperU Ventures、AlphaLion Investment、Stratified Capital、Selini Capital、All SeaSpark Family Fund等。\nJoJoWorld致力于构建去中心化空间智能基础设施，通过激励全球创作者贡献高质量3D数据，用于机器人训练与具身智能，解决前沿AI模型的数据瓶颈问题。",
+          "link": "https://panewslab.com/zh/articledetails/fc879409-0633-4aac-b507-b0e5dcc9f636.html",
+          "publishedOn": "2025-09-11T03:00:00.000Z",
+          "wordCount": 638,
+          "title": "纽约AI初创公司JoJoWorld获800万美元融资，构建3D数据基础设施赋能具身智能",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ab9da704-1c98-4854-a37c-e9cdeb5b16bf.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，据SoSoValue数据，美国8月PPI降温强化降息预期，叠加SEC主席Paul Atkins宣布启动Project Crypto以完善链上市场监管，加密市场情绪今日高涨。整体市场连续四日上涨，Layer2板块领涨6.64%，其中Mantle（MNT）上涨12.98%，新上线的Linea（LINEA）暴涨392.60%。BTC上涨2.62%，突破11.3万美元；ETH上涨1.50%，突破4300美元。其他板块方面，Meme涨2.87%，Layer1涨2.74%，DeFi涨2.23%，CeFi涨2.11%，PayFi涨1.74%。",
+          "link": "https://panewslab.com/zh/articledetails/ab9da704-1c98-4854-a37c-e9cdeb5b16bf.html",
+          "publishedOn": "2025-09-11T02:54:53.000Z",
+          "wordCount": 582,
+          "title": "加密市场连续四日上涨，BTC突破11.3万美元，L2板块涨超6%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/68f49ad2-2cdb-4591-b248-cdfff3c5ee3a.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，美国劳工部监察长办公室发布声明宣布，已启动一项审查，评估劳工统计局在经济数据收集与报告过程中面临的挑战。监察长办公室在声明中指出，劳工统计局此前宣布，将减少对两项在美国经济中具有关键作用的通胀指标的数据收集，即消费者价格指数（CPI）和生产者价格指数（PPI）。此外，劳工统计局最近对每月《就业形势报告》中新增就业人数的估算进行了大幅下调。监察长办公室表示，审查重点将放在以下方面的挑战及相关优化策略：收集PPI和CPI数据；收集和报告每月就业数据，包括数据修订。",
+          "link": "https://panewslab.com/zh/articledetails/68f49ad2-2cdb-4591-b248-cdfff3c5ee3a.html",
+          "publishedOn": "2025-09-11T02:48:51.000Z",
+          "wordCount": 611,
+          "title": "美劳工部对劳工统计局启动审查，重点针对就业数据等",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e9fe30a2-c4be-4515-a669-5e52d373b75e.html",
+          "author": "PA一线",
+          "description": "PANews 9月11日消息，Sui上的DeFi协议Nemo发布事故报告称，因合约中flash_loan与get_sy_amount_in_for_exact_py_out函数存在安全漏洞，被攻击者利用，造成约259万美元资产损失。攻击源于开发者在未充分审计的情况下上线新功能，并未及时修复已知风险。主要资金通过跨链桥转移至以太坊，目前已冻结协议核心功能，漏洞补丁已提交紧急审计，团队正制定用户补偿及资产追踪方案。",
+          "link": "https://panewslab.com/zh/articledetails/e9fe30a2-c4be-4515-a669-5e52d373b75e.html",
+          "publishedOn": "2025-09-11T02:37:16.000Z",
+          "wordCount": 608,
+          "title": "Nemo：259万美元资产损失攻击源于在未充分审计的情况下上线新功能",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/636295a2-0559-426a-9b33-b48f4e9607fb.html",
+          "author": "PA一线",
+          "description": "SharpLink转入3.79亿美元稳定币至Galaxy Digital钱包\n据余烬称，SharpLink Gaming在过去45分钟内收到3.79亿美元稳定币，并已转入Galaxy Digital的OTC钱包，或将继续通过Galaxy Digital购买ETH。此前SharpLink未发布上周ETH购买公告。\nSharps Technology与Pudgy Penguins达成Solana资产战略合作\n据PR Newswire报道，Sharps Technology宣布与Web3品牌Pudgy Penguins达成战略合作，将共同推动Solana数字资产库的曝光与连接。Sharps Technology近期通过PIPE融资收购逾200万枚SOL，价值超4亿美元。合作后，Pudgy Penguins的IP将与Sharps的Solana资产库深度整合，面向机构及零售用户提供新参与机会。Pudgy Penguin\n香港金管局拟优化加密资产资本金监管\n据财新报道，香港金融管理局于9月8日向本地银行业界发布《银行业监管政策手册》新模块CRP-1《加密资产分类》征求意见稿，拟进一步明确2026年初将实施的巴塞尔加密资产资本金监管标准，重点降低银行持有合规无许可区块链加密资产的资本金要求，以促进银行接纳稳定币等数字资产。\nEthena托管钱包过去8小时将2.46亿枚ENA转入Coinbase Prime\n据余烬称，过去8小时内，Ethena托管钱包向Coinbase Prime转入2.46亿枚ENA，价值约1.96亿美元。\nPENGU项目方转出1.716亿枚PENGU至Binance和Bybit，价值约600万美元\n据余烬监测，PENGU项目方在过去一天多从代币布署地址转出1.716亿枚PENGU（约600万美元），流入Binance和Bybit。每次转出约价值300万美元的代币，分散…",
+          "link": "https://panewslab.com/zh/articledetails/636295a2-0559-426a-9b33-b48f4e9607fb.html",
+          "publishedOn": "2025-09-11T02:30:00.000Z",
+          "wordCount": 996,
+          "title": "昨夜今晨重要资讯（9月10日-9月11日）",
+          "imageUrl": "https://uploads.panewslab.com/2025z/c25fbee3-3fe8-4ebd-ad03-2f4d3e905ec7"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
