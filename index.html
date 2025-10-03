@@ -52,10 +52,58 @@
 
   <body>
     <!-- %after-body-begin.html% -->
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-03 datetime="2025-10-03T16:11:20.000Z">2025-10-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-03 datetime="2025-10-03T16:11:20.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >PANews - 快讯</button>
+                  <a class="source-heading__link" href="https://panewslab.com/zh/news/index.html">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://panewslab.com/zh/articledetails/iree1824.html"
+                        open
+                      >
+                        <summary class="article-expander__title">BTC突破123000美元，日内涨幅 0.74%</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://panewslab.com/zh/articledetails/iree1824.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://image.panewslab.com/images/logo1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>PANews 10月4日消息，欧易OKX行情显示，BTC刚刚突破123000美元，现报123173.90美元/枚，日内涨幅 0.74%。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/0xcii/tag-news-cn-feed/actions/runs/18230503252">
-        <time id="build-timestamp" datetime="2025-10-03T18:26:09.876Z">2025-10-03T18:26:09.876Z</time>
+      <a class="footer-link" href="https://github.com/0xcii/tag-news-cn-feed/actions/runs/18231540472">
+        <time id="build-timestamp" datetime="2025-10-03T19:14:16.236Z">2025-10-03T19:14:16.236Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
