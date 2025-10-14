@@ -6,12 +6,182 @@
       "siteUrl": "https://panewslab.com/zh/news/index.html",
       "articles": [
         {
+          "id": "https://panewslab.com/zh/articledetails/b249dd83-2313-4bd9-93d6-dccb7db31260.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据Ledger Insights报道，金融稳定理事会（FSB）向目前由南非担任主席的G20提交了中期报告。FSB主席Andrew Bailey在致G20财长与央行行长的简短函件中，重点阐述了跨境支付、加密资产与稳定币、实施情况监测以及人工智能四大议题，其中跨境支付与加密资产被置于首要位置。上周，FSB指出，尽管跨境支付领域的大部分工作已告完成，但2027年设定的目标仍难以达成。事实上，相关进展颇为有限。\n在加密资产领域，函件及随附报告均强调了该行业的增长态势及其与传统金融体系日益紧密的融合。因此，加密资产领域若发生冲击，极有可能对金融稳定造成影响。尽管众多司法管辖区正计划（占比93%）或已制定（占比88%）针对加密资产与稳定币的监管框架，但这些框架往往侧重于反洗钱与制裁合规，而非旨在保护金融稳定的议题。",
+          "link": "https://panewslab.com/zh/articledetails/b249dd83-2313-4bd9-93d6-dccb7db31260.html",
+          "publishedOn": "2025-10-14T01:11:38.000Z",
+          "wordCount": 594,
+          "title": "金融稳定委员会警告G20关注加密货币和稳定币风险",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b57255d7-0e43-4f30-ba9b-c6d042c94f11.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据Ledger Insights报道，法国央行法兰西银行（Banque de France）与欧洲清算银行（Euroclear）共同启动了“Project Pythagore”，旨在将流通中的欧盟（NEU）商业票据市场进行代币化处理。该市场目前未偿余额达3100亿欧元。双方计划于2026年末正式上线，届时法国的批发型央行数字货币（CBDC）试点将作为欧洲央行“Project Pontes”批发型分布式账本技术（DLT）结算体系的一部分投入使用。此前法国曾尝试利用分布式账本技术处理商业票据，虽超越了试验阶段，但最终未能成功推广。",
+          "link": "https://panewslab.com/zh/articledetails/b57255d7-0e43-4f30-ba9b-c6d042c94f11.html",
+          "publishedOn": "2025-10-14T01:09:34.000Z",
+          "wordCount": 610,
+          "title": "法国央行与欧洲清算银行合作开展代币化商业票据项目",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c830488c-5068-477d-a0bb-2c039dba78bd.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据The Block报道，加密犯罪调查部门“Security Alliance”（简称SEAL）公布了一种新方式，用于举报那些采用愈发复杂手段来隐藏黑客踪迹的潜在钓鱼网站。SEAL称，传统自动扫描网址会遇网络爬虫常见问题，如验证码、反机器人保护，且诈骗者有“伪装”功能，会向疑似扫描器提供无害内容，所以需要能看到用户所见内容的方式。其全新“可验证钓鱼举报器”采用“TLS证明”新型加密方案，让白帽黑客能以潜在受害者看到的网站形式检查。SEAL指出，传输层安全性本身不支持生成会话记录，给第三方谎报内容留了机会。用户可通过该程序提交证明，SEAL会核实并确保内容妥善签名且含恶意活动证据。该功能经约一月私人测试，现已向公众开放。",
+          "link": "https://panewslab.com/zh/articledetails/c830488c-5068-477d-a0bb-2c039dba78bd.html",
+          "publishedOn": "2025-10-14T00:57:16.000Z",
+          "wordCount": 616,
+          "title": "加密犯罪研究组织Security Alliance推出举报潜在钓鱼网站的新方式",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/30684fc9-a34b-4c4c-b3e4-5e3c426ca1fa.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据The Block报道，加密隐私项目Privacy Pools背后的团队0xBow，正推出新工具以帮助Tornado Cash用户将资金与非法活动分离。0xBow代表称，Tornado Cash关联性证明是兼顾隐私保护与合规的首个可行机制，对无辜受牵连的Tornado用户是进步，也是实用模式。新协议采用零知识证明等方案，用户粘贴便笺和提款地址，系统生成证明比对存款列表，排除非法行为者，资金“干净”则地址被添加到公开注册表，不泄露个人数据。目前系统黑名单已标记超16000个相关地址。Privacy Pools今年早些时候推出，采用“关联集提供者”理念，帮助列入白名单的用户将其ERC-20代币匿名化，而无需向像Tornado Cash这类被非法行为者使用的通用协议注入资金。",
+          "link": "https://panewslab.com/zh/articledetails/30684fc9-a34b-4c4c-b3e4-5e3c426ca1fa.html",
+          "publishedOn": "2025-10-14T00:52:49.000Z",
+          "wordCount": 626,
+          "title": "0xBow推出帮助Tornado Cash用户将资金与非法活动分离的新工具",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7agu5xa4.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，欧易OKX行情显示，BTC刚刚跌破115000美元，现报114986.50美元/枚，日内涨幅 0.57%。",
+          "link": "https://panewslab.com/zh/articledetails/7agu5xa4.html",
+          "publishedOn": "2025-10-14T00:47:40.000Z",
+          "wordCount": 570,
+          "title": "BTC跌破115000美元，日内涨幅 0.57%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/95ceeec7-b6b1-446e-98db-3a437356f774.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据The Block报道，TD Cowen分析师在周一发布的报告中指出，美国参议员在通过加密货币市场结构立法方面行动迟缓，这可能导致该法案的通过被推迟至中期选举之后。共和党与民主党在监管权分配及DeFi限制条款上存在根本分歧，导致审议日程难以确定。报告指出民主党提出的禁止政府高官持有加密资产条款是主要障碍，该条款直接针对特朗普家族通过World Liberty Financial等项目获利的争议。尽管程序性争议不构成实质阻碍，但分析师认为参议员更倾向于推迟表决。参议院会期有限及中期选举的政治考量进一步削弱了立法紧迫性。TD Cowen分析师Jaret Seiberg表示：“我们并非认为未来12个月内无法采取行动，我们的观点是参议员拖延行动的理由多于迅速推进的理由。”",
+          "link": "https://panewslab.com/zh/articledetails/95ceeec7-b6b1-446e-98db-3a437356f774.html",
+          "publishedOn": "2025-10-14T00:45:10.000Z",
+          "wordCount": 601,
+          "title": "TD Cowen：美国加密市场结构法案可能需要等到中期选举之后",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1e90e250-d13d-4d8b-bdbc-26548c2a8d40.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据The Block报道，过去12个月里，以太坊上每周独立稳定币发送者数量呈指数级增长。2020年1月至2024年7月，每周平均约40万名；2024年8月起，平均每周增幅超1.7%，屡创新高。2025年，以太坊上每周平均有72万名独立稳定币发送者，而仅在过去两周内，周均独立稳定币发送者已突破100万。\n独立稳定币发送者数量激增，主要得益于稳定币的采纳度不断提高。例如，在存在外汇波动或资本管制的国家，稳定币实质上充当了美元的角色。同时，永续合约、预测市场及多数现实世界资产用稳定币结算，催生新地址。此外，作为第一层结算场所，以太坊捕获了新用户加入等流量，带来众多新的稳定币发送者。",
+          "link": "https://panewslab.com/zh/articledetails/1e90e250-d13d-4d8b-bdbc-26548c2a8d40.html",
+          "publishedOn": "2025-10-14T00:39:22.000Z",
+          "wordCount": 587,
+          "title": "以太坊稳定币交易活跃度再创新高，周均独立发送者突破100万",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d9403605-316d-49f2-94c0-c03ffc5dbc5e.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据The Block报道，9月份，预测市场Kalshi和Polymarket的交易量合计创下14.4亿美元的纪录，反映出主流市场对预测市场这一新兴投机领域的兴趣日益浓厚。上个月，Kalshi在9月对阵Polymarket时，市场占有率峰值达到60%，与年初Polymarket主导交易活动的情况相比，出现了显著逆转。Kalshi近期交易量激增，部分原因在于其与Robinhood建立了合作关系，这一整合使Kalshi得以接触到Robinhood庞大的零售用户群体，这或许可以解释该平台市场份额不断增长的原因。",
+          "link": "https://panewslab.com/zh/articledetails/d9403605-316d-49f2-94c0-c03ffc5dbc5e.html",
+          "publishedOn": "2025-10-14T00:34:03.000Z",
+          "wordCount": 599,
+          "title": "9月份Kalshi和Polymarket的交易量合计14.4亿美元，创历史新高",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/043aaeed-4bd4-47cf-b09e-b645d7e27570.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据路透社报道，肯尼亚国民议会财政委员会主席Kuria Kimani表示，肯尼亚议员上周已通过《虚拟资产服务提供商法案》，以解决因缺乏明确监管规定而引发的对该行业的担忧，吸引更多投资进入该领域。总统William Ruto现在需要签署该法案以使其成为法律。该法案规定，央行为稳定币及其他虚拟资产的发行授权机构，而资本市场监管机构将为希望经营加密货币交易所及其他交易平台的机构颁发许可证。Kimani表示，预计法律上的明确性将吸引更多投资进入金融科技领域，包括来自币安和Coinbase等加密交易所的投资。Kimani还表示，肯尼亚的这部法律借鉴了美国和英国等其他国家的成熟做法。",
+          "link": "https://panewslab.com/zh/articledetails/043aaeed-4bd4-47cf-b09e-b645d7e27570.html",
+          "publishedOn": "2025-10-14T00:30:16.000Z",
+          "wordCount": 591,
+          "title": "肯尼亚议会通过加密资产法案以促进投资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7058f8a3-f333-4908-b506-67f7dc50bcfe.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据Decrypt报道，贝莱德首席执行官Larry Fink再次表达对加密货币投资的谨慎认可，并收回2017年10月称比特币是“洗钱指数”的言论。周日，Fink接受CBS采访时称，“我当时确实说过比特币是洗钱者和盗贼的领域，但市场会给人上一课，每个人总是要重新审视自己的假设；加密货币与黄金一样，都有其存在的意义，也就是说，它是一种替代品。”不过，他也呼吁保持谨慎，认为对寻求多元化投资的人而言，加密货币并非糟糕资产，但不应占投资组合很大比例。多年来，Fink态度转变与华尔街对加密货币立场整体软化趋势一致，他此前曾直接否定比特币。",
+          "link": "https://panewslab.com/zh/articledetails/7058f8a3-f333-4908-b506-67f7dc50bcfe.html",
+          "publishedOn": "2025-10-14T00:25:30.000Z",
+          "wordCount": 596,
+          "title": "贝莱德CEO：比特币与加密货币“与黄金的作用相同”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b3357aa5-1099-424a-8457-5acf5f48144b.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据Cointelegraph报道，南亚国家不丹正将其自主主权身份识别系统从Polygon迁移至以太坊，此举将使其近80万居民能够验证身份并获取政府服务。以太坊基金会主席Aya Miyaguchi透露，与以太坊的集成已顺利完成，预计所有居民身份凭证的迁移工作将于2026年第一季度全部完成。Miyaguchi与以太坊联合创始人Vitalik Buterin一同出席了启动仪式，不丹首相Tshering Tobgay和王储Jigme Namgyel Wangchuk也共同出席。\n此前，不丹自2024年8月起在Polygon上运行其国家身份识别系统，而在此之前则使用的是Hyperledger Indy。截至目前，巴西和越南是少数几个已部分整合基于区块链的自主主权身份识别解决方案的国家。",
+          "link": "https://panewslab.com/zh/articledetails/b3357aa5-1099-424a-8457-5acf5f48144b.html",
+          "publishedOn": "2025-10-14T00:19:27.000Z",
+          "wordCount": 593,
+          "title": "不丹将其自主主权身份识别系统从Polygon迁移至以太坊",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/be31a069-185b-44db-8141-8697b330957f.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，Aster在X平台表示，经内部审查发现导致申领时间意外提前的问题是由时区设置错误所致。为确保公平性，为所有符合条件的用户提前开放空投申领。更新后的申领时间表如下。ASTER空投申领开放时间：UTC时间10月13日19:00（北京时间10月14日03:00）；交易手续费退款：申领开放后进行，需在UTC时间10月14日12:00（10月14日20:00）前完成。第二阶段空投时间表的多次变动给用户带来了不便，将开展全面的内部审查，确保此类问题不再发生。",
+          "link": "https://panewslab.com/zh/articledetails/be31a069-185b-44db-8141-8697b330957f.html",
+          "publishedOn": "2025-10-14T00:14:49.000Z",
+          "wordCount": 587,
+          "title": "Aster凌晨已开启空投申领，此前因时区设置错误致申领时间意外提前",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9b3302b0-f389-40f4-9a64-a76285c52899.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据Onchain Lens监测，Daniel Larimer进一步向Binance存入了679万枚ASTER，价值972万美元。\n截至目前，他已累计向#Binance存入3160万枚ASTER（价值5506万美元），并仍持有3293万枚ASTER，价值4775万美元。",
+          "link": "https://panewslab.com/zh/articledetails/9b3302b0-f389-40f4-9a64-a76285c52899.html",
+          "publishedOn": "2025-10-14T00:11:05.000Z",
+          "wordCount": 604,
+          "title": "Daniel Larimer再次向币安存入了679万枚ASTER，价值972万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/8b06011c-3ed9-4436-91cc-19cf733c0358.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据Coinbase Markets公告，Coinbase Exchange将于太平洋时间2025年10月25日上午7点（北京时间2025年10月25日22:00）左右，因计划内的技术系统升级而暂停服务。届时，Coinbase.com（简易交易与高级交易）、Coinbase Exchange及Coinbase Prime上的所有交易服务均将暂停。Coinbase交易所上的所有转账服务将暂停，且任何正在处理中的转账都将被延迟。\n此次停机维护将分为两个阶段。预计整个过程最长需要4小时完成，不过该时间预估可能会有所变动。第一阶段：技术系统升级（预计最长耗时2小时）。第二阶段：交易系统重启（预计最长耗时2小时，具体时长可能因市场状况而延长）。预计将在太平洋时间上午7点前的短时间内暂停交易，早于交易所整体停机维护的开始时间。",
+          "link": "https://panewslab.com/zh/articledetails/8b06011c-3ed9-4436-91cc-19cf733c0358.html",
+          "publishedOn": "2025-10-14T00:01:42.000Z",
+          "wordCount": 597,
+          "title": "Coinbase将于10月25日因技术系统升级而暂停服务，预计需要4个小时",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ac3a5052-dbad-4296-b870-50b0708d57d2.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据Onchain Lens监测，某黑客地址再次动用3945万枚USDC，通过3个独立钱包以均价4269美元购入9240枚ETH，获利279枚ETH（约合118万美元）。",
+          "link": "https://panewslab.com/zh/articledetails/ac3a5052-dbad-4296-b870-50b0708d57d2.html",
+          "publishedOn": "2025-10-13T23:55:20.000Z",
+          "wordCount": 586,
+          "title": "某黑客再次动用3945万枚USDC购入9240枚ETH",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7d0855d1-ad75-40b0-aed3-894f9aeb0117.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据CNBC报道，花旗银行服务业务全球合作伙伴关系与创新主管Biswarup Chatterjee透露，随着华尔街巨头加大数字货币领域布局，该行计划2026年推出加密资产托管服务，过去两三年开发已取得进展，希望未来几个季度能面向资产管理者等客户，推出可靠、可信的托管方案。即将推出的托管服务，花旗银行会持有原生加密货币。目前，该行正考虑自主研发托管技术，也寻求与第三方合作。Chatterjee还指出，在银行和支付系统欠发达地区，稳定币可能具吸引力。随着花旗银行客户拓展到这些国家，并与当地供应商、客户互动，类似稳定币产品或有可行性，不过，该行目前仍处于稳定币探索的初期阶段。",
+          "link": "https://panewslab.com/zh/articledetails/7d0855d1-ad75-40b0-aed3-894f9aeb0117.html",
+          "publishedOn": "2025-10-13T23:51:53.000Z",
+          "wordCount": 591,
+          "title": "花旗银行计划于2026年推出加密货币托管服务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e600d5f5-6844-4f2f-ab7d-a7cc8e72ce8a.html",
+          "author": "PA一线",
+          "description": "PANews 10月14日消息，据链上分析师@ai_9684xtpa监测，一位于10月12日25x做多ETH的巨鲸已浮盈994万美元，相较初始保证金950万美元实现翻倍。\n而他目前似乎还没有止盈的打算，18960 ETH的多头仓位已经拿了快三天了。",
+          "link": "https://panewslab.com/zh/articledetails/e600d5f5-6844-4f2f-ab7d-a7cc8e72ce8a.html",
+          "publishedOn": "2025-10-13T23:47:54.000Z",
+          "wordCount": 590,
+          "title": "一位于10月12日25x做多ETH的巨鲸已浮盈994万美元，较初始保证金实现翻倍",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
           "id": "https://panewslab.com/zh/articledetails/w7ixllu3.html",
           "author": "PA一线",
           "description": "PANews 10月14日消息，欧易OKX行情显示，ETH刚刚突破4200美元，现报4204.50美元/枚，日内涨幅 1.66%。",
           "link": "https://panewslab.com/zh/articledetails/w7ixllu3.html",
           "publishedOn": "2025-10-13T17:57:40.000Z",
-          "wordCount": 566,
+          "wordCount": 572,
           "title": "ETH突破4200美元，日内涨幅 1.66%",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         },
@@ -21,7 +191,7 @@
           "description": "PANews 10月13日消息，Morpho 宣布 Hyperliquid 已在 Morpho App 上线。",
           "link": "https://panewslab.com/zh/articledetails/29b26064-b891-4887-bda5-1e4055b1e4d6.html",
           "publishedOn": "2025-10-13T16:01:54.000Z",
-          "wordCount": 630,
+          "wordCount": 628,
           "title": "Hyperliquid已在Morpho App上线",
           "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
         }
