@@ -1,6 +1,53 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/020618f0-9a63-474b-a99f-c0d17d922c75.html",
+          "author": "PA一线",
+          "description": "PANews 10月19日消息，据 The Block 报道，比特币挖矿公司 Parhelion 的首席执行官 Ross Calvin 正计划在旧金山的恶魔岛（Alcatraz Island）建造一座 450 英尺（约 137.16 米）高的普罗米修斯雕像，并将很快向特朗普总统提交方案。该项目可能耗资 4.5 亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/020618f0-9a63-474b-a99f-c0d17d922c75.html",
+          "publishedOn": "2025-10-19T00:20:28.000Z",
+          "wordCount": 612,
+          "title": "矿企Parhelion CEO计划在恶魔岛建造一座137米高的普罗米修斯雕像",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b78c5f2d-f96a-4b07-a123-0806ab301739.html",
+          "author": "PA一线",
+          "description": "PANews 10月19日消息，据The block援引《金融时报》报道，英国税务机关已向涉嫌欠缴加密货币税款的个人发出了 65,000 封所谓的“催缴信”，比前一年增加了 134%。 从2026年1月起，英国税务海关总署（HMRC）还将根据约70个司法管辖区（包括经合组织成员国）采用的加密资产报告框架（CARF），从交易所获取详细的用户信息。根据该框架，加密货币交易所将向国家税务机关报告加密货币交易者及其活动的信息。该机构将在2026年全年收集数据，首次申报时间为2027年5月31日。\n英国复杂的加密货币税收制度将大多数个人使用的加密货币视为投资，因此出售、交换或消费这些加密货币都属于“处置”，需要缴纳资本利得税 (CGT)。通过挖矿、质押奖励、部分空投和就业“赚取”的加密货币可视为收入，需缴纳单独的所得税。去年秋季，CGT 税率有所上调，2024 年 10 月 30 日之前的处置适用 10% 的基本税率和 20% 的较高税率，而在此日期之后的处置适用 18% 的基本税率和 24% 的较高税率。",
+          "link": "https://panewslab.com/zh/articledetails/b78c5f2d-f96a-4b07-a123-0806ab301739.html",
+          "publishedOn": "2025-10-19T00:12:25.000Z",
+          "wordCount": 619,
+          "title": "英国税务机关向涉嫌加密货币逃税者发出6.5万催缴信，是去年的两倍多",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c283a36d-c52a-41c7-840c-7935fa411875.html",
+          "author": "PA一线",
+          "description": "PANews 10月19日消息，据 Onchain Lens 监测，Tether 在以太坊网络上铸造价值 10 亿美元的 USDT。自最近的崩盘以来，其已铸造了价值 40 亿美元的 USDT。与此同时，Circle 在 Solana网络上铸造了价值 20 亿美元的 USDC。",
+          "link": "https://panewslab.com/zh/articledetails/c283a36d-c52a-41c7-840c-7935fa411875.html",
+          "publishedOn": "2025-10-19T00:06:59.000Z",
+          "wordCount": 611,
+          "title": "Tether在以太坊网络上铸造10亿枚USDT",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/slug5m8a.html",
+          "author": "PA一线",
+          "description": "PANews 10月19日消息，欧易OKX行情显示，ETH刚刚突破3900美元，现报3900.77美元/枚，日内涨幅 0.59%。",
+          "link": "https://panewslab.com/zh/articledetails/slug5m8a.html",
+          "publishedOn": "2025-10-18T20:28:30.000Z",
+          "wordCount": 559,
+          "title": "ETH突破3900美元，日内涨幅 0.59%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
