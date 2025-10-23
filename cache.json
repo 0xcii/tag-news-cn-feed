@@ -1,6 +1,213 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/51e2ffbb-a689-4f28-9674-5d5b6f48cbbd.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，MANTRA社区发布新提案，提议将代币简称由OM更改为MANTRA，实施1:4的代币拆分，将硬性上限的最大供应量按比例从25亿调整至100亿。需要强调的是，此次1:4代币拆分不会导致代币供应量的任何稀释。拆分后任何持有者所持股份的总市值将立即保持不变。",
+          "link": "https://panewslab.com/zh/articledetails/51e2ffbb-a689-4f28-9674-5d5b6f48cbbd.html",
+          "publishedOn": "2025-10-23T14:20:57.000Z",
+          "wordCount": 593,
+          "title": "MANTRA社区提议将代币简称由OM更改为MANTRA，并实施1:4的代币拆分",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/655b43e0-8d96-4a3c-b25e-c07aff32b3e8.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据CoinDesk报道，DeFi项目Aave背后的公司Aave Labs表示，其已收购了Stable Finance。这是一家总部位于旧金山的初创企业，致力于为日常用户简化链上储蓄操作。交易条款未予披露。此举将Stable的创始人Mario Baxter Cabrera及其工程团队招至Aave Labs麾下，他们将协助开发面向消费者的新型DeFi产品。Cabrera将以产品总监的身份加入。Aave Labs创始人Stani Kulechov表示，此次收购强化了公司将“链上金融融入日常金融”的目标。Stable的技术将被整合到未来的Aave Labs产品中，其现有应用将逐步淘汰。此次收购是Aave继2022年收购Sonar和2023年收购Family之后，第三笔以人才为核心的交易，旨在持续拓展其产品设计能力。",
+          "link": "https://panewslab.com/zh/articledetails/655b43e0-8d96-4a3c-b25e-c07aff32b3e8.html",
+          "publishedOn": "2025-10-23T14:15:11.000Z",
+          "wordCount": 617,
+          "title": "Aave Labs收购Stable Finance，以扩大消费者对链上储蓄的访问",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0640aa02-567a-44ce-a864-e1730ee62fa9.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据Decrypt报道，Trezor推出了一款硬件钱包新版本，宣称其已为后量子时代做好准备，并表示即便当下加密货币犯罪频发，该公司仍着眼于应对未来数字资产面临的威胁。Trezor Safe 7引入了量子就绪架构，能够支持后量子加密更新，且其引导加载程序基于经典与后量子混合签名方案构建。Safe 7的新功能之一是Trezor的开源安全元件——TROPIC01芯片。",
+          "link": "https://panewslab.com/zh/articledetails/0640aa02-567a-44ce-a864-e1730ee62fa9.html",
+          "publishedOn": "2025-10-23T14:12:17.000Z",
+          "wordCount": 572,
+          "title": "Trezor推出具备“量子就绪架构”Safe 7硬件钱包",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/57225a5d-eaae-4767-9f59-cfe3b48e3733.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据Blockworks报道，由于与Toku达成集成合作，Paxos正推出让员工以稳定币USDG形式领取部分薪资的功能。此次集成将采用相同的薪资发放平台——ADP和Workday，但允许员工直接将USDG领取至个人钱包。对于选择以USDG领取薪资的员工而言，与传统薪资支票不同，结算将即时完成。无需等待即可领取该稳定币。\nPaxos在新闻稿中指出：“通过为我们的团队采用USDG薪资发放方式，Paxos为用户提供了在日常生活中接触和体验USDG的最直接途径。随着越来越多的公司接入Toku的薪资发放渠道，全球数千名员工将能在收入源头直接获得USDG。”",
+          "link": "https://panewslab.com/zh/articledetails/57225a5d-eaae-4767-9f59-cfe3b48e3733.html",
+          "publishedOn": "2025-10-23T14:02:50.000Z",
+          "wordCount": 585,
+          "title": "Paxos将允许员工以稳定币USDG形式领取薪资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6973cd99-3f3d-45e3-8fbf-357c52535497.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据官方消息，Bybit现货已于10月23日正式上线 Meteora (MET) 现货交易。为庆祝上线，平台同步开启 400,000 MET Tokensplash交易赛活动，用户可通过充值、交易获得奖励。\nMeteora 是一个基于 Solana 的流动性基础设施协议，为新一代链上市场提供支持。它提供了一系列动态 AMM 与发行工具，包括 动态流动性做市商（DLMM）、动态自动化做市商（DAMM） 和 动态债券曲线（DBC），旨在让 Solana 生态中的流动性更高效、更具适应性且更可持续。\nMeteora 将成熟的 DeFi 经验与对性能、可组合性和长期生态协同的专注相结合，助力 Solana 构建更加智能与稳健的流动性网络。",
+          "link": "https://panewslab.com/zh/articledetails/6973cd99-3f3d-45e3-8fbf-357c52535497.html",
+          "publishedOn": "2025-10-23T14:00:00.000Z",
+          "wordCount": 654,
+          "title": "Meteora（MET）上线Bybit现货",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d557dca1-e876-45a5-8f39-29a4ad931017.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据链上分析师@ai_9684xtpa监测，“胜率100%神秘巨鲸”的BTC多单已突破4500万美元。其最新持仓418.91枚BTC，价值4587万美元，开仓价109355.6美元，浮盈6.30万美元；挂单的112.53枚BTC暂未成交。",
+          "link": "https://panewslab.com/zh/articledetails/d557dca1-e876-45a5-8f39-29a4ad931017.html",
+          "publishedOn": "2025-10-23T13:56:27.000Z",
+          "wordCount": 586,
+          "title": "“胜率100%神秘巨鲸”的BTC多单规模已突破4500万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/fec7a738-29ac-4c78-8fd1-3f8fe73a6f2f.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据The Block报道，为数字资产和人工智能时代打造的可编程银行的Pave Bank完成3900万美元A轮融资，Accel领投，Tether Investments、Wintermute、Quona Capital、Helios Digital Ventures等参投。\nPave Bank自诩为一家商业银行，旨在为有法币和数字资产双重需求的客户提供服务。这家在格鲁吉亚获得牌照的银行表示，将利用这笔资金“扩大监管覆盖范围，加速产品开发，继续构建机构级基础设施，并扩大其全球市场的客户覆盖面”。",
+          "link": "https://panewslab.com/zh/articledetails/fec7a738-29ac-4c78-8fd1-3f8fe73a6f2f.html",
+          "publishedOn": "2025-10-23T13:53:26.000Z",
+          "wordCount": 617,
+          "title": "“可编程银行”Pave Bank完成3900万美元A轮融资，Tether等参投",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/4e142ec5-e4c1-4764-9d8b-9dd4a782483e.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据链上分析师@ai_9684xtpa监测，“胜率100%神秘巨鲸”已调整为“108900-109400美元”的区间挂了155.71枚BTC的限价买单，价值1699万美元。",
+          "link": "https://panewslab.com/zh/articledetails/4e142ec5-e4c1-4764-9d8b-9dd4a782483e.html",
+          "publishedOn": "2025-10-23T13:48:42.000Z",
+          "wordCount": 579,
+          "title": "“胜率100%神秘巨鲸”调整其155.71枚BTC的限价买单，价值1699万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/52d15a57-dc8f-4813-80a3-df06aa57b106.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据官方公告，币安合约将于2025年10月23日22:00（东八区时间）将METUSDT永续合约盘前交易转换为标准版METUSDT U本位永续合约，过渡期可能长达3小时。过渡时长取决于价格波动和指数价格的稳定性。在过渡期间，交易功能不受影响，未成交委托及仓位不会被取消。",
+          "link": "https://panewslab.com/zh/articledetails/52d15a57-dc8f-4813-80a3-df06aa57b106.html",
+          "publishedOn": "2025-10-23T13:46:10.000Z",
+          "wordCount": 554,
+          "title": "币安合约将转换METUSDT永续合约盘前交易为标准U本位永续合约",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/db837932-0d11-4731-a1f2-6d186d98b62f.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据The Block报道，本周伦敦Zebu Live大会上，英国加密货币监管环境引发热议，业内对缺乏明确框架和监管进展缓慢多有不满。Consensys高级法律顾问Bill Hughes言辞激烈，他担忧英国金融行为监管局（FCA）对加密货币监管仍会“重拳出击”，认为这导致英国失去了加密货币中心地位，让美国占了先机，且将加密货币全视为金融工具并适用所有规则，会严重阻碍英国竞争力。他指出，英美在加密货币监管上差异显著，美国希望为区块链技术提供发展空间，英国则侧重风险和不确定性，而支持创新的政策才是明智之选。被问及何种框架最能支持英国区块链创新时，他以美国为例，称其最近通过了联邦稳定币立法，还在进行市场结构方面的努力。",
+          "link": "https://panewslab.com/zh/articledetails/db837932-0d11-4731-a1f2-6d186d98b62f.html",
+          "publishedOn": "2025-10-23T13:37:45.000Z",
+          "wordCount": 595,
+          "title": "Consensys：英国FCA的“严厉”监管或使该国失去加密货币中心地位",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/37f87338-8ad6-4639-b0bd-2f798d8b21d0.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，由MegaLabs开发的以太坊扩容方案MegaETH披露，发行方不会此次公开发售中直接留存加密资产，因为本次发售提供的全部5亿枚MEGA代币（占总供应量的5%）将全部分配给购买者。不过，MegaETH更广泛的生态系统相关实体将从代币总供应量中保留以下份额：a) 团队与顾问：9.5亿枚MEGA代币（9.5%）——设有1年锁定期，且在3年内按线性方式逐步归属；b) 基金会/生态系统储备金：7.5亿枚MEGA代币（7.5%）——用于生态系统发展、战略合作伙伴关系建立以及协议的可持续性维护；c) 关键绩效指标（KPI）质押奖励：53.3亿枚MEGA代币（53.3%）——预留用于根据网络指标，随时间推移而发放的基于绩效表现的质押奖励。也就是说，生态系统留存代币总量为70.3亿枚MEGA代币（占总供应量的70.3%）。\n此数据不包含分配给风险投资机构（VC）的代币（14.7%）、Echo投资者的代币（5%）、Fluffle购买者的代币（2.5%）以及Sonar奖励池的代币（2.5%），因为这些代币已分配给第三方投资者和发售参与者。\n此前消息，MegaETH将于10月27日启动MEGA代币公开售卖，初始FDV为100万美元。",
+          "link": "https://panewslab.com/zh/articledetails/37f87338-8ad6-4639-b0bd-2f798d8b21d0.html",
+          "publishedOn": "2025-10-23T13:29:59.000Z",
+          "wordCount": 601,
+          "title": "MegaETH：生态系统留存代币总量占总供应量的70.3%，其中团队与顾问占比为9.5%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ca0c4b9b-efe8-4c82-8eb3-d541f20c8358.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据链上分析师@ai_9684xtpa监测，“胜率100%神秘巨鲸”已开启BTC多单蚂蚁仓，目前持有40枚BTC，价值435万美元，开仓价109050美元。",
+          "link": "https://panewslab.com/zh/articledetails/ca0c4b9b-efe8-4c82-8eb3-d541f20c8358.html",
+          "publishedOn": "2025-10-23T13:22:11.000Z",
+          "wordCount": 579,
+          "title": "“胜率100%神秘巨鲸”已开启BTC多单蚂蚁仓，仓位规模为435万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c1eded42-a2b3-4824-8086-5e9e494e83ac.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，富达投资旗下富达数字资产（Fidelity Digital Assets）现已支持对Solana代币的托管与交易。",
+          "link": "https://panewslab.com/zh/articledetails/c1eded42-a2b3-4824-8086-5e9e494e83ac.html",
+          "publishedOn": "2025-10-23T13:14:35.000Z",
+          "wordCount": 597,
+          "title": "富达数字资产现已支持对Solana代币的托管与交易",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/df7f1999-9cf5-4c9e-b564-c225048aed28.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，白宫加密货币和人工智能主管David Sacks表示：“今天在国会山与参议院议员进行了会面，还与民主党主要议员进行了富有成效的会谈，相信我们今年完全有能力在两党支持下通过加密市场结构立法，这将最终为加密货币行业带来急需的监管清晰度，并巩固特朗普总统今年早些时候签署的《美国稳定币创新GENIUS法案》的成功。”",
+          "link": "https://panewslab.com/zh/articledetails/df7f1999-9cf5-4c9e-b564-c225048aed28.html",
+          "publishedOn": "2025-10-23T13:07:01.000Z",
+          "wordCount": 590,
+          "title": "David Sacks：今年完全有能力在两党支持下通过加密市场结构立法",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/015a1226-d6a5-4c24-b5dd-c8dd64975a39.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据Crowdfundinsider报道，预测市场平台Kalshi已与预言机服务商RedStone达成合作，将Kalshi的平台接入超过110个区块链网络通过接入Kalshi的市场，开发者可在众多区块链网络中获取实时事件数据。",
+          "link": "https://panewslab.com/zh/articledetails/015a1226-d6a5-4c24-b5dd-c8dd64975a39.html",
+          "publishedOn": "2025-10-23T13:05:21.000Z",
+          "wordCount": 600,
+          "title": "预言机RedStone与Kalshi合作，将预测市场引入链上",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3238a3e7-ede3-4a36-abe6-9942c2dd2cf4.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据CoinDesk报道，专注于稳定币网络的区块链公司Plasma宣布，将在欧洲进行重大业务拓展，以提供受监管的支付服务。该公司周四表示，已在意大利收购了一家拥有虚拟资产服务提供商（VASP）牌照的实体，从而得以在该地区合法处理加密货币交易并托管资产。作为其欧盟拓展计划的一部分，该公司将在荷兰阿姆斯特丹开设一家新办公室，并已任命首席合规官和反洗钱报告官。Plasma未透露被收购实体的名称，其发言人也未立即回复置评请求。\n该公司还计划根据欧盟新的《加密资产市场法规》（MiCA）申请加密资产服务提供商（CASP）资质，并申请获得电子货币机构（EMI）牌照。这些举措将使Plasma能够在监管保障下进行资产交换、发行卡片并持有客户资金。Plasma表示，其目标是通过这些牌照为其基于稳定币的新银行Plasma One提供支持。",
+          "link": "https://panewslab.com/zh/articledetails/3238a3e7-ede3-4a36-abe6-9942c2dd2cf4.html",
+          "publishedOn": "2025-10-23T13:02:47.000Z",
+          "wordCount": 587,
+          "title": "Plasma通过收购意大利公司获得VASP牌照，开设新办公室以拓展欧盟稳定币支付业务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ba41c2af-ee07-4f3f-8ed0-d5a2cb4e63a2.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据官方消息，INFINIT与谷歌及谷歌云合作，为数百万用户带来AI代理金融服务。任何人都能在其金融应用中接入INFINIT的AI代理，实现AI代理协同运作。INFINIT与谷歌的代理间交互（Agent2Agent，简称A2A）开放标准相集成，A2A是谷歌推出的促进AI代理互操作的开放标准。采用A2A标准的每一款应用都将自动获得INFINIT代理基础设施的访问权限，实现从个别合作到整个生态系统分发的指数级扩展。开发者仅需数小时即可集成复杂的AI代理协同功能，而用户则能通过AI代理协同访问先进的金融策略。谷歌云的Vertex AI为INFINIT的大规模AI代理协同提供了基础支持。",
+          "link": "https://panewslab.com/zh/articledetails/ba41c2af-ee07-4f3f-8ed0-d5a2cb4e63a2.html",
+          "publishedOn": "2025-10-23T12:56:04.000Z",
+          "wordCount": 602,
+          "title": "INFINIT与谷歌及谷歌云合作提供AI代理金融服务",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/729b4578-6f95-429b-aa93-6f48662fddc8.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据官方消息，全球领先的去中心化物理预言机Nubila 宣布与美国智慧家庭独角兽 Wyze 共同推出全球首个由 AI 驱动、链上预言机验证的 Weather-based Smart Home Intelligence（基于天气的智能家居智能系统），未来双方还将基于更多的智能家居、家用机器人等领域进行数据和AI的合作。\nWyze 成立于 2017 年，总部位于美国西雅图，是北美增长最快的智能家居与物联网公司之一，其产品覆盖智能摄像头、照明、中央空调控制器及灌溉控制系统，全球设备出货量突破一亿台，月活用户超千万。凭借开放 API 架构与庞大的设备网络，Wyze 已成为全球最大的smart home 平台之一。\n在本次合作中，Wyze 的智能灌溉系统已接入 Nubila 的 Matrix智能喷灌模型。该模型基于 Nubila 的去中心化实时超本地天气数据，通过蒸散量（ET）与水量平衡算法动态判断最佳灌溉时机与用水量，在最大化植物生长的同时实现精准节水。在加州的大规模测试中，Matrix 系统实现了 30%–50% 的水费节省，成为北美居家支出最具有影响力的重大突破。此系统目前已经接入数万个北美家庭，若能更广泛的普及，仅加州每年即可减少约 40 亿美元 的水资源浪费。未来此系统还可以应用到精准农业、高尔夫球场、公园治理等领域。\n双方将以此次合作为起点，将智能家居、天气数据与 AI 相融合，将此系统应用到到照明和空调控制等更多实用性的产品中，构建面向智能体自治（Agentic Intelligence） 的物理数据基础设施，让未来的家用机器人与AI 代理能够基于真实世界信号进行决策与协作，为智能体经济（Agentic Economy） 奠定数据智能基础。",
+          "link": "https://panewslab.com/zh/articledetails/729b4578-6f95-429b-aa93-6f48662fddc8.html",
+          "publishedOn": "2025-10-23T12:40:27.000Z",
+          "wordCount": 687,
+          "title": "Nubila携手Wyze，推出由AI驱动、链上预言机验证的智能家居智能系统",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9a57cfd2-8022-4b27-91b5-4ba835ce49c0.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据官方消息，BNB Chain预测市场服务商Opinion主网已上线，现已邀请部分核心社区用户进行交易。今日，Opinion主网针对部分白名单用户开放了邀约通道与访问权限。与此同时，返佣及积分系统也已同步上线。",
+          "link": "https://panewslab.com/zh/articledetails/9a57cfd2-8022-4b27-91b5-4ba835ce49c0.html",
+          "publishedOn": "2025-10-23T12:39:00.000Z",
+          "wordCount": 616,
+          "title": "BNB Chain预测市场服务商Opinion主网上线，已邀请部分核心社区用户进行交易",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9eb221e1-fa0d-4eea-bff0-e4e55be6ac04.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据官方消息，Robinhood上线HYPE现货交易。",
+          "link": "https://panewslab.com/zh/articledetails/9eb221e1-fa0d-4eea-bff0-e4e55be6ac04.html",
+          "publishedOn": "2025-10-23T12:35:05.000Z",
+          "wordCount": 564,
+          "title": "Robinhood上线HYPE现货交易",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
