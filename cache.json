@@ -1,20 +1,217 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/6782a779-bf75-4f85-96ff-fc62deeffb96.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据 Ai 姨称，匿名「内幕大佬」再次减仓 829.5 BTC，BTC 10x 空单降至 470.48 枚，名义规模约 5099 万美元；剩余仓位仍浮盈 134.7 万美元。同一时间，「胜率 100% 神秘巨鲸」已清仓。",
+          "link": "https://panewslab.com/zh/articledetails/6782a779-bf75-4f85-96ff-fc62deeffb96.html",
+          "publishedOn": "2025-10-23T01:18:31.000Z",
+          "wordCount": 655,
+          "title": "某巨鲸再次减仓829.5 BTC空单至470.48枚",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/vd3mdafs.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，欧易OKX行情显示，BTC刚刚突破108000美元，现报108004.20美元/枚，日内下跌 0.38%。",
+          "link": "https://panewslab.com/zh/articledetails/vd3mdafs.html",
+          "publishedOn": "2025-10-23T01:10:20.000Z",
+          "wordCount": 564,
+          "title": "BTC突破108000美元，日内下跌 0.38%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a81361ec-b0cd-495d-91e9-5203fd872234.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据华尔街日报报道，美国总统特朗普政府正商谈入股量子计算公司。IonQ、Rigetti Computing、D-Wave Quantum等与美国商务部讨论以股权换取联邦资金，副商务部长Paul Dabbar主导谈判。方案或使政府成为量子计算企业股东，资金面向“关键技术”公司。Quantum Computing Inc.与Atom Computing亦考虑类似安排。",
+          "link": "https://panewslab.com/zh/articledetails/a81361ec-b0cd-495d-91e9-5203fd872234.html",
+          "publishedOn": "2025-10-23T01:03:12.000Z",
+          "wordCount": 613,
+          "title": "特朗普政府正商谈入股量子计算公司",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b94857c0-fd19-470e-9599-fe8a8ec58df1.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据Forbes报道，交易者在更新诉状中称$MELANIA与$M3M3、$LIBRA、$ENRON、$TRUST同属被控操纵发行与价格的欺诈计划，利用Solana上的内部系统与营销手段拉升后抛售。诉状称Melania Trump仅为“背书窗口”，未参与欺诈。$MELANIA当前市值约8.506亿美元、价0.09346美元，曾在1月发行后市值超20亿美元后数日腰斩。原告请求追缴非法所得、禁令并由独立监管人接管相关系统。白宫与被告律师未回应。",
+          "link": "https://panewslab.com/zh/articledetails/b94857c0-fd19-470e-9599-fe8a8ec58df1.html",
+          "publishedOn": "2025-10-23T00:52:52.000Z",
+          "wordCount": 609,
+          "title": "Meme币$MELANIA涉“拉高出货”被诉，Melania Trump未被指参与",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cedfd278-6497-46ba-a631-6a499d08b5bd.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据知情人士透露，预测市场Polymarket正在与投资者进行早期对话，并寻求以120亿至150亿美元的估值进行融资，这比其四个月前的价值高出十倍以上。",
+          "link": "https://panewslab.com/zh/articledetails/cedfd278-6497-46ba-a631-6a499d08b5bd.html",
+          "publishedOn": "2025-10-23T00:43:07.000Z",
+          "wordCount": 578,
+          "title": "预测市场Polymarket寻求以120亿至150亿美元的估值进行融资",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d06414dd-c08c-4a74-91ea-e6d063952932.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，高盛维持黄金2026年底达到每盎司4900美元的目标价。高盛表示，由于市场对黄金作为战略投资组合多元化工具的兴趣日益增长，我们仍然认为到2026年底，金价突破4900美元预测目标的风险正在上升。我们相信，充满“粘性”且结构性的购买将持续下去。",
+          "link": "https://panewslab.com/zh/articledetails/d06414dd-c08c-4a74-91ea-e6d063952932.html",
+          "publishedOn": "2025-10-23T00:41:49.000Z",
+          "wordCount": 582,
+          "title": "高盛维持黄金明年底达到4900美元的目标价预测",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/23b575d6-98fb-476f-b247-1ee918fa7506.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，马斯克在公司财报电话会议上表示，Optimus 3代可能将于明年第一季度发布。预计今年年底前，美国得州Austin的特斯拉（无人驾驶出租车）将不再配备安全驾驶监督员。他在会议上恳求投资者批准的1万亿美元薪酬方案，并猛烈抨击了反对该计划的股东咨询公司。他表示：“我认为需要有足够的投票控制权来发挥强大的影响力。但又不能多到我如果发疯了就不能被解雇的程度。”",
+          "link": "https://panewslab.com/zh/articledetails/23b575d6-98fb-476f-b247-1ee918fa7506.html",
+          "publishedOn": "2025-10-23T00:41:17.000Z",
+          "wordCount": 568,
+          "title": "马斯克：Optimus 3代可能将于明年第一季度发布",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/6fbd76cc-807d-4eef-b58f-dcaa48fc9e6f.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，根据周三的一份声明，美国财政部将俄罗斯国有石油巨头Rosneft和卢克石油公司列入黑名单，原因是“俄罗斯缺乏结束冲突的认真承诺”。美国财政部还制裁了这两家公司在俄的一系列子公司，所有由这两家公司直接或间接拥有50%或以上股权的实体均被冻结。根据机构估计，这两家公司合计占该国原油出口总量的近一半，今年上半年约为每天220万桶。石油和天然气行业的税收约占俄罗斯联邦预算的四分之一。美国财政部声明称，此举将削弱俄罗斯为其冲突筹集收入的能力。贝森特表示，财政部准备在必要时采取进一步行动。\n美国总统特朗普表示，他认为与俄罗斯总统普京会面“不合适”，所以取消了和普京在布达佩斯的会面。特朗普表示，他认为是时候对俄罗斯实施制裁了，他希望制裁不会持续太久。",
+          "link": "https://panewslab.com/zh/articledetails/6fbd76cc-807d-4eef-b58f-dcaa48fc9e6f.html",
+          "publishedOn": "2025-10-23T00:32:59.000Z",
+          "wordCount": 586,
+          "title": "美财政部制裁俄两大石油公司，特朗普称取消与普京的会面",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/58c85a96-af9d-4250-9275-52e3d2cbff45.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据 Ledger Insights 报道，列支敦士登推出主权区块链基础设施 Liechtenstein Trust Integrity Network（LTIN），用于面向企业与机构的合规数字信任服务。该网络由国有电信商 Telecom Liechtenstein 持股为主，依据列支敦士登《区块链法》并与欧盟 MiCA 对齐。首批合作方包括 Bank Frick、Bitcoin Suisse、Solstice Labs、Zilliqa，INACTA、LUKSO、QPQ、Swiss Subnet 参与早期建设，定位为国家电信服务的区块链延伸。\n据悉，列支敦士登公国（Fürstentum Liechtenstein）位于欧洲中部，介于瑞士和奥地利之间，是一个内陆山地小国。人口大约3.9万人，它虽然与瑞士关系密切（共享关税、货币和部分外交事务），但在国际法上是完全主权独立的国家。",
+          "link": "https://panewslab.com/zh/articledetails/58c85a96-af9d-4250-9275-52e3d2cbff45.html",
+          "publishedOn": "2025-10-23T00:29:41.000Z",
+          "wordCount": 634,
+          "title": "列支敦士登推出主权区块链“LTIN”",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7afb0c5a-8bcb-4518-b2e7-aa3d56557ae4.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据FinanceFeeds报道，Citadel 创始人兼首席执行官、亿万富翁Ken Griffin披露持有DeFi Development Corp.（DFDV）约4.5%股份；Citadel Advisors及关联实体合计持有约2.7%。DFDV为专注增持Solana（SOL）的数字资产资金管理公司，近期八天内购入约117亿美元SOL，总持仓超2.19万枚，成本约236亿美元，仅次于Forward Industries（持有6.82万枚）。分析师提示DAT（数字资产库）模式面临监管、流动性与估值压缩风险。",
+          "link": "https://panewslab.com/zh/articledetails/7afb0c5a-8bcb-4518-b2e7-aa3d56557ae4.html",
+          "publishedOn": "2025-10-23T00:24:44.000Z",
+          "wordCount": 636,
+          "title": "Citadel创始人Ken Griffin持有DFDV 4.5%股份，押注Solana",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0dff9fbe-f8c7-4e02-a28a-d82228f1f372.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据彭博社报道，预测市场平台Kalshi正接到多家VC的融资邀约，拟估值约100亿–120亿美元以上。该消息发生在其数周前宣布以50亿美元估值完成3亿美元融资（A16z与红杉联合领投）之后；6月曾以20亿美元估值获1.85亿美元融资（Paradigm领投）。Kalshi未回应置评。监管方面，CFTC允许其上线更多合约，但州级博彩监管仍存争议。公司称年化交易量已达500亿美元；竞争对手Polymarket获ICE最多20亿美元投资、估值约80亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/0dff9fbe-f8c7-4e02-a28a-d82228f1f372.html",
+          "publishedOn": "2025-10-23T00:09:35.000Z",
+          "wordCount": 587,
+          "title": "预测市场平台Kalshi获多家VC融资邀约，估值或超100亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/37966c7c-a762-4c20-af08-22d208d2ee2b.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，SEC文件显示，Osprey Solana Trust向美国SEC提交Form S-1，拟发行追踪Solana（SOL）的现货ETF。",
+          "link": "https://panewslab.com/zh/articledetails/37966c7c-a762-4c20-af08-22d208d2ee2b.html",
+          "publishedOn": "2025-10-23T00:01:12.000Z",
+          "wordCount": 598,
+          "title": "Osprey向美国SEC提交Solana现货ETF的S-1申请",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d778bd97-af62-44d5-98ac-62d301bcf587.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据CoinDesk报道，特斯拉（Tesla, TSLA）第三季度未变更持有的11,509枚比特币（BTC），受价格上涨影响确认约8000万美元收益，数字资产期末估值约13.5亿美元。公司Q3营收281亿美元，超过市场预期的263.6亿美元；调整后每股收益0.50美元，低于预期0.54美元。依据新FASB规则，公司需按季度确认加密资产公允价值变动。盘后股价约434美元小幅下跌。",
+          "link": "https://panewslab.com/zh/articledetails/d778bd97-af62-44d5-98ac-62d301bcf587.html",
+          "publishedOn": "2025-10-22T23:47:59.000Z",
+          "wordCount": 584,
+          "title": "特斯拉Q3因比特币公允价值变动增利约8000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c80bc0b3-b12f-41ff-afb7-613763657ff8.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据CoinDesk报道，Google称其Willow量子芯片完成一项模拟量子混沌的计算，仅用约2小时，按研究对比需经典超算更长时间。该成果以测量OTOCs为验证基准，研究人员称此举推进量子计算在Hamiltonian学习等实际应用。业内认为对Bitcoin的加密基础影响尚早；Mysten Labs联合创始人Kostas Kryptos Chalkias表示“至少还需10年”。",
+          "link": "https://panewslab.com/zh/articledetails/c80bc0b3-b12f-41ff-afb7-613763657ff8.html",
+          "publishedOn": "2025-10-22T23:39:09.000Z",
+          "wordCount": 607,
+          "title": "Google宣称量子优势或重启“比特币受威胁”讨论",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/79b05190-0a05-41cf-bf0a-1dfce45647ec.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，Reddit已对Perplexity AI及另外三家公司提起诉讼，指控这些公司未经授权从Reddit网站进行数据抓取。根据周三在曼哈顿联邦法院提起的诉讼，数据抓取公司Oxylabs UAB、AWMProxy和SerpApi通过Google搜索结果收集Reddit的数据，目的是转售这些数据。诉讼称，Perplexity至少从其中一家公司购买了这些数据。随着依赖大量数据进行训练并提供相关结果的AI模型的兴起，Reddit不断增长的数据存储库已成为一种有价值的商品。Reddit已与OpenAI和Alphabet签订协议，授权其使用Reddit数据进行训练，但也对一些未与其签订正式协议的公司采取了法律行动。今年早些时候，Reddit还在旧金山法院对Anthropic提起了类似的数据抓取诉讼。",
+          "link": "https://panewslab.com/zh/articledetails/79b05190-0a05-41cf-bf0a-1dfce45647ec.html",
+          "publishedOn": "2025-10-22T23:36:34.000Z",
+          "wordCount": 593,
+          "title": "Reddit起诉Perplexity等公司非法抓取数据",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/33946cc6-0b5b-4806-b544-0a6792103ba2.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，美股周三收盘，道指初步收跌0.7%，标普500指数跌0.5%，纳指跌0.93%。苹果(AAPL.O)跌超1%，AMD(AMD.O)跌3.2%，谷歌A(GOOGL.O)涨0.4%。\n加密概念股也普遍下跌，其中MSTR跌近7%，COIN跌5.4%，CRCL跌3.9%。",
+          "link": "https://panewslab.com/zh/articledetails/33946cc6-0b5b-4806-b544-0a6792103ba2.html",
+          "publishedOn": "2025-10-22T23:34:57.000Z",
+          "wordCount": 568,
+          "title": "美股收盘：三大股指齐跌",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/0e730d2b-33dc-4038-b6cb-366daea2b56e.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，当地时间10月22日，美国财政部最新公布的数据显示，截至10月21日，美国联邦政府债务规模总额首次超过了38万亿美元。这距离8月中旬美国联邦政府债务总额达到37万亿美元仅过去两个多月。",
+          "link": "https://panewslab.com/zh/articledetails/0e730d2b-33dc-4038-b6cb-366daea2b56e.html",
+          "publishedOn": "2025-10-22T23:29:58.000Z",
+          "wordCount": 582,
+          "title": "美国国债总额首次超过38万亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9cd0c6oq.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，欧易OKX行情显示，ETH刚刚突破3800美元，现报3807.03美元/枚，日内下跌 0.90%。",
+          "link": "https://panewslab.com/zh/articledetails/9cd0c6oq.html",
+          "publishedOn": "2025-10-22T23:26:40.000Z",
+          "wordCount": 564,
+          "title": "ETH突破3800美元，日内下跌 0.90%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3f043034-ae00-4f86-a2d2-2e0711d9b17b.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据 Onchain Lens 报道，一地址向 HyperLiquid 存入约1600万美元 USDC，按每枚3824美元价格买入4184枚 ETH，随后将4128枚 ETH 存入 Aave V3。",
+          "link": "https://panewslab.com/zh/articledetails/3f043034-ae00-4f86-a2d2-2e0711d9b17b.html",
+          "publishedOn": "2025-10-22T23:24:50.000Z",
+          "wordCount": 644,
+          "title": "一巨鲸向HyperLiquid存入约1600万美元USDC买入4184枚ETH并存入Aave V3",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e1e15fd4-140b-4f34-8830-c92c1b0e45d2.html",
+          "author": "PA一线",
+          "description": "PANews 10月23日消息，据美媒报道，十几位加密行业领袖周三与美国两党领导人进行了近三个小时的会面，讨论的核心是加密市场结构法案，该法案旨在确立对该行业的监管，原定于10月下旬进行审议。持续的政府停摆导致了该法案的推迟。参会人士表示，在与民主党人进行的一个半小时的首次会谈中（舒默短暂出席），议员们向加密行业领袖询问了非法金融和去中心化金融相关问题。在随后与共和党议员进行的一个多小时的会谈中，议员们则表达了对该行业和该法案的支持。",
+          "link": "https://panewslab.com/zh/articledetails/e1e15fd4-140b-4f34-8830-c92c1b0e45d2.html",
+          "publishedOn": "2025-10-22T23:17:05.000Z",
+          "wordCount": 586,
+          "title": "美两党议员与加密行业领袖闭门会谈三小时，加密市场结构法案因政府停摆推迟审议",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
-        {
-          "id": "https://www.hellobtc.com/news/202510/24430.html",
-          "author": null,
-          "description": "1.特朗普夫人因代言Meme币MELANIA被卷入拉高出货欺诈诉讼;\n\n2.Moonbirds：Solana Mobile Seeker持有者可铸造一枚SBT;\n\n3.Polymarket正寻求最高150亿美元估值融资;\n\n4.英国改革党领袖Farage：支持加密货币，但发誓入狱也要阻止英国发行CBDC;\n\n5.加密货币公司Cryptomus被加拿大监管机构处以1.26亿美元罚款;\n\n6.香港首个Solana交易所交易基金“华夏Solana ETF”获批;\n\n7.美国政府「停摆」持续，参议院第12次否决临时拨款法案;\n\n8.a16z：今年已发行超1,300万个独立Meme币，凸显加密领域的监管真空;\n\n9.渣打：比特币有短时跌破10万美元可能性，适合逢低买入;\n\n10.美政府从暗网市场「Chinodrug」运营者处查获215枚比特币。",
-          "link": "https://www.hellobtc.com/news/202510/24430.html",
-          "publishedOn": "2025-10-23T01:11:00.000Z",
-          "wordCount": null,
-          "title": "白话区块链早报：特朗普夫人因代言Meme币MELANIA被卷入拉高出货欺诈诉讼",
-          "imageUrl": null
-        },
         {
           "id": "https://www.hellobtc.com/news/202510/24429.html",
           "author": null,
@@ -103,6 +300,16 @@
           "publishedOn": "2025-10-13T01:59:00.000Z",
           "wordCount": null,
           "title": "白话区块链早报：加密货币总市值回升至4万亿美元上方，24小时涨幅5.6%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hellobtc.com/news/202510/24420.html",
+          "author": null,
+          "description": "1.DWF合伙人：市场流动性已耗尽，比特币和强大的项目将很快恢复;\n\n2.Bitmine疑在市场崩盘后买入12.8万枚ETH，价值约4.8亿美元;\n\n3.Bitmine以太坊成本均价约4526美元，面临约20.76亿美元浮亏;\n\n4.观点：USDe是理财凭证而非稳定币，营销叙事错位意在争取使用场景;\n\n5.比特币提币延续，过去24小时CEX净流出2,167.72枚BTC;\n\n6.Hyperliquid平台交易量排名第八账户遭全部清算，损失或达1800-1900万美元;\n\n7.市场下跌后，Tether与Circle共计增发17.5亿美元稳定币;\n\n8.Crypto.com CEO呼吁监管机构调查大规模清算事件中的交易所。",
+          "link": "https://www.hellobtc.com/news/202510/24420.html",
+          "publishedOn": "2025-10-12T01:57:00.000Z",
+          "wordCount": null,
+          "title": "白话区块链早报：DWF合伙人表示市场流动性已耗尽，比特币和强大的项目将很快恢复",
           "imageUrl": null
         }
       ]
