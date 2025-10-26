@@ -1,6 +1,213 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/0e05ad09-b29c-4e86-8e87-f15d33b239fa.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据 CoinDesk 报道，Solana 即将在今年年底或 2026 年初推出 Alpenglow 升级，该升级将显著降低验证者的运营成本和准入门槛。\n据 Marinade Labs 首席执行官 Michael Repetny 透露，目前运行一个 Solana 验证者每月需要约 5000 美元成本，其中 4000 美元（占 80%）用于支付投票费用。Alpenglow 升级将大幅削减这些投票费用，使更多参与者能够负担得起运营验证者节点。\n除降低成本外，Alpenglow 还将提升网络带宽并减少延迟，通过更好的区块打包提高验证者经济效益，同时减少恶意 MEV（最大可提取价值）行为。不过，升级可能对验证者硬件要求更高。",
+          "link": "https://panewslab.com/zh/articledetails/0e05ad09-b29c-4e86-8e87-f15d33b239fa.html",
+          "publishedOn": "2025-10-26T14:06:57.000Z",
+          "wordCount": 689,
+          "title": "Solana拟在Alpenglow升级后降低验证者准入门槛",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/79569b75-3e6c-420c-8f2e-50d5d47c74d3.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，BitMEX联合创始人Arthur Hayes在X平台发文表示，Zcash代币ZEC或将上涨到1万美元（$ZEC to $10k）。\n据悉，Zcash项目诞生于2013年，起初是保护隐私的加密货币，确保链上双方交易，能完全匿名，今日ZEC市值突破50亿美元，续创新高。",
+          "link": "https://panewslab.com/zh/articledetails/79569b75-3e6c-420c-8f2e-50d5d47c74d3.html",
+          "publishedOn": "2025-10-26T13:43:42.000Z",
+          "wordCount": 621,
+          "title": "Arthur Hayes：Zcash代币ZEC或将涨至1万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a8fd09ac-428c-40b9-acdb-64d71341a6b2.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据链上分析师 Ai 姨监测，疑似 Richard Heart（HEX 与 PulseChain 创始人） 15 分钟前再次将 11558 枚 ETH 转入新地址，开始分批转移至 Tornado Cash，目前接收地址已转出 7300 枚 ETH，价值 2,956 万美元。",
+          "link": "https://panewslab.com/zh/articledetails/a8fd09ac-428c-40b9-acdb-64d71341a6b2.html",
+          "publishedOn": "2025-10-26T13:21:19.000Z",
+          "wordCount": 693,
+          "title": "疑似HEX与PulseChain创始人Richard Heart再次将11558枚ETH转入新地址",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ea9b0c10-0acb-4261-8b87-fd916baefb4d.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，BitMine董事长Tom Lee在X平台发文表示，ETH仍处于超级周期，大多数时候，价格“引领”基本面，但有时基本面引领价格，比如稳定币需求激增、以太坊交易量创历史新高等。",
+          "link": "https://panewslab.com/zh/articledetails/ea9b0c10-0acb-4261-8b87-fd916baefb4d.html",
+          "publishedOn": "2025-10-26T12:51:21.000Z",
+          "wordCount": 602,
+          "title": "Tom Lee：ETH仍处于超级周期",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d4c9b457-293b-4a8c-8d26-f50cedf589fe.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据链上分析师 Ai 姨监测，胜率 100%巨鲸持仓三天浮盈已超 1000 万美元。",
+          "link": "https://panewslab.com/zh/articledetails/d4c9b457-293b-4a8c-8d26-f50cedf589fe.html",
+          "publishedOn": "2025-10-26T12:48:20.000Z",
+          "wordCount": 614,
+          "title": "胜率100%巨鲸三天浮盈已超1000万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5c9eca80-707c-4ca4-ba77-196fadd4466f.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据金十报道，当地时间10月25日至26日，中美双方在吉隆坡举行经贸磋商。中国商务部国际贸易谈判代表兼副部长李成钢在磋商结束后对中外媒体记者表示，双方就妥善解决彼此关注的多项重要经贸议题形成初步共识，下一步将履行各自国内批准程序。“过去一个月左右的时间，中美经贸关系出现了一些震荡和波动，全球都非常关注。”李成钢说，自今年5月中美日内瓦经贸会谈以来，中方严格遵循中美两国元首多次通话共识，诚信、认真落实经贸磋商达成的共识安排，悉心呵护来之不易、相对稳定的中美经贸合作关系。“出现这些震荡和波动不是中方愿意看到的。”“美方表达立场是强硬的，中方维护利益是坚定的。”李成钢说，此次磋商中，中美经贸团队始终相互尊重、平等对话。未来，双方将进一步加强沟通交流，为中美经贸关系更稳定、更健康的发展作出积极努力。",
+          "link": "https://panewslab.com/zh/articledetails/5c9eca80-707c-4ca4-ba77-196fadd4466f.html",
+          "publishedOn": "2025-10-26T12:39:55.000Z",
+          "wordCount": 569,
+          "title": "李成钢：中美就稳妥解决多项重要经贸议题形成初步共识",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/253561c9-8885-4a34-a33a-6fb57e984227.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据链上分析师Ai姨监测，3000万美元建仓WBTC的巨鲸过去 15 分钟内再次花费1441万枚USDT买入126.18枚WBTC，10.21 起本轮波段已囤积 397.91 枚 WBTC，总投入高达 4441 万美元，平均成本 111,608 美元，当前浮盈 77.7 万美元。",
+          "link": "https://panewslab.com/zh/articledetails/253561c9-8885-4a34-a33a-6fb57e984227.html",
+          "publishedOn": "2025-10-26T12:28:12.000Z",
+          "wordCount": 646,
+          "title": "3000万美元建仓WBTC巨鲸再次花费1441万枚USDT买入126.18枚WBTC",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/4905786e-163f-4a36-8493-ce6cb2f68e57.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据CoinDesk报道，NYDIG全球研究主管Greg Cipolaro表示，长期以来比特币一直被称为“数字黄金”，并且像贵金属一样经常被宣传为通胀对冲工具，但这种说法其实站不住脚，通货膨胀并非影响比特币价格的关键因素，实际上近年来比特币与实际利率的反向关系有所加强，而且已经演变成流动性晴雨表，成为一个衡量全球流动性的指标。",
+          "link": "https://panewslab.com/zh/articledetails/4905786e-163f-4a36-8493-ce6cb2f68e57.html",
+          "publishedOn": "2025-10-26T12:21:34.000Z",
+          "wordCount": 594,
+          "title": "NYDIG：比特币正演变成流动性晴雨表，通胀已不是影响价格的关键因素",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/54e37f2d-fb4d-476e-9a87-79f6edcaad38.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，Token Unlocks数据显示，SUI、GRASS、EIGEN等代币将于下周迎来大额解锁，其中：\nSui（SUI）将于北京时间11月1日上午8点解锁约4396万枚代币，与现流通量的比例为1.21%，价值约1.13亿美元；\nGrass（GRASS）将于北京时间10月28日晚上9点30分解锁约1.81亿枚代币，与现流通量的比例为72.4%，价值约7930万美元；\nEigenCloud （EIGEN）将于北京时间11月1日中午12点解锁约3682万枚代币，与现流通量的比例为12.10%，价值约4160万美元；\nJupiter（JUP）将于北京时间10月28日晚上10点解锁约5347万枚代币，与现流通量的比例为1.72%，价值约2300万美元；\nZora（ZORA）将于北京时间10月30日上午8点解锁约1.67亿枚代币，与现流通量的比例为4.55%，价值约1590万美元；\nKamino（KMNO）将于北京时间10月30日晚上8点解锁约2.29亿枚代币，与现流通量的比例为5.99%，价值约1420万美元\nOptimism（OP）将于北京时间10月31日上午8点解锁约3134万枚代币，与现流通量的比例为1.71%，价值约1420万美元；\nImmutable（IMX）将于北京时间10月31日上午8点解锁约2452万枚代币，与现流通量的比例为1.24%，价值约1330万美元；\nSign（SIGN）将于北京时间10月28日下午6点解锁约2.90亿枚代币，与现流通量的比例为21.48%，价值约1210万美元。",
+          "link": "https://panewslab.com/zh/articledetails/54e37f2d-fb4d-476e-9a87-79f6edcaad38.html",
+          "publishedOn": "2025-10-26T12:19:46.000Z",
+          "wordCount": 604,
+          "title": "数据：SUI、GRASS、EIGEN等代币将于下周迎来大额解锁，其中SUI解锁价值约1.13亿美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7948ca73-8b28-4772-a093-9c67f7a07d6a.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据链上分析师Ai姨监测，某波段聪明钱一小时前花费1000万枚USDT再次买入88.6143枚WBTC，均价 112846 美元；加上 10.21 建仓的部分，已累计持有 271.73 WBTC(（约 3000 万美元），均价 110,403.69 美元。",
+          "link": "https://panewslab.com/zh/articledetails/7948ca73-8b28-4772-a093-9c67f7a07d6a.html",
+          "publishedOn": "2025-10-26T11:57:05.000Z",
+          "wordCount": 633,
+          "title": "某波段聪明钱花费1000万枚USDT再次买入88.6143枚WBTC",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/dd7b890b-c572-49b4-8e97-bfeaa970c364.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，Nubila 宣布其将支持全新互联网支付协议 x402，并即将公布首个战略合作伙伴，共同探索 AI 自主支付与真实世界数据经济 的结合。x402 协议基于 HTTP 状态码 “402 Payment Required”，让网站、AI、API 能够在无需账户、无需中介的情况下实现自主付费与结算——这意味着，未来的 AI Agent 不仅能自主调用数据接口，更能自主完成支付，实现真正的“机器为机器付费”。通过 x402，Nubila 的 Weather API 将成为全球首批支持 AI 自动支付访问的真实世界数据接口之一。AI 调用 Nubila 的天气数据时，可以直接支付少量稳定币（如 USDT），而提供真实世界数据的贡献者将即时获得链上奖励。Nubila 表示此举标志着其在 “AI × DePIN × 支付” 交汇处迈出关键一步，正在构建一个让真实世界数据、智能系统与价值自由流动的基础层。",
+          "link": "https://panewslab.com/zh/articledetails/dd7b890b-c572-49b4-8e97-bfeaa970c364.html",
+          "publishedOn": "2025-10-26T11:51:00.000Z",
+          "wordCount": 691,
+          "title": "Nubila宣布将支持x402支付协议，开启AI自主支付新时代",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/e3e64551-0cec-4390-8aac-a217e90bc787.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据链上分析师 Ai 姨监测，BTC 突破 11.3 万美元，胜率 100%巨鲸自 10 月 14 日以来总盈利（包含未结算部分）高达 2004 万美元，当前的 BTC 和 ETH 多单浮盈已超 767 万美元。",
+          "link": "https://panewslab.com/zh/articledetails/e3e64551-0cec-4390-8aac-a217e90bc787.html",
+          "publishedOn": "2025-10-26T11:46:21.000Z",
+          "wordCount": 681,
+          "title": "胜率100%巨鲸的BTC和ETH多单浮盈已超767万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3vmz9lwv.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，欧易OKX行情显示，BTC刚刚突破113000美元，现报113039.00美元/枚，日内涨幅 1.48%。",
+          "link": "https://panewslab.com/zh/articledetails/3vmz9lwv.html",
+          "publishedOn": "2025-10-26T11:42:30.000Z",
+          "wordCount": 568,
+          "title": "BTC突破113000美元，日内涨幅 1.48%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9387bdda-1585-4505-b1c6-676d1e3cd867.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据链上分析师 Ai 姨监测，Strategy 暗示增持 BTC 后，比特币价格再次拉升至约 112700 美元。 “胜率 100% 巨鲸 ”对手盘仓位现已浮亏 185 万美元，需要注意的是他的清算价为 116,903.9 美元，距离现价还有 4100 美元左右的差距。",
+          "link": "https://panewslab.com/zh/articledetails/9387bdda-1585-4505-b1c6-676d1e3cd867.html",
+          "publishedOn": "2025-10-26T11:34:06.000Z",
+          "wordCount": 674,
+          "title": "胜率100%巨鲸对手盘仓位现已浮亏185万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/86afaa5c-a4b1-4c78-99bf-4b68c7b44e8b.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，Michael Saylor在X平台再次发布Tracker信息，他写道：“It's Orange Dot Day”。这意味着下周Strategy或将披露比特币增持数据。",
+          "link": "https://panewslab.com/zh/articledetails/86afaa5c-a4b1-4c78-99bf-4b68c7b44e8b.html",
+          "publishedOn": "2025-10-26T11:22:47.000Z",
+          "wordCount": 613,
+          "title": "Michael Saylor再次发布Tracker信息，下周或将披露比特币增持数据",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/86714b2d-f89c-4849-8493-8b27334abe5b.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，CZ 在 X 平台晒出与特朗普长期支持者、世界格斗冠军赛 UFC 总裁白大拿合影后，加密 KOL AB Kuai.Dong 透漏在昨天 CZ 观赛的现场，UFC 线上直播的右下角播放了合作的粉丝项目 Fight ID，目前这个项目，正在 Holoworld 打新阶段，上周 BNB 链的第一期超募 20 倍，已经结束。",
+          "link": "https://panewslab.com/zh/articledetails/86714b2d-f89c-4849-8493-8b27334abe5b.html",
+          "publishedOn": "2025-10-26T11:01:46.000Z",
+          "wordCount": 685,
+          "title": "加密KOL：昨日UFC线上直播显示合作粉丝项目Fight ID",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/a0d75f96-a9b3-4e44-a0e6-d0b1b19d5f6e.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，Starkware 在 X 平台发文宣布，目前正在准备发布新版本 Starknet v0.14.1，该版本将支持在低活动期间更快地关闭区块，并且会部署 BLAKE 哈希函数（SNIP-34），预计将于 11 月 11 日上线测试网并于 11 月 25 日上线主网。",
+          "link": "https://panewslab.com/zh/articledetails/a0d75f96-a9b3-4e44-a0e6-d0b1b19d5f6e.html",
+          "publishedOn": "2025-10-26T10:06:46.000Z",
+          "wordCount": 679,
+          "title": "Starknet v0.14.1拟于11月25日上线主网",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c9a67419-a7fd-4ebc-abc9-32f8be81b799.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据财富杂志报道，共 37 位捐赠者为白宫宴会厅建设提供资金，包括硅谷科技巨头和加密货币公司等，其中企业捐赠者有 Meta、Apple、Amazon、Google、洛克希德·马丁、微软、Comcast 、Altria、Hard Rock International、Micron Technology 、Caterpillar 、Booz Allen Hamilton 、惠普、Booz Allen Hamilton、NextEra Energy、Reynolds American 、T‑Mobile、Palantir Technologies，加密公司有 Tether America、Ripple；私人和家族捐赠者包括：阿德尔森家族基金会、Stefan E. Brodie、Betty Wold Johnson Foundation、Charles and Marissa Cascarilla 、Edward and Shari Glazer 、Harold Hamm、Benjamín Leon Jr.、美国商务部长霍华德·卢特尼克为首的卢特尼克家族、Gemini 联合创始人 Cameron Winklevoss 和 Tyler Winklevoss 等。",
+          "link": "https://panewslab.com/zh/articledetails/c9a67419-a7fd-4ebc-abc9-32f8be81b799.html",
+          "publishedOn": "2025-10-26T10:05:38.000Z",
+          "wordCount": 700,
+          "title": "财富杂志披露37位捐赠者为白宫宴会厅提供资金，含Gemini联创等",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/deeef9ff-50fe-4a94-b17a-05e8df78d4d4.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，据金十报道，美国财长贝森特表示，我有信心通胀将进一步下降，接近美联储 2%的目标。政府停摆正开始削弱美国经济的“肌肉”。",
+          "link": "https://panewslab.com/zh/articledetails/deeef9ff-50fe-4a94-b17a-05e8df78d4d4.html",
+          "publishedOn": "2025-10-26T09:50:17.000Z",
+          "wordCount": 568,
+          "title": "贝森特：有信心通胀进一步下降接近美联储2%的目标",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/9a1aeb60-0347-48f6-b838-a5b8d10dfcc9.html",
+          "author": "PA一线",
+          "description": "PANews 10月26日消息，林俊杰在 Instagram 晒出与以太坊联创 Vitalik Buterin 合影，并且配文：“很高兴与 Vitalik 保持联系，我们深入探讨了科技如何激励更多人可持续、有意识地生活。”",
+          "link": "https://panewslab.com/zh/articledetails/9a1aeb60-0347-48f6-b838-a5b8d10dfcc9.html",
+          "publishedOn": "2025-10-26T09:43:31.000Z",
+          "wordCount": 602,
+          "title": "林俊杰在社媒晒与以太坊联创Vitalik合影",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
