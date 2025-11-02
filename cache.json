@@ -1,6 +1,23 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/1vmi5acb.html",
+          "author": "PA一线",
+          "description": "PANews 11月3日消息，欧易OKX行情显示，BTC刚刚跌破110000美元，现报109906.50美元/枚，日内下跌 0.19%。",
+          "link": "https://panewslab.com/zh/articledetails/1vmi5acb.html",
+          "publishedOn": "2025-11-02T16:00:40.000Z",
+          "wordCount": 596,
+          "title": "BTC跌破110000美元，日内下跌 0.19%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
