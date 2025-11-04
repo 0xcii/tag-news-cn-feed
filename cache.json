@@ -1,87 +1,20 @@
 {
   "sources": [
     {
-      "title": "PANews - 快讯",
-      "feedUrl": "https://rsshub.app/panewslab/news",
-      "siteUrl": "https://panewslab.com/zh/news/index.html",
-      "articles": [
-        {
-          "id": "https://panewslab.com/zh/articledetails/49bb416c-cb41-48b0-a1e2-3b9315f922e3.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，Ripple宣布收购数字资产钱包与托管公司Palisade，以扩展其企业级加密托管服务能力，交易金额未披露。此次收购Palisade将助力Ripple为加密原生机构、金融科技公司及企业客户提供从长期储存到高频交易的完整资产管理解决方案。Palisade具备MPC、零信任架构与多链支持，将直接集成至Ripple支付系统，提升跨境支付与资金调度效率。\nRipple已通过战略投资和并购向加密货币生态系统投入了约40亿美元。此前已收购Hidden Road（12.5亿美元）、Rail（2亿美元）及GTreasury（10亿美元）。",
-          "link": "https://panewslab.com/zh/articledetails/49bb416c-cb41-48b0-a1e2-3b9315f922e3.html",
-          "publishedOn": "2025-11-04T00:01:15.000Z",
-          "wordCount": 616,
-          "title": "Ripple收购Palisade，强化数字资产托管与钱包服务布局",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/87c74768-ec61-4afc-a053-9c41ba3410c3.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，据The Block报道，Bitwise拟为Bitwise XRP ETF收取0.34%费用，Grayscale为其XRP与Dogecoin ETF收取0.35%。两家公司此前已上线SOL现货ETF，Bitwise首日吸金约5600万美元。在美国政府停摆、SEC人手受限背景下，机构通过提交不含“delaying amendment”的S-1并满足上市标准，产品可在20天后自动生效，意味着部分加密ETF或无需SEC事前核准即可挂牌。NovaDius称两周内或将见首只XRP现货ETF。",
-          "link": "https://panewslab.com/zh/articledetails/87c74768-ec61-4afc-a053-9c41ba3410c3.html",
-          "publishedOn": "2025-11-03T23:56:10.000Z",
-          "wordCount": 633,
-          "title": "Bitwise与Grayscale披露XRP与Dogecoin现货ETF费用，或无SEC核准即上线",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/f5b0eadf-8716-4eba-9868-8f78ac81d20c.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，据The Block报道，Wintermute创始人兼CEO Evgeny Gaevoy在X表示，“我们从未计划起诉Binance，未来也没有理由这样做”，回应市场传言。此前10月11日（北京时间）凌晨加密市场大规模去杠杆事件导致超约200亿美元杠杆仓位被清算；Binance随后向受影响交易者支付约2.83亿美元并推出4亿美元用户补偿与低息贷款计划。Gaevoy称公司“完全没问题”，并指部分被清算仓位价格“非常异常”。不清楚Wintermute是否获赔。",
-          "link": "https://panewslab.com/zh/articledetails/f5b0eadf-8716-4eba-9868-8f78ac81d20c.html",
-          "publishedOn": "2025-11-03T23:48:05.000Z",
-          "wordCount": 626,
-          "title": "Wintermute否认将起诉Binance，称从未有相关计划",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/1a433788-e3be-499e-84e8-b4e9a5f550ff.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，Balancer官方表示，昨日15:48（北京时间）其V2 Composable Stable Pools遭遇攻击，部分旧池因上线多年未能暂停，目前已暂停可控池并启动恢复机制。其他V3及非该类池未受影响。团队正与安全研究员联合调查，后续将发布完整事件报告，提醒用户警惕钓鱼信息。",
-          "link": "https://panewslab.com/zh/articledetails/1a433788-e3be-499e-84e8-b4e9a5f550ff.html",
-          "publishedOn": "2025-11-03T23:43:43.000Z",
-          "wordCount": 628,
-          "title": "Balancer：部分旧池因上线多年未能暂停，V3等其他Balancer池子未受影响",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7bb3f178-1fb2-4b1d-9fb5-35ad96b05934.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，据Chainlink官方公告，FTSE Russell与Chainlink合作，FTSE Russell首次通过Chainlink DataLink将其核心指数数据（含Russell 1000、2000、3000、FTSE 100等）上链，覆盖超60条区块链，服务2000余个应用，实现多链24/7实时访问。\nFTSE Russell是全球领先的金融指数和数据服务提供商，隶属于伦敦证券交易所集团（LSEG）。",
-          "link": "https://panewslab.com/zh/articledetails/7bb3f178-1fb2-4b1d-9fb5-35ad96b05934.html",
-          "publishedOn": "2025-11-03T23:34:15.000Z",
-          "wordCount": 645,
-          "title": "Chainlink携FTSE Russell首度将全球指数数据上链",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/7023716b-0459-434d-88dd-3ac0c0428104.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，据Coinbase Markets，Monad（MON）已加入其资产上架路线图，未来计划上线交易。官方称，交易开启需待流动性支持及技术准备就绪后另行公告。",
-          "link": "https://panewslab.com/zh/articledetails/7023716b-0459-434d-88dd-3ac0c0428104.html",
-          "publishedOn": "2025-11-03T23:21:17.000Z",
-          "wordCount": 629,
-          "title": "Coinbase将Monad（MON）列入上架路线图",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        },
-        {
-          "id": "https://panewslab.com/zh/articledetails/c09cd350-7d75-4d8b-b774-5da0e760a7d9.html",
-          "author": "PA一线",
-          "description": "PANews 11月4日消息，据CME“美联储观察”：美联储12月降息25个基点的概率为67.3%，维持利率不变的概率为32.7%。美联储到明年1月累计降息25个基点的概率为55.8%，维持利率不变的概率为21.8%，累计降息50个基点的概率为22.3%。",
-          "link": "https://panewslab.com/zh/articledetails/c09cd350-7d75-4d8b-b774-5da0e760a7d9.html",
-          "publishedOn": "2025-11-03T23:12:17.000Z",
-          "wordCount": 620,
-          "title": "美联储12月降息25个基点的概率为67.3%",
-          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
-        }
-      ]
-    },
-    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202511/24442.html",
+          "author": null,
+          "description": "1.灰度披露现货XRP及DOGE ETF的管理费用为0.35%;\n\n2.“高点重仓中文Meme的巨鲸”已全部清仓，累计亏损359.8万美元;\n\n3.Peter Schiff评Strategy增持比特币：买入力度不足;\n\n4.上周美国现货比特币ETF净流出8.02亿美元，交易量达250亿美元;\n\n5.SOL Strategies：SOL财库持仓量升至52.65万枚;\n\n6.美联储理事库克：12月有可能降息，但将取决于后续新出炉的信息;\n\n7.CZ：市场上充斥着大量FUD，任何「新闻」都要查证官方来源;\n\n8.美国联邦政府“停摆”距离打破历史纪录仅一步之遥;\n\n9.Web3+AI浏览器项目Donut Labs完成1500万美元种子轮融资，Hack VC等参投。",
+          "link": "https://www.hellobtc.com/news/202511/24442.html",
+          "publishedOn": "2025-11-04T00:54:00.000Z",
+          "wordCount": null,
+          "title": "白话区块链早报：灰度披露现货XRP及DOGE ETF的管理费用为0.35%",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hellobtc.com/news/202511/24441.html",
           "author": null,
@@ -170,16 +103,6 @@
           "publishedOn": "2025-10-26T00:59:00.000Z",
           "wordCount": null,
           "title": "白话区块链早报：Tom Lee表示以太坊链上活跃度上升或为年底行情积蓄动能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202510/24432.html",
-          "author": null,
-          "description": "1.数据：今年以来沉寂7年以上比特币苏醒数量已创年度历史新高;\n\n2.SpaceX仅间隔三天再次转出1215枚BTC，价值1.33亿美元，转出意图尚不明确;\n\n3.Tom Lee：比特币四年周期模式已经打破，但仍可能出现50%的跌幅;\n\n4.Tether CEO：预计年内利润150亿美元，利润率高达99%;\n\n5.美国白宫： 下个月可能无法公布通胀数据，为史上首次;\n\n6.某SOL巨鲸过去4天通过OTC增持近25万枚SOL，过去半年囤积82.7万枚SOL;\n\n7.特朗普任命Michael Selig为美CFTC主席，以应对加密行业的增长;\n\n8.美国9月CPI涨幅略逊预期，美联储下周降息前景更加明朗;\n\n9.Polymarket首席营销官确认计划推出代币和空投;\n\n10.摩根大通：Coinbase若推出Base代币或释放340亿美元价值。",
-          "link": "https://www.hellobtc.com/news/202510/24432.html",
-          "publishedOn": "2025-10-25T01:01:00.000Z",
-          "wordCount": null,
-          "title": "白话区块链早报：数据显示今年以来沉寂7年以上比特币苏醒数量已创年度历史新高",
           "imageUrl": null
         }
       ]
