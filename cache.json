@@ -1,10 +1,137 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/f4957929-786c-40f0-81e8-45802863d3b2.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，彭博分析师Eric Balchunas发推称，Tuttle已提交名为“Crypto Blast”的单只股票ETF申请，拟对标的股票实施每周收益的看跌价差策略，同时将未占用保证金的现金投资于追踪BTC、ETH、SOL的加密货币ETF。",
+          "link": "https://panewslab.com/zh/articledetails/f4957929-786c-40f0-81e8-45802863d3b2.html",
+          "publishedOn": "2025-11-05T23:43:14.000Z",
+          "wordCount": 613,
+          "title": "Tuttle申请“Crypto Blast”单股ETF，拟结合看跌价差与加密ETF",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d22725d8-1300-480d-a4eb-9037bacc1811.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，据Ai姨称，原“胜率100%巨鲸”在ETH合约交易中连续失败，第五次亏损后清仓价值约3892万美元的25倍空单，亏损约144.8万美元；因跨账户转入61.8万美元，目前账户剩余约57.3万美元。过去一周其累计亏损约4676万美元。",
+          "link": "https://panewslab.com/zh/articledetails/d22725d8-1300-480d-a4eb-9037bacc1811.html",
+          "publishedOn": "2025-11-05T23:39:33.000Z",
+          "wordCount": 610,
+          "title": "原“胜率100%巨鲸”清仓ETH空单，一周累计亏损约4676万美元",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/61b5de82-9cff-4321-b174-27198840a556.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，据华尔街日报报道，OpenAI首席财务官表示，OpenAI尚未为上市做准备，凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡，OpenAI希望联邦为数据中心投资提供支持。市场应当对人工智能的潜力拥有更多的信心。\nOpenAI首席财务官Sarah Friar表示，市场过于担忧和关注对人工智能领域可能出现的泡沫，应该对该技术的潜力表现出更多的“热情”。Friar表示：“当我想到人工智能的实际影响以及它对个人的影响时，我认为人们对人工智能的热情还不够。我们应该继续努力。”为了支持其人工智能数据中心的建设，OpenAI与英伟达和AMD公司达成了一系列重大交易，这些交易被批评为“内循环融资安排”，但Friar否认这一循环性并表示，“我们目前所做的都是构建完整的基础设施，让更多的计算进入这个世界。我根本不认为这是循环的。去年的大量工作是使供应链多样化。”",
+          "link": "https://panewslab.com/zh/articledetails/61b5de82-9cff-4321-b174-27198840a556.html",
+          "publishedOn": "2025-11-05T23:33:07.000Z",
+          "wordCount": 615,
+          "title": "OpenAI首席财务官：OpenAI尚未为上市做准备",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/57ce5a37-4302-4fd5-8614-0f44ea2521b4.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，世界经济论坛(WEF)主席博尔格·布伦德周三表示，全球金融市场可能面临三个潜在泡沫，值得全球关注。布伦德在造访巴西金融中心圣保罗时说：\"未来我们可能会看到泡沫出现。一是加密货币泡沫，二是AI泡沫，三是债务泡沫。\"他补充说，自1945年以来，各国政府的债务水准从未如此之高。布伦德指出，AI虽有望带来显著的生产力提升，但也可能对大量白领岗位构成威胁。“最坏的情况是，我们可能会看到大城市中出现类似‘美国锈带’的现象，在那些拥有大量后台岗位、白领员工集中的大城市，其工作更容易被AI取代。”他举例称，近期亚马逊、雀巢等企业已宣布裁员计划，正是这一趋势的体现。",
+          "link": "https://panewslab.com/zh/articledetails/57ce5a37-4302-4fd5-8614-0f44ea2521b4.html",
+          "publishedOn": "2025-11-05T23:30:04.000Z",
+          "wordCount": 611,
+          "title": "世界经济论坛主席警告：AI、加密货币和债务恐成三大泡沫",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7d46e3dc-ebdb-4040-8b01-6fac4282e752.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，美国最高法院周三就特朗普大规模征收对等关税的合法性展开口头辩论。除了最高法院的自由派大法官之外，多名保守派大法官亦对特朗普关税的合法性表示质疑。最高法院首席大法官罗伯茨(John Roberts)表示，特朗普关税是对美国人征税，这始终属于国会的核心权力。特朗普担任总统时任命的三名大法官中，戈萨奇(Neil Gorsuch)和巴雷特(Amy Coney Barrett)也提出了质疑性问题，并深入探讨关税反对者的论点。最高法院保守派大法官占多数，比例为6:3。最高法院可能会在12月宣布判决结果。预测平台Polymarket最新给出特朗普胜诉的概率为27%，低于辩论前的40%，并在听证会期间短暂跌至18%的新低。",
+          "link": "https://panewslab.com/zh/articledetails/7d46e3dc-ebdb-4040-8b01-6fac4282e752.html",
+          "publishedOn": "2025-11-05T23:27:00.000Z",
+          "wordCount": 614,
+          "title": "美最高法院关税案辩论进展：特朗普胜诉概率降低",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/b21f0290-f896-4512-85c1-5a92ae290434.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，据Coinbase Markets，Coinbase已恢复Polkadot（DOT）发送、接收及质押功能，相关服务全部重启。此前官方宣布为完成网络迁移，11月3日至11月5日暂停DOT的转入、转出与质押，并提示用户在升级窗口期勿充值。当前功能已恢复，用户可正常使用。",
+          "link": "https://panewslab.com/zh/articledetails/b21f0290-f896-4512-85c1-5a92ae290434.html",
+          "publishedOn": "2025-11-05T23:22:28.000Z",
+          "wordCount": 614,
+          "title": "Coinbase恢复Polkadot（DOT）转账与质押支持",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/18467557-4c68-414f-a6d5-4a17699f02f0.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，据Coinbase Markets称，Coinbase现已在coinbase․com及Coinbase App上线Intuition（TRUST），用户可买卖、兑换、发送、接收与存储该资产。",
+          "link": "https://panewslab.com/zh/articledetails/18467557-4c68-414f-a6d5-4a17699f02f0.html",
+          "publishedOn": "2025-11-05T23:18:27.000Z",
+          "wordCount": 616,
+          "title": "Coinbase上线Intuition（TRUST），现已开放交易与存取",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7939ff32-8a01-4de4-9b4e-1d7f7ccaa891.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，美股周三收盘，道指初步收涨0.48%，标普500指数涨0.37%，纳指涨0.65%。特斯拉(TSLA.O)涨近4%，英伟达(NVDA.O)跌近2%，超微电脑(SMCI.O)大跌11%。区块链概念股普遍上涨，Coinbase(COIN)上涨3.9%。",
+          "link": "https://panewslab.com/zh/articledetails/7939ff32-8a01-4de4-9b4e-1d7f7ccaa891.html",
+          "publishedOn": "2025-11-05T23:14:43.000Z",
+          "wordCount": 580,
+          "title": "美股收盘：三大股指收涨，英伟达跌近2%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2mdmzm15.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，欧易OKX行情显示，BTC刚刚突破104000美元，现报104006.90美元/枚，日内涨幅 0.27%。",
+          "link": "https://panewslab.com/zh/articledetails/2mdmzm15.html",
+          "publishedOn": "2025-11-05T16:51:20.000Z",
+          "wordCount": 587,
+          "title": "BTC突破104000美元，日内涨幅 0.27%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/uyba35mi.html",
+          "author": "PA一线",
+          "description": "PANews 11月6日消息，欧易OKX行情显示，ETH刚刚突破3400美元，现报3402.11美元/枚，日内涨幅 0.12%。",
+          "link": "https://panewslab.com/zh/articledetails/uyba35mi.html",
+          "publishedOn": "2025-11-05T16:01:30.000Z",
+          "wordCount": 581,
+          "title": "ETH突破3400美元，日内涨幅 0.12%",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/c44932cd-4c9b-441d-b5ea-4b182fc547d3.html",
+          "author": "PA一线",
+          "description": "PANews 11月5日消息，据Scam Sniffer监测，一名受害者在签署了恶意“授权（permit）”签名后，损失了价值304,595美元的aBasUSDC代币。",
+          "link": "https://panewslab.com/zh/articledetails/c44932cd-4c9b-441d-b5ea-4b182fc547d3.html",
+          "publishedOn": "2025-11-05T16:00:20.000Z",
+          "wordCount": 609,
+          "title": "某用户在签署恶意“permit”签名后损失价值超30万美元的aBasUSDC代币",
+          "imageUrl": "https://image.panewslab.com/images/logo1.jpg"
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202511/24444.html",
+          "author": null,
+          "description": "1.加密市场回暖比特币突破10.4万美元，美股加密概念股普涨;\n\n2.富兰克林邓普顿在香港推出美元计价代币化货币市场基金，面向专业投资者开放;\n\n3.Aave创始人：不可变预言机与利率机制或引发系统性风险，资产管理者利益冲突加剧行业隐患;\n\n4.美国国会民主党领袖呼吁特朗普会谈结束政府“停摆”;\n\n5.灰度：免收Solana ETF管理费，直至基金AUM达10亿美元;\n\n6.数据：MetaMask永续合约交易量突破10亿美元;\n\n7.英国央行副行长：稳定币监管规则将快速推进实施;\n\n8.Ripple CEO：监管应该关注结果，而不是技术本身;\n\n9.特朗普称赞加密货币，表示其减轻了美元压力;\n\n10.WLFI宣布已将Meme币1作为战略储备并建仓持有。",
+          "link": "https://www.hellobtc.com/news/202511/24444.html",
+          "publishedOn": "2025-11-06T01:06:00.000Z",
+          "wordCount": null,
+          "title": "白话区块链早报：加密市场回暖比特币突破10.4万美元，美股加密概念股普涨",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hellobtc.com/news/202511/24443.html",
           "author": null,
@@ -93,16 +220,6 @@
           "publishedOn": "2025-10-28T00:32:00.000Z",
           "wordCount": null,
           "title": "白话区块链早报：灰度宣布其Solana信托已支持质押功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202510/24434.html",
-          "author": null,
-          "description": "1.NYDIG：比特币正演变成流动性晴雨表，通胀已不是影响价格的关键因素;\n\n2.蚂蚁集团在香港申请注册“ANTCOIN”等多项Web3相关商标;\n\n3.0xSun：隐私币、Hyperliquid及X402为当前市场三大强势板块;\n\n4.日经225指数首次突破5万点大关，韩国KOSPI指数首次突破4000点大关;\n\n5.Solana联创toly：Layer2并未真正继承以太坊安全性;\n\n6.Sharplink Gaming再次增持19271枚ETH，价值约8037万美元;\n\n7.贝森特：美方不再考虑对华加征100%的关税;\n\n8.金融巨头西联汇款将试行基于稳定币的结算系统;\n\n9.数据：SUI、GRASS、EIGEN等代币将于这周迎来大额解锁，其中SUI解锁价值约1.13亿美元。",
-          "link": "https://www.hellobtc.com/news/202510/24434.html",
-          "publishedOn": "2025-10-27T01:31:00.000Z",
-          "wordCount": null,
-          "title": "白话区块链早报：NYDIG表示比特币正演变成流动性晴雨表，通胀已不是影响价格的关键因素",
           "imageUrl": null
         }
       ]
