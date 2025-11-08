@@ -1,6 +1,23 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/u7bm1fgr.html",
+          "author": "PA一线",
+          "description": "PANews 11月9日消息，欧易OKX行情显示，BTC刚刚突破102000美元，现报102010.90美元/枚，日内涨幅 0.28%。",
+          "link": "https://panewslab.com/zh/articledetails/u7bm1fgr.html",
+          "publishedOn": "2025-11-08T19:40:30.000Z",
+          "wordCount": null,
+          "title": "BTC突破102000美元，日内涨幅 0.28%",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
