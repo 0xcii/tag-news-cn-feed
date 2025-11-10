@@ -1,10 +1,217 @@
 {
   "sources": [
     {
+      "title": "PANews - 快讯",
+      "feedUrl": "https://rsshub.app/panewslab/news",
+      "siteUrl": "https://panewslab.com/zh/news/index.html",
+      "articles": [
+        {
+          "id": "https://panewslab.com/zh/articledetails/06f887e9-5ed2-4b26-89c4-119bac92670d.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据链上分析师余烬监测，巨鲸0x7b7三天前把700万枚USDC转进Hyperliquid用于做空BTC，历经多次止损后，现在仅剩余56万美元，亏损了644万美元。\n他开空的BTC数量最高时达到了2222枚(2.26亿美元)，多次止损后现在还剩余300枚BTC(3187万美元)。",
+          "link": "https://panewslab.com/zh/articledetails/06f887e9-5ed2-4b26-89c4-119bac92670d.html",
+          "publishedOn": "2025-11-10T01:39:04.000Z",
+          "wordCount": null,
+          "title": "某巨鲸3天前以700万枚USDC转进HL以做空BTC，多次止损后仅剩余56万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/810d5984-2da4-47e4-b27e-808c38b0400e.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据新华社引援美国媒体报道，美国国会参议院已就结束联邦政府“停摆”达成一致。\n此外，据金十报道，美国参议院正在就结束政府停摆的方案进行测试性投票，需要60票才能通过。",
+          "link": "https://panewslab.com/zh/articledetails/810d5984-2da4-47e4-b27e-808c38b0400e.html",
+          "publishedOn": "2025-11-10T01:36:19.000Z",
+          "wordCount": null,
+          "title": "美媒：美国国会参议院已就结束联邦政府“停摆”达成一致",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/d4238861-eb9b-4809-b3ed-ebe077b1585d.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据Lookonchain监测，从做空ETH转向做多ETH的某巨鲸，目前持有32,802枚ETH（价值约1.196亿美元），未实现利润超过1500万美元。其持有的ASTER和PEPE空头仓位仍处于盈利状态。",
+          "link": "https://panewslab.com/zh/articledetails/d4238861-eb9b-4809-b3ed-ebe077b1585d.html",
+          "publishedOn": "2025-11-10T01:33:23.000Z",
+          "wordCount": null,
+          "title": "某由空转多的巨鲸目前持有32802枚ETH的仓位，目前浮盈超1500万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/ed17e92a-1b80-4579-b0ac-53449cdc0dce.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，BitMEX联合创始人Arthur Hayes在X平台发文表示，美国政府又开始做它最擅长的事了：印钞和发放福利，BTC和ZEC将迎来涨势。\n此前据格隆汇报道，特朗普称关税将使大多数美国人获得至少2000美元补助。",
+          "link": "https://panewslab.com/zh/articledetails/ed17e92a-1b80-4579-b0ac-53449cdc0dce.html",
+          "publishedOn": "2025-11-10T01:25:29.000Z",
+          "wordCount": null,
+          "title": "Arthur Hayes：美国政府开始印钞和发放福利，或将推动比特币及ZEC上涨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/35016ab7-2feb-456e-adfa-89cb3f92b7da.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据Cryptopolitan报道，伊朗议会议长Mohammad Bagher Ghalibaf上周在一场区块链活动上宣称，除非接受加密货币，否则伊朗将无法实现其数字经济目标。Ghalibaf称制定加密货币资产国家路线图是“当务之急”。其提到伊朗最新《国家发展计划》中设定的目标，即让数字经济占比达到10%，并指出若不接受加密货币，这一目标将无法实现。Ghalibaf敦促该国经济与工业部、央行及其他政府机构协同努力，确保该领域实现规范发展。",
+          "link": "https://panewslab.com/zh/articledetails/35016ab7-2feb-456e-adfa-89cb3f92b7da.html",
+          "publishedOn": "2025-11-10T01:21:29.000Z",
+          "wordCount": null,
+          "title": "伊朗议会议长：伊朗需利用加密货币以实现其数字经济目标",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/5a652e1f-c3fa-461f-9c0e-8d292a913075.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，法拉第未来创始人贾跃亭在X平台发文披露，QLGN上周在加密资产新部署300万美元资金，且其正在构建一个Web3社区。",
+          "link": "https://panewslab.com/zh/articledetails/5a652e1f-c3fa-461f-9c0e-8d292a913075.html",
+          "publishedOn": "2025-11-10T01:00:15.000Z",
+          "wordCount": null,
+          "title": "贾跃亭：QLGN上周增持300万美元加密资产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2dc1b069-fb84-484a-8053-789b3c321471.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据链上分析师余烬监测，随着ETH从昨晚以来反弹了6%。一个在10月11日崩盘后抄底ETH被套的巨鲸在反弹后终于接近回本，于是在3小时前清仓卖出6028枚ETH换成2226万枚USDC，亏损了32万美元。他在10月11日崩盘当天，花了2258万枚USDC以3638美元的价格抄底6028枚ETH，之后ETH继续下跌致使他被套。今天在反弹后接近回本，以3587美元的价格清仓。",
+          "link": "https://panewslab.com/zh/articledetails/2dc1b069-fb84-484a-8053-789b3c321471.html",
+          "publishedOn": "2025-11-10T00:42:31.000Z",
+          "wordCount": null,
+          "title": "“10月11日抄底ETH被套的巨鲸”已清仓卖出6028枚ETH，实现32万美元亏损",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/3jku2vkb.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，欧易OKX行情显示，BTC刚刚突破106000美元，现报106015.70美元/枚，日内涨幅 2.18%。",
+          "link": "https://panewslab.com/zh/articledetails/3jku2vkb.html",
+          "publishedOn": "2025-11-10T00:40:00.000Z",
+          "wordCount": null,
+          "title": "BTC突破106000美元，日内涨幅 2.18%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/cf6c152f-a3c2-44f2-b1d6-1f142ed3546f.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据金十报道，消息人士表示，美国参议院民主党党团至少有8票支持通过协商达成协议以结束政府停摆，已确保足够的民主党票数通过结束政府停摆的法案。",
+          "link": "https://panewslab.com/zh/articledetails/cf6c152f-a3c2-44f2-b1d6-1f142ed3546f.html",
+          "publishedOn": "2025-11-10T00:39:23.000Z",
+          "wordCount": null,
+          "title": "消息人士：参议院已获得足够多民主党议员的支持票，以通过结束政府停摆的法案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/263c7dc9-d223-4322-a797-2bef44671698.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据链上分析师@ai_9684xtpa监测，随着ETH今早短时触及3600美元，“1011开空内幕巨鲸”的浮盈已扩大至462万美元。该地址近一周盈利更新为310万美元，总盈利为1.02亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/263c7dc9-d223-4322-a797-2bef44671698.html",
+          "publishedOn": "2025-11-10T00:09:47.000Z",
+          "wordCount": null,
+          "title": "“1011开空内幕巨鲸”的浮盈已扩大至462万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/206e4e82-a644-46ef-9da1-672222179661.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据Cryptobriefing报道，截至目前，富兰克林邓普顿、Bitwise、Canary Capital、21Shares和CoinShares五家机构推出的五只现货XRP ETF已出现在美国存托信托与结算公司 (DTCC) 网站上，包括Franklin XRP Trust (XRPZ)、21Shares XRP ETF (TOXR)、Bitwise XRP ETF (XRP)、Canary XRP ETF (XRPC) 和CoinShares XRP ETF (XRPL)。市场预期它们可能在本月晚些时候在美国上市。",
+          "link": "https://panewslab.com/zh/articledetails/206e4e82-a644-46ef-9da1-672222179661.html",
+          "publishedOn": "2025-11-09T23:35:53.000Z",
+          "wordCount": null,
+          "title": "分析：目前已有五只现货XRP ETF被列入DTCC网站，预计将于本月正式推出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/06bc48bc-8a9f-4dcb-8fa1-6290282133e9.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据The Data Nerd监测，在过去3天内，2个新钱包地址0x630和0x3DA共计提取了18.75万枚LINK（价值约290万美元），平均入场价格约为15.5美元。",
+          "link": "https://panewslab.com/zh/articledetails/06bc48bc-8a9f-4dcb-8fa1-6290282133e9.html",
+          "publishedOn": "2025-11-09T23:23:46.000Z",
+          "wordCount": null,
+          "title": "2个新钱包近3日共提取价值约290万美元的LINK代币",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/80fc0b68-d898-497f-bd68-7ecab4cec249.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据金十引援AXIOS报道，多位消息人士透露，数名美国参议院民主党议员周日表示，他们已准备好推进一揽子法案，以结束政府停摆。这是一个多月以来在两党谈判中最具突破性进展的迹象。多方消息人士表示，预计至少有10名民主党参议员将支持一项程序性动议，以推进包括一揽子支出法案和一项短期拨款措施（使联邦政府运营至明年1月底）的方案。该协议包括，在12月对民主党提出的延长《平价医疗法案》（ACA）税收抵免一年的事项进行投票，还可能包含帮助因政府停摆而被裁员的联邦雇员的相关条款。参议员们周末罕见地留在华盛顿开会，预计将在周日就政府拨款方案的程序性动议进行投票。",
+          "link": "https://panewslab.com/zh/articledetails/80fc0b68-d898-497f-bd68-7ecab4cec249.html",
+          "publishedOn": "2025-11-09T23:16:18.000Z",
+          "wordCount": null,
+          "title": "美参议院民主党人推动拨款方案，以结束政府停摆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/30f6e084-204b-4fb2-91d1-9cb19790810e.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据彭博社报道，知情人士透露，Rumble Inc.正全力推进以全股票交易收购德国数据中心公司Northern Data AG的计划，对目标公司的估值低于其8.94亿美元的市值。这两家均获稳定币发行方Tether支持的企业，有望在未来几天内宣布这一协议。若交易成功，将助力Rumble成为云计算服务提供商。\n据悉，与最初方案相比，Northern Data股东获得的股权比例将更低。Rumble正考虑降低换股比例，拟以1股Northern Data股票换取约2股Rumble股票，低于8月提出的2.319股。作为交易的一部分，Tether将放弃其向Northern Data提供的5.75亿欧元贷款中的大部分，并可能承担其的潜在税务责任，还可能为其提供电力供应承诺。该交易原计划创建一个市值约45亿美元的合并实体，Northern Data股东将持有Rumble三分之一的股份，但受近期股价大跌影响，按当前价格计算，新实体市值将降至29亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/30f6e084-204b-4fb2-91d1-9cb19790810e.html",
+          "publishedOn": "2025-11-09T23:12:31.000Z",
+          "wordCount": null,
+          "title": "知情人士：Tether支持的Rumble与Northern Data已接近达成合并协议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/2788d703-b16d-4121-b6b8-f1951dd39983.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据金融时报报道，硬件钱包制造商Ledger正准备筹集更多资金，很可能是在明年。Ledger首席执行官Pascal Gauthier表示，该公司正考虑在纽约进行IPO或进行一轮私募融资，并正积极拓展在纽约的业务。\n据报道，在筹集资金计划出台之际，Ledger正迎来迄今为止业绩最佳的一年，2025年迄今为止，公司营收已达数亿美元。该公司此前在2023年从10T Holdings和新加坡True Global Ventures等投资者处筹集资金后，公司估值达15亿美元。",
+          "link": "https://panewslab.com/zh/articledetails/2788d703-b16d-4121-b6b8-f1951dd39983.html",
+          "publishedOn": "2025-11-09T23:02:46.000Z",
+          "wordCount": null,
+          "title": "金融时报：Ledger正考虑在纽约进行IPO或筹集资金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1lu2r3bk.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，欧易OKX行情显示，ETH刚刚突破3600美元，现报3608.44美元/枚，日内涨幅 2.65%。",
+          "link": "https://panewslab.com/zh/articledetails/1lu2r3bk.html",
+          "publishedOn": "2025-11-09T23:01:50.000Z",
+          "wordCount": null,
+          "title": "ETH突破3600美元，日内涨幅 2.65%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/faa7ca8b-d43c-4e03-a4b1-31d6cd359803.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，据The Block报道，美国商品期货交易委员会（CFTC）代理主席Caroline Pham证实，该机构正与受监管的交易所直接洽谈涵盖杠杆的现货加密货币交易产品，最早将于下个月推出。Pham已与CFTC监管下的指定合约市场交易所进行了会谈，包括CME、Cboe Futures Exchange和ICE Futures，以及Coinbase Derivatives、Kalshi和Polymarket US，洽谈推出涉及保证金、杠杆和融资的现货加密货币交易产品。\nPham没有等待国会行动以明确授予CFTC对现货加密市场的监管权，而是利用《商品交易法》的现有条款，该条款要求涉及杠杆、保证金或融资的商品零售交易必须在受监管的交易所进行。特朗普已提名美SEC官员Mike Selig接替Pham，但由于政府停摆，Selig何时能获得参议院确认尚不清楚。据悉，Pham预计在被接替后将加入MoonPay。",
+          "link": "https://panewslab.com/zh/articledetails/faa7ca8b-d43c-4e03-a4b1-31d6cd359803.html",
+          "publishedOn": "2025-11-09T23:01:19.000Z",
+          "wordCount": null,
+          "title": "美CFTC代理主席确认将推动在受监管交易所推出涵盖杠杆的现货加密货币交易",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/7vol2e4o.html",
+          "author": "PA一线",
+          "description": "PANews 11月10日消息，欧易OKX行情显示，BTC刚刚突破105000美元，现报105019.90美元/枚，日内涨幅 1.22%。",
+          "link": "https://panewslab.com/zh/articledetails/7vol2e4o.html",
+          "publishedOn": "2025-11-09T20:05:40.000Z",
+          "wordCount": null,
+          "title": "BTC突破105000美元，日内涨幅 1.22%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panewslab.com/zh/articledetails/1cb5f8f1-bf2f-4018-b903-b63d00af2b17.html",
+          "author": "PA一线",
+          "description": "PANews 11月9日消息，Liquid Capital 创始人易理华在 X 平台发文表示：“本轮 ETH 我们看 7000 美元，没有什么比中期选举更重要，也没有什么比发钱更有利于中期选举，回想 2020 年大牛市，核心驱动力也是全民发钱，最近的投研数据都是利好预期，加上市场空头已经拉满，已经万事俱备开启新一轮牛市，只需要耐心等待尽量不碰合约，现货波动足够大了。其实从 4 月开始 ETH 行情以来，也就几个月时间，巴菲特说，没有人愿意慢慢变富，因为人类存在急于求成的基因本能，需要努力克服这些人性弱点。”",
+          "link": "https://panewslab.com/zh/articledetails/1cb5f8f1-bf2f-4018-b903-b63d00af2b17.html",
+          "publishedOn": "2025-11-09T16:00:25.000Z",
+          "wordCount": null,
+          "title": "易理华：本轮ETH看7000美元，最近投研数据都是利好预期",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "白话区块链 - 快讯",
       "feedUrl": "https://rsshub.app/hellobtc/news",
       "siteUrl": "https://www.hellobtc.com/news",
       "articles": [
+        {
+          "id": "https://www.hellobtc.com/news/202511/24448.html",
+          "author": null,
+          "description": "1.国家计算机病毒应急处理中心发布陈志近5年前被盗12.7万枚比特币事件报告：国家级黑客组织操盘;\n\n2.Polymarket上11日前美国政府结束关门的概率从低位暴涨至66%;\n\n3.Ethereum网络Gas费跌至0.067 Gwei低位;\n\n4.Polymarket上预测美联储12月降息25个基点概率为73%，而CME预测概率为66.9%;\n\n5.CZ回应销毁Meme币：只是清理一下钱包，捐赠地址只保留BNB;\n\n6.美CFTC拟允许稳定币作为代币化抵押品;\n\n7.特朗普重申总统有权决定是否征收关税;\n\n8.FTX第四轮偿付预计2026年1月，分发资格截止确认日期或为12月;\n\n9.美CFTC代理主席确认将推动在受监管交易所推出涵盖杠杆的现货加密货币交易;\n\n10.数据：LINEA、APT、AVAX等代币将于这周迎来大额解锁，其中LINEA解锁价值约3440万美元。",
+          "link": "https://www.hellobtc.com/news/202511/24448.html",
+          "publishedOn": "2025-11-10T01:00:00.000Z",
+          "wordCount": null,
+          "title": "白话区块链早报：国家计算机病毒应急处理中心发布陈志近5年前被盗12.7万枚比特币事件报告显示为国家级黑客组织操盘",
+          "imageUrl": null
+        },
         {
           "id": "https://www.hellobtc.com/news/202511/24447.html",
           "author": null,
@@ -93,16 +300,6 @@
           "publishedOn": "2025-11-01T00:58:00.000Z",
           "wordCount": null,
           "title": "白话区块链早报：美联储12月降息概率降至约50%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.hellobtc.com/news/202510/24438.html",
-          "author": null,
-          "description": "1.10月比特币现货交易量达3000亿美元，币安占比58%;\n\n2.摩根大通：USDC在链上活动和市场资本化增长上超越USDT;\n\n3.以太坊于今日凌晨一度跌破3700美元;\n\n4.摩根大通已在其自有区块链上推出一支代币化私募股权基金;\n\n5.Bernstein给予SharpLink“跑赢大盘”评级并看涨75%;\n\n6.Strategy第三季度净利降至28亿美元，比特币持仓增速放缓;\n\n7.Garden Finance疑遭攻击，损失超550万美元;\n\n8.Coinbase Q3财报：净利润4.33亿美元，总营收19亿美元，增持2.99亿美元比特币;\n\n9.以太坊下一次大型升级Fusaka定于12月3日上线。",
-          "link": "https://www.hellobtc.com/news/202510/24438.html",
-          "publishedOn": "2025-10-31T01:01:00.000Z",
-          "wordCount": null,
-          "title": "白话区块链早报：10月比特币现货交易量达3000亿美元，币安占比58%",
           "imageUrl": null
         }
       ]
